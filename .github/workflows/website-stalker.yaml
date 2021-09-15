@@ -1,0 +1,20 @@
+---
+name: Run website-stalker
+
+on:  # yamllint disable-line rule:truthy
+  schedule:
+    - cron: '0 2 * * *'
+
+jobs:
+  website-stalker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run website-stalker
+        uses: docker://ghcr.io/edjopato/website-stalker:latest
+        with:
+          args: run --all --commit
+
+      - if: always()
+        run: git push
