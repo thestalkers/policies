@@ -5,7 +5,6 @@ Site policy - GitHub Docs
 [Site policy](/en/github/site-policy)
 
 # Site policy
-
 - [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)
 - [GitHub Corporate Terms of Service](/en/github/site-policy/github-corporate-terms-of-service)
 - [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
