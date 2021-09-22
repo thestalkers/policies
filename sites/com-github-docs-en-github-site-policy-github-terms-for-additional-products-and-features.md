@@ -42,7 +42,7 @@ users may have access to the following Additional Products and Features: Actions
 **GitHub AE**
 users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, Octoshift, Packages and Pages.
 
-## [Actions](#actions)
+## Actions
 
 GitHub Actions enables you to create custom software development lifecycle workflows directly in your GitHub repository. Actions is billed on a usage basis. The
 [Actions documentation](/en/actions)
@@ -64,7 +64,7 @@ Actions and any elements of the Actions product or service may not be used in vi
 
 In order to prevent violations of these limitations and abuse of GitHub Actions, GitHub may monitor your use of GitHub Actions. Misuse of GitHub Actions may result in termination of jobs, restrictions in your ability to use GitHub Actions, or the disabling of repositories created to run Actions in a way that violates these Terms.
 
-## [Advanced Security](#advanced-security)
+## Advanced Security
 
 GitHub makes extra security features available to customers under an Advanced Security license. These features include code scanning, secret scanning, and dependency review. The
 [Advanced Security documentation](/en/github/getting-started-with-github/about-github-advanced-security)
@@ -72,7 +72,7 @@ provides more details.
 
 Advanced Security is licensed on a "Unique Committer" basis. A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a code commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. You must acquire a GitHub Advanced Security User license for each of your Unique Committers. You may only use GitHub Advanced Security on codebases that are developed by or for you. For GitHub Enterprise Cloud users, some Advanced Security features also require the use of GitHub Actions.
 
-## [Advisory Database](#advisory-database)
+## Advisory Database
 
 The GitHub Advisory Database allows you to browse or search for vulnerabilities that affect open source projects on GitHub.
 
@@ -94,7 +94,7 @@ or to individual GitHub Advisory Database records used, prefixed by
 [https://github.com/advisories](https://github.com/advisories)
 .
 
-## [Codespaces](#codespaces)
+## Codespaces
 
 *Note: The github.dev service, available by pressing*
 *.*
@@ -120,13 +120,13 @@ The generally available version of Codespaces is not currently available for U.S
 [Beta Preview terms](/en/github/site-policy/github-terms-of-service#j-beta-previews)
 .
 
-## [Connect](#connect)
+## Connect
 
 With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server. Your use of GitHub Enterprise Cloud or GitHub.com through Connect is governed by the terms under which you license GitHub Enterprise Cloud or GitHub.com. Use of Personal Data is governed by the
 [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
 .
 
-## [Learning Lab](#learning-lab)
+## Learning Lab
 
 GitHub Learning Lab offers free interactive courses that are built into GitHub with instant automated feedback and help.
 
@@ -143,7 +143,7 @@ Use of Personal Data is governed by the
 [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
 .
 
-## [npm](#npm)
+## npm
 
 npm is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. npm is the registry of record for the JavaScript ecosystem. The npm public registry is free to use but customers are billed if they want to publish private packages or manage private packages using teams. The
 [npm documentation](https://docs.npmjs.com/)
@@ -161,11 +161,11 @@ plans. The npm
 [Terms of Use](https://www.npmjs.com/policies/terms)
 apply to your use of npm.
 
-## [Octoshift](#octoshift)
+## Octoshift
 
 Octoshift is a framework for exporting data from other sources to be imported to the GitHub platform. Octoshift is provided “AS-IS”.
 
-## [Packages](#packages)
+## Packages
 
 GitHub Packages is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. GitHub Packages is billed on a usage basis. The
 [Packages documentation](/en/packages/learn-github-packages/introduction-to-github-packages)
@@ -173,7 +173,7 @@ includes details, including bandwidth and storage quantities (depending on your 
 [GitHub Acceptable Use Polices](/en/github/site-policy/github-acceptable-use-policies)
 .
 
-## [Pages](#pages)
+## Pages
 
 Each Account comes with access to the
 [GitHub Pages static hosting service](/en/github/working-with-github-pages/about-github-pages)
@@ -181,13 +181,13 @@ Each Account comes with access to the
 
 GitHub Pages is not intended for or allowed to be used as a free web hosting service to run your online business, e-commerce site, or any other website that is primarily directed at either facilitating commercial transactions or providing commercial software as a service (SaaS). Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links.
 
-### [a. Bandwidth and Usage Limits](#a-bandwidth-and-usage-limits)
+### a. Bandwidth and Usage Limits
 
 GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our
 [GitHub Pages guidelines](/en/github/working-with-github-pages/about-github-pages)
 for more information.
 
-### [b. Prohibited Uses](#b-prohibited-uses)
+### b. Prohibited Uses
 
 Prohibited uses of GitHub Pages include
 
@@ -208,12 +208,12 @@ If you have questions about whether your use or intended use falls into these ca
 [GitHub Support](https://support.github.com/contact?tags=docs-policy)
 . GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
 
-## [Sponsors Program](#sponsors-program)
+## Sponsors Program
 
 GitHub Sponsors allows the developer community to financially support the people and organizations who design, build, and maintain the open source projects they depend on, directly on GitHub. In order to become a Sponsored Developer, you must agree to the
 [GitHub Sponsors Program Additional Terms](/en/github/site-policy/github-sponsors-additional-terms)
 .
 
-## [SQL Server Images](#sql-server-images)
+## SQL Server Images
 
 You may download Microsoft SQL Server Standard Edition container image for Linux files ("SQL Server Images"). You must uninstall the SQL Server Images when your right to use the Software ends. Microsoft Corporation may disable SQL Server Images at any time.

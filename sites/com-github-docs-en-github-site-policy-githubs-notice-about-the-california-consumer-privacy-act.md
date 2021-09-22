@@ -22,7 +22,7 @@ GitHub's Notice about the California Consumer Privacy Act - GitHub Docs
 
 Effective January 1, 2020
 
-## [GitHub's Notice to California Residents](#githubs-notice-to-california-residents)
+## GitHub's Notice to California Residents
 
 The
 [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375)
@@ -30,7 +30,7 @@ of 2018, (Cal. Civ. Code §1798.100 et seq., as amended, “CCPA”) gives Calif
 [Privacy Statement](/en/github/site-policy/github-privacy-statement)
 .
 
-## [We do not sell your personal information](#we-do-not-sell-your-personal-information)
+## We do not sell your personal information
 
 Under the CCPA, a business that sells California residents' personal information to others: 1) must give notice to California residents before selling their personal information to others; and 2) must provide the right to opt out of the sale of their personal information.
 
@@ -38,7 +38,7 @@ GitHub
 *does not*
 sell personal information, including personal information of anyone under 16 years old. Thus, these notification and opt-out requirements do not apply to GitHub.
 
-## [Your rights under the CCPA](#your-rights-under-the-ccpa)
+## Your rights under the CCPA
 
 The CCPA provides California residents with certain rights related to their personal information. To submit a request based on these rights, please contact us via our
 [contact form](https://support.github.com/contact?tags=docs-policy)
@@ -48,7 +48,7 @@ When receiving a request, we will verify that the individual making the request 
 
 With respect to their personal information, California residents may exercise the rights described below.
 
-## [1. Right to know what personal information is being collected, for what purposes and with whom it is shared](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
+## 1. Right to know what personal information is being collected, for what purposes and with whom it is shared
 
 California residents have the right to request from a business disclosure of the categories and specific pieces of personal information it has collected from them in the preceding 12 months, the categories of sources from which such personal information is collected, the business or commercial purpose for collecting or selling such personal information, and the categories of third parties with whom the business shares personal information.
 
@@ -58,17 +58,17 @@ to access and download your data. Learn more
 [here](https://github.blog/2018-12-19-download-your-data/)
 .
 
-## [2. Right to know whether your personal information is sold or disclosed for a business purpose and to whom](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
+## 2. Right to know whether your personal information is sold or disclosed for a business purpose and to whom
 
 California residents have the right to request from a business that sells or discloses personal information for a business purpose separate lists of the categories of personal information collected, sold or disclosed for a business purpose in the preceding 12 months, including the categories of third parties to whom the personal information was sold or disclosed for a business purpose.
 
-## [3. Right to say no to the sale of your personal information](#3-right-to-say-no-to-the-sale-of-your-personal-information)
+## 3. Right to say no to the sale of your personal information
 
 As explained above, the CCPA requires businesses that sell personal information to allow residents the ability to opt out of the selling of their information.
 
 Again, GitHub does not sell personal information.
 
-## [4. Right to non-discrimination of service or price if you exercise your privacy rights](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
+## 4. Right to non-discrimination of service or price if you exercise your privacy rights
 
 The CCPA prohibits businesses from discriminating against a California resident for exercising any of their rights under the CCPA, including by
 
@@ -77,11 +77,11 @@ The CCPA prohibits businesses from discriminating against a California resident 
 - providing a different level or quality of goods or services
 - suggesting that the person exercising their rights will receive a different price or rate for goods or services or a different level or quality of goods or services
 
-## [5. Right to deletion](#5-right-to-deletion)
+## 5. Right to deletion
 
 California residents have the right to request that a business delete any of their personal information that the business collected from them, subject to the exceptions in CCPA §1798.105.
 
-## [Our Handling of Personal Information](#our-handling-of-personal-information)
+## Our Handling of Personal Information
 
 While the table below contains information about the categories of personal information we collect process and share, please see the
 [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
@@ -153,7 +153,7 @@ Performing services on behalf of the business or service provider
 Service providers
 This category of personal information has been disclosed for a business or commercial purpose
 
-## [Exemptions under the CCPA](#exemptions-under-the-ccpa)
+## Exemptions under the CCPA
 
 The CCPA provides exemptions, until and including December 31, 2020, from certain of the above described disclosures pertaining to the last 12 months including a
 **business-to-business exemption**

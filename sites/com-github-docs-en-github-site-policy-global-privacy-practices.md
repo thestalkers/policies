@@ -22,7 +22,7 @@ GitHub also complies with certain legal frameworks relating to the transfer of d
 [European Commission website](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_en)
 .
 
-## [Standard Contractual Clauses](#standard-contractual-clauses)
+## Standard Contractual Clauses
 
 GitHub relies on the European Commission-approved Standard Contractual Clauses (“SCCs”) as a legal mechanism for data transfers from the EU. SCCs are contractual commitments between companies transferring personal data, binding them to protect the privacy and security of such data. GitHub adopted SCCs so that the necessary data flows can be protected when transferred outside the EU to countries which have not been deemed by the European Commission to adequately protect personal data, including protecting data transfers to the United States.
 
@@ -30,7 +30,7 @@ To learn more about SCCs, see this article on the
 [European Commission website](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)
 .
 
-## [Privacy Shield Framework](#privacy-shield-framework)
+## Privacy Shield Framework
 
 GitHub is certified to the EU-US and Swiss-US Privacy Shield Frameworks and the commitments they entail, although GitHub does not rely on the EU-US Privacy Shield Framework as a legal basis for transfers of personal information in light of the judgment of the Court of Justice of the EU in Case C-311/18.
 
@@ -81,7 +81,7 @@ for more information.
 	- We will conduct regular audits of our relevant privacy practices to verify compliance with the promises we have made.
 	- We require our employees to respect our privacy promises, and violation of our privacy policies is subject to disciplinary action up to and including termination of employment.
 
-### [Dispute resolution process](#dispute-resolution-process)
+### Dispute resolution process
 
 As further explained in the
 [Resolving Complaints](/en/github/site-policy/github-privacy-statement#resolving-complaints)
@@ -91,7 +91,7 @@ section of our
 
 Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority.
 
-### [Independent arbitration](#independent-arbitration)
+### Independent arbitration
 
 Under certain limited circumstances, EU, European Economic Area (EEA), Swiss, and UK individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about
 [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction)

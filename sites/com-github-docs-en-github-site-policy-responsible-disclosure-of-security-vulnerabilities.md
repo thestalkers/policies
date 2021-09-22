@@ -10,7 +10,7 @@ Responsible Disclosure of Security Vulnerabilities - GitHub Docs
 
 We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a responsible manner.
 
-## [Bounty Program](#bounty-program)
+## Bounty Program
 
 Like several other large software companies, GitHub provides a bug bounty to better engage with security researchers. The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our responsible disclosure process. Then, to recognize the significant effort that these researchers often put forth when hunting down bugs, we reward them with some cold hard cash.
 

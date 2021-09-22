@@ -24,7 +24,7 @@ Due to the type of content GitHub hosts (mostly software code) and the way that 
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-## [Before You Start](#before-you-start)
+## Before You Start
 
 ***Tell the Truth.***
 The DMCA requires that you swear to the facts in your copyright complaint
@@ -87,7 +87,7 @@ As noted in our
 ***GitHub Isn't The Judge.***
 GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
-## [Your Complaint Must ...](#your-complaint-must-)
+## Your Complaint Must ...
 
 **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Notice."**
 We won't refuse to process an otherwise complete complaint if you don't include this statement. But we'll know that you haven't read these guidelines and may ask you to go back and do so.
@@ -119,7 +119,7 @@ Usually this will be satisfied by providing the GitHub username associated with 
 
 **Include your physical or electronic signature.**
 
-## [Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
+## Complaints about Anti-Circumvention Technology
 
 The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our
 [Copyright claims form](https://github.com/contact/dmca)
@@ -129,7 +129,7 @@ What the technical measures are;
 How they effectively control access to the copyrighted material; and
 How the accused project is designed to circumvent their previously described technological protection measures.
 
-## [How to Submit Your Complaint](#how-to-submit-your-complaint)
+## How to Submit Your Complaint
 
 The fastest way to get a response is to enter your information and answer all the questions on our
 [Copyright claims form](https://github.com/contact/dmca)

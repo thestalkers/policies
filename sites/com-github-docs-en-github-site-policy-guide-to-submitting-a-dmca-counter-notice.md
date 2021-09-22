@@ -23,7 +23,7 @@ If you believe your content on GitHub was mistakenly disabled by a DMCA takedown
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-## [Before You Start](#before-you-start)
+## Before You Start
 
 ***Tell the Truth.***
 The DMCA requires that you swear to your counter notice
@@ -85,7 +85,7 @@ and
 [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance)
 may also be willing to help directly or refer you to a lawyer.
 
-## [Your Counter Notice Must...](#your-counter-notice-must)
+## Your Counter Notice Must...
 
 **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Counter Notice."**
 We won't refuse to process an otherwise complete counter notice if you don't include this statement; however, we will know that you haven't read these guidelines and may ask you to go back and do so.
@@ -103,7 +103,7 @@ You may also choose to communicate the reasons why you believe there was a mista
 
 **Include your physical or electronic signature.**
 
-## [How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
+## How to Submit Your Counter Notice
 
 The fastest way to get a response is to enter your information and answer all the questions on our
 [Copyright claims form](https://github.com/contact/dmca)
