@@ -463,6 +463,8 @@ Signature of GitHub, Inc. appears below.
 
 Signing the Standard Contractual Clauses, Appendix 1 and Appendix 2 on behalf of the data importer
 
+![Screen Shot 2020-07-20 at 2 20 29 PM](/assets/images/help/site-policy/docusign-signature.png)
+
 Lynn Hashimoto, Head of Product &amp; Regulatory Legal
 
 GitHub, Inc.
