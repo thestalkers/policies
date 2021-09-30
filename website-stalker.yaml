@@ -1,6 +1,416 @@
 ---
 from: renr3n@riseup.net
 sites:
+  - url: https://docs.github.com/cn/github/site-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/dmca-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-acceptable-use-policies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-and-trade-controls
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-anti-bribery-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-bug-bounty-program-legal-safe-harbor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-candidate-privacy-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-community-forum-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-community-guidelines
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-corporate-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-deceased-user-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-event-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-event-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-gifts-and-entertainment-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-government-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-gpl-cooperation-commitment
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-insights-and-data-protection-for-your-organization
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-logo-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-marketplace-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-marketplace-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-open-source-applications-terms-and-conditions
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-pre-release-program
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-private-information-removal-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-registered-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-research-program-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-sponsors-additional-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-statement-against-modern-slavery-and-child-labor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-subprocessors-and-cookies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-terms-for-additional-products-and-features
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-trademark-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-username-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/global-privacy-practices
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/guide-to-submitting-a-dmca-counter-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/guidelines-for-legal-requests-of-user-data
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/responsible-disclosure-of-security-vulnerabilities
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/submitting-content-removal-requests
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/en/github/site-policy
     extension: md
     editors:
@@ -392,6 +802,1196 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/en/github/site-policy/submitting-content-removal-requests
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/dmca-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-acceptable-use-policies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-and-trade-controls
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-anti-bribery-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-community-forum-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-community-guidelines
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-corporate-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-deceased-user-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-event-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-event-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-gifts-and-entertainment-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-government-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-gpl-cooperation-commitment
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-insights-and-data-protection-for-your-organization
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-logo-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-marketplace-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-marketplace-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-open-source-applications-terms-and-conditions
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-pre-release-program
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-registered-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-research-program-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-sponsors-additional-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-statement-against-modern-slavery-and-child-labor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-subprocessors-and-cookies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-trademark-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-username-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/global-privacy-practices
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/guide-to-submitting-a-dmca-counter-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/guidelines-for-legal-requests-of-user-data
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/responsible-disclosure-of-security-vulnerabilities
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/submitting-content-removal-requests
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/dmca-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-acceptable-use-policies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-and-trade-controls
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-anti-bribery-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-bug-bounty-program-legal-safe-harbor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-candidate-privacy-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-community-forum-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-community-guidelines
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-corporate-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-deceased-user-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-event-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-event-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-gifts-and-entertainment-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-government-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-gpl-cooperation-commitment
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-insights-and-data-protection-for-your-organization
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-logo-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-marketplace-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-marketplace-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-open-source-applications-terms-and-conditions
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-pre-release-program
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-private-information-removal-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-registered-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-research-program-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-sponsors-additional-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-statement-against-modern-slavery-and-child-labor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-subprocessors-and-cookies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-terms-for-additional-products-and-features
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-trademark-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-username-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/global-privacy-practices
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/guidelines-for-legal-requests-of-user-data
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/responsible-disclosure-of-security-vulnerabilities
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/submitting-content-removal-requests
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/dmca-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-acceptable-use-policies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-and-trade-controls
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-anti-bribery-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-bug-bounty-program-legal-safe-harbor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-candidate-privacy-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-community-forum-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-community-guidelines
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-corporate-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-deceased-user-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-event-code-of-conduct
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-event-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-gifts-and-entertainment-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-government-takedown-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-gpl-cooperation-commitment
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-insights-and-data-protection-for-your-organization
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-logo-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-marketplace-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-marketplace-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-open-source-applications-terms-and-conditions
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-pre-release-program
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-private-information-removal-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-registered-developer-agreement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-research-program-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-sponsors-additional-terms
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-statement-against-modern-slavery-and-child-labor
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-subprocessors-and-cookies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-terms-for-additional-products-and-features
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-trademark-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-username-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/global-privacy-practices
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/guide-to-submitting-a-dmca-counter-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/guidelines-for-legal-requests-of-user-data
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/responsible-disclosure-of-security-vulnerabilities
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/submitting-content-removal-requests
     extension: md
     editors:
       - css_remove: style
