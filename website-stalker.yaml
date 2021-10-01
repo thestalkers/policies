@@ -71,6 +71,16 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
+  - url: https://docs.github.com/cn/github/site-policy/github-codespaces-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/cn/github/site-policy/github-community-forum-code-of-conduct
     extension: md
     editors:
@@ -171,16 +181,6 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/cn/github/site-policy/github-insights-and-data-protection-for-your-organization
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
   - url: https://docs.github.com/cn/github/site-policy/github-logo-policy
     extension: md
     editors:
@@ -212,16 +212,6 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/cn/github/site-policy/github-open-source-applications-terms-and-conditions
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
-  - url: https://docs.github.com/cn/github/site-policy/github-pre-release-program
     extension: md
     editors:
       - css_remove: style
@@ -961,16 +951,6 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/es/github/site-policy/github-insights-and-data-protection-for-your-organization
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-logo-policy
     extension: md
     editors:
@@ -1002,16 +982,6 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-open-source-applications-terms-and-conditions
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
-  - url: https://docs.github.com/es/github/site-policy/github-pre-release-program
     extension: md
     editors:
       - css_remove: style
@@ -1251,6 +1221,16 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
+  - url: https://docs.github.com/ja/github/site-policy/github-codespaces-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/ja/github/site-policy/github-community-forum-code-of-conduct
     extension: md
     editors:
@@ -1351,16 +1331,6 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/ja/github/site-policy/github-insights-and-data-protection-for-your-organization
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
   - url: https://docs.github.com/ja/github/site-policy/github-logo-policy
     extension: md
     editors:
@@ -1392,16 +1362,6 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/ja/github/site-policy/github-open-source-applications-terms-and-conditions
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
-  - url: https://docs.github.com/ja/github/site-policy/github-pre-release-program
     extension: md
     editors:
       - css_remove: style
@@ -1661,6 +1621,16 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
+  - url: https://docs.github.com/pt/github/site-policy/github-codespaces-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/pt/github/site-policy/github-community-forum-code-of-conduct
     extension: md
     editors:
@@ -1761,16 +1731,6 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/pt/github/site-policy/github-insights-and-data-protection-for-your-organization
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
   - url: https://docs.github.com/pt/github/site-policy/github-logo-policy
     extension: md
     editors:
@@ -1802,16 +1762,6 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/pt/github/site-policy/github-open-source-applications-terms-and-conditions
-    extension: md
-    editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
-      - css_remove: '.clearfix'
-      - css_remove: footer
-      - html_markdownify
-  - url: https://docs.github.com/pt/github/site-policy/github-pre-release-program
     extension: md
     editors:
       - css_remove: style
