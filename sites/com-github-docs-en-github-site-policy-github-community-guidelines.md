@@ -6,8 +6,6 @@ GitHub Community Guidelines - GitHub Docs
 /
 [GitHub Community Guidelines](/en/github/site-policy/github-community-guidelines)
 
-# GitHub Community Guidelines
-
 ## [In this article](#in-this-article)
 - [Building a strong community](#building-a-strong-community)
 - [What if something or someone offends you?](#what-if-something-or-someone-offends-you)
@@ -15,6 +13,8 @@ GitHub Community Guidelines - GitHub Docs
 - [What happens if someone breaks the rules?](#what-happens-if-someone-breaks-the-rules)
 - [Appeal and Reinstatement](#appeal-and-reinstatement)
 - [Legal Notices](#legal-notices)
+
+# GitHub Community Guidelines
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 

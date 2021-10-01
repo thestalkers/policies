@@ -6,8 +6,6 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 /
 [Guidelines for Legal Requests of User Data](/en/github/site-policy/guidelines-for-legal-requests-of-user-data)
 
-# Guidelines for Legal Requests of User Data
-
 ## [In this article](#in-this-article)
 - [About these guidelines](#about-these-guidelines)
 - [GitHub terminology](#github-terminology)
@@ -19,6 +17,8 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 - [Submitting requests](#submitting-requests)
 - [Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
 - [Questions](#questions)
+
+# Guidelines for Legal Requests of User Data
 
 Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
 Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.

@@ -6,8 +6,6 @@ GitHub Government Takedown Policy - GitHub Docs
 /
 [GitHub Government Takedown Policy](/en/github/site-policy/github-government-takedown-policy)
 
-# GitHub Government Takedown Policy
-
 ## [In this article](#in-this-article)
 - [What is this?](#what-is-this)
 - [What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
@@ -15,6 +13,8 @@ GitHub Government Takedown Policy - GitHub Docs
 - [Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
 - [What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 - [Transparency reporting](#transparency-reporting)
+
+# GitHub Government Takedown Policy
 
 ## What is this?
 

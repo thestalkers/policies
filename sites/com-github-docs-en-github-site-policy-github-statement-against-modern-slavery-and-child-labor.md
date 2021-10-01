@@ -6,8 +6,6 @@ GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 /
 [GitHub Statement Against Modern Slavery and Child Labor](/en/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
 
-# GitHub Statement Against Modern Slavery and Child Labor
-
 ## [In this article](#in-this-article)
 - [GitHub's structure, business, and supply chains](#githubs-structure-business-and-supply-chains)
 - [Policies in relation to modern slavery and child labor](#policies-in-relation-to-modern-slavery-and-child-labor)
@@ -16,6 +14,8 @@ GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 - [Places in GitHub's business and supply chains where there is a risk of modern slavery and child labor, and steps GitHub has taken to assess and manage that risk](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 - [Effectiveness in ensuring neither modern slavery nor child labor is occurring in GitHub's business or supply chains](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 - [Training for GitHub staff about modern slavery and human trafficking](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+
+# GitHub Statement Against Modern Slavery and Child Labor
 
 *2018 statement*
 

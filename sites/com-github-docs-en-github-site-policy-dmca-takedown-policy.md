@@ -6,8 +6,6 @@ DMCA Takedown Policy - GitHub Docs
 /
 [DMCA Takedown Policy](/en/github/site-policy/dmca-takedown-policy)
 
-# DMCA Takedown Policy
-
 ## [In this article](#in-this-article)
 - [What Is the DMCA?](#what-is-the-dmca)
 - [DMCA Notices In a Nutshell](#dmca-notices-in-a-nutshell)
@@ -19,6 +17,8 @@ DMCA Takedown Policy - GitHub Docs
 - [F. Repeated Infringement](#f-repeated-infringement)
 - [G. Submitting Notices](#g-submitting-notices)
 - [Learn More and Speak Up](#learn-more-and-speak-up)
+
+# DMCA Takedown Policy
 
 Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.
 

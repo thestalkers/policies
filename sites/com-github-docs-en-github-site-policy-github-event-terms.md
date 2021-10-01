@@ -6,8 +6,6 @@ GitHub Event Terms - GitHub Docs
 /
 [GitHub Event Terms](/en/github/site-policy/github-event-terms)
 
-# GitHub Event Terms
-
 ## [In this article](#in-this-article)
 - [1. Basic requirements to attend - including the](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 [Event Code of Conduct](/en/articles/github-event-code-of-conduct)
@@ -16,6 +14,8 @@ GitHub Event Terms - GitHub Docs
 - [4. Termination](#4-termination)
 - [5. Choice of law and venue](#5-choice-of-law-and-venue)
 - [6. Miscellaneous terms](#6-miscellaneous-terms)
+
+# GitHub Event Terms
 
 By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you signal that you have read, understand, and agree to the following Event Terms and Conditions.
 

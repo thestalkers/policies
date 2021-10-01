@@ -6,8 +6,6 @@ GitHub Terms of Service - GitHub Docs
 /
 [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)
 
-# GitHub Terms of Service
-
 ## [In this article](#in-this-article)
 - [Summary](#summary)
 - [The GitHub Terms of Service](#the-github-terms-of-service)
@@ -29,6 +27,8 @@ GitHub Terms of Service - GitHub Docs
 - [P. Release and Indemnification](#p-release-and-indemnification)
 - [Q. Changes to These Terms](#q-changes-to-these-terms)
 - [R. Miscellaneous](#r-miscellaneous)
+
+# GitHub Terms of Service
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 

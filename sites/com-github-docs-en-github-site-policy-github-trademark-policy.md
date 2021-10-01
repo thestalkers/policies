@@ -6,14 +6,14 @@ GitHub Trademark Policy - GitHub Docs
 /
 [GitHub Trademark Policy](/en/github/site-policy/github-trademark-policy)
 
-# GitHub Trademark Policy
-
 ## [In this article](#in-this-article)
 - [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
 - [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
 - [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
 - [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
 - [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
+
+# GitHub Trademark Policy
 
 ## What is a GitHub Trademark Policy Violation?
 

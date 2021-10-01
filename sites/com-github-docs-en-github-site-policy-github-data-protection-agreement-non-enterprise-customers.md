@@ -6,12 +6,12 @@ GitHub Data Protection Agreement (Non-Enterprise Customers) - GitHub Docs
 /
 [GitHub Data Protection Agreement (Non-Enterprise Customers)](/en/github/site-policy/github-data-protection-agreement-non-enterprise-customers)
 
-# GitHub Data Protection Agreement (Non-Enterprise Customers)
-
 ## [In this article](#in-this-article)
 - [INTRODUCTION](#introduction)
 - [GITHUB DATA PROTECTION](#github-data-protection)
 - [Attachment 1 – The Standard Contractual Clauses (Processors)](#attachment-1--the-standard-contractual-clauses-processors)
+
+# GitHub Data Protection Agreement (Non-Enterprise Customers)
 
 *These terms apply to non-enterprise customers. They also apply to enterprise customers who licensed GitHub offerings prior to January 4, 2021. Enterprise customers who purchase GitHub offerings after that date are directed to*
 *[https://www.github.com/enterprise-legal](https://www.github.com/enterprise-legal)*
