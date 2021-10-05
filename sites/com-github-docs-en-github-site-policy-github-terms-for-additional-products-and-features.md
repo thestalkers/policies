@@ -40,7 +40,7 @@ users may have access to the following Additional Products and Features: Actions
 
 -
 **GitHub AE**
-users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, Octoshift, Packages and Pages.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database,Dependabot Preview, Octoshift, Packages and Pages.
 
 ## Actions
 
@@ -70,7 +70,7 @@ GitHub makes extra security features available to customers under an Advanced Se
 [Advanced Security documentation](/en/github/getting-started-with-github/about-github-advanced-security)
 provides more details.
 
-Advanced Security is licensed on a "Unique Committer" basis. A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a code commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. You must acquire a GitHub Advanced Security User license for each of your Unique Committers. You may only use GitHub Advanced Security on codebases that are developed by or for you. For GitHub Enterprise Cloud users, some Advanced Security features also require the use of GitHub Actions.
+Advanced Security is licensed on a "Unique Committer" basis. A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. You must acquire a GitHub Advanced Security User license for each of your Unique Committers. You may only use GitHub Advanced Security on codebases that are developed by or for you. For GitHub Enterprise Cloud users, some Advanced Security features also require the use of GitHub Actions.
 
 ## Advisory Database
 
