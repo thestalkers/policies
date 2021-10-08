@@ -13,8 +13,8 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 ## [Neste artigo](#in-this-article)
 - [INTRODUÇÃO](#introduction)
-- [PROTEÇÃO DE DADOS DO GITHUB](#github-data-protection)
-- [Anexo 1 – Cláusulas Contratuais Padrão (Processadores)](#attachment-1--the-standard-contractual-clauses-processors)
+- [PROTEÇÃO DE DADOS DO GITHUB](#applicable-dpa-terms-and-updates)
+- [Anexo 1 – Cláusulas Contratuais Padrão (Processadores)](#a-list-of-parties)
 
 # Contrato de Proteção de Dados do GitHub (Clientes não corporativos)
 

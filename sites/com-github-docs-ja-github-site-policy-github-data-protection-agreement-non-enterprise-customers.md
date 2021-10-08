@@ -13,8 +13,8 @@ GitHubデータ保護契約 (Enterprise以外のお客様) - GitHub Docs
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [はじめに](#introduction)
-- [GitHubデータ保護](#github-data-protection)
-- [添付1 – 標準契約条項 (プロセッサー)](#attachment-1--the-standard-contractual-clauses-processors)
+- [GitHubデータ保護](#applicable-dpa-terms-and-updates)
+- [添付1 – 標準契約条項 (プロセッサー)](#a-list-of-parties)
 
 # GitHubデータ保護契約 (Enterprise以外のお客様)
 

@@ -8,7 +8,7 @@ Site policy - GitHub Docs
 - [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)
 - [GitHub Corporate Terms of Service](/en/github/site-policy/github-corporate-terms-of-service)
 - [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
-- [GitHub Data Protection Agreement (Non-Enterprise Customers)](/en/github/site-policy/github-data-protection-agreement-non-enterprise-customers)
+- [GitHub Data Protection Agreement](/en/github/site-policy/github-data-protection-agreement)
 - [Global Privacy Practices](/en/github/site-policy/global-privacy-practices)
 - [GitHub Sponsors Additional Terms](/en/github/site-policy/github-sponsors-additional-terms)
 - [GitHub Codespaces Privacy Statement](/en/github/site-policy/github-codespaces-privacy-statement)

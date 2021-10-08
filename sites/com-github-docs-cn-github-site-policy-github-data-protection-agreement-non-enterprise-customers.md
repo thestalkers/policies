@@ -13,8 +13,8 @@ GitHub 数据保护协议（非企业客户） - GitHub Docs
 
 ## [本文内容](#in-this-article)
 - [简介](#introduction)
-- [GITHUB 数据保护](#github-data-protection)
-- [附件 1 - 标准合同条款 (处理方)](#attachment-1--the-standard-contractual-clauses-processors)
+- [GITHUB 数据保护](#applicable-dpa-terms-and-updates)
+- [附件 1 - 标准合同条款 (处理方)](#a-list-of-parties)
 
 # GitHub 数据保护协议（非企业客户）
 
