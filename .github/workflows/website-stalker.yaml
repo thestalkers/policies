@@ -3,7 +3,7 @@ name: Run website-stalker
 
 on:  # yamllint disable-line rule:truthy
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 22 * * *'
 
 jobs:
   website-stalker:
