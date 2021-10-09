@@ -111,7 +111,7 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/cn/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+  - url: https://docs.github.com/cn/github/site-policy/github-data-protection-agreement
     extension: md
     editors:
       - css_remove: style
@@ -511,7 +511,7 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/en/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+  - url: https://docs.github.com/en/github/site-policy/github-data-protection-agreement
     extension: md
     editors:
       - css_remove: style
@@ -1261,7 +1261,7 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/ja/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+  - url: https://docs.github.com/ja/github/site-policy/github-data-protection-agreement
     extension: md
     editors:
       - css_remove: style
@@ -1661,7 +1661,7 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
-  - url: https://docs.github.com/pt/github/site-policy/github-data-protection-agreement-non-enterprise-customers
+  - url: https://docs.github.com/pt/github/site-policy/github-data-protection-agreement
     extension: md
     editors:
       - css_remove: style
