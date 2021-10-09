@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 
@@ -13,10 +13,10 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Termos de serviço do GitHub](/pt/github/site-policy/github-terms-of-service)
 - [Termos de Serviço Corporativos do GitHub](/pt/github/site-policy/github-corporate-terms-of-service)
 - [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement)
-- [Contrato de Proteção de Dados do GitHub (Clientes não corporativos)](/pt/github/site-policy/github-data-protection-agreement-non-enterprise-customers)
+- [GitHub Data Protection Agreement](/pt/github/site-policy/github-data-protection-agreement)
 - [Práticas de privacidade global](/pt/github/site-policy/global-privacy-practices)
 - [Termos Adicionais do GitHub Sponsors](/pt/github/site-policy/github-sponsors-additional-terms)
-- [GitHub Codespaces Privacy Statement](/pt/github/site-policy/github-codespaces-privacy-statement)
+- [Declaração de Privacidade do GitHub Codespaces](/pt/github/site-policy/github-codespaces-privacy-statement)
 - [Termos do GitHub para Produtos e Funcionalidades Adicionais](/pt/github/site-policy/github-terms-for-additional-products-and-features)
 - [Política de logo do GitHub](/pt/github/site-policy/github-logo-policy)
 - [Política de nome de usuário do GitHub](/pt/github/site-policy/github-username-policy)

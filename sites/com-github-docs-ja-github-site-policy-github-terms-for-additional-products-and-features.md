@@ -45,7 +45,7 @@ GitHub を利用する際、数多くの追加製品や機能 (「追加製品�
 
 -
 **GitHub AE**
-のユーザは、以下の「追加製品および機能」にアクセスできます。Actions、Advanced Security、Advisory Database、Dependabot Preview、Octoshift、Packages and Pages。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database,Dependabot Preview, Octoshift, Packages and Pages.
 
 ## アクション
 
@@ -75,7 +75,7 @@ Advanced Security ライセンスを取得しているお客様に対して、Gi
 [Advanced Security のドキュメント](/ja/github/getting-started-with-github/about-github-advanced-security)
 をご覧ください。
 
-Advanced Security のライセンスは、「ユニークコミッター」ごとに付与されます。 「ユニークコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server、またはGitHub AEのライセンスを付与されており、直近90日間にGitHub Advanced Securityの何らかの機能を有効化してコードのコミットを行ったユーザのことです。 お客様の各「ユニークコミッター」ごとに、GitHub Advanced Securityの「ユーザライセンス」を取得する必要があります。 GitHub Advanced Securityは、お客様によりまたはお客様のために開発されたコードベースにおいてのみ使用できます。 GitHub Enterprise Cloud ユーザの場合、一部のAdvanced Securityセキュリティ機能にはGitHub Actionsを使用する必要もあります。
+Advanced Security のライセンスは、「ユニークコミッター」ごとに付与されます。 A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. お客様の各「ユニークコミッター」ごとに、GitHub Advanced Securityの「ユーザライセンス」を取得する必要があります。 GitHub Advanced Securityは、お客様によりまたはお客様のために開発されたコードベースにおいてのみ使用できます。 GitHub Enterprise Cloud ユーザの場合、一部のAdvanced Securityセキュリティ機能にはGitHub Actionsを使用する必要もあります。
 
 ## Advisory Database
 

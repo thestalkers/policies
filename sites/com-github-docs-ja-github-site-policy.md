@@ -13,7 +13,7 @@
 - [GitHub利用規約](/ja/github/site-policy/github-terms-of-service)
 - [GitHub企業向け利用規約](/ja/github/site-policy/github-corporate-terms-of-service)
 - [GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)
-- [GitHubデータ保護契約 (Enterprise以外のお客様)](/ja/github/site-policy/github-data-protection-agreement-non-enterprise-customers)
+- [GitHub Data Protection Agreement](/ja/github/site-policy/github-data-protection-agreement)
 - [プライバシーのグローバルプラクティス](/ja/github/site-policy/global-privacy-practices)
 - [GitHub Sponsors に関する追加条項](/ja/github/site-policy/github-sponsors-additional-terms)
 - [GitHub Codespaces Privacy Statement](/ja/github/site-policy/github-codespaces-privacy-statement)

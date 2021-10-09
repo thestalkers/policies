@@ -13,7 +13,7 @@
 - [GitHub 服务条款](/cn/github/site-policy/github-terms-of-service)
 - [GitHub 公司服务条款](/cn/github/site-policy/github-corporate-terms-of-service)
 - [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)
-- [GitHub 数据保护协议（非企业客户）](/cn/github/site-policy/github-data-protection-agreement-non-enterprise-customers)
+- [GitHub Data Protection Agreement](/cn/github/site-policy/github-data-protection-agreement)
 - [全球隐私实践](/cn/github/site-policy/global-privacy-practices)
 - [GitHub 赞助附加条款](/cn/github/site-policy/github-sponsors-additional-terms)
 - [GitHub Codespaces Privacy Statement](/cn/github/site-policy/github-codespaces-privacy-statement)

@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /
@@ -35,7 +35,7 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 **ESTES TERMOS E CONDIÇÕES (O "CONTRATO") REGEM SUA PARTICIPAÇÃO NO PROGRAMA DO GITHUB MARKETPLACE. AO SE INSCREVER PARA PARTICIPAR DO PROGRAMA DE MARKETPLACE OU AO CLICAR EM "ACEITO" ABAIXO, VOCÊ ESTÁ CONFIRMANDO QUE ENTENDE ESTE ACORDO E QUE ACEITA TODOS OS SEUS TERMOS E CONDIÇÕES.  SE VOCÊ ESTÁ FIRMANDO ESTE CONTRATO EM NOME DE UMA EMPRESA OU OUTRA ENTIDADE LEGAL, VOCÊ CONFIRMA QUE POSSUI A AUTORIZAÇÃO LEGAL PARA VINCULAR A ENTIDADE A ESTE CONTRATO, NO QUAL "VOCÊ" REPRESENTARÁ A ENTIDADE QUE VOCÊ REPRESENTA.**
 
-Effective Date: August 24, 2021
+Data de entrada em vigor: 24 de agosto de 2021
 
 ## 1.   DEFINIÇÕES
 

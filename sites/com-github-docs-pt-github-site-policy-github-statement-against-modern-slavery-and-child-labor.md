@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /

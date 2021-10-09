@@ -45,7 +45,7 @@ Version Effective Date: August 10, 2021
 
 -
 **GitHub AE**
-用户可以访问以下附加产品和特性：Actions、Advanced Security、Advisory Database、Dependabot Preview、Octoshift、Packages 和 Pages。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database,Dependabot Preview, Octoshift, Packages and Pages.
 
 ## 操作
 
@@ -75,7 +75,7 @@ GitHub 根据高级安全许可证向客户提供额外的安全功能。 这些
 [Advanced Security 文档](/cn/github/getting-started-with-github/about-github-advanced-security)
 提供更多详细信息。
 
-Advanced Security 按“唯一提交者”许可。 “唯一提交者”是 GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server 或 GitHub AE 的许可用户，他们在过去 90 天内向激活了 GitHub Advanced Security 功能的任意仓库提交过代码。 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能在由您开发或为您开发的代码库上使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些高级安全功能也需要使用 GitHub Actions。
+Advanced Security 按“唯一提交者”许可。 A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能在由您开发或为您开发的代码库上使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些高级安全功能也需要使用 GitHub Actions。
 
 ## Advisory Database
 

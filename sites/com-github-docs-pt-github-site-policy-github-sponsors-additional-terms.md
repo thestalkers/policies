@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /
@@ -121,7 +121,7 @@ O GitHub reserva-se o direito de reter o dinheiro ou cancelar o Fundo Correspond
 
 #### 2.2.2. Período de correspondência.
 
-The matching period begins after GitHub accepts an individual Sponsored Developer Account into GitHub Sponsors. Para cada Conta de Desenvolvedor Patrocinado individual qualificada para o Fundo Correspondentes para Patrocinadores do GitHub, o GitHub pode igualar o patrocínio da comunidade até US$ 5.000 no total durante os primeiros 12 meses da Conta de Desenvolvedor Patrocinado no Programa. O período de correspondência não pode ser prorrogado por nenhum motivo. Durante o período de correspondência, o GitHub não cobrará nenhuma taxa, então 100% dos patrocínios irão para o desenvolvedor patrocinado. No futuro, poderemos cobrar uma taxa nominal de processamento.
+O período correspondente começa depois que o GitHub aceita uma conta de desenvolvedor patrocinada individual no GitHub Sponsors. Para cada Conta de Desenvolvedor Patrocinado individual qualificada para o Fundo Correspondentes para Patrocinadores do GitHub, o GitHub pode igualar o patrocínio da comunidade até US$ 5.000 no total durante os primeiros 12 meses da Conta de Desenvolvedor Patrocinado no Programa. O período de correspondência não pode ser prorrogado por nenhum motivo. Durante o período de correspondência, o GitHub não cobrará nenhuma taxa, então 100% dos patrocínios irão para o desenvolvedor patrocinado. No futuro, poderemos cobrar uma taxa nominal de processamento.
 
 -
 Se uma Assinatura de Patrocínio ou Patrocínio forem interrompidos por qualquer motivo, a correspondência associada também se interrompe. Os fundos que são cobrados de volta ao Patrocinador antes da data de pagamento do Desenvolvedor Patrocinado não são qualificados para correspondência.

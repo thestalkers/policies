@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /
@@ -154,9 +154,9 @@ Você é responsável por manter sua Conta segura enquanto usa nosso Serviço. N
 
 - Você é responsável por todos os conteúdos postados e atividades que ocorrem em sua Conta (mesmo quando o conteúdo é postado por outros que têm Contas em sua Conta).
 - Você é responsável por manter a segurança de sua Conta e senha. O GitHub não pode e não será responsabilizado por qualquer perda ou dano causado por sua falha em cumprir com esta obrigação de segurança.
-- You will promptly
-[notify GitHub](https://support.github.com/contact?tags=docs-policy)
-if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
+- Você irá rapidamente
+[notificar o GitHub](https://support.github.com/contact?tags=docs-policy)
+se estiver ciente de qualquer uso não autorizado de, ou acesso a, nosso Serviço através de sua Conta, incluindo qualquer uso não autorizado de sua senha ou Conta.
 
 ### 5. Termos adicionais
 
@@ -328,8 +328,9 @@ Alguns recursos do Serviço podem estar sujeitos a termos adicionais específico
 
 ## J. Visualizações Beta
 
-**Short version:**
-*Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta Previews better.*
+**Versão curta:**
+Pré-visualizações Beta de
+*podem não ser compatíveis ou podem ser alteradas a qualquer momento. Você pode receber informações confidenciais por meio dos programas que devem permanecer confidenciais enquanto o programa for privado. Adoraríamos ouvir seu feedback para pode melhorar as nossas visualizações beta.*
 
 ### 1. Sujeito a alterações
 
@@ -392,8 +393,8 @@ Ao concordar com estes Termos, você está nos dando permissão para cobrar seu 
 
 ### 5. Responsabilidade do pagamento
 
-Você é responsável por todas as taxas, incluindo impostos associados com seu uso do Serviço. Ao usar o Serviço, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação ao seu uso do Serviço.  If you dispute the matter, contact
-[GitHub Support](https://support.github.com/contact?tags=docs-policy)
+Você é responsável por todas as taxas, incluindo impostos associados com seu uso do Serviço. Ao usar o Serviço, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação ao seu uso do Serviço.  Se você não concorda com a cobrança, entre em contato com
+[Suporte do GitHub](https://support.github.com/contact?tags=docs-policy)
 . Você é responsável por nos fornecer um meio de pagamento válido para Contas pagas. Contas Grátis não são precisam fornecer informações de pagamento.
 
 ## L. Cancelamento e Rescisão
@@ -401,7 +402,7 @@ Você é responsável por todas as taxas, incluindo impostos associados com seu 
 **Versão curta:**
 *Você pode encerrar sua Conta a qualquer momento. Se o fizer, trataremos suas informações de forma responsável.*
 
-### 1. Account Cancellation
+### 1. Cancelamento de conta
 
 É sua responsabilidade cancelar corretamente sua Conta com o GitHub. Você pode
 [cancelar sua Conta a qualquer momento](/pt/articles/how-do-i-cancel-my-account)
@@ -520,5 +521,5 @@ Este Contrato só pode ser modificado por uma alteração escrita assinada por u
 ### 6. Perguntas
 
 Perguntas sobre os Termos de Serviço?
-[Contact us](https://support.github.com/contact?tags=docs-policy)
+[Fale conosco](https://support.github.com/contact?tags=docs-policy)
 .

@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /
@@ -62,8 +62,8 @@ Todos os pagamentos de Produtos de Desenvolvedor passarão pelo GitHub. Os termo
 **Cronograma de faturamento; sem reembolsos.**
 Seu cronograma de pagamento é determinado pelo cronograma de pagamento que você escolheu ao criar sua conta no GitHub (por exemplo, gratuito, mensal, anual). Para planos de pagamento mensais ou anuais, as compras do Marketplace são faturadas antecipadamente, respectivamente, mensal ou anualmente, e não são reembolsáveis. Não haverá reembolsos ou créditos para meses parciais de serviço, reembolsos para downgrade ou reembolsos por meses não utilizados; no entanto, o serviço permanecerá ativo durante o período de faturamento pago. Se você quiser cancelar os serviços de Produto de Desenvolvedor, você pode fazê-lo em suas Configurações na barra de navegação global na parte superior da tela.
 
-If you would have a question, concern, or dispute regarding your billing, please contact
-[GitHub Support](https://support.github.com/contact?tags=docs-policy)
+Se você tiver uma pergunta, preocupação ou dúvida sobre sua fatura, entre em contato com o
+[Suporte do GitHub](https://support.github.com/contact?tags=docs-policy)
 .
 
 ## E. Seus Dados e a Política de Privacidade do GitHub
@@ -135,5 +135,5 @@ Estes Termos de Marketplace são licenciados sob esta
 
 **Fale Conosco.**
 Perguntas sobre os Termos do Marketplace?
-[Contact us](https://support.github.com/contact?tags=docs-policy)
+[Fale conosco](https://support.github.com/contact?tags=docs-policy)
 .

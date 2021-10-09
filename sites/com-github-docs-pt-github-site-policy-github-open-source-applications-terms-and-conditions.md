@@ -5,7 +5,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/pt/github)
+[GitHub](/pt/github)
 /
 [Política do site](/pt/github/site-policy)
 /
@@ -85,5 +85,5 @@ Licença para Políticas do GitHub. Esses Termos de Aplicação são licenciados
 .
 
 Fale Conosco. Perguntas sobre os Termos de Serviço?
-[Contact us](https://support.github.com/contact?tags=docs-policy)
+[Fale conosco](https://support.github.com/contact?tags=docs-policy)
 .
