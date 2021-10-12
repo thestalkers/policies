@@ -1,17 +1,17 @@
-GitHub GPL Cooperation Commitment - GitHub Docs
+Compromiso de Cooperación de GPL de GitHub - GitHub Docs
 [GitHub Docs](/es)
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora.
 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 /
-[GitHub GPL Cooperation Commitment](/es/github/site-policy/github-gpl-cooperation-commitment)
+[Compromiso de Cooperación de GPL de GitHub](/es/github/site-policy/github-gpl-cooperation-commitment)
 
-# GitHub GPL Cooperation Commitment
+# Compromiso de Cooperación de GPL de GitHub
 
 Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para las definiciones).
 
@@ -20,7 +20,7 @@ para empresas. Consulta el
 [sitio del Comité de Cooperación GPL](https://gplcc.github.io/gplcc/)
 para conocer cómo otras empresas, individuos y proyectos pueden adoptar este compromiso.
 
-### Nuestro compromiso
+## Nuestro compromiso
 
 Antes de presentar o continuar procesando cualquier procedimiento legal o reclamación (excepto una acción defensiva) que surja de la terminación de una licencia cubierta, GitHub se compromete a extenderse a la persona o entidad (“tú”) acusada de violar la Licencia Cubierta, las siguientes disposiciones relativas a la subsanación y la reincorporación, tomado de la versión 3 de GPL. Tal y como se utiliza aquí, el término "esta Licencia" se refiere a la Licencia cubierta específica que se está cumpliendo.
 

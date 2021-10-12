@@ -5,7 +5,7 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 /
@@ -72,7 +72,7 @@ Si te otortamos algún software de prelanzamiento o documentación o materiales 
 
 **Cuotas y pago**
 
-Pueden haber honorarios asociados con la participación en el programa. Te diremos cuáles son esas tarifas en los términos del programa, ya que las actualizamos de vez en cuando (las "tarifas del programa"). Si nos proporcionaste tu información de pago antes, aceptas que podemos cobrar la misma tarjeta de crédito o cuenta de PayPal como parte del presente acuerdo. De lo contrario, deberás otortarnos una cuenta de pago válida y otra información de respaldo. Excepto que se disponga expresamente lo contrario en la sección 8, cualquier pago que nos realices para el programa no es reembolsable. Nos otorgas permiso para cobrar automáticamente tu cuenta de pago en el aniversario de tu primera fecha de pago para cubrir todas las tarifas del programa del año que viene, a menos que canceles el presente acuerdo de acuerdo con la sección 8. All fees are due in U.S. Todas las tarifas se deben pagar en dólares estadounidenses y son exclusivas de todos los impuestos, gravámenes o deberes impuestos por las autoridades fiscales (eres responsable de todos ellos, a excepción de los impuestos basados en nuestros ingresos).
+Pueden haber honorarios asociados con la participación en el programa. Te diremos cuáles son esas tarifas en los términos del programa, ya que las actualizamos de vez en cuando (las "tarifas del programa"). Si nos proporcionaste tu información de pago antes, aceptas que podemos cobrar la misma tarjeta de crédito o cuenta de PayPal como parte del presente acuerdo. De lo contrario, deberás otortarnos una cuenta de pago válida y otra información de respaldo. Excepto que se disponga expresamente lo contrario en la sección 8, cualquier pago que nos realices para el programa no es reembolsable. Nos otorgas permiso para cobrar automáticamente tu cuenta de pago en el aniversario de tu primera fecha de pago para cubrir todas las tarifas del programa del año que viene, a menos que canceles el presente acuerdo de acuerdo con la sección 8. Todas las tarifas se deben pagar en dólares estadounidenses y son exclusivas de todos los impuestos, gravámenes o deberes impuestos por las autoridades fiscales (eres responsable de todos ellos, a excepción de los impuestos basados en nuestros ingresos).
 
 **Plazo y terminación**
 
@@ -98,11 +98,11 @@ EN NINGÚN CASO SEREMOS RESPONSABLES ANTE TI O ANTE NINGÚN TERCERO POR NINGÚN 
 
 **Control de exportación**
 
-No se te permite exportar o volver a exportar ninguna información confidencial, excepto según lo autorizado por la ley de los Estados Unidos y las leyes de la jurisdicción en la que se obtuvo la información confidencial. In particular, you aren’t allowed to export or re-export our Confidential Information into any U.S. embargoed countries, to anyone on the U.S. Treasury Department's list of Specially Designated Nationals, or to anyone on the U.S. Department of Commerce Denied Person's List or Entity List. Al unirte al programa o recibir cualquiera de nuestra información confidencial, declaras y garantizas que no estás ubicado en ningún país de estos o en una lista de esa índole.
+No se te permite exportar o volver a exportar ninguna información confidencial, excepto según lo autorizado por la ley de los Estados Unidos y las leyes de la jurisdicción en la que se obtuvo la información confidencial. Particularmente, no se te permite exportar o re-exportar nuestra información confidencial a ningun país embargado por los EE.UU., a ninguna de las listas de Nacionales Especialmente Designados del Departamento de Tesorería de los EE.UU, ni a alguien de La Lista de Entidades o Lista de Personas Denegadas por el Departamento de Comenrcio de los EE.UU. Al unirte al programa o recibir cualquiera de nuestra información confidencial, declaras y garantizas que no estás ubicado en ningún país de estos o en una lista de esa índole.
 
 **Derechos de propiedad**
 
-Aceptas que GitHub y sus licenciantes son propietarios de todo derecho, título e interés en la API, los materiales de prelanzamiento y todos los demás productos y servicios de GitHub; toda la información y los datos relativos a sus configuraciones y combinaciones; y todas las modificaciones y obras derivadas de cualquiera de las anteriores. Aceptas no eliminar, alterar, cubrir o confundir ningún derecho de autor u otros avisos de derechos de propiedad que colocamos o insertamos en la API, los materiales de prelanzamiento o cualquier otro producto y servicio de GitHub.
+Aceptas que GitHub y sus licenciantes son propietarios de todo derecho, título e interés en la API, los materiales de prelanzamiento y todos los demás productos y servicios de GitHub; toda la información y los datos relativos a sus configuraciones y combinaciones; y todas las modificaciones y obras derivadas de cualquiera de las anteriores. Aceptas no eliminar, alterar, cubrir u confundir ningún derecho de autor u otros avisos de derechos de propiedad que colocamos o insertamos en la API, los materiales de prelanzamiento o cualquier otro producto y servicios de GitHub.
 
 **Usuarios gubernamentales**
 
@@ -120,7 +120,7 @@ Siempre estamos tratando de mejorar y tus comentarios nos ayudarán a hacerlo. S
 
 Las partes del presente acuerdo son contratistas independientes. Ninguno de nosotros será considerado como empleado, agente, socio, franquiciador, franquiciado o representante legal del otro para ningún propósito y ninguno de nosotros tendrá ningún derecho, poder o autoridad para crear ninguna obligación o responsabilidad en nombre de la otra.
 
-**Assignment**
+**Asignación**
 
 No puedes ceder o transferir el presente acuerdo o ninguno de tus derechos en virtud del mismo, en su totalidad o en parte, por el funcionamiento de la ley o de cualquier otra manera, sin nuestro consentimiento previo por escrito.
 
@@ -132,6 +132,6 @@ El presente acuerdo se interpretará y entenderá de acuerdo con las leyes del e
 
 Es posible que el presente acuerdo no se cambie, excepto mediante un escrito firmado por ambas partes. Cualquier renuncia a las disposiciones del presente acuerdo o de los derechos o recursos de una parte conforme a lo dispuesto en el presente acuerdo debe ser por escrito para que sea efectiva. Si se encuentra que algún término, condición o disposición del presente acuerdo no es válido o no ejecutable, los términos restantes seguirán siendo válidos y exigibles en la medida en que lo permita la ley. Cada una de las partes acepta expresamente que no hay terceros beneficiarios del presente acuerdo.
 
-**Entire Agreement**
+**Acuerdo completo**
 
 El presente acuerdo, los términos de servicio y los términos del programa contienen el acuerdo completo de las partes con respecto al tema y sustituyen todas las comunicaciones, representaciones, entendimientos y acuerdos previos, ya sean escritos u orales.  Los términos o condiciones de cualquiera de tus pedidos de compras, confirmacones u otros documentos que nos envíes en relación con el presente acuerdo serán nulos y sin efecto.

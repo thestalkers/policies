@@ -5,18 +5,19 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 
 # Política del sitio
-
-### Índice
 - [Términos de servicio de GitHub](/es/github/site-policy/github-terms-of-service)
 - [Términos de servicio corporativos de GitHub](/es/github/site-policy/github-corporate-terms-of-service)
 - [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement)
+- [GitHub Data Protection Agreement](/es/github/site-policy/github-data-protection-agreement)
 - [Prácticas de Privacidad Globales](/es/github/site-policy/global-privacy-practices)
 - [Términos adicionales de los Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms)
+- [Declaración de Privacidad de GitHub Codespaces](/es/github/site-policy/github-codespaces-privacy-statement)
+- [Condiciones de GitHub para las características y productos adicionales](/es/github/site-policy/github-terms-for-additional-products-and-features)
 - [Política de logo de GitHub](/es/github/site-policy/github-logo-policy)
 - [Política de nombre de usuario de GitHub](/es/github/site-policy/github-username-policy)
 - [Enviar solicitudes de eliminación de contenido](/es/github/site-policy/submitting-content-removal-requests)
@@ -24,6 +25,7 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Guía para enviar un aviso de retiro de DMCA](/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
 - [Guía para enviar una contranotificación de DMCA](/es/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
 - [Política de marca registrada de GitHub](/es/github/site-policy/github-trademark-policy)
+- [Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
 - [Subprocesadores y cookies de GitHub](/es/github/site-policy/github-subprocessors-and-cookies)
 - [Disposición de seguridad legal del programa de recompensas de errores de GitHub](/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
 - [Divulgación responsable de vulnerabilidades de seguridad](/es/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
@@ -35,14 +37,15 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Código de conducta del foro de la comunidad GitHub](/es/github/site-policy/github-community-forum-code-of-conduct)
 - [Acuerdo de programador registrado de GitHub](/es/github/site-policy/github-registered-developer-agreement)
 - [Términos de servicio de Mercado GitHub](/es/github/site-policy/github-marketplace-terms-of-service)
-- [Política de Desarrolladores para el Mercado de Github](/es/github/site-policy/github-marketplace-developer-agreement)
+- [Acuerdo de Desarrollador de GitHub Marketplace](/es/github/site-policy/github-marketplace-developer-agreement)
 - [Términos del programa de investigación de GitHub](/es/github/site-policy/github-research-program-terms)
 - [Términos y condiciones de la aplicación de código abierto de GitHub](/es/github/site-policy/github-open-source-applications-terms-and-conditions)
 - [GitHub y controles comerciales](/es/github/site-policy/github-and-trade-controls)
 - [Política de Usuario Finado de Github](/es/github/site-policy/github-deceased-user-policy)
 - [Acuerdo de GitHub contra la esclavitud moderna y el trabajo infantil](/es/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
 - [Declaración antisoborno de GitHub](/es/github/site-policy/github-anti-bribery-statement)
+- [Política de Privacidad de Candidatos de GitHub](/es/github/site-policy/github-candidate-privacy-policy)
 - [Política de entretenimiento y obsequios de GitHub](/es/github/site-policy/github-gifts-and-entertainment-policy)
 - [Términos del evento de GitHub](/es/github/site-policy/github-event-terms)
 - [Código de conducta del evento de GitHub](/es/github/site-policy/github-event-code-of-conduct)
-- [GitHub GPL Cooperation Commitment](/es/github/site-policy/github-gpl-cooperation-commitment)
+- [Compromiso de Cooperación de GPL de GitHub](/es/github/site-policy/github-gpl-cooperation-commitment)

@@ -5,36 +5,43 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 /
 [Política de marca registrada de GitHub](/es/github/site-policy/github-trademark-policy)
 
+## [En este artículo](#in-this-article)
+- [¿Qué es una Violación de la Política de Marcas de GitHub?](#what-is-a-github-trademark-policy-violation)
+- [¿Qué no es una Violación de la Política de Marcas de GitHub?](#what-is-not-a-github-trademark-policy-violation)
+- [¿Cómo responde GitHub al reporte de las Violaciones de Política de Marcas?](#how-does-github-respond-to-reported-trademark-policy-violations)
+- [¿Cómo reporto una violación de la política de marcas?](#how-do-i-report-a-trademark-policy-violation)
+- [¿Qué información se requiere cuando se informa de las violaciones de las políticas de marcas?](#what-information-is-required-when-reporting-trademark-policy-violations)
+
 # Política de marca registrada de GitHub
 
-### ¿Qué es una Violación de la Política de Marcas de GitHub?
+## ¿Qué es una Violación de la Política de Marcas de GitHub?
 
 Utilizar el nombre de una empresa o negocio, logotipo, u otros materiales protegidos por marca registrada de una manera que pueda inducir a un error o confundir a otros con respecto a su marca o afiliación comercial pueden considerarse una violación de la política de marcas registradas.
 
-### ¿Qué no es una Violación de la Política de Marcas de GitHub?
+## ¿Qué no es una Violación de la Política de Marcas de GitHub?
 
 El uso de la marca de otro de una manera que no tenga nada que ver con el producto o servicio para el que se concedió la marca no es una violación de la política de marcas registradas. Los nombres de usuario de GitHub están disponibles en una base de primera vez, en el orden de solicitud y no se pueden reservar. Una cuenta de GitHub con un nombre de usuario que resulte ser la misma que una marca registrada no es, por sí mismo, necesariamente una violación de nuestra política de marcas.
 
-### ¿Cómo responde GitHub al reporte de las Violaciones de Política de Marcas?
+## ¿Cómo responde GitHub al reporte de las Violaciones de Política de Marcas?
 
 Cuando recibimos reportes de violaciones de la política de marcas registradas por parte de titulares de registros de marcas federales o internacionales, revisamos la cuenta y podemos tomar las siguientes acciones:
 
 - Cuando exista una intención clara de engañar a otros a través del uso no autorizado de una marca, GitHub suspenderá la cuenta y notificará al titular de la misma.
 - Cuando determinamos que una cuenta parece estar confundiendo a los usuarios, pero no se hace pasar de manera intencional como el bien o servicio con marca registrada, le damos al titular de la cuenta la oportunidad de aclarar cualquier posible confusión. También podemos lanzar un nombre de usuario para el uso activo del titular de la marca.
 
-### ¿Cómo reporto una violación de la política de marcas?
+## ¿Cómo reporto una violación de la política de marcas?
 
 Los titulares de marcas registradas pueden denunciar posibles violaciones de la política de marcas a GitHub a través de nuestro
-[formulario de contacto](https://support.github.com/contact)
+[formulario de contacto](https://support.github.com/contact?tags=docs-trademark)
 . Envía solicitudes relacionadas con marcas comerciales utilizando tu dirección de correo electrónico de la empresa e incluye toda la información que se solicita a continuación para ayudar a agilizar nuestra respuesta. También asegúrate de describirnos claramente por qué la cuenta puede causar confusión con tu marca o cómo puede la cuenta debilitar o perjudicar a tu marca.
 
-### ¿Qué información se requiere cuando se informa de las violaciones de las políticas de marcas?
+## ¿Qué información se requiere cuando se informa de las violaciones de las políticas de marcas?
 
 Para investigar las violaciones de la política de marcas, por favor proporciona toda la siguiente información:
 

@@ -5,11 +5,15 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 /
 [Código de conducta del evento de GitHub](/es/github/site-policy/github-event-code-of-conduct)
+
+## [En este artículo](#in-this-article)
+- [Código de conducta](#code-of-conduct)
+- [Crédito](#credit)
 
 # Código de conducta del evento de GitHub
 
@@ -19,7 +23,7 @@ Valoramos la participación de cada miembro y deseamos que todos los asistentes 
 
 Para dejar en claro lo que se espera, todos los asistentes, oradores, expositores, organizadores y voluntarios en cualquier evento en el espacio de GitHub están obligados a cumplir con el siguiente código de conducta. Los organizadores aplicarán este código a lo largo de todo el evento.
 
-### Código de conducta
+## Código de conducta
 
 GitHub se dedica a brindar una experiencia de evento positiva y sin acoso para todo el mundo, independientemente de su edad, género, identidad y expresión de género, orientación sexual, discapacidad, apariencia personal, complexión, etnia, raza, religión, nacionalidad o nivel de experiencia. No toleramos el acoso a los participantes del evento en ninguna forma, ni toleramos ningún comportamiento que razonablemente conduzca a que otro participante del evento se sienta en peligto, inseguro o asustado por su bienestar físico o emocional. Todas las comunicaciones deben ser adecuadas para un público profesional que incluya personas de muchos orígenes diferentes.
 
@@ -45,7 +49,7 @@ Cada huésped del evento es totalmente responsable de sus propias acciones.
 
 Gracias por ayudar a hacer de este un espacio acogedor y agradable para todos.
 
-#### Informe de un incidente
+### Informe de un incidente
 
 Si estás siendo hostigado, notas que alguien más está siendo acosado, o tienes alguna otra inquietud, comunícate con el organizador por correo electrónico (
 [events@github.com](mailto:events@github.com)
@@ -53,7 +57,7 @@ Si estás siendo hostigado, notas que alguien más está siendo acosado, o tiene
 
 GitHubbers estará encantado de ayudar a los participantes a ponerse en contacto con la seguridad o la aplicación de la ley local, acompañar a seguridad o de otro modo ayudar a aquellos que experimentan acoso a sentirse seguros durante la conferencia. Valoramostu asistencia.
 
-### Crédito
+## Crédito
 
 Algunas partes de este código de conducta se basan en el
 [ejemplo de política anti-acoso](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)

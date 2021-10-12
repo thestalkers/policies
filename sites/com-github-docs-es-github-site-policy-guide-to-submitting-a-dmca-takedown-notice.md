@@ -5,11 +5,17 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub.com](/es/github)
+[GitHub](/es/github)
 /
 [Política del sitio](/es/github/site-policy)
 /
 [Guía para enviar un aviso de retiro de DMCA](/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+
+## [En este artículo](#in-this-article)
+- [Antes de comenzar](#before-you-start)
+- [Tu queja debe ...](#your-complaint-must-)
+- [Quejas sobre Tecnología de Anti Elusión](#complaints-about-anti-circumvention-technology)
+- [Como presentar tu queja](#how-to-submit-your-complaint)
 
 # Guía para enviar un aviso de retiro de DMCA
 
@@ -19,21 +25,21 @@ Esta guía describe la información que GitHub necesita para procesar una solici
 
 Debido al tipo de contenido de los hosts de GitHub (principalmente de código de software) y a la forma en que se gestiona el contenido (con Git), necesitamos que las demandas sean lo más específicas posible. Estas directrices están diseñadas para que el procesamiento de las notificaciones de supuestas infracciones sea lo más sencillo posible. Nuestra forma de notificación indicada a continuación es coherente con el formulario sugerido por el estatuto DMCA, que se puede encontrar en el sitio web oficial de la Oficina de Derechos de Autor de EE. UU.:
 [https://www.copyright.gov](https://www.copyright.gov)
-. Copyright Office's official website:
+. Sitio web oficial de la Oficina de Derechos de Autor:
 [https://www.copyright.gov](https://www.copyright.gov)
 .
 
 Como en todas las cuestiones jurídicas, siempre es mejor consultar con un profesional sobre tus preguntas o situación específicas. Te recomendamos enfáticamente que lo hagas antes de emprender cualquier acción que pueda afectar tus derechos. Esta guía no es asesoramiento legal y no debería ser tomada como tal.
 
-### Antes de comenzar
+## Antes de comenzar
 
 ***Di la Verdad.***
 La DMCA requiere que prestes atención a los hechos en tu queja de derechos de autor
 *bajo pena de perjurio*
 . Es un crimen federal mentir intencionadamente en una declaración jurada. (
 *Consulta*
-[Código de Estados Unidos, Título 18, Sección 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)
-. Code, Title 18, Section 1621.) La presentación de información falsa también podría resultar en responsabilidad civil, es decir, podrías ser demandado por daños monetarios. La DMCA por sí misma
+[el Código de lso EE.UU. , Título 18, Sección 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)
+.) La presentación de información falsa también podría resultar en responsabilidad civil, es decir, podrías ser demandado por daños monetarios. La DMCA por sí misma
 [proporciona daños](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)
 contra cualquier persona que, a sabiendas, tergiversa materialmente dicha actividad o material infractor.
 
@@ -86,9 +92,9 @@ Como se indica en nuestra
 .
 
 ***GitHub no es el juez.***
-GitHub ejerce poca discreción en el proceso además de determinar si las notificaciones cumplen con los requisitos mínimos de la DMCA. Corresponde a las partes (y a sus abogados) evaluar el mérito de sus reclamaciones, teniendo en cuenta que las notificaciones deben realizarse bajo pena de perjurio.
+GitHub ejerce poca discreción en el proceso además de determinar si las notificaciones cumplen con los requisitos mínimos de la DMCA. Corresponde a las partes (y a sus abogados) evaluar el mérito de sus reclamaciones, teniendo en cuenta que los avisos deben realizarse bajo pena de perjurio.
 
-### Tu queja debe ...
+## Tu queja debe ...
 
 **Incluir la siguiente declaración: "He leído y entendido la guía de GitHub para presentar una notificación de DMCA.**
 No nos negaremos a procesar una queja completa si no incluye esta declaración. Pero sabremos que no has leído estas directrices y podríamos solicitarte que regreses y lo lleves a cabo.
@@ -97,11 +103,13 @@ No nos negaremos a procesar una queja completa si no incluye esta declaración. 
 Esta información es importante porque ayuda al usuario afectado a evaluar su reclamación y le da la capacidad de comparar su trabajo con el tuyo. La especificidad de su identificación dependerá de la naturaleza del trabajo que consideras que ha sido infringido. Si has publicado tu trabajo, solo podrás enlazar a una página web donde reside. Si es autónoma y no está publicada, puedes describirlo y explicar que es propietario. Si lo has registrado en la Oficina de Derechos de Autor, debes incluir el número de registro. Si estás alegando que el contenido alojado es una copia directa y literal de tu trabajo, también puedes explicar ese hecho.
 
 **Identifica el material al que haces referencia que está infringiendo el trabajo protegido por derechos de autor que aparece en el artículo #2, anterior.**
-Es importante ser lo más específico posible en tu identificación. Esta identificación debe ser razonablemente suficiente para permitir a GitHub localizar el material. Como mínimo, esto significa que debe incluir la URL del material que supuestamente infringe sus derechos de autor. Si aseguras que se infringe menos de un repositorio completo, identifica el(los) archivo(s) específicos o números de línea dentro de un archivo al que te refieres. Si aseguras que se infringe todo el contenido en una URL, por favor se explícito al respecto también. Por último, ten en cuenta que GitHub
+Es importante ser lo más específico posible en tu identificación. Esta identificación debe ser razonablemente suficiente para permitir a GitHub localizar el material. Como mínimo, esto significa que debe incluir la URL del material que supuestamente infringe sus derechos de autor. Si aseguras que se infringe menos de un repositorio completo, identifica el(los) archivo(s) específicos o números de línea dentro de un archivo al que te refieres. Si aseguras que se infringe todo el contenido en una URL, por favor se explícito al respecto también.
+
+- Por favor, toma en cuenta que GitHub
 *no*
-deshabilitará automáticamente los
-[forks](/es/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork)
-al desactivar un repositorio matriz. Si has investigado y analizado los forks de un repositorio y crees que también están infringiendo, por favor identifique explícitamente cada fork supuestamente infractor. Por favor, confirma también que has investigado cada caso individual y que tus declaraciones juradas se aplican a cada fork identificado.
+inhabilitará automáticamente las
+[bifurcaciones](/es/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork)
+al inhabilitar un repositorio padre. Si has investigado y analizado los forks de un repositorio y crees que también están infringiendo, por favor identifique explícitamente cada fork supuestamente infractor. Por favor, confirma también que has investigado cada caso individual y que tus declaraciones juradas se aplican a cada fork identificado. En pocas ocasiones, puede que alegues que se violaron los derechos de autor en todo un repositorio que se está bifurcando. Si en al momento de enviar tu notificación identificaste todas las bifurcaciones existentes de dicho repositorio como supuestas violaciones, procesaremos un reclamo válido contra todas las bifurcaciones en esa red al momento de procesar la notificación. Haremos esto dada la probabilidad de que todas las bifurcaciones recién creadas contengan lo mismo. Adicionalmente, si la red que se reporta como albergadora del contenido de la supuesta violación es mayor a cien (100) repositorios y, por lo tanto, es difícil de revisar completamente, podríamos considerar inhabilitar toda la red si declaras en tu notificación que, "Con base en la cantidad representativa de bifurcaciones que revisaste, crees que todas o la mayoría de las bifurcaciones constituyen una violación en la misma medida que el repositorio padre". Tu declaración jurada aplicará a la presente.
 
 **Explica lo que el usuario afectado tendría que hacer para remediar la infracción.**
 De nuevo, la especificidad es importante. Cuando transmitimos su queja al usuario, esto les dirá lo que tienen que hacer para evitar que el resto de su contenido esté desactivado. ¿Necesita el usuario añadir una declaración de atribución? ¿Necesitan eliminar ciertas líneas dentro de su código, o archivos completos? Por supuesto, entendemos en algunos casos, todo el contenido de un usuario puede infringirse presuntamente y no hay nada que puedan hacer más que borrarlo todo. Si ese es el caso, por favor deja esto claro también.
@@ -118,13 +126,17 @@ Generalmente esto se realizará proporcionando el nombre de usuario de GitHub as
 
 **Incluye tu firma física o electrónica.**
 
-### Quejas sobre Tecnología de Anti Elusión
+## Quejas sobre Tecnología de Anti Elusión
 
-La Ley de Derechos de Autor también prohíbe la elusión de medidas tecnológicas que controlen eficazmente el acceso a las obras protegidas por los derechos de autor. Si crees que el contenido alojado en GitHub viola esta prohibición, por favor envíanos un informe a través de nuestro
+La Ley de Derechos de Autor también prohíbe la elusión de medidas tecnológicas que controlen eficazmente el acceso a las obras protegidas por los derechos de autor. Si crees que el contenido que se hospeda en GitHub viola esta prohibición, por favor, envíanos un reporte mediante nuestro
 [Copyright claims form](https://github.com/contact/dmca)
-, e incluye información específica sobre qué contenido viola esa prohibición, qué medidas tecnológicas aplicas y por qué el contenido viola la prohibición.
+. Un reclamo de evasión debe incluir los siguientes detalles sobre las medidas técnicas puestas en marcha y sobre la forma en la que el proyecto acusado las evade. Específicamente, la notificación a GitHub debe incluir las declaraciones que describan:
 
-### Como presentar tu queja
+Cuáles son las medidas técnicas;
+Cómo controlan el acceso al material con derechos de autor de forma efectiva; y
+Cómo se diseñó el proyecto actusado para evadir las medidas de protección tecnológica que se describen con anterioridad.
+
+## Como presentar tu queja
 
 La forma más rápida de obtener una respuesta es ingresar tu información y responder a todas las preguntas de nuestro
 [Copyright claims form](https://github.com/contact/dmca)
