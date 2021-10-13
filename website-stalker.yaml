@@ -861,6 +861,26 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-candidate-privacy-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-codespaces-privacy-statement
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-community-forum-code-of-conduct
     extension: md
     editors:
@@ -882,6 +902,16 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-corporate-terms-of-service
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-data-protection-agreement
     extension: md
     editors:
       - css_remove: style
@@ -1001,6 +1031,16 @@ sites:
       - css_remove: '.clearfix'
       - css_remove: footer
       - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-private-information-removal-policy
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-registered-developer-agreement
     extension: md
     editors:
@@ -1042,6 +1082,16 @@ sites:
       - css_remove: footer
       - html_markdownify
   - url: https://docs.github.com/es/github/site-policy/github-subprocessors-and-cookies
+    extension: md
+    editors:
+      - css_remove: style
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: header
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: '.clearfix'
+      - css_remove: footer
+      - html_markdownify
+  - url: https://docs.github.com/es/github/site-policy/github-terms-for-additional-products-and-features
     extension: md
     editors:
       - css_remove: style
