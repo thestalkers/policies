@@ -119,7 +119,7 @@ In order to prevent violations of these limitations and abuse of GitHub Codespac
 
 Codespaces allows you to load extensions from the Microsoft Visual Studio Marketplace (“Marketplace Extensions”) for use in your development environment, for example, to process the programming languages that your code is written in. Marketplace Extensions are licensed under their own separate terms of use as noted in the Visual Studio Marketplace, and the terms of use located at
 [https://aka.ms/vsmarketplace-ToU](https://aka.ms/vsmarketplace-ToU)
-. GitHub makes no warranties of any kind in relation to Marketplace Extensions and is not liable for actions of third-party authors of Marketplace Extensions that are granted access to Your Content. サードパーティアプリケーションを、お客様は自らの責任ににおいて利用するものとします。
+. GitHub makes no warranties of any kind in relation to Marketplace Extensions and is not liable for actions of third-party authors of Marketplace Extensions that are granted access to Your Content. Codespaces also allows you to load software into your environment through devcontainer features. Such software is provided under the separate terms of use accompanying it. サードパーティアプリケーションを、お客様は自らの責任ににおいて利用するものとします。
 
 The generally available version of Codespaces is not currently available for U.S. government customers. アメリカ合衆国の祝日 government customers may continue to use the Codespaces Beta Preview under separate terms. See
 [Beta Preview terms](/ja/github/site-policy/github-terms-of-service#j-beta-previews)

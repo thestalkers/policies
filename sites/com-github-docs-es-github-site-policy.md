@@ -13,7 +13,7 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Términos de servicio de GitHub](/es/github/site-policy/github-terms-of-service)
 - [Términos de servicio corporativos de GitHub](/es/github/site-policy/github-corporate-terms-of-service)
 - [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement)
-- [GitHub Data Protection Agreement](/es/github/site-policy/github-data-protection-agreement)
+- [Acuerdo de Protección de Datos de GitHub](/es/github/site-policy/github-data-protection-agreement)
 - [Prácticas de Privacidad Globales](/es/github/site-policy/global-privacy-practices)
 - [Términos adicionales de los Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms)
 - [Declaración de Privacidad de GitHub Codespaces](/es/github/site-policy/github-codespaces-privacy-statement)

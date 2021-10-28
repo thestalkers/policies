@@ -122,7 +122,7 @@ Para prevenir las violaciones de estas limitaciones y el abuso de GitHub Codespa
 
 Los Codespaces te permiten cargar extensiones de Microsfot Visual Studio Marketplace ("Extensiones de Marketplace") para utilizar en tu ambiente de desarrollo, por ejemplo, para procesar los lenguajes de programación en los que está escrito tu código. Las extensiones de Marketplace se licencian bajo sus propios términos de uso de acuerdo como se describe en Visual Studio Marketplace y los términos de uso se ubican en
 [https://aka.ms/vsmarketplace-ToU](https://aka.ms/vsmarketplace-ToU)
-. GitHub no otorga garantías de ningún tipo en relación con las Extensiones de Marketplace y no es responsable por las acciones de autores terceros de estas, a quienes se les otorgue acceso a tu contenido. El uso que hagas de cualquier solicitud de terceros corre por tu cuenta y riesgo.
+. GitHub no otorga garantías de ningún tipo en relación con las Extensiones de Marketplace y no es responsable por las acciones de autores terceros de estas, a quienes se les otorgue acceso a tu contenido. Codespaces also allows you to load software into your environment through devcontainer features. Such software is provided under the separate terms of use accompanying it. El uso que hagas de cualquier solicitud de terceros corre por tu cuenta y riesgo.
 
 La versión generalmente disponible de los Codespaces no está disponible actualmente para los clientes del gobierno de los EE.UU. Los clientes del gobierno de los EE.UU. pueden seguir utilizando la Vista Previa Beta de los Codespaces bajo términos independientes. Consulta los
 [Términos de la Vista Previa Beta](/es/github/site-policy/github-terms-of-service#j-beta-previews)

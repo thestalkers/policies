@@ -25,11 +25,11 @@ GitHub 社区论坛行为准则 - GitHub Docs
 
 数百万开发者在 GitHub 上托管了数百万个项目，包括开源和闭源项目，我们很荣幸能够为促进开发者社区的日常协作发挥作用。 走在一起，我们都有机会和责任让这个社区成为我们值得骄傲的地方。
 
-GitHub 社区论坛旨在成为推动协作、支持和集思广益的地方。 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 By participating in this Community, you are agreeing to the same
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-and
-[GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)
-that apply to GitHub.com, as well as this Community-specific Code of Conduct.
+GitHub 社区论坛旨在成为推动协作、支持和集思广益的地方。 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 参与本社区，即表示您同意遵守适用于 GitHub.com 的&lt;
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+和
+[GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)
+以及本社区特定的行为准则。
 
 我们希望通过本行为准则，帮助您了解如何在 GitHub 社区论坛中完美协作、版主的职能以及哪些类型的行为或内容可能导致暂停或永久性终止社区参与。 我们将调查任何滥用举报，并且可能会删除社区内我们确定违反了 GitHub 服务条款或本行为准则的公共内容。
 
@@ -37,7 +37,7 @@ GitHub 的用户来自世界各地，有上周才创建其第一个 "Hello World
 
 ## 承诺
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in the GitHub Community Forum a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+为了营造一个开放和包容的环境，我们作为参与者和维护者在此承诺，GitHub 社区论坛不歧视任何参与者，不论年龄、身材、能力、种族、性别认同和表达、经验水平、国籍、外貌、民族、宗教或性认同和性取向。
 
 ## 标准
 
@@ -110,53 +110,53 @@ GitHub 社区论坛提倡互相尊重。 论坛是一种共享资源 — 通过�
 不得暴力威胁他人，也不得利用网站组织、宣传或煽动现实世界中的暴力或恐怖主义行为。 仔细考虑您使用的文字、发布的图像、编写的软件以及其他人会如何解读它们。 即使您只是开个玩笑，但别人不见得这样理解。 如果您认为别人可能会将您发布的内容解读为威胁或者煽动暴力或恐怖主义， 不要在 GitHub 上发布。 在非常情况下， 如果我们认为可能存在真正的人身伤害风险或公共安全威胁，我们可能会向执法机构报告暴力威胁。
 
 -
-**Hate speech and discrimination.**
-While it is not forbidden to broach topics such as age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation, we do not tolerate speech that attacks a person or group of people on the basis of who they are. 只要认识到以一种侵略性或侮辱性的方式处理这些（及其他）敏感的专题，就可能使其他人感到不受欢迎甚至不安全。 虽然总是存在误解的可能性，但我们期望社区成员在讨论敏感问题时保持尊重和平静。
+**仇恨言论和歧视**
+- 虽然不禁止谈论年龄、身材、能力、种族、性别认同和表达、经验水平、国籍、外貌、民族、宗教或性认同和性取向等话题，但我们不允许基于身份特征攻击任何个人或群体。 只要认识到以一种侵略性或侮辱性的方式处理这些（及其他）敏感的专题，就可能使其他人感到不受欢迎甚至不安全。 虽然总是存在误解的可能性，但我们期望社区成员在讨论敏感问题时保持尊重和平静。
 
 -
 **欺凌和骚扰。**
 我们不容忍欺凌或骚扰。 这意味着我们不允许针对任何特定个人或群体的典型骚扰或恐吓行为。 一般来说，如果您屡次三番采取多余的行动，就很可能走进了欺凌或骚扰的歧途。
 
-**Disrupting the experience of other users.**
-Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on. Behaviors such as repeatedly posting off-topic comments, opening empty or meaningless topics or using any other platform feature in a way that continually disrupts the experience of other users are not allowed.
+**破坏其他用户的体验。**
+成为社区的一部分包括认识到您的行为如何影响他人，并与他人及其依赖的平台进行有意义和富有成效的互动。 不允许重复发布与主题无关的评论、开启空洞或无意义的主题，或者以不断破坏其他用户体验的方式使用任何其他平台功能等行为。
 
 -
-**Impersonation.**
-You may not impersonate another person by copying their avatar, posting content under their email address, using a similar username or otherwise posing as someone else. 冒充是骚扰的一种形式。
+**冒充。**
+不得冒充他人，包括复制他人的头像、使用他人的电子邮件地址发布内容、使用相似用户名或其他冒充方式。 冒充是骚扰的一种形式。
 
 -
-**Doxxing and invasion of privacy.**
-Don't post other people's personal information, such as personal, private email addresses, phone numbers, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. 根据具体情况，例如在恐吓或骚扰的情况下，我们可能会认为发布他人信息（例如未经当事人同意而拍摄或散发的照片或视频）是侵犯隐私的行为，特别是当此类材料会给当事人带来安全风险时。
+**人肉和侵犯隐私。**
+不得发布他人的个人信息，例如私人电子邮件地址、电话号码、实际地址、信用卡号码、社会保障/国民身份号码或密码。 根据具体情况，例如在恐吓或骚扰的情况下，我们可能会认为发布他人信息（例如未经当事人同意而拍摄或散发的照片或视频）是侵犯隐私的行为，特别是当此类材料会给当事人带来安全风险时。
 
 -
-**Sexually obscene content.**
-Don’t post content that is pornographic. 但这并不意味着禁止一切裸体或与性有关的所有代码和内容。 我们认识到，性行为是生活的一部分，非色情的性内容可能是您项目的一部分，或者出于教育或艺术目的而呈现。 我们不允许淫秽性内容或可能涉及利用或性化未成年人的内容。 如果您对要发布的内容有任何疑问或疑虑，
+**性淫秽内容。**
+不得发布色情内容。 但这并不意味着禁止一切裸体或与性有关的所有代码和内容。 我们认识到，性行为是生活的一部分，非色情的性内容可能是您项目的一部分，或者出于教育或艺术目的而呈现。 我们不允许淫秽性内容或可能涉及利用或性化未成年人的内容。 如果您对要发布的内容有任何疑问或疑虑，
 [请随时联系我们，事先询问可保无虞](https://support.github.com/contact?tags=docs-policy)
 。
 
 -
 **垃圾信息。**
-请尊重 GitHub 社区论坛。 Don’t post advertisements, link to spammy websites, ping or mention long lists of usernames inappropriately or otherwise vandalize the Community. 本社区是供 GitHub 用户讨论项目、学习和互相交流意见的平台，而不是发广告或其他垃圾内容的场所。 被我们视为垃圾信息的内容将被删除。 Please see our
-[GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies#4-spam-and-inauthentic-activity-on-github)
-for additional detail on spam and inauthentic activity.
+请尊重 GitHub 社区论坛。 不要发布广告、垃圾邮件网站链接、以不当方式 ping 或提及长的用户名列表，或者破坏社区。 本社区是供 GitHub 用户讨论项目、学习和互相交流意见的平台，而不是发广告或其他垃圾内容的场所。 被我们视为垃圾信息的内容将被删除。 请参阅我们的
+[GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies#4-spam-and-inauthentic-activity-on-github)
+，了解有关垃圾邮件和不真实活动的更多详细信息。
 
 -
 **侵权或非法内容。**
 只发布属于自己的内容。 您对自己发布的内容负责。 如果您发布的内容不是自己创建的，则必须拥有发布权限。 不得发布非法内容（包括违反版权和商标法律的内容）、非法内容的链接或规避法律的方法。
 
 -
-**Gratuitously violent content.**
-Don’t post violent images, text, or other content without reasonable context or warnings. While it's often okay to include violent content in video games, news reports, and descriptions of historical events, we do not allow violent content that is posted indiscriminately, or that is posted in a way that makes it difficult for other users to avoid (such as a profile avatar, profile description, topic or reply). 在其他情况下发布明确警告或免责声明有助于用户就他们是否想要参与这类内容作出明智的决定。
+**过激的暴力内容。**
+不得在没有合理的上下文或警告的情况下发布暴力图像、文本或其他内容。 在视频游戏、新闻报道以及对历史事件的描述中通常可以包含暴力内容，但我们不允许不加选择地发布暴力内容，或者以其他用户很难避开的方式发布（例如头像、个人资料说明、主题或回复）。 在其他情况下发布明确警告或免责声明有助于用户就他们是否想要参与这类内容作出明智的决定。
 
 -
-**Active malware or exploits.**
-Being part of a community includes not taking advantage of other members of the community. 我们不允许任何人利用我们的平台直接支持造成技术损害的非法攻击， 例如利用 GitHub 作为提供恶意可执行文件的方式或作为攻击基础架构， 例如，组织拒绝服务攻击或管理命令和控制服务器。 技术损害是指资源过度消耗、物理损坏、停机、拒绝服务或数据丢失，在滥用之前没有隐含或明确的双重用途。 请注意，GitHub 允许双重用途内容，并支持发布用于研究漏洞、恶意软件或漏洞的内容，因为此类内容的发布和分发具有教育价值，并为安全社区提供净收益。 我们具有积极的意图，并利用这些项目来促进和推动整个生态系统的改善。 Please see our
-[GitHub Community Guidelines](/cn/github/site-policy/github-community-guidelines#active-malware-or-exploits)
-for complete detail on this section.
+**主动恶意软件或漏洞利用程序。**
+本社区不允许恶意利用社区的其他成员。 我们不允许任何人利用我们的平台直接支持造成技术损害的非法攻击， 例如利用 GitHub 作为提供恶意可执行文件的方式或作为攻击基础架构， 例如，组织拒绝服务攻击或管理命令和控制服务器。 技术损害是指资源过度消耗、物理损坏、停机、拒绝服务或数据丢失，在滥用之前没有隐含或明确的双重用途。 请注意，GitHub 允许双重用途内容，并支持发布用于研究漏洞、恶意软件或漏洞的内容，因为此类内容的发布和分发具有教育价值，并为安全社区提供净收益。 我们具有积极的意图，并利用这些项目来促进和推动整个生态系统的改善。 请参阅我们的
+[社区指导方针](/cn/github/site-policy/github-community-guidelines#active-malware-or-exploits)
+，了解此部分的完整详细信息。
 
 -
-**Misinformation and disinformation.**
-You may not post content that presents a distorted view of reality, whether it is inaccurate or false (misinformation) or is intentionally deceptive (disinformation) where such content is likely to result in harm to the public or to interfere with fair and equal opportunities for all to participate in public life. 例如，我们不允许可能危及群体福祉或限制他们参与自由和开放社会的内容。 鼓励积极参与表达想法、观点和经验，不得质疑个人帐户或言论。 我们通常允许模仿和讽刺，但要符合我们的“可接受使用政策”，而且我们认为上下文对于如何接收和理解信息很重要；因此，通过免责声明或其他方式澄清您的意图以及您的信息的来源，可能是适当的做法。
+**错误信息和虚假信息。**
+不得发布歪曲现实的内容，包括不准确或虚假的信息（错误信息），或者故意欺骗的信息（假信息），这种内容可能伤害公众，或者干扰所有人公平和平等参与公共生活的机会。 例如，我们不允许可能危及群体福祉或限制他们参与自由和开放社会的内容。 鼓励积极参与表达想法、观点和经验，不得质疑个人帐户或言论。 我们通常允许模仿和讽刺，但要符合我们的“可接受使用政策”，而且我们认为上下文对于如何接收和理解信息很重要；因此，通过免责声明或其他方式澄清您的意图以及您的信息的来源，可能是适当的做法。
 
 -
 **13 岁以下的任何人。**
@@ -169,12 +169,12 @@ You may not post content that presents a distorted view of reality, whether it i
 GitHub 社区论坛是一个专业环境，应按专业环境来对待它。
 
 -
-**Violation of Terms of Service.**
-If your Github.com account is identified in violation of
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-we will have to close your GitHub Community Forum account as well.
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-also indicates that "One person or legal entity may maintain no more than one free Account" therefore additional free accounts created to inquire about flagged or suspended accounts in the community forum will also be removed.
+**违反服务条款。**
+如果您的 Github.com 帐户被识别为违反
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+，我们将不得不关闭您的 GitHub 社区论坛帐户。
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+还表示，“一个人或法律实体可以维持不超过一个免费帐户”，因此为在社区论坛中查询悬挂或暂停帐户创建的额外免费帐户也将被删除。
 
 ## 执行
 
@@ -204,38 +204,38 @@ also indicates that "One person or legal entity may maintain no more than one fr
 
 如果出于任何原因要私下联系本论坛的 GitHub 工作人员、社区管理员或版主，您可以使用我们的
 [支持联系表](https://support.github.com/contact?tags=docs-community-support)
-。 Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than the forum itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
+。 强烈建议不要通过主动提及或 ping 或者论坛或支持联系表以外的渠道联系任何 GitHub 工作人员，否则可能被视为违反我们禁止骚扰的规定。
 
 让我们共同努力，互相尊重并珍惜每个人的时间，使论坛成为一个人们可以安全舒适地参与的环境。
 
 ## 法律声明
 
-确实，法律条文枯燥乏味，但是我们必须保护自己 – 进而保护您和您的数据 – 免受不友好人士的侵害。 We have a
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-, which includes our
-[Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)
-, and our
-[Privacy Statement](/cn/github/site-policy/github-privacy-statement)
-describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-,
-[GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)
-and the
-[Privacy Statement](/cn/github/site-policy/github-privacy-statement)
-.
+确实，法律条文枯燥乏味，但是我们必须保护自己 – 进而保护您和您的数据 – 免受不友好人士的侵害。 我们的
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+（包括我们的
+[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)
+）和&lt;
+[隐私声明](/cn/github/site-policy/github-privacy-statement)
+阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+、
+[GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)
+和
+[隐私声明](/cn/github/site-policy/github-privacy-statement)
+。
 
-This Code of Conduct does not modify our
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-—which includes our
-[Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)
-—and is not intended to be a complete list. GitHub retains full discretion under the
-[Terms of Service](/cn/github/site-policy/github-terms-of-service)
-to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. 本行为准则说明了我们将在哪些情况下行使该酌处权。
+本行为准则不修改我们的
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+—包括我们的
+[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)
+—也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据
+[服务条款](/cn/github/site-policy/github-terms-of-service)
+删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
 
-### Data Retention and Deletion of Data
+### 数据保留和数据删除
 
-You may contact
-[GitHub Support](https://support.github.com/contact)
-to request the deletion of your community forum profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the
-[GitHub Privacy Statement](/cn/github/site-policy/github-privacy-statement)
-.
+您可以联系
+[GitHub 支持](https://support.github.com/contact)
+请求删除您的社区论坛个人资料。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争端和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 更多信息请参阅
+[GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)
+。

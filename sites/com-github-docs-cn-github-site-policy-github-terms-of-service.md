@@ -154,9 +154,9 @@ GitHub 服务条款 - GitHub Docs
 
 - 您对在您的帐户下发布的所有内容和活动负责（即使是拥有帐户的其他人在您的帐户下发布的内容）。
 - 您负责维护您的帐户和密码的安全。 GitHub 不能也不会对您未能遵守此安全保护义务而造成的任何损失或损害承担责任。
-- You will promptly
-[notify GitHub](https://support.github.com/contact?tags=docs-policy)
-if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
+- 如果您获悉通过您的帐户发生任何未授权的服务使用或访问，包括对您的密码或帐户的任何未授权使用，请立即
+[通知 GitHub](https://support.github.com/contact?tags=docs-policy)
+。
 
 ### 5. 附加条款
 
@@ -392,9 +392,9 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### 5. 付款责任
 
-您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。  If you dispute the matter, contact
-[GitHub Support](https://support.github.com/contact?tags=docs-policy)
-. 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
+您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。  如有争议，请联系
+[GitHub 支持](https://support.github.com/contact?tags=docs-policy)
+。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
 
 ## L. 取消和终止
 
@@ -520,5 +520,5 @@ GitHub 可随时将这些服务条款和/或
 ### 6. 问题
 
 对服务条款有疑问吗？
-[Contact us](https://support.github.com/contact?tags=docs-policy)
-.
+[联系我们](https://support.github.com/contact?tags=docs-policy)
+。

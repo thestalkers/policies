@@ -86,5 +86,5 @@ GitHub 政策的许可。 这些应用程序条款的许可采用
 。
 
 联系我们。 对服务条款有疑问吗？
-[Contact us](https://support.github.com/contact?tags=docs-policy)
-.
+[联系我们](https://support.github.com/contact?tags=docs-policy)
+。
