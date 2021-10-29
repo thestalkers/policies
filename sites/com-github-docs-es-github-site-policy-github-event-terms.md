@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Términos del evento de GitHub](/es/github/site-policy/github-event-terms)
+
+# Términos del evento de GitHub
 
 ## [En este artículo](#in-this-article)
 - [1. Requisitos básicos para asistir, incluyendo el](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
@@ -19,8 +16,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [4. Terminación](#4-termination)
 - [5. Elección de la ley y lugar de residencia](#5-choice-of-law-and-venue)
 - [6. Términos varios](#6-miscellaneous-terms)
-
-# Términos del evento de GitHub
 
 Al confirmar su asistencia o asistiendo a un evento de GitHub, incluyendo cualquiera de los eventos o actividades organizadas por GitHub en asociación con el evento de GitHub (en conjunto, el "Evento"), señalas que has leído, comprendes y aceptas los siguientes términos y condiciones del evento.
 

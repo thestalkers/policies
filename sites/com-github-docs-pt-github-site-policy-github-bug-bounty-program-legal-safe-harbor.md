@@ -5,19 +5,14 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Programa de recompensa de erros e declaração Safe Harbor do GitHub](/pt/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+
+# Programa de recompensa de erros e declaração Safe Harbor do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Sumário](#summary)
 - [1. Termos de Porto Seguro](#1-safe-harbor-terms)
 - [2. Porto Seguro de Terceiros](#2-third-party-safe-harbor)
 - [3. Renúncia limitada a outras políticas do site](#3-limited-waiver-of-other-site-polices)
-
-# Programa de recompensa de erros e declaração Safe Harbor do GitHub
 
 ## Sumário
 Queremos que você divulgue, de forma responsável, através do nosso programa de recompensa de bugs, e não queremos que os pesquisadores fiquem com medo de consequências legais por causa de suas tentativas de boa fé em cumprir nossa política de recompensa de bugs. Não podemos vincular terceiros, por isso, não interprete que essa proteção se estende a terceiros. Em caso de dúvida, pergunte-nos antes de se envolver em qualquer ação específica que você acha que

@@ -5,9 +5,6 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
 
 # サイトポリシー
 - [GitHub利用規約](/ja/github/site-policy/github-terms-of-service)

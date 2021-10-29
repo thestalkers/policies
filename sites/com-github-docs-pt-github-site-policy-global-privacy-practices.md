@@ -5,17 +5,12 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Práticas de privacidade global](/pt/github/site-policy/global-privacy-practices)
+
+# Práticas de privacidade global
 
 ## [Neste artigo](#in-this-article)
 - [Cláusulas Contratuais Padrão](#standard-contractual-clauses)
 - [Escudo de Defesa da Privacidade](#privacy-shield-framework)
-
-# Práticas de privacidade global
 
 Data de entrada em vigor: 22 de Julho de 2020
 

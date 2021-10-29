@@ -5,11 +5,8 @@ GitHubトレードマークポリシー - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubトレードマークポリシー](/ja/github/site-policy/github-trademark-policy)
+
+# GitHubトレードマークポリシー
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [何をすると GitHub トレードマークポリシーの違反になるのですか？](#what-is-a-github-trademark-policy-violation)
@@ -17,8 +14,6 @@ GitHubトレードマークポリシー - GitHub Docs
 - [トレードマークポリシーの違反の報告があった場合、GitHub はどのように対応しますか？](#how-does-github-respond-to-reported-trademark-policy-violations)
 - [トレードマークポリシーの違反を報告するには？](#how-do-i-report-a-trademark-policy-violation)
 - [トレードマークポリシーの違反を報告する際に必要な情報は？](#what-information-is-required-when-reporting-trademark-policy-violations)
-
-# GitHubトレードマークポリシー
 
 ## 何をすると GitHub トレードマークポリシーの違反になるのですか？
 

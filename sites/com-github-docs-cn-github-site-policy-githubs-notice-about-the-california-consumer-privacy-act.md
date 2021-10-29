@@ -5,11 +5,8 @@ GitHub 关于《加州消费者隐私法案》的声明 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 关于《加州消费者隐私法案》的声明](/cn/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+
+# GitHub 关于《加州消费者隐私法案》的声明
 
 ## [本文内容](#in-this-article)
 - [GitHub 对加州居民的声明](#githubs-notice-to-california-residents)
@@ -22,8 +19,6 @@ GitHub 关于《加州消费者隐私法案》的声明 - GitHub Docs
 - [5. 要求删除的权利](#5-right-to-deletion)
 - [我们对个人信息的处理](#our-handling-of-personal-information)
 - [CCPA 下的豁免](#exemptions-under-the-ccpa)
-
-# GitHub 关于《加州消费者隐私法案》的声明
 
 2020 年 1 月 1 日起生效
 

@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Termos de Serviço Corporativos do GitHub](/pt/github/site-policy/github-corporate-terms-of-service)
+
+# Termos de Serviço Corporativos do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Termos de Serviço Corporativos do GitHub](#github-corporate-terms-of-service)
@@ -33,8 +30,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
 - [S. Suporte](#s-support)
 - [T. Disposições Gerais](#t-miscellaneous)
-
-# Termos de Serviço Corporativos do GitHub
 
 *Estes termos aplicam-se 1) aos clientes do GitHub.com (não corporativos) que aceitaram os Termos de Serviço Corporativos e 2) aos Clientes Corporativos que licenciaram o Serviço antes de 4 de janeiro de 2021 de janeiro. Os clientes corporativos que compram produtos ou serviços após essa data são direcionados para*
 *[https://github.com/enterprise-legal](https://github.com/enterprise-legal)*

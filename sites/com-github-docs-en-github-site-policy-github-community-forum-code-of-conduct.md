@@ -1,10 +1,7 @@
 GitHub Community Forum Code of Conduct - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Community Forum Code of Conduct](/en/github/site-policy/github-community-forum-code-of-conduct)
+
+# GitHub Community Forum Code of Conduct
 
 ## [In this article](#in-this-article)
 - [Overview and Purpose](#overview-and-purpose)
@@ -13,8 +10,6 @@ GitHub Community Forum Code of Conduct - GitHub Docs
 - [Enforcement](#enforcement)
 - [Contacting GitHub Staff](#contacting-github-staff)
 - [Legal Notices](#legal-notices)
-
-# GitHub Community Forum Code of Conduct
 
 ## Overview and Purpose
 

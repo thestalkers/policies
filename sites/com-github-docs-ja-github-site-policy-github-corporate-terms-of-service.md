@@ -5,11 +5,8 @@ GitHub企業向け利用規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub企業向け利用規約](/ja/github/site-policy/github-corporate-terms-of-service)
+
+# GitHub企業向け利用規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [GitHub企業向け利用規約](#github-corporate-terms-of-service)
@@ -33,8 +30,6 @@ GitHub企業向け利用規約 - GitHub Docs
 - [R. 本規約またはサービスの変更](#r-changes-to-the-service-or-terms)
 - [S. サポート](#s-support)
 - [T. 雑則](#t-miscellaneous)
-
-# GitHub企業向け利用規約
 
 *本規約は、1) 企業向け利用規約を受け入れたGitHub.com (非Enterprise) のお客様、および2) 2021年1月4日より前に本サービスをライセンスされたEnterpriseのお客様に適用されます。 この日以降に製品またはサービスを購入したEnterpriseのお客様に適用される規約については、*
 *[https://github.com/enterprise-legalをご覧ください。](https://github.com/enterprise-legal%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)*

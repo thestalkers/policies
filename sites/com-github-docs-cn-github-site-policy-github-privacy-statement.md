@@ -5,11 +5,8 @@ GitHub 隐私声明 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)
+
+# GitHub 隐私声明
 
 ## [本文内容](#in-this-article)
 - [精简版](#the-short-version)
@@ -32,8 +29,6 @@ GitHub 隐私声明 - GitHub Docs
 - [许可](#license)
 - [联系 GitHub](#contacting-github)
 - [翻译](#translations)
-
-# GitHub 隐私声明
 
 生效日期：2020 年 12 月 19 日
 

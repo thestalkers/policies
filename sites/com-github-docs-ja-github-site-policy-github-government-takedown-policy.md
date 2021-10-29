@@ -5,11 +5,8 @@ GitHub の行政機関による削除に関するポリシー - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub の行政機関による削除に関するポリシー](/ja/github/site-policy/github-government-takedown-policy)
+
+# GitHub の行政機関による削除に関するポリシー
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [この項目についての説明](#what-is-this)
@@ -18,8 +15,6 @@ GitHub の行政機関による削除に関するポリシー - GitHub Docs
 - [削除の通知を投稿して公開する理由](#why-do-we-publicly-post-takedown-notices)
 - [gov-takedowns リポジトリに通知を投稿することの意味](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 - [透明性レポート](#transparency-reporting)
-
-# GitHub の行政機関による削除に関するポリシー
 
 ## この項目についての説明
 

@@ -5,11 +5,8 @@ GitHub 追加製品および機能の利用規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub 追加製品および機能の利用規約](/ja/github/site-policy/github-terms-for-additional-products-and-features)
+
+# GitHub 追加製品および機能の利用規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [アクション](#actions)
@@ -24,8 +21,6 @@ GitHub 追加製品および機能の利用規約 - GitHub Docs
 - [ページ](#pages)
 - [Sponsorsプログラム](#sponsors-program)
 - [SQL Server Images](#sql-server-images)
-
-# GitHub 追加製品および機能の利用規約
 
 Version Effective Date: August 10, 2021
 

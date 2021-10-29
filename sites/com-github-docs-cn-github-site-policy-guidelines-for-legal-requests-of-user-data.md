@@ -5,11 +5,8 @@
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[用户数据法律要求指南](/cn/github/site-policy/guidelines-for-legal-requests-of-user-data)
+
+# 用户数据法律要求指南
 
 ## [本文内容](#in-this-article)
 - [关于这些指南](#about-these-guidelines)
@@ -22,8 +19,6 @@
 - [提交请求](#submitting-requests)
 - [外国执法部门的请求](#requests-from-foreign-law-enforcement)
 - [问题](#questions)
-
-# 用户数据法律要求指南
 
 您是否是对可能涉及 GitHub 上托管的用户内容进行调查的执法人员？ 或许您是一个具有隐私意识的人，想知道我们与执法部门分享什么信息，以及在什么情况下分享信息。 无论您是哪种身份，都应该参阅本文内容。
 

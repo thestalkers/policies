@@ -5,11 +5,8 @@ GitHub Data Protection Agreement - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub Data Protection Agreement](/cn/github/site-policy/github-data-protection-agreement)
+
+# GitHub Data Protection Agreement
 
 ## [本文内容](#in-this-article)
 - [简介](#introduction)
@@ -19,8 +16,6 @@ GitHub Data Protection Agreement - GitHub Docs
 - [ANNEX I](#annex-i)
 - [ANNEX II](#annex-ii)
 - [ANNEX III](#annex-iii)
-
-# GitHub Data Protection Agreement
 
 ## 简介
 

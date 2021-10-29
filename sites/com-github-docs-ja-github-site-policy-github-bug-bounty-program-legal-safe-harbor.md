@@ -5,19 +5,14 @@ GitHub Bug Bounty Programの法的免責事項 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Bug Bounty Programの法的免責事項](/ja/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+
+# GitHub Bug Bounty Programの法的免責事項
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [概要](#summary)
 - [1. 免責に関する規約](#1-safe-harbor-terms)
 - [2. 第三者の法的免責](#2-third-party-safe-harbor)
 - [3. 他のサイトポリシーについての限定的な免責](#3-limited-waiver-of-other-site-polices)
-
-# GitHub Bug Bounty Programの法的免責事項
 
 ## 概要
 当社は、Bug Bounty Programを通じて、あなたが責任ある開示を行うことを望んでおり、研究者がBug Bountyポリシーを誠実に遵守しようとしたことを理由として法的な影響を恐れるようなことは望んでいません。 当社はいかなる第三者をも拘束できないため、この保護があらゆる第三者にまで及ぶことを心配しないでください。 疑問がある場合は、当社ポリシーの範囲外となる

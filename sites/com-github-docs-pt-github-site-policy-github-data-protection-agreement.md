@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Contrato de Proteção de Dados do GitHub](/pt/github/site-policy/github-data-protection-agreement)
+
+# Contrato de Proteção de Dados do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Introdução](#introduction)
@@ -19,8 +16,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [ANNEX I](#annex-i)
 - [ANNEX II](#annex-ii)
 - [ANNEX III](#annex-iii)
-
-# Contrato de Proteção de Dados do GitHub
 
 ## Introdução
 

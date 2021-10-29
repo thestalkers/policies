@@ -5,11 +5,8 @@ GitHub 公司服务条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 公司服务条款](/cn/github/site-policy/github-corporate-terms-of-service)
+
+# GitHub 公司服务条款
 
 ## [本文内容](#in-this-article)
 - [GitHub 公司服务条款](#github-corporate-terms-of-service)
@@ -33,8 +30,6 @@ GitHub 公司服务条款 - GitHub Docs
 - [R. 服务或条款的更改](#r-changes-to-the-service-or-terms)
 - [S. 支持](#s-support)
 - [T. 其他](#t-miscellaneous)
-
-# GitHub 公司服务条款
 
 *这些条款适用于 1) 已接受《公司服务条款》的 GitHub.com（非企业）客户，以及 2) 在 2021 年 1 月 4 日之前已获得服务许可的企业客户。 在此日期之后购买产品或服务的企业客户将被定向至*
 *[https://github.com/enterprise-legal](https://github.com/enterprise-legal)*

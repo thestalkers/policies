@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Diretrizes da comunidade do GitHub](/pt/github/site-policy/github-community-guidelines)
+
+# Diretrizes da comunidade do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Criar uma comunidade integrada](#building-a-strong-community)
@@ -18,8 +15,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [O que acontece se alguém violar as regras?](#what-happens-if-someone-breaks-the-rules)
 - [Apelação e reinstauração](#appeal-and-reinstatement)
 - [Avisos Legais](#legal-notices)
-
-# Diretrizes da comunidade do GitHub
 
 Milhões de desenvolvedores hospedam milhões de projetos no GitHub — tanto código aberto quanto fechado — e temos orgulho de viabilizarmos a colaboração de toda a comunidade todos os dias. Juntos, temos uma empolgante oportunidade e a responsabilidade de tornar esta comunidade algo do qual podemos nos orgulhar.
 

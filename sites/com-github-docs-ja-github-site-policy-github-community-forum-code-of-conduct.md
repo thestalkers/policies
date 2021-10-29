@@ -5,11 +5,8 @@ GitHubコミュニティフォーラムの行動規範 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubコミュニティフォーラムの行動規範](/ja/github/site-policy/github-community-forum-code-of-conduct)
+
+# GitHubコミュニティフォーラムの行動規範
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [概要と目的](#overview-and-purpose)
@@ -18,8 +15,6 @@ GitHubコミュニティフォーラムの行動規範 - GitHub Docs
 - [行動規範の施行](#enforcement)
 - [GitHubスタッフへの連絡](#contacting-github-staff)
 - [法的通知](#legal-notices)
-
-# GitHubコミュニティフォーラムの行動規範
 
 ## 概要と目的
 

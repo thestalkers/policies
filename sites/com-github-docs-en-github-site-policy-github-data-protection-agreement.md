@@ -1,10 +1,7 @@
 GitHub Data Protection Agreement - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Data Protection Agreement](/en/github/site-policy/github-data-protection-agreement)
+
+# GitHub Data Protection Agreement
 
 ## [In this article](#in-this-article)
 - [Introduction](#introduction)
@@ -13,8 +10,6 @@ GitHub Data Protection Agreement - GitHub Docs
 - [ANNEX I](#annex-i)
 - [ANNEX II](#annex-ii)
 - [ANNEX III](#annex-iii)
-
-# GitHub Data Protection Agreement
 
 ## Introduction
 

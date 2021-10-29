@@ -5,9 +5,6 @@
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
 
 # 站点策略
 - [GitHub 服务条款](/cn/github/site-policy/github-terms-of-service)

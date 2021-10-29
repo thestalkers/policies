@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Política GitHub de retirada governamental](/pt/github/site-policy/github-government-takedown-policy)
+
+# Política GitHub de retirada governamental
 
 ## [Neste artigo](#in-this-article)
 - [O que é?](#what-is-this)
@@ -18,8 +15,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Por que postamos publicamente avisos de retirada emitidos?](#why-do-we-publicly-post-takedown-notices)
 - [O que significa se postarmos um aviso em nosso repositório de retiradas governamentais?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 - [Relatório de transparência](#transparency-reporting)
-
-# Política GitHub de retirada governamental
 
 ## O que é?
 

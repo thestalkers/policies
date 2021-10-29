@@ -5,11 +5,8 @@ GitHub 政府删除政策 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 政府删除政策](/cn/github/site-policy/github-government-takedown-policy)
+
+# GitHub 政府删除政策
 
 ## [本文内容](#in-this-article)
 - [这是什么？](#what-is-this)
@@ -18,8 +15,6 @@ GitHub 政府删除政策 - GitHub Docs
 - [我们为什么公开发布删除通知？](#why-do-we-publicly-post-takedown-notices)
 - [如果我们在 gov-takedown 仓库中发布通知，它意味着什么？](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 - [透明度报告](#transparency-reporting)
-
-# GitHub 政府删除政策
 
 ## 这是什么？
 

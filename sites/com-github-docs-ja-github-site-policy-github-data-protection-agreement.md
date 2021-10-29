@@ -5,11 +5,8 @@ GitHub Data Protection Agreement - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Data Protection Agreement](/ja/github/site-policy/github-data-protection-agreement)
+
+# GitHub Data Protection Agreement
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [はじめに](#introduction)
@@ -19,8 +16,6 @@ GitHub Data Protection Agreement - GitHub Docs
 - [ANNEX I](#annex-i)
 - [ANNEX II](#annex-ii)
 - [ANNEX III](#annex-iii)
-
-# GitHub Data Protection Agreement
 
 ## はじめに
 

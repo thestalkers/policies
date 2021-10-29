@@ -5,11 +5,6 @@
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[负责任地披露安全漏洞](/cn/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 
 # 负责任地披露安全漏洞
 

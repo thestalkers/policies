@@ -5,18 +5,13 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[贈賄防止に関するGitHubの声明](/ja/github/site-policy/github-anti-bribery-statement)
+
+# 贈賄防止に関するGitHubの声明
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [贈収賄を禁止するGitHubのポリシー](#github-policies-prohibiting-bribery)
 - [従業員向け研修](#training-for-our-employees)
 - [バートナーとの連携](#engaging-our-partners)
-
-# 贈賄防止に関するGitHubの声明
 
 GitHubは、贈収賄の禁止を含む、倫理的な商慣行を誓約しています。
 [トランスペアレンシー・インターナショナル](https://www.transparency.org/what-is-corruption#costs-of-corruption)

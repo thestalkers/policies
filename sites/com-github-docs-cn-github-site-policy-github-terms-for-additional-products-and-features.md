@@ -5,11 +5,8 @@ GitHub 其他产品和功能条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 其他产品和功能条款](/cn/github/site-policy/github-terms-for-additional-products-and-features)
+
+# GitHub 其他产品和功能条款
 
 ## [本文内容](#in-this-article)
 - [操作](#actions)
@@ -24,8 +21,6 @@ GitHub 其他产品和功能条款 - GitHub Docs
 - [页面](#pages)
 - [赞助计划](#sponsors-program)
 - [SQL Server 映像](#sql-server-images)
-
-# GitHub 其他产品和功能条款
 
 版本生效日期：2021 年 8 月 10 日
 

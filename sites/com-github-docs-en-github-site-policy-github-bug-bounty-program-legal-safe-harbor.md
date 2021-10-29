@@ -1,18 +1,13 @@
 GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Bug Bounty Program Legal Safe Harbor](/en/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+
+# GitHub Bug Bounty Program Legal Safe Harbor
 
 ## [In this article](#in-this-article)
 - [Summary](#summary)
 - [1. Safe Harbor Terms](#1-safe-harbor-terms)
 - [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
 - [3. Limited Waiver of Other Site Polices](#3-limited-waiver-of-other-site-polices)
-
-# GitHub Bug Bounty Program Legal Safe Harbor
 
 ## Summary
 We want you to responsibly disclose through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think

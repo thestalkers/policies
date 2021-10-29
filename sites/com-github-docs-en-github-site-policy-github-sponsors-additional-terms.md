@@ -1,10 +1,7 @@
 GitHub Sponsors Additional Terms - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Sponsors Additional Terms](/en/github/site-policy/github-sponsors-additional-terms)
+
+# GitHub Sponsors Additional Terms
 
 ## [In this article](#in-this-article)
 - [1. Definitions.](#1-definitions)
@@ -14,8 +11,6 @@ GitHub Sponsors Additional Terms - GitHub Docs
 - [5. Representations and Warranties; Limitation of Liability; Indemnification.](#5-representations-and-warranties-limitation-of-liability-indemnification)
 - [6. Term and Termination.](#6-term-and-termination)
 - [7. Miscellaneous.](#7-miscellaneous)
-
-# GitHub Sponsors Additional Terms
 
 Your participation in the GitHub Sponsors Program (the "Program") is subject to the
 [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)

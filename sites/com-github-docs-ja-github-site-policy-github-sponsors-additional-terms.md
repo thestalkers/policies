@@ -5,11 +5,8 @@ GitHub Sponsors に関する追加条項 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Sponsors に関する追加条項](/ja/github/site-policy/github-sponsors-additional-terms)
+
+# GitHub Sponsors に関する追加条項
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [1. 定義](#1-definitions)
@@ -19,8 +16,6 @@ GitHub Sponsors に関する追加条項 - GitHub Docs
 - [5. 表明および保証、責任の制限、賠償](#5-representations-and-warranties-limitation-of-liability-indemnification)
 - [6. 契約期間および解約](#6-term-and-termination)
 - [7. 雑則](#7-miscellaneous)
-
-# GitHub Sponsors に関する追加条項
 
 「GitHub Sponsors プログラム」 (以下「プログラム」) への参加にあたっては、
 [GitHub 利用規約](/ja/github/site-policy/github-terms-of-service)

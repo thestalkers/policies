@@ -5,18 +5,13 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Política de nombre de usuario de GitHub](/es/github/site-policy/github-username-policy)
+
+# Política de nombre de usuario de GitHub
 
 ## [En este artículo](#in-this-article)
 - [¿Qué pasa si el nombre de usuario que quiero ya está en uso?](#what-if-the-username-i-want-is-already-taken)
 - [Política de marcas](#trademark-policy)
 - [Política de ocupación de nombre](#name-squatting-policy)
-
-# Política de nombre de usuario de GitHub
 
 Los nombres de cuentas de GitHub se proporcionan dependiendo de quién los reclame primero, y se pretende que se comiencen a utilizar activamente de inmediato.
 

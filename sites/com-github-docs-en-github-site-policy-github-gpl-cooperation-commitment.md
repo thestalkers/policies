@@ -1,10 +1,5 @@
 GitHub GPL Cooperation Commitment - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub GPL Cooperation Commitment](/en/github/site-policy/github-gpl-cooperation-commitment)
 
 # GitHub GPL Cooperation Commitment
 

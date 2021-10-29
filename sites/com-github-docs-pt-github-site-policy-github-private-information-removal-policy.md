@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Política de Remoção de Informações Privadas do GitHub](/pt/github/site-policy/github-private-information-removal-policy)
+
+# Política de Remoção de Informações Privadas do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [O que são Informações Privadas?](#what-is-private-information)
@@ -18,8 +15,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Enviar uma solicitação de remoção de informações privadas](#sending-a-private-information-removal-request)
 - [Como enviar sua solicitação](#how-to-submit-your-request)
 - [Disputas](#disputes)
-
-# Política de Remoção de Informações Privadas do GitHub
 
 Oferecemos este processo de remoção de informações privadas como um serviço excepcional apenas para conteúdo de alto risco que viola os
 [Termos de Serviço do GitHub](/pt/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)

@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Termos do programa de pesquisa do GitHub](/pt/github/site-policy/github-research-program-terms)
+
+# Termos do programa de pesquisa do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [A. Seu Feedback](#a-your-feedback)
@@ -20,8 +17,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [F. Isenção de Garantias](#f-disclaimer-of-warranties)
 - [G. Limitação de responsabilidade](#g-limitation-of-liability)
 - [H. Disposições Gerais](#h-miscellaneous)
-
-# Termos do programa de pesquisa do GitHub
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub (“Contrato”).
 

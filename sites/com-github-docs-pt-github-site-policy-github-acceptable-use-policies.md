@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Políticas de uso aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies)
+
+# Políticas de uso aceitável do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [1. Cumprimento de leis e regulamentos](#1-compliance-with-laws-and-regulations)
@@ -22,8 +19,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [8. Uso excessivo da largura de banda](#8-excessive-bandwidth-use)
 - [9. Publicidade no GitHub](#9-advertising-on-github)
 - [10. Proteção do usuário](#10-user-protection)
-
-# Políticas de uso aceitável do GitHub
 
 **Versão curta:**
 *hospedamos uma ampla variedade de projetos colaborativos de todo o mundo, e essa colaboração só funciona quando todos os nossos usuários conseguem trabalhar juntos de boa fé. Ao usar o Serviço, você deve estar de acordo com nossas Políticas de Uso Aceitável, que inclui algumas restrições sobre o conteúdo que você pode publicar, conduta no serviço e outras limitações. Em resumo, sejam excelentes uns com os outros.*

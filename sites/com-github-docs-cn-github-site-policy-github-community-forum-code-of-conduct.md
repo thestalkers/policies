@@ -5,11 +5,8 @@ GitHub 社区论坛行为准则 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 社区论坛行为准则](/cn/github/site-policy/github-community-forum-code-of-conduct)
+
+# GitHub 社区论坛行为准则
 
 ## [本文内容](#in-this-article)
 - [概述和宗旨](#overview-and-purpose)
@@ -18,8 +15,6 @@ GitHub 社区论坛行为准则 - GitHub Docs
 - [执行](#enforcement)
 - [联系 GitHub 工作人员](#contacting-github-staff)
 - [法律声明](#legal-notices)
-
-# GitHub 社区论坛行为准则
 
 ## 概述和宗旨
 

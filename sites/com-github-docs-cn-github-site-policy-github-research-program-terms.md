@@ -5,11 +5,8 @@ GitHub 研究计划条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 研究计划条款](/cn/github/site-policy/github-research-program-terms)
+
+# GitHub 研究计划条款
 
 ## [本文内容](#in-this-article)
 - [A. 反馈](#a-your-feedback)
@@ -20,8 +17,6 @@ GitHub 研究计划条款 - GitHub Docs
 - [F. 免责声明](#f-disclaimer-of-warranties)
 - [G. 责任限制](#g-limitation-of-liability)
 - [H. 其他](#h-miscellaneous)
-
-# GitHub 研究计划条款
 
 欢迎参与 GitHub 研究计划（以下简称“计划”）！ 要参与计划，您需要同意一套特殊的条款，即 GitHub 研究计划协议（以下简称“协议”）。
 

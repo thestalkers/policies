@@ -5,11 +5,8 @@ DMCAテイクダウンポリシー - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[DMCAテイクダウンポリシー](/ja/github/site-policy/dmca-takedown-policy)
+
+# DMCAテイクダウンポリシー
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [DMCA とは？](#what-is-the-dmca)
@@ -22,8 +19,6 @@ DMCAテイクダウンポリシー - GitHub Docs
 - [F. 繰り返しの侵害](#f-repeated-infringement)
 - [G. 通知の提出](#g-submitting-notices)
 - [詳細および当社の見解](#learn-more-and-speak-up)
-
-# DMCAテイクダウンポリシー
 
 このページは、GitHub によるデジタルミレニアム著作権法（DMCA）のガイドです。 これは法律を包括的に説明する入門書ではありません が、あなたが GitHub に投稿したコンテンツを対象とする DMCA テイクダウン通知を受け取った場合、またはそのような通知を発行しようとしている権利所有者の場合、このページはこの法律や、それに従うための当社の方針を理解する上で役立つはずです。
 

@@ -1,17 +1,12 @@
 GitHub Username Policy - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Username Policy](/en/github/site-policy/github-username-policy)
+
+# GitHub Username Policy
 
 ## [In this article](#in-this-article)
 - [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
 - [Trademark Policy](#trademark-policy)
 - [Name Squatting Policy](#name-squatting-policy)
-
-# GitHub Username Policy
 
 GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 

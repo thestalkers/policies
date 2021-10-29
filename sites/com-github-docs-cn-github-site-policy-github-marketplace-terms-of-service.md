@@ -5,11 +5,8 @@ GitHub 市场服务条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 市场服务条款](/cn/github/site-policy/github-marketplace-terms-of-service)
+
+# GitHub 市场服务条款
 
 ## [本文内容](#in-this-article)
 - [A. GitHub.com 的服务条款](#a-githubcoms-terms-of-service)
@@ -22,8 +19,6 @@ GitHub 市场服务条款 - GitHub Docs
 - [H. 阻止开发者产品](#h-developer-product-blocking)
 - [I. 免责声明；责任限制；免赔与保障赔偿](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 - [J. 其他](#j-miscellanea)
-
-# GitHub 市场服务条款
 
 欢迎使用 GitHub Marketplace ("Marketplace")！ 我们很高兴在这里与您邂逅。 在访问或使用 GitHub Marketplace 之前，请仔细阅读这些服务条款（“Marketplace 条款”）。 GitHub Marketplace 是一个供您选择（免费或付费）可用于 GitHub.com 帐户的开发者应用程序或操作（“开发者产品”）的平台。 尽管开发者产品由 GitHub, Inc.（"GitHub"、“我们”）提供，但可能由 GitHub 或第三方软件提供商开发和维护。 选择或使用开发者产品需遵守这些 Marketplace 条款，需支付任何适用的费用，可能还需要遵守该开发者产品的第三方许可者（“产品提供者”）规定的其他条款。
 

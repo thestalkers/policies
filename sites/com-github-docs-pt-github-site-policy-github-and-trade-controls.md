@@ -5,17 +5,12 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[GitHub e controles de negociação](/pt/github/site-policy/github-and-trade-controls)
+
+# GitHub e controles de negociação
 
 ## [Neste artigo](#in-this-article)
 - [Visão geral da exportação](#export-overview)
 - [Perguntas frequentes](#frequently-asked-questions)
-
-# GitHub e controles de negociação
 
 GitHub.com, GitHub Enterprise Server, e as informações que você enviar para qualquer produto podem estar sujeitas a regulamentações de controle de negociação, inclusive sob Regulamentos da Administração de Exportação dos EUA (EAR). Regulamentos Administrativos de Exportação (EAR).
 

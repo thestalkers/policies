@@ -5,17 +5,12 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Subprocessadores e cookies do GitHub](/pt/github/site-policy/github-subprocessors-and-cookies)
+
+# Subprocessadores e cookies do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Subprocessadores GitHub](#github-subprocessors)
 - [Cookies no GitHub](#cookies-on-github)
-
-# Subprocessadores e cookies do GitHub
 
 Data de entrada em vigor:
 **2 de abril de 2021**

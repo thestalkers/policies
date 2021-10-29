@@ -1,10 +1,7 @@
 GitHub Privacy Statement - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
+
+# GitHub Privacy Statement
 
 ## [In this article](#in-this-article)
 - [The short version](#the-short-version)
@@ -27,8 +24,6 @@ GitHub Privacy Statement - GitHub Docs
 - [License](#license)
 - [Contacting GitHub](#contacting-github)
 - [Translations](#translations)
-
-# GitHub Privacy Statement
 
 Effective date: December 19, 2020
 

@@ -5,11 +5,6 @@ GitHub Codespaces Privacy Statement - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub Codespaces Privacy Statement](/cn/github/site-policy/github-codespaces-privacy-statement)
 
 # GitHub Codespaces Privacy Statement
 

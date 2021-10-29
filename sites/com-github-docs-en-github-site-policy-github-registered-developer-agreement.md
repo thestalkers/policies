@@ -1,10 +1,5 @@
 GitHub Registered Developer Agreement - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Registered Developer Agreement](/en/github/site-policy/github-registered-developer-agreement)
 
 # GitHub Registered Developer Agreement
 

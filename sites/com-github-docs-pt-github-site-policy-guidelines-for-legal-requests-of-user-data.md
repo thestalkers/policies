@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Diretrizes para solicitações legais de dados do usuário](/pt/github/site-policy/guidelines-for-legal-requests-of-user-data)
+
+# Diretrizes para solicitações legais de dados do usuário
 
 ## [Neste artigo](#in-this-article)
 - [Sobre estas diretrizes](#about-these-guidelines)
@@ -22,8 +19,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Envio de solicitação](#submitting-requests)
 - [Pedidos de aplicação de lei estrangeira](#requests-from-foreign-law-enforcement)
 - [Perguntas](#questions)
-
-# Diretrizes para solicitações legais de dados do usuário
 
 Você é um oficial da lei que está conduzindo uma investigação envolvendo o conteúdo de usuário hospedado no GitHub? Ou talvez você seja uma pessoa consciente de privacidade que gostaria de saber quais informações compartilhamos com um oficial da lei e sob quais circunstâncias. De qualquer forma, você está na página certa.
 

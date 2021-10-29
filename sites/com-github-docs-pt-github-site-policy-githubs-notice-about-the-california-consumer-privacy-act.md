@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Aviso do GitHub sobre a Lei de Privacidade do Consumidor da Califórnia](/pt/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+
+# Aviso do GitHub sobre a Lei de Privacidade do Consumidor da Califórnia
 
 ## [Neste artigo](#in-this-article)
 - [Aviso do GitHub aos Residentes da Califórnia](#githubs-notice-to-california-residents)
@@ -22,8 +19,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [5. Direito à exclusão](#5-right-to-deletion)
 - [Nosso tratamento de informações pessoais](#our-handling-of-personal-information)
 - [Isenções no âmbito da CCPA](#exemptions-under-the-ccpa)
-
-# Aviso do GitHub sobre a Lei de Privacidade do Consumidor da Califórnia
 
 Data de vigência: 1 de janeiro de 2020
 

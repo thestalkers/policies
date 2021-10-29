@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Código de conduta do fórum da comunidade do GitHub](/pt/github/site-policy/github-community-forum-code-of-conduct)
+
+# Código de conduta do fórum da comunidade do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Visão geral e objetivo](#overview-and-purpose)
@@ -18,8 +15,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Cumprimento da lei](#enforcement)
 - [Contactando o pessoal do GitHub](#contacting-github-staff)
 - [Avisos Legais](#legal-notices)
-
-# Código de conduta do fórum da comunidade do GitHub
 
 ## Visão geral e objetivo
 

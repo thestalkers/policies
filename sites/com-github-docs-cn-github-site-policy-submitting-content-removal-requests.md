@@ -5,18 +5,13 @@
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[提交内容删除请求](/cn/github/site-policy/submitting-content-removal-requests)
+
+# 提交内容删除请求
 
 ## [本文内容](#in-this-article)
 - [DMCA 删除政策](/cn/articles/dmca-takedown-policy)
 - [GitHub 商标政策](/cn/articles/github-trademark-policy)
 - [GitHub 私人信息删除政策](/cn/github/site-policy/github-private-information-removal-policy)
-
-# 提交内容删除请求
 
 我们理解，用户有时可能无意或有意地在并非您拥有的仓库中，将涉及版权、商标的内容或私人内容发布在 GitHub 上。 由于这些内容的性质各异，适用的法律也不同，因此我们的政策中对每个类别规定了各自不同的报告要求。
 

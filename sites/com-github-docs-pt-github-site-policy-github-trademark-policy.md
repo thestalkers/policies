@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Política de marca registrada do GitHub](/pt/github/site-policy/github-trademark-policy)
+
+# Política de marca registrada do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [O que é uma violação da Política de Marca do GitHub?](#what-is-a-github-trademark-policy-violation)
@@ -17,8 +14,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Como o GitHub responde a violações de Política de Marca relatadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
 - [Como faço para denunciar uma violação da Política de Marca?](#how-do-i-report-a-trademark-policy-violation)
 - [Quais informações são necessárias para denunciar violação de Política de Marca?](#what-information-is-required-when-reporting-trademark-policy-violations)
-
-# Política de marca registrada do GitHub
 
 ## O que é uma violação da Política de Marca do GitHub?
 

@@ -5,11 +5,8 @@ GitHub Research Program利用規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Research Program利用規約](/ja/github/site-policy/github-research-program-terms)
+
+# GitHub Research Program利用規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [A. フィードバック](#a-your-feedback)
@@ -20,8 +17,6 @@ GitHub Research Program利用規約 - GitHub Docs
 - [F. 保証免責](#f-disclaimer-of-warranties)
 - [G. 責任の制限](#g-limitation-of-liability)
 - [H. 雑則](#h-miscellaneous)
-
-# GitHub Research Program利用規約
 
 GitHub Research Program (「Program」) へようこそ。 「Program」に参加するためには、GitHub Research Program利用規約 (「利用規約」) という特別な規約に同意する必要があります。
 

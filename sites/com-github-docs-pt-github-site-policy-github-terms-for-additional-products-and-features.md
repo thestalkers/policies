@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Termos do GitHub para Produtos e Funcionalidades Adicionais](/pt/github/site-policy/github-terms-for-additional-products-and-features)
+
+# Termos do GitHub para Produtos e Funcionalidades Adicionais
 
 ## [Neste artigo](#in-this-article)
 - [Ações](#actions)
@@ -24,8 +21,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Pages](#pages)
 - [Programa Sponsors](#sponsors-program)
 - [Imagens do servidor SQL](#sql-server-images)
-
-# Termos do GitHub para Produtos e Funcionalidades Adicionais
 
 Data de vigência da versão: 10 de agosto de 2021
 

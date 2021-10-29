@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Acuerdo de GitHub contra la esclavitud moderna y el trabajo infantil](/es/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
+
+# Acuerdo de GitHub contra la esclavitud moderna y el trabajo infantil
 
 ## [En este artículo](#in-this-article)
 - [La estructura, empresas y las cadenas de suministro de GitHub](#githubs-structure-business-and-supply-chains)
@@ -19,8 +16,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Lugares en las cadenas de negocios y suministros de GitHub donde hay un riesgo de esclavitud moderna y trabajo infantil y los pasos que GitHub ha tomado para evaluar y administrar dicho riesgo](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 - [Efectividad para asegurar que no se esté produciendo la esclavitud moderna ni el trabajo infantil en las cadenas comerciales o de suministro de GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 - [Capacitación para el personal de GitHub sobre la esclavitud moderna y la trata de personas](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
-
-# Acuerdo de GitHub contra la esclavitud moderna y el trabajo infantil
 
 *Declaración 2018*
 

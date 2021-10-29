@@ -5,18 +5,13 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Enviar solicitudes de eliminación de contenido](/es/github/site-policy/submitting-content-removal-requests)
+
+# Enviar solicitudes de eliminación de contenido
 
 ## [En este artículo](#in-this-article)
 - [Política de retiro de DMCA](/es/articles/dmca-takedown-policy)
 - [Política de marca registrada de GitHub](/es/articles/github-trademark-policy)
 - [Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
-
-# Enviar solicitudes de eliminación de contenido
 
 Entendemos que el contenido privado, con derechos de autor o con derechos comerciales podría publicarse en GitHub - ya sea accidentalmente o a propósito - algunas veces en los repositorios que no te pertenecen. Debido a que la naturaleza de este contenido varía y debido a las diferentes leyes aplicables, cada categoría tiene sus propios requisitos de presentación de informes definidos en nuestras políticas.
 

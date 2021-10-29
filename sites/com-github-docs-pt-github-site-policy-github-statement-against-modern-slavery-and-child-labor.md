@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Declaração do GitHub contra a escravidão moderna e o trabalho infantil](/pt/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
+
+# Declaração do GitHub contra a escravidão moderna e o trabalho infantil
 
 ## [Neste artigo](#in-this-article)
 - [Estrutura, negócios e cadeias de fornecedores do GitHub](#githubs-structure-business-and-supply-chains)
@@ -19,8 +16,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Lugares nas cadeias de negócios e suprimentos do GitHub onde há um risco de escravidão moderna e trabalho infantil, e medidas que o GitHub tomou para avaliar e gerenciar esse risco](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 - [A eficácia em garantir que nem a escravidão moderna nem o trabalho infantil estão ocorrendo nos negócios ou cadeias de fornecedores do GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 - [Treinamento para funcionários do GitHub sobre escravidão moderna e tráfico humano](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
-
-# Declaração do GitHub contra a escravidão moderna e o trabalho infantil
 
 *Declaração de 2018*
 

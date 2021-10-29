@@ -5,11 +5,6 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Divulgação responsável de vulnerabilidades de segurança](/pt/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 
 # Divulgação responsável de vulnerabilidades de segurança
 

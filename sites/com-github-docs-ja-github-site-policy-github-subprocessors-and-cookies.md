@@ -5,17 +5,12 @@ GitHubのサブプロセッサとCookie - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubのサブプロセッサとCookie](/ja/github/site-policy/github-subprocessors-and-cookies)
+
+# GitHubのサブプロセッサとCookie
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [GitHubのサブプロセッサ](#github-subprocessors)
 - [GitHubのCookie](#cookies-on-github)
-
-# GitHubのサブプロセッサとCookie
 
 発効日：
 **2021年4月2日**

@@ -5,11 +5,8 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[カリフォルニア州消費者プライバシー法に関するGitHubからの通知](/ja/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+
+# カリフォルニア州消費者プライバシー法に関するGitHubからの通知
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [カリフォルニア州住民に対するGitHubからの通知](#githubs-notice-to-california-residents)
@@ -22,8 +19,6 @@
 - [5. 削除する権利](#5-right-to-deletion)
 - [当社における個人情報の取り扱い](#our-handling-of-personal-information)
 - [CCPAに基づく適用除外](#exemptions-under-the-ccpa)
-
-# カリフォルニア州消費者プライバシー法に関するGitHubからの通知
 
 発行日: 2020年1月1日
 

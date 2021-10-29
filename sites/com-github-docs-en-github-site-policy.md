@@ -1,8 +1,5 @@
 Site policy - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
 
 # Site policy
 - [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)

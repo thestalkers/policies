@@ -1,10 +1,7 @@
 GitHub's Notice about the California Consumer Privacy Act - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub's Notice about the California Consumer Privacy Act](/en/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+
+# GitHub's Notice about the California Consumer Privacy Act
 
 ## [In this article](#in-this-article)
 - [GitHub's Notice to California Residents](#githubs-notice-to-california-residents)
@@ -17,8 +14,6 @@ GitHub's Notice about the California Consumer Privacy Act - GitHub Docs
 - [5. Right to deletion](#5-right-to-deletion)
 - [Our Handling of Personal Information](#our-handling-of-personal-information)
 - [Exemptions under the CCPA](#exemptions-under-the-ccpa)
-
-# GitHub's Notice about the California Consumer Privacy Act
 
 Effective January 1, 2020
 

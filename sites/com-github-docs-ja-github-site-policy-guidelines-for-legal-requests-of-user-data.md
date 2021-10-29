@@ -5,11 +5,8 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[ユーザデータの法的リクエストに関するガイドライン](/ja/github/site-policy/guidelines-for-legal-requests-of-user-data)
+
+# ユーザデータの法的リクエストに関するガイドライン
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [本ガイドラインについて](#about-these-guidelines)
@@ -22,8 +19,6 @@
 - [要求の提出](#submitting-requests)
 - [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
 - [質問](#questions)
-
-# ユーザデータの法的リクエストに関するガイドライン
 
 ここは、GitHub にホストされているユーザコンテンツを調査する法執行官の方や、 当社が法執行機関とどのような情報をどのような状況で共有するのかを知りたいとお考えの方に ご覧いただきたいページです。
 

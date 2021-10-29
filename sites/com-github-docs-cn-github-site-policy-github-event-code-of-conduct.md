@@ -5,17 +5,12 @@ GitHub 活动行为准则 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 活动行为准则](/cn/github/site-policy/github-event-code-of-conduct)
+
+# GitHub 活动行为准则
 
 ## [本文内容](#in-this-article)
 - [行为准则](#code-of-conduct)
 - [鸣谢](#credit)
-
-# GitHub 活动行为准则
 
 GitHub 活动是旨在加强技术社区的交往和协作的社区活动。
 

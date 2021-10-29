@@ -5,18 +5,13 @@ GitHub 用户名政策 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 用户名政策](/cn/github/site-policy/github-username-policy)
+
+# GitHub 用户名政策
 
 ## [本文内容](#in-this-article)
 - [如果已获取所需的用户名，该怎么办？](#what-if-the-username-i-want-is-already-taken)
 - [商标政策](#trademark-policy)
 - [名称占用政策](#name-squatting-policy)
-
-# GitHub 用户名政策
 
 GitHub 帐户名按先到先得的方式提供，预期立即使用。
 

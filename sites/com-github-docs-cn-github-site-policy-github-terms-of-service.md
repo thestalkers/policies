@@ -5,11 +5,8 @@ GitHub 服务条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 服务条款](/cn/github/site-policy/github-terms-of-service)
+
+# GitHub 服务条款
 
 ## [本文内容](#in-this-article)
 - [摘要](#summary)
@@ -32,8 +29,6 @@ GitHub 服务条款 - GitHub Docs
 - [P. 免除和赔偿](#p-release-and-indemnification)
 - [Q. 这些条款的变更](#q-changes-to-these-terms)
 - [R. 其他](#r-miscellaneous)
-
-# GitHub 服务条款
 
 感谢您使用 GitHub！ 我们很高兴在这里与您邂逅。 在访问或使用 GitHub 之前，请仔细阅读本服务条款协议。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍这些条款。
 

@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement)
+
+# Declaração de Privacidade do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Resumo](#the-short-version)
@@ -32,8 +29,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Licença](#license)
 - [Contato com a GitHub](#contacting-github)
 - [Traduções](#translations)
-
-# Declaração de Privacidade do GitHub
 
 Data de vigência: 19 de dezembro de 2020
 

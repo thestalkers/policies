@@ -5,18 +5,13 @@ GitHub ユーザ名ポリシー - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub ユーザ名ポリシー](/ja/github/site-policy/github-username-policy)
+
+# GitHub ユーザ名ポリシー
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [使用したいユーザ名がすでに他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)
 - [トレードマークポリシー](#trademark-policy)
 - [ネームスクワッティングに関するポリシー](#name-squatting-policy)
-
-# GitHub ユーザ名ポリシー
 
 GitHub アカウント名は、すぐに使用されることを前提として先着順で提供されています。
 

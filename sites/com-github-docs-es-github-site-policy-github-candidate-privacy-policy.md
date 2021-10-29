@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Política de Privacidad de Candidatos de GitHub](/es/github/site-policy/github-candidate-privacy-policy)
+
+# Política de Privacidad de Candidatos de GitHub
 
 ## [En este artículo](#in-this-article)
 - [¿Qué tipo de información personal de candidatos recolectamos?](#what-candidate-personal-information-do-we-collect)
@@ -18,8 +15,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Tus derechos sobre tu Información Personal de Candidato](#your-rights-to-your-candidate-personal-information)
 - [¿Por cuánto tiempo retenemos tu Información Personal de Candidato?](#how-long-do-we-retain-your-candidate-personal-information)
 - [Cambios a esta política](#changes-to-this-policy)
-
-# Política de Privacidad de Candidatos de GitHub
 
 Fecha de entrada en vigor: 8 de marzo de 2021
 

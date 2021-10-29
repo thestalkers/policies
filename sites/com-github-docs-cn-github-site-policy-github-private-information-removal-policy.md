@@ -5,11 +5,8 @@ GitHub 私人信息删除政策 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 私人信息删除政策](/cn/github/site-policy/github-private-information-removal-policy)
+
+# GitHub 私人信息删除政策
 
 ## [本文内容](#in-this-article)
 - [什么是私人信息？](#what-is-private-information)
@@ -18,8 +15,6 @@ GitHub 私人信息删除政策 - GitHub Docs
 - [发送私人信息删除请求](#sending-a-private-information-removal-request)
 - [如果提交请求](#how-to-submit-your-request)
 - [异议](#disputes)
-
-# GitHub 私人信息删除政策
 
 我们提供的这个私人信息删除是一项特殊服务，仅针对违反
 [GitHub 服务条款](/cn/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)

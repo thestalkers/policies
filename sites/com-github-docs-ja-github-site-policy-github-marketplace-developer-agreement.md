@@ -5,11 +5,8 @@ GitHub Marketplace開発者同意書 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Marketplace開発者同意書](/ja/github/site-policy/github-marketplace-developer-agreement)
+
+# GitHub Marketplace開発者同意書
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [1.   定義](#1definitions)
@@ -30,8 +27,6 @@ GitHub Marketplace開発者同意書 - GitHub Docs
 - [16. 準拠法](#16-governing-law)
 - [17. 輸出制限](#17-export-restrictions)
 - [18.  利用状況データ](#18--usage-data)
-
-# GitHub Marketplace開発者同意書
 
 **以下の規約および条件（「同意書」）は、お客様のGitHubの「Marketplaceプログラム」への参加について規定するものです。 「Marketplaceプログラム」への参加登録を行うか、以下の [同意する] をクリックすることにより、お客様は本「同意書」を理解し、そのすべての規約および条件を受け入れたことを確認したことになります。  お客様が、企業またはその他の法人を代表して契約を締結しようとする場合、お客様は、本契約を締結するためにその法人に義務を負担させる法的権限を持つことを表明するものとし、この場合「お客様」とは、あなたが代表する法人のことを意味します。**
 

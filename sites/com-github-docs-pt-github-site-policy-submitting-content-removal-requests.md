@@ -5,18 +5,13 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Solicitações de remoção de conteúdo](/pt/github/site-policy/submitting-content-removal-requests)
+
+# Solicitações de remoção de conteúdo
 
 ## [Neste artigo](#in-this-article)
 - [Política de retirada DMCA](/pt/articles/dmca-takedown-policy)
 - [Política de marca registrada do GitHub](/pt/articles/github-trademark-policy)
 - [Política de Remoção de Informações Privadas do GitHub](/pt/github/site-policy/github-private-information-removal-policy)
-
-# Solicitações de remoção de conteúdo
 
 Entendemos que, algumas vezes, conteúdo protegido por direitos autorais, marcas registradas ou conteúdo privado pode ser publicado no GitHub, acidental ou intencionalmente, em repositórios dos quais você não possui a propriedade. Uma vez que a natureza deste conteúdo varia e, devido às diferentes leis aplicáveis, cada categoria tem os seus próprios requisitos distintos de denúncia definidos em nossas políticas.
 

@@ -5,17 +5,12 @@
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[全球隐私实践](/cn/github/site-policy/global-privacy-practices)
+
+# 全球隐私实践
 
 ## [本文内容](#in-this-article)
 - [标准合同条款](#standard-contractual-clauses)
 - [隐私盾框架](#privacy-shield-framework)
-
-# 全球隐私实践
 
 生效日期：2020 年 7 月 22 日。
 

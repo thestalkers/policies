@@ -5,17 +5,12 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Código de conducta del evento de GitHub](/es/github/site-policy/github-event-code-of-conduct)
+
+# Código de conducta del evento de GitHub
 
 ## [En este artículo](#in-this-article)
 - [Código de conducta](#code-of-conduct)
 - [Crédito](#credit)
-
-# Código de conducta del evento de GitHub
 
 Los eventos de GitHub son eventos comunitarios destinados a la creación de redes y la colaboración en la comunidad tecnológica.
 

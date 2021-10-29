@@ -5,11 +5,6 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[お亡くなりになったユーザに関するGitHubのポリシー](/ja/github/site-policy/github-deceased-user-policy)
 
 # お亡くなりになったユーザに関するGitHubのポリシー
 

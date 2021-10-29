@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Política de retiro de DMCA](/es/github/site-policy/dmca-takedown-policy)
+
+# Política de retiro de DMCA
 
 ## [En este artículo](#in-this-article)
 - [¿Qué es la DMCA?](#what-is-the-dmca)
@@ -22,8 +19,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [F. Retición de una infracción](#f-repeated-infringement)
 - [G. Cómo enviar notificaciones](#g-submitting-notices)
 - [Conoce más y comunícate](#learn-more-and-speak-up)
-
-# Política de retiro de DMCA
 
 Bienvenido a la Guía sobre la Ley de Derechos de Autor del Milenio Digital de GitHub, comúnmente conocida como la "DMCA". Esta página no está pensada como un manual extenso del estatuto. Sin embargo, si has recibido un aviso de retiro de la DMCA orientado al contenido que has publicado en GitHub o si eres un titular de derechos que busca proponer dicho aviso, esperamos que esta página ayude a desmitificar la ley un poco, así como nuestras políticas para cumplirla.
 

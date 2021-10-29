@@ -1,10 +1,7 @@
 GitHub Corporate Terms of Service - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Corporate Terms of Service](/en/github/site-policy/github-corporate-terms-of-service)
+
+# GitHub Corporate Terms of Service
 
 ## [In this article](#in-this-article)
 - [GitHub Corporate Terms of Service](#github-corporate-terms-of-service)
@@ -28,8 +25,6 @@ GitHub Corporate Terms of Service - GitHub Docs
 - [R. Changes to the Service or Terms](#r-changes-to-the-service-or-terms)
 - [S. Support](#s-support)
 - [T. Miscellaneous](#t-miscellaneous)
-
-# GitHub Corporate Terms of Service
 
 *These terms apply to 1) GitHub.com (non-Enterprise) customers who have accepted the Corporate Terms of Service, and 2) Enterprise customers who licensed the Service prior to January 4, 2021. Enterprise customers who purchase Products or Services after that date are directed to*
 *[https://github.com/enterprise-legal](https://github.com/enterprise-legal)*

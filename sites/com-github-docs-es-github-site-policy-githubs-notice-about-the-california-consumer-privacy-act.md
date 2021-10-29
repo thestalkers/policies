@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California](/es/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
+
+# Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California
 
 ## [En este artículo](#in-this-article)
 - [Aviso de GitHub para los Residentes de California](#githubs-notice-to-california-residents)
@@ -22,8 +19,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [5. Derecho al borrado](#5-right-to-deletion)
 - [Nuestro manejo de la Información Personal](#our-handling-of-personal-information)
 - [Ejemplos bajo la CCPA](#exemptions-under-the-ccpa)
-
-# Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California
 
 Válida desde el 1 de enero de 2020
 

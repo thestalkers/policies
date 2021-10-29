@@ -5,11 +5,8 @@ GitHub 活动条款 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 活动条款](/cn/github/site-policy/github-event-terms)
+
+# GitHub 活动条款
 
 ## [本文内容](#in-this-article)
 - [1. 参与活动的基本要求 - 包括](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
@@ -19,8 +16,6 @@ GitHub 活动条款 - GitHub Docs
 - [4. 终止](#4-termination)
 - [5. 法律和审判地选择](#5-choice-of-law-and-venue)
 - [6. 其他条款](#6-miscellaneous-terms)
-
-# GitHub 活动条款
 
 应邀或主动参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何赛事或项目（统称为“活动”），即表示您已阅读、理解并同意以下活动条款和条件。
 

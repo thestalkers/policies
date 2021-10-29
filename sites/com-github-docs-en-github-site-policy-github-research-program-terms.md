@@ -1,10 +1,7 @@
 GitHub Research Program Terms - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Research Program Terms](/en/github/site-policy/github-research-program-terms)
+
+# GitHub Research Program Terms
 
 ## [In this article](#in-this-article)
 - [A. Your Feedback](#a-your-feedback)
@@ -15,8 +12,6 @@ GitHub Research Program Terms - GitHub Docs
 - [F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
 - [G. Limitation of Liability](#g-limitation-of-liability)
 - [H. Miscellaneous](#h-miscellaneous)
-
-# GitHub Research Program Terms
 
 Welcome to the GitHub Research Program (the "Program")! To participate, we’ll need you to agree to a special set of terms, the GitHub Research Program Agreement (“Agreement”).
 

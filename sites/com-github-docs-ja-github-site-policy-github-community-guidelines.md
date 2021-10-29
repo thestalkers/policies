@@ -5,11 +5,8 @@ GitHubコミュニティガイドライン - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubコミュニティガイドライン](/ja/github/site-policy/github-community-guidelines)
+
+# GitHubコミュニティガイドライン
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [強いコミュニティを作る](#building-a-strong-community)
@@ -18,8 +15,6 @@ GitHubコミュニティガイドライン - GitHub Docs
 - [誰かがルールに違反した場合は](#what-happens-if-someone-breaks-the-rules)
 - [意義申し立てと復帰](#appeal-and-reinstatement)
 - [法的通知](#legal-notices)
-
-# GitHubコミュニティガイドライン
 
 GitHub では、何百万人もの開発者が何百万ものプロジェクト（オープンソースとクローズドソースの両方）をホストしています。私たちは、コミュニティの日々のコラボレーションに貢献できることを光栄に思います。 私たちには、誇りに思うことができるコミュニティを実現するための素晴らしいチャンスがあると同時に、責任も背負っています。
 

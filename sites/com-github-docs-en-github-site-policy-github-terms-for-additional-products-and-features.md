@@ -1,10 +1,7 @@
 GitHub Terms for Additional Products and Features - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Terms for Additional Products and Features](/en/github/site-policy/github-terms-for-additional-products-and-features)
+
+# GitHub Terms for Additional Products and Features
 
 ## [In this article](#in-this-article)
 - [Actions](#actions)
@@ -19,8 +16,6 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 - [Pages](#pages)
 - [Sponsors Program](#sponsors-program)
 - [SQL Server Images](#sql-server-images)
-
-# GitHub Terms for Additional Products and Features
 
 Version Effective Date: August 10, 2021
 

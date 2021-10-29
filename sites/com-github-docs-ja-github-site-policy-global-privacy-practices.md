@@ -5,17 +5,12 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[プライバシーのグローバルプラクティス](/ja/github/site-policy/global-privacy-practices)
+
+# プライバシーのグローバルプラクティス
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [標準契約条項](#standard-contractual-clauses)
 - [プライバシー シールド フレームワーク](#privacy-shield-framework)
-
-# プライバシーのグローバルプラクティス
 
 発効日: 2020年7月22日
 

@@ -1,10 +1,5 @@
 GitHub Deceased User Policy - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Deceased User Policy](/en/github/site-policy/github-deceased-user-policy)
 
 # GitHub Deceased User Policy
 

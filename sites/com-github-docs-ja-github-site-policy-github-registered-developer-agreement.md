@@ -5,11 +5,6 @@ GitHub登録開発者同意書 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub登録開発者同意書](/ja/github/site-policy/github-registered-developer-agreement)
 
 # GitHub登録開発者同意書
 

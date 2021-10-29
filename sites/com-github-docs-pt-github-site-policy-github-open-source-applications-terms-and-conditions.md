@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Termos e condições dos aplicativos de código aberto do GitHub](/pt/github/site-policy/github-open-source-applications-terms-and-conditions)
+
+# Termos e condições dos aplicativos de código aberto do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Conectando-se ao GitHub](#connecting-to-github)
@@ -18,8 +15,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Privacidade](#privacy)
 - [Serviços adicionais](#additional-services)
 - [Outros](#miscellanea)
-
-# Termos e condições dos aplicativos de código aberto do GitHub
 
 Estes Termos e Condições de Aplicativos de Código Aberto do GitHub ("Termos de Aplicação") são um acordo legal entre você (como pessoa física ou em nome de uma entidade) e o GitHub, Inc. em relação ao uso de aplicativos do GitHub, como GitHub Desktop™ e documentação associada ("Software"). Estes Termos de Aplicação aplicam-se à versão de código executável do Software. O código-fonte do Software está disponível separadamente e gratuitamente sob contratos de licença de software de código aberto. Se você não concordar com todos os termos nestes Termos de Aplicativo, não baixe, instale, use ou copie o Software.
 

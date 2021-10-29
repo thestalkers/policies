@@ -5,11 +5,8 @@ GitHub 可接受的使用政策 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 可接受的使用政策](/cn/github/site-policy/github-acceptable-use-policies)
+
+# GitHub 可接受的使用政策
 
 ## [本文内容](#in-this-article)
 - [1. 符合法律法规](#1-compliance-with-laws-and-regulations)
@@ -22,8 +19,6 @@ GitHub 可接受的使用政策 - GitHub Docs
 - [8. 过度带宽使用](#8-excessive-bandwidth-use)
 - [9. GitHub 上的广告](#9-advertising-on-github)
 - [10. 用户保护](#10-user-protection)
-
-# GitHub 可接受的使用政策
 
 **短版本：**
 *我们托管全球各地大量的协作项目，仅当用户能够善意一起工作时，该协作才能正常进行。 在使用服务时，必须遵守我们的可接受使用政策，包括对您可以发布的内容、对服务的操作的一些限制，以及其他限制规定。 简言之，要互惠互利。*

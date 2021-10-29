@@ -5,11 +5,6 @@
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[セキュリティ脆弱性の責任ある開示](/ja/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 
 # セキュリティ脆弱性の責任ある開示
 

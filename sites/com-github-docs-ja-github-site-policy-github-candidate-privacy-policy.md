@@ -5,11 +5,8 @@ GitHub 志望者のプライバシーポリシー - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub 志望者のプライバシーポリシー](/ja/github/site-policy/github-candidate-privacy-policy)
+
+# GitHub 志望者のプライバシーポリシー
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [当社が収集する志望者の個人情報](#what-candidate-personal-information-do-we-collect)
@@ -18,8 +15,6 @@ GitHub 志望者のプライバシーポリシー - GitHub Docs
 - [志望者の個人情報に対する権利](#your-rights-to-your-candidate-personal-information)
 - [志望者の個人情報を保持する期間](#how-long-do-we-retain-your-candidate-personal-information)
 - [本ポリシーの変更](#changes-to-this-policy)
-
-# GitHub 志望者のプライバシーポリシー
 
 発効日: 2021年3月8日
 

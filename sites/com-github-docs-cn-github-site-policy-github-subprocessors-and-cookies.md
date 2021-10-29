@@ -5,17 +5,12 @@ GitHub 子处理器和 Cookie - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 子处理器和 Cookie](/cn/github/site-policy/github-subprocessors-and-cookies)
+
+# GitHub 子处理器和 Cookie
 
 ## [本文内容](#in-this-article)
 - [GitHub 子处理商](#github-subprocessors)
 - [GitHub 上的 Cookie](#cookies-on-github)
-
-# GitHub 子处理器和 Cookie
 
 生效日期：
 **2021 年 4 月 2 日**

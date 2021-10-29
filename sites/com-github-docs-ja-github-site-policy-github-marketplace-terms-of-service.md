@@ -5,11 +5,8 @@ GitHub Marketplace利用規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub Marketplace利用規約](/ja/github/site-policy/github-marketplace-terms-of-service)
+
+# GitHub Marketplace利用規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [A. GitHub.com利用規約](#a-githubcoms-terms-of-service)
@@ -22,8 +19,6 @@ GitHub Marketplace利用規約 - GitHub Docs
 - [H. 開発者製品のブロック](#h-developer-product-blocking)
 - [I. 免責事項、責任の制限、解放および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 - [J. その他](#j-miscellanea)
-
-# GitHub Marketplace利用規約
 
 GitHub Marketplace (「Marketplace」) へようこそ！ また、こちらのページをご覧いただきありがとうございます。 GitHub Marketplaceにアクセスしたり、利用したりする前に、この利用規約 (「Marketplace利用規約」) をよくお読みください。 GitHub Marketplaceは、GitHub.comアカウントで利用できる開発者アプリケーションやActionsを (有料または無料で) 選択できるプラットフォームです。 「開発者製品」はGitHub, Inc. (「GitHub」、「当社」) が提供するものの、その開発および管理を行うのはGitHubである場合もサードパーティソフトウェアプロバイダである場合もあります。 「開発者製品」の選択や使用には、本「Marketplace利用規約」が適用され、該当する料金が課されます。また、「開発者製品」のサードパーティーライセンサー (「製品提供者」) による追加の利用規約にも合意を求められる場合があります。
 

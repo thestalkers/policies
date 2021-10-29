@@ -5,19 +5,14 @@ DMCAテイクダウン通知のガイドの提出 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[DMCAテイクダウン通知のガイドの提出](/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+
+# DMCAテイクダウン通知のガイドの提出
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [はじめる前に](#before-you-start)
 - [申し立てられる苦情は ...](#your-complaint-must-)
 - [反迂回技術に関する苦情](#complaints-about-anti-circumvention-technology)
 - [苦情の提出方法](#how-to-submit-your-complaint)
-
-# DMCAテイクダウン通知のガイドの提出
 
 このガイドでは、DMCA テイクダウンリクエストを処理するために GitHub が必要とする情報について説明します。 DMCA とは何かや、GitHub が DMCA テイクダウンリクエストをどのように処理するかなど、一般的な質問については
 [DMCA テイクダウンポリシー](/ja/articles/dmca-takedown-policy)

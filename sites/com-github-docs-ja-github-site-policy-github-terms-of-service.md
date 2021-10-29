@@ -5,11 +5,8 @@ GitHub利用規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub利用規約](/ja/github/site-policy/github-terms-of-service)
+
+# GitHub利用規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [概要](#summary)
@@ -32,8 +29,6 @@ GitHub利用規約 - GitHub Docs
 - [P. 免責・補償](#p-release-and-indemnification)
 - [Q. 本規約の変更](#q-changes-to-these-terms)
 - [R. 雑則](#r-miscellaneous)
-
-# GitHub利用規約
 
 GitHubをご利用いただきありがとうございます。 また、こちらのページをご覧いただきありがとうございます。 GitHubにアクセスするまたはGitHubをご利用いただく前に、こちらの「利用規約」をよくお読みください。 当社とユーザ間の非常に大切な契約になるため、できるだけわかりやすくなるよう心がけています。 便宜上、本規約は全文の前に法的拘束力のない短い要約を記載してあります。
 

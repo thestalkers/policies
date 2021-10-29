@@ -5,17 +5,12 @@ GitHubイベントの行動規範 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubイベントの行動規範](/ja/github/site-policy/github-event-code-of-conduct)
+
+# GitHubイベントの行動規範
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [行動規範](#code-of-conduct)
 - [クレジット](#credit)
-
-# GitHubイベントの行動規範
 
 GitHubイベントは、テックコミュニティのネットワーキングとコラボレーションを目的としたコミュニティイベントです。
 

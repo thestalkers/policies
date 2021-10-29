@@ -5,11 +5,8 @@ GitHub 利用規定 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHub 利用規定](/ja/github/site-policy/github-acceptable-use-policies)
+
+# GitHub 利用規定
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [1. 法令・規定の遵守](#1-compliance-with-laws-and-regulations)
@@ -22,8 +19,6 @@ GitHub 利用規定 - GitHub Docs
 - [8. 過剰な帯域の使用](#8-excessive-bandwidth-use)
 - [9. GitHubでの広告](#9-advertising-on-github)
 - [10. ユーザの保護](#10-user-protection)
-
-# GitHub 利用規定
 
 **趣旨の要約:**
 *私たちは、世界中のさまざまな協同プロジェクトをホストしており、そうしたコラボレーションは、ユーザ同士が誠実に協力できる場合にのみ成り立ちます。 あなたが「サービス」を利用する際は、本利用規定に従う必要があります。本利用規定には、あなたが投稿できるコンテンツについての制限、サービス上の行動、その他の制限が記載されています。 その趣旨を要約すれば、お互いのことを思いやりましょうということです。*

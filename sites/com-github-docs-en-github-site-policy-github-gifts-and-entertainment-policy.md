@@ -1,10 +1,7 @@
 GitHub Gifts and Entertainment Policy - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Gifts and Entertainment Policy](/en/github/site-policy/github-gifts-and-entertainment-policy)
+
+# GitHub Gifts and Entertainment Policy
 
 ## [In this article](#in-this-article)
 - [Company policies](#company-policies)
@@ -12,8 +9,6 @@ GitHub Gifts and Entertainment Policy - GitHub Docs
 - [Process](#process)
 - [Consequences](#consequences)
 - [More information](#more-information)
-
-# GitHub Gifts and Entertainment Policy
 
 GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
 

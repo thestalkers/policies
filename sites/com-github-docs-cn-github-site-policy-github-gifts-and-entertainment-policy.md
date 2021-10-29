@@ -5,11 +5,8 @@ GitHub 礼品和招待政策 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 礼品和招待政策](/cn/github/site-policy/github-gifts-and-entertainment-policy)
+
+# GitHub 礼品和招待政策
 
 ## [本文内容](#in-this-article)
 - [公司政策](#company-policies)
@@ -17,8 +14,6 @@ GitHub 礼品和招待政策 - GitHub Docs
 - [流程](#process)
 - [后果](#consequences)
 - [更多信息](#more-information)
-
-# GitHub 礼品和招待政策
 
 GitHub 确认，我们的业务建立在正当和透明的关系之上。 虽然非正式的互动和礼品交换可能是培养这种关系的一部分，甚至可能在某些国家/地区被视为惯例，但我们必须确保遵守反贿赂法律。 我们有道德经营的法律义务，包括不利用这种互动来获取特殊优势或影响交易。
 

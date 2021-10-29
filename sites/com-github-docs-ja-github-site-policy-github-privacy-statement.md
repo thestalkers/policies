@@ -5,11 +5,8 @@ GitHubのプライバシーについての声明 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)
+
+# GitHubのプライバシーについての声明
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [ショートバージョン](#the-short-version)
@@ -32,8 +29,6 @@ GitHubのプライバシーについての声明 - GitHub Docs
 - [ライセンス](#license)
 - [GitHubへの連絡](#contacting-github)
 - [翻訳](#translations)
-
-# GitHubのプライバシーについての声明
 
 発効日：2020年12月20日
 

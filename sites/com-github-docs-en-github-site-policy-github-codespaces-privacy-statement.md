@@ -1,10 +1,5 @@
 GitHub Codespaces Privacy Statement - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Codespaces Privacy Statement](/en/github/site-policy/github-codespaces-privacy-statement)
 
 # GitHub Codespaces Privacy Statement
 

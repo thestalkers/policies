@@ -5,19 +5,14 @@ GitHub 漏洞悬赏计划法律安全港 - GitHub Docs
 如果您有改进我们翻译的建议，请
 [在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
 。
-[GitHub](/cn/github)
-/
-[站点策略](/cn/github/site-policy)
-/
-[GitHub 漏洞悬赏计划法律安全港](/cn/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+
+# GitHub 漏洞悬赏计划法律安全港
 
 ## [本文内容](#in-this-article)
 - [摘要](#summary)
 - [1. 安全港条款](#1-safe-harbor-terms)
 - [2. 第三方安全港](#2-third-party-safe-harbor)
 - [3. 其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
-
-# GitHub 漏洞悬赏计划法律安全港
 
 ## 摘要
 我们希望您通过我们的漏洞悬赏计划负责任地披露漏洞，不希望研究人员在有诚意遵守我们的漏洞悬赏政策时担心法律后果。 我们无法约束任何第三方，因此不要假设这种保护适用于任何第三方。 如有疑问，请在采取您认为

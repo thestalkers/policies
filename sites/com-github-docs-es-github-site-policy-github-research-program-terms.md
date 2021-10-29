@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Términos del programa de investigación de GitHub](/es/github/site-policy/github-research-program-terms)
+
+# Términos del programa de investigación de GitHub
 
 ## [En este artículo](#in-this-article)
 - [A. Tu retroalimentación](#a-your-feedback)
@@ -20,8 +17,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [F. Exención de garantías](#f-disclaimer-of-warranties)
 - [G. Limitación de responsabilidad](#g-limitation-of-liability)
 - [H. Varios](#h-miscellaneous)
-
-# Términos del programa de investigación de GitHub
 
 ¡Bienvenido al programa de investigación de GitHub (el "Programa")! Para participar, necesitaremos que accedas a un conjunto especial de términos, el acuerdo del programa de investigación de GitHub ("Acuerdo").
 

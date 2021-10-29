@@ -1,10 +1,5 @@
 Responsible Disclosure of Security Vulnerabilities - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[Responsible Disclosure of Security Vulnerabilities](/en/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 
 # Responsible Disclosure of Security Vulnerabilities
 

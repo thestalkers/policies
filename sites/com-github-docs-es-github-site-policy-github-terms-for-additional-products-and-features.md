@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Condiciones de GitHub para las características y productos adicionales](/es/github/site-policy/github-terms-for-additional-products-and-features)
+
+# Condiciones de GitHub para las características y productos adicionales
 
 ## [En este artículo](#in-this-article)
 - [Acciones](#actions)
@@ -24,8 +21,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Pages](#pages)
 - [Programa de patrocinadores](#sponsors-program)
 - [Imagenes de SQL Server](#sql-server-images)
-
-# Condiciones de GitHub para las características y productos adicionales
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 

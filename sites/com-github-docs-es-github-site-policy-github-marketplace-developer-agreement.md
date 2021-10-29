@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Acuerdo de Desarrollador de GitHub Marketplace](/es/github/site-policy/github-marketplace-developer-agreement)
+
+# Acuerdo de Desarrollador de GitHub Marketplace
 
 ## [En este artículo](#in-this-article)
 - [1.   DEFINICIONES](#1definitions)
@@ -30,8 +27,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [16. LEGISLACIÓN APLICABLE](#16-governing-law)
 - [17. RESTRICCIONES DE EXPORTACIÓN](#17-export-restrictions)
 - [18.  DATOS DE USO](#18--usage-data)
-
-# Acuerdo de Desarrollador de GitHub Marketplace
 
 **ESTOS TÉRMINOS Y CONDICIONES (EL "ACUERDO") REGULAN TU PARTICIPACIÓN EN EL PROGRAMA DEL MERCADO DE GITUB. AL INSCRIBIRTE PARA PARTICIPAR EN EL PROGRAMA DE MERCADO O AL HACER CLIC EN "ACEPTO" A CONTINUACIÓN, CONFIRMAS QUE ENTIENDES EL PRESENTE ACUERDO Y QUE ACEPTAS TODOS SUS TÉRMINOS Y CONDICIONES.  SI ESTÁS INGRESANDO EN EL PRESENTE ACUERDO EN NOMBRE DE UNA EMPRESA U OTRA ENTIDAD LEGAL, DECLARAS QUE TIENES LA AUTORIDAD LEGAL PARA VINCULAR A LA ENTIDAD CON EL PRESENTE ACUERDO, EN CUYO CASO "TÚ" SIGNIFICARÁ LA ENTIDAD QUE REPRESENTAS.**
 

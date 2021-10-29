@@ -5,11 +5,8 @@ GitHubイベント規約 - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[GitHubイベント規約](/ja/github/site-policy/github-event-terms)
+
+# GitHubイベント規約
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [1. 出席する基本条件――](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
@@ -20,8 +17,6 @@ GitHubイベント規約 - GitHub Docs
 - [4. 解約](#4-termination)
 - [5. 準拠法および裁判地](#5-choice-of-law-and-venue)
 - [6. 雑則](#6-miscellaneous-terms)
-
-# GitHubイベント規約
 
 GitHubイベントに関連してGitHubが企画するイベントやアクティビティを含め、GitHubのイベント (「イベント」と総称) に参加を申し込むまたは出席することにより、あなたは以下のイベント規約および条件を読み、理解し、同意したことを示します。
 

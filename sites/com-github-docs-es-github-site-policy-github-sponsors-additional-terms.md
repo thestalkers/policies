@@ -5,11 +5,8 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Términos adicionales de los Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms)
+
+# Términos adicionales de los Patrocinadores de GitHub
 
 ## [En este artículo](#in-this-article)
 - [1. Definiciones.](#1-definitions)
@@ -19,8 +16,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [5. Representaciones y garantías; limitación de responsabilidades; indemnización.](#5-representations-and-warranties-limitation-of-liability-indemnification)
 - [6. Plazo y terminación.](#64-effect-of-termination)
 - [7. Varios.](#7-miscellaneous)
-
-# Términos adicionales de los Patrocinadores de GitHub
 
 Tu participación en el Programa de Patrocinadores de GitHub (el "Programa") está sujeta a las
 [Condiciones de Servicio de GitHub](/es/github/site-policy/github-terms-of-service)

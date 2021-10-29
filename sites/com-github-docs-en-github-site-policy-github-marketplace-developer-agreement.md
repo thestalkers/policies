@@ -1,10 +1,7 @@
 GitHub Marketplace Developer Agreement - GitHub Docs
 [GitHub Docs](/en)
-[GitHub](/en/github)
-/
-[Site policy](/en/github/site-policy)
-/
-[GitHub Marketplace Developer Agreement](/en/github/site-policy/github-marketplace-developer-agreement)
+
+# GitHub Marketplace Developer Agreement
 
 ## [In this article](#in-this-article)
 - [1.	DEFINITIONS](#1definitions)
@@ -25,8 +22,6 @@ GitHub Marketplace Developer Agreement - GitHub Docs
 - [16. GOVERNING LAW](#16-governing-law)
 - [17. EXPORT RESTRICTIONS](#17-export-restrictions)
 - [18.  USAGE DATA](#18--usage-data)
-
-# GitHub Marketplace Developer Agreement
 
 **THESE TERMS AND CONDITIONS (THE "AGREEMENT") GOVERN YOUR PARTICIPATION IN GITHUB’S MARKETPLACE PROGRAM. BY ENROLLING TO PARTICIPATE IN THE MARKETPLACE PROGRAM OR BY CLICKING “I ACCEPT” BELOW, YOU ARE CONFIRMING THAT YOU UNDERSTAND THIS AGREEMENT, AND THAT YOU ACCEPT ALL OF ITS TERMS AND CONDITIONS.  IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE “YOU” WILL MEAN THE ENTITY YOU REPRESENT.**
 

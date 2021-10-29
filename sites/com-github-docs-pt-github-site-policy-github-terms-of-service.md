@@ -5,11 +5,8 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Termos de serviço do GitHub](/pt/github/site-policy/github-terms-of-service)
+
+# Termos de serviço do GitHub
 
 ## [Neste artigo](#in-this-article)
 - [Sumário](#summary)
@@ -32,8 +29,6 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [P. Versão e Indenização](#p-release-and-indemnification)
 - [Q. Alterações nestes termos](#q-changes-to-these-terms)
 - [R. Disposições Gerais](#r-miscellaneous)
-
-# Termos de serviço do GitHub
 
 Obrigado por usar o GitHub! Estamos felizes por você estar aqui. Por favor, leia estes Termos de Serviço com cuidado antes de acessar ou usar o GitHub. Por se tratar de um contrato tão importante entre nós e os usuários, tentamos torná-lo o mais claro possível. Para sua conveniência, apresentamos estes termos num breve resumo não vinculativo, seguido da totalidade dos termos jurídicos.
 

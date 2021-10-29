@@ -5,11 +5,6 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Se você tem sugestões para aprimorar nossa tradução, por favor,
 [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/pt/github)
-/
-[Política do site](/pt/github/site-policy)
-/
-[Declaração de Privacidade do GitHub Codespaces](/pt/github/site-policy/github-codespaces-privacy-statement)
 
 # Declaração de Privacidade do GitHub Codespaces
 

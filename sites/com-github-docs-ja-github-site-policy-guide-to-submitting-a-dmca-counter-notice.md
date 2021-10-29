@@ -5,18 +5,13 @@ DMCAカウンター通知の提出ガイド - GitHub Docs
 翻訳の改善についての示唆があるなら、
 [弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
 ください。
-[GitHub](/ja/github)
-/
-[サイトポリシー](/ja/github/site-policy)
-/
-[DMCAカウンター通知の提出ガイド](/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
+
+# DMCAカウンター通知の提出ガイド
 
 ## [ここには以下の内容があります:](#in-this-article)
 - [はじめる前に](#before-you-start)
 - [異議申し立て通知は...](#your-counter-notice-must)
 - [異議申し立て通知の提出方法](#how-to-submit-your-counter-notice)
-
-# DMCAカウンター通知の提出ガイド
 
 このガイドでは、DMCA テイクダウンリクエストに対する異議申し立て通知を処理するために GitHub が必要とする情報について説明します。 DMCA とは何かや、GitHub が DMCA テイクダウンリクエストをどのように処理するかなど、一般的な質問については
 [DMCA テイクダウンポリシー](/ja/articles/dmca-takedown-policy)

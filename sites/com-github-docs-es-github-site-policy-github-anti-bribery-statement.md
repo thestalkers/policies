@@ -5,18 +5,13 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
-[GitHub](/es/github)
-/
-[Política del sitio](/es/github/site-policy)
-/
-[Declaración antisoborno de GitHub](/es/github/site-policy/github-anti-bribery-statement)
+
+# Declaración antisoborno de GitHub
 
 ## [En este artículo](#in-this-article)
 - [Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
 - [Formación para nuestros empleados](#training-for-our-employees)
 - [Involucrar a nuestros socios](#engaging-our-partners)
-
-# Declaración antisoborno de GitHub
 
 GitHub defiende nuestro compromiso con prácticas comerciales éticas, que incluyen prohibir el soborno y la corrupción. Como la
 [Transparencia Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption)
