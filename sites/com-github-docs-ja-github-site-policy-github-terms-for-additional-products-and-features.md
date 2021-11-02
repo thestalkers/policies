@@ -19,8 +19,8 @@ GitHub 追加製品および機能の利用規約 - GitHub Docs
 - [Octoshift](#octoshift)
 - [パッケージ](#packages)
 - [ページ](#pages)
-- [Sponsorsプログラム](#sponsors-program)
-- [SQL Server Images](#sql-server-images)
+- [Sponsorsプログラム](#)
+- [SQL Server Images](#)
 
 Version Effective Date: August 10, 2021
 

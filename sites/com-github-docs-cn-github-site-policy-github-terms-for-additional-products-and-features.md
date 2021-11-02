@@ -19,8 +19,8 @@ GitHub 其他产品和功能条款 - GitHub Docs
 - [Octoshift](#octoshift)
 - [包](#packages)
 - [页面](#pages)
-- [赞助计划](#sponsors-program)
-- [SQL Server 映像](#sql-server-images)
+- [赞助计划](#)
+- [SQL Server 映像](#)
 
 版本生效日期：2021 年 8 月 10 日
 

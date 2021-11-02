@@ -19,8 +19,8 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Octoshift](#octoshift)
 - [Paquetes](#packages)
 - [Pages](#pages)
-- [Programa de patrocinadores](#sponsors-program)
-- [Imagenes de SQL Server](#sql-server-images)
+- [Programa de patrocinadores](#)
+- [Imagenes de SQL Server](#)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 

@@ -19,8 +19,8 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Octoshift](#octoshift)
 - [Pacotes](#packages)
 - [Pages](#pages)
-- [Programa Sponsors](#sponsors-program)
-- [Imagens do servidor SQL](#sql-server-images)
+- [Programa Sponsors](#)
+- [Imagens do servidor SQL](#)
 
 Data de vigência da versão: 10 de agosto de 2021
 
