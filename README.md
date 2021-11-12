@@ -66,7 +66,7 @@ This repo contains changes of rules, terms of service and privacy policy from a 
     - [GitHub Private Information Removal Policy](https://docs.github.com/en/github/site-policy/github-private-information-removal-policy)
     - [GitHub Subprocessors and Cookies](https://docs.github.com/en/github/site-policy/github-subprocessors-and-cookies)
     - [GitHub Bug Bounty Program Legal Safe Harbor](https://docs.github.com/en/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
-    - [Responsible Disclosure of Security Vulnerabilities](https://docs.github.com/en/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
+    - [Coordinated Disclosure of Security Vulnerabilities](https://docs.github.com/en/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
     - [Guidelines for Legal Requests of User Data](https://docs.github.com/en/github/site-policy/guidelines-for-legal-requests-of-user-data)
     - [GitHub Government Takedown Policy](https://docs.github.com/en/github/site-policy/github-government-takedown-policy)
     - [GitHub Acceptable Use Policies](https://docs.github.com/en/github/site-policy/github-acceptable-use-policies)
