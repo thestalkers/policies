@@ -25,7 +25,6 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
 - [Subprocesadores y cookies de GitHub](/es/github/site-policy/github-subprocessors-and-cookies)
 - [Disposición de seguridad legal del programa de recompensas de errores de GitHub](/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
-- [Divulgación responsable de vulnerabilidades de seguridad](/es/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 - [Pautas para las solicitudes legales de los datos del usuario](/es/github/site-policy/guidelines-for-legal-requests-of-user-data)
 - [Política de retiro gubernamental de GitHub](/es/github/site-policy/github-government-takedown-policy)
 - [Políticas de uso aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies)

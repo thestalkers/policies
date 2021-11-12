@@ -25,7 +25,6 @@
 - [GitHub 私人信息删除政策](/cn/github/site-policy/github-private-information-removal-policy)
 - [GitHub 子处理器和 Cookie](/cn/github/site-policy/github-subprocessors-and-cookies)
 - [GitHub 漏洞悬赏计划法律安全港](/cn/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
-- [负责任地披露安全漏洞](/cn/github/site-policy/responsible-disclosure-of-security-vulnerabilities)
 - [用户数据法律要求指南](/cn/github/site-policy/guidelines-for-legal-requests-of-user-data)
 - [GitHub 政府删除政策](/cn/github/site-policy/github-government-takedown-policy)
 - [GitHub 可接受的使用政策](/cn/github/site-policy/github-acceptable-use-policies)
