@@ -202,7 +202,6 @@ sites:
       - https://docs.github.com/pt/github/site-policy/guidelines-for-legal-requests-of-user-data
       - https://docs.github.com/pt/github/site-policy/responsible-disclosure-of-security-vulnerabilities
       - https://docs.github.com/pt/github/site-policy/submitting-content-removal-requests
-    extension: md
     editors:
       - css_remove: style
       - css_remove: 'script#__NEXT_DATA__'
