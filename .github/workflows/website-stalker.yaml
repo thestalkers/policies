@@ -8,8 +8,15 @@ on:  # yamllint disable-line rule:truthy
 jobs:
   website-stalker:
     runs-on: ubuntu-latest
+    env:
+      WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
     steps:
       - uses: actions/checkout@v2
+
+      - name: Check website-stalker config
+        uses: docker://ghcr.io/edjopato/website-stalker:latest
+        with:
+          args: check
 
       - name: Run website-stalker
         uses: docker://ghcr.io/edjopato/website-stalker:latest
