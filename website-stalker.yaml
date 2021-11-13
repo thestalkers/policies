@@ -39,7 +39,6 @@ sites:
       - https://docs.github.com/cn/github/site-policy/guide-to-submitting-a-dmca-counter-notice
       - https://docs.github.com/cn/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
       - https://docs.github.com/cn/github/site-policy/guidelines-for-legal-requests-of-user-data
-      - https://docs.github.com/cn/github/site-policy/responsible-disclosure-of-security-vulnerabilities
       - https://docs.github.com/cn/github/site-policy/submitting-content-removal-requests
       - https://docs.github.com/en/github/site-policy
       - https://docs.github.com/en/github/site-policy/dmca-takedown-policy
@@ -119,7 +118,6 @@ sites:
       - https://docs.github.com/es/github/site-policy/guide-to-submitting-a-dmca-counter-notice
       - https://docs.github.com/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
       - https://docs.github.com/es/github/site-policy/guidelines-for-legal-requests-of-user-data
-      - https://docs.github.com/es/github/site-policy/responsible-disclosure-of-security-vulnerabilities
       - https://docs.github.com/es/github/site-policy/submitting-content-removal-requests
       - https://docs.github.com/ja/github/site-policy
       - https://docs.github.com/ja/github/site-policy/dmca-takedown-policy
@@ -159,7 +157,6 @@ sites:
       - https://docs.github.com/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice
       - https://docs.github.com/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
       - https://docs.github.com/ja/github/site-policy/guidelines-for-legal-requests-of-user-data
-      - https://docs.github.com/ja/github/site-policy/responsible-disclosure-of-security-vulnerabilities
       - https://docs.github.com/ja/github/site-policy/submitting-content-removal-requests
       - https://docs.github.com/pt/github/site-policy
       - https://docs.github.com/pt/github/site-policy/dmca-takedown-policy
@@ -199,7 +196,6 @@ sites:
       - https://docs.github.com/pt/github/site-policy/guide-to-submitting-a-dmca-counter-notice
       - https://docs.github.com/pt/github/site-policy/guide-to-submitting-a-dmca-takedown-notice
       - https://docs.github.com/pt/github/site-policy/guidelines-for-legal-requests-of-user-data
-      - https://docs.github.com/pt/github/site-policy/responsible-disclosure-of-security-vulnerabilities
       - https://docs.github.com/pt/github/site-policy/submitting-content-removal-requests
     editors:
       - css_remove: style
