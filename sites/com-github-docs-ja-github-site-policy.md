@@ -25,6 +25,7 @@
 - [GitHub個人情報削除ポリシー](/ja/github/site-policy/github-private-information-removal-policy)
 - [GitHubのサブプロセッサとCookie](/ja/github/site-policy/github-subprocessors-and-cookies)
 - [GitHub Bug Bounty Programの法的免責事項](/ja/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+- [Coordinated Disclosure of Security Vulnerabilities](/ja/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
 - [ユーザデータの法的リクエストに関するガイドライン](/ja/github/site-policy/guidelines-for-legal-requests-of-user-data)
 - [GitHub の行政機関による削除に関するポリシー](/ja/github/site-policy/github-government-takedown-policy)
 - [GitHub 利用規定](/ja/github/site-policy/github-acceptable-use-policies)

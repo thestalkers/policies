@@ -14,13 +14,13 @@ GitHub 其他产品和功能条款 - GitHub Docs
 - [Advisory Database](#advisory-database)
 - [Codespaces](#codespaces)
 - [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
 - [Learning Lab](#learning-lab)
 - [npm](#npm)
-- [Octoshift](#octoshift)
 - [包](#packages)
 - [页面](#pages)
-- [赞助计划](#)
-- [SQL Server 映像](#)
+- [赞助计划](#sponsors-program)
+- [SQL Server 映像](#sql-server-images)
 
 版本生效日期：2021 年 8 月 10 日
 
@@ -32,15 +32,15 @@ GitHub 其他产品和功能条款 - GitHub Docs
 
 -
 **GitHub Enterprise Cloud**
-用户可以访问以下附加产品和特性：Actions、Advanced Security、Advisory Database、Codespaces、Dependabot Preview、Learning Lab、Octoshift、Packages 和 Pages。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
 
 -
 **GitHub Enterprise Server**
-用户可以访问以下附加产品和特性：Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、Learning Lab、Octoshift, Packages、Pages 和 SQL Server Images。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
 
 -
 **GitHub AE**
-用户可以访问以下附加产品和特性：Actions、Advanced Security、Advisory Database、Dependabot Preview、Octoshift、Packages 和 Pages。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 ## 操作
 
@@ -126,6 +126,10 @@ Codespaces 的一般版本目前不适用于美国。 政府客户。 美国 gov
 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)
 管制。
 
+## GitHub Enterprise Importer
+
+Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
+
 ## Learning Lab
 
 GitHub Learning Lab 提供已编入GitHub 的免费交互式课程，并提供即时自动反馈和帮助。
@@ -161,10 +165,6 @@ npm 是一种软件包托管服务，允许您私下或公开托管软件包，�
 [使用条款](https://www.npmjs.com/policies/terms)
 适用于您的 npm 使用。
 
-## Octoshift
-
-Octoshift 是一个从其他来源导出数据到 GitHub 平台的框架。 Octoshift“按原样”提供。
-
 ## 包
 
 GitHub Packages 是一种软件包托管服务，允许您私下或公开托管软件包，并将包用作项目中的依赖项。 GitHub Packages 按用量计费。
@@ -181,29 +181,19 @@ GitHub Packages 是一种软件包托管服务，允许您私下或公开托管�
 
 GitHub Pages 并非旨在用于或允许用作免费的 Web 托管服务来运行您的在线业务、电子商务站点或主要针对促进商业交易或提供商业软件即服务 (SaaS) 的任何其他网站。 页面上允许一些货币化工作，如捐款按钮和筹款链接。
 
-### a. 带宽和使用限制
+*带宽和使用限制*
 
-GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于某些高带宽用途。 请参阅我们的
-[GitHub Pages 指南](/cn/github/working-with-github-pages/about-github-pages)
-了解更多信息。
+GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于某些高带宽用途。 Please see our
+[GitHub Pages limits](/cn/github/working-with-github-pages/about-github-pages)
+for more information.
 
-### b. 禁止使用
+*禁止使用*
 
-GitHub Pages 的禁止用途包括
-
-- 非法或者我们的
-[服务条款](/cn/github/site-policy/github-terms-of-service)
-、
-[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)
-或
-[社区指导方针](/cn/github/site-policy/github-community-guidelines)
-禁止的内容或活动
-- 暴力或有威胁的内容或活动
-- 过多的自动批量活动（例如，垃圾邮件）
-- 危害 GitHub 用户或 GitHub 服务的活动
-- 快速致富计划
-- 性淫秽内容
-- 歪曲您的身份或站点目的的内容
+GitHub Pages may not be used in violation of the Agreement, the GitHub
+[Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)
+, or the GitHub Pages service limitations set forth in the
+[Pages documentation](/cn/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)
+.
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系
 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)

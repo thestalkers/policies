@@ -14,13 +14,13 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 - [Banco de Dados Consultivo](#advisory-database)
 - [Codespaces](#codespaces)
 - [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
 - [Learning Lab](#learning-lab)
 - [npm](#npm)
-- [Octoshift](#octoshift)
 - [Pacotes](#packages)
 - [Pages](#pages)
-- [Programa Sponsors](#)
-- [Imagens do servidor SQL](#)
+- [Programa Sponsors](#sponsors-program)
+- [Imagens do servidor SQL](#sql-server-images)
 
 Data de vigência da versão: 10 de agosto de 2021
 
@@ -31,19 +31,16 @@ Ao usar as Funcionalidades e Produtos Adicionais, você também concorda com os 
 **Para usuários corporativos**
 
 -
-Os usuários do
 **GitHub Enterprise Cloud**
-podem ter acesso aos seguintes Produtos e Funcionalidades: Ações, Segurança avançada, base de dados de consultores, códigos, pré-visualizações de dependência, laboratório de aprendizado, Octoshift, pacotes e páginas.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
 
 -
-Os usuários do
 **GitHub Enterprise Server**
-podem ter acesso aos seguintes Produtos e Funcionalidades: Ações, Segurança Avançada, Dados de Consultoria, Conexões, Visualização de Dependabot, Laboratório, Octoshift, Pacotes, Páginas e Imagens de Servidor SQL.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
 
 -
-Os usuários do
 **GitHub AE**
-podem acessar os seguintes Produtos e Características: Ações, Segurança Avançada, Banco de Dados de Consultoria,Visualiazçãodo Dependabot, Octoshift, Pacotes e Páginas.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 ## Ações
 
@@ -129,6 +126,10 @@ Com GitHub Connect, você pode compartilhar certas funcionalidades e dados entre
 [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement)
 .
 
+## GitHub Enterprise Importer
+
+Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
+
 ## Learning Lab
 
 O GitHub Learning Lab oferece cursos interativos grátis que são construídos no GitHub com feedback e ajuda automatizados instantaneamente.
@@ -164,10 +165,6 @@ e
 [Termos de Uso](https://www.npmjs.com/policies/terms)
 do npm aplicam-se ao seu uso do npm.
 
-## Octoshift
-
-O Octoshift é uma estrutura para exportar dados de outras fontes a serem importados para a plataforma GitHub. O Octoshift é fornecido como se apresenta.
-
 ## Pacotes
 
 O GitHub Packages é um serviço de hospedagem de pacotes de software que permite que você hospede os seus pacotes de software de forma privada ou pública e usar pacotes como dependências nos seus projetos. O GitHub Packages são cobrados com base no uso. A
@@ -184,28 +181,19 @@ Cada Conta vem com acesso a
 
 O GitHub Pages não foi projetado e nem tem permissão para ser usado como um serviço de hospedagem gratuita na web, capaz de administrar sua empresa online, seu site de comércio eletrônico ou qualquer outro site desenvolvido principalmente para facilitar transações comerciais ou fornecer software comercial como um serviço (SaaS). Alguns esforços de monetização são permitidos no Pages, como botões de doação e links para crowdfunding.
 
-### a. Banda larga e limites de uso
+*Banda larga e limites de uso*
 
-O GitHub Pages está sujeito a limites específicos de uso e largura de banda e pode não ser apropriado para alguns usos elevados de banda larga. Consulte nossas
-[diretrizes do GitHub Pages](/pt/github/working-with-github-pages/about-github-pages)
-para obter mais informações.
+O GitHub Pages está sujeito a limites específicos de uso e largura de banda e pode não ser apropriado para alguns usos elevados de banda larga. Please see our
+[GitHub Pages limits](/pt/github/working-with-github-pages/about-github-pages)
+for more information.
 
-### b. Uso proibido
+*Uso proibido*
 
-O uso proibido do GitHub Pages inclui
-
-- Conteúdo ou atividade ilegal ou proibido pelos nossos
-[Termos de Serviço](/pt/github/site-policy/github-terms-of-service)
-,
-[Políticas de uso aceitáveis](/pt/github/site-policy/github-acceptable-use-policies)
-ou
-[Diretrizes da comunidade](/pt/github/site-policy/github-community-guidelines)
-- Atividade ou conteúdo violento ou ameaçador
-- Excesso de atividade automatizada em massa (spam, por exemplo)
-- Atividade que comprometa serviços ou usuários do GitHub
-- Esquemas para enriquecer rapidamente
-- Conteúdo sexual obsceno
-- Conteúdo que deturpe sua identidade ou a finalidade do site
+GitHub Pages may not be used in violation of the Agreement, the GitHub
+[Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies)
+, or the GitHub Pages service limitations set forth in the
+[Pages documentation](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)
+.
 
 Se você tiver dúvidas sobre se o seu uso ou uso pretendido se enquadram nessas categorias, entre em contato com o
 [Suporte do GitHube](https://support.github.com/contact?tags=docs-policy)

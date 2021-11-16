@@ -9,9 +9,9 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 - [Advisory Database](#advisory-database)
 - [Codespaces](#codespaces)
 - [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
 - [Learning Lab](#learning-lab)
 - [npm](#npm)
-- [Octoshift](#octoshift)
 - [Packages](#packages)
 - [Pages](#pages)
 - [Sponsors Program](#sponsors-program)
@@ -27,15 +27,15 @@ By using the Additional Products and Features, you also agree to the applicable 
 
 -
 **GitHub Enterprise Cloud**
-users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, Learning Lab, Octoshift, Packages and Pages.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
 
 -
 **GitHub Enterprise Server**
-users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, Learning Lab, Octoshift, Packages, Pages and SQL Server Images.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
 
 -
 **GitHub AE**
-users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database,Dependabot Preview, Octoshift, Packages and Pages.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 ## Actions
 
@@ -121,6 +121,10 @@ With GitHub Connect, you can share certain features and data between your GitHub
 [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
 .
 
+## GitHub Enterprise Importer
+
+Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
+
 ## Learning Lab
 
 GitHub Learning Lab offers free interactive courses that are built into GitHub with instant automated feedback and help.
@@ -155,10 +159,6 @@ and
 plans. The npm
 [Terms of Use](https://www.npmjs.com/policies/terms)
 apply to your use of npm.
-
-## Octoshift
-
-Octoshift is a framework for exporting data from other sources to be imported to the GitHub platform. Octoshift is provided “AS-IS”.
 
 ## Packages
 

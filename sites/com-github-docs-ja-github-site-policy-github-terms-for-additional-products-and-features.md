@@ -14,13 +14,13 @@ GitHub 追加製品および機能の利用規約 - GitHub Docs
 - [Advisory Database](#advisory-database)
 - [Codespaces](#codespaces)
 - [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
 - [Learning Lab](#learning-lab)
 - [npm](#npm)
-- [Octoshift](#octoshift)
 - [パッケージ](#packages)
 - [ページ](#pages)
-- [Sponsorsプログラム](#)
-- [SQL Server Images](#)
+- [Sponsorsプログラム](#sponsors-program)
+- [SQL Server Images](#sql-server-images)
 
 Version Effective Date: August 10, 2021
 
@@ -32,15 +32,15 @@ GitHub を利用する際、数多くの追加製品や機能 (「追加製品�
 
 -
 **GitHub Enterprise Cloud**
-のユーザは、以下の「追加製品および機能」にアクセスできます。Actions、Advanced Security、Advisory Database、Codespaces、Dependabot Preview、Learning Lab、Octoshift、Packages and Pages。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
 
 -
 **GitHub Enterprise Server**
-のユーザは、以下の「追加製品および機能」にアクセスできます。Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、Learning Lab、Octoshift、Packages、Pages and SQL Server Images。
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
 
 -
 **GitHub AE**
-users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database,Dependabot Preview, Octoshift, Packages and Pages.
+users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 ## アクション
 
@@ -126,6 +126,10 @@ GitHub Connect を使うと、GitHub Enterprise ServerインスタンスとGitHu
 [GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)
 」が適用されます。
 
+## GitHub Enterprise Importer
+
+Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
+
 ## Learning Lab
 
 GitHub Learning Lab では、GitHub に組み込まれたインタラクティブなコースを無料で提供しており、自動の即時フィードバックやヘルプも備わっています。
@@ -161,10 +165,6 @@ npm はソフトウェアパッケージのホスティングサービスであ�
 [利用規約](https://www.npmjs.com/policies/terms)
 が適用されます。
 
-## Octoshift
-
-Octoshiftは、他のソースからデータをエクスポートして、GitHubプラットフォームにインポートするためのフレームワークです。 Octoshiftは「現状のまま」で提供されます。
-
 ## パッケージ
 
 GitHub Packagesはソフトウェアパッケージのホスティングサービスであり、ソフトウェアパッケージをプライベートもしくはパブリックでホストでき、パッケージをプロジェクト中で依存関係として使えるようになります GitHub Packagesは、使用量に基づいて課金されます。
@@ -181,29 +181,19 @@ GitHub Packagesはソフトウェアパッケージのホスティングサー�
 
 GitHub Pagesは、オンラインビジネス、eコマースサイト、主に商取引の円滑化またはサービスとしての商用ソフトウェアの提供 (SaaS) のいずれかを目的とする、その他のウェブサイトを運営するための無料のウェブホスティングサービスとしての使用を意図したものではなく、またそのような使用を許可するものでもありません。 ページでは、寄付のボタンやクラウドファンディングのリンクなど、収益化の行為が一部認められています。
 
-### a. 帯域幅と利用限度
+*帯域幅と利用限度*
 
-GitHub Pagesは、特定の帯域幅を対象とし、利用限度が適用されるため、一定以上の高帯域の利用には適していない場合があります。 詳細は、「
-[GitHub Pagesのガイドライン](/ja/github/working-with-github-pages/about-github-pages)
-」を参照してください。
+GitHub Pagesは、特定の帯域幅を対象とし、利用限度が適用されるため、一定以上の高帯域の利用には適していない場合があります。 Please see our
+[GitHub Pages limits](/ja/github/working-with-github-pages/about-github-pages)
+for more information.
 
-### b. 禁止される用途
+*禁止される用途*
 
-GitHub Pagesの禁止される用途には以下が含まれます。
-
-- 法律違反、あるいはそれ以外で当社の「
-[利用規約](/ja/github/site-policy/github-terms-of-service)
-」、「
-[利用規定](/ja/github/site-policy/github-acceptable-use-policies)
-」、または「
-[コミュニティガイドライン](/ja/github/site-policy/github-community-guidelines)
-」に反するコンテンツまたは活動
-- 暴力的または脅迫的なコンテンツまたは活動
-- 過剰な自動一括活動 (スパム送信など)
-- GitHub ユーザまたは GitHub サービスを危険にさらす活動
-- 攻略法詐欺
-- 性的・わいせつなコンテンツ
-- 自分の素性またはサイトの目的を誤って表現しているコンテンツ
+GitHub Pages may not be used in violation of the Agreement, the GitHub
+[Acceptable Use Policies](/ja/github/site-policy/github-acceptable-use-policies)
+, or the GitHub Pages service limitations set forth in the
+[Pages documentation](/ja/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)
+.
 
 If you have questions about whether your use or intended use falls into these categories, please contact
 [GitHub Support](https://support.github.com/contact?tags=docs-policy)
