@@ -8,17 +8,17 @@
 
 # カリフォルニア州消費者プライバシー法に関するGitHubからの通知
 
-## [ここには以下の内容があります:](#in-this-article)
-- [カリフォルニア州住民に対するGitHubからの通知](#githubs-notice-to-california-residents)
-- [個人情報は販売いたしません](#we-do-not-sell-your-personal-information)
-- [CCPAに基づくあなたの権利](#your-rights-under-the-ccpa)
-- [1. どの個人情報が、どのような目的で、誰と共有されているかを知る権利](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
-- [2. 事業目的で個人情報が販売または開示されたか、また誰に販売または開示されたかを知る権利](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
-- [3. 個人情報の販売を拒否する権利](#3-right-to-say-no-to-the-sale-of-your-personal-information)
-- [4. プライバシー権を行使した場合にサービスや価格で差別されない権利](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
-- [5. 削除する権利](#5-right-to-deletion)
-- [当社における個人情報の取り扱い](#our-handling-of-personal-information)
-- [CCPAに基づく適用除外](#exemptions-under-the-ccpa)
+## [ここには以下の内容があります:](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
+[カリフォルニア州住民に対するGitHubからの通知](#githubs-notice-to-california-residents)
+[個人情報は販売いたしません](#we-do-not-sell-your-personal-information)
+[CCPAに基づくあなたの権利](#your-rights-under-the-ccpa)
+[1. どの個人情報が、どのような目的で、誰と共有されているかを知る権利](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
+[2. 事業目的で個人情報が販売または開示されたか、また誰に販売または開示されたかを知る権利](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
+[3. 個人情報の販売を拒否する権利](#3-right-to-say-no-to-the-sale-of-your-personal-information)
+[4. プライバシー権を行使した場合にサービスや価格で差別されない権利](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
+[5. 削除する権利](#5-right-to-deletion)
+[当社における個人情報の取り扱い](#our-handling-of-personal-information)
+[CCPAに基づく適用除外](#exemptions-under-the-ccpa)
 
 発行日: 2020年1月1日
 

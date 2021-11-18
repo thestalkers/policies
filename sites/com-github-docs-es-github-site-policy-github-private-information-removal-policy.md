@@ -8,13 +8,13 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Política de Eliminación de Información Privada de GitHub
 
-## [En este artículo](#in-this-article)
-- [¿Qué es la información privada?](#what-is-private-information)
-- [Cosas que debes saber](#things-to-know)
-- [¿Cómo funciona realmente?](#how-does-this-actually-work)
-- [Enviar una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
-- [Como presentar tu solicitud](#how-to-submit-your-request)
-- [Disputas](#disputes)
+## [En este artículo](/github/site-policy/github-private-information-removal-policy#in-this-article)
+[¿Qué es la información privada?](#what-is-private-information)
+[Cosas que debes saber](#things-to-know)
+[¿Cómo funciona realmente?](#how-does-this-actually-work)
+[Enviar una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
+[Como presentar tu solicitud](#how-to-submit-your-request)
+[Disputas](#disputes)
 
 Ofrecemos este proceso de eliminación de información privada como un servicio excepcional únicamente para el contenido de alto riesgo que viola las
 [Condiciones de Servicio de GitHub](/es/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)

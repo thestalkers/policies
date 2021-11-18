@@ -8,9 +8,9 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Código de conducta del evento de GitHub
 
-## [En este artículo](#in-this-article)
-- [Código de conducta](#code-of-conduct)
-- [Crédito](#credit)
+## [En este artículo](/github/site-policy/github-event-code-of-conduct#in-this-article)
+[Código de conducta](#code-of-conduct)
+[Crédito](#credit)
 
 Los eventos de GitHub son eventos comunitarios destinados a la creación de redes y la colaboración en la comunidad tecnológica.
 

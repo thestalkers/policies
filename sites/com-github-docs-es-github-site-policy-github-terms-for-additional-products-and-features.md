@@ -8,19 +8,19 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Condiciones de GitHub para las características y productos adicionales
 
-## [En este artículo](#in-this-article)
-- [Acciones](#actions)
-- [Advanced Security](#advanced-security)
-- [Base de datos consultiva](#advisory-database)
-- [Codespaces](#codespaces)
-- [Conexión](#connect)
-- [Laboratorio de aprendizaje](#github-enterprise-importer)
-- [npm](#learning-lab)
-- [Octoshift](#npm)
-- [Paquetes](#packages)
-- [Pages](#pages)
-- [Programa de patrocinadores](#)
-- [Imagenes de SQL Server](#)
+## [En este artículo](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
+[Acciones](#actions)
+[Advanced Security](#advanced-security)
+[Base de datos consultiva](#advisory-database)
+[Codespaces](#codespaces)
+[Conexión](#connect)
+[Laboratorio de aprendizaje](#github-enterprise-importer)
+[npm](#learning-lab)
+[Octoshift](#npm)
+[Paquetes](#packages)
+[Pages](#pages)
+[Programa de patrocinadores](#)
+[Imagenes de SQL Server](#)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 

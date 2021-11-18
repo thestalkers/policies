@@ -8,15 +8,15 @@ GitHub Research Program利用規約 - GitHub Docs
 
 # GitHub Research Program利用規約
 
-## [ここには以下の内容があります:](#in-this-article)
-- [A. フィードバック](#a-your-feedback)
-- [B. 機密保持](#b-confidentiality)
-- [C. 権利の留保](#c-reservation-of-rights)
-- [D. プライバシー](#d-privacy)
-- [E. GitHubのサービスおよびソフトウェア利用規約](#e-github-services-and-software-terms)
-- [F. 保証免責](#f-disclaimer-of-warranties)
-- [G. 責任の制限](#g-limitation-of-liability)
-- [H. 雑則](#h-miscellaneous)
+## [ここには以下の内容があります:](/github/site-policy/github-research-program-terms#in-this-article)
+[A. フィードバック](#a-your-feedback)
+[B. 機密保持](#b-confidentiality)
+[C. 権利の留保](#c-reservation-of-rights)
+[D. プライバシー](#d-privacy)
+[E. GitHubのサービスおよびソフトウェア利用規約](#e-github-services-and-software-terms)
+[F. 保証免責](#f-disclaimer-of-warranties)
+[G. 責任の制限](#g-limitation-of-liability)
+[H. 雑則](#h-miscellaneous)
 
 GitHub Research Program (「Program」) へようこそ。 「Program」に参加するためには、GitHub Research Program利用規約 (「利用規約」) という特別な規約に同意する必要があります。
 

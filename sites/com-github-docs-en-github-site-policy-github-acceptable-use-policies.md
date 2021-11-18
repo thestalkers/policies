@@ -3,17 +3,17 @@ GitHub Acceptable Use Policies - GitHub Docs
 
 # GitHub Acceptable Use Policies
 
-## [In this article](#in-this-article)
-- [1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
-- [2. Content Restrictions](#2-content-restrictions)
-- [3. Conduct Restrictions](#3-conduct-restrictions)
-- [4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
-- [5. Services Usage Limits](#5-services-usage-limits)
-- [6. Information Usage Restrictions](#6-information-usage-restrictions)
-- [7. Privacy](#7-privacy)
-- [8. Excessive Bandwidth Use](#8-excessive-bandwidth-use)
-- [9. Advertising on GitHub](#9-advertising-on-github)
-- [10. User Protection](#10-user-protection)
+## [In this article](/github/site-policy/github-acceptable-use-policies#in-this-article)
+[1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
+[2. Content Restrictions](#2-content-restrictions)
+[3. Conduct Restrictions](#3-conduct-restrictions)
+[4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
+[5. Services Usage Limits](#5-services-usage-limits)
+[6. Information Usage Restrictions](#6-information-usage-restrictions)
+[7. Privacy](#7-privacy)
+[8. Excessive Bandwidth Use](#8-excessive-bandwidth-use)
+[9. Advertising on GitHub](#9-advertising-on-github)
+[10. User Protection](#10-user-protection)
 
 **Short version:**
 *We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*

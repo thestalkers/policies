@@ -8,9 +8,9 @@ GitHubイベントの行動規範 - GitHub Docs
 
 # GitHubイベントの行動規範
 
-## [ここには以下の内容があります:](#in-this-article)
-- [行動規範](#code-of-conduct)
-- [クレジット](#credit)
+## [ここには以下の内容があります:](/github/site-policy/github-event-code-of-conduct#in-this-article)
+[行動規範](#code-of-conduct)
+[クレジット](#credit)
 
 GitHubイベントは、テックコミュニティのネットワーキングとコラボレーションを目的としたコミュニティイベントです。
 

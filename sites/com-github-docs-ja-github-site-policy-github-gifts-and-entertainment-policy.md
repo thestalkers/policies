@@ -8,12 +8,12 @@ GitHubのギフトおよびエンタテインメントに関するポリシー -
 
 # GitHubのギフトおよびエンタテインメントに関するポリシー
 
-## [ここには以下の内容があります:](#in-this-article)
-- [会社方針](#company-policies)
-- [容認できるギフトと容認できないギフトの例](#examples-of-acceptable-and-unacceptable-gifts)
-- [手続き](#process)
-- [結果](#consequences)
-- [詳細情報](#more-information)
+## [ここには以下の内容があります:](/github/site-policy/github-gifts-and-entertainment-policy#in-this-article)
+[会社方針](#company-policies)
+[容認できるギフトと容認できないギフトの例](#examples-of-acceptable-and-unacceptable-gifts)
+[手続き](#process)
+[結果](#consequences)
+[詳細情報](#more-information)
 
 GitHubは、当社のビジネスが、肯定的で透明性のなる関係の上に構築されていることを認識しています。 非公式な交流や贈り物の交換は、関係を発展していく中で生じることかもしれません。一部の国では慣習と見なされることさえあるでしょう。ただし、当社としては以下の贈賄防止法に従う必要があります。 当社には、かかる交流が特別な利益を生み出したり、取引に影響したりしないということを含め、倫理的に振る舞うという法律的な義務があるのです。
 

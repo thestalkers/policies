@@ -8,10 +8,10 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Declaración antisoborno de GitHub
 
-## [En este artículo](#in-this-article)
-- [Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
-- [Formación para nuestros empleados](#training-for-our-employees)
-- [Involucrar a nuestros socios](#engaging-our-partners)
+## [En este artículo](/github/site-policy/github-anti-bribery-statement#in-this-article)
+[Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
+[Formación para nuestros empleados](#training-for-our-employees)
+[Involucrar a nuestros socios](#engaging-our-partners)
 
 GitHub defiende nuestro compromiso con prácticas comerciales éticas, que incluyen prohibir el soborno y la corrupción. Como la
 [Transparencia Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption)

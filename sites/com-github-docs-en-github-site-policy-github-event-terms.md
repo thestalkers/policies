@@ -3,14 +3,14 @@ GitHub Event Terms - GitHub Docs
 
 # GitHub Event Terms
 
-## [In this article](#in-this-article)
-- [1. Basic requirements to attend - including the](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+## [In this article](/github/site-policy/github-event-terms#in-this-article)
+[1. Basic requirements to attend - including the](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 [Event Code of Conduct](/en/articles/github-event-code-of-conduct)
-- [2. Pictures](#2-pictures)
-- [3. Risk, liability, and indemnity](#3-risk-liability-and-indemnity)
-- [4. Termination](#4-termination)
-- [5. Choice of law and venue](#5-choice-of-law-and-venue)
-- [6. Miscellaneous terms](#6-miscellaneous-terms)
+[2. Pictures](#2-pictures)
+[3. Risk, liability, and indemnity](#3-risk-liability-and-indemnity)
+[4. Termination](#4-termination)
+[5. Choice of law and venue](#5-choice-of-law-and-venue)
+[6. Miscellaneous terms](#6-miscellaneous-terms)
 
 By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you signal that you have read, understand, and agree to the following Event Terms and Conditions.
 

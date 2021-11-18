@@ -3,10 +3,10 @@ GitHub Username Policy - GitHub Docs
 
 # GitHub Username Policy
 
-## [In this article](#in-this-article)
-- [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
-- [Trademark Policy](#trademark-policy)
-- [Name Squatting Policy](#name-squatting-policy)
+## [In this article](/github/site-policy/github-username-policy#in-this-article)
+[What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
+[Trademark Policy](#trademark-policy)
+[Name Squatting Policy](#name-squatting-policy)
 
 GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 

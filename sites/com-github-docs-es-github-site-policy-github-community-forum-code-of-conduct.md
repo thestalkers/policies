@@ -8,13 +8,13 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Código de conducta del foro de la comunidad GitHub
 
-## [En este artículo](#in-this-article)
-- [Descripción y propósito](#overview-and-purpose)
-- [Compromiso](#pledge)
-- [Estándares](#standards)
-- [Cumplimiento](#enforcement)
-- [Contacto con el personal de GitHub](#contacting-github-staff)
-- [Avisos legales](#legal-notices)
+## [En este artículo](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[Descripción y propósito](#overview-and-purpose)
+[Compromiso](#pledge)
+[Estándares](#standards)
+[Cumplimiento](#enforcement)
+[Contacto con el personal de GitHub](#contacting-github-staff)
+[Avisos legales](#legal-notices)
 
 ## Descripción y propósito
 

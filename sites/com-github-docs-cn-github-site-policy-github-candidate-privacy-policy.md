@@ -8,13 +8,13 @@ GitHub 候选人隐私政策 - GitHub Docs
 
 # GitHub 候选人隐私政策
 
-## [本文内容](#in-this-article)
-- [我们收集哪些候选人个人信息？](#what-candidate-personal-information-do-we-collect)
-- [我们如何使用我们收集的候选人个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
-- [我们如何分享您的候选个人信息？](#how-do-we-share-your-candidate-personal-information)
-- [您对您的候选人个人信息的权利](#your-rights-to-your-candidate-personal-information)
-- [我们会将您的候选人个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
-- [本政策的更改](#changes-to-this-policy)
+## [本文内容](/github/site-policy/github-candidate-privacy-policy#in-this-article)
+[我们收集哪些候选人个人信息？](#what-candidate-personal-information-do-we-collect)
+[我们如何使用我们收集的候选人个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
+[我们如何分享您的候选个人信息？](#how-do-we-share-your-candidate-personal-information)
+[您对您的候选人个人信息的权利](#your-rights-to-your-candidate-personal-information)
+[我们会将您的候选人个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
+[本政策的更改](#changes-to-this-policy)
 
 生效日期：2021 年 3 月 8 日
 

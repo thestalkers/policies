@@ -8,9 +8,9 @@
 
 # 全球隐私实践
 
-## [本文内容](#in-this-article)
-- [标准合同条款](#standard-contractual-clauses)
-- [隐私盾框架](#privacy-shield-framework)
+## [本文内容](/github/site-policy/global-privacy-practices#in-this-article)
+[标准合同条款](#standard-contractual-clauses)
+[隐私盾框架](#privacy-shield-framework)
 
 生效日期：2020 年 7 月 22 日。
 

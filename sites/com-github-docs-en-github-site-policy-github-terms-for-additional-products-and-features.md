@@ -3,19 +3,19 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 
 # GitHub Terms for Additional Products and Features
 
-## [In this article](#in-this-article)
-- [Actions](#actions)
-- [Advanced Security](#advanced-security)
-- [Advisory Database](#advisory-database)
-- [Codespaces](#codespaces)
-- [Connect](#connect)
-- [GitHub Enterprise Importer](#github-enterprise-importer)
-- [Learning Lab](#learning-lab)
-- [npm](#npm)
-- [Packages](#packages)
-- [Pages](#pages)
-- [Sponsors Program](#sponsors-program)
-- [SQL Server Images](#sql-server-images)
+## [In this article](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
+[Actions](#actions)
+[Advanced Security](#advanced-security)
+[Advisory Database](#advisory-database)
+[Codespaces](#codespaces)
+[Connect](#connect)
+[GitHub Enterprise Importer](#github-enterprise-importer)
+[Learning Lab](#learning-lab)
+[npm](#npm)
+[Packages](#packages)
+[Pages](#pages)
+[Sponsors Program](#sponsors-program)
+[SQL Server Images](#sql-server-images)
 
 Version Effective Date: August 10, 2021
 

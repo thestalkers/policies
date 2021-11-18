@@ -8,17 +8,17 @@ GitHub 利用規定 - GitHub Docs
 
 # GitHub 利用規定
 
-## [ここには以下の内容があります:](#in-this-article)
-- [1. 法令・規定の遵守](#1-compliance-with-laws-and-regulations)
-- [2. コンテンツの制限](#2-content-restrictions)
-- [3. 行動の制限](#3-conduct-restrictions)
-- [4. GitHub におけるスパムおよび不正活動](#4-spam-and-inauthentic-activity-on-github)
-- [5. サービス利用の制限](#5-services-usage-limits)
-- [6. 情報利用の制限](#6-information-usage-restrictions)
-- [7. プライバシー](#7-privacy)
-- [8. 過剰な帯域の使用](#8-excessive-bandwidth-use)
-- [9. GitHubでの広告](#9-advertising-on-github)
-- [10. ユーザの保護](#10-user-protection)
+## [ここには以下の内容があります:](/github/site-policy/github-acceptable-use-policies#in-this-article)
+[1. 法令・規定の遵守](#1-compliance-with-laws-and-regulations)
+[2. コンテンツの制限](#2-content-restrictions)
+[3. 行動の制限](#3-conduct-restrictions)
+[4. GitHub におけるスパムおよび不正活動](#4-spam-and-inauthentic-activity-on-github)
+[5. サービス利用の制限](#5-services-usage-limits)
+[6. 情報利用の制限](#6-information-usage-restrictions)
+[7. プライバシー](#7-privacy)
+[8. 過剰な帯域の使用](#8-excessive-bandwidth-use)
+[9. GitHubでの広告](#9-advertising-on-github)
+[10. ユーザの保護](#10-user-protection)
 
 **趣旨の要約:**
 *私たちは、世界中のさまざまな協同プロジェクトをホストしており、そうしたコラボレーションは、ユーザ同士が誠実に協力できる場合にのみ成り立ちます。 あなたが「サービス」を利用する際は、本利用規定に従う必要があります。本利用規定には、あなたが投稿できるコンテンツについての制限、サービス上の行動、その他の制限が記載されています。 その趣旨を要約すれば、お互いのことを思いやりましょうということです。*

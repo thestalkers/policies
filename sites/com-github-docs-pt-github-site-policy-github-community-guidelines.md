@@ -8,13 +8,13 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 # Diretrizes da comunidade do GitHub
 
-## [Neste artigo](#in-this-article)
-- [Criar uma comunidade integrada](#building-a-strong-community)
-- [E se algo ou alguém ofender você?](#what-if-something-or-someone-offends-you)
-- [O que não é permitido?](#what-is-not-allowed)
-- [O que acontece se alguém violar as regras?](#what-happens-if-someone-breaks-the-rules)
-- [Apelação e reinstauração](#appeal-and-reinstatement)
-- [Avisos Legais](#legal-notices)
+## [Neste artigo](/github/site-policy/github-community-guidelines#in-this-article)
+[Criar uma comunidade integrada](#building-a-strong-community)
+[E se algo ou alguém ofender você?](#what-if-something-or-someone-offends-you)
+[O que não é permitido?](#what-is-not-allowed)
+[O que acontece se alguém violar as regras?](#what-happens-if-someone-breaks-the-rules)
+[Apelação e reinstauração](#appeal-and-reinstatement)
+[Avisos Legais](#legal-notices)
 
 Milhões de desenvolvedores hospedam milhões de projetos no GitHub — tanto código aberto quanto fechado — e temos orgulho de viabilizarmos a colaboração de toda a comunidade todos os dias. Juntos, temos uma empolgante oportunidade e a responsabilidade de tornar esta comunidade algo do qual podemos nos orgulhar.
 

@@ -3,17 +3,17 @@ GitHub's Notice about the California Consumer Privacy Act - GitHub Docs
 
 # GitHub's Notice about the California Consumer Privacy Act
 
-## [In this article](#in-this-article)
-- [GitHub's Notice to California Residents](#githubs-notice-to-california-residents)
-- [We do not sell your personal information](#we-do-not-sell-your-personal-information)
-- [Your rights under the CCPA](#your-rights-under-the-ccpa)
-- [1. Right to know what personal information is being collected, for what purposes and with whom it is shared](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
-- [2. Right to know whether your personal information is sold or disclosed for a business purpose and to whom](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
-- [3. Right to say no to the sale of your personal information](#3-right-to-say-no-to-the-sale-of-your-personal-information)
-- [4. Right to non-discrimination of service or price if you exercise your privacy rights](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
-- [5. Right to deletion](#5-right-to-deletion)
-- [Our Handling of Personal Information](#our-handling-of-personal-information)
-- [Exemptions under the CCPA](#exemptions-under-the-ccpa)
+## [In this article](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
+[GitHub's Notice to California Residents](#githubs-notice-to-california-residents)
+[We do not sell your personal information](#we-do-not-sell-your-personal-information)
+[Your rights under the CCPA](#your-rights-under-the-ccpa)
+[1. Right to know what personal information is being collected, for what purposes and with whom it is shared](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
+[2. Right to know whether your personal information is sold or disclosed for a business purpose and to whom](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
+[3. Right to say no to the sale of your personal information](#3-right-to-say-no-to-the-sale-of-your-personal-information)
+[4. Right to non-discrimination of service or price if you exercise your privacy rights](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
+[5. Right to deletion](#5-right-to-deletion)
+[Our Handling of Personal Information](#our-handling-of-personal-information)
+[Exemptions under the CCPA](#exemptions-under-the-ccpa)
 
 Effective January 1, 2020
 

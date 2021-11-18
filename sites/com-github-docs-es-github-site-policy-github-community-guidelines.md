@@ -8,13 +8,13 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Pautas de la comunidad GitHub
 
-## [En este artículo](#in-this-article)
-- [Construir una comunidad sólida](#building-a-strong-community)
-- [¿Qué pasa si algo o alguien te ofende?](#what-if-something-or-someone-offends-you)
-- [¿Qué no está permitido?](#what-is-not-allowed)
-- [¿Qué sucede si alguien no comple con las reglas?](#what-happens-if-someone-breaks-the-rules)
-- [Apelación y reinstauración](#appeal-and-reinstatement)
-- [Avisos legales](#legal-notices)
+## [En este artículo](/github/site-policy/github-community-guidelines#in-this-article)
+[Construir una comunidad sólida](#building-a-strong-community)
+[¿Qué pasa si algo o alguien te ofende?](#what-if-something-or-someone-offends-you)
+[¿Qué no está permitido?](#what-is-not-allowed)
+[¿Qué sucede si alguien no comple con las reglas?](#what-happens-if-someone-breaks-the-rules)
+[Apelación y reinstauración](#appeal-and-reinstatement)
+[Avisos legales](#legal-notices)
 
 Millones de desarrolladores albergan millones de proyectos en GitHub — tanto de código abierto como de código cerrado — y tenemos el honor de participar en la colaboración de toda la comunidad todos los días. Juntos tenemos una emocionante oportunidad y responsabilidad de hacer de esta una comunidad de la que podemos estar orgullosos.
 

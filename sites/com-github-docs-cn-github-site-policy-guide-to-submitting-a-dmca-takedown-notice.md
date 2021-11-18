@@ -8,11 +8,11 @@
 
 # 提交 DMCA 删除通知的指南
 
-## [本文内容](#in-this-article)
-- [开始前](#before-you-start)
-- [您的投诉必须...](#your-complaint-must-)
-- [有关反规避技术措施的投诉](#complaints-about-anti-circumvention-technology)
-- [如果提交投诉](#how-to-submit-your-complaint)
+## [本文内容](/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+[开始前](#before-you-start)
+[您的投诉必须...](#your-complaint-must-)
+[有关反规避技术措施的投诉](#complaints-about-anti-circumvention-technology)
+[如果提交投诉](#how-to-submit-your-complaint)
 
 本指南介绍 GitHub 处理 DMCA 删除请求所需的信息。 如果您对 DMCA 的概念或 GitHub 处理 DMCA 删除请求的方式有更多一般性疑问，请参阅我们的
 [DMCA 删除政策](/cn/articles/dmca-takedown-policy)

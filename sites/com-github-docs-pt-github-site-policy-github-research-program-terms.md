@@ -8,15 +8,15 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 # Termos do programa de pesquisa do GitHub
 
-## [Neste artigo](#in-this-article)
-- [A. Seu Feedback](#a-your-feedback)
-- [B. Confidencialidade](#b-confidentiality)
-- [C. Reserva de Direitos](#c-reservation-of-rights)
-- [D. Privacidade](#d-privacy)
-- [E. Serviços e Termos do Software GitHub](#e-github-services-and-software-terms)
-- [F. Isenção de Garantias](#f-disclaimer-of-warranties)
-- [G. Limitação de responsabilidade](#g-limitation-of-liability)
-- [H. Disposições Gerais](#h-miscellaneous)
+## [Neste artigo](/github/site-policy/github-research-program-terms#in-this-article)
+[A. Seu Feedback](#a-your-feedback)
+[B. Confidencialidade](#b-confidentiality)
+[C. Reserva de Direitos](#c-reservation-of-rights)
+[D. Privacidade](#d-privacy)
+[E. Serviços e Termos do Software GitHub](#e-github-services-and-software-terms)
+[F. Isenção de Garantias](#f-disclaimer-of-warranties)
+[G. Limitação de responsabilidade](#g-limitation-of-liability)
+[H. Disposições Gerais](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub (“Contrato”).
 

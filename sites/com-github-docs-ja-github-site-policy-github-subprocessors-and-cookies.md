@@ -8,9 +8,9 @@ GitHubのサブプロセッサとCookie - GitHub Docs
 
 # GitHubのサブプロセッサとCookie
 
-## [ここには以下の内容があります:](#in-this-article)
-- [GitHubのサブプロセッサ](#github-subprocessors)
-- [GitHubのCookie](#cookies-on-github)
+## [ここには以下の内容があります:](/github/site-policy/github-subprocessors-and-cookies#in-this-article)
+[GitHubのサブプロセッサ](#github-subprocessors)
+[GitHubのCookie](#cookies-on-github)
 
 発効日：
 **2021年4月2日**

@@ -8,19 +8,19 @@ GitHub 其他产品和功能条款 - GitHub Docs
 
 # GitHub 其他产品和功能条款
 
-## [本文内容](#in-this-article)
-- [操作](#actions)
-- [Advanced Security](#advanced-security)
-- [Advisory Database](#advisory-database)
-- [Codespaces](#codespaces)
-- [Connect](#connect)
-- [GitHub Enterprise Importer](#github-enterprise-importer)
-- [Learning Lab](#learning-lab)
-- [npm](#npm)
-- [包](#packages)
-- [页面](#pages)
-- [赞助计划](#sponsors-program)
-- [SQL Server 映像](#sql-server-images)
+## [本文内容](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
+[操作](#actions)
+[Advanced Security](#advanced-security)
+[Advisory Database](#advisory-database)
+[Codespaces](#codespaces)
+[Connect](#connect)
+[GitHub Enterprise Importer](#github-enterprise-importer)
+[Learning Lab](#learning-lab)
+[npm](#npm)
+[包](#packages)
+[页面](#pages)
+[赞助计划](#sponsors-program)
+[SQL Server 映像](#sql-server-images)
 
 版本生效日期：2021 年 8 月 10 日
 

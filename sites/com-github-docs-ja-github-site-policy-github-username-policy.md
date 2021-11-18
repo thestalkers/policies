@@ -8,10 +8,10 @@ GitHub ユーザ名ポリシー - GitHub Docs
 
 # GitHub ユーザ名ポリシー
 
-## [ここには以下の内容があります:](#in-this-article)
-- [使用したいユーザ名がすでに他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)
-- [トレードマークポリシー](#trademark-policy)
-- [ネームスクワッティングに関するポリシー](#name-squatting-policy)
+## [ここには以下の内容があります:](/github/site-policy/github-username-policy#in-this-article)
+[使用したいユーザ名がすでに他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)
+[トレードマークポリシー](#trademark-policy)
+[ネームスクワッティングに関するポリシー](#name-squatting-policy)
 
 GitHub アカウント名は、すぐに使用されることを前提として先着順で提供されています。
 

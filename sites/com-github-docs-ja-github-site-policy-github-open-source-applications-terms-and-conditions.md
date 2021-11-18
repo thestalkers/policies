@@ -8,13 +8,13 @@ GitHubオープンソースアプリケーションの規約および条件 - Gi
 
 # GitHubオープンソースアプリケーションの規約および条件
 
-## [ここには以下の内容があります:](#in-this-article)
-- [GitHubへの接続](#connecting-to-github)
-- [オープンソースライセンスおよび通知](#open-source-licenses-and-notices)
-- [GitHubのロゴ](#githubs-logos)
-- [プライバシー](#privacy)
-- [その他のサービス](#additional-services)
-- [その他](#miscellanea)
+## [ここには以下の内容があります:](/github/site-policy/github-open-source-applications-terms-and-conditions#in-this-article)
+[GitHubへの接続](#connecting-to-github)
+[オープンソースライセンスおよび通知](#open-source-licenses-and-notices)
+[GitHubのロゴ](#githubs-logos)
+[プライバシー](#privacy)
+[その他のサービス](#additional-services)
+[その他](#miscellanea)
 
 GitHubオープンソースアプリケーションの規約および条件(「アプリケーション規約」）は、お客様とGitHub, Inc.との間の、 「GitHub Desktop™」および関連するドキュメントなどの、GitHubのアプリケーション(「ソフトウェア」に関する法的な契約です。 本「アプリケーション規約」は、ソフトウェアの実行可能なコードバージョンに適用されます。 本「ソフトウェア」のソースコードは、オープンソースソフトウェアのライセンス契約に基づき、別途無料で入手できます。 本「アプリケーション規約」の全ての規約に同意しない場合、本「ソフトウェア」をダウンロード、インストール、使用、または複製しないでください。
 

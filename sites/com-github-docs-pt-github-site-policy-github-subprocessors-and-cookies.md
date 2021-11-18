@@ -8,9 +8,9 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 # Subprocessadores e cookies do GitHub
 
-## [Neste artigo](#in-this-article)
-- [Subprocessadores GitHub](#github-subprocessors)
-- [Cookies no GitHub](#cookies-on-github)
+## [Neste artigo](/github/site-policy/github-subprocessors-and-cookies#in-this-article)
+[Subprocessadores GitHub](#github-subprocessors)
+[Cookies no GitHub](#cookies-on-github)
 
 Data de entrada em vigor:
 **2 de abril de 2021**

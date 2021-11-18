@@ -8,9 +8,9 @@ GitHub 和贸易管制 - GitHub Docs
 
 # GitHub 和贸易管制
 
-## [本文内容](#in-this-article)
-- [出口概述](#export-overview)
-- [常见问题](#frequently-asked-questions)
+## [本文内容](/github/site-policy/github-and-trade-controls#in-this-article)
+[出口概述](#export-overview)
+[常见问题](#frequently-asked-questions)
 
 GitHub.com、GitHub Enterprise Server 以及您上传至其中任一产品的信息都需遵守贸易管制法规，包括美国出口管理条例（Export Administration Regulations，EAR）。 出口管理条例 (EAR)。
 

@@ -8,13 +8,13 @@ GitHubコミュニティフォーラムの行動規範 - GitHub Docs
 
 # GitHubコミュニティフォーラムの行動規範
 
-## [ここには以下の内容があります:](#in-this-article)
-- [概要と目的](#overview-and-purpose)
-- [誓約](#pledge)
-- [規範](#standards)
-- [行動規範の施行](#enforcement)
-- [GitHubスタッフへの連絡](#contacting-github-staff)
-- [法的通知](#legal-notices)
+## [ここには以下の内容があります:](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[概要と目的](#overview-and-purpose)
+[誓約](#pledge)
+[規範](#standards)
+[行動規範の施行](#enforcement)
+[GitHubスタッフへの連絡](#contacting-github-staff)
+[法的通知](#legal-notices)
 
 ## 概要と目的
 

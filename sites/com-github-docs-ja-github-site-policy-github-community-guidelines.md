@@ -8,13 +8,13 @@ GitHubコミュニティガイドライン - GitHub Docs
 
 # GitHubコミュニティガイドライン
 
-## [ここには以下の内容があります:](#in-this-article)
-- [強いコミュニティを作る](#building-a-strong-community)
-- [嫌な思いをしたら](#what-if-something-or-someone-offends-you)
-- [禁止事項](#what-is-not-allowed)
-- [誰かがルールに違反した場合は](#what-happens-if-someone-breaks-the-rules)
-- [意義申し立てと復帰](#appeal-and-reinstatement)
-- [法的通知](#legal-notices)
+## [ここには以下の内容があります:](/github/site-policy/github-community-guidelines#in-this-article)
+[強いコミュニティを作る](#building-a-strong-community)
+[嫌な思いをしたら](#what-if-something-or-someone-offends-you)
+[禁止事項](#what-is-not-allowed)
+[誰かがルールに違反した場合は](#what-happens-if-someone-breaks-the-rules)
+[意義申し立てと復帰](#appeal-and-reinstatement)
+[法的通知](#legal-notices)
 
 GitHub では、何百万人もの開発者が何百万ものプロジェクト（オープンソースとクローズドソースの両方）をホストしています。私たちは、コミュニティの日々のコラボレーションに貢献できることを光栄に思います。 私たちには、誇りに思うことができるコミュニティを実現するための素晴らしいチャンスがあると同時に、責任も背負っています。
 

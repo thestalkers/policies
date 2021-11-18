@@ -8,13 +8,13 @@ GitHub 社区论坛行为准则 - GitHub Docs
 
 # GitHub 社区论坛行为准则
 
-## [本文内容](#in-this-article)
-- [概述和宗旨](#overview-and-purpose)
-- [承诺](#pledge)
-- [标准](#standards)
-- [执行](#enforcement)
-- [联系 GitHub 工作人员](#contacting-github-staff)
-- [法律声明](#legal-notices)
+## [本文内容](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[概述和宗旨](#overview-and-purpose)
+[承诺](#pledge)
+[标准](#standards)
+[执行](#enforcement)
+[联系 GitHub 工作人员](#contacting-github-staff)
+[法律声明](#legal-notices)
 
 ## 概述和宗旨
 

@@ -8,14 +8,14 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Acuerdo de Protección de Datos de GitHub
 
-## [En este artículo](#in-this-article)
-- [Introducción](#introduction)
-- [Definiciones](#definitions)
-- [Términos Generales](#general-terms)
-- [Protección de datos](#data-protection)
-- [ANNEX I](#annex-i)
-- [ANNEX II](#annex-ii)
-- [ANNEX III](#annex-iii)
+## [En este artículo](/github/site-policy/github-data-protection-agreement#in-this-article)
+[Introducción](#introduction)
+[Definiciones](#definitions)
+[Términos Generales](#general-terms)
+[Protección de datos](#data-protection)
+[ANNEX I](#annex-i)
+[ANNEX II](#annex-ii)
+[ANNEX III](#annex-iii)
 
 ## Introducción
 

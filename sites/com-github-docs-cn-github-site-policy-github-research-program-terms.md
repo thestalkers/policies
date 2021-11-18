@@ -8,15 +8,15 @@ GitHub 研究计划条款 - GitHub Docs
 
 # GitHub 研究计划条款
 
-## [本文内容](#in-this-article)
-- [A. 反馈](#a-your-feedback)
-- [B. 保密](#b-confidentiality)
-- [C. 保留权利](#c-reservation-of-rights)
-- [D. 隐私](#d-privacy)
-- [E. GitHub 服务和软件条款](#e-github-services-and-software-terms)
-- [F. 免责声明](#f-disclaimer-of-warranties)
-- [G. 责任限制](#g-limitation-of-liability)
-- [H. 其他](#h-miscellaneous)
+## [本文内容](/github/site-policy/github-research-program-terms#in-this-article)
+[A. 反馈](#a-your-feedback)
+[B. 保密](#b-confidentiality)
+[C. 保留权利](#c-reservation-of-rights)
+[D. 隐私](#d-privacy)
+[E. GitHub 服务和软件条款](#e-github-services-and-software-terms)
+[F. 免责声明](#f-disclaimer-of-warranties)
+[G. 责任限制](#g-limitation-of-liability)
+[H. 其他](#h-miscellaneous)
 
 欢迎参与 GitHub 研究计划（以下简称“计划”）！ 要参与计划，您需要同意一套特殊的条款，即 GitHub 研究计划协议（以下简称“协议”）。
 

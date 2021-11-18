@@ -8,11 +8,11 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 # Guia de envio do aviso de retirada DMCA
 
-## [Neste artigo](#in-this-article)
-- [Antes de começar](#before-you-start)
-- [Sua reclamação deve...](#your-complaint-must-)
-- [Queixas sobre Tecnologia Anticircunvenção](#complaints-about-anti-circumvention-technology)
-- [Como enviar sua reclamação](#how-to-submit-your-complaint)
+## [Neste artigo](/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+[Antes de começar](#before-you-start)
+[Sua reclamação deve...](#your-complaint-must-)
+[Queixas sobre Tecnologia Anticircunvenção](#complaints-about-anti-circumvention-technology)
+[Como enviar sua reclamação](#how-to-submit-your-complaint)
 
 Este guia descreve as informações de que o GitHub precisa para processar uma solicitação de retirada DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de retirada DMCA, por favor, reveja nossa
 [Política de Aviso de Retirada DMCA](/pt/articles/dmca-takedown-policy)

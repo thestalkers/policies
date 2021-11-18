@@ -8,10 +8,10 @@ GitHub 反贿赂声明 - GitHub Docs
 
 # GitHub 反贿赂声明
 
-## [本文内容](#in-this-article)
-- [GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
-- [培训我们的员工](#training-for-our-employees)
-- [要求我们的合作伙伴](#engaging-our-partners)
+## [本文内容](/github/site-policy/github-anti-bribery-statement#in-this-article)
+[GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
+[培训我们的员工](#training-for-our-employees)
+[要求我们的合作伙伴](#engaging-our-partners)
 
 GitHub 恪守道德经营的承诺，包括禁止贿赂和腐败。 正如
 [透明国际](https://www.transparency.org/what-is-corruption#costs-of-corruption)

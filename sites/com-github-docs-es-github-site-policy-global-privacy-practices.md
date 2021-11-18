@@ -8,9 +8,9 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 
 # Prácticas de Privacidad Globales
 
-## [En este artículo](#in-this-article)
-- [Cláusulas Contractuales Estándar](#standard-contractual-clauses)
-- [Marco del Escudo de Privacidad](#privacy-shield-framework)
+## [En este artículo](/github/site-policy/global-privacy-practices#in-this-article)
+[Cláusulas Contractuales Estándar](#standard-contractual-clauses)
+[Marco del Escudo de Privacidad](#privacy-shield-framework)
 
 Fecha de entrada en vigor: 22 de julio del 2020
 

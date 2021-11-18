@@ -8,11 +8,11 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 
 # Programa de recompensa de erros e declaração Safe Harbor do GitHub
 
-## [Neste artigo](#in-this-article)
-- [Sumário](#summary)
-- [1. Termos de Porto Seguro](#1-safe-harbor-terms)
-- [2. Porto Seguro de Terceiros](#2-third-party-safe-harbor)
-- [3. Renúncia limitada a outras políticas do site](#3-limited-waiver-of-other-site-polices)
+## [Neste artigo](/github/site-policy/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+[Sumário](#summary)
+[1. Termos de Porto Seguro](#1-safe-harbor-terms)
+[2. Porto Seguro de Terceiros](#2-third-party-safe-harbor)
+[3. Renúncia limitada a outras políticas do site](#3-limited-waiver-of-other-site-polices)
 
 ## Sumário
 We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. Não podemos vincular terceiros, por isso, não interprete que essa proteção se estende a terceiros. Em caso de dúvida, pergunte-nos antes de se envolver em qualquer ação específica que você acha que
