@@ -9,18 +9,18 @@ GitHub 追加製品および機能の利用規約 - GitHub Docs
 # GitHub 追加製品および機能の利用規約
 
 ## [ここには以下の内容があります:](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
-[アクション](#actions)
-[Advanced Security](#advanced-security)
-[Advisory Database](#advisory-database)
-[Codespaces](#codespaces)
-[Connect](#connect)
-[GitHub Enterprise Importer](#github-enterprise-importer)
-[Learning Lab](#learning-lab)
-[npm](#npm)
-[パッケージ](#packages)
-[ページ](#pages)
-[Sponsorsプログラム](#sponsors-program)
-[SQL Server Images](#sql-server-images)
+- [アクション](#actions)
+- [Advanced Security](#advanced-security)
+- [Advisory Database](#advisory-database)
+- [Codespaces](#codespaces)
+- [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
+- [Learning Lab](#learning-lab)
+- [npm](#npm)
+- [パッケージ](#packages)
+- [ページ](#pages)
+- [Sponsorsプログラム](#sponsors-program)
+- [SQL Server Images](#sql-server-images)
 
 Version Effective Date: August 10, 2021
 

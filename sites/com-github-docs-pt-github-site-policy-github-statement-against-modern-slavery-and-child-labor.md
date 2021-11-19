@@ -9,13 +9,13 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 # Declaração do GitHub contra a escravidão moderna e o trabalho infantil
 
 ## [Neste artigo](/github/site-policy/github-statement-against-modern-slavery-and-child-labor#in-this-article)
-[Estrutura, negócios e cadeias de fornecedores do GitHub](#githubs-structure-business-and-supply-chains)
-[Políticas relativas à escravatura moderna e ao trabalho infantil](#policies-in-relation-to-modern-slavery-and-child-labor)
-[Leis e práticas trabalhistas](#labor-laws-and-practices)
-[Processos de due diligence em relação à escravidão moderna e ao trabalho infantil em seus negócios e cadeias de fornecedores](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-[Lugares nas cadeias de negócios e suprimentos do GitHub onde há um risco de escravidão moderna e trabalho infantil, e medidas que o GitHub tomou para avaliar e gerenciar esse risco](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-[A eficácia em garantir que nem a escravidão moderna nem o trabalho infantil estão ocorrendo nos negócios ou cadeias de fornecedores do GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-[Treinamento para funcionários do GitHub sobre escravidão moderna e tráfico humano](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+- [Estrutura, negócios e cadeias de fornecedores do GitHub](#githubs-structure-business-and-supply-chains)
+- [Políticas relativas à escravatura moderna e ao trabalho infantil](#policies-in-relation-to-modern-slavery-and-child-labor)
+- [Leis e práticas trabalhistas](#labor-laws-and-practices)
+- [Processos de due diligence em relação à escravidão moderna e ao trabalho infantil em seus negócios e cadeias de fornecedores](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+- [Lugares nas cadeias de negócios e suprimentos do GitHub onde há um risco de escravidão moderna e trabalho infantil, e medidas que o GitHub tomou para avaliar e gerenciar esse risco](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+- [A eficácia em garantir que nem a escravidão moderna nem o trabalho infantil estão ocorrendo nos negócios ou cadeias de fornecedores do GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+- [Treinamento para funcionários do GitHub sobre escravidão moderna e tráfico humano](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *Declaração de 2018*
 

@@ -9,13 +9,13 @@ GitHub Data Protection Agreement - GitHub Docs
 # GitHub Data Protection Agreement
 
 ## [本文内容](/github/site-policy/github-data-protection-agreement#in-this-article)
-[简介](#introduction)
-[定义](#definitions)
-[General Terms](#general-terms)
-[数据保护](#data-protection)
-[ANNEX I](#annex-i)
-[ANNEX II](#annex-ii)
-[ANNEX III](#annex-iii)
+- [简介](#introduction)
+- [定义](#definitions)
+- [General Terms](#general-terms)
+- [数据保护](#data-protection)
+- [ANNEX I](#annex-i)
+- [ANNEX II](#annex-ii)
+- [ANNEX III](#annex-iii)
 
 ## 简介
 

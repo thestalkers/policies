@@ -9,9 +9,9 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 # Política de nome de usuário do GitHub
 
 ## [Neste artigo](/github/site-policy/github-username-policy#in-this-article)
-[E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
-[Política de marca registrada](#trademark-policy)
-[Política de uso indevido de nome](#name-squatting-policy)
+- [E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
+- [Política de marca registrada](#trademark-policy)
+- [Política de uso indevido de nome](#name-squatting-policy)
 
 Os nomes das contas do GitHub são fornecidos pela ordem de chegada e são destinados ao uso imediato e ativo.
 

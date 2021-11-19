@@ -9,9 +9,9 @@
 # 提交 DMCA 反对通知的指南
 
 ## [本文内容](/github/site-policy/guide-to-submitting-a-dmca-counter-notice#in-this-article)
-[开始前](#before-you-start)
-[您的反通知必须...](#your-counter-notice-must)
-[如何提交反通知](#how-to-submit-your-counter-notice)
+- [开始前](#before-you-start)
+- [您的反通知必须...](#your-counter-notice-must)
+- [如何提交反通知](#how-to-submit-your-counter-notice)
 
 本指南介绍 GitHub 处理 DMCA 删除请求反通知所需的信息。 如果您对 DMCA 的概念或 GitHub 处理 DMCA 删除请求的方式有更多一般性疑问，请参阅我们的
 [DMCA 删除政策](/cn/articles/dmca-takedown-policy)

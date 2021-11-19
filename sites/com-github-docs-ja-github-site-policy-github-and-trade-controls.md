@@ -9,8 +9,8 @@ GitHubと貿易統制 - GitHub Docs
 # GitHubと貿易統制
 
 ## [ここには以下の内容があります:](/github/site-policy/github-and-trade-controls#in-this-article)
-[輸出の概要](#export-overview)
-[よくある質問](#frequently-asked-questions)
+- [輸出の概要](#export-overview)
+- [よくある質問](#frequently-asked-questions)
 
 GitHub.com、GitHub Enterprise Server、およびあなたがいずれかの製品にアップロードする情報は、米輸出管理規則（EAR）を含む貿易管理規制の対象となる場合があります。
 

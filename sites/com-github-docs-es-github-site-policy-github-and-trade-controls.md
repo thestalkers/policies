@@ -9,8 +9,8 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 # GitHub y controles comerciales
 
 ## [En este artículo](/github/site-policy/github-and-trade-controls#in-this-article)
-[Información general sobre exportaciones](#export-overview)
-[Preguntas frecuentes](#frequently-asked-questions)
+- [Información general sobre exportaciones](#export-overview)
+- [Preguntas frecuentes](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server y la información que subas a cualquiera de los productos puede estar sujeta a las regulaciones de control de comercio, incluso bajo las Regulaciones sobre Exportación de la Administracción de los Estados Unidos (EAR). Regulaciones de Administración de Exportación (las EAR).
 

@@ -9,13 +9,13 @@ GitHub 赞助附加条款 - GitHub Docs
 # GitHub 赞助附加条款
 
 ## [本文内容](/github/site-policy/github-sponsors-additional-terms#in-this-article)
-[1. 定义。](#1-definitions)
-[2. 可接受使用。](#2-acceptable-use)
-[3. 被赞助开发者的义务。](#3-sponsored-developer-obligations)
-[4. 财务条款。](#4-financial-terms)
-[5. 声明与保证；责任限制；保障赔偿。](#5-representations-and-warranties-limitation-of-liability-indemnification)
-[6. 期限与终止。](#6-term-and-termination)
-[7. 其他。](#7-miscellaneous)
+- [1. 定义。](#1-definitions)
+- [2. 可接受使用。](#2-acceptable-use)
+- [3. 被赞助开发者的义务。](#3-sponsored-developer-obligations)
+- [4. 财务条款。](#4-financial-terms)
+- [5. 声明与保证；责任限制；保障赔偿。](#5-representations-and-warranties-limitation-of-liability-indemnification)
+- [6. 期限与终止。](#6-term-and-termination)
+- [7. 其他。](#7-miscellaneous)
 
 参与 GitHub 赞助计划（以下简称“计划”）须遵守
 [GitHub 服务条款](/cn/github/site-policy/github-terms-of-service)

@@ -9,18 +9,18 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 # Termos do GitHub para Produtos e Funcionalidades Adicionais
 
 ## [Neste artigo](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
-[Ações](#actions)
-[Segurança Avançada](#advanced-security)
-[Banco de Dados Consultivo](#advisory-database)
-[Codespaces](#codespaces)
-[Connect](#connect)
-[GitHub Enterprise Importer](#github-enterprise-importer)
-[Learning Lab](#learning-lab)
-[npm](#npm)
-[Pacotes](#packages)
-[Pages](#pages)
-[Programa Sponsors](#sponsors-program)
-[Imagens do servidor SQL](#sql-server-images)
+- [Ações](#actions)
+- [Segurança Avançada](#advanced-security)
+- [Banco de Dados Consultivo](#advisory-database)
+- [Codespaces](#codespaces)
+- [Connect](#connect)
+- [GitHub Enterprise Importer](#github-enterprise-importer)
+- [Learning Lab](#learning-lab)
+- [npm](#npm)
+- [Pacotes](#packages)
+- [Pages](#pages)
+- [Programa Sponsors](#sponsors-program)
+- [Imagens do servidor SQL](#sql-server-images)
 
 Data de vigência da versão: 10 de agosto de 2021
 

@@ -9,8 +9,8 @@
 # プライバシーのグローバルプラクティス
 
 ## [ここには以下の内容があります:](/github/site-policy/global-privacy-practices#in-this-article)
-[標準契約条項](#standard-contractual-clauses)
-[プライバシー シールド フレームワーク](#privacy-shield-framework)
+- [標準契約条項](#standard-contractual-clauses)
+- [プライバシー シールド フレームワーク](#privacy-shield-framework)
 
 発効日: 2020年7月22日
 

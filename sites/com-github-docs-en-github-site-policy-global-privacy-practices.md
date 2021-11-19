@@ -4,8 +4,8 @@ Global Privacy Practices - GitHub Docs
 # Global Privacy Practices
 
 ## [In this article](/github/site-policy/global-privacy-practices#in-this-article)
-[Standard Contractual Clauses](#standard-contractual-clauses)
-[Privacy Shield Framework](#privacy-shield-framework)
+- [Standard Contractual Clauses](#standard-contractual-clauses)
+- [Privacy Shield Framework](#privacy-shield-framework)
 
 Effective date: July 22, 2020
 

@@ -9,16 +9,16 @@
 # ユーザデータの法的リクエストに関するガイドライン
 
 ## [ここには以下の内容があります:](/github/site-policy/guidelines-for-legal-requests-of-user-data#in-this-article)
-[本ガイドラインについて](#about-these-guidelines)
-[GitHub の用語](#github-terminology)
-[GitHub.com のユーザデータ](#user-data-on-githubcom)
-[影響を受けるアカウントオーナーに対する通知](#we-will-notify-any-affected-account-owners)
-[非公開情報の開示](#disclosure-of-non-public-information)
-[費用の払い戻し](#cost-reimbursement)
-[データ保存](#data-preservation)
-[要求の提出](#submitting-requests)
-[外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
-[質問](#questions)
+- [本ガイドラインについて](#about-these-guidelines)
+- [GitHub の用語](#github-terminology)
+- [GitHub.com のユーザデータ](#user-data-on-githubcom)
+- [影響を受けるアカウントオーナーに対する通知](#we-will-notify-any-affected-account-owners)
+- [非公開情報の開示](#disclosure-of-non-public-information)
+- [費用の払い戻し](#cost-reimbursement)
+- [データ保存](#data-preservation)
+- [要求の提出](#submitting-requests)
+- [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
+- [質問](#questions)
 
 ここは、GitHub にホストされているユーザコンテンツを調査する法執行官の方や、 当社が法執行機関とどのような情報をどのような状況で共有するのかを知りたいとお考えの方に ご覧いただきたいページです。
 

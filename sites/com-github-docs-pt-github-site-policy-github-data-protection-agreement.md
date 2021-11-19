@@ -9,13 +9,13 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 # Contrato de Proteção de Dados do GitHub
 
 ## [Neste artigo](/github/site-policy/github-data-protection-agreement#in-this-article)
-[Introdução](#introduction)
-[Definições](#definitions)
-[Termos gerais](#general-terms)
-[Proteção de dados](#data-protection)
-[ANNEX I](#annex-i)
-[ANNEX II](#annex-ii)
-[ANNEX III](#annex-iii)
+- [Introdução](#introduction)
+- [Definições](#definitions)
+- [Termos gerais](#general-terms)
+- [Proteção de dados](#data-protection)
+- [ANNEX I](#annex-i)
+- [ANNEX II](#annex-ii)
+- [ANNEX III](#annex-iii)
 
 ## Introdução
 

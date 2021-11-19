@@ -4,8 +4,8 @@ GitHub Subprocessors and Cookies - GitHub Docs
 # GitHub Subprocessors and Cookies
 
 ## [In this article](/github/site-policy/github-subprocessors-and-cookies#in-this-article)
-[GitHub Subprocessors](#github-subprocessors)
-[Cookies on GitHub](#cookies-on-github)
+- [GitHub Subprocessors](#github-subprocessors)
+- [Cookies on GitHub](#cookies-on-github)
 
 Effective date:
 **April 2, 2021**

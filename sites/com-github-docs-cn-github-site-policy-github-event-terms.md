@@ -9,13 +9,13 @@ GitHub 活动条款 - GitHub Docs
 # GitHub 活动条款
 
 ## [本文内容](/github/site-policy/github-event-terms#in-this-article)
-[1. 参与活动的基本要求 - 包括](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+- [1. 参与活动的基本要求 - 包括](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 [活动行为准则](/cn/articles/github-event-code-of-conduct)
-[2. 图像](#2-pictures)
-[3. 风险、责任和赔偿](#3-risk-liability-and-indemnity)
-[4. 终止](#4-termination)
-[5. 法律和审判地选择](#5-choice-of-law-and-venue)
-[6. 其他条款](#6-miscellaneous-terms)
+- [2. 图像](#2-pictures)
+- [3. 风险、责任和赔偿](#3-risk-liability-and-indemnity)
+- [4. 终止](#4-termination)
+- [5. 法律和审判地选择](#5-choice-of-law-and-venue)
+- [6. 其他条款](#6-miscellaneous-terms)
 
 应邀或主动参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何赛事或项目（统称为“活动”），即表示您已阅读、理解并同意以下活动条款和条件。
 

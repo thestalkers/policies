@@ -9,16 +9,16 @@
 # 用户数据法律要求指南
 
 ## [本文内容](/github/site-policy/guidelines-for-legal-requests-of-user-data#in-this-article)
-[关于这些指南](#about-these-guidelines)
-[GitHub 术语](#github-terminology)
-[GitHub.com 上的用户数据](#user-data-on-githubcom)
-[我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
-[非公开信息的披露](#disclosure-of-non-public-information)
-[费用补偿](#cost-reimbursement)
-[数据保存](#data-preservation)
-[提交请求](#submitting-requests)
-[外国执法部门的请求](#requests-from-foreign-law-enforcement)
-[问题](#questions)
+- [关于这些指南](#about-these-guidelines)
+- [GitHub 术语](#github-terminology)
+- [GitHub.com 上的用户数据](#user-data-on-githubcom)
+- [我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
+- [非公开信息的披露](#disclosure-of-non-public-information)
+- [费用补偿](#cost-reimbursement)
+- [数据保存](#data-preservation)
+- [提交请求](#submitting-requests)
+- [外国执法部门的请求](#requests-from-foreign-law-enforcement)
+- [问题](#questions)
 
 您是否是对可能涉及 GitHub 上托管的用户内容进行调查的执法人员？ 或许您是一个具有隐私意识的人，想知道我们与执法部门分享什么信息，以及在什么情况下分享信息。 无论您是哪种身份，都应该参阅本文内容。
 

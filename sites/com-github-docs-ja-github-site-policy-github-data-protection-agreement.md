@@ -9,13 +9,13 @@ GitHub Data Protection Agreement - GitHub Docs
 # GitHub Data Protection Agreement
 
 ## [ここには以下の内容があります:](/github/site-policy/github-data-protection-agreement#in-this-article)
-[はじめに](#introduction)
-[定義](#definitions)
-[General Terms](#general-terms)
-[データ保護](#data-protection)
-[ANNEX I](#annex-i)
-[ANNEX II](#annex-ii)
-[ANNEX III](#annex-iii)
+- [はじめに](#introduction)
+- [定義](#definitions)
+- [General Terms](#general-terms)
+- [データ保護](#data-protection)
+- [ANNEX I](#annex-i)
+- [ANNEX II](#annex-ii)
+- [ANNEX III](#annex-iii)
 
 ## はじめに
 

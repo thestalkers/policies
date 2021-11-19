@@ -9,14 +9,14 @@ GitHubイベント規約 - GitHub Docs
 # GitHubイベント規約
 
 ## [ここには以下の内容があります:](/github/site-policy/github-event-terms#in-this-article)
-[1. 出席する基本条件――](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+- [1. 出席する基本条件――](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 [イベント行動規範](/ja/articles/github-event-code-of-conduct)
 を含む
-[2. 画像](#2-pictures)
-[3. リスク、責任、補償](#3-risk-liability-and-indemnity)
-[4. 解約](#4-termination)
-[5. 準拠法および裁判地](#5-choice-of-law-and-venue)
-[6. 雑則](#6-miscellaneous-terms)
+- [2. 画像](#2-pictures)
+- [3. リスク、責任、補償](#3-risk-liability-and-indemnity)
+- [4. 解約](#4-termination)
+- [5. 準拠法および裁判地](#5-choice-of-law-and-venue)
+- [6. 雑則](#6-miscellaneous-terms)
 
 GitHubイベントに関連してGitHubが企画するイベントやアクティビティを含め、GitHubのイベント (「イベント」と総称) に参加を申し込むまたは出席することにより、あなたは以下のイベント規約および条件を読み、理解し、同意したことを示します。
 

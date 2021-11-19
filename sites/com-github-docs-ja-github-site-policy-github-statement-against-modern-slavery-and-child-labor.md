@@ -9,13 +9,13 @@
 # 現代版奴隷法と児童労働に関するGitHubの声明
 
 ## [ここには以下の内容があります:](/github/site-policy/github-statement-against-modern-slavery-and-child-labor#in-this-article)
-[GitHubの組織、事業、およびサプライチェーン](#githubs-structure-business-and-supply-chains)
-[現代の奴隷制と児童労働に関するポリシー](#policies-in-relation-to-modern-slavery-and-child-labor)
-[労働法および慣行](#labor-laws-and-practices)
-[事業およびサプライチェーンにおける現代の奴隷制と児童労働に関するデューデリジェンスプロセス](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-[GitHubの事業およびサプライチェーンにおいて現代の奴隷制と児童労働のリスクが存在する場所、ならびにそうしたリスクを評価・管理するためにGitHubが執っている措置](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-[GitHubの事業やサプライチェーンにおいて、現代の奴隷制や児童労働が発生していないことを確認することの効果](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-[現代の奴隷制と人身売買に関するGitHubスタッフのための研修](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+- [GitHubの組織、事業、およびサプライチェーン](#githubs-structure-business-and-supply-chains)
+- [現代の奴隷制と児童労働に関するポリシー](#policies-in-relation-to-modern-slavery-and-child-labor)
+- [労働法および慣行](#labor-laws-and-practices)
+- [事業およびサプライチェーンにおける現代の奴隷制と児童労働に関するデューデリジェンスプロセス](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+- [GitHubの事業およびサプライチェーンにおいて現代の奴隷制と児童労働のリスクが存在する場所、ならびにそうしたリスクを評価・管理するためにGitHubが執っている措置](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+- [GitHubの事業やサプライチェーンにおいて、現代の奴隷制や児童労働が発生していないことを確認することの効果](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+- [現代の奴隷制と人身売買に関するGitHubスタッフのための研修](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018年の声明*
 

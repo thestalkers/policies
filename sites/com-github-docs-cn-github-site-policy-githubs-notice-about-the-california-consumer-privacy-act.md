@@ -9,16 +9,16 @@ GitHub 关于《加州消费者隐私法案》的声明 - GitHub Docs
 # GitHub 关于《加州消费者隐私法案》的声明
 
 ## [本文内容](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
-[GitHub 对加州居民的声明](#githubs-notice-to-california-residents)
-[我们不会出售您的个人信息](#we-do-not-sell-your-personal-information)
-[您在 CCPA 下的权利](#your-rights-under-the-ccpa)
-[1. 了解哪些个人信息被收集、出于什么目的以及与谁分享的权利](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
-[2. 了解您的个人信息是否出于商业目的而出售或披露以及接收方是谁的权利](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
-[3. 对出售您的个人信息说“不”的权利](#3-right-to-say-no-to-the-sale-of-your-personal-information)
-[4. 行使隐私权后在服务和价格方面不受歧视的权利](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
-[5. 要求删除的权利](#5-right-to-deletion)
-[我们对个人信息的处理](#our-handling-of-personal-information)
-[CCPA 下的豁免](#exemptions-under-the-ccpa)
+- [GitHub 对加州居民的声明](#githubs-notice-to-california-residents)
+- [我们不会出售您的个人信息](#we-do-not-sell-your-personal-information)
+- [您在 CCPA 下的权利](#your-rights-under-the-ccpa)
+- [1. 了解哪些个人信息被收集、出于什么目的以及与谁分享的权利](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
+- [2. 了解您的个人信息是否出于商业目的而出售或披露以及接收方是谁的权利](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
+- [3. 对出售您的个人信息说“不”的权利](#3-right-to-say-no-to-the-sale-of-your-personal-information)
+- [4. 行使隐私权后在服务和价格方面不受歧视的权利](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
+- [5. 要求删除的权利](#5-right-to-deletion)
+- [我们对个人信息的处理](#our-handling-of-personal-information)
+- [CCPA 下的豁免](#exemptions-under-the-ccpa)
 
 2020 年 1 月 1 日起生效
 

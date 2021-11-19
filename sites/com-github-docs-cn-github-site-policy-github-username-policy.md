@@ -9,9 +9,9 @@ GitHub 用户名政策 - GitHub Docs
 # GitHub 用户名政策
 
 ## [本文内容](/github/site-policy/github-username-policy#in-this-article)
-[如果已获取所需的用户名，该怎么办？](#what-if-the-username-i-want-is-already-taken)
-[商标政策](#trademark-policy)
-[名称占用政策](#name-squatting-policy)
+- [如果已获取所需的用户名，该怎么办？](#what-if-the-username-i-want-is-already-taken)
+- [商标政策](#trademark-policy)
+- [名称占用政策](#name-squatting-policy)
 
 GitHub 帐户名按先到先得的方式提供，预期立即使用。
 

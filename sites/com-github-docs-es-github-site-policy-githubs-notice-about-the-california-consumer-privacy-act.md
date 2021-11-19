@@ -9,16 +9,16 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 # Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California
 
 ## [En este artículo](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
-[Aviso de GitHub para los Residentes de California](#githubs-notice-to-california-residents)
-[No vendemos tu información personal](#we-do-not-sell-your-personal-information)
-[Tus derechos bajo la CCPA](#your-rights-under-the-ccpa)
-[1. Derecho a saber qué tipo de información personal se está recolectando, para qué propósito y con quién se comparte](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
-[2. Derecho a conocer si tu información personal se vende o divulga para propósitos de negocios y a quién](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
-[3. Derecho a negarse a la venta de su información personal](#3-right-to-say-no-to-the-sale-of-your-personal-information)
-[4. Derecho a no discriminar servicios o precios si ejerces tus derechos a la privacidad](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
-[5. Derecho al borrado](#5-right-to-deletion)
-[Nuestro manejo de la Información Personal](#our-handling-of-personal-information)
-[Ejemplos bajo la CCPA](#exemptions-under-the-ccpa)
+- [Aviso de GitHub para los Residentes de California](#githubs-notice-to-california-residents)
+- [No vendemos tu información personal](#we-do-not-sell-your-personal-information)
+- [Tus derechos bajo la CCPA](#your-rights-under-the-ccpa)
+- [1. Derecho a saber qué tipo de información personal se está recolectando, para qué propósito y con quién se comparte](#1-right-to-know-what-personal-information-is-being-collected-for-what-purposes-and-with-whom-it-is-shared)
+- [2. Derecho a conocer si tu información personal se vende o divulga para propósitos de negocios y a quién](#2-right-to-know-whether-your-personal-information-is-sold-or-disclosed-for-a-business-purpose-and-to-whom)
+- [3. Derecho a negarse a la venta de su información personal](#3-right-to-say-no-to-the-sale-of-your-personal-information)
+- [4. Derecho a no discriminar servicios o precios si ejerces tus derechos a la privacidad](#4-right-to-non-discrimination-of-service-or-price-if-you-exercise-your-privacy-rights)
+- [5. Derecho al borrado](#5-right-to-deletion)
+- [Nuestro manejo de la Información Personal](#our-handling-of-personal-information)
+- [Ejemplos bajo la CCPA](#exemptions-under-the-ccpa)
 
 Válida desde el 1 de enero de 2020
 

@@ -9,12 +9,12 @@ Se você tem sugestões para aprimorar nossa tradução, por favor,
 # Código de conduta do fórum da comunidade do GitHub
 
 ## [Neste artigo](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
-[Visão geral e objetivo](#overview-and-purpose)
-[Compromisso](#pledge)
-[Padrão](#standards)
-[Cumprimento da lei](#enforcement)
-[Contactando o pessoal do GitHub](#contacting-github-staff)
-[Avisos Legais](#legal-notices)
+- [Visão geral e objetivo](#overview-and-purpose)
+- [Compromisso](#pledge)
+- [Padrão](#standards)
+- [Cumprimento da lei](#enforcement)
+- [Contactando o pessoal do GitHub](#contacting-github-staff)
+- [Avisos Legais](#legal-notices)
 
 ## Visão geral e objetivo
 

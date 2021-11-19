@@ -9,16 +9,16 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 # Políticas de uso aceptable de GitHub
 
 ## [En este artículo](/github/site-policy/github-acceptable-use-policies#in-this-article)
-[1. Cumplimiento con las leyes y regulaciones](#1-compliance-with-laws-and-regulations)
-[2. Restricciones de contenido](#2-content-restrictions)
-[3. Restricciones de conducta](#3-conduct-restrictions)
-[4. Spam y actividad falsa en GitHub](#4-spam-and-inauthentic-activity-on-github)
-[5. Límites de uso de los servicios](#5-services-usage-limits)
-[6. Restricciones de uso de información](#6-information-usage-restrictions)
-[7. Privacidad](#7-privacy)
-[8. Uso del ancho de banda excesivo](#8-excessive-bandwidth-use)
-[9. Hacer publicidad en GitHub](#9-advertising-on-github)
-[10. Protección del Usuario](#10-user-protection)
+- [1. Cumplimiento con las leyes y regulaciones](#1-compliance-with-laws-and-regulations)
+- [2. Restricciones de contenido](#2-content-restrictions)
+- [3. Restricciones de conducta](#3-conduct-restrictions)
+- [4. Spam y actividad falsa en GitHub](#4-spam-and-inauthentic-activity-on-github)
+- [5. Límites de uso de los servicios](#5-services-usage-limits)
+- [6. Restricciones de uso de información](#6-information-usage-restrictions)
+- [7. Privacidad](#7-privacy)
+- [8. Uso del ancho de banda excesivo](#8-excessive-bandwidth-use)
+- [9. Hacer publicidad en GitHub](#9-advertising-on-github)
+- [10. Protección del Usuario](#10-user-protection)
 
 **Versión simplificada:**
 *Presentamos una amplia variedad de proyectos en equipo en todo el mundo y dicha cooperación solamente funciona cuando nuestros usuarios pueden trabajar juntos con buenas intenciones. Mientras usas el Servicio, debes cumplir con nuestras políticas de uso aceptable, que incluyen algunas restricciones sobre el contenido que puedes publicar o gestionar en el servicio y otras limitaciones. En síntesis, la idea es que sean geniales entre sí.*

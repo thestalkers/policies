@@ -9,9 +9,9 @@
 # コンテンツ削除リクエストのサブミット
 
 ## [ここには以下の内容があります:](/github/site-policy/submitting-content-removal-requests#in-this-article)
-[DMCAテイクダウンポリシー](/ja/articles/dmca-takedown-policy)
-[GitHubトレードマークポリシー](/ja/articles/github-trademark-policy)
-[GitHub個人情報削除ポリシー](/ja/github/site-policy/github-private-information-removal-policy)
+- [DMCAテイクダウンポリシー](/ja/articles/dmca-takedown-policy)
+- [GitHubトレードマークポリシー](/ja/articles/github-trademark-policy)
+- [GitHub個人情報削除ポリシー](/ja/github/site-policy/github-private-information-removal-policy)
 
 当社は、著作権のあるコンテンツ、商標登録されたコンテンツ、または個人的なコンテンツが、偶然または故意に GitHub で（時としてあなたが所有していないリポジトリに）公開される場合があることを理解しています。 こうしたコンテンツの性質はさまざまであり、適用される法律も異なるため、各カテゴリには独自かつ明確な報告要件があり、これは当社のポリシーに記載されています。
 

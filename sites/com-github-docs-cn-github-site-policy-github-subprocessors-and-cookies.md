@@ -9,8 +9,8 @@ GitHub 子处理器和 Cookie - GitHub Docs
 # GitHub 子处理器和 Cookie
 
 ## [本文内容](/github/site-policy/github-subprocessors-and-cookies#in-this-article)
-[GitHub 子处理商](#github-subprocessors)
-[GitHub 上的 Cookie](#cookies-on-github)
+- [GitHub 子处理商](#github-subprocessors)
+- [GitHub 上的 Cookie](#cookies-on-github)
 
 生效日期：
 **2021 年 4 月 2 日**
