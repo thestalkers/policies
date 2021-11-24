@@ -1,4 +1,4 @@
-Política del sitio - GitHub Docs
+Site policy - GitHub Docs
 [GitHub Docs](/es)
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora.
 
@@ -6,7 +6,7 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
 .
 
-# Política del sitio
+# Site policy
 - [Términos de servicio de GitHub](/es/github/site-policy/github-terms-of-service)
 - [Términos de servicio corporativos de GitHub](/es/github/site-policy/github-corporate-terms-of-service)
 - [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement)
@@ -14,7 +14,7 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Prácticas de Privacidad Globales](/es/github/site-policy/global-privacy-practices)
 - [Términos adicionales de los Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms)
 - [Declaración de Privacidad de GitHub Codespaces](/es/github/site-policy/github-codespaces-privacy-statement)
-- [Condiciones de GitHub para las características y productos adicionales](/es/github/site-policy/github-terms-for-additional-products-and-features)
+- [GitHub Terms for Additional Products and Features](/es/github/site-policy/github-terms-for-additional-products-and-features)
 - [Política de logo de GitHub](/es/github/site-policy/github-logo-policy)
 - [Política de nombre de usuario de GitHub](/es/github/site-policy/github-username-policy)
 - [Enviar solicitudes de eliminación de contenido](/es/github/site-policy/submitting-content-removal-requests)
@@ -24,7 +24,8 @@ Si tienes sugerencias para mejorar nuestra traducción, por favor
 - [Política de marca registrada de GitHub](/es/github/site-policy/github-trademark-policy)
 - [Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
 - [Subprocesadores y cookies de GitHub](/es/github/site-policy/github-subprocessors-and-cookies)
-- [Disposición de seguridad legal del programa de recompensas de errores de GitHub](/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+- [GitHub Bug Bounty Program Legal Safe Harbor](/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+- [Coordinated Disclosure of Security Vulnerabilities](/es/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
 - [Pautas para las solicitudes legales de los datos del usuario](/es/github/site-policy/guidelines-for-legal-requests-of-user-data)
 - [Política de retiro gubernamental de GitHub](/es/github/site-policy/github-government-takedown-policy)
 - [Políticas de uso aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies)
