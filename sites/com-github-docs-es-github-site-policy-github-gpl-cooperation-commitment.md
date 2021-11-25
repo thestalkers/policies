@@ -1,21 +1,18 @@
 Compromiso de Cooperación de GPL de GitHub - GitHub Docs
-[GitHub Docs](/es)
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora.
 
-Si tienes sugerencias para mejorar nuestra traducción, por favor
-[abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues)
-.
+[](/es)[GitHub Docs](/es)
 
-# Compromiso de Cooperación de GPL de GitHub
+Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+
+Compromiso de Cooperación de GPL de GitHub
+==========
 
 Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para las definiciones).
 
-Basamos nuestra proposición en la plantilla
-para empresas. Consulta el
-[sitio del Comité de Cooperación GPL](https://gplcc.github.io/gplcc/)
-para conocer cómo otras empresas, individuos y proyectos pueden adoptar este compromiso.
+Basamos nuestra proposición en la plantilla [](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Consulta el [sitio del Comité de Cooperación GPL](https://gplcc.github.io/gplcc/) para conocer cómo otras empresas, individuos y proyectos pueden adoptar este compromiso.
 
-## Nuestro compromiso
+[](#our-commitment)Nuestro compromiso
+----------
 
 Antes de presentar o continuar procesando cualquier procedimiento legal o reclamación (excepto una acción defensiva) que surja de la terminación de una licencia cubierta, GitHub se compromete a extenderse a la persona o entidad (“tú”) acusada de violar la Licencia Cubierta, las siguientes disposiciones relativas a la subsanación y la reincorporación, tomado de la versión 3 de GPL. Tal y como se utiliza aquí, el término "esta Licencia" se refiere a la Licencia cubierta específica que se está cumpliendo.
 

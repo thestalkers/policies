@@ -1,22 +1,18 @@
 Compromisso de cooperação GPL do GitHub - GitHub Docs
-[GitHub Docs](/pt)
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá.
 
-Se você tem sugestões para aprimorar nossa tradução, por favor,
-[abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
-.
+[](/pt)[GitHub Docs](/pt)
 
-# Compromisso de cooperação GPL do GitHub
+Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+
+Compromisso de cooperação GPL do GitHub
+==========
 
 Este compromisso diz respeito às contribuições do GitHub para o Git, o kernel do Linux e outros programas sob licenças cobertas (role até o final para obter definições).
 
-Baseamos nossa declaração no
-[template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)
-para empresas. Veja o
-[site do Compromisso de Cooperação GPL](https://gplcc.github.io/gplcc/)
-sobre como outras empresas, indivíduos e projetos podem adotar esse compromisso.
+Baseamos nossa declaração no [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Veja o [site do Compromisso de Cooperação GPL](https://gplcc.github.io/gplcc/) sobre como outras empresas, indivíduos e projetos podem adotar esse compromisso.
 
-## Nosso compromisso
+[](#our-commitment)Nosso compromisso
+----------
 
 Antes de arquivar ou continuar a processar qualquer procedimento ou reivindicação legal (diferente de uma Ação Defensiva) decorrente do término de uma Licença Coberta, o GitHub se compromete a estender à pessoa ou entidade (“você”) acusada de violar a Licença Coberta as seguintes disposições sobre solução e restabelecimento, retiradas da versão 3 do GPL. Como usado aqui, o termo "esta Licença" refere-se à Licença Coberta específica que está sendo aplicada.
 

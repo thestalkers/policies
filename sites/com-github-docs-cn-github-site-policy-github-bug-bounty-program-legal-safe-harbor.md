@@ -1,27 +1,32 @@
 GitHub 漏洞悬赏计划法律安全港 - GitHub Docs
-[GitHub Docs](/cn)
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。
 
-如果您有改进我们翻译的建议，请
-[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
-。
+[](/cn)[GitHub Docs](/cn)
 
-# GitHub 漏洞悬赏计划法律安全港
+本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
 
-## [本文内容](/github/site-policy/github-bug-bounty-program-legal-safe-harbor#in-this-article)
-- [摘要](#summary)
-- [1. 安全港条款](#1-safe-harbor-terms)
-- [2. 第三方安全港](#2-third-party-safe-harbor)
-- [3. 其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
+GitHub 漏洞悬赏计划法律安全港
+==========
 
-## 摘要
-We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. 我们无法约束任何第三方，因此不要假设这种保护适用于任何第三方。 如有疑问，请在采取您认为
-*可能*
-超出我们政策范围的任何具体行动之前先询问我们。
-由于识别和非识别信息都可能使研究人员面临风险，因此我们限制与第三方分享信息的范围。 我们可能会将您报告中的非识别实质性信息提供给受影响的第三方，但必须在通知您并得到第三方不会对您提起法律诉讼的承诺之后才这样做。 我们只在您提供书面许可的情况下才会与第三方分享识别信息（姓名、电子邮件地址、电话号码等）。
-如果您在参与漏洞悬赏计划时的安全研究违反了我们站点政策中的某些限制，可根据安全港条款获得有限的豁免。
+[本文内容](/github/site-policy/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+----------
 
-## 1. 安全港条款
+* [摘要](#summary)
+
+* [1. 安全港条款](#1-safe-harbor-terms)
+
+* [2. 第三方安全港](#2-third-party-safe-harbor)
+
+* [3. 其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
+
+[](#summary)摘要
+----------
+
+1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. 我们无法约束任何第三方，因此不要假设这种保护适用于任何第三方。 如有疑问，请在采取您认为*可能*超出我们政策范围的任何具体行动之前先询问我们。
+2. 由于识别和非识别信息都可能使研究人员面临风险，因此我们限制与第三方分享信息的范围。 我们可能会将您报告中的非识别实质性信息提供给受影响的第三方，但必须在通知您并得到第三方不会对您提起法律诉讼的承诺之后才这样做。 我们只在您提供书面许可的情况下才会与第三方分享识别信息（姓名、电子邮件地址、电话号码等）。
+3. 如果您在参与漏洞悬赏计划时的安全研究违反了我们站点政策中的某些限制，可根据安全港条款获得有限的豁免。
+
+[](#1-safe-harbor-terms)1. 安全港条款
+----------
 
 To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. 我们认为，根据本政策进行的安全研究和漏洞披露活动，属于《计算机欺诈和滥用法案》、DMCA 及其他适用的计算机使用法律（例如 Cal. Penal Code 502(c)）下的“授权”行为。 如果您在本漏洞悬赏计划的范围内绕过我们用来保护应用程序的技术措施，我们放弃对您提出任何潜在 DMCA 索赔的权利。
 
@@ -31,7 +36,8 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 
 在采取可能与本政策不一致或本政策未明确说明的行动之前，请联系我们。 我们保留单方面确定违反本政策的行为是否属于意外或善意的权利，而在采取任何行动之前主动联系我们是影响该决定的重要因素。 如有疑问，先问我们！
 
-## 2. 第三方安全港
+[](#2-third-party-safe-harbor)2. 第三方安全港
+----------
 
 如果您通过我们漏洞悬赏计划提交的报告涉及第三方服务，我们将限制与任何受影响的第三方分享信息的范围。 我们可能会将您报告中的非识别内容分享给受影响的第三方，但必须在将我们的意图告知您，并得到第三方不会针对您的报告对您提起法律诉讼或主动联系执法机构的书面承诺之后，我们才这样做。 未经您的事先书面许可，我们不会与任何受影响的第三方分享您的身份识别信息。
 
@@ -39,8 +45,7 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 
 即便如此，但如果因为您参与本漏洞悬赏计划并充分遵守我们的漏洞悬赏政策（即未故意或恶意违反），第三方（包括执法机构）对您提起了法律诉讼，我们仍会采取措施，让他们知道您采取的行动符合本政策。 尽管我们认为，您提交的报告既是机密文件，也可能是特权文件，并且在大多数情况下可以防止强制披露，但请注意，即使我们有异议，法院仍可以命令我们与第三方分享该信息。
 
-## 3. 其他站点政策的有限豁免
+[](#3-limited-waiver-of-other-site-polices)3. 其他站点政策的有限豁免
+----------
 
-如果您的安全研究活动与我们
-[相关站点政策](/cn/categories/site-policy)
-中的某些限制不一致，但符合我们漏洞悬赏计划的条款，我们将仅限于允许您在本漏洞悬赏计划下进行安全研究的目的而豁免这些限制。 如上文所述，如有疑问，先问我们！
+如果您的安全研究活动与我们[相关站点政策](/cn/categories/site-policy)中的某些限制不一致，但符合我们漏洞悬赏计划的条款，我们将仅限于允许您在本漏洞悬赏计划下进行安全研究的目的而豁免这些限制。 如上文所述，如有疑问，先问我们！

@@ -1,27 +1,32 @@
 GitHub Bug Bounty Programの法的免責事項 - GitHub Docs
-[GitHub Docs](/ja)
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。
 
-翻訳の改善についての示唆があるなら、
-[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)
-ください。
+[](/ja)[GitHub Docs](/ja)
 
-# GitHub Bug Bounty Programの法的免責事項
+このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
 
-## [ここには以下の内容があります:](/github/site-policy/github-bug-bounty-program-legal-safe-harbor#in-this-article)
-- [概要](#summary)
-- [1. 免責に関する規約](#1-safe-harbor-terms)
-- [2. 第三者の法的免責](#2-third-party-safe-harbor)
-- [3. 他のサイトポリシーについての限定的な免責](#3-limited-waiver-of-other-site-polices)
+GitHub Bug Bounty Programの法的免責事項
+==========
 
-## 概要
-We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. 当社はいかなる第三者をも拘束できないため、この保護があらゆる第三者にまで及ぶことを心配しないでください。 疑問がある場合は、当社ポリシーの範囲外となる
-*可能性がある*
-と思われる特定の行動をとる前に、当社にお尋ねください。
-身元を特定できる情報も身元を特定できない情報も、研究者を危険にさらす可能性があるため、当社は第三者と共有する情報を制限しています。 当社は、あなたの報告から、あなたの身分を特定できない実質的な情報を、影響を受ける第三者に対して提供します。ただし、提供を行うのは、あなたに通知を行い、かつ第三者があなたに対して法的措置を追求しないことの確約を得た後に限ります。 あなたが書面により同意した場合にのみ、当社はあなたの身分を特定できる情報 (氏名、メールアドレス、電話番号など) を第三者と共有します。
-Bug Bounty Programの一環として行うセキュリティ調査が、当社サイトポリシーの特定の誓約に違反する場合、本法的免責事項により限定的な免責を許可します。
+[ここには以下の内容があります:](/github/site-policy/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+----------
 
-## 1. 免責に関する規約
+* [概要](#summary)
+
+* [1. 免責に関する規約](#1-safe-harbor-terms)
+
+* [2. 第三者の法的免責](#2-third-party-safe-harbor)
+
+* [3. 他のサイトポリシーについての限定的な免責](#3-limited-waiver-of-other-site-polices)
+
+[](#summary)概要
+----------
+
+1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. 当社はいかなる第三者をも拘束できないため、この保護があらゆる第三者にまで及ぶことを心配しないでください。 疑問がある場合は、当社ポリシーの範囲外となる*可能性がある*と思われる特定の行動をとる前に、当社にお尋ねください。
+2. 身元を特定できる情報も身元を特定できない情報も、研究者を危険にさらす可能性があるため、当社は第三者と共有する情報を制限しています。 当社は、あなたの報告から、あなたの身分を特定できない実質的な情報を、影響を受ける第三者に対して提供します。ただし、提供を行うのは、あなたに通知を行い、かつ第三者があなたに対して法的措置を追求しないことの確約を得た後に限ります。 あなたが書面により同意した場合にのみ、当社はあなたの身分を特定できる情報 (氏名、メールアドレス、電話番号など) を第三者と共有します。
+3. Bug Bounty Programの一環として行うセキュリティ調査が、当社サイトポリシーの特定の誓約に違反する場合、本法的免責事項により限定的な免責を許可します。
+
+[](#1-safe-harbor-terms)1. 免責に関する規約
+----------
 
 To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. 当社は、本ポリシーに従って実施されたセキュリティ調査および脆弱性の開示活動は、コンピュータ詐欺と濫用に関する法律、DMCA、およびカリフォルニア 刑法502(c) などのコンピュータ利用に適用される法律の下で「認可された」行為であると考えています。 当社は、本Bug Bounty Programの範囲において、アプリケーションを保護するために当社が用いた技術的措置の迂回に対し、あなたに対するあらゆる潜在的なDMCAの請求を放棄します。
 
@@ -31,7 +36,8 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 
 本ポリシーに沿わない可能性がある、または本ポリシーに言及されていない行為におよぶ前に、当社にご連絡ください。 当社は、本ポリシーの違反が偶発的または善意によるものであるかどうかを判断する独自の権利を留保しており、何らかの行為をとる前に当社に連絡しているかどうかは、この決定の重要な要素となります。 疑問がある場合は、まず質問してください。
 
-## 2. 第三者の法的免責
+[](#2-third-party-safe-harbor)2. 第三者の法的免責
+----------
 
 当社のBug Bounty Programを通じて報告を提出し、それが第三者のサービスに影響する場合、影響を受けるあらゆる第三者と共有する情報を制限します。 当社は、あなたの報告から、あなたの身分を特定できないコンテンツを、影響を受ける第三者と共有します。ただし、共有を行うのは、当社が第三者に対してコンテンツを提供する意思があることをあなたに対して通知し、かつ第三者があなたに対して法的措置を追求したり、あなたの報告に基づいて法執行機関に接触を図ったりしないよう、第三者の書面による確約を得た後に限ります。 当社は、あなたから書面による同意を得ることなく、あなたの身元を特定できる情報を、影響を受けるあらゆる第三者に対して共有することはいたしません。
 
@@ -39,8 +45,7 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 
 ただし、あなたが本Bug Bounty Programに参加したことが理由で、法執行機関を含む第三者から訴訟を起こされ、かつあなたが当社のBug Bountyポリシーに十分に従っている (すなわち、意図的または悪意の侵害を行っていない) 場合、当社はあなたの行動が本ポリシーに沿って行われたことを知らせるための措置を講じます。 当社は提出された報告を機密かつ秘匿特権を持ちうる文書であり、ほとんどの場合は強制的な開示から保護されると考えるものの、法廷は、当社の反対にも関わらず、情報を第三者と共有するよう命じる場合があることにご注意ください。
 
-## 3. 他のサイトポリシーについての限定的な免責
+[](#3-limited-waiver-of-other-site-polices)3. 他のサイトポリシーについての限定的な免責
+----------
 
-セキュリティ調査活動が当社の
-[関連するサイトポリシー](/ja/categories/site-policy)
-に反しているものの、当社のBug Bounty Programの規約には従っている場合、本Bug Bounty Programの下、セキュリティ調査を許可するという限定された目的のみに限り、これらの制限を免除します。 前述の通り、疑問がある場合は、まずご質問ください。
+セキュリティ調査活動が当社の[関連するサイトポリシー](/ja/categories/site-policy)に反しているものの、当社のBug Bounty Programの規約には従っている場合、本Bug Bounty Programの下、セキュリティ調査を許可するという限定された目的のみに限り、これらの制限を免除します。 前述の通り、疑問がある場合は、まずご質問ください。

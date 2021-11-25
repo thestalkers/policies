@@ -1,54 +1,59 @@
 GitHub 开源应用程序条款和条件 - GitHub Docs
-[GitHub Docs](/cn)
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。
 
-如果您有改进我们翻译的建议，请
-[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)
-。
+[](/cn)[GitHub Docs](/cn)
 
-# GitHub 开源应用程序条款和条件
+本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
 
-## [本文内容](/github/site-policy/github-open-source-applications-terms-and-conditions#in-this-article)
-- [连接到 GitHub](#connecting-to-github)
-- [开源许可和声明](#open-source-licenses-and-notices)
-- [GitHub 徽标](#githubs-logos)
-- [隐私](#privacy)
-- [其他服务](#additional-services)
-- [其他](#miscellanea)
+GitHub 开源应用程序条款和条件
+==========
+
+[本文内容](/github/site-policy/github-open-source-applications-terms-and-conditions#in-this-article)
+----------
+
+* [连接到 GitHub](#connecting-to-github)
+
+* [开源许可和声明](#open-source-licenses-and-notices)
+
+* [GitHub 徽标](#githubs-logos)
+
+* [隐私](#privacy)
+
+* [其他服务](#additional-services)
+
+* [其他](#miscellanea)
 
 这些 GitHub 开源应用程序条款和条件（“应用程序条款”）是您（作为个人或代表实体）与 GitHub, Inc. 之间 关于您使用诸如 GitHub Desktop™ 和相关文档等 GitHub 应用程序（“软件”）的法律协议。 这些应用程序条款适用于软件的可执行代码版本。 软件源代码根据开源软件许可协议单独免费提供。 如果您不同意这些应用程序条款中的所有条款，请不要下载、安装、使用或复制软件。
 
-## 连接到 GitHub
+[](#connecting-to-github)连接到 GitHub
+----------
 
 如果您将软件配置为用于 GitHub.com 网站上的一个或多个帐户或用于 GitHub Enterprise 实例，则您对软件的使用还将受适用于您的 GitHub.com 网站服务条款和/或适用于 GitHub Enterprise 实例的许可协议（“GitHub 条款”）的约束。
 
 违反适用 GitHub 条款的任何软件使用也构成违反这些应用程序条款。
 
-## 开源许可和声明
+[](#open-source-licenses-and-notices)开源许可和声明
+----------
 
 软件的开源许可包含在软件随附的“开源声明”文档中。 该文档还包括所有适用开源许可的副本。
 
-如果适用于开源组件的许可条款要求 GitHub 提议提供与软件相关的源代码，GitHub 特此提出这种提议，您可以通过联系 GitHub:
-[https://github.com/contact](https://github.com/contact)
-来执行它。
+如果适用于开源组件的许可条款要求 GitHub 提议提供与软件相关的源代码，GitHub 特此提出这种提议，您可以通过联系 GitHub: <https://github.com/contact> 来执行它。
 
 您与 GitHub 之间的协议将始终至少包含这些应用程序条款，除非您与 GitHub 另有书面协定。 软件源代码的开源软件许可构成单独的书面协议。 在一定程度上，开源软件许可明确取代这些应用程序条款，并且开源许可管辖您与 GitHub 之间关于使用软件或软件所含特定组件的协议。
 
-## GitHub 徽标
+[](#githubs-logos)GitHub 徽标
+----------
 
 软件随附的许可授予不适用于 GitHub 的商标，包括软件徽标设计。 GitHub 保留所有 GitHub 商标的所有商标权和版权。 GitHub 徽标包括 "logos" 文件夹的 "logo" 文件中所含的风格化设计等。
 
-名称 GitHub、GitHub Desktop、GitHub for Mac、GitHub for Windows、Atom、Octocat 及相关 GitHub 徽标和/或风格化名称都是 GitHub 的商标。 您同意，未经 GitHub 的事先书面许可，不得以任何方式展示或使用这些商标，GitHub 的徽标和使用政策 (
-[https://github.com/logos](https://github.com/logos)
-) 明确允许的除外。
+名称 GitHub、GitHub Desktop、GitHub for Mac、GitHub for Windows、Atom、Octocat 及相关 GitHub 徽标和/或风格化名称都是 GitHub 的商标。 您同意，未经 GitHub 的事先书面许可，不得以任何方式展示或使用这些商标，GitHub 的徽标和使用政策 ( <https://github.com/logos>) 明确允许的除外。
 
-## 隐私
+[](#privacy)隐私
+----------
 
-软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据
-[GitHub 隐私声明](/cn/articles/github-privacy-statement)
-处理这些信息。
+软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/cn/articles/github-privacy-statement)处理这些信息。
 
-## 其他服务
+[](#additional-services)其他服务
+----------
 
 **自动更新服务**
 
@@ -62,24 +67,19 @@ GitHub 开源应用程序条款和条件 - GitHub Docs
 
 GitHub 保留随时和不时修改或停用（临时或永久）服务或其任何部分的权利，可能通知，也可能不通知。 对于服务的任何价格变动、暂停或终止，GitHub 对您或任何第三方概不负责。
 
-## 其他
+[](#miscellanea)其他
+----------
 
-非弃权。 GitHub 未行使或执行这些应用程序条款的任何权利或条文，并不构成放弃该权利或条文。
+1. 非弃权。 GitHub 未行使或执行这些应用程序条款的任何权利或条文，并不构成放弃该权利或条文。
 
-完整协议。 这些应用程序条款以及任何适用的隐私声明，构成了您与 GitHub 之间的完整协议，并且取代您与 GitHub 之间的任何先前协议（包括但不限于应用程序条款的任何先前版本），管辖您对软件的使用。
+2. 完整协议。 这些应用程序条款以及任何适用的隐私声明，构成了您与 GitHub 之间的完整协议，并且取代您与 GitHub 之间的任何先前协议（包括但不限于应用程序条款的任何先前版本），管辖您对软件的使用。
 
-适用法律。 您同意，这些应用程序条款以及您对软件的使用受加利福尼亚法律的管辖，对于与软件相关的任何争议，必须提交给加利福尼亚州旧金山市或其附近具有管辖权的法院。
+3. 适用法律。 您同意，这些应用程序条款以及您对软件的使用受加利福尼亚法律的管辖，对于与软件相关的任何争议，必须提交给加利福尼亚州旧金山市或其附近具有管辖权的法院。
 
-第三方包。 软件支持第三方“包”，这些包可能修改、添加、删除或更改软件的功能。  这些包不受这些应用程序条款的约束，它们可能含有自己的许可，以约束您对该特定包的使用。
+4. 第三方包。 软件支持第三方“包”，这些包可能修改、添加、删除或更改软件的功能。 这些包不受这些应用程序条款的约束，它们可能含有自己的许可，以约束您对该特定包的使用。
 
-无修改；完整协议。 这些应用程序条款只能通过 GitHub 授权代表签署的书面修正案或 GitHub 发布的修订版来修改。 这些应用程序条款，连同任何适用的开源许可和声明以及 GitHub 隐私声明，共同构成了您与我们之间的完整和专有协议声明。 这些应用程序条款取代任何口头或书面的提议或事先协议，以及您与 GitHub 之间关于这些条款所述主题的任何其他通信。
+5. 无修改；完整协议。 这些应用程序条款只能通过 GitHub 授权代表签署的书面修正案或 GitHub 发布的修订版来修改。 这些应用程序条款，连同任何适用的开源许可和声明以及 GitHub 隐私声明，共同构成了您与我们之间的完整和专有协议声明。 这些应用程序条款取代任何口头或书面的提议或事先协议，以及您与 GitHub 之间关于这些条款所述主题的任何其他通信。
 
-GitHub 政策的许可。 这些应用程序条款的许可采用
-[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)
-原则。 更多信息请参阅我们的
-[站点政策仓库](https://github.com/github/site-policy#license)
-。
+6. GitHub 政策的许可。 这些应用程序条款的许可采用[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)原则。 更多信息请参阅我们的[站点政策仓库](https://github.com/github/site-policy#license)。
 
-联系我们。 对服务条款有疑问吗？
-[联系我们](https://support.github.com/contact?tags=docs-policy)
-。
+7. 联系我们。 对服务条款有疑问吗？ [联系我们](https://support.github.com/contact?tags=docs-policy)。

@@ -1,32 +1,36 @@
 Política de nome de usuário do GitHub - GitHub Docs
-[GitHub Docs](/pt)
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá.
 
-Se você tem sugestões para aprimorar nossa tradução, por favor,
-[abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
-.
+[](/pt)[GitHub Docs](/pt)
 
-# Política de nome de usuário do GitHub
+Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
 
-## [Neste artigo](/github/site-policy/github-username-policy#in-this-article)
-- [E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
-- [Política de marca registrada](#trademark-policy)
-- [Política de uso indevido de nome](#name-squatting-policy)
+Política de nome de usuário do GitHub
+==========
+
+[Neste artigo](/github/site-policy/github-username-policy#in-this-article)
+----------
+
+* [E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
+
+* [Política de marca registrada](#trademark-policy)
+
+* [Política de uso indevido de nome](#name-squatting-policy)
 
 Os nomes das contas do GitHub são fornecidos pela ordem de chegada e são destinados ao uso imediato e ativo.
 
-## E se o nome de usuário que eu quero já estiver sendo usado?
+[](#what-if-the-username-i-want-is-already-taken)E se o nome de usuário que eu quero já estiver sendo usado?
+----------
 
 Tenha em mente que nem todas as atividades no GitHub são publicamente visíveis; contas sem atividade visível podem estar em uso ativo.
 
 Se o nome de usuário que deseja já tiver sido reclamado, considere outros nomes ou variações. Usar um número, hífen ou uma ortografia alternativa pode ajudá-lo a identificar um nome de usuário desejável ainda disponível.
 
-## Política de marca registrada
+[](#trademark-policy)Política de marca registrada
+----------
 
-Se você acredita que a conta de alguém está violando os seus direitos de marca registrada, encontre mais informações sobre reclamações de violação de marca registrada em nossa página de
-[Política de marca registrada](/pt/articles/github-trademark-policy)
-.
+Se você acredita que a conta de alguém está violando os seus direitos de marca registrada, encontre mais informações sobre reclamações de violação de marca registrada em nossa página de [Política de marca registrada](/pt/articles/github-trademark-policy).
 
-## Política de uso indevido de nome
+[](#name-squatting-policy)Política de uso indevido de nome
+----------
 
 O GitHub proíbe a ocupação de nomes de contas. Além disso, os nomes das contas não podem ser reservados ou mantidos inativos para uso futuro. As contas que violam essa política de uso indevido de nome podem ser removidas ou renomeadas sem aviso prévio. Tentativas de vender, comprar ou solicitar outras formas de pagamento em troca de nomes de conta são proibidas e podem resultar na suspensão permanente da conta.

@@ -1,53 +1,59 @@
 Termos e condições dos aplicativos de código aberto do GitHub - GitHub Docs
-[GitHub Docs](/pt)
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá.
 
-Se você tem sugestões para aprimorar nossa tradução, por favor,
-[abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues)
-.
+[](/pt)[GitHub Docs](/pt)
 
-# Termos e condições dos aplicativos de código aberto do GitHub
+Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
 
-## [Neste artigo](/github/site-policy/github-open-source-applications-terms-and-conditions#in-this-article)
-- [Conectando-se ao GitHub](#connecting-to-github)
-- [Licenças e Avisos de Código Aberto](#open-source-licenses-and-notices)
-- [Logotipos do GitHub](#githubs-logos)
-- [Privacidade](#privacy)
-- [Serviços adicionais](#additional-services)
-- [Outros](#miscellanea)
+Termos e condições dos aplicativos de código aberto do GitHub
+==========
+
+[Neste artigo](/github/site-policy/github-open-source-applications-terms-and-conditions#in-this-article)
+----------
+
+* [Conectando-se ao GitHub](#connecting-to-github)
+
+* [Licenças e Avisos de Código Aberto](#open-source-licenses-and-notices)
+
+* [Logotipos do GitHub](#githubs-logos)
+
+* [Privacidade](#privacy)
+
+* [Serviços adicionais](#additional-services)
+
+* [Outros](#miscellanea)
 
 Estes Termos e Condições de Aplicativos de Código Aberto do GitHub ("Termos de Aplicação") são um acordo legal entre você (como pessoa física ou em nome de uma entidade) e o GitHub, Inc. em relação ao uso de aplicativos do GitHub, como GitHub Desktop™ e documentação associada ("Software"). Estes Termos de Aplicação aplicam-se à versão de código executável do Software. O código-fonte do Software está disponível separadamente e gratuitamente sob contratos de licença de software de código aberto. Se você não concordar com todos os termos nestes Termos de Aplicativo, não baixe, instale, use ou copie o Software.
 
-## Conectando-se ao GitHub
+[](#connecting-to-github)Conectando-se ao GitHub
+----------
 
 Se você configurar o Software para trabalhar com uma ou mais contas no site GitHub.com ou com uma instância do GitHub Enterprise, seu uso do Software também será regido pelos Termos de Serviço de seu site do GitHub.com aplicável e/ou pelo contrato de licença aplicável à sua instância do GitHub Enterprise ("Termos do GitHub").
 
 Qualquer uso do Software que viole os Termos do GitHub aplicáveis também será uma violação destes Termos de Aplicação.
 
-## Licenças e Avisos de Código Aberto
+[](#open-source-licenses-and-notices)Licenças e Avisos de Código Aberto
+----------
 
 A licença de código aberto para o Software está incluída na documentação "Avisos de Código Aberto" que está incluída no Software. Essa documentação também inclui cópias de todas as licenças de código aberto aplicáveis.
 
-Na medida em que os termos das licenças aplicáveis aos componentes de código aberto exigem que o GitHub faça uma oferta para fornecer código fonte em conexão com o Software, tal oferta é feita por este meio, e você pode exercê-la entrando em contato com o GitHub:
-[https://github.com/contact](https://github.com/contact)
+Na medida em que os termos das licenças aplicáveis aos componentes de código aberto exigem que o GitHub faça uma oferta para fornecer código fonte em conexão com o Software, tal oferta é feita por este meio, e você pode exercê-la entrando em contato com o GitHub: <https://github.com/contact>
 
 A menos que seja acordado por escrito com o GitHub, seu contrato com o GitHub sempre incluirá, no mínimo, esses Termos de Aplicativo. As licenças de software de código aberto para o código-fonte do Software constituem contratos escritos separados. Na medida em que as licenças de software de código aberto superam expressamente esses Termos de Aplicativo, as licenças de código aberto regem seu contrato com o GitHub para o uso do Software ou componentes específicos incluídos do Software.
 
-## Logotipos do GitHub
+[](#githubs-logos)Logotipos do GitHub
+----------
 
 A concessão de licença incluída no Software não é para as marcas comerciais do GitHub, que incluem os designs de logotipo do Software. O GitHub reserva todos os direitos de marca e direitos autorais para todas as marcas comerciais do GitHub. Os logotipos do GitHub incluem, por exemplo, os designs estilizados que incluem "logotipo" no título do arquivo na pasta "logotipos".
 
-Os nomes GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, Atom, Octocat e logotipos GitHub relacionados e/ou nomes estilizados são marcas comerciais do GitHub. Você concorda em não exibir ou usar essas marcas comerciais de qualquer maneira sem a permissão prévia e por escrito do GitHub, exceto conforme permitido pelos Logotipos e Políticas de Uso do GitHub:
-[https://github.com/logos](https://github.com/logos)
-.
+Os nomes GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, Atom, Octocat e logotipos GitHub relacionados e/ou nomes estilizados são marcas comerciais do GitHub. Você concorda em não exibir ou usar essas marcas comerciais de qualquer maneira sem a permissão prévia e por escrito do GitHub, exceto conforme permitido pelos Logotipos e Políticas de Uso do GitHub: <https://github.com/logos>.
 
-## Privacidade
+[](#privacy)Privacidade
+----------
 
-O Software pode coletar informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a
-[Declaração de Privacidade do GitHub](/pt/articles/github-privacy-statement)
-.
+O Software pode coletar informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Declaração de Privacidade do GitHub](/pt/articles/github-privacy-statement).
 
-## Serviços adicionais
+[](#additional-services)Serviços adicionais
+----------
 
 **Serviços de atualização automática**
 
@@ -61,24 +67,19 @@ VOCÊ EXPRESSAMENTE COMPREENDE E CONCORDA QUE O GITHUB NÃO SERÁ RESPONSÁVEL P
 
 O GitHub reserva-se o direito de, a qualquer momento e de tempos em tempos, modificar ou descontinuar, temporaria ou permanentemente, com ou sem aviso prévio, o Serviço (ou qualquer parte dele). O GitHub não será responsável por você ou por terceiros por qualquer alteração de preço, suspensão ou descontinuação do Serviço.
 
-## Outros
+[](#miscellanea)Outros
+----------
 
-Nenhuma renúncia. A incapacidade do GitHub em exercer ou impor qualquer direito ou disposição destes Termos de Aplicação não constituirá uma renúncia a tal direito ou disposição.
+1. Nenhuma renúncia. A incapacidade do GitHub em exercer ou impor qualquer direito ou disposição destes Termos de Aplicação não constituirá uma renúncia a tal direito ou disposição.
 
-Integralidade do acordado. Estes Termos de Aplicação, juntamente com quaisquer Avisos de Privacidade aplicáveis, constituem todo o acordo entre você e o GitHub e regem seu uso do Software, substituindo quaisquer acordos anteriores entre você e o GitHub (incluindo, mas não se limitando a, quaisquer versões anteriores dos Termos de Aplicação).
+2. Integralidade do acordado. Estes Termos de Aplicação, juntamente com quaisquer Avisos de Privacidade aplicáveis, constituem todo o acordo entre você e o GitHub e regem seu uso do Software, substituindo quaisquer acordos anteriores entre você e o GitHub (incluindo, mas não se limitando a, quaisquer versões anteriores dos Termos de Aplicação).
 
-Lei Aplicável. Você concorda que estes Termos de Aplicação e seu uso do Software são regidos pela lei da Califórnia e qualquer disputa relacionada ao Software deve ser levada a um tribunal de jurisdição competente localizado em ou próximo de São Francisco, Califórnia.
+3. Lei Aplicável. Você concorda que estes Termos de Aplicação e seu uso do Software são regidos pela lei da Califórnia e qualquer disputa relacionada ao Software deve ser levada a um tribunal de jurisdição competente localizado em ou próximo de São Francisco, Califórnia.
 
-Pacotes de terceiros. O Software suporta "Pacotes" de terceiros que podem modificar, adicionar, remover ou alterar a funcionalidade do Software.  Esses Pacotes não estão cobertos por estes Termos de Aplicação e podem incluir sua própria licença que rege o uso desse pacote em particular.
+4. Pacotes de terceiros. O Software suporta "Pacotes" de terceiros que podem modificar, adicionar, remover ou alterar a funcionalidade do Software. Esses Pacotes não estão cobertos por estes Termos de Aplicação e podem incluir sua própria licença que rege o uso desse pacote em particular.
 
-Sem modificações; Acordo completo. Estes Termos de Aplicação só podem ser modificados por uma alteração por escrito assinada por um representante autorizado do GitHub, ou pela postagem do GitHub de uma versão revisada. Estes Termos de Aplicação, juntamente com quaisquer Licenças e Avisos de Código Aberto aplicáveis e a Declaração de Privacidade do GitHub, representam a declaração completa e exclusiva do contrato entre você e nós. Estes Termos de Aplicação substituem qualquer proposta ou acordo prévio, oral ou escrito, e quaisquer outras comunicações entre você e o GitHub relacionadas com o assunto destes termos.
+5. Sem modificações; Acordo completo. Estes Termos de Aplicação só podem ser modificados por uma alteração por escrito assinada por um representante autorizado do GitHub, ou pela postagem do GitHub de uma versão revisada. Estes Termos de Aplicação, juntamente com quaisquer Licenças e Avisos de Código Aberto aplicáveis e a Declaração de Privacidade do GitHub, representam a declaração completa e exclusiva do contrato entre você e nós. Estes Termos de Aplicação substituem qualquer proposta ou acordo prévio, oral ou escrito, e quaisquer outras comunicações entre você e o GitHub relacionadas com o assunto destes termos.
 
-Licença para Políticas do GitHub. Esses Termos de Aplicação são licenciados sob a
-[Licença Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
-. Para ver os detalhes, consulte nosso
-[repositório da Política do Site](https://github.com/github/site-policy#license)
-.
+6. Licença para Políticas do GitHub. Esses Termos de Aplicação são licenciados sob a [Licença Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para ver os detalhes, consulte nosso [repositório da Política do Site](https://github.com/github/site-policy#license).
 
-Fale Conosco. Perguntas sobre os Termos de Serviço?
-[Fale conosco](https://support.github.com/contact?tags=docs-policy)
-.
+7. Fale Conosco. Perguntas sobre os Termos de Serviço? [Fale conosco](https://support.github.com/contact?tags=docs-policy).
