@@ -21,7 +21,7 @@ Política do site
 
 * [Declaração de Privacidade do GitHub Codespaces](/pt/github/site-policy/github-codespaces-privacy-statement)
 
-* [Termos do GitHub para Produtos e Funcionalidades Adicionais](/pt/github/site-policy/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/pt/github/site-policy/github-terms-for-additional-products-and-features)
 
 * [Política de logo do GitHub](/pt/github/site-policy/github-logo-policy)
 
