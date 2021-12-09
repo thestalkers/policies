@@ -178,7 +178,7 @@ This repo contains changes of rules, terms of service and privacy policy from a 
     - [Práticas de privacidade global](https://docs.github.com/pt/github/site-policy/global-privacy-practices)
     - [Termos Adicionais do GitHub Sponsors](https://docs.github.com/pt/github/site-policy/github-sponsors-additional-terms)
     - [Declaração de Privacidade do GitHub Codespaces](https://docs.github.com/pt/github/site-policy/github-codespaces-privacy-statement)
-    - [Termos do GitHub para Produtos e Funcionalidades Adicionais](https://docs.github.com/pt/github/site-policy/github-terms-for-additional-products-and-features)
+    - [GitHub Terms for Additional Products and Features](https://docs.github.com/pt/github/site-policy/github-terms-for-additional-products-and-features)
     - [Política de logo do GitHub](https://docs.github.com/pt/github/site-policy/github-logo-policy)
     - [Política de nome de usuário do GitHub](https://docs.github.com/pt/github/site-policy/github-username-policy)
     - [Solicitações de remoção de conteúdo](https://docs.github.com/pt/github/site-policy/submitting-content-removal-requests)
