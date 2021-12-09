@@ -7,7 +7,7 @@ Este documento está traduzido do inglês. Em caso de qualquer conflito, incerte
 Política do site
 ==========
 
-* [Termos de serviço do GitHub](/pt/github/site-policy/github-terms-of-service)
+* [GitHub Terms of Service](/pt/github/site-policy/github-terms-of-service)
 
 * [Termos de Serviço Corporativos do GitHub](/pt/github/site-policy/github-corporate-terms-of-service)
 

@@ -1,16 +1,16 @@
-GitHub 追加製品および機能の利用規約 - GitHub Docs
+GitHub Terms for Additional Products and Features - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
 このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
 
-GitHub 追加製品および機能の利用規約
+GitHub Terms for Additional Products and Features
 ==========
 
 [ここには以下の内容があります:](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
-* [アクション](#actions)
+* [Actions](#actions)
 
 * [Advanced Security](#advanced-security)
 
@@ -26,21 +26,21 @@ GitHub 追加製品および機能の利用規約
 
 * [npm](#npm)
 
-* [パッケージ](#packages)
+* [Packages](#packages)
 
-* [ページ](#pages)
+* [Pages](#pages)
 
-* [Sponsorsプログラム](#sponsors-program)
+* [Sponsors Program](#sponsors-program)
 
 * [SQL Server Images](#sql-server-images)
 
 Version Effective Date: August 10, 2021
 
-GitHub を利用する際、数多くの追加製品や機能 (「追加製品および機能」) にもアクセス権を与えられることがあります。 「追加製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub 利用規約」、「GitHub 企業向け利用規約」、「GitHub 一般規約」、Microsoft ボリュームライセンス契約 (それぞれ「契約」) に加えて、製品や機能に特定の規約が適用される場合があります。 以下に、こうした製品や機能と、その利用に対して適用される追加の規約を示します。
+When you use GitHub, you may be given access to lots of additional products and features ("Additional Products and Features"). Because many of the Additional Products and Features offer different functionality, specific terms for that product or feature may apply in addition to your main agreement with us—the GitHub Terms of Service, GitHub Corporate Terms of Service, GitHub General Terms, or Microsoft volume licensing agreement (each, the "Agreement"). Below, we've listed those products and features, along with the corresponding additional terms that apply to your use of them.
 
-「追加製品および機能」を利用することにより、お客様は以下に挙げた該当する「GitHub 追加製品および機能の利用規約」にも同意することとなります。 「追加製品および機能の GitHub 利用規約」に違反することは、「契約」に違反することにもなります。 かぎ括弧に括られた用語のうち、ここで定義されていないものについては、「契約」に示された意味を持つものとします。
+By using the Additional Products and Features, you also agree to the applicable GitHub Terms for Additional Products and Features listed below. A violation of these GitHub terms for Additional Product and Features is a violation of the Agreement. Capitalized terms not defined here have the meaning given in the Agreement.
 
-**Enterprise ユーザ向け**
+**For Enterprise users**
 
 * **GitHub Enterprise Cloud** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
 
@@ -48,40 +48,40 @@ GitHub を利用する際、数多くの追加製品や機能 (「追加製品�
 
 * **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
-[](#actions)アクション
+[](#actions)Actions
 ----------
 
-GitHubアクションでは、カスタムソフトウェア開発のライフサイクルにわたるワークフローをGitHubリポジトリに直接作成することができます。 Actionsは、使用量に基づいて課金されます。 [Actionsのドキュメント](/ja/actions)には、計算量やストレージ容量 (アカウントのプランによって異なる)、およびActionsの使用分数の監視方法や利用限度の設定方法などの詳細情報が記載されています。
+GitHub Actions enables you to create custom software development lifecycle workflows directly in your GitHub repository. Actions is billed on a usage basis. The [Actions documentation](/ja/actions) includes details, including compute and storage quantities (depending on your Account plan), and how to monitor your Actions minutes usage and set usage limits.
 
 Actions and any elements of the Actions product or service may not be used in violation of the Agreement, the [GitHub Acceptable Use Polices](/ja/github/site-policy/github-acceptable-use-policies), or the GitHub Actions service limitations set forth in the [Actions documentation](/ja/actions/reference/usage-limits-billing-and-administration). Additionally, regardless of whether an Action is using self-hosted runners, Actions should not be used for:
 
-* クリプトマイニング;
+* cryptomining;
 * disrupting, gaining, or attempting to gain unauthorized access to, any service, device, data, account, or network (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com));
 * the provision of a stand-alone or integrated application or service offering the Actions product or service, or any elements of the Actions product or service, for commercial purposes;
-* ユーザに与えるメリットと釣り合わない負荷をサーバーにかける行為 (たとえば、Actionsをコンテンツ配信ネットワークやサーバーレスアプリケーションの一部として利用してはなりません。ただし、メリットが低くても、負荷も低い場合は問題ありません。)、
+* any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Actions as a content delivery network or as part of a serverless application, but a low benefit Action could be ok if it’s also low burden); or
 * if using GitHub-hosted runners, any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used.
 
-このような使用制限違反や、GitHubアクションの悪用を防ぐために、GitHubはGitHubアクションの使用を監視する場合があります。 GitHub Actionsを不正利用した場合には、ジョブが停止されたり、GitHub Actionsの使用が制限されたり、本「利用規約」を侵害するような方法でActionsを実行するために作成されたリポジトリが無効になったりすることもあります。
+In order to prevent violations of these limitations and abuse of GitHub Actions, GitHub may monitor your use of GitHub Actions. Misuse of GitHub Actions may result in termination of jobs, restrictions in your ability to use GitHub Actions, or the disabling of repositories created to run Actions in a way that violates these Terms.
 
 [](#advanced-security)Advanced Security
 ----------
 
-Advanced Security ライセンスを取得しているお客様に対して、GitHub は追加セキュリティ機能を提供しています。 追加機能にはコードスキャン、シークレットスキャン、依存関係レビューが含まれます。 詳細は [Advanced Security のドキュメント](/ja/github/getting-started-with-github/about-github-advanced-security)をご覧ください。
+GitHub makes extra security features available to customers under an Advanced Security license. These features include code scanning, secret scanning, and dependency review. The [Advanced Security documentation](/ja/github/getting-started-with-github/about-github-advanced-security) provides more details.
 
-Advanced Security のライセンスは、「ユニークコミッター」ごとに付与されます。 A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. お客様の各「ユニークコミッター」ごとに、GitHub Advanced Securityの「ユーザライセンス」を取得する必要があります。 GitHub Advanced Securityは、お客様によりまたはお客様のために開発されたコードベースにおいてのみ使用できます。 GitHub Enterprise Cloud ユーザの場合、一部のAdvanced Securityセキュリティ機能にはGitHub Actionsを使用する必要もあります。
+Advanced Security is licensed on a "Unique Committer" basis. A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server, or GitHub AE, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. You must acquire a GitHub Advanced Security User license for each of your Unique Committers. You may only use GitHub Advanced Security on codebases that are developed by or for you. For GitHub Enterprise Cloud users, some Advanced Security features also require the use of GitHub Actions.
 
 [](#advisory-database)Advisory Database
 ----------
 
-GitHub Advisory Databaseを使用すると、GitHubのオープンソースプロジェクトに影響を与える脆弱性を閲覧および検索できます。
+The GitHub Advisory Database allows you to browse or search for vulnerabilities that affect open source projects on GitHub.
 
-*当社へのライセンス許可*
+*License Grant to Us*
 
-当社には、GitHub Advisory Databaseへのコントリビューションを[National Vulnerability Database](https://nvd.nist.gov/)などのパブリックドメインデータセットに提出するための法的権利、並びに、セキュリティ研究者、オープンソースコミュニティ、業界、および公衆が使用するためのオープンタームに基づいてGitHub Advisory Databaseをライセンス付与するための法的権利が必要です 。 あなたは、[Creative Commons Zeroライセンス](https://creativecommons.org/publicdomain/zero/1.0/)の下でGitHub Advisory Databaseへのコントリビューションをリリースすることに同意するものとします。
+We need the legal right to submit your contributions to the GitHub Advisory Database into public domain datasets such as the [National Vulnerability Database](https://nvd.nist.gov/) and to license the GitHub Advisory Database under open terms for use by security researchers, the open source community, industry, and the public. You agree to release your contributions to the GitHub Advisory Database under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-*GitHub Advisory Databaseのライセンス*
+*License to the GitHub Advisory Database*
 
-GitHub Advisory Databaseは、[Creative Commons Attribution 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/)の下でライセンスされています。 帰属条件は、<https://github.com/advisories>のGitHub Advisory Databaseまたは使用される個々のGitHub Advisory Databaseレコード（<https://github.com/advisories>で始まる）にリンクすることで満たすことができます。
+The GitHub Advisory Database is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). The attribution term may be fulfilled by linking to the GitHub Advisory Database at <https://github.com/advisories> or to individual GitHub Advisory Database records used, prefixed by <https://github.com/advisories>.
 
 [](#codespaces)Codespaces
 ----------
@@ -90,7 +90,7 @@ GitHub Advisory Databaseは、[Creative Commons Attribution 4.0ライセンス](
 
 GitHub Codespaces enables you to develop code directly from your browser using the code within your GitHub repository. Codespaces and any elements of the Codespaces service may not be used in violation of the Agreement or the Acceptable Use Policies. Additionally, Codespaces should not be used for:
 
-* クリプトマイニング;
+* cryptomining;
 * using our servers to disrupt, or to gain or to attempt to gain unauthorized access to any service, device, data, account or network (other than those authorized by the GitHub Bug Bounty program);
 * the provision of a stand-alone or integrated application or service offering Codespaces or any elements of Codespaces for commercial purposes;
 * any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Codespaces as a content delivery network, as part of a serverless application, or to host any kind of production-facing application); or
@@ -98,14 +98,14 @@ GitHub Codespaces enables you to develop code directly from your browser using t
 
 In order to prevent violations of these limitations and abuse of GitHub Codespaces, GitHub may monitor your use of GitHub Codespaces. Misuse of GitHub Codespaces may result in termination of your access to Codespaces, restrictions in your ability to use GitHub Codespaces, or the disabling of repositories created to run Codespaces in a way that violates these Terms.
 
-Codespaces allows you to load extensions from the Microsoft Visual Studio Marketplace (“Marketplace Extensions”) for use in your development environment, for example, to process the programming languages that your code is written in. Marketplace Extensions are licensed under their own separate terms of use as noted in the Visual Studio Marketplace, and the terms of use located at <https://aka.ms/vsmarketplace-ToU>. GitHub makes no warranties of any kind in relation to Marketplace Extensions and is not liable for actions of third-party authors of Marketplace Extensions that are granted access to Your Content. Codespaces also allows you to load software into your environment through devcontainer features. Such software is provided under the separate terms of use accompanying it. サードパーティアプリケーションを、お客様は自らの責任ににおいて利用するものとします。
+Codespaces allows you to load extensions from the Microsoft Visual Studio Marketplace (“Marketplace Extensions”) for use in your development environment, for example, to process the programming languages that your code is written in. Marketplace Extensions are licensed under their own separate terms of use as noted in the Visual Studio Marketplace, and the terms of use located at <https://aka.ms/vsmarketplace-ToU>. GitHub makes no warranties of any kind in relation to Marketplace Extensions and is not liable for actions of third-party authors of Marketplace Extensions that are granted access to Your Content. Codespaces also allows you to load software into your environment through devcontainer features. Such software is provided under the separate terms of use accompanying it. Your use of any third-party applications is at your sole risk.
 
-The generally available version of Codespaces is not currently available for U.S. government customers. アメリカ合衆国の祝日 government customers may continue to use the Codespaces Beta Preview under separate terms. See [Beta Preview terms](/ja/github/site-policy/github-terms-of-service#j-beta-previews).
+The generally available version of Codespaces is not currently available for U.S. government customers. U.S. government customers may continue to use the Codespaces Beta Preview under separate terms. See [Beta Preview terms](/ja/github/site-policy/github-terms-of-service#j-beta-previews).
 
 [](#connect)Connect
 ----------
 
-GitHub Connect を使うと、GitHub Enterprise ServerインスタンスとGitHub.comのGitHub Enterprise Cloud OrganizationまたはEnterpriseアカウントとの間で特定の機能やデータを共有できます。 GitHub Connectを有効化するには、GitHub Enterprise CloudまたはGitHub.comに最低1つのアカウントを持ち、GitHub Enterprise Serverの最低1つのライセンスインスタンスを持っている必要があります。 Connect経由でのGitHub Enterprise CloudまたはGitHub.comの利用は、GitHub Enterprise CloudまたはGitHub.comのライセンスに基づく規約が適用されます。 「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
+With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server. Your use of GitHub Enterprise Cloud or GitHub.com through Connect is governed by the terms under which you license GitHub Enterprise Cloud or GitHub.com. Use of Personal Data is governed by the [GitHub Privacy Statement](/ja/github/site-policy/github-privacy-statement).
 
 [](#github-enterprise-importer)GitHub Enterprise Importer
 ----------
@@ -115,51 +115,51 @@ Importer is a framework for exporting data from other sources to be imported to 
 [](#learning-lab)Learning Lab
 ----------
 
-GitHub Learning Lab では、GitHub に組み込まれたインタラクティブなコースを無料で提供しており、自動の即時フィードバックやヘルプも備わっています。
+GitHub Learning Lab offers free interactive courses that are built into GitHub with instant automated feedback and help.
 
-*コース資料。*GitHubは、自らが提供するコース資料の所有者であり、Learning Labの使用に関連した内部的な業務目的で、かかるコース資料を複製、保守、使用、および実行するための世界的で非独占的、期間限定、譲渡不可の無料ライセンスをお客様に付与します。
+*Course Materials.* GitHub owns course materials that it provides and grants you a worldwide, non-exclusive, limited-term, non-transferable, royalty-free license to copy, maintain, use and run such course materials for your internal business purposes associated with Learning Lab use.
 
-コース資料で提供されるソースコードの一部には、オープンソースライセンスの条項が適用される場合があります。
+Open source license terms may apply to portions of source code provided in the course materials.
 
-お客様が作成するコースはお客様が所有し、GitHubに対して、かかるコース資料を複製、保守、使用、および実行するための世界的で非独占的、期間限定、譲渡不可の無料ライセンスをGitHubに付与します。
+You own course materials that you create and grant GitHub a worldwide, non-exclusive, perpetual, non-transferable, royalty-free license to copy, maintain, use, host, and run such course materials.
 
-GitHubコースの使用、ならびにお客様ご自身によるコース資料の作成および保管は、いずれかの当事者による相手方の知的所有権の共同所有権を構成するものではありません。
+The use of GitHub course materials and creation and storage of your own course materials do not constitute joint ownership to either party's respective intellectual property.
 
-「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
+Use of Personal Data is governed by the [GitHub Privacy Statement](/ja/github/site-policy/github-privacy-statement).
 
 [](#npm)npm
 ----------
 
-npm はソフトウェアパッケージのホスティングサービスであり、ソフトウェアパッケージをプライベートまたパブリックでホストでき、パッケージをプロジェクト中で依存関係として使えるようになります。 npm はJavaScriptエコシステムのためのレコードのレジストリです。 npm 公開レジストリの利用は無料ですが、プライベートパッケージを公開したり、チームを使用してプライベートパッケージを管理したい場合には有料となります。 [npm ドキュメント](https://docs.npmjs.com/)にはアカウントの種類の制限や、[プライベートパッケージ](https://docs.npmjs.com/about-private-packages)および[Organization](https://docs.npmjs.com/organizations)の管理方法についての詳細が記載されています。 npm registryレジストリの利用規程は、[オープンソース規約](https://www.npmjs.com/policies/open-source-terms)に概説されています。 また、npm [solo](https://www.npmjs.com/policies/solo-plan)と[org](https://www.npmjs.com/policies/orgs-plan)の両方のプランに補足条項があります。 npmの利用には、npm[利用規約](https://www.npmjs.com/policies/terms)が適用されます。
+npm is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. npm is the registry of record for the JavaScript ecosystem. The npm public registry is free to use but customers are billed if they want to publish private packages or manage private packages using teams. The [npm documentation](https://docs.npmjs.com/) includes details about the limitation of account types and how to manage [private packages](https://docs.npmjs.com/about-private-packages) and [organizations](https://docs.npmjs.com/organizations). Acceptable use of the npm registry is outlined in the [open-source terms](https://www.npmjs.com/policies/open-source-terms). There are supplementary terms for both the npm [solo](https://www.npmjs.com/policies/solo-plan) and [org](https://www.npmjs.com/policies/orgs-plan) plans. The npm [Terms of Use](https://www.npmjs.com/policies/terms) apply to your use of npm.
 
-[](#packages)パッケージ
+[](#packages)Packages
 ----------
 
-GitHub Packagesはソフトウェアパッケージのホスティングサービスであり、ソフトウェアパッケージをプライベートもしくはパブリックでホストでき、パッケージをプロジェクト中で依存関係として使えるようになります GitHub Packagesは、使用量に基づいて課金されます。 [Packagesのドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅やストレージ容量 (アカウントのプランによって異なる)、およびPackagesの使用量の監視方法や利用限度の設定方法などの詳細情報が記載されています。 Packagesの帯域幅使用量は[「GitHub利用規定」](/ja/github/site-policy/github-acceptable-use-policies)によって制限されます。
+GitHub Packages is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. GitHub Packages is billed on a usage basis. The [Packages documentation](/ja/packages/learn-github-packages/introduction-to-github-packages) includes details, including bandwidth and storage quantities (depending on your Account plan), and how to monitor your Packages usage and set usage limits. Packages bandwidth usage is limited by the [GitHub Acceptable Use Polices](/ja/github/site-policy/github-acceptable-use-policies).
 
-[](#pages)ページ
+[](#pages)Pages
 ----------
 
-各「アカウント」には、[GitHub Pagesの静的ホスティングサービス](/ja/github/working-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的Webページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割をはたしています。
+Each Account comes with access to the [GitHub Pages static hosting service](/ja/github/working-with-github-pages/about-github-pages). GitHub Pages is intended to host static web pages, but primarily as a showcase for personal and organizational projects.
 
-GitHub Pagesは、オンラインビジネス、eコマースサイト、主に商取引の円滑化またはサービスとしての商用ソフトウェアの提供 (SaaS) のいずれかを目的とする、その他のウェブサイトを運営するための無料のウェブホスティングサービスとしての使用を意図したものではなく、またそのような使用を許可するものでもありません。 ページでは、寄付のボタンやクラウドファンディングのリンクなど、収益化の行為が一部認められています。
+GitHub Pages is not intended for or allowed to be used as a free web hosting service to run your online business, e-commerce site, or any other website that is primarily directed at either facilitating commercial transactions or providing commercial software as a service (SaaS). Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links.
 
-*帯域幅と利用限度*
+*Bandwidth and Usage Limits*
 
-GitHub Pagesは、特定の帯域幅を対象とし、利用限度が適用されるため、一定以上の高帯域の利用には適していない場合があります。 Please see our [GitHub Pages limits](/ja/github/working-with-github-pages/about-github-pages) for more information.
+GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our [GitHub Pages limits](/ja/github/working-with-github-pages/about-github-pages) for more information.
 
-*禁止される用途*
+*Prohibited Uses*
 
 GitHub Pages may not be used in violation of the Agreement, the GitHub [Acceptable Use Policies](/ja/github/site-policy/github-acceptable-use-policies), or the GitHub Pages service limitations set forth in the [Pages documentation](/ja/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
-If you have questions about whether your use or intended use falls into these categories, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHubは、責任を負うことなくGitHubの任意のサブドメインを取得する権利を常に有します。
+If you have questions about whether your use or intended use falls into these categories, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
 
-[](#sponsors-program)Sponsorsプログラム
+[](#sponsors-program)Sponsors Program
 ----------
 
-GitHub Sponsorsにより、開発者コミュニティが依存しているオープンソースプロジェクトの設計、構築、維持に携わる人々や Organization を、GitHubで直接、経済的に支援できます。 スポンサード開発者になるには、[GitHub Sponsorsプログラムの追加条項](/ja/github/site-policy/github-sponsors-additional-terms)に同意する必要があります。
+GitHub Sponsors allows the developer community to financially support the people and organizations who design, build, and maintain the open source projects they depend on, directly on GitHub. In order to become a Sponsored Developer, you must agree to the [GitHub Sponsors Program Additional Terms](/ja/github/site-policy/github-sponsors-additional-terms).
 
 [](#sql-server-images)SQL Server Images
 ----------
 
-お客様は、Linuxファイル用のMicrosoft SQL Server Standard Editionコンテナ (「SQL Server Images」) をダウンロードできます。 「ソフトウェア」の使用権が終了した場合は、SQL Server Imagesをアンインストールする必要があります。 Microsoft Corporation は、「SQL Server Images」をいつでも無効にすることができます。
+You may download Microsoft SQL Server Standard Edition container image for Linux files ("SQL Server Images"). You must uninstall the SQL Server Images when your right to use the Software ends. Microsoft Corporation may disable SQL Server Images at any time.

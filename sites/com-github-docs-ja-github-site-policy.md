@@ -21,7 +21,7 @@
 
 * [GitHub Codespaces Privacy Statement](/ja/github/site-policy/github-codespaces-privacy-statement)
 
-* [GitHub 追加製品および機能の利用規約](/ja/github/site-policy/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/ja/github/site-policy/github-terms-for-additional-products-and-features)
 
 * [GitHubロゴのポリシー](/ja/github/site-policy/github-logo-policy)
 

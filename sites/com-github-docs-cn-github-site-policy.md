@@ -7,7 +7,7 @@
 站点策略
 ==========
 
-* [GitHub 服务条款](/cn/github/site-policy/github-terms-of-service)
+* [GitHub Terms of Service](/cn/github/site-policy/github-terms-of-service)
 
 * [GitHub 公司服务条款](/cn/github/site-policy/github-corporate-terms-of-service)
 
@@ -21,7 +21,7 @@
 
 * [GitHub Codespaces Privacy Statement](/cn/github/site-policy/github-codespaces-privacy-statement)
 
-* [GitHub 其他产品和功能条款](/cn/github/site-policy/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/cn/github/site-policy/github-terms-for-additional-products-and-features)
 
 * [GitHub 徽标政策](/cn/github/site-policy/github-logo-policy)
 
