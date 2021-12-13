@@ -143,3 +143,5 @@ O GitHub reserva-se o direito de remover qualquer Conteúdo que viole essa polí
 ----------
 
 Você não deve se envolver em atividades que prejudicam significativamente outros usuários. Resolveremos disputas em favor da proteção dos usuários como um todo.
+
+Scroll to top

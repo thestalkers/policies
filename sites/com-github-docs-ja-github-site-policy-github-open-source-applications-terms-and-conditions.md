@@ -83,3 +83,5 @@ GitHubは予告の有無にかかわらず、「サービス」(またはその�
 6. GitHub ライセンスポリシー. 本「アプリケーション規約」は、この [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/) の元でライセンス付与されています。 詳細は、[サイトポリシーリポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
 7. お問い合わせ。 「利用規約」について質問がございましたら、 [Contact us](https://support.github.com/contact?tags=docs-policy).
+
+最上部へスクロール

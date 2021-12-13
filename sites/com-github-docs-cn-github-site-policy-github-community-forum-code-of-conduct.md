@@ -160,3 +160,5 @@ GitHub 社区论坛提倡互相尊重。 论坛是一种共享资源 — 通过�
 ### [](#data-retention-and-deletion-of-data)数据保留和数据删除 ###
 
 您可以联系 [GitHub 支持](https://support.github.com/contact) 请求删除您的社区论坛个人资料。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争端和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 更多信息请参阅 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)。
+
+滚动到顶部

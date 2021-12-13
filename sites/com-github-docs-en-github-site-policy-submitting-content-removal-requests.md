@@ -34,3 +34,5 @@ The GitHub Trademark Policy can be used to report content that appears to use yo
 ----------
 
 The GitHub Private Information Removal Policy can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
+
+Scroll to top

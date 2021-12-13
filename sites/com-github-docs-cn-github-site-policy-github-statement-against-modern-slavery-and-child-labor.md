@@ -137,3 +137,5 @@ GitHub 对负责公司采购业务的员工作出的采购指示现在包括：�
 GitHub 为净化其业务和供应链，正在开发关于现代奴隶制和童工的培训，并将强制要求所有员工参与。 GitHub 将重点关注提供涉及体力劳动服务的供应商，例如活动支持、建筑、设施服务和食品服务领域，因为这些领域的潜在风险更大。
 
 **GitHub 的董事会批准了[本声明](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf)。**
+
+滚动到顶部

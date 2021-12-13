@@ -60,3 +60,5 @@ Significa que recibimos la notificación en la fecha indicada. *No* significa qu
 ----------
 
 Además de publicar notificaciones de retiro del gobierno en nuestro repositorio de retiros del gobierno, las informamos en nuestro reporte de transparencia. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub. Procesamos dichas violaciones como procesaríamos una violación de los Términos de Servicio denunciada por cualquier otro.
+
+Desplazarse hasta arriba

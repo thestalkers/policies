@@ -77,3 +77,5 @@ California law will govern these Event Terms, as well as any claim, cause of act
 ----------
 
 You agree that you will not represent yourself as an employee, representative, or agent of GitHub (unless, of course, you are actually employed by GitHub). We reserve the right to cancel the Event or any related event at any time, for any reason, and without liability or prejudice. Any failure on GitHub's part to exercise or enforce any right or provision of these terms does not constitute a waiver of such right or provision. If any provision of these terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Event Terms shall otherwise remain in full force and effect and enforceable.
+
+Scroll to top

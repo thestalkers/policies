@@ -96,3 +96,5 @@ GitHubの倫理規範では、ギフト、旅行、エンタテインメント�
 ----------
 
 詳細情報、規制の文脈、執行、罰則については、米国司法省の[「米国海外腐敗行為防止法ガイドライン」](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)が優れた資料です。
+
+最上部へスクロール

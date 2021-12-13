@@ -118,3 +118,5 @@ This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (�
 21. **Entire Agreement**
 
    This Agreement, the TOS, and the Program Terms contain the entire agreement of the parties with respect to its subject matter and supersede all prior communications, representations, understandings and agreements, whether written or oral. The terms or conditions of any of your purchase orders, acknowledgements, or other documents that you send us in connection with this Agreement will be null and void, and of no effect.
+
+Scroll to top

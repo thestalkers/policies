@@ -141,3 +141,5 @@ GitHub reserves the right to remove any Content in violation of this policy.
 ----------
 
 You must not engage in activity that significantly harms other users. We will resolve disputes in favor of protecting users as a whole.
+
+Scroll to top

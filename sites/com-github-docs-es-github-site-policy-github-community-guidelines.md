@@ -123,3 +123,5 @@ En algunos casos, podría haber una razón para revertir una acción, por ejempl
 Dedicamos estas Pautas de la Comunidad al dominio público para que cualquiera pueda usar, reutilizar, adaptar o lo que sea, bajo los términos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas son solo directrices; no modifican nuestros [Términos de Servicio](/es/articles/github-terms-of-service) y no pretenden ser una lista completa. GitHub mantiene total discreción bajo los [Términos de Servicio](/es/articles/github-terms-of-service/#c-acceptable-use) para eliminar cualquier contenido o cancelar cualquier cuenta por actividad que infrinja nuestros Términos del Uso Aceptable. Estas directrices describen en qué situaciones ejerceremos dicha discreción.
+
+Desplazarse hasta arriba

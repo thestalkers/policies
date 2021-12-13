@@ -155,3 +155,5 @@ Não presumimos ter todas as respostas. Mas se você é curioso, aqui estão alg
 * [Doutrina do uso justo e a Digital Millennium Copyright Act: o uso justo existe na internet sob a DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
 O GitHub não necessariamente apoia nenhum dos pontos de vista desses artigos. Fornecemos os links para incentivar você a aprender mais, formar suas próprias opiniões e, em seguida, entrar em contato com o(s) seu(s) representante(s) (por exemplo, no (p. ex., nos [EUA Congresso](https://www.govtrack.us/congress/members) ou [E.U. Parlamento](https://www.europarl.europa.eu/meps/en/home)) para procurar quaisquer alterações que você entenda que devem ser feitas.
+
+Scroll to top

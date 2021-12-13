@@ -96,3 +96,5 @@ Se você for contratado para uma vaga no GitHub, manteremos as informações for
 ----------
 
 Podemos atualizar, ocasionalmente, esta Política de Privacidade do Candidato do GitHub. Ao fazer alterações nesta página, iremos atualizar a data "última atualização".
+
+Scroll to top

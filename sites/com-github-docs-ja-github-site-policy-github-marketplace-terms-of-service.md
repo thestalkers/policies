@@ -119,3 +119,5 @@ GitHub は、法的またはポリシー上の理由により、当社のサー�
 6. **GitHubライセンスポリシー。**本「Marketplace利用規約は、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンス付与されています。 詳細は、[サイトポリシーリポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
 7. **お問い合わせ。**「Marketplace利用規約」についてのご質問をお寄せください。 [Contact us](https://support.github.com/contact?tags=docs-policy).
+
+最上部へスクロール

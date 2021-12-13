@@ -120,3 +120,5 @@ Este Acuerdo es un acuerdo legal entre tú (“tú”) y GitHub, Inc. (“GitHub
 21. **Acuerdo completo**
 
    El presente acuerdo, los términos de servicio y los términos del programa contienen el acuerdo completo de las partes con respecto al tema y sustituyen todas las comunicaciones, representaciones, entendimientos y acuerdos previos, ya sean escritos u orales. Los términos o condiciones de cualquiera de tus pedidos de compras, confirmacones u otros documentos que nos envíes en relación con el presente acuerdo serán nulos y sin efecto.
+
+Desplazarse hasta arriba

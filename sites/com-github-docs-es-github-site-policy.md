@@ -7,7 +7,7 @@ Este documento está traducido del inglés. En caso de conflicto, incertidumbre 
 Site policy
 ==========
 
-* [Términos de servicio de GitHub](/es/github/site-policy/github-terms-of-service)
+* [GitHub Terms of Service](/es/github/site-policy/github-terms-of-service)
 
 * [Términos de servicio corporativos de GitHub](/es/github/site-policy/github-corporate-terms-of-service)
 
@@ -84,3 +84,5 @@ Site policy
 * [Código de conducta del evento de GitHub](/es/github/site-policy/github-event-code-of-conduct)
 
 * [Compromiso de Cooperación de GPL de GitHub](/es/github/site-policy/github-gpl-cooperation-commitment)
+
+Desplazarse hasta arriba

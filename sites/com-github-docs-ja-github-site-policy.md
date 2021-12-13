@@ -7,7 +7,7 @@
 サイトポリシー
 ==========
 
-* [GitHub利用規約](/ja/github/site-policy/github-terms-of-service)
+* [GitHub Terms of Service](/ja/github/site-policy/github-terms-of-service)
 
 * [GitHub企業向け利用規約](/ja/github/site-policy/github-corporate-terms-of-service)
 
@@ -84,3 +84,5 @@
 * [GitHubイベントの行動規範](/ja/github/site-policy/github-event-code-of-conduct)
 
 * [GitHubのGPL協力へのコミットメント](/ja/github/site-policy/github-gpl-cooperation-commitment)
+
+最上部へスクロール

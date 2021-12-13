@@ -81,3 +81,5 @@ Además, la capacitación cubre las políticas internas de GitHub relacionadas c
 
 * Los acuerdos de reventa de GitHub  **con socios de canal** incluyen cláusulas de anti-corrupción obligatorias. En adelante, GitHub requirá que nuestros socios de canal se comprometan a cumplir con esta declaración anticorrupción.
 * En adelante, los **contratos de vendedores** de GitHub requerirán un compromiso para cumplir con el código de conducta del proveedor de Microsoft o con esta declaración anticorrupción.
+
+Desplazarse hasta arriba

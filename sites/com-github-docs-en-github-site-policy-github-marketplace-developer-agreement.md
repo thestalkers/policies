@@ -333,3 +333,5 @@ On request, Developer will make its Privacy Statement, Privacy Policy, Privacy N
 **A1-8. Liability for Data Processing**
 
 * a. Direct Liability. Developer will be liable to GitHub for actual damages caused by any breach of this Addendum subject to the terms in Section 8, Limitation on Liability of the Marketplace Developer Agreement.
+
+Scroll to top

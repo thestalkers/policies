@@ -415,3 +415,5 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 ### [](#other-translations)Otras traducciones ###
 
 Para las traducciones de esta declaración hacia otros idiomas, por favor visita [https://docs.github.com/](/es) y selecciona el idioma desde el menú desplegable debajo de "Inglés".
+
+Desplazarse hasta arriba

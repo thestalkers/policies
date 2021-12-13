@@ -438,3 +438,5 @@ Each Party is an independent contractor with respect to the subject matter of th
 ### [](#10-questions)10. Questions ###
 
 Questions about the Terms of Service? [Contact us](https://github.com/contact/).
+
+Scroll to top

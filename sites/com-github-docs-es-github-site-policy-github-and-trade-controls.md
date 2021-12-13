@@ -112,3 +112,5 @@ De conformidad con la licencia que recibimos de la OFAC, estamos restableciendo 
 
 Los servicios de la nube de GitHub, tanto gratuitos como de pago, están habitualmente disponibles para los desarrolladores ubicados en Cuba.
 Los Nacionales Especialmente Designados (SDN), otras partes denegadas o bloqueadas de acuerdo con las leyes de los EE.UU. y otras aplicables, así como ciertas oficialías de gobierno, podrían restringirse en su acceso o uso de GitHub, donde sea que se encuentren. Adicionalmente, los usuarios no podrán utilizar GitHub.com para o en nombre de dichas partes, las cuales incluyen habitualmente a los gobiernos de los países sancionados.
+
+Desplazarse hasta arriba

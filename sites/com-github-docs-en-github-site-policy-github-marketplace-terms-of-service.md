@@ -117,3 +117,5 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 6. **License to GitHub Policies.** These Marketplace Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 7. **Contact Us.** Questions about the Marketplace Terms? [Contact us](https://support.github.com/contact?tags=docs-policy).
+
+Scroll to top

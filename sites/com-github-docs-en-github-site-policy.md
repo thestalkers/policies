@@ -82,3 +82,5 @@ Site policy
 * [GitHub Event Code of Conduct](/en/github/site-policy/github-event-code-of-conduct)
 
 * [GitHub GPL Cooperation Commitment](/en/github/site-policy/github-gpl-cooperation-commitment)
+
+Scroll to top
