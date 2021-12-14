@@ -11,11 +11,11 @@ Site policy
 
 * [Términos de servicio corporativos de GitHub](/es/github/site-policy/github-corporate-terms-of-service)
 
-* [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement)
+* [GitHub Privacy Statement](/es/github/site-policy/github-privacy-statement)
 
 * [GitHub Data Protection Agreement](/es/github/site-policy/github-data-protection-agreement)
 
-* [Prácticas de Privacidad Globales](/es/github/site-policy/global-privacy-practices)
+* [Global Privacy Practices](/es/github/site-policy/global-privacy-practices)
 
 * [Términos adicionales de los Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms)
 
@@ -23,29 +23,29 @@ Site policy
 
 * [GitHub Terms for Additional Products and Features](/es/github/site-policy/github-terms-for-additional-products-and-features)
 
-* [Política de logo de GitHub](/es/github/site-policy/github-logo-policy)
+* [GitHub Logo Policy](/es/github/site-policy/github-logo-policy)
 
-* [Política de nombre de usuario de GitHub](/es/github/site-policy/github-username-policy)
+* [GitHub Username Policy](/es/github/site-policy/github-username-policy)
 
 * [Enviar solicitudes de eliminación de contenido](/es/github/site-policy/submitting-content-removal-requests)
 
-* [Política de retiro de DMCA](/es/github/site-policy/dmca-takedown-policy)
+* [DMCA Takedown Policy](/es/github/site-policy/dmca-takedown-policy)
 
-* [Guía para enviar un aviso de retiro de DMCA](/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+* [Guide to Submitting a DMCA Takedown Notice](/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
 
-* [Guía para enviar una contranotificación de DMCA](/es/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
+* [Guide to Submitting a DMCA Counter Notice](/es/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
 
 * [Política de marca registrada de GitHub](/es/github/site-policy/github-trademark-policy)
 
 * [Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
 
-* [Subprocesadores y cookies de GitHub](/es/github/site-policy/github-subprocessors-and-cookies)
+* [GitHub Subprocessors and Cookies](/es/github/site-policy/github-subprocessors-and-cookies)
 
 * [GitHub Bug Bounty Program Legal Safe Harbor](/es/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
 
 * [Coordinated Disclosure of Security Vulnerabilities](/es/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
 
-* [Pautas para las solicitudes legales de los datos del usuario](/es/github/site-policy/guidelines-for-legal-requests-of-user-data)
+* [Guidelines for Legal Requests of User Data](/es/github/site-policy/guidelines-for-legal-requests-of-user-data)
 
 * [Política de retiro gubernamental de GitHub](/es/github/site-policy/github-government-takedown-policy)
 
@@ -53,7 +53,7 @@ Site policy
 
 * [Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California](/es/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
 
-* [Pautas de la comunidad GitHub](/es/github/site-policy/github-community-guidelines)
+* [GitHub Community Guidelines](/es/github/site-policy/github-community-guidelines)
 
 * [Código de conducta del foro de la comunidad GitHub](/es/github/site-policy/github-community-forum-code-of-conduct)
 
