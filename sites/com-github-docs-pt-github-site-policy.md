@@ -41,7 +41,7 @@ Site policy
 
 * [GitHub Subprocessors and Cookies](/pt/github/site-policy/github-subprocessors-and-cookies)
 
-* [Programa de recompensa de erros e declaração Safe Harbor do GitHub](/pt/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/pt/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
 
 * [Coordinated Disclosure of Security Vulnerabilities](/pt/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
 
