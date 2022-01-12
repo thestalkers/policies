@@ -1,14 +1,14 @@
-GitHub Logo Policy - GitHub Docs
+GitHubロゴのポリシー - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
 このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
 
-GitHub Logo Policy
+GitHubロゴのポリシー
 ==========
 
-You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
+場合によっては、GitHub のロゴをあなたのウェブサイトまたはサードパーティアプリケーションに追加できます。 ロゴの使用に関する詳細と具体的なガイドラインについては、[GitHub のロゴと使い方のページ](https://github.com/logos)をご覧ください。
 
-You can also use an octocat as your personal avatar or on your website to link to your GitHub account, but not for your company or a product you're building. GitHub has an extensive collection of octocats in the [Octodex](https://octodex.github.com/). For more information on using the octocats from the Octodex, see the [Octodex FAQ](https://octodex.github.com/faq/).
+また、Octocat をあなたの個人的なアバターとして、またはあなたのウェブサイトで使用して、GitHub アカウントにリンクすることもできますが、あなたの会社やあなたが構築している製品に対して使用することはできません。 GitHub は、[Octodex](https://octodex.github.com/) にさまざまな Octocat を所有しています。 Octodex の Octocat を使用する際の詳細については、[Octodex FAQ](https://octodex.github.com/faq/) をご覧ください。
 
 最上部へスクロール

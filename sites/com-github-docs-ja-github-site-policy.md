@@ -1,51 +1,51 @@
-Site policy - GitHub Docs
+サイトポリシー - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
 このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
 
-Site policy
+サイトポリシー
 ==========
 
-* [GitHub Terms of Service](/ja/github/site-policy/github-terms-of-service)
+* [GitHub利用規約](/ja/github/site-policy/github-terms-of-service)
 
 * [GitHub企業向け利用規約](/ja/github/site-policy/github-corporate-terms-of-service)
 
-* [GitHub Privacy Statement](/ja/github/site-policy/github-privacy-statement)
+* [GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)
 
 * [GitHub Data Protection Agreement](/ja/github/site-policy/github-data-protection-agreement)
 
-* [Global Privacy Practices](/ja/github/site-policy/global-privacy-practices)
+* [プライバシーのグローバルプラクティス](/ja/github/site-policy/global-privacy-practices)
 
 * [GitHub Sponsors に関する追加条項](/ja/github/site-policy/github-sponsors-additional-terms)
 
 * [GitHub Codespaces Privacy Statement](/ja/github/site-policy/github-codespaces-privacy-statement)
 
-* [GitHub Terms for Additional Products and Features](/ja/github/site-policy/github-terms-for-additional-products-and-features)
+* [GitHub 追加製品および機能の利用規約](/ja/github/site-policy/github-terms-for-additional-products-and-features)
 
-* [GitHub Logo Policy](/ja/github/site-policy/github-logo-policy)
+* [GitHubロゴのポリシー](/ja/github/site-policy/github-logo-policy)
 
-* [GitHub Username Policy](/ja/github/site-policy/github-username-policy)
+* [GitHub ユーザ名ポリシー](/ja/github/site-policy/github-username-policy)
 
 * [コンテンツ削除リクエストのサブミット](/ja/github/site-policy/submitting-content-removal-requests)
 
-* [DMCA Takedown Policy](/ja/github/site-policy/dmca-takedown-policy)
+* [DMCAテイクダウンポリシー](/ja/github/site-policy/dmca-takedown-policy)
 
-* [Guide to Submitting a DMCA Takedown Notice](/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+* [DMCAテイクダウン通知のガイドの提出](/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
 
-* [Guide to Submitting a DMCA Counter Notice](/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
+* [DMCAカウンター通知の提出ガイド](/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
 
 * [GitHubトレードマークポリシー](/ja/github/site-policy/github-trademark-policy)
 
 * [GitHub個人情報削除ポリシー](/ja/github/site-policy/github-private-information-removal-policy)
 
-* [GitHub Subprocessors and Cookies](/ja/github/site-policy/github-subprocessors-and-cookies)
+* [GitHubのサブプロセッサとCookie](/ja/github/site-policy/github-subprocessors-and-cookies)
 
 * [GitHub Bug Bounty Programの法的免責事項](/ja/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
 
 * [Coordinated Disclosure of Security Vulnerabilities](/ja/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
 
-* [Guidelines for Legal Requests of User Data](/ja/github/site-policy/guidelines-for-legal-requests-of-user-data)
+* [ユーザデータの法的リクエストに関するガイドライン](/ja/github/site-policy/guidelines-for-legal-requests-of-user-data)
 
 * [GitHub の行政機関による削除に関するポリシー](/ja/github/site-policy/github-government-takedown-policy)
 
@@ -53,7 +53,7 @@ Site policy
 
 * [カリフォルニア州消費者プライバシー法に関するGitHubからの通知](/ja/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
 
-* [GitHub Community Guidelines](/ja/github/site-policy/github-community-guidelines)
+* [GitHubコミュニティガイドライン](/ja/github/site-policy/github-community-guidelines)
 
 * [GitHubコミュニティフォーラムの行動規範](/ja/github/site-policy/github-community-forum-code-of-conduct)
 
