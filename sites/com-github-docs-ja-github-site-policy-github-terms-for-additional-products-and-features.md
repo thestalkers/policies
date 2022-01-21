@@ -46,7 +46,7 @@ GitHub を利用する際、数多くの追加製品や機能 (「追加製品�
 
 * **GitHub Enterprise Server** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
 
-* **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
+* **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 [](#actions)アクション
 ----------
@@ -105,7 +105,7 @@ The generally available version of Codespaces is not currently available for U.S
 [](#connect)Connect
 ----------
 
-GitHub Connect を使うと、GitHub Enterprise ServerインスタンスとGitHub.comのGitHub Enterprise Cloud OrganizationまたはEnterpriseアカウントとの間で特定の機能やデータを共有できます。 GitHub Connectを有効化するには、GitHub Enterprise CloudまたはGitHub.comに最低1つのアカウントを持ち、GitHub Enterprise Serverの最低1つのライセンスインスタンスを持っている必要があります。 Connect経由でのGitHub Enterprise CloudまたはGitHub.comの利用は、GitHub Enterprise CloudまたはGitHub.comのライセンスに基づく規約が適用されます。 「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
+With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server or GitHub AE instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server or GitHub AE. Connect経由でのGitHub Enterprise CloudまたはGitHub.comの利用は、GitHub Enterprise CloudまたはGitHub.comのライセンスに基づく規約が適用されます。 「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
 
 [](#github-enterprise-importer)GitHub Enterprise Importer
 ----------

@@ -46,7 +46,7 @@ Ao usar as Funcionalidades e Produtos Adicionais, você também concorda com os 
 
 * Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Funcionalidades: Ações, Segurança Avançada, Dados de Consultoria, Conexões, Visualização de Dependabot, Importador do GitHub Enterprise, Laboratório de Aprendizado, Pacotes, Páginas e Imagens de Servidor SQL.
 
-* Os usuários do **GitHub AE** podem ter acesso aos seguintes produtos e funcionalidades: ações, segurança avançada, dados de consultoria, visualização de dependência, Importador do GitHub Enterprise, pacotes e páginas.
+* **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
 [](#actions)Ações
 ----------
@@ -105,7 +105,7 @@ A versão geralmente disponível do Codespaces não está disponível atualmente
 [](#connect)Connect
 ----------
 
-Com GitHub Connect, você pode compartilhar certas funcionalidades e dados entre seu GitHub Enterprise Server e sua organização do GitHub Enterprise Cloud ou conta corporativa no GitHub.com. Para habilitar o GitHub Connect, você precisa ter ao menos uma (1) conta no GitHub Enterprise Cloud ou GitHub.com e uma (1) instância licenciada do GitHub Enterprise Server. O seu uso do GitHub Enterprise Cloud ou GitHub.com por meio do Connect é regido pelos termos sob os quais você licencia o GitHub Enterprise Cloud ou GitHub.com. O uso de dados pessoais é regido pela [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
+With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server or GitHub AE instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server or GitHub AE. O seu uso do GitHub Enterprise Cloud ou GitHub.com por meio do Connect é regido pelos termos sob os quais você licencia o GitHub Enterprise Cloud ou GitHub.com. O uso de dados pessoais é regido pela [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
 
 [](#github-enterprise-importer)Importador do GitHub Enterprise
 ----------
