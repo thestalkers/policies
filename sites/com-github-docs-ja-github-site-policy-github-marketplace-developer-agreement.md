@@ -1,5 +1,7 @@
 GitHub Marketplace開発者同意書 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/ja)[GitHub Docs](/ja)
 
 このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
