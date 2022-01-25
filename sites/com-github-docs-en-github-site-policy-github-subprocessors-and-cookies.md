@@ -1,5 +1,7 @@
 GitHub Subprocessors and Cookies - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Subprocessors and Cookies
@@ -79,5 +81,3 @@ Since the number and names of cookies may change, the table below may be updated
 *\** The **expiration** dates for the cookies listed below generally apply on a rolling basis.
 
 (!) Please note while we limit our use of third party cookies to those necessary to provide external functionality when rendering external content, certain pages on our website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
-
-Scroll to top

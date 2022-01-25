@@ -1,5 +1,7 @@
 GitHub Terms for Additional Products and Features - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -163,5 +165,3 @@ GitHub Sponsors allows the developer community to financially support the people
 ----------
 
 You may download Microsoft SQL Server Standard Edition container image for Linux files ("SQL Server Images"). You must uninstall the SQL Server Images when your right to use the Software ends. Microsoft Corporation may disable SQL Server Images at any time.
-
-Desplazarse hasta arriba

@@ -1,5 +1,7 @@
 GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -49,5 +51,3 @@ That said, if legal action is initiated by a third party, including law enforcem
 ----------
 
 To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/es/categories/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
-
-Desplazarse hasta arriba

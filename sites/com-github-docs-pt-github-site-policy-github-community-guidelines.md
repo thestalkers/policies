@@ -125,5 +125,3 @@ Em alguns casos, pode haver uma base para reverter uma ação, por exemplo, com 
 Colocamos essas Diretrizes da Comunidade em domínio público para que qualquer pessoa use, reutilize, adapte, ou seja o que for, nos termos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas são apenas diretrizes; elas não modificam nossos [Termos de Serviço](/pt/articles/github-terms-of-service) e não pretendem ser uma lista completa. O GitHub detém total critério conforme os [Termos de Serviço](/pt/articles/github-terms-of-service/#c-acceptable-use) para remover qualquer conteúdo ou cancelar quaisquer contas por atividade que viole os Termos de Uso Aceitável. Estas diretrizes descrevem quando iremos exercer esse critério.
-
-Scroll to top

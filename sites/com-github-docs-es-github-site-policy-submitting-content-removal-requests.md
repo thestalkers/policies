@@ -1,5 +1,7 @@
 Enviar solicitudes de eliminación de contenido - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -36,5 +38,3 @@ La Política de Marcas de GitHub se puede utilizar para informar del contenido q
 ----------
 
 La Política de Eliminación de Información Privada de GitHub puede utilizarse para reportar datos que sean privados (confidenciales y que posean un riesgo de seguridad), pero que no se protege necesariamente por derechos de autor o comerciales.
-
-Desplazarse hasta arriba

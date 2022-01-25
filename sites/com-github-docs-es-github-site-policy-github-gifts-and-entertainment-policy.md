@@ -1,5 +1,7 @@
 Política de entretenimiento y obsequios de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -96,5 +98,3 @@ MULTAS y CÁRCEL. No necesariamente solo para GitHub. Puedes llegar a pasar algu
 ----------
 
 Para obtener más información y contexto sobre las reglas, el cumplimiento y las sanciones, el Departamento de Justicia de los EE. UU. [Guía de recursos para la ley de prácticas corruptas extranjeras de los EE. UU.](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) es un excelente recurso. La ley de prácticas corruptas extranjeras es un excelente recurso.
-
-Desplazarse hasta arriba

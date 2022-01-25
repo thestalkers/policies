@@ -1,5 +1,7 @@
 GitHub 已故用户政策 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -22,5 +24,3 @@ GitHub 已故用户政策
 在收到您的申请后，我们可能继续要求提供其他信息，例如您的照片证件副本、死亡证明副本以及确认您有权对已故用户帐户采取行动的文件，以验证我们是否获得处理您的申请的适当授权。
 
 请注意，您在申请中提供的信息是根据我们的[隐私声明](/cn/github/site-policy/github-privacy-statement)收集的， 我们只保留履行我们的法律义务和解决争端所需要的信息。
-
-滚动到顶部

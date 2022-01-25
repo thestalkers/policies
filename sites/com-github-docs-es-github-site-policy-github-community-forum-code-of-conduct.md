@@ -1,5 +1,7 @@
 Código de conducta del foro de la comunidad GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -160,5 +162,3 @@ Este Código de Conducta no modifica nuestros [Términos de Servicio](/es/github
 ### [](#data-retention-and-deletion-of-data)Retención y borrado de datos ###
 
 Puedes contactar al [Soporte de GitHub](https://support.github.com/contact) para solicitar el borrado de tu perfil del foro comunitario. Retendremos y utilizaremos tu información conforme sea necesario para cumplir con nuestras obligaciones legales, resolver disputas y hacer cumplir nuestros acuerdos, pero, exceptuando los requisitos legales, borraremos tu perfil completo (dentro de lo razonable) en los siguientes 90 días de tu solicitud. Para obtener más información, por favor, consulta la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
-
-Desplazarse hasta arriba

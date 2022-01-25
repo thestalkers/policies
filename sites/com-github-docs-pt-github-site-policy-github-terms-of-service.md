@@ -428,5 +428,3 @@ Este Contrato só pode ser modificado por uma alteração escrita assinada por u
 ### [](#6-questions)6. Perguntas ###
 
 Perguntas sobre os Termos de Serviço? [Fale conosco](https://support.github.com/contact?tags=docs-policy).
-
-Scroll to top

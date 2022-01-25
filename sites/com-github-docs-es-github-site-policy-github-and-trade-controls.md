@@ -1,5 +1,7 @@
 GitHub y controles comerciales - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -112,5 +114,3 @@ De conformidad con la licencia que recibimos de la OFAC, estamos restableciendo 
 
 Los servicios de la nube de GitHub, tanto gratuitos como de pago, están habitualmente disponibles para los desarrolladores ubicados en Cuba.
 Los Nacionales Especialmente Designados (SDN), otras partes denegadas o bloqueadas de acuerdo con las leyes de los EE.UU. y otras aplicables, así como ciertas oficialías de gobierno, podrían restringirse en su acceso o uso de GitHub, donde sea que se encuentren. Adicionalmente, los usuarios no podrán utilizar GitHub.com para o en nombre de dichas partes, las cuales incluyen habitualmente a los gobiernos de los países sancionados.
-
-Desplazarse hasta arriba

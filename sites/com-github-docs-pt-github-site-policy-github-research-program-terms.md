@@ -95,5 +95,3 @@ Se alguma parte deste Contrato for considerada inválida ou inaplicável, essa p
 ### [](#4-amendments-complete-agreement)4. Alterações; Contrato integral ###
 
 Este Contrato só pode ser modificado por uma alteração por escrito e assinada por um representante autorizado do GitHub. Este Contrato, juntamente com os Termos Gerais Aplicáveis e a Declaração de Privacidade do GitHub, representam a declaração completa e exclusiva do contrato entre você e nós. Este Contrato substitui qualquer proposta ou acordo prévio oral ou escrito, e quaisquer outras comunicações entre você e o GitHub relacionadas com o assunto desses termos, incluindo quaisquer acordos de confidencialidade ou de não divulgação.
-
-Scroll to top

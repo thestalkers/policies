@@ -1,5 +1,7 @@
 GitHub 赞助附加条款 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -252,5 +254,3 @@ GitHub 承诺遵守根据合理判断认为适用于这些付款的所有适用�
 ### [](#75-publicity)7.5. 宣传。 公示性. ###
 
 我们可以发布与您参与本计划相关的新闻稿或其他公共通讯。
-
-滚动到顶部

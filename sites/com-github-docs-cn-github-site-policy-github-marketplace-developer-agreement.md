@@ -1,5 +1,7 @@
 GitHub Marketplace 开发者协议 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -333,5 +335,3 @@ GitHub 可能：阻止该产品推介在 Marketplace 上展示；从 Marketplace
 **A1-8. 数据处理责任**
 
 * a. 直接赔偿责任。 开发者应根据 Marketplace 开发者协议第 8 节“责任限制”中的条款，赔偿因其任何违反本附录的行为对 GitHub 造成的实际损害。
-
-滚动到顶部

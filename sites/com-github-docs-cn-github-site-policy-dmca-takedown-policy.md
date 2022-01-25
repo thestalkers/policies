@@ -1,5 +1,7 @@
 DMCA 删除政策 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -155,5 +157,3 @@ GitHub 的政策是，在适当的情况下，自行决定禁用和终止可能�
 * [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
 GitHub 不一定支持这些文章中的任何观点。 我们提供链接的目的是鼓励您了解更多信息，形成自己的观点，然后联系您选举的代表（例如[美国 国会](https://www.govtrack.us/congress/members)或[欧盟 议会](https://www.europarl.europa.eu/meps/en/home)的官员），以求实现您认为应该进行的任何更改。
-
-滚动到顶部

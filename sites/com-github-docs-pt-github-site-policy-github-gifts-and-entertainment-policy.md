@@ -98,5 +98,3 @@ MULTAS e PRISÃO. Não necessariamente apenas para o GitHub. Você pode passar a
 ----------
 
 Para obter mais informações e contexto sobre regras, aplicação e sanções, os EUA. Para obter mais informações e contexto sobre regras, aplicação da lei e penalidades, o [Guia de Recursos para a Lei de Práticas de Corrupção no Exterior dos EUA](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) do Departamento de Justiça dos EUA é um excelente recurso. A Lei das Práticas Internacionais de Corrupção é um excelente recurso.
-
-Scroll to top

@@ -1,5 +1,7 @@
 GitHub Government Takedown Policy - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Government Takedown Policy
@@ -58,5 +60,3 @@ It means that we received the notice on the indicated date. It does *not* mean t
 ----------
 
 In addition to posting government takedown notices in our gov-takedowns repository, we report on them in our transparency report. We also track and report in our transparency report on government takedowns based on violations of GitHub's Terms of Service. We process those violations as we would process a Terms of Service violation reported by anyone else.
-
-Scroll to top

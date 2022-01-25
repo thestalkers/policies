@@ -1,5 +1,7 @@
 GitHub 社区指导方针 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -123,5 +125,3 @@ GitHub 社区的主要目的是协作处理软件项目。 我们希望人们能
 我们将这些社区指导方针专用于公共领域，让所有人根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整或适应。
 
 这些只是指导方针；不影响我们的[服务条款](/cn/articles/github-terms-of-service)，也不打算作为完整的清单。 GitHub 保留根据[服务条款](/cn/articles/github-terms-of-service/#c-acceptable-use)完全酌处的权利，可以删除任何内容或终止其活动违反我们可接受使用条款的任何帐户。 这些指导方针说明了我们何时将行使这一酌处权。
-
-滚动到顶部

@@ -1,5 +1,7 @@
 GitHub 礼品和招待政策 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -96,5 +98,3 @@ GitHub 的道德准则详细说明了某些情况，包括礼品、旅游和招�
 ----------
 
 如需了解有关规则、执行和处罚的更多信息和相关背景，美国 如需了解有关规则、执行和处罚的更多信息和相关背景，美国司法部的[《美国反海外腐败法》资源指南](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)是一个很好的资源。 反海外腐败法是一种很好的资源。
-
-滚动到顶部

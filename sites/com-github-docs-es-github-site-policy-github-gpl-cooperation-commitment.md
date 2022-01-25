@@ -1,5 +1,7 @@
 Compromiso de Cooperación de GPL de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -33,5 +35,3 @@ Definiciones
 'GitHub' significa GitHub, Inc. y sus filiales.
 
 Este trabajo está disponible bajo una licencia interlacional Creative Commons Attribution-ShareAlike 4.0.
-
-Desplazarse hasta arriba

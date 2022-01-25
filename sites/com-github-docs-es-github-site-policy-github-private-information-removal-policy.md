@@ -1,5 +1,7 @@
 Política de Eliminación de Información Privada de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -110,5 +112,3 @@ Puedes enviar tu solicitud para eliminar información privada a través de nuest
 ----------
 
 Si recibes una solicitud de eliminación de información privada de nuestra parte, puedes disputarla si respondes a nuestro correo electrónico y nos dejas saber, con tanto detalle como sea posible, la razón por la cual el contenido en cuestión no constituye información privada que esté sujeta a esta Política.
-
-Desplazarse hasta arriba

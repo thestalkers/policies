@@ -1,5 +1,7 @@
 提交 DMCA 删除通知的指南 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -105,5 +107,3 @@ GitHub, Inc
 San Francisco, CA. 94107
 
 ```
-
-滚动到顶部

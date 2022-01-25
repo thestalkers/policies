@@ -1,5 +1,7 @@
 Acuerdo de programador registrado de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -120,5 +122,3 @@ Este Acuerdo es un acuerdo legal entre tú (“tú”) y GitHub, Inc. (“GitHub
 21. **Acuerdo completo**
 
    El presente acuerdo, los términos de servicio y los términos del programa contienen el acuerdo completo de las partes con respecto al tema y sustituyen todas las comunicaciones, representaciones, entendimientos y acuerdos previos, ya sean escritos u orales. Los términos o condiciones de cualquiera de tus pedidos de compras, confirmacones u otros documentos que nos envíes en relación con el presente acuerdo serán nulos y sin efecto.
-
-Desplazarse hasta arriba

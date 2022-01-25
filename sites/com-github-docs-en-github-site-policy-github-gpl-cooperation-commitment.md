@@ -1,5 +1,7 @@
 GitHub GPL Cooperation Commitment - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub GPL Cooperation Commitment
@@ -31,5 +33,3 @@ Definitions
 ‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
 This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
-
-Scroll to top

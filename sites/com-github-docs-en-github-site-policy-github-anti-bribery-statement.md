@@ -1,5 +1,7 @@
 GitHub Anti-Bribery Statement - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Anti-Bribery Statement
@@ -79,5 +81,3 @@ While the U.S. FCPA is focused on interactions with government officials, the U.
 
 * GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
 * Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
-
-Scroll to top

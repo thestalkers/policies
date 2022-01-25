@@ -1,5 +1,7 @@
 Política de retiro gubernamental de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -60,5 +62,3 @@ Significa que recibimos la notificación en la fecha indicada. *No* significa qu
 ----------
 
 Además de publicar notificaciones de retiro del gobierno en nuestro repositorio de retiros del gobierno, las informamos en nuestro reporte de transparencia. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub. Procesamos dichas violaciones como procesaríamos una violación de los Términos de Servicio denunciada por cualquier otro.
-
-Desplazarse hasta arriba

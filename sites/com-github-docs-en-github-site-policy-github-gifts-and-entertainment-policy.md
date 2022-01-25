@@ -1,5 +1,7 @@
 GitHub Gifts and Entertainment Policy - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Gifts and Entertainment Policy
@@ -94,5 +96,3 @@ FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend 
 ----------
 
 For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
-
-Scroll to top

@@ -1,5 +1,7 @@
 Declaración antisoborno de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -81,5 +83,3 @@ Además, la capacitación cubre las políticas internas de GitHub relacionadas c
 
 * Los acuerdos de reventa de GitHub  **con socios de canal** incluyen cláusulas de anti-corrupción obligatorias. En adelante, GitHub requirá que nuestros socios de canal se comprometan a cumplir con esta declaración anticorrupción.
 * En adelante, los **contratos de vendedores** de GitHub requerirán un compromiso para cumplir con el código de conducta del proveedor de Microsoft o con esta declaración anticorrupción.
-
-Desplazarse hasta arriba

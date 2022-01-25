@@ -1,5 +1,7 @@
 Código de conducta del evento de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -57,5 +59,3 @@ GitHubbers estará encantado de ayudar a los participantes a ponerse en contacto
 ----------
 
 Algunas partes de este código de conducta se basan en el [ejemplo de política anti-acoso](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) de Geek Feminism wiki, creado por la iniciativa Ada y otros voluntarios, bajo una licencia Creative Commons Zero.
-
-Desplazarse hasta arriba

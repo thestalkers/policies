@@ -139,5 +139,3 @@ As instruções relativas às compras do GitHub para os funcionários responsáv
 O GitHub está desenvolvendo um treinamento de escravidão moderna e trabalho infantil que será obrigatório para todos os funcionários, com vistas aos negócios e à cadeia de fornecimento do GitHub. O GitHub dará ênfase aos fornecedores de serviços que envolvem mão de obra manual, como suporte a eventos, construção, serviços de facilities e alimentação, que são as áreas de maior risco potencial.
 
 **O Conselho de Administração do GitHub aprovou [esta Declaração](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
-
-Scroll to top

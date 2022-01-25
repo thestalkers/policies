@@ -1,5 +1,7 @@
 GitHub Event Code of Conduct - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Event Code of Conduct
@@ -55,5 +57,3 @@ GitHubbers will be happy to help participants contact security or local law enfo
 ----------
 
 Portions of this Code of Conduct are based on the [example anti-harassment policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
-
-Scroll to top

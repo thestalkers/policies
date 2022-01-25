@@ -162,5 +162,3 @@ Este Código de Conduta não altera nossos [Termos de Serviço](/pt/github/site-
 ### [](#data-retention-and-deletion-of-data)Retenção e exclusão de dados ###
 
 Você pode entrar em contato com o [Suporte do GitHub](https://support.github.com/contact) para solicitar a exclusão do seu perfil do fórum da comunidade. Nós vamos reter e usar as suas informações, conforme necessário, para cumprir as nossas obrigações legais, resolver disputas e fazer cumprir nossos contratos. No entanto, com exceção dos requisitos legais, excluiremos o seu perfil completo (com motivo justificado) dentro de 90 dias a partir da sua solicitação. Para obter mais informações, consulte a [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
-
-Scroll to top

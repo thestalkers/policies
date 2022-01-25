@@ -1,5 +1,7 @@
 DMCAテイクダウンポリシー - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/ja)[GitHub Docs](/ja)
 
 このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
@@ -155,5 +157,3 @@ GitHub は、当社のポリシーとして、状況によっては独自の裁�
 * [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
 GitHub は、必ずしもこれらの記事の視点を支持しているわけではありません。 私たちがこうしたリンクを提供するのは、あなたがより多くのことを学び、あなた自身の意見を形成し、そしてあなたが選んだ代表者（例えば、[米国 議会](https://www.govtrack.us/congress/members)や[欧州 議会](https://www.europarl.europa.eu/meps/en/home)）に働き掛けて、あなたが考える必要な変化を求めることができるようにするためです。
-
-最上部へスクロール

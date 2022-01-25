@@ -1,5 +1,7 @@
 Acuerdo de Desarrollador de GitHub Marketplace - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -333,5 +335,3 @@ A petición, el Programador hará su declaración de privacidad, política de pr
 **A1-8. Responsabilidad por el procesamiento de datos**
 
 * a. Responsabilidad directa. El programador será responsable ante GitHub de los daños reales causados por cualquier incumplimiento del presente anexo sujeto a los términos de la sección 8, Limitación de Responsabilidad del Acuerdo del Programador del Mercado.
-
-Desplazarse hasta arriba

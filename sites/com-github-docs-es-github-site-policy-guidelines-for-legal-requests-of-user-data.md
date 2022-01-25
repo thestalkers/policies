@@ -1,5 +1,7 @@
 Pautas para las solicitudes legales de los datos del usuario - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -236,5 +238,3 @@ Como empresa de Estados Unidos con sede en California, GitHub no está obligada 
 ----------
 
 ¿Tiene otras preguntas, comentarios o sugerencias? Ponte en contacto con [Soporte de GitHub](https://support.github.com/contact?tags=docs-generic).
-
-Desplazarse hasta arriba

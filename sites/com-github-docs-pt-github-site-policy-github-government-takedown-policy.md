@@ -62,5 +62,3 @@ Significa que recebemos o aviso na data indicada. Isso *não* significa que o co
 ----------
 
 Além de postar os avisos de retirada governamentais em nosso repositório de retiradas governamentais, relatamos eles em nosso relatório de transparência. Também acompanhamos e relatamos em nosso relatório de transparência as retiradas governamentais com base em violações dos Termos de Serviço do GitHub. Processamos essas violações pois processaríamos uma violação dos Termos de Serviço relatada por qualquer outra pessoa.
-
-Scroll to top

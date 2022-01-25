@@ -1,5 +1,7 @@
 GitHub 反贿赂声明 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -81,5 +83,3 @@ GitHub 员工必须参加有关腐败（包括贿赂）的培训。 我们还为
 
 * GitHub 的标准**渠道合作伙伴转售协议**包括强制性的反腐败条款。 从今往后，GitHub 要求我们的渠道合作伙伴承诺遵守本反腐败声明。
 * 从现在开始，GitHub 的**供应商合同**要求承诺遵守《Microsoft 供应商行为准则》或本反腐败声明。
-
-滚动到顶部

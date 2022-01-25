@@ -1,5 +1,7 @@
 GitHub Trademark Policy - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Trademark Policy
@@ -77,5 +79,3 @@ In order to investigate trademark policy violations, please provide all of the f
   * Address
   * Phone
   * Email (must be from company domain)
-
-Scroll to top

@@ -1,5 +1,7 @@
 GitHub 子处理器和 Cookie - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -81,5 +83,3 @@ GitHub 使用 Cookie 来提供和保护我们的网站，并分析我们网站�
 *\** GitHub 出于以下原因在用户设备上放置以下 cookie：
 
 (!) 请注意，虽然我们将第三方 Cookie 的使用限制在呈现外部内容时提供外部功能的需要，但我们网站上的某些页面可能会设置其他第三方 Cookie。 例如，我们可能会嵌入来自其他网站的内容（例如视频），而该网站可能放置 cookie。 虽然我们尽可能减少这些第三方 cookie，但我们无法始终控制这些第三方内容放置哪些 cookie。
-
-滚动到顶部

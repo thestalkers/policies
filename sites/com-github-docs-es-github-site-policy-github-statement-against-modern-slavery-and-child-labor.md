@@ -1,5 +1,7 @@
 Acuerdo de GitHub contra la esclavitud moderna y el trabajo infantil - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -137,5 +139,3 @@ Las instrucciones de contratación de GitHub a los empleados que realizan compra
 GitHub está desarrollando la esclavitud moderna y la capacitación de trabajo infantil que será obligatoria para todos los empleados, con vistas a los negocios y la cadena de suministro de GitHub. GitHub hará hincapié en los proveedores que prestan servicios relacionados con el trabajo manual, como el apoyo a eventos, la construcción, los servicios de instalaciones y los servicios de alimentos, como áreas de mayor riesgo potencial.
 
 **El Consejo de administración de GitHub aprobó [esta declaración](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
-
-Desplazarse hasta arriba

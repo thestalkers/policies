@@ -38,5 +38,3 @@ A Política de Marca Registrada do GitHub pode ser utilizada para denunciar cont
 ----------
 
 A Política de Remoção de Informações Privadas do GitHub pode ser usada para relatar dados privados (confidenciais e apresenta um risco de segurança), mas isso não é necessariamente protegido por direitos de autor ou por marcas registradas.
-
-Scroll to top

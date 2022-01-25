@@ -1,5 +1,7 @@
 GitHub Deceased User Policy - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Deceased User Policy
@@ -20,5 +22,3 @@ If you are next of kin, a [pre-designated successor](/en/github/setting-up-and-m
 Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request.
 
 Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/en/github/site-policy/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
-
-Scroll to top

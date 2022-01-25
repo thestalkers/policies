@@ -1,5 +1,7 @@
 Política de nombre de usuario de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -34,5 +36,3 @@ Si consideras que la cuenta de alguien está violando tus derechos de marca, pue
 ----------
 
 GitHub prohibe el acaparamiento de nombres de cuenta, y dichos nombres de cuenta no pueden reservarse o mantenerse en inactividad para reclamarse posteriormente. Las cuentas que violen esta política de acaparamiento serán eliminadas o renombradas sin previo aviso. Los intentos de vender, comprar o solicitar otras formas de pago a cambio de nombres de cuenta están prohibidos y pueden resultar en una suspensión de cuenta permanente.
-
-Desplazarse hasta arriba

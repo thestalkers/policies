@@ -1,5 +1,7 @@
 GitHub Acceptable Use Policies - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Acceptable Use Policies
@@ -141,5 +143,3 @@ GitHub reserves the right to remove any Content in violation of this policy.
 ----------
 
 You must not engage in activity that significantly harms other users. We will resolve disputes in favor of protecting users as a whole.
-
-Scroll to top

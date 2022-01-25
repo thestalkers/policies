@@ -1,5 +1,7 @@
 GitHub 研究计划条款 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -93,5 +95,3 @@ GitHub 可随时将本协议的全部或部分转让或委托给任何个人或�
 ### [](#4-amendments-complete-agreement)4. 修订；完整协议 ###
 
 本协议只能通过 GitHub 授权代表签署的书面修正案进行修改。 本协议，连同一般适用条款和 GitHub 隐私声明，共同构成了您与我们之间的完整和专有协议声明。 本协议取代任何口头或书面的提议或事先协议，以及您与 GitHub 之间关于这些条款所述主题的任何其他通信，包括任何保密或非披露协议。
-
-滚动到顶部

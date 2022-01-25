@@ -1,5 +1,7 @@
 Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -108,5 +110,3 @@ La CCPA proporciona exclusiones hasta, e incluyendo, el 31 de diciembre de 2020,
  la información personal que se refleje en comunicaciones verbales o escritas o en transacciones entre GitHub y una persona natural, en donde la persona natural actúe como un empleado, propietario, director, oficial, o contratista de una compañía, sociedad, único dueño, organización sin fines de lucro, o agencia de gobierno, y cuyas comunicaciones o transacciones con GitHub ocurran únicamente dentro del contexto de que GitHub lleve a cabo indagaciones previas, o proporcione o reciba un producto o servicio de o por parte de tal compañía, sociedad, duelo único, organización sin fines de lucro o agencia del gobierno.
 
 Si tienes cualquier duda acerca de esta página, por favor contáctanos a través de nuestro [formato de contacto](https://support.github.com/contact?tags=docs-policy).
-
-Desplazarse hasta arriba

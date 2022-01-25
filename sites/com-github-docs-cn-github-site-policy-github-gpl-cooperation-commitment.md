@@ -1,5 +1,7 @@
 GitHub GPL 合作承诺 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -33,5 +35,3 @@ GitHub 可能会通过在此页面或后续位置发布新版本来修改本承�
 "GitHub" 是指 GitHub, Inc. 及其子公司。
 
 本作品在知识共享署名-相同方式共享 4.0 国际许可协议下使用。
-
-滚动到顶部

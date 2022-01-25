@@ -1,5 +1,7 @@
 GitHub 漏洞悬赏计划法律安全港 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -49,5 +51,3 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 ----------
 
 如果您的安全研究活动与我们[相关站点政策](/cn/categories/site-policy)中的某些限制不一致，但符合我们漏洞悬赏计划的条款，我们将仅限于允许您在本漏洞悬赏计划下进行安全研究的目的而豁免这些限制。 如上文所述，如有疑问，先问我们！
-
-滚动到顶部

@@ -1,5 +1,7 @@
 GitHub 和贸易管制 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -112,5 +114,3 @@ GitHub 服务不适用于位于朝鲜或以其他方式居住在朝鲜的开发�
 
 GitHub 云服务（包括付费和免费）向位于古巴的开发者普遍开放。
 特别指定国民 (SDN) 、被美国拒绝或阻止的其他方 以及某些政府官员可能会被限制访问或使用 GitHub。 此外，用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。
-
-滚动到顶部

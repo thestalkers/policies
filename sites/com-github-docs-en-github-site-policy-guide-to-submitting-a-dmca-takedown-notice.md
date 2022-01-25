@@ -1,5 +1,7 @@
 Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 Guide to Submitting a DMCA Takedown Notice
@@ -103,5 +105,3 @@ Attn: DMCA Agent
 San Francisco, CA. 94107
 
 ```
-
-Scroll to top

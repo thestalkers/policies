@@ -1,5 +1,7 @@
 GitHub 其他产品和功能条款 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -163,5 +165,3 @@ GitHub Sponsors 允许开发者社区直接在 GitHub 上为他们设计、构�
 ----------
 
 您可以下载用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server 映像”）。 当您使用本软件的权利结束时，您必须卸载 SQL Server 映像。 Microsoft Corporation 可随时禁用 SQL Server 映像。
-
-滚动到顶部

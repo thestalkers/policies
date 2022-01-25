@@ -1,5 +1,7 @@
 GitHub 候选人隐私政策 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -96,5 +98,3 @@ GitHub 将与具有合法业务需求的人分享您的候选人个人信息。 
 ----------
 
 我们可能偶尔更新本 GitHub 候选人隐私政策。 当我们对此页面进行更改时，将会更新“上次更新”日期。
-
-滚动到顶部

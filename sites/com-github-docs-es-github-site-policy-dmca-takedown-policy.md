@@ -1,5 +1,7 @@
 Política de retiro de DMCA - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -155,5 +157,3 @@ No presumimos de tener todas las respuestas. Pero si eres curioso, aquí tienes 
 * [Uso Justo de la Doctrina y la Ley de Derechos de Autor del Milenio Digital: ¿Existe un uso justo en Internet bajo la DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Revisión de la Ley de Santa Clara)
 
 GitHub no necesariamente respalda ninguno de los puntos de vista en esos artículos. Proporcionamos los enlaces para invitarte a conocer más, formar tus propias opiniones y, posteriormente, contactar a tu(s) representante(s) electo(s) (por ejemplo, en el [Congreso de los Estados Unidos](https://www.govtrack.us/congress/members) o en el [Parlamento de los EE. UU.](https://www.europarl.europa.eu/meps/en/home)) para buscar los cambios que consideras que deberían llevarse a cabo.
-
-Desplazarse hasta arriba

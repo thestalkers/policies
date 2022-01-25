@@ -1,5 +1,7 @@
 用户数据法律要求指南 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -236,5 +238,3 @@ Sacramento, CA 95833-3505
 ----------
 
 您是否有其他问题、评论或建议？ 请联系 [GitHub Support](https://support.github.com/contact?tags=docs-generic)。
-
-滚动到顶部

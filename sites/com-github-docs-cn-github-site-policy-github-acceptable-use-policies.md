@@ -1,5 +1,7 @@
 GitHub 可接受的使用政策 - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/cn)[GitHub Docs](/cn)
 
 本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
@@ -143,5 +145,3 @@ GitHub 保留删除任何违反此政策的任何内容的权利。
 ----------
 
 不得从事明显损害其他用户的活动。 我们将从保护全体用户利益的角度解决争端。
-
-滚动到顶部

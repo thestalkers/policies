@@ -1,5 +1,7 @@
 GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Statement Against Modern Slavery and Child Labor
@@ -135,5 +137,3 @@ GitHub's procurement instructions to employees making company purchases now incl
 GitHub is developing modern slavery and child labor training that will be mandatory for all employees, with a view to GitHub's business and supply chain. GitHub will emphasize suppliers providing services involving manual labor, such as event support, construction, facilities services, and food services, as areas of greater potential risk.
 
 **GitHub's Board of Directors approved [this Statement](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
-
-Scroll to top

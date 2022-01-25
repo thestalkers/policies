@@ -1,5 +1,7 @@
 GitHub Sponsors Additional Terms - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Sponsors Additional Terms
@@ -250,5 +252,3 @@ The parties are independent contractors. Neither party is an employer, employee,
 ### [](#75-publicity)7.5. Publicity. ###
 
 We can issue a press release or other public communication related to your participation in the Program.
-
-Scroll to top

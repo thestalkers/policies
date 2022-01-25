@@ -1,5 +1,7 @@
 GitHub Private Information Removal Policy - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Private Information Removal Policy
@@ -108,5 +110,3 @@ You can submit your request to remove private information via our [contact form]
 ----------
 
 If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.
-
-Scroll to top

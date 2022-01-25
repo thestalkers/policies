@@ -1,5 +1,7 @@
 Políticas de uso aceptable de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -143,5 +145,3 @@ GitHub se reserva el derecho de eliminar cualquier Contenido que viole esta pol�
 ----------
 
 No debes participar de actividades que dañen de manera significativa a otros usuarios. Resolveremos las disputas en favor de la protección de los usuarios como totalidad.
-
-Desplazarse hasta arriba

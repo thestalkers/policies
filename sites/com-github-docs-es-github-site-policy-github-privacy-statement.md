@@ -1,5 +1,7 @@
 Declaración de Privacidad de GitHub - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/es)[GitHub Docs](/es)
 
 Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
@@ -415,5 +417,3 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 ### [](#other-translations)Otras traducciones ###
 
 Para las traducciones de esta declaración hacia otros idiomas, por favor visita [https://docs.github.com/](/es) y selecciona el idioma desde el menú desplegable debajo de "Inglés".
-
-Desplazarse hasta arriba

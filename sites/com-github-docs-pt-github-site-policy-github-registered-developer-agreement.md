@@ -122,5 +122,3 @@ Este Contrato é um acordo legal entre você ("você") e o GitHub, Inc. ("GitHub
 21. **Integralidade do acordado**
 
    Este Contrato, o TOS e os Termos do Programa contêm todo o acordo das partes em relação ao seu assunto e substitui todas as comunicações, representações, entendimentos e acordos anteriores, sejam escritos ou orais. Os termos ou condições de qualquer uma de suas ordens de compra, reconhecimentos ou outros documentos que você nos enviar em conexão com este Contrato serão nulos e sem efeito.
-
-Scroll to top

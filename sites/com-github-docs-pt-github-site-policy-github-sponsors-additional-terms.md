@@ -254,5 +254,3 @@ As partes são contratantes independentes. Nenhuma parte é um empregador, empre
 ### [](#75-publicity)7.5. Comunicação. ###
 
 Poderemos publicar um comunicado de imprensa ou outra comunicação pública relacionada à sua participação no Programa.
-
-Scroll to top

@@ -1,5 +1,7 @@
 GitHub Terms of Service - GitHub Docs
 
+[Skip to main content](#main-content)
+
 [](/en)[GitHub Docs](/en)
 
 GitHub Terms of Service
@@ -424,5 +426,3 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 ### [](#6-questions)6. Questions ###
 
 Questions about the Terms of Service? [Contact us](https://support.github.com/contact?tags=docs-policy).
-
-Scroll to top
