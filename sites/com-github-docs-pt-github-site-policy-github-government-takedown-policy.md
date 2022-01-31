@@ -22,7 +22,7 @@ Política GitHub de retirada governamental
 
 * [O que significa se postarmos um aviso em nosso repositório de retiradas governamentais?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [Relatório de transparência](#transparency-reporting)
+* [Relatório de transparência](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 [](#what-is-this)O que é?
 ----------
@@ -58,7 +58,7 @@ Estamos preocupados com a censura da internet e acreditamos que a transparência
 
 Significa que recebemos o aviso na data indicada. Isso *não* significa que o conteúdo era ilegal ou errado. Isso *não* significa que o usuário identificado no aviso fez qualquer coisa de errado. Não fazemos ou deixamos implícito nenhum juízo de valor sobre o mérito das alegações que eles fazem. Publicamos esses avisos e essas solicitações apenas para fins informativos.
 
-[](#transparency-reporting)Relatório de transparência
+[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)Relatório de transparência
 ----------
 
 Além de postar os avisos de retirada governamentais em nosso repositório de retiradas governamentais, relatamos eles em nosso relatório de transparência. Também acompanhamos e relatamos em nosso relatório de transparência as retiradas governamentais com base em violações dos Termos de Serviço do GitHub. Processamos essas violações pois processaríamos uma violação dos Termos de Serviço relatada por qualquer outra pessoa.

@@ -22,7 +22,7 @@ GitHub 政府删除政策
 
 * [如果我们在 gov-takedown 仓库中发布通知，它意味着什么？](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [透明度报告](#transparency-reporting)
+* [透明度报告](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 [](#what-is-this)这是什么？
 ----------
@@ -58,7 +58,7 @@ GitHub 有时会收到政府要求，要求我们删除在其地方管辖区被�
 
 这意味着我们在指定日期收到了通知， 但*不*意味着内容是非法或错误的， 也*不*意味着通知中所指的用户犯了任何错误。 我们并不对政府请求的正误做出或暗示任何判断。 我们发布这些通知和请求只是提供信息。
 
-[](#transparency-reporting)透明度报告
+[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)透明度报告
 ----------
 
 除了在我们的 gov-takedowns 仓库中发布政府删除通知外，我们的透明度报告中也会报告这些通知。 我们还会在透明度报告中跟踪并报告基于违反 GitHub 服务条款的政府删除。 我们处理这些违规就像处理任何其他人报告的服务条款违规一样。

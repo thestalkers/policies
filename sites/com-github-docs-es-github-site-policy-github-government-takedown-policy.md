@@ -22,7 +22,7 @@ Política de retiro gubernamental de GitHub
 
 * [¿Qué significa que publiquemos una notificación en nuestro repositorio de retiro del gobierno?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [Reportes de transparencia](#transparency-reporting)
+* [Reportes de transparencia](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 [](#what-is-this)¿Qué es esto?
 ----------
@@ -58,7 +58,7 @@ Nos preocupa la censura de Internet y creemos que la transparencia a un nivel es
 
 Significa que recibimos la notificación en la fecha indicada. *No* significa que el contenido es ilegal o sea incorrecto. *No* significa que el usuario identificado en la notificación haya hecho algo incorrecto. No hacemos ni implicamos ningún juicio sobre el mérito de las reclamaciones que hacen. Publicamos estas notificaciones y solicitudes sólo para propósitos informativos.
 
-[](#transparency-reporting)Reportes de transparencia
+[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)Reportes de transparencia
 ----------
 
 Además de publicar notificaciones de retiro del gobierno en nuestro repositorio de retiros del gobierno, las informamos en nuestro reporte de transparencia. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub. Procesamos dichas violaciones como procesaríamos una violación de los Términos de Servicio denunciada por cualquier otro.

@@ -22,7 +22,7 @@ GitHub の行政機関による削除に関するポリシー
 
 * [gov-takedowns リポジトリに通知を投稿することの意味](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [透明性レポート](#transparency-reporting)
+* [透明性レポート](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 [](#what-is-this)この項目についての説明
 ----------
@@ -58,7 +58,7 @@ GitHub の行政機関による削除に関するポリシー
 
 リポジトリに通知を投稿することは、そこに示されたデータについての通知を当社が受け取ったことを意味します。 これは、コンテンツが違法であるとか誤っているということを意味*しません*。 また、通知に示されたユーザが何か誤った行為を行ったということも意味*しません*。 当社は、削除を要請する当局による主張の正しさについて、いかなる判断をも下さず、またそれを暗示することもしません。 当社はこれらの通知や要請を、情報提供のみを目的として投稿しています。
 
-[](#transparency-reporting)透明性レポート
+[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)透明性レポート
 ----------
 
 行政機関による削除要請の通知を gov-takedowns に投稿することに加え、当社はそれらを透明性レポートにおいて報告しています。 また、当社は GitHub 利用規約の侵害に基づいた行政機関による削除要請を、透明性レポートにおいて追跡・報告しています。 当社は、利用規約の侵害について、他の人々からの利用規約侵害についての報告と同様に対処します。
