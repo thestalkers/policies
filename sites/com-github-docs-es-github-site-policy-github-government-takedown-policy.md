@@ -22,7 +22,9 @@ Política de retiro gubernamental de GitHub
 
 * [¿Qué significa que publiquemos una notificación en nuestro repositorio de retiro del gobierno?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [Reportes de transparencia](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+* [Government takedowns based on violations of GitHub's Terms of Service](#)
+
+* [Reportes de transparencia](#transparency-reporting)
 
 [](#what-is-this)¿Qué es esto?
 ----------
@@ -58,7 +60,12 @@ Nos preocupa la censura de Internet y creemos que la transparencia a un nivel es
 
 Significa que recibimos la notificación en la fecha indicada. *No* significa que el contenido es ilegal o sea incorrecto. *No* significa que el usuario identificado en la notificación haya hecho algo incorrecto. No hacemos ni implicamos ningún juicio sobre el mérito de las reclamaciones que hacen. Publicamos estas notificaciones y solicitudes sólo para propósitos informativos.
 
-[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)Reportes de transparencia
+[](#)Government takedowns based on violations of GitHub's Terms of Service
 ----------
 
-Además de publicar notificaciones de retiro del gobierno en nuestro repositorio de retiros del gobierno, las informamos en nuestro reporte de transparencia. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub. Procesamos dichas violaciones como procesaríamos una violación de los Términos de Servicio denunciada por cualquier otro.
+In some cases, GitHub receives reports from government officials of violations of GitHub's Terms of Service. We process those violations as we would process a Terms-of-Service violation reported by anyone else. However, we notify the affected users that the report came from a government and, as with any other case, allow them the opportunity to appeal.
+
+[](#transparency-reporting)Reportes de transparencia
+----------
+
+In addition to posting government takedown notices in our `github/gov-takedowns` repository, we report on them in our transparency report. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub.
