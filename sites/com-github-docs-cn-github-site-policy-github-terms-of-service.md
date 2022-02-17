@@ -159,7 +159,7 @@ GitHub 服务条款
 
 ### [](#2-github-may-remove-content)2. GitHub 可删除内容 ###
 
-我们有权删除我们认为违反了任何法律或 [GitHub 条款或政策](/cn/github/site-policy)的用户生成内容。 User-Generated Content displayed on GitHub Mobile may be subject to mobile app stores' additional terms.
+我们有权删除我们认为违反了任何法律或 [GitHub 条款或政策](/cn/github/site-policy)的用户生成内容。 GitHub Mobile 上显示的用户生成内容可能受移动应用商店附加条款的约束。
 
 ### [](#3-ownership-of-content-right-to-post-and-license-grants)3. 内容所有权、发布权利和许可授予 ###
 
