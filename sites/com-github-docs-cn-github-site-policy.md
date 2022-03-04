@@ -21,7 +21,7 @@
 
 * [GitHub 赞助附加条款](/cn/github/site-policy/github-sponsors-additional-terms)
 
-* [GitHub Codespaces Privacy Statement](/cn/github/site-policy/github-codespaces-privacy-statement)
+* [GitHub Codespaces 隐私声明](/cn/github/site-policy/github-codespaces-privacy-statement)
 
 * [GitHub 其他产品和功能条款](/cn/github/site-policy/github-terms-for-additional-products-and-features)
 
