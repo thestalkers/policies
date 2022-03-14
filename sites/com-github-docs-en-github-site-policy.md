@@ -51,6 +51,8 @@ Site policy
 
 * [GitHub Acceptable Use Policies](/en/github/site-policy/github-acceptable-use-policies)
 
+* [GitHub Appeal and Reinstatement](/en/github/site-policy/github-appeal-and-reinstatement)
+
 * [GitHub's Notice about the California Consumer Privacy Act](/en/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
 
 * [GitHub Community Guidelines](/en/github/site-policy/github-community-guidelines)
