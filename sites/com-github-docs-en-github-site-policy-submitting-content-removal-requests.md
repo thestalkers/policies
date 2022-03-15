@@ -7,7 +7,7 @@ Submitting content removal requests - GitHub Docs
 Submitting content removal requests
 ==========
 
-[In this article](/github/site-policy/submitting-content-removal-requests#in-this-article)
+[In this article](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
 ----------
 
 * [](#dmca-takedown-policy)[DMCA Takedown Policy](/en/articles/dmca-takedown-policy)

@@ -7,7 +7,7 @@ GitHub Event Terms - GitHub Docs
 GitHub Event Terms
 ==========
 
-[In this article](/github/site-policy/github-event-terms#in-this-article)
+[In this article](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
 * [1. Basic requirements to attend - including the](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)[Event Code of Conduct](/en/articles/github-event-code-of-conduct)

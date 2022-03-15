@@ -7,7 +7,7 @@ GitHub Research Program Terms - GitHub Docs
 GitHub Research Program Terms
 ==========
 
-[In this article](/github/site-policy/github-research-program-terms#in-this-article)
+[In this article](/site-policy/github-terms/github-research-program-terms#in-this-article)
 ----------
 
 * [A. Your Feedback](#a-your-feedback)

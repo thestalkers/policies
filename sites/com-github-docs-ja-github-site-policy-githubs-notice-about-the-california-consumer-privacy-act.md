@@ -1,15 +1,15 @@
-カリフォルニア州消費者プライバシー法に関するGitHubからの通知 - GitHub Docs
+カリフォルニア州消費者プライバシー法に関するGitHubの通知 - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
-カリフォルニア州消費者プライバシー法に関するGitHubからの通知
+カリフォルニア州消費者プライバシー法に関するGitHubの通知
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
+[ここには以下の内容があります:](/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
 ----------
 
 * [カリフォルニア州住民に対するGitHubからの通知](#githubs-notice-to-california-residents)
@@ -49,7 +49,7 @@ GitHubは、16歳未満の方を含め、一切の個人情報を販売*いた�
 [](#your-rights-under-the-ccpa)CCPAに基づくあなたの権利
 ----------
 
-CCPAは、カリフォルニア州住民に、個人情報に関する特定の権利を付与します。 To submit a request based on these rights, please contact us via our [contact form](https://support.github.com/contact?tags=docs-policy).
+CCPAは、カリフォルニア州住民に、個人情報に関する特定の権利を付与します。 この権利に基づく請求を提出するには、[連絡フォーム](https://support.github.com/contact?tags=docs-policy)からご連絡ください。
 
 請求を受領した際、当社はリクエストを行った方が、個人情報の請求対象に関係する住民であるかどうかを検証します。 カリフォルニア州住民は、個人情報の処理に関する特定の情報を開示したり、個人情報を削除したりするため、自ら権利を行使するか、委任代理人を使用して権利行使の請求を行うことができます。 委任代理人を使用して請求を行う場合、当社は代理人があなたに代わって行動していることを証明する追加情報を求めることがあります。
 

@@ -4,12 +4,12 @@ Declaración de Privacidad de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Declaración de Privacidad de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-privacy-statement#in-this-article)
+[En este artículo](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
 * [La versión corta](#the-short-version)
@@ -50,7 +50,7 @@ Declaración de Privacidad de GitHub
 
 * [Contactarse con GitHub](#contacting-github)
 
-* [Traducciones](#translations)
+* [Translations](#translations)
 
 Fecha de entrada en vigor: 19 de diciembre de 2020
 
@@ -85,7 +85,7 @@ Por supuesto, la versión corta y el Resumen que aparecen a continuación no inf
 |                        [Cambios en tu Declaración de privacidad](#changes-to-our-privacy-statement)                        |                                                                                                                                                     Te notificamos los cambios importantes en esta Declaración de privacidad 30 días antes de que cualquier cambio entre en vigencia. Puedes rastrear los cambios en nuestro repositorio de Políticas del sitio.                                                                                                                                                      |
 |                                                    [Licencia](#license)                                                    |                                                                                                                                                                                  La presente Declaración de privacidad está autorizada por la [licencia Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/).                                                                                                                                                                                   |
 |                                        [Contactarse con GitHub](#contacting-github)                                        |                                                                                                                                                                                                            Siéntete libre de contactarnos si tienes preguntas acerca de nuestra Declaración de privacidad.                                                                                                                                                                                                            |
-|                                               [Traducciones](#translations)                                                |                                                                                                                                                                                                                    Proporcionamos enlaces a algunas traducciones de la Declaración de privacidad.                                                                                                                                                                                                                     |
+|                                               [Translations](#translations)                                                |                                                                                                                                                                                                                    Proporcionamos enlaces a algunas traducciones de la Declaración de privacidad.                                                                                                                                                                                                                     |
 
 [](#github-privacy-statement)Declaración de Privacidad de GitHub
 ----------
@@ -393,7 +393,7 @@ En el improbable caso de que surja una disputa entre tú y GitHub con respecto a
 [](#changes-to-our-privacy-statement)Cambios en tu Declaración de privacidad
 ----------
 
-Aunque es probable que la mayoría de los cambios sean mínimos, GitHub puede cambiar nuestra Declaración de privacidad de manera ocasional. Les notificaremos a los Usuarios acerca de los cambios materiales a esta Declaración de privacidad por medio de nuestro Sitio web, al menos, 30 días antes de que el cambio entre en vigencia a través de la publicación de un aviso en nuestra página de inicio o enviando un correo electrónico a la dirección principal de correo electrónico que se especifica en tu cuenta de GitHub. También actualizaremos nuestro [Repositorio de políticas del sitio](https://github.com/github/site-policy/), que realiza un seguimiento de todos los cambios de esta política. Para otros cambios en esta declaración de privacidad, invitamos a los usuarios a [consultar](/es/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) o a revisar el repositorio de nuestra política del sitio con frecuencia.
+Aunque es probable que la mayoría de los cambios sean mínimos, GitHub puede cambiar nuestra Declaración de privacidad de manera ocasional. Les notificaremos a los Usuarios acerca de los cambios materiales a esta Declaración de privacidad por medio de nuestro Sitio web, al menos, 30 días antes de que el cambio entre en vigencia a través de la publicación de un aviso en nuestra página de inicio o enviando un correo electrónico a la dirección principal de correo electrónico que se especifica en tu cuenta de GitHub. También actualizaremos nuestro [Repositorio de políticas del sitio](https://github.com/github/site-policy/), que realiza un seguimiento de todos los cambios de esta política. For other changes to this Privacy Statement, we encourage Users to [watch](/es/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) or to check our Site Policy repository frequently.
 
 [](#license)Licencia
 ----------
@@ -405,14 +405,14 @@ La presente Declaración de privacidad está autorizada conforme a esta [licenci
 
 Las preguntas al respecto de la Declaración de privacidad de GitHub o de las prácticas de manejo de la información se deben realizar por medio de nuestro [Formulario de contacto de privacidad](https://support.github.com/contact/privacy).
 
-[](#translations)Traducciones
+[](#translations)Translations
 ----------
 
 A continuación, aparecen traducciones de este documento a otros idiomas. En caso de cualquier conflicto, incertidumbre o aparente inconsistencia entre cualquiera de esas versiones y la versión en inglés, la versión en inglés es la versión que prima.
 
 ### [](#french)Francés ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(12.20.19)(FR).pdf)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
 ### [](#other-translations)Otras traducciones ###
 

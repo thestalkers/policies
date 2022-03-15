@@ -4,12 +4,12 @@
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 現代版奴隷法と児童労働に関するGitHubの声明
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-statement-against-modern-slavery-and-child-labor#in-this-article)
+[ここには以下の内容があります:](/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor#in-this-article)
 ----------
 
 * [GitHubの組織、事業、およびサプライチェーン](#githubs-structure-business-and-supply-chains)
@@ -66,7 +66,7 @@ GitHubのサプライチェーンは、コンピューティングサービス�
 
 **GitHubの行動規範**では、現代の奴隷制 (奴隷制、強制または意思に反した労働、人身売買、隷属、および拘禁、年季奉公、拘束された労働者) や児童労働を故意に使用、関与、支援、または容認することを含む、危険行為および違法行為を禁じています。
 
-GitHubは、[「米国連邦調達規則」22.17の人身売買との闘い](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf)を含め、事業を行う管轄区域における、人身売買および児童労働を禁止する法律を遵守しています。
+GitHub complies with laws prohibiting trafficking and child labor in the jurisdictions in which it operates, including [U.S. Federal Acquisition Regulation 22.17 on combatting human trafficking](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf).
 
 さらに、GitHubはFairHotel Programと提携しています。これは、GitHubが従業員に対して、FairHotelが支持する、公正な給料、十分な福利厚生、従業員の声が職場に反映されるホテルを選ぶよう奨励していることを意味します。 また、FairHotelと提携していることは、公正な雇用者として、GitHubがホテルに仕事を提供していることも意味します。
 

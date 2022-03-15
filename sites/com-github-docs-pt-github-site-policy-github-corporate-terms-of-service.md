@@ -4,12 +4,12 @@ Termos de Serviço Corporativos do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Termos de Serviço Corporativos do GitHub
 ==========
 
-[Neste artigo](/github/site-policy/github-corporate-terms-of-service#in-this-article)
+[Neste artigo](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
 * [Termos de Serviço Corporativos do GitHub](#github-corporate-terms-of-service)
@@ -22,7 +22,7 @@ Termos de Serviço Corporativos do GitHub
 
 * [D. Responsabilidade pelo conteúdo; Propriedade; Direitos de licença](#d-content-responsibility-ownership-license-rights)
 
-* [E. Repositórios privados](#e-private-repositories)
+* [E. Private Repositories](#e-private-repositories)
 
 * [F. Avisos de Propriedade Intelectual](#f-intellectual-property-notice)
 
@@ -32,7 +32,7 @@ Termos de Serviço Corporativos do GitHub
 
 * [I. Afiliados](#i-affiliates)
 
-* [J. Pagamento](#j-payment)
+* [J. Payment](#j-payment)
 
 * [K. Termo; Rescisão; Suspensão](#k-term-termination-suspension)
 
@@ -52,7 +52,7 @@ Termos de Serviço Corporativos do GitHub
 
 * [S. Suporte](#s-support)
 
-* [T. Disposições Gerais](#t-miscellaneous)
+* [T. Miscellaneous](#t-miscellaneous)
 
 *Estes termos aplicam-se 1) aos clientes do GitHub.com (não corporativos) que aceitaram os Termos de Serviço Corporativos e 2) aos Clientes Corporativos que licenciaram o Serviço antes de 4 de janeiro de 2021 de janeiro. Os clientes corporativos que compram produtos ou serviços após essa data são direcionados para <https://github.com/enterprise-legal> por termos atuais.*
 
@@ -87,45 +87,45 @@ Este Contrato aplica-se às seguintes ofertas do GitHub, conforme definido a seg
 
 **"Conteúdo"** significa, sem limitação, código, texto, dados, artigos, imagens, pacotes, fotografias, gráficos, softwares, aplicativos, designs, recursos e outros materiais que são apresentados, exibidos ou disponibilizados por meio do Serviço.
 
-**"Conta corporativa"** significa uma conta criada por um Usuário em nome de uma entidade.
+**"Corporate Account"** means an account created by a User on behalf of an entity.
 
 **"Cliente"** significa a empresa ou organização que entrou neste Contrato com o GitHub, clicando no botão "EU CONCORDO" ou semelhante ou acessando os Produtos.
 
-**"Conteúdo do cliente"** significa Conteúdo que o cliente cria, possui ou para o qual o cliente detém os direitos.
+**"Customer Content"** means Content that Customer creates, owns, or to which Customer holds the rights.
 
 **"Documentação"** significa qualquer manual, documentação e outros materiais de suporte relacionados aos Produtos que o GitHub fornece ou disponibiliza ao Cliente.
 
 **"Entrada em vigor"** é a data em que o Cliente (i) clica em "Eu concordo" com os termos e condições deste Contrato, ou (ii) faz um pedido pela primeira vez nos Produtos.
 
-**"Usuário externo"** significa um indivíduo, com exceção de Usuários do Cliente, que visitam ou usam o Serviço.
+**"External User"** means an individual, not including Customer’s Users, who visit or use the Service.
 
-**"Feedback"** significa ideias, conhecimento, algoritmos, contribuições de código, sugestões, solicitações de aprimoramento, recomendações ou qualquer outro feedback sobre produtos ou serviços do GitHub.
+**"Feedback"** means any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback on GitHub products or services.
 
 **"Taxas"** significa as taxas que o Cliente deve pagar ao GitHub para (i) usar os Produtos durante o Termo aplicável ou (ii) receber Serviços Profissionais, pois essas taxas estão refletidas em um Formulário de Pedido ou Declaração de Trabalho (SOW).
 
-**"Bifurcação"** significa copiar o Conteúdo de um repositório para outro.
+**“Fork”** means to copy the Content of one repository into another repository.
 
 **"GitHub"** significa GitHub, Inc., suas Afiliadas e seus Representantes.
 
-**"Conteúdo do GitHub"** significa Conteúdo que o GitHub cria, possui ou para o qual detém os direitos.
+**"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
-**"Conta de máquina"** significa uma conta registrada por um indivíduo que aceita os termos de serviço aplicáveis em nome da Conta da máquina, fornece um endereço de e-mail válido e é responsável por suas ações. Uma Conta de máquina é usada exclusivamente para executar tarefas automatizadas. Vários Usuários podem direcionar as ações de uma Conta de máquina, mas o proprietário da conta é o responsável final pelas ações da máquina.
+**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. Uma Conta de máquina é usada exclusivamente para executar tarefas automatizadas. Vários Usuários podem direcionar as ações de uma Conta de máquina, mas o proprietário da conta é o responsável final pelas ações da máquina.
 
 **"Formulário de Pedido"** significa documentação escrita ou eletrônica (inclusive cotação) que as Partes utilizam para encomendar os Produtos.
 
-**“Organização”** significa um espaço de trabalho compartilhado que pode estar associado a uma única entidade ou a um ou mais Usuários em que vários Usuários podem colaborar em vários projetos de uma só vez. Um Usuário pode ser integrante de mais de uma Organização.
+**“Organization”** means a shared workspace that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. Um Usuário pode ser integrante de mais de uma Organização.
 
-**"Repositório privado"** significa um repositório que permite que um Usuário controle o acesso ao Conteúdo.
+**“Private Repository”** means a repository which allows a User to control access to Content.
 
 **"Serviços Profissionais"** significa serviços de implementação, consultoria ou treinamento que o GitHub fornece ao Cliente de acordo com uma Declaração de Trabalho (SOW) executada mutuamente. Os Serviços profissionais não incluem Suporte.
 
-**"Créditos de serviços profissionais"** significa o método de pagamento adiantado para a compra de Serviços profissionais (exclusivos para despesas de viagem e hospedagem) que o cliente pode usar durante um período de 12 (doze) meses (salvo indicação em contrário em um Formulário de pedido) para Serviços profissionais. Os Créditos de serviços profissionais que não forem utilizados ao final de 12 (doze) meses a partir da data da compra (ou conforme indicado em um Formulário de pedido) são não reembolsáveis e serão automaticamente cancelados.
+**"Professional Services Credits"** means the upfront payment method for purchasing Professional Services (exclusive of travel and lodging expenses) that Customer may use over a period of twelve (12) months (unless otherwise stated in an Order Form) for Professional Services. Os Créditos de serviços profissionais que não forem utilizados ao final de 12 (doze) meses a partir da data da compra (ou conforme indicado em um Formulário de pedido) são não reembolsáveis e serão automaticamente cancelados.
 
-**"Repositório público"** significa um repositório cujo Conteúdo é visível para Todos os usuários.
+**“Public Repository”** means a repository whose Content is visible to All Users.
 
 **"Representantes"** significa funcionários, dirigentes, agentes, contratados independentes, consultores, advogados e consultores financeiros da Parte.
 
-**"Scraping"** (raspagem) significa extrair dados do Serviço por meio de um processo automatizado, como um bot ou rastreador web (webcrawler), e não inclui a coleta de informações por meio da API do GitHub.
+**“Scraping”** means extracting data from the Service via an automated process, such as a bot or webcrawler, and does not include the collection of information through GitHub's API.
 
 **"Serviço"** significa o serviço hospedado pelo GitHub e qualquer Documentação aplicável.
 
@@ -137,14 +137,14 @@ Este Contrato aplica-se às seguintes ofertas do GitHub, conforme definido a seg
 
 **"Usuário"** significa uma Conta individual ou de Máquina que (a) acessa ou usa o Serviço, (b) acessa ou usa qualquer parte da conta do Cliente; ou (c) direciona o uso da conta do Cliente no desempenho das funções, em cada caso em nome do Cliente. O número de Usuários não deve exceder o número de Licenças de assinatura que o Cliente adquiriu.
 
-**"Conteúdo gerado pelo usuário"** significa conteúdo criado ou pertencente a um terceiro ou Usuário externo.
+**“User-Generated Content”** means Content created or owned by a third party or External User.
 
 [](#b-account-terms)B. Termos da conta
 ----------
 
 ### [](#1-account-controls)1. Controles da conta. ###
 
-* *Usuários.* O cliente reconhece que os Usuários mantêm o controle administrativo definitivo sobre suas contas individuais e o Conteúdo dentro delas. [Termos de Serviço Padrão do GitHub](/pt/articles/github-terms-of-service) rege o uso do Serviço pelos Usuários, exceto no que diz respeito às atividades dos Usuários, sob esta Seção B.
+* *Usuários.* O cliente reconhece que os Usuários mantêm o controle administrativo definitivo sobre suas contas individuais e o Conteúdo dentro delas. [GitHub's Standard Terms of Service](/pt/articles/github-terms-of-service) govern Users' use of the Service, except with respect to Users' activities under this Section B.
 
 * *(ii) Organizações.* O Cliente mantém o controle administrativo definitivo sobre qualquer Organização criada em nome do Cliente e qualquer Conteúdo Gerado pelo Usuário que seja postado nos repositórios dentro de sua(s) Organização(ões), sujeitos a esta Seção B. Esta Seção B regerá o uso da(s) Organização(ões) do Cliente.
 
@@ -156,7 +156,7 @@ Para criar uma conta, o Cliente deve atender às seguintes condições:
 
 * O login de um Usuário não pode ser compartilhado por várias pessoas.
 
-* O cliente não deve utilizar os Produtos (a) em violação do controle das exportações ou da legislação sancionatória dos Estados Unidos ou de qualquer outra jurisdição aplicável; (b) se estiver localizado ou normalmente domiciliado em país ou território sujeito a sanções abrangentes administradas pelo governo dos EUA. O Escritório e Controle de Ativos Estrangeiros (OFAC); ou (c) se estiver trabalhando em nome de uma [Nacional Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) ou de pessoa sujeita a bloqueios semelhantes ou proibições de partes negadas. Para obter mais informações, por favor veja nossa [política de Controles de Exportação](/pt/articles/github-and-export-controls).
+* O cliente não deve utilizar os Produtos (a) em violação do controle das exportações ou da legislação sancionatória dos Estados Unidos ou de qualquer outra jurisdição aplicável; (b) se estiver localizado ou normalmente domiciliado em país ou território sujeito a sanções abrangentes administradas pelo governo dos EUA. O Escritório e Controle de Ativos Estrangeiros (OFAC); ou (c) se estiver trabalhando em nome de uma [Nacional Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) ou de pessoa sujeita a bloqueios semelhantes ou proibições de partes negadas. For more information, please see our [Export Controls policy](/pt/articles/github-and-export-controls).
 
 ### [](#3-account-security)3. Segurança da conta ###
 
@@ -181,9 +181,9 @@ O compromisso trimestral de tempo de atividade do GitHub para o GitHub Enterpris
 
 O uso dos Produtos pelo Cliente não deve violar quaisquer leis aplicáveis, inclusive leis de direitos autorais ou de marcas registradas, leis de controle de exportação ou regulamentos em sua jurisdição.
 
-### [](#2-acceptable-use)2. Uso Aceitável ###
+### [](#2-acceptable-use)2. Acceptable Use ###
 
-O uso do Serviço pelo Cliente deve estar em conformidade com a [Política de Uso Aceitável do GitHub](/pt/articles/github-acceptable-use-policies) e as [Diretrizes da Comunidade do GitHub](/pt/articles/github-community-guidelines). O Cliente não deve usar o Serviço em qualquer jurisdição para atividade ou Conteúdo ilegal, obsceno, ofensivo ou fraudulento, como defender ou causar danos, interferir ou violar a integridade ou a segurança de uma rede ou um sistema, enganar os filtros, enviar vírus ou código nocivo e mensagens não solicitadas, abusivas ou enganosas ou violar direitos de terceiros.
+Customer’s use of the Service must comply with [GitHub's Acceptable Use Policies](/pt/articles/github-acceptable-use-policies) and [GitHub’s Community Guidelines](/pt/articles/github-community-guidelines). O Cliente não deve usar o Serviço em qualquer jurisdição para atividade ou Conteúdo ilegal, obsceno, ofensivo ou fraudulento, como defender ou causar danos, interferir ou violar a integridade ou a segurança de uma rede ou um sistema, enganar os filtros, enviar vírus ou código nocivo e mensagens não solicitadas, abusivas ou enganosas ou violar direitos de terceiros.
 
 ### [](#3-privacy)3. Privacidade ###
 
@@ -206,7 +206,7 @@ Cliente concede ao GitHub o direito de armazenar, arquivar, analisar e exibir Co
 
 ### [](#4-license-grant-to-external-users)4. Concessão de licença a usuários externos ###
 
-Qualquer Conteúdo que o Cliente posta publicamente, como problemas, comentários e contribuições a repositórios de Usuários Externos, pode ser visualizado por outras pessoas. Ao definir quais repositórios serão visualizados publicamente, o Cliente concorda em permitir que Usuários externos visualizem e bifurquem os repositórios do Cliente. Se o Cliente define páginas e repositórios para serem visualizados publicamente, ele concede a Usuários Externos uma licença mundial e não exclusiva para usar, exibir e executar o Conteúdo do Cliente por meio do Serviço e reproduzi-lo exclusivamente no Serviço conforme permitido através da funcionalidade fornecida pelo GitHub (por exemplo, através de Bifurcação). O Cliente pode conceder mais direitos ao Conteúdo do Cliente se o Cliente adotar uma licença. Se o cliente estiver fazendo upload de um Conteúdo do cliente que ele não criou nem possuiu, será responsável por garantir que o Conteúdo do cliente carregado seja licenciado sob os termos que concedem essas permissões a Usuários externos
+Qualquer Conteúdo que o Cliente posta publicamente, como problemas, comentários e contribuições a repositórios de Usuários Externos, pode ser visualizado por outras pessoas. Ao definir quais repositórios serão visualizados publicamente, o Cliente concorda em permitir que Usuários externos visualizem e bifurquem os repositórios do Cliente. Se o Cliente define páginas e repositórios para serem visualizados publicamente, ele concede a Usuários Externos uma licença mundial e não exclusiva para usar, exibir e executar o Conteúdo do Cliente por meio do Serviço e reproduzi-lo exclusivamente no Serviço conforme permitido através da funcionalidade fornecida pelo GitHub (por exemplo, através de Bifurcação). O Cliente pode conceder mais direitos ao Conteúdo do Cliente se o Cliente adotar uma licença. If Customer is uploading Customer Content that it did not create or own, Customer is responsible for ensuring that the Customer Content it uploads is licensed under terms that grant these permissions to External Users
 
 ### [](#5-contributions-under-repository-license)5. Contribuições na licença de repositório ###
 
@@ -216,7 +216,7 @@ Sempre que o Cliente adiciona Conteúdo a um repositório que contém notificaç
 
 O Cliente detém todos os direitos morais ao Conteúdo do cliente que ele carrega, publica ou envia para qualquer parte do Serviço, inclusive os direitos de integridade e atribuição. No entanto, o Cliente renuncia a esses direitos e concorda em não fazê-los valer contra o GitHub somente no intuito de permitir que o GitHub exerça razoavelmente os direitos concedidos na Seção D, mas não de outra forma.
 
-[](#e-private-repositories)E. Repositórios privados
+[](#e-private-repositories)E. Private Repositories
 ----------
 
 ### [](#1-control)1. Controle ###
@@ -275,7 +275,7 @@ As Licenças de assinatura são concedidas por Usuário, e vários Usuários nã
 
 Os Afiliados do Cliente estão autorizados a utilizar os Produtos de acordo com este Contrato, desde que o Cliente permaneça plenamente responsável pelo acesso deles e pela utilização dos Produtos.
 
-[](#j-payment)J. Pagamento
+[](#j-payment)J. Payment
 ----------
 
 ### [](#1-pricing-fees)1. Preços; Taxas ###
@@ -347,7 +347,7 @@ Comunicações feitas por e-mail ou sistema de mensagens do suporte GitHub não 
 
 *Isenção de Serviço.* O GitHub fornece o Serviço **"COMO ESTÁ"** e **"CONFORME DISPONÍVEL"** sem qualquer tipo de garantia. Sem limitar isso, o GitHub se isenta expressamente de todas as garantias (expressas, implícitas ou estatutárias), relativas ao Serviço, incluindo, sem limitação, qualquer garantia de comercialização, adequação a uma finalidade específica, título, segurança, precisão e não violação. O GitHub não garante que o Serviço atenderá aos requisitos do Cliente; que o Serviço será ininterrupto, pontual, seguro ou isento de erros; que qualquer defeito ou erro será corrigido; que o Serviço estará disponível em um momento ou local específico; que as informações fornecidas por meio do Serviço sejam exatas, confiáveis ou corretas; ou que o serviço esteja isento de vírus ou outros componentes nocivos. O GitHub não será responsável por qualquer risco de perda resultante do download do Cliente e/ou do uso de arquivos, informações, conteúdo ou outro material obtido com o Serviço.
 
-*Isenção de Visualizações Beta.* O Cliente pode optar por usar Visualizações Beta a seu exclusivo critério. As Visualizações Beta podem não ser compatíveis, podem ser alteradas a qualquer momento sem aviso prévio e podem não ser tão confiáveis ou disponíveis como o Serviço. As Visualizações Beta não estão sujeitas às mesmas medidas de segurança e auditoria a que o Serviço esteve e está sujeito. O GitHub não terá nenhuma responsabilidade decorrentes das Visualizações Beta ou relacionadas a elas. **O Cliente usa Visualizações Beta por sua própria conta e risco.**
+*Isenção de Visualizações Beta.* O Cliente pode optar por usar Visualizações Beta a seu exclusivo critério. As Visualizações Beta podem não ser compatíveis, podem ser alteradas a qualquer momento sem aviso prévio e podem não ser tão confiáveis ou disponíveis como o Serviço. As Visualizações Beta não estão sujeitas às mesmas medidas de segurança e auditoria a que o Serviço esteve e está sujeito. O GitHub não terá nenhuma responsabilidade decorrentes das Visualizações Beta ou relacionadas a elas. **Customer uses Beta Previews at its own risk.**
 
 [](#n-limitations-of-liability)N. Limitações de responsabilidade
 ----------
@@ -397,7 +397,7 @@ O GitHub altera o Serviço através de Atualizações e adição de novos recurs
 
 O GitHub fornecerá suporte técnico padrão para o Serviço sem cobrança adicional, vinte e quatro (24) horas por dia, cinco (5) dias por semana, excluindo fins de semana e feriados americanos. feriados. O Suporte padrão só é oferecido por meio de tíquetes na Web pelo Suporte do GitHub, e as solicitações de Suporte devem ser iniciadas a partir de um Usuário com o qual a equipe de Suporte do GitHub possa interagir. O GitHub pode oferecer Suporte premium (sujeito aos termos do [Suporte Premium para Enterprise Cloud](/pt/articles/about-github-premium-support) ) ou Suporte técnico dedicado para o Serviço no nível de Suporte, Taxas e Termos de Assinatura especificados em um Formulário de Pedido ou SOW.
 
-[](#t-miscellaneous)T. Disposições Gerais
+[](#t-miscellaneous)T. Miscellaneous
 ----------
 
 ### [](#1-governing-law)1. Lei Governamental ###
@@ -432,7 +432,7 @@ Se o Cliente exibir publicamente o nome de sua empresa ou organização em sua c
 
 O GitHub será dispensado da responsabilidade quando não for possível cumprir qualquer obrigação deste Contrato devido a causas extraordinárias além do controle razoável, como fenômenos da natureza, desastres naturais, greves, bloqueios, tumultos, atos de guerra, epidemias ou falhas de energia, telecomunicações ou rede.
 
-### [](#9-independent-contractors)9. Contratados Independentes ###
+### [](#9-independent-contractors)9. Independent Contractors ###
 
 Cada Parte é um contratado independente no que diz respeito ao objeto deste Contrato. Nada do presente Contrato será considerado ou interpretado de forma a criar uma associação jurídica, parceria, joint venture, emprego, agência, relação fiduciária ou qualquer outra semelhante entre as Partes, e nenhuma Parte poderá vincular a outra contratualmente.
 

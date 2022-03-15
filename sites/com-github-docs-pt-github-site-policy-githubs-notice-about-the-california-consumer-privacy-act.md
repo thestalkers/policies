@@ -4,12 +4,12 @@ Aviso do GitHub sobre a Lei de Privacidade do Consumidor da Califórnia - GitHub
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Aviso do GitHub sobre a Lei de Privacidade do Consumidor da Califórnia
 ==========
 
-[Neste artigo](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
+[Neste artigo](/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
 ----------
 
 * [Aviso do GitHub aos Residentes da Califórnia](#githubs-notice-to-california-residents)

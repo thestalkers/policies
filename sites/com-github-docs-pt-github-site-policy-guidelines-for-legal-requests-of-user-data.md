@@ -4,12 +4,12 @@ Diretrizes para solicitações legais de dados do usuário - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Diretrizes para solicitações legais de dados do usuário
 ==========
 
-[Neste artigo](/github/site-policy/guidelines-for-legal-requests-of-user-data#in-this-article)
+[Neste artigo](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
 * [Sobre estas diretrizes](#about-these-guidelines)

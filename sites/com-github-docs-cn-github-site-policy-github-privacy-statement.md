@@ -4,12 +4,12 @@ GitHub 隐私声明 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 GitHub 隐私声明
 ==========
 
-[本文内容](/github/site-policy/github-privacy-statement#in-this-article)
+[本文内容](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
 * [精简版](#the-short-version)
@@ -310,7 +310,7 @@ GitHub 仅使用绝对必要的 Cookie。 Cookie 是网站通常存储在访客�
 
 使用我们的服务，即表示您同意我们将这些类型的 cookie 放在您的计算机或设备上。 如果您禁止浏览器或设备接受这些 cookie，则将无法登录或使用我们的服务。
 
-我们提供了一个有关 [cookie 和跟踪技术](/cn/github/site-policy/github-subprocessors-and-cookies)的网页，介绍我们设置的 cookie、对这些 cookie 的需求以及它们的类型（临时或永久）。
+We provide more information about [cookies on GitHub](/cn/github/site-policy/github-subprocessors-and-cookies#cookies-on-github) on our [GitHub Subprocessors and Cookies](/cn/github/site-policy/github-subprocessors-and-cookies) page that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies.
 
 ### [](#dnt)DNT ###
 
@@ -393,7 +393,7 @@ GitHub 处理美国境内外的个人信息，并依靠标准合同条款作为�
 [](#changes-to-our-privacy-statement)隐私声明的变更
 ----------
 
-GitHub 可能会不时更改我们的隐私声明，不过大多数情况都是小变动。 如果本隐私声明发生重大变更，我们会在变更生效之前至少 30 天通知用户 - 在我们网站的主页上发布通知，或者发送电子邮件到您的 GitHub 帐户中指定的主电子邮件地址。 我们还会更新我们的[站点政策仓库](https://github.com/github/site-policy/)，通过它可跟踪本政策的所有变更。 对于本隐私声明的其他更改，我们建议用户[关注](/cn/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)或经常查看我们的网站政策仓库。
+GitHub 可能会不时更改我们的隐私声明，不过大多数情况都是小变动。 如果本隐私声明发生重大变更，我们会在变更生效之前至少 30 天通知用户 - 在我们网站的主页上发布通知，或者发送电子邮件到您的 GitHub 帐户中指定的主电子邮件地址。 我们还会更新我们的[站点政策仓库](https://github.com/github/site-policy/)，通过它可跟踪本政策的所有变更。 For other changes to this Privacy Statement, we encourage Users to [watch](/cn/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) or to check our Site Policy repository frequently.
 
 [](#license)许可
 ----------
@@ -412,7 +412,7 @@ GitHub 可能会不时更改我们的隐私声明，不过大多数情况都是�
 
 ### [](#french)法语 ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(12.20.19)(FR).pdf)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
 ### [](#other-translations)其他翻译版本： ###
 

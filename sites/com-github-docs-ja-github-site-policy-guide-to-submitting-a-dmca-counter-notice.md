@@ -4,12 +4,12 @@ DMCAカウンター通知の提出ガイド - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 DMCAカウンター通知の提出ガイド
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+[ここには以下の内容があります:](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
 * [はじめる前に](#before-you-start)
@@ -27,7 +27,7 @@ GitHub のあなたのコンテンツが DMCA テイクダウンリクエスト�
 [](#before-you-start)はじめる前に
 ----------
 
- ***真実を教えてください。***DMCA では、宣誓を行い、虚偽の申し立てを行った場合には*偽証罪によって罰せられるという条件で*異議申し立て通知を行うことを義務付けています。 宣誓宣言で意図的に虚偽の陳述を行うと連邦犯罪になります。 （[合衆国法典、タイトル 18、セクション 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm) \*を参照してください。 ）虚偽の情報を提出すると、民事責任が発生する可能性もあります。 つまり、金銭的損害で訴えられる可能性があります。
+ ***真実を教えてください。***DMCA では、宣誓を行い、虚偽の申し立てを行った場合には*偽証罪によって罰せられるという条件で*異議申し立て通知を行うことを義務付けています。 宣誓宣言で意図的に虚偽の陳述を行うと連邦犯罪になります。 (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) ）虚偽の情報を提出すると、民事責任が発生する可能性もあります。 つまり、金銭的損害で訴えられる可能性があります。
 
 ***調査してください。***DMCA 異議申し立て通知を提出すると、現実的な法的結果が生じる可能性があります。 苦情を申し立てた当事者がテイクダウン通知が間違っていることに同意しない場合、コンテンツを無効にし続けるためにあなたに対して訴訟を起こすことがあります。 あなたは、テイクダウン通知でなされた申し立てを徹底的に調査し、そして異議申し立て通知を提出する前に弁護士に相談するべきでしょう。
 
@@ -62,7 +62,7 @@ GitHub のあなたのコンテンツが DMCA テイクダウンリクエスト�
 
 5. ***"I consent to the jurisdiction of Federal District Court for the judicial district in which my address is located (if in the United States, otherwise the Northern District of California where GitHub is located), and I will accept service of process from the person who provided the DMCA notification or an agent of such person."（私は、私の住所がある司法管轄区（米国の場合は GitHub が所在するカリフォルニア州北部地区）の連邦地方裁判所の管轄に同意し、DMCA 通知を提供した人物またはかかる人物の代理人からの令状の送達を受け入れます。）という文言を含んでいなければなりません。***
 
-6. **物理的または電子的な署名を含めてください。**
+6. **物理的または電子的な署名を含んでいなければなりません。**
 
 [](#how-to-submit-your-counter-notice)異議申し立て通知の提出方法
 ----------

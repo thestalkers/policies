@@ -7,7 +7,7 @@ GitHub Anti-Bribery Statement - GitHub Docs
 GitHub Anti-Bribery Statement
 ==========
 
-[In this article](/github/site-policy/github-anti-bribery-statement#in-this-article)
+[In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
 * [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)

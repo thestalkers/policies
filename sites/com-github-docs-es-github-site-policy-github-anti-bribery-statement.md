@@ -4,12 +4,12 @@ Declaración antisoborno de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Declaración antisoborno de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-anti-bribery-statement#in-this-article)
+[En este artículo](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
 * [Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)

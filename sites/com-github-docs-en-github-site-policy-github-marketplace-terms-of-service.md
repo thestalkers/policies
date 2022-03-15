@@ -7,7 +7,7 @@ GitHub Marketplace Terms of Service - GitHub Docs
 GitHub Marketplace Terms of Service
 ==========
 
-[In this article](/github/site-policy/github-marketplace-terms-of-service#in-this-article)
+[In this article](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
 ----------
 
 * [A. GitHub.com's Terms of Service](#a-githubcoms-terms-of-service)

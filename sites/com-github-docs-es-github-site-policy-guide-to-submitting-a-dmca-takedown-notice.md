@@ -4,12 +4,12 @@ Guía para enviar un aviso de retiro de DMCA - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Guía para enviar un aviso de retiro de DMCA
 ==========
 
-[En este artículo](/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+[En este artículo](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
 ----------
 
 * [Antes de comenzar](#before-you-start)
@@ -22,7 +22,7 @@ Guía para enviar un aviso de retiro de DMCA
 
 Esta guía describe la información que GitHub necesita para procesar una solicitud de retiro de DMCA. Si tienes preguntas más generales sobre qué es la DMCA o cómo procesa GitHub las solicitudes de retiro de DMCA, por favor revisa nuestra [política de retiro de DMCA](/es/articles/dmca-takedown-policy).
 
-Debido al tipo de contenido de los hosts de GitHub (principalmente de código de software) y a la forma en que se gestiona el contenido (con Git), necesitamos que las demandas sean lo más específicas posible. Estas directrices están diseñadas para que el procesamiento de las notificaciones de supuestas infracciones sea lo más sencillo posible. Nuestra forma de notificación indicada a continuación es coherente con el formulario sugerido por el estatuto DMCA, que se puede encontrar en el sitio web oficial de la Oficina de Derechos de Autor de EE. UU.: <https://www.copyright.gov>. Sitio web oficial de la Oficina de Derechos de Autor: <https://www.copyright.gov>.
+Debido al tipo de contenido de los hosts de GitHub (principalmente de código de software) y a la forma en que se gestiona el contenido (con Git), necesitamos que las quejas sean lo más específicas posible. Estas directrices están diseñadas para que el procesamiento de las notificaciones de supuestas infracciones sea lo más sencillo posible. Nuestra forma de notificación indicada a continuación es coherente con el formulario sugerido por el estatuto DMCA, que se puede encontrar en el sitio web oficial de la Oficina de Derechos de Autor de EE. UU.: <https://www.copyright.gov>. Sitio web oficial de la Oficina de Derechos de Autor: <https://www.copyright.gov>.
 
 Como en todas las cuestiones jurídicas, siempre es mejor consultar con un profesional sobre tus preguntas o situación específicas. Te recomendamos enfáticamente que lo hagas antes de emprender cualquier acción que pueda afectar tus derechos. Esta guía no es asesoramiento legal y no debería ser tomada como tal.
 
@@ -80,7 +80,7 @@ Esta lista no es exhaustiva, por lo que hablar con un profesional legal sobre tu
 
 8. **También incluye la siguiente declaración: "Juro, bajo pena de perjurio, que la información de esta notificación es exacta y que soy el propietario de los derechos de autor, o estoy autorizado para actuar en nombre del propietario, de un derecho exclusivo que se infringe presuntamente".**
 
-9. **Incluye tu firma física o electrónica.**
+9. **Incluir tu firma física o electrónica.**
 
 [](#complaints-about-anti-circumvention-technology)Quejas sobre Tecnología de Anti Elusión
 ----------

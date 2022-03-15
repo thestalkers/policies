@@ -7,7 +7,7 @@ GitHub Privacy Statement - GitHub Docs
 GitHub Privacy Statement
 ==========
 
-[In this article](/github/site-policy/github-privacy-statement#in-this-article)
+[In this article](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
 * [The short version](#the-short-version)

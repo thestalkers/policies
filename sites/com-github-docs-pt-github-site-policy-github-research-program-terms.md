@@ -4,12 +4,12 @@ Termos do programa de pesquisa do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Termos do programa de pesquisa do GitHub
 ==========
 
-[Neste artigo](/github/site-policy/github-research-program-terms#in-this-article)
+[Neste artigo](/site-policy/github-terms/github-research-program-terms#in-this-article)
 ----------
 
 * [A. Seu Feedback](#a-your-feedback)
@@ -26,7 +26,7 @@ Termos do programa de pesquisa do GitHub
 
 * [G. Limitação de responsabilidade](#g-limitation-of-liability)
 
-* [H. Disposições Gerais](#h-miscellaneous)
+* [H. Miscellaneous](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub (“Contrato”).
 
@@ -77,7 +77,7 @@ Exceto conforme proibido por lei, você entende e concorda que não seremos resp
 
 Nossa responsabilidade está limitada ao fato de termos ou não sido informados da possibilidade de tais danos, e mesmo que se encontre uma solução neste Contrato que não tenha falhado em seu propósito essencial. Não teremos qualquer responsabilidade por qualquer falha ou atraso devido a questões que não sejam passíveis de um controle razoável.
 
-[](#h-miscellaneous)H. Disposições Gerais
+[](#h-miscellaneous)H. Miscellaneous
 ----------
 
 ### [](#1-governing-law)1. Lei Governamental ###

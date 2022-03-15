@@ -4,12 +4,12 @@ Código de conduta do fórum da comunidade do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Código de conduta do fórum da comunidade do GitHub
 ==========
 
-[Neste artigo](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[Neste artigo](/site-policy/github-terms/github-community-forum-code-of-conduct#in-this-article)
 ----------
 
 * [Visão geral e objetivo](#overview-and-purpose)
@@ -27,13 +27,13 @@ Código de conduta do fórum da comunidade do GitHub
 [](#overview-and-purpose)Visão geral e objetivo
 ----------
 
-Milhões de desenvolvedores hospedam milhões de projetos no GitHub — tanto os de código aberto quanto os de código fechado — e ficamos muito honrados em viabilizar a colaboração de toda a comunidade de desenvolvedores todos os dias. Juntos, temos uma empolgante oportunidade e a responsabilidade de tornar esta comunidade algo do qual podemos nos orgulhar.
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
 O Fórum Comunitário do GitHub pretende ser um lugar para mais colaboração, suporte e brainstorming. Este é um lugar civilizado para se conectar com outros usuários, aprender novas habilidades, compartilhar feedbacks e ideias e encontrar todo o suporte necessário para seus projetos do GitHub. Ao participar nesta Comunidade, você concorda com os mesmos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) e [Políticas de Uso Aceitáveis do GitHub](/pt/github/site-policy/github-acceptable-use-policies) que se aplicam ao GitHub, bem como este Código de Conduta específico da Comunidade.
 
 Com este Código de Conduta, esperamos ajudá-lo a entender a melhor forma de colaborar no Fórum Comunitário do GitHub, o que você pode esperar dos moderadores e que tipo de ações ou conteúdo pode resultar em suspensão temporária ou permanente da participação na Comunidade. Investigaremos quaisquer relatos de abuso e poderemos moderar o conteúdo público dentro da Comunidade que determinarmos estar violando os Termos de Serviço do GitHub ou este Código de Conduta.
 
-Usuários do GitHub em todo o mundo trazem perspectivas, ideias e experiências extremamente diferentes, abrangendo desde pessoas que criaram seu primeiro projeto "Olá Mundo" na semana passada até os mais conhecidos desenvolvedores de software do mundo. Estamos comprometidos em fazer do GitHub e do Fórum Comunitário do GitHub um ambiente acolhedor para todas as diferentes vozes e perspectivas aqui, mantendo um espaço onde as pessoas são livres para se expressar.
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
 [](#pledge)Compromisso
 ----------
@@ -47,17 +47,17 @@ Trate com respeito o Fórum Comunitário do GitHub. Somos um recurso compartilha
 
 As seguintes regras não são rígidas, elas apenas auxiliam no julgamento humano da nossa Comunidade. Use essas diretrizes para manter este lugar limpo e bem iluminado para um debate público civilizado.
 
-### [](#best-practices-for-building-a-strong-community)*Melhores práticas para a construção de uma comunidade forte* ###
+### [](#best-practices-for-maintaining-a-strong-community)*Best Practices for Maintaining a Strong Community* ###
 
-* Seja respeitoso e educado.
+A finalidade principal da comunidade do GitHub é colaborar em projetos de software. Estamos comprometidos em manter uma comunidade onde os usuários são livres para se expressarem e desafiarem as ideias uns dos outros, tanto ideias técnicas como outras. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-  * **Seja acolhedor e de mente aberta.** Outros membros da Comunidade podem não ter o mesmo nível de experiência ou background que você, mas isso não significa que eles não tenham boas ideias para contribuir. Nós o incentivamos a ser acolhedor com os novos membros e aqueles que estão apenas começando.
+* Engage with consideration and respect.
 
-  * **Respeitem-se.** Nada sabota tanto as conversas saudáveis quanto a grosseria. Seja cordial e profissional, e não publique nada que uma pessoa de bom senso considere como discurso ofensivo, abusivo ou de ódio. Não assedie ou constranja ninguém. Trate uns aos outros com dignidade e consideração em todas as interações.
+  * **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-    Você pode querer responder a algo discordando sobre o assunto. Tudo bem. Mas lembre-se de criticar ideias, não pessoas. Evite xingamentos, ataques diretos ad hominem, respondendo ao tom de um post em vez de seu conteúdo real, e reações impulsivas. Em vez disso, forneça contra-argumentos fundamentados que melhorem a conversa.
+  * **Be respectful** - Working in a collaborative environment means disagreements may happen. Mas lembre-se de criticar ideias, não pessoas. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-  * **Comunique-se com empatia.** Discordâncias ou diferenças de opinião são um fato da vida. Fazer parte de uma comunidade significa interagir com pessoas de diversas experiências e perspectivas, muitas das quais podem não ser as mesmas que as nossas. Se você discorda de alguém, tente se colocar no lugar da pessoa antes de se dirigir a ela. Isto promoverá uma atmosfera respeitosa e amigável, onde as pessoas se sentem confortáveis em fazer perguntas, participar de discussões e dar suas contribuições.
+  * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
 * Contribua de forma positiva e construtiva.
 
@@ -65,11 +65,9 @@ As seguintes regras não são rígidas, elas apenas auxiliam no julgamento human
 
     Os assuntos aqui discutidos importam para nós, e queremos que você aja como se eles importassem para você também. Respeite os temas e as pessoas que os discutem, mesmo que discorde de algumas coisas que estão sendo ditas.
 
-  * **Seja claro e não desvie do assunto.** Comunicar-se com estranhos na internet pode ser estranho. É difícil comunicar ou ler no tom desejado, e o sarcasmo é frequentemente mal interpretado. Tente usar uma linguagem clara, e pense em como ela será recebida pela outra pessoa.
+  * **Be clear and stay on topic.** The GitHub Community Forum is for collaboration, sharing ideas, and helping each other get stuff done. Comentários fora do assunto são uma distração (às vezes, bem-vinda, mas geralmente não) para o trabalho produtivo. Manter-se dentro do assunto ajuda a fomentar debates positivos e produtivos.
 
     Isso também se aplica ao compartilhamento de links. Quaisquer links compartilhados no Fórum Comunitário devem ser compartilhados com a intenção de fornecer informações relevantes e apropriadas. Os links não devem ser postados para simplesmente direcionar o tráfego ou a atenção para um site. Os links devem ser sempre acompanhados de uma explicação completa do conteúdo e da finalidade do link. Postar links, especialmente os não solicitados, sem contexto relevante e valioso, pode aparecer publicidade ou servir a propósitos ainda mais maliciosos.
-
-    Além disso, o Fórum Comunitário GitHub é para colaboração, compartilhamento de ideias e ajuda mútua para fazermos o nosso trabalho. Comentários fora do assunto são uma distração (às vezes, bem-vinda, mas geralmente não) para o trabalho produtivo. Manter-se dentro do assunto ajuda a fomentar debates positivos e produtivos.
 
   * **Compartilhe conscientemente.** Ao pedir que outros lhe dêem feedback ou colaborem em um projeto, compartilhe recursos valiosos e relevantes apenas para fornecer contexto. Não poste links que não adicionem valor ao assunto e não publique links não solicitados para seus próprios projetos ou sites em tópicos de outros usuários.
 

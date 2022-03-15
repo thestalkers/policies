@@ -4,12 +4,12 @@ Términos del programa de investigación de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Términos del programa de investigación de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-research-program-terms#in-this-article)
+[En este artículo](/site-policy/github-terms/github-research-program-terms#in-this-article)
 ----------
 
 * [A. Tu retroalimentación](#a-your-feedback)
@@ -46,7 +46,7 @@ Aceptas que toda información no pública que compartamos contigo o a la que pue
 
 Comprendes que la divulgación o el uso no autorizados de nuestra información confidencial podrían causarnos un daño irreparable y una lesión significativa que podría ser difícil de cuantificar para nosotros. En consecuencia, aceptas que tendremos el derecho de buscar medidas cautelares inmediatas para asegurarnos de que cumplas con el presente acuerdo, además de cualesquier otro derecho y recurso que podamos tener. Si se te solicita por ley, regulación o una orden vinculante válida de un tribunal de jurisdicción competente para divulgar nuestra información confidencial, puedes hacerlo, pero solo si nos lo notificas antes de hacerlo y harás tu mejor esfuerzo para limitar dicha divulgación y buscar el tratamiento confidencial y protector de dicha información.
 
-Las obligaciones de la presente sección 2 no se aplicarán a la información que puedas probar que: (i) estuvo generalmente disponible para el público antes de que te la revelaramos; (II) estuvo generalmente disponible para el público después de que te la revelamos, sin acción o inacción por tu parte, o por parte de tus empleados o contratistas; (III) conocías antes de que te la revelaramos; (IV) te fue revelada por un tercero, que no tenía ninguna obligación de confidencialidad con respecto a la misma; (v) que desarrollaste de forma independiente sin violar ninguna obligación de confidencialidad con nosotros o cualquier tercero; o (VI) te dimos permiso para divulgar, en un escrito firmado por uno de nuestros representantes autorizados.
+Las obligaciones de la presente sección 2 no se aplicarán a la información que puedas probar que: (i) estuvo generalmente disponible para el público antes de que te la reveláramos; (II) estuvo generalmente disponible para el público después de que te la hayamos revelado, sin acción o inacción por tu parte, o por parte de tus empleados o contratistas; (III) conocías antes de que te la reveláramos; (IV) te fue revelada por un tercero, que no tenía ninguna obligación de confidencialidad con respecto a la misma; (v) que desarrollaste de forma independiente sin violar ninguna obligación de confidencialidad con nosotros o cualquier tercero; o (VI) te dimos permiso para divulgar, en un escrito firmado por uno de nuestros representantes autorizados.
 
 [](#c-reservation-of-rights)C. Salvaguarda de derechos
 ----------
@@ -58,7 +58,7 @@ Toda la información confidencial sigue siendo propiedad exclusiva y propiedad d
 
 Al participar en este programa, aceptas el uso de tu información personal con fines de investigación y para ningún otro propósito. Como parte del programa, es posible que uses tu información personal para contactarte o conservar tu información, para contactarte en una fecha posterior. La información personal no incluye información agregada, que no identifiques personalmente. Es posible que uses la información de identificación personal o agregada que se recopila a través del programa para operar, analizar y mejorar nuestros productos y servicios.
 
-Puedes retirar tu consentimiento en cualquier momento y solicitar acceso o la eliminación de la información personal que tenemos sobre ti. Para obtener más información acerca de cómo puedes acceder, actualizar, modificar o eliminar la información personal que GitHub recopila a través del programa, consulta la[Declaración de privacidad de GitHub](/es/articles/github-privacy-statement) o contáctanos a través de nuestra [Privacy contact form](https://github.com/contact/privacy).
+Puedes retirar tu consentimiento en cualquier momento y solicitar acceso o la eliminación de la información personal que tenemos sobre ti. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](/es/articles/github-privacy-statement) or contact us through our [Privacy contact form](https://github.com/contact/privacy).
 
 [](#e-github-services-and-software-terms)E. Términos del software y los servicios de GitHub
 ----------

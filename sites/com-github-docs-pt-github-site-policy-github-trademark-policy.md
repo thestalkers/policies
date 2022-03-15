@@ -1,83 +1,83 @@
-Política de marca registrada do GitHub - GitHub Docs
+GitHub Trademark Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de marca registrada do GitHub
+GitHub Trademark Policy
 ==========
 
-[Neste artigo](/github/site-policy/github-trademark-policy#in-this-article)
+[Neste artigo](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
-* [O que é uma violação da Política de Marca do GitHub?](#what-is-a-github-trademark-policy-violation)
+* [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
 
-* [O que não é uma violação da Política de Marca do GitHub?](#what-is-not-a-github-trademark-policy-violation)
+* [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
 
-* [Como o GitHub responde a violações de Política de Marca relatadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
 
-* [Como faço para denunciar uma violação da Política de Marca?](#how-do-i-report-a-trademark-policy-violation)
+* [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
 
-* [Quais informações são necessárias para denunciar violação de Política de Marca?](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[](#what-is-a-github-trademark-policy-violation)O que é uma violação da Política de Marca do GitHub?
+[](#what-is-a-github-trademark-policy-violation)What is a GitHub Trademark Policy Violation?
 ----------
 
-Usar o nome de uma empresa ou um nome comercial, logomarca, ou outros materiais protegidos por marcas comerciais de forma a enganar ou confundir terceiros em relação à sua marca ou afiliação comercial podem ser consideradas ações que violam a política de marca registrada.
+Using a company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others with regard to its brand or business affiliation may be considered a trademark policy violation.
 
-[](#what-is-not-a-github-trademark-policy-violation)O que não é uma violação da Política de Marca do GitHub?
+[](#what-is-not-a-github-trademark-policy-violation)What is not a GitHub Trademark Policy Violation?
 ----------
 
-Utilizar outra marca comercial de uma forma que nada tenha a ver com o produto ou o serviço para o qual a marca foi concedida primeiramente não é uma violação da política da marca. Os nomes de usuários do GitHub estão disponíveis na base da ordem de chegada, e não podem ser reservados. Uma conta do GitHub com um nome de usuário igual ao de uma marca registrada não é, por si só, uma violação da nossa política de marcas registradas.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. GitHub user names are available on a first come, first served basis and may not be reserved. A GitHub account with a user name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
-[](#how-does-github-respond-to-reported-trademark-policy-violations)Como o GitHub responde a violações de Política de Marca relatadas?
+[](#how-does-github-respond-to-reported-trademark-policy-violations)How Does GitHub Respond To Reported Trademark Policy Violations?
 ----------
 
-Quando recebemos relatórios de violações de políticas de marcas de proprietários de registros de marcas federais ou internacionais, revisamos a conta e podemos tomar as seguintes ações:
+When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
 
-* Quando há uma intenção clara de enganar terceiros através do uso não autorizado de uma marca registrada, o GitHub irá suspender a conta e notificar o titular da conta.
-* Quando acreditamos que uma conta parece ser de usuários confusos, que não estejam propositalmente se passando por um bem ou serviço com marca registrada, damos ao titular da conta uma oportunidade de eliminar qualquer potencial confusão. Também podemos liberar um nome de usuário para o uso ativo do titular da marca registrada.
+* When there is a clear intent to mislead others through the unauthorized use of a trademark, GitHub will suspend the account and notify the account holder.
+* When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username for the trademark holder's active use.
 
-[](#how-do-i-report-a-trademark-policy-violation)Como faço para denunciar uma violação da Política de Marca?
+[](#how-do-i-report-a-trademark-policy-violation)How Do I Report a Trademark Policy Violation?
 ----------
 
-Os proprietários de marcas registradas podem relatar possíveis violações de política de marcas registradas ao GitHub, via [formulário de contato](https://support.github.com/contact?tags=docs-trademark). Por favor, envie solicitações relacionadas a marcas registradas a partir do seu endereço de e-mail comercial e inclua todas as informações solicitadas abaixo para ajudar a acelerar nossa resposta. Também certifique-se de nos descrever claramente por que razão a conta pode causar confusão com a sua marca ou como a conta pode mitigar ou manchar sua marca.
+Holders of registered trademarks can report possible trademark policy violations to GitHub via our [contact form](https://support.github.com/contact?tags=docs-trademark). Please submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
-[](#what-information-is-required-when-reporting-trademark-policy-violations)Quais informações são necessárias para denunciar violação de Política de Marca?
+[](#what-information-is-required-when-reporting-trademark-policy-violations)What Information is Required When Reporting Trademark Policy Violations?
 ----------
 
-Para investigar as violações da política de marcas registradas, por favor, forneça todas as seguintes informações:
+In order to investigate trademark policy violations, please provide all of the following information:
 
-* Nome de usuário da conta relatada
+* Username of the reported account
 
-* Nome da sua empresa
+* Your company name
 
-* Conta de sua empresa no GitHub (se houver uma)
+* Your company GitHub account (if there is one)
 
-* Site da empresa
+* Company website
 
-* A palavra, o símbolo, etc. de sua marca registrada
+* Your trademarked word, symbol, etc.
 
-* Número de registro da marca comercial
+* Trademark registration number
 
-* Escritório de registro da marca comercial (por exemplo, USPTO)
+* Trademark registration office (e.g., USPTO)
 
-* Descrição da confusão (por exemplo: estão se fingindo passar por sua empresa, incluindo descrições específicas de conteúdo ou comportamento)
+* Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 
-* Ação solicitada (por exemplo: remoção da conta violadora ou transferência de nome de usuário da marca registrada para uma conta de empresa existente)
+* Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
 
-* Incluir a frase a seguir: "Acredito, de boa fé, que o uso dos materiais protegidos por direitos autorais descritos acima, nas páginas infratoras, não foi autorizado pelo proprietário dos direitos autorais ou por seu representante ou pela lei. Tomei em consideração as utilizações nominativas e outras formas de uso justas."
+* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
 
-* Incluir também a seguinte declaração: "Juro, sob pena de perjúrio, que a informação neste aviso é correta, e que sou o proprietário dos direitos autorais, ou estou autorizado a agir em nome do proprietário de um direito exclusivo que alegadamente foi violado."
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
 
 * Incluir sua assinatura física ou eletrônica.
 
-* Nota: É necessário um número de registro de marca federal ou internacional. Se o nome que você está relatando não é \*\*\*\* uma marca registrada (por exemplo, uma agência governamental ou uma organização sem fins lucrativos), avise-nos:
+* Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
 
-  * Seu nome e sobrenome
-  * Título
-  * Endereço
-  * Telefone
-  * E-mail (deve ser do domínio da empresa)
+  * Your first and last name
+  * Title
+  * Address
+  * Phone
+  * Email (must be from company domain)

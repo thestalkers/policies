@@ -7,7 +7,7 @@ GitHub Terms of Service - GitHub Docs
 GitHub Terms of Service
 ==========
 
-[In this article](/github/site-policy/github-terms-of-service#in-this-article)
+[In this article](/site-policy/github-terms/github-terms-of-service#in-this-article)
 ----------
 
 * [Summary](#summary)

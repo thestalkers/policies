@@ -4,12 +4,12 @@ Acuerdo de Desarrollador de GitHub Marketplace - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Acuerdo de Desarrollador de GitHub Marketplace
 ==========
 
-[En este artículo](/github/site-policy/github-marketplace-developer-agreement#in-this-article)
+[En este artículo](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
 ----------
 
 * [1. DEFINICIONES](#1definitions)
@@ -194,7 +194,7 @@ En el caso de que tu publicación se elimine involuntariamente porque es defectu
 
 **6.1** GitHub será el comerciante de los productos de Programador comprados por usuarios finales a través del mercado.
 
-**6.2** Los precios de las listas del mercado de las aplicaciones del Desarrollador se configurarán en dólares estadounidenses (USD). El desarrollador tiene un control total sobre la fijación de precios para cada listado y una vez establecido, dicho precio no se puede cambiar. Puedes retirar un plan de precios para un listado existente y agregar un nuevo plan de precios para dicho listado, siempre que dicho plan de precios nuevo no afecte de forma negativa a los usuarios finales existentes. Los precios que configuraste para los productos de Programador determinarán la cantidad de pago que recibirás. GitHub remitirá el 95% del precio de venta en dólares estadounidenses sin reducción para los impuestos, excepto para cualquier retención de impuestos que se requiera conforme a la legislación aplicable. El 5% restante del precio de venta se asignará y retendrá por GitHub. Al final de cada mes y al alcanzar un valor mínimo de $500 USD, GitHub reenviará tu parte de los pagos.
+**6.2** Los precios de las listas del mercado de las aplicaciones del Desarrollador se configurarán en dólares estadounidenses (USD). El desarrollador tiene un control total sobre la fijación de precios para cada listado y una vez establecido, dicho precio no se puede cambiar. Puedes retirar un plan de precios para un listado existente y agregar un nuevo plan de precios para dicho listado, siempre que dicho plan de precios nuevo no afecte de forma negativa a los usuarios finales existentes. Los precios que configuraste para los productos de Programador determinarán la cantidad de pago que recibirás. GitHub will remit 95% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 5% of the sales price will be allotted to and retained by GitHub. Al final de cada mes y al alcanzar un valor mínimo de $500 USD, GitHub reenviará tu parte de los pagos.
 
 **6.3** Requisitos de Reembolso. Serás responsable de especificar los términos y condiciones relativos a los reembolsos a tus usuarios finales. En ningún caso GitHub será responsable de proporcionar ayuda alguna con los reembolsos, ni será GitHub será responsable del pago de ningún reembolso.
 

@@ -4,12 +4,12 @@ Guia de envio do contra-aviso de retirada DMCA - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Este documento está traduzido do inglês. Em caso de qualquer conflito, incerteza ou aparente incoerência entre quaisquer versões traduzidas e o texto original em inglês, o documento em inglês prevalecerá. Se você tem sugestões para aprimorar nossa tradução, por favor, [abra um problema em nosso repositório site-policy](https://github.com/github/site-policy/issues).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Guia de envio do contra-aviso de retirada DMCA
 ==========
 
-[Neste artigo](/github/site-policy/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+[Neste artigo](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
 * [Antes de começar](#before-you-start)
@@ -27,11 +27,11 @@ Como em todas as questões jurídicas, é sempre melhor consultar um profissiona
 [](#before-you-start)Antes de começar
 ----------
 
-***Diga a verdade.*** A DMCA requer que você jure pelos fatos relatados no seu contra-aviso, *sob pena de perjúrio*. Nos Estados Unidos, é crime federal mentir intencionalmente numa declaração juramentada. (*Veja* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm). Código, Título 18, Seção 1621.) (*Veja* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode resultar em responsabilidade civil — ou seja, você poderia ser processado por danos financeiros.
+***Diga a verdade.*** A DMCA requer que você jure pelos fatos relatados no seu contra-aviso, *sob pena de perjúrio*. Nos Estados Unidos, é crime federal mentir intencionalmente numa declaração juramentada. (*See* [U.S. Código, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) (*Veja* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode resultar em responsabilidade civil — ou seja, você poderia ser processado por danos financeiros.
 
 ***Investigação.*** Enviar um contra-aviso DMCA pode ter consequências legais reais. Se a parte reclamante discordar que o aviso de retirada dela foi um erro, ela pode decidir instaurar uma queixa contra você para manter o conteúdo desativado. Você deve conduzir uma investigação exaustiva sobre as alegações feitas no aviso de retirada e, provavelmente, falar com um advogado antes de enviar um contra-aviso.
 
-***Você precisa ter uma boa razão para enviar um contra-aviso.*** Para registrar um contra-aviso, você deve ter "o entendimento, de boa-fé, de que o material foi removido ou desabilitado como resultado de erro ou identificação incorreta do material a ser removido ou desabilitado". ([U.S. Código, Título 17, Seção 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) ([Código EUA, Título 17, Seção 512(g)](http://www.copyright.gov/title17/92chap5.html#512)) A decisão de explicar por que você acredita que houve um erro depende de você e de seu advogado, mas você *realmente* precisa identificar um erro antes de enviar um contra-aviso. No passado, recebemos contra-avisos que citavam erros no aviso de retirada, tais como: a parte reclamante não possui os direitos de autor; eu tenho uma licença; o código foi publicado sob uma licença de código aberto que permite meu uso; ou a reclamação não conta o fato de que meu uso está protegido pela doutrina de uso justo. É claro que poderiam existir outros defeitos em relação ao aviso de retirada.
+***Você precisa ter uma boa razão para enviar um contra-aviso.*** Para registrar um contra-aviso, você deve ter "o entendimento, de boa-fé, de que o material foi removido ou desabilitado como resultado de erro ou identificação incorreta do material a ser removido ou desabilitado". ([U.S. Código, Título 17, Seção 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) Whether you decide to explain why you believe there was a mistake is up to you and your lawyer, but you *do* need to identify a mistake before you submit a counter notice. No passado, recebemos contra-avisos que citavam erros no aviso de retirada, tais como: a parte reclamante não possui os direitos de autor; eu tenho uma licença; o código foi publicado sob uma licença de código aberto que permite meu uso; ou a reclamação não conta o fato de que meu uso está protegido pela doutrina de uso justo. É claro que poderiam existir outros defeitos em relação ao aviso de retirada.
 
 ***As leis de direitos autorais são complicadas.*** Às vezes, um aviso de retirada pode alegar violação de uma forma que parece atípica ou indireta. As leis de direitos autorais são complicadas e podem dar origem a alguns resultados inesperados. Em alguns casos, um aviso de retirada pode alegar que o seu código-fonte infringe os direitos por causa do que ele pode fazer após ser compilado e executado. Por exemplo:
 

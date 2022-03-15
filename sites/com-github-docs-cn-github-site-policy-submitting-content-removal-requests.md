@@ -4,12 +4,12 @@
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 提交内容删除请求
 ==========
 
-[本文内容](/github/site-policy/submitting-content-removal-requests#in-this-article)
+[本文内容](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
 ----------
 
 * [](#dmca-takedown-policy)[DMCA 删除政策](/cn/articles/dmca-takedown-policy)

@@ -4,12 +4,12 @@ Guía para enviar una contranotificación de DMCA - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Guía para enviar una contranotificación de DMCA
 ==========
 
-[En este artículo](/github/site-policy/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+[En este artículo](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
 * [Antes de comenzar](#before-you-start)
@@ -62,7 +62,7 @@ Estos son sólo algunos ejemplos de la complejidad de la legislación sobre dere
 
 5. ***Incluir la siguiente declaración: "Acepto la jurisdicción del Tribunal Federal de Distrito para el distrito judicial en el que se encuentra mi dirección (si es en los Estados Unidos, de lo contrario el Distrito Norte de California donde se encuentra GitHub) y aceptaré el servicio de trámite de la persona que proporcionó la notificación del DMCA o de un agente de dicha persona."***
 
-6. **Incluye tu firma física o electrónica.**
+6. **Incluir tu firma física o electrónica.**
 
 [](#how-to-submit-your-counter-notice)Cómo enviar tu contra notificación
 ----------

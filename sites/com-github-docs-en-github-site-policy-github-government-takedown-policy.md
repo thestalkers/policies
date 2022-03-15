@@ -7,7 +7,7 @@ GitHub Government Takedown Policy - GitHub Docs
 GitHub Government Takedown Policy
 ==========
 
-[In this article](/github/site-policy/github-government-takedown-policy#in-this-article)
+[In this article](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
 ----------
 
 * [What is this?](#what-is-this)

@@ -7,82 +7,16 @@ Site policy - GitHub Docs
 Site policy
 ==========
 
-* [GitHub Terms of Service](/en/github/site-policy/github-terms-of-service)
+* [GitHub Terms ----------](/en/site-policy/github-terms)
 
-* [GitHub Corporate Terms of Service](/en/github/site-policy/github-corporate-terms-of-service)
+* [Acceptable Use Policies ----------](/en/site-policy/acceptable-use-policies)
 
-* [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement)
+* [Privacy Policies ----------](/en/site-policy/privacy-policies)
 
-* [GitHub Data Protection Agreement](/en/github/site-policy/github-data-protection-agreement)
+* [Other Site Policies ----------](/en/site-policy/other-site-policies)
 
-* [Global Privacy Practices](/en/github/site-policy/global-privacy-practices)
+* [Content Removal Policies ----------](/en/site-policy/content-removal-policies)
 
-* [GitHub Sponsors Additional Terms](/en/github/site-policy/github-sponsors-additional-terms)
+* [Security Policies ----------](/en/site-policy/security-policies)
 
-* [GitHub Codespaces Privacy Statement](/en/github/site-policy/github-codespaces-privacy-statement)
-
-* [GitHub Terms for Additional Products and Features](/en/github/site-policy/github-terms-for-additional-products-and-features)
-
-* [GitHub Logo Policy](/en/github/site-policy/github-logo-policy)
-
-* [GitHub Username Policy](/en/github/site-policy/github-username-policy)
-
-* [Submitting content removal requests](/en/github/site-policy/submitting-content-removal-requests)
-
-* [DMCA Takedown Policy](/en/github/site-policy/dmca-takedown-policy)
-
-* [Guide to Submitting a DMCA Takedown Notice](/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
-
-* [Guide to Submitting a DMCA Counter Notice](/en/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
-
-* [GitHub Trademark Policy](/en/github/site-policy/github-trademark-policy)
-
-* [GitHub Private Information Removal Policy](/en/github/site-policy/github-private-information-removal-policy)
-
-* [GitHub Subprocessors and Cookies](/en/github/site-policy/github-subprocessors-and-cookies)
-
-* [GitHub Bug Bounty Program Legal Safe Harbor](/en/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
-
-* [Coordinated Disclosure of Security Vulnerabilities](/en/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
-
-* [Guidelines for Legal Requests of User Data](/en/github/site-policy/guidelines-for-legal-requests-of-user-data)
-
-* [GitHub Government Takedown Policy](/en/github/site-policy/github-government-takedown-policy)
-
-* [GitHub Acceptable Use Policies](/en/github/site-policy/github-acceptable-use-policies)
-
-* [GitHub Appeal and Reinstatement](/en/github/site-policy/github-appeal-and-reinstatement)
-
-* [GitHub's Notice about the California Consumer Privacy Act](/en/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
-
-* [GitHub Community Guidelines](/en/github/site-policy/github-community-guidelines)
-
-* [GitHub Community Forum Code of Conduct](/en/github/site-policy/github-community-forum-code-of-conduct)
-
-* [GitHub Registered Developer Agreement](/en/github/site-policy/github-registered-developer-agreement)
-
-* [GitHub Marketplace Terms of Service](/en/github/site-policy/github-marketplace-terms-of-service)
-
-* [GitHub Marketplace Developer Agreement](/en/github/site-policy/github-marketplace-developer-agreement)
-
-* [GitHub Research Program Terms](/en/github/site-policy/github-research-program-terms)
-
-* [GitHub Open Source Applications Terms and Conditions](/en/github/site-policy/github-open-source-applications-terms-and-conditions)
-
-* [GitHub and Trade Controls](/en/github/site-policy/github-and-trade-controls)
-
-* [GitHub Deceased User Policy](/en/github/site-policy/github-deceased-user-policy)
-
-* [GitHub Statement Against Modern Slavery and Child Labor](/en/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
-
-* [GitHub Anti-Bribery Statement](/en/github/site-policy/github-anti-bribery-statement)
-
-* [GitHub Candidate Privacy Policy](/en/github/site-policy/github-candidate-privacy-policy)
-
-* [GitHub Gifts and Entertainment Policy](/en/github/site-policy/github-gifts-and-entertainment-policy)
-
-* [GitHub Event Terms](/en/github/site-policy/github-event-terms)
-
-* [GitHub Event Code of Conduct](/en/github/site-policy/github-event-code-of-conduct)
-
-* [GitHub GPL Cooperation Commitment](/en/github/site-policy/github-gpl-cooperation-commitment)
+* [GitHub Company Policies ----------](/en/site-policy/github-company-policies)

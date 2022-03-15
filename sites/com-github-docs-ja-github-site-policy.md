@@ -4,85 +4,21 @@
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 サイトポリシー
 ==========
 
-* [GitHub利用規約](/ja/github/site-policy/github-terms-of-service)
+* [GitHub Terms ----------](/ja/site-policy/github-terms)
 
-* [GitHub企業向け利用規約](/ja/github/site-policy/github-corporate-terms-of-service)
+* [利用規定 ----------](/ja/site-policy/acceptable-use-policies)
 
-* [GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)
+* [Privacy Policies ----------](/ja/site-policy/privacy-policies)
 
-* [GitHub Data Protection Agreement](/ja/github/site-policy/github-data-protection-agreement)
+* [Other Site Policies ----------](/ja/site-policy/other-site-policies)
 
-* [プライバシーのグローバルプラクティス](/ja/github/site-policy/global-privacy-practices)
+* [Content Removal Policies ----------](/ja/site-policy/content-removal-policies)
 
-* [GitHub Sponsors に関する追加条項](/ja/github/site-policy/github-sponsors-additional-terms)
+* [Security Policies ----------](/ja/site-policy/security-policies)
 
-* [GitHub Codespaces Privacy Statement](/ja/github/site-policy/github-codespaces-privacy-statement)
-
-* [GitHub 追加製品および機能の利用規約](/ja/github/site-policy/github-terms-for-additional-products-and-features)
-
-* [GitHubロゴのポリシー](/ja/github/site-policy/github-logo-policy)
-
-* [GitHub ユーザ名ポリシー](/ja/github/site-policy/github-username-policy)
-
-* [コンテンツ削除リクエストのサブミット](/ja/github/site-policy/submitting-content-removal-requests)
-
-* [DMCAテイクダウンポリシー](/ja/github/site-policy/dmca-takedown-policy)
-
-* [DMCAテイクダウン通知のガイドの提出](/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
-
-* [DMCAカウンター通知の提出ガイド](/ja/github/site-policy/guide-to-submitting-a-dmca-counter-notice)
-
-* [GitHubトレードマークポリシー](/ja/github/site-policy/github-trademark-policy)
-
-* [GitHub個人情報削除ポリシー](/ja/github/site-policy/github-private-information-removal-policy)
-
-* [GitHubのサブプロセッサとCookie](/ja/github/site-policy/github-subprocessors-and-cookies)
-
-* [GitHub Bug Bounty Programの法的免責事項](/ja/github/site-policy/github-bug-bounty-program-legal-safe-harbor)
-
-* [Coordinated Disclosure of Security Vulnerabilities](/ja/github/site-policy/coordinated-disclosure-of-security-vulnerabilities)
-
-* [ユーザデータの法的リクエストに関するガイドライン](/ja/github/site-policy/guidelines-for-legal-requests-of-user-data)
-
-* [GitHub の行政機関による削除に関するポリシー](/ja/github/site-policy/github-government-takedown-policy)
-
-* [GitHub 利用規定](/ja/github/site-policy/github-acceptable-use-policies)
-
-* [カリフォルニア州消費者プライバシー法に関するGitHubからの通知](/ja/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act)
-
-* [GitHubコミュニティガイドライン](/ja/github/site-policy/github-community-guidelines)
-
-* [GitHubコミュニティフォーラムの行動規範](/ja/github/site-policy/github-community-forum-code-of-conduct)
-
-* [GitHub登録開発者同意書](/ja/github/site-policy/github-registered-developer-agreement)
-
-* [GitHub Marketplace利用規約](/ja/github/site-policy/github-marketplace-terms-of-service)
-
-* [GitHub Marketplace開発者同意書](/ja/github/site-policy/github-marketplace-developer-agreement)
-
-* [GitHub Research Program利用規約](/ja/github/site-policy/github-research-program-terms)
-
-* [GitHubオープンソースアプリケーションの規約および条件](/ja/github/site-policy/github-open-source-applications-terms-and-conditions)
-
-* [GitHubと貿易統制](/ja/github/site-policy/github-and-trade-controls)
-
-* [お亡くなりになったユーザに関するGitHubのポリシー](/ja/github/site-policy/github-deceased-user-policy)
-
-* [現代版奴隷法と児童労働に関するGitHubの声明](/ja/github/site-policy/github-statement-against-modern-slavery-and-child-labor)
-
-* [贈賄防止に関するGitHubの声明](/ja/github/site-policy/github-anti-bribery-statement)
-
-* [GitHub 志望者のプライバシーポリシー](/ja/github/site-policy/github-candidate-privacy-policy)
-
-* [GitHubのギフトおよびエンタテインメントに関するポリシー](/ja/github/site-policy/github-gifts-and-entertainment-policy)
-
-* [GitHubイベント規約](/ja/github/site-policy/github-event-terms)
-
-* [GitHubイベントの行動規範](/ja/github/site-policy/github-event-code-of-conduct)
-
-* [GitHubのGPL協力へのコミットメント](/ja/github/site-policy/github-gpl-cooperation-commitment)
+* [GitHub Company Policies ----------](/ja/site-policy/github-company-policies)

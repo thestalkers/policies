@@ -7,7 +7,7 @@ GitHub Event Code of Conduct - GitHub Docs
 GitHub Event Code of Conduct
 ==========
 
-[In this article](/github/site-policy/github-event-code-of-conduct#in-this-article)
+[In this article](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
 ----------
 
 * [Code of Conduct](#code-of-conduct)

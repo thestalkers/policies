@@ -7,7 +7,7 @@ Global Privacy Practices - GitHub Docs
 Global Privacy Practices
 ==========
 
-[In this article](/github/site-policy/global-privacy-practices#in-this-article)
+[In this article](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
 * [Standard Contractual Clauses](#standard-contractual-clauses)

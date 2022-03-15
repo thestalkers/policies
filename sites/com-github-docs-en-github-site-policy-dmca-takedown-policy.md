@@ -7,7 +7,7 @@ DMCA Takedown Policy - GitHub Docs
 DMCA Takedown Policy
 ==========
 
-[In this article](/github/site-policy/dmca-takedown-policy#in-this-article)
+[In this article](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
 ----------
 
 * [What Is the DMCA?](#what-is-the-dmca)

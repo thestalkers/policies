@@ -4,12 +4,12 @@ DMCAテイクダウン通知のガイドの提出 - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 DMCAテイクダウン通知のガイドの提出
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+[ここには以下の内容があります:](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
 ----------
 
 * [はじめる前に](#before-you-start)
@@ -29,7 +29,7 @@ GitHub がホストするコンテンツの種類（主にソフトウェアコ�
 [](#before-you-start)はじめる前に
 ----------
 
- ***真実を教えてください。***DMCA では、*偽証罪によって罰せられるという条件で*著作権侵害の申し立てを行うことを義務付けています。 宣誓宣言で意図的に虚偽の陳述を行うと連邦犯罪になります。 （[合衆国法典、タイトル 18、セクション 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm) \*を参照してください。 ）虚偽の情報を提出すると、民事責任が発生する可能性もあります。 つまり、金銭的損害で訴えられる可能性があります。 DMCA 自体には、資料や活動が権利を侵害していることを故意かつ実質的に不実表示した人物に対する[損害賠償が規定](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)されています。
+ ***真実を教えてください。***DMCA では、*偽証罪によって罰せられるという条件で*著作権侵害の申し立てを行うことを義務付けています。 宣誓宣言で意図的に虚偽の陳述を行うと連邦犯罪になります。 (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) ）虚偽の情報を提出すると、民事責任が発生する可能性もあります。 つまり、金銭的損害で訴えられる可能性があります。 DMCA 自体には、資料や活動が権利を侵害していることを故意かつ実質的に不実表示した人物に対する[損害賠償が規定](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)されています。
 
 ***調査してください。***何百万人ものユーザや組織が、GitHub で作成およびコントリビューションするプロジェクトに心血を注ぎ込んでいます。 このようなプロジェクトに対して DMCA の苦情を申し立てることは、実在する人々に現実的な結果をもたらすことになる、重大な法的措置です。 そのため、テイクダウンを送信する前に徹底的な調査を行い、弁護士に相談して、実際に使用が許可されていないことを確認してください。
 
@@ -80,7 +80,7 @@ GitHub がホストするコンテンツの種類（主にソフトウェアコ�
 
 8. **"I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."（私は、偽証罪の罰則に基づき、この通知の情報は正確であり、私が侵害が申し立てられる排他的権利の著作権所有者であるか、所有者に代わって行動することが認められている者であることを誓います。）という文言も含んでいなければなりません。**
 
-9. **物理的または電子的な署名を含めてください。**
+9. **物理的または電子的な署名を含んでいなければなりません。**
 
 [](#complaints-about-anti-circumvention-technology)反迂回技術に関する苦情
 ----------

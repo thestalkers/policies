@@ -7,7 +7,7 @@ GitHub's Notice about the California Consumer Privacy Act - GitHub Docs
 GitHub's Notice about the California Consumer Privacy Act
 ==========
 
-[In this article](/github/site-policy/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
+[In this article](/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act#in-this-article)
 ----------
 
 * [GitHub's Notice to California Residents](#githubs-notice-to-california-residents)

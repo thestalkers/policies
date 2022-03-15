@@ -4,12 +4,12 @@ GitHub Marketplace利用規約 - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 GitHub Marketplace利用規約
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-marketplace-terms-of-service#in-this-article)
+[ここには以下の内容があります:](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
 ----------
 
 * [A. GitHub.com利用規約](#a-githubcoms-terms-of-service)
@@ -66,7 +66,7 @@ GitHub Marketplace (「Marketplace」) へようこそ！ また、こちらの�
 
 **支払いスケジュール、返金なし。**支払いスケジュールは、GitHubアカウントの作成時に選択した支払いスケジュール (無料、月間、年間など) によって決まります。 月間または年間払いのプランの場合、 「Marketplace」における購入はそれぞれ月ごとまたは年ごとに前払いされ、返金されません。 サービスの一部の月に対する返金もしくはクレジット、ダウングレードの返金、および未使用月に対する返金はありません。ただし、支払い済みの期間中は、サービスは有効です。 「開発者製品」のサービスをキャンセルしたい場合、画面上部のグローバルナビゲーションバーにある [設定] にアクセスしてキャンセルできます。
 
-If you would have a question, concern, or dispute regarding your billing, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy).
+支払いについて質問、懸念、または意義がある場合は、[GitHub サポート](https://support.github.com/contact?tags=docs-policy)にお問い合わせください。
 
 [](#e-your-data-and-githubs-privacy-policy)E. お客様のデータとGitHubのプライバシーポリシー
 ----------
@@ -118,6 +118,6 @@ GitHub は、法的またはポリシー上の理由により、当社のサー�
 
 5. **セクションの見出し。** 本「Marketplace利用規約」全体を通して、各セクションには後述の規約および条件のタイトルが含まれています。 これらのセクションのタイトルには法的拘束力はありません。
 
-6. **GitHubライセンスポリシー。**本「Marketplace利用規約は、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンス付与されています。 詳細は、[サイトポリシーリポジトリ](https://github.com/github/site-policy#license)を参照してください。
+6. **GitHubライセンスポリシー。**本「Marketplace利用規約は、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンス付与されています。 詳細は、[site-policyリポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
 7. **お問い合わせ。**「Marketplace利用規約」についてのご質問をお寄せください。 [Contact us](https://support.github.com/contact?tags=docs-policy).

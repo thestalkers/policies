@@ -7,7 +7,7 @@ GitHub Private Information Removal Policy - GitHub Docs
 GitHub Private Information Removal Policy
 ==========
 
-[In this article](/github/site-policy/github-private-information-removal-policy#in-this-article)
+[In this article](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
 ----------
 
 * [What is Private Information?](#what-is-private-information)

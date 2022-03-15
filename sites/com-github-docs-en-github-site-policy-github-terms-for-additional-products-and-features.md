@@ -7,7 +7,7 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 GitHub Terms for Additional Products and Features
 ==========
 
-[In this article](/github/site-policy/github-terms-for-additional-products-and-features#in-this-article)
+[In this article](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
 * [Actions](#actions)

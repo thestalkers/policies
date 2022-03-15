@@ -4,12 +4,12 @@ GitHub 反对现代奴隶制和雇佣童工的声明 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 GitHub 反对现代奴隶制和雇佣童工的声明
 ==========
 
-[本文内容](/github/site-policy/github-statement-against-modern-slavery-and-child-labor#in-this-article)
+[本文内容](/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor#in-this-article)
 ----------
 
 * [GitHub 的结构、业务和供应链](#githubs-structure-business-and-supply-chains)
@@ -66,7 +66,7 @@ GitHub 的供应链包括用于我们产品和运营的商品和服务，包括�
 
 **GitHub 的行为标准**禁止不安全和非法的行为，包括故意使用、参与、支持或容忍现代奴隶制（奴役、强迫或强制劳动、贩运、压榨以及监禁或以契约束缚劳动者）或童工。
 
-GitHub 遵守其运营所在辖区中禁止贩运劳工和使用童工的法律，包括[关于打击人口贩运的美国联邦采购法规 22.17](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf)。 关于打击人口贩运的联邦采购法规 22.17。
+GitHub complies with laws prohibiting trafficking and child labor in the jurisdictions in which it operates, including [U.S. 关于打击人口贩运的联邦采购法规 22.17](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf)。
 
 此外，GitHub 与 FairHotel 计划建立了合作伙伴关系，这意味着 GitHub 鼓励其员工选择 FairHotel 认可的酒店，因为这种酒店的工人工资合理、福利充足且在工作中有发言权。 成为 FairHotel 合作伙伴，也意味着 GitHub 作为公平雇主为酒店提供业务。
 

@@ -7,7 +7,7 @@ GitHub Sponsors Additional Terms - GitHub Docs
 GitHub Sponsors Additional Terms
 ==========
 
-[In this article](/github/site-policy/github-sponsors-additional-terms#in-this-article)
+[In this article](/site-policy/github-terms/github-sponsors-additional-terms#in-this-article)
 ----------
 
 * [1. Definitions.](#1-definitions)

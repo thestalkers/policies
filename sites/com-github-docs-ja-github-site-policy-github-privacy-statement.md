@@ -4,12 +4,12 @@ GitHubのプライバシーについての声明 - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 GitHubのプライバシーについての声明
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-privacy-statement#in-this-article)
+[ここには以下の内容があります:](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
 * [ショートバージョン](#the-short-version)
@@ -251,7 +251,7 @@ GitHubサービスおよび機能の多くは公開向けです。 お客様の�
 
 GitHubデータをコンパイルしたい場合、お客様は、[情報利用](/ja/github/site-policy/github-acceptable-use-policies#6-information-usage-restrictions)および[プライバシー](/ja/github/site-policy/github-acceptable-use-policies#7-privacy)に関する当社の利用規約を遵守しなければなりません。またお客様は、収集した公開向けユーザ個人情報を、当社のユーザが許可した目的に限り利用できるものとします。 たとえば、GitHubユーザが自らの身分と所属を明らかにする目的でメールアドレスを公開している場合、そのメールアドレスをユーザへの未承諾メール送信や、採用担当者、ヘッドハンター、および求人掲示板への販売、または商業広告などの目的で使用してはなりません。 当社は、お客様が、GitHubから収集したあらゆるユーザ個人情報を合理的に保護すること、ならびに、 GitHubまたは他のユーザからの苦情、削除要請および連絡拒否のリクエストに速やかに対応することを要求します。
 
-これに類して、GitHub上のプロジェクトは、コラボレーティブ処理の一部として収集した公開されている利用可能なユーザ個人情報を含むことがあります。 GitHub上のユーザ個人情報について苦情がある場合、[苦情の解決](/ja/github/site-policy/github-privacy-statement#resolving-complaints)を参照してください。
+これに類して、GitHub上のプロジェクトは、コラボレーティブ処理の一部として収集した公開されている利用可能なユーザ個人情報を含むことがあります。 If you have a complaint about any User Personal Information on GitHub, please see our section on [resolving complaints](/ja/github/site-policy/github-privacy-statement#resolving-complaints).
 
 ### [](#organizations)Organization ###
 
@@ -398,7 +398,7 @@ GitHubは米国内外の個人情報を処理しており、欧州経済領域�
 [](#license)ライセンス
 ----------
 
-本プライバシーステートメントは、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の元でライセンス付与されています。 詳細は、[サイトポリシーリポジトリ](https://github.com/github/site-policy#license)を参照してください。
+本プライバシーステートメントは、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の元でライセンス付与されています。 詳細は、[site-policyリポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
 [](#contacting-github)GitHubへの連絡
 ----------
@@ -412,7 +412,7 @@ GitHubプライバシーステートメントまたは情報処理について�
 
 ### [](#french)フランス語 ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(12.20.19)(FR).pdf)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
 ### [](#other-translations)その他の翻訳 ###
 

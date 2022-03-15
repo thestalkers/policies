@@ -4,12 +4,12 @@ GitHubトレードマークポリシー - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 GitHubトレードマークポリシー
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-trademark-policy#in-this-article)
+[ここには以下の内容があります:](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
 * [何をすると GitHub トレードマークポリシーの違反になるのですか？](#what-is-a-github-trademark-policy-violation)
@@ -72,7 +72,7 @@ GitHubトレードマークポリシー
 
 * "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."（私は、偽証罪の罰則に基づき、この通知の情報は正確であり、私が侵害が申し立てられる排他的権利の商標権者であるか、商標権者に代わって行動することが認められている者であることを誓います。）という文言も含めてください。
 
-* 物理的または電子的な署名を含めてください。
+* 物理的または電子的な署名を含んでいなければなりません。
 
 * 注：連邦または国際商標登録番号が必要です。 報告する名前が登録商標では**ない**場合（政府機関や非営利団体など）は、以下をお知らせください。
 

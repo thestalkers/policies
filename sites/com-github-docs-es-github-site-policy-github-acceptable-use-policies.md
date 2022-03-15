@@ -4,35 +4,37 @@ Políticas de uso aceptable de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Políticas de uso aceptable de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-acceptable-use-policies#in-this-article)
+[En este artículo](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
 ----------
 
 * [1. Cumplimiento con las leyes y regulaciones](#1-compliance-with-laws-and-regulations)
 
-* [2. Restricciones de contenido](#2-content-restrictions)
+* [2. User Safety](#2-user-safety)
 
-* [3. Restricciones de conducta](#3-conduct-restrictions)
+* [3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
 
 * [4. Spam y actividad falsa en GitHub](#4-spam-and-inauthentic-activity-on-github)
 
-* [5. Límites de uso de los servicios](#5-services-usage-limits)
+* [5. Site Access and Safety](#5-site-access-and-safety)
 
-* [6. Restricciones de uso de información](#6-information-usage-restrictions)
+* [6. Límites de uso de los servicios](#6-services-usage-limits)
 
-* [7. Privacidad](#7-privacy)
+* [7. Restricciones de uso de información](#7-information-usage-restrictions)
 
-* [8. Uso del ancho de banda excesivo](#8-excessive-bandwidth-use)
+* [8. Privacidad](#8-privacy)
 
-* [9. Hacer publicidad en GitHub](#9-advertising-on-github)
+* [9. Uso del ancho de banda excesivo](#9-excessive-bandwidth-use)
 
-* [10. Protección del Usuario](#10-user-protection)
+* [10. Hacer publicidad en GitHub](#10-advertising-on-github)
 
-**Versión simplificada:** *Presentamos una amplia variedad de proyectos en equipo en todo el mundo y dicha cooperación solamente funciona cuando nuestros usuarios pueden trabajar juntos con buenas intenciones. Mientras usas el Servicio, debes cumplir con nuestras políticas de uso aceptable, que incluyen algunas restricciones sobre el contenido que puedes publicar o gestionar en el servicio y otras limitaciones. En síntesis, la idea es que sean geniales entre sí.*
+* [11. Protección del Usuario](#11-user-protection)
+
+**Versión simplificada:** *Presentamos una amplia variedad de proyectos en equipo en todo el mundo y dicha cooperación solamente funciona cuando nuestros usuarios pueden trabajar juntos con buenas intenciones. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. En síntesis, la idea es que sean geniales entre sí.*
 
 Los términos en mayúsculas que se utilizan, pero no se definen en estas Políticas de uso aceptable tienen significados asignados en nuestros [Términos de servicio](/es/articles/github-terms-of-service), [Términos de servicio corporativos](/es/articles/github-corporate-terms-of-service) y [Declaración de privacidad](/es/articles/github-privacy-statement). Para los clientes sujetos a los [Términos de servicio corporativos](/es/articles/github-corporate-terms-of-service), "tú" y "tu/tus" se refieren al "Cliente" o los "Usuarios". "Nosotros", "nuestro", "nuestros" se refieren a "GitHub".
 
@@ -41,68 +43,73 @@ Los términos en mayúsculas que se utilizan, pero no se definen en estas Polít
 
 Eres responsable de usar el Servicio de conformidad con todas las leyes, regulaciones y con todas nuestras Políticas de uso aceptable que correspondan. Estas políticas se pueden actualizar cada cierto tiempo y se presentan a continuación. También se puede acceder a ellas en nuestros [Términos de servicio](/es/articles/github-terms-of-service) y [Términos de servicio corporativos](/es/articles/github-corporate-terms-of-service).
 
-[](#2-content-restrictions)2. Restricciones de contenido
+[](#2-user-safety)2. User Safety
 ----------
 
-Bajo ninguna circunstancia se permitirá que los usuarios carguen, publiquen, hospeden, ejecuten o transmitan ningún contenido que:
+We do not allow content or activity on GitHub that:
 
 * que sea ilícito o promueva actividades ilícitas;
 
-* sea o albergue [contenido sexualmente obsceno](/es/github/site-policy/github-community-guidelines#sexually-obscene-content);
+* is [sexually obscene](/es/github/site-policy/github-sexually-obscene-content) or relates to sexual exploitation or abuse, including of minors;
 
 * que sea calumnioso, difamatorio o fraudulento;
 
-* sea [discriminatorio o abusivo](/es/github/site-policy/github-community-guidelines#hate-speech-and-discrimination) hacia cualquier individuo o grupo;
+* sea [discriminatorio o abusivo](/es/github/site-policy/github-hate-speech-and-discrimination) hacia cualquier individuo o grupo;
 
-* [describa o glorifique la violencia injustificadamente](/es/github/site-policy/github-community-guidelines#gratuitously-violent-content), incluyendo las imágenes violentas;
+* is [false, inaccurate, or intentionally deceptive information](/es/github/site-policy/github-misinformation-and-disinformation) and likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
 
-* sea o contenga [información intencionalmente engañosa, inadecuada o falsa](/es/github/site-policy/github-community-guidelines#misinformation-and-disinformation) que pueda afectar el interés público de manera adversa (incluyendo la salud, seguridad, integridad de elección y participación cívica);
+* [harasses or abuses](/es/github/site-policy/github-bullying-and-harassment) another individual or group, including our employees, officers, and agents, or other users;
 
-* apoye directamente [el ataque ilegal o campañas de malware](/es/github/site-policy/github-community-guidelines#active-malware-or-exploits) que estén causando daños técnicos — tales como utilizar nuestra plataforma para entregar ejecutables malintencionados o como ataque de infraestructura, por ejemplo, organizando ataques de negación de servicio o administrando servidores de control y comando — sin propósitos implícitos o explícitos de uso dual previos a que suceda el abuso; o
+* [threatens or incites violence](/es/github/site-policy/github-threats-of-violence-and-gratuitously-violent-content) toward any individual or group, especially on the basis of who they are;
 
-* comparta llaves de licencia de productos no autorizadas, software para generarlas o software para saltarse las verificaciones de estas, incluyendo las extensiones de licencias gratuitas más allá de su periodo de prueba; o
+* [gratuitously depicts or glorifies violence](/es/github/site-policy/github-threats-of-violence-and-gratuitously-violent-content), including violent images; or
 
-* que infrinja algún derecho de propiedad de cualquiera de las partes, incluidos la patente, el nombre comercial, el secreto comercial, la propiedad intelectual, el derecho a publicidad o cualquier otro derecho.
+* is off-topic, or interacts with platform features in a way that significantly or repeatedly [disrupts the experience of other users](/es/github/site-policy/github-disrupting-the-experience-of-other-users).
 
-Por favor, consulta nuestros [Lineamientos comunitarios](/es/github/site-policy/github-community-guidelines#what-is-not-allowed) para obtener más detalles.
-
-[](#3-conduct-restrictions)3. Restricciones de conducta
+[](#3-intellectual-property-authenticity-and-private-information)3. Intellectual Property, Authenticity, and Private Information
 ----------
 
-Mientras usas el Servicio, en ninguna circunstancia puedes hacer lo siguiente:
+We do not allow content or activity on GitHub that:
 
-* [acosar, abusar](/es/github/site-policy/github-community-guidelines#bullying-and-harassment), [amenazar, o incitar a la violencia](/es/github/site-policy/github-community-guidelines#threats-of-violence) en contra de algún grupo o individuo, incluyendo nuestros empleados, oficiales y agentes u otros usuarios;
+* que infrinja algún derecho de propiedad de cualquiera de las partes, incluidos la patente, el nombre comercial, el secreto comercial, la propiedad intelectual, el derecho a publicidad o cualquier otro derecho;
 
-* publicar contenido fuera de contexto o interactuar con las características de la plataforma de manera que esto [perturbe la experiencia de otros usuarios](/es/github/site-policy/github-community-guidelines#disrupting-the-experience-of-other-users) significativa o repetidamente;
+* unlawfully shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period;
 
-* utilizar nuestros servidores para cualquier forma de [actividad excesiva automatizada por lotes](/es/github/site-policy/github-acceptable-use-policies#4-spam-and-inauthentic-activity-on-github) (por ejemplo, spamming o minería de cirptodivisas), para colocar cargas indebidas en nuestros servidores para fines de automatización o generar cualquier forma de propaganda no solicitada u otro tipo de solicitudes a través de nuestros servidores, tal como planes para enriquecerse rápidamente;
+* [impersonates any person or entity](/es/github/site-policy/github-impersonation), including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
 
-* usar nuestros servidores para interrumpir o intentar interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, datos, cuenta o red (a menos que lo autorice el [programa Bug Bounty GitHub](https://bounty.github.com));
-
-* [hacerte pasar por cualquier otra persona o entidad](/es/github/site-policy/github-community-guidelines#impersonation), incluyendo a cualquiera de nuestros empleados o representante o pretender que existe una asociación falsa con GitHub o malinterpretar tu identidad o el propósito del sitio fraudulentamente; o
-
-* [violar la privacidad de cualquier tercero](/es/github/site-policy/github-community-guidelines#doxxing-and-invasion-of-privacy), tal como publicar la información personal de alguien más sin su consentimiento.
-
-Por favor, consulta nuestros [Lineamientos comunitarios](/es/github/site-policy/github-community-guidelines#what-is-not-allowed) para obtener más detalles.
+* [violates the privacy of any third party](/es/github/site-policy/github-doxxing-and-invasion-of-privacy), such as by posting another person's personal information without consent.
 
 [](#4-spam-and-inauthentic-activity-on-github)4. Spam y actividad falsa en GitHub
 ----------
 
-En GitHub se prohíbe la actividad excesiva automatizada y la actividad coordinada falsa, como el spamming. Las actividades prohibidas incluyen:
+We do not allow content or activity on GitHub that is:
 
-* distribución masiva de promociones y publicidad prohibida por los términos y políticas de GitHub
-* interacciones falsas, tales como cuentas falsas y la actividad automatizada falsa
-* abuso de rango, por ejemplo, protagonización automática o la
-* creación o participación posterior en los mercados secundarios con la intención de la proliferación de actividades falsas
-* usar a GitHub como una plataforma para propagar abusos en otras plataformas
-* phishing o intento de phishing
+* automated excessive bulk activity and coordinated inauthentic activity, such as
+  * spamming
+  * cryptocurrency mining;
 
-[](#5-services-usage-limits)5. Límites de uso de los servicios
+* distribución masiva de promociones y publicidad prohibida por los términos y políticas de GitHub;
+* inauthentic interactions, such as fake accounts and automated inauthentic activity;
+* rank abuse, such as automated starring or following;
+* creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity;
+* usar a GitHub como una plataforma para propagar abusos en otras plataformas;
+* phishing or attempted phishing; or
+* using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes.
+
+[](#5-site-access-and-safety)5. Site Access and Safety
+----------
+
+We do not allow content or activity on GitHub that:
+
+* apoye directamente [el ataque ilegal o campañas de malware](/es/github/site-policy/github-active-malware-or-exploits) que estén causando daños técnicos — tales como utilizar nuestra plataforma para entregar ejecutables malintencionados o como ataque de infraestructura, por ejemplo, organizando ataques de negación de servicio o administrando servidores de control y comando — sin propósitos implícitos o explícitos de uso dual previos a que suceda el abuso; o
+* uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized.”
+
+[](#6-services-usage-limits)6. Límites de uso de los servicios
 ----------
 
 No reproducirás, duplicarás, copiarás, venderás, revenderás o aprovecharás ninguna parte del Servicio, el uso del Servicio o el acceso al Servicio sin autorización expresa por escrito.
 
-[](#6-information-usage-restrictions)6. Restricciones de uso de información
+[](#7-information-usage-restrictions)7. Restricciones de uso de información
 ----------
 
 Puedes utilizar la información de nuestro Servicio por las siguientes razones, independientemente de si se eliminó la información, se recopiló través de nuestra API o se obtuvo de otra forma:
@@ -116,32 +123,36 @@ No puedes utilizar la información del Servicio (ya sea eliminada, recopilada a 
 
 Tu uso de la información del Servicio debe cumplir con la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
-[](#7-privacy)7. Privacidad
+[](#8-privacy)8. Privacidad
 ----------
 
 Está prohibido el uso indebido de la Información personal del Usuario.
 
 Cualquier persona, entidad o servicio que recopile datos del Servicio debe cumplir con la [Declaración de privacidad de GitHub](/es/articles/github-privacy-statement), en particular, al respecto de la recopilación de Información personal del Usuario. Si recopilas cualquier Información personal del Usuario desde el Servicio, debes aceptar que solo usarás esa Información personal del Usuario para los fines que ese Usuario autorizó. Aceptas que asegurarás de manera razonable cualquier Información personal del Usuario que hayas reunido desde el Servicio y responderás de inmediato a las quejas, las solicitudes de eliminación y las solicitudes de "no contactar" que hagamos nosotros u otros usuarios.
 
-[](#8-excessive-bandwidth-use)8. Uso del ancho de banda excesivo
+[](#9-excessive-bandwidth-use)9. Uso del ancho de banda excesivo
 ----------
 
 Las limitaciones de ancho de banda del servicio varían en función de las características que utilices. Si determinamos que tu uso del ancho de banda es significativamente excesivo en relación con el de otros usuarios, nos reservamos el derecho a suspender tu Cuenta o limitar el alojamiento de tu archivo o, de otra forma, limitar tu actividad hasta que puedas reducir tu consumo de ancho de banda. Tambien nos reservamos los derechos—después de proporcionar una notificación por adelantado—de borrar repositorios que creamos están colocando una tensión indebida en nuestra infraestructura. Para obtener orientación sobre el uso aceptado de almacenamiento de objetos en los repositorios, refiérete a la sección "[¿Cuál es mi cuota de disco?](/es/github/managing-large-files/what-is-my-disk-quota)". Para obtener más detalles sobre las limitaciones de ancho de banda de características especiales, consulta la sección [Condiciones Adicionales de Producto de GitHub](/es/github/site-policy/github-additional-product-terms).
 
-[](#9-advertising-on-github)9. Hacer publicidad en GitHub
+[](#10-advertising-on-github)10. Hacer publicidad en GitHub
 ----------
 
 **Versión simplificada:** *Generalmente no prohibimos el uso de GitHub para publicidad. Sin embargo, esperamos que nuestros usuarios sigan ciertas limitaciones, por lo que GitHub no se convierta en un espacio lleno de spam. Nadie desea eso.*
 
 Aunque entendemos que tal vez deseas promover tu Contenido publicando los nombres o logos de los seguidores de tu Cuenta, el enfoque principal del Contenido publicado en o a través de tu Cuenta al Servicio no debe ser publicidad o marketing promocional. Esto incluye Contenido publicado en o a través de Páginas, Paquetes, repositorios y todas las demás partes del Servicio. Puedes incluir imágenes estáticas, enlaces y textos promocionales en los documentos README o secciones de descripción del proyecto asociadas con tu Cuenta, pero deben estar relacionados con el proyecto que estás alojando en GitHub. No puedes publicitar en las Cuentas de otros Usuarios, por ejemplo, mediante la publicación de contenido monetizado o excesivo en masa.
 
-No puedes promover o distribuir contenido o actividad ilegal o prohibida por nuestros [Términos de servicio](/es/github/site-policy/github-terms-of-service), [Directrices de la comunidad](/es/github/site-policy/github-community-guidelines), o [Política de Uso Aceptable](/es/github/site-policy/github-acceptable-use-policies), incluyendo una actividad masiva automatizada excesiva (por ejemplo, spamming), esquemas "hazte rico rápidamente" y distorsión o engaño relacionados con tu promoción.
+You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/es/github/site-policy/github-terms-of-service)or [Acceptable Use Policies](/es/github/site-policy/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
 
 Si decides alojar cualquier material publicitario o promocional en tu Cuenta, eres el único responsable de cumplir con todas las leyes y regulaciones correspondientes, incluyendo, entre otras, las Directrices sobre Endosos y Testimonios de la Comisión Federal de Comercio de los EE. UU. Directrices de la Comisión Federal de Comercio sobre los respaldos y testimonios. Nos reservamos el derecho de eliminar cualquier material promocional o publicidad que, a nuestra entera discreción, viole cualquier término o política de GitHub.
 
-GitHub se reserva el derecho de eliminar cualquier Contenido que viole esta política.
-
-[](#10-user-protection)10. Protección del Usuario
+[](#11-user-protection)11. Protección del Usuario
 ----------
 
-No debes participar de actividades que dañen de manera significativa a otros usuarios. Resolveremos las disputas en favor de la protección de los usuarios como totalidad.
+No debes participar de actividades que dañen de manera significativa a otros usuarios.
+
+We will interpret our policies and resolve disputes in favor of protecting users as a whole.
+
+---
+
+GitHub retains full discretion to [take action](/es/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/es/github/site-policy/github-terms-of-service#3-github-may-terminate), or [removal](/es/github/site-policy/github-terms-of-service#2-github-may-remove-content) of content.

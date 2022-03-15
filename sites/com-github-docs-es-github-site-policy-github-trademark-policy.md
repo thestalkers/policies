@@ -4,12 +4,12 @@ Política de marca registrada de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Política de marca registrada de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-trademark-policy#in-this-article)
+[En este artículo](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
 * [¿Qué es una Violación de la Política de Marcas de GitHub?](#what-is-a-github-trademark-policy-violation)
@@ -72,7 +72,7 @@ Para investigar las violaciones de la política de marcas, por favor proporciona
 
 * También incluye la siguiente declaración: "Juro, bajo pena de perjurio, que la información de esta notificación es fiel y que soy el propietario de los derechos de autor o estoy autorizado para actuar en nombre del propietario, de un derecho exclusivo que se infringe presuntamente."
 
-* Incluye tu firma física o electrónica.
+* Incluir tu firma física o electrónica.
 
 * Nota: Se requiere un número de registro federal o internacional de marcas registradas. Si el nombre que estás reportando no es \*\*\*\* una marca registrada (por ejemplo, una agencia gubernamental u organización sin fines de lucro), comunícanos:
 

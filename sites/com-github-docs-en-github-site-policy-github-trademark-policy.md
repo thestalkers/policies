@@ -7,7 +7,7 @@ GitHub Trademark Policy - GitHub Docs
 GitHub Trademark Policy
 ==========
 
-[In this article](/github/site-policy/github-trademark-policy#in-this-article)
+[In this article](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
 * [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)

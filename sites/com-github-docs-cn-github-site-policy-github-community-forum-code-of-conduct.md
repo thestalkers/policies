@@ -4,12 +4,12 @@ GitHub 社区论坛行为准则 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 GitHub 社区论坛行为准则
 ==========
 
-[本文内容](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[本文内容](/site-policy/github-terms/github-community-forum-code-of-conduct#in-this-article)
 ----------
 
 * [概述和宗旨](#overview-and-purpose)
@@ -27,13 +27,13 @@ GitHub 社区论坛行为准则
 [](#overview-and-purpose)概述和宗旨
 ----------
 
-数百万开发者在 GitHub 上托管了数百万个项目，包括开源和闭源项目，我们很荣幸能够为促进开发者社区的日常协作发挥作用。 走在一起，我们都有机会和责任让这个社区成为我们值得骄傲的地方。
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
 GitHub 社区论坛旨在成为推动协作、支持和集思广益的地方。 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 参与本社区，即表示您同意遵守适用于 GitHub.com 的\<[服务条款](/cn/github/site-policy/github-terms-of-service)和 [GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)以及本社区特定的行为准则。
 
 我们希望通过本行为准则，帮助您了解如何在 GitHub 社区论坛中完美协作、版主的职能以及哪些类型的行为或内容可能导致暂停或永久性终止社区参与。 我们将调查任何滥用举报，并且可能会删除社区内我们确定违反了 GitHub 服务条款或本行为准则的公共内容。
 
-GitHub 的用户来自世界各地，有上周才创建其第一个 "Hello World" 项目的新人，也有享誉全球的软件开发高手，他们带来了各种不同的观点、想法和经验。 我们致力于让 GitHub 和 GitHub 社区论坛成为一个海纳百川的环境，在支持个人自由表达的同时能够欢迎各种不同的声音和观点。
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
 [](#pledge)承诺
 ----------
@@ -47,17 +47,17 @@ GitHub 社区论坛提倡互相尊重。 论坛是一种共享资源 — 通过�
 
 以下规则并非硬性规定，仅用于帮助我们社区的人为判断。 我们使用这些准则为文明的公众讨论提供一个窗明几净的环境。
 
-### [](#best-practices-for-building-a-strong-community)*建设强大社区的最佳实践* ###
+### [](#best-practices-for-maintaining-a-strong-community)*Best Practices for Maintaining a Strong Community* ###
 
-* 互相尊重和体谅。
+GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持一个用户能够自由表达意见并对彼此想法（包括技术和其他方面）提出挑战的社区。 At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-  * **包容开放。**社区其他成员的经验水平或背景可能与您不同，但这并不意味着他们不能贡献好的想法。 我们鼓励大家欢迎新成员和刚入门的新手。
+* Engage with consideration and respect.
 
-  * **互相尊重。**粗鲁是正常对话的天敌。 保持礼貌和专业，不要发表被理性的人视为冒犯、侮辱或仇恨的言论。 不要骚扰或打击任何人。 在所有互动中应互相尊重和体谅。
+  * **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-    您可能要发表反对的意见。 没问题。 但请记住，您的批评要对事不对人。 不要说脏话、人身攻击、纠结于帖子的语气而罔顾其实际内容或制造下意识的矛盾。 而应该提供合理的反驳论据，保持友善的对话。
+  * **Be respectful** - Working in a collaborative environment means disagreements may happen. 但请记住，您的批评要对事不对人。 Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-  * **共情沟通。**意见相左或分歧是生活中的常态。 作为社区的一部分，意味着您要与各种背景和观点的人互动，其中许多人的观点可能与您不同。 如果您不同意某人的观点，请先试图理解他们并体会他们的情感，然后再发表意见。 这将有助于营造尊重和友好的氛围，让人舒适自在地提出问题、参与讨论和做出贡献。
+  * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
 * 以积极和建设性的方式参与。
 
@@ -65,11 +65,9 @@ GitHub 社区论坛提倡互相尊重。 论坛是一种共享资源 — 通过�
 
     论坛讨论的主题对我们非常重要，我们希望您也重视这些主题。 即使您不同意其中的某些内容，但请尊重主题和讨论主题的人。
 
-  * **清晰表达、紧扣主题。**在互联网上与陌生人交流可能并不容易。 很难传达或读懂语气，容易被误解为嘲讽。 尽可能清晰表达，并考虑其他人如何理解您的表达。
+  * **Be clear and stay on topic.** The GitHub Community Forum is for collaboration, sharing ideas, and helping each other get stuff done. 脱离主题的评论对于完成工作和取得成效是一种干扰（有时可能受欢迎，但这种情况很少）。 紧扣主题有助于产生积极和富有成效的讨论。
 
     这也适用于分享链接。 在社区论坛中分享任何链接均应以提供相关和适当的信息为目的。 不能只是为某个站点吸引流量或关注而发布链接。 链接应始终附有对链接内容和目的的充分说明。 发布没有相关且有价值背景信息的链接，特别是未经请求提供这种链接，可能被当作发广告或带有更恶意的目的。
-
-    此外，GitHub 社区论坛是支持协作、交流想法和互相帮助完成工作的地方。 脱离主题的评论对于完成工作和取得成效是一种干扰（有时可能受欢迎，但这种情况很少）。 紧扣主题有助于产生积极和富有成效的讨论。
 
   * **谨慎分享。**要求他人提供反馈或协作处理项目时，请只分享有价值的相关资源以提供背景信息。 不要发布对主题无价值的链接，不要在其他用户的帖子中主动发布指向您自己项目或站点的链接。
 

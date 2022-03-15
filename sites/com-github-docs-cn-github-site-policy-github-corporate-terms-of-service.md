@@ -4,12 +4,12 @@ GitHub 公司服务条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 GitHub 公司服务条款
 ==========
 
-[本文内容](/github/site-policy/github-corporate-terms-of-service#in-this-article)
+[本文内容](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
 * [GitHub 公司服务条款](#github-corporate-terms-of-service)
@@ -87,45 +87,45 @@ GitHub 公司服务条款
 
 **“内容”**包括但不限于通过服务刊登、显示或提供的任何代码、文本、数据、文章、软件包、照片、图片、软件、应用程序、设计、功能及其他材料。
 
-**“公司帐户”**是指用户代表实体创建的帐户。
+**"Corporate Account"** means an account created by a User on behalf of an entity.
 
 **“客户”**是指通过单击“我同意”或类似按钮，或者通过访问产品，与 GitHub 签订本协议的公司或组织。
 
-**“客户内容”**是指客户创建、拥有或持有权利的内容。
+**"Customer Content"** means Content that Customer creates, owns, or to which Customer holds the rights.
 
 **“文档”**是指与 GitHub 提供给客户的产品相关的任何手册、文档及其他支持材料。
 
 **“生效日期”**是以下日期中的较早日期 (i) 单击“我同意”以接受本协议的条款和条件，或 (ii) 第一次下单购买产品。
 
-**“外部用户”**是指访问或使用服务的个人，不包括客户的用户。
+**"External User"** means an individual, not including Customer’s Users, who visit or use the Service.
 
-**“反馈”“**是指关于 GitHub 产品或服务的任何想法、知识、算法、代码贡献、建议、增强请求、建议或任何其他反馈。
+**"Feedback"** means any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback on GitHub products or services.
 
 **“费用”**是指客户因以下原因而必须向 GitHub 支付的费用：(i) 在适用的订阅期内使用产品，或 (ii) 获得专业服务，此类费用反映在订单或 SOW 中。
 
-**“复刻”**是指将一个仓库的内容复制到另一个仓库。
+**“Fork”** means to copy the Content of one repository into another repository.
 
 **“GitHub”**是指 GitHub, Inc.、其附属公司和代表。
 
-**“GitHub 内容”**是指 GitHub 创建、拥有或持有权利的内容。
+**"GitHub Content"** means Content that GitHub creates, owns, or to which it holds the rights.
 
-**“机器帐户”**是指代表机器帐户接受适用服务条款、提供有效的电子邮件地址并负责其操作的个人注册的帐户。 机器帐户专用于执行自动化任务。 多个用户可指示机器帐户的操作，但帐户所有者对机器的操作最终负责。
+**“Machine Account”** means an account registered by an individual human who accepts the applicable terms of service on behalf of the Machine Account, provides a valid email address, and is responsible for its actions. 机器帐户专用于执行自动化任务。 多个用户可指示机器帐户的操作，但帐户所有者对机器的操作最终负责。
 
 **“订单”**是指双方用来订购产品的书面或电子文档（包括报价）。
 
-**“组织”**是指与一个实体或者一个或多个用户相关的共享工作空间，其中多个用户可以一次协作处理多个项目。 用户可以是多个组织的成员。
+**“Organization”** means a shared workspace that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. 用户可以是多个组织的成员。
 
-**“私有仓库”**是指允许用户控制内容访问权限的仓库。
+**“Private Repository”** means a repository which allows a User to control access to Content.
 
 “**专业服务**”是指 GitHub 根据共同执行的 SOW 向客户提供的培训、咨询或实现服务。 专业服务不包括支持。
 
-**“专业服务积分”**是指购买专业服务时的预付方式（专用于旅行和住宿费用），客户可在十二 (12) 个月内（除非订单另有规定）用来购买专业服务。 在购买日期起十二 (12) 个月（或订单规定的时间）结束时未使用的任何专业服务积分将自动取消，且不能退款。
+**"Professional Services Credits"** means the upfront payment method for purchasing Professional Services (exclusive of travel and lodging expenses) that Customer may use over a period of twelve (12) months (unless otherwise stated in an Order Form) for Professional Services. 在购买日期起十二 (12) 个月（或订单规定的时间）结束时未使用的任何专业服务积分将自动取消，且不能退款。
 
-**“公共仓库”**是指其内容对所有用户可见的仓库。
+**“Public Repository”** means a repository whose Content is visible to All Users.
 
 **“代表”**是指一方的员工、高管、代理、独立承包商、顾问以及法律和财务顾问。
 
-**“擦除”**擦除是指通过自动化过程（如自动程序或网络爬虫 ）从服务中提取数据，不包括通过 GitHub 的 API 收集信息。
+**“Scraping”** means extracting data from the Service via an automated process, such as a bot or webcrawler, and does not include the collection of information through GitHub's API.
 
 **“服务”**是指 GitHub 的托管服务和任何适用的文档。
 
@@ -137,14 +137,14 @@ GitHub 公司服务条款
 
 **"用户"** 是指以下个人或机器帐户 (a) 访问或使用服务，(b) 访问或使用客户帐户任何部分，或 (c) 在每种情况下代表客户指示使用客户帐户履行职能。 用户数不应超过客户购买的订阅许可数。
 
-**“用户生成的内容”**是指第三方或外部用户创建或拥有的内容。
+**“User-Generated Content”** means Content created or owned by a third party or External User.
 
 [](#b-account-terms)B. 帐户条款
 ----------
 
 ### [](#1-account-controls)1. 帐户控制。 ###
 
-* *用户。*客户承认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub 的标准服务条款](/cn/articles/github-terms-of-service)管辖用户对服务的使用，但本 B 部分下所述的用户活动除外。
+* *用户。*客户承认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub's Standard Terms of Service](/cn/articles/github-terms-of-service) govern Users' use of the Service, except with respect to Users' activities under this Section B.
 
 * *组织。*根据本 B 部分，客户对代表客户创建的任何组织以及发布到其组织内仓库的用户生成内容具有最终管理控制权。本 B 部分管制客户组织的使用。
 
@@ -156,7 +156,7 @@ GitHub 公司服务条款
 
 * 用户登录名不能多人共享。
 
-* 客户在以下情况下不得使用产品 (a) 违反美国或任何其他司法管辖区的出口管制或制裁法律；(b) 如果位于或普通居住于遭受美国 “外国资产管制办公室”(OFAC) 全面制裁的国家或地区；或 (c) 如果客户是[特别指定的国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或代表其工作，或者是遭受类似封锁或被拒绝方禁令的个人。 更多信息请参阅我们的[出口管制政策](/cn/articles/github-and-export-controls)。
+* 客户在以下情况下不得使用产品 (a) 违反美国或任何其他司法管辖区的出口管制或制裁法律；(b) 如果位于或普通居住于遭受美国 “外国资产管制办公室”(OFAC) 全面制裁的国家或地区；或 (c) 如果客户是[特别指定的国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或代表其工作，或者是遭受类似封锁或被拒绝方禁令的个人。 For more information, please see our [Export Controls policy](/cn/articles/github-and-export-controls).
 
 ### [](#3-account-security)3. 帐户安全 ###
 
@@ -181,7 +181,7 @@ GitHub 在[企业服务等级协议](/cn/github/site-policy/github-enterprise-se
 
 客户对产品的使用不得违反任何相关法律，包括版权法或商标法、出口管制法律或其司法管辖区的法规。
 
-### [](#2-acceptable-use)2. 可接受的使用 ###
+### [](#2-acceptable-use)2. 可接受使用 ###
 
 客户对服务的使用必须遵守 [GitHub 可接受的使用政策](/cn/articles/github-acceptable-use-policies)和 [GitHub 社区指导方针](/cn/articles/github-community-guidelines)。 客户不得在任何司法管辖区将服务用于非法、淫秽、冒犯性或欺诈性内容或活动，例如鼓吹或造成伤害；干扰或违反网络或系统的完整性或安全性；避开过滤器；发送主动、辱骂或欺诈性消息、病毒或有害代码；或者违反第三方权利。
 
@@ -347,7 +347,7 @@ GitHub 将提供有关我们访问私有仓库内容的通知，访问的目的�
 
 \_服务免责声明。\_GitHub **“按原样”**和**“视情况”**提供服务，不含任何形式的保证。 不限于此，关于服务，GitHub 明确否认所有保证，无论是明示、暗示还是法定保证，包括但不限于任何适销性、特定目的适用性、权利、安全性、准确性和非侵权。 GitHub 不保证服务将满足客户的要求；服务不中断、及时、安全或无错；通过服务提供的信息准确、可靠或正确；任何缺陷或错误将得到更正；服务在任何特定时间或地点可用；服务没有病毒或其他有害成分。 对于因客户下载和/或使用从服务获取的文件、信息、内容或其他材料而造成的任何损失风险，GitHub 概不负责。
 
-*测试版预览。*客户可自行决定选择使用测试版预览。 测试版预览不受支持，可能随时更改而不另行通知。 测试版预览的可靠性及可用性可能不如服务。 测试版预览不像服务一样采取同样的安全措施和审核。 GitHub 不承担测试版预览引起或与之相关的责任。 **客户使用测试版预览自担风险。**
+*测试版预览。*客户可自行决定选择使用测试版预览。 测试版预览不受支持，可能随时更改而不另行通知。 测试版预览的可靠性及可用性可能不如服务。 测试版预览不像服务一样采取同样的安全措施和审核。 GitHub 不承担测试版预览引起或与之相关的责任。 **Customer uses Beta Previews at its own risk.**
 
 [](#n-limitations-of-liability)N. 责任限制
 ----------

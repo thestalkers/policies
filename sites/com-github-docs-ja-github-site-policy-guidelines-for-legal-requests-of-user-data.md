@@ -4,12 +4,12 @@
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 ユーザデータの法的リクエストに関するガイドライン
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/guidelines-for-legal-requests-of-user-data#in-this-article)
+[ここには以下の内容があります:](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
 * [本ガイドラインについて](#about-these-guidelines)

@@ -4,12 +4,12 @@ Acuerdo de Protección de Datos de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Este documento está traducido del inglés. En caso de conflicto, incertidumbre o aparente inconsistencia entre esta versión y la versión en inglés de este documento, la versión en inglés es la versión controladora. Si tienes sugerencias para mejorar nuestra traducción, por favor [abre una propuesta en nuestro repositorio site-policy](https://github.com/github/site-policy/issues).
+Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Acuerdo de Protección de Datos de GitHub
 ==========
 
-[En este artículo](/github/site-policy/github-data-protection-agreement#in-this-article)
+[En este artículo](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
 ----------
 
 * [Introducción](#introduction)
@@ -60,7 +60,7 @@ Los Términos del DPA proporcionan aquellos de los Servicios en Línea que se en
 
 Los términos capitalizados que se utilizan pero no se definen en este DPA tendrán los medios que se proporcionan en el Acuerdo de Cliente de GitHub. Los términos que se definen a continuación se utilizan en este DPA:
 
-“**CCPA**” se refiere a la Ley de Privacidad de Consumidores de California, de acuerdo con lo que se establece en el Código Civil §1798.100 et seq. y sus regulaciones de implementación.
+“**CCPA**” se refiere a la Ley de Privacidad de Consumidores de California, de acuerdo con lo que se establece en el Código Civ. §1798.100 et seq. y sus regulaciones de implementación.
 
 “**Datos de Cliente**” significa todos los datos, incluyendo todos los archivos de texto, sonido, video o imágenes y software que se le proporcionen a GitHub o en nombre del cliente mediante el uso del Servicio en Línea.
 
@@ -123,7 +123,7 @@ Los Clientes deben cumplir con todas las leyes y regulaciones aplicables a su us
 
 Los términos de la DPA en esta sección incluyen las siguientes subsecciones:
 
-* Alcance
+* Ámbito
 * Naturaleza del Procesamiento de Datos; Propiedad
 * Divulgación de los Datos Procesados
 * Procesamiento de los Datos Personales; GDPR

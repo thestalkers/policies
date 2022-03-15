@@ -4,12 +4,12 @@
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 贈賄防止に関するGitHubの声明
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-anti-bribery-statement#in-this-article)
+[ここには以下の内容があります:](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
 * [贈収賄を禁止するGitHubのポリシー](#github-policies-prohibiting-bribery)

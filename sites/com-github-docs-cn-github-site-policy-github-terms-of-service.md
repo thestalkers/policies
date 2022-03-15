@@ -4,12 +4,12 @@ GitHub 服务条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-本文档译自英文。 如果本文档的此版本与英文版本之间有任何冲突、不确定性或明显的不一致，以英文版为准。 如果您有改进我们翻译的建议，请[在我们的网站政策仓库中开一个议题](https://github.com/github/site-policy/issues)。
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
 GitHub 服务条款
 ==========
 
-[本文内容](/github/site-policy/github-terms-of-service#in-this-article)
+[本文内容](/site-policy/github-terms/github-terms-of-service#in-this-article)
 ----------
 
 * [摘要](#summary)
@@ -20,7 +20,7 @@ GitHub 服务条款
 
 * [B. 帐户条款](#b-account-terms)
 
-* [C. 可接受的使用](#c-acceptable-use)
+* [C. 可接受使用](#c-acceptable-use)
 
 * [D. 用户生成内容](#d-user-generated-content)
 
@@ -61,7 +61,7 @@ GitHub 服务条款
 |-----------------------------------------------------------|-------------------------------------------------------------|
 |                  [A. 定义](#a-definitions)                  |           一些基本术语，其定义方式将有助于您理解此协议。 不明确时请回头参阅本节内容。            |
 |                [B. 帐户条款](#b-account-terms)                |                   这些是在GitHub 上开设帐户的基本要求。                    |
-|              [C. 可接受的使用](#c-acceptable-use)               |                 这些是您使用 GitHub 帐户时必须遵循的基本规则。                 |
+|               [C. 可接受使用](#c-acceptable-use)               |                 这些是您使用 GitHub 帐户时必须遵循的基本规则。                 |
 |          [D. 用户生成内容](#d-user-generated-content)           |您在 GitHub 上发布的内容归您所有。 但您对此负有一些责任，我们请您向我们授予一些权利，以便我们能够为您提供服务。 |
 |            [E. 私有仓库](#e-private-repositories)             |                本节讨论 GitHub 如何处理您在私有仓库中发布的内容。                |
 |[F. 版权和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)|         本节介绍当您认为有人正在侵犯您在 GitHub 上的版权时，GitHub 将如何应对。         |
@@ -121,7 +121,7 @@ GitHub 服务条款
 * 一个人或一个法律实体最多可以拥有一个免费帐户（如果您选择还控制一个机器帐户，没问题，但是它只能用于运行机器）。
 * 用户必须年满 13 岁。 虽然我们很高兴看到优秀的年轻编码者热衷于学习编程，但我们必须遵守美国法律。 GitHub 并未针对 13 岁以下的儿童定制服务，因此我们不允许任何 13 岁以下的用户使用我们的服务。 如果我们发现任何用户未满 13 岁，我们将[立即终止该用户的帐户](#l-cancellation-and-termination)。 如果您是美国以外的国家/地区的居民，您所在国家/地区规定的最低年龄可能会更大；在这种情况下，您有责任遵守您所在国家/地区的法律。
 * 您的登录名只能由一个人使用，即不允许多人共享一个登录名。 付费组织只能在订阅允许的范围内向多个用户帐户提供访问权限。
-* 不得违反美国或任何其他适用司法管辖区的出口管制或制裁法律使用 GitHub。 如果您是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx)或被美国政府机构实施的类似封锁或被拒方禁令所限制的个人，或者代表他们工作，则您不得使用 GitHub。 政府机构。 GitHub 可能会根据美国政府的授权，允许某些受制裁国家或地区的人访问某些 GitHub 服务。 政府授权。 更多信息请参阅我们的[出口管制政策](/cn/articles/github-and-export-controls)。
+* 不得违反美国或任何其他适用司法管辖区的出口管制或制裁法律使用 GitHub。 如果您是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx)或被美国政府机构实施的类似封锁或被拒方禁令所限制的个人，或者代表他们工作，则您不得使用 GitHub。 政府机构。 GitHub 可能会根据美国政府的授权，允许某些受制裁国家或地区的人访问某些 GitHub 服务。 政府授权。 For more information, please see our [Export Controls policy](/cn/articles/github-and-export-controls).
 
 ### [](#4-user-account-security)4. 用户帐户安全 ###
 
@@ -139,7 +139,7 @@ GitHub 服务条款
 
 如果您注册了 GitHub Enterprise Cloud，则 [Enterprise Cloud 附录](/cn/articles/github-enterprise-cloud-addendum)适用于您，并且您同意其规定。
 
-[](#c-acceptable-use)C. 可接受的使用
+[](#c-acceptable-use)C. 可接受使用
 ----------
 
 **短版本：** *GitHub 托管全球各地大量的协作项目，仅当用户能够善意一起工作时，该协作才能正常进行。 在使用服务时，必须遵守此部分的条款，包括对您可以发布的内容、对服务的操作的一些限制，以及其他限制规定。 简言之，要互惠互利。*

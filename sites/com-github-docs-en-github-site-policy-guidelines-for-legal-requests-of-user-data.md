@@ -7,7 +7,7 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 Guidelines for Legal Requests of User Data
 ==========
 
-[In this article](/github/site-policy/guidelines-for-legal-requests-of-user-data#in-this-article)
+[In this article](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
 * [About these guidelines](#about-these-guidelines)

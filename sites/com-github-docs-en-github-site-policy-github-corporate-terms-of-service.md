@@ -7,7 +7,7 @@ GitHub Corporate Terms of Service - GitHub Docs
 GitHub Corporate Terms of Service
 ==========
 
-[In this article](/github/site-policy/github-corporate-terms-of-service#in-this-article)
+[In this article](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
 * [GitHub Corporate Terms of Service](#github-corporate-terms-of-service)

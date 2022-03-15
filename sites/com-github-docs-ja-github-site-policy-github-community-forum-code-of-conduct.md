@@ -4,12 +4,12 @@ GitHubコミュニティフォーラムの行動規範 - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-このドキュメントは英語から翻訳されました。 このドキュメントのこのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、明らかな非一貫性があるばあい、英語バージョンが支配的なバージョンです。 翻訳の改善についての示唆があるなら、[弊社のサイトポリシーリポジトリでIssueをオープンして](https://github.com/github/site-policy/issues)ください。
+ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
 
 GitHubコミュニティフォーラムの行動規範
 ==========
 
-[ここには以下の内容があります:](/github/site-policy/github-community-forum-code-of-conduct#in-this-article)
+[ここには以下の内容があります:](/site-policy/github-terms/github-community-forum-code-of-conduct#in-this-article)
 ----------
 
 * [概要と目的](#overview-and-purpose)
@@ -27,13 +27,13 @@ GitHubコミュニティフォーラムの行動規範
 [](#overview-and-purpose)概要と目的
 ----------
 
-GitHub では、何百万人もの開発者が何百万ものプロジェクト（オープンソースとクローズドソースの両方）をホストしています。私たちは、開発者コミュニティの日々のコラボレーションに貢献できることを光栄に思います。 私たちには、誇りに思うことができるコミュニティを実現するための素晴らしいチャンスがあると同時に、責任も背負っています。
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
 GitHubコミュニティフォーラムは、コラボレーション、サポート、およびブレインストーミングを推進する場となることを目的としています。 ここは、他のユーザとつながり、新しいスキルを学び、意見やアイデアを共有し、さらにGitHubプロジェクトに必要なサポートを得るための快適な場です。 By participating in this Community, you are agreeing to the same [Terms of Service](/ja/github/site-policy/github-terms-of-service) and [GitHub Acceptable Use Policies](/ja/github/site-policy/github-acceptable-use-policies) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
 
 この行動規範が、 GitHubコミュニティフォーラムに貢献する最善の方法、モデレーターにできること、およびコミュニティへの参加が一時的または永久に停止される行為やコンテンツの種類について理解の助けになることを願います。 当社は不正行為の報告を調査し、GitHub利用規約または本行動規範のいずれかに違反していると当社が判断したコミュニティ内の公開コンテンツを管理することがあります。
 
-世界中の GitHub ユーザたちの持つ視点、アイデア、経験は十人十色。数日前に初めて「Hello World」プロジェクトを作った人から、世界で最も有名なソフトウェア開発者まで、さまざまなユーザがいます。 私たちは、GitHubおよびGitHubコミュニティフォーラムを、さまざまな意見や視点に対応した快適な環境にし、人々が自由に自分を表現できるスペースになるよう取り組んでいます。
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
 [](#pledge)誓約
 ----------
@@ -47,17 +47,17 @@ GitHubコミュニティフォーラムを、敬意をもって扱ってくだ�
 
 以下は杓子定規の決まりごとではなく、コミュニティにおける人間の判断を助けるためのものです。 気持ちよい、礼儀正しい話し合いの場である状態を保つため、このガイドラインを用いましょう。
 
-### [](#best-practices-for-building-a-strong-community)*強いコミュニティを作るためのベストプラクティス* ###
+### [](#best-practices-for-maintaining-a-strong-community)*Best Practices for Maintaining a Strong Community* ###
 
-* 敬意と思いやりを持ちましょう。
+GitHub コミュニティの主な目的は、ソフトウェアプロジェクトの共同作業です。 私たちは、ユーザが自由に自己表現し、それが技術的な内容であろうがそうでなかろうが、お互いのアイデアについて意見を交換できるコミュニティを維持できるように取り組んでいます。 At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-  * **広い心で受け入れる。**他のコミュニティメンバーとあなたとでは、経験値やバックグラウンドが異なるかもしれませんが、だからといって相手がコントリビューションにつながる良いアイデアを持っていないということにはなりません。 新たなメンバーや、かけだしのユーザーは歓迎してあげましょう。
+* Engage with consideration and respect.
 
-  * **お互いを尊重し合うこと。**無礼な態度ほど、健全な会話を妨げるものはありません。 礼儀正しく、大人の態度を保ちましょう。一般的に攻撃的、虐待的、ヘイトスピーチとみなされるような内容を投稿しないでください。 嫌がらせや、人が悲しむような行為は禁止されています。 あらゆるやり取りにおいて、お互いに品位と配慮をもって接しましょう。
+  * **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-    意見に反対したいこともあるでしょう。 それは全くかまいません。 ただし、批判すべきはアイデアであって、人ではありません。 悪口、個人攻撃、投稿の内容ではなく口調に対する応答、脊髄反射的な反論を行うのではなく、 会話の質を高めるような、理論的な反論を行いましょう。
+  * **Be respectful** - Working in a collaborative environment means disagreements may happen. ただし、批判すべきはアイデアであって、人ではありません。 Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-  * **共感をもってコミュニケーションを行う。**意見の不一致や相違はよくあることです。 コミュニティの一員であることは、あなたとは違った背景や視点を持つさまざまな人と交流するということです。 誰かと意見が合わない場合は、それを直に伝える前に、その人を理解し、相手の立場に立ってみるようにしましょう。 こうすることで、質問や議論への参加、コントリビューションなどがしやすい、敬意と親密さに満ちた雰囲気が作られます。
+  * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
 * 肯定的、建設的な方法で貢献しましょう。
 
@@ -65,11 +65,9 @@ GitHubコミュニティフォーラムを、敬意をもって扱ってくだ�
 
     この場で話し合われる話題は私たちにとって大切なので、あなたにもそれを大切にしてもらいたいと思います。 何か同意できないことがある場合でも、話題やそれを話し合う人々を尊重してください。
 
-  * **明確でトピックに沿うようにやりとりする。**インターネット上で見知らぬ人とやりとりするには、注意深さが求められます。 口調を伝えたり読み取ったりすることは難しく、皮肉な言葉が誤解されることも少なくありません。 明確な言葉を用い、相手がそれをどのように受け取るかを考えるようにしましょう。
+  * **Be clear and stay on topic.** The GitHub Community Forum is for collaboration, sharing ideas, and helping each other get stuff done. トピックから逸脱したコメントは、生産的に働いて仕事を終わらせるという目的から気をそらしてしまいます（たまにはいいかもしれませんが、普段は慎みましょう）。 トピックに集中することで、ポジティブで生産的な議論が生まれます。
 
     これは、リンクを書き込むことについても当てはまります。 コミュニティフォーラムでリンクを書き込む場合、関連する適切な情報を提供する目的で行う必要があります。 単にトラフィックを呼び込んだり、サイトに注目を集めたりするためにリンクを投稿すべきではありません。 リンクを投稿する際は、常にリンク先のコンテンツや目的についての十分な説明を添えてください。 関連性や価値あるコンテンツがない、不要なリンクを投稿すれば、広告や悪意の目的があるものと受け取られる可能性があります。
-
-    さらに、GitHubコミュニティフォーラムは、コラボレーション、アイデアの共有、そしてお互いの作業を終わらせるための場です。 トピックから逸脱したコメントは、生産的に働いて仕事を終わらせるという目的から気をそらしてしまいます（たまにはいいかもしれませんが、普段は慎みましょう）。 トピックに集中することで、ポジティブで生産的な議論が生まれます。
 
   * **伝え方に注意する。**他の人にフィードバックを求めたり、プロジェクトへのコラボレーションを求めたりする場合は、背景を伝えるため、有益で関連あるリソースのみを共有しましょう。 話題に貢献しないリンクや、自分のプロジェクトやサイトへのリンクをむやみに他のユーザのスレッドに投稿しないでください。
 
