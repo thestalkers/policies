@@ -5,8 +5,8 @@ This repo contains changes of rules, terms of service and privacy policy from a 
 # List of followed websites:
 
 - GitHub
-  - [简体中文 (Simplified Chinese)](https://docs.github.com/cn/github/site-policy)
-  - [English](https://docs.github.com/en/github/site-policy)
-  - [Español (Spanish)](https://docs.github.com/es/github/site-policy)
-  - [日本語 (Japanese)](https://docs.github.com/ja/github/site-policy)
-  - [Português do Brasil (Portuguese)](https://docs.github.com/pt/github/site-policy)
+  - [简体中文 (Simplified Chinese)](https://docs.github.com/cn/site-policy)
+  - [English](https://docs.github.com/en/site-policy)
+  - [Español (Spanish)](https://docs.github.com/es/site-policy)
+  - [日本語 (Japanese)](https://docs.github.com/ja/site-policy)
+  - [Português do Brasil (Portuguese)](https://docs.github.com/pt/site-policy)
