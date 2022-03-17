@@ -1,4 +1,4 @@
-Other Site Policies - GitHub Docs
+Outras políticas do site - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ Other Site Policies - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Other Site Policies
+Outras políticas do site
 ==========
 
 * [GitHub e controles de negociação](/pt/site-policy/other-site-policies/github-and-trade-controls)

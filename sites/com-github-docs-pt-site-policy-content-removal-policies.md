@@ -1,4 +1,4 @@
-Content Removal Policies - GitHub Docs
+Políticas de remoção de conteúdo - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ Content Removal Policies - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Content Removal Policies
+Políticas de remoção de conteúdo
 ==========
 
 * [Solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)

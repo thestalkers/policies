@@ -26,7 +26,7 @@ Termos do programa de pesquisa do GitHub
 
 * [G. Limitação de responsabilidade](#g-limitation-of-liability)
 
-* [H. Miscellaneous](#h-miscellaneous)
+* [H. Diversos](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub (“Contrato”).
 
@@ -77,7 +77,7 @@ Exceto conforme proibido por lei, você entende e concorda que não seremos resp
 
 Nossa responsabilidade está limitada ao fato de termos ou não sido informados da possibilidade de tais danos, e mesmo que se encontre uma solução neste Contrato que não tenha falhado em seu propósito essencial. Não teremos qualquer responsabilidade por qualquer falha ou atraso devido a questões que não sejam passíveis de um controle razoável.
 
-[](#h-miscellaneous)H. Miscellaneous
+[](#h-miscellaneous)H. Diversos
 ----------
 
 ### [](#1-governing-law)1. Lei Governamental ###

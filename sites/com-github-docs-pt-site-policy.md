@@ -9,16 +9,16 @@ Publicamos atualizações frequentes em nossa documentação, e a tradução des
 Política do site
 ==========
 
-* [GitHub Terms ----------](/pt/site-policy/github-terms)
+* [Termos do GitHub ----------](/pt/site-policy/github-terms)
 
 * [Políticas de uso aceitável ----------](/pt/site-policy/acceptable-use-policies)
 
-* [Privacy Policies ----------](/pt/site-policy/privacy-policies)
+* [Políticas de Privacidade ----------](/pt/site-policy/privacy-policies)
 
-* [Other Site Policies ----------](/pt/site-policy/other-site-policies)
+* [Outras políticas do site ----------](/pt/site-policy/other-site-policies)
 
-* [Content Removal Policies ----------](/pt/site-policy/content-removal-policies)
+* [Políticas de remoção de conteúdo ----------](/pt/site-policy/content-removal-policies)
 
-* [Security Policies ----------](/pt/site-policy/security-policies)
+* [Políticas de Segurança ----------](/pt/site-policy/security-policies)
 
-* [GitHub Company Policies ----------](/pt/site-policy/github-company-policies)
+* [Políticas corporativas do GitHub ----------](/pt/site-policy/github-company-policies)

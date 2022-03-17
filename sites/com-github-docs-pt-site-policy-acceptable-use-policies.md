@@ -9,24 +9,24 @@ Publicamos atualizações frequentes em nossa documentação, e a tradução des
 Políticas de uso aceitável
 ==========
 
-* [GitHub Sexually Obscene Content](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Conteúdo sexualmente obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [GitHub Disrupting the Experience of Other Users](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub Interrompendo a Experiência de Outros Usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-* [GitHub Doxxing and Invasion of Privacy](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [Doxxing e Invasão da Privacidade no GitHub](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [GitHub Hate Speech and Discrimination](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Discriminação e discurso de ódio no GitHub](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 * [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [GitHub Bullying and Harassment](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying e assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 * [GitHub Active Malware or Exploits](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
-* [GitHub Threats of Violence and Gratuitously Violent Content](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Ameaças de Violência e Conteúdo Gratuitamente Violento no GitHub](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [GitHub Impersonation](/pt/site-policy/acceptable-use-policies/github-impersonation)
+* [Roubo de identidade no GitHub](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
-* [GitHub Misinformation and Disinformation](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Informações incorretas no GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [GitHub Appeal and Reinstatement](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

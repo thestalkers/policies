@@ -1,4 +1,4 @@
-GitHub Terms - GitHub Docs
+Termos do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ GitHub Terms - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Terms
+Termos do GitHub
 ==========
 
 * [Termos de Serviço Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)

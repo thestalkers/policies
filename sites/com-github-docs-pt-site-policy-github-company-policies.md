@@ -1,4 +1,4 @@
-GitHub Company Policies - GitHub Docs
+Políticas corporativas do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ GitHub Company Policies - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Company Policies
+Políticas corporativas do GitHub
 ==========
 
 * [Declaração do GitHub contra a escravidão moderna e o trabalho infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)

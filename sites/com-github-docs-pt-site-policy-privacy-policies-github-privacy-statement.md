@@ -393,7 +393,7 @@ No caso improvável de conflito entre você e o GitHub sobre a manipulação das
 [](#changes-to-our-privacy-statement)Mudanças nesta Declaração de Privacidade
 ----------
 
-Embora grande parte das alterações sejam secundárias, o GitHub pode alterar esta Declaração de Privacidade ocasionalmente. Publicaremos uma notificação para os usuários no site sobre mudanças concretas feitas nesta Declaração de Privacidade pelo menos 30 dias antes de sua entrada em vigor. A notificação será exibida em nossa página inicial ou enviada por e-mail para o endereço de e-mail principal especificado na sua conta do GitHub. Também atualizaremos nosso [repositório da Política do Site](https://github.com/github/site-policy/), que registra e monitora todas as alterações feitas a esta política. For other changes to this Privacy Statement, we encourage Users to [watch](/pt/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) or to check our Site Policy repository frequently.
+Embora grande parte das alterações sejam secundárias, o GitHub pode alterar esta Declaração de Privacidade ocasionalmente. Publicaremos uma notificação para os usuários no site sobre mudanças concretas feitas nesta Declaração de Privacidade pelo menos 30 dias antes de sua entrada em vigor. A notificação será exibida em nossa página inicial ou enviada por e-mail para o endereço de e-mail principal especificado na sua conta do GitHub. Também atualizaremos nosso [repositório da Política do Site](https://github.com/github/site-policy/), que registra e monitora todas as alterações feitas a esta política. Para outras mudanças nesta Declaração de Privacidade, incentivamos os usuários a [observar](/pt/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) ou verificar o nosso repositório de Política de Site com frequência.
 
 [](#license)Licença
 ----------
@@ -412,7 +412,7 @@ Consulte abaixo este documento traduzido para outros idiomas. Em caso de conflit
 
 ### [](#french)French ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
+Clique aqui para consultar a versão em francês: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
 ### [](#other-translations)Outras traduções ###
 
