@@ -28,3 +28,5 @@ Acceptable Use Policies
 * [GitHub Misinformation and Disinformation](/en/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [GitHub Appeal and Reinstatement](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

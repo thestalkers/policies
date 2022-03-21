@@ -98,3 +98,5 @@ GitHubの倫理規範では、ギフト、旅行、エンタテインメント�
 ----------
 
 Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
+
+{"resolvedServerColorMode":"day"}

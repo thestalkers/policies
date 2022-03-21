@@ -156,3 +156,5 @@ Interpretaremos nossas políticas e resolveremos nossas disputas a favor de prot
 ---
 
 O GitHub mantém total discrição para [tomar a ação](/pt/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) em resposta a uma violação dessas políticas, incluindo a suspensão da conta, [cancelamento](/pt/github/site-policy/github-terms-of-service#3-github-may-terminate) da conta ou [remoção](/pt/github/site-policy/github-terms-of-service#2-github-may-remove-content) de conteúdo.
+
+{"resolvedServerColorMode":"day"}

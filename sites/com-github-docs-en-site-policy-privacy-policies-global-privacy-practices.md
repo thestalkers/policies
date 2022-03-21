@@ -84,3 +84,5 @@ Under certain limited circumstances, EU, European Economic Area (EEA), Swiss, an
 We are subject to the jurisdiction of the US Federal Trade Commission (FTC).
 
 Please see our [Privacy Statement](/en/articles/github-privacy-statement) for more information.
+
+{"resolvedServerColorMode":"day"}

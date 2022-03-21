@@ -36,3 +36,5 @@ Si consideras que la cuenta de alguien está violando tus derechos de marca, pue
 ----------
 
 GitHub prohibe el acaparamiento de nombres de cuenta, y dichos nombres de cuenta no pueden reservarse o mantenerse en inactividad para reclamarse posteriormente. Las cuentas que violen esta política de acaparamiento serán eliminadas o renombradas sin previo aviso. Los intentos de vender, comprar o solicitar otras formas de pago a cambio de nombres de cuenta están prohibidos y pueden resultar en una suspensión de cuenta permanente.
+
+{"resolvedServerColorMode":"day"}

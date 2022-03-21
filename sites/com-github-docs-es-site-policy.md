@@ -22,3 +22,5 @@ Política del sitio
 * [Security Policies ----------](/es/site-policy/security-policies)
 
 * [GitHub Company Policies ----------](/es/site-policy/github-company-policies)
+
+{"resolvedServerColorMode":"day"}

@@ -156,3 +156,5 @@ We will interpret our policies and resolve disputes in favor of protecting users
 ---
 
 GitHub retains full discretion to [take action](/es/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/es/github/site-policy/github-terms-of-service#3-github-may-terminate), or [removal](/es/github/site-policy/github-terms-of-service#2-github-may-remove-content) of content.
+
+{"resolvedServerColorMode":"day"}

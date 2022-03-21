@@ -22,3 +22,5 @@ Privacy Policies
 * [Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California](/es/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
 
 * [Política de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+
+{"resolvedServerColorMode":"day"}

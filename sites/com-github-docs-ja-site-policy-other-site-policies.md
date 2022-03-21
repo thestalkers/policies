@@ -20,3 +20,5 @@ Other Site Policies
 * [GitHub ユーザ名ポリシー](/ja/site-policy/other-site-policies/github-username-policy)
 
 * [ユーザデータの法的リクエストに関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+
+{"resolvedServerColorMode":"day"}

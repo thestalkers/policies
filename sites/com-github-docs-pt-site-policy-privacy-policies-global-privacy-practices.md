@@ -86,3 +86,5 @@ Em determinadas circunstâncias, indivíduos da UE, da Área Econômica Europeia
 Estamos sujeitos à jurisdição da Comissão Federal do Comércio dos EUA (FTC).
 
 Por favor, consulte nossa [Declaração de Privacidade](/pt/articles/github-privacy-statement) para obter mais informações.
+
+{"resolvedServerColorMode":"day"}

@@ -20,3 +20,5 @@ Site policy
 * [Security Policies ----------](/en/site-policy/security-policies)
 
 * [GitHub Company Policies ----------](/en/site-policy/github-company-policies)
+
+{"resolvedServerColorMode":"day"}

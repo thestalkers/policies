@@ -16,3 +16,5 @@ Políticas corporativas do GitHub
 * [Compromisso de cooperação GPL do GitHub](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [Política de presentes e entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+{"resolvedServerColorMode":"day"}

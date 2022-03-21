@@ -81,3 +81,5 @@ GitHubトレードマークポリシー
   * 住所
   * Phone
   * メールアドレス（会社のドメインのものである必要があります）
+
+{"resolvedServerColorMode":"day"}

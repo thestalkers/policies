@@ -83,3 +83,5 @@ Como o número e os nomes dos cookies podem mudar, a tabela abaixo pode ser atua
 *\** A data de **expiração** para os cookies listados abaixo geralmente se aplicam em uma base contínua.
 
 (!) Observe que, embora limitemos o uso de cookies de terceiros aos que forem necessários para fornecer funcionalidade externa ao processar conteúdo externo, certas páginas no nosso site podem definir outros cookies de terceiros. Por exemplo, podemos incorporar conteúdo, como vídeos, de outro site que define um cookie. Embora tentemos minimizar esses cookies de terceiros, nem sempre podemos controlar quais cookies esse conteúdo de terceiros define.
+
+{"resolvedServerColorMode":"day"}

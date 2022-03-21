@@ -69,3 +69,5 @@ In some cases, GitHub receives reports from government officials of violations o
 ----------
 
 In addition to posting government takedown notices in our `github/gov-takedowns` repository, we report on them in our transparency report. また、当社は GitHub 利用規約の侵害に基づいた行政機関による削除要請を、透明性レポートにおいて追跡・報告しています。
+
+{"resolvedServerColorMode":"day"}

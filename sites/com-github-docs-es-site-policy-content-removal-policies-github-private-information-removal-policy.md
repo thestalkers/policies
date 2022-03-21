@@ -112,3 +112,5 @@ Puedes enviar tu solicitud para eliminar información privada a través de nuest
 ----------
 
 Si recibes una solicitud de eliminación de información privada de nuestra parte, puedes disputarla si respondes a nuestro correo electrónico y nos dejas saber, con tanto detalle como sea posible, la razón por la cual el contenido en cuestión no constituye información privada que esté sujeta a esta Política.
+
+{"resolvedServerColorMode":"day"}

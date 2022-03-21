@@ -20,3 +20,5 @@ Privacy Policies
 * [GitHub's Notice about the California Consumer Privacy Act](/en/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
 
 * [GitHub Candidate Privacy Policy](/en/site-policy/privacy-policies/github-candidate-privacy-policy)
+
+{"resolvedServerColorMode":"day"}

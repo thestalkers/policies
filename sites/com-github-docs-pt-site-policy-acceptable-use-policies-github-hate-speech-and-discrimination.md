@@ -20,3 +20,5 @@ O GitHub não tolera o discurso que ataca ou promove o ódio a um indivíduo ou 
 * Apito de cachorro ou uso de uma linguagem ou símbolos codificados ou sugestivos para promover abuso ou ódio
 
 Embora o GitHub leve a sério todos os abusos e assédio na plataforma, estamos especialmente empenhados em combater os abusos com base no ódio, nos casos em que afetam de forma desproporcionada as comunidades que historicamente vêm sendo alvo desses abusos. Nosso objetivo é fazer do GitHub um lugar onde todos os indivíduos se sintam bem-vindos e seguros.
+
+{"resolvedServerColorMode":"day"}

@@ -17,3 +17,5 @@ You may not post content that presents a distorted view of reality, whether it i
 * Unsubstantiated claims that could promote hate or targeted harassment of specific groups of people
 
 当社はアイデア、視点、経験を表現することにおいて積極的な参加を促しており、個人アカウントや意見に反論するような立場にはないでしょう。 We generally allow parody and satire that is in line with our [Acceptable Use Polices](/ja/github/site-policy/github-acceptable-use-policies), and we consider context to be important in how information is received and understood. When reviewing content under this policy, GitHub will consider the impact of various factors that may help to orient the viewer, such as whether the content has been provided with clear disclaimers, citations to credible sources, or includes other details that clarify the accuracy of the information being shared.
+
+{"resolvedServerColorMode":"day"}

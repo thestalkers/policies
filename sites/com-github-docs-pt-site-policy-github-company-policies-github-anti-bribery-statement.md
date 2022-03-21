@@ -83,3 +83,5 @@ Enquanto os EUA O FCPA está focado em interações com funcionários do governo
 
 * Os **contratos de revenda padrão do GitHub com os Parceiros do Canal** incluem cláusulas obrigatórias anticorrupção. A partir de agora, o GitHub exige que nossos Parceiros do Canal se comprometam a cumprir esta Declaração Anticorrupção.
 * De agora em diante, os **contratos de fornecedores** do GitHub exigem um compromisso de cumprimento do Código de Conduta do Fornecedor da Microsoft ou desta Declaração Anticorrupção.
+
+{"resolvedServerColorMode":"day"}

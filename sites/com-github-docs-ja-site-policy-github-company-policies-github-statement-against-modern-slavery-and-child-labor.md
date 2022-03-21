@@ -139,3 +139,5 @@ GitHubで従業員が企業購買を行うための調達方法の指示書に�
 GitHubは、GitHubの事業とサプライチェーンを視野に入れ、すべての従業員に義務付けられる現代の奴隷制と児童労働に関する研修を開発中です。 GitHubは、イベントのサポート、建設、施設サービス、食品サービスなどの肉体労働が含まれるサービスを提供するサプライヤーを、潜在的なリスクがより高い分野として特に取り上げます。
 
 **GitHubの取締役会は、[この声明](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf)を承認しました。**
+
+{"resolvedServerColorMode":"day"}

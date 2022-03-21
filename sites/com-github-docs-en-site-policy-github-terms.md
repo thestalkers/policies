@@ -32,3 +32,5 @@ GitHub Terms
 * [GitHub Event Terms](/en/site-policy/github-terms/github-event-terms)
 
 * [GitHub Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
+
+{"resolvedServerColorMode":"day"}

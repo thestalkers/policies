@@ -20,3 +20,5 @@ Políticas de remoção de conteúdo
 * [Guia de envio do aviso de retirada DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 * [Política de retirada DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
+
+{"resolvedServerColorMode":"day"}

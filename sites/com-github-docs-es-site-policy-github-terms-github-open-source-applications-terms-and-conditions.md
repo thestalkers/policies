@@ -85,3 +85,5 @@ GitHub se reserva el derecho en cualquier momento y de vez en cuando de modifica
 6. Licencia a políticas de GitHub. Estos términos de aplicación están licenciados bajo esta [Licencia de Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más detalles, consulta nuestro [repositorio de políticas del sitio](https://github.com/github/site-policy#license).
 
 7. Contáctanos. ¿Preguntas sobre los Términos de Servicio? [Contáctanos](https://support.github.com/contact?tags=docs-policy).
+
+{"resolvedServerColorMode":"day"}

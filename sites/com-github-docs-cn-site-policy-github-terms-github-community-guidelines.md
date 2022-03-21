@@ -94,3 +94,5 @@ If you seek reinstatement or wish to appeal an enforcement action, please contac
 我们将这些社区指导方针专用于公共领域，让所有人根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整或适应。
 
 这些只是指导方针；不影响我们的[服务条款](/cn/articles/github-terms-of-service)，也不打算作为完整的清单。 Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/cn/articles/github-acceptable-use-policies). 这些指导方针说明了我们何时将行使这一酌处权。
+
+{"resolvedServerColorMode":"day"}

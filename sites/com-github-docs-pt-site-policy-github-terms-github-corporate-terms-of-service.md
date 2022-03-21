@@ -439,3 +439,5 @@ Cada Parte é um contratado independente no que diz respeito ao objeto deste Con
 ### [](#10-questions)10. Perguntas ###
 
 Perguntas sobre os Termos de Serviço? [Fale conosco](https://github.com/contact/).
+
+{"resolvedServerColorMode":"day"}

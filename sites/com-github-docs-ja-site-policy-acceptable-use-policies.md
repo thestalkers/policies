@@ -30,3 +30,5 @@
 * [GitHub Misinformation and Disinformation](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [GitHub Appeal and Reinstatement](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

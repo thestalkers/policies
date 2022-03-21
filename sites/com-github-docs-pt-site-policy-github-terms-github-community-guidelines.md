@@ -54,7 +54,7 @@ Embora alguns desacordos possam ser resolvidos com comunicação direta e respei
 
 * **Bloquear Usuários** - Se você encontrar um usuário específico com quem você prefere não se relacionar, você pode [bloquear o usuário na sua conta pessoal](/pt/articles/blocking-a-user-from-your-personal-account) ou [na sua organização](/pt/articles/blocking-a-user-from-your-organization).
 
-* **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting [temporary interaction limits](/pt/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) to keep certain users from interacting with your repository. Você pode até mesmo definir [limites de revisão de código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para garantir contribuições de qualidade nos seus projetos.
+* **Limite de interações** - Se seu projeto público estiver recebendo atenção indesejada, sendo ridicularizado, recebendo spam ou se você não tiver a opção de configurar [limites temporários de interação](/pt/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) para impedir que certos usuários interajam com seu repositório. Você pode até mesmo definir [limites de revisão de código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para garantir contribuições de qualidade nos seus projetos.
 
 Embora sejamos apaixonados por capacitar os mantenedores a moderar os seus próprios projetos, entre em contato conosco por [Denunciar abuso](https://github.com/contact/report-abuse) se precisar de apoio adicional para lidar com uma situação.
 
@@ -94,3 +94,5 @@ Se você procurar restabelecer ou recorrer de uma ação de execução, entre em
 Colocamos essas Diretrizes da Comunidade em domínio público para que qualquer pessoa use, reutilize, adapte, ou seja o que for, nos termos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas são apenas diretrizes; elas não modificam nossos [Termos de Serviço](/pt/articles/github-terms-of-service) e não pretendem ser uma lista completa. Nesses termos, o GitHub mantém o critério completo para remover qualquer conteúdo ou encerrar quaisquer contas de atividade que violem as nossas [Políticas de uso aceitável](/pt/articles/github-acceptable-use-policies). Estas diretrizes descrevem quando iremos exercer esse critério.
+
+{"resolvedServerColorMode":"day"}

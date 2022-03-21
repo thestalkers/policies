@@ -12,3 +12,5 @@ Security Policies
 * [Coordinated Disclosure of Security Vulnerabilities](/cn/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 * [GitHub 漏洞悬赏计划法律安全港](/cn/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+{"resolvedServerColorMode":"day"}

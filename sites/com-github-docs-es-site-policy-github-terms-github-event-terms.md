@@ -81,3 +81,5 @@ La ley de California regirá estos términos del evento, así como cualquier rec
 ----------
 
 Aceptas que no te representarás a ti mismo como empleado, representante o agente de GitHub (a menos que, por supuesto, realmente estés contratado por GitHub). Nos reservamos el derecho a cancelar el evento o cualquier evento relacionado en cualquier momento, por cualquier motivo y sin responsabilidad o perjuicio. Cualquier falla por parte de GitHub para ejercer o hacer cumplir cualquier derecho o disposición de estos términos no constituye una renuncia a tal derecho o disposición. Si alguna disposición de estos términos se encuentra como inejecutable o inválida, esa disposición se limitará o eliminará en la medida mínima necesaria para que los términos del evento permanezcan en plena vigencia y efecto y exigibles.
+
+{"resolvedServerColorMode":"day"}

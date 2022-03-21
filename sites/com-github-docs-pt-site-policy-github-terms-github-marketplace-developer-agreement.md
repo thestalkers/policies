@@ -335,3 +335,5 @@ A pedido, o Desenvolvedor disponibilizará sua Declaração de Privacidade, Pol�
 **A1-8. Responsabilidade pelo processamento de dados**
 
 * a. Responsabilidade direta. O Desenvolvedor será responsável perante o GitHub por danos reais causados por qualquer violação deste Anexo sujeitos aos termos da Seção 8, Limitação de Responsabilidade do Contrato de Desenvolvedor de Marketplace.
+
+{"resolvedServerColorMode":"day"}

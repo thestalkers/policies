@@ -20,3 +20,5 @@ Other Site Policies
 * [Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
 * [Pautas para las solicitudes legales de los datos del usuario](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+
+{"resolvedServerColorMode":"day"}

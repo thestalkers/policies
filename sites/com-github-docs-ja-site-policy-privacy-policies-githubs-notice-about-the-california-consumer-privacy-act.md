@@ -110,3 +110,5 @@ CCPAでは、過去12か月間に関する上記の開示のうち以下の特�
  GitHubと自然人との間の書面または口頭によるやりとりまたは取引を反映した個人情報で、自然人が従業員、経営者、取締役、役員、または契約会社、共同経営者、個人事業主、非営利団体、もしくは政府機関として行動し、GitHubとのやりとりまたは取引が、かかる企業、共同経営者、個人事業主、非営利団体、もしくは政府機関がGitHubとのデューデリジェンスに関する、または製品やサービスの授受に関する文脈においてのみ発生したものである場合。
 
 If you have any questions about this page, please contact us via our [contact form](https://support.github.com/contact?tags=docs-policy).
+
+{"resolvedServerColorMode":"day"}

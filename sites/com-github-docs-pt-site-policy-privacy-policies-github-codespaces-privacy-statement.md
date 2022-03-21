@@ -21,3 +21,5 @@ A atividade no github.dev está sujeita aos [termos de pré-visualizações beta
 O GitHub Codespaces e github.dev permitem o uso do Visual Studio Code no navegador da web. Ao usar o Visual Studio Code no navegador da web, permite-se um nível de coleta de telemetria por padrão e isso está [explicado de forma detalhada no site do Visual Studio Code](https://code.visualstudio.com/docs/getstarted/telemetry). Os usuários podem optar por não participar da telemetria, acessando o Arquivo \> Preferências \> Configurações no menu superior esquerdo.
 
 Se um usuário optar por não participar da captura da telemetria no Visual Studio Code enquanto estiver dentro de um codespace, conforme definido, isso irá sincronizar a função de desabilitar a preferência de telemetria em todas as futuras sessões web no GitHub Codespaces e github.dev.
+
+{"resolvedServerColorMode":"day"}

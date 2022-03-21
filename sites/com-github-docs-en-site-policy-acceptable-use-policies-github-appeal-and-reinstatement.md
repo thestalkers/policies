@@ -51,3 +51,5 @@ If the GitHub staff reviewer is the same person who made the initial determinati
 ----------
 
 We track appeals and reinstatements in our [transparency reports](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

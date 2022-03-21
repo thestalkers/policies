@@ -439,3 +439,5 @@ GitHub は、週末および米国の休日を除き、1 日 24時間、週 5 �
 ### [](#10-questions)10. 質問 ###
 
 「利用規約」について質問がございましたら、 [お問い合わせください](https://github.com/contact/)。
+
+{"resolvedServerColorMode":"day"}

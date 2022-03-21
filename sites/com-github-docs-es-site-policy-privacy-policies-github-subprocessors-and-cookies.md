@@ -83,3 +83,5 @@ Ya que la cantidad de nombres y cookies puede cambiar, la tabla siguiente se pod
 *\** Las fechas de **vencimiento** para las cookies que se listan a continuación generalmente se aplican permanentemente.
 
 (i) Por favor, ten encuenta que si bien limitamos nuestro uso de cookies de terceros a aquellas necesarias para proporcionar una funcionalidad externa cuando interpretamos el contenido externo, algunas páginas en nuestro sitio web podrían configurar otras cookies de terceros. Por ejemplo, es posible que insertamos contenido, como vídeos, desde otro sitio que establezca una cookie. Si bien tratamos de minimizar estas cookies de terceros, no siempre podemos controlar qué cookies establece este contenido de terceros.
+
+{"resolvedServerColorMode":"day"}

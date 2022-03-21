@@ -160,3 +160,5 @@ This Code of Conduct does not modify our [Terms of Service](/ja/github/site-poli
 ### [](#data-retention-and-deletion-of-data)Data Retention and Deletion of Data ###
 
 You may contact [GitHub Support](https://support.github.com/contact) to request the deletion of your community forum profile. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/ja/github/site-policy/github-privacy-statement).
+
+{"resolvedServerColorMode":"day"}

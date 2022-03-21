@@ -69,3 +69,5 @@ GitHub 有时会收到政府要求，要求我们删除在其地方管辖区被�
 ----------
 
 除了在我们的 `github/gov-takedowns` 仓库中发布政府删除通知外，我们的透明度报告中也会报告这些通知。 我们还会在透明度报告中跟踪并报告基于违反 GitHub 服务条款的政府删除。
+
+{"resolvedServerColorMode":"day"}

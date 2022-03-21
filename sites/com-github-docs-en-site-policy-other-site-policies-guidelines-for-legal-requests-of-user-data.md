@@ -291,3 +291,5 @@ GitHub will promptly respond to requests that are issued via U.S. court by way o
 ----------
 
 Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+
+{"resolvedServerColorMode":"day"}

@@ -12,3 +12,5 @@ Security Policies
 * [Divulgación coordinada de las vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 * [Disposición de seguridad legal del programa de recompensas de errores de GitHub](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+{"resolvedServerColorMode":"day"}
