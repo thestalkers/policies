@@ -59,5 +59,3 @@ GitHubのメンバーは、参加者がセキュリティや地域の法執行�
 ----------
 
 本行動規範の一部は、Ada Initiativeやその他のボランティアがCreative Commons Zero licenseの下で作成した、「Geek Feminism wiki」の[嫌がらせ防止ポリシーの例](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)から取られています。
-
-{"resolvedServerColorMode":"day"}

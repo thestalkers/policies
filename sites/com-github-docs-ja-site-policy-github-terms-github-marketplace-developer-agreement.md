@@ -335,5 +335,3 @@ GitHubは、「Marketplace」の運営および改善のため、 「Marketplace
 **A1-8. データ処理の責任**
 
 * a. 直接債務。 「開発者」は、「Marketplace開発者同意書」のセクション8「責任の制限」の条項に従い、本「特約」への違反により生じた実際の責任に対してGitHubに責任を負います。
-
-{"resolvedServerColorMode":"day"}

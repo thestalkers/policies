@@ -439,5 +439,3 @@ Cada una de las Partes es un contratista independiente con respecto al objeto de
 ### [](#10-questions)10. Preguntas ###
 
 ¿Preguntas sobre los Términos de Servicio? [Contáctanos](https://github.com/contact/).
-
-{"resolvedServerColorMode":"day"}

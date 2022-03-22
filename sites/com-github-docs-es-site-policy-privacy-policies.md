@@ -9,18 +9,16 @@ Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible 
 Privacy Policies
 ==========
 
-* [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
 
 * [Prácticas de Privacidad Globales](/es/site-policy/privacy-policies/global-privacy-practices)
 
 * [Acuerdo de Protección de Datos de GitHub](/es/site-policy/privacy-policies/github-data-protection-agreement)
 
-* [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
-
 * [Subprocesadores y cookies de GitHub](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 * [Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California](/es/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
 
-* [Política de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-{"resolvedServerColorMode":"day"}
+* [Política de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)

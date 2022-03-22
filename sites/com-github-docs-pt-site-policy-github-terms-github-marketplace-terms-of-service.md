@@ -121,5 +121,3 @@ Você concorda em indenizar-nos, defender-nos e isentar-nos de e contra todas e 
 6. **Licença para Políticas do GitHub.** Estes Termos de Marketplace são licenciados sob esta [Licença Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para ver os detalhes, consulte nosso [repositório da Política do Site](https://github.com/github/site-policy#license).
 
 7. **Fale Conosco.** Perguntas sobre os Termos do Marketplace? [Fale conosco](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

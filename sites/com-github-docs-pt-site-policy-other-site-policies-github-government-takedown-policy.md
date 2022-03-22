@@ -69,5 +69,3 @@ Em alguns casos, o GitHub recebe relatórios de funcionários públicos de viola
 ----------
 
 Além de postar avisos públicos de retirada nos nossos repositórios de `github/gov-takedowns`, nós os relatamos no nosso relatório de transparência. Também acompanhamos e relatamos em nosso relatório de transparência as retiradas governamentais com base em violações dos Termos de Serviço do GitHub.
-
-{"resolvedServerColorMode":"day"}

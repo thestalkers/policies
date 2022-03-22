@@ -9,7 +9,11 @@ Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible 
 Políticas de uso aceptable
 ==========
 
-* [GitHub Sexually Obscene Content](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Políticas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+* [GitHub Active Malware or Exploits](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+
+* [GitHub Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 * [GitHub Disrupting the Experience of Other Users](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
@@ -17,18 +21,12 @@ Políticas de uso aceptable
 
 * [GitHub Hate Speech and Discrimination](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [Políticas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
-
-* [GitHub Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
-
-* [GitHub Active Malware or Exploits](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
-
-* [GitHub Threats of Violence and Gratuitously Violent Content](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
-
 * [GitHub Impersonation](/es/site-policy/acceptable-use-policies/github-impersonation)
 
 * [GitHub Misinformation and Disinformation](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [GitHub Appeal and Reinstatement](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [GitHub Sexually Obscene Content](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-{"resolvedServerColorMode":"day"}
+* [GitHub Threats of Violence and Gratuitously Violent Content](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+
+* [GitHub Appeal and Reinstatement](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

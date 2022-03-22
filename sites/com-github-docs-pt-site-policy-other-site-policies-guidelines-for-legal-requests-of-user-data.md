@@ -237,5 +237,3 @@ Como empresa dos Estados Unidos sediada na Califórnia, o GitHub não é obrigad
 ----------
 
 Você tem alguma pergunta, comentário ou sugestão? Entre em contato com o [GitHub Support](https://support.github.com/contact?tags=docs-generic).
-
-{"resolvedServerColorMode":"day"}

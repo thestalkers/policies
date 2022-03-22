@@ -86,5 +86,3 @@ EU-米国およびスイス-米国プライバシーシールドフレームワ�
 当社は、米国連邦取引委員会（FTC）の管轄下にあります。
 
 詳細は、「[プライバシーについての声明](/ja/articles/github-privacy-statement)」を参照してください。
-
-{"resolvedServerColorMode":"day"}

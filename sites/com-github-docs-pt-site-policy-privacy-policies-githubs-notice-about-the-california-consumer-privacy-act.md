@@ -110,5 +110,3 @@ A CCPA prevê isenções, até 31 de dezembro de 2020 (inclusive), de algumas da
  informações pessoais que reflitam uma comunicação escrita ou verbal ou uma transação entre o GitHub e uma pessoa física, onde a pessoa física está agindo como funcionário, proprietário, diretor, responsável ou terceirizado de uma empresa, parceria, propriedade exclusiva, entidade sem fins lucrativos ou agência governamental e cujas comunicações ou transações com o GitHub ocorrem apenas no contexto do GitHub realizando due diligence em relação, ou fornecendo ou recebendo um produto ou serviço para ou de tal empresa, parceria, propriedade exclusiva, entidade sem fins lucrativos ou agência governamental.
 
 Em caso de dúvidas sobre esta página, entre em contato conosco por meio do nosso [formulário de contato](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

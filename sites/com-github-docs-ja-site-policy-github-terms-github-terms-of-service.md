@@ -428,5 +428,3 @@ GitHub は、お客様の同意の有無にかかわらずいつでも本「利�
 ### [](#6-questions)6. 質問 ###
 
 「利用規約」について質問がございましたら、 [Contact us](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

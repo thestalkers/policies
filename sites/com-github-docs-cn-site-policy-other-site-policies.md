@@ -20,5 +20,3 @@ Other Site Policies
 * [GitHub 用户名政策](/cn/site-policy/other-site-policies/github-username-policy)
 
 * [用户数据法律要求指南](/cn/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
-
-{"resolvedServerColorMode":"day"}

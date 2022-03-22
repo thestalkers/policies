@@ -14,5 +14,3 @@ We do not tolerate content associated with sexual exploitation or abuse of anoth
 * Graphic depictions of sexual acts including photographs, video, animation, drawings, computer-generated images, or text-based content
 
 We recognize that not all nudity or content related to sexuality is obscene. We may allow visual and/or textual depictions in artistic, educational, historical or journalistic contexts, or as it relates to victim advocacy. In some cases a disclaimer can help communicate the context of the project. However, please understand that we may choose to limit the content by giving users the option to opt in before viewing.
-
-{"resolvedServerColorMode":"day"}

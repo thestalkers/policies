@@ -94,5 +94,3 @@ If you seek reinstatement or wish to appeal an enforcement action, please contac
 本コミュニティガイドラインは、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) の条件に基づいて、誰でも使用、再利用、改作、その他あらゆることが可能になるようにパブリックドメインになっています。
 
 これはあくまでもガイドラインであり、[利用規約](/ja/articles/github-terms-of-service)を変更するものや、完全なリストであることを意図したものではありません。 Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/ja/articles/github-acceptable-use-policies). 本ガイドラインでは、かかる裁量を行使する場合について説明しています。
-
-{"resolvedServerColorMode":"day"}

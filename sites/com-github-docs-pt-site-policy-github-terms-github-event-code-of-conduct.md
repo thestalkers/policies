@@ -59,5 +59,3 @@ Os GitHubbers ficarão felizes em ajudar os participantes a contactar a seguran�
 ----------
 
 Partes deste Código de Conduta são baseadas no [exemplo de política de anti-assédio](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) da wikipédia Geek Feminism criada pela Iniciativa Ada e outros voluntários, sob uma licença Creative Commons Zero.
-
-{"resolvedServerColorMode":"day"}

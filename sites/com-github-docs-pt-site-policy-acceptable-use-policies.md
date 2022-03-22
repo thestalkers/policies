@@ -9,7 +9,11 @@ Publicamos atualizações frequentes em nossa documentação, e a tradução des
 Políticas de uso aceitável
 ==========
 
-* [Conteúdo sexualmente obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+* [GitHub Active Malware or Exploits](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+
+* [Bullying e assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 * [GitHub Interrompendo a Experiência de Outros Usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
@@ -17,18 +21,12 @@ Políticas de uso aceitável
 
 * [Discriminação e discurso de ódio no GitHub](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
-
-* [Bullying e assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
-
-* [GitHub Active Malware or Exploits](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
-
-* [Ameaças de Violência e Conteúdo Gratuitamente Violento no GitHub](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
-
 * [Roubo de identidade no GitHub](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
 * [Informações incorretas no GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [GitHub Appeal and Reinstatement](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Conteúdo sexualmente obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-{"resolvedServerColorMode":"day"}
+* [Ameaças de Violência e Conteúdo Gratuitamente Violento no GitHub](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+
+* [GitHub Appeal and Reinstatement](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

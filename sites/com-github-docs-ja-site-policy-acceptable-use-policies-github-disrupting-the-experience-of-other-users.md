@@ -23,5 +23,3 @@ We do not allow behavior that significantly or continually disrupts the experien
 メンテナには自己のプロジェクトを個別に管理していただく一方、GitHubのスタッフは、こうした振る舞いに関与するアカウントに対して、さらに踏み込んだ制限を行うことができます。
 
 Please note that the above conduct may also violate other restrictions in our [Acceptable Use Policies](/ja/github/site-policy/github-acceptable-use-policies). For example, depending on the nature and severity of the activity, it may rise to the level of [bullying and harassment](/ja/github/site-policy/github-bullying-and-harassment).
-
-{"resolvedServerColorMode":"day"}

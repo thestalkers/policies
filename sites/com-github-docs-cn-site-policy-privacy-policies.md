@@ -22,5 +22,3 @@ Privacy Policies
 * [GitHub 关于《加州消费者隐私法案》的声明](/cn/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
 
 * [GitHub 候选人隐私政策](/cn/site-policy/privacy-policies/github-candidate-privacy-policy)
-
-{"resolvedServerColorMode":"day"}

@@ -142,7 +142,7 @@ Las limitaciones de ancho de banda del servicio varían en función de las carac
 
 Aunque entendemos que tal vez deseas promover tu Contenido publicando los nombres o logos de los seguidores de tu Cuenta, el enfoque principal del Contenido publicado en o a través de tu Cuenta al Servicio no debe ser publicidad o marketing promocional. Esto incluye Contenido publicado en o a través de Páginas, Paquetes, repositorios y todas las demás partes del Servicio. Puedes incluir imágenes estáticas, enlaces y textos promocionales en los documentos README o secciones de descripción del proyecto asociadas con tu Cuenta, pero deben estar relacionados con el proyecto que estás alojando en GitHub. No puedes publicitar en las Cuentas de otros Usuarios, por ejemplo, mediante la publicación de contenido monetizado o excesivo en masa.
 
-You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/es/github/site-policy/github-terms-of-service)or [Acceptable Use Policies](/es/github/site-policy/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
+You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/es/github/site-policy/github-terms-of-service) or [Acceptable Use Policies](/es/github/site-policy/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
 
 Si decides alojar cualquier material publicitario o promocional en tu Cuenta, eres el único responsable de cumplir con todas las leyes y regulaciones correspondientes, incluyendo, entre otras, las Directrices sobre Endosos y Testimonios de la Comisión Federal de Comercio de los EE. UU. Directrices de la Comisión Federal de Comercio sobre los respaldos y testimonios. Nos reservamos el derecho de eliminar cualquier material promocional o publicidad que, a nuestra entera discreción, viole cualquier término o política de GitHub.
 
@@ -156,5 +156,3 @@ We will interpret our policies and resolve disputes in favor of protecting users
 ---
 
 GitHub retains full discretion to [take action](/es/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/es/github/site-policy/github-terms-of-service#3-github-may-terminate), or [removal](/es/github/site-policy/github-terms-of-service#2-github-may-remove-content) of content.
-
-{"resolvedServerColorMode":"day"}

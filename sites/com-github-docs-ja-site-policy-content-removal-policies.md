@@ -20,5 +20,3 @@ Content Removal Policies
 * [DMCAテイクダウン通知のガイドの提出](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 * [DMCAテイクダウンポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
-
-{"resolvedServerColorMode":"day"}

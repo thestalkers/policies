@@ -51,5 +51,3 @@ Dicho esto, si un tercero inicia una acción legal, incluyendo las fuerzas del o
 ----------
 
 En medida en que tus actividades de investigación de seguridad sean inconsistentes con ciertas restricciones en nuestras [políticas relevantes de sitio](/es/categories/site-policy) pero consistentes con las condiciones de nuestro programa de recompensas por errores, renunciamos a estas restricciones por el solo y único propósito de permitir tu investigación de seguridad bajo este programa. De la misma forma que se menciona anteriormente, si tienes dudas, ¡Pregúntanos primero!
-
-{"resolvedServerColorMode":"day"}

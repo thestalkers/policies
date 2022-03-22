@@ -83,5 +83,3 @@ GitHub 使用 Cookie 来提供和保护我们的网站，并分析我们网站�
 *\** The **expiration** dates for the cookies listed below generally apply on a rolling basis.
 
 (!) 请注意，虽然我们将第三方 Cookie 的使用限制在呈现外部内容时提供外部功能的需要，但我们网站上的某些页面可能会设置其他第三方 Cookie。 例如，我们可能会嵌入来自其他网站的内容（例如视频），而该网站可能放置 cookie。 虽然我们尽可能减少这些第三方 cookie，但我们无法始终控制这些第三方内容放置哪些 cookie。
-
-{"resolvedServerColorMode":"day"}

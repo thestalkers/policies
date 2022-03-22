@@ -78,5 +78,3 @@ GitHub, Inc Attn: DMCA Agent
 88 Colin P Kelly Jr St San Francisco, CA. 94107
 
 ```
-
-{"resolvedServerColorMode":"day"}

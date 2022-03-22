@@ -165,5 +165,3 @@ O GitHub Sponsors permite que a comunidade de desenvolvedores apoie financeirame
 ----------
 
 Você pode fazer o download da imagem de contêiner de edição padrão do Microsoft SQL Server para arquivos Linux ("Imagens do Servidor SQL"). Você deve desinstalar as imagens do Servidor SQL quando seu direito de usar o Software terminar. A Microsoft Corporation pode desativar o SQL Server Images a qualquer momento.
-
-{"resolvedServerColorMode":"day"}

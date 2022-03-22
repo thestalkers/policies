@@ -94,5 +94,3 @@ If you seek reinstatement or wish to appeal an enforcement action, please contac
 Dedicamos estas Pautas de la Comunidad al dominio público para que cualquiera pueda usar, reutilizar, adaptar o lo que sea, bajo los términos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas son solo directrices; no modifican nuestros [Términos de Servicio](/es/articles/github-terms-of-service) y no pretenden ser una lista completa. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/es/articles/github-acceptable-use-policies). Estas directrices describen en qué situaciones ejerceremos dicha discreción.
-
-{"resolvedServerColorMode":"day"}

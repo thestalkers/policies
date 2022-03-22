@@ -121,5 +121,3 @@ Aceptas indemnizarnos, defendernos y eximirnos de toda responsabilidad contra cu
 6. **Licencia para las Políticas de GitHub.** Estos Términos del Mercado están licenciados bajo esta [licencia de Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más detalles, consulta nuestro [repositorio de políticas del sitio](https://github.com/github/site-policy#license).
 
 7. **Póngase en contacto con nosotros.** ¿Preguntas sobre las condiciones del mercado? [Contáctanos](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

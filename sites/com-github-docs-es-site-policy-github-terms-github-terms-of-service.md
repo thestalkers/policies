@@ -428,5 +428,3 @@ Este Acuerdo sólo puede modificarse por una enmienda por escrito firmada por un
 ### [](#6-questions)6. Preguntas ###
 
 ¿Preguntas sobre los Términos de Servicio? [Contáctanos](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

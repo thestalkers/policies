@@ -69,5 +69,3 @@ En algunos casos, GitHub recibe reportes de funcionarios gubernamentales con res
 ----------
 
 Adicionalmente a publicar notificaciones de retiro en nuestro repositorio de `github/gov-takedowns`, también las reportamos en nuestro reporte de transparencia. También rastreamos e informamos en nuestro reporte de transparencia sobre los retiros del gobierno con base en violaciones de los Términos de Servicio de GitHub.
-
-{"resolvedServerColorMode":"day"}

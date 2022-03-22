@@ -51,5 +51,3 @@ To encourage research and coordinated disclosure of security vulnerabilities, we
 ----------
 
 セキュリティ調査活動が当社の[関連するサイトポリシー](/ja/categories/site-policy)に反しているものの、当社のBug Bounty Programの規約には従っている場合、本Bug Bounty Programの下、セキュリティ調査を許可するという限定された目的のみに限り、これらの制限を免除します。 前述の通り、疑問がある場合は、まずご質問ください。
-
-{"resolvedServerColorMode":"day"}

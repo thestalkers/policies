@@ -36,5 +36,3 @@ Se você acredita que a conta de alguém está violando os seus direitos de marc
 ----------
 
 O GitHub proíbe a ocupação de nomes de contas. Além disso, os nomes das contas não podem ser reservados ou mantidos inativos para uso futuro. As contas que violam essa política de uso indevido de nome podem ser removidas ou renomeadas sem aviso prévio. Tentativas de vender, comprar ou solicitar outras formas de pagamento em troca de nomes de conta são proibidas e podem resultar na suspensão permanente da conta.
-
-{"resolvedServerColorMode":"day"}

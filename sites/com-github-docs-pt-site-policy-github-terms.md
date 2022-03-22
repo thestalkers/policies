@@ -9,17 +9,17 @@ Publicamos atualizações frequentes em nossa documentação, e a tradução des
 Termos do GitHub
 ==========
 
+* [Termos de serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+
 * [Termos de Serviço Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [Código de conduta do fórum da comunidade do GitHub](/pt/site-policy/github-terms/github-community-forum-code-of-conduct)
+* [Termos do GitHub para Produtos e Funcionalidades Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 
-* [Termos de serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+* [Código de conduta do fórum da comunidade do GitHub](/pt/site-policy/github-terms/github-community-forum-code-of-conduct)
 
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
-
-* [Termos do GitHub para Produtos e Funcionalidades Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
 
@@ -34,5 +34,3 @@ Termos do GitHub
 * [Termos de eventos do GitHub](/pt/site-policy/github-terms/github-event-terms)
 
 * [Código de conduta de eventos do GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
-
-{"resolvedServerColorMode":"day"}

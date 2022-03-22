@@ -12,5 +12,3 @@ Security Policies
 * [Coordinated Disclosure of Security Vulnerabilities](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 * [GitHub Bug Bounty Programの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
-
-{"resolvedServerColorMode":"day"}

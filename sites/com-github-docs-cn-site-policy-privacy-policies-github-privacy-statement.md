@@ -417,5 +417,3 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 ### [](#other-translations)其他翻译版本： ###
 
 有关本声明翻译成其他语言的版本，请访问 [https://docs.github.com/](/cn)，然后从“English（英文）”下的下拉菜单中选择语言。
-
-{"resolvedServerColorMode":"day"}

@@ -121,5 +121,3 @@ GitHub.com 会不时检查远程服务器（由 GitHub 或第三方托管）上�
 6. **GitHub 政策的许可。**这些 Marketplace 条款的许可采用[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)原则。 更多信息请参阅我们的[站点政策仓库](https://github.com/github/site-policy#license)。
 
 7. **联系我们。**对 Marketplace 条款有疑问吗？ [联系我们](https://support.github.com/contact?tags=docs-policy)。
-
-{"resolvedServerColorMode":"day"}

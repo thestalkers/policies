@@ -238,5 +238,3 @@ Sacramento, CA 95833-3505
 ----------
 
 您是否有其他问题、评论或建议？ 请联系 [GitHub Support](https://support.github.com/contact?tags=docs-generic)。
-
-{"resolvedServerColorMode":"day"}

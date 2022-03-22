@@ -17,5 +17,3 @@ We do not tolerate harassment, bullying, or abuse of any kind, whether directly 
 * Creating alternative accounts specifically to evade moderation action taken by GitHub staff or users
 
 Please note, not all unwelcome conduct is necessarily considered harassment. For example, disagreeing with another user or downvoting their comments may not rise to the level of harassment on our platform. In addition, sharing criticism of public figures or projects, or topics of public interest, does not necessarily fall under this policy. However, we encourage you to be mindful in how you engage with other users and the platform, as this activity may still violate our restriction on disrupting the experience of other users.
-
-{"resolvedServerColorMode":"day"}

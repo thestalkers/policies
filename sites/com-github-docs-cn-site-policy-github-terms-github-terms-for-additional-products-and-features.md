@@ -165,5 +165,3 @@ GitHub Sponsors 允许开发者社区直接在 GitHub 上为他们设计、构�
 ----------
 
 您可以下载用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server 映像”）。 当您使用本软件的权利结束时，您必须卸载 SQL Server 映像。 Microsoft Corporation 可随时禁用 SQL Server 映像。
-
-{"resolvedServerColorMode":"day"}

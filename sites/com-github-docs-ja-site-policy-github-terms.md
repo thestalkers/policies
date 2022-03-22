@@ -34,5 +34,3 @@ GitHub Terms
 * [GitHubイベント規約](/ja/site-policy/github-terms/github-event-terms)
 
 * [GitHubイベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
-
-{"resolvedServerColorMode":"day"}

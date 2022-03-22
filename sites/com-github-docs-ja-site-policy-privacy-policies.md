@@ -22,5 +22,3 @@ Privacy Policies
 * [カリフォルニア州消費者プライバシー法に関するGitHubの通知](/ja/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
 
 * [GitHub 志望者のプライバシーポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
-
-{"resolvedServerColorMode":"day"}

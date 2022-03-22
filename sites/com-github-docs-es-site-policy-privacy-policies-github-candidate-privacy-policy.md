@@ -98,5 +98,3 @@ Si se te contrata para algún puesto en GitHub, retendremos la información que 
 ----------
 
 Podremos actualizar esta Política de Privacidad de Candidatos de GitHub de vez en cuando. Cuando realicemos cambios a esta página, actualizaremos la fecha de "última actualización".
-
-{"resolvedServerColorMode":"day"}

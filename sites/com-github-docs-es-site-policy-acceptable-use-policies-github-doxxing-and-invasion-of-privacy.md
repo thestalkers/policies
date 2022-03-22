@@ -26,5 +26,3 @@ We may consider other information, such as photos or videos that were taken or d
 GitHub will take context into account as well as whether the reported content is publicly available elsewhere. Please note, however, that while sharing publicly available content may not be a violation of this policy, if the information is shared with the intent to harass or incite other abusive behavior, it may violate our prohibition against [bullying and harassment](/es/github/site-policy/github-bullying-and-harassment).
 
 For more information, or to learn how to report a violation, see our [Private Information Removal Policy](/es/github/site-policy/github-private-information-removal-policy) and our instructions for [Reporting Abuse](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
-
-{"resolvedServerColorMode":"day"}

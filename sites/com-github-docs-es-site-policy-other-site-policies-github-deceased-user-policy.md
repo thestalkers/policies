@@ -24,5 +24,3 @@ Si eres un familiar cercano, un [sucesor pre-designado](/es/github/setting-up-an
 Una vez que hayamos recibido tu solicitud, podremos dar seguimiento con otra solicitud de información adicional, tal como la copia de tu identificación con fotografía, copia del certificado de defunción, y la documentación que confirme que estás autorizado para actuar con relación a la cuenta del usuario finado, para verificar que estamos autorizados adecuadamente para procesar tu solicitud.
 
 Por favor, nota que la información que proporciones en tu solicitud se recabará de acuerdo con nuestra [Declaración de privacidad](/es/github/site-policy/github-privacy-statement), y retendremos la información únicamente de acuerdo con lo necesario para cumplir con nuestras obligaciones legales y resolver disputas.
-
-{"resolvedServerColorMode":"day"}

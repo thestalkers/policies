@@ -111,5 +111,3 @@ The CCPA provides exemptions, until and including December 31, 2020, from certai
  personal information reflecting a written or verbal communication or a transaction between GitHub and a natural person, where the natural person is acting as an employee, owner, director, officer, or contractor of a company, partnership, sole proprietorship, nonprofit, or government agency and whose communications or transaction with GitHub occur solely within the context of GitHub conducting due diligence regarding, or providing or receiving a product or service to or from such company, partnership, sole proprietorship, nonprofit or government agency.
 
 If you have any questions about this page, please contact us via our [contact form](https://support.github.com/contact?tags=docs-policy).
-
-{"resolvedServerColorMode":"day"}

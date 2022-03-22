@@ -94,5 +94,3 @@ Se você procurar restabelecer ou recorrer de uma ação de execução, entre em
 Colocamos essas Diretrizes da Comunidade em domínio público para que qualquer pessoa use, reutilize, adapte, ou seja o que for, nos termos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas são apenas diretrizes; elas não modificam nossos [Termos de Serviço](/pt/articles/github-terms-of-service) e não pretendem ser uma lista completa. Nesses termos, o GitHub mantém o critério completo para remover qualquer conteúdo ou encerrar quaisquer contas de atividade que violem as nossas [Políticas de uso aceitável](/pt/articles/github-acceptable-use-policies). Estas diretrizes descrevem quando iremos exercer esse critério.
-
-{"resolvedServerColorMode":"day"}

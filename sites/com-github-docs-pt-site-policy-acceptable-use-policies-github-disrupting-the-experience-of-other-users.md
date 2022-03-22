@@ -23,5 +23,3 @@ Nós não permitimos comportamentos que interrompem de forma significativa ou co
 Embora incentivemos os mantenedores a moderar os seus próprios projetos individualmente, a equipe do GitHub pode ter uma ação restritiva contra contas que estão se envolvendo com esses tipos de comportamento.
 
 Observe que a conduta acima também pode violar outras restrições nas nossas [Políticas de Uso aceitável](/pt/github/site-policy/github-acceptable-use-policies). Por exemplo, dependendo da natureza e gravidade da atividade, pode configurar [bullying e assédio](/pt/github/site-policy/github-bullying-and-harassment).
-
-{"resolvedServerColorMode":"day"}

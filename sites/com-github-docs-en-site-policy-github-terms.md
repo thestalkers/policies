@@ -7,17 +7,17 @@ GitHub Terms - GitHub Docs
 GitHub Terms
 ==========
 
+* [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
+
 * [GitHub Corporate Terms of Service](/en/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [GitHub Community Forum Code of Conduct](/en/site-policy/github-terms/github-community-forum-code-of-conduct)
+* [GitHub Terms for Additional Products and Features](/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHub Community Guidelines](/en/site-policy/github-terms/github-community-guidelines)
 
-* [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
+* [GitHub Community Forum Code of Conduct](/en/site-policy/github-terms/github-community-forum-code-of-conduct)
 
 * [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
-
-* [GitHub Terms for Additional Products and Features](/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHub Registered Developer Agreement](/en/site-policy/github-terms/github-registered-developer-agreement)
 
@@ -32,5 +32,3 @@ GitHub Terms
 * [GitHub Event Terms](/en/site-policy/github-terms/github-event-terms)
 
 * [GitHub Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
-
-{"resolvedServerColorMode":"day"}

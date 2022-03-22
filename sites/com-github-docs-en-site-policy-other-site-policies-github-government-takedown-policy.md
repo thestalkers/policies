@@ -67,5 +67,3 @@ In some cases, GitHub receives reports from government officials of violations o
 ----------
 
 In addition to posting government takedown notices in our `github/gov-takedowns` repository, we report on them in our transparency report. We also track and report in our transparency report on government takedowns based on violations of GitHub's Terms of Service.
-
-{"resolvedServerColorMode":"day"}

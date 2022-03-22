@@ -92,5 +92,3 @@ If you seek reinstatement or wish to appeal an enforcement action, please contac
 We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 These are only guidelines; they do not modify our [Terms of Service](/en/articles/github-terms-of-service) and are not intended to be a complete list. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/en/articles/github-acceptable-use-policies). These guidelines describe when we will exercise that discretion.
-
-{"resolvedServerColorMode":"day"}

@@ -16,5 +16,3 @@ Você não pode usar o GitHub para organizar, promover, incentivar, ameaçar ou 
 * Incentivando outra pessoa a se envolver em danos contra si
 
 Não permitimos que conteúdos violentos sejam afixados indiscriminadamente ou de forma difícil de evitar para outros usuários. como um avatar de perfil ou comentário de problema. No entanto, entendemos que pode haver razões legítimas para postar conteúdo violento como, por exemplo, para fins educativos ou documentários, trabalhos criativos ou representações de eventos históricos. Nesses casos, um aviso ou uma isenção de responsabilidade pode ajudar os usuários a tomarem uma decisão informada sobre se querem ou não envolver com tal conteúdo. Ainda assim, o GitHub pode decidir limitar a visibilidade de tal conteúdo para aqueles que optarem por participar.
-
-{"resolvedServerColorMode":"day"}

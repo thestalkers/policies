@@ -140,7 +140,7 @@ The Service's bandwidth limitations vary based on the features you use. If we de
 
 While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. This includes Content posted in or through Pages, Packages, repositories, and all other parts of the Service. You may include static images, links, and promotional text in the README documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitHub. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
 
-You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/en/github/site-policy/github-terms-of-service)or [Acceptable Use Policies](/en/github/site-policy/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
+You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/en/github/site-policy/github-terms-of-service) or [Acceptable Use Policies](/en/github/site-policy/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
 
 If you decide to post any promotional materials in your Account, you are solely responsible for complying with all applicable laws and regulations, including without limitation the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials. We reserve the right to remove any promotional materials or advertisements that, in our sole discretion, violate any GitHub terms or policies.
 
@@ -154,5 +154,3 @@ We will interpret our policies and resolve disputes in favor of protecting users
 ---
 
 GitHub retains full discretion to [take action](/en/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/en/github/site-policy/github-terms-of-service#3-github-may-terminate), or [removal](/en/github/site-policy/github-terms-of-service#2-github-may-remove-content) of content.
-
-{"resolvedServerColorMode":"day"}
