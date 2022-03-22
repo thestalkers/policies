@@ -287,10 +287,11 @@ sites:
       - https://docs.github.com/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
       - https://docs.github.com/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor
     editors:
-      - css_remove: style
-      - css_remove: 'script#__NEXT_DATA__'
-      - css_remove: header
-      - css_remove: '[data-testid="sidebar"]'
       - css_remove: '.clearfix'
-      - css_remove: footer
+      - css_remove: '[data-testid="sidebar"]'
+      - css_remove: 'footer'
+      - css_remove: 'header'
+      - css_remove: 'script#__NEXT_DATA__'
+      - css_remove: 'script#__PRIMER_DATA__'
+      - css_remove: 'style'
       - html_markdownify
