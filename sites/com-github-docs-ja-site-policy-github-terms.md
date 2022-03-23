@@ -9,17 +9,17 @@ GitHub Terms - GitHub Docs
 GitHub Terms
 ==========
 
+* [GitHub利用規約](/ja/site-policy/github-terms/github-terms-of-service)
+
 * [GitHub企業向け利用規約](/ja/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [GitHubコミュニティフォーラムの行動規範](/ja/site-policy/github-terms/github-community-forum-code-of-conduct)
+* [GitHub 追加製品および機能の利用規約](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHubコミュニティガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
 
-* [GitHub利用規約](/ja/site-policy/github-terms/github-terms-of-service)
+* [GitHubコミュニティフォーラムの行動規範](/ja/site-policy/github-terms/github-community-forum-code-of-conduct)
 
 * [GitHub Sponsors に関する追加条項](/ja/site-policy/github-terms/github-sponsors-additional-terms)
-
-* [GitHub 追加製品および機能の利用規約](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHub登録開発者同意書](/ja/site-policy/github-terms/github-registered-developer-agreement)
 

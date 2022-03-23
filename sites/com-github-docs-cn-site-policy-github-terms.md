@@ -9,17 +9,17 @@ GitHub Terms - GitHub Docs
 GitHub Terms
 ==========
 
+* [GitHub 服务条款](/cn/site-policy/github-terms/github-terms-of-service)
+
 * [GitHub 公司服务条款](/cn/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [GitHub 社区论坛行为准则](/cn/site-policy/github-terms/github-community-forum-code-of-conduct)
+* [GitHub 其他产品和功能条款](/cn/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHub 社区指导方针](/cn/site-policy/github-terms/github-community-guidelines)
 
-* [GitHub 服务条款](/cn/site-policy/github-terms/github-terms-of-service)
+* [GitHub 社区论坛行为准则](/cn/site-policy/github-terms/github-community-forum-code-of-conduct)
 
 * [GitHub 赞助附加条款](/cn/site-policy/github-terms/github-sponsors-additional-terms)
-
-* [GitHub 其他产品和功能条款](/cn/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [GitHub 注册开发者协议](/cn/site-policy/github-terms/github-registered-developer-agreement)
 

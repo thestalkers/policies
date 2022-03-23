@@ -11,6 +11,8 @@ Content Removal Policies
 
 * [提交内容删除请求](/cn/site-policy/content-removal-policies/submitting-content-removal-requests)
 
+* [DMCA 删除政策](/cn/site-policy/content-removal-policies/dmca-takedown-policy)
+
 * [GitHub 私人信息删除政策](/cn/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 * [GitHub 商标政策](/cn/site-policy/content-removal-policies/github-trademark-policy)
@@ -18,5 +20,3 @@ Content Removal Policies
 * [提交 DMCA 反对通知的指南](/cn/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 * [提交 DMCA 删除通知的指南](/cn/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
-
-* [DMCA 删除政策](/cn/site-policy/content-removal-policies/dmca-takedown-policy)

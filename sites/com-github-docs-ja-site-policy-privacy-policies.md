@@ -9,16 +9,16 @@ Privacy Policies - GitHub Docs
 Privacy Policies
 ==========
 
-* [GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [GitHubのプライバシーについての声明](/ja/site-policy/privacy-policies/github-privacy-statement)
 
 * [プライバシーのグローバルプラクティス](/ja/site-policy/privacy-policies/global-privacy-practices)
 
 * [GitHub Data Protection Agreement](/ja/site-policy/privacy-policies/github-data-protection-agreement)
 
-* [GitHubのプライバシーについての声明](/ja/site-policy/privacy-policies/github-privacy-statement)
-
 * [GitHubのサブプロセッサとCookie](/ja/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 * [カリフォルニア州消費者プライバシー法に関するGitHubの通知](/ja/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
+
+* [GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 * [GitHub 志望者のプライバシーポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)

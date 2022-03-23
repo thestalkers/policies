@@ -11,6 +11,8 @@ Content Removal Policies
 
 * [コンテンツ削除リクエストのサブミット](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 
+* [DMCAテイクダウンポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+
 * [GitHub個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 * [GitHubトレードマークポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
@@ -18,5 +20,3 @@ Content Removal Policies
 * [DMCAカウンター通知の提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 * [DMCAテイクダウン通知のガイドの提出](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
-
-* [DMCAテイクダウンポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
