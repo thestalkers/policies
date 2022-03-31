@@ -400,11 +400,8 @@ O exportador de dados garante que empregou esforços razoáveis para determinar 
 
 **8.1 Instruções**
 
-```
-  <li>O importador de dados processará os dados pessoais somente com base em instruções documentadas do exportador de dados. O exportador de dados pode fornecer essas instruções durante o período do contrato.</li>
-  <li>O importador de dados informará imediatamente o exportador de dados se este não puder seguir essas instruções.</li>
-
-```
+1. O importador de dados processará os dados pessoais somente com base em instruções documentadas do exportador de dados. O exportador de dados pode fornecer essas instruções durante o período do contrato.
+2. O importador de dados informará imediatamente o exportador de dados se este não puder seguir essas instruções.
 
 **8.2 Limitação da finalidade**
 
