@@ -400,11 +400,8 @@ The data exporter warrants that it has used reasonable efforts to determine that
 
 **8.1 Instructions**
 
-```
-  <li>The data importer shall process the personal data only on documented instructions from the data exporter. The data exporter may give such instructions throughout the duration of the contract.</li>
-  <li>The data importer shall immediately inform the data exporter if it is unable to follow those instructions.</li>
-
-```
+1. The data importer shall process the personal data only on documented instructions from the data exporter. The data exporter may give such instructions throughout the duration of the contract.
+2. The data importer shall immediately inform the data exporter if it is unable to follow those instructions.
 
 **8.2 Purpose limitation**
 

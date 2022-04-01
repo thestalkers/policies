@@ -400,11 +400,8 @@ El exportador de datos garantiza que ha hecho esfuerzos razonables para determin
 
 **8.1 Instrucciones**
 
-```
-  <li>El importador de datos sólo deberá procesar los datos personales que se encuentran en las instrucciones documentadas del exportador de datos. El exportador de datos podría dar dichas instrucciones a lo largo de la duración del contrato.</li>
-  <li>El importador de datos deberá informar de inmediato al exportador de datos en caso de que no sea capaz de seguir dichas instrucciones.</li>
-
-```
+1. El importador de datos sólo deberá procesar los datos personales que se encuentran en las instrucciones documentadas del exportador de datos. El exportador de datos podría dar dichas instrucciones a lo largo de la duración del contrato.
+2. El importador de datos deberá informar de inmediato al exportador de datos en caso de que no sea capaz de seguir dichas instrucciones.
 
 **8.2 Limitación del propósito**
 
