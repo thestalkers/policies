@@ -32,9 +32,9 @@ GitHub 其他产品和功能条款
 
 * [页面](#pages)
 
-* [赞助计划](#sponsors-program)
+* [赞助计划](#previews)
 
-* [SQL Server 映像](#sql-server-images)
+* [SQL Server 映像](#sponsors-program)
 
 版本生效日期：2021 年 8 月 10 日
 
@@ -172,12 +172,12 @@ GitHub Pages 的使用不得违反本协议、GitHub [可接受使用政策](/cn
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
-[](#sponsors-program)赞助计划
+[](#previews)赞助计划
 ----------
 
 GitHub Sponsors 允许开发者社区直接在 GitHub 上为他们设计、构建和维护所需开源项目的人员及组织提供经济支持。 要成为被赞助的开发者，必须同意 [GitHub 赞助计划附加条款](/cn/github/site-policy/github-sponsors-additional-terms)。
 
-[](#sql-server-images)SQL Server 映像
+[](#sponsors-program)SQL Server 映像
 ----------
 
 您可以下载用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server 映像”）。 当您使用本软件的权利结束时，您必须卸载 SQL Server 映像。 Microsoft Corporation 可随时禁用 SQL Server 映像。

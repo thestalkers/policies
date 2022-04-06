@@ -32,9 +32,9 @@ GitHub 追加製品および機能の利用規約
 
 * [Pages](#pages)
 
-* [Sponsorsプログラム](#sponsors-program)
+* [Sponsorsプログラム](#previews)
 
-* [SQL Server Images](#sql-server-images)
+* [SQL Server Images](#sponsors-program)
 
 Version Effective Date: August 10, 2021
 
@@ -172,12 +172,12 @@ GitHub Pages may not be used in violation of the Agreement, the GitHub [Acceptab
 
 If you have questions about whether your use or intended use falls into these categories, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHubは、責任を負うことなくGitHubの任意のサブドメインを取得する権利を常に有します。
 
-[](#sponsors-program)Sponsorsプログラム
+[](#previews)Sponsorsプログラム
 ----------
 
 GitHub Sponsorsにより、開発者コミュニティが依存しているオープンソースプロジェクトの設計、構築、維持に携わる人々や Organization を、GitHubで直接、経済的に支援できます。 スポンサード開発者になるには、[GitHub Sponsorsプログラムの追加条項](/ja/github/site-policy/github-sponsors-additional-terms)に同意する必要があります。
 
-[](#sql-server-images)SQL Server Images
+[](#sponsors-program)SQL Server Images
 ----------
 
 お客様は、Linuxファイル用のMicrosoft SQL Server Standard Editionコンテナ (「SQL Server Images」) をダウンロードできます。 「ソフトウェア」の使用権が終了した場合は、SQL Server Imagesをアンインストールする必要があります。 Microsoft Corporation は、「SQL Server Images」をいつでも無効にすることができます。

@@ -422,7 +422,7 @@ Se qualquer disposição deste Contrato for considerada ilegal, inválida ou ine
 
 ### [](#6-amendments-complete-agreement-order-of-precedence)6. Alterações; Contrato Completo; Ordem da Precedência ###
 
-Este Contrato só pode ser modificado por uma alteração escrita assinada por um representante autorizado do GitHub, ou por meio de uma postagem do GitHub com uma versão revisada, conforme com a Seção T. Este Contrato representa o contrato completo e exclusivo entre as Partes. Este Contrato substitui qualquer proposta ou contrato prévio oral ou por escrito, e quaisquer outras comunicações entre as Partes relacionadas com o assunto destes termos, incluindo quaisquer acordos de confidencialidade ou não divulgação. No caso de conflito entre os termos deste Contrato e qualquer Formulário de pedido ou SOW, os termos do Formulário de pedido ou da SOW devem vigorar apenas em relação a esse Formulário de pedido ou essa SOW.
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section R. This Agreement represents the complete and exclusive agreement between the Parties. Este Contrato substitui qualquer proposta ou contrato prévio oral ou por escrito, e quaisquer outras comunicações entre as Partes relacionadas com o assunto destes termos, incluindo quaisquer acordos de confidencialidade ou não divulgação. No caso de conflito entre os termos deste Contrato e qualquer Formulário de pedido ou SOW, os termos do Formulário de pedido ou da SOW devem vigorar apenas em relação a esse Formulário de pedido ou essa SOW.
 
 ### [](#7-publicity)7. Comunicação ###
 

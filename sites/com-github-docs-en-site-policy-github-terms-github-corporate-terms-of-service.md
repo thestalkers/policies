@@ -423,7 +423,7 @@ If any provision of this Agreement is deemed by a court of competent jurisdictio
 
 ### [](#6-amendments-complete-agreement-order-of-precedence)6. Amendments; Complete Agreement; Order of Precedence ###
 
-This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section T. This Agreement represents the complete and exclusive agreement between the Parties. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between the Parties relating to the subject matter of these terms, including any confidentiality or nondisclosure agreements. In the event of any conflict between the terms of this Agreement and any Order Form or SOW, the terms of the Order Form or SOW will control with respect to that Order Form or SOW only.
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section R. This Agreement represents the complete and exclusive agreement between the Parties. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between the Parties relating to the subject matter of these terms, including any confidentiality or nondisclosure agreements. In the event of any conflict between the terms of this Agreement and any Order Form or SOW, the terms of the Order Form or SOW will control with respect to that Order Form or SOW only.
 
 ### [](#7-publicity)7. Publicity ###
 
