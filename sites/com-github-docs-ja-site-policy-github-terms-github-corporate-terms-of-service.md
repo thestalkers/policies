@@ -422,7 +422,7 @@ GitHub は、週末および米国の休日を除き、1 日 24時間、週 5 �
 
 ### [](#6-amendments-complete-agreement-order-of-precedence)6. 修正、完全合意、優先順位 ###
 
-本「契約」は、GitHub の権限のある代表者が署名した書面による修正、または「セクション T」に従った GitHub による改訂版の投稿によってのみ変更できます。本契約は、関係者間の完全かつ排他的な合意を表しています。 本「契約」は、守秘義務契約または機密保持契約を含むかかる規約の主題に関する口頭または書面による提案または事前の契約、および関係者間のその他の通信に優先します。 本契約の規定と、あらゆる「注文書」または「SOW」との間に万が一矛盾がある場合、その「注文書」または「SOW」に関してのみ、「注文書」または「SOW」の規定が支配するものとします。
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section R. This Agreement represents the complete and exclusive agreement between the Parties. 本「契約」は、守秘義務契約または機密保持契約を含むかかる規約の主題に関する口頭または書面による提案または事前の契約、および関係者間のその他の通信に優先します。 本契約の規定と、あらゆる「注文書」または「SOW」との間に万が一矛盾がある場合、その「注文書」または「SOW」に関してのみ、「注文書」または「SOW」の規定が支配するものとします。
 
 ### [](#7-publicity)7. 広報 ###
 
