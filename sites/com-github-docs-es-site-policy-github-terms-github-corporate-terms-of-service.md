@@ -422,7 +422,7 @@ Si una corte de jurisdicción competente considera que alguna disposición del p
 
 ### [](#6-amendments-complete-agreement-order-of-precedence)6. Enmiendas; Contrato Completo; Orden de Precedencia ###
 
-Este Acuerdo solo se puede modificar por una enmienda por escrito firmada por un representante autorizado de GitHub, o por GitHub publicando una versión revisada de acuerdo con la Sección T. Este Acuerdo representa el acuerdo completo y exclusivo entre las Partes. Este Acuerdo sustituye cualquier propuesta o acuerdo previo oral o escrito y cualquier otra comunicación entre las Partes relacionadas con el tema de estos términos, incluyendo cualquier acuerdo de confidencialidad o no divulgación. En el caso en que exista algún conflicto entre los términos del presente Acuerdo y cualquier Formulario de pedidos o SOW, los términos del Formulario de pedidos o SOW prevalecerán solamente con respecto a ese Formulario de pedidos o SOW.
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by GitHub posting a revised version in accordance with Section R. This Agreement represents the complete and exclusive agreement between the Parties. Este Acuerdo sustituye cualquier propuesta o acuerdo previo oral o escrito y cualquier otra comunicación entre las Partes relacionadas con el tema de estos términos, incluyendo cualquier acuerdo de confidencialidad o no divulgación. En el caso en que exista algún conflicto entre los términos del presente Acuerdo y cualquier Formulario de pedidos o SOW, los términos del Formulario de pedidos o SOW prevalecerán solamente con respecto a ese Formulario de pedidos o SOW.
 
 ### [](#7-publicity)7. Publicidad ###
 
