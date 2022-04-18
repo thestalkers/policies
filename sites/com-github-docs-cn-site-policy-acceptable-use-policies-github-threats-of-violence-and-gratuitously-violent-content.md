@@ -1,4 +1,4 @@
-GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
+GitHub 暴力威胁和无端暴力内容 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,13 +6,13 @@ GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
-GitHub Threats of Violence and Gratuitously Violent Content
+GitHub 暴力威胁和无端暴力内容
 ==========
 
-You may not use GitHub to organize, promote, encourage, threaten, or incite acts of violence. You may not post content that depicts or glorifies violence or physical harm against human beings or animals. 这包括：
+您不得使用 GitHub 组织、宣传、鼓励、威胁或煽动暴力行为。 您不得发布描绘或美化针对人类或动物的暴力或身体伤害的内容。 这包括：
 
-* Threatening another individual or group with abuse, harm, sexual violence, or death
-* Posting text, imagery, or audio content glorifying or containing a graphic depiction of violence toward oneself, another individual, group, or animal
-* Encouraging another individual to engage in self harm
+* 以虐待、伤害、性暴力或死亡威胁他人个人或群体
+* 发布美化或包含对自己、他人、团体或动物的暴力行为的文字、图像或音频内容
+* 鼓励他人进行自我伤害
 
-We do not allow violent content to be posted indiscriminately or in a way that is difficult for other users to avoid, such as a profile avatar or an issue comment. However, we understand there may be legitimate reasons to post violent content, such as for educational or documentary purposes, creative works, or depictions of historical events. In those cases, a clear warning or disclaimer can help users make an educated decision as to whether or not they want to engage with such content. Still, GitHub may decide to limit the visibility of such content to those who choose to opt in.
+我们不允许不分青红皂白地发布暴力内容，也不允许以其他用户难以避免的方式发布，例如个人资料头像或问题评论。 但是，我们理解发布暴力内容可能有正当理由，例如出于教育或纪实目的、创意作品或对历史事件的描绘。 在这些情况下，明确的警告或免责声明可以帮助用户就是否要与此类内容互动做出明智的决定。 尽管如此，GitHub 可能会决定将此类内容的可见性限制为选择加入的人。

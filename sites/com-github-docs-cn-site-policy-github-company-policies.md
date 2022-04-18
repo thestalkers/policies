@@ -1,4 +1,4 @@
-GitHub Company Policies - GitHub Docs
+GitHub 公司政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ GitHub Company Policies - GitHub Docs
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
-GitHub Company Policies
+GitHub 公司政策
 ==========
 
 * [GitHub 反对现代奴隶制和雇佣童工的声明](/cn/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)

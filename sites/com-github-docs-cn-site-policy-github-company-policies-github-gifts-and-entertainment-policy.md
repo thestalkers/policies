@@ -97,4 +97,4 @@ GitHub 的道德准则详细说明了某些情况，包括礼品、旅游和招�
 [](#more-information)更多信息
 ----------
 
-如需了解有关规则、执行和处罚的更多信息和相关背景，美国 Department of Justice’s [Resource Guide to the U.S. 反海外腐败法](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)是一种很好的资源。
+如需了解有关规则、执行和处罚的更多信息和相关背景，美国 司法部的[《美国 反海外腐败法](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)是一种很好的资源。

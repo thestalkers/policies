@@ -1,4 +1,4 @@
-GitHub Impersonation - GitHub Docs
+GitHub 冒充 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,16 +6,16 @@ GitHub Impersonation - GitHub Docs
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
-GitHub Impersonation
+GitHub 冒充
 ==========
 
-You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
+您不得误传您的身份或者您与他人或组织的关系。 这包括以误导或欺骗他人的方式执行以下任何操作：
 
-* Copying another user's avatar or other personal profile information
-* Posting content under another user's email address
-* Using a deceptively similar username, organization name, or other namespace
-* Otherwise posing as another individual or organization
+* 复制其他用户的头像或其他个人资料信息
+* 在其他用户的电子邮件地址下发布内容
+* 使用看似相似的用户名、组织名称或其他命名空间
+* 以其他方式冒充其他个人或组织
 
-Impersonation is a form of harassment and violation of this policy may lead to loss of access to your account.
+冒充是一种骚扰形式，违反此政策可能会导致无法访问您的帐户。
 
-Please note, having a username similar to another is not necessarily impersonation. GitHub will take context into account. For example, as in cases involving claims of [misinformation or disinformation](/cn/github/site-policy/github-misinformation-and-disinformation), we generally allow parody and satire that is in line with our [Acceptable Use Polices](/cn/github/site-policy/github-acceptable-use-policies).
+请注意，用户名与其他用户名相似并不一定是冒充。 GitHub 将考虑上下文。 例如，在涉及[错误信息或虚假信息](/cn/github/site-policy/github-misinformation-and-disinformation)的情况下，我们通常允许符合我们[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)的模仿和讽刺。

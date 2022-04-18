@@ -1,4 +1,4 @@
-Content Removal Policies - GitHub Docs
+内容删除政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ Content Removal Policies - GitHub Docs
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
 
-Content Removal Policies
+内容删除政策
 ==========
 
 * [提交内容删除请求](/cn/site-policy/content-removal-policies/submitting-content-removal-requests)

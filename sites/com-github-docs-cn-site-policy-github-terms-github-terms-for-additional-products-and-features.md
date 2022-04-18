@@ -32,9 +32,11 @@ GitHub 其他产品和功能条款
 
 * [页面](#pages)
 
-* [赞助计划](#previews)
+* [预览版](#previews)
 
-* [SQL Server 映像](#sponsors-program)
+* [赞助计划](#sponsors-program)
+
+* [SQL Server 映像](#sql-server-images)
 
 版本生效日期：2021 年 8 月 10 日
 
@@ -63,23 +65,23 @@ GitHub Actions 使您能够直接在您的 GitHub 仓库中创建自定义软件
 * 任何给我们的服务器带来负担的活动，如果这种负担与提供给用户的收益不成比例（例如，不要将 Action 用作内容交付网络或作为无服务器应用程序的一部分，但收益低负担也低的 Action 可能没问题）；或
 * 如果使用 GitHub 托管的运行器，与使用 GitHub Actions 的仓库相关的软件项目创建、测试、部署或发布无关的任何其他活动。
 
-为防止违反这些限制和滥用 GitHub Actions，GitHub 可能会监视您对 GitHub Actions 的使用。 Misuse of GitHub Actions may result in termination of jobs, restrictions in your ability to use GitHub Actions, disabling of repositories created to run Actions in a way that violates these Terms, or in some cases, suspension or termination of your GitHub account.
+为防止违反这些限制和滥用 GitHub Actions，GitHub 可能会监视您对 GitHub Actions 的使用。 滥用 GitHub 操作可能会导致作业终止、限制您使用 GitHub 操作的能力、禁用为以违反这些条款的方式运行操作而创建的存储库，或者在某些情况下，暂停或终止您的 GitHub 帐户。
 
-*Use for Development and Testing*
+*用于开发和测试*
 
-You may only access and use GitHub Actions to develop and test your application(s). Only one licensed user may access a virtual machine provided by Actions at any time.
+您只能访问和使用 GitHub Actions 来开发和测试您的应用程序。 任何时候都只能有一个许可用户访问 Actions 提供的虚拟机。
 
-*Authorized Developer*
+*授权的开发者*
 
-You appoint GitHub as your authorized developer with respect to Apple software included in Actions. GitHub is responsible for complying with the terms for any such software included in Actions and will keep confidential any confidential information of Apple accessed as part of Actions.
+您指定 GitHub 作为您的授权开发者，负责 Actions 中包含的 Apple 软件。 GitHub 负责遵守 Actions 中包含的任何此类软件的条款，并对作为 Actions 一部分访问的任何 Apple 机密信息保密。
 
-*Third Party Repository Service Access*
+*第三方存储库服务访问*
 
-If you grant GitHub access to your third-party repository service account(s), you authorize GitHub to scan the account(s), including the contents of your Public and Private Repositories, for purposes of providing GitHub Actions.
+如果您授予 GitHub 访问您的第三方存储库服务帐户的权限，则表示您授权 GitHub 扫描这些帐户，包括您的公共和私有存储库的内容，以便提供 GitHub Actions。
 
-*Self-Hosted Runners on GitHub Actions*
+*GitHub Actions 上的自托管运行器*
 
-If you use self-hosted runners, you have the ability to turn off automatic updates but GitHub reserves the right to override your choice for critical security updates.
+如果您使用自托管运行器，则可以关闭自动更新，但 GitHub 保留覆盖您选择的关键安全更新的权利。
 
 [](#advanced-security)Advanced Security
 ----------
@@ -172,12 +174,17 @@ GitHub Pages 的使用不得违反本协议、GitHub [可接受使用政策](/cn
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
-[](#previews)赞助计划
+[](#previews)预览版
+----------
+
+预览版是指为预览、评估、演示或试用目的而提供的软件、在线服务和其他产品和功能，或这些功能的预发布版本，如 Alpha 版、测试版或抢先体验版。 如果协议不包含涉及预览版的条款和条件，则以下条款适用。 GitHub 授予使用预览版非生产实例的有限权限。 预览按“原样”、“包含所有故障”和“可用”提供。 GitHub 可能随时更改或终止预览版，恕不另行通知。 我们提供的有关个人预览版的任何信息都将被视为 GitHub 的机密信息。 如果您选择提供有关预览版的评论或建议，我们可能会出于任何目的使用该反馈，而无需承担任何义务。 GitHub 的最高赔偿责任仅限于直接损害赔偿，最高 5,000 美元。 对于因您使用预览版而由第三方提出的索赔，GitHub 没有义务为您辩护、赔偿或使您免受损害。
+
+[](#sponsors-program)赞助计划
 ----------
 
 GitHub Sponsors 允许开发者社区直接在 GitHub 上为他们设计、构建和维护所需开源项目的人员及组织提供经济支持。 要成为被赞助的开发者，必须同意 [GitHub 赞助计划附加条款](/cn/github/site-policy/github-sponsors-additional-terms)。
 
-[](#sponsors-program)SQL Server 映像
+[](#sql-server-images)SQL Server 映像
 ----------
 
 您可以下载用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server 映像”）。 当您使用本软件的权利结束时，您必须卸载 SQL Server 映像。 Microsoft Corporation 可随时禁用 SQL Server 映像。

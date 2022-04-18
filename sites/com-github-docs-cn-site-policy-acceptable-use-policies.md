@@ -11,22 +11,22 @@
 
 * [GitHub 可接受的使用政策](/cn/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [GitHub Active Malware or Exploits](/cn/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [GitHub 活动的恶意软件或漏洞利用](/cn/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
-* [GitHub Bullying and Harassment](/cn/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [GitHub 欺凌和骚扰](/cn/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-* [GitHub Disrupting the Experience of Other Users](/cn/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub 破坏其他用户的体验](/cn/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-* [GitHub Doxxing and Invasion of Privacy](/cn/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [GitHub 人肉搜索和侵犯隐私](/cn/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [GitHub Hate Speech and Discrimination](/cn/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [GitHub 仇恨言论和歧视](/cn/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [GitHub Impersonation](/cn/site-policy/acceptable-use-policies/github-impersonation)
+* [GitHub 冒充](/cn/site-policy/acceptable-use-policies/github-impersonation)
 
-* [GitHub Misinformation and Disinformation](/cn/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [GitHub 错误信息和虚假信息](/cn/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [GitHub Sexually Obscene Content](/cn/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [GitHub Threats of Violence and Gratuitously Violent Content](/cn/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [GitHub 暴力威胁和无端暴力内容](/cn/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [GitHub Appeal and Reinstatement](/cn/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [GitHub 申诉和恢复](/cn/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
