@@ -12,7 +12,7 @@ GitHub 追加製品および機能の利用規約
 [ここには以下の内容があります:](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
-* [アクション](#actions)
+* [Actions](#actions)
 
 * [Advanced Security](#advanced-security)
 
@@ -52,7 +52,7 @@ GitHub を利用する際、数多くの追加製品や機能 (「追加製品�
 
 * **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
-[](#actions)アクション
+[](#actions)Actions
 ----------
 
 GitHubアクションでは、カスタムソフトウェア開発のライフサイクルにわたるワークフローをGitHubリポジトリに直接作成することができます。 Actionsは、使用量に基づいて課金されます。 [Actionsのドキュメント](/ja/actions)には、計算量やストレージ容量 (アカウントのプランによって異なる)、およびActionsの使用分数の監視方法や利用限度の設定方法などの詳細情報が記載されています。

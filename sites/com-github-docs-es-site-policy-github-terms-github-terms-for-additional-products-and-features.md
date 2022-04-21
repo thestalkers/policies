@@ -12,7 +12,7 @@ Condiciones de GitHub para las características y productos adicionales
 [En este artículo](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
-* [Acciones](#actions)
+* [Actions](#actions)
 
 * [Advanced Security](#advanced-security)
 
@@ -52,7 +52,7 @@ Al utilizar las características y productos adicionales, también estás de acu
 
 * Los usuarios de **GitHub AE** podrían tener acceso a los siguientes productos y características adicionales: Acciones, Seguridad Avanzada, Base de Datos de Asesorías, Connect, Vista Previa del Dependabot, GitHub Enterprise Importer, Paquetes y Páginas.
 
-[](#actions)Acciones
+[](#actions)Actions
 ----------
 
 Acciones de GitHub te permiten crear flujos de trabajo de ciclo de vida de desarrollo del software personalizado directamente en tu repositorio de GitHub. Las acciones se facturan conforme se utilizan. La [Documentación de las acciones](/es/actions) incluye detalles como las cantidades de procesamiento y almacenamiento (dependiendo del plan de tu cuenta), y el cómo monitorear el uso de minutos de tus acciones y configurar los límites de uso.

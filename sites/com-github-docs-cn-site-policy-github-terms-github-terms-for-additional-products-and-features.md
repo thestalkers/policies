@@ -12,7 +12,7 @@ GitHub 其他产品和功能条款
 [本文内容](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
-* [操作](#actions)
+* [Actions](#actions)
 
 * [Advanced Security](#advanced-security)
 
@@ -52,7 +52,7 @@ GitHub 其他产品和功能条款
 
 * **GitHub AE** 用户可以访问以下附加产品和特性：Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages 和 Pages。
 
-[](#actions)操作
+[](#actions)Actions
 ----------
 
 GitHub Actions 使您能够直接在您的 GitHub 仓库中创建自定义软件开发生命周期工作流程。 Actions 按使用情况计费。 [Actions 文档](/cn/actions)包含详细信息，包括计算和存储量（取决于您的帐户计划）以及如何监控您的 Actions 分钟使用和设置使用限制。
