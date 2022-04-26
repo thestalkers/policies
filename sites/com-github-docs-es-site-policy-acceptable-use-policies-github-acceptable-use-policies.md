@@ -69,7 +69,7 @@ We do not allow content or activity on GitHub that:
 [](#3-intellectual-property-authenticity-and-private-information)3. Intellectual Property, Authenticity, and Private Information
 ----------
 
-We do not allow content or activity on GitHub that:
+No permitimos el contenido o la activad de GitHub que:
 
 * que infrinja algún derecho de propiedad de cualquiera de las partes, incluidos la patente, el nombre comercial, el secreto comercial, la propiedad intelectual, el derecho a publicidad o cualquier otro derecho;
 
@@ -99,7 +99,7 @@ We do not allow content or activity on GitHub that is:
 [](#5-site-access-and-safety)5. Site Access and Safety
 ----------
 
-We do not allow content or activity on GitHub that:
+No permitimos el contenido o la activad de GitHub que:
 
 * apoye directamente [el ataque ilegal o campañas de malware](/es/github/site-policy/github-active-malware-or-exploits) que estén causando daños técnicos — tales como utilizar nuestra plataforma para entregar ejecutables malintencionados o como ataque de infraestructura, por ejemplo, organizando ataques de negación de servicio o administrando servidores de control y comando — sin propósitos implícitos o explícitos de uso dual previos a que suceda el abuso; o
 * uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized.”
