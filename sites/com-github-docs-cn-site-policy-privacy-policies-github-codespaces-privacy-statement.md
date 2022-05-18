@@ -15,7 +15,7 @@ GitHub Codespaces 的使用受 [GitHub 隐私声明](/cn/github/site-policy/gith
 
 github.dev 上的活动受 [GitHub 测试预览版条款](/cn/github/site-policy/github-terms-of-service#j-beta-previews)的约束
 
-[](#using-visual-studio-code)使用 Visual Studio Code
+[](#using--data-variablesproductprodname_vscode-)使用 Visual Studio Code
 ----------
 
 GitHub Codespaces 和 github.dev 允许在 Web 浏览器中使用 Visual Studio Code。 在 Web 浏览器中使用 Visual Studio Code 时，默认情况下会启用某些遥测集合，[Visual Studio Code 网站上对此进行了详细解释](https://code.visualstudio.com/docs/getstarted/telemetry)。 用户可以通过转到左上角菜单下的 File \> Preferences \> Settings（文件首选项设置）来选择退出遥测。

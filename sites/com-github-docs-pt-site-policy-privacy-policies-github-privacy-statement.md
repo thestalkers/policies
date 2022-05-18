@@ -107,7 +107,7 @@ Solicitaremos algumas informações básicas no momento de criação da conta. Q
 
 Se você fizer um registro de Conta paga conosco, enviar fundos pelo Programa de Patrocinadores do GitHub ou comprar um aplicativo no GitHub Marketplace, coletaremos seu nome completo, endereço e informações do PayPal ou do cartão de crédito. Observe que o GitHub não processa ou armazena suas informações de cartão de crédito ou do PayPal, mas nosso processador de pagamento de terceiros o fará.
 
-Se você listar e vender um aplicativo no [GitHub Marketplace](https://github.com/marketplace), precisaremos das suas informações bancárias. Se você angariar fundos pelo [Programa de Patrocinadores do GitHub](https://github.com/sponsors), solicitaremos algumas [informações adicionais](/pt/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-user-account#submitting-your-bank-information) no processo de registro para você participar e receber fundos através desses serviços e para fins de compliance.
+Se você listar e vender um aplicativo no [GitHub Marketplace](https://github.com/marketplace), precisaremos das suas informações bancárias. If you raise funds through the [GitHub Sponsors Program](https://github.com/sponsors), we require some [additional information](/pt/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-personal-account#submitting-your-bank-information) through the registration process for you to participate in and receive funds through those services and for compliance purposes.
 
 #### [](#profile-information)Informações do perfil ####
 
