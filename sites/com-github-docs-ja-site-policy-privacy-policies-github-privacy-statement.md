@@ -107,7 +107,7 @@ Githubではお客様の個人情報をプライバシーステートメント�
 
 有料でのアカウントにサインオンする場合や、GitHub Sponsors Programを通じて送金する場合、GitHub Marketplaceでアプリケーションを購入する場合、当社は、お客様のフルネーム、住所およびクレジットカード情報またはPayPal情報を収集します。 GitHubは、お客様のクレジットカード情報またはPaypal情報を処理または保管しませんが、第三者の支払処理者はこれを行うことにご留意ください。
 
-[GitHub Marketplace](https://github.com/marketplace) にアプリケーションを掲載しこれを販売する場合、当社は、お客様の銀行情報を要求します。 [GitHub Sponsors Program](https://github.com/sponsors)を通じて資金を調達する場合、当社は、利用者がサービスに参加して資金を受け取るため、および法令順守のため、登録処理を通じて利用者の[追加情報](/ja/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-user-account#submitting-your-bank-information) を要求します。
+[GitHub Marketplace](https://github.com/marketplace) にアプリケーションを掲載しこれを販売する場合、当社は、お客様の銀行情報を要求します。 If you raise funds through the [GitHub Sponsors Program](https://github.com/sponsors), we require some [additional information](/ja/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-personal-account#submitting-your-bank-information) through the registration process for you to participate in and receive funds through those services and for compliance purposes.
 
 #### [](#profile-information)プロフィール情報 ####
 
