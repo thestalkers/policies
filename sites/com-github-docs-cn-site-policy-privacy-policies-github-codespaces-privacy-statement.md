@@ -18,6 +18,6 @@ github.dev 上的活动受 [GitHub 测试预览版条款](/cn/github/site-policy
 [](#)使用 Visual Studio Code
 ----------
 
-GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). 用户可以通过转到左上角菜单下的 File \> Preferences \> Settings（文件首选项设置）来选择退出遥测。
+GitHub Codespaces 和 github.dev 允许在 Web 浏览器中使用 Visual Studio Code。 在 Web 浏览器中使用 VS Code 时，默认情况下会启用某些遥测集合，[VS Code 网站上对此进行了详细解释](https://code.visualstudio.com/docs/getstarted/telemetry)。 用户可以通过转到左上角菜单下的 File \> Preferences \> Settings（文件首选项设置）来选择退出遥测。
 
-If a user chooses to opt out of telemetry capture in VS Code while inside of a codespace as outlined, this will sync the disable telemetry preference across all future web sessions in GitHub Codespaces and github.dev.
+如果用户选择在代码空间内选择退出 VS Code 中的遥测捕获（如前所述），这将在 GitHub Codespaces 和 github.dev 中的所有未来 Web 会话中同步禁用遥测首选项。
