@@ -12,7 +12,7 @@ Bullying e assédio no GitHub
 Não toleramos assédio, assédio, bullying ou abuso de qualquer tipo, seja diretamente seja incentivando os outros a participar da conduta proibida. Isto inclui:
 
 * Ataques pessoais direcionados
-* Piling on to or orchestrating [disruptive](/pt/github/site-policy/github-disrupting-the-experience-of-other-users) activity in a way that amounts to abuse
+* Empilhar ou orquestrar atividade [disruptiva](/pt/github/site-policy/github-disrupting-the-experience-of-other-users) de forma que equivale a abuso
 * Seguir outro usuário em na plataforma de forma maneira que cause intimidação
 * Insinuações sexuais ou comentários dirigidos a outro indivíduo
 * Participar ingenuamente em conversas de uma forma que desencadeie conflitos ou comprometa a discussão sincera

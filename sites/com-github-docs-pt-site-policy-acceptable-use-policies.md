@@ -11,7 +11,7 @@ Políticas de uso aceitável
 
 * [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [GitHub Active Malware or Exploits](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [GitHub Active Malware ou Exploits](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
 * [Bullying e assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
@@ -29,4 +29,4 @@ Políticas de uso aceitável
 
 * [Ameaças de Violência e Conteúdo Gratuitamente Violento no GitHub](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [GitHub Appeal and Reinstatement](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Recurso e Reposição do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
