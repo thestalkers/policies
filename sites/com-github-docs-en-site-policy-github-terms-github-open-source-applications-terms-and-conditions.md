@@ -4,6 +4,8 @@ GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/github-terms/github-open-source-applications-terms-and-conditions).
+
 GitHub Open Source Applications Terms and Conditions
 ==========
 
