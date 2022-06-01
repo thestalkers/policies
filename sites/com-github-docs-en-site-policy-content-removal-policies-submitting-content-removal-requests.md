@@ -4,6 +4,8 @@ Submitting content removal requests - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Portuguese](/pt/site-policy/content-removal-policies/submitting-content-removal-requests).
+
 Submitting content removal requests
 ==========
 
