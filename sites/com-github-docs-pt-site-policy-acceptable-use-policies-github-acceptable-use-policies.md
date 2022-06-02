@@ -119,16 +119,16 @@ Você pode usar as informações do nosso Serviço pelos motivos a seguir, indep
 
 Scraping refere-se à extração de informações do nosso Serviço por meio de um processo automatizado, como um bot ou webcrawler. Scraping não se refere à coleta de informações por meio de nossa API. Por favor, consulte a Seção H de nossos [Termos de Serviço](/pt/articles/github-terms-of-service#h-api-terms) para nossos Termos da API.
 
-Você não pode usar as informações do Serviço (quer seja por meio de raspagem, coletadas através da nossa API ou obtidas de outra forma) para spam, incluindo para fins de envio de e-mails não solicitados a usuários ou venda de Informações Pessoais do Usuário (conforme definido na [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement)), tais como recrutadores, headhunters e quadros de emprego.
+You may not use information from the Service (whether scraped, collected through our API, or obtained otherwise) for spamming purposes, including for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards.
 
 Seu uso de informações do Serviço deve estar em conformidade com a [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
 
 [](#8-privacy)8. Privacidade
 ----------
 
-Uso indevido de Informações Pessoais é proibido.
+Misuse of personal information is prohibited.
 
-Qualquer pessoa, entidade ou serviço que colete dados do Serviço deve estar em conformidade com a [Declaração de privacidade do GitHub](/pt/articles/github-privacy-statement), especialmente no que diz respeito à coleta de Informações Pessoais do Usuário. Se você coletar qualquer Informação Pessoal do Usuário a partir do Serviço, você concorda que somente usará essa Informação Pessoal do Usuário para os fins autorizados pelo usuário. Você concorda que protegerá de forma razoável qualquer Informação Pessoal do Usuário que você coletou do Serviço, e que você responderá prontamente a reclamações, solicitações de remoção e solicitações de "não contatar" nossas e de outros usuários.
+Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/pt/articles/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 [](#9-excessive-bandwidth-use)9. Uso excessivo da largura de banda
 ----------
