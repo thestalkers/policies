@@ -17,8 +17,6 @@ Privacy Policies
 
 * [Subprocesadores y cookies de GitHub](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [Aviso de GitHub acerca de la Ley de Privacidad del Consumidor de California](/es/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
-
 * [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 * [Política de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)

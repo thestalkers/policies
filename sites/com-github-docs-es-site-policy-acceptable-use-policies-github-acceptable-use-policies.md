@@ -46,7 +46,7 @@ Eres responsable de usar el Servicio de conformidad con todas las leyes, regulac
 [](#2-user-safety)2. User Safety
 ----------
 
-We do not allow content or activity on GitHub that:
+No permitimos el contenido o la activad de GitHub que:
 
 * que sea ilícito o promueva actividades ilícitas;
 
@@ -119,16 +119,16 @@ Puedes utilizar la información de nuestro Servicio por las siguientes razones, 
 
 La eliminación se refiere a extraer datos de nuestro Servicio a través de un proceso automático, como un bot o agente de búsqueda. No se refiere a la recopilación de información a través de nuestra API. Por favor, consulta la sección H de nuestras [Condiciones de Servicio](/es/articles/github-terms-of-service#h-api-terms) para nuestras Condiciones de la API.
 
-No puedes utilizar la información del Servicio (ya sea eliminada, recopilada a través de nuestra API u obtenida de otra forma) con fines de enviar correo basura, incluyendo para los fines de enviar correos electrónicos no solicitados a los usuarios o vender información personal del usuario (como se define en la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement)), tales como reclutadores, cazatalentos y bolsas de trabajo.
+You may not use information from the Service (whether scraped, collected through our API, or obtained otherwise) for spamming purposes, including for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards.
 
 Tu uso de la información del Servicio debe cumplir con la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
 [](#8-privacy)8. Privacidad
 ----------
 
-Está prohibido el uso indebido de la Información personal del Usuario.
+Misuse of personal information is prohibited.
 
-Cualquier persona, entidad o servicio que recopile datos del Servicio debe cumplir con la [Declaración de privacidad de GitHub](/es/articles/github-privacy-statement), en particular, al respecto de la recopilación de Información personal del Usuario. Si recopilas cualquier Información personal del Usuario desde el Servicio, debes aceptar que solo usarás esa Información personal del Usuario para los fines que ese Usuario autorizó. Aceptas que asegurarás de manera razonable cualquier Información personal del Usuario que hayas reunido desde el Servicio y responderás de inmediato a las quejas, las solicitudes de eliminación y las solicitudes de "no contactar" que hagamos nosotros u otros usuarios.
+Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/es/articles/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
 [](#9-excessive-bandwidth-use)9. Uso del ancho de banda excesivo
 ----------
