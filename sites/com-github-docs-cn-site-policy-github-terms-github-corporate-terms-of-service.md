@@ -187,7 +187,7 @@ GitHub 在[企业服务等级协议](/cn/github/site-policy/github-enterprise-se
 
 ### [](#3-privacy)3. 隐私 ###
 
-[GitHub 隐私声明](/cn/articles/github-privacy-statement)和 [GitHub 数据保护协议](/cn/github/site-policy/github-data-protection-agreement-non-enterprise-customers)详细介绍了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 任何个人、实体或服务从服务收集数据都必须遵守 GitHub 隐私声明，特别是收集用户个人信息（定义见“GitHub 隐私声明”）时。 如果客户从 GitHub 收集任何用户个人信息，则客户仅将其用于外部用户已授权的目的。 客户将合理保护任何此类个人信息，并且客户会及时响应 GitHub 或外部用户的投诉、删除请求以及“不要联系”请求。
+[GitHub 隐私声明](/cn/articles/github-privacy-statement)和 [GitHub 数据保护协议](/cn/github/site-policy/github-data-protection-agreement-non-enterprise-customers)详细介绍了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 任何个人、实体或服务从服务收集数据都必须遵守 GitHub 隐私声明，特别是收集用户个人信息（定义见“GitHub 隐私声明”）时。 如果客户从 GitHub 收集任何个人信息，则客户仅将其用于外部用户已授权的目的。 客户将合理保护任何此类个人信息，并且客户会及时响应 GitHub 或外部用户的投诉、删除请求以及“不要联系”请求。
 
 [](#d-content-responsibility-ownership-license-rights)D. 内容责任；所有权；许可权利
 ----------

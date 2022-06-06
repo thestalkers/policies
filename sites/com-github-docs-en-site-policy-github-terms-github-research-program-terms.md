@@ -4,8 +4,6 @@ GitHub Research Program Terms - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Spanish](/es/site-policy/github-terms/github-research-program-terms).
-
 GitHub Research Program Terms
 ==========
 

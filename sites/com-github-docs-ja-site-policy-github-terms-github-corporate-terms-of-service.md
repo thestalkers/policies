@@ -187,7 +187,7 @@ GitHub Enterprise Cloudに対するGitHubの四半期稼働保証時間は、[En
 
 ### [](#3-privacy)3. プライバシー ###
 
-「 [GitHubのプライバシーについての声明](/ja/articles/github-privacy-statement)」および「[GitHubデータ保護契約](/ja/github/site-policy/github-data-protection-agreement-non-enterprise-customers)」には、GitHubのプライバシーおよびデータ取り扱い、ならびに「お客様の個人データ」に関するGitHubの処理およびセキュリティに関する義務についての詳細が記載されています。 「サービス」からデータを収集する個人、団体、またはサービスは、特にユーザの個人情報 (「GitHub のプライバシーについての声明」に規定) の収集に関して、GitHubの プライバシーについての声明に従う必要があります。 お客様がGitHubから「ユーザ個人情報」を収集した場合、お客様は「外部ユーザ」が承認した目的にのみその個人情報を使用するものとします。 お客様は、かかる個人情報を合理的に保護するものとし、GitHubはGitHubまたは「外部ユーザ」からの苦情、削除要請、および連絡拒否の要請に速やかに対応するものとします。
+「 [GitHubのプライバシーについての声明](/ja/articles/github-privacy-statement)」および「[GitHubデータ保護契約](/ja/github/site-policy/github-data-protection-agreement-non-enterprise-customers)」には、GitHubのプライバシーおよびデータ取り扱い、ならびに「お客様の個人データ」に関するGitHubの処理およびセキュリティに関する義務についての詳細が記載されています。 「サービス」からデータを収集する個人、団体、またはサービスは、特にユーザの個人情報 (「GitHub のプライバシーについての声明」に規定) の収集に関して、GitHubの プライバシーについての声明に従う必要があります。 If Customer collects any personal information from GitHub, Customer will only use it for the purpose for which the External User has authorized it. お客様は、かかる個人情報を合理的に保護するものとし、GitHubはGitHubまたは「外部ユーザ」からの苦情、削除要請、および連絡拒否の要請に速やかに対応するものとします。
 
 [](#d-content-responsibility-ownership-license-rights)D. コンテンツの責任、所有権、ライセンス権
 ----------

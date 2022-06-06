@@ -126,9 +126,9 @@ Seu uso de informações do Serviço deve estar em conformidade com a [Declaraç
 [](#8-privacy)8. Privacidade
 ----------
 
-Misuse of personal information is prohibited.
+É proibido o uso indevido de informações pessoais.
 
-Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/pt/articles/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
+Qualquer pessoa, entidade ou serviço que colete dados do Serviço deve estar em conformidade com a [Declaração de privacidade do GitHub](/pt/articles/github-privacy-statement), especialmente no que diz respeito à coleta de Informações Pessoais. Se você coletar quaisquer informações pessoais do Serviço, você concorda que usará apenas essas informações pessoais para o propósito para o qual esse usuário os autorizou. Você concorda que protegerá, na medida do possível, todas as informações pessoais que você tenha coletado do Serviço e você responderá prontamente a reclamações, removerá solicitações de "não entre em contato" nossas ou de outros usuários.
 
 [](#9-excessive-bandwidth-use)9. Uso excessivo da largura de banda
 ----------

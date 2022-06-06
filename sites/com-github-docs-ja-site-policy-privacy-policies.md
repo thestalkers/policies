@@ -17,8 +17,6 @@ Privacy Policies
 
 * [GitHubのサブプロセッサとCookie](/ja/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [カリフォルニア州消費者プライバシー法に関するGitHubの通知](/ja/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
-
 * [GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 * [GitHub 志望者のプライバシーポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)

@@ -17,8 +17,6 @@
 
 * [GitHub 子处理器和 Cookie](/cn/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [GitHub 关于《加州消费者隐私法案》的声明](/cn/site-policy/privacy-policies/githubs-notice-about-the-california-consumer-privacy-act)
-
 * [GitHub Codespaces 隐私声明](/cn/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 * [GitHub 候选人隐私政策](/cn/site-policy/privacy-policies/github-candidate-privacy-policy)
