@@ -44,7 +44,7 @@ GitHubのプライバシーについての声明
 
 * [翻訳](#translations)
 
-* [GitHub's notice to California residents](#)
+* [GitHub's notice to California residents](#githubs-notice-to-california-residents)
 
 Effective date: May 31, 2022
 
@@ -349,7 +349,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 この声明の他の言語への翻訳については、[https://docs.github.com/](/ja)にアクセスし、[English] のドロップダウンメニューから言語を選択してください。
 
-[](#)GitHub's notice to California residents
+[](#githubs-notice-to-california-residents)GitHub's notice to California residents
 ----------
 
 2018年の[カリフォルニア州消費者プライバシー法](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) (Cal. Civ. Code §1798.100 以降の条文 (改訂された場合はその改訂版)、以下「CCPA」) は、カリフォルニア州住民に自らの個人情報に対する権利と管理権を与えるものです。 GitHub, Inc. (「GitHub」または「当社」) は、CCPA に基づく要件に従い、カリフォルニア州住民 (「お客様」) の個人情報の収集および取り扱いに関して特定の開示を行うため、カリフォルニア州住民に対して本声明を規定します。 これはCCPAに基づき、GitHubがカリフォルニア州住民に限定して付与する消費者のプライバシー権について説明するものです。 個人情報を管理するというCCPAの中核的な権利を、米国の当社全ユーザに拡大したことに関する情報については、当社の「[プライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」を参照してください。

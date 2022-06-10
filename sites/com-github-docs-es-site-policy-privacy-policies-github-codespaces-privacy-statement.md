@@ -15,7 +15,7 @@ El uso de los GitHub Codespaces está sujeto a la [Declaración de Privacidad de
 
 La actividad en github.dev está sujeta a los [Términos de las Vistas Previas Beta de GitHub](/es/github/site-policy/github-terms-of-service#j-beta-previews)
 
-[](#)Uso de Visual Studio Code
+[](#uso-de-visual-studio-code)Uso de Visual Studio Code
 ----------
 
 GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Los usuarios pueden decidir no participar en la telemetría siguiendo la ruta Archivo \> Preferencias \> Ajustes, debajo del menú superior izquierdo.

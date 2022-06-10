@@ -44,7 +44,7 @@ Declaração de Privacidade do GitHub
 
 * [Traduções](#translations)
 
-* [GitHub's notice to California residents](#)
+* [GitHub's notice to California residents](#githubs-notice-to-california-residents)
 
 Data de vigência: 31 de maio de 2022
 
@@ -349,7 +349,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 Para traduções desta declaração para outros idiomas, acesse [https://docs.github.com/](/pt) e selecione um idioma no menu suspenso abaixo de "Inglês".
 
-[](#)GitHub's notice to California residents
+[](#githubs-notice-to-california-residents)GitHub's notice to California residents
 ----------
 
 A [Lei de Privacidade do Consumidor da Califórnia](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) de 2018, (Cal. Civ. Código §1798.100 et seq., conforme alterado, "CCPA") dá aos residentes da Califórnia direitos e controle sobre suas informações pessoais. GitHub, Inc. ("GitHub", "nós") fornece esta declaração aos residentes ("você") de acordo com os requisitos da CCPA para fazer certas divulgações sobre a coleta e o processamento de suas informações pessoais. Esta é a descrição específica do GitHub dos direitos de privacidade dos consumidores para a Califórnia, sob a CCPA. Para obter informações sobre como estendemos os direitos fundamentais da CCPA para controle de informações pessoais a todos os nossos usuários nos Estados Unidos, consulte nossa [Declaração de Privacidade](/pt/github/site-policy/github-privacy-statement).

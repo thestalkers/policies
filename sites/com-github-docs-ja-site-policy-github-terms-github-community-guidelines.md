@@ -16,7 +16,7 @@ GitHubコミュニティガイドライン
 
 * [嫌な思いをしたら](#what-if-something-or-someone-offends-you)
 
-* [What happens if someone violates GitHub's policies?](#)
+* [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
 
 * [意義申し立てと復帰](#appeal-and-reinstatement)
 
@@ -58,7 +58,7 @@ While some disagreements can be resolved with direct, respectful communication b
 
 While we are passionate about empowering maintainers to moderate their own projects, please reach out to us to [不正利用の申し立て](https://github.com/contact/report-abuse) if you need additional support in dealing with a situation.
 
-[](#)What happens if someone violates GitHub's policies?
+[](#what-happens-if-someone-violates-githubs-policies)What happens if someone violates GitHub's policies?
 ----------
 
 We rely on reports from the community, as well as proactive detection, to help ensure that GitHub is a safe, welcoming, and productive platform for software developers. There are a variety of factors we consider when we’re made aware of behavior or content not in line with GitHub’s policies. However, our policy enforcement and content moderation approach prioritizes our vision to be the home for all developers. This means:

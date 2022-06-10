@@ -22,7 +22,7 @@ GitHub の行政機関による削除に関するポリシー
 
 * [gov-takedowns リポジトリに通知を投稿することの意味](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [Government takedowns based on violations of GitHub's Terms of Service](#)
+* [Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 * [透明性レポート](#transparency-reporting)
 
@@ -60,7 +60,7 @@ GitHub の行政機関による削除に関するポリシー
 
 リポジトリに通知を投稿することは、そこに示されたデータについての通知を当社が受け取ったことを意味します。 これは、コンテンツが違法であるとか誤っているということを意味*しません*。 また、通知に示されたユーザが何か誤った行為を行ったということも意味*しません*。 当社は、削除を要請する当局による主張の正しさについて、いかなる判断をも下さず、またそれを暗示することもしません。 当社はこれらの通知や要請を、情報提供のみを目的として投稿しています。
 
-[](#)Government takedowns based on violations of GitHub's Terms of Service
+[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)Government takedowns based on violations of GitHub's Terms of Service
 ----------
 
 In some cases, GitHub receives reports from government officials of violations of GitHub's Terms of Service. We process those violations as we would process a Terms-of-Service violation reported by anyone else. However, we notify the affected users that the report came from a government and, as with any other case, allow them the opportunity to appeal.
