@@ -15,9 +15,9 @@ Políticas de uso aceptable
 
 * [GitHub Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-* [GitHub Disrupting the Experience of Other Users](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub irrumpiendo la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-* [GitHub Doxxing and Invasion of Privacy](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [Doxxing e invasión de la privacidad en GitHub](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 * [GitHub Hate Speech and Discrimination](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
@@ -25,7 +25,7 @@ Políticas de uso aceptable
 
 * [GitHub Misinformation and Disinformation](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [GitHub Sexually Obscene Content](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Contenido Sexualmente Obsceno de GitHub](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 * [GitHub Threats of Violence and Gratuitously Violent Content](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 

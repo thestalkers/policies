@@ -13,11 +13,11 @@ Política del sitio
 
 * [Políticas de uso aceptable ----------](/es/site-policy/acceptable-use-policies)
 
-* [Privacy Policies ----------](/es/site-policy/privacy-policies)
+* [Políticas de Privacidad ----------](/es/site-policy/privacy-policies)
 
 * [Other Site Policies ----------](/es/site-policy/other-site-policies)
 
-* [Content Removal Policies ----------](/es/site-policy/content-removal-policies)
+* [Políticas de eliminación de contenido ----------](/es/site-policy/content-removal-policies)
 
 * [Security Policies ----------](/es/site-policy/security-policies)
 
