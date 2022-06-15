@@ -12,7 +12,7 @@ GitHub 活动条款
 [本文内容](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
-* [1. 参与活动的基本要求 - 包括](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)[活动行为准则](/cn/articles/github-event-code-of-conduct)
+* [1. 参与活动的基本要求 - 包括活动行为准则](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
 * [2. 图像](#2-pictures)
 

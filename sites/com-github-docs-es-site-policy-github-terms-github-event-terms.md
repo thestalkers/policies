@@ -12,7 +12,7 @@ Términos del evento de GitHub
 [En este artículo](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
-* [1. Requisitos básicos para asistir, incluyendo el](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)[Código de conducta del evento](/es/articles/github-event-code-of-conduct)
+* [1. Requisitos básicos para asistir, incluyendo el Código de conducta del evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
 * [2. Fotos](#2-pictures)
 

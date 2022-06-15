@@ -12,11 +12,11 @@
 [本文内容](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
 ----------
 
-* [](#dmca-takedown-policy)[DMCA 删除政策](/cn/articles/dmca-takedown-policy)
+* [DMCA 删除政策](#dmca-takedown-policy)
 
-* [](#github-trademark-policy)[GitHub 商标政策](/cn/articles/github-trademark-policy)
+* [GitHub 商标政策](#github-trademark-policy)
 
-* [](#github-private-information-removal-policy)[GitHub 私人信息删除政策](/cn/github/site-policy/github-private-information-removal-policy)
+* [GitHub 私人信息删除政策](#github-private-information-removal-policy)
 
 我们理解，用户有时可能无意或有意地在并非您拥有的仓库中，将涉及版权、商标的内容或私人内容发布在 GitHub 上。 由于这些内容的性质各异，适用的法律也不同，因此我们的政策中对每个类别规定了各自不同的报告要求。
 

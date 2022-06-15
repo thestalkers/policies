@@ -12,7 +12,7 @@ GitHubイベント規約
 [ここには以下の内容があります:](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
-* [1. 出席する基本条件――](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)[イベント行動規範](/ja/articles/github-event-code-of-conduct)を含む
+* [1. 出席する基本条件――イベント行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
 * [2. 画像](#2-pictures)
 
