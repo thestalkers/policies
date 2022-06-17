@@ -4,6 +4,8 @@ GitHub Community Forum Code of Conduct - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/github-terms/github-community-forum-code-of-conduct).
+
 GitHub Community Forum Code of Conduct
 ==========
 
