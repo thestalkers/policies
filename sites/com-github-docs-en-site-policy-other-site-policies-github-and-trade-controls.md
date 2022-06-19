@@ -4,8 +4,6 @@ GitHub and Trade Controls - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Simplified Chinese](/cn/site-policy/other-site-policies/github-and-trade-controls).
-
 GitHub and Trade Controls
 ==========
 
