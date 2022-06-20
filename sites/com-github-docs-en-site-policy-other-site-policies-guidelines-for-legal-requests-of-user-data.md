@@ -4,8 +4,6 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Simplified Chinese](/cn/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data).
-
 Guidelines for Legal Requests of User Data
 ==========
 
