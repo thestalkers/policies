@@ -22,21 +22,21 @@ GitHub 其他产品和功能条款
 
 * [Connect](#connect)
 
-* [GitHub Enterprise Importer](#github-enterprise-importer)
+* [GitHub Enterprise Importer](#github-copilot)
 
-* [Learning Lab](#learning-lab)
+* [Learning Lab](#github-enterprise-importer)
 
-* [npm](#npm)
+* [npm](#learning-lab)
 
-* [Packages](#packages)
+* [Packages](#npm)
 
-* [页面](#pages)
+* [页面](#packages)
 
-* [预览版](#previews)
+* [预览版](#pages)
 
-* [赞助计划](#sponsors-program)
+* [赞助计划](#previews)
 
-* [SQL Server 映像](#sql-server-images)
+* [SQL Server 映像](#sponsors-program)
 
 版本生效日期：2021 年 8 月 10 日
 
@@ -127,12 +127,12 @@ Codespaces 的一般版本目前不适用于美国。 政府客户。 美国 政
 
 使用 GitHub Connect，您可以在 GitHub Enterprise Server 或 GitHub AE 实例与您的GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间分享某些功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 或 GitHub AE 实例。 您通过 Connect 使用 GitHub Enterprise Cloud 或 GitHub.com 是由您许可 GitHub Enterprise Cloud 或 GitHub.com的条款管理的。 个人数据的使用受 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)管制。
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[](#github-copilot)GitHub Enterprise Importer
 ----------
 
 Importer 是一个从其他来源导出数据到 GitHub 平台的框架。 Importer“按原样”提供。
 
-[](#learning-lab)Learning Lab
+[](#github-enterprise-importer)Learning Lab
 ----------
 
 GitHub Learning Lab 提供已编入GitHub 的免费交互式课程，并提供即时自动反馈和帮助。
@@ -147,17 +147,17 @@ GitHub Learning Lab 提供已编入GitHub 的免费交互式课程，并提供�
 
 个人数据的使用受 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)管制。
 
-[](#npm)npm
+[](#learning-lab)npm
 ----------
 
 npm 是一种软件包托管服务，允许您私下或公开托管软件包，并将包用作项目中的依赖项。 npm 是 JavaScript 生态系统的记录注册表。 npm 公共注册表可以免费使用，但客户如果想要发布私有包或使用团队管理私有包，则需收取费用。 [npm 文档](https://docs.npmjs.com/) 包含帐户类型限制以及如何管理[私有包](https://docs.npmjs.com/about-private-packages)和[组织](https://docs.npmjs.com/organizations)的详细信息。 [开放源码条款](https://www.npmjs.com/policies/open-source-terms)概述了可接受的 npm 注册表的使用。 npm [solo](https://www.npmjs.com/policies/solo-plan) 和 [org](https://www.npmjs.com/policies/orgs-plan) 计划都有补充条款。 npm [使用条款](https://www.npmjs.com/policies/terms) 适用于您的 npm 使用。
 
-[](#packages)Packages
+[](#npm)Packages
 ----------
 
 GitHub Packages 是一种软件包托管服务，允许您私下或公开托管软件包，并将包用作项目中的依赖项。 GitHub Packages 按用量计费。 [Packages 文档](/cn/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages 带宽使用受 [GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)限制。
 
-[](#pages)页面
+[](#packages)页面
 ----------
 
 每个帐户都可以访问 [GitHub Pages 静态托管服务](/cn/github/working-with-github-pages/about-github-pages)。 GitHub Pages 旨在托管静态网页，但主要用作个人和组织项目的展示。
@@ -174,17 +174,17 @@ GitHub Pages 的使用不得违反本协议、GitHub [可接受使用政策](/cn
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
-[](#previews)预览版
+[](#pages)预览版
 ----------
 
 预览版是指为预览、评估、演示或试用目的而提供的软件、在线服务和其他产品和功能，或这些功能的预发布版本，如 Alpha 版、测试版或抢先体验版。 如果协议不包含涉及预览版的条款和条件，则以下条款适用。 GitHub 授予使用预览版非生产实例的有限权限。 预览按“原样”、“包含所有故障”和“可用”提供。 GitHub 可能随时更改或终止预览版，恕不另行通知。 我们提供的有关个人预览版的任何信息都将被视为 GitHub 的机密信息。 如果您选择提供有关预览版的评论或建议，我们可能会出于任何目的使用该反馈，而无需承担任何义务。 GitHub 的最高赔偿责任仅限于直接损害赔偿，最高 5,000 美元。 对于因您使用预览版而由第三方提出的索赔，GitHub 没有义务为您辩护、赔偿或使您免受损害。
 
-[](#sponsors-program)赞助计划
+[](#previews)赞助计划
 ----------
 
 GitHub Sponsors 允许开发者社区直接在 GitHub 上为他们设计、构建和维护所需开源项目的人员及组织提供经济支持。 要成为被赞助的开发者，必须同意 [GitHub 赞助计划附加条款](/cn/github/site-policy/github-sponsors-additional-terms)。
 
-[](#sql-server-images)SQL Server 映像
+[](#sponsors-program)SQL Server 映像
 ----------
 
 您可以下载用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server 映像”）。 当您使用本软件的权利结束时，您必须卸载 SQL Server 映像。 Microsoft Corporation 可随时禁用 SQL Server 映像。

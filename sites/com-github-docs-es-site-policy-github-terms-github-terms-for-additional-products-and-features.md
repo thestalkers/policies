@@ -22,21 +22,21 @@ Condiciones de GitHub para las características y productos adicionales
 
 * [Conexión](#connect)
 
-* [Importador de GitHub Enterprise](#github-enterprise-importer)
+* [Importador de GitHub Enterprise](#github-copilot)
 
-* [Laboratorio de aprendizaje](#learning-lab)
+* [Laboratorio de aprendizaje](#github-enterprise-importer)
 
-* [npm](#npm)
+* [npm](#learning-lab)
 
-* [Packages](#packages)
+* [Packages](#npm)
 
-* [Pages](#pages)
+* [Pages](#packages)
 
-* [Previews](#previews)
+* [Previews](#pages)
 
-* [Programa de patrocinadores](#sponsors-program)
+* [Programa de patrocinadores](#previews)
 
-* [Imagenes de SQL Server](#sql-server-images)
+* [Imagenes de SQL Server](#sponsors-program)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 
@@ -127,12 +127,12 @@ La versión generalmente disponible de los Codespaces no está disponible actual
 
 Con GitHub Connect, puedes compartir algunas características y datos entre tu instancia de GitHub Enterprise Server o de GitHub AE y tu cuenta empresarial u organizacional de GitHub Enterprise Cloud en GitHub.com. Para habilitar GitHub Connect, debes tener por lo menos una (1) cuenta en GitHub Enterprise Cloud o en GitHub.com y una (1) instancia con licencia de GitHub Enterprise Server o de GitHub AE. Ti isp de GitHub Enterprise Cloud o de GitHub.com a través de Connect se rige por los términos bajo los cuales obtengas la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los datos personales se rige de acuerdo con la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
-[](#github-enterprise-importer)Importador de GitHub Enterprise
+[](#github-copilot)Importador de GitHub Enterprise
 ----------
 
 El importador es un marco de trabajo para exportar datos desde otras fuentes para que se importen a la plataforma de GitHub. El importador se proporciona "TAL COMO ES".
 
-[](#learning-lab)Laboratorio de aprendizaje
+[](#github-enterprise-importer)Laboratorio de aprendizaje
 ----------
 
 El Laboratorio de Aprendizaje de GiThub ofrece cursos interactivos gratuitos que se incorporan en GitHub con retroalimentación automática y ayuda instantáneas.
@@ -147,17 +147,17 @@ El utilizar los materiales del curso de GitHub y crear y almacenar los materiale
 
 El uso de los datos personales se rige de acuerdo con la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
-[](#npm)npm
+[](#learning-lab)npm
 ----------
 
 npm es un servicio de hospedaje de paquetes de software que te permite hospedar tus paquetes de software de forma privada o pública y utilizarlos como dependencias en tus proyectos. npm es el registro de registros para el ecosistema de JavaScript. Utilizar el registro público es gratuito, pero se facturará a los clientes si quieren publicar o administrar paquetes privados que utilicen equipos. La [documentación de npm](https://docs.npmjs.com/) incluye los detalles sobre la limitación de los tipos de cuenta y de como administrar los [paquetes privados](https://docs.npmjs.com/about-private-packages) y [organizaciones](https://docs.npmjs.com/organizations). El uso aceptable del registrio npm se detalla en las [condiciones de código abierto](https://www.npmjs.com/policies/open-source-terms). Hay condiciones adicionales tanto para los planes [solo](https://www.npmjs.com/policies/solo-plan) y [org](https://www.npmjs.com/policies/orgs-plan) de npm. Las [Condiciones de uso](https://www.npmjs.com/policies/terms) de npm aplican a tu uso de este.
 
-[](#packages)Packages
+[](#npm)Packages
 ----------
 
 GitHub Packages es un servicio de hospedaje de paquetes de software que te permite hospedar tus paquetes de software de forma privada o pública y utilizar los paquetes como dependencias en tus proyectos. GitHub Packages se factura de acuerdo con su uso. La [Documentación de paquetes](/es/packages/learn-github-packages/introduction-to-github-packages) incluye los detalles como las cantidades de ancho de banda y almacenamiento (dependiendo del plan de tu cuenta), y la forma en la que puedes monitorear el uso de los paquetes y configurar los límites de uso. El uso de ancho de banda de los paquetes se limita por las [Políticas de uso aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies).
 
-[](#pages)Pages
+[](#packages)Pages
 ----------
 
 Cada cuenta incluye acceso al [servicio de hospedaje estático de GitHub pages](/es/github/working-with-github-pages/about-github-pages). Se pretende que GitHub pages hospede páginas web estáticas, pero es primeramente para mostrar proyectos organizacionales y personales.
@@ -174,17 +174,17 @@ Las GitHub Pages no pueden utilizarse si violan el acuerdo, las [Políticas de U
 
 Su tuebes dudas sobre si tu uso o intención de uso cae en las siguientes categorías, por favor, contacta al [Soporte de GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin responsabilidad.
 
-[](#previews)Previews
+[](#pages)Previews
 ----------
 
 Previews means software, online services and additional products and features provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of those, such as alpha, beta, or early access. If your Agreement does not include terms and conditions that address Previews, then the following terms apply. GitHub grants a limited right to use a non-production instance of the Preview. Previews are provided “AS-IS”, “WITH ALL FAULTS” and “AS AVAILABLE”. GitHub may change or discontinue Previews at any time without notice. Any information we give you about a private Preview will be considered GitHub’s confidential information. If you choose to provide comments or suggestions about a Preview, we may use that feedback for any purpose without obligation of any kind. GitHub’s maximum liability is limited to direct damages up to US $5,000. GitHub has no obligation to defend, indemnify, or hold you harmless for claims brought by third parties arising from your use of Previews.
 
-[](#sponsors-program)Programa de patrocinadores
+[](#previews)Programa de patrocinadores
 ----------
 
 GitHub Sponsors permite a la comunidad de desarrolladores apoyar financieramente al personal y organizaciones que diseñan, crean y mantienen los proyectos de código abierto de los cuales dependen, directamente en GitHub. Para convertirse en un Desarrollador Patrocinado, debes aceptar los [Términos Adicionales del Programa de Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms).
 
-[](#sql-server-images)Imagenes de SQL Server
+[](#sponsors-program)Imagenes de SQL Server
 ----------
 
 Puedes descargar la imagen de contenedor de la Edición Estándar de Microsoft SQL Server para archivos Linux ("SQL Server Images"). Debes desinstalar las imagenes de SQL Server cuando termine tu derecho de utilizar el software. Microsoft Corporation puede inhabilitar las imágenes de SQL Server en cualquier momento.
