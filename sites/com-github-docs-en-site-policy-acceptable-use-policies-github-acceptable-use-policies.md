@@ -4,6 +4,8 @@ GitHub Acceptable Use Policies - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Japanese](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+
 GitHub Acceptable Use Policies
 ==========
 
