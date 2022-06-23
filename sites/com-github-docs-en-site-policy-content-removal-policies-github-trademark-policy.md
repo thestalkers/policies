@@ -4,6 +4,8 @@ GitHub Trademark Policy - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Japanese](/ja/site-policy/content-removal-policies/github-trademark-policy).
+
 GitHub Trademark Policy
 ==========
 
