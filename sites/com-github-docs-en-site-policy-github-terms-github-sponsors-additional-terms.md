@@ -4,6 +4,8 @@ GitHub Sponsors Additional Terms - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/github-terms/github-sponsors-additional-terms).
+
 GitHub Sponsors Additional Terms
 ==========
 
