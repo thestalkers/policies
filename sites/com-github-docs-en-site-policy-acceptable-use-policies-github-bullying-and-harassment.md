@@ -4,8 +4,6 @@ GitHub Bullying and Harassment - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Simplified Chinese](/cn/site-policy/acceptable-use-policies/github-bullying-and-harassment).
-
 GitHub Bullying and Harassment
 ==========
 
