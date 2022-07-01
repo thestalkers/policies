@@ -9,16 +9,16 @@ Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible 
 Política del sitio
 ==========
 
-* [GitHub Terms ----------](/es/site-policy/github-terms)
+* [Términos de GitHub ----------](/es/site-policy/github-terms)
 
 * [Políticas de uso aceptable ----------](/es/site-policy/acceptable-use-policies)
 
 * [Políticas de Privacidad ----------](/es/site-policy/privacy-policies)
 
-* [Other Site Policies ----------](/es/site-policy/other-site-policies)
+* [Otras políticas del sitio ----------](/es/site-policy/other-site-policies)
 
 * [Políticas de eliminación de contenido ----------](/es/site-policy/content-removal-policies)
 
-* [Security Policies ----------](/es/site-policy/security-policies)
+* [Políticas de seguridad ----------](/es/site-policy/security-policies)
 
-* [GitHub Company Policies ----------](/es/site-policy/github-company-policies)
+* [Políticas Empresariales de GitHub ----------](/es/site-policy/github-company-policies)

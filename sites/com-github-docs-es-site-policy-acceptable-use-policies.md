@@ -11,22 +11,22 @@ Políticas de uso aceptable
 
 * [Políticas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [GitHub Active Malware or Exploits](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [Exploits o Malware Activo de GitHub](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
-* [GitHub Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying y acoso en GitHub](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 * [GitHub irrumpiendo la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 * [Doxxing e invasión de la privacidad en GitHub](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [GitHub Hate Speech and Discrimination](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Discurso de odio y discriminación en GitHub](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [GitHub Impersonation](/es/site-policy/acceptable-use-policies/github-impersonation)
+* [Suplantación de identidad en GitHub](/es/site-policy/acceptable-use-policies/github-impersonation)
 
-* [GitHub Misinformation and Disinformation](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Información errónea y desinformación de GitHub](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [Contenido Sexualmente Obsceno de GitHub](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [GitHub Threats of Violence and Gratuitously Violent Content](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Amenazas violentas y contenido injustificadamente violento en GitHub](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [GitHub Appeal and Reinstatement](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Apelaciones y reinstauraciones en GitHub](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

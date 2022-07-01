@@ -1,4 +1,4 @@
-Security Policies - GitHub Docs
+Políticas de seguridad - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,7 +6,7 @@ Security Policies - GitHub Docs
 
 Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Security Policies
+Políticas de seguridad
 ==========
 
 * [Divulgación coordinada de las vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)

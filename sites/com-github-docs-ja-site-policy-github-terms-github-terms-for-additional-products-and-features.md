@@ -22,27 +22,29 @@ GitHub 追加製品および機能の利用規約
 
 * [Connect](#connect)
 
-* [GitHub Enterprise Importer](#github-copilot)
+* [GitHub Copilot](#github-copilot)
 
-* [Learning Lab](#github-enterprise-importer)
+* [GitHub Enterprise Importer](#github-enterprise-importer)
 
-* [npm](#learning-lab)
+* [Learning Lab](#learning-lab)
 
-* [Packages](#npm)
+* [npm](#npm)
 
-* [Pages](#packages)
+* [Packages](#packages)
 
-* [Previews](#pages)
+* [Pages](#pages)
 
-* [Sponsorsプログラム](#previews)
+* [Previews](#previews)
 
-* [SQL Server Images](#sponsors-program)
+* [Sponsorsプログラム](#sponsors-program)
+
+* [SQL Server Images](#sql-server-images)
 
 Version Effective Date: August 10, 2021
 
 GitHub を利用する際、数多くの追加製品や機能 (「追加製品および機能」) にもアクセス権を与えられることがあります。 「追加製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub 利用規約」、「GitHub 企業向け利用規約」、「GitHub 一般規約」、Microsoft ボリュームライセンス契約 (それぞれ「契約」) に加えて、製品や機能に特定の規約が適用される場合があります。 以下に、こうした製品や機能と、その利用に対して適用される追加の規約を示します。
 
-「追加製品および機能」を利用することにより、お客様は以下に挙げた該当する「GitHub 追加製品および機能の利用規約」にも同意することとなります。 「追加製品および機能の GitHub 利用規約」に違反することは、「契約」に違反することにもなります。 かぎ括弧に括られた用語のうち、ここで定義されていないものについては、「契約」に示された意味を持つものとします。
+「追加製品および機能」を利用することにより、お客様は以下に挙げた該当する「GitHub 追加製品および機能の利用規約」にも同意することとなります。 A violation of these GitHub Terms for Additional Products and Features is a violation of the Agreement. かぎ括弧に括られた用語のうち、ここで定義されていないものについては、「契約」に示された意味を持つものとします。
 
 **Enterprise ユーザ向け**
 
@@ -127,12 +129,27 @@ The generally available version of Codespaces is not currently available for U.S
 
 With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server or GitHub AE instance and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed instance of GitHub Enterprise Server or GitHub AE. Connect経由でのGitHub Enterprise CloudまたはGitHub.comの利用は、GitHub Enterprise CloudまたはGitHub.comのライセンスに基づく規約が適用されます。 「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
 
-[](#github-copilot)GitHub Enterprise Importer
+[](#github-copilot)GitHub Copilot
+----------
+
+To use GitHub Copilot, you need to install an extension to an integrated development environment (IDE) or editor. The code you write using the GitHub Copilot extension in an IDE or editor (“**Your Code**”) is not “Content” under the Agreement until you upload it to GitHub.com.
+
+The code, functions, and other output returned to you by GitHub Copilot are called “**Suggestions**.” GitHub does not claim any rights in Suggestions, and you retain ownership of and responsibility for Your Code, including Suggestions you include in Your Code.
+
+*利用規定*
+
+Your Code is subject to the GitHub [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, you may not prompt GitHub Copilot with content that is unlawful or otherwise prohibited by the GitHub Acceptable Use Policies on GitHub.com.
+
+*Data*
+
+GitHub Copilot (i) may, depending on your preferred telemetry settings, collect snippets of Your Code, and (ii) will collect additional usage information through the IDE or editor tied to your Account. This may include personal data, as referenced in the [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement). You can learn more about the collection and use of GitHub Copilot data in the [GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy).
+
+[](#github-enterprise-importer)GitHub Enterprise Importer
 ----------
 
 Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
 
-[](#github-enterprise-importer)Learning Lab
+[](#learning-lab)Learning Lab
 ----------
 
 GitHub Learning Lab では、GitHub に組み込まれたインタラクティブなコースを無料で提供しており、自動の即時フィードバックやヘルプも備わっています。
@@ -147,17 +164,17 @@ GitHubコースの使用、ならびにお客様ご自身によるコース資�
 
 「個人データ」の利用には、「[GitHubのプライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
 
-[](#learning-lab)npm
+[](#npm)npm
 ----------
 
 npm はソフトウェアパッケージのホスティングサービスであり、ソフトウェアパッケージをプライベートまたパブリックでホストでき、パッケージをプロジェクト中で依存関係として使えるようになります。 npm はJavaScriptエコシステムのためのレコードのレジストリです。 npm 公開レジストリの利用は無料ですが、プライベートパッケージを公開したり、チームを使用してプライベートパッケージを管理したい場合には有料となります。 [npm ドキュメント](https://docs.npmjs.com/)にはアカウントの種類の制限や、[プライベートパッケージ](https://docs.npmjs.com/about-private-packages)および[Organization](https://docs.npmjs.com/organizations)の管理方法についての詳細が記載されています。 npm registryレジストリの利用規程は、[オープンソース規約](https://www.npmjs.com/policies/open-source-terms)に概説されています。 また、npm [solo](https://www.npmjs.com/policies/solo-plan)と[org](https://www.npmjs.com/policies/orgs-plan)の両方のプランに補足条項があります。 npmの利用には、npm[利用規約](https://www.npmjs.com/policies/terms)が適用されます。
 
-[](#npm)Packages
+[](#packages)Packages
 ----------
 
 GitHub Packagesはソフトウェアパッケージのホスティングサービスであり、ソフトウェアパッケージをプライベートもしくはパブリックでホストでき、パッケージをプロジェクト中で依存関係として使えるようになります GitHub Packagesは、使用量に基づいて課金されます。 [Packagesのドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅やストレージ容量 (アカウントのプランによって異なる)、およびPackagesの使用量の監視方法や利用限度の設定方法などの詳細情報が記載されています。 Packagesの帯域幅使用量は[「GitHub利用規定」](/ja/github/site-policy/github-acceptable-use-policies)によって制限されます。
 
-[](#packages)Pages
+[](#pages)Pages
 ----------
 
 各「アカウント」には、[GitHub Pagesの静的ホスティングサービス](/ja/github/working-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的Webページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割をはたしています。
@@ -174,17 +191,17 @@ GitHub Pages may not be used in violation of the Agreement, the GitHub [Acceptab
 
 If you have questions about whether your use or intended use falls into these categories, please contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHubは、責任を負うことなくGitHubの任意のサブドメインを取得する権利を常に有します。
 
-[](#pages)Previews
+[](#previews)Previews
 ----------
 
 Previews means software, online services and additional products and features provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of those, such as alpha, beta, or early access. If your Agreement does not include terms and conditions that address Previews, then the following terms apply. GitHub grants a limited right to use a non-production instance of the Preview. Previews are provided “AS-IS”, “WITH ALL FAULTS” and “AS AVAILABLE”. GitHub may change or discontinue Previews at any time without notice. Any information we give you about a private Preview will be considered GitHub’s confidential information. If you choose to provide comments or suggestions about a Preview, we may use that feedback for any purpose without obligation of any kind. GitHub’s maximum liability is limited to direct damages up to US $5,000. GitHub has no obligation to defend, indemnify, or hold you harmless for claims brought by third parties arising from your use of Previews.
 
-[](#previews)Sponsorsプログラム
+[](#sponsors-program)Sponsorsプログラム
 ----------
 
 GitHub Sponsorsにより、開発者コミュニティが依存しているオープンソースプロジェクトの設計、構築、維持に携わる人々や Organization を、GitHubで直接、経済的に支援できます。 スポンサード開発者になるには、[GitHub Sponsorsプログラムの追加条項](/ja/github/site-policy/github-sponsors-additional-terms)に同意する必要があります。
 
-[](#sponsors-program)SQL Server Images
+[](#sql-server-images)SQL Server Images
 ----------
 
 お客様は、Linuxファイル用のMicrosoft SQL Server Standard Editionコンテナ (「SQL Server Images」) をダウンロードできます。 「ソフトウェア」の使用権が終了した場合は、SQL Server Imagesをアンインストールする必要があります。 Microsoft Corporation は、「SQL Server Images」をいつでも無効にすることができます。

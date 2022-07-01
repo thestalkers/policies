@@ -1,4 +1,4 @@
-GitHub Misinformation and Disinformation - GitHub Docs
+Información errónea y desinformación de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,14 +6,14 @@ GitHub Misinformation and Disinformation - GitHub Docs
 
 Frecuentemente publicamos actualizaciones de nuestra documentación. Es posible que la traducción de esta página esté en curso. Para conocer la información más actual, visita la [documentación en inglés](/en). Si existe un problema con las traducciones en esta página, por favor [infórmanos](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Misinformation and Disinformation
+Información errónea y desinformación de GitHub
 ==========
 
-You may not post content that presents a distorted view of reality, whether it is inaccurate or false (misinformation) or is intentionally deceptive (disinformation), where such content is likely to result in harm to the public or to interfere with fair and equal opportunities for all to take part in a free and open society. Puede incluir:
+No puedes publicar contenido que presente una visión distorsionada de la realidad, ya sea que no tenga exactitud o sea falsa (información errónea) o que tenga la intención de engañar (desinformación), en donde dicho contenido pueda dar como resultado el daño al público o interferir con oportunidades iguales y justas para que todo tome lugar en una sociedad abierta y libre. Puede incluir:
 
-* Inaccurate or scientifically unsupported medical claims that endanger public health or safety
-* Manipulated media, whether audio or visual, likely to mislead or deceive in a way that may harm the public interest
-* False or misleading content likely to interfere with an individual's ability to participate in civic activities
-* Unsubstantiated claims that could promote hate or targeted harassment of specific groups of people
+* Las declaraciones médicas inexactas o sin sustento científico que pongan en peligro la salud o seguridad pública
+* Medios manipulados, ya sean auditivos o visuales, que puedan hacer declaraciones falsas o engañar de forma que pueda dañar el interés público
+* Contenido falso o engañoso que pueda interferir con la capacidad de un individuo para participar en las actividades civiles
+* Reclamos infundados que pudieran promover el odio o acoso dirigido a grupos de personas específicos
 
-Fomentamos la participación activa en la expresión de ideas, perspectivas y experiencias y podríamos no estar en posición de disputar cuentas personales u observaciones. We generally allow parody and satire that is in line with our [Acceptable Use Polices](/es/github/site-policy/github-acceptable-use-policies), and we consider context to be important in how information is received and understood. When reviewing content under this policy, GitHub will consider the impact of various factors that may help to orient the viewer, such as whether the content has been provided with clear disclaimers, citations to credible sources, or includes other details that clarify the accuracy of the information being shared.
+Fomentamos la participación activa en la expresión de ideas, perspectivas y experiencias y podríamos no estar en posición de disputar cuentas personales u observaciones. Generalmente permitimos la parodia y la sátira que se alinee con nuestras [Políticas de uso aceptable](/es/github/site-policy/github-acceptable-use-policies) y consideramos que el contexto es importante en cómo se recibe y entiende la información. Cuando revisas contenido bajo esta política, GitHub considerará el impacto de varios factores que podrían ayudar a orientar al espectador, tal como si el contenido se proporcionó con cláusulas de descargo de responsabilidad claras, citas de fuentes confiables o si incluye otros detalles que aclaran la exactitud de la información que se está compartiendo.
