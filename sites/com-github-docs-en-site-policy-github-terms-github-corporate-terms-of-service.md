@@ -4,8 +4,6 @@ GitHub Corporate Terms of Service - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Japanese](/ja/site-policy/github-terms/github-corporate-terms-of-service).
-
 GitHub Corporate Terms of Service
 ==========
 
