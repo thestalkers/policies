@@ -4,8 +4,6 @@ GitHub Logo Policy - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Japanese](/ja/site-policy/other-site-policies/github-logo-policy).
-
 GitHub Logo Policy
 ==========
 

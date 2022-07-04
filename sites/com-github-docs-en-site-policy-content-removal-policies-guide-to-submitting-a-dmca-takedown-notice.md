@@ -4,6 +4,8 @@ Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Spanish](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice).
+
 Guide to Submitting a DMCA Takedown Notice
 ==========
 
