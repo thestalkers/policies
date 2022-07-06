@@ -4,6 +4,8 @@ Site policy - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Spanish](/es/site-policy).
+
 Site policy
 ==========
 
