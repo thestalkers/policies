@@ -4,6 +4,8 @@ GitHub Marketplace Terms of Service - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/github-terms/github-marketplace-terms-of-service).
+
 GitHub Marketplace Terms of Service
 ==========
 

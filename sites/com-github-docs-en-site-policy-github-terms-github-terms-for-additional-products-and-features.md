@@ -4,6 +4,8 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/github-terms/github-terms-for-additional-products-and-features).
+
 GitHub Terms for Additional Products and Features
 ==========
 

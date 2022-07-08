@@ -4,6 +4,8 @@ GitHub Terms - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Japanese](/ja/site-policy/github-terms).
+
 GitHub Terms
 ==========
 
