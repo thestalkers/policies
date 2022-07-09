@@ -4,8 +4,6 @@ GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Japanese](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor).
-
 GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
