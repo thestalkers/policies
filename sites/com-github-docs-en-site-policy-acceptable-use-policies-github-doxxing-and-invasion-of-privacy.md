@@ -4,6 +4,8 @@ GitHub Doxxing and Invasion of Privacy - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Simplified Chinese](/cn/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy).
+
 GitHub Doxxing and Invasion of Privacy
 ==========
 

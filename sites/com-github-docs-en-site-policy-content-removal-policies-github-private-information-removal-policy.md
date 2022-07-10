@@ -4,8 +4,6 @@ GitHub Private Information Removal Policy - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Spanish](/es/site-policy/content-removal-policies/github-private-information-removal-policy).
-
 GitHub Private Information Removal Policy
 ==========
 
