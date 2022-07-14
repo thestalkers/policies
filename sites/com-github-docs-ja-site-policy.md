@@ -9,16 +9,23 @@
 サイトポリシー
 ==========
 
-* [GitHub Terms ----------](/ja/site-policy/github-terms)
+* [GitHub Terms](/ja/site-policy/github-terms)
+  ----------
 
-* [利用規定 ----------](/ja/site-policy/acceptable-use-policies)
+* [利用規定](/ja/site-policy/acceptable-use-policies)
+  ----------
 
-* [Privacy Policies ----------](/ja/site-policy/privacy-policies)
+* [Privacy Policies](/ja/site-policy/privacy-policies)
+  ----------
 
-* [Other Site Policies ----------](/ja/site-policy/other-site-policies)
+* [Other Site Policies](/ja/site-policy/other-site-policies)
+  ----------
 
-* [Content Removal Policies ----------](/ja/site-policy/content-removal-policies)
+* [Content Removal Policies](/ja/site-policy/content-removal-policies)
+  ----------
 
-* [Security Policies ----------](/ja/site-policy/security-policies)
+* [Security Policies](/ja/site-policy/security-policies)
+  ----------
 
-* [GitHub Company Policies ----------](/ja/site-policy/github-company-policies)
+* [GitHub Company Policies](/ja/site-policy/github-company-policies)
+  ----------

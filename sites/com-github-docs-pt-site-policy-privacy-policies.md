@@ -1,22 +1,23 @@
 Políticas de Privacidade - GitHub Docs
 
-[Skip to main content](#main-content)
+                                        [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+                                        [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+                                        Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Políticas de Privacidade
-==========
+                                        Políticas de Privacidade
+                                        ==========
 
-* [Declaração de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
+                                        *
+                                        * [Declaração de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
 
-* [Práticas de privacidade global](/pt/site-policy/privacy-policies/global-privacy-practices)
+                                        [Práticas de privacidade global](/pt/site-policy/privacy-policies/global-privacy-practices)
 
-* [Contrato de Proteção de Dados do GitHub](/pt/site-policy/privacy-policies/github-data-protection-agreement)
+                                [Contrato de Proteção de Dados do GitHub](/pt/site-policy/privacy-policies/github-data-protection-agreement)
 
-* [Subprocessadores e cookies do GitHub](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
+                        [Subprocessadores e cookies do GitHub](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [Declaração de Privacidade do GitHub Codespaces](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
+                [Declaração de Privacidade do GitHub Codespaces](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-* [Política de Privacidade do GitHub Candidate](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
+        [Política de Privacidade do GitHub Candidate](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
