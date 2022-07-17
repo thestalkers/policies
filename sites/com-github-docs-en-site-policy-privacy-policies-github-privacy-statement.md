@@ -4,8 +4,6 @@ GitHub Privacy Statement - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Spanish](/es/site-policy/privacy-policies/github-privacy-statement).
-
 GitHub Privacy Statement
 ==========
 
