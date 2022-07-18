@@ -4,8 +4,6 @@ GitHub Community Guidelines - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Spanish](/es/site-policy/github-terms/github-community-guidelines).
-
 GitHub Community Guidelines
 ==========
 
