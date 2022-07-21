@@ -4,6 +4,8 @@ GitHub Terms of Service - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
+This article is also available in [Spanish](/es/site-policy/github-terms/github-terms-of-service).
+
 GitHub Terms of Service
 ==========
 
