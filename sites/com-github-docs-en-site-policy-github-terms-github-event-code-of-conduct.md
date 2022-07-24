@@ -4,8 +4,6 @@ GitHub Event Code of Conduct - GitHub Docs
 
 [](/en)[GitHub Docs](/en)
 
-This article is also available in [Spanish](/es/site-policy/github-terms/github-event-code-of-conduct).
-
 GitHub Event Code of Conduct
 ==========
 
