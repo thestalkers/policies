@@ -54,7 +54,7 @@ Términos de servicio corporativos de GitHub
 
 * [T. Varios](#t-miscellaneous)
 
-*These terms apply to GitHub.com customers who have executed agreements in place referencing the Corporate Terms of Service. All other business or institution customers are directed to [github.com/customer-terms](https://github.com/customer-terms) for current terms.*
+*Estos términos aplican a los clientes de GitHub.com que hayan ejecutado acuerdos vigentes que referencien los Términos de Servicio Corporativo. Se dirigirá al resto de los negocios o clientes institucionales a [github.com/customer-terms](https://github.com/customer-terms) para ver los términos actuales.*
 
 [](#github-corporate-terms-of-service)Términos de servicio corporativos de GitHub
 ----------
@@ -75,11 +75,11 @@ El presente Acuerdo se aplica a las siguientes ofertas de GitHub, como se define
 
 **"Acuerdo"** significa, colectivamente, todos los términos, condiciones, avisos contenidos o referenciados en este documento y todas las demás reglas operativas. políticas y procedimientos que GitHub puede publicar periódicamente en el Servicio. Las políticas de sitio de GitHub están disponibles en [https://docs.github.com/categories/site-policy](/es/categories/site-policy).
 
-**“All Users”** means, collectively, Customer’s Users and External Users who use the Service.
+**“Todos los usuarios”** se refiere, colectivamente, a los usuarios externos y del cliente quienes utilizan el servicio.
 
-**“Americas”** means the United States, Canada, Mexico, or a country in Central or South America or the Caribbean.
+**“Las Américas”** se refiere a los Estados Unidos, Canadá, México o a los países de América Central o del Sur o del Caribe.
 
-**"Beta Previews"** mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
+**"Vistas Previas Beta"** se refiere al software, servicios o características identificadas como alfa, beta, vista previa, acceso temprano o palabras y frases con significados similares.
 
 **"Información confidencial"** se refiere a toda la información no pública divulgada por cualquiera de las Partes a otros, ya sea por escrito, en forma oral o por otros medios, designada como confidencial o que la Parte receptora sabe o razonablemente debe saber, conforme a las circunstancias en torno a la divulgación y la naturaleza de la información, que es confidencial para la Parte reveladora. Para evitar dudas, ningún Contenido publicado en el Servicio se considerará Información confidencial excepto el Contenido del Cliente almacenado únicamente en los Repositorios privados del Cliente. La Información confidencial no incluye ninguna información que (i) era de conocimiento público o se dio a conocer públicamente por motivos ajenos a la parte receptora; (ii) era legítimamente conocida o se dio a conocer en forma legítima a la Parte receptora sin restricciones de propiedad o confidencialidad por parte de una fuente que no es la parte reveladora y que tiene derecho a divulgarla; (iii) es aprobada por la Parte reveladora para su divulgación sin restricciones en un documento escrito firmado por un funcionario debidamente autorizado de dicha Parte reveladora; (iv) la Parte receptora desarrolla independientemente sin el acceso a la Información confidencial de la otra Parte ni el uso de esta; o (v) está o estuvo almacenada o publicada en el Servicio y fuera de los Repositorios privados del Cliente.
 
@@ -166,7 +166,7 @@ En algunas situaciones, pueden aplicarse términos de terceros al uso del Client
 
 ### [](#5-us-federal-government-terms)5. Feriado en Términos del Gobierno federal de los EE.⁰UU ###
 
-Si el cliente es una government entity or otherwise accessing or using the Service in a government capacity, the [U.S. Federal Government Amendment](/es/articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) applies, and Customer agrees to its provisions.
+Si el cliente es una entidad gubernamental de los EE.UU. o accede o utiliza de otra manera el servicio en calidad de gobierno, aplicará la [Enmienda del Gobierno Federal de los EE.UU.,](/es/articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)y el cliente acordará con estas disposiciones.
 
 ### [](#6-enterprise-cloud-service-level-agreement)6. Acuerdo sobre los Niveles de Servicio de Enterprise Cloud ###
 
