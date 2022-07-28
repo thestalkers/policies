@@ -16,7 +16,7 @@ GitHub Terms - GitHub Docs
 
                                                                                 [GitHub Community Guidelines](/en/site-policy/github-terms/github-community-guidelines)
 
-                                                                        [GitHub Community Forum Code of Conduct](/en/site-policy/github-terms/github-community-forum-code-of-conduct)
+                                                                        [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
 
                                                                 [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
 
