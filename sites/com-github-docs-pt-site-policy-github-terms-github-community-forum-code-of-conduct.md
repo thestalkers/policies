@@ -12,131 +12,131 @@ GitHub Community Code of Conduct
 [Neste artigo](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
 ----------
 
-* [Overview and Purpose](#overview-and-purpose)
+* [Visão geral e objetivo](#overview-and-purpose)
 
-* [Pledge](#pledge)
+* [Compromisso](#pledge)
 
-* [Standards](#standards)
+* [Padrão](#standards)
 
-* [Enforcement](#enforcement)
+* [Cumprimento da lei](#enforcement)
 
-* [Contacting GitHub Staff](#contacting-github-staff)
+* [Contactando o pessoal do GitHub](#contacting-github-staff)
 
-* [Legal Notices](#legal-notices)
+* [Avisos Legais](#legal-notices)
 
-[](#overview-and-purpose)Overview and Purpose
+[](#overview-and-purpose)Visão geral e objetivo
 ----------
 
-Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
+Milhões de desenvolvedores em todo o mundo hospedam milhões de projetos, tanto de código aberto como de código fechado, no GitHub. Nós temos sorte de poder participar da colaboração em toda a comunidade de desenvolvedores todos os dias que é uma responsabilidade que não aceitamos de de forma leviana. Juntos, todos nós temos a oportunidade interessante de fazer desta uma comunidade de que nos podemos orgulhar.
 
-GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in GitHub Community, you are agreeing to the same [Terms of Service](/pt/github/site-policy/github-terms-of-service) and [GitHub Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies) that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
+GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. Este é um lugar civilizado para se conectar com outros usuários, aprender novas habilidades, compartilhar feedbacks e ideias e encontrar todo o suporte necessário para seus projetos do GitHub. By participating in GitHub Community, you are agreeing to the same [Terms of Service](/pt/github/site-policy/github-terms-of-service) and [GitHub Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies) that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in GitHub Community, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from community participation. We will investigate any abuse reports and may moderate public content within GitHub Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
-Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
+Nossa base de usuários diversificada traz perspectivas, ideias e experiências diferentes, e varia entre pessoas que criaram seu primeiro projeto "Hello World" na semana passada e os desenvolvedores de software mais conhecidos do mundo. Temos o compromisso de fazer do GitHub um ambiente que acolhe todas as diferentes vozes e perspectivas que a nossa comunidade tem a oferecer, mantendo um lugar seguro para os desenvolvedores fazerem o seu melhor trabalho.
 
-[](#pledge)Pledge
+[](#pledge)Compromisso
 ----------
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitHub Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-[](#standards)Standards
+[](#standards)Padrão
 ----------
 
-Treat GitHub Community with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
+Treat GitHub Community with respect. Somos um recurso compartilhado — um lugar para compartilhar habilidades, conhecimentos e interesses através de conversas contínuas.
 
-The following are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
+The following are not hard and fast rules, merely aids to the human judgment of our community. Use essas diretrizes para manter este lugar limpo e bem iluminado para um debate público civilizado.
 
-### [](#best-practices-for-maintaining-a-strong-community)*Best Practices for Maintaining a Strong Community* ###
+### [](#best-practices-for-maintaining-a-strong-community)*Práticas recomendadas para manter uma comunidade forte* ###
 
-The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
+A finalidade principal da comunidade do GitHub é colaborar em projetos de software. Estamos comprometidos em manter uma comunidade onde os usuários são livres para se expressarem e desafiarem as ideias uns dos outros, tanto ideias técnicas como outras. Ao mesmo tempo, é importante que os usuários permaneçam respeitosos e permitam espaço para que outros contribuam abertamente. A fim de promover um ambiente seguro e produtivo, recomendamos que os integrantes da nossa comunidade recorram a essas diretrizes para informar como interagem em nossa plataforma. Abaixo, você encontrará algumas sugestões de como ter interações bem-sucedidas como um integrante valioso da comunidade do GitHub.
 
-* Engage with consideration and respect.
+* Envolva-se com consideração e respeito.
 
-  * **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
+  * **Seja receptivo e mente aberta** - Novos usuários juntam-se à nossa comunidade diariamente. Alguns são desenvolvedores bem estabelecidos, enquanto outros estão apenas começando. Esteja aberto a outras ideias e níveis de experiência. Abra espaço para opiniões diferentes das suas e dê as boas-vindas aos novos colaboradores e aqueles que estão apenas começando.
 
-  * **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
+  * **Seja respeitoso** - Trabalhar em um ambiente colaborativo significa que pode haver desacordos. Mas lembre-se de criticar ideias, não pessoas. Compartilhe críticas ponderadas e construtivas e seja cortês com aqueles com quem você interagem. Se você não conseguir interagir com respeito, considere dar um passo atrás ou usar algumas de nossas ferramentas de moderação para desescalar uma situação tensa.
 
-  * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
+  * **Ser empático** - O GitHub é uma comunidade global com pessoas de diversas origens e perspectivas que podem não ser as mesmas das suas. Tente se colocar na pele dos demais e compreender seus sentimentos antes de abordá-los. Faça o seu melhor para ajudar a fazer do GitHub uma comunidade onde as pessoas se sintam seguras para fazer contribuições, participar de discussões e compartilhar ideias diferentes.
 
-* Contribute in a positive and constructive way.
+* Contribua de forma positiva e construtiva.
 
-  * **Improve the discussion.** Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
+  * **Melhore a discussão.** Ajude-nos a tornar este um ótimo lugar para discussão, sempre trabalhando para melhorar o debate de alguma forma, por menor que seja. Se você não tem certeza que seu comentário vai acrescentar algo à conversa, pense no que você quer dizer e tente novamente mais tarde.
 
-    The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
+    Os assuntos aqui discutidos importam para nós, e queremos que você aja como se eles importassem para você também. Respeite os temas e as pessoas que os discutem, mesmo que discorde de algumas coisas que estão sendo ditas.
 
-  * **Be clear and stay on topic.** GitHub Community is for collaboration, sharing ideas, and helping each other get stuff done. Off-topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+  * **Be clear and stay on topic.** GitHub Community is for collaboration, sharing ideas, and helping each other get stuff done. Comentários fora do assunto são uma distração (às vezes, bem-vinda, mas geralmente não) para o trabalho produtivo. Manter-se dentro do assunto ajuda a fomentar debates positivos e produtivos.
 
-    This applies to sharing links, as well. Any links shared in GitHub Community discussions should be shared with the intent of providing relevant and appropriate information. Links should not be posted to simply drive traffic or attention to a site. Links should always be accompanied by a full explanation of the content and purpose of the link. Posting links, especially unsolicited ones, without relevant and valuable context can come across as advertising or serving even more malicious purposes.
+    Isso também se aplica ao compartilhamento de links. Any links shared in GitHub Community discussions should be shared with the intent of providing relevant and appropriate information. Os links não devem ser postados para simplesmente direcionar o tráfego ou a atenção para um site. Os links devem ser sempre acompanhados de uma explicação completa do conteúdo e da finalidade do link. Postar links, especialmente os não solicitados, sem contexto relevante e valioso, pode aparecer publicidade ou servir a propósitos ainda mais maliciosos.
 
-  * **Share mindfully.** When asking others to give you feedback or collaborate on a project, only share valuable and relevant resources to provide context. Don't post links that don't add value to the discussion, and don't post unsolicited links to your own projects or sites on other user's threads.
+  * **Compartilhe conscientemente.** Ao pedir que outros lhe dêem feedback ou colaborem em um projeto, compartilhe recursos valiosos e relevantes apenas para fornecer contexto. Don't post links that don't add value to the discussion, and don't post unsolicited links to your own projects or sites on other user's threads.
 
-    Additionally, don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in GitHub Community, as it can create security and privacy risks for the poster, as well as other users. If you'd like to invite other GitHub users to collaborate on a project or work with you, share a link to the repository in which the project you are working on exists. By sharing the link to your project repo - with some information on what your project is and what kind of help or feedback you're looking for - you can invite others to collaborate with you via issues or pull requests without having to share your private information. You can also add others as outside collaborators on your project repo to give them special permissions to help you develop your project.
+    Além disso, não compartilhe informações confidenciais. Isso inclui o seu próprio endereço de e-mail. We don't allow the sharing of such information in GitHub Community, as it can create security and privacy risks for the poster, as well as other users. If you'd like to invite other GitHub users to collaborate on a project or work with you, share a link to the repository in which the project you are working on exists. Ao compartilhar o link para o repositório do seu projeto - com algumas informações sobre o que é o seu projeto e que tipo de ajuda ou feedback você está procurando - você pode convidar outros usuários para colaborar com você por meio de problemas ou pull requests sem ter que compartilhar suas informações privadas. Você também pode adicionar outras pessoas como colaborador externo no seu repositório de projeto para lhes dar permissões especiais e ajudá-lo a desenvolver o seu projeto.
 
-  * **Keep it tidy.** Make the effort to put things in the right place, so that we can spend more time discussing and less time cleaning up. So:
+  * **Mantenha tudo arrumado.** Faça um esforço para colocar as coisas no lugar certo, para que possamos gastar mais tempo discutindo e menos tempo limpando. Então:
 
     * Don’t start a discussion in the wrong category.
     * Don’t cross-post the same thing in multiple discussions.
-    * Don’t post no-content replies.
-    * Don't "bump" posts, unless you have new and relevant information to share.
+    * Não publique respostas sem conteúdo.
+    * Não faça "up" em posts, a menos que você tenha informações novas e relevantes para compartilhar.
     * Don’t divert a discussion by changing it midstream.
 
     Rather than posting “+1” or “Agreed”, use the upvote button. Rather than taking an existing discussion in a radically different direction, open a new discussion.
 
-* Be trustworthy.
+* Seja confiável.
 
-  * **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitHub Community participants. If you don’t know the answer to someone’s question but still want to help, you can try helping them research or find resources instead. GitHub staff will also be active in GitHub Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
+  * **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitHub Community participants. Se você não sabe a resposta para a pergunta de alguém, mas ainda quer ajudar, você pode tentar ajudá-lo a pesquisar ou encontrar recursos em vez disso. GitHub staff will also be active in GitHub Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
 
-### [](#what-is-not-allowed)*What is not Allowed* ###
+### [](#what-is-not-allowed)*O que não é permitido* ###
 
-GitHub's [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies), which are part of GitHub's [Terms of Service](/pt/github/site-policy/github-terms-of-service), set a baseline for what is not allowed on GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
+As [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub, que fazem parte dos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service)do GitHub, definem uma linha de base para o que não é permitido no GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
 
-* **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/pt/github/site-policy/github-terms-of-service) for information about account termination.
+* **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. O GitHub não coleta informações nem direciona qualquer conteúdo especificamente a crianças com menos de 13 anos. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. Não pretendemos desmotivar o seu aprendizado na área de programação, mas devemos cumprir as regras. Consulte nossos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) e saiba mais sobre o encerramento de contas.
 
-* **Creating new account after account restriction.** GitHub's [Terms of Service](/pt/github/site-policy/github-terms-of-service) state that "One person or legal entity may maintain no more than one free Account." Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
+* **Criando uma nova conta após a restrição de conta.** Os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) do GitHub afirmam que "Uma pessoa ou entidade legal pode manter não mais de uma conta grátis". Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
 
 * **Other conduct which could reasonably be considered inappropriate in a professional setting.** GitHub Community is a professional space and should be treated as such.
 
 * **Violation of Terms of Service.** If your GitHub.com account is identified in violation of [Terms of Service](/pt/github/site-policy/github-terms-of-service) we will have to close your account.
 
-[](#enforcement)Enforcement
+[](#enforcement)Cumprimento da lei
 ----------
 
 ### [](#what-github-community-participants-can-do)*What GitHub Community Participants Can Do* ###
 
-* **If you see a problem, report it.** Moderators have special authority; they are responsible for this GitHub Community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
+* **If you see a problem, report it.** Moderators have special authority; they are responsible for this GitHub Community. Mas você também. With your help, moderators can be community facilitators, not just janitors or police.
 
-  When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. You can report a disruptive user or disruptive content to GitHub. For more information, see "[Reporting abuse or spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)."
+  Quando vir um mau comportamento, não responda. Você encoraja o mau comportamento ao reconhecê-lo, isso consome sua energia e desperdiça o tempo de todos. You can report a disruptive user or disruptive content to GitHub. Para obter mais informações, consulte "[Relatar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)".
 
-### [](#our-responsibilities)Our Responsibilities ###
+### [](#our-responsibilities)Nossas Responsabilidades ###
 
-There are a variety of actions that we may take in response to inappropriate behavior or content. It usually depends on the exact circumstances of a particular case. We recognize that sometimes people may say or do inappropriate things for any number of reasons. Perhaps they did not realize how their words would be perceived. Or maybe they just let their emotions get the best of them. Of course, sometimes, there are folks who just want to spam or cause trouble.
+Há uma variedade de ações que podemos tomar quando um usuário reportar comportamento ou conteúdo inapropriado. Normalmente, depende das circunstâncias exatas de um caso específico. Reconhecemos que, por vezes, as pessoas podem dizer ou fazer coisas inapropriadas por várias razões. Talvez não tenha percebido a forma como suas palavras seriam entendidas. Ou talvez apenas deixam que suas emoções o conduzam. É claro que, muitas vezes, há pessoas que querem apenas fazer spam ou causar problemas.
 
-Each case requires a different approach, and we try to tailor our response to meet the needs of the situation. We'll review each situation on a case-by-case basis. In each case, we will have a diverse team investigate the content and surrounding facts and respond as appropriate, using this Code of Conduct to guide our decision.
+Cada caso requer uma abordagem diferente e tentamos adaptar a nossa resposta às necessidades da situação. Vamos avaliar a situação caso a caso. Para cada situação, teremos uma equipe diversificada investigando o conteúdo e os fatos envolvidos e responderemos de forma apropriada utilizando este Código de Conduta para guiar nossa decisão.
 
-Actions we may take in response to a flag or abuse report include, but are not limited to:
+Ações que podemos fazer em resposta a um relatório ou sinalizador de abuso incluem, mas não estão limitadas a:
 
-* Content Removal
-* Content Blocking
+* Remoção de Conteúdo
+* Bloqueio de Conteúdo
 * GitHub Account Suspension
 * GitHub Account Termination
 
 GitHub Community moderators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the GitHub Community's leadership.
 
-[](#contacting-github-staff)Contacting GitHub Staff
+[](#contacting-github-staff)Contactando o pessoal do GitHub
 ----------
 
 If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of GitHub Community privately, you can use our [Support contact form](https://support.github.com/contact?tags=docs-community-support). Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than GitHub Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.
 
-[](#legal-notices)Legal Notices
+[](#legal-notices)Avisos Legais
 ----------
 
-Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](/pt/github/site-policy/github-terms-of-service), which includes our [Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies), and our [Privacy Statement](/pt/github/site-policy/github-privacy-statement) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service](/pt/github/site-policy/github-terms-of-service), [GitHub Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies) and the [Privacy Statement](/pt/github/site-policy/github-privacy-statement).
+Sim, juridiquês é chato, mas devemos nos proteger – e por extensão, você e seus dados – contra pessoas hostis. Temos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service), que incluem as nossas [Políticas de Uso Aceitáveis](/pt/github/site-policy/github-acceptable-use-policies) e nossa [Declaração de Privacidade](/pt/github/site-policy/github-privacy-statement) que descreve o seu (e o nosso) comportamento e direitos relacionados a conteúdo, privacidade e leis. Para usar este serviço, você deve concordar em observar os nossos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service), [Políticas de Uso Aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies) e a [Declaração de Privacidade](/pt/github/site-policy/github-privacy-statement).
 
-This Code of Conduct does not modify our [Terms of Service](/pt/github/site-policy/github-terms-of-service)—which includes our [Acceptable Use Policies](/pt/github/site-policy/github-acceptable-use-policies)—and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/pt/github/site-policy/github-terms-of-service) to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. This Code of Conduct describes when we will exercise that discretion.
+Este Código de Conduta não altera nossos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service), que inclui as nossas [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies) e não pretende ser uma lista completa. O GitHub retém a discrição total nos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) para remover ou restringir qualquer conteúdo ou contas de atividade que violem essas políticas, incluindo por ser ilegal, ofensivo, ameaçador, difamatório, pornográfico, obsceno ou, de outra forma, censurável, ou que viole a propriedade intelectual de qualquer parte ou nossos Termos de Serviço. Este Código de Conduta descreve quando exerceremos essa discricionariedade.
 
-### [](#data-retention-and-deletion-of-data)Data Retention and Deletion of Data ###
+### [](#data-retention-and-deletion-of-data)Retenção e exclusão de dados ###
 
-If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/pt/github/site-policy/github-privacy-statement).
+If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). Nós vamos reter e usar as suas informações, conforme necessário, para cumprir as nossas obrigações legais, resolver disputas e fazer cumprir nossos contratos. No entanto, com exceção dos requisitos legais, excluiremos o seu perfil completo (com motivo justificado) dentro de 90 dias a partir da sua solicitação. Para obter mais informações, consulte a [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).

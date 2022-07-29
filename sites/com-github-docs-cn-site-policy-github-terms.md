@@ -18,7 +18,7 @@ GitHub 条款 - GitHub Docs
 
                                                                                 [GitHub 社区指导方针](/cn/site-policy/github-terms/github-community-guidelines)
 
-                                                                        [GitHub 社区论坛行为准则](/cn/site-policy/github-terms/github-community-forum-code-of-conduct)
+                                                                        [GitHub Community Code of Conduct](/cn/site-policy/github-terms/github-community-code-of-conduct)
 
                                                                 [GitHub 赞助附加条款](/cn/site-policy/github-terms/github-sponsors-additional-terms)
 

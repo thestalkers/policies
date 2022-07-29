@@ -18,7 +18,7 @@ Termos do GitHub - GitHub Docs
 
                                                                                 [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 
-                                                                        [Código de conduta do fórum da comunidade do GitHub](/pt/site-policy/github-terms/github-community-forum-code-of-conduct)
+                                                                        [GitHub Community Code of Conduct](/pt/site-policy/github-terms/github-community-code-of-conduct)
 
                                                                 [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 

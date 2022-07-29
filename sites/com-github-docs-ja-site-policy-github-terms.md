@@ -18,7 +18,7 @@ GitHub Terms - GitHub Docs
 
                                                                                 [GitHubコミュニティガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
 
-                                                                        [GitHubコミュニティフォーラムの行動規範](/ja/site-policy/github-terms/github-community-forum-code-of-conduct)
+                                                                        [GitHub Community Code of Conduct](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
                                                                 [GitHub Sponsors に関する追加条項](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
