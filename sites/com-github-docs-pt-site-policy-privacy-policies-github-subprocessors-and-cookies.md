@@ -18,6 +18,8 @@ Subprocessadores e cookies do GitHub
 
 Data de entrada em vigor: **2 de abril de 2021**
 
+**Note:** Changes to the list of cookies on this page are currently pending.
+
 O GitHub fornece um grande acordo de transparência em relação à forma como usamos seus dados, como os coletamos e com quem compartilhamos. Para essa finalidade, disponibilizamos esta página, que detalha os [nossos subprocessadores](#github-subprocessors) e como usamos [cookies](#cookies-on-github).
 
 [](#github-subprocessors)Subprocessadores GitHub
