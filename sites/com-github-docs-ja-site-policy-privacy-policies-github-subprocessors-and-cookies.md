@@ -18,6 +18,8 @@ GitHubのサブプロセッサとCookie
 
 発効日：**2021年4月2日**
 
+**Note:** Changes to the list of cookies on this page are currently pending.
+
 GitHubは、お客様のデータを当社が利用する方法、お客様のデータを当社が収集する方法、およびお客様のデータを共有する対象について、高い透明性を提供します。 この目的のため、[当社のサブプロセッサ](#github-subprocessors)および[クッキー](#cookies-on-github)の使用方法ついて説明するページをご用意しました。
 
 [](#github-subprocessors)GitHubのサブプロセッサ

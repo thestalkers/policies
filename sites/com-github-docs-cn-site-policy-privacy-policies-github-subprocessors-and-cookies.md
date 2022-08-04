@@ -18,6 +18,8 @@ GitHub 子处理器和 Cookie
 
 生效日期：**2021 年 4 月 2 日**
 
+**Note:** Changes to the list of cookies on this page are currently pending.
+
 GitHub 在如何使用您的数据、如何收集您的数据以及与谁分享您的数据方面提供很大的透明度。 为此，我们提供此页面，以详细介绍了我们的[子处理商](#github-subprocessors)，以及我们如何使用 [cookie](#cookies-on-github)。
 
 [](#github-subprocessors)GitHub 子处理商
