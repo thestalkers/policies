@@ -1,15 +1,13 @@
 Políticas de Segurança - GitHub Docs
 
-        [Skip to main content](#main-content)
+[Skip to main content](#main-content)
 
-        [](/pt)[GitHub Docs](/pt)
+[](/pt)[GitHub Docs](/pt)
 
-        Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-        Políticas de Segurança
-        ==========
+Políticas de Segurança
+==========
 
-        *
-        * [Divulgação coordenada de vulnerabilidades de segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
-
-        [Programa de recompensa de erros e declaração Safe Harbor do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Divulgação coordenada de vulnerabilidades de segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Programa de recompensa de erros e declaração Safe Harbor do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
