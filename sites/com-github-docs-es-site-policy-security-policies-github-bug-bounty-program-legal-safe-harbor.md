@@ -12,12 +12,16 @@ Disposición de seguridad legal del programa de recompensas de errores de GitHub
 [En este artículo](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
+*
 * [Resumen](#summary)
 
+*
 * [1. Condiciones de la disposición de seguridad](#1-safe-harbor-terms)
 
+*
 * [2. Disposición de seguridad de terceros](#2-third-party-safe-harbor)
 
+*
 * [3. Exención limitada de otras políticas del sitio](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)Resumen

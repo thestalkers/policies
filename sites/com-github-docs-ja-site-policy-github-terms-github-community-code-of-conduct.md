@@ -12,16 +12,22 @@ GitHub Community Code of Conduct
 [ここには以下の内容があります:](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
 ----------
 
+*
 * [概要と目的](#overview-and-purpose)
 
+*
 * [誓約](#pledge)
 
+*
 * [規範](#standards)
 
+*
 * [行動規範の施行](#enforcement)
 
+*
 * [GitHubスタッフへの連絡](#contacting-github-staff)
 
+*
 * [法的通知](#legal-notices)
 
 [](#overview-and-purpose)概要と目的

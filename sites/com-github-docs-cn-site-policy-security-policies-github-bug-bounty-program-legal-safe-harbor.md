@@ -4,7 +4,7 @@ GitHub 漏洞悬赏计划法律安全港 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 漏洞悬赏计划法律安全港
 ==========
@@ -12,12 +12,16 @@ GitHub 漏洞悬赏计划法律安全港
 [本文内容](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
+*
 * [摘要](#summary)
 
+*
 * [1. 安全港条款](#1-safe-harbor-terms)
 
+*
 * [2. 第三方安全港](#2-third-party-safe-harbor)
 
+*
 * [3. 其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)摘要

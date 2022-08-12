@@ -4,7 +4,7 @@ Subprocessadores e cookies do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Subprocessadores e cookies do GitHub
 ==========
@@ -12,8 +12,10 @@ Subprocessadores e cookies do GitHub
 [Neste artigo](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
 ----------
 
+*
 * [Subprocessadores GitHub](#github-subprocessors)
 
+*
 * [Cookies no GitHub](#cookies-on-github)
 
 Data de entrada em vigor: **2 de abril de 2021**

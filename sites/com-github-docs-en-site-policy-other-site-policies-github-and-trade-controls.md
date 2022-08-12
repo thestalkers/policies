@@ -10,8 +10,10 @@ GitHub and Trade Controls
 [In this article](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
 ----------
 
+*
 * [Export overview](#export-overview)
 
+*
 * [Frequently asked questions](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).

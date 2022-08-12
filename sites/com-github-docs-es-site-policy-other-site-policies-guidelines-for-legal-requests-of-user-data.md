@@ -12,24 +12,34 @@ Pautas para las solicitudes legales de los datos del usuario
 [En este artículo](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
+*
 * [Acerca de estas pautas](#about-these-guidelines)
 
+*
 * [Terminología GitHub](#github-terminology)
 
+*
 * [Datos de usuario en GitHub.com](#user-data-on-githubcom)
 
+*
 * [Notificaremos a los propietarios de las cuentas afectadas](#we-will-notify-any-affected-account-owners)
 
+*
 * [Divulgación de información no pública](#disclosure-of-non-public-information)
 
+*
 * [Reembolso de costes](#cost-reimbursement)
 
+*
 * [Conservación de datos](#data-preservation)
 
+*
 * [Cómo enviar solicitudes](#submitting-requests)
 
+*
 * [Solicitudes de aplicación de la ley extranjera](#requests-from-foreign-law-enforcement)
 
+*
 * [Preguntas](#questions)
 
 ¿Eres un agente de la policía que lleva a cabo una investigación que pueda implicar contenido de usuario alojado en GitHub? O quizá seas una persona consciente de la privacidad y te gustaría saber qué información compartimos con las fuerzas policiales y bajo qué circunstancias. Cualquiera que sea la razón, estás en la página correcta.

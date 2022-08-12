@@ -4,7 +4,7 @@ GitHub 服务条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 服务条款
 ==========
@@ -12,44 +12,64 @@ GitHub 服务条款
 [本文内容](/site-policy/github-terms/github-terms-of-service#in-this-article)
 ----------
 
+*
 * [摘要](#summary)
 
+*
 * [GitHub 服务条款](#the-github-terms-of-service)
 
+*
 * [A. 定义](#a-definitions)
 
+*
 * [B. 帐户条款](#b-account-terms)
 
+*
 * [C. 可接受使用](#c-acceptable-use)
 
+*
 * [D. 用户生成内容](#d-user-generated-content)
 
+*
 * [E. 私有仓库](#e-private-repositories)
 
+*
 * [F. 版权侵权和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
 
+*
 * [G. 知识产权通告](#g-intellectual-property-notice)
 
+*
 * [H. API 条款](#h-api-terms)
 
+*
 * [I. GitHub 附加产品条款](#i-github-additional-product-terms)
 
+*
 * [J. 测试版预览](#j-beta-previews)
 
+*
 * [K. 付款](#k-payment)
 
+*
 * [L. 取消和终止](#l-cancellation-and-termination)
 
+*
 * [M. 与 GitHub 的通信](#m-communications-with-github)
 
+*
 * [N. 免责声明](#n-disclaimer-of-warranties)
 
+*
 * [O. 责任限制](#o-limitation-of-liability)
 
+*
 * [P. 免除和赔偿](#p-release-and-indemnification)
 
+*
 * [Q. 这些条款的变更](#q-changes-to-these-terms)
 
+*
 * [R. 其他](#r-miscellaneous)
 
 感谢您使用 GitHub！ 我们很高兴在这里与您邂逅。 在访问或使用 GitHub 之前，请仔细阅读本服务条款协议。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍这些条款。

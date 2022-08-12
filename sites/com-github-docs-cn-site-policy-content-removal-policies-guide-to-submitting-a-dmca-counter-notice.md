@@ -4,7 +4,7 @@
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 提交 DMCA 反对通知的指南
 ==========
@@ -12,10 +12,13 @@
 [本文内容](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
+*
 * [开始前](#before-you-start)
 
+*
 * [您的反通知必须...](#your-counter-notice-must)
 
+*
 * [如何提交反通知](#how-to-submit-your-counter-notice)
 
 本指南介绍 GitHub 处理 DMCA 删除请求反通知所需的信息。 如果您对 DMCA 的概念或 GitHub 处理 DMCA 删除请求的方式有更多一般性疑问，请参阅我们的 [DMCA 删除政策](/cn/articles/dmca-takedown-policy)。

@@ -12,32 +12,46 @@ Condiciones de GitHub para las características y productos adicionales
 [En este artículo](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
+*
 * [Actions](#actions)
 
+*
 * [Advanced Security](#advanced-security)
 
+*
 * [Base de datos consultiva](#advisory-database)
 
+*
 * [Codespaces](#codespaces)
 
+*
 * [Conexión](#connect)
 
+*
 * [Copiloto de GitHub](#github-copilot)
 
+*
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
 
+*
 * [Laboratorio de aprendizaje](#learning-lab)
 
+*
 * [npm](#npm)
 
+*
 * [Packages](#packages)
 
+*
 * [Pages](#pages)
 
+*
 * [Vistas previas](#previews)
 
+*
 * [Programa de patrocinadores](#sponsors-program)
 
+*
 * [Imagenes de SQL Server](#sql-server-images)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021

@@ -4,7 +4,7 @@ Política de nome de usuário do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Política de nome de usuário do GitHub
 ==========
@@ -12,10 +12,13 @@ Política de nome de usuário do GitHub
 [Neste artigo](/site-policy/other-site-policies/github-username-policy#in-this-article)
 ----------
 
+*
 * [E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
 
+*
 * [Política de marca registrada](#trademark-policy)
 
+*
 * [Política de uso indevido de nome](#name-squatting-policy)
 
 Os nomes das contas do GitHub são fornecidos pela ordem de chegada e são destinados ao uso imediato e ativo.

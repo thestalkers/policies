@@ -4,7 +4,7 @@ Termos de eventos do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Termos de eventos do GitHub
 ==========
@@ -12,16 +12,22 @@ Termos de eventos do GitHub
 [Neste artigo](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
+*
 * [1. Requisitos básicos para participar - incluindo o Código de Conduta do Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
+*
 * [2. Fotos](#2-pictures)
 
+*
 * [3. Risco, responsabilidade e indenização](#3-risk-liability-and-indemnity)
 
+*
 * [4. Rescisão](#4-termination)
 
+*
 * [5. Escolha da legislação e local](#5-choice-of-law-and-venue)
 
+*
 * [6. Termos diversos](#6-miscellaneous-terms)
 
 Ao confirmar ou participar de um evento do GitHub, incluindo qualquer um dos eventos ou atividades organizadas pelo GitHub em associação com o evento do GitHub (coletivamente o "Evento"), você indica que leu, entendeu e concorda com os seguintes Termos e Condições do Evento.

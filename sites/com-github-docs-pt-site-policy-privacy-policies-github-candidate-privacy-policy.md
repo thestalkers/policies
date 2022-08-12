@@ -4,7 +4,7 @@ Política de Privacidade do GitHub Candidate - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Política de Privacidade do GitHub Candidate
 ==========
@@ -12,16 +12,22 @@ Política de Privacidade do GitHub Candidate
 [Neste artigo](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
 ----------
 
+*
 * [Quais informações pessoais do candidato nós coletamos?](#what-candidate-personal-information-do-we-collect)
 
+*
 * [Como usamos as Informações Pessoais do candidato que coletamos?](#how-do-we-use-the-candidate-personal-information-we-collect)
 
+*
 * [Como compartilhamos suas informações pessoais do candidato?](#how-do-we-share-your-candidate-personal-information)
 
+*
 * [Seus direitos às suas Informações Pessoais do Candidato](#your-rights-to-your-candidate-personal-information)
 
+*
 * [Por quanto tempo retemos suas informações pessoais do candidato?](#how-long-do-we-retain-your-candidate-personal-information)
 
+*
 * [Alterações nesta Política](#changes-to-this-policy)
 
 Data de vigência: 8 de março de 2021

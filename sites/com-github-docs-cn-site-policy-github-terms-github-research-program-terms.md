@@ -4,7 +4,7 @@ GitHub 研究计划条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 研究计划条款
 ==========
@@ -12,20 +12,28 @@ GitHub 研究计划条款
 [本文内容](/site-policy/github-terms/github-research-program-terms#in-this-article)
 ----------
 
+*
 * [A. 反馈](#a-your-feedback)
 
+*
 * [B. 保密](#b-confidentiality)
 
+*
 * [C. 保留权利](#c-reservation-of-rights)
 
+*
 * [D. 隐私](#d-privacy)
 
+*
 * [E. GitHub 服务和软件条款](#e-github-services-and-software-terms)
 
+*
 * [F. 免责声明](#f-disclaimer-of-warranties)
 
+*
 * [G. 责任限制](#g-limitation-of-liability)
 
+*
 * [H. 其他](#h-miscellaneous)
 
 欢迎参与 GitHub 研究计划（以下简称“计划”）！ 要参与计划，您需要同意一套特殊的条款，即 GitHub 研究计划协议（以下简称“协议”）。

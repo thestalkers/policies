@@ -4,7 +4,7 @@ GitHub 候选人隐私政策 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 候选人隐私政策
 ==========
@@ -12,16 +12,22 @@ GitHub 候选人隐私政策
 [本文内容](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
 ----------
 
+*
 * [我们收集哪些候选人个人信息？](#what-candidate-personal-information-do-we-collect)
 
+*
 * [我们如何使用我们收集的候选人个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
 
+*
 * [我们如何分享您的候选个人信息？](#how-do-we-share-your-candidate-personal-information)
 
+*
 * [您对您的候选人个人信息的权利](#your-rights-to-your-candidate-personal-information)
 
+*
 * [我们会将您的候选人个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
 
+*
 * [本政策的更改](#changes-to-this-policy)
 
 生效日期：2021 年 3 月 8 日

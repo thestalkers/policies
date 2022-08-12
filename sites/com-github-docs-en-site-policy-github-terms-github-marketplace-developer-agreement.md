@@ -10,40 +10,58 @@ GitHub Marketplace Developer Agreement
 [In this article](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
 ----------
 
+*
 * [1. DEFINITIONS](#1definitions)
 
+*
 * [2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
 
+*
 * [3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
 
+*
 * [4. TAKEDOWNS](#4takedowns)
 
+*
 * [5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
 
+*
 * [6. PRICING AND PAYMENT TERMS](#6pricing-and-payment-terms)
 
+*
 * [7. OWNERSHIP](#7ownership)
 
+*
 * [8. LIMITATION OF LIABILITY](#8limitation-of-liability)
 
+*
 * [9. INDEMNIFICATION](#9indemnification)
 
+*
 * [10. TERMINATION](#10termination)
 
+*
 * [11. MODIFICATION](#11modification)
 
+*
 * [12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
 
+*
 * [13. SEVERABILITY](#13severability)
 
+*
 * [14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
 
+*
 * [15. NOTICE](#15-notice)
 
+*
 * [16. GOVERNING LAW](#16-governing-law)
 
+*
 * [17. EXPORT RESTRICTIONS](#17-export-restrictions)
 
+*
 * [18. USAGE DATA](#18--usage-data)
 
 **THESE TERMS AND CONDITIONS (THE "AGREEMENT") GOVERN YOUR PARTICIPATION IN GITHUB’S MARKETPLACE PROGRAM. BY ENROLLING TO PARTICIPATE IN THE MARKETPLACE PROGRAM OR BY CLICKING “I ACCEPT” BELOW, YOU ARE CONFIRMING THAT YOU UNDERSTAND THIS AGREEMENT, AND THAT YOU ACCEPT ALL OF ITS TERMS AND CONDITIONS. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE “YOU” WILL MEAN THE ENTITY YOU REPRESENT.**

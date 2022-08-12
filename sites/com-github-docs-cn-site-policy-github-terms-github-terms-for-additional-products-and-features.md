@@ -4,7 +4,7 @@ GitHub 其他产品和功能条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 其他产品和功能条款
 ==========
@@ -12,32 +12,46 @@ GitHub 其他产品和功能条款
 [本文内容](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
+*
 * [Actions](#actions)
 
+*
 * [Advanced Security](#advanced-security)
 
+*
 * [Advisory Database](#advisory-database)
 
+*
 * [Codespaces](#codespaces)
 
+*
 * [Connect](#connect)
 
+*
 * [GitHub Copilot](#github-copilot)
 
+*
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 
+*
 * [Learning Lab](#learning-lab)
 
+*
 * [npm](#npm)
 
+*
 * [Packages](#packages)
 
+*
 * [页面](#pages)
 
+*
 * [预览版](#previews)
 
+*
 * [赞助计划](#sponsors-program)
 
+*
 * [SQL Server 映像](#sql-server-images)
 
 版本生效日期：2021 年 8 月 10 日

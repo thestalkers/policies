@@ -4,7 +4,7 @@ Programa de recompensa de erros e declaração Safe Harbor do GitHub - GitHub Do
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Programa de recompensa de erros e declaração Safe Harbor do GitHub
 ==========
@@ -12,12 +12,16 @@ Programa de recompensa de erros e declaração Safe Harbor do GitHub
 [Neste artigo](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
+*
 * [Sumário](#summary)
 
+*
 * [1. Termos de Porto Seguro](#1-safe-harbor-terms)
 
+*
 * [2. Porto Seguro de Terceiros](#2-third-party-safe-harbor)
 
+*
 * [3. Renúncia limitada a outras políticas do site](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)Sumário

@@ -12,8 +12,10 @@
 [ここには以下の内容があります:](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
+*
 * [標準契約条項](#standard-contractual-clauses)
 
+*
 * [プライバシー シールド フレームワーク](#privacy-shield-framework)
 
 発効日: 2020年7月22日

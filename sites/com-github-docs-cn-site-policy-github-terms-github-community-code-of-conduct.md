@@ -4,7 +4,7 @@ GitHub Community Code of Conduct - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub Community Code of Conduct
 ==========
@@ -12,16 +12,22 @@ GitHub Community Code of Conduct
 [本文内容](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
 ----------
 
+*
 * [概述和宗旨](#overview-and-purpose)
 
+*
 * [承诺](#pledge)
 
+*
 * [标准](#standards)
 
+*
 * [执行](#enforcement)
 
+*
 * [联系 GitHub 工作人员](#contacting-github-staff)
 
+*
 * [法律声明](#legal-notices)
 
 [](#overview-and-purpose)概述和宗旨

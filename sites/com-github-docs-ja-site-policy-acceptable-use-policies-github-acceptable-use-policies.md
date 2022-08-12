@@ -12,26 +12,37 @@ GitHub 利用規定
 [ここには以下の内容があります:](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
 ----------
 
+*
 * [1. 法令・規定の遵守](#1-compliance-with-laws-and-regulations)
 
+*
 * [2. User Safety](#2-user-safety)
 
+*
 * [3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
 
+*
 * [4. GitHub におけるスパムおよび不正活動](#4-spam-and-inauthentic-activity-on-github)
 
+*
 * [5. Site Access and Safety](#5-site-access-and-safety)
 
+*
 * [6. サービス利用の制限](#6-services-usage-limits)
 
+*
 * [7. 情報利用の制限](#7-information-usage-restrictions)
 
+*
 * [8. プライバシー](#8-privacy)
 
+*
 * [9. 過剰な帯域の使用](#9-excessive-bandwidth-use)
 
+*
 * [10. GitHubでの広告](#10-advertising-on-github)
 
+*
 * [11. ユーザの保護](#11-user-protection)
 
 **趣旨の要約:** *私たちは、世界中のさまざまな協同プロジェクトをホストしており、そうしたコラボレーションは、ユーザ同士が誠実に協力できる場合にのみ成り立ちます。 While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. その趣旨を要約すれば、お互いのことを思いやりましょうということです。*

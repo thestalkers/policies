@@ -12,14 +12,19 @@ GitHubトレードマークポリシー
 [ここには以下の内容があります:](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
+*
 * [何をすると GitHub トレードマークポリシーの違反になるのですか？](#what-is-a-github-trademark-policy-violation)
 
+*
 * [GitHub トレードマークポリシーの違反にならないことは？](#what-is-not-a-github-trademark-policy-violation)
 
+*
 * [トレードマークポリシーの違反の報告があった場合、GitHub はどのように対応しますか？](#how-does-github-respond-to-reported-trademark-policy-violations)
 
+*
 * [トレードマークポリシーの違反を報告するには？](#how-do-i-report-a-trademark-policy-violation)
 
+*
 * [トレードマークポリシーの違反を報告する際に必要な情報は？](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [](#what-is-a-github-trademark-policy-violation)何をすると GitHub トレードマークポリシーの違反になるのですか？

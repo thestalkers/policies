@@ -4,7 +4,7 @@ Política de marca registrada do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Política de marca registrada do GitHub
 ==========
@@ -12,14 +12,19 @@ Política de marca registrada do GitHub
 [Neste artigo](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
+*
 * [O que é uma violação da Política de Marca do GitHub?](#what-is-a-github-trademark-policy-violation)
 
+*
 * [O que não é uma violação da Política de Marca do GitHub?](#what-is-not-a-github-trademark-policy-violation)
 
+*
 * [Como o GitHub responde a violações de Política de Marca relatadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
 
+*
 * [Como faço para denunciar uma violação da Política de Marca?](#how-do-i-report-a-trademark-policy-violation)
 
+*
 * [Quais informações são necessárias para denunciar violação de Política de Marca?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [](#what-is-a-github-trademark-policy-violation)O que é uma violação da Política de Marca do GitHub?

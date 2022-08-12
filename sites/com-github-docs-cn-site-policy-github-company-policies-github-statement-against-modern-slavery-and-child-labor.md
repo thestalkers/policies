@@ -4,7 +4,7 @@ GitHub 反对现代奴隶制和雇佣童工的声明 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 反对现代奴隶制和雇佣童工的声明
 ==========
@@ -12,18 +12,25 @@ GitHub 反对现代奴隶制和雇佣童工的声明
 [本文内容](/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor#in-this-article)
 ----------
 
+*
 * [GitHub 的结构、业务和供应链](#githubs-structure-business-and-supply-chains)
 
+*
 * [关于现代奴隶制和童工的政策](#policies-in-relation-to-modern-slavery-and-child-labor)
 
+*
 * [劳工法律和实践](#labor-laws-and-practices)
 
+*
 * [对于业务和供应链中现代奴隶制和童工问题的尽职调查流程](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 
+*
 * [GitHub 的业务和供应链中存在现代奴隶制和童工风险的地方，以及 GitHub 为评估和管理此类风险而采取的措施](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 
+*
 * [GitHub 确保其业务或供应链中不会发生现代奴隶制或童工问题的有效措施](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 
+*
 * [为 GitHub 员工提供有关现代奴隶制和人口贩运问题的培训](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018 年声明*

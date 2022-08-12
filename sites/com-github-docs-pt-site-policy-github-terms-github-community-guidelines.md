@@ -4,7 +4,7 @@ Diretrizes da comunidade do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Diretrizes da comunidade do GitHub
 ==========
@@ -12,14 +12,19 @@ Diretrizes da comunidade do GitHub
 [Neste artigo](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
+*
 * [Mantendo uma comunidade forte](#maintaining-a-strong-community)
 
+*
 * [E se algo ou alguém ofender você?](#what-if-something-or-someone-offends-you)
 
+*
 * [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
 
+*
 * [Apelação e reinstauração](#appeal-and-reinstatement)
 
+*
 * [Avisos Legais](#legal-notices)
 
 Milhões de desenvolvedores em todo o mundo hospedam milhões de projetos, tanto de código aberto como de código fechado, no GitHub. Nós temos sorte de poder participar da colaboração em toda a comunidade de desenvolvedores todos os dias que é uma responsabilidade que não aceitamos de de forma leviana. Juntos, todos nós temos a oportunidade interessante de fazer desta uma comunidade de que nos podemos orgulhar.

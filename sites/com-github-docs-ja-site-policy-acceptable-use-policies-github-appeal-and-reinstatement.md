@@ -12,12 +12,16 @@ GitHub Appeal and Reinstatement
 [ここには以下の内容があります:](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
+*
 * [意義申し立てと復帰](#appeal-and-reinstatement)
 
+*
 * [What are appeals and reinstatements?](#what-are-appeals-and-reinstatements)
 
+*
 * [How this works](#how-this-works)
 
+*
 * [透明性](#transparency)
 
 [](#appeal-and-reinstatement)意義申し立てと復帰

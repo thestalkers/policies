@@ -12,38 +12,55 @@ Declaración de Privacidad de GitHub
 [En este artículo](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
+*
 * [La versión corta](#the-short-version)
 
+*
 * [Resumen](#summary)
 
+*
 * [Declaración de Privacidad de GitHub](#github-privacy-statement)
 
+*
 * [¿Quién es responsable del procesamiento de tu información?](#who-is-responsible-for-the-processing-of-your-information)
 
+*
 * [GitHub actuando en tu nombre](#github-acting-on-your-behalf)
 
+*
 * [Qué información recopila GitHub](#what-information-github-collects)
 
+*
 * [Cómo utiliza GitHub tu información](#how-github-uses-your-information)
 
+*
 * [Cómo compartimos la información que recopilamos](#how-we-share-the-information-we-collect)
 
+*
 * [Tus elecciones con respecto a nuestro procesamiento de tus datos personales](#your-choices-regarding-our-processing-of-your-personal-data)
 
+*
 * [Nuestro uso de las cookies y las tecnologías de rastreo](#our-use-of-cookies-and-tracking-technologies)
 
+*
 * [Retención de datos personales](#retention-of-personal-data)
 
+*
 * [Cómo asegura GiitHub tu información](#how-github-secures-your-information)
 
+*
 * [Cambios en tu Declaración de privacidad](#changes-to-our-privacy-statement)
 
+*
 * [Licencia](#license)
 
+*
 * [Contactarse con GitHub](#contacting-github)
 
+*
 * [Traducciones](#translations)
 
+*
 * [Aviso de GitHub para los residentes de California](#githubs-notice-to-california-residents)
 
 Fecha de entrada en vigor: 31 de mayo de 2022

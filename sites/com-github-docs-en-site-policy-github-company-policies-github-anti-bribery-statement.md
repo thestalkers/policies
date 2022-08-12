@@ -10,10 +10,13 @@ GitHub Anti-Bribery Statement
 [In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
+*
 * [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
 
+*
 * [Training for our employees](#training-for-our-employees)
 
+*
 * [Engaging our Partners](#engaging-our-partners)
 
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are

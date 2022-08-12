@@ -4,7 +4,7 @@ GitHub 反贿赂声明 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 反贿赂声明
 ==========
@@ -12,10 +12,13 @@ GitHub 反贿赂声明
 [本文内容](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
+*
 * [GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
 
+*
 * [培训我们的员工](#training-for-our-employees)
 
+*
 * [要求我们的合作伙伴](#engaging-our-partners)
 
 GitHub 恪守道德经营的承诺，包括禁止贿赂和腐败。 正如[透明国际](https://www.transparency.org/what-is-corruption#costs-of-corruption)所述，腐败的危害极大：

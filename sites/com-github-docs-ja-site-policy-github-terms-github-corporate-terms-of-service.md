@@ -12,46 +12,67 @@ GitHub企業向け利用規約
 [ここには以下の内容があります:](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
+*
 * [GitHub企業向け利用規約](#github-corporate-terms-of-service)
 
+*
 * [A. 定義](#a-definitions)
 
+*
 * [B. アカウント利用規約](#b-account-terms)
 
+*
 * [C. 法の遵守、利用規程、プライバシー](#c-compliance-with-laws-acceptable-use-privacy)
 
+*
 * [D. コンテンツの責任、所有権、ライセンス権](#d-content-responsibility-ownership-license-rights)
 
+*
 * [E. プライベートリポジトリ](#e-private-repositories)
 
+*
 * [F. 知的財産に関する通知](#f-intellectual-property-notice)
 
+*
 * [G. GitHub追加製品の利用規約](#g-github-additional-product-terms)
 
+*
 * [H. プラン・ライセンス](#h-subscription-licenses)
 
+*
 * [I. 関係会社](#i-affiliates)
 
+*
 * [J. 支払い](#j-payment)
 
+*
 * [K. 契約期間、解約、一時停止](#k-term-termination-suspension)
 
+*
 * [L. GitHub との通信手段](#l-communications-with-github)
 
+*
 * [M. 限定保証、免責事項](#m-limited-warranty-disclaimer)
 
+*
 * [N. 責任の制限](#n-limitations-of-liability)
 
+*
 * [O. 訴訟に対する防御、免責](#o-defense-of-claims-release)
 
+*
 * [P. 機密保持](#p-confidentiality)
 
+*
 * [Q. プロフェッショナルサービス](#q-professional-services)
 
+*
 * [R. 本規約またはサービスの変更](#r-changes-to-the-service-or-terms)
 
+*
 * [S. サポート](#s-support)
 
+*
 * [T. 雑則](#t-miscellaneous)
 
 *These terms apply to GitHub.com customers who have executed agreements in place referencing the Corporate Terms of Service. All other business or institution customers are directed to [github.com/customer-terms](https://github.com/customer-terms) for current terms.*

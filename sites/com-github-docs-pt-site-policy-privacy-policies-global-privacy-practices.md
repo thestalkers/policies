@@ -4,7 +4,7 @@ Práticas de privacidade global - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Práticas de privacidade global
 ==========
@@ -12,8 +12,10 @@ Práticas de privacidade global
 [Neste artigo](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
+*
 * [Cláusulas Contratuais Padrão](#standard-contractual-clauses)
 
+*
 * [Escudo de Defesa da Privacidade](#privacy-shield-framework)
 
 Data de entrada em vigor: 22 de Julho de 2020

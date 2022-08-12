@@ -4,7 +4,7 @@ GitHub 社区指导方针 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 社区指导方针
 ==========
@@ -12,14 +12,19 @@ GitHub 社区指导方针
 [本文内容](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
+*
 * [维护强大的社区](#maintaining-a-strong-community)
 
+*
 * [如果某事或某人冒犯您会怎么样？](#what-if-something-or-someone-offends-you)
 
+*
 * [如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
 
+*
 * [申诉和恢复](#appeal-and-reinstatement)
 
+*
 * [法律声明](#legal-notices)
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 走在一起，我们都有机会让这个社区成为我们值得骄傲的地方。

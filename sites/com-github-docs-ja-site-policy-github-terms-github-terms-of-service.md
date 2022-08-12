@@ -12,44 +12,64 @@ GitHub利用規約
 [ここには以下の内容があります:](/site-policy/github-terms/github-terms-of-service#in-this-article)
 ----------
 
+*
 * [概要](#summary)
 
+*
 * [GitHub 利用規約](#the-github-terms-of-service)
 
+*
 * [A. 定義](#a-definitions)
 
+*
 * [B. アカウント利用規約](#b-account-terms)
 
+*
 * [C. 利用規定](#c-acceptable-use)
 
+*
 * [D. ユーザ生成コンテンツ](#d-user-generated-content)
 
+*
 * [E. プライベートリポジトリ](#e-private-repositories)
 
+*
 * [F. 著作権侵害と DMCA ポリシー](#f-copyright-infringement-and-dmca-policy)
 
+*
 * [G. 知的財産に関する通知](#g-intellectual-property-notice)
 
+*
 * [H. API 規約](#h-api-terms)
 
+*
 * [I. GitHub追加製品の利用規約](#i-github-additional-product-terms)
 
+*
 * [J. ベータプレビュー](#j-beta-previews)
 
+*
 * [K. 支払い](#k-payment)
 
+*
 * [L. キャンセルと解約](#l-cancellation-and-termination)
 
+*
 * [M. GitHub との通信手段](#m-communications-with-github)
 
+*
 * [N. 保証免責](#n-disclaimer-of-warranties)
 
+*
 * [O. 責任の制限](#o-limitation-of-liability)
 
+*
 * [P. 免責・補償](#p-release-and-indemnification)
 
+*
 * [Q. 本規約の変更](#q-changes-to-these-terms)
 
+*
 * [R. 雑則](#r-miscellaneous)
 
 GitHubをご利用いただきありがとうございます。 また、こちらのページをご覧いただきありがとうございます。 GitHubにアクセスするまたはGitHubをご利用いただく前に、こちらの「利用規約」をよくお読みください。 当社とユーザ間の非常に大切な契約になるため、できるだけわかりやすくなるよう心がけています。 便宜上、本規約は全文の前に法的拘束力のない短い要約を記載してあります。

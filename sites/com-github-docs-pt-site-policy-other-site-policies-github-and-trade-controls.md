@@ -4,7 +4,7 @@ GitHub e controles de negociação - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub e controles de negociação
 ==========
@@ -12,8 +12,10 @@ GitHub e controles de negociação
 [Neste artigo](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
 ----------
 
+*
 * [Visão geral da exportação](#export-overview)
 
+*
 * [Perguntas frequentes](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server, e as informações que você enviar para qualquer produto podem estar sujeitas a regulamentações de controle de negociação, inclusive sob Regulamentos da Administração de Exportação dos EUA (EAR). Regulamentos Administrativos de Exportação (EAR).

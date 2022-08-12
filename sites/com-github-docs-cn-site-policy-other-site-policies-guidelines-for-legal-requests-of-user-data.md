@@ -4,7 +4,7 @@
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 用户数据法律要求指南
 ==========
@@ -12,24 +12,34 @@
 [本文内容](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
+*
 * [关于这些指南](#about-these-guidelines)
 
+*
 * [GitHub 术语](#github-terminology)
 
+*
 * [GitHub.com 上的用户数据](#user-data-on-githubcom)
 
+*
 * [我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
 
+*
 * [非公开信息的披露](#disclosure-of-non-public-information)
 
+*
 * [费用补偿](#cost-reimbursement)
 
+*
 * [数据保存](#data-preservation)
 
+*
 * [提交请求](#submitting-requests)
 
+*
 * [外国执法部门的请求](#requests-from-foreign-law-enforcement)
 
+*
 * [问题](#questions)
 
 您是否是对可能涉及 GitHub 上托管的用户内容进行调查的执法人员？ 或许您是一个具有隐私意识的人，想知道我们与执法部门分享什么信息，以及在什么情况下分享信息。 无论您是哪种身份，都应该参阅本文内容。

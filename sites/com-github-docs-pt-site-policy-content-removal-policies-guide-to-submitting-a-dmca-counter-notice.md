@@ -4,7 +4,7 @@ Guia de envio do contra-aviso de retirada DMCA - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Guia de envio do contra-aviso de retirada DMCA
 ==========
@@ -12,10 +12,13 @@ Guia de envio do contra-aviso de retirada DMCA
 [Neste artigo](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
+*
 * [Antes de começar](#before-you-start)
 
+*
 * [Seu contra-aviso deve...](#your-counter-notice-must)
 
+*
 * [Como enviar seu contra-aviso](#how-to-submit-your-counter-notice)
 
 Este guia descreve as informações de que o GitHub precisa para processar um contra-aviso em uma solicitação de retirada DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de retirada DMCA, por favor, reveja nossa [Política de Aviso de Retirada DMCA](/pt/articles/dmca-takedown-policy).

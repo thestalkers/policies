@@ -12,38 +12,55 @@ GitHubのプライバシーについての声明
 [ここには以下の内容があります:](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
+*
 * [ショートバージョン](#the-short-version)
 
+*
 * [概要](#summary)
 
+*
 * [GitHubのプライバシーについての声明](#github-privacy-statement)
 
+*
 * [Who is responsible for the processing of your information?](#who-is-responsible-for-the-processing-of-your-information)
 
+*
 * [GitHub acting on your behalf](#github-acting-on-your-behalf)
 
+*
 * [GitHubが収集する情報](#what-information-github-collects)
 
+*
 * [当社のお客様情報の利用方法](#how-github-uses-your-information)
 
+*
 * [当社が収集したお客様の情報の共有方法](#how-we-share-the-information-we-collect)
 
+*
 * [Your choices regarding our processing of your personal data](#your-choices-regarding-our-processing-of-your-personal-data)
 
+*
 * [Our use of cookies and tracking technologies](#our-use-of-cookies-and-tracking-technologies)
 
+*
 * [Retention of personal data](#retention-of-personal-data)
 
+*
 * [お客様情報についての当社の保護方法](#how-github-secures-your-information)
 
+*
 * [プライバシーステートメントの変更](#changes-to-our-privacy-statement)
 
+*
 * [ライセンス](#license)
 
+*
 * [GitHubへの連絡](#contacting-github)
 
+*
 * [翻訳](#translations)
 
+*
 * [GitHub's notice to California residents](#githubs-notice-to-california-residents)
 
 Effective date: May 31, 2022

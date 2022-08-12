@@ -4,7 +4,7 @@ Contrato de desenvolvedor do GitHub Marketplace - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Contrato de desenvolvedor do GitHub Marketplace
 ==========
@@ -12,40 +12,58 @@ Contrato de desenvolvedor do GitHub Marketplace
 [Neste artigo](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
 ----------
 
+*
 * [1. DEFINIÇÕES](#1definitions)
 
+*
 * [2. CONCESSÃO DE PROPÓSITO E LICENÇA](#2purpose-and-license-grant)
 
+*
 * [3. RESTRIÇÕES E RESPONSABILIDADES](#3restrictions-and-responsibilities)
 
+*
 * [4. RETIRADAS](#4takedowns)
 
+*
 * [5. REPRESENTAÇÕES, GARANTIAS E CONVÊNIOS](#5representations-warranties-and-covenants)
 
+*
 * [6. TERMOS DE PRECIFICAÇÃO E PAGAMENTO](#6pricing-and-payment-terms)
 
+*
 * [7. PROPRIEDADE](#7ownership)
 
+*
 * [8. LIMITAÇÃO DE RESPONSABILIDADE](#8limitation-of-liability)
 
+*
 * [9. INDENIZAÇÃO](#9indemnification)
 
+*
 * [10. RESCISÃO](#10termination)
 
+*
 * [11. MODIFICAÇÃO](#11modification)
 
+*
 * [12. CESSÃO; CONTRATO INTEGRAL; REVISÕES](#12assignment-entire-agreement-revisions)
 
+*
 * [13. INDEPENDÊNCIA DAS DISPOSIÇÕES CONTRATUAIS](#13severability)
 
+*
 * [14. RELACIONAMENTO ENTRE AS PARTES](#14-relationship-of-the-parties)
 
+*
 * [15. AVISO](#15-notice)
 
+*
 * [16. LEI REGENTE](#16-governing-law)
 
+*
 * [17. RESTRIÇÕES À EXPORTAÇÃO](#17-export-restrictions)
 
+*
 * [18. DADOS DE USO](#18--usage-data)
 
 **ESTES TERMOS E CONDIÇÕES (O "CONTRATO") REGEM SUA PARTICIPAÇÃO NO PROGRAMA DO GITHUB MARKETPLACE. AO SE INSCREVER PARA PARTICIPAR DO PROGRAMA DE MARKETPLACE OU AO CLICAR EM "ACEITO" ABAIXO, VOCÊ ESTÁ CONFIRMANDO QUE ENTENDE ESTE ACORDO E QUE ACEITA TODOS OS SEUS TERMOS E CONDIÇÕES. SE VOCÊ ESTÁ FIRMANDO ESTE CONTRATO EM NOME DE UMA EMPRESA OU OUTRA ENTIDADE LEGAL, VOCÊ CONFIRMA QUE POSSUI A AUTORIZAÇÃO LEGAL PARA VINCULAR A ENTIDADE A ESTE CONTRATO, NO QUAL "VOCÊ" REPRESENTARÁ A ENTIDADE QUE VOCÊ REPRESENTA.**

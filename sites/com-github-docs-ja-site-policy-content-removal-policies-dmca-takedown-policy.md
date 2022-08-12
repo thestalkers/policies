@@ -12,24 +12,34 @@ DMCAテイクダウンポリシー
 [ここには以下の内容があります:](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
 ----------
 
+*
 * [DMCA とは？](#what-is-the-dmca)
 
+*
 * [DMCA 通知の要約](#dmca-notices-in-a-nutshell)
 
+*
 * [A. 具体的なプロセスは？](#a-how-does-this-actually-work)
 
+*
 * [B. フォークの場合は？ （またはフォークとは？）](#b-what-about-forks-or-whats-a-fork)
 
+*
 * [C. 迂回の申し立てへの対応](#c-what-about-circumvention-claims)
 
+*
 * [D. うっかりして期間内に変更できなかった場合は？](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 
+*
 * [E. 透明性](#e-transparency)
 
+*
 * [F. 繰り返しの侵害](#f-repeated-infringement)
 
+*
 * [G. 通知の提出](#g-submitting-notices)
 
+*
 * [詳細および当社の見解](#learn-more-and-speak-up)
 
 このページは、GitHub によるデジタルミレニアム著作権法（DMCA）のガイドです。 これは法律を包括的に説明する入門書ではありません が、あなたが GitHub に投稿したコンテンツを対象とする DMCA テイクダウン通知を受け取った場合、またはそのような通知を発行しようとしている権利所有者の場合、このページはこの法律や、それに従うための当社の方針を理解する上で役立つはずです。

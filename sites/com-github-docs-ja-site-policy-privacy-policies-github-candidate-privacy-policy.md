@@ -12,16 +12,22 @@ GitHub 志望者のプライバシーポリシー
 [ここには以下の内容があります:](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
 ----------
 
+*
 * [当社が収集する志望者の個人情報](#what-candidate-personal-information-do-we-collect)
 
+*
 * [収集した志望者情報の利用方法](#how-do-we-use-the-candidate-personal-information-we-collect)
 
+*
 * [志望者情報の共有方法](#how-do-we-share-your-candidate-personal-information)
 
+*
 * [志望者の個人情報に対する権利](#your-rights-to-your-candidate-personal-information)
 
+*
 * [志望者の個人情報を保持する期間](#how-long-do-we-retain-your-candidate-personal-information)
 
+*
 * [本ポリシーの変更](#changes-to-this-policy)
 
 発効日: 2021年3月8日

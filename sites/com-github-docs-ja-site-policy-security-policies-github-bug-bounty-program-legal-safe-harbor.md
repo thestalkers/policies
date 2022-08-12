@@ -12,12 +12,16 @@ GitHub Bug Bounty Programの法的免責事項
 [ここには以下の内容があります:](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
+*
 * [概要](#summary)
 
+*
 * [1. 免責に関する規約](#1-safe-harbor-terms)
 
+*
 * [2. 第三者の法的免責](#2-third-party-safe-harbor)
 
+*
 * [3. 他のサイトポリシーについての限定的な免責](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)概要

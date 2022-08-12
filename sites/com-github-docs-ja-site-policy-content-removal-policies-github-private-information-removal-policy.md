@@ -12,16 +12,22 @@ GitHub個人情報削除ポリシー
 [ここには以下の内容があります:](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
 ----------
 
+*
 * [個人情報とは](#what-is-private-information)
 
+*
 * [知っておくべきこと](#things-to-know)
 
+*
 * [具体的なプロセスは？](#how-does-this-actually-work)
 
+*
 * [個人情報削除リクエストを送信する](#sending-a-private-information-removal-request)
 
+*
 * [リクエストの提出方法](#how-to-submit-your-request)
 
+*
 * [異議申し立て](#disputes)
 
 当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub利用規約](/ja/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)に反する高リスクコンテンツに限定した例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除するリクエストをGitHubが処理するために必要な情報について説明します。

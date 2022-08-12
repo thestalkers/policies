@@ -4,7 +4,7 @@ GitHub 开源应用程序条款和条件 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 开源应用程序条款和条件
 ==========
@@ -12,16 +12,22 @@ GitHub 开源应用程序条款和条件
 [本文内容](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
 ----------
 
+*
 * [连接到 GitHub](#connecting-to-github)
 
+*
 * [开源许可和声明](#open-source-licenses-and-notices)
 
+*
 * [GitHub 徽标](#githubs-logos)
 
+*
 * [隐私](#privacy)
 
+*
 * [其他服务](#additional-services)
 
+*
 * [其他](#miscellanea)
 
 这些 GitHub 开源应用程序条款和条件（“应用程序条款”）是您（作为个人或代表实体）与 GitHub, Inc. 之间 关于您使用诸如 GitHub Desktop™ 和相关文档等 GitHub 应用程序（“软件”）的法律协议。 这些应用程序条款适用于软件的可执行代码版本。 软件源代码根据开源软件许可协议单独免费提供。 如果您不同意这些应用程序条款中的所有条款，请不要下载、安装、使用或复制软件。

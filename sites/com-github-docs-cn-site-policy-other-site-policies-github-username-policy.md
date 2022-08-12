@@ -4,7 +4,7 @@ GitHub 用户名政策 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 用户名政策
 ==========
@@ -12,10 +12,13 @@ GitHub 用户名政策
 [本文内容](/site-policy/other-site-policies/github-username-policy#in-this-article)
 ----------
 
+*
 * [如果已获取所需的用户名，该怎么办？](#what-if-the-username-i-want-is-already-taken)
 
+*
 * [商标政策](#trademark-policy)
 
+*
 * [名称占用政策](#name-squatting-policy)
 
 GitHub 帐户名按先到先得的方式提供，预期立即使用。

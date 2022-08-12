@@ -4,7 +4,7 @@ Diretrizes para solicitações legais de dados do usuário - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Diretrizes para solicitações legais de dados do usuário
 ==========
@@ -12,24 +12,34 @@ Diretrizes para solicitações legais de dados do usuário
 [Neste artigo](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
+*
 * [Sobre estas diretrizes](#about-these-guidelines)
 
+*
 * [Terminologia GitHub](#github-terminology)
 
+*
 * [Dados do usuário no GitHub.com](#user-data-on-githubcom)
 
+*
 * [Notificaremos qualquer proprietário de conta afetado](#we-will-notify-any-affected-account-owners)
 
+*
 * [Compartilhamento de informações não públicas](#disclosure-of-non-public-information)
 
+*
 * [Reembolso de custos](#cost-reimbursement)
 
+*
 * [Conservação de dados](#data-preservation)
 
+*
 * [Envio de solicitação](#submitting-requests)
 
+*
 * [Pedidos de aplicação de lei estrangeira](#requests-from-foreign-law-enforcement)
 
+*
 * [Perguntas](#questions)
 
 Você é um oficial da lei que está conduzindo uma investigação envolvendo o conteúdo de usuário hospedado no GitHub? Ou talvez você seja uma pessoa consciente de privacidade que gostaria de saber quais informações compartilhamos com um oficial da lei e sob quais circunstâncias. De qualquer forma, você está na página certa.

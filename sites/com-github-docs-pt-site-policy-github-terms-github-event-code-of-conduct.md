@@ -4,7 +4,7 @@ Código de conduta de eventos do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Código de conduta de eventos do GitHub
 ==========
@@ -12,8 +12,10 @@ Código de conduta de eventos do GitHub
 [Neste artigo](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
 ----------
 
+*
 * [Código de Conduta](#code-of-conduct)
 
+*
 * [Crédito](#credit)
 
 Eventos do GitHub são eventos da comunidade destinados a networking e colaboração na comunidade tecnológica.

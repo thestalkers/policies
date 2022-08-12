@@ -4,7 +4,7 @@ GitHub 可接受的使用政策 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 可接受的使用政策
 ==========
@@ -12,26 +12,37 @@ GitHub 可接受的使用政策
 [本文内容](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
 ----------
 
+*
 * [1. 符合法律法规](#1-compliance-with-laws-and-regulations)
 
+*
 * [2. 用户安全](#2-user-safety)
 
+*
 * [3. 知识产权、真实性和个人信息](#3-intellectual-property-authenticity-and-private-information)
 
+*
 * [4. GitHub 上的垃圾信息和假活动](#4-spam-and-inauthentic-activity-on-github)
 
+*
 * [5. 网站访问和安全](#5-site-access-and-safety)
 
+*
 * [6. 服务使用限制](#6-services-usage-limits)
 
+*
 * [7. 信息使用限制](#7-information-usage-restrictions)
 
+*
 * [8. 隐私](#8-privacy)
 
+*
 * [9. 过度带宽使用](#9-excessive-bandwidth-use)
 
+*
 * [10. GitHub 上的广告](#10-advertising-on-github)
 
+*
 * [11. 用户保护](#11-user-protection)
 
 **短版本：** *我们托管全球各地大量的协作项目，仅当用户能够善意一起工作时，该协作才能正常进行。 在使用服务时，您必须遵守我们的可接受使用政策，其中包括对 GitHub 上的内容和行为的一些限制，这些限制与用户安全、知识产权、隐私、真实性和其他限制有关。 简言之，要互惠互利。*

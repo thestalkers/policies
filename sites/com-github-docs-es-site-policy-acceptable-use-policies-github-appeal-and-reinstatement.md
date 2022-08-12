@@ -12,12 +12,16 @@ Apelaciones y reinstauraciones en GitHub
 [En este artículo](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
+*
 * [Apelación y reinstauración](#appeal-and-reinstatement)
 
+*
 * [¿Qué son las apelaciones y reinstauraciones?](#what-are-appeals-and-reinstatements)
 
+*
 * [Cómo funciona esto](#how-this-works)
 
+*
 * [Transparencia](#transparency)
 
 [](#appeal-and-reinstatement)Apelación y reinstauración

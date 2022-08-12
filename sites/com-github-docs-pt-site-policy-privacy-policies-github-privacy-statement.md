@@ -4,7 +4,7 @@ Declaração de Privacidade do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Declaração de Privacidade do GitHub
 ==========
@@ -12,38 +12,55 @@ Declaração de Privacidade do GitHub
 [Neste artigo](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
+*
 * [Resumo](#the-short-version)
 
+*
 * [Sumário](#summary)
 
+*
 * [Declaração de Privacidade do GitHub](#github-privacy-statement)
 
+*
 * [Quem é o responsável pelo processamento das suas informações?](#who-is-responsible-for-the-processing-of-your-information)
 
+*
 * [GitHub atuando em seu nome](#github-acting-on-your-behalf)
 
+*
 * [Que tipo de informação o GitHub coleta](#what-information-github-collects)
 
+*
 * [Como o GitHub usa suas informações](#how-github-uses-your-information)
 
+*
 * [Como compartilhamos as informações obtidas](#how-we-share-the-information-we-collect)
 
+*
 * [Suas escolhas em relação ao processamento de seus dados pessoais](#your-choices-regarding-our-processing-of-your-personal-data)
 
+*
 * [Nosso uso de cookies e tecnologias de rastreamento](#our-use-of-cookies-and-tracking-technologies)
 
+*
 * [Retenção de dados pessoais](#retention-of-personal-data)
 
+*
 * [Como o GitHub protege suas informações](#how-github-secures-your-information)
 
+*
 * [Mudanças nesta Declaração de Privacidade](#changes-to-our-privacy-statement)
 
+*
 * [Licença](#license)
 
+*
 * [Contato com a GitHub](#contacting-github)
 
+*
 * [Traduções](#translations)
 
+*
 * [Aviso do GitHub aos residentes da Califórnia](#githubs-notice-to-california-residents)
 
 Data de vigência: 31 de maio de 2022
@@ -397,8 +414,8 @@ Você tem o direito de não participar de “vendas” futuras de informações 
 
 Você tem o direito de não ser discriminado por exercer os seus direitos do CCPA. Não discriminaremos você pelo exercício dos seus direitos no âmbito do CCPA.
 
-Você pode designar, por escrito ou por meio de advogado, um agente autorizado a fazer pedidos em seu nome para exercer seus direitos nos termos do CCPA. Antes de aceitar tal solicitação de um agente, exigimos que o agente forneça a prova que o autorizou a agir em seu nome, e talvez seja necessário que você verifique sua identidade diretamente conosco. Além disso, para fornecer ou excluir informações pessoais específicas, precisaremos verificar sua identidade de acordo com o grau de certeza exigido pela lei. Verificaremos a sua solicitação pedindo que você envie a solicitação do endereço de e-mail associado à sua conta ou exigindo que você forneça as informações necessárias para verificar sua conta. [Observeque você pode usar a autenticação de dois fatores com sua conta do GitHub.](/pt/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication)
-Por fim, você tem o direito de receber o aviso de nossas práticas durante ou antes da coleta de informações pessoais.
+Você pode designar, por escrito ou por meio de advogado, um agente autorizado a fazer pedidos em seu nome para exercer seus direitos nos termos do CCPA. Antes de aceitar tal solicitação de um agente, exigimos que o agente forneça a prova que o autorizou a agir em seu nome, e talvez seja necessário que você verifique sua identidade diretamente conosco. Além disso, para fornecer ou excluir informações pessoais específicas, precisaremos verificar sua identidade de acordo com o grau de certeza exigido pela lei. Verificaremos a sua solicitação pedindo que você envie a solicitação do endereço de e-mail associado à sua conta ou exigindo que você forneça as informações necessárias para verificar sua conta. [Please note that you may use two-factor authentication with your GitHub account](/pt/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication).
+Finally, you have a right to receive notice of our practices at or before collection of personal information.
 
 Additionally, under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. Tenha em mente que não divulgamos informações pessoais a terceiros para fins de marketing direto, conforme definido nesta lei. California Customers may request further information about our compliance with this law by emailing **(privacy [at] github [dot] com)**. Observe que as empresas são obrigadas a responder a uma solicitação por cliente da Califórnia todos os anos e que talvez não seja necessário responder às solicitações por outros meios, além do endereço de e-mail designado.
 

@@ -4,7 +4,7 @@ Termos do GitHub para Produtos e Funcionalidades Adicionais - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Termos do GitHub para Produtos e Funcionalidades Adicionais
 ==========
@@ -12,32 +12,46 @@ Termos do GitHub para Produtos e Funcionalidades Adicionais
 [Neste artigo](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
+*
 * [Actions](#actions)
 
+*
 * [Segurança Avançada](#advanced-security)
 
+*
 * [Banco de Dados Consultivo](#advisory-database)
 
+*
 * [Codespaces](#codespaces)
 
+*
 * [Connect](#connect)
 
+*
 * [GitHub Copilot](#github-copilot)
 
+*
 * [Importador do GitHub Enterprise](#github-enterprise-importer)
 
+*
 * [Learning Lab](#learning-lab)
 
+*
 * [npm](#npm)
 
+*
 * [Packages](#packages)
 
+*
 * [Pages](#pages)
 
+*
 * [Visualização](#previews)
 
+*
 * [Programa Sponsors](#sponsors-program)
 
+*
 * [Imagens do servidor SQL](#sql-server-images)
 
 Data de vigência da versão: 10 de agosto de 2021

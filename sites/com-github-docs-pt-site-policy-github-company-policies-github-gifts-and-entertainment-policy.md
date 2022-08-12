@@ -4,7 +4,7 @@ Política de presentes e entretenimento do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Política de presentes e entretenimento do GitHub
 ==========
@@ -12,14 +12,19 @@ Política de presentes e entretenimento do GitHub
 [Neste artigo](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
 ----------
 
+*
 * [Políticas da empresa](#company-policies)
 
+*
 * [Exemplos de presentes aceitáveis e inaceitáveis](#examples-of-acceptable-and-unacceptable-gifts)
 
+*
 * [Processo](#process)
 
+*
 * [Consequências](#consequences)
 
+*
 * [Mais informações](#more-information)
 
 O GitHub reconhece que nosso negócio é construído em relacionamentos positivos e transparentes. Embora interações informais e trocas de presentes possam fazer parte do desenvolvimento dessas relações e podem até ser consideradas habituais em alguns países, precisamos garantir que estamos seguindo as leis antissuborno. Temos a obrigação legal de nos comportarmos de forma ética, inclusive não utilizando tais interações para criar uma vantagem especial ou influenciar um negócio.

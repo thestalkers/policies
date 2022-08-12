@@ -4,7 +4,7 @@ Declaração antissuborno do GitHub - GitHub Docs
 
 [](/pt)[GitHub Docs](/pt)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais recentes, acesse a [documentação em inglês](/en). Se houver problemas com a tradução desta página, [entre em contato conosco](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Declaração antissuborno do GitHub
 ==========
@@ -12,10 +12,13 @@ Declaração antissuborno do GitHub
 [Neste artigo](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
+*
 * [Políticas do GitHub proíbem o suborno](#github-policies-prohibiting-bribery)
 
+*
 * [Treinamento para nossos funcionários](#training-for-our-employees)
 
+*
 * [Envolvendo nossos parceiros](#engaging-our-partners)
 
 O GitHub mantém nosso compromisso com as práticas éticas de negócios, proibindo o suborno e a corrupção. Conforme a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são:

@@ -12,44 +12,64 @@ Términos de servicio de GitHub
 [En este artículo](/site-policy/github-terms/github-terms-of-service#in-this-article)
 ----------
 
+*
 * [Resumen](#summary)
 
+*
 * [Términos de servicio de GitHub](#the-github-terms-of-service)
 
+*
 * [A. Definiciones](#a-definitions)
 
+*
 * [B. Términos de la cuenta](#b-account-terms)
 
+*
 * [C. Uso aceptable](#c-acceptable-use)
 
+*
 * [D. Contenido generado por el usuario](#d-user-generated-content)
 
+*
 * [E. Repositorios privados](#e-private-repositories)
 
+*
 * [F. Violación de la propiedad intelectual y la política de DMCA](#f-copyright-infringement-and-dmca-policy)
 
+*
 * [G. Notificación de propiedad intelectual](#g-intellectual-property-notice)
 
+*
 * [H. Términos de la API](#h-api-terms)
 
+*
 * [I. Términos adicionales de los productos de GitHub](#i-github-additional-product-terms)
 
+*
 * [J. Vista previa Beta](#j-beta-previews)
 
+*
 * [K. Pago](#k-payment)
 
+*
 * [L. Cancelación y terminación](#l-cancellation-and-termination)
 
+*
 * [M. Comunicaciones con GitHub](#m-communications-with-github)
 
+*
 * [N. Exención de garantías](#n-disclaimer-of-warranties)
 
+*
 * [O. Limitación de responsabilidad](#o-limitation-of-liability)
 
+*
 * [P. Liberación e indemnización](#p-release-and-indemnification)
 
+*
 * [Q. Modificaciones a estos términos](#q-changes-to-these-terms)
 
+*
 * [R. Varios](#r-miscellaneous)
 
 ¡Gracias por usar GitHub! Estamos felices de que estés aquí. Por favor, lee cuidadosamente estos Términos de Servicio antes de ingresar o usar GitHub. Ya que se trata de un contrato tan importante entre nosotros y nuestros usuarios, intentamos ser muy claros. Para tu comodidad, presentamos estos términos en un breve resumen no vinculante seguido de los términos legales completos.

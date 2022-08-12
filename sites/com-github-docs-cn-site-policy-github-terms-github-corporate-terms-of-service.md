@@ -4,7 +4,7 @@ GitHub 公司服务条款 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 公司服务条款
 ==========
@@ -12,46 +12,67 @@ GitHub 公司服务条款
 [本文内容](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
+*
 * [GitHub 公司服务条款](#github-corporate-terms-of-service)
 
+*
 * [A. 定义](#a-definitions)
 
+*
 * [B. 帐户条款](#b-account-terms)
 
+*
 * [C. 遵守法律；可接受的使用；隐私](#c-compliance-with-laws-acceptable-use-privacy)
 
+*
 * [D. 内容责任；所有权；许可权利](#d-content-responsibility-ownership-license-rights)
 
+*
 * [E. 私有仓库](#e-private-repositories)
 
+*
 * [F. 知识产权通告](#f-intellectual-property-notice)
 
+*
 * [G. GitHub 附加产品条款](#g-github-additional-product-terms)
 
+*
 * [H. 订阅许可](#h-subscription-licenses)
 
+*
 * [I. 附属公司](#i-affiliates)
 
+*
 * [J. 付款](#j-payment)
 
+*
 * [K. 期限；终止；暂停](#k-term-termination-suspension)
 
+*
 * [L. 与 GitHub 的通信](#l-communications-with-github)
 
+*
 * [M. 有限保证；免责声明](#m-limited-warranty-disclaimer)
 
+*
 * [N. 责任限制](#n-limitations-of-liability)
 
+*
 * [O. 索赔抗辩；免责声明。](#o-defense-of-claims-release)
 
+*
 * [P. 保密](#p-confidentiality)
 
+*
 * [Q. 专业服务](#q-professional-services)
 
+*
 * [R. 服务或条款的更改](#r-changes-to-the-service-or-terms)
 
+*
 * [S. 支持](#s-support)
 
+*
 * [T. 其他](#t-miscellaneous)
 
 *这些条款适用于已执行参考公司服务条款的协议的 GitHub.com 客户。 所有其他企业或机构客户将被定向到 [github.com/customer-terms](https://github.com/customer-terms) 以查看当前条款。*

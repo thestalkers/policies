@@ -4,7 +4,7 @@ GitHub Marketplace 开发者协议 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub Marketplace 开发者协议
 ==========
@@ -12,40 +12,58 @@ GitHub Marketplace 开发者协议
 [本文内容](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
 ----------
 
+*
 * [1. 定义](#1definitions)
 
+*
 * [2. 用途和许可授予](#2purpose-and-license-grant)
 
+*
 * [3. 限制和责任](#3restrictions-and-responsibilities)
 
+*
 * [4. 下架](#4takedowns)
 
+*
 * [5. 声明、保证和承诺](#5representations-warranties-and-covenants)
 
+*
 * [6. 定价和付款条款](#6pricing-and-payment-terms)
 
+*
 * [7. 所有权](#7ownership)
 
+*
 * [8. 责任限制](#8limitation-of-liability)
 
+*
 * [9. 保障赔偿](#9indemnification)
 
+*
 * [10. 终止](#10termination)
 
+*
 * [11. 修改](#11modification)
 
+*
 * [12. 转让；完整协议；修订](#12assignment-entire-agreement-revisions)
 
+*
 * [13. 可分割性](#13severability)
 
+*
 * [14. 缔约方关系](#14-relationship-of-the-parties)
 
+*
 * [15. 通知](#15-notice)
 
+*
 * [16. 管辖法律](#16-governing-law)
 
+*
 * [17. 出口限制](#17-export-restrictions)
 
+*
 * [18. 使用数据](#18--usage-data)
 
 **参与 GITHUB 的 MARKETPLACE 计划必须遵守这些条款和条件（以下简称“协议”）。 注册参与 MARKETPLACE 计划或单击下面的“I ACCEPT（我接受）”，即表示您确认自己理解本协议，并接受其所有条款和条件。 如果您代表公司或其他法律实体签订本协议，则表示您拥有让该实体受本协议约束的法律权限，在这种情况下，“您”即表示您所代表的实体。**

@@ -12,40 +12,58 @@ GitHub Marketplace開発者同意書
 [ここには以下の内容があります:](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
 ----------
 
+*
 * [1. 定義](#1definitions)
 
+*
 * [2. 目的およびライセンスの付与](#2purpose-and-license-grant)
 
+*
 * [3. 制限事項と責任](#3restrictions-and-responsibilities)
 
+*
 * [4. テイクダウン](#4takedowns)
 
+*
 * [5. 表明、保証および誓約](#5representations-warranties-and-covenants)
 
+*
 * [6. 価格と支払い条件](#6pricing-and-payment-terms)
 
+*
 * [7. 所有権](#7ownership)
 
+*
 * [8. 責任制限](#8limitation-of-liability)
 
+*
 * [9. 補償](#9indemnification)
 
+*
 * [10. 解約](#10termination)
 
+*
 * [11. 変更](#11modification)
 
+*
 * [12. 譲渡、完全なる同意、改訂](#12assignment-entire-agreement-revisions)
 
+*
 * [13. 分離可能性](#13severability)
 
+*
 * [14. 当事者の関係](#14-relationship-of-the-parties)
 
+*
 * [15. 通知](#15-notice)
 
+*
 * [16. 準拠法](#16-governing-law)
 
+*
 * [17. 輸出制限](#17-export-restrictions)
 
+*
 * [18. 利用状況データ](#18--usage-data)
 
 **以下の規約および条件（「同意書」）は、お客様のGitHubの「Marketplaceプログラム」への参加について規定するものです。 「Marketplaceプログラム」への参加登録を行うか、以下の [同意する] をクリックすることにより、お客様は本「同意書」を理解し、そのすべての規約および条件を受け入れたことを確認したことになります。 お客様が、企業またはその他の法人を代表して契約を締結しようとする場合、お客様は、本契約を締結するためにその法人に義務を負担させる法的権限を持つことを表明するものとし、この場合「お客様」とは、あなたが代表する法人のことを意味します。**

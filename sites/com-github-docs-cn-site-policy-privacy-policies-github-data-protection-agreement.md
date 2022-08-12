@@ -4,7 +4,7 @@ GitHub 数据保护协议 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 数据保护协议
 ==========
@@ -12,18 +12,25 @@ GitHub 数据保护协议
 [本文内容](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
 ----------
 
+*
 * [简介](#introduction)
 
+*
 * [定义](#definitions)
 
+*
 * [一般条款](#general-terms)
 
+*
 * [数据保护](#data-protection)
 
+*
 * [附 件 I](#annex-i)
 
+*
 * [附 件 II](#annex-ii)
 
+*
 * [附录 III](#annex-iii)
 
 [](#introduction)简介

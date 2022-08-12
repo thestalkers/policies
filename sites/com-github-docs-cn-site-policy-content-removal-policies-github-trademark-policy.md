@@ -4,7 +4,7 @@ GitHub 商标政策 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英文文档](/en)。如果此页面上的翻译有问题，请[告诉我们](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub 商标政策
 ==========
@@ -12,14 +12,19 @@ GitHub 商标政策
 [本文内容](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
+*
 * [什么是违反 GitHub 商标政策的行为？](#what-is-a-github-trademark-policy-violation)
 
+*
 * [哪些行为不违反 GitHub 商标政策？](#what-is-not-a-github-trademark-policy-violation)
 
+*
 * [GitHub 如何回应商标政策违规行为举报？](#how-does-github-respond-to-reported-trademark-policy-violations)
 
+*
 * [如何举报违反商标政策的行为？](#how-do-i-report-a-trademark-policy-violation)
 
+*
 * [举报违反商标政策的行为时需要提供哪些信息？](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [](#what-is-a-github-trademark-policy-violation)什么是违反 GitHub 商标政策的行为？

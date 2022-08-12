@@ -12,8 +12,10 @@ GitHubのサブプロセッサとCookie
 [ここには以下の内容があります:](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
 ----------
 
+*
 * [GitHubのサブプロセッサ](#github-subprocessors)
 
+*
 * [GitHubのCookie](#cookies-on-github)
 
 発効日：**2021年4月2日**
