@@ -4,7 +4,7 @@ GitHub Codespaces Privacy Statement - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-ドキュメントには頻繁に更新が加えられ、その都度公開されています。本ページの翻訳はまだ未完成な部分があることをご了承ください。最新の情報については、[英語のドキュメンテーション](/en)をご参照ください。本ページの翻訳に問題がある場合は[こちらまで](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=)ご連絡ください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub Codespaces Privacy Statement
 ==========
