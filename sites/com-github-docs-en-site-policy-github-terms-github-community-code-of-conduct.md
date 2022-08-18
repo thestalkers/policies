@@ -10,22 +10,16 @@ GitHub Community Code of Conduct
 [In this article](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
 ----------
 
-*
 * [Overview and Purpose](#overview-and-purpose)
 
-*
 * [Pledge](#pledge)
 
-*
 * [Standards](#standards)
 
-*
 * [Enforcement](#enforcement)
 
-*
 * [Contacting GitHub Staff](#contacting-github-staff)
 
-*
 * [Legal Notices](#legal-notices)
 
 [](#overview-and-purpose)Overview and Purpose

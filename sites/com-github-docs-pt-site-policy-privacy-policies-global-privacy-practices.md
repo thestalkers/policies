@@ -12,10 +12,8 @@ Práticas de privacidade global
 [Neste artigo](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
-*
 * [Cláusulas Contratuais Padrão](#standard-contractual-clauses)
 
-*
 * [Escudo de Defesa da Privacidade](#privacy-shield-framework)
 
 Data de entrada em vigor: 22 de Julho de 2020

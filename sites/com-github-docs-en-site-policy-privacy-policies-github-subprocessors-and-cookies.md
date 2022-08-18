@@ -10,10 +10,8 @@ GitHub Subprocessors and Cookies
 [In this article](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
 ----------
 
-*
 * [GitHub Subprocessors](#github-subprocessors)
 
-*
 * [Cookies on GitHub](#cookies-on-github)
 
 Effective date: **April 2, 2021**

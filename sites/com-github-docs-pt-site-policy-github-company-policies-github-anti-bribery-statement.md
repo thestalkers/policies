@@ -12,13 +12,10 @@ Declaração antissuborno do GitHub
 [Neste artigo](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
-*
 * [Políticas do GitHub proíbem o suborno](#github-policies-prohibiting-bribery)
 
-*
 * [Treinamento para nossos funcionários](#training-for-our-employees)
 
-*
 * [Envolvendo nossos parceiros](#engaging-our-partners)
 
 O GitHub mantém nosso compromisso com as práticas éticas de negócios, proibindo o suborno e a corrupção. Conforme a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são:

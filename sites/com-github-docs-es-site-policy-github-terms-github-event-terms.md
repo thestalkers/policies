@@ -12,22 +12,16 @@ Términos del evento de GitHub
 [En este artículo](/site-policy/github-terms/github-event-terms#in-this-article)
 ----------
 
-*
 * [1. Requisitos básicos para asistir, incluyendo el Código de conducta del evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
-*
 * [2. Fotos](#2-pictures)
 
-*
 * [3. Riesgo, responsabilidad e indemnización](#3-risk-liability-and-indemnity)
 
-*
 * [4. Terminación](#4-termination)
 
-*
 * [5. Elección de la ley y lugar de residencia](#5-choice-of-law-and-venue)
 
-*
 * [6. Términos varios](#6-miscellaneous-terms)
 
 Al confirmar su asistencia o asistiendo a un evento de GitHub, incluyendo cualquiera de los eventos o actividades organizadas por GitHub en asociación con el evento de GitHub (en conjunto, el "Evento"), señalas que has leído, comprendes y aceptas los siguientes términos y condiciones del evento.

@@ -12,34 +12,24 @@ Termos de serviço do GitHub Marketplace
 [Neste artigo](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
 ----------
 
-*
 * [A. Termos de serviço do GitHub.com](#a-githubcoms-terms-of-service)
 
-*
 * [B. Requisitos de Uso](#b-use-requirements)
 
-*
 * [C. Produtos de desenvolvedores e Fornecedores de produtos](#c-developer-products-and-product-providers)
 
-*
 * [D. Pagamento, Cronograma de Faturamento e Cancelamento](#d-payment-billing-schedule-and-cancellation)
 
-*
 * [E. Seus Dados e a Política de Privacidade do GitHub](#e-your-data-and-githubs-privacy-policy)
 
-*
 * [F. Direitos para os Produtos de Desenvolvedor](#f-rights-to-developer-products)
 
-*
 * [G. Atualizações para os Produtos de Desenvolvedor](#g-updates-to-developer-products)
 
-*
 * [H. Bloqueio de Produtos do Desenvolvedor](#h-developer-product-blocking)
 
-*
 * [I. Isenção de responsabilidade; Limitação de Responsabilidade; Lançamento e Indenização](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 
-*
 * [J. Outros](#j-miscellanea)
 
 Bem-vindo ao GitHub Marketplace ("Marketplace")! Estamos felizes por você estar aqui. Por favor, leia estes Termos de Serviço ("Termos do Marketplace") com cuidado antes de acessar ou usar o GitHub Marketplace. GitHub Marketplace é uma plataforma que permite que você selecione apps de desenvolvedores ou ações (gratuitamente ou mediante pagamento de uma taxa) que podem ser usados com sua conta GitHub.com ("Produtos de Desenvolvedor"). Embora oferecido pelo GitHub, Inc. ("GitHub", "nós", "nosso"), Produtos de Desenvolvedor podem ser desenvolvidos e mantidos pelo GitHub ou por provedores de software de terceiros. Sua seleção ou uso de Produtos para Desenvolvedores está sujeito a estes Termos do Marketplace e a quaisquer taxas aplicáveis, e pode exigir que você concorde com termos adicionais, conforme fornecido pelo licenciador de terceiros daquele Produto do Desenvolvedor (o "Fornecedor do Produto").

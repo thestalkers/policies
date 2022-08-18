@@ -12,19 +12,14 @@ Pautas de la comunidad GitHub
 [En este artículo](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
-*
 * [Mantener una comunidad fuerte](#maintaining-a-strong-community)
 
-*
 * [¿Qué pasa si algo o alguien te ofende?](#what-if-something-or-someone-offends-you)
 
-*
 * [¿Qué pasa si alguien viola las políticas de GitHub?](#what-happens-if-someone-violates-githubs-policies)
 
-*
 * [Apelación y reinstauración](#appeal-and-reinstatement)
 
-*
 * [Avisos legales](#legal-notices)
 
 Millones de desarrolladores en todo el mundo hospedan millones de proyectos, tanto de código propietario como de código libre, en GitHub. Somo afortunados de poder tomar parte en habilitar la colaboración a lo largo de la comunidad de desarrolladores cada día, lo cual es una responsabilidad que no nos tomamos a la ligera. Juntos, tenemos la emocionante oportunidad de hacer de esta una comunidad de la cual podamos estar orgullosos.

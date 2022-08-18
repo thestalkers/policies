@@ -12,16 +12,12 @@ GitHub 申诉和恢复
 [本文内容](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
-*
 * [申诉和恢复](#appeal-and-reinstatement)
 
-*
 * [什么是申诉和恢复？](#what-are-appeals-and-reinstatements)
 
-*
 * [运作方式](#how-this-works)
 
-*
 * [透明](#transparency)
 
 [](#appeal-and-reinstatement)申诉和恢复

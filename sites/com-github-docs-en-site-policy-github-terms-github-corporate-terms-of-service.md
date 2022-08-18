@@ -10,67 +10,46 @@ GitHub Corporate Terms of Service
 [In this article](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
 ----------
 
-*
 * [GitHub Corporate Terms of Service](#github-corporate-terms-of-service)
 
-*
 * [A. Definitions](#a-definitions)
 
-*
 * [B. Account Terms](#b-account-terms)
 
-*
 * [C. Compliance with Laws; Acceptable Use; Privacy](#c-compliance-with-laws-acceptable-use-privacy)
 
-*
 * [D. Content Responsibility; Ownership; License Rights](#d-content-responsibility-ownership-license-rights)
 
-*
 * [E. Private Repositories](#e-private-repositories)
 
-*
 * [F. Intellectual Property Notice](#f-intellectual-property-notice)
 
-*
 * [G. GitHub Additional Product Terms](#g-github-additional-product-terms)
 
-*
 * [H. Subscription Licenses](#h-subscription-licenses)
 
-*
 * [I. Affiliates](#i-affiliates)
 
-*
 * [J. Payment](#j-payment)
 
-*
 * [K. Term; Termination; Suspension](#k-term-termination-suspension)
 
-*
 * [L. Communications with GitHub](#l-communications-with-github)
 
-*
 * [M. Limited Warranty; Disclaimer](#m-limited-warranty-disclaimer)
 
-*
 * [N. Limitations of Liability](#n-limitations-of-liability)
 
-*
 * [O. Defense of Claims; Release](#o-defense-of-claims-release)
 
-*
 * [P. Confidentiality](#p-confidentiality)
 
-*
 * [Q. Professional Services](#q-professional-services)
 
-*
 * [R. Changes to the Service or Terms](#r-changes-to-the-service-or-terms)
 
-*
 * [S. Support](#s-support)
 
-*
 * [T. Miscellaneous](#t-miscellaneous)
 
 *These terms apply to GitHub.com customers who have executed agreements in place referencing the Corporate Terms of Service. All other business or institution customers are directed to [github.com/customer-terms](https://github.com/customer-terms) for current terms.*

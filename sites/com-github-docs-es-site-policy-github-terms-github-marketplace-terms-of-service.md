@@ -12,34 +12,24 @@ Términos de servicio de Mercado GitHub
 [En este artículo](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
 ----------
 
-*
 * [A. Términos de servicio de GitHub.com](#a-githubcoms-terms-of-service)
 
-*
 * [B. Requisitos de uso](#b-use-requirements)
 
-*
 * [C. Productos de Programador y Proveedores de Productos](#c-developer-products-and-product-providers)
 
-*
 * [D. Pago, calendario de facturación y cancelación](#d-payment-billing-schedule-and-cancellation)
 
-*
 * [E. Tus datos y la política de privacidad de GitHub](#e-your-data-and-githubs-privacy-policy)
 
-*
 * [F. Derechos a Productos de Programador](#f-rights-to-developer-products)
 
-*
 * [G. Actualizaciones a Productos de Programador](#g-updates-to-developer-products)
 
-*
 * [H. Bloqueo de Productos de Programador](#h-developer-product-blocking)
 
-*
 * [I. Descargo de responsabilidad; Limitación de responsabilidad; Liberación e indemnización](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 
-*
 * [J. Varios](#j-miscellanea)
 
 ¡Bienvenido a Mercado GitHub ("Mercado")! Estamos felices de que estés aquí. Por favor, lee cuidadosamente estos Términos de Servicio ("Términos del Mercado") antes de ingresar o usar Mercado GitHub. Mercado GitHub es una plataforma que te permite seleccionar aplicaciones o acciones del programador (de forma gratuita o con cobro) que se puede usar con tu cuenta de GitHub.com ("productos del programador"). Aunque GitHub, Inc. ("GitHub", "nosotros") lo ofrece, GitHub puede desarrollar y mantener productos del programador o los proveedores de software de terceros. Tu selección o uso de los productos del programador están sujetos a los presentes términos del mercado y a cualquier tarifa aplicable, y puede solicitarte que ingreses a los términos adicionales proporcionados por el licenciante externo de ese producto de programador (el "proveedor del producto").

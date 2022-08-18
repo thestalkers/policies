@@ -12,16 +12,12 @@ GitHub 漏洞悬赏计划法律安全港
 [本文内容](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
-*
 * [摘要](#summary)
 
-*
 * [1. 安全港条款](#1-safe-harbor-terms)
 
-*
 * [2. 第三方安全港](#2-third-party-safe-harbor)
 
-*
 * [3. 其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)摘要

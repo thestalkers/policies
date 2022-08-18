@@ -12,13 +12,10 @@ We publish frequent updates to our documentation, and translation of this page m
 [ここには以下の内容があります:](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
-*
 * [贈収賄を禁止するGitHubのポリシー](#github-policies-prohibiting-bribery)
 
-*
 * [従業員向け研修](#training-for-our-employees)
 
-*
 * [バートナーとの連携](#engaging-our-partners)
 
 GitHubは、贈収賄の禁止を含む、倫理的な商慣行を誓約しています。 [トランスペアレンシー・インターナショナル](https://www.transparency.org/what-is-corruption#costs-of-corruption)が説明するように、贈収賄は以下のような問題を引き起こします。

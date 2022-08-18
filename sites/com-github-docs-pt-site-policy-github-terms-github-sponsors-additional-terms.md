@@ -12,25 +12,18 @@ Termos Adicionais do GitHub Sponsors
 [Neste artigo](/site-policy/github-terms/github-sponsors-additional-terms#in-this-article)
 ----------
 
-*
 * [1. Definições.](#1-definitions)
 
-*
 * [2. Uso Aceitável.](#2-acceptable-use)
 
-*
 * [3. Obrigações do Desenvolvedor Patrocinado.](#3-sponsored-developer-obligations)
 
-*
 * [4. Termos Financeiros.](#4-financial-terms)
 
-*
 * [5. Representações e garantias; Limitação de Responsabilidade; Indenização.](#5-representations-and-warranties-limitation-of-liability-indemnification)
 
-*
 * [6. Vigência e Rescisão.](#6-term-and-termination)
 
-*
 * [7. Disposições Gerais.](#7-miscellaneous)
 
 Sua participação no Programa GitHub Sponsors (o "Programa") está sujeita aos [Termos de Serviço do GitHub](/pt/github/site-policy/github-terms-of-service) (o "Contrato"), assim como aos seguintes termos adicionais ("Termos Adicionais"). Qualquer uso do Programa GitHub Sponsors que viole o Acordo também será uma violação destes Termos Adicionais. Quaisquer termos que iniciem em letra maiúscula, mas que não estejam definidos abaixo, têm os significados no Contrato. Esses Termos Adicionais para o Programa GitHub Sponsors descrevem a relação entre o GitHub e você, "Desenvolvedor Patrocinado", no Programa. Os Termos Adicionais têm efeito a partir da data que você os aceita ("Início da Vigência").

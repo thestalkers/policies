@@ -12,13 +12,10 @@ Enviar solicitudes de eliminación de contenido
 [En este artículo](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
 ----------
 
-*
 * [Política de retiro de DMCA](#dmca-takedown-policy)
 
-*
 * [Política de marca registrada de GitHub](#github-trademark-policy)
 
-*
 * [Política de Eliminación de Información Privada de GitHub](#github-private-information-removal-policy)
 
 Entendemos que el contenido privado, con derechos de autor o con derechos comerciales podría publicarse en GitHub - ya sea accidentalmente o a propósito - algunas veces en los repositorios que no te pertenecen. Debido a que la naturaleza de este contenido varía y debido a las diferentes leyes aplicables, cada categoría tiene sus propios requisitos de presentación de informes definidos en nuestras políticas.

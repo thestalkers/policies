@@ -12,10 +12,8 @@ GitHub e controles de negociação
 [Neste artigo](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
 ----------
 
-*
 * [Visão geral da exportação](#export-overview)
 
-*
 * [Perguntas frequentes](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server, e as informações que você enviar para qualquer produto podem estar sujeitas a regulamentações de controle de negociação, inclusive sob Regulamentos da Administração de Exportação dos EUA (EAR). Regulamentos Administrativos de Exportação (EAR).

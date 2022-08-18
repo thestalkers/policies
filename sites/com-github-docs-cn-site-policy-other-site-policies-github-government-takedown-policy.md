@@ -12,25 +12,18 @@ GitHub 政府删除政策
 [本文内容](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
 ----------
 
-*
 * [这是什么？](#what-is-this)
 
-*
 * [什么是完整的政府删除请求？](#what-is-a-complete-government-takedown-request)
 
-*
 * [当我们收到政府提出的完整请求时，会发生什么？](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 
-*
 * [我们为什么公开发布删除通知？](#why-do-we-publicly-post-takedown-notices)
 
-*
 * [如果我们在 gov-takedown 仓库中发布通知，它意味着什么？](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-*
 * [基于违反 GitHub 服务条款的政府删除](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
-*
 * [透明度报告](#transparency-reporting)
 
 [](#what-is-this)这是什么？

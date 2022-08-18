@@ -12,22 +12,16 @@ Política de Privacidad de Candidatos de GitHub
 [En este artículo](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
 ----------
 
-*
 * [¿Qué tipo de información personal de candidatos recolectamos?](#what-candidate-personal-information-do-we-collect)
 
-*
 * [¿Cómo utilizamos la Información Personal de Candidatos que recolectamos?](#how-do-we-use-the-candidate-personal-information-we-collect)
 
-*
 * [¿Cómo compartimos tu Información Personal de Candidato?](#how-do-we-share-your-candidate-personal-information)
 
-*
 * [Tus derechos sobre tu Información Personal de Candidato](#your-rights-to-your-candidate-personal-information)
 
-*
 * [¿Por cuánto tiempo retenemos tu Información Personal de Candidato?](#how-long-do-we-retain-your-candidate-personal-information)
 
-*
 * [Cambios a esta política](#changes-to-this-policy)
 
 Fecha de entrada en vigor: 8 de marzo de 2021

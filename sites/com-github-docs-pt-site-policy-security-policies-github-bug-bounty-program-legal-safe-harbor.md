@@ -12,16 +12,12 @@ Programa de recompensa de erros e declaração Safe Harbor do GitHub
 [Neste artigo](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
 ----------
 
-*
 * [Sumário](#summary)
 
-*
 * [1. Termos de Porto Seguro](#1-safe-harbor-terms)
 
-*
 * [2. Porto Seguro de Terceiros](#2-third-party-safe-harbor)
 
-*
 * [3. Renúncia limitada a outras políticas do site](#3-limited-waiver-of-other-site-polices)
 
 [](#summary)Sumário

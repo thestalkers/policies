@@ -12,34 +12,24 @@ DMCA 删除政策
 [本文内容](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
 ----------
 
-*
 * [什么是 DMCA？](#what-is-the-dmca)
 
-*
 * [DMCA 通知概述](#dmca-notices-in-a-nutshell)
 
-*
 * [A. 此流程实际上是如何运作的？](#a-how-does-this-actually-work)
 
-*
 * [B. 复刻呢？ （或如何处理复刻？）](#b-what-about-forks-or-whats-a-fork)
 
-*
 * [C. 规避索赔呢？](#c-what-about-circumvention-claims)
 
-*
 * [D. 如果我无意中错过了更改时限怎么办？](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 
-*
 * [E. 透明](#e-transparency)
 
-*
 * [F. 屡次侵权](#f-repeated-infringement)
 
-*
 * [G. 提交通知](#g-submitting-notices)
 
-*
 * [深入了解并发表意见](#learn-more-and-speak-up)
 
 欢迎阅读 GitHub 的《千禧年数字版权法案》（通常称为 "DMCA"）指南。 本页面并非该法案的综合入门读物。 但是，如果您收到针对您在 GitHub 上所发布内容的 DMCA 删除通知，或者您是要发出此类通知的权利持有者，此页面将有助于您了解该法案以及我们遵守该法案的政策。

@@ -10,16 +10,12 @@ GitHub Appeal and Reinstatement
 [In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
-*
 * [Appeal and Reinstatement](#appeal-and-reinstatement)
 
-*
 * [What are appeals and reinstatements?](#what-are-appeals-and-reinstatements)
 
-*
 * [How this works](#how-this-works)
 
-*
 * [Transparency](#transparency)
 
 [](#appeal-and-reinstatement)Appeal and Reinstatement

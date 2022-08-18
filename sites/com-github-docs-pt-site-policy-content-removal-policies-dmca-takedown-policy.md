@@ -12,34 +12,24 @@ Política de retirada DMCA
 [Neste artigo](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
 ----------
 
-*
 * [O que é DMCA?](#what-is-the-dmca)
 
-*
 * [Avisos DMCA em poucas palavras](#dmca-notices-in-a-nutshell)
 
-*
 * [A. Como realmente funciona?](#a-how-does-this-actually-work)
 
-*
 * [B. O que significa Bifurcação? (ou O que é uma Bifurcação?)](#b-what-about-forks-or-whats-a-fork)
 
-*
 * [C. E quanto às reivindicações da circunvenção?](#c-what-about-circumvention-claims)
 
-*
 * [D. E se eu, inadvertidamente, deixar passar o período para fazer as alterações?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 
-*
 * [E. Transparência](#e-transparency)
 
-*
 * [F. Violação recorrente](#f-repeated-infringement)
 
-*
 * [G. Enviando avisos](#g-submitting-notices)
 
-*
 * [Saiba Mais e Fale Mais](#learn-more-and-speak-up)
 
 Bem-vindo ao Guia do GitHub para a Lei dos Direitos Autorais do Milênio Digital, comumente conhecida como "DMCA" - Digital Millenium Copyright Act Policy. Esta página não tem a finalidade de ser uma cartilha abrangente sobre o regimento. No entanto, se você recebeu um aviso de retirada DMCA direcionado ao conteúdo que você postou no GitHub, ou se você é um detentor de direitos que pretende enviar tal aviso, esta página vai ajudá-lo a desmistificar a lei, bem como nossas políticas relacionadas.

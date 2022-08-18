@@ -10,22 +10,16 @@ GitHub Data Protection Agreement
 [In this article](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
 ----------
 
-*
 * [Introduction](#introduction)
 
-*
 * [Definitions](#definitions)
 
-*
 * [Data Protection](#data-protection)
 
-*
 * [ANNEX I](#annex-i)
 
-*
 * [ANNEX II](#annex-ii)
 
-*
 * [ANNEX III](#annex-iii)
 
 [](#introduction)Introduction

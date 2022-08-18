@@ -10,16 +10,12 @@ Guide to Submitting a DMCA Takedown Notice
 [In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
 ----------
 
-*
 * [Before You Start](#before-you-start)
 
-*
 * [Your Complaint Must ...](#your-complaint-must-)
 
-*
 * [Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
 
-*
 * [How to Submit Your Complaint](#how-to-submit-your-complaint)
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/en/articles/dmca-takedown-policy).

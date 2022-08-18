@@ -12,10 +12,8 @@ Subprocessadores e cookies do GitHub
 [Neste artigo](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
 ----------
 
-*
 * [Subprocessadores GitHub](#github-subprocessors)
 
-*
 * [Cookies no GitHub](#cookies-on-github)
 
 Data de entrada em vigor: **2 de abril de 2021**

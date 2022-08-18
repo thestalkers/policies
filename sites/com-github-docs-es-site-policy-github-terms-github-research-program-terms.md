@@ -12,28 +12,20 @@ Términos del programa de investigación de GitHub
 [En este artículo](/site-policy/github-terms/github-research-program-terms#in-this-article)
 ----------
 
-*
 * [A. Tu retroalimentación](#a-your-feedback)
 
-*
 * [B. Confidencialidad](#b-confidentiality)
 
-*
 * [C. Salvaguarda de derechos](#c-reservation-of-rights)
 
-*
 * [D. Privacidad](#d-privacy)
 
-*
 * [E. Términos del software y los servicios de GitHub](#e-github-services-and-software-terms)
 
-*
 * [F. Exención de garantías](#f-disclaimer-of-warranties)
 
-*
 * [G. Limitación de responsabilidad](#g-limitation-of-liability)
 
-*
 * [H. Varios](#h-miscellaneous)
 
 ¡Bienvenido al programa de investigación de GitHub (el "Programa")! Para participar, necesitaremos que accedas a un conjunto especial de términos, el acuerdo del programa de investigación de GitHub ("Acuerdo").

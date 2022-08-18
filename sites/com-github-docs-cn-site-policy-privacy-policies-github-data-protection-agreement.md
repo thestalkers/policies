@@ -12,25 +12,18 @@ GitHub 数据保护协议
 [本文内容](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
 ----------
 
-*
 * [简介](#introduction)
 
-*
 * [定义](#definitions)
 
-*
 * [一般条款](#general-terms)
 
-*
 * [数据保护](#data-protection)
 
-*
 * [附 件 I](#annex-i)
 
-*
 * [附 件 II](#annex-ii)
 
-*
 * [附录 III](#annex-iii)
 
 [](#introduction)简介

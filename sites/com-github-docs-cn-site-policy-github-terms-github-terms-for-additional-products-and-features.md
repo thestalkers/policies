@@ -12,46 +12,32 @@ GitHub 其他产品和功能条款
 [本文内容](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
 ----------
 
-*
 * [Actions](#actions)
 
-*
 * [Advanced Security](#advanced-security)
 
-*
 * [Advisory Database](#advisory-database)
 
-*
 * [Codespaces](#codespaces)
 
-*
 * [Connect](#connect)
 
-*
 * [GitHub Copilot](#github-copilot)
 
-*
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 
-*
 * [Learning Lab](#learning-lab)
 
-*
 * [npm](#npm)
 
-*
 * [Packages](#packages)
 
-*
 * [页面](#pages)
 
-*
 * [预览版](#previews)
 
-*
 * [赞助计划](#sponsors-program)
 
-*
 * [SQL Server 映像](#sql-server-images)
 
 版本生效日期：2021 年 8 月 10 日

@@ -12,19 +12,14 @@ Diretrizes da comunidade do GitHub
 [Neste artigo](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
-*
 * [Mantendo uma comunidade forte](#maintaining-a-strong-community)
 
-*
 * [E se algo ou alguém ofender você?](#what-if-something-or-someone-offends-you)
 
-*
 * [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
 
-*
 * [Apelação e reinstauração](#appeal-and-reinstatement)
 
-*
 * [Avisos Legais](#legal-notices)
 
 Milhões de desenvolvedores em todo o mundo hospedam milhões de projetos, tanto de código aberto como de código fechado, no GitHub. Nós temos sorte de poder participar da colaboração em toda a comunidade de desenvolvedores todos os dias que é uma responsabilidade que não aceitamos de de forma leviana. Juntos, todos nós temos a oportunidade interessante de fazer desta uma comunidade de que nos podemos orgulhar.

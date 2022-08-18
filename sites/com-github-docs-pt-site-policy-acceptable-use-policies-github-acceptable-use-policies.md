@@ -12,37 +12,26 @@ Políticas de uso aceitável do GitHub
 [Neste artigo](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
 ----------
 
-*
 * [1. Cumprimento de leis e regulamentos](#1-compliance-with-laws-and-regulations)
 
-*
 * [2. Segurança do Usuário](#2-user-safety)
 
-*
 * [3. Propriedade intelectual, Autenticidade e Informações Privadas](#3-intellectual-property-authenticity-and-private-information)
 
-*
 * [4. Spam e Atividade Inautêntica no GitHub](#4-spam-and-inauthentic-activity-on-github)
 
-*
 * [5. Acesso ao Site e Segurança](#5-site-access-and-safety)
 
-*
 * [6. Limites de uso dos serviços](#6-services-usage-limits)
 
-*
 * [7. Restrições de uso de informações](#7-information-usage-restrictions)
 
-*
 * [8. Privacidade](#8-privacy)
 
-*
 * [9. Uso excessivo da largura de banda](#9-excessive-bandwidth-use)
 
-*
 * [10. Publicidade no GitHub](#10-advertising-on-github)
 
-*
 * [11. Proteção do usuário](#11-user-protection)
 
 **Versão curta:** *hospedamos uma ampla variedade de projetos colaborativos de todo o mundo, e essa colaboração só funciona quando todos os nossos usuários conseguem trabalhar juntos de boa fé. Ao usar o Serviço, você deve cumprir nossas Políticas de Uso Aceitável, que incluem algumas restrições ao conteúdo e conduta no GitHub relacionadas à segurança dos usuários, propriedade intelectual, privacidade, autenticidade e outras limitações. Em resumo, sejam excelentes uns com os outros.*

@@ -12,19 +12,14 @@ GitHubコミュニティガイドライン
 [ここには以下の内容があります:](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
-*
 * [Maintaining a strong community](#maintaining-a-strong-community)
 
-*
 * [嫌な思いをしたら](#what-if-something-or-someone-offends-you)
 
-*
 * [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
 
-*
 * [意義申し立てと復帰](#appeal-and-reinstatement)
 
-*
 * [法的通知](#legal-notices)
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.

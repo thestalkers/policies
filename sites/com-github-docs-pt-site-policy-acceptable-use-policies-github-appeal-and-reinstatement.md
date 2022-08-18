@@ -12,16 +12,12 @@ Recurso e Reposição do GitHub
 [Neste artigo](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
-*
 * [Apelação e reinstauração](#appeal-and-reinstatement)
 
-*
 * [O que são recursos e restabelecimentos?](#what-are-appeals-and-reinstatements)
 
-*
 * [Como funciona](#how-this-works)
 
-*
 * [Transparência](#transparency)
 
 [](#appeal-and-reinstatement)Apelação e reinstauração

@@ -12,25 +12,18 @@ GitHub Sponsors に関する追加条項
 [ここには以下の内容があります:](/site-policy/github-terms/github-sponsors-additional-terms#in-this-article)
 ----------
 
-*
 * [1. 定義](#1-definitions)
 
-*
 * [2. 利用規定](#2-acceptable-use)
 
-*
 * [3. スポンサード開発者の義務](#3-sponsored-developer-obligations)
 
-*
 * [4. 金銭的条件](#4-financial-terms)
 
-*
 * [5. 表明および保証、責任の制限、賠償](#5-representations-and-warranties-limitation-of-liability-indemnification)
 
-*
 * [6. 契約期間および解約](#6-term-and-termination)
 
-*
 * [7. 雑則](#7-miscellaneous)
 
 「GitHub Sponsors プログラム」 (以下「プログラム」) への参加にあたっては、[GitHub 利用規約](/ja/github/site-policy/github-terms-of-service) (以下「契約」) および以下の追加条項 (以下「追加条項」) に従うものとします。 本契約に違反する GitHub Sponsors プログラムの使用は、本追加条項の違反にもなります。 かぎ括弧に括られた用語のうち、以下に定義されていないものについては、本契約に記された意味を持つものとします。 「GitHub Sponsors」プログラムの「追加条項」は、GitHub と、本プログラムにおいて「スポンサード開発者」となるあなたとの関係について記述しています。 追加条項は、あなたがこれに同意した日 (「発効日」) から発効します。

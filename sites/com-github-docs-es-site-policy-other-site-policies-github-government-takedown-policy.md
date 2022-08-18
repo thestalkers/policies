@@ -12,25 +12,18 @@ Política de retiro gubernamental de GitHub
 [En este artículo](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
 ----------
 
-*
 * [¿Qué es esto?](#what-is-this)
 
-*
 * [¿Qué es una solicitud completa de retiro del gobierno?](#what-is-a-complete-government-takedown-request)
 
-*
 * [¿Qué ocurre cuando recibimos una solicitud de retiro completa de un gobierno?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 
-*
 * [¿Por qué publicamos avisos de retiro?](#why-do-we-publicly-post-takedown-notices)
 
-*
 * [¿Qué significa que publiquemos una notificación en nuestro repositorio de retiro del gobierno?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-*
 * [Retiros de gobierno con base en las violaciones de los Términos de Servicio de GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
-*
 * [Reportes de transparencia](#transparency-reporting)
 
 [](#what-is-this)¿Qué es esto?

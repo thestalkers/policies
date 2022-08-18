@@ -12,10 +12,8 @@ We publish frequent updates to our documentation, and translation of this page m
 [本文内容](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
-*
 * [标准合同条款](#standard-contractual-clauses)
 
-*
 * [隐私盾框架](#privacy-shield-framework)
 
 生效日期：2020 年 7 月 22 日。

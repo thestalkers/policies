@@ -12,25 +12,18 @@ Contrato de Proteção de Dados do GitHub
 [Neste artigo](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
 ----------
 
-*
 * [Introdução](#introduction)
 
-*
 * [Definições](#definitions)
 
-*
 * [Termos gerais](#general-terms)
 
-*
 * [Proteção de dados](#data-protection)
 
-*
 * [ANEXO I](#annex-i)
 
-*
 * [ANEXO II](#annex-ii)
 
-*
 * [ANEXO III](#annex-iii)
 
 [](#introduction)Introdução

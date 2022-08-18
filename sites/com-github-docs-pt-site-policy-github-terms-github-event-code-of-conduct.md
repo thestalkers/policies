@@ -12,10 +12,8 @@ Código de conduta de eventos do GitHub
 [Neste artigo](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
 ----------
 
-*
 * [Código de Conduta](#code-of-conduct)
 
-*
 * [Crédito](#credit)
 
 Eventos do GitHub são eventos da comunidade destinados a networking e colaboração na comunidade tecnológica.

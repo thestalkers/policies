@@ -12,55 +12,38 @@ GitHub 隐私声明
 [本文内容](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
 ----------
 
-*
 * [精简版](#the-short-version)
 
-*
 * [摘要](#summary)
 
-*
 * [GitHub 隐私声明](#github-privacy-statement)
 
-*
 * [谁负责处理您的信息?](#who-is-responsible-for-the-processing-of-your-information)
 
-*
 * [GitHub 代表您行事](#github-acting-on-your-behalf)
 
-*
 * [GitHub 收集哪些信息](#what-information-github-collects)
 
-*
 * [GitHub 如何使用您的信息](#how-github-uses-your-information)
 
-*
 * [我们如何分享所收集的信息](#how-we-share-the-information-we-collect)
 
-*
 * [您对我们处理您的个人数据的选择](#your-choices-regarding-our-processing-of-your-personal-data)
 
-*
 * [我们对 Cookie 和跟踪技术的使用](#our-use-of-cookies-and-tracking-technologies)
 
-*
 * [个人数据的保留](#retention-of-personal-data)
 
-*
 * [GitHub 如何保护您的信息](#how-github-secures-your-information)
 
-*
 * [隐私声明的变更](#changes-to-our-privacy-statement)
 
-*
 * [许可](#license)
 
-*
 * [联系 GitHub](#contacting-github)
 
-*
 * [翻译](#translations)
 
-*
 * [GitHub 对加州居民的声明](#githubs-notice-to-california-residents)
 
 生效日期：2022 年 5 月 31 日
