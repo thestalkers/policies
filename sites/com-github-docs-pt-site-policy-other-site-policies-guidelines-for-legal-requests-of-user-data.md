@@ -215,7 +215,7 @@ c/o Corporation Service Company
 
 ```
 
-Courtesy copies may be emailed to [legal-support@github.com](mailto:legal-support@github.com)
+Cópias de cortesia podem ser enviadas para [legal-support@github.com](mailto:legal-support@github.com)
 
 Por favor, faça suas solicitações da forma mais específica e breve quanto for possível, incluindo as seguintes informações:
 
