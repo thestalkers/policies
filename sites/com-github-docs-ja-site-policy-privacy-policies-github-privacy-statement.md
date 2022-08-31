@@ -32,17 +32,17 @@ GitHubのプライバシーについての声明
 
 * [Our use of cookies and tracking technologies](#our-use-of-cookies-and-tracking-technologies)
 
-* [Retention of personal data](#retention-of-personal-data)
+* [Retention of personal data](#how-do-we-and-our-partners-use-cookies-and-similar-technologies)
 
-* [お客様情報についての当社の保護方法](#how-github-secures-your-information)
+* [お客様情報についての当社の保護方法](#what-are-your-cookie-choices-and-controls)
 
-* [プライバシーステートメントの変更](#changes-to-our-privacy-statement)
+* [プライバシーステートメントの変更](#resolving-complaints)
 
-* [ライセンス](#license)
+* [ライセンス](#dispute-resolution-process)
 
-* [GitHubへの連絡](#contacting-github)
+* [GitHubへの連絡](#changes-to-our-privacy-statement)
 
-* [翻訳](#translations)
+* [翻訳](#license)
 
 * [GitHub's notice to California residents](#githubs-notice-to-california-residents)
 
@@ -274,16 +274,16 @@ GitHub uses cookies to provide, secure and improve our Service or to develop new
 
 Our emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.
 
-### [](#dnt)DNT ###
+### [](#what-are-cookies-and-similar-technologies)DNT ###
 
 「[Do Not Track](https://www.eff.org/issues/do-not-track)」(DNT) とは、オンラインサービスに対して、第三者のトラッキングサービスからお客様のオンライン活動についての特定の種類の情報を収集して共有することを望まない場合に、ブラウザで設定できるプライバシー設定です。 GitHubは、ブラウザのDNTシグナルに応答し、[DNTシグナルへの応答についてのW3C基準](https://www.w3.org/TR/tracking-dnt/)に従います。 トラッキングを望まないことを通知するようブラウザに対して設定したい場合、この通知を有効化する方法について、ブラウザのドキュメントをご確認ください。 [Privacy Badger](https://privacybadger.org/)など、トラッキングをブロックする良いアプリケーションもあります。
 
-[](#retention-of-personal-data)Retention of personal data
+[](#how-do-we-and-our-partners-use-cookies-and-similar-technologies)Retention of personal data
 ----------
 
 We retain personal data for as long as necessary to provide the services and fulfill the transactions you have requested, comply with our legal obligations, resolve disputes, enforce our agreements, and other legitimate and lawful business purposes. Because these needs can vary for different data types in the context of different services, actual retention periods can vary significantly based on criteria such as user expectations or consent, the sensitivity of the data, the availability of automated controls that enable users to delete data, and our legal or contractual obligations. For example, we may retain your personal data for longer periods, where necessary, subject to applicable law, for security purposes.
 
-[](#how-github-secures-your-information)お客様情報についての当社の保護方法
+[](#what-are-your-cookie-choices-and-controls)お客様情報についての当社の保護方法
 ----------
 
 GitHub takes reasonable measures necessary to protect your personal data from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of your personal data. To help us protect personal data, we request that you use a strong password and never share your password with anyone or use the same password with other sites or accounts.
@@ -299,11 +299,11 @@ In addition, if your account has private repositories, you control the access to
 
 Github will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.
 
-### [](#cross-border-data-transfers)クロスボーダーデータトランスファー ###
+### [](#retention-of-personal-data)クロスボーダーデータトランスファー ###
 
 GitHub processes personal data both inside and outside of the United States and relies on legal mechanisms such as Standard Contractual Clauses to lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled “Contacting GitHub” below.
 
-### [](#resolving-complaints)苦情の解決 ###
+### [](#how-github-secures-your-information)苦情の解決 ###
 
 If you have concerns about the way GitHub is handling your personal data, please let us know immediately. 当社はお客様を手助けしたいと考えています。 お客様は、[プライバシー連絡フォーム](https://support.github.com/contact/privacy)に記入することで、当社に連絡できます。 You may also email us directly at **(privacy [at] github [dot] com)** with the subject line "Privacy Concerns." 当社は、遅くとも45日以内に速やかに返信します。
 
@@ -317,35 +317,35 @@ If you have concerns about the way GitHub is handling your personal data, please
 |               米国                |         The Netherlands         |
 |**privacy [at] github [dot] com**|**privacy [at] github [dot] com**|
 
-### [](#dispute-resolution-process)紛争解決プロセス ###
+### [](#cross-border-data-transfers)紛争解決プロセス ###
 
 お客様のユーザ個人情報の当社の取り扱いについてお客様と当社との間に紛争が生起した場合、当社は解決のために最善を尽くします。 さらに、お客様がEU加盟国の住民である場合、現地の監督当局に苦情を申し立てる権利を有します。また、別の[選択肢](/ja/github/site-policy/global-privacy-practices#dispute-resolution-process)がある場合もあります。
 
-[](#changes-to-our-privacy-statement)プライバシーステートメントの変更
+[](#resolving-complaints)プライバシーステートメントの変更
 ----------
 
 ほとんどの変更は軽微ですが、GitHubは、随時、プライバシーステートメントを変更することがあります。 当社は、ホームページに通知を掲載すること、または、GitHubアカウントで指定するプライマリメールアドレスにemailを送信することで、変更が発効する遅くとも30日前にウェブサイト上で、このプライバシーステートメントの重要な変更についてユーザへの通知を提供します。 また、当社は、このポリシーの変更を追跡している[サイトポリシーリポジトリ](https://github.com/github/site-policy/)をアップデートします。 本プライバシーステートメントのその他の変更については、サイトポリシーのリポジトリを[watch](/ja/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)または確認するようユーザにおすすめします。
 
-[](#license)ライセンス
+[](#dispute-resolution-process)ライセンス
 ----------
 
 本プライバシーステートメントは、この[Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)の元でライセンス付与されています。 詳細は、[site-policyリポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
-[](#contacting-github)GitHubへの連絡
+[](#changes-to-our-privacy-statement)GitHubへの連絡
 ----------
 
 GitHubプライバシーステートメントまたは情報処理についてのご質問は、[プライバシー連絡フォーム](https://support.github.com/contact/privacy)をご利用ください。
 
-[](#translations)翻訳
+[](#license)翻訳
 ----------
 
 下記は、本ドキュメントの他言語への翻訳です。 これらのバージョンと英語バージョンとの間に何らかの矛盾、曖昧さ、または、明らかな非一貫性がある場合、英語バージョンを優先的なバージョンとします。
 
-### [](#french)フランス語 ###
+### [](#contacting-github)フランス語 ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
-### [](#other-translations)その他の翻訳 ###
+### [](#translations)その他の翻訳 ###
 
 この声明の他の言語への翻訳については、[https://docs.github.com/](/ja)にアクセスし、[English] のドロップダウンメニューから言語を選択してください。
 
@@ -354,7 +354,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 2018年の[カリフォルニア州消費者プライバシー法](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) (Cal. Civ. Code §1798.100 以降の条文 (改訂された場合はその改訂版)、以下「CCPA」) は、カリフォルニア州住民に自らの個人情報に対する権利と管理権を与えるものです。 GitHub, Inc. (「GitHub」または「当社」) は、CCPA に基づく要件に従い、カリフォルニア州住民 (「お客様」) の個人情報の収集および取り扱いに関して特定の開示を行うため、カリフォルニア州住民に対して本声明を規定します。 これはCCPAに基づき、GitHubがカリフォルニア州住民に限定して付与する消費者のプライバシー権について説明するものです。 個人情報を管理するというCCPAの中核的な権利を、米国の当社全ユーザに拡大したことに関する情報については、当社の「[プライバシーについての声明](/ja/github/site-policy/github-privacy-statement)」を参照してください。
 
-### [](#our-handling-of-personal-information)Our handling of personal information ###
+### [](#other-translations)Our handling of personal information ###
 
 While the table below contains information about the categories of personal information we collect, process, and share, please see the [GitHub Privacy Statement](/ja/github/site-policy/github-privacy-statement) for full details.
 
@@ -371,29 +371,29 @@ While the table below contains information about the categories of personal info
 
 We use the categories of personal information described above for the purposes listed in the [“How GitHub uses your information”](/ja/github/site-policy/github-privacy-statement#how-github-uses-your-information) section of our Privacy Statement. We also disclose the categories of personal information listed above for business purposes. Please see the [“How we share the information we collect”](/ja/github/site-policy/github-privacy-statement#how-we-share-the-information-we-collect) section of our Privacy Statement for additional details.
 
-### [](#we-do-not-sell-your-personal-information)個人情報は販売いたしません ###
+### [](#githubs-notice-to-california-residents)個人情報は販売いたしません ###
 
 CCPAの下では、カリフォルニア州住民の個人情報を他者に販売する企業は、1) 個人情報を他者に販売する前にカリフォルニア州住民に通知する義務があり、2) カリフォルニア州住民に個人情報の販売をオプトアウトする権利を与える義務があります。 GitHub does not sell personal information, including personal information of anyone under 16 years old.
 
-### [](#your-rights-under-the-ccpa)CCPAに基づくあなたの権利 ###
+### [](#our-handling-of-personal-information)CCPAに基づくあなたの権利 ###
 
 CCPAは、カリフォルニア州住民に、個人情報に関する特定の権利を付与します。 この権利に基づく請求を提出するには、[連絡フォーム](https://support.github.com/contact?tags=docs-policy)からご連絡ください。
 
 請求を受領した際、当社はリクエストを行った方が、個人情報の請求対象に関係する住民であるかどうかを検証します。 California residents may exercise their rights themselves or may use an authorized agent, designated in writing or through a power of attorney, to make requests on their behalf. If you use an authorized agent to submit a request, we may require that you provide us additional information demonstrating that the agent is acting on your behalf, and we may need you to verify your identity directly with us. With respect to your personal information, California residents may exercise the rights described below.
 
-#### [](#right-to-know)Right to Know. ####
+#### [](#we-do-not-sell-your-personal-information)Right to Know. ####
 
 You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to know” by contacting us here.
 
-#### [](#right-to-request-deletion)Right to Request Deletion. ####
+#### [](#your-rights-under-the-ccpa)Right to Request Deletion. ####
 
 You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to delete” by contacting us here.
 
-#### [](#right-to-opt-out)Right to Opt-Out. ####
+#### [](#right-to-know)Right to Opt-Out. ####
 
 You have a right to opt-out from future “sales” of personal information. Note that we do not “sell” personal information as defined by the CCPA and have not done so in the past 12 months.
 
-#### [](#right-to-non-discrimination)Right to Non-Discrimination. ####
+#### [](#right-to-request-deletion)Right to Non-Discrimination. ####
 
 You have a right to not be discriminated against for exercising your CCPA rights. We will not discriminate against you for exercising your CCPA rights.
 

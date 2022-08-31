@@ -32,19 +32,19 @@ Declaración de Privacidad de GitHub
 
 * [Nuestro uso de las cookies y las tecnologías de rastreo](#our-use-of-cookies-and-tracking-technologies)
 
-* [Retención de datos personales](#retention-of-personal-data)
+* [Retención de datos personales](#how-do-we-and-our-partners-use-cookies-and-similar-technologies)
 
-* [Cómo asegura GiitHub tu información](#how-github-secures-your-information)
+* [Cómo asegura GiitHub tu información](#what-are-your-cookie-choices-and-controls)
 
-* [Cambios en tu Declaración de privacidad](#changes-to-our-privacy-statement)
+* [Cambios en tu Declaración de privacidad](#resolving-complaints)
 
-* [Licencia](#license)
+* [Licencia](#dispute-resolution-process)
 
-* [Contactarse con GitHub](#contacting-github)
+* [Contactarse con GitHub](#changes-to-our-privacy-statement)
 
-* [Traducciones](#translations)
+* [Traducciones](#license)
 
-* [Aviso de GitHub para los residentes de California](#githubs-notice-to-california-residents)
+* [Aviso de GitHub para los residentes de California](#french)
 
 Fecha de entrada en vigor: 31 de mayo de 2022
 
@@ -274,16 +274,16 @@ GitHub utiliza cookies para proporcionar, asegurar y mejorar nuestro Servicio o 
 
 Nuestros correos electrónicos a los usuarios podrían contener una etiqueta de pixel, que es una imagen clara y pequeña que nos puede decir si abriste un correo electrónico o no y cuál es tu dirección IP. Utilizamos esta etiqueta de pixel para hacer nuestras comunicaciones por correo electrónico más efectivas y para asegurarnos de que no estemos enviando correo no deseado.
 
-### [](#dnt)DNT ###
+### [](#what-are-cookies-and-similar-technologies)DNT ###
 
 "[No Rastrear](https://www.eff.org/issues/do-not-track)" (DNT, por sus siglas en inglés) es una preferencia de privacidad que puedes configurar en tu buscador si no quieres que los servicios en línea recolecten y compartan ciertos tipos de información acerca de tu actividad en línea desde los servicios de rastreo de terceros. GitHub responde a las señales DNT del navegador y sigue el estándar [W3C para responder a las señales DNT](https://www.w3.org/TR/tracking-dnt/). Si deseas configurar tu navegador para que indique que no deseas que se rastree, revisa la documentación de tu navegador acerca de cómo habilitar esa señal. También hay buenas aplicaciones que bloquean el rastro en línea, como [Privacy Badger](https://privacybadger.org/).
 
-[](#retention-of-personal-data)Retención de datos personales
+[](#how-do-we-and-our-partners-use-cookies-and-similar-technologies)Retención de datos personales
 ----------
 
 Retenemos datos personales por tanto como sea necesario para proporcionar los servicios y llevar a cabo las transacciones que hayas solicitad, para cumplir con nuestras obligaciones legales, resolver disputas, hacer valer nuestros acuerdos y otros propósitos de negocio legales y legítimos. Ya que estas necesidades pueden variar para los diferentes tipos de datos en el contexto de diferentes servicios, los periodos de retención reales pueden variar significativamente con base en los criterios tales como las expectativas o el consentimiento de los usuarios, la sensibilidad de los datos y la disponibilidad de los controles automáticos que permiten que los usuarios borren datos y nuestras obligaciones contractuales. Por ejemplo, podríamos retener tus datos personales por periodos más largos, cuando fuese necesario, sujeto a la ley aplicable y por propósitos de seguridad.
 
-[](#how-github-secures-your-information)Cómo asegura GiitHub tu información
+[](#what-are-your-cookie-choices-and-controls)Cómo asegura GiitHub tu información
 ----------
 
 GitHub toma las medidas razonables necesarias para proteger tus datos personales del acceso no autorizado, la alteración o la destrucción; mantener la certeza de los datos y ayudar a garantizar el uso apropiado de estos datos. Para ayudarnos a proteger los datos personales, te solicitamos utilizar una contraseña fuerte y jamás compartirla con otras personas ni utilizar la misma contraseña con otros sitios o cuentas.
@@ -299,11 +299,11 @@ Adicionalmente, si tu cuenta tiene repositorios privados, controlas el acceso a 
 
 GitHub proporcionará un aviso con respecto al acceso al repositorio privado cuando la ley no lo prohíba y como respuesta a las amenazas de seguridad u otros riesgos a esta.
 
-### [](#cross-border-data-transfers)Transferencias de datos transfronterizas ###
+### [](#retention-of-personal-data)Transferencias de datos transfronterizas ###
 
 GitHub procesa datos personales tanto dentro como fuera de los Estados Unidos y depende de los mecanismos legales tales como las Cláusulas Contractuales Estándar para transferir legalmente los datos desde el Área Económica Europea y el Reino Unido y Suiza hacia los Estados Unidos. Puedes solicitar una copia de las Cláusulas Contractuales Estándar utilizando los detalles de contacto que se proporcionan en la sección denominada "Contactar a GitHub" a continuación.
 
-### [](#resolving-complaints)Resolver reclamos ###
+### [](#how-github-secures-your-information)Resolver reclamos ###
 
 Si tienes inquietudes sobre la forma en que GitHub maneja tus datos personales, por favor, déjanos saberlo de inmediato. Queremos ayudar. Puedes ponerte en contacto con nosotros completando el [Formulario de contacto de privacidad](https://support.github.com/contact/privacy). También puedes contactarnos directamente enviando un mensaje por correo electrónico a **(privacy [at] github [dot] com)** con el título "Privacy Concerns". Responderemos rápidamente, dentro de los 45 días a más tardar.
 
@@ -317,44 +317,44 @@ También puedes ponerte en contacto directamente con nuestro Responsable de Prot
 |              Estados Unidos              |          Países Bajos           |
 |    **privacy [at] github [dot] com**     |**privacy [at] github [dot] com**|
 
-### [](#dispute-resolution-process)Proceso de resolución de disputas ###
+### [](#cross-border-data-transfers)Proceso de resolución de disputas ###
 
 En el improbable caso de que surja una disputa entre tú y GitHub con respecto al manejo de tu Información personal del usuario, haremos todo lo posible por resolverla. Adicionalmente, si eres un residente de un estado miembro de la UE, tienes el derecho de emitir una queja con tu autoridad supervisora local, y podrías tener más [opciones](/es/github/site-policy/global-privacy-practices#dispute-resolution-process).
 
-[](#changes-to-our-privacy-statement)Cambios en tu Declaración de privacidad
+[](#resolving-complaints)Cambios en tu Declaración de privacidad
 ----------
 
 Aunque es probable que la mayoría de los cambios sean mínimos, GitHub puede cambiar nuestra Declaración de privacidad de manera ocasional. Les notificaremos a los Usuarios acerca de los cambios materiales a esta Declaración de privacidad por medio de nuestro Sitio web, al menos, 30 días antes de que el cambio entre en vigencia a través de la publicación de un aviso en nuestra página de inicio o enviando un correo electrónico a la dirección principal de correo electrónico que se especifica en tu cuenta de GitHub. También actualizaremos nuestro [Repositorio de políticas del sitio](https://github.com/github/site-policy/), que realiza un seguimiento de todos los cambios de esta política. Para otros cambios en esta declaración de privacidad, invitamos a los usuarios a [consultar](/es/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) o a revisar el repositorio de nuestra política del sitio con frecuencia.
 
-[](#license)Licencia
+[](#dispute-resolution-process)Licencia
 ----------
 
 La presente Declaración de privacidad está autorizada conforme a esta [licencia de Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más detalles, consulta nuestro [repositorio de políticas del sitio](https://github.com/github/site-policy#license).
 
-[](#contacting-github)Contactarse con GitHub
+[](#changes-to-our-privacy-statement)Contactarse con GitHub
 ----------
 
 Las preguntas al respecto de la Declaración de privacidad de GitHub o de las prácticas de manejo de la información se deben realizar por medio de nuestro [Formulario de contacto de privacidad](https://support.github.com/contact/privacy).
 
-[](#translations)Traducciones
+[](#license)Traducciones
 ----------
 
 A continuación, aparecen traducciones de este documento a otros idiomas. En caso de cualquier conflicto, incertidumbre o aparente inconsistencia entre cualquiera de esas versiones y la versión en inglés, la versión en inglés es la versión que prima.
 
-### [](#french)Francés ###
+### [](#contacting-github)Francés ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
-### [](#other-translations)Otras traducciones ###
+### [](#translations)Otras traducciones ###
 
 Para las traducciones de esta declaración hacia otros idiomas, por favor visita [https://docs.github.com/](/es) y selecciona el idioma desde el menú desplegable debajo de "Inglés".
 
-[](#githubs-notice-to-california-residents)Aviso de GitHub para los residentes de California
+[](#french)Aviso de GitHub para los residentes de California
 ----------
 
 La [Ley de Privacidad del Consumidor de California](https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201720180AB375) de 2018, (Cal. Civ. Code §1798.100 y siguientes., en su texto reformado, “CCPA”) otorga a los residentes de California los derechos y control sobre su información personal. ("GitHub", "nosotros") proporciona esta declaración a los residentes ("tú") de acuerdo con los requisitos bajo la CCPA para realizar ciertas divulgaciones sobre la recolección y procesamiento de su información personal. Esta es la descripción de los derechos del consumidor de GitHub específica para California bajo la CCPA. Para obtener más información acerca de cómo hemos extendido los derechos básicos de la CCPA para controlar la información personal de todos nuestros usuarios en los Estados unidos, por favor consulta nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement).
 
-### [](#our-handling-of-personal-information)Nuestro manejo de la información personal ###
+### [](#other-translations)Nuestro manejo de la información personal ###
 
 Si bien la tabla siguiente contiene información sobre las categorías de la información personal que recopilamos, procesamos y compartimos, puedes consultar la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement) para encontrar todos los detalles.
 
@@ -371,29 +371,29 @@ Si bien la tabla siguiente contiene información sobre las categorías de la inf
 
 Utilizamos las categorías de información personal antes descritas para los propósitos que se listan en la sección ["Cómo GitHub utiliza tu información"](/es/github/site-policy/github-privacy-statement#how-github-uses-your-information) de nuestra Declaración de Privacidad. También divulgamos las categorías de información personal que se listan anteriormente para propósitos de negocio. Consulta la sección ["Cómo compartimos la información que recopilamos"](/es/github/site-policy/github-privacy-statement#how-we-share-the-information-we-collect) en nuestra Declaración de Privacidad para obtener detalles adicionales.
 
-### [](#we-do-not-sell-your-personal-information)No vendemos tu información personal ###
+### [](#githubs-notice-to-california-residents)No vendemos tu información personal ###
 
 Bajo la CCPA, un negocio que vende la información personal de los residentes de California a otros: 1) debe notificar a los residentes de California antes de vender su información personal a otros; y 2) deberá proporcionar el derecho de negarse a la venta de su información personal. GitHub no vende información personal, incluyendo la de cualquier persona menor de 16 años de edad.
 
-### [](#your-rights-under-the-ccpa)Tus derechos bajo la CCPA ###
+### [](#our-handling-of-personal-information)Tus derechos bajo la CCPA ###
 
 La CCPA proporciona a los residentes de California ciertos derechos relacionados con su información personal. Para emitir una solicitud basada en estos derechos, por favor contáctanos a través de nuestro [formato de contacto](https://support.github.com/contact?tags=docs-policy).
 
 Cuando recibimos una solicitud, verificamos que la persona que la hace sea el dueño de la misma de acuerdo con dicha solicitud. Los residentes de california pueden ejercer sus derechos por sí mismos o mediante un agente autorizado, al cual se le designe por escrito o mediante poder notarial, para realizar solicitudes en su nombre. Si utilizas un agente autorizado para enviar una solicitud, podríamos requerir que proporciones información adicional que demuestre que dicho agente está actuando en tu nombre y podríamos necesitar que verifiques tu identidad directamente con nostros. Con respecto a tu información personal, los residentes de California podrían ejercer los derechos que se describen a continuación.
 
-#### [](#right-to-know)Derecho a saber. ####
+#### [](#we-do-not-sell-your-personal-information)Derecho a saber. ####
 
 Tienes el derecho de solicitar que te divulguemos la información personal que hemos recopilado sobre ti. También tienes el derecho de solicitar información adicional sobre nuestra recopilación, uso, divulgación o venta de tal información personal. Toma en cuenta que hemos proporcionado mucha de esta información en esta declaración de privacidad. Puedes utilizar la API de Migración de Usuarios de GitHub para acceder y descargar tus datos. Aprende más aquí. También puedes hacer esa "solicitud de saber" contactándonos aquí.
 
-#### [](#right-to-request-deletion)Derecho a solicitar el borrado. ####
+#### [](#your-rights-under-the-ccpa)Derecho a solicitar el borrado. ####
 
 También tienes derecho de solicitar que borremos tu información personal bajo ciertas circunstancias, sujetas a varias excepciones. Para hacer una solicitud de borrado, puedes utilizar la API de Migración de Usuarios de GitHub y descargar tus datos. Aprende más aquí. También podrías hacer dicha "solicitud de borrado" contactándonos aquí.
 
-#### [](#right-to-opt-out)Derecho a no participar. ####
+#### [](#right-to-know)Derecho a no participar. ####
 
 Tienes derecho a decidir no participar en "ventas" futuras de información personal. Toma en cuenta que no "vendemos" información personal, tal como se define en la CCPA y no lo hemos hecho en los últimos 12 meses.
 
-#### [](#right-to-non-discrimination)Derecho a la no discriminación. ####
+#### [](#right-to-request-deletion)Derecho a la no discriminación. ####
 
 Tienes derecho a que no se te discrimine por ejercer tus derechos bajo la CCPA. No te discriminaremos por ejercer tus derechos de acuerdo con l a CCPA.
 
