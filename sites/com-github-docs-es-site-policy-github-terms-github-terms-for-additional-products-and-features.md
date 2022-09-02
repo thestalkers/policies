@@ -26,19 +26,19 @@ Condiciones de GitHub para las características y productos adicionales
 
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
 
-* [Laboratorio de aprendizaje](#learning-lab)
+* [Laboratorio de aprendizaje](#npm)
 
-* [npm](#npm)
+* [npm](#packages)
 
-* [Packages](#packages)
+* [Packages](#pages)
 
-* [Pages](#pages)
+* [Pages](#previews)
 
-* [Vistas previas](#previews)
+* [Vistas previas](#sponsors-program)
 
-* [Programa de patrocinadores](#sponsors-program)
+* [Programa de patrocinadores](#sql-server-images)
 
-* [Imagenes de SQL Server](#sql-server-images)
+* [Imagenes de SQL Server](#imagenes-de-sql-server)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 
@@ -149,7 +149,7 @@ El Copiloto de GitHub (i) podría, dependiendo de tus ajustes de telemetría pre
 
 El importador es un marco de trabajo para exportar datos desde otras fuentes para que se importen a la plataforma de GitHub. El importador se proporciona "TAL COMO ES".
 
-[](#learning-lab)Laboratorio de aprendizaje
+[](#npm)Laboratorio de aprendizaje
 ----------
 
 El Laboratorio de Aprendizaje de GiThub ofrece cursos interactivos gratuitos que se incorporan en GitHub con retroalimentación automática y ayuda instantáneas.
@@ -164,17 +164,17 @@ El utilizar los materiales del curso de GitHub y crear y almacenar los materiale
 
 El uso de los datos personales se rige de acuerdo con la [Declaración de privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
-[](#npm)npm
+[](#packages)npm
 ----------
 
 npm es un servicio de hospedaje de paquetes de software que te permite hospedar tus paquetes de software de forma privada o pública y utilizarlos como dependencias en tus proyectos. npm es el registro de registros para el ecosistema de JavaScript. Utilizar el registro público es gratuito, pero se facturará a los clientes si quieren publicar o administrar paquetes privados que utilicen equipos. La [documentación de npm](https://docs.npmjs.com/) incluye los detalles sobre la limitación de los tipos de cuenta y de como administrar los [paquetes privados](https://docs.npmjs.com/about-private-packages) y [organizaciones](https://docs.npmjs.com/organizations). El uso aceptable del registrio npm se detalla en las [condiciones de código abierto](https://www.npmjs.com/policies/open-source-terms). Hay condiciones adicionales tanto para los planes [solo](https://www.npmjs.com/policies/solo-plan) y [org](https://www.npmjs.com/policies/orgs-plan) de npm. Las [Condiciones de uso](https://www.npmjs.com/policies/terms) de npm aplican a tu uso de este.
 
-[](#packages)Packages
+[](#pages)Packages
 ----------
 
 GitHub Packages es un servicio de hospedaje de paquetes de software que te permite hospedar tus paquetes de software de forma privada o pública y utilizar los paquetes como dependencias en tus proyectos. GitHub Packages se factura de acuerdo con su uso. La [Documentación de paquetes](/es/packages/learn-github-packages/introduction-to-github-packages) incluye los detalles como las cantidades de ancho de banda y almacenamiento (dependiendo del plan de tu cuenta), y la forma en la que puedes monitorear el uso de los paquetes y configurar los límites de uso. El uso de ancho de banda de los paquetes se limita por las [Políticas de uso aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies).
 
-[](#pages)Pages
+[](#previews)Pages
 ----------
 
 Cada cuenta incluye acceso al [servicio de hospedaje estático de GitHub pages](/es/github/working-with-github-pages/about-github-pages). Se pretende que GitHub pages hospede páginas web estáticas, pero es primeramente para mostrar proyectos organizacionales y personales.
@@ -191,17 +191,17 @@ Las GitHub Pages no pueden utilizarse si violan el acuerdo, las [Políticas de U
 
 Su tuebes dudas sobre si tu uso o intención de uso cae en las siguientes categorías, por favor, contacta al [Soporte de GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin responsabilidad.
 
-[](#previews)Vistas previas
+[](#sponsors-program)Vistas previas
 ----------
 
 Las vistas previas se refieren al software, servicios en línea y productos y características adicionales que se proporcionan para las vistas previas, evaluación, demostración o propósitos de periodos de prueba o versiones de lanzamientos previos de estas, tales como alfa, beta o acceso temprano. Si tu acuerdo no incluye términos y condiciones que traten las vistas previas, entonces los siguientes términos aplicarán. GitHub otorga un derecho limitado de utilizar una instancia no productiva de la vista previa. Las vistas previas se proporcionan "TAL CUAL", "CON TODAS SUS FALLAS" y "DE ACUERDO A SU DISPONIBILIDAD". GitHub podría cambiar o descontinuar las vistas previas en cualquier momento y sin aviso previo. Cualquier información que te proporcionemos sobre una vista previa privada se considerará como información confidencial de GitHub. Si eliges proporcionar comentarios o sugerencias sobre una vista previa, podríamos utilizarlos para cualquier propósito y sin obligación de ningún tipo. La responsabilidad máxima de GitHub se limita a daños directos de hasta $5000 USD. GitHub no tiene obligación de defender, indemnizar o librarte de los daños de los reclamos que realicen los terceros y que se deriven de tu uso de las vistas previas.
 
-[](#sponsors-program)Programa de patrocinadores
+[](#sql-server-images)Programa de patrocinadores
 ----------
 
 GitHub Sponsors permite a la comunidad de desarrolladores apoyar financieramente al personal y organizaciones que diseñan, crean y mantienen los proyectos de código abierto de los cuales dependen, directamente en GitHub. Para convertirse en un Desarrollador Patrocinado, debes aceptar los [Términos Adicionales del Programa de Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms).
 
-[](#sql-server-images)Imagenes de SQL Server
+[](#imagenes-de-sql-server)Imagenes de SQL Server
 ----------
 
 Puedes descargar la imagen de contenedor de la Edición Estándar de Microsoft SQL Server para archivos Linux ("SQL Server Images"). Debes desinstalar las imagenes de SQL Server cuando termine tu derecho de utilizar el software. Microsoft Corporation puede inhabilitar las imágenes de SQL Server en cualquier momento.

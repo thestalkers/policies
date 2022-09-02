@@ -24,8 +24,6 @@ GitHub Terms for Additional Products and Features
 
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 
-* [Learning Lab](#learning-lab)
-
 * [npm](#npm)
 
 * [Packages](#packages)
@@ -46,9 +44,9 @@ By using the Additional Products and Features, you also agree to the applicable 
 
 **For Enterprise users**
 
-* **GitHub Enterprise Cloud** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, and Pages.
+* **GitHub Enterprise Cloud** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages, and Pages.
 
-* **GitHub Enterprise Server** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Learning Lab, Packages, Pages, and SQL Server Images.
+* **GitHub Enterprise Server** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages, and SQL Server Images.
 
 * **GitHub AE** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages and Pages.
 
@@ -146,21 +144,6 @@ GitHub Copilot (i) may, depending on your preferred telemetry settings, collect 
 ----------
 
 Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
-
-[](#learning-lab)Learning Lab
-----------
-
-GitHub Learning Lab offers free interactive courses that are built into GitHub with instant automated feedback and help.
-
-*Course Materials.* GitHub owns course materials that it provides and grants you a worldwide, non-exclusive, limited-term, non-transferable, royalty-free license to copy, maintain, use and run such course materials for your internal business purposes associated with Learning Lab use.
-
-Open source license terms may apply to portions of source code provided in the course materials.
-
-You own course materials that you create and grant GitHub a worldwide, non-exclusive, perpetual, non-transferable, royalty-free license to copy, maintain, use, host, and run such course materials.
-
-The use of GitHub course materials and creation and storage of your own course materials do not constitute joint ownership to either party's respective intellectual property.
-
-Use of Personal Data is governed by the [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement).
 
 [](#npm)npm
 ----------
