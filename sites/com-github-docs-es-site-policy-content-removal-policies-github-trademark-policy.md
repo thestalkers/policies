@@ -1,83 +1,83 @@
-Política de marca registrada de GitHub - GitHub Docs
+Directiva de Marcas Comerciales de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de marca registrada de GitHub
+Directiva de Marcas Comerciales de GitHub
 ==========
 
-[En este artículo](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
+[In this article](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
 ----------
 
-* [¿Qué es una Violación de la Política de Marcas de GitHub?](#what-is-a-github-trademark-policy-violation)
+* [¿Qué es una infracción de la directiva de marcas comerciales de GitHub?](#qué-es-una-infracción-de-la-directiva-de-marcas-comerciales-de-github)
 
-* [¿Qué no es una Violación de la Política de Marcas de GitHub?](#what-is-not-a-github-trademark-policy-violation)
+* [¿Qué no es una infracción de la directiva de marcas comerciales de GitHub?](#qué-no-es-una-infracción-de-la-directiva-de-marcas-comerciales-de-github)
 
-* [¿Cómo responde GitHub al reporte de las Violaciones de Política de Marcas?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [¿Cómo responde GitHub a las infracciones de la directiva de marcas comerciales denunciadas?](#cómo-responde-github-a-las-infracciones-de-la-directiva-de-marcas-comerciales-denunciadas)
 
-* [¿Cómo reporto una violación de la política de marcas?](#how-do-i-report-a-trademark-policy-violation)
+* [¿Cómo denuncio una infracción de la directiva de marcas comerciales?](#cómo-denuncio-una-infracción-de-la-directiva-de-marcas-comerciales)
 
-* [¿Qué información se requiere cuando se informa de las violaciones de las políticas de marcas?](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [¿Qué información se necesita para denunciar infracciones de la directiva de marcas comerciales?](#qué-información-se-necesita-para-denunciar-infracciones-de-la-directiva-de-marcas-comerciales)
 
-[](#what-is-a-github-trademark-policy-violation)¿Qué es una Violación de la Política de Marcas de GitHub?
+[](#qué-es-una-infracción-de-la-directiva-de-marcas-comerciales-de-github)[]()¿Qué es una infracción de la directiva de marcas comerciales de GitHub?
 ----------
 
-Utilizar el nombre de una empresa o negocio, logotipo, u otros materiales protegidos por marca registrada de una manera que pueda inducir a un error o confundir a otros con respecto a su marca o afiliación comercial pueden considerarse una violación de la política de marcas registradas.
+El uso del nombre, logotipo u otros materiales protegidos por marcas comerciales de una empresa o negocio de una manera que pueda inducir a error o confundir a otras personas con respecto a su marca o afiliación comercial puede considerarse una infracción de la directiva de marcas comerciales.
 
-[](#what-is-not-a-github-trademark-policy-violation)¿Qué no es una Violación de la Política de Marcas de GitHub?
+[](#qué-no-es-una-infracción-de-la-directiva-de-marcas-comerciales-de-github)[]()¿Qué no es una infracción de la directiva de marcas comerciales de GitHub?
 ----------
 
-El uso de la marca de otro de una manera que no tenga nada que ver con el producto o servicio para el que se concedió la marca no es una violación de la política de marcas registradas. Los nombres de usuario de GitHub están disponibles en una base de primera vez, en el orden de solicitud y no se pueden reservar. Una cuenta de GitHub con un nombre de usuario que resulte ser la misma que una marca registrada no es, por sí mismo, necesariamente una violación de nuestra política de marcas.
+El uso de la marca comercial de otra persona de una manera que no tenga nada que ver con el producto o servicio para el que se otorgó la marca comercial no constituye una infracción de la directiva de marcas comerciales. Los nombres de usuario de GitHub están disponibles para los primeros que los soliciten y no se pueden reservar. Una cuenta de GitHub con un nombre de usuario que es igual a una marca comercial registrada no constituye, en sí misma, una infracción de nuestra directiva de marcas comerciales.
 
-[](#how-does-github-respond-to-reported-trademark-policy-violations)¿Cómo responde GitHub al reporte de las Violaciones de Política de Marcas?
+[](#cómo-responde-github-a-las-infracciones-de-la-directiva-de-marcas-comerciales-denunciadas)[]()¿Cómo responde GitHub a las infracciones de la directiva de marcas comerciales denunciadas?
 ----------
 
-Cuando recibimos reportes de violaciones de la política de marcas registradas por parte de titulares de registros de marcas federales o internacionales, revisamos la cuenta y podemos tomar las siguientes acciones:
+Cuando recibimos denuncias de infracciones de la directiva de marcas comerciales de los titulares de registros de marcas comerciales internacionales o federales, revisamos la cuenta y podemos tomar las siguientes medidas:
 
-* Cuando exista una intención clara de engañar a otros a través del uso no autorizado de una marca, GitHub suspenderá la cuenta y notificará al titular de la misma.
-* Cuando determinamos que una cuenta parece estar confundiendo a los usuarios, pero no se hace pasar de manera intencional como el bien o servicio con marca registrada, le damos al titular de la cuenta la oportunidad de aclarar cualquier posible confusión. También podemos lanzar un nombre de usuario para el uso activo del titular de la marca.
+* Si existe una intención clara de engañar a otras personas mediante el uso no autorizado de una marca comercial, GitHub suspenderá la cuenta y se lo notificará al titular.
+* Cuando determinemos que una cuenta parece confundir a los usuarios, pero no se hace pasar deliberadamente por el producto o servicio de la marca comercial, le damos al titular de la cuenta la oportunidad de aclarar cualquier posible confusión. También podemos publicar un nombre de usuario para el uso activo del titular de la marca.
 
-[](#how-do-i-report-a-trademark-policy-violation)¿Cómo reporto una violación de la política de marcas?
+[](#cómo-denuncio-una-infracción-de-la-directiva-de-marcas-comerciales)[]()¿Cómo denuncio una infracción de la directiva de marcas comerciales?
 ----------
 
-Los titulares de marcas registradas pueden denunciar posibles violaciones de la política de marcas a GitHub a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-trademark). Envía solicitudes relacionadas con marcas comerciales utilizando tu dirección de correo electrónico de la empresa e incluye toda la información que se solicita a continuación para ayudar a agilizar nuestra respuesta. También asegúrate de describirnos claramente por qué la cuenta puede causar confusión con tu marca o cómo puede la cuenta debilitar o perjudicar a tu marca.
+Los titulares de marcas comerciales registradas pueden denunciar posibles infracciones de la directiva de marcas comerciales a GitHub a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-trademark). Envíe las solicitudes relacionadas con las marcas registradas utilizando la dirección de correo electrónico de su empresa e incluya toda la información que indicamos a continuación para acelerar nuestra respuesta. Asegúrese también de describir claramente por qué la cuenta puede confundirse con su marca o cómo la cuenta puede perjudicar a su marca.
 
-[](#what-information-is-required-when-reporting-trademark-policy-violations)¿Qué información se requiere cuando se informa de las violaciones de las políticas de marcas?
+[](#qué-información-se-necesita-para-denunciar-infracciones-de-la-directiva-de-marcas-comerciales)[]()¿Qué información se necesita para denunciar infracciones de la directiva de marcas comerciales?
 ----------
 
-Para investigar las violaciones de la política de marcas, por favor proporciona toda la siguiente información:
+Para investigar las infracciones de la directiva de marcas comerciales, proporcione toda la información siguiente:
 
-* Nombre de usuario de la cuenta reportada
+* Nombre de usuario de la cuenta denunciada
 
-* Nombre de tu empresa
+* El nombre de su empresa
 
-* La cuenta GitHub de tu empresa (si existe)
+* La cuenta de GitHub de su empresa (si existe)
 
-* Sitio web de la empresa
+* Sitio Web de la empresa
 
-* La palabra de tu marca, símbolo, etc.
+* La palabra, símbolo, etc., de la marca comercial
 
-* Número de registro de marca
+* Número de registro de marca comercial
 
-* Oficina de registro de marcas (ej., USPTO)
+* Oficina del registro de marcas (por ejemplo, USPTO)
 
-* Descripción de la confusión (por ejemplo, se hace pasar por su empresa, incluyendo descripciones específicas de contenido o comportamiento)
+* Descripción de la confusión (p. ej., hacerse pasar por su empresa, incluidas descripciones específicas de contenido o comportamientos)
 
-* Acción solicitada (por ejemplo, eliminación de una cuenta en violación o transferencia de un nombre de usuario con marca a una cuenta de empresa existente)
+* Medida solicitada (p. ej., eliminación de la cuenta infractora o transferencia del nombre de usuario con la marca comercial a una cuenta de empresa existente)
 
-* Incluye la siguiente declaración: "Tengo la creencia de buena fe de que el uso de la marca descrita anteriormente no está autorizado por el propietario de la marca, o su agente, o la ley. He considerado los usos nominativos y otros usos legítimos".
+* Incluya la siguiente declaración: «Creo de buena fe que el uso de la marca comercial descrita anteriormente no está autorizado por su propietario, su representante o la ley. He tenido en cuenta el uso nominativo y otros usos justos».
 
-* También incluye la siguiente declaración: "Juro, bajo pena de perjurio, que la información de esta notificación es fiel y que soy el propietario de los derechos de autor o estoy autorizado para actuar en nombre del propietario, de un derecho exclusivo que se infringe presuntamente."
+* Incluya también la siguiente declaración: «Juro, bajo pena de perjurio, que la información contenida en esta notificación es exacta y que soy el propietario de la marca comercial o estoy autorizado para actuar en nombre del propietario de un derecho exclusivo que supuestamente se infringe».
 
-* Incluir tu firma física o electrónica.
+* Incluya su firma física o electrónica.
 
-* Nota: Se requiere un número de registro federal o internacional de marcas registradas. Si el nombre que estás reportando no es \*\*\*\* una marca registrada (por ejemplo, una agencia gubernamental u organización sin fines de lucro), comunícanos:
+* Nota: Se requiere un número de registro de marca comercial federal o internacional. Si el nombre que está denunciando **no** es una marca registrada (p. ej., un organismo gubernamental u organización sin ánimo de lucro), facilítenos:
 
-  * Tu nombre y apellido
-  * Posición
+  * Su nombre y apellidos
+  * Cargo
   * Dirección
   * Teléfono
-  * Correo electrónico (debe ser de dominio de una empresa)
+  * Correo electrónico (debe ser del dominio de la empresa)

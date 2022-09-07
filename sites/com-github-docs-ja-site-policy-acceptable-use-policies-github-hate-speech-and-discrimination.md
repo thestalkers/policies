@@ -1,22 +1,22 @@
-GitHub Hate Speech and Discrimination - GitHub Docs
+GitHub での憎悪の言葉と差別 - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Hate Speech and Discrimination
+GitHub での憎悪の言葉と差別
 ==========
 
-GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. これは以下のものが含まれます。
+GitHub は、年齢、体格、能力、民族、性同一性、性表現、経験の程度、国籍、容姿、人種、宗教、性アイデンティティ、性的指向などに基づいて、個人またはグループに対して攻撃したり憎悪を助長したりする言葉を容認しません。 こうした行為には、以下が含まれます。
 
-* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
-* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
-* Supporting or promoting hate groups or hate-based conspiracy theories
-* Sharing symbols or images synonymous with hate
-* Using harmful stereotypes, slurs, or dehumanizing speech
-* Attacking an individual based on their perceived gender
-* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
+* 上記の信念や特性に基づいて個人やグループを嘲笑、攻撃、または排除すること
+* 既知のテロリストまたは暴力的な過激派組織との明白な関係やそれらへの帰属意識を誇示すること
+* 憎悪グループまたは憎悪に基づく陰謀論を支持または助長すること
+* 憎悪と同じ意味を持つ記号や画像を共有すること
+* 有害な固定観念、中傷、または非人間的な言葉を使用すること
+* 認識されている性に基づいて個人を攻撃すること
+* 隠語を使うこと、あるいは暴言や憎悪を助長する暗示的または暗号化された言葉や記号を使用すること
 
-While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
+GitHub は、プラットフォーム上の暴言や嫌がらせのすべての事例に真剣に取り組んでおり、特に歴史的にそのような暴言の標的となってきたコミュニティに過大な影響を及ぼす場合に、憎悪に基づく暴言と戦うことに努めています。 GitHub をすべての人が安全で歓迎されていると感じる場所にすることを目指しています。

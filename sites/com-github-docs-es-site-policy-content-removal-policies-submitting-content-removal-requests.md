@@ -1,42 +1,42 @@
-Enviar solicitudes de eliminación de contenido - GitHub Docs
+Envío de solicitudes de eliminación de contenido - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Enviar solicitudes de eliminación de contenido
+Envío de solicitudes de eliminación de contenido
 ==========
 
-[En este artículo](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
+[In this article](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
 ----------
 
-* [Política de retiro de DMCA](#dmca-takedown-policy)
+* [Directiva de Retirada de la DMCA](#directiva-de-retirada-de-la-dmca)
 
-* [Política de marca registrada de GitHub](#github-trademark-policy)
+* [Directiva de Marcas Comerciales de GitHub](#directiva-de-marcas-comerciales-de-github)
 
-* [Política de Eliminación de Información Privada de GitHub](#github-private-information-removal-policy)
+* [Directiva de Eliminación de Información Privada de GitHub](#directiva-de-eliminación-de-información-privada-de-github)
 
-Entendemos que el contenido privado, con derechos de autor o con derechos comerciales podría publicarse en GitHub - ya sea accidentalmente o a propósito - algunas veces en los repositorios que no te pertenecen. Debido a que la naturaleza de este contenido varía y debido a las diferentes leyes aplicables, cada categoría tiene sus propios requisitos de presentación de informes definidos en nuestras políticas.
+Entendemos que en GitHub se podría publicar contenido con derechos de autor y marcas comerciales o contenido privado, ya sea de manera intencionada o no, a veces en repositorios que no son de su propiedad. Dado que la naturaleza de este contenido varía y dado que hay diferentes leyes aplicables, cada categoría tiene sus propios requisitos de denuncia que se describen en nuestras directivas.
 
-Si quieres solicitar que el contenido se elimine de GitHub, por favor toma algo de tiempo para consultar cada una de estas políticas y sus respectivos requisitos para informar antes de enviar un informe. Si recibimos un informe incompleto, tendremos que pedir aclaraciones o revisiones y tendrás que enviar nuevamente un informe revisado.
+Si desea solicitar que se elimine contenido de GitHub, tómese un tiempo para familiarizarse con cada una de estas directivas y sus respectivos requisitos de denuncia antes de enviar la denuncia. Si recibimos una denuncia incompleta, tendremos que solicitarle que realice aclaraciones o modificaciones y deberá volver a enviar la denuncia revisada.
 
-Ten en cuenta que no podemos ayudarte a determinar qué política es adecuada para su situación específica. Si revisaste las políticas que se encuentran más adelante y aún tienes dudas sobre si debes o no reportar contenido como información privada, derechos de autor o derechos comerciales, te recomendamos consultarlo con un asesor jurídico competente.
+Tenga en cuenta que no podemos ayudarle a determinar qué directiva es adecuada para su situación específica. Si ha revisado las siguientes directivas y aún tiene preguntas sobre si se considera o no que el contenido tiene derechos de autor, marcas comerciales o información privada, le recomendamos que consulte a un asesor legal independiente.
 
-[](#dmca-takedown-policy)[Política de retiro de DMCA](/es/articles/dmca-takedown-policy)
+[](#directiva-de-retirada-de-la-dmca)[]()[Directiva de Retirada de la DMCA](/es/articles/dmca-takedown-policy)
 ----------
 
-La Política de Retiro de DMCA se puede utilizar para informar del contenido que consideras que infringe un copyright propiedad de tu parte o de su organización. Una vez que hayas revisado la política, es posible que también desees revisar nuestra [Guía para enviar una Política de Retiro de DMCA](/es/articles/guide-to-submitting-a-dmca-takedown-notice) antes de enviar un informe.
+La Directiva de Retirada de la DMCA se puede utilizar para denunciar contenido que cree que infringe un derecho de autor que le pertenece a usted o a su organización. Una vez que haya revisado la directiva, es posible que también desee revisar nuestra [Guía para Enviar una Notificación de Retirada de la DMCA](/es/articles/guide-to-submitting-a-dmca-takedown-notice) antes de enviar una denuncia.
 
-[](#github-trademark-policy)[Política de marca registrada de GitHub](/es/articles/github-trademark-policy)
+[](#directiva-de-marcas-comerciales-de-github)[]()[Directiva de Marcas Comerciales de GitHub](/es/articles/github-trademark-policy)
 ----------
 
-La Política de Marcas de GitHub se puede utilizar para informar del contenido que parece utilizar su nombre de empresa o de negocio, logotipo, u otros materiales protegidos por marca de una manera que pueda engañar o confundir a otros sobre la marca o la afiliación comercial.
+La Directiva de Marcas Comerciales de GitHub puede utilizarse para denunciar contenido que parezca utilizar el nombre de su empresa o negocio, logotipo u otros materiales protegidos por marcas comerciales de una manera que pueda inducir a error o confundir a otras personas con respecto a su marca o afiliación.
 
-[](#github-private-information-removal-policy)[Política de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
+[](#directiva-de-eliminación-de-información-privada-de-github)[]()[Directiva de Eliminación de Información Privada de GitHub](/es/github/site-policy/github-private-information-removal-policy)
 ----------
 
-La Política de Eliminación de Información Privada de GitHub puede utilizarse para reportar datos que sean privados (confidenciales y que posean un riesgo de seguridad), pero que no se protege necesariamente por derechos de autor o comerciales.
+La Directiva de Eliminación de Información Privada de GitHub se puede usar para denunciar datos que son privados (confidenciales y que presentan un riesgo de seguridad), pero que no están necesariamente protegidos por derechos de autor o marca comercial.
 
-Los usuarios de la India pueden contactar al funcionario encargado de las quejas [aquí](https://support.github.com/contact/india-grievance-officer).
+Los usuarios de la India pueden ponerse en contacto con el representante de quejas de GitHub [aquí](https://support.github.com/contact/india-grievance-officer).

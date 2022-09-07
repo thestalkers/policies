@@ -1,28 +1,28 @@
-Doxxing e invasión de la privacidad en GitHub - GitHub Docs
+Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Doxxing e invasión de la privacidad en GitHub
+Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub
 ==========
 
-No publiques la información personal de otros individuos. Esto incluye:
+No publique información personal de otras personas. Esto incluye:
 
-* Direcciones de correo electrónico privadas y personales
-* Números telefónicos
+* Direcciones de correo electrónico personales y privadas
+* Números de teléfono
 * Direcciones físicas u otra información de ubicación privada
-* Información de cuentas bancarias o números de tarjetas de crédito
-* Números de seguridad social/identidad nacional
+* Información de cuenta bancaria o números de tarjeta de crédito
+* Números de seguridad social/documento nacional de identidad
 * Contraseñas
-* Información de votante
+* Información de voto
 * Información médica y datos biométricos personales
-* Otro tipo de información que pueda representar un riesgo de seguridad o protección
+* Otra información privada que pueda entrañar un riesgo de seguridad o para la salud
 
-Podríamos considerar que otros tipos de información, tales como fotos o videos que se tomaron o distribuyeron sin el consentimiento del sujeto, sean una invasión a la privacidad, especialmente cuando dicho material representa un riesgo de seguridad para dicho sujeto, tal como en el caso de la intimidación o el acoso.
+Podemos considerar otra información, como fotos o vídeos que se tomaron o distribuyeron sin el consentimiento del interesado, como una invasión de la privacidad, especialmente cuando dicho material supone un riesgo de seguridad para el interesado, como en el caso de intimidación o acoso.
 
-GitHub tomará el contexto en cuenta, así como si el contenido reportado está disponible al público en cualquier otro lugar. Toma en cuenta, sin embargo, que si bien el compartir contenido disponible al público en general podría no ser una violación de esta política, si la información se comparte con la intención de acosa o incitar a otro tipo de comportamiento abusivo, esto podría violar nuestra prohibición del [bullying y el acoso](/es/github/site-policy/github-bullying-and-harassment).
+GitHub tendrá en cuenta el contexto y si el contenido divulgado está disponible públicamente en otro lugar. Tenga en cuenta, sin embargo, que aunque compartir contenido disponible públicamente puede no ser una vulneración de esta directiva, si la información se comparte con la intención de acosar o incitar a otro comportamiento abusivo, puede infringir nuestra prohibición de [acoso y agresión](/es/github/site-policy/github-bullying-and-harassment).
 
-Para obtener más información o para aprender cómo reportar una violación, consulta nuestra [Política de Eliminación de Información Privada](/es/github/site-policy/github-private-information-removal-policy) y nuestras instrucciones para [Reportar el abuso](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+Para obtener más información o para saber cómo denunciar una infracción, consulte nuestra [Directiva de Eliminación de Información Privada](/es/github/site-policy/github-private-information-removal-policy) y nuestras instrucciones para [denunciar casos de abuso](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).

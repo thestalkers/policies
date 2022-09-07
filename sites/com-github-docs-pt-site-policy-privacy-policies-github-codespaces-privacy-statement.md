@@ -1,23 +1,23 @@
-Declaração de Privacidade do GitHub Codespaces - GitHub Docs
+GitHub Codespaces Privacy Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Declaração de Privacidade do GitHub Codespaces
+GitHub Codespaces Privacy Statement
 ==========
 
-Data de entrada em vigor: 10 de agosto de 2021
+Effective Date: August 10, 2021
 
-O uso do GitHub Codespaces está sujeito à [Declaração de Privacidade](/pt/github/site-policy/github-privacy-statement) do GitHub.
+Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/pt/github/site-policy/github-privacy-statement).
 
-A atividade no github.dev está sujeita aos [termos de pré-visualizações beta do GitHub](/pt/github/site-policy/github-terms-of-service#j-beta-previews)
+Activity on github.dev is subject to [GitHub's Beta Previews terms](/pt/github/site-policy/github-terms-of-service#j-beta-previews)
 
-[](#usar-visual-studio-code)Usar Visual Studio Code
+[](#using-visual-studio-code)Using Visual Studio Code
 ----------
 
-Os códigos do GitHub e github.dev permitem o uso de Visual Studio Code no navegador web. Ao usar VS Code no navegador da web, um certo nível de coleção de telemetria está habilitado por padrão e isso é [explicado em detalhes no site VS Code](https://code.visualstudio.com/docs/getstarted/telemetry). Os usuários podem optar por não participar da telemetria, acessando o Arquivo \> Preferências \> Configurações no menu superior esquerdo.
+GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.
 
-Se um usuário escolher optar por não participar da captura de telemetria em VS Code enquanto estiver em um codespace, conforme definido, isso irá sincronizar a preferência de telemetria desabilitada em todas as futuras sessões web no GitHub Codespaces e no github.dev.
+If a user chooses to opt out of telemetry capture in VS Code while inside of a codespace as outlined, this will sync the disable telemetry preference across all future web sessions in GitHub Codespaces and github.dev.

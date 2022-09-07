@@ -1,21 +1,21 @@
-Roubo de identidade no GitHub - GitHub Docs
+Falsificação de Identidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Roubo de identidade no GitHub
+Falsificação de Identidade do GitHub
 ==========
 
-Você não pode representar mal sua identidade ou sua associação com outra pessoa ou organização. Isto inclui fazer qualquer uma das seguintes coisas de uma forma a enganar outras pessoas:
+Você não pode fingir sua identidade ou associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou iludir os outros:
 
-* Copiando o avatar de outro usuário ou outras informações pessoais
-* Postar conteúdo usando o endereço de e-mail de outro usuário
-* Usar enganosamente um nome de usuário, nome de organização ou outro nome similar
-* Fazer postagens como outro indivíduo ou organização
+* Copiar o avatar de outro usuário ou outras informações do perfil pessoal
+* Postar conteúdo com o endereço de email de outro usuário
+* Usar um nome de usuário, nome de organização ou outro namespace semelhante de forma enganosa
+* Caso contrário, fingindo ser outro indivíduo ou de outra organização
 
-O roubo de identidade é uma forma de assédio e a violação desta política pode levar à perda de acesso à sua conta.
+A falsificação de identidade é uma forma de assédio, e a violação desta política pode levar à perda de acesso à sua conta.
 
-Observe que ter um nome de usuário semelhante a outro não é necessariamente eoubo de identidade. O GitHub levará em em conta o contexto. Por exemplo, como em casos que envolvem reclamações de [informações invorretas](/pt/github/site-policy/github-misinformation-and-disinformation), de modo geral, permitimos paródia e sátira que esteja de acordo com a nossa [Políticas de Uso Aceitáveis](/pt/github/site-policy/github-acceptable-use-policies).
+Observe que ter um nome de usuário semelhante a outro não é necessariamente falsificação de identidade. O GitHub levará o contexto em consideração. Por exemplo, como nos casos que envolvem requerimentos judiciais ou extrajudiciais de [informações incorretas ou desinformação](/pt/github/site-policy/github-misinformation-and-disinformation), geralmente permitimos paródias e sátiras que estejam de acordo com as [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies).

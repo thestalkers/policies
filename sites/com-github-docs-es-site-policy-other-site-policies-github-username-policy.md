@@ -1,38 +1,38 @@
-Política de nombre de usuario de GitHub - GitHub Docs
+Directiva de Nombres de Usuario de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de nombre de usuario de GitHub
+Directiva de Nombres de Usuario de GitHub
 ==========
 
-[En este artículo](/site-policy/other-site-policies/github-username-policy#in-this-article)
+[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
 ----------
 
-* [¿Qué pasa si el nombre de usuario que quiero ya está en uso?](#what-if-the-username-i-want-is-already-taken)
+* [¿Qué pasa si el nombre de usuario que quiero ya lo ha elegido alguien?](#qué-pasa-si-el-nombre-de-usuario-que-quiero-ya-lo-ha-elegido-alguien)
 
-* [Política de marcas](#trademark-policy)
+* [Directiva de Marcas Comerciales](#directiva-de-marcas-comerciales)
 
-* [Política de ocupación de nombre](#name-squatting-policy)
+* [Directiva sobre Ocupación de Nombres](#directiva-sobre-ocupación-de-nombres)
 
-Los nombres de cuentas de GitHub se proporcionan dependiendo de quién los reclame primero, y se pretende que se comiencen a utilizar activamente de inmediato.
+Los nombres de cuenta de GitHub están disponibles para las primeras personas que los solicitan y están destinados a ser utilizados de una manera inmediata y activa.
 
-[](#what-if-the-username-i-want-is-already-taken)¿Qué pasa si el nombre de usuario que quiero ya está en uso?
+[](#qué-pasa-si-el-nombre-de-usuario-que-quiero-ya-lo-ha-elegido-alguien)[]()¿Qué pasa si el nombre de usuario que quiero ya lo ha elegido alguien?
 ----------
 
-Ten en mente que no toda la actividad en GitHub está disponible públicamente para su consulta; puede que las cuentas sin actividad visible estén activas.
+Tenga en cuenta que no toda la actividad de GitHub es visible de forma pública; es posible que haya en uso cuentas cuya actividad no es visible.
 
-Si ya han reclamado el nombre de usuario que quieres, considera otros nombres o variaciones únicas de éste. Puedes identificar un nombre de usuario aún disponible si utilizas números, guiones, o una morfología alterna.
+Si el nombre de usuario que desea ya lo ha elegido alguien, piense otros nombres o variaciones únicas. Puede utilizar un número, un guion o una forma alternativa de escribir ese nombre para encontrar un nombre de usuario de su preferencia que aún esté disponible.
 
-[](#trademark-policy)Política de marcas
+[](#directiva-de-marcas-comerciales)[]()Directiva de Marcas Comerciales
 ----------
 
-Si consideras que la cuenta de alguien está violando tus derechos de marca, puedes encontrar más información sobre cómo hacer una queja de marca en nuestra página de [Política de Marca](/es/articles/github-trademark-policy).
+Si cree que la cuenta de alguien está infringiendo sus derechos de marca comercial, encontrará más información sobre cómo presentar una queja sobre la marca comercial en nuestra página [Directiva de Marcas Comerciales](/es/articles/github-trademark-policy).
 
-[](#name-squatting-policy)Política de ocupación de nombre
+[](#directiva-sobre-ocupación-de-nombres)[]()Directiva sobre Ocupación de Nombres
 ----------
 
-GitHub prohibe el acaparamiento de nombres de cuenta, y dichos nombres de cuenta no pueden reservarse o mantenerse en inactividad para reclamarse posteriormente. Las cuentas que violen esta política de acaparamiento serán eliminadas o renombradas sin previo aviso. Los intentos de vender, comprar o solicitar otras formas de pago a cambio de nombres de cuenta están prohibidos y pueden resultar en una suspensión de cuenta permanente.
+GitHub prohíbe la ocupación de nombres de cuenta y los nombres de cuenta no pueden reservarse ni mantenerse inactivos para utilizarlos en el futuro. Las cuentas que infrinjan esta directiva de ocupación de nombres podrán eliminarse o cambiarse de nombre sin previo aviso. Los intentos de vender, comprar o solicitar cualquier otro pago a cambio de nombres de cuenta están prohibidos y pueden dar lugar a la suspensión permanente de la cuenta.

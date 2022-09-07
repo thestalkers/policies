@@ -4,21 +4,20 @@ Términos de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 Términos de GitHub
 ==========
 
-* [Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service)
-* [Términos de servicio corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
-* [Condiciones de GitHub para las características y productos adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features)
-* [Pautas de la comunidad GitHub](/es/site-policy/github-terms/github-community-guidelines)
-* [GitHub Community Code of Conduct](/es/site-policy/github-terms/github-community-code-of-conduct)
-* [Términos adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
-* [Acuerdo de programador registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
-* [Términos de servicio de Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service)
+* [Términos de Servicio Corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
+* [Términos de GitHub para Productos y Características Adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [Pautas de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines)
+* [Términos Adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
+* [Acuerdo de Desarrollador Registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
+* [Términos de Servicio de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 * [Acuerdo de Desarrollador de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-developer-agreement)
-* [Términos del programa de investigación de GitHub](/es/site-policy/github-terms/github-research-program-terms)
-* [Términos y condiciones de la aplicación de código abierto de GitHub](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
-* [Términos del evento de GitHub](/es/site-policy/github-terms/github-event-terms)
-* [Código de conducta del evento de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)
+* [Términos del Programa de Investigación de GitHub](/es/site-policy/github-terms/github-research-program-terms)
+* [Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Términos del Evento de GitHub](/es/site-policy/github-terms/github-event-terms)
+* [Código de Conducta de Eventos de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)

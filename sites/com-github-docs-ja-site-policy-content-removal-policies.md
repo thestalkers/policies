@@ -1,17 +1,17 @@
-Content Removal Policies - GitHub Docs
+コンテンツ削除ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Content Removal Policies
+コンテンツ削除ポリシー
 ==========
 
-* [コンテンツ削除リクエストのサブミット](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
-* [DMCAテイクダウンポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
-* [GitHub個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
-* [GitHubトレードマークポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
-* [DMCAカウンター通知の提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
-* [DMCAテイクダウン通知のガイドの提出](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+* [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
+* [DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)

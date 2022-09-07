@@ -1,19 +1,19 @@
-Divulgación coordinada de las vulnerabilidades de seguridad - GitHub Docs
+Divulgación Coordinada de Vulnerabilidades de Seguridad - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Divulgación coordinada de las vulnerabilidades de seguridad
+Divulgación Coordinada de Vulnerabilidades de Seguridad
 ==========
 
-Deseamos mantener a GitHub seguro para todos. Si descubres una vulnerabilidad de seguridad en GitHub, apreciamos tu ayuda para divulgárnosla de forma coordinada.
+Deseamos que GitHub sea seguro para todos. Si ha descubierto una vulnerabilidad de seguridad en GitHub, apreciamos su ayuda para comunicárnosla de manera coordinada.
 
-[](#bounty-program)Programa de recompensas
+[](#programa-de-recompensa)[]()Programa de Recompensa
 ----------
 
-Al igual que muchas otras grandes empresas de software, GitHub proporciona una recompensa de errores para mejorar la relación con los investigadores de seguridad. La idea es simple: los hackers e investigadores de seguridad (como tú) encuentran y reportan vulnerabilidades mediante nuestro proceso de divulgación coordinado. Posteriormente, para reconocer el esfuerzo significativo que estos investigadores suelen presentan cuando cazan errores, los recompensamos con algo de dinero en efectivo.
+Al igual que otras grandes empresas de software, GitHub ofrece una recompensa por la detección de errores con el fin de mejorar la interacción con los investigadores de seguridad. La idea es sencilla: los piratas informáticos y los investigadores de seguridad (como usted) encuentran vulnerabilidades y las notifican a través de nuestro proceso de revelación coordinado. A continuación, en reconocimiento del esfuerzo significativo que estos investigadores suelen realizar para detectar los errores, los recompensamos con una cantidad en efectivo.
 
-Revisa el sitio [Recompensa de Errores de GitHub](https://bounty.github.com) para obtener detalles de recompensas, revisa también nuestros términos amplios de la [Disposición de seguridad legal](/es/articles/github-bug-bounty-program-legal-safe-harbor) y ¡Feliz caza!
+Consulte el sitio [GitHub Bug Bounty](https://bounty.github.com) para obtener más información sobre las recompensas y también los términos del completo [Marco de Seguridad Legal del Programa de Recompensa por la Detección de Errores de GitHub](/es/articles/github-bug-bounty-program-legal-safe-harbor) y ¡feliz búsqueda!

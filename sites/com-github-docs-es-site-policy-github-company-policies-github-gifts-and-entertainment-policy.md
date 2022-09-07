@@ -1,100 +1,100 @@
-Política de entretenimiento y obsequios de GitHub - GitHub Docs
+Directiva de obsequios y entretenimiento de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de entretenimiento y obsequios de GitHub
+Directiva de obsequios y entretenimiento de GitHub
 ==========
 
-[En este artículo](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
+[In this article](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
 ----------
 
-* [Políticas de empresa](#company-policies)
+* [Directivas de empresa](#directivas-de-empresa)
 
-* [Ejemplos de regalos aceptables e inaceptables](#examples-of-acceptable-and-unacceptable-gifts)
+* [Ejemplos de regalos aceptables e inaceptables](#ejemplos-de-regalos-aceptables-e-inaceptables)
 
-* [Proceso](#process)
+* [Proceso](#proceso)
 
-* [Consecuencias](#consequences)
+* [Consecuencias](#consecuencias)
 
-* [Más información](#more-information)
+* [Más información](#más-información)
 
-GitHub reconoce que nuestro negocio se basa en relaciones positivas y transparentes. Si bien las interacciones informales y los intercambios de regalos pueden ser parte del desarrollo de esas relaciones e incluso pueden considerarse habituales en algunos países, debemos asegurarnos de que estemos siguiendo las leyes antisoborno. Tenemos la obligación legal de comportarnos éticamente, incluyendo no usar dichas interacciones para crear una ventaja especial o influir en una transacción.
+GitHub reconoce que nuestro negocio se basa en relaciones positivas y transparentes. Si bien las interacciones informales y los intercambios de obsequios pueden ser parte del desarrollo de esas relaciones e incluso pueden considerarse habituales en algunos países, debemos asegurarnos de cumplir las leyes antisoborno. Tenemos la obligación legal de comportarnos de manera ética, lo que incluye no utilizar tales interacciones para crear una ventaja especial o influir en un acuerdo.
 
-[](#company-policies)Políticas de empresa
+[](#directivas-de-empresa)[]()Directivas de empresa
 ----------
 
-Como recordatorio, nuestro Código de Ética dice:
+Como recordatorio, nuestro Código Ético establece lo siguiente:
 
 >
 >
-> Nunca debes pagar, ofrecer pagar, prometer pagar, inducir, aceptar o autorizar el pago de ninguna otra cosa de valor, a ninguna persona, incluyendo a ninguna persona en una posición de poder o autoridad, por ejemplo, funcionarios del gobierno o en transacciones comerciales, con el fin de obtener o mantener negocios, o asegurar cualquier otra ventaja inapropiada para GitHub o Microsoft. Tampoco debes solicitar o aceptar sobornos, ni ningún otro pago indebido en efectivo. ... [Los empleados de GitHub] están obligados a mantener registros precisos y razonables de todas las transacciones que implican cualquier gasto hecho en nombre de GitHub, por ejemplo, al mantener los recibos y proporcionar descripciones precisas de tus gastos, o cualquier otra transacción que implique la eliminación o la transferencia de los activos de GitHub. . . Estas acciones se exigen por la ley de prácticas corruptas extranjeras de los EE. UU., la ley de soborno del Reino Unido de 2010 y las leyes antisoborno de otras jurisdicciones en las que GitHub hace negocios y que también son simplemente la manera correcta de proceder.
+> Nunca debe pagar, ofrecer pagar, prometer pagar, inducir, aceptar o autorizar el pago de cualquier cosa de valor a nadie, incluida cualquier persona en una posición de poder o autoridad, como funcionarios, o en transacciones comerciales, para obtener o mantener negocios o asegurar cualquier otra ventaja indebida para GitHub o Microsoft. Tampoco debe solicitar ni aceptar sobornos, comisiones ilícitas ni ningún otro pago en efectivo inapropiado. ... [Los empleados de GitHub] deben mantener registros precisos y justos de todas las transacciones que involucren cualquier gasto realizado en nombre de GitHub, por ejemplo, conservando los recibos y ofreciendo descripciones precisas de sus gastos, o cualquier otra transacción que involucre la disposición o transferencia de activos de GitHub. Dichas acciones son obligatorias por la Ley de Prácticas Corruptas en el Extranjero de EE. UU., la Ley Antisoborno de 2010 del Reino Unido y las leyes contra el soborno de otras jurisdicciones en las que GitHub hace negocios, además de considerarse lo correcto.
 >
 >
 
-El código ético de GitHub detalla ciertas situaciones, incluyendo sobre regalos, viajes y entretenimiento; facilitación de pagos; donaciones caritativas; puestos laborales y trabajar con representantes, así como la descripción de quién se considera un funcionario del gobierno.
+El Código Ético de GitHub explica más detalladamente algunas situaciones, incluidos los obsequios, los viajes y el entretenimiento; facilitar los pagos; donaciones de caridad; trabajos; y trabajar con representantes, así como sobre quién se considera un funcionario.
 
 Nuestras Normas de Conducta prohíben:
 
 >
 >
-> Sobornar a funcionarios del gobierno u otras personas para obtener una ventaja injusta y tomar sobornos de cualquier persona.
+> Sobornar a funcionarios u otras personas para obtener una ventaja injusta y aceptar sobornos de cualquier persona.
 >
 >
 
-Eso significa que no solo se debe administrar dinero en efectivo o equivalente en efectivo de ningún tipo, sino no entregar nada de valor a nadie (incluyendo los empleados públicos, funcionarios del gobierno o cualquier persona en una posición de poder o autoridad, así como personas que no estén en cualquiera de esas posiciones privilegiadas) con el fin de influir en ellos o de que cualquier persona pueda influir en GitHub. Se prohíbe dicha actividad por la ley de prácticas corruptas extranjeras de los EE.UU. y las por las leyes antisoborno del Reino Unido, que rigen las acciones de GitHub en todo el mundo.
+Eso significa que no solo no se debe dar dinero en efectivo o equivalente de efectivo de ningún tipo, sino nada de valor a nadie (incluidos los servidores públicos, los funcionarios o cualquier persona en una posición de poder o autoridad, así como a las personas que no ocupan ninguna de esas posiciones privilegiadas) para influir en ellos o tomados de cualquier persona para influir en GitHub. Dicha actividad está prohibida por la Ley de Prácticas Corruptas en el Extranjero de EE. UU. y las leyes Antisoborno del Reino Unido, las cuales rigen las acciones de GitHub en todo el mundo.
 
-[](#examples-of-acceptable-and-unacceptable-gifts)Ejemplos de regalos aceptables e inaceptables
+[](#ejemplos-de-regalos-aceptables-e-inaceptables)[]()Ejemplos de regalos aceptables e inaceptables
 ----------
 
-Entonces, ¿Qué significa "de valor"? Ten en cuenta que no se aceptan regalos a funcionarios del gobierno (ok, tal vez calcomanías). Siempre debes preguntarles qué permiten y qué prohíben sus políticas. Pero si tienes dudas, por favor, consulta la ley para asegurarte. Por ejemplo, muchos legisladores estadounidenses no te permitirán llevarlos a cenar y pagar.
+¿Qué significa «de valor»? Tenga en cuenta que no se aceptan obsequios para funcionarios (bueno, tal vez pegatinas). Siempre debe preguntarles qué permiten y prohíben sus directivas. Pero si tiene dudas, consúltelo con el Departamento Jurídico para asegurarse. Por ejemplo, muchos congresistas estadounidenses no le permitirán que les invite a cenar y pagar la cena.
 
-En cuanto a otros clientes o clientes potenciales, ciertas cosas pueden parecer triviales pero tienen un gran valor para otra persona. Por ejemplo, si bien puede que no parezca una gran cosa para ti lograr que se contrate a la hija de tu amigo como pasante, puede ser de gran valor para ellos. Pero si no está calificada y mueves influencias para hacer que suceda, entonces no está bien. Además, si la intención es influir de manera inadecuada, cualquier cosa, por pequeña que sea, se puede considerar "de valor".
+En cuanto a otros clientes o clientes potenciales, algunas pueden parecer triviales, pero tener un gran valor para otra persona. Por ejemplo, aunque a usted no le parezca un gran problema contratar a la hija de su amigo como becaria, podría ser de gran valor para ellos. Pero si ella no está cualificada y usted mueve los hilos para que suceda, eso no se considera una conducta adecuada. Además, si la intención es influir indebidamente, cualquier cosa, por pequeña que sea, puede considerarse «de valor».
 
-🙅 *Aquí hay otras cosas que no son correctas:*
+🙅 *A continuación, se enumeran otras cosas que no se consideran adecuadas:*
 
-* Pasaje aéreo de primera clase para las oficinas de GitHub para sesiones de instrucción ejecutiva ✈️ + 🍾
-* Tours en bodegas 🍷
-* Recomendar al niño de un amigo para admisión a una escuela privada prestigiosa 🎓
-* Entradas a Disneyland 👸, la Copa del mundo 🥅, los Juegos Olímpicos 🏅
-* Un balón ⚽️ autografiado por un jugador famoso
+* Pasaje aéreo en primera clase a las oficinas de GitHub para sesiones informativas ejecutivas ✈️+🍾
+* Visitas a bodegas
+* Recomendar al hijo de un amigo a una prestigiosa escuela privada para su admisión
+* Entradas a Disneyland👸, la Copa del mundo, las Olimpiadas
+* Un balón de fútbol ⚽️ autografiado por un jugador famoso
 * Una contribución a una organización benéfica
 
-🙆 *Aquí se presentan algunas cosas que en realidad están bien para los clientes o clientes potenciales:*
+🙆 *A continuación, se enumeran algunas cosas que sí son aceptables para los clientes o clientes potenciales:*
 
-* Flores
-* Pasaje aéreo de clase turista a las oficinas de GitHub para sesiones de reuniones ejecutivas ✈️
-* Boletos tipo gradas para un evento deportivo ⚾️
-* Una cena de precio razonable en la ciudad 🍽
-* Una pequeña caja de chocolates como agradecimiento de fin de año 🍫
+* Artículos de bienvenida
+* Pasaje aéreo en turista a las oficinas de GitHub para sesiones informativas ejecutivas ✈️
+* Entradas en las gradas a un evento deportivo ⚾️
+* Una cena a un precio razonable en la ciudad
+* Una cajita de bombones como agradecimiento de fin de año
 
-Todo lo anterior se aplica a la *toma* de sobornos también. Por lo tanto, si un proveedor o posible proveedor te envía algo "de valor", no lo aceptes o, al menos, aplica la ley antes de hacerlo.
+Todo lo anterior se aplica a *aceptar* sobornos también. Por lo tanto, si un proveedor o posible proveedor le envía algo «de valor», no lo acepte o al menos consúltelo con el Departamento Jurídico antes.
 
-[](#process)Proceso
+[](#proceso)[]()Proceso
 ----------
 
-Si estás planeando brindar o aceptar un regalo informal (que no es uno de nuestros artículos promocionales como camisetas y conjunto de calcomanías), por favor asegúrate de seguir el proceso que se presenta a continuación.
+Si planea ofrecer o aceptar un obsequio informal (que no sea uno de nuestros artículos promocionales, como camisetas y calcomanías), asegúrese de seguir este proceso.
 
-Ten en cuenta que lo que es una cantidad aceptable puede variar. Por ejemplo, gastar $50 en la cena puede considerarse mucho dinero en algunos países, pero no tanto en otros. Por lo tanto, si tienes duda, ¡Pregunta!
+Tenga en cuenta que lo que se considera una cantidad aceptable puede variar. Por ejemplo, gastar cincuenta dólares (50 USD) en una cena puede considerarse mucho dinero en algunos países, pero no tanto en otros. Así que, en caso de duda, ¡pregunte!
 
-1. En términos generales, para cualquier gasto que exceda de $150, necesitarás aprobación (en cada ocasion) del Jurídico, por escrito. Y para cualquier regalo que recibas que supere los $150, deberás informar de ello (en cada ocasión) a Jurídico, por escrito. (Jurídico sólo lo pondera en el tema de soborno. Es posible que aún debas verificar con Finanzas por otras razones.)
+1. En términos generales, para cualquier gasto que exceda los ciento cincuenta dólares estadounidenses (150 USD), necesitará la aprobación (cada vez) del Departamento Jurídico por escrito. Y para cualquier obsequio que reciba que exceda los ciento cincuenta dólares (150 USD), deberá informarlo (cada vez) al Departamento Jurídico por escrito. (El Departamento Jurídico solo valora la cuestión del soborno. Es posible que aún deba consultar con el Departamento Financiero por otros motivos).
 
-2. Cuando envíes tu informe de gastos para el reembolso, por favor:
+2. Cuando envíe su informe de gastos para obtener el reembolso:
 
-   * Indica el destinatario y el propósito del regalo en las notas; e
-   * Incluye una copia de la aprobación por correo electrónico
+   * indique el destinatario y el propósito del regalo en las notas; e
+   * incluya una copia de la aprobación por correo electrónico.
 
-[](#consequences)Consecuencias
+[](#consecuencias)[]()Consecuencias
 ----------
 
-¿Qué sucede si no sigues la política y GitHub termina pagando a un cliente potencial y a su familia para volar en primera clase a Japón y asistir a los Juegos Olímpicos de Tokio? ¿O si le entregas con arreglo previo una maleta de euros a un funcionario del gobierno en un casillero de estación de tren?
+¿Qué sucede si no sigue la directiva y GitHub termina pagando a un cliente potencial y su familia para que vuelen en primera clase a Japón y asistan a los Juegos Olímpicos de Tokio? ¿O si deja una maleta con euros para un funcionario en una taquilla acordada en la estación de tren?
 
-MULTAS y CÁRCEL. No necesariamente solo para GitHub. Puedes llegar a pasar algunos años en la cárcel y no importará si el cliente alguna vez envió una orden a GitHub después de su viaje a Japón o si el funcionario del gobierno incluso recogió la maleta de dinero en efectivo. Básicamente, no importa si realmente *hiciste* un soborno. Sin embargo, el intento es lo que cuenta.
+MULTAS y CÁRCEL. Tampoco necesariamente solo para GitHub. Es posible que usted pase algunos años en la cárcel, y no importará si el cliente envió un pedido a GitHub después de su viaje a Japón o si el funcionario ni siquiera recogió la maleta de efectivo. Básicamente, no importa si realmente se *perpetró* el soborno. A pesar de lo que diga Yoda, lo que cuenta es intentarlo.
 
-[](#more-information)Más información
+[](#más-información)[]()Más información
 ----------
 
-La [Guía de Recursos para la Ley de Prácticas Corruptas en el Extranjero de los EE. UU.](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) que proporciona el Departamento de Justicia de los EE. UU. es un recurso excelente para obtener más[](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)información y contexto sobre las reglas el cumplimiento y las sanciones.
+Para obtener más información y contexto sobre reglas, aplicación y sanciones, la [Guía de recursos de la Ley de Prácticas Corruptas en el Extranjero de EE. UU.](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) del Departamento de Justicia de EE. UU. es un recurso excelente.

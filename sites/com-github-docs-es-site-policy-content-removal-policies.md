@@ -1,17 +1,17 @@
-Políticas de eliminación de contenido - GitHub Docs
+Directivas de Eliminación de Contenido - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Políticas de eliminación de contenido
+Directivas de Eliminación de Contenido
 ==========
 
-* [Enviar solicitudes de eliminación de contenido](/es/site-policy/content-removal-policies/submitting-content-removal-requests)
-* [Política de retiro de DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
-* [Política de Eliminación de Información Privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
-* [Política de marca registrada de GitHub](/es/site-policy/content-removal-policies/github-trademark-policy)
-* [Guía para enviar una contranotificación de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
-* [Guía para enviar un aviso de retiro de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Envío de solicitudes de eliminación de contenido](/es/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
+* [Directiva de Eliminación de Información Privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [Directiva de Marcas Comerciales de GitHub](/es/site-policy/content-removal-policies/github-trademark-policy)
+* [Guía para Presentar una Contranotificación de la DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Guía para Presentar una Notificación de Retirada de la DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)

@@ -1,71 +1,71 @@
-Política GitHub de retirada governamental - GitHub Docs
+Política de Remoção Governamental do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política GitHub de retirada governamental
+Política de Remoção Governamental do GitHub
 ==========
 
-[Neste artigo](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
+[In this article](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
 ----------
 
-* [O que é?](#what-is-this)
+* [O que é isso?](#o-que-é-isso)
 
-* [O que é uma solicitação de retirada governamental completa?](#what-is-a-complete-government-takedown-request)
+* [O que é uma solicitação de remoção governamental completa?](#o-que-é-uma-solicitação-de-remoção-governamental-completa)
 
-* [O que acontece quando recebemos uma solicitação de retirada completa de um governo?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+* [O que acontece quando recebemos uma solicitação de remoção completa de um governo?](#o-que-acontece-quando-recebemos-uma-solicitação-de-remoção-completa-de-um-governo)
 
-* [Por que postamos publicamente avisos de retirada emitidos?](#why-do-we-publicly-post-takedown-notices)
+* [Por que publicamos notificações de remoção publicamente?](#por-que-publicamos-notificações-de-remoção-publicamente)
 
-* [O que significa se postarmos um aviso em nosso repositório de retiradas governamentais?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+* [O que significa se postarmos uma notificação em nosso repositório de remoções governamentais?](#o-que-significa-se-postarmos-uma-notificação-em-nosso-repositório-de-remoções-governamentais)
 
-* [Retiradas do governo com base em violações dos Termos de Serviço do GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+* [Remoções governamentais com base em violações dos Termos de Serviço do GitHub](#remoções-governamentais-com-base-em-violações-dos-termos-de-serviço-do-github)
 
-* [Relatório de transparência](#transparency-reporting)
+* [Relatórios de transparência](#relatórios-de-transparência)
 
-[](#what-is-this)O que é?
+[](#o-que-é-isso)[]()O que é isso?
 ----------
 
-De vez em quando, o GitHub recebe solicitações de governos para remover conteúdos que tenham sido declarados ilegais em sua jurisdição local. Embora nem sempre possamos concordar com essas leis, podemos precisar bloquear conteúdos se recebermos uma solicitação completa de um agente governamental; dessa forma, nossos usuários, nessa jurisdição, poderão continuar a ter acesso ao GitHub para colaborar e construir softwares.
+De tempos em tempos, o GitHub recebe solicitações por parte de governos para remover conteúdo que foi declarado ilegal em sua jurisdição local. Embora nem sempre concordemos com essas leis, talvez seja necessário bloquear o conteúdo se recebermos uma solicitação completa de um funcionário do governo para que nossos usuários nessa jurisdição continuem a ter acesso ao GitHub para colaborar e criar software.
 
-[](#what-is-a-complete-government-takedown-request)O que é uma solicitação de retirada governamental completa?
+[](#o-que-é-uma-solicitação-de-remoção-governamental-completa)[]()O que é uma solicitação de remoção governamental completa?
 ----------
 
-Para ser uma solicitação completa, um envio ou aviso deve
+Para contar como uma solicitação completa, uma solicitação ou notificação deve
 
-* vir de uma agência governamental relevante e oficial
+* vir de um órgão governamental oficial e relevante
 * identificar conteúdo ilegal
-* especificar a fonte da ilegalidade nessa jurisdição (lei ou ordem judicial).
+* especificar a fonte da ilegalidade nessa jurisdição (lei ou decisão judicial).
 
-[](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)O que acontece quando recebemos uma solicitação de retirada completa de um governo?
+[](#o-que-acontece-quando-recebemos-uma-solicitação-de-remoção-completa-de-um-governo)[]()O que acontece quando recebemos uma solicitação de remoção completa de um governo?
 ----------
 
-Quando recebemos uma notificação de uma agência governamental relevante e oficial que identifica conteúdos ilegais e especifica a fonte da ilegalidade, nós
+Quando recebemos uma notificação de uma agência governamental oficial relevante que identifica o conteúdo ilegal e especifica a fonte da ilegalidade,
 
-* notificamos os usuários afetados sobre o conteúdo específico que alegadamente viola a lei, e que esta é uma solicitação de retirada legal
-* permitimos que os usuários afetados recorram da decisão como parte dessa notificação
-* limitamos o escopo geográfico da retirada, quando possível, e incluímos isso como parte da notificação
-* divulgamos a solicitação oficial que levou à retirada em nosso [repositório público de retiradas governamentais](https://github.com/github/gov-takedowns).
+* notificamos os usuários afetados sobre o conteúdo específico que supostamente viola a lei e que esta é uma solicitação de remoção legal
+* permitimos que os usuários afetados contestem a decisão como parte dessa notificação
+* limitamos o escopo geográfico da remoção quando possível e o incluímos como parte da notificação
+* postamos a solicitação oficial que levou à remoção em nosso [repositório público de remoções governamentais](https://github.com/github/gov-takedowns).
 
-[](#why-do-we-publicly-post-takedown-notices)Por que postamos publicamente avisos de retirada emitidos?
+[](#por-que-publicamos-notificações-de-remoção-publicamente)[]()Por que publicamos notificações de remoção publicamente?
 ----------
 
-Estamos preocupados com a censura da internet e acreditamos que a transparência a um nível específico e contínuo é essencial para a boa governança. Ao divulgar publicamente os avisos, podemos informar melhor o público sobre qual conteúdo está sendo retido no GitHub e por quê. Publicamos avisos de retirada para documentar o seu potencial de inibição da liberdade de fala.
+Estamos preocupados com a censura na Internet e acreditamos que a transparência em um nível específico e contínuo é essencial para a boa governança. Ao postar as notificações publicamente, podemos informar melhor o público sobre qual conteúdo está sendo retido do GitHub e por quê. Postamos as notificações de remoção para documentar seu potencial de discurso frio.
 
-[](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)O que significa se postarmos um aviso em nosso repositório de retiradas governamentais?
+[](#o-que-significa-se-postarmos-uma-notificação-em-nosso-repositório-de-remoções-governamentais)[]()O que significa se postarmos uma notificação em nosso repositório de remoções governamentais?
 ----------
 
-Significa que recebemos o aviso na data indicada. Isso *não* significa que o conteúdo era ilegal ou errado. Isso *não* significa que o usuário identificado no aviso fez qualquer coisa de errado. Não fazemos ou deixamos implícito nenhum juízo de valor sobre o mérito das alegações que eles fazem. Publicamos esses avisos e essas solicitações apenas para fins informativos.
+Significa que recebemos a notificação na data indicada. Isso *não* significa que o conteúdo era ilegal ou estava errado. Isso *não* significa que o usuário identificado na notificação fez algo errado. Não fazemos nem implicamos qualquer julgamento sobre o mérito dos requerimentos judiciais ou extrajudiciais que eles fazem. Postamos essas notificações e solicitações apenas para fins informativos.
 
-[](#government-takedowns-based-on-violations-of-githubs-terms-of-service)Retiradas do governo com base em violações dos Termos de Serviço do GitHub
+[](#remoções-governamentais-com-base-em-violações-dos-termos-de-serviço-do-github)[]()Remoções governamentais com base em violações dos Termos de Serviço do GitHub
 ----------
 
-Em alguns casos, o GitHub recebe relatórios de funcionários públicos de violações de Termos de Serviço do GitHub. Processamos essas violações como processaríamos uma violação dos Termos de Serviço relatada por qualquer outra pessoa. No entanto, notificamos os usuários afectados de que o relatório provém de um governo e, como em qualquer outro caso, isso lhes dá a oportunidade de recorrer.
+Em alguns casos, o GitHub recebe relatórios de funcionários do governo sobre violações dos Termos de Serviço do GitHub. Processamos essas violações como processaríamos uma violação dos Termos de Serviço relatada por qualquer outra pessoa. No entanto, notificamos os usuários afetados de que a denúncia veio de um órgão do governo e, como em qualquer outro caso, damos a eles a oportunidade de recorrer.
 
-[](#transparency-reporting)Relatório de transparência
+[](#relatórios-de-transparência)[]()Relatórios de transparência
 ----------
 
-Além de postar avisos públicos de retirada nos nossos repositórios de `github/gov-takedowns`, nós os relatamos no nosso relatório de transparência. Também acompanhamos e relatamos em nosso relatório de transparência as retiradas governamentais com base em violações dos Termos de Serviço do GitHub.
+Além de postar notificações de remoção governamental no nosso repositório `github/gov-takedowns`, informamos sobre eles em nosso relatório de transparência. Também rastreamos e informamos em nosso relatório de transparência sobre remoções governamentais com base em violações dos Termos de Serviço do GitHub.

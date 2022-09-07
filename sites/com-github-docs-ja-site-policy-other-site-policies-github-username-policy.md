@@ -1,38 +1,38 @@
-GitHub ユーザ名ポリシー - GitHub Docs
+GitHub のユーザー名ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub ユーザ名ポリシー
+GitHub のユーザー名ポリシー
 ==========
 
-[ここには以下の内容があります:](/site-policy/other-site-policies/github-username-policy#in-this-article)
+[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
 ----------
 
-* [使用したいユーザ名がすでに他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)
+* [使用したいユーザー名が既に他者に取得されている場合](#使用したいユーザー名が既に他者に取得されている場合)
 
-* [トレードマークポリシー](#trademark-policy)
+* [商標ポリシー](#商標ポリシー)
 
-* [ネームスクワッティングに関するポリシー](#name-squatting-policy)
+* [アカウント名の不法占拠に関するポリシー](#アカウント名の不法占拠に関するポリシー)
 
-GitHub アカウント名は、すぐに使用されることを前提として先着順で提供されています。
+GitHub アカウント名は、即時かつ実際に使用されることを目的として先着順で提供されています。
 
-[](#what-if-the-username-i-want-is-already-taken)使用したいユーザ名がすでに他者に取得されている場合
+[](#使用したいユーザー名が既に他者に取得されている場合)[]()使用したいユーザー名が既に他者に取得されている場合
 ----------
 
 GitHub 上のすべてのアクティビティが公開されているわけではありませんのでご注意ください。公開されているアクティビティがないアカウントでも、実際に使用されている可能性があります。
 
-使用したいユーザ名がすでに取得されている場合、他の名前を取得するか、名前を少し変えることを検討してください。 数字、ハイフン、別のつづりなどを使えば、希望するユーザ名が見つかるかもしれません。
+使用したいユーザー名が既に他者に取得されている場合、他の名前を取得するか、名前を少し変えることを検討してください。 数字、ハイフン、別のつづりなどを使用すると、まだ使用できる希望のユーザー名が見つかる可能性があります。
 
-[](#trademark-policy)トレードマークポリシー
+[](#商標ポリシー)[]()商標ポリシー
 ----------
 
-誰かのアカウントがあなたの商標権を侵害していると思われる場合は、[トレードマークポリシー](/ja/articles/github-trademark-policy)のページで商標権侵害の申し立てに関する詳細をご確認ください。
+誰かのアカウントがお客様の商標権を侵害していると思われる場合は、当社の[商標ポリシー](/ja/articles/github-trademark-policy)のページで商標権侵害の申し立てに関する詳細を確認してください。
 
-[](#name-squatting-policy)ネームスクワッティングに関するポリシー
+[](#アカウント名の不法占拠に関するポリシー)[]()アカウント名の不法占拠に関するポリシー
 ----------
 
-GitHub はアカウント名を不正に占拠することを禁止しており、現時点で使用しないアカウント名を予約したり、将来の使用のために保持したりすることはできません。 ネームスクワッティングポリシーに違反するアカウントは、通知なしに削除またはアカウント名を変更されることがあります。 アカウント名と引き換えに他の形態の支払いを販売、購入、または勧誘することは禁止されており、これを行った場合、アカウントが永久に停止される場合があります。
+GitHub はアカウント名を不法占拠することを禁止しており、将来の使用のためにアカウント名を予約したり、実際には使用せずに保持したりすることはできません。 アカウント名の不法占拠に関するポリシーに違反するアカウントは、通知なしに削除されるか、またはアカウント名を変更されることがあります。 アカウント名と引き換えに他の形態の支払いを販売、購入、または勧誘することは禁止されており、これを行った場合、アカウントが恒久的に停止される場合があります。

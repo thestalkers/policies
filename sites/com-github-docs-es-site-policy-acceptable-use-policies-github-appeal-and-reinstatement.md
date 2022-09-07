@@ -1,55 +1,55 @@
-Apelaciones y reinstauraciones en GitHub - GitHub Docs
+Apelación y Restablecimiento de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Apelaciones y reinstauraciones en GitHub
+Apelación y Restablecimiento de GitHub
 ==========
 
-[En este artículo](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+[In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
-* [Apelación y reinstauración](#appeal-and-reinstatement)
+* [Apelación y restablecimiento](#apelación-y-restablecimiento)
 
-* [¿Qué son las apelaciones y reinstauraciones?](#what-are-appeals-and-reinstatements)
+* [¿Qué son las apelaciones y los restablecimientos?](#qué-son-las-apelaciones-y-los-restablecimientos)
 
-* [Cómo funciona esto](#how-this-works)
+* [Funcionamiento del proceso](#funcionamiento-del-proceso)
 
-* [Transparencia](#transparency)
+* [Transparencia](#transparencia)
 
-[](#appeal-and-reinstatement)Apelación y reinstauración
+[](#apelación-y-restablecimiento)[]()Apelación y restablecimiento
 ----------
 
-Si bien la mayoría de las interacciones entre los individuos de la comunidad de GitHub caen dentro de nuestras Políticas de Uso Aceptable, a veces ocurren violaciones a dichas políticas. Cuando esto sucede, el personal de GitHub podría necesitar tomar una acción de cumplimiento para tratar dichas violaciones. Sin embargo, en algunos casos podría existir una base para revertir una acción de moderación que tomó el personal de GitHub.
+Si bien la mayoría de las interacciones entre personas en la comunidad de GitHub entran en el ámbito de las Directivas de Uso Aceptable y en las Pautas de la Comunidad de GitHub, en ocasiones se producen infracciones de esas directivas. Cuando esto sucede, es posible que el personal de GitHub deba llevar a cabo acciones de ejecución para abordar esas infracciones. Sin embargo, en algunos casos, puede que existan fundamentos para revertir una acción de moderación realizada por el personal de GitHub.
 
-[](#what-are-appeals-and-reinstatements)¿Qué son las apelaciones y reinstauraciones?
+[](#qué-son-las-apelaciones-y-los-restablecimientos)[]()¿Qué son las apelaciones y los restablecimientos?
 ----------
 
-Tanto las apelaciones como las reinstauraciones se levantan en relación con la inhabilitación de contenido o las restricciones para acceder a una cuenta.
+Tanto las apelaciones como los restablecimientos surgen en relación con la inhabilitación de contenidos o con las restricciones de acceso a una cuenta.
 
-**Reinstauración**: El usuario quiere volver a tener acceso a su cuenta o contenido y está dispuesto a realizar cualquier cambio necesario para tratar la violación y debe acordar el no violar nuestros términos en adelante.
+**Restablecimiento**: el usuario desea recuperar el acceso a su cuenta o contenido y está dispuesto a realizar los cambios necesarios para abordar la infracción; asimismo, debe aceptar no infringir nuestros términos en el futuro.
 
-**Apelación**: El usuario disputa que ocurrió una violación y puede proporcionar información adicional para mostrar que se debió de haber tomado una decisión diferente.
+**Apelación**: el usuario no está de acuerdo con que se haya producido una infracción y puede proporcionar información adicional para demostrar que se debería haber tomado una decisión diferente.
 
-[](#how-this-works)Cómo funciona esto
+[](#funcionamiento-del-proceso)[]()Funcionamiento del proceso
 ----------
 
-Si quieres una reinstauración o quieres apelar a una acción de cumplimiento, llena nuestro [Formulario de reinstauración y apelación](https://support.github.com/contact/reinstatement).
+Si desea que se restablezca su cuenta o su contenido o apelar una acción de ejecución, rellene el [formulario de apelación y restablecimiento](https://support.github.com/contact/reinstatement).
 
-El personal de GitHub revisará la información proporcionada en el formulario para determinar si existe información suficiente para garantizar la reinstauración u otorgar una apelación.
+El personal de GitHub revisará la información indicada en el formulario para determinar si es suficiente para justificar el restablecimiento o la concesión de una apelación.
 
-* **Reinstauración**: En donde un usuario puede acordar el acatar nuestras Políticas de Uso Aceptable en lo subsecuente y ha hecho los cambios necesarios para tratar la(s) violación(es), podríamos elegir reinstaurar su cuenta o contenido dependiendo de las circunstancias y gravedad de la violación inicial.
+* **Restablecimiento**: cuando un usuario puede aceptar cumplir nuestras Directivas de Uso Aceptable en lo sucesivo y ha llevado a cabo los cambios necesarios para abordar las infracciones, podemos optar por restablecer su cuenta o su contenido, según las circunstancias y la gravedad de la infracción inicial.
 
-El personal de GitHub revisará todas las solicitudes de reinstauración legítimas inicialmente y estas se responderán con una decisión.
+Todas las solicitudes legítimas de restablecimiento se revisarán inicialmente por el personal de GitHub y se responderán con una decisión.
 
-* **Apelación**: Cuando un usuario busca impugnar una decisión, puede utilizar el formulario para explicar la bases con las que lo hace y proporcionar cualquier información adicional con respecto a la supuesta violación que piensan que pudo haber influenciado una toma de decisión diferente. Si la información que se proporcionó demuestra que se debió haber llegado a una conclusión diferente, podríamos fallar a favor de la apelación.
+* **Apelación**: cuando un usuario desee impugnar una decisión, puede usar el formulario para explicar los fundamentos de dicha impugnación y aportar cualquier información adicional sobre la supuesta infracción que, a su juicio, debería haber llevado a tomar una decisión diferente. Si la información proporcionada demuestra que se debería haber llegado a una conclusión diferente, es posible que podamos conceder una apelación.
 
-Si el revisor del personal de GitHub es la misma persona que hizo la determinación inicial y dicho miembro del personal cree que la conclusión inicial fue correcta (y, por lo tanto, se debiera inclinar a negar la apelación), un miembro diferente del equipo de GitHub revisará la apelación independientemente. Todas las apelaciones legítimas se responderán con una decisión final.
+Si el revisor del personal de GitHub es la misma persona que tomó la determinación inicial y ese miembro del personal considera que su conclusión inicial fue correcta (y, por lo tanto, se inclinaría a denegar la apelación), otro miembro del personal de GitHub revisará la apelación de forma independiente. Todas las apelaciones legítimas se responderán con una decisión final.
 
-[](#transparency)Transparencia
+[](#transparencia)[]()Transparencia
 ----------
 
-Rastreamos las apelaciones y reinstauraciones en nuestros [reportes de transparencia](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuestros [informes de transparencia](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

@@ -1,15 +1,15 @@
-Políticas corporativas do GitHub - GitHub Docs
+Políticas da Empresa GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Políticas corporativas do GitHub
+Políticas da Empresa GitHub
 ==========
 
-* [Declaração do GitHub contra a escravidão moderna e o trabalho infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
-* [Declaração antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
-* [Compromisso de cooperação GPL do GitHub](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
-* [Política de presentes e entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Declaração do GitHub contra a Escravidão Moderna e o Trabalho Infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [Política Antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
+* [Compromisso de Cooperação GPL do GitHub](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Política de Presentes e Entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)

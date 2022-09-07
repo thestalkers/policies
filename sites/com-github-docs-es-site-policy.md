@@ -1,31 +1,31 @@
-Política del sitio - GitHub Docs
+Directiva del Sitio - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política del sitio
+Directiva del Sitio
 ==========
 
 * [Términos de GitHub](/es/site-policy/github-terms)
   ----------
 
-* [Políticas de uso aceptable](/es/site-policy/acceptable-use-policies)
+* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
   ----------
 
-* [Políticas de Privacidad](/es/site-policy/privacy-policies)
+* [Directivas de Privacidad](/es/site-policy/privacy-policies)
   ----------
 
-* [Otras políticas del sitio](/es/site-policy/other-site-policies)
+* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)
   ----------
 
-* [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
+* [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)
   ----------
 
-* [Políticas de seguridad](/es/site-policy/security-policies)
+* [Directivas de Seguridad](/es/site-policy/security-policies)
   ----------
 
-* [Políticas Empresariales de GitHub](/es/site-policy/github-company-policies)
+* [Directivas de Empresa de GitHub](/es/site-policy/github-company-policies)
   ----------

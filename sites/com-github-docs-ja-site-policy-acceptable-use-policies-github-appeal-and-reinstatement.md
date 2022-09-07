@@ -1,55 +1,55 @@
-GitHub Appeal and Reinstatement - GitHub Docs
+GitHub の異議申し立ておよび復活 - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Appeal and Reinstatement
+GitHub の異議申し立ておよび復活
 ==========
 
-[ここには以下の内容があります:](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+[In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
 ----------
 
-* [意義申し立てと復帰](#appeal-and-reinstatement)
+* [異議申し立ておよび復活](#異議申し立ておよび復活)
 
-* [What are appeals and reinstatements?](#what-are-appeals-and-reinstatements)
+* [異議申し立ておよび復活とはどのようなものですか?](#異議申し立ておよび復活とはどのようなものですか)
 
-* [How this works](#how-this-works)
+* [仕組み](#仕組み)
 
-* [透明性](#transparency)
+* [透明性](#透明性)
 
-[](#appeal-and-reinstatement)意義申し立てと復帰
+[](#異議申し立ておよび復活)[]()異議申し立ておよび復活
 ----------
 
-While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, in some cases there may be a basis to reverse a moderation action taken by GitHub Staff.
+GitHub のコミュニティの個人間のやり取りの大部分が当社の利用規約およびコミュニティ ガイドラインの範囲内に収まりながらも、これらのポリシーの違反が発生することがあります。 違反行為が発生した場合、違反に対処するために GitHub のスタッフは強制措置を講じることが必要になる場合があります。 ただし、場合によっては、GitHub スタッフが取った節度ある行動を覆す根拠が見つかることがあります。
 
-[](#what-are-appeals-and-reinstatements)What are appeals and reinstatements?
+[](#異議申し立ておよび復活とはどのようなものですか)[]()異議申し立ておよび復活とはどのようなものですか?
 ----------
 
-Both appeals and reinstatements arise in relation to disabling of content or restrictions to access an account.
+異議申し立ておよび復活は、コンテンツの無効化またはアカウントのアクセス制限に関連して生じます。
 
-**Reinstatement**: The user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and must agree not to violate our terms going forward.
+**復活**:ユーザーは、アカウントまたはコンテンツへのアクセスを取り戻すことを望み、違反に対処するために進んで必要な変更を行い、今後は当社の条件に違反しないことに同意する必要があります。
 
-**Appeal**: The user disputes that a violation occurred and can provide additional information to show that a different decision should have been reached.
+**異議申し立て**:ユーザーは、違反が発生したことに反論し、異なる結論を下すべきだったことを示す追加の情報を提供できます。
 
-[](#how-this-works)How this works
+[](#仕組み)[]()仕組み
 ----------
 
-If you seek reinstatement or wish to appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement).
+復活を求める場合、または異議申し立てを希望する場合は、[異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)に入力してください。
 
-GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant reinstatement or granting of an appeal.
+GitHub のスタッフは、フォームに記載された情報を審査し、復活または異議申し立ての承諾を許可するための十分な情報があるかどうかを判断します。
 
-* **Reinstatement**: Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
+* **復活**:ユーザーが今後利用規約に拘束されることに同意し、違反に対処するために必要な変更を行った場合、当社は、最初の違反の状況と重大度に応じてアカウントまたはコンテンツを復活させることができます。
 
-All legitimate reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
+すべての合法的な復活リクエストは、最初に GitHub スタッフが審査し、決定が回答されます。
 
-* **Appeal**: Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision. If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an appeal.
+* **異議申し立て**:ユーザーが決定に異議申し立てを求める場合、フォームを使用して異議申し立ての根拠を説明し、異なる決定が下されるべきだと信じる、違反の疑いに関する追加情報を提供します。 提供された情報により異なる決定が下されるべきであることが立証された場合、当社は、異議申し立てを許可することができます。
 
-If the GitHub staff reviewer is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the appeal), a different member of GitHub’s staff will independently review the appeal. All legitimate appeals will be answered with a final decision.
+GitHub スタッフの審査担当者と同一人物が最初の判断を下し、当該スタッフ メンバーが最初の結論が正しいと考える (これにより異議申し立てが却下される可能性がある) 場合は、GitHub スタッフの別のメンバーが独自に異議申し立てを審査します。 すべての合法的な異議申し立ては最終決定が回答されます。
 
-[](#transparency)透明性
+[](#透明性)[]()透明性
 ----------
 
-We track appeals and reinstatements in our [transparency reports](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+当社は、異議申し立ておよび復活を [透明性レポート](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)で追跡します。

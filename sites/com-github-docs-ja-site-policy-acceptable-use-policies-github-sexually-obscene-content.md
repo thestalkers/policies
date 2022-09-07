@@ -1,18 +1,18 @@
-GitHub Sexually Obscene Content - GitHub Docs
+GitHub のわいせつなコンテンツ - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Sexually Obscene Content
+GitHub のわいせつなコンテンツ
 ==========
 
-We do not tolerate content associated with sexual exploitation or abuse of another individual, including where minors are concerned. We do not allow sexually themed or suggestive content that serves little or no purpose other than to solicit an erotic or shocking response, particularly where that content is amplified by its placement in profiles or other social contexts. これは以下のものが含まれます。
+当社は、未成年者が関与する場合を含む、他者の性的な利用または悪用に関するコンテンツを許容しません。 特に、当該コンテンツがプロファイルまたは他のソーシャル コンテンツに配置されたことにより増幅される場合、性的または衝撃的反応を誘う以外にほとんどまたは全く目的を持たない、性をテーマとしたり連想させたりするコンテンツを許容しません。 こうした行為には、以下が含まれます。
 
-* Pornographic content
-* Non-consensual intimate imagery
-* Graphic depictions of sexual acts including photographs, video, animation, drawings, computer-generated images, or text-based content
+* 性的コンテンツ
+* 同意のない親密な写真
+* 写真、動画、アニメーション、絵、コンピューター生成画像、またはテキストベースのコンテンツなど、性行為のあからさまな描写
 
-We recognize that not all nudity or content related to sexuality is obscene. We may allow visual and/or textual depictions in artistic, educational, historical or journalistic contexts, or as it relates to victim advocacy. In some cases a disclaimer can help communicate the context of the project. However, please understand that we may choose to limit the content by giving users the option to opt in before viewing.
+当社は、裸体または性に関するコンテンツがすべてわいせつであると認識しているわけではありません。 芸術的、教育的、またはジャーナリスティックな意味合いにおける、または被害者擁護に関連する視覚的および/またはテキスト記述は許容されます。 免責事項によりプロジェクトの背景が伝えられる場合もあります。 ただし、当社では、表示する前にオプトインする選択肢をユーザーに提供して、コンテンツを制限できるようにしています。

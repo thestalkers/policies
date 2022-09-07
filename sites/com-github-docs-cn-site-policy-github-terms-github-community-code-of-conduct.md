@@ -4,139 +4,139 @@ GitHub Community Code of Conduct - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
 GitHub Community Code of Conduct
 ==========
 
-[本文内容](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
+[In this article](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
 ----------
 
-* [概述和宗旨](#overview-and-purpose)
+* [Overview and Purpose](#overview-and-purpose)
 
-* [承诺](#pledge)
+* [Pledge](#pledge)
 
-* [标准](#standards)
+* [Standards](#standards)
 
-* [执行](#enforcement)
+* [Enforcement](#enforcement)
 
-* [联系 GitHub 工作人员](#contacting-github-staff)
+* [Contacting GitHub Staff](#contacting-github-staff)
 
-* [法律声明](#legal-notices)
+* [Legal Notices](#legal-notices)
 
-[](#overview-and-purpose)概述和宗旨
+[](#overview-and-purpose)Overview and Purpose
 ----------
 
-全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 走在一起，我们都有机会让这个社区成为我们值得骄傲的地方。
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
-GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 By participating in GitHub Community, you are agreeing to the same [Terms of Service](/cn/github/site-policy/github-terms-of-service) and [GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies) that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
+GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in GitHub Community, you are agreeing to the same [Terms of Service](/cn/github/site-policy/github-terms-of-service) and [GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies) that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in GitHub Community, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from community participation. We will investigate any abuse reports and may moderate public content within GitHub Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
-我们多样化的用户群带来了不同的观点、想法和经验，从上周创建第一个“Hello World”项目的人到世界上最知名的软件开发人员。 我们致力于将 GitHub 营造成一个欢迎社区提供所有不同声音和观点的环境，同时为开发人员提供一个尽其所能工作的地方。
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
-[](#pledge)承诺
+[](#pledge)Pledge
 ----------
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitHub Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-[](#standards)标准
+[](#standards)Standards
 ----------
 
-Treat GitHub Community with respect. 论坛是一种共享资源 — 通过不断对话来分享技能、知识和兴趣的地方。
+Treat GitHub Community with respect. We are a shared resource — a place to share skills, knowledge, and interests through ongoing conversation.
 
-The following are not hard and fast rules, merely aids to the human judgment of our community. 我们使用这些准则为文明的公众讨论提供一个窗明几净的环境。
+The following are not hard and fast rules, merely aids to the human judgment of our community. Use these guidelines to keep this a clean, well-lighted place for civilized public discourse.
 
-### [](#best-practices-for-maintaining-a-strong-community)*维护强大社区的最佳实践* ###
+### [](#best-practices-for-maintaining-a-strong-community)*Best Practices for Maintaining a Strong Community* ###
 
-GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持一个用户能够自由表达意见并对彼此想法（包括技术和其他方面）提出挑战的社区。 同时，重要的是用户保持尊重，并为其他人留出公开贡献的空间。 为了营造一个安全和富有成效的环境，我们鼓励社区成员参考这些准则，以了解如何在我们的平台上进行互动。 下面，您将找到一些有关如何作为 GitHub 社区的重要成员进行成功互动的建议。
+The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-* 以体贴和尊重的方式参与。
+* Engage with consideration and respect.
 
-  * **热情和开放** - 每天都有新用户加入我们的社区。 有些是成熟的开发人员，而另一些则刚入门。 请对其他想法和经验水平持开放态度。 为您自己以外的意见留出空间，欢迎新的合作者和刚入门的合作者。
+  * **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-  * **尊重** - 在协作环境中工作意味着可能会发生分歧。 但请记住，您的批评要对事不对人。 分享深思熟虑的、建设性的批评，并对与您互动的人保持礼貌。 如果您无法恭敬地参与，请考虑退后一步或使用我们的一些审核工具来缓解紧张局势。
+  * **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-  * **富有同情心** - GitHub 是一个全球性社区，拥有来自不同背景和观点的人，其中很多可能与您不同。 试着设身处地为他人着想，在解决问题之前，先了解他们的感受。 尽最大努力帮助 GitHub 成为一个任何人都能安全地做出贡献、参与讨论和分享不同想法的社区。
+  * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
-* 以积极和建设性的方式参与。
+* Contribute in a positive and constructive way.
 
-  * **改善讨论。**请始终努力以某种方式改善讨论（哪怕是极小的改善），帮助我们将论坛营造成讨论的绝佳场所。 如果您不确定自己的帖子会给对话带来什么影响，请斟酌您要表达的内容，三思而后行。
+  * **Improve the discussion.** Help us make this a great place for discussion by always working to improve the discussion in some way, however small. If you are not sure your post adds to the conversation, think over what you want to say and try again later.
 
-    论坛讨论的主题对我们非常重要，我们希望您也重视这些主题。 即使您不同意其中的某些内容，但请尊重主题和讨论主题的人。
+    The topics discussed here matter to us, and we want you to act as if they matter to you, too. Be respectful of the topics and the people discussing them, even if you disagree with some of what is being said.
 
-  * **Be clear and stay on topic.** GitHub Community is for collaboration, sharing ideas, and helping each other get stuff done. 脱离主题的评论对于完成工作和取得成效是一种干扰（有时可能受欢迎，但这种情况很少）。 紧扣主题有助于产生积极和富有成效的讨论。
+  * **Be clear and stay on topic.** GitHub Community is for collaboration, sharing ideas, and helping each other get stuff done. Off-topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
 
-    这也适用于分享链接。 Any links shared in GitHub Community discussions should be shared with the intent of providing relevant and appropriate information. 不能只是为某个站点吸引流量或关注而发布链接。 链接应始终附有对链接内容和目的的充分说明。 发布没有相关且有价值背景信息的链接，特别是未经请求提供这种链接，可能被当作发广告或带有更恶意的目的。
+    This applies to sharing links, as well. Any links shared in GitHub Community discussions should be shared with the intent of providing relevant and appropriate information. Links should not be posted to simply drive traffic or attention to a site. Links should always be accompanied by a full explanation of the content and purpose of the link. Posting links, especially unsolicited ones, without relevant and valuable context can come across as advertising or serving even more malicious purposes.
 
-  * **谨慎分享。**要求他人提供反馈或协作处理项目时，请只分享有价值的相关资源以提供背景信息。 Don't post links that don't add value to the discussion, and don't post unsolicited links to your own projects or sites on other user's threads.
+  * **Share mindfully.** When asking others to give you feedback or collaborate on a project, only share valuable and relevant resources to provide context. Don't post links that don't add value to the discussion, and don't post unsolicited links to your own projects or sites on other user's threads.
 
-    此外，请勿分享敏感信息。 这包括您自己的电子邮件地址。 We don't allow the sharing of such information in GitHub Community, as it can create security and privacy risks for the poster, as well as other users. If you'd like to invite other GitHub users to collaborate on a project or work with you, share a link to the repository in which the project you are working on exists. 通过分享项目仓库的链接，并简要说明您的项目以及您要寻求什么类型的帮助或反馈，就可以邀请他人通过议题或拉取请求与您协作，而不必分享您的私人信息。 还可以将其他人添加为项目仓库的外部协作者，给他们特殊权限以便帮助您开发项目。
+    Additionally, don't share sensitive information. This includes your own email address. We don't allow the sharing of such information in GitHub Community, as it can create security and privacy risks for the poster, as well as other users. If you'd like to invite other GitHub users to collaborate on a project or work with you, share a link to the repository in which the project you are working on exists. By sharing the link to your project repo - with some information on what your project is and what kind of help or feedback you're looking for - you can invite others to collaborate with you via issues or pull requests without having to share your private information. You can also add others as outside collaborators on your project repo to give them special permissions to help you develop your project.
 
-  * **井然有序。**尽可能做到物归其位，以便我们减少整理时间，将更多的时间花在讨论上。 比如：
+  * **Keep it tidy.** Make the effort to put things in the right place, so that we can spend more time discussing and less time cleaning up. So:
 
     * Don’t start a discussion in the wrong category.
     * Don’t cross-post the same thing in multiple discussions.
-    * 不要发布无意义回复。
-    * 除非您有新的相关信息要分享，否则不要贸然发帖。
+    * Don’t post no-content replies.
+    * Don't "bump" posts, unless you have new and relevant information to share.
     * Don’t divert a discussion by changing it midstream.
 
     Rather than posting “+1” or “Agreed”, use the upvote button. Rather than taking an existing discussion in a radically different direction, open a new discussion.
 
-* 值得信赖。
+* Be trustworthy.
 
-  * **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitHub Community participants. 如果您不知道某人问题的答案，但仍想提供帮助，您可以尝试帮助他们研究问题或寻找资源。 GitHub staff will also be active in GitHub Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
+  * **Always be honest.** Don’t knowingly share incorrect information or intentionally mislead other GitHub Community participants. If you don’t know the answer to someone’s question but still want to help, you can try helping them research or find resources instead. GitHub staff will also be active in GitHub Community, so if you’re unsure of an answer, it’s likely a moderator will be able to help.
 
-### [](#what-is-not-allowed)*不允许* ###
+### [](#what-is-not-allowed)*What is not Allowed* ###
 
-GitHub的 [可接受使用政策](/cn/site-policy/acceptable-use-policies/github-acceptable-use-policies)是GitHub [服务条款](/cn/github/site-policy/github-terms-of-service)的一部分，为 GitHub 上不允许的内容设定了基线。 Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
+GitHub's [Acceptable Use Policies](/cn/site-policy/acceptable-use-policies/github-acceptable-use-policies), which are part of GitHub's [Terms of Service](/cn/github/site-policy/github-terms-of-service), set a baseline for what is not allowed on GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
 
-* **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. GitHub 不会有意收集 13 岁以下孩子的信息，也没有专门为他们定制任何内容。 If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. 我们并不想阻止您学习代码，但这是规则。 有关帐户终止的信息，请参阅我们的[服务条款](/cn/github/site-policy/github-terms-of-service)。
+* **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/cn/github/site-policy/github-terms-of-service) for information about account termination.
 
-* **在帐户限制后创建新帐户。** GitHub 的 [服务条款](/cn/github/site-policy/github-terms-of-service) 规定，“一个人或法人实体最多只能维护一个免费帐户”。 Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
+* **Creating new account after account restriction.** GitHub's [Terms of Service](/cn/github/site-policy/github-terms-of-service) state that "One person or legal entity may maintain no more than one free Account." Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
 
 * **Other conduct which could reasonably be considered inappropriate in a professional setting.** GitHub Community is a professional space and should be treated as such.
 
 * **Violation of Terms of Service.** If your GitHub.com account is identified in violation of [Terms of Service](/cn/github/site-policy/github-terms-of-service) we will have to close your account.
 
-[](#enforcement)执行
+[](#enforcement)Enforcement
 ----------
 
 ### [](#what-github-community-participants-can-do)*What GitHub Community Participants Can Do* ###
 
-* **If you see a problem, report it.** Moderators have special authority; they are responsible for this GitHub Community. 但这也是你们的责任。 With your help, moderators can be community facilitators, not just janitors or police.
+* **If you see a problem, report it.** Moderators have special authority; they are responsible for this GitHub Community. But so are you. With your help, moderators can be community facilitators, not just janitors or police.
 
-  发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 You can report a disruptive user or disruptive content to GitHub. 更多信息请参阅“[报告滥用或垃圾邮件](/cn/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
+  When you see bad behavior, don’t reply. It encourages the bad behavior by acknowledging it, consumes your energy, and wastes everyone’s time. You can report a disruptive user or disruptive content to GitHub. For more information, see "[Reporting abuse or spam](/cn/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)."
 
-### [](#our-responsibilities)我们的职责 ###
+### [](#our-responsibilities)Our Responsibilities ###
 
-针对不当行为或内容，我们可能会采取各种措施。 它通常取决于特定案例的确切情况。 我们知道，有时人们可能会出于各种原因而去说或去做一些不适当的事情。 也许他们并未意识到自己的言论会被如何解读。 或者他们只是想让自己的情绪得到宣泄。 当然，有时候，有些人只是想散发垃圾信息或存心捣乱。
+There are a variety of actions that we may take in response to inappropriate behavior or content. It usually depends on the exact circumstances of a particular case. We recognize that sometimes people may say or do inappropriate things for any number of reasons. Perhaps they did not realize how their words would be perceived. Or maybe they just let their emotions get the best of them. Of course, sometimes, there are folks who just want to spam or cause trouble.
 
-每种情况都需要采用不同的方法，因此我们努力调整对策，以满足具体情况的需要。 我们将逐案审查每种情况。 在每个案例中，我们都会安排一个多元化的团队，调查内容及相关事实，并以本行为准则为决策指导，采取适当的措施。
+Each case requires a different approach, and we try to tailor our response to meet the needs of the situation. We'll review each situation on a case-by-case basis. In each case, we will have a diverse team investigate the content and surrounding facts and respond as appropriate, using this Code of Conduct to guide our decision.
 
-为响应标记或滥用举报，我们可能采取的措施包括但不限于：
+Actions we may take in response to a flag or abuse report include, but are not limited to:
 
-* 删除内容
-* 屏蔽内容
+* Content Removal
+* Content Blocking
 * GitHub Account Suspension
 * GitHub Account Termination
 
 GitHub Community moderators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the GitHub Community's leadership.
 
-[](#contacting-github-staff)联系 GitHub 工作人员
+[](#contacting-github-staff)Contacting GitHub Staff
 ----------
 
 If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of GitHub Community privately, you can use our [Support contact form](https://support.github.com/contact?tags=docs-community-support). Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than GitHub Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.
 
-[](#legal-notices)法律声明
+[](#legal-notices)Legal Notices
 ----------
 
-确实，法律条文枯燥乏味，但是我们必须保护自己 – 进而保护您和您的数据 – 免受不友好人士的侵害。 我们的[服务条款](/cn/github/site-policy/github-terms-of-service)（包括我们的[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)）和\<[隐私声明](/cn/github/site-policy/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的 [服务条款](/cn/github/site-policy/github-terms-of-service)、[GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)和[隐私声明](/cn/github/site-policy/github-privacy-statement)。
+Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](/cn/github/site-policy/github-terms-of-service), which includes our [Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies), and our [Privacy Statement](/cn/github/site-policy/github-privacy-statement) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service](/cn/github/site-policy/github-terms-of-service), [GitHub Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies) and the [Privacy Statement](/cn/github/site-policy/github-privacy-statement).
 
-本行为准则不修改我们的[服务条款](/cn/github/site-policy/github-terms-of-service)—包括我们的 [可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)—也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/cn/github/site-policy/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
+This Code of Conduct does not modify our [Terms of Service](/cn/github/site-policy/github-terms-of-service)—which includes our [Acceptable Use Policies](/cn/github/site-policy/github-acceptable-use-policies)—and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/cn/github/site-policy/github-terms-of-service) to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. This Code of Conduct describes when we will exercise that discretion.
 
-### [](#data-retention-and-deletion-of-data)数据保留和数据删除 ###
+### [](#data-retention-and-deletion-of-data)Data Retention and Deletion of Data ###
 
-If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争端和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 更多信息请参阅 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)。
+If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/cn/github/site-policy/github-privacy-statement).

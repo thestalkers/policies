@@ -1,31 +1,31 @@
-サイトポリシー - GitHub Docs
+サイト ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-サイトポリシー
+サイト ポリシー
 ==========
 
-* [GitHub Terms](/ja/site-policy/github-terms)
+* [GitHub 条件](/ja/site-policy/github-terms)
   ----------
 
-* [利用規定](/ja/site-policy/acceptable-use-policies)
+* [利用規約](/ja/site-policy/acceptable-use-policies)
   ----------
 
-* [Privacy Policies](/ja/site-policy/privacy-policies)
+* [プライバシー ポリシー](/ja/site-policy/privacy-policies)
   ----------
 
-* [Other Site Policies](/ja/site-policy/other-site-policies)
+* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
   ----------
 
-* [Content Removal Policies](/ja/site-policy/content-removal-policies)
+* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
   ----------
 
-* [Security Policies](/ja/site-policy/security-policies)
+* [セキュリティ ポリシー](/ja/site-policy/security-policies)
   ----------
 
-* [GitHub Company Policies](/ja/site-policy/github-company-policies)
+* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
   ----------

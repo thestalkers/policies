@@ -1,14 +1,14 @@
-Política de logo de GitHub - GitHub Docs
+Directiva de logotipo de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones frecuentes a nuestra documentación y la traducción de esta página podría aún estar en curso. Para encontrar la mayoría de la información actual, visita la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de logo de GitHub
+Directiva de logotipo de GitHub
 ==========
 
-Puede añadir GitHub logos a tu sitio web o aplicación de terceros en algunos escenarios. Para obtener más información y directrices específicas, consulta la[GitHub página de Logos y Uso](https://github.com/logos).
+Puede añadir logotipos de GitHub a su sitio web o aplicación de terceros en algunas situaciones. Para obtener más información y directrices específicas sobre el uso de logotipos, consulte la [GitHub página de logotipos y uso](https://github.com/logos).
 
-También puedes usar un octocat como tu avatar personal o en tu sitio web para vincular a tu cuenta, GitHub pero no para tu empresa o un producto que estás construyendo. GitHub tiene una extensa colección de octocats en el [Octodex](https://octodex.github.com/). Para obtener más información sobre cómo usar los octocats de Octodex, consulta las [preguntas frecuentes de Octodex](https://octodex.github.com/faq/).
+También puede usar un octocat como su avatar personal o en su sitio web para vincularlo a su cuenta de GitHub, pero no para su empresa o un producto que esté creando. GitHub tiene una extensa colección de octocats en [Octodex](https://octodex.github.com/). Para obtener más información sobre el uso de octocats de Octodex, consulte las [preguntas frecuentes sobre Octodex](https://octodex.github.com/faq/).

@@ -1,38 +1,38 @@
-Política de nome de usuário do GitHub - GitHub Docs
+Política de Nome de Usuário do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/pt)[GitHub Docs](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Política de nome de usuário do GitHub
+Política de Nome de Usuário do GitHub
 ==========
 
-[Neste artigo](/site-policy/other-site-policies/github-username-policy#in-this-article)
+[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
 ----------
 
-* [E se o nome de usuário que eu quero já estiver sendo usado?](#what-if-the-username-i-want-is-already-taken)
+* [E se o nome de usuário que eu quero já estiver em uso?](#e-se-o-nome-de-usuário-que-eu-quero-já-estiver-em-uso)
 
-* [Política de marca registrada](#trademark-policy)
+* [Política de Marcas Registradas](#política-de-marcas-registradas)
 
-* [Política de uso indevido de nome](#name-squatting-policy)
+* [Política de Apropriação de Nomes](#política-de-apropriação-de-nomes)
 
-Os nomes das contas do GitHub são fornecidos pela ordem de chegada e são destinados ao uso imediato e ativo.
+Os nomes de conta do GitHub estão disponíveis por ordem de chegada e destinam-se ao uso imediato e ativo.
 
-[](#what-if-the-username-i-want-is-already-taken)E se o nome de usuário que eu quero já estiver sendo usado?
+[](#e-se-o-nome-de-usuário-que-eu-quero-já-estiver-em-uso)[]()E se o nome de usuário que eu quero já estiver em uso?
 ----------
 
-Tenha em mente que nem todas as atividades no GitHub são publicamente visíveis; contas sem atividade visível podem estar em uso ativo.
+Lembre-se de que nem todas as atividades no GitHub são visíveis ao público; contas sem atividade visível podem estar em uso ativo.
 
-Se o nome de usuário que deseja já tiver sido reclamado, considere outros nomes ou variações. Usar um número, hífen ou uma ortografia alternativa pode ajudá-lo a identificar um nome de usuário desejável ainda disponível.
+Se o nome de usuário que você deseja já foi reivindicado, considere outros nomes ou variações exclusivas. Usar um número, um hífen ou uma ortografia alternativa pode ajudar você a identificar um nome de usuário desejável ainda disponível.
 
-[](#trademark-policy)Política de marca registrada
+[](#política-de-marcas-registradas)[]()Política de Marcas Registradas
 ----------
 
-Se você acredita que a conta de alguém está violando os seus direitos de marca registrada, encontre mais informações sobre reclamações de violação de marca registrada em nossa página de [Política de marca registrada](/pt/articles/github-trademark-policy).
+Se você acredita que a conta de alguém está violando seus direitos de marca registrada, encontre mais informações sobre como fazer uma reclamação de marca registrada em nossa página [Política de Marcas Registradas](/pt/articles/github-trademark-policy).
 
-[](#name-squatting-policy)Política de uso indevido de nome
+[](#política-de-apropriação-de-nomes)[]()Política de Apropriação de Nomes
 ----------
 
-O GitHub proíbe a ocupação de nomes de contas. Além disso, os nomes das contas não podem ser reservados ou mantidos inativos para uso futuro. As contas que violam essa política de uso indevido de nome podem ser removidas ou renomeadas sem aviso prévio. Tentativas de vender, comprar ou solicitar outras formas de pagamento em troca de nomes de conta são proibidas e podem resultar na suspensão permanente da conta.
+O GitHub proíbe a apropriação de nomes de contas e os nomes de contas não podem ser reservados nem mantidos inativos para uso futuro. As contas que violam esta política de apropriação de nomes podem ser removidas ou renomeadas sem aviso prévio. Tentativas de vender, comprar ou solicitar outras formas de pagamento em troca de nomes de contas são proibidas e podem resultar na suspensão permanente da conta.

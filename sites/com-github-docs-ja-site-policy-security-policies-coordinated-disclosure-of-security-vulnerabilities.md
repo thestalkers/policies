@@ -1,19 +1,19 @@
-Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
+セキュリティ脆弱性の協調的開示 - GitHub Docs
 
 [Skip to main content](#main-content)
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-Coordinated Disclosure of Security Vulnerabilities
+セキュリティ脆弱性の協調的開示
 ==========
 
-私たちは、GitHubをすべての人にとって安全であるよう保ちたいと願っています。 If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
+私たちは、GitHub をすべての人にとって安全であるよう保ちたいと願っています。 GitHub でセキュリティ上の脆弱性を発見した場合は、協調的な方法で当社に開示するためのご協力をいただければ幸いです。
 
-[](#bounty-program)報奨金制度
+[](#報奨金プログラム)[]()報奨金プログラム
 ----------
 
-セキュリティ研究者と良好な関係を築くため、一部の大規模ソフトウェア企業と同様、GitHubでもバグ報奨金を提供しています。 The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our coordinated disclosure process. 研究者がバグハンティングにつぎ込んだ努力を称えて、現金をお支払いします。
+セキュリティ リサーチャーと良好な関係を築くため、何社かのソフトウェア大企業と同様に、GitHub でもバグ報奨金を提供しています。 その考え方は単純であり、ハッカーや (あなたのような) セキュリティ リサーチャーが、協調的開示プロセスを通じて脆弱性を見つけて報告するというものです。 リサーチャーによるバグ ハンティングの取り組みを称えて、現金をお支払いします。
 
-報奨金の詳細については、[GitHub Bug Bounty](https://bounty.github.com)のサイトをご覧ください。また、包括的な[法的免責事項](/ja/articles/github-bug-bounty-program-legal-safe-harbor)も併せてご確認願います。それでは、バグハンティングをお楽しみください！
+報奨金の詳細については、[GitHub のバグ報奨金](https://bounty.github.com)のサイトをご覧ください。また、包括的な[法的免責事項ポリシー](/ja/articles/github-bug-bounty-program-legal-safe-harbor)の条項もご確認ください。それでは、バグ ハンティングをお楽しみください!
