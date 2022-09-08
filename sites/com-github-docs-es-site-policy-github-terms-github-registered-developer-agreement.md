@@ -119,6 +119,6 @@ Este Acuerdo es un acuerdo legal entre usted («usted») y GitHub, Inc. («GitHu
 
    Este Acuerdo no puede modificarse, excepto mediante un escrito firmado por ambas partes. Cualquier renuncia a las disposiciones de este Acuerdo o a los derechos o recursos de una de las partes en virtud de este Acuerdo debe hacerse por escrito para que sea efectiva. Si se determina que algún término, condición o disposición de este Acuerdo es inválido o inaplicable, los términos restantes seguirán siendo válidos y aplicables en la mayor medida permitida por la ley. Cada una de las partes acepta de forma expresa que no hay terceros beneficiarios de este Acuerdo.
 
-21. **Acuerdo Completo**
+21. **Acuerdo completo**
 
    Este Acuerdo, los TDS y los Términos del Programa contienen el acuerdo completo entre las partes con respecto a su objeto y sustituyen a todas las comunicaciones, declaraciones, entendimientos y acuerdos anteriores, ya sean de palabra o por escrito. Los términos o condiciones de cualquiera de las órdenes de compra, reconocimientos u otros documentos que nos envíe en relación con este Acuerdo serán nulos y sin efecto.

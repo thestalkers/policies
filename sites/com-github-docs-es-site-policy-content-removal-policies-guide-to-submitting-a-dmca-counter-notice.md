@@ -12,11 +12,11 @@ Guía para Presentar una Contranotificación de la DMCA
 [In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
 ----------
 
-* [Antes de Empezar](#antes-de-empezar)
+* [Antes de Empezar](#before-you-start)
 
-* [Su Contranotificación Debe...](#su-contranotificación-debe)
+* [Su Contranotificación Debe...](#your-counter-notice-must)
 
-* [Cómo Enviar la Contranotificación](#cómo-enviar-la-contranotificación)
+* [Cómo Enviar la Contranotificación](#how-to-submit-your-counter-notice)
 
 En esta guía se describe la información que necesita GitHub para procesar una contranotificación a una solicitud de retirada de la DMCA. Si tiene preguntas más generales sobre qué es la DMCA o cómo procesa GitHub las solicitudes de retirada de la DMCA, consulte nuestra [Directiva de Retirada de la DMCA](/es/articles/dmca-takedown-policy).
 
@@ -24,12 +24,12 @@ Si cree que su contenido de GitHub se ha deshabilitado por error debido a una so
 
 Al igual que sucede con todos los asuntos legales, siempre es mejor consultar a un profesional las preguntas o situaciones específicas. Le recomendamos encarecidamente que lo haga antes de emprender cualquier acción que pueda afectar a sus derechos. Esta guía no constituye asesoramiento legal ni debe tomarse como tal.
 
-[](#antes-de-empezar)[]()Antes de Empezar
+[](#before-you-start)Antes de Empezar
 ----------
 
 ***Diga la verdad.***La DMCA exige que jure su contranotificación *bajo pena de perjurio*. Es un delito federal mentir intencionadamente en una declaración jurada. (*Consulte el* [Código de EE. UU., Título 18, Apartado 1621 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)). Enviar información falsa también podría derivar en una responsabilidad civil, es decir, podría ser demandado por daños económicos.
 
-***Investigue.***Enviar una contranotificación a la DMCA puede tener consecuencias legales reales. Si la parte reclamante no está de acuerdo en que su notificación de retirada es incorrecta, es posible que decida presentar una demanda en su contra para mantener el contenido deshabilitado. Antes de enviar una contranotificación, debe realizar una investigación exhaustiva de las acusaciones que se realizan en la notificación de retirada y probablemente hablar con un abogado.
+***Investigar.***Enviar una contranotificación a la DMCA puede tener consecuencias legales reales. Si la parte reclamante no está de acuerdo en que su notificación de retirada es incorrecta, es posible que decida presentar una demanda en su contra para mantener el contenido deshabilitado. Antes de enviar una contranotificación, debe realizar una investigación exhaustiva de las acusaciones que se realizan en la notificación de retirada y probablemente hablar con un abogado.
 
 ***Debe tener una buena razón para enviar una contranotificación.***Para presentar una contranotificación, debe «creer de buena fe que el material se eliminó o inhabilitó como resultado de un error o de la identificación errónea del material que se va a eliminar o deshabilitar». ([Código de EE. UU., Título 17, Apartado 512(g)](https://www.copyright.gov/title17/92chap5.html#512)). La decisión de explicar por qué cree que hay un error depende de usted y de su abogado, pero *debe* identificar un error antes de enviar una contranotificación. En el pasado, hemos recibido contranotificaciones en las que se citan errores en la notificación de retirada como los siguientes: la parte reclamante no tiene los derechos de autor; tengo una licencia; el código se ha publicado con una licencia de código abierto que me permite usarlo; o en la reclamación no se tiene en cuenta el hecho de que el uso está protegido por la doctrina del uso justo. Por supuesto, podría haber otros defectos en la notificación de retirada.
 
@@ -49,7 +49,7 @@ Estos son tan solo algunos ejemplos de las complejidades de la ley de derechos d
 
 ***Recursos Adicionales.***Si necesita más ayuda, hay muchos recursos de autoayuda en línea. Lumen tiene un conjunto de guías informativas sobre los [derechos de autor](https://www.lumendatabase.org/topics/5) y el [marco de seguridad de la DMCA](https://www.lumendatabase.org/topics/14). Si participa en un proyecto de código abierto y necesita asesoramiento legal, puede comunicarse con el [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). Y si cree que su caso es especialmente complicado, hay organizaciones sin ánimo de lucro como la [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) que también podrían estar dispuestas a ayudarle directamente o remitirle a un abogado.
 
-[](#su-contranotificación-debe)[]()Su Contranotificación Debe...
+[](#your-counter-notice-must)Su Contranotificación Debe...
 ----------
 
 1. **Incluya la siguiente declaración: «He leído y entiendo la Guía de GitHub para presentar una contranotificación a la DMCA».**No nos negaremos a procesar una contranotificación completa si no incluye esta declaración; sin embargo, eso nos daría a entender que no ha leído estas directrices y es posible que le pidamos que lo haga.
@@ -64,7 +64,7 @@ Estos son tan solo algunos ejemplos de las complejidades de la ley de derechos d
 
 6. **Incluya su firma física o electrónica.**
 
-[](#cómo-enviar-la-contranotificación)[]()Cómo Enviar la Contranotificación
+[](#how-to-submit-your-counter-notice)Cómo Enviar la Contranotificación
 ----------
 
 La forma más rápida de obtener una respuesta es introducir su información y responder todas las preguntas en nuestro [Copyright claims form](https://github.com/contact/dmca).

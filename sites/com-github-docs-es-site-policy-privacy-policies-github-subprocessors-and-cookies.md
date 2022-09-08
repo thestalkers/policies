@@ -12,18 +12,18 @@ Subencargados y Cookies de GitHub
 [In this article](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
 ----------
 
-* [Subencargados de GitHub](#subencargados-de-github)
+* [Subencargados de GitHub](#github-subprocessors)
 
-* [Cookies en GitHub](#cookies-en-github)
+* [Cookies en GitHub](#cookies-on-github)
 
 Fecha de entrada en vigor: **2 de abril de 2021**
 
 GitHub es muy transparente con respecto a la forma en que usamos y recopilamos sus datos y con quién los compartimos. Con ese fin, hemos creado esta página, en la que se detallan [nuestros subencargados](#github-subprocessors) y la forma en que usamos las [cookies](#cookies-on-github).
 
-[](#subencargados-de-github)[]()Subencargados de GitHub
+[](#github-subprocessors)Subencargados de GitHub
 ----------
 
-Cuando compartimos su información con subencargados externos, como nuestros distribuidores y proveedores de servicios, seguimos siendo responsables de ella. Nos esforzamos muchísimo para mantener su confianza cuando incorporamos nuevos proveedores, por lo que exigimos a todos los proveedores que suscriban acuerdos de protección de datos con nosotros que restringen el tratamiento de la Información Personal de los Usuarios (tal y como se define en la [Declaración de Privacidad](/es/articles/github-privacy-statement)).
+Cuando compartimos su información con subencargados externos, como nuestros distribuidores y proveedores de servicios, seguimos siendo responsables de ella. Nos esforzamos muchísimo para mantener su confianza cuando incorporamos nuevos proveedores, por lo que exigimos a todos los proveedores que suscriban acuerdos de protección de datos con nosotros que restringen el tratamiento de la Información Personal de los Usuarios (tal y como se define en la [Declaración de Privacidad](/es/articles/github-privacy-statement)). Puede registrarse para recibir las actualizaciones de la lista de subprocesadores [aquí](https://www.github.com/privacy/subprocessors).
 
 |Nombre del Subencargado |                            Descripción del Procesamiento                             |Lugar de Procesamiento|Ubicación Corporativa|
 |:-----------------------|:-------------------------------------------------------------------------------------|:---------------------|:--------------------|
@@ -47,7 +47,7 @@ Cuando compartimos su información con subencargados externos, como nuestros dis
 
 Esta página se actualizará cuando incorporemos un nuevo subencargado que maneje la Información Personal de nuestros Usuarios, cuando eliminemos un subencargado o cuando cambiemos la forma en que usamos un subencargado. Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Privacy contact form](https://github.com/contact/privacy).
 
-[](#cookies-en-github)[]()Cookies en GitHub
+[](#cookies-on-github)Cookies en GitHub
 ----------
 
 GitHub utiliza cookies para proporcionar nuestros sitios web, para protegerlos y para analizar su uso con el fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.
