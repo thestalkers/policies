@@ -1,4 +1,4 @@
-GitHub の利用規約 - GitHub Docs
+GitHub 利用規約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,44 +6,44 @@ GitHub の利用規約 - GitHub Docs
 
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub の利用規約
+GitHub 利用規約
 ==========
 
 [In this article](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
 ----------
 
-* [1.法規制の遵守](#1法規制の遵守)
+* [1.法規制の遵守](#1-compliance-with-laws-and-regulations)
 
-* [2.ユーザーの安全](#2ユーザーの安全)
+* [2. ユーザーの安全](#2-user-safety)
 
-* [3.知的財産、真正性、および個人情報](#3知的財産真正性および個人情報)
+* [3.知的財産、真正性、および個人情報](#3-intellectual-property-authenticity-and-private-information)
 
-* [4.GitHub における迷惑メールおよび不正なアクティビティ](#4github-における迷惑メールおよび不正なアクティビティ)
+* [4.GitHub における迷惑メールおよび不正なアクティビティ](#4-spam-and-inauthentic-activity-on-github)
 
-* [5.サイトのアクセスと安全](#5サイトのアクセスと安全)
+* [5.サイトのアクセスと安全](#5-site-access-and-safety)
 
-* [6.サービス利用の制限](#6サービス利用の制限)
+* [6.サービス利用の制限](#6-services-usage-limits)
 
-* [7.情報使用の制限](#7情報使用の制限)
+* [7.情報使用の制限](#7-information-usage-restrictions)
 
-* [8.プライバシー](#8プライバシー)
+* [8.プライバシー](#8-privacy)
 
-* [9.過剰な帯域の使用](#9過剰な帯域の使用)
+* [9.過剰な帯域の使用](#9-excessive-bandwidth-use)
 
-* [10.GitHub での広告](#10github-での広告)
+* [10. GitHub での広告](#10-advertising-on-github)
 
-* [11.ユーザーの保護](#11ユーザーの保護)
+* [11.ユーザーの保護](#11-user-protection)
 
 **要約:** *当社は、世界各国からの参加のあるさまざまな共同プロジェクトをホストしており、そのコラボレーションは、ユーザーが誠実に協力できた場合にのみ成立します。お客様は、本サービスを使用する場合、ユーザーの安全、知的財産権、プライバシー、真正性、およびその他の制限に関する、GitHub のコンテンツおよび行為についての制限を含む、当社の利用規約を遵守しなければなりません。要約すれば、お互いのことを思いやりましょう、ということです。*
 
 本利用規約で使用されている用語のうち、定義されていないものについては、[サービス条件](/ja/articles/github-terms-of-service)、[企業向けサービス条件](/ja/articles/github-corporate-terms-of-service)、および[プライバシーに関する声明](/ja/articles/github-privacy-statement)に記載された意味を持つものとします。 [企業向けサービス条件](/ja/articles/github-corporate-terms-of-service)が適用されるお客様については、「あなた」は「お客様」または「ユーザー」を指します。 「私たち」または「当社」は、「GitHub」を指します。
 
-[](#1法規制の遵守)[]()1.法規制の遵守
+[](#1-compliance-with-laws-and-regulations)1.法規制の遵守
 ----------
 
 お客様は、本サービスを利用するにあたり、すべての適用法、規制、および当社の定めるすべての利用規約を遵守する責任を負います。 これらの規定は、随時更新されることがあります。更新内容については以下、ならびに[サービス条件](/ja/articles/github-terms-of-service)および[企業向けサービス条件](/ja/articles/github-corporate-terms-of-service)をご確認ください。
 
-[](#2ユーザーの安全)[]()2.ユーザーの安全
+[](#2-user-safety)2. ユーザーの安全
 ----------
 
 GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
@@ -66,7 +66,7 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 
 * 主題からずれているもの、または著しくまたは反復的に[他のユーザーのエクスペリエンスを妨害する](/ja/github/site-policy/github-disrupting-the-experience-of-other-users)方法でのプラットフォーム機能とのやり取り
 
-[](#3知的財産真正性および個人情報)[]()3.知的財産、真正性、および個人情報
+[](#3-intellectual-property-authenticity-and-private-information)3.知的財産、真正性、および個人情報
 ----------
 
 GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
@@ -79,7 +79,7 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 
 * [第三者のプライバシーを侵害するもの](/ja/github/site-policy/github-doxxing-and-invasion-of-privacy) (同意なしに他者の個人的な情報を投稿することなど)
 
-[](#4github-における迷惑メールおよび不正なアクティビティ)[]()4.GitHub における迷惑メールおよび不正なアクティビティ
+[](#4-spam-and-inauthentic-activity-on-github)4.GitHub における迷惑メールおよび不正なアクティビティ
 ----------
 
 GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
@@ -96,7 +96,7 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 * フィッシングまたはフィッシングの試み
 * 自動化手段を介して当社のサーバーに不当な負荷を与えるため、または、Get-Rich-Quick スキームなど、当社のサーバーを介して任意の形態の未承認の広告または勧誘文を送るための、任意の形態の自動化された過度の一括アクティビティのための当社のサーバーの使用
 
-[](#5サイトのアクセスと安全)[]()5.サイトのアクセスと安全
+[](#5-site-access-and-safety)5.サイトのアクセスと安全
 ----------
 
 GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
@@ -104,12 +104,12 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 * 不正使用が発生する前に黙示的にも明示的にもデュアルユース目的であることを示さず、当社プラットフォームを悪意ある実行ファイルを配信したり、サービス拒否攻撃を組織したり、コマンド アンド コントロール サーバーを管理したりといった攻撃インフラストラクチャとして使用するなど、技術的な危害を及ぼす[非合法な能動的攻撃やマルウェア キャンペーン](/ja/github/site-policy/github-active-malware-or-exploits)を直接的に支援するもの
 * サービス、デバイス、データ、アカウント、またはネットワークに対する妨害もしくは妨害の試み、または未承認のアクセス権取得もしくは取得の試みのために、当社のサーバーを使用するもの [GitHub Bug Bounty プログラム](https://bounty.github.com)など、バグ報奨金プログラムに基づいて許可されるアクティビティは、「未承認」であると見なされないことに注意してください。
 
-[](#6サービス利用の制限)[]()6.サービス利用の制限
+[](#6-services-usage-limits)6.サービス利用の制限
 ----------
 
 当社が書面により明示的に許可する場合を除き、本サービスのいずれか一部、本サービスの使用、または本サービスへのアクセスを複製、複写、コピー、販売、再販売、または不正利用してはなりません。
 
-[](#7情報使用の制限)[]()7.情報使用の制限
+[](#7-information-usage-restrictions)7.情報使用の制限
 ----------
 
 スクレイピング、API を通じた収集、その他のいずれの手段においてであれ、お客様は当社のサービスから取得した情報を、以下の理由で使用することができます。
@@ -119,23 +119,23 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 
 スクレイピングとは、ボットやウェブクローラーなどの自動的な処理により、当社のサービスから情報を抽出することを指します。 スクレイピングは、API を介した情報の収集を指すものではありません。 当社の API 規約については、[サービス条件](/ja/articles/github-terms-of-service#h-api-terms)のセクション H を参照してください。
 
-([GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)の定義による)ユーザー個人情報を、ユーザーに対して未承諾メールを送信する、人事採用担当者、ヘッドハンター、求人掲示板などに販売するといった目的を含め、迷惑メール送信目的で本サービスから取得 (スクレイピング、API を介した情報収集、その他の手段による取得) した情報を利用することはできません。
+ユーザーに対して未承諾メールを送信する、人事採用担当者、ヘッドハンター、求人掲示板などに販売するといった目的を含め、迷惑メール送信目的で本サービスから取得 (スクレイピング、API を介した情報収集、その他の手段による取得) した情報を利用することはできません。
 
 本サービスから収集したデータの利用は、[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)に従わなければなりません。
 
-[](#8プライバシー)[]()8.プライバシー
+[](#8-privacy)8.プライバシー
 ----------
 
-ユーザー個人情報の不正使用は禁じられています。
+個人情報の不正使用は禁じられています。
 
-本サービスからデータを収集するあらゆる個人、法人、またはサービスは、特にユーザー個人情報の収集に関して、[GitHub のプライバシーに関する声明](/ja/articles/github-privacy-statement)に従わなければなりません。 本サービスから何らかのユーザ個人情報を収集する場合、お客様はユーザーが承認した目的においてのみユーザー個人情報を利用することに同意するものとします。 お客様は、本サービスから収集した、あらゆるユーザー個人情報を合理的に保護することに同意するものとし、当社やその他ユーザーからの苦情、削除要求、および「連絡拒否」要求に速やかに対応するものとします。
+本サービスからデータを収集するあらゆる個人、法人、またはサービスは、特に個人情報の収集に関して、[GitHub のプライバシーに関する声明](/ja/articles/github-privacy-statement)に従わなければなりません。 本サービスから何らかの個人情報を収集する場合、お客様はユーザーが承認した目的においてのみ個人情報を利用することに同意するものとします。 お客様は、本サービスから収集した、あらゆる個人情報を合理的に保護することに同意するものとし、当社やその他ユーザーからの苦情、削除要求、および「連絡拒否」要求に速やかに対応するものとします。
 
-[](#9過剰な帯域の使用)[]()9.過剰な帯域の使用
+[](#9-excessive-bandwidth-use)9.過剰な帯域の使用
 ----------
 
 本サービスの帯域制限は、利用する機能によって異なります。 帯域の利用が、同等の機能の他のユーザーと比較して過剰であると当社が判断した場合、帯域の消費を抑えられるまで、当社はお客様の「アカウント」を停止するか、ファイルのホスティングを抑制するなどをしてアクティビティを制限する権利を留保します。 また当社は、当社のインフラストラクチャに過度の負荷をかけていると判断するリポジトリを、事前通知を行った後に削除する権利を留保します。 リポジトリのオブジェクト ストレージに関するガイダンスについては、「[私のディスク クォータはいくつですか?](/ja/github/managing-large-files/what-is-my-disk-quota)」を参照してください。 特定機能の帯域制限に関する詳しい情報については、[GitHub の追加の製品使用条件](/ja/github/site-policy/github-additional-product-terms)を参照してください。
 
-[](#10github-での広告)[]()10.GitHub での広告
+[](#10-advertising-on-github)10. GitHub での広告
 ----------
 
 **要約:** *基本的に、当社は GitHub の広告としての利用を禁止していません。しかし、GitHub が迷惑メールの温床にならないよう、当社はユーザーが特定の制限に従うことを期待します。そのような事態は誰も望まないからです。*
@@ -146,7 +146,7 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 
 アカウントに何らかの販売促進資料を投稿することを決めた場合、お客様はすべての適用される法令および規制に従う責任を単独で負うものとします。この法令には、「推奨・証言に関する米国連邦取引委員会のガイドライン」が含まれますが、それに限定されません。 当社は、GitHub の何らかの規約またはポリシーに違反すると当社が独自に裁量した、一切の販売促進資料または広告を削除する権利を留保します。
 
-[](#11ユーザーの保護)[]()11.ユーザーの保護
+[](#11-user-protection)11.ユーザーの保護
 ----------
 
 他のユーザーを著しく害する行動をしてはなりません。
@@ -155,6 +155,6 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 
 ---
 
-**履行** GitHub は、アカウントの停止、アカウントの[終了](/ja/github/site-policy/github-terms-of-service#3-github-may-terminate)、コンテンツの[削除](/ja/github/site-policy/github-terms-of-service#2-github-may-remove-content)など、これらのポリシーの違反に対応するために[措置を講じる](/ja/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)完全な裁量権を保持します。 また、何かまたは何ものかがお客様の感情を害した場合の措置については、[コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)をご覧ください。
+**強制執行** GitHub は、アカウントの停止、アカウントの[終了](/ja/github/site-policy/github-terms-of-service#3-github-may-terminate)、コンテンツの[削除](/ja/github/site-policy/github-terms-of-service#2-github-may-remove-content)など、これらのポリシーの違反に対応するために[措置を講じる](/ja/github/site-policy/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)完全な裁量権を保持します。 また、何かまたは何ものかがお客様の感情を害した場合の措置については、[コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)をご覧ください。
 
 **復活および異議申し立て** コンテンツまたはアカウントが無効化または制限されており、お客様が復活を求めている場合、または異議申し立てを希望する場合は、[異議申し立ておよび復活ページ](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を参照してプロセスに関する情報を確認し、[異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)を使用して要求を送信してください。

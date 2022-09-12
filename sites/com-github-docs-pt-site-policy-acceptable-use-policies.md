@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de Uso Aceitável
 ==========
 
-* [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 * [Explorações ou Malwares Ativos do GitHub](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 * [Bullying e Assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 * [Interrupção da Experiência de Outros Usuários por Parte do GitHub](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)

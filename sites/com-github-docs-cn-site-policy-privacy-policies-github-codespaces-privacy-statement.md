@@ -1,4 +1,4 @@
-GitHub Codespaces Privacy Statement - GitHub Docs
+GitHub Codespaces 隐私声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,18 +6,18 @@ GitHub Codespaces Privacy Statement - GitHub Docs
 
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
 
-GitHub Codespaces Privacy Statement
+GitHub Codespaces 隐私声明
 ==========
 
-Effective Date: August 10, 2021
+生效日期：2021 年 8 月 10 日
 
-Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/cn/github/site-policy/github-privacy-statement).
+对 GitHub Codespaces 的使用受 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)的约束。
 
-Activity on github.dev is subject to [GitHub's Beta Previews terms](/cn/github/site-policy/github-terms-of-service#j-beta-previews)
+github.dev 上的活动受 [GitHub Beta 预览版条款](/cn/github/site-policy/github-terms-of-service#j-beta-previews)的约束
 
-[](#using-visual-studio-code)Using Visual Studio Code
+[](#使用-visual-studio-code)使用 Visual Studio Code
 ----------
 
-GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.
+GitHub Codespaces 和 github.dev 允许在 Web 浏览器中使用 Visual Studio Code。 在 Web 浏览器中使用 VS Code 时，某些遥测收集默认启用，并[在 VS Code 网站上进行了详细说明](https://code.visualstudio.com/docs/getstarted/telemetry)。 用户可以通过转至左上角菜单下的“文件 \> 首选项 \> 设置”来选择退出遥测。
 
-If a user chooses to opt out of telemetry capture in VS Code while inside of a codespace as outlined, this will sync the disable telemetry preference across all future web sessions in GitHub Codespaces and github.dev.
+如果用户选择在 VS Code 中的代码空间内退出遥测捕获（如前所述），这将在 GitHub Codespaces 和 github.dev 中的所有未来 Web 会话中同步禁用遥测首选项。
