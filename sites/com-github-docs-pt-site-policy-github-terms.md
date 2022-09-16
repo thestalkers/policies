@@ -13,6 +13,7 @@ Termos do GitHub
 * [Termos de Serviços Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
 * [Termos do GitHub para Produtos e Recursos Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+* [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 * [Contrato de Desenvolvedor Registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
 * [Termos de Serviço do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-terms-of-service)

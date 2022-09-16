@@ -54,10 +54,7 @@ GitHub 公司服务条款
 
 * [T. 其他](#t-miscellaneous)
 
-*这些条款适用于 1) 已接受《公司服务条款》的 GitHub.com（非企业）客户，以及 2) 在 2021 年 1 月 4 日之前已获得服务许可的企业客户。在此日期之后购买产品或服务的企业客户转至 <https://github.com/enterprise-legal> 以查看现行条款。*
-
-感谢您选择 GitHub 满足您公司的业务需求。 请仔细阅读本协议，因为它管辖对产品（定义如下）的使用，除非 GITHUB 已出于该目的与客户签订了单独的书面协议。
-单击“I AGREE”（我同意）或类似按钮或者使用产品，即表示客户接受本协议的所有条款和条件。 如果客户代表公司或其他法律实体签订本协议，则表示其拥有让公司或其他法律实体受本协议约束的法律权限。
+这些条款适用于已执行引用《公司服务条款》的协议的 GitHub.com 客户。所有其他企业或机构客户都会定向到 [github.com/customer-terms](https://github.com/customer-terms) 以了解当前条款。
 
 [](#github-corporate-terms-of-service)GitHub 公司服务条款
 ----------

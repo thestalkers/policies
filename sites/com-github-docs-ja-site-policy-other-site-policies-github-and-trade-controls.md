@@ -52,7 +52,7 @@ GitHub Enterprise Server は、Country Group E:1 in Supplement No. 1 to part 740
 
 ### [](#on-which-countries-and-territories-are-us-government-sanctions-applied)米国政府が制裁を適用しているのはどの国および地域ですか? ###
 
-クリミア、ドネツクおよびルハーンスクの分離主義者地域、キューバ、イラン、北朝鮮、およびシリア。 ただし、イランに関しては、GitHub は、イランに拠点を置くか居住する開発者にクラウド サービスを提供する米国財務省海外資産管理局 (OFAC) の許可を得ています。 GitHub クラウド サービスも、有料と無料の両方で、キューバを居住地とする開発者に一般に提供されています。
+クリミア、ドネツクおよびルハーンスクの分離主義者地域、キューバ、イラン、北朝鮮、およびシリアです。 ただし、イランに関しては、GitHub は、イランに拠点を置くか居住する開発者にクラウド サービスを提供する米国財務省海外資産管理局 (OFAC) の許可を得ています。 GitHub クラウド サービスも、有料と無料の両方で、キューバを居住地とする開発者に一般に提供されています。
 
 ### [](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal)GitHub は、制裁対象の国および地域に居住していなかったり、専門リンクがない場合でも、どのようにしてアクセスまたは異議申し立てできるようにしているのですか? ###
 

@@ -54,10 +54,7 @@ Termos de Serviços Corporativos do GitHub
 
 * [T. Disposições Gerais](#t-miscellaneous)
 
-*Estes termos se aplicam a 1) clientes do GitHub.com (não Corporativos) que aceitaram os Termos de Serviços Corporativos e 2) clientes Corporativos que licenciaram o Serviço antes de 4 de janeiro de 2021. Os clientes Corporativos que compram Produtos ou Serviços após essa data serão direcionados para <https://github.com/enterprise-legal> para os termos atuais.*
-
-OBRIGADO POR ESCOLHER O GITHUB PARA AS NECESSIDADES COMERCIAIS DA SUA EMPRESA. LEIA ESTE CONTRATO COM ATENÇÃO, POIS ELE REGE O USO DOS PRODUTOS (CONFORME DEFINIDO ABAIXO), A MENOS QUE O GITHUB TENHA CELEBRADO UM CONTRATO POR ESCRITO SEPARADO COM O CLIENTE PARA ESSE FIM.
-AO CLICAR NO BOTÃO “CONCORDO” OU SEMELHANTE OU AO ACESSAR OS PRODUTOS, O CLIENTE ACEITA TODOS OS TERMOS E CONDIÇÕES DESTE CONTRATO. SE O CLIENTE ESTIVER CELEBRANDO ESTE CONTRATO EM NOME DE UMA EMPRESA OU DE OUTRA PESSOA JURÍDICA, ELE DECLARA QUE TEM AUTORIDADE LEGAL PARA VINCULAR A EMPRESA OU OUTRA PESSOA JURÍDICA A ESTE CONTRATO.
+*Esses termos se aplicam a clientes do GitHub.com que assinaram contratos em vigor referenciando os Termos de Serviço Corporativos. Todos os outros clientes empresariais ou institucionais são direcionados para [github.com/customer-terms](https://github.com/customer-terms) para obter os termos atuais.*
 
 [](#github-corporate-terms-of-service)Termos de Serviços Corporativos do GitHub
 ----------

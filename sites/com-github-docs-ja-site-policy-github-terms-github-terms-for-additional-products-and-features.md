@@ -26,17 +26,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 
-* [Learning Lab](#npm)
+* [npm](#npm)
 
-* [npm](#packages)
+* [パッケージ](#packages)
 
-* [パッケージ](#pages)
+* [Pages](#pages)
 
-* [Pages](#previews)
+* [プレビュー](#previews)
 
-* [プレビュー](#sponsors-program)
-
-* [Sponsors プログラム](#sql-server-images)
+* [Sponsors プログラム](#sponsors-program)
 
 * [SQL Server Images](#sql-server-images)
 
@@ -48,9 +46,9 @@ GitHub を利用する際、数多くの追加製品や機能 (以下「追加�
 
 **エンタープライズ ユーザー向け**
 
-* **GitHub Enterprise Cloud** のユーザーは、Actions、Advanced Security、Advisory Database、Codespaces、Dependabot Preview、GitHub Enterprise Importer、Learning Lab、Packages、および Pages の追加の製品および機能にアクセスできます。
+* **GitHub Enterprise Cloud** のユーザーは、Actions、Advanced Security、Advisory Database、Codespaces、Dependabot Preview、GitHub Enterprise Importer、Packages、および Pages の追加の製品および機能にアクセスできます。
 
-* **GitHub Enterprise Server** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Learning Lab、Packages、Pages、および SQL Server Images の追加の製品および機能にアクセスできます。
+* **GitHub Enterprise Server** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、Pages、および SQL Server Images の追加の製品および機能にアクセスできます。
 
 * **GitHub AE** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、および Pages の追加の製品および機能にアクセスできます。
 
@@ -149,32 +147,17 @@ GitHub Copilot は、(i) お客様が希望する遠隔測定設定に応じて�
 
 Importer は、GitHub プラットフォームにインポートする他のソースからデータをエクスポートするためのフレームワークです。 Importer は「現状のまま」提供されます。
 
-[](#npm)Learning Lab
-----------
-
-GitHub Learning Lab は、GitHub に組み込まれた無料のインタラクティブ コースを提供し、即時の自動フィードバックとヘルプを提供します。
-
-"コース教材" GitHub は、提供するコース教材を所有し、Learning Lab の使用に関連する社内業務目的のために、かかるコース教材をコピー、保守、使用、および実行するための、世界的、非独占的、期間限定、譲渡不能、ロイヤリティフリーのライセンスをお客様に付与します。
-
-コース教材で提供されるソース コードの一部に、オープン ソース ライセンスの条件が適用される場合があります。
-
-お客様は、お客様が作成し、GitHub にそのようなコース教材をコピー、保守、使用、ホスト、および実行するための世界的、非独占的、永続的、譲渡不能、ロイヤリティフリーのライセンスを付与するコース教材を所有します。
-
-GitHub コース教材の使用、およびお客様独自のコース教材の作成と保存は、いずれの当事者のそれぞれの知的財産に対する共同所有権を構成するものでもありません。
-
-個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
-
-[](#packages)npm
+[](#npm)npm
 ----------
 
 npm は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 npm は JavaScript エコシステムの記録のレジストリです。 npm パブリック レジストリは無料で使用できますが、プライベート パッケージを公開したり、チームを使用してプライベート パッケージを管理したりする場合は、お客様宛に請求されます。 [npm ドキュメント](https://docs.npmjs.com/)には、アカウント タイプの制限と、[プライベート パッケージ](https://docs.npmjs.com/about-private-packages)および[組織](https://docs.npmjs.com/organizations)の管理方法の詳細が記載されています。 npm レジストリの許容可能な使用については、[オープン ソースの条件](https://www.npmjs.com/policies/open-source-terms)で概説されています。 また、npm の [solo](https://www.npmjs.com/policies/solo-plan) と [org](https://www.npmjs.com/policies/orgs-plan) の両方のプランに補足の条件があります。 npm の利用には、npm [使用条件](https://www.npmjs.com/policies/terms)が適用されます。
 
-[](#pages)パッケージ
+[](#packages)パッケージ
 ----------
 
 GitHub Packages は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 GitHub Packages は使用量ベースで請求されます。 [Packages のドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅とストレージ量 (アカウント プランによって異なります)、Packages の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。 Packages の帯域幅使用量は「[GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)」によって制限されます。
 
-[](#previews)Pages
+[](#pages)Pages
 ----------
 
 各アカウントには、[GitHub Pages の静的ホスティング サービス](/ja/github/working-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的な Web ページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割を担っています。
@@ -191,12 +174,12 @@ GitHub Pages は、契約、「GitHub [利用規約](/ja/github/site-policy/gith
 
 お客様の使用または使用目的がこれらのカテゴリに分類されるかどうかについてご質問がある場合は、[GitHub サポート](https://support.github.com/contact?tags=docs-policy)までお問い合わせください。 GitHub はいつでも、責任を負うことなく GitHub の任意のサブドメインを回収する権利を常に留保します。
 
-[](#sponsors-program)プレビュー
+[](#previews)プレビュー
 ----------
 
 プレビューとは、下見、評価、デモ、試用などの目的のために提供されているソフトウェア、オンライン サービス、および追加の製品および機能、またはそれらのプレリリース版 (アルファ版、ベータ版、早期アクセス版など) を意味します。 契約にプレビューに関する条件が含まれていない場合は、次の条件が適用されます。 GitHub は、プレビュー版の非稼働インスタンスを使用する限定的な権利を付与します。 プレビューは、「現状有姿」、「瑕疵があってもそれらを含む状態で」、かつ「提供可能な状態で」提供されます。 GitHub は、随時予告なくプレビューを変更または中止することがあります。 プライベート プレビューに関して当社から提供された情報は、GitHub の機密情報と見なされます。 プレビューに関するコメントや提案を提供することをお客様が選択した場合、当社はいかなる種類の義務も負うことなく、そのフィードバックをいかなる目的にも使用することができます。 GitHub の責任は 5,000 米ドルまでの直接損害に制限されます。 GitHub は、お客様のプレビューの使用から生じる第三者による申し立てについて、お客様を防御、補償、または無害に保つ義務を負いません。
 
-[](#sql-server-images)Sponsors プログラム
+[](#sponsors-program)Sponsors プログラム
 ----------
 
 GitHub Sponsors により、開発者コミュニティは、日々活用しているオープン ソース プロジェクトの設計、構築、維持に携わる人々や組織を、GitHub で直接、経済的に支援できます。 支援対象開発者になるには、[GitHub Sponsors プログラムの追加条件](/ja/github/site-policy/github-sponsors-additional-terms)に同意しなければなりません。

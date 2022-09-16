@@ -251,7 +251,7 @@ Sacramento, CA 95833-3505
 
 ```
 
-Cópias de cortesia podem ser enviadas para [legal@support.github.com](mailto:legal@support.github.com).
+Cópias de cortesia podem ser enviadas para [legal-support@github.com](mailto:legal-support@github.com)
 
 Torne suas solicitações o mais específicas e restritas possível, incluindo as seguintes informações:
 

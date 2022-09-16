@@ -26,19 +26,17 @@ Termos do GitHub para Produtos e Recursos Adicionais
 
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 
-* [Learning Lab](#npm)
+* [npm](#npm)
 
-* [npm](#packages)
+* [Pacotes](#packages)
 
-* [Pacotes](#pages)
+* [Pages](#pages)
 
-* [Pages](#previews)
+* [Visualizações](#previews)
 
-* [Visualizações](#sponsors-program)
+* [Programa Sponsors](#sponsors-program)
 
-* [Programa Sponsors](#sql-server-images)
-
-* [Imagens do SQL Server](#imagens-do-sql-server)
+* [Imagens do SQL Server](#sql-server-images)
 
 Data de Início de Vigência da Versão: 10 August 2021
 
@@ -48,9 +46,9 @@ Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos 
 
 **Para usuários Corporativos**
 
-* Os usuários do **GitHub Enterprise Cloud** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Ações, Advanced Security, Advisory Database, Codespaces, Visualização do Dependabot, GitHub Enterprise Importer, Learning Lab, Packages e Pages.
+* Os usuários do **GitHub Enterprise Cloud** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Codespaces, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages e Pages.
 
-* Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Ações, Advanced Security, Advisory Database, Connect, Visualização do Dependabot, GitHub Enterprise Importer, Learning Lab, Packages, Pages e Imagens do SQL Server.
+* Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Connect, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages, Pages e Imagens do SQL Server.
 
 * Os usuários do **GitHub AE** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Ações, Advanced Security, Advisory Database, Connect, Visualização do Dependabot, GitHub Enterprise Importer, Packages e Pages.
 
@@ -149,32 +147,17 @@ O GitHub Copilot (i) poderá, dependendo de suas configurações de telemetria p
 
 O Importer é uma estrutura para exportar dados de outras fontes para serem importados para a plataforma GitHub. O Importer é fornecido “NO ESTADO EM QUE SE ENCONTRA”.
 
-[](#npm)Learning Lab
-----------
-
-O GitHub Learning Lab oferece cursos interativos gratuitos integrados ao GitHub com feedback e ajuda automatizados instantâneos.
-
-*Materiais do Curso.* O GitHub é proprietário dos materiais do curso que fornece e concede a você uma licença mundial, não exclusiva, de prazo limitado, intransferível e isenta de royalties para copiar, manter, usar e executar esses materiais do curso para seus fins comerciais internos associados ao uso do Learning Lab.
-
-Os termos de licença de software livre podem ser aplicados a partes do código-fonte fornecidas nos materiais do curso.
-
-Você é proprietário dos materiais do curso que cria e concede ao GitHub uma licença mundial, não exclusiva, perpétua, intransferível e isenta de royalties para copiar, manter, usar, hospedar e executar esses materiais do curso.
-
-O uso dos materiais do curso do GitHub e a criação e o armazenamento de seus próprios materiais do curso não constituem propriedade conjunta da propriedade intelectual de nenhuma das partes.
-
-O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
-
-[](#packages)npm
+[](#npm)npm
 ----------
 
 npm é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usá-los como dependências em seus projetos. O npm é o registro de gravação do ecossistema JavaScript. O uso do registro público npm é gratuito, mas será cobrado se os clientes quiserem publicar ou gerenciar pacotes privados usando equipes. A [documentação do npm](https://docs.npmjs.com/) inclui detalhes sobre a limitação dos tipos de conta e como gerenciar [pacotes privados](https://docs.npmjs.com/about-private-packages) e [organizações](https://docs.npmjs.com/organizations). O uso aceitável do registro npm é descrito nos [termos de software livre](https://www.npmjs.com/policies/open-source-terms). Existem termos complementares para os planos [solo](https://www.npmjs.com/policies/solo-plan) e [org](https://www.npmjs.com/policies/orgs-plan) do npm. Os [Termos de uso](https://www.npmjs.com/policies/terms) do npm aplicam-se ao uso que você faz do npm.
 
-[](#pages)Pacotes
+[](#packages)Pacotes
 ----------
 
 O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usá-los como dependências em seus projetos. O GitHub Packages é cobrado com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso da largura de banda do Packages é limitado pelas [Políticas de Uso Aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies).
 
-[](#previews)Pages
+[](#pages)Pages
 ----------
 
 Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/github/working-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas é usado principalmente como vitrine para projetos pessoais e organizacionais.
@@ -191,17 +174,17 @@ O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de
 
 Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
 
-[](#sponsors-program)Visualizações
+[](#previews)Visualizações
 ----------
 
 Pré-visualizações referem-se a software, serviços online e produtos e recursos adicionais fornecidos para fins de visualização, avaliação, demonstração ou teste, ou versões de pré-lançamento, como alfa, beta ou acesso antecipado. Se o seu Contrato não incluir termos e condições que abordem as Visualizações, os termos a seguir serão aplicáveis. O GitHub concede um direito limitado de usar uma instância de não produção da Visualização. As visualizações são fornecidas “NO ESTADO EM QUE SE ENCONTRAM” e “CONFORME DISPONÍVEIS”. O GitHub pode alterar ou descontinuar as Visualizações a qualquer momento sem notificação. Todas as informações que fornecermos sobre uma Visualização privada serão consideradas informações confidenciais do GitHub. Se você optar por fornecer comentários ou sugestões sobre uma Visualização, poderemos usar esse feedback para qualquer finalidade sem obrigação de nenhum tipo. A responsabilidade máxima do GitHub é limitada a danos diretos de até US$ 5.000. O GitHub não tem obrigação de defender, ressarcir nem isentá-lo de responsabilidade por requerimentos judiciais e/ou extrajudiciais apresentados por terceiros decorrentes do uso de Visualizações.
 
-[](#sql-server-images)Programa Sponsors
+[](#sponsors-program)Programa Sponsors
 ----------
 
 O GitHub Sponsors permite que a comunidade de desenvolvedores apoie financeiramente as pessoas e as organizações que projetam, constroem e mantêm os projetos de software livre dos quais dependem, diretamente no GitHub. Para tornar-se um Desenvolvedor Patrocinado, é necessário concordar com os [Termos Adicionais do Programa GitHub Sponsors](/pt/github/site-policy/github-sponsors-additional-terms).
 
-[](#imagens-do-sql-server)Imagens do SQL Server
+[](#sql-server-images)Imagens do SQL Server
 ----------
 
 Você pode baixar a imagem de contêiner do Microsoft SQL Server Standard Edition para arquivos Linux (“Imagens do SQL Server”). É necessário desinstalar as Imagens do SQL Server quando terminar seu direito de usar o Software. A Microsoft Corporation pode desativar as Imagens do SQL Server a qualquer momento.

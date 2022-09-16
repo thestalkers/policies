@@ -251,7 +251,7 @@ Sacramento, CA 95833-3505
 
 ```
 
-参照コピーは、[legal@support.github.com](mailto:legal@support.github.com) 宛てに電子メールで送付してください。
+参照コピーは、[legal-support@github.com](mailto:legal-support@github.com) 宛てに電子メールで送付してください
 
 次の情報を含め、できるだけ明確かつ厳密に要求を作成してください。
 

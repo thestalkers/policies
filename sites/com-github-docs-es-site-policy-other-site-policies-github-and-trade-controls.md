@@ -52,7 +52,7 @@ GitHub Enterprise Server no puede venderse, exportarse ni reexportarse a ningún
 
 ### [](#on-which-countries-and-territories-are-us-government-sanctions-applied)¿A qué países y territorios se aplican las sanciones de la administración pública de EE. UU.? ###
 
-Crimea, las zonas separatistas de Donetsk y Luhasnk, Cuba, Irán, Corea del Norte y Siria. Sin embargo, con respecto a Irán, GitHub ahora ha obtenido una licencia de la Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de EE. UU. para prestar servicios en la nube a desarrolladores ubicados o residentes en ese país. Los servicios en la nube de GitHub, tanto gratuitos como de pago, también están disponibles de forma generalizada para los desarrolladores ubicados en Cuba.
+Crimea, las zonas separatistas de Donetsk y Lugansk, Cuba, Irán, Corea del Norte y Siria. Sin embargo, con respecto a Irán, GitHub ahora ha obtenido una licencia de la Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de EE. UU. para prestar servicios en la nube a desarrolladores ubicados o residentes en ese país. Los servicios en la nube de GitHub, tanto gratuitos como de pago, también están disponibles de forma generalizada para los desarrolladores ubicados en Cuba.
 
 ### [](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal)¿Cómo garantiza GitHub que las personas que no viven en países y territorios sancionados ni tienen vínculos profesionales con ellos dispongan de acceso o capacidad para apelar? ###
 

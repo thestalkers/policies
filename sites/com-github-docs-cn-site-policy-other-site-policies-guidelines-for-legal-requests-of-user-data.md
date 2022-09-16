@@ -251,7 +251,7 @@ Sacramento, CA 95833-3505
 
 ```
 
-抄送件可通过电子邮件发送至 [legal@support.github.com](mailto:legal@support.github.com)。
+抄送件可通过电子邮件发送至 [legal-support@github.com](mailto:legal-support@github.com)
 
 请尽可能具体描述请求并缩小请求范围，包含以下信息：
 
