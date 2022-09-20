@@ -12,35 +12,35 @@ Política de Remoção de Informações Privadas do GitHub
 [In this article](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
 ----------
 
-* [O que são Informações Privadas?](#what-is-private-information)
+* [O que são Informações Privadas?](#o-que-são-informações-privadas)
 
-* [Coisas que você deve saber](#things-to-know)
+* [Coisas que você deve saber](#coisas-que-você-deve-saber)
 
-* [Como isso realmente funciona?](#how-does-this-actually-work)
+* [Como isso realmente funciona?](#como-isso-realmente-funciona)
 
-* [Enviando uma solicitação de remoção de informações privadas](#sending-a-private-information-removal-request)
+* [Enviando uma solicitação de remoção de informações privadas](#enviando-uma-solicitação-de-remoção-de-informações-privadas)
 
-* [Como enviar sua solicitação](#how-to-submit-your-request)
+* [Como enviar sua solicitação](#como-enviar-sua-solicitação)
 
-* [Controvérsias](#disputes)
+* [Controvérsias](#controvérsias)
 
 Oferecemos esse processo de remoção de informações privadas como um serviço excepcional apenas para conteúdo de alto risco que viola os [Termos de Serviço do GitHub](/pt/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions), como quando sua segurança está em risco devido à exposição das credenciais de acesso. Este guia descreve as informações que o GitHub precisa que você forneça a fim de processar uma solicitação para remover informações privadas de um repositório.
 
-[](#what-is-private-information)O que são Informações Privadas?
+[](#o-que-são-informações-privadas)[]()O que são Informações Privadas?
 ----------
 
 Para as finalidades deste documento, “informação privada” refere-se ao conteúdo que (i) deveria ter sido mantido em sigilo *e* (ii) cuja disponibilidade pública represente um risco específico ou direcionado à segurança para você ou para sua organização.
 
 “Risco à segurança” refere-se a uma situação envolvendo exposição a perigo físico, roubo de identidade ou maior probabilidade de acesso não autorizado a instalações físicas ou de rede.
 
-### [](#private-information-removal-requests-are-appropriate-for)As solicitações de remoção de informações privadas são apropriadas para: ###
+### [](#as-solicitações-de-remoção-de-informações-privadas-são-apropriadas-para)[]()As solicitações de remoção de informações privadas são apropriadas para: ###
 
 * Credenciais de acesso, como nomes de usuário combinados com senhas, tokens de acesso ou outros segredos confidenciais que podem permitir acesso ao servidor, à rede ou ao domínio da sua organização.
 * Tokens da AWS e outras credenciais de acesso semelhantes que permitem acesso a terceiros em seu nome. Você deve ser capaz de mostrar que o token pertence a você.
 * Documentação (como arquitetura ou diagramas de rede) que representa um risco de segurança específico para uma organização.
 * [Informações](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) relacionadas e que representam um risco à segurança para você como pessoa física (como números da previdência social ou outros números de identificação do governo).
 
-### [](#private-information-removal-requests-are-not-appropriate-for)As solicitações de remoção de informações privadas *não* são apropriadas para: ###
+### [](#as-solicitações-de-remoção-de-informações-privadas-não-são-apropriadas-para)[]()As solicitações de remoção de informações privadas *não* são apropriadas para: ###
 
 * Nomes de servidores internos, endereços IP e URLs por conta própria. Você deve ser capaz de comprovar que seu uso em um determinado arquivo ou parte de código representa uma ameaça à segurança.
 * Meras menções à identidade, nome, marca, nome de domínio da sua empresa ou outras referências a ela em arquivos no GitHub. Você deverá ser capaz de expressar por que o uso da identidade de sua empresa é uma ameaça à postura de segurança de sua empresa.
@@ -50,7 +50,7 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 * Reclamações de privacidade. Se você desejar acessar, transferir, alterar ou excluir suas informações pessoais no GitHub, entre em contato conosco usando o [Formulário de contato de privacidade](https://github.com/contact/privacy).
 * Conteúdo regido pelas [Diretrizes da Comunidade](/pt/articles/github-community-guidelines), como malware ou ferramentas de uso geral. Se você tiver dúvidas sobre as Diretrizes da Comunidade ou se acreditar que o conteúdo do GitHub pode violar nossas diretrizes, use [Report content](https://github.com/contact/report-content) para entrar em contato conosco.
 
-[](#things-to-know)Coisas que você deve saber
+[](#coisas-que-você-deve-saber)[]()Coisas que você deve saber
 ----------
 
 **Primeiro pergunte gentilmente.** Um ótimo primeiro passo antes de nos enviar uma solicitação para remover dados é tentar entrar em contato diretamente com o usuário. Ele pode ter fornecido informações de contato na respectiva página de perfil público ou no arquivo de Suporte ou arquivo README do repositório, ou você pode entrar em contato criando um chamado ou uma solicitação de pull no repositório. Isso não é rigorosamente necessário, mas é recomendável.
@@ -61,7 +61,7 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 
 **Tempo de processamento.** Embora processemos solicitações de remoção de informações privadas o mais rápido possível, devido ao volume de solicitações que processamos, pode levar algum tempo para que sua solicitação seja analisada. Solicitações adicionais ou diversas solicitações de pontos de contato adicionais podem resultar em atrasos.
 
-[](#how-does-this-actually-work)Como isso realmente funciona?
+[](#como-isso-realmente-funciona)[]()Como isso realmente funciona?
 ----------
 
 1. **O denunciante investiga.** Cabe à parte requerente conduzir sua própria investigação e nos fornecer os [detalhes que exigimos](#your-request-must-include) — mais importante, uma explicação de como os dados representam um risco à segurança. O GitHub não está em posição de pesquisar nem de fazer determinações iniciais sobre informações privadas em nome de qualquer pessoa ou organização.
@@ -80,7 +80,7 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 
 7. **O usuário pode solicitar uma janela adicional para fazer alterações.** Se o usuário perder a oportunidade de remover as informações privadas especificadas na notificação, poderemos conceder a ele um período adicional de aproximadamente 1 dia útil, mediante solicitação, para fazer essas alterações. Nesse caso, o GitHub notificará o denunciante.
 
-### [](#what-about-forks-or-whats-a-fork)E os forks? (ou O que é um fork?) ###
+### [](#e-os-forks-ou-o-que-é-um-fork)[]()E os forks? (ou O que é um fork?) ###
 
 Um dos melhores recursos do GitHub é a capacidade de os usuários "criarem forks" dos repositórios uns dos outros. O que isso significa? Basicamente, isso significa que os usuários podem fazer uma cópia de um projeto no GitHub em seus próprios repositórios. Conforme a licença ou a lei permitir, os usuários podem fazer alterações nesse fork para retornar ao projeto principal ou apenas manter como sua própria variação de um projeto. Cada uma dessas cópias é um “[fork](/pt/articles/github-glossary/#fork)” do repositório original, que por sua vez também pode ser chamado de “pai” do fork.
 
@@ -88,14 +88,14 @@ O GitHub não desabilitará automaticamente os forks ao desabilitar um repositó
 
 Se, no momento em que você enviou a notificação, você identificou todos os forks existentes desse repositório, processaremos um requerimento judicial ou extrajudicial válido contra todos os forks nessa rede no momento em que processarmos a notificação. Faríamos isso dada a probabilidade de todos os forks recém-criados conterem o mesmo conteúdo. Além disso, se a rede denunciada que contém o conteúdo denunciado for maior que 100 (cem) repositórios e, portanto, difícil de revisar integralmente, poderemos considerar a desativação de toda a rede se você declarar que, com base no número representativo de forks revisados, você acredita que todos ou a maioria dos forks contêm o conteúdo denunciado no repositório pai.
 
-[](#sending-a-private-information-removal-request)Enviando uma solicitação de remoção de informações privadas
+[](#enviando-uma-solicitação-de-remoção-de-informações-privadas)[]()Enviando uma solicitação de remoção de informações privadas
 ----------
 
 Devido ao tipo de conteúdo que o GitHub hospeda (principalmente código de software) e à maneira como esse conteúdo é gerenciado (com Git), precisamos que as reclamações sejam tão específicas quanto possível. Para que possamos verificar se um usuário removeu completamente as informações privadas denunciadas, precisamos saber exatamente onde procurar.
 
 Essas diretrizes foram elaboradas para tornar o processamento de solicitações de remoção de informações privadas o mais simples possível.
 
-### [](#your-request-must-include)Sua solicitação deve incluir: ###
+### [](#sua-solicitação-deve-incluir)[]()Sua solicitação deve incluir: ###
 
 1. Um link funcional e clicável para cada arquivo que contém informações privadas. (Observe que não podemos trabalhar com resultados de pesquisa, exemplos ou capturas de tela.)
 2. Números de linha específicos dentro de cada arquivo que contém as informações privadas.
@@ -103,12 +103,12 @@ Essas diretrizes foram elaboradas para tornar o processamento de solicitações 
 4. Se você for um terceiro atuando como agente de uma organização que enfrenta um risco à segurança, inclua uma declaração de que você tem o direito legal de agir em nome dela.
 5. OPCIONAL: Informe-nos se a sua solicitação é particularmente urgente e o motivo. Respondemos a todas as solicitações de remoção de informações privadas o mais rápido possível. No entanto, se esta solicitação for especialmente suscetível ao tempo, como uma exposição de credencial muito recente, explique o motivo.
 
-[](#how-to-submit-your-request)Como enviar sua solicitação
+[](#como-enviar-sua-solicitação)[]()Como enviar sua solicitação
 ----------
 
 Você pode enviar sua solicitação para remover informações privadas por meio do [formulário de contato](https://support.github.com/contact?tags=docs-private-information). Inclua uma versão em texto simples de sua solicitação no corpo de sua mensagem. O envio de sua solicitação em anexo pode resultar em atrasos no processamento.
 
-[](#disputes)Controvérsias
+[](#controvérsias)[]()Controvérsias
 ----------
 
 Se você recebeu uma solicitação de remoção de informação privada enviada por nós, poderá contestá-la respondendo ao nosso email e nos informando — com o máximo de detalhes possível — por que você acha que o conteúdo em questão não é uma informação privada sujeita a esta Política.

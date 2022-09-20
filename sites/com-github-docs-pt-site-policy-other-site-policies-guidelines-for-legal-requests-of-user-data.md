@@ -12,90 +12,81 @@ Diretrizes para Solicitações Legais de Dados do Usuário
 [In this article](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
 ----------
 
-* [Sobre estas diretrizes](#about-these-guidelines)
+* [Sobre estas diretrizes](#sobre-estas-diretrizes)
 
-* [Terminologia do GitHub](#github-terminology)
+* [Terminologia do GitHub](#terminologia-do-github)
 
-* [Dados do usuário em GitHub.com](#user-data-on-githubcom)
+* [Dados do usuário em GitHub.com](#dados-do-usuário-em-githubcom)
 
-* [Notificaremos todos os proprietários de contas afetados](#we-will-notify-any-affected-account-owners)
+* [Notificaremos todos os proprietários de contas afetados](#notificaremos-todos-os-proprietários-de-contas-afetados)
 
-* [Divulgação de informações não públicas](#disclosure-of-non-public-information)
+* [Divulgação de informações não públicas](#divulgação-de-informações-não-públicas)
 
-* [Reembolso de custos](#cost-reimbursement)
+* [Reembolso de custos](#reembolso-de-custos)
 
-* [Preservação de dados](#data-preservation)
+* [Preservação de dados](#preservação-de-dados)
 
-* [Enviando solicitações](#submitting-requests)
+* [Enviando solicitações](#enviando-solicitações)
 
-* [Solicitações de autoridades estrangeiras](#requests-from-foreign-law-enforcement)
+* [Solicitações de autoridades estrangeiras](#solicitações-de-autoridades-estrangeiras)
 
-* [Dúvidas](#questions)
+* [Dúvidas](#dúvidas)
 
-Você é um agente da lei realizando uma investigação que pode envolver conteúdo de usuário hospedado no GitHub?
-Ou talvez você seja uma pessoa preocupada com a privacidade que gostaria de saber quais informações compartilhamos com as autoridades e em quais circunstâncias.
-De qualquer forma, você está na página certa.
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
+Either way, you're on the right page.
 
-Nestas diretrizes, fornecemos algumas informações sobre o que é o GitHub, os tipos de dados que temos e as condições nas quais divulgaremos informações privadas do usuário.
-No entanto, antes de entrarmos em detalhes, aqui estão algumas informações importantes que podem ser úteis:
+In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+Before we get into the details, however, here are a few important details you may want to know:
 
 * Vamos [**notificar os usuários afetados**](#we-will-notify-any-affected-account-owners) sobre todas as solicitações de informações de suas respectivas contas, a menos que seja proibido por lei ou ordem judicial.
 * Não vamos divulgar **dados de rastreamento de localização**, como logs de endereço IP, sem uma [ordem judicial ou mandado de busca válido](#with-a-court-order-or-a-search-warrant).
 * Não divulgaremos nenhum **conteúdo privado do usuário**, incluindo o conteúdo de repositórios privados, sem um documento válido [mandato de busca](#only-with-a-search-warrant).
 
-[](#about-these-guidelines)Sobre estas diretrizes
+[](#sobre-estas-diretrizes)[]()Sobre estas diretrizes
 ----------
 
-Nossos usuários confiam em nós com seus projetos e códigos de software que, geralmente, são alguns de seus negócios ou ativos pessoais mais valiosos.
-Manter essa confiança é essencial para nós, o que significa manter os dados do usuário seguros, protegidos e privados.
+Você é um agente da lei realizando uma investigação que pode envolver conteúdo de usuário hospedado no GitHub?
 
-Embora a esmagadora maioria de nossos usuários use os serviços do GitHub para criar negócios, construir novas tecnologias e para a melhoria geral da humanidade, reconhecemos que, com milhões de usuários distribuídos por todo o mundo, é provável que haja algumas maçãs podres na cesta.
-Nesses casos, queremos ajudar as autoridades policiais a atender ao interesse legítimo de proteger o público.
+Ou talvez você seja uma pessoa preocupada com a privacidade que gostaria de saber quais informações compartilhamos com as autoridades e em quais circunstâncias.
 
-Ao fornecer diretrizes para as autoridades policiais, esperamos encontrar um equilíbrio entre os interesses muitas vezes conflitantes de privacidade e justiça do usuário.
-Esperamos que essas diretrizes ajudem a definir as expectativas de ambos os lados, além de adicionar transparência aos processos internos do GitHub.
-Nossos usuários devem saber que valorizamos suas informações privadas e que fazemos o possível para protegê-las.
-No mínimo, isso significa liberar dados para terceiros apenas quando os requisitos legais apropriados forem atendidos.
-Da mesma forma, também esperamos orientar as autoridades policiais sobre os sistemas do GitHub para que possam personalizar com mais eficiência suas solicitações de dados e almejar apenas as informações necessárias para realizar sua investigação.
+De qualquer forma, você está na página certa.
 
-[](#github-terminology)Terminologia do GitHub
+[](#terminologia-do-github)[]()Terminologia do GitHub
 ----------
 
-Antes de nos solicitar a divulgação de dados, pode ser útil entender como nosso sistema é implementado.
-O GitHub hospeda milhões de repositórios de dados usando o [Sistema de controle de versão Git](https://git-scm.com/video/what-is-version-control).
-Os repositórios no GitHub, que podem ser públicos ou privados, são mais comumente usados para projetos de desenvolvimento de software, mas também costumam ser usados para trabalhar com conteúdo de todos os tipos.
+Before asking us to disclose data, it may be useful to understand how our system is implemented.
+GitHub hosts millions of data repositories using the [](https://git-scm.com/video/what-is-version-control)[Git version control system](https://git-scm.com/video/what-is-version-control).
+Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-* [**Usuários**](/pt/articles/github-glossary#user): os usuários são representados em nosso sistema como contas pessoais do GitHub.
-  Cada usuário tem um perfil pessoal e pode ter vários repositórios.
-  Os usuários podem criar ou ser convidados a ingressar em organizações ou colaborar no repositório de outro usuário.
+* Nestas diretrizes, fornecemos algumas informações sobre o que é o GitHub, os tipos de dados que temos e as condições nas quais divulgaremos informações privadas do usuário.
 
 * [**Colaboradores**](/pt/articles/github-glossary#collaborator) – um colaborador é um usuário com acesso de leitura e gravação a um repositório que foi convidado a contribuir pelo proprietário do repositório.
 
-* [**Organizações**](/pt/articles/github-glossary#organization): organizações são um grupo de dois ou mais usuários que normalmente espelham organizações do mundo real, como negócios ou projetos.
-  Elas são administradas por usuários e podem conter repositórios e equipes de usuários.
+* No entanto, antes de entrarmos em detalhes, aqui estão algumas informações importantes que podem ser úteis:
 
-* [**Repositórios**](/pt/articles/github-glossary#repository): um repositório é um dos elementos mais básicos do GitHub.
-  Talvez seja mais fácil imaginá-lo como uma pasta de um projeto.
-  Um repositório contém todos os arquivos do projeto (incluindo documentação) e armazena o histórico de revisão de cada arquivo.
-  Os repositórios podem ter vários colaboradores e, a critério de seus administradores, podem ser visualizados pelo público ou não.
+* [](/pt/articles/github-glossary#repository)[**Repositories**](/pt/articles/github-glossary#repository) — A repository is one of the most basic GitHub elements.
+  They may be easiest to imagine as a project's folder.
+  A repository contains all of the project files (including documentation), and stores each file's revision history.
+  Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-* [**Páginas**](/pt/articles/what-is-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
-  Se um usuário ou uma organização tiver uma GitHub Page, ela geralmente poderá ser encontrada em um URL, como `https://username.github.io` ou eles podem ter a página da Web mapeada para seu próprio nome de domínio personalizado.
+* [](/pt/articles/what-is-github-pages)[**Pages**](/pt/articles/what-is-github-pages) — GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
+  If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-* [**Gists**](/pt/articles/creating-gists): Gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
-  Como os repositórios regulares do GitHub, os Gists são criados com o Git, portanto, é possível criar fork, baixar e criar versões deles de forma automática.
-  Os Gists podem ser públicos ou secretos (acessíveis apenas por meio de um URL conhecido). Gists públicos não podem ser convertidos em Gists secretos.
+* [](/pt/articles/creating-gists)[**Gists**](/pt/articles/creating-gists) — Gists are snippets of source code or other text that users can use to store ideas or share with friends.
+  Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+  Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
-[](#user-data-on-githubcom)Dados do usuário em GitHub.com
+[](#dados-do-usuário-em-githubcom)[]()Dados do usuário em GitHub.com
 ----------
 
 Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuários e projetos no GitHub.
 
-* []()**Dados de contas públicas**: há uma variedade de informações disponíveis ao público no GitHub sobre usuários e seus repositórios.
-  Os perfis de usuário podem ser encontrados em um URL como `https://github.com/username`.
-  Os perfis de usuário exibem informações sobre quando o usuário criou sua conta, bem como sua atividade pública em GitHub.com e interações sociais.
-  Os perfis de usuários públicos também podem incluir informações adicionais que um usuário pode ter escolhido compartilhar com o público.
-  Todos os perfis públicos de usuário exibem:
+* \<a name="public-account-data"\>\</a\>**Public account data** — There is a variety of information publicly available on GitHub about users and their repositories.
+  User profiles can be found at a URL such as `https://github.com/username`.
+  User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+  Public user profiles can also include additional information that a user may have chosen to share publicly.
+  All user public profiles display:
 
   * Nome do usuário
 
@@ -121,8 +112,8 @@ Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuári
 
   * Organizações das quais o usuário é membro (*dependendo das preferências das organizações ou dos usuários*)
 
-* []()**Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/articles/github-privacy-statement).
-  São elas:
+* \<a name="private-account-data"\>\</a\>**Private account data** — GitHub also collects and maintains certain private information about users as outlined in our [](/pt/articles/github-privacy-statement)[Privacy Policy](/pt/articles/github-privacy-statement).
+  This may include:
 
   * Endereços de email privados
 
@@ -134,32 +125,21 @@ Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuári
 
     Para ter uma ideia do tipo de informações de contas privadas coletadas pelo GitHub, você pode visitar seu [painel pessoal](https://github.com/dashboard) e navegar pelas seções na barra de menus à esquerda.
 
-* []()**Dados de contas de organizações**: informações sobre organizações, seus usuários administrativos e repositórios estão disponíveis ao público no GitHub.
-  Os perfis de organizações podem ser encontrados em um URL como `https://github.com/organization`.
-  Os perfis de organizações públicos também podem incluir informações adicionais que os proprietários podem ter escolhido compartilhar com o público.
-  Todos os perfis públicos de organizações exibem:
+* Nossos usuários confiam em nós com seus projetos e códigos de software que, geralmente, são alguns de seus negócios ou ativos pessoais mais valiosos.
 
   * O nome da organização
-
   * Os repositórios que os proprietários marcaram com estrela
-
   * Todos os usuários do GitHub que são proprietários da organização
 
-    Os usuários administrativos também podem optar por compartilhar com o público as seguintes informações:
+  Os usuários administrativos também podem optar por compartilhar com o público as seguintes informações:
 
   * Um avatar
-
   * Uma empresa afiliada
-
   * Sua localização
-
   * Membros diretos e equipes
-
   * Colaboradores
 
-* []()**Dados de repositórios públicos**: o GitHub é o lar de milhões de projetos públicos de software de código aberto.
-  Você pode navegar em quase qualquer repositório público (por exemplo, o [Projeto Átomo](https://github.com/atom/atom)) para ter uma noção das informações que o GitHub coleta e mantém sobre os repositórios.
-  São elas:
+* Manter essa confiança é essencial para nós, o que significa manter os dados do usuário seguros, protegidos e privados.
 
   * O próprio código
   * Versões anteriores do código
@@ -174,18 +154,15 @@ Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuári
 
 * []()**Outros dados**: além disso, o GitHub coleta dados analíticos, como visitas a páginas e informações ocasionalmente oferecidas por nossos usuários (como comunicações com nossa equipe de suporte, informações de pesquisas e/ou registros de sites).
 
-[](#we-will-notify-any-affected-account-owners)Notificaremos todos os proprietários de contas afetados
+[](#notificaremos-todos-os-proprietários-de-contas-afetados)[]()Notificaremos todos os proprietários de contas afetados
 ----------
 
-É nossa política notificar os usuários sobre quaisquer solicitações pendentes relacionadas a suas contas ou repositórios, a menos que sejamos proibidos por lei ou ordem judicial de fazê-lo. Antes de divulgar as informações do usuário, faremos um esforço razoável para notificar qualquer proprietário de conta afetado enviando uma mensagem para o endereço de email verificado, fornecendo uma cópia da intimação, da ordem judicial ou do mandado para que ele tenha a oportunidade de contestar o processo legal, se assim o desejar. Em circunstâncias prementes (raras), poderemos atrasar a notificação se determinarmos que o atraso é necessário para evitar morte ou danos graves ou em virtude de uma investigação em andamento.
+It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm or due to an ongoing investigation.
 
-[](#disclosure-of-non-public-information)Divulgação de informações não públicas
+[](#divulgação-de-informações-não-públicas)[]()Divulgação de informações não públicas
 ----------
 
-É nossa política divulgar informações não públicas do usuário em conexão com uma investigação civil ou criminal apenas com a autorização do usuário ou mediante o recebimento de uma intimação válida, demanda investigativa civil, ordem judicial, mandado de busca ou outro processo legal válido semelhante. Em certas circunstâncias prementes (veja abaixo), também poderemos compartilhar informações limitadas, mas apenas correspondentes à natureza das circunstâncias, e exigiremos um processo legal para qualquer medida além dessa.
-O GitHub reserva-se o direito de se opor a quaisquer solicitações de informações não públicas.
-Quando o GitHub concordar em produzir informações não públicas em resposta a uma solicitação legal, realizaremos uma busca razoável pelas informações solicitadas.
-Veja a seguir os tipos de informações que concordamos em produzir, dependendo do tipo de processo legal apresentado:
+Embora a esmagadora maioria de nossos usuários use os serviços do GitHub para criar negócios, construir novas tecnologias e para a melhoria geral da humanidade, reconhecemos que, com milhões de usuários distribuídos por todo o mundo, é provável que haja algumas maçãs podres na cesta.
 
 * []()**Com consentimento do usuário**: o GitHub fornecerá informações de contas privadas, se solicitadas, diretamente ao usuário (ou a um proprietário, no caso de uma conta de organização) ou a um terceiro designado com a autorização por escrito do usuário assim que o GitHub estiver convencido de que o usuário verificou sua identidade.
 
@@ -198,20 +175,18 @@ Veja a seguir os tipos de informações que concordamos em produzir, dependendo 
   * Endereço IP, data e hora do momento do registro da conta
   * Endereços IP usados para acessar a conta em um horário específico ou evento relevante para a investigação
 
-No caso de contas de organização, podemos fornecer os nomes e endereços de email dos proprietários da conta, bem como a data e o endereço IP no momento da criação da conta da organização. Não forneceremos informações sobre outros membros nem colaboradores, se houver, para a conta da organização nem qualquer informação adicional sobre os proprietários de contas identificados sem uma solicitação de acompanhamento para esses usuários específicos.
+Nesses casos, queremos ajudar as autoridades policiais a atender ao interesse legítimo de proteger o público.
 
-Observe que as informações disponíveis variam de caso para caso. O fornecimento de algumas informações é opcional para os usuários. Em outros casos, podemos não ter coletado ou retido as informações.
+Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
-* []()**Com uma ordem judicial *ou* um mandado de busca**: não divulgaremos logs de acesso à conta, a menos que sejamos obrigados a fazê-lo por (i) uma ordem judicial emitida de acordo com 18 U.S.C. Seção 2703(d), mediante a apresentação de fatos específicos e articuláveis que demonstrem que há motivos razoáveis para acreditar que a informação solicitada é relevante e importante para uma investigação criminal em andamento; ou (ii) um mandado de busca expedido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente, mediante demonstração de causa provável.
-  Além das informações de contas não públicas listadas acima, podemos fornecer logs de acesso à conta em resposta a uma ordem judicial ou um mandado de busca, que podem incluir:
+* Ao fornecer diretrizes para as autoridades policiais, esperamos encontrar um equilíbrio entre os interesses muitas vezes conflitantes de privacidade e justiça do usuário.
 
   * Quaisquer logs que revelem os movimentos de um usuário durante um período
   * Configurações de conta ou repositório privado (por exemplo, quais usuários têm determinadas permissões, etc.)
   * Dados analíticos específicos do usuário ou IP, como histórico de navegação
   * Logs de acesso de segurança que não sejam a criação da conta ou de data e horário específicos
 
-* []()**Só com mandado de busca**: não divulgaremos o conteúdo privado de nenhuma conta, a menos que sejamos obrigados a fazê-lo sob um mandado de busca emitido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente mediante demonstração de causa provável.
-  Além das informações de contas não públicas e logs de acesso a contas mencionados acima, também forneceremos conteúdo de contas privadas em resposta a uma ordem judicial ou um mandado de busca, que pode incluir:
+* Esperamos que essas diretrizes ajudem a definir as expectativas de ambos os lados, além de adicionar transparência aos processos internos do GitHub.
 
   * Conteúdo de Gists secretos
   * Código-fonte ou outro conteúdo em repositórios privados
@@ -219,12 +194,12 @@ Observe que as informações disponíveis variam de caso para caso. O fornecimen
   * Comunicações ou documentação (como emissões ou Wikis) em repositórios privados
   * Quaisquer chaves de segurança usadas para autenticação ou criptografia
 
-* []()**Em circunstâncias prementes**: se recebermos uma solicitação de informações em determinadas circunstâncias prementes (onde acreditamos que a divulgação é necessária para evitar uma emergência envolvendo perigo de morte ou lesão física grave a uma pessoa), poderemos divulgar informações limitadas que consideramos necessárias para permitir a aplicação da lei a fim de atender à emergência. Para quaisquer informações além dessas, exigimos uma intimação, um mandado de busca ou uma ordem judicial, conforme descrito acima. Por exemplo, não divulgaremos conteúdos de repositórios privados sem um mandado de busca. Antes de divulgar as informações, confirmamos que a solicitação partiu de uma agência de aplicação da lei, uma autoridade enviou um aviso oficial resumindo a emergência e como as informações solicitadas ajudarão a lidar com a emergência.
+* Nossos usuários devem saber que valorizamos suas informações privadas e que fazemos o possível para protegê-las.
 
-[](#cost-reimbursement)Reembolso de custos
+[](#reembolso-de-custos)[]()Reembolso de custos
 ----------
 
-De acordo com as leis estaduais e federais, o GitHub pode solicitar o reembolso de custos associados ao cumprimento de uma demanda legal válida, como uma intimação, uma ordem judicial ou um mandado de busca. Cobramos apenas para recuperar alguns custos, e esses reembolsos cobrem apenas uma parte dos custos que realmente incorremos para cumprir ordens legais.
+No mínimo, isso significa liberar dados para terceiros apenas quando os requisitos legais apropriados forem atendidos.
 
 Embora não façamos cobranças em situações de emergência ou em outras circunstâncias prementes, buscamos o reembolso de todas as outras solicitações legais de acordo com o seguinte cronograma, a menos que exigido por lei:
 
@@ -233,12 +208,12 @@ Embora não façamos cobranças em situações de emergência ou em outras circu
 * Produção de informações/dados do assinante para mais de cinco contas: US$ 20 por conta
 * Pesquisas secundárias: US$ 10 por pesquisa
 
-[](#data-preservation)Preservação de dados
+[](#preservação-de-dados)[]()Preservação de dados
 ----------
 
 Tomaremos medidas para preservar os registros da conta por até 90 dias mediante solicitação formal da autoridade policial dos EUA em conexão com investigações criminais oficiais e enquanto aguardamos a emissão de uma ordem judicial ou outro processo.
 
-[](#submitting-requests)Enviando solicitações
+[](#enviando-solicitações)[]()Enviando solicitações
 ----------
 
 Envie solicitações para:
@@ -264,14 +239,12 @@ Torne suas solicitações o mais específicas e restritas possível, incluindo a
 
 Aguarde pelo menos duas semanas para que possamos investigar sua solicitação.
 
-[](#requests-from-foreign-law-enforcement)Solicitações de autoridades estrangeiras
+[](#solicitações-de-autoridades-estrangeiras)[]()Solicitações de autoridades estrangeiras
 ----------
 
-Como empresa dos Estados Unidos com sede na Califórnia, o GitHub não é obrigado a fornecer dados a governos estrangeiros em resposta a processos legais emitidos por autoridades estrangeiras.
-Autoridades policiais estrangeiras que desejam solicitar informações do GitHub devem entrar em contato com o Escritório de Assuntos Internacionais da Divisão Criminal do Departamento de Justiça dos Estados Unidos.
-O GitHub responderá imediatamente às solicitações emitidas por meio de um tribunal dos EUA por meio de um tratado de assistência jurídica mútua (“MLAT”) ou carta rogatória.
+Da mesma forma, também esperamos orientar as autoridades policiais sobre os sistemas do GitHub para que possam personalizar com mais eficiência suas solicitações de dados e almejar apenas as informações necessárias para realizar sua investigação.
 
-[](#questions)Dúvidas
+[](#dúvidas)[]()Dúvidas
 ----------
 
-Você tem outras dúvidas, comentários ou sugestões? Entre em contato pelo [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).

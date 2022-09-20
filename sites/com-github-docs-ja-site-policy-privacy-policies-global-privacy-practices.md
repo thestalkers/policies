@@ -12,9 +12,9 @@ We publish frequent updates to our documentation, and translation of this page m
 [In this article](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
-* [標準契約条項](#standard-contractual-clauses)
+* [標準契約条項](#標準契約条項)
 
-* [プライバシー シールド フレームワーク](#privacy-shield-framework)
+* [プライバシー シールド フレームワーク](#プライバシー-シールド-フレームワーク)
 
 発効日: 2020 年 7 月 22 日
 
@@ -22,14 +22,14 @@ GitHub は、GitHub の[プライバシーに関する声明](/ja/github/site-po
 
 また、GitHub は、欧州経済地域、英国、およびスイス (総称して「EU」といいます) から米国へのデータの移転に関する特定の法的枠組みも遵守しています。 GitHub がかかる移転に携わる場合、GitHub は、お客様の権利と保護が個人情報と確実に同行できるようにする法的メカニズムとして標準契約条項を適用します。 また、GitHub は、EU と米国間およびスイスと米国間のプライバシー シールド フレームワークの認定を受けています。 国際間のデータ移転に関する欧州委員会の決定についての詳細は、[欧州委員会 Web サイト](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_en)のこの記事をご覧ください。
 
-[](#standard-contractual-clauses)標準契約条項
+[](#標準契約条項)[]()標準契約条項
 ----------
 
 GitHub は、EU からのデータ移転のための法的メカニズムとして欧州委員会が承認した標準契約条項 (以下「SCC」といいます) を適用します。 SCC は、個人データを移転する企業間の契約上の義務で、当該データのプライバシーとセキュリティを保護することを義務付けています。 GitHub は SCC を採用し、米国へのデータ移転の保護を含む、欧州委員会により個人データが適切に保護されていないと見なされている国に移転される際に必要なデータフローを保護できるようにしています。
 
 SCC の詳細については、[欧州委員会 Web サイト](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)のこの記事をご覧ください。
 
-[](#privacy-shield-framework)プライバシー シールド フレームワーク
+[](#プライバシー-シールド-フレームワーク)[]()プライバシー シールド フレームワーク
 ----------
 
 GitHub は、EU と米国間およびスイスと米国間のプライバシー シールド フレームワークおよびこのフレームワークが課す確約事項について認定を受けています。ただし、GitHub は、Case C-311/18 の欧州司法裁判所の裁定を踏まえ、個人情報の域外移転の法的根拠として EU と米国間のプライバシー シールド フレームワークは適用しません。
@@ -73,13 +73,13 @@ EU と米国間およびスイスと米国間のプライバシー シールド 
   * 当社は、関連するプライバシー規定の監査を定期的に実施して、当社が行った約束の遵守を確認しています。
   * 当社は従業員にプライバシーに関する声明を尊重するよう義務付けており、プライバシー ポリシーの違反は、最高で解雇を含む懲戒処分が適用されます。
 
-### [](#dispute-resolution-process)紛争解決プロセス ###
+### [](#紛争解決プロセス)[]()紛争解決プロセス ###
 
 当社の[プライバシーに関する説明](/ja/github/site-policy/github-privacy-statement)の「[苦情解決](/ja/github/site-policy/github-privacy-statement#resolving-complaints)」セクションで詳しく説明されているように、プライバシー シールドに関連する (またはプライバシー全般に関連する) 苦情がございましたら、当社にご連絡されることをお勧めします。 GitHub と直接解決できない紛争については、EU の個人との紛争解決のために、当社は、関係する EU データ保護機関または欧州データ保護機関が設立したパネルと協力し、また、スイスの個人との紛争解決のために、スイス連邦データ保護および情報コミッショナー (FDPIC) と協力することとしました。 データ保護機関の連絡先については、当社にお問い合わせください。
 
 さらに、お客様が EU 加盟国の居住者である場合は、地域の監視機関に苦情を申し立てる権利があります。
 
-### [](#independent-arbitration)独立した調停 ###
+### [](#独立した調停)[]()独立した調停 ###
 
 特定の限られた状況において、EU、(EEA)、スイス、および英国の個人は、他のあらゆる形式の紛争解決が失敗した場合の最終的な手段として、拘束力のあるプライバシー シールド調停を求めることができます。 この解決方法およびその利用可能性の詳細については、[プライバシー シールド](https://www.privacyshield.gov/article?id=ANNEX-I-introduction)をお読みください。 調停は義務ではありません。選択した場合に使用できる手段です。
 
