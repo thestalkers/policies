@@ -4,12 +4,12 @@ GitHub の腐敗防止に関する声明 - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 GitHub の腐敗防止に関する声明
 ==========
 
-[In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
 ----------
 
 * [GitHub ポリシーは贈収賄を禁止](#github-ポリシーは贈収賄を禁止)

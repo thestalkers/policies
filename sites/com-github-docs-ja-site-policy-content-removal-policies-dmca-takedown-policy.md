@@ -4,12 +4,12 @@ DMCA 削除ポリシー - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 DMCA 削除ポリシー
 ==========
 
-[In this article](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
 ----------
 
 * [DMCA とは何ですか?](#dmca-とは何ですか)

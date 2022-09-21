@@ -4,12 +4,12 @@ DMCA 削除通知提出ガイド - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 DMCA 削除通知提出ガイド
 ==========
 
-[In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
 ----------
 
 * [提出前の準備](#before-you-start)
@@ -85,7 +85,7 @@ GitHub がホストするコンテンツの種類 (主にソフトウェア コ�
 [](#complaints-about-anti-circumvention-technology)技術的な保護措置の回避禁止に関する苦情
 ----------
 
-著作権法では、著作権で保護された著作物へのアクセスを効果的に制御する技術的措置の回避も禁止しています。 GitHub でホストされているコンテンツがこの禁止事項に違反すると思われる場合は、[Copyright claims form](https://github.com/contact/dmca)からレポートを送信してください。 回避申し立てには、実施されている技術的措置に関する以下の詳細および告発されたプロジェクトが回避している方法を記載する必要があります。 特に、GitHub への通知には、以下に関する詳細な説明を含める必要があります。
+著作権法では、著作権で保護された著作物へのアクセスを効果的に制御する技術的措置の回避も禁止しています。 GitHub でホストされているコンテンツがこの禁止事項に違反すると思われる場合は、[著作権侵害の申し立て](https://github.com/contact/dmca)からレポートを送信してください。 回避申し立てには、実施されている技術的措置に関する以下の詳細および告発されたプロジェクトが回避している方法を記載する必要があります。 特に、GitHub への通知には、以下に関する詳細な説明を含める必要があります。
 
 1. 技術的措置の内容:
 2. 著作権で保護された版権物へのアクセスを効果的に制御する方法、および
@@ -94,7 +94,7 @@ GitHub がホストするコンテンツの種類 (主にソフトウェア コ�
 [](#how-to-submit-your-complaint)苦情の提出方法
 ----------
 
-[Copyright claims form](https://github.com/contact/dmca)で情報を入力し、すべての質問に答えることで、最も早く回答を得ることができます。
+[著作権侵害の申し立て](https://github.com/contact/dmca)で情報を入力し、すべての質問に答えることで、最も早く回答を得ることができます。
 
 また、[copyright@github.com](mailto:copyright@github.com) に電子メール通知を送信することもできます。 必要に応じて添付ファイルを含めることもできますが、メッセージの本文にはテキスト形式の文書も含めてください。
 

@@ -4,12 +4,12 @@ GitHub の個人情報削除ポリシー - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 GitHub の個人情報削除ポリシー
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
 ----------
 
 * [個人情報とは](#個人情報とは)
@@ -48,7 +48,7 @@ GitHub の個人情報削除ポリシー
 * お客様またはお客様の組織の著作権を侵害している可能性のあるコンテンツの削除要求。 著作権関連の問題に対する GitHub の対応方法について質問がある場合、または著作権侵害の可能性があるコンテンツを報告する場合は、[DMCA 削除ポリシー](/ja/articles/dmca-takedown-policy)をご覧ください。 一般に個人情報削除プロセスは、ファイルまたはリポジトリ全体を削除することが目的ではなく、ファイル内で個人情報を含んだ特定部分のみが削除の対象となります。 ファイルの内容がすべて個人情報である場合もありますが、このようなファイルを削除するためにはセキュリティ リスクがあることを証明しなければならず、このような場合、要求の処理にかかる時間が長くなる可能性があります。
 * 商標に関する紛争。 商標関連の問題に対する GitHub の対応方法について質問がある場合や、お客様の組織の商標やサービス マークを含んでいるコンテンツを報告する場合は、[商標ポリシー](/ja/articles/github-trademark-policy)をご確認ください。
 * プライバシーに関する苦情。 GitHub 上の個人情報についてアクセス、移転、変更、削除を求める場合は、[プライバシー連絡フォーム](https://github.com/contact/privacy)で連絡ください。
-* マルウェアや汎用ツールなど、当社の [コミュニティ ガイドライン](/ja/articles/github-community-guidelines)で管理されるコンテンツ。 コミュニティ ガイドラインについて質問がある場合や、GitHub のコンテンツがガイドラインに違反する可能性があると思われる場合は、[Report content](https://github.com/contact/report-content)を使用して当社までご報告ください。
+* マルウェアや汎用ツールなど、当社の [コミュニティ ガイドライン](/ja/articles/github-community-guidelines)で管理されるコンテンツ。 コミュニティ ガイドラインについて質問がある場合や、GitHub のコンテンツがガイドラインに違反する可能性があると思われる場合は、[コンテンツの報告](https://github.com/contact/report-content)を使用して当社までご報告ください。
 
 [](#注意事項)[]()注意事項
 ----------

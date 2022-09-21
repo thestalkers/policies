@@ -4,12 +4,12 @@ GitHub コミュニティ ガイドライン - GitHub Docs
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 GitHub コミュニティ ガイドライン
 ==========
 
-[In this article](/site-policy/github-terms/github-community-guidelines#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-community-guidelines#in-this-article)
 ----------
 
 * [強力なコミュニティの維持](#強力なコミュニティの維持)
@@ -56,7 +56,7 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 * **やり取りを制限する** - パブリック プロジェクトが不要な注目を集めたり、トロールされたり、スパムされたりした場合、[やり取りの一時的な制限](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)を設定して、特定のユーザーがリポジトリとやり取りできないようにすることができます。 [コード レビューの制限](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)を設定して、プロジェクトへの質の高い貢献を保証することもできます。
 
-当社では、管理者が自分のプロジェクトをモデレートできるようにすることに積極的に取り組んでいますが、状況に対処するために追加のサポートが必要な場合は、[Report abuse](https://github.com/contact/report-abuse)ために当社までご連絡ください。
+当社では、管理者が自分のプロジェクトをモデレートできるようにすることに積極的に取り組んでいますが、状況に対処するために追加のサポートが必要な場合は、[不正使用の報告](https://github.com/contact/report-abuse)ために当社までご連絡ください。
 
 [](#何ものかが-github-のポリシーに違反した場合)[]()何ものかが GitHub のポリシーに違反した場合
 ----------

@@ -4,12 +4,12 @@
 
 [](/ja)[GitHub Docs](/ja)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
 
 グローバル プライバシー規定
 ==========
 
-[In this article](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
+[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
 ----------
 
 * [標準契約条項](#標準契約条項)
@@ -44,7 +44,7 @@ EU と米国間およびスイスと米国間のプライバシー シールド 
   * 当社が個人情報を収集する場合は、お知らせしています。
   * 当社は、当社の[プライバシーに関する声明](/ja/articles/github-privacy-statement)で、お客様の情報を収集および使用する目的、この情報を共有する相手と共有する際の制限事項、ならびにデータに対するお客様のアクセス権についてお知らせしています。
   * 当社は、プライバシー シールド フレームワークに参加していること、および参加がお客様にとってどのような意味があるかについてお知らせしています。
-  * お客様のプライバシーに関してご質問がある場合は、当社の[Privacy contact form](https://github.com/contact/privacy)にお問い合わせください。
+  * お客様のプライバシーに関してご質問がある場合は、当社の[プライバシーに関する連絡フォーム](https://github.com/contact/privacy)にお問い合わせください。
   * 当社は、万が一紛争が生じた場合に、無料で提供される拘束力のある仲裁を求める権利についてお知らせしています。
   * 当社は、連邦取引委員会の司法権に従うことをお知らせします。
 
@@ -68,7 +68,7 @@ EU と米国間およびスイスと米国間のプライバシー シールド 
   * お客様は、[ユーザー プロファイル](https://github.com/settings/profile)で当社が所持するお客様に関する情報にアクセスできます。 お客様は、ここにあるお客様の情報にアクセス、更新、変更、または削除することができます。
 
 * **法的措置、法執行、および責任**
-  * 当社のプライバシー規定について質問がある場合は、当社の[Privacy contact form](https://github.com/contact/privacy)にご連絡ください。遅くとも 45 日以内に対応します。
+  * 当社のプライバシー規定について質問がある場合は、当社の[プライバシーに関する連絡フォーム](https://github.com/contact/privacy)にご連絡ください。遅くとも 45 日以内に対応します。
   * 万が一解決できない紛争が生じた場合、お客様は、拘束力のある仲裁を無料で利用できます。 詳しくは、[プライバシーに関する声明](/ja/articles/github-privacy-statement)をご覧ください。
   * 当社は、関連するプライバシー規定の監査を定期的に実施して、当社が行った約束の遵守を確認しています。
   * 当社は従業員にプライバシーに関する声明を尊重するよう義務付けており、プライバシー ポリシーの違反は、最高で解雇を含む懲戒処分が適用されます。
