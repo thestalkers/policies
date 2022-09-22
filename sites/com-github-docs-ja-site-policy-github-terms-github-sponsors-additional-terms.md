@@ -9,7 +9,7 @@ GitHub スポンサーの追加条件 - GitHub Docs
 GitHub スポンサーの追加条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-sponsors-additional-terms#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [1.定義](#1-definitions)

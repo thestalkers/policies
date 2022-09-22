@@ -9,7 +9,7 @@ DMCA 削除ポリシー - GitHub Docs
 DMCA 削除ポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [DMCA とは何ですか?](#dmca-とは何ですか)

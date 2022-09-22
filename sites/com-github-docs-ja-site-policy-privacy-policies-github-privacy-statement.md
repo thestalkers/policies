@@ -9,7 +9,7 @@ GitHub のプライバシーに関する声明 - GitHub Docs
 GitHub のプライバシーに関する声明
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [要約](#要約)

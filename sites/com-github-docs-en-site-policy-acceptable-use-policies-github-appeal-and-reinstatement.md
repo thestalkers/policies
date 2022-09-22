@@ -7,7 +7,7 @@ GitHub Appeal and Reinstatement - GitHub Docs
 GitHub Appeal and Reinstatement
 ==========
 
-[In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+In this article
 ----------
 
 * [Appeal and Reinstatement](#appeal-and-reinstatement)

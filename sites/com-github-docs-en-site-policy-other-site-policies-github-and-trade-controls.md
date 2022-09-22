@@ -7,7 +7,7 @@ GitHub and Trade Controls - GitHub Docs
 GitHub and Trade Controls
 ==========
 
-[In this article](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
+In this article
 ----------
 
 * [Export overview](#export-overview)

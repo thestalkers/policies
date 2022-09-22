@@ -9,7 +9,7 @@ GitHub のサービス条件 - GitHub Docs
 GitHub のサービス条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-terms-of-service#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [概要](#概要)

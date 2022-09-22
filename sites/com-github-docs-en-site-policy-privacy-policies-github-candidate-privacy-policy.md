@@ -7,7 +7,7 @@ GitHub Candidate Privacy Policy - GitHub Docs
 GitHub Candidate Privacy Policy
 ==========
 
-[In this article](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
+In this article
 ----------
 
 * [What Candidate Personal Information do we collect?](#what-candidate-personal-information-do-we-collect)

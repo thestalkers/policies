@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub
 ==========
 
-[In this article](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+In this article
 ----------
 
 * [Resumen](#resumen)

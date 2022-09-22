@@ -9,7 +9,7 @@ GitHub の行政機関による削除のポリシー - GitHub Docs
 GitHub の行政機関による削除のポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [これは何ですか。](#これは何ですか)

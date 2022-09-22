@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos de Servicio de GitHub Marketplace
 ==========
 
-[In this article](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
+In this article
 ----------
 
 * [A. Términos de Servicio de GitHub.com](#a-términos-de-servicio-de-githubcom)

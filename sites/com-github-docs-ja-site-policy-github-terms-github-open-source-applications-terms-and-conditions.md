@@ -9,7 +9,7 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 GitHub オープン ソース アプリケーションの契約条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [GitHub への接続](#github-への接続)

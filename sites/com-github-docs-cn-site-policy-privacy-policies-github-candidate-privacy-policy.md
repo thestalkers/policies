@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 求职者隐私政策
 ==========
 
-[In this article](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
+In this article
 ----------
 
 * [我们收集哪些求职者个人信息？](#我们收集哪些求职者个人信息)

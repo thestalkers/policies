@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de uso aceitável do GitHub
 ==========
 
-[In this article](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
+In this article
 ----------
 
 * [1. Conformidade com leis e regulamentos](#1-conformidade-com-leis-e-regulamentos)

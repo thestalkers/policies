@@ -9,7 +9,7 @@ GitHub の異議申し立ておよび復活 - GitHub Docs
 GitHub の異議申し立ておよび復活
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [異議申し立ておよび復活](#異議申し立ておよび復活)

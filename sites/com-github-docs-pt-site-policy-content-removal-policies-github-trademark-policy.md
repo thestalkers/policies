@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Marcas Registradas do GitHub
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
+In this article
 ----------
 
 * [O que é uma Violação da Política de Marcas Registradas do GitHub?](#o-que-é-uma-violação-da-política-de-marcas-registradas-do-github)

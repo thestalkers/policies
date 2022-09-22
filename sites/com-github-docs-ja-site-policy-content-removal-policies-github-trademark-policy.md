@@ -9,7 +9,7 @@ GitHub の商標ポリシー - GitHub Docs
 GitHub の商標ポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [GitHub の商標ポリシー違反とはどのようなことですか?](#github-の商標ポリシー違反とはどのようなことですか)

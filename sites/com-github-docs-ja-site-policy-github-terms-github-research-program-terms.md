@@ -9,7 +9,7 @@ GitHub のリサーチ プログラム条項 - GitHub Docs
 GitHub のリサーチ プログラム条項
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-research-program-terms#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [A. お客様からのフィードバック](#a-お客様からのフィードバック)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 反对现代奴役制和童工制的声明
 ==========
 
-[In this article](/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor#in-this-article)
+In this article
 ----------
 
 * [GitHub 的结构、业务和供应链](#github-的结构业务和供应链)

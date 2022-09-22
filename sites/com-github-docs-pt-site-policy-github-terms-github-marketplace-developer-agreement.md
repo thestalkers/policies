@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Contrato de Desenvolvedor do Marketplace do GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
+In this article
 ----------
 
 * [1. DEFINIÇÕES](#1-definições)

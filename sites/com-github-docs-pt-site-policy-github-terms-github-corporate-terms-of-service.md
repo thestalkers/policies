@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Termos de Serviços Corporativos do GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
+In this article
 ----------
 
 * [Termos de Serviços Corporativos do GitHub](#termos-de-serviços-corporativos-do-github)

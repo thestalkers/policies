@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Directiva de eliminación por parte del gobierno de GitHub
 ==========
 
-[In this article](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
+In this article
 ----------
 
 * [¿Qué es esto?](#qué-es-esto)

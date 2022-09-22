@@ -7,7 +7,7 @@ GitHub Username Policy - GitHub Docs
 GitHub Username Policy
 ==========
 
-[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
+In this article
 ----------
 
 * [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)

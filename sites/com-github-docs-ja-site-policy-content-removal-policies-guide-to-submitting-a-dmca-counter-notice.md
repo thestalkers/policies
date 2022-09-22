@@ -9,7 +9,7 @@ DMCA 反論通知提出ガイド - GitHub Docs
 DMCA 反論通知提出ガイド
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [提出前の準備](#提出前の準備)

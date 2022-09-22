@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Acuerdo de Protección de Datos de GitHub
 ==========
 
-[In this article](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
+In this article
 ----------
 
 * [Introducción](#introducción)

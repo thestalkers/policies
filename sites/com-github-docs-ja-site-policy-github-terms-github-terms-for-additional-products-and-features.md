@@ -9,7 +9,7 @@
 追加の製品および機能に適用される GitHub 条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [Actions](#actions)

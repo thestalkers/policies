@@ -9,7 +9,7 @@
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [本ガイドラインの概要](#本ガイドラインの概要)

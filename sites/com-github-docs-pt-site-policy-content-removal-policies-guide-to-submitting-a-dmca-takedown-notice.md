@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Guia para Enviar uma Notificação de Remoção da DMCA
 ==========
 
-[In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#in-this-article)
+In this article
 ----------
 
 * [Antes de iniciar](#before-you-start)

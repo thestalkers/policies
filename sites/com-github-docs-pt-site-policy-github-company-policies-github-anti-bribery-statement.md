@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política Antissuborno do GitHub
 ==========
 
-[In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
+In this article
 ----------
 
 * [Políticas do GitHub que proíbem suborno](#políticas-do-github-que-proíbem-suborno)

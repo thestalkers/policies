@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil
 ==========
 
-[In this article](/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor#in-this-article)
+In this article
 ----------
 
 * [Estructura, negocio y cadenas de suministro de GitHub](#estructura-negocio-y-cadenas-de-suministro-de-github)

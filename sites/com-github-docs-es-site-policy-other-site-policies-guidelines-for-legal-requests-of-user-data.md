@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Directrices para las Solicitudes Legales de Datos de Usuarios
 ==========
 
-[In this article](/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#in-this-article)
+In this article
 ----------
 
 * [Acerca de estas directrices](#acerca-de-estas-directrices)

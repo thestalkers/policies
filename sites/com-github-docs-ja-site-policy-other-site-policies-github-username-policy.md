@@ -9,7 +9,7 @@ GitHub のユーザー名ポリシー - GitHub Docs
 GitHub のユーザー名ポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/other-site-policies/github-username-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [使用したいユーザー名が既に他者に取得されている場合](#使用したいユーザー名が既に他者に取得されている場合)

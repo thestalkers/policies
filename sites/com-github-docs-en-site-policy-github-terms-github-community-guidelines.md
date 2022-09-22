@@ -7,7 +7,7 @@ GitHub Community Guidelines - GitHub Docs
 GitHub Community Guidelines
 ==========
 
-[In this article](/site-policy/github-terms/github-community-guidelines#in-this-article)
+In this article
 ----------
 
 * [Maintaining a strong community](#maintaining-a-strong-community)

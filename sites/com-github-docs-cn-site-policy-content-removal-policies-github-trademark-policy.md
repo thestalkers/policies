@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 商标政策
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
+In this article
 ----------
 
 * [哪些行为违反 GitHub 商标政策？](#哪些行为违反-github-商标政策)

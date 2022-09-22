@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Termos e Condições de Aplicativos de Software Livre do GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
+In this article
 ----------
 
 * [Como conectar-se ao GitHub](#como-conectar-se-ao-github)

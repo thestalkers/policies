@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Remoção de DMCA
 ==========
 
-[In this article](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
+In this article
 ----------
 
 * [O que é a DMCA?](#o-que-é-a-dmca)

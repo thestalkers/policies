@@ -9,7 +9,7 @@ GitHub と貿易管理 - GitHub Docs
 GitHub と貿易管理
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [輸出の概要](#輸出の概要)

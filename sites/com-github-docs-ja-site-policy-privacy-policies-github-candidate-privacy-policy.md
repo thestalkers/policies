@@ -9,7 +9,7 @@ GitHub 応募者プライバシー ポリシー - GitHub Docs
 GitHub 応募者プライバシー ポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [当社が収集する応募者の個人情報](#当社が収集する応募者の個人情報)

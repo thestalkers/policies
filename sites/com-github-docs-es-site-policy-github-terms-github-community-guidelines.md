@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Pautas de la Comunidad de GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-community-guidelines#in-this-article)
+In this article
 ----------
 
 * [Mantenimiento de una comunidad sólida](#mantenimiento-de-una-comunidad-sólida)

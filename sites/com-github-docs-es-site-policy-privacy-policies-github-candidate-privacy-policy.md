@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Directiva de Privacidad de Candidatos de GitHub
 ==========
 
-[In this article](/site-policy/privacy-policies/github-candidate-privacy-policy#in-this-article)
+In this article
 ----------
 
 * [¿Qué Información Personal del Candidato recopilamos?](#qué-información-personal-del-candidato-recopilamos)

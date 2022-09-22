@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 DMCA 下架政策
 ==========
 
-[In this article](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
+In this article
 ----------
 
 * [什么是 DMCA？](#什么是-dmca)

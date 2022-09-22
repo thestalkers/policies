@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 提交内容删除请求
 ==========
 
-[In this article](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
+In this article
 ----------
 
 * [DMCA 下架政策](#dmca-下架政策)

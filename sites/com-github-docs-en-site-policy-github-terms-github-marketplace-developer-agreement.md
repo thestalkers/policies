@@ -7,7 +7,7 @@ GitHub Marketplace Developer Agreement - GitHub Docs
 GitHub Marketplace Developer Agreement
 ==========
 
-[In this article](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
+In this article
 ----------
 
 * [1. DEFINITIONS](#1definitions)

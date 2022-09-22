@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 用户名政策
 ==========
 
-[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
+In this article
 ----------
 
 * [如果我想要的用户名已被占用怎么办？](#如果我想要的用户名已被占用怎么办)

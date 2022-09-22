@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 反贿赂声明
 ==========
 
-[In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
+In this article
 ----------
 
 * [GitHub 禁止贿赂政策](#github-禁止贿赂政策)

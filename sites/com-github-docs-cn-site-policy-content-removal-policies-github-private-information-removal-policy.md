@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 私人信息删除政策
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
+In this article
 ----------
 
 * [什么是私人信息？](#什么是私人信息)

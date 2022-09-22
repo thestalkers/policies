@@ -9,7 +9,7 @@ GitHub の腐敗防止に関する声明 - GitHub Docs
 GitHub の腐敗防止に関する声明
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [GitHub ポリシーは贈収賄を禁止](#github-ポリシーは贈収賄を禁止)

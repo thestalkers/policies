@@ -9,7 +9,7 @@ GitHub データ保護契約 - GitHub Docs
 GitHub データ保護契約
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [はじめに](#はじめに)

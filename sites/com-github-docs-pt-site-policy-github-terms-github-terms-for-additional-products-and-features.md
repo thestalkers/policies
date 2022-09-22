@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Termos do GitHub para Produtos e Recursos Adicionais
 ==========
 
-[In this article](/site-policy/github-terms/github-terms-for-additional-products-and-features#in-this-article)
+In this article
 ----------
 
 * [Ações](#ações)

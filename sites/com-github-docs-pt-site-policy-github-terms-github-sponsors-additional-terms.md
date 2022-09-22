@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Termos Adicionais do GitHub Sponsors
 ==========
 
-[In this article](/site-policy/github-terms/github-sponsors-additional-terms#in-this-article)
+In this article
 ----------
 
 * [1. Definições.](#1-definitions)

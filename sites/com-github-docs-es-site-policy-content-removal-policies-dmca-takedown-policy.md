@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Directiva de Retirada de la DMCA
 ==========
 
-[In this article](/site-policy/content-removal-policies/dmca-takedown-policy#in-this-article)
+In this article
 ----------
 
 * [¿Qué son los Derechos de Uso de los Productos (DMCA)?](#qué-son-los-derechos-de-uso-de-los-productos-dmca)

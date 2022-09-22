@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 政府下架政策
 ==========
 
-[In this article](/site-policy/other-site-policies/github-government-takedown-policy#in-this-article)
+In this article
 ----------
 
 * [这是什么？](#这是什么)

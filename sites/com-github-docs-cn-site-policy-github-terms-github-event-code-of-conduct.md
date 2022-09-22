@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 活动行为准则
 ==========
 
-[In this article](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
+In this article
 ----------
 
 * [行为准则](#行为准则)

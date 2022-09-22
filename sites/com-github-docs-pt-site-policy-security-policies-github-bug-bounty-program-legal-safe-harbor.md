@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub
 ==========
 
-[In this article](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+In this article
 ----------
 
 * [Resumo](#resumo)

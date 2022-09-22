@@ -9,7 +9,7 @@ GitHub イベント条件 - GitHub Docs
 GitHub イベント条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-event-terms#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [1.基本的な出席要件 - イベントの行動規範を含む](#1基本的な出席要件---イベントの行動規範を含む)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Remoção de Informações Privadas do GitHub
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
+In this article
 ----------
 
 * [O que são Informações Privadas?](#o-que-são-informações-privadas)

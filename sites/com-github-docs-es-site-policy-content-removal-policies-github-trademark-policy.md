@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Directiva de Marcas Comerciales de GitHub
 ==========
 
-[In this article](/site-policy/content-removal-policies/github-trademark-policy#in-this-article)
+In this article
 ----------
 
 * [¿Qué es una infracción de la directiva de marcas comerciales de GitHub?](#qué-es-una-infracción-de-la-directiva-de-marcas-comerciales-de-github)

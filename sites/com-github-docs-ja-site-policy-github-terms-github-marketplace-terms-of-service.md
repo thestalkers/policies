@@ -9,7 +9,7 @@ GitHub Marketplace サービス条件 - GitHub Docs
 GitHub Marketplace サービス条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-marketplace-terms-of-service#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [A. GitHub.com のサービス条件](#a-githubcom-のサービス条件)

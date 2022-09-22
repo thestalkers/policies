@@ -7,7 +7,7 @@ GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-[In this article](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+In this article
 ----------
 
 * [Summary](#summary)

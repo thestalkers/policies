@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Presentes e Entretenimento do GitHub
 ==========
 
-[In this article](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
+In this article
 ----------
 
 * [Políticas da empresa](#políticas-da-empresa)

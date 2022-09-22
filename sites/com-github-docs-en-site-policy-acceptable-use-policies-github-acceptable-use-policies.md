@@ -7,7 +7,7 @@ GitHub Acceptable Use Policies - GitHub Docs
 GitHub Acceptable Use Policies
 ==========
 
-[In this article](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
+In this article
 ----------
 
 * [1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Declaración Antisoborno de GitHub
 ==========
 
-[In this article](/site-policy/github-company-policies/github-anti-bribery-statement#in-this-article)
+In this article
 ----------
 
 * [Directivas de GitHub que prohíben el soborno](#directivas-de-github-que-prohíben-el-soborno)

@@ -9,7 +9,7 @@
 グローバル プライバシー規定
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [標準契約条項](#標準契約条項)

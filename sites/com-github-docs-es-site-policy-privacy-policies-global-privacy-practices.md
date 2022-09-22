@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Prácticas Globales de Privacidad
 ==========
 
-[In this article](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
+In this article
 ----------
 
 * [Cláusulas Contractuales Estándar](#cláusulas-contractuales-estándar)

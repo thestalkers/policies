@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 DMCA 抗辩通知提交指南
 ==========
 
-[In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+In this article
 ----------
 
 * [开始前](#开始前)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 开源应用程序条款和条件
 ==========
 
-[In this article](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
+In this article
 ----------
 
 * [连接到 GitHub](#连接到-github)

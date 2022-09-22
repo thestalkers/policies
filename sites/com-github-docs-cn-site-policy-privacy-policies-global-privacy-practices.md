@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 全球隐私惯例
 ==========
 
-[In this article](/site-policy/privacy-policies/global-privacy-practices#in-this-article)
+In this article
 ----------
 
 * [标准合同条款](#标准合同条款)

@@ -9,7 +9,7 @@ GitHub コミュニティの行動規範 - GitHub Docs
 GitHub コミュニティの行動規範
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [概要および目的](#概要および目的)

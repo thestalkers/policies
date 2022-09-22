@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub Bug 赏金计划法律安全港
 ==========
 
-[In this article](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+In this article
 ----------
 
 * [概述](#概述)

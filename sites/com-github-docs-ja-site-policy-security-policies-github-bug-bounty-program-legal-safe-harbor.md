@@ -9,7 +9,7 @@ GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 GitHub バグ報奨金プログラムの法的免責事項
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [概要](#概要)

@@ -9,7 +9,7 @@ GitHub の個人情報削除ポリシー - GitHub Docs
 GitHub の個人情報削除ポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/github-private-information-removal-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [個人情報とは](#個人情報とは)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 申诉和恢复
 ==========
 
-[In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+In this article
 ----------
 
 * [申诉和恢复](#申诉和恢复)

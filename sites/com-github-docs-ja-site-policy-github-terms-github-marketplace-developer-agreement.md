@@ -9,7 +9,7 @@ GitHub Marketplace 開発者契約 - GitHub Docs
 GitHub Marketplace 開発者契約
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-marketplace-developer-agreement#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [1.定義](#1定義)

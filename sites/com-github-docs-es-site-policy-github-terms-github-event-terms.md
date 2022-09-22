@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos del Evento de GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-event-terms#in-this-article)
+In this article
 ----------
 
 * [1. Requisitos básicos para asistir, incluido el Código de Conducta del Evento](#1-requisitos-básicos-para-asistir-incluido-el-código-de-conducta-del-evento)

@@ -7,7 +7,7 @@ GitHub Data Protection Agreement - GitHub Docs
 GitHub Data Protection Agreement
 ==========
 
-[In this article](/site-policy/privacy-policies/github-data-protection-agreement#in-this-article)
+In this article
 ----------
 
 * [Introduction](#introduction)

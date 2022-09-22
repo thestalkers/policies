@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 隐私声明
 ==========
 
-[In this article](/site-policy/privacy-policies/github-privacy-statement#in-this-article)
+In this article
 ----------
 
 * [精简版](#精简版)

@@ -9,7 +9,7 @@ GitHub Subprocessors and Cookies - GitHub Docs
 GitHub Subprocessors and Cookies
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [GitHub Subprocessors](#github-subprocessors)

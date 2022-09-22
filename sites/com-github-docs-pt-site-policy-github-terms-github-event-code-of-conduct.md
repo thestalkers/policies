@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Código de Conduta de Evento do GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
+In this article
 ----------
 
 * [Código de Conduta](#código-de-conduta)

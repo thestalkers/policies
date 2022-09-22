@@ -7,7 +7,7 @@ GitHub Subprocessors and Cookies - GitHub Docs
 GitHub Subprocessors and Cookies
 ==========
 
-[In this article](/site-policy/privacy-policies/github-subprocessors-and-cookies#in-this-article)
+In this article
 ----------
 
 * [GitHub Subprocessors](#github-subprocessors)

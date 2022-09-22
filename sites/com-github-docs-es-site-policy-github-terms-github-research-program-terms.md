@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos del Programa de Investigación de GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-research-program-terms#in-this-article)
+In this article
 ----------
 
 * [A. Sus Comentarios](#a-sus-comentarios)

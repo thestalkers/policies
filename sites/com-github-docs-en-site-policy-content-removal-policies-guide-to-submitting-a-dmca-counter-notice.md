@@ -7,7 +7,7 @@ Guide to Submitting a DMCA Counter Notice - GitHub Docs
 Guide to Submitting a DMCA Counter Notice
 ==========
 
-[In this article](/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice#in-this-article)
+In this article
 ----------
 
 * [Before You Start](#before-you-start)

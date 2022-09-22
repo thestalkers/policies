@@ -9,7 +9,7 @@
 コンテンツ削除要求の提出
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [DMCA 削除ポリシー](#dmca-削除ポリシー)

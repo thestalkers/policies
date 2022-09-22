@@ -9,7 +9,7 @@ GitHub 利用規約 - GitHub Docs
 GitHub 利用規約
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/acceptable-use-policies/github-acceptable-use-policies#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [1.法規制の遵守](#1法規制の遵守)

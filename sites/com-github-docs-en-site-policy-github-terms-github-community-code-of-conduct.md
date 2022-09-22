@@ -7,7 +7,7 @@ GitHub Community Code of Conduct - GitHub Docs
 GitHub Community Code of Conduct
 ==========
 
-[In this article](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
+In this article
 ----------
 
 * [Overview and Purpose](#overview-and-purpose)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 公司服务条款
 ==========
 
-[In this article](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
+In this article
 ----------
 
 * [GitHub 公司服务条款](#github-公司服务条款)

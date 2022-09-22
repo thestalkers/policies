@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Recurso e Restabelecimento do GitHub
 ==========
 
-[In this article](/site-policy/acceptable-use-policies/github-appeal-and-reinstatement#in-this-article)
+In this article
 ----------
 
 * [Recurso e Restabelecimento](#recurso-e-restabelecimento)

@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub y los Controles Comerciales
 ==========
 
-[In this article](/site-policy/other-site-policies/github-and-trade-controls#in-this-article)
+In this article
 ----------
 
 * [Resumen sobre la exportación](#resumen-sobre-la-exportación)

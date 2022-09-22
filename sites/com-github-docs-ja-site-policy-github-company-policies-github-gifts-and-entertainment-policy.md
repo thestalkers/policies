@@ -9,7 +9,7 @@ GitHub の贈答品および接待に関するポリシー - GitHub Docs
 GitHub の贈答品および接待に関するポリシー
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [会社のポリシー](#会社のポリシー)

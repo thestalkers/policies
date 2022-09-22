@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 社区行为准则
 ==========
 
-[In this article](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
+In this article
 ----------
 
 * [概述和宗旨](#概述和宗旨)

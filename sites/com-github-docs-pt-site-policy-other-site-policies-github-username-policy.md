@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Nome de Usuário do GitHub
 ==========
 
-[In this article](/site-policy/other-site-policies/github-username-policy#in-this-article)
+In this article
 ----------
 
 * [E se o nome de usuário que eu quero já estiver em uso?](#e-se-o-nome-de-usuário-que-eu-quero-já-estiver-em-uso)

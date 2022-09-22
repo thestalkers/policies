@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
+In this article
 ----------
 
 * [Conexión a GitHub](#conexión-a-github)

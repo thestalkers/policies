@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 研究计划条款
 ==========
 
-[In this article](/site-policy/github-terms/github-research-program-terms#in-this-article)
+In this article
 ----------
 
 * [A. 您的反馈](#a-您的反馈)

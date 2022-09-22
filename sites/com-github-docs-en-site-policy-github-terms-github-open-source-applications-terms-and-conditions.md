@@ -7,7 +7,7 @@ GitHub Open Source Applications Terms and Conditions - GitHub Docs
 GitHub Open Source Applications Terms and Conditions
 ==========
 
-[In this article](/site-policy/github-terms/github-open-source-applications-terms-and-conditions#in-this-article)
+In this article
 ----------
 
 * [Connecting to GitHub](#connecting-to-github)

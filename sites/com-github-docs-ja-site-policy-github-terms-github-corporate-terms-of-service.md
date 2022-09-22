@@ -9,7 +9,7 @@ GitHub の企業向けサービス条件 - GitHub Docs
 GitHub の企業向けサービス条件
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-corporate-terms-of-service#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [GitHub の企業向けサービス条件](#github-の企業向けサービス条件)

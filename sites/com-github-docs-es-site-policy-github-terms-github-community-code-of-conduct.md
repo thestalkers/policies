@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Código de conducta de la comunidad de GitHub
 ==========
 
-[In this article](/site-policy/github-terms/github-community-code-of-conduct#in-this-article)
+In this article
 ----------
 
 * [Descripción General y Finalidad](#descripción-general-y-finalidad)

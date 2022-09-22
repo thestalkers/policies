@@ -7,7 +7,7 @@ GitHub Gifts and Entertainment Policy - GitHub Docs
 GitHub Gifts and Entertainment Policy
 ==========
 
-[In this article](/site-policy/github-company-policies/github-gifts-and-entertainment-policy#in-this-article)
+In this article
 ----------
 
 * [Company policies](#company-policies)

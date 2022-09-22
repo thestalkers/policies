@@ -9,7 +9,7 @@ GitHub コミュニティ ガイドライン - GitHub Docs
 GitHub コミュニティ ガイドライン
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-community-guidelines#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [強力なコミュニティの維持](#強力なコミュニティの維持)

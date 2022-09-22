@@ -9,7 +9,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Envío de solicitudes de eliminación de contenido
 ==========
 
-[In this article](/site-policy/content-removal-policies/submitting-content-removal-requests#in-this-article)
+In this article
 ----------
 
 * [Directiva de Retirada de la DMCA](#directiva-de-retirada-de-la-dmca)

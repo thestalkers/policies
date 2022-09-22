@@ -9,7 +9,7 @@ GitHub イベントの行動規範 - GitHub Docs
 GitHub イベントの行動規範
 ==========
 
-[この記事では、次の項目が扱われます。](/site-policy/github-terms/github-event-code-of-conduct#in-this-article)
+この記事では、次の項目が扱われます。
 ----------
 
 * [行動規範](#行動規範)
