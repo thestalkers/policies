@@ -4,12 +4,12 @@
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 用户数据法律请求准则
 ==========
 
-In this article
+本文内容
 ----------
 
 * [关于这些准则](#关于这些准则)
@@ -247,4 +247,4 @@ Sacramento, CA 95833-3505
 [](#问题)[]()问题
 ----------
 
-Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+Do you have other questions, comments or suggestions? Please contact [GitHub 支持](https://support.github.com/contact?tags=docs-generic).

@@ -4,12 +4,12 @@ DMCA 下架通知提交指南 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 DMCA 下架通知提交指南
 ==========
 
-In this article
+本文内容
 ----------
 
 * [开始前](#before-you-start)
@@ -85,7 +85,7 @@ In this article
 [](#complaints-about-anti-circumvention-technology)有关反规避技术的投诉
 ----------
 
-著作权法还禁止规避用于有效控制受版权保护作品的访问权限的技术措施。 如果您认为 GitHub 上托管的内容违反了此禁令，请通过我们的 [Copyright claims form](https://github.com/contact/dmca) 向我们发送报告。 规避索赔必须包括以下有关现有技术措施以及被指控项目如何规避这些措施的详细信息。 具体来说，发送给 GitHub 的通知必须包含详细的说明，描述：
+著作权法还禁止规避用于有效控制受版权保护作品的访问权限的技术措施。 如果您认为 GitHub 上托管的内容违反了此禁令，请通过我们的 [版权声明表](https://github.com/contact/dmca) 向我们发送报告。 规避索赔必须包括以下有关现有技术措施以及被指控项目如何规避这些措施的详细信息。 具体来说，发送给 GitHub 的通知必须包含详细的说明，描述：
 
 1. 技术措施是什么；
 2. 它们如何有效控制对受版权保护材料的访问；以及
@@ -94,7 +94,7 @@ In this article
 [](#how-to-submit-your-complaint)如何提交投诉
 ----------
 
-得到回复的最快方式是在我们的[Copyright claims form](https://github.com/contact/dmca)中输入您的信息并回答所有问题。
+得到回复的最快方式是在我们的[版权声明表](https://github.com/contact/dmca)中输入您的信息并回答所有问题。
 
 你也可以发送电子邮件通知到 [copyright@github.com](mailto:copyright@github.com)。 您可以包含附件（如果您愿意），但在邮件正文中也应包含邮件的纯文本版本。
 

@@ -4,12 +4,12 @@ GitHub 私人信息删除政策 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 GitHub 私人信息删除政策
 ==========
 
-In this article
+本文内容
 ----------
 
 * [什么是私人信息？](#什么是私人信息)
@@ -48,7 +48,7 @@ In this article
 * 请求删除可能侵犯您或您组织的版权的内容。 如果您对 GitHub 如何处理版权相关事项有疑问，或者要举报涉嫌侵权的内容，请参阅我们的 [DMCA 下架政策](/cn/articles/dmca-takedown-policy)。 私人信息删除流程一般不会删除整个文件或存储库，而只是删除这些文件中的特定私人信息部分。 但可能存在文件中全是私人信息的情况，在这种情况下，您必须证明删除该文件是避免安全风险的合理措施，并且这可能会增加处理请求所需的时间。
 * 商标争议。 如果您对 GitHub 如何处理商标相关事项有疑问，或者要举报包含您组织的商标或服务标志的内容，请查看我们的[商标政策](/cn/articles/github-trademark-policy)。
 * 隐私投诉。 如果您想要访问、转让、更改或删除您在 GitHub 上的个人信息，请通过[我们的隐私联系表](https://github.com/contact/privacy)联系我们。
-* 受我们的[社区指导方针](/cn/articles/github-community-guidelines)约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，您可以使用 [Report content](https://github.com/contact/report-content) 联系我们。
+* 受我们的[社区指导方针](/cn/articles/github-community-guidelines)约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，您可以使用 [报告内容](https://github.com/contact/report-content) 联系我们。
 
 [](#须知)[]()须知
 ----------

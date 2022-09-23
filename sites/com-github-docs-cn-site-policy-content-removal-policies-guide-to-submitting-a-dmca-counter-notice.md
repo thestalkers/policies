@@ -4,12 +4,12 @@ DMCA 抗辩通知提交指南 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 DMCA 抗辩通知提交指南
 ==========
 
-In this article
+本文内容
 ----------
 
 * [开始前](#开始前)
@@ -69,7 +69,7 @@ In this article
 [](#如何提交抗辩通知)[]()如何提交抗辩通知
 ----------
 
-得到回复的最快方式是在我们的 [Copyright claims form](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
+得到回复的最快方式是在我们的 [版权声明表](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
 
 你也可以发送电子邮件通知到 [copyright@github.com](mailto:copyright@github.com)。 您可以包含附件（如果您愿意），但在邮件正文中也应包含邮件的纯文本版本。
 

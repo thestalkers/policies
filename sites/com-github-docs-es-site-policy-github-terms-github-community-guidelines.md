@@ -56,7 +56,7 @@ Si bien algunos desacuerdos se pueden resolver mediante una comunicación direct
 
 * **Limite las interacciones**. Si su proyecto público está recibiendo atención no deseada, es objeto de troleo, correo no deseado o cualquier otra actividad no deseada, tiene la opción de establecer [límites de interacción temporales](/es/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) para evitar que determinados usuarios interactúen con su repositorio. Incluso puede establecer [límites de revisión del código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para asegurarse de que las contribuciones a sus proyectos sean de calidad.
 
-Si bien nos apasiona capacitar a los responsables del mantenimiento para que moderen sus propios proyectos, póngase en contacto con nosotros en [Report abuse](https://github.com/contact/report-abuse) si necesita apoyo adicional para hacer frente a una situación.
+Si bien nos apasiona capacitar a los responsables del mantenimiento para que moderen sus propios proyectos, póngase en contacto con nosotros en [Notificar un abuso](https://github.com/contact/report-abuse) si necesita apoyo adicional para hacer frente a una situación.
 
 [](#qué-sucede-si-alguien-infringe-las-directivas-de-github)[]()¿Qué sucede si alguien infringe las directivas de GitHub?
 ----------

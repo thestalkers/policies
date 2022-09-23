@@ -247,4 +247,4 @@ Del mismo modo, también esperamos educar a los profesionales de las fuerzas del
 [](#preguntas)[]()Preguntas
 ----------
 
-Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+Do you have other questions, comments or suggestions? Please contact [Soporte de GitHub](https://support.github.com/contact?tags=docs-generic).

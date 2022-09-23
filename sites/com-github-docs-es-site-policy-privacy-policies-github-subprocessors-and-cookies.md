@@ -27,7 +27,7 @@ When we share your information with third party subprocessors, such as our vendo
 
 When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update the list of subprocessors. You can view the current list of subprocessors, and sign up to receive subprocessor list updates, at <https://www.github.com/privacy/subprocessors>.
 
-If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Privacy contact form](https://github.com/contact/privacy).
+If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Formulario de contacto sobre privacidad](https://github.com/contact/privacy).
 
 [](#cookies-on-github)Cookies on GitHub
 ----------

@@ -4,12 +4,12 @@
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 全球隐私惯例
 ==========
 
-In this article
+本文内容
 ----------
 
 * [标准合同条款](#标准合同条款)
@@ -44,7 +44,7 @@ GitHub 获得了欧盟-美国和瑞士-美国隐私保护协议框架认证，�
   * 当我们收集您的个人信息时，我们会通知您。
   * 我们会在[隐私声明](/cn/articles/github-privacy-statement)中告知您：我们收集和使用您的信息的目的、我们与谁共享该信息及在何种限制下共享该信息，以及您对您的数据拥有何种访问权限。
   * 我们会告知您，我们参与了隐私保护协议框架，以及这对您意味着什么。
-  * 您可以通过我们的 [Privacy contact form](https://github.com/contact/privacy) 与我们联系，咨询有关您的隐私的问题。
+  * 您可以通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系，咨询有关您的隐私的问题。
   * 我们会告知您，万一发生争议，您有权在无需承担任何费用的情况下诉诸具有约束力的仲裁。
   * 我们会告知您，我们受联邦贸易委员会的管辖。
 
@@ -68,7 +68,7 @@ GitHub 获得了欧盟-美国和瑞士-美国隐私保护协议框架认证，�
   * 您始终可以在您的[用户个人资料](https://github.com/settings/profile)中访问我们所掌握的关于您的数据。 您可以在用户个人资料中访问、更新、更改或删除您的信息。
 
 * **追索、执行和责任**
-  * 如果您对我们的隐私惯例有任何疑问，可通过我们的 [Privacy contact form](https://github.com/contact/privacy) 与我们联系，我们最迟会在 45 天内回复。
+  * 如果您对我们的隐私惯例有任何疑问，可通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系，我们最迟会在 45 天内回复。
   * 万一发生我们无法解决的争议，您可在无需承担任何费用的情况下诉诸具有约束力的仲裁。 有关详细信息，请阅读我们的[隐私声明](/cn/articles/github-privacy-statement)。
   * 我们会对我们的相关隐私惯例进行定期审核，以核实这些惯例是否符合我们所做出的承诺。
   * 我们要求员工遵守我们的隐私承诺，违反我们的隐私政策将受到纪律处分，包括终止雇佣关系。

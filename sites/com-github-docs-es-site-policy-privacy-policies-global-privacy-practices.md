@@ -44,7 +44,7 @@ Los Marcos del Escudo de Privacidad se basan en siete principios y GitHub se adh
   * Le avisamos cuando recopilamos su información personal.
   * Le informamos, en nuestra [Declaración de Privacidad](/es/articles/github-privacy-statement), con qué finalidades recopilamos y usamos su información, con quién compartimos esa información y con qué restricciones, y qué acceso tiene a sus datos.
   * Le informamos de que participamos en el Marco del Escudo de Privacidad y lo que eso significa para usted.
-  * Tenemos un [Privacy contact form](https://github.com/contact/privacy) donde puede ponerse en contacto con nosotros para consultarnos las dudas sobre su privacidad.
+  * Tenemos un [Formulario de contacto sobre privacidad](https://github.com/contact/privacy) donde puede ponerse en contacto con nosotros para consultarnos las dudas sobre su privacidad.
   * Le informamos sobre su derecho a solicitar un arbitraje vinculante, sin coste alguno para usted, en el improbable caso de que surja un conflicto.
   * Le informamos de que estamos sujetos a la jurisdicción de la Comisión Federal de Comercio.
 
@@ -68,7 +68,7 @@ Los Marcos del Escudo de Privacidad se basan en siete principios y GitHub se adh
   * Siempre puede acceder a los datos que tenemos sobre usted en su [perfil del usuario](https://github.com/settings/profile). Puede ver, actualizar, modificar o eliminar su información allí.
 
 * **Recurso, Ejecución y Responsabilidad**
-  * Si tiene preguntas sobre nuestras prácticas de privacidad, puede comunicarse con nosotros a través de nuestro [Privacy contact form](https://github.com/contact/privacy) y le responderemos en un plazo máximo de 45 días.
+  * Si tiene preguntas sobre nuestras prácticas de privacidad, puede comunicarse con nosotros a través de nuestro [Formulario de contacto sobre privacidad](https://github.com/contact/privacy) y le responderemos en un plazo máximo de 45 días.
   * En el improbable caso de que se produzca un conflicto que no podamos resolver, tiene acceso a un arbitraje vinculante sin coste alguno para usted. Consulte nuestra [Declaración de Privacidad](/es/articles/github-privacy-statement) para obtener más información.
   * Realizaremos auditorías regulares de nuestras prácticas de privacidad relevantes para verificar el cumplimiento de las promesas que hemos hecho.
   * Exigimos a nuestros empleados que respeten nuestras promesas de privacidad, y el incumplimiento de nuestras directivas de privacidad está sujeto a medidas disciplinarias que podrían incluir el despido.
