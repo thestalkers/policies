@@ -1,15 +1,15 @@
-GitHub Subprocessors and Cookies - GitHub Docs
+GitHub Subprocessors and Cookies - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 GitHub Subprocessors and Cookies
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [GitHub Subprocessors](#github-subprocessors)
@@ -27,7 +27,7 @@ When we share your information with third party subprocessors, such as our vendo
 
 When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update the list of subprocessors. You can view the current list of subprocessors, and sign up to receive subprocessor list updates, at <https://www.github.com/privacy/subprocessors>.
 
-If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Privacy contact form](https://github.com/contact/privacy).
+If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Formulário de contato sobre privacidade](https://github.com/contact/privacy).
 
 [](#cookies-on-github)Cookies on GitHub
 ----------

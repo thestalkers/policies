@@ -1,15 +1,15 @@
-Guia para Enviar uma Notificação de Remoção da DMCA - GitHub Docs
+Guia para Enviar uma Notificação de Remoção da DMCA - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Guia para Enviar uma Notificação de Remoção da DMCA
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Antes de iniciar](#before-you-start)
@@ -85,7 +85,7 @@ Esta lista não é completa, e é por isso que conversar com um profissional da 
 [](#complaints-about-anti-circumvention-technology)Reclamações sobre a Tecnologia Antievasão
 ----------
 
-A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso [Copyright claims form](https://github.com/contact/dmca). Uma alegação de evasão deve incluir os detalhes a seguir sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as está contornando. Especificamente, a notificação ao GitHub deve incluir declarações detalhadas que descrevam:
+A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso [Formulário de reivindicação de direitos autorais](https://github.com/contact/dmca). Uma alegação de evasão deve incluir os detalhes a seguir sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as está contornando. Especificamente, a notificação ao GitHub deve incluir declarações detalhadas que descrevam:
 
 1. Quais são as medidas técnicas;
 2. Como elas efetivamente controlam o acesso ao material protegido por direitos autorais; e
@@ -94,7 +94,7 @@ A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas qu
 [](#how-to-submit-your-complaint)Como enviar sua reclamação
 ----------
 
-A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Copyright claims form](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de reivindicação de direitos autorais](https://github.com/contact/dmca).
 
 Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo da mensagem.
 

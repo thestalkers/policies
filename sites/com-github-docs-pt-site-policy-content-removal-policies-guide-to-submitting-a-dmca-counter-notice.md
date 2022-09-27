@@ -1,15 +1,15 @@
-Guia para Enviar uma Contranotificação da DMCA - GitHub Docs
+Guia para Enviar uma Contranotificação da DMCA - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Guia para Enviar uma Contranotificação da DMCA
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Antes de iniciar](#antes-de-iniciar)
@@ -67,7 +67,7 @@ Estes são apenas alguns exemplos das complexidades da lei de direitos autorais.
 [](#como-enviar-sua-contranotificação)[]()Como enviar sua contranotificação
 ----------
 
-A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Copyright claims form](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de reivindicação de direitos autorais](https://github.com/contact/dmca).
 
 Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo da mensagem.
 

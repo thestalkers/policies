@@ -104,6 +104,8 @@ The GitHub Advisory Database is licensed under the [Creative Commons Attribution
 [](#codespaces)Codespaces
 ----------
 
+*Note: The github.dev service, available by pressing . on a repo or navigating directly to github.dev, is governed by GitHub's Beta Terms of service.*
+
 GitHub Codespaces enables you to develop code directly from your browser using the code within your GitHub repository. Codespaces and any elements of the Codespaces service may not be used in violation of the Agreement or the Acceptable Use Policies. Additionally, Codespaces should not be used for:
 
 * cryptomining;

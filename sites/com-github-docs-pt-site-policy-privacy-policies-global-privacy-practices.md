@@ -1,15 +1,15 @@
-Práticas Globais de Privacidade - GitHub Docs
+Práticas Globais de Privacidade - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Práticas Globais de Privacidade
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Cláusulas Contratuais Padrão](#cláusulas-contratuais-padrão)
@@ -44,7 +44,7 @@ As Estruturas de Proteção de Privacidade são baseadas em sete princípios, e 
   * Informaremos quando coletarmos suas informações pessoais.
   * Informamos, em nossa [Política de Privacidade](/pt/articles/github-privacy-statement), quais são as finalidades da coleta e do uso de suas informações, com quem as compartilhamos, quais são as restrições e qual tipo de acesso você tem aos seus dados.
   * Informamos que estamos participando da Estrutura de Proteção de Privacidade e o que isso significa para você.
-  * Temos um [Privacy contact form](https://github.com/contact/privacy) pelo qual você pode entrar em contato conosco com perguntas sobre sua privacidade.
+  * Temos um [Formulário de contato sobre privacidade](https://github.com/contact/privacy) pelo qual você pode entrar em contato conosco com perguntas sobre sua privacidade.
   * Informamos que você tem o direito de invocar a arbitragem legal, fornecida sem nenhum custo, no caso improvável de controvérsia.
   * Informamos que estamos sujeitos à jurisdição da Comissão Federal de Comércio.
 
@@ -68,7 +68,7 @@ As Estruturas de Proteção de Privacidade são baseadas em sete princípios, e 
   * Você sempre pode acessar os dados que temos sobre você em seu [perfil de usuário](https://github.com/settings/profile). Você pode acessar, atualizar, alterar ou excluir suas informações.
 
 * **Recurso, execução e responsabilidade**
-  * Se você tiver dúvidas sobre nossas práticas de privacidade, entre em contato conosco pelo [Privacy contact form](https://github.com/contact/privacy) e responderemos no prazo máximo de 45 dias.
+  * Se você tiver dúvidas sobre nossas práticas de privacidade, entre em contato conosco pelo [Formulário de contato sobre privacidade](https://github.com/contact/privacy) e responderemos no prazo máximo de 45 dias.
   * No caso improvável de controvérsia que não possamos resolver, você terá acesso à arbitragem legal sem nenhum custo para você. Veja nossa [Declaração de privacidade](/pt/articles/github-privacy-statement) para maiores informações.
   * Realizaremos auditorias regulares de nossas práticas de privacidade pertinentes para verificar o cumprimento das promessas que fizemos.
   * Exigimos que nossos funcionários respeitem nossas promessas de privacidade, e a violação de nossas políticas de privacidade está sujeita a ação disciplinar, incluindo rescisão do contrato de trabalho.

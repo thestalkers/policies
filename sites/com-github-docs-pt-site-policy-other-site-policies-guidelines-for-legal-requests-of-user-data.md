@@ -1,15 +1,15 @@
-Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
+Diretrizes para Solicitações Legais de Dados do Usuário - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Diretrizes para Solicitações Legais de Dados do Usuário
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Sobre estas diretrizes](#sobre-estas-diretrizes)
@@ -247,4 +247,4 @@ Da mesma forma, também esperamos orientar as autoridades policiais sobre os sis
 [](#dúvidas)[]()Dúvidas
 ----------
 
-Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+Do you have other questions, comments or suggestions? Please contact [Suporte do GitHub](https://support.github.com/contact?tags=docs-generic).

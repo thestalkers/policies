@@ -1,15 +1,15 @@
-Política de Remoção de Informações Privadas do GitHub - GitHub Docs
+Política de Remoção de Informações Privadas do GitHub - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Política de Remoção de Informações Privadas do GitHub
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [O que são Informações Privadas?](#o-que-são-informações-privadas)
@@ -48,7 +48,7 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 * Solicitações para remover conteúdo que possa violar seus direitos autorais ou os da sua organização. Se você tiver dúvidas sobre como o GitHub lida com questões relacionadas a direitos autorais ou se gostaria de denunciar conteúdo potencialmente infrator, consulte a [Política de Remoção de DMCA](/pt/articles/dmca-takedown-policy). O processo de remoção de informações privadas geralmente não se destina à remoção de arquivos ou repositórios completos — apenas de partes específicas de informações privadas nesses arquivos. Embora possa haver casos em que os arquivos sejam preenchidos inteiramente com informações privadas, você deverá justificar o risco à segurança para a remoção de tais arquivos, e isso pode aumentar o tempo necessário para processar sua solicitação.
 * Controvérsias sobre marcas. Se você tiver dúvidas sobre como o GitHub lida com assuntos relacionados a marcas ou se gostaria de denunciar conteúdo que contenha marcas comerciais ou de serviço de sua organização, consulte a [Política de Marcas](/pt/articles/github-trademark-policy).
 * Reclamações de privacidade. Se você desejar acessar, transferir, alterar ou excluir suas informações pessoais no GitHub, entre em contato conosco usando o [Formulário de contato de privacidade](https://github.com/contact/privacy).
-* Conteúdo regido pelas [Diretrizes da Comunidade](/pt/articles/github-community-guidelines), como malware ou ferramentas de uso geral. Se você tiver dúvidas sobre as Diretrizes da Comunidade ou se acreditar que o conteúdo do GitHub pode violar nossas diretrizes, use [Report content](https://github.com/contact/report-content) para entrar em contato conosco.
+* Conteúdo regido pelas [Diretrizes da Comunidade](/pt/articles/github-community-guidelines), como malware ou ferramentas de uso geral. Se você tiver dúvidas sobre as Diretrizes da Comunidade ou se acreditar que o conteúdo do GitHub pode violar nossas diretrizes, use [Denunciar conteúdo](https://github.com/contact/report-content) para entrar em contato conosco.
 
 [](#coisas-que-você-deve-saber)[]()Coisas que você deve saber
 ----------

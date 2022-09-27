@@ -1,15 +1,15 @@
-Diretrizes da Comunidade do GitHub - GitHub Docs
+Diretrizes da Comunidade do GitHub - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en). If there's a problem with translations on this page, please [let us know](https://github.com/contact?form[subject]=translation%20issue%20on%20docs.github.com&form[comments]=).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Diretrizes da Comunidade do GitHub
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Como manter uma comunidade forte](#como-manter-uma-comunidade-forte)
@@ -56,7 +56,7 @@ Embora algumas divergências possam ser resolvidas com uma comunicação direta 
 
 * **Limite as interações** – Se o seu projeto público estiver recebendo atenção indesejada, sendo trollado, sendo enviado como spam ou de outra forma, você terá a opção de configurar [limites de interação temporária](/pt/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) para impedir que determinados usuários interajam com o repositório. Você pode até definir [limites de revisão de código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para garantir contribuições de qualidade em seus projetos.
 
-Embora sejamos apaixonados por capacitar os mantenedores a moderar seus próprios projetos, entre em contato conosco para [Report abuse](https://github.com/contact/report-abuse) se você precisar de suporte adicional para lidar com uma situação.
+Embora sejamos apaixonados por capacitar os mantenedores a moderar seus próprios projetos, entre em contato conosco para [Denunciar abuso](https://github.com/contact/report-abuse) se você precisar de suporte adicional para lidar com uma situação.
 
 [](#o-que-acontece-se-alguém-violar-as-políticas-do-github)[]()O que acontece se alguém violar as políticas do GitHub?
 ----------
