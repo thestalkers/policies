@@ -1,4 +1,4 @@
-GitHub Subprocessors and Cookies - GitHub Docs
+Subencargados y Cookies de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,34 +6,34 @@ GitHub Subprocessors and Cookies - GitHub Docs
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, visite la [documentación en inglés](/en).
 
-GitHub Subprocessors and Cookies
+Subencargados y Cookies de GitHub
 ==========
 
 En este artículo
 ----------
 
-* [GitHub Subprocessors](#github-subprocessors)
+* [Subencargados de GitHub](#github-subprocessors)
 
-* [Cookies on GitHub](#cookies-on-github)
+* [Cookies en GitHub](#cookies-on-github)
 
-Effective date: **September 1, 2022**
+Fecha de entrada en vigor: **1 de septiembre de 2022**
 
-GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), and how we use [cookies](#cookies-on-github).
+GitHub es muy transparente con respecto a la forma en que usamos y recopilamos sus datos y con quién los compartimos. Con ese fin, hemos creado esta página, en la que se detallan [nuestros subencargados](#github-subprocessors) y la forma en que usamos las [cookies](#cookies-on-github).
 
-[](#github-subprocessors)GitHub Subprocessors
+[](#github-subprocessors)Subencargados de GitHub
 ----------
 
-When we share your information with third party subprocessors, such as our vendors and service providers, we remain responsible for it. We work very hard to maintain your trust when we bring on new vendors, and we require all vendors to enter into data protection agreements with us that restrict their processing of Users' Personal Information (as defined in the [Privacy Statement](/es/articles/github-privacy-statement)).
+Cuando compartimos su información con subencargados externos, como nuestros distribuidores y proveedores de servicios, seguimos siendo responsables de ella. Nos esforzamos muchísimo para mantener su confianza cuando incorporamos nuevos proveedores, por lo que exigimos a todos los proveedores que suscriban acuerdos de protección de datos con nosotros que restringen el tratamiento de la Información Personal de los Usuarios (tal y como se define en la [Declaración de Privacidad](/es/articles/github-privacy-statement)).
 
-When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update the list of subprocessors. You can view the current list of subprocessors, and sign up to receive subprocessor list updates, at <https://www.github.com/privacy/subprocessors>.
+Actualizaremos la lista de subencargados cuando incorporemos un nuevo subencargado que administre la información personal de nuestros usuarios, cuando eliminemos un subencargado o cuando cambiemos la forma en que usamos un subencargado. Puede consultar la lista actualizada de subencargados y suscribirse para recibir actualizaciones de la misma en <https://www.github.com/privacy/subprocessors>.
 
-If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Formulario de contacto sobre privacidad](https://github.com/contact/privacy).
+Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Formulario de contacto sobre privacidad](https://github.com/contact/privacy).
 
-[](#cookies-on-github)Cookies on GitHub
+[](#cookies-on-github)Cookies en GitHub
 ----------
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/es/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
+GitHub utiliza cookies para proporcionar nuestros sitios web, para protegerlos y para analizar su uso con el fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.
 
-You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
+Puede consultar la lista actualizada de cookies en GitHub y suscribirse para recibir actualizaciones de la misma en <https://github.com/privacy/cookies>.
 
-(!) Please note while we limit our use of third party cookies to those necessary to provide external functionality when rendering external content, certain pages on our website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
+(!) Tenga en cuenta que, aunque limitamos nuestro uso de cookies de terceros a las necesarias para proporcionar funcionalidades externas al mostrar contenido externo, ciertas páginas de nuestro sitio web podrían instalar otras cookies de terceros. Por ejemplo, podríamos incorporar contenido (por ejemplo, vídeos) de otro sitio que instala una cookie. Aunque tratamos de minimizar estas cookies de terceros, no siempre podemos controlar qué cookies instala este contenido de terceros.

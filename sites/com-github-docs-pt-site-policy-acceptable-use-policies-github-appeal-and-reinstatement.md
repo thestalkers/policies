@@ -12,20 +12,20 @@ Recurso e Restabelecimento do GitHub
 Neste artigo
 ----------
 
-* [Recurso e Restabelecimento](#recurso-e-restabelecimento)
+* [Recurso e Restabelecimento](#appeal-and-reinstatement)
 
-* [O que são recursos e restabelecimentos?](#o-que-são-recursos-e-restabelecimentos)
+* [O que são recursos e restabelecimentos?](#what-are-appeals-and-reinstatements)
 
-* [Como isso funciona](#como-isso-funciona)
+* [Como isso funciona](#how-this-works)
 
-* [Transparência](#transparência)
+* [Transparência](#transparency)
 
-[](#recurso-e-restabelecimento)[]()Recurso e Restabelecimento
+[](#appeal-and-reinstatement)Recurso e Restabelecimento
 ----------
 
 Embora a maioria das interações entre indivíduos na comunidade do GitHub esteja dentro de nossas Políticas de Uso Aceitável e Diretrizes da Comunidade, às vezes ocorrem violações dessas políticas. Quando isso acontece, a equipe do GitHub talvez precise tomar medidas de imposição para resolver as violações. No entanto, em alguns casos, pode haver uma base para reverter uma medida de moderação tomada pela Equipe do GitHub.
 
-[](#o-que-são-recursos-e-restabelecimentos)[]()O que são recursos e restabelecimentos?
+[](#what-are-appeals-and-reinstatements)O que são recursos e restabelecimentos?
 ----------
 
 Tanto os recursos quanto os restabelecimentos surgem em relação à desativação de conteúdo ou restrições para acessar uma conta.
@@ -34,7 +34,7 @@ Tanto os recursos quanto os restabelecimentos surgem em relação à desativaç�
 
 **Recurso**: O usuário contesta que ocorreu uma violação e pode fornecer informações adicionais para mostrar que uma decisão diferente deveria ter sido tomada.
 
-[](#como-isso-funciona)[]()Como isso funciona
+[](#how-this-works)Como isso funciona
 ----------
 
 Se você optar pelo restabelecimento ou apelar de uma medida de imposição, preencha nosso [Formulário de Recurso e Restabelecimento](https://support.github.com/contact/reinstatement).
@@ -49,7 +49,7 @@ Todas as solicitações legítimas de restabelecimento serão analisadas inicial
 
 Se o revisor da equipe do GitHub for a mesma pessoa que fez a determinação inicial, e esse membro da equipe acreditar que sua conclusão inicial estava correta (e, portanto, estaria inclinado a negar o recurso), um membro diferente da equipe do GitHub revisará o recurso de forma independente. Todos os recursos legítimos serão respondidos com uma decisão final.
 
-[](#transparência)[]()Transparência
+[](#transparency)Transparência
 ----------
 
 Acompanhamos os recursos e restabelecimentos em [relatórios de transparência](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
