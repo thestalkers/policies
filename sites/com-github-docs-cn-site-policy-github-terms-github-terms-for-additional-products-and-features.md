@@ -20,23 +20,23 @@ GitHub 附加产品和功能条款
 
 * [Codespaces](#codespaces)
 
-* [Connect](#connect)
+* [Connect](#competitive-benchmarking)
 
-* [GitHub Copilot](#github-copilot)
+* [GitHub Copilot](#connect)
 
-* [GitHub Enterprise Importer](#github-enterprise-importer)
+* [GitHub Enterprise Importer](#github-copilot)
 
-* [npm](#npm)
+* [npm](#github-enterprise-importer)
 
-* [服务包](#packages)
+* [服务包](#npm)
 
-* [Pages](#pages)
+* [Pages](#packages)
 
-* [预览版](#previews)
+* [预览版](#pages)
 
-* [赞助商计划](#sponsors-program)
+* [赞助商计划](#previews)
 
-* [SQL Server Images](#sql-server-images)
+* [SQL Server Images](#sponsors-program)
 
 版本生效日期：2021 年 8 月 10 日
 
@@ -122,12 +122,12 @@ Codespaces 允许您从 Microsoft Visual Studio Marketplace 加载扩展（“Ma
 
 Codespaces 的通用版本当前不适用于美国政府客户。 美国政府客户可以在单独条款下继续使用 Codespaces Beta 预览版。 请参阅 [Beta 预览版条款](/cn/github/site-policy/github-terms-of-service#j-beta-previews)。
 
-[](#connect)Connect
+[](#competitive-benchmarking)Connect
 ----------
 
 使用 GitHub Connect，你可以在 GitHub Enterprise Server 或 GitHub AE 实例与你的 GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间分享某些功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 或 GitHub AE 实例。 您通过 Connect 对 GitHub Enterprise Cloud 或 GitHub.com 的使用受您许可 GitHub Enterprise Cloud 或 GitHub.com 所依据的条款管理。 对个人数据的使用受 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)管理。
 
-[](#github-copilot)GitHub Copilot
+[](#connect)GitHub Copilot
 ----------
 
 如果要使用 GitHub Copilot，需要将一个扩展安装到集成的开发环境 (IDE) 或编辑器。 根据协议，你使用 GitHub Copilot 扩展在 IDE 或编辑器中编写的代码（以下称为“你的代码”）在你将其上传到 GitHub.com 前不是“内容”。
@@ -142,22 +142,22 @@ GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”�
 
 GitHub Copilot (i) 可以收集你的代码的片段，以及 (ii) 通过绑定到你的帐户的 IDE 或编辑器收集其他使用信息，具体取决于你的首选遥测设置。 这可能包括个人数据，如 [GitHub 隐私声明](/cn/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 常见问题解答](https://github.com/features/copilot#faq-privacy)详细了解 GitHub Copilot 数据的收集和使用。
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[](#github-copilot)GitHub Enterprise Importer
 ----------
 
 Importer 是将数据从其他源导出到 GitHub 平台的框架。 Importer“按原样”提供。
 
-[](#npm)npm
+[](#github-enterprise-importer)npm
 ----------
 
 npm 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 npm 是 JavaScript 生态系统的记录注册表。 npm 公共注册表可以免费使用，但客户如果想要发布私有包或使用团队管理私有包，则需收取费用。 [npm 文档](https://docs.npmjs.com/)包含有关帐户类型限制以及如何管理[私有包](https://docs.npmjs.com/about-private-packages)和[组织](https://docs.npmjs.com/organizations)的详细信息。 [开源条款](https://www.npmjs.com/policies/open-source-terms)概述了可接受的 npm 注册表使用。 npm [solo](https://www.npmjs.com/policies/solo-plan) 和 [org](https://www.npmjs.com/policies/orgs-plan) 计划都有补充条款。 npm [使用条款](https://www.npmjs.com/policies/terms)适用于您对 npm 的使用。
 
-[](#packages)服务包
+[](#npm)服务包
 ----------
 
 GitHub Packages 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 GitHub Packages 按使用情况计费。 [Packages 文档](/cn/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages 带宽使用受 [GitHub 可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)的限制。
 
-[](#pages)Pages
+[](#packages)Pages
 ----------
 
 每个帐户都可以访问 [GitHub Pages 静态托管服务](/cn/github/working-with-github-pages/about-github-pages)。 GitHub Pages 旨在托管静态网页，但主要用作个人和组织项目的展示。
@@ -174,17 +174,17 @@ GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于�
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
-[](#previews)预览版
+[](#pages)预览版
 ----------
 
 预览版是指为预览、评估、演示或试用目的而提供的软件、在线服务以及附加产品和功能或者它们的预发布版本，如 Alpha 版、Beta 版或抢先体验版。 如果协议不包含涉及预览版的条款和条件，则以下条款适用。 GitHub 授予使用预览版非生产实例的有限权限。 预览版按“原样”、“可能存在各种缺陷”和“可用”的形式提供。 GitHub 可能随时更改或终止预览版，恕不另行通知。 我们提供的有关私人预览版的任何信息都将被视为 GitHub 的机密信息。 如果您选择提供有关预览版的评论或建议，我们可能会出于任何目的使用该反馈，而无需承担任何义务。 GitHub 的最高赔偿责任仅限于直接损害赔偿，最高 5,000 美元。 对于因您对预览版的使用而导致第三方提出的索赔，GitHub 没有义务为您辩护、赔偿或使您免受损害。
 
-[](#sponsors-program)赞助商计划
+[](#previews)赞助商计划
 ----------
 
 GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、构建和维护自身所依赖的开源项目的人员及组织提供经济支持。 要成为受赞助开发人员，您必须同意 [GitHub 赞助商计划附加条款](/cn/github/site-policy/github-sponsors-additional-terms)。
 
-[](#sql-server-images)SQL Server Images
+[](#sponsors-program)SQL Server Images
 ----------
 
 您可以下载适用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server Images”）。 当您对该软件的使用权利终止时，您必须卸载 SQL Server Images。 Microsoft Corporation 可随时禁用 SQL Server Images。

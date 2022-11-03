@@ -20,23 +20,23 @@ En este artículo
 
 * [Codespaces](#codespaces)
 
-* [Connect](#connect)
+* [Connect](#competitive-benchmarking)
 
-* [Copiloto de GitHub](#github-copilot)
+* [Copiloto de GitHub](#connect)
 
-* [GitHub Enterprise Importer](#github-enterprise-importer)
+* [GitHub Enterprise Importer](#github-copilot)
 
-* [npm](#npm)
+* [npm](#github-enterprise-importer)
 
-* [Packages](#packages)
+* [Packages](#npm)
 
-* [Pages](#pages)
+* [Pages](#packages)
 
-* [Versiones Preliminares](#previews)
+* [Versiones Preliminares](#pages)
 
-* [Programa de Patrocinadores](#sponsors-program)
+* [Programa de Patrocinadores](#previews)
 
-* [Imágenes de SQL Server](#sql-server-images)
+* [Imágenes de SQL Server](#sponsors-program)
 
 Fecha de entrada en vigor de la versión: 10 de agosto de 2021
 
@@ -122,12 +122,12 @@ Codespaces le permite cargar extensiones desde el Marketplace de Microsoft Visua
 
 La versión de Codespaces disponible con carácter general no está disponible actualmente para los clientes del gobierno de EE. UU. Los clientes del gobierno de EE. UU. pueden continuar usando Codespaces Beta Preview de acuerdo con otros términos. Consulte los [Términos de Beta Preview](/es/github/site-policy/github-terms-of-service#j-beta-previews).
 
-[](#connect)Connect
+[](#competitive-benchmarking)Connect
 ----------
 
 Con GitHub Connect, puede compartir determinadas características y datos entre su instancia de GitHub Enterprise Server o GitHub AE y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) instancia con licencia de GitHub Enterprise Server o GitHub AE. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos en virtud de los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
 
-[](#github-copilot)Copiloto de GitHub
+[](#connect)Copiloto de GitHub
 ----------
 
 Para utilizar Copiloto de GitHub, es necesario instalar una extensión en un entorno de desarrollo integrado (IDE) o un editor. El código que escriba mediante la extensión Copiloto de GitHub en un IDE o editor ("**su código**") no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com.
@@ -142,22 +142,22 @@ Su código está sujeto a las [directivas de uso aceptable de GitHub](/es/site-p
 
 Copiloto de GitHub (i) puede, en función de su configuración de telemetría preferida, recopilar fragmentos de su código, y (ii) recopilará información de uso adicional a través del IDE o editor vinculados a su cuenta. Esto puede incluir datos personales, como se indica en la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement). Puede obtener más información sobre la recopilación y el uso de los datos de Copiloto de GitHub en las [preguntas frecuentes](https://github.com/features/copilot#faq-privacy).
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[](#github-copilot)GitHub Enterprise Importer
 ----------
 
 Importer es una plataforma para exportar datos desde otras fuentes e importarlos a la plataforma de GitHub. Importer se entrega «tal cual».
 
-[](#npm)npm
+[](#github-enterprise-importer)npm
 ----------
 
 npm es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. npm es el registro del ecosistema de JavaScript. El registro público de npm es gratuito, pero a los clientes se les cobra si desean publicar paquetes privados o administrar paquetes privados mediante equipos. La [documentación de npm](https://docs.npmjs.com/) incluye datos sobre la limitación de los tipos de cuentas y cómo administrar [paquetes privados](https://docs.npmjs.com/about-private-packages) y [organizaciones](https://docs.npmjs.com/organizations). El uso aceptable del registro de npm se describe en los [términos del código abierto](https://www.npmjs.com/policies/open-source-terms). Hay términos complementarios para los planes [solo](https://www.npmjs.com/policies/solo-plan) y [org](https://www.npmjs.com/policies/orgs-plan) de npm. Los [Términos de Uso](https://www.npmjs.com/policies/terms) de npm se aplican a su uso de npm.
 
-[](#packages)Packages
+[](#npm)Packages
 ----------
 
 GitHub Packages es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. GitHub Packages se factura por uso. La [documentación de Packages](/es/packages/learn-github-packages/introduction-to-github-packages) incluye datos, como el ancho de banda y las cantidades de almacenamiento (según el plan de su Cuenta), y cómo supervisar el uso de Packages y establecer límites de uso. El uso del ancho de banda de Packages está limitado por las [Directivas de Uso Aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies).
 
-[](#pages)Pages
+[](#packages)Pages
 ----------
 
 Cada Cuenta incluye acceso al [Servicio de hospedaje estático de GitHub Pages](/es/github/working-with-github-pages/about-github-pages). GitHub Pages está diseñado para alojar páginas web estáticas, pero principalmente como un escaparate para proyectos personales y de la organización.
@@ -174,17 +174,17 @@ GitHub Pages no se puede utilizar de ninguna forma que incumpla el Acuerdo, las 
 
 Si tiene dudas sobre si el uso actual o previsto se incluye en estas categorías, póngase en contacto con el [Servicio de Soporte de GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin ninguna responsabilidad.
 
-[](#previews)Versiones Preliminares
+[](#pages)Versiones Preliminares
 ----------
 
 Las Versiones Preliminares se refieren al software, servicios online y productos y características adicionales que se proporcionan con la finalidad de obtener una versión preliminar, evaluación, demostración o prueba, o versiones previas al lanzamiento de estas, por ejemplo, de tipo alfa, beta o acceso anticipado. Si su Acuerdo no incluye términos y condiciones que se refieran a Versiones Preliminares, se aplicarán los siguientes términos. GitHub otorga el derecho limitado a usar una instancia que no sea de producción de la Versión Preliminar. Las Versiones Preliminares se proporcionan «TAL CUAL», «CON TODOS LOS DEFECTOS» y «SEGÚN DISPONIBILIDAD». GitHub puede modificar o cancelar las versiones preliminares en cualquier momento y sin previo aviso. Cualquier información que le proporcionemos sobre una Versión Preliminar privada se considerará información confidencial de GitHub. Si decide proporcionar comentarios o sugerencias sobre una Versión Preliminar, podemos usar esos comentarios para cualquier propósito sin ninguna obligación de ningún tipo. La responsabilidad máxima de GitHub se limita a daños directos de hasta 5000 USD. GitHub no tiene la obligación de defender, indemnizar o eximirlo de toda responsabilidad por reclamaciones presentadas por terceros que se deriven de su uso de las Versiones Preliminares.
 
-[](#sponsors-program)Programa de Patrocinadores
+[](#previews)Programa de Patrocinadores
 ----------
 
 Los Patrocinadores de GitHub permiten a la comunidad de desarrolladores ayudar financieramente, directamente en GitHub, a las personas y organizaciones que diseñan, crean y mantienen los proyectos de código abierto de los que dependen. Para convertirse en Desarrollador Patrocinado, debe aceptar los [Términos Adicionales del Programa de Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms).
 
-[](#sql-server-images)Imágenes de SQL Server
+[](#sponsors-program)Imágenes de SQL Server
 ----------
 
 Puede descargar la imagen de contenedor de Microsoft SQL Server Standard Edition para archivos de Linux («Imágenes de SQL Server»). Deberá desinstalar las Imágenes de SQL Server cuando finalice su derecho a utilizar el Software. Microsoft Corporation puede deshabilitar las Imágenes de SQL Server en cualquier momento.

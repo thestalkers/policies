@@ -20,23 +20,23 @@
 
 * [Codespaces](#codespaces)
 
-* [Connect](#connect)
+* [Connect](#competitive-benchmarking)
 
-* [GitHub Copilot](#github-copilot)
+* [GitHub Copilot](#connect)
 
-* [GitHub Enterprise Importer](#github-enterprise-importer)
+* [GitHub Enterprise Importer](#github-copilot)
 
-* [npm](#npm)
+* [npm](#github-enterprise-importer)
 
-* [パッケージ](#packages)
+* [パッケージ](#npm)
 
-* [Pages](#pages)
+* [Pages](#packages)
 
-* [プレビュー](#previews)
+* [プレビュー](#pages)
 
-* [Sponsors プログラム](#sponsors-program)
+* [Sponsors プログラム](#previews)
 
-* [SQL Server Images](#sql-server-images)
+* [SQL Server Images](#sponsors-program)
 
 バージョン発効日: 2021 年 8 月 10 日
 
@@ -122,12 +122,12 @@ Codespaces を使用すると、Microsoft Visual Studio Marketplace から拡張
 
 一般に利用可能なバージョンの Codespaces は、現在、米国政府のお客様にはご利用いただけません。 米国政府のお客様は、Codespaces ベータ プレビューを別の条件で引き続き使用することができます。 [ベータ プレビューの条件](/ja/github/site-policy/github-terms-of-service#j-beta-previews)を参照してください。
 
-[](#connect)Connect
+[](#competitive-benchmarking)Connect
 ----------
 
 GitHub Connect を使って、GitHub.com 上で自分の GitHub Enterprise Server または GitHub AE Enterprise インスタンスと GitHub Enterprise Cloud のOrganization または enterprise アカウントの間で特定の機能とデータを共有できます。 GitHub Connect を有効にするには、GitHub Enterprise Cloud または GitHub.com に少なくとも 1 つのアカウントと、GitHub Enterprise Server または GitHub AE のライセンス インスタンスを 1 つ持っていなければなりません。 Connect を介した GitHub Enterprise Cloud または GitHub.com の使用には、お客様が GitHub Enterprise Cloud または GitHub.com のライセンスを供与する条件が適用されます。 個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
 
-[](#github-copilot)GitHub Copilot
+[](#connect)GitHub Copilot
 ----------
 
 GitHub Copilot を利用するには、統合開発環境 (IDE) またはエディターに拡張機能をインストールする必要があります。 IDE またはエディターで GitHub Copilot 拡張機能を使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
@@ -142,22 +142,22 @@ GitHub Copilot からお客様に返されるコード、関数およびその�
 
 GitHub Copilot は、(i) お客様が希望する遠隔測定設定に応じて、お客様のコードのスニペットを収集する場合があり、(ii) お客様のアカウントに関連付けられた IDE またはエディターを通じて追加の使用情報を収集します。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy) で詳しく説明されています。
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[](#github-copilot)GitHub Enterprise Importer
 ----------
 
 Importer は、GitHub プラットフォームにインポートする他のソースからデータをエクスポートするためのフレームワークです。 Importer は「現状のまま」提供されます。
 
-[](#npm)npm
+[](#github-enterprise-importer)npm
 ----------
 
 npm は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 npm は JavaScript エコシステムの記録のレジストリです。 npm パブリック レジストリは無料で使用できますが、プライベート パッケージを公開したり、チームを使用してプライベート パッケージを管理したりする場合は、お客様宛に請求されます。 [npm ドキュメント](https://docs.npmjs.com/)には、アカウント タイプの制限と、[プライベート パッケージ](https://docs.npmjs.com/about-private-packages)および[組織](https://docs.npmjs.com/organizations)の管理方法の詳細が記載されています。 npm レジストリの許容可能な使用については、[オープン ソースの条件](https://www.npmjs.com/policies/open-source-terms)で概説されています。 また、npm の [solo](https://www.npmjs.com/policies/solo-plan) と [org](https://www.npmjs.com/policies/orgs-plan) の両方のプランに補足の条件があります。 npm の利用には、npm [使用条件](https://www.npmjs.com/policies/terms)が適用されます。
 
-[](#packages)パッケージ
+[](#npm)パッケージ
 ----------
 
 GitHub Packages は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 GitHub Packages は使用量ベースで請求されます。 [Packages のドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅とストレージ量 (アカウント プランによって異なります)、Packages の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。 Packages の帯域幅使用量は「[GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)」によって制限されます。
 
-[](#pages)Pages
+[](#packages)Pages
 ----------
 
 各アカウントには、[GitHub Pages の静的ホスティング サービス](/ja/github/working-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的な Web ページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割を担っています。
@@ -174,17 +174,17 @@ GitHub Pages は、契約、「GitHub [利用規約](/ja/github/site-policy/gith
 
 お客様の使用または使用目的がこれらのカテゴリに分類されるかどうかについてご質問がある場合は、[GitHub サポート](https://support.github.com/contact?tags=docs-policy)までお問い合わせください。 GitHub はいつでも、責任を負うことなく GitHub の任意のサブドメインを回収する権利を常に留保します。
 
-[](#previews)プレビュー
+[](#pages)プレビュー
 ----------
 
 プレビューとは、下見、評価、デモ、試用などの目的のために提供されているソフトウェア、オンライン サービス、および追加の製品および機能、またはそれらのプレリリース版 (アルファ版、ベータ版、早期アクセス版など) を意味します。 契約にプレビューに関する条件が含まれていない場合は、次の条件が適用されます。 GitHub は、プレビュー版の非稼働インスタンスを使用する限定的な権利を付与します。 プレビューは、「現状有姿」、「瑕疵があってもそれらを含む状態で」、かつ「提供可能な状態で」提供されます。 GitHub は、随時予告なくプレビューを変更または中止することがあります。 プライベート プレビューに関して当社から提供された情報は、GitHub の機密情報と見なされます。 プレビューに関するコメントや提案を提供することをお客様が選択した場合、当社はいかなる種類の義務も負うことなく、そのフィードバックをいかなる目的にも使用することができます。 GitHub の責任は 5,000 米ドルまでの直接損害に制限されます。 GitHub は、お客様のプレビューの使用から生じる第三者による申し立てについて、お客様を防御、補償、または無害に保つ義務を負いません。
 
-[](#sponsors-program)Sponsors プログラム
+[](#previews)Sponsors プログラム
 ----------
 
 GitHub Sponsors により、開発者コミュニティは、日々活用しているオープン ソース プロジェクトの設計、構築、維持に携わる人々や組織を、GitHub で直接、経済的に支援できます。 支援対象開発者になるには、[GitHub Sponsors プログラムの追加条件](/ja/github/site-policy/github-sponsors-additional-terms)に同意しなければなりません。
 
-[](#sql-server-images)SQL Server Images
+[](#sponsors-program)SQL Server Images
 ----------
 
 お客様は、Linux ファイル用の Microsoft SQL Server Standard Edition コンテナー イメージ (以下「SQL Server Images」といいます) をダウンロードできます。 お客様の本ソフトウェアの使用権が終了した場合は、SQL Server Images をアンインストールしなければなりません。 また、マイクロソフトは、随時 SQL Server Images を無効にすることができます。
