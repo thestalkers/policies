@@ -132,7 +132,7 @@ Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuári
 
   * Dados sobre interações com repositórios privados
 
-    Para ter uma ideia do tipo de informações de contas privadas coletadas pelo GitHub, você pode visitar seu [painel pessoal](https://github.com/dashboard) e navegar pelas seções na barra de menus à esquerda.
+     Para ter uma ideia do tipo de informações de contas privadas coletadas pelo GitHub, você pode visitar seu [painel pessoal](https://github.com/dashboard)e navegar pelas seções na barra de menus à esquerda.
 
 * []()**Dados de contas de organizações**: informações sobre organizações, seus usuários administrativos e repositórios estão disponíveis ao público no GitHub.
   Os perfis de organizações podem ser encontrados em um URL como `https://github.com/organization`.

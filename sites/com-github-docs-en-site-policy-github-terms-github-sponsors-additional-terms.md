@@ -239,7 +239,7 @@ These Additional Terms, together with the Agreement, the GitHub Policies, the Gi
 
 ### [](#72-changes-to-the-terms)7.2. Changes to the Terms. ###
 
-We reserve the right, at our sole discretion, to amend these Additional Terms at any time We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
+We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
 ### [](#73-third-party-beneficiaries)7.3. Third Party Beneficiaries. ###
 
