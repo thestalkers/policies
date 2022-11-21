@@ -138,7 +138,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Data about interactions with private repositories
 
-     To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard)and browse through the sections in the left-hand menubar.
+    To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
 * []()**Organization account data** —
   Information about organizations, their administrative users and repositories is publicly available on GitHub.

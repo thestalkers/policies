@@ -132,7 +132,7 @@ GitHub 上的公共存储库或私有存储库最常用于软件开发项目，�
 
   * 有关与私有存储库的交互的数据
 
-     要了解 GitHub 收集的私人帐户信息类型，可以访问您的 [个人仪表板](https://github.com/dashboard)并浏览左侧菜单栏中的部分。
+    要了解 GitHub 收集的私人帐户信息类型，可以访问您的 [个人仪表板](https://github.com/dashboard) 并浏览左侧菜单栏中的部分。
 
 * []()**组织帐户数据** - 有关组织及其管理用户和存储库的信息公开发布在 GitHub 上。
   组织配置文件位于`https://github.com/organization`这样的 URL 上。
