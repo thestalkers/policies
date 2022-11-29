@@ -4,7 +4,7 @@ GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHub Doc
 
 [](/ja)[GitHub Docs](/ja)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub の暴力の脅威と根拠のない暴力的コンテンツ
 ==========

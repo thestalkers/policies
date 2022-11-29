@@ -4,12 +4,12 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 
 [](/ja)[GitHub Docs](/ja)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。最新情報については、[英語版のドキュメント](/en)をご覧ください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 GitHub オープン ソース アプリケーションの契約条件
 ==========
 
-この記事では、次の項目が扱われます。
+In this article
 ----------
 
 * [GitHub への接続](#connecting-to-github)
