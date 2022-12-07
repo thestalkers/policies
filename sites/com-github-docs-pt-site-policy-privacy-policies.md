@@ -14,3 +14,4 @@ Políticas de Privacidade
 * [Subprocessadores e cookies do GitHub](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [Política de Privacidade de Codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [Política de Privacidade do Candidato do GitHub](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub Copilot for Business Privacy Statement](/pt/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
