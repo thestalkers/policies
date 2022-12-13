@@ -1,15 +1,15 @@
-Guia para Enviar uma Contranotificação da DMCA - GitHub Docs
+Guia para Enviar uma Contranotificação da DMCA - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Guia para Enviar uma Contranotificação da DMCA
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Antes de iniciar](#before-you-start)

@@ -1,15 +1,15 @@
-Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub - GitHub Docs
+Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub - Documentação do GitHub
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
+[](/pt)[Documentação do GitHub](/pt)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para acessar as informações mais atualizadas, visite a [Documentação em inglês](/en).
 
 Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Resumo](#summary)

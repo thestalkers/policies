@@ -4,7 +4,7 @@ Divulgación de información personal («doxxing») e invasión de la privacidad
 
 [](/es)[GitHub Docs](/es)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, visite la [documentación en inglés](/en).
 
 Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub
 ==========

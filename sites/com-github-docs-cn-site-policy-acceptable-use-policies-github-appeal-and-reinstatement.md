@@ -4,12 +4,12 @@ GitHub 申诉和恢复 - GitHub Docs
 
 [](/cn)[GitHub Docs](/cn)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
 GitHub 申诉和恢复
 ==========
 
-In this article
+本文内容
 ----------
 
 * [申诉和恢复](#appeal-and-reinstatement)
