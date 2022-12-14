@@ -2,7 +2,7 @@ GitHub 开源应用程序条款和条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -52,7 +52,7 @@ GitHub 开源应用程序条款和条件
 [](#privacy)隐私
 ----------
 
-软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/cn/articles/github-privacy-statement)处理这些信息。
+软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/articles/github-privacy-statement)处理这些信息。
 
 [](#additional-services)其他服务
 ----------

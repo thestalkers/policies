@@ -2,7 +2,7 @@ GitHub Bug 赏金计划法律安全港 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -50,4 +50,4 @@ GitHub Bug 赏金计划法律安全港
 [](#3-limited-waiver-of-other-site-polices)3.其他站点政策的有限豁免
 ----------
 
-如果您的安全研究活动不符合我们[相关站点政策](/cn/categories/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！
+如果您的安全研究活动不符合我们[相关站点政策](/zh/categories/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！

@@ -2,7 +2,7 @@ GitHub 活动条款 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -26,20 +26,20 @@ GitHub 活动条款
 
 应邀或主动参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何赛事或项目（统称为“活动”），即表示您已阅读、理解并同意以下活动条款和条件。
 
-[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1.参与活动的基本要求 - 包括[活动行为准则](/cn/articles/github-event-code-of-conduct)
+[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1.参与活动的基本要求 - 包括[活动行为准则](/zh/articles/github-event-code-of-conduct)
 ----------
 
 参与活动需要符合以下要求：
 
 * 您拥有签署这些活动条款的必要权力和权限
 
-* 您已阅读并理解这些活动条款以及 [GitHub.com 服务条款](/cn/articles/github-terms-of-service)
+* 您已阅读并理解这些活动条款以及 [GitHub.com 服务条款](/zh/articles/github-terms-of-service)
 
-* 您同意遵守[活动行为准则](/cn/articles/github-event-code-of-conduct)，该准则旨在为所有人提供无骚扰的体验
+* 您同意遵守[活动行为准则](/zh/articles/github-event-code-of-conduct)，该准则旨在为所有人提供无骚扰的体验
 
 * 如果您在 GitHub 活动中饮酒，即表示您已年满 21 岁或超过您所在辖区的法定饮酒年龄。
 
-参与者需要立即停止任何骚扰行为或其他违禁行为。 如果参与者的行为违反了[活动行为准则](/cn/articles/github-event-code-of-conduct)或这些条款，活动组织者可采取他们认为适当的任何措施，包括警告违规者或将其驱逐出活动或会议，并且不予退款。
+参与者需要立即停止任何骚扰行为或其他违禁行为。 如果参与者的行为违反了[活动行为准则](/zh/articles/github-event-code-of-conduct)或这些条款，活动组织者可采取他们认为适当的任何措施，包括警告违规者或将其驱逐出活动或会议，并且不予退款。
 
 [](#2-pictures)2.图片
 ----------
@@ -70,7 +70,7 @@ GitHub 或其合作伙伴有时会在 GitHub 活动中拍摄照片和视频。 �
 [](#4-termination)4.终止
 ----------
 
-虽然我们不希望这样做，但如果您不遵守这些活动条款、[活动行为准则](/cn/articles/github-event-code-of-conduct)或 [GitHub.com 服务条款](/cn/articles/github-terms-of-service)，GitHub 可随时禁止您参与任何 GitHub 活动，此外，GitHub 也有权以任何理由或无理由终止您的参与，并且无需提供通知，也不对此承担任何形式的责任。 第 3 节（风险、责任和赔偿）在任何此类终止后仍然有效。
+虽然我们不希望这样做，但如果您不遵守这些活动条款、[活动行为准则](/zh/articles/github-event-code-of-conduct)或 [GitHub.com 服务条款](/zh/articles/github-terms-of-service)，GitHub 可随时禁止您参与任何 GitHub 活动，此外，GitHub 也有权以任何理由或无理由终止您的参与，并且无需提供通知，也不对此承担任何形式的责任。 第 3 节（风险、责任和赔偿）在任何此类终止后仍然有效。
 
 [](#5-choice-of-law-and-venue)5.法律和审判地选择
 ----------

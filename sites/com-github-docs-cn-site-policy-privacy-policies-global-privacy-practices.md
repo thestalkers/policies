@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -18,7 +18,7 @@
 
 生效日期：2020 年 7 月 22 日
 
-对于我们在全球各地的所有用户和客户，无论其来自哪个国家/地区或位于何处，GitHub 为他们提供与 GitHub [隐私声明](/cn/github/site-policy/github-privacy-statement#githubs-global-privacy-practices)中所述同样高标准的隐私保护，GitHub 为我们提供的通知、选择、责任、安全、数据完整性、访问权和追索权级别感到自豪。
+对于我们在全球各地的所有用户和客户，无论其来自哪个国家/地区或位于何处，GitHub 为他们提供与 GitHub [隐私声明](/zh/github/site-policy/github-privacy-statement#githubs-global-privacy-practices)中所述同样高标准的隐私保护，GitHub 为我们提供的通知、选择、责任、安全、数据完整性、访问权和追索权级别感到自豪。
 
 GitHub 还遵守与将数据从欧洲经济区、英国和瑞士（统称为“欧盟”）传输到美国有关的某些法律框架。 当 GitHub 进行此类传输时，GitHub 依赖标准合同条款作为法律机制，以帮助确保在您的个人信息传输过程中，您的权利受到保障且信息受到保护。 此外，GitHub 还获得了欧盟-美国和瑞士-美国隐私保护协议框架认证。 如需详细了解欧盟委员会关于国际数据传输的决定，请参阅[欧盟委员会网站](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_en)上的这篇文章。
 
@@ -42,7 +42,7 @@ GitHub 获得了欧盟-美国和瑞士-美国隐私保护协议框架认证，�
 
 * **通知**
   * 当我们收集您的个人信息时，我们会通知您。
-  * 我们会在[隐私声明](/cn/articles/github-privacy-statement)中告知您：我们收集和使用您的信息的目的、我们与谁共享该信息及在何种限制下共享该信息，以及您对您的数据拥有何种访问权限。
+  * 我们会在[隐私声明](/zh/articles/github-privacy-statement)中告知您：我们收集和使用您的信息的目的、我们与谁共享该信息及在何种限制下共享该信息，以及您对您的数据拥有何种访问权限。
   * 我们会告知您，我们参与了隐私保护协议框架，以及这对您意味着什么。
   * 您可以通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系，咨询有关您的隐私的问题。
   * 我们会告知您，万一发生争议，您有权在无需承担任何费用的情况下诉诸具有约束力的仲裁。
@@ -69,13 +69,13 @@ GitHub 获得了欧盟-美国和瑞士-美国隐私保护协议框架认证，�
 
 * **追索、执行和责任**
   * 如果您对我们的隐私惯例有任何疑问，可通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系，我们最迟会在 45 天内回复。
-  * 万一发生我们无法解决的争议，您可在无需承担任何费用的情况下诉诸具有约束力的仲裁。 有关详细信息，请阅读我们的[隐私声明](/cn/articles/github-privacy-statement)。
+  * 万一发生我们无法解决的争议，您可在无需承担任何费用的情况下诉诸具有约束力的仲裁。 有关详细信息，请阅读我们的[隐私声明](/zh/articles/github-privacy-statement)。
   * 我们会对我们的相关隐私惯例进行定期审核，以核实这些惯例是否符合我们所做出的承诺。
   * 我们要求员工遵守我们的隐私承诺，违反我们的隐私政策将受到纪律处分，包括终止雇佣关系。
 
 ### [](#dispute-resolution-process)争议解决流程 ###
 
-正如我们在[隐私声明](/cn/github/site-policy/github-privacy-statement)中的[解决投诉](/cn/github/site-policy/github-privacy-statement#resolving-complaints)部分的详细说明，如果您有与隐私保护协议相关（或一般隐私相关）的投诉，我们鼓励您与我们联系。 对于无法直接通过 GitHub 解决的任何投诉，我们已选择与相关欧盟数据保护机构或者由欧洲数据保护机构设立的专家组合作，解决与欧盟个人的争议，并与瑞士联邦数据保护与信息委员会 (FDPIC) 合作解决与瑞士个人的争议。 如果您希望我们帮助您与数据保护机构联系人取得联系，请与我们联系。
+正如我们在[隐私声明](/zh/github/site-policy/github-privacy-statement)中的[解决投诉](/zh/github/site-policy/github-privacy-statement#resolving-complaints)部分的详细说明，如果您有与隐私保护协议相关（或一般隐私相关）的投诉，我们鼓励您与我们联系。 对于无法直接通过 GitHub 解决的任何投诉，我们已选择与相关欧盟数据保护机构或者由欧洲数据保护机构设立的专家组合作，解决与欧盟个人的争议，并与瑞士联邦数据保护与信息委员会 (FDPIC) 合作解决与瑞士个人的争议。 如果您希望我们帮助您与数据保护机构联系人取得联系，请与我们联系。
 
 此外，如果您是欧盟成员国居民，您有权向当地监管机构提出投诉。
 
@@ -85,4 +85,4 @@ GitHub 获得了欧盟-美国和瑞士-美国隐私保护协议框架认证，�
 
 我们受美国联邦贸易委员会 (FTC) 的管辖。
 
-有关详细信息，请阅读我们的[隐私声明](/cn/articles/github-privacy-statement)。
+有关详细信息，请阅读我们的[隐私声明](/zh/articles/github-privacy-statement)。

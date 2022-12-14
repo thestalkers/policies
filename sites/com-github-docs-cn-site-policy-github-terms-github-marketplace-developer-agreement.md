@@ -2,7 +2,7 @@ GitHub Marketplace 开发人员协议 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -55,7 +55,7 @@ GitHub Marketplace 开发人员协议
 [](#1definitions)1.定义
 ----------
 
-本协议中使用但未定义的术语，其含义须与位于 [https://docs.github.com/articles/github-terms-of-service](/cn/articles/github-terms-of-service) 的“GitHub 服务条款”（以下简称“条款”或“ToS”）中规定的含义相同。
+本协议中使用但未定义的术语，其含义须与位于 [https://docs.github.com/articles/github-terms-of-service](/zh/articles/github-terms-of-service) 的“GitHub 服务条款”（以下简称“条款”或“ToS”）中规定的含义相同。
 
 “操作”是指可用于实施自定义逻辑而不必创建应用程序来执行 GitHub 特定任务的机制。
 

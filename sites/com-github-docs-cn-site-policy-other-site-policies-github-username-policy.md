@@ -2,7 +2,7 @@ GitHub 用户名政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -30,7 +30,7 @@ GitHub 帐户名按先到先得的原则提供，旨在供用户立即并积极�
 [](#trademark-policy)商标政策
 ----------
 
-如果您认为某个用户的帐户侵犯了您的商标权，您可以在我们的[商标政策](/cn/articles/github-trademark-policy)页面上找到有关提出商标投诉的更多信息。
+如果您认为某个用户的帐户侵犯了您的商标权，您可以在我们的[商标政策](/zh/articles/github-trademark-policy)页面上找到有关提出商标投诉的更多信息。
 
 [](#name-squatting-policy)帐户名抢注政策
 ----------

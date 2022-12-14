@@ -2,7 +2,7 @@ GitHub Codespaces 隐私声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -11,9 +11,9 @@ GitHub Codespaces 隐私声明
 
 生效日期：2021 年 8 月 10 日
 
-对 GitHub Codespaces 的使用受 [GitHub 隐私声明](/cn/github/site-policy/github-privacy-statement)的约束。
+对 GitHub Codespaces 的使用受 [GitHub 隐私声明](/zh/github/site-policy/github-privacy-statement)的约束。
 
-github.dev 上的活动受 [GitHub Beta 预览版条款](/cn/github/site-policy/github-terms-of-service#j-beta-previews)的约束
+github.dev 上的活动受 [GitHub Beta 预览版条款](/zh/github/site-policy/github-terms-of-service#j-beta-previews)的约束
 
 [](#使用-visual-studio-code)使用 Visual Studio Code
 ----------

@@ -2,7 +2,7 @@ GitHub 私人信息删除政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -24,7 +24,7 @@ GitHub 私人信息删除政策
 
 * [争议](#disputes)
 
-我们提供的这个私人信息删除流程是一项特殊服务，仅针对违反 [GitHub 服务条款](/cn/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)的高风险内容，例如当您的安全面临暴露访问凭据的风险时。 本指南说明了 GitHub 需要您提供哪些信息，才能处理从存储库中删除私人信息的请求。
+我们提供的这个私人信息删除流程是一项特殊服务，仅针对违反 [GitHub 服务条款](/zh/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)的高风险内容，例如当您的安全面临暴露访问凭据的风险时。 本指南说明了 GitHub 需要您提供哪些信息，才能处理从存储库中删除私人信息的请求。
 
 [](#what-is-private-information)什么是私人信息？
 ----------
@@ -38,17 +38,17 @@ GitHub 私人信息删除政策
 * 可访问您组织的服务器、网络或域的访问凭据，例如用户名与密码组合、访问令牌或其他敏感密钥。
 * 可代表您访问第三方的 AWS 令牌和其他类似访问凭据。 您必须能够证明该令牌确实属于您。
 * 对组织构成特定安全风险的文档（例如网络图或架构）。
-* 与您个人相关并对您构成安全风险的[信息](/cn/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)（如社会保障号码或其他政府身份号码）。
+* 与您个人相关并对您构成安全风险的[信息](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)（如社会保障号码或其他政府身份号码）。
 
 ### [](#private-information-removal-requests-are-not-appropriate-for)私人信息删除请求不适用于： ###
 
 * 他们自己的内部服务器名称、IP 地址和 URL。 您必须能够证明它们在特定文件或代码段中的使用会构成安全威胁。
 * 在 GitHub 上的文件中仅提及您公司的身份、名称、品牌、域名或对您公司的其他引用。 您必须能够阐明为什么使用您公司的身份会威胁到您公司的安全状况。
 * 整个文件或存储库并不构成特定的安全风险，但是您认为在其他方面令人反感。
-* 请求删除可能侵犯您或您组织的版权的内容。 如果您对 GitHub 如何处理版权相关事项有疑问，或者要举报涉嫌侵权的内容，请参阅我们的 [DMCA 下架政策](/cn/articles/dmca-takedown-policy)。 私人信息删除流程一般不会删除整个文件或存储库，而只是删除这些文件中的特定私人信息部分。 但可能存在文件中全是私人信息的情况，在这种情况下，您必须证明删除该文件是避免安全风险的合理措施，并且这可能会增加处理请求所需的时间。
-* 商标争议。 如果您对 GitHub 如何处理商标相关事项有疑问，或者要举报包含您组织的商标或服务标志的内容，请查看我们的[商标政策](/cn/articles/github-trademark-policy)。
+* 请求删除可能侵犯您或您组织的版权的内容。 如果您对 GitHub 如何处理版权相关事项有疑问，或者要举报涉嫌侵权的内容，请参阅我们的 [DMCA 下架政策](/zh/articles/dmca-takedown-policy)。 私人信息删除流程一般不会删除整个文件或存储库，而只是删除这些文件中的特定私人信息部分。 但可能存在文件中全是私人信息的情况，在这种情况下，您必须证明删除该文件是避免安全风险的合理措施，并且这可能会增加处理请求所需的时间。
+* 商标争议。 如果您对 GitHub 如何处理商标相关事项有疑问，或者要举报包含您组织的商标或服务标志的内容，请查看我们的[商标政策](/zh/articles/github-trademark-policy)。
 * 隐私投诉。 如果您想要访问、转让、更改或删除您在 GitHub 上的个人信息，请通过[我们的隐私联系表](https://github.com/contact/privacy)联系我们。
-* 受我们的[社区指导方针](/cn/articles/github-community-guidelines)约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，您可以使用 [报告内容](https://github.com/contact/report-content) 联系我们。
+* 受我们的[社区指导方针](/zh/articles/github-community-guidelines)约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，您可以使用 [报告内容](https://github.com/contact/report-content) 联系我们。
 
 [](#things-to-know)须知
 ----------
@@ -82,7 +82,7 @@ GitHub 私人信息删除政策
 
 ### [](#what-about-forks-or-whats-a-fork)如何处理复刻 (Fork)？ （或者什么是复刻？） ###
 
-GitHub 的最佳功能之一是用户能够“复刻”彼此的存储库。 这意味着什么？ 从本质上讲，这意味着用户可以将 GitHub 上的项目复制到自己的存储库中。 在许可或法律允许的情况下，用户可以对该复刻进行更改然后将其推送到主项目或只保留为自己的项目变体。 每个此类副本都是原存储库的“[复刻](/cn/articles/github-glossary/#fork)”，或者说原存储库也可以称为复刻的“父存储库”。
+GitHub 的最佳功能之一是用户能够“复刻”彼此的存储库。 这意味着什么？ 从本质上讲，这意味着用户可以将 GitHub 上的项目复制到自己的存储库中。 在许可或法律允许的情况下，用户可以对该复刻进行更改然后将其推送到主项目或只保留为自己的项目变体。 每个此类副本都是原存储库的“[复刻](/zh/articles/github-glossary/#fork)”，或者说原存储库也可以称为复刻的“父存储库”。
 
 GitHub 在禁用父存储库时不会自动禁用复刻。 这是因为复刻属于不同的用户，并且可能进行了重大更改。 GitHub 不会对复刻进行任何独立调查。 我们希望私人信息删除请求发送者进行这种调查，如果他们认为复刻也包含私人信息，则应在其请求中明确包括这些复刻。
 
