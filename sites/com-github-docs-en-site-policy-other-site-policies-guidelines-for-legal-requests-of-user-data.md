@@ -166,7 +166,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
 * []()**Public repository data** —
   GitHub is home to millions of public, open-source software projects.
-  You can browse almost any public repository (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that GitHub collects and maintains about repositories.
+  You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
   This can include:
 
   * The code itself

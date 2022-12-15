@@ -2,7 +2,7 @@ GitHub 和贸易管制 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -29,7 +29,7 @@ GitHub 的愿景是成为开发人员合作的全球平台，不管开发人员�
 
 ### [](#githubcom)GitHub.com ###
 
-根据我们的[服务条款](/cn/articles/github-terms-of-service)，用户必须按照相关法律访问和使用 GitHub.com，包括美国出口管制和制裁法律。
+根据我们的[服务条款](/zh/articles/github-terms-of-service)，用户必须按照相关法律访问和使用 GitHub.com，包括美国出口管制和制裁法律。
 
 用户负责确保他们在 GitHub.com 上开发和分享的内容符合美国出口管制法律，包括 EAR 和美国国际武器贩运条例（International Traffic in Arms Regulations，ITAR）。 [GitHub.com](https://github.com) 上提供的云端托管服务不托管受 ITAR 约束的数据，目前也无法按国家或地区限制存储库访问。 如果寻求就 ITAR 或其他出口管制数据进行合作，我们建议您考虑 [GitHub Enterprise Server](https://enterprise.github.com)，这是 GitHub 的本地服务。
 

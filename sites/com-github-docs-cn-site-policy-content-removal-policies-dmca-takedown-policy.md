@@ -2,7 +2,7 @@ DMCA 下架政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -52,13 +52,13 @@ DMCA 还禁止[规避技术措施](https://www.copyright.gov/title17/92chap12.ht
 [](#dmca-notices-in-a-nutshell)DMCA 通知概述
 ----------
 
-DMCA 规定了两个简单直接的程序，所有 GitHub 用户都应了解：(i) 版权持有者要求删除内容的[下架通知](/cn/articles/guide-to-submitting-a-dmca-takedown-notice)程序；(ii) 内容被误删时用户要求恢复内容的[抗辩通知](/cn/articles/guide-to-submitting-a-dmca-counter-notice)程序。
+DMCA 规定了两个简单直接的程序，所有 GitHub 用户都应了解：(i) 版权持有者要求删除内容的[下架通知](/zh/articles/guide-to-submitting-a-dmca-takedown-notice)程序；(ii) 内容被误删时用户要求恢复内容的[抗辩通知](/zh/articles/guide-to-submitting-a-dmca-counter-notice)程序。
 
-版权所有者使用 DMCA [下架通知](/cn/articles/guide-to-submitting-a-dmca-takedown-notice)来要求 GitHub 删除他们认为侵权的内容。 如果您是软件设计师或开发人员，可能每天都会创建受版权保护的内容。 如果其他人以未经授权的方式在 GitHub 上使用您受版权保护的内容，您可以向我们发送 DMCA 下架通知，要求更改或删除侵权内容。
+版权所有者使用 DMCA [下架通知](/zh/articles/guide-to-submitting-a-dmca-takedown-notice)来要求 GitHub 删除他们认为侵权的内容。 如果您是软件设计师或开发人员，可能每天都会创建受版权保护的内容。 如果其他人以未经授权的方式在 GitHub 上使用您受版权保护的内容，您可以向我们发送 DMCA 下架通知，要求更改或删除侵权内容。
 
-另一方面，[抗辩通知](/cn/articles/guide-to-submitting-a-dmca-counter-notice)可用于纠正错误。 发送下架通知的人可能没有版权，或者没有意识到您拥有许可，或者在下架通知中犯了其他错误。 由于 GitHub 往往不知道通知是否有误，因此您可以通过 DMCA 抗辩通知告诉我们并要求我们恢复内容。
+另一方面，[抗辩通知](/zh/articles/guide-to-submitting-a-dmca-counter-notice)可用于纠正错误。 发送下架通知的人可能没有版权，或者没有意识到您拥有许可，或者在下架通知中犯了其他错误。 由于 GitHub 往往不知道通知是否有误，因此您可以通过 DMCA 抗辩通知告诉我们并要求我们恢复内容。
 
-DMCA 通知和下架流程仅适用于有关侵犯版权的投诉。 通过 DMCA 流程发送的通知必须指明涉嫌侵权的版权作品。 此流程不能用于其他投诉，如有关涉嫌[商标侵权](/cn/articles/github-trademark-policy)或[敏感数据](/cn/articles/github-sensitive-data-removal-policy)的投诉；我们为这些情况另外提供了不同的流程。
+DMCA 通知和下架流程仅适用于有关侵犯版权的投诉。 通过 DMCA 流程发送的通知必须指明涉嫌侵权的版权作品。 此流程不能用于其他投诉，如有关涉嫌[商标侵权](/zh/articles/github-trademark-policy)或[敏感数据](/zh/articles/github-sensitive-data-removal-policy)的投诉；我们为这些情况另外提供了不同的流程。
 
 [](#a-how-does-this-actually-work)A. 此流程实际上是如何运作的？
 ----------
@@ -75,7 +75,7 @@ DMCA 框架有点像在课堂上传纸条。 版权所有者向 GitHub 提交对
    >
    >
 
-2. **版权所有者发送通知。** 进行调查后，版权所有者编写[下架通知](/cn/articles/guide-to-submitting-a-dmca-takedown-notice)并将其发送到 GitHub。 如果根据法律要求，该下架通知足够详细（如[操作指南](/cn/articles/guide-to-submitting-a-dmca-takedown-notice)中所述），我们会[发布通知](#d-transparency)至我们的[公共存储库](https://github.com/github/dmca)，并将链接传送给受影响的用户。
+2. **版权所有者发送通知。** 进行调查后，版权所有者编写[下架通知](/zh/articles/guide-to-submitting-a-dmca-takedown-notice)并将其发送到 GitHub。 如果根据法律要求，该下架通知足够详细（如[操作指南](/zh/articles/guide-to-submitting-a-dmca-takedown-notice)中所述），我们会[发布通知](#d-transparency)至我们的[公共存储库](https://github.com/github/dmca)，并将链接传送给受影响的用户。
 
 3. **GitHub 要求用户进行更改。** 如果通知指出存储库或包的整个内容都侵权，我们将跳到步骤 6 并迅速禁用整个存储库或包。 否则，由于 GitHub 无法禁止访问存储库中的特定文件，我们将联系创建该存储库的用户，给他们 1 个工作日左右的时间来删除或修改通知中指定的内容。 如果我们给用户进行更改的机会，我们会通知版权所有者。 由于包是不可变的，即使一个包只有一部分内容侵权，GitHub 也将需要禁用整个包，但我们允许在删除侵权部分后恢复。
 
@@ -85,14 +85,14 @@ DMCA 框架有点像在课堂上传纸条。 版权所有者向 GitHub 提交对
 
 6. **GitHub 可能禁止访问内容。** 在以下情况下，GitHub 将禁用用户内容：(i) 版权所有者声称对用户整个存储库或包的内容都拥有版权（如步骤 3 所述）；(ii) 用户在获得更改机会后没有进行任何更改（如步骤 4 所述）；或 (iii) 版权所有者在用户有机会进行更改后重申了下架通知。 如果版权所有者选择 *修改* 通知，我们将回到步骤 2，将修改的通知当作新通知来重复这个流程。
 
-7. **用户可发送抗辩通知。** 我们鼓励用户在其内容被禁用后就其选择权咨询律师。 如果用户认为其内容是由于错误或错误指认而被禁用，他们可以向我们发送[抗辩通知](/cn/articles/guide-to-submitting-a-dmca-counter-notice)。 与原通知一样，我们将确保抗辩通知足够详细（如[操作指南](/cn/articles/guide-to-submitting-a-dmca-counter-notice)中所述）。 如果满足要求，我们会将其[发布](#d-transparency)到[公共存储库](https://github.com/github/dmca)，然后向版权所有者发送链接以传达该通知。
+7. **用户可发送抗辩通知。** 我们鼓励用户在其内容被禁用后就其选择权咨询律师。 如果用户认为其内容是由于错误或错误指认而被禁用，他们可以向我们发送[抗辩通知](/zh/articles/guide-to-submitting-a-dmca-counter-notice)。 与原通知一样，我们将确保抗辩通知足够详细（如[操作指南](/zh/articles/guide-to-submitting-a-dmca-counter-notice)中所述）。 如果满足要求，我们会将其[发布](#d-transparency)到[公共存储库](https://github.com/github/dmca)，然后向版权所有者发送链接以传达该通知。
 
 8. **版权所有者可提出法律诉讼。** 如果版权所有者在收到抗辩通知后，希望继续禁用内容，则他们需要发起法律诉讼，寻求通过法院命令制止用户从事与 GitHub 上的内容相关的侵权活动。 也就是说，用户可能会被起诉。 如果版权所有者在 10-14 天内没有向 GitHub 发出通知（发送向主管法院提交的有效法律投诉的副本），GitHub 将重新启用被禁用的内容。
 
 [](#b-what-about-forks-or-whats-a-fork)B. 如何处理复刻 (Fork)？ （或者什么是复刻？）
 ----------
 
-GitHub 的最佳功能之一是用户能够“复刻”彼此的存储库。 这意味着什么？ 从本质上讲，这意味着用户可以将 GitHub 上的项目复制到自己的存储库中。 在许可或法律允许的情况下，用户可以对该复刻进行更改然后将其推送到主项目或只保留为自己的项目变体。 每个此类副本都是原存储库的“[复刻](/cn/articles/github-glossary#fork)”，或者说原存储库也可以称为复刻的“父存储库”。
+GitHub 的最佳功能之一是用户能够“复刻”彼此的存储库。 这意味着什么？ 从本质上讲，这意味着用户可以将 GitHub 上的项目复制到自己的存储库中。 在许可或法律允许的情况下，用户可以对该复刻进行更改然后将其推送到主项目或只保留为自己的项目变体。 每个此类副本都是原存储库的“[复刻](/zh/articles/github-glossary#fork)”，或者说原存储库也可以称为复刻的“父存储库”。
 
 GitHub 在禁用父存储库时 *不会* 自动禁用复刻。 这是因为复刻属于不同的用户，可能进行了重大更改，也可能获得了许可或者其使用方式符合合理使用原则。 GitHub 不会对复刻进行任何独立调查。 我们希望版权所有者进行这种调查，如果他们认为复刻也侵权，则应在其下架通知中明确包括这些复刻。
 
@@ -101,7 +101,7 @@ GitHub 在禁用父存储库时 *不会* 自动禁用复刻。 这是因为复�
 [](#c-what-about-circumvention-claims)C. 如何处理规避索赔？
 ----------
 
-DMCA 禁止[规避技术措施](https://www.copyright.gov/title17/92chap12.html)，以有效控制对受版权保护作品的访问。 鉴于这些类型的索赔往往技术性很强，GitHub 要求索赔人提供[关于这些索赔的详细信息](/cn/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology)，我们会进行更广泛的审查。
+DMCA 禁止[规避技术措施](https://www.copyright.gov/title17/92chap12.html)，以有效控制对受版权保护作品的访问。 鉴于这些类型的索赔往往技术性很强，GitHub 要求索赔人提供[关于这些索赔的详细信息](/zh/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology)，我们会进行更广泛的审查。
 
 规避索赔必须包括以下有关现有技术措施以及被指控项目如何规避这些措施的详细信息。 具体来说，发送给 GitHub 的通知必须包含详细的说明，描述：
 
@@ -139,8 +139,8 @@ GitHub 的政策是，在适当的情况下，自行决定禁用和终止可能�
 
 如果您准备提交通知或抗辩通知，请参阅：
 
-* [如何提交 DMCA 通知](/cn/articles/guide-to-submitting-a-dmca-takedown-notice)
-* [如何提交 DMCA 抗辩通知](/cn/articles/guide-to-submitting-a-dmca-counter-notice)
+* [如何提交 DMCA 通知](/zh/articles/guide-to-submitting-a-dmca-takedown-notice)
+* [如何提交 DMCA 抗辩通知](/zh/articles/guide-to-submitting-a-dmca-counter-notice)
 
 [](#learn-more-and-speak-up)深入了解并发表意见
 ----------

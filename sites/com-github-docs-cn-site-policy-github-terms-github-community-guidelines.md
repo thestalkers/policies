@@ -2,7 +2,7 @@ GitHub 社区指导方针 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -26,9 +26,9 @@ GitHub 社区指导方针
 
 我们多样化的用户群带来了不同的观点、想法和经验，从上周刚创建第一个“Hello World”项目的初学者到世界上最知名的软件开发人员，涵盖各种各样的人群。 我们致力于将 GitHub 营造成一个兼容并蓄的环境，让我们社区的参与者可以带来不同的声音和观点，同时维护一个让开发人员可以出色完成工作的安全环境。
 
-通过概述我们认为 GitHub 上[安全、热情和高效的社区](https://opensource.guide/building-community/)看起来是什么样子，我们希望帮助您了解如何根据我们的[服务条款](/cn/github/site-policy/github-terms-of-service)和[可接受使用政策](/cn/github/site-policy/github-acceptable-use-policies)，在我们的平台上进行最佳互动和协作。
+通过概述我们认为 GitHub 上[安全、热情和高效的社区](https://opensource.guide/building-community/)看起来是什么样子，我们希望帮助您了解如何根据我们的[服务条款](/zh/github/site-policy/github-terms-of-service)和[可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)，在我们的平台上进行最佳互动和协作。
 
-我们鼓励社区成员清楚地传达期望，尽可能[审核](#what-if-something-or-someone-offends-you)他们的项目，并[举报](https://github.com/contact/report-abuse)任何可能违反我们[政策](/cn/github/site-policy/github-terms-of-service)的内容。 GitHub 工作人员将调查任何有关滥用行为的举报，并可能审核网站上我们认为违反我们服务条款的公开内容。
+我们鼓励社区成员清楚地传达期望，尽可能[审核](#what-if-something-or-someone-offends-you)他们的项目，并[举报](https://github.com/contact/report-abuse)任何可能违反我们[政策](/zh/github/site-policy/github-terms-of-service)的内容。 GitHub 工作人员将调查任何有关滥用行为的举报，并可能审核网站上我们认为违反我们服务条款的公开内容。
 
 [](#maintaining-a-strong-community)维护强大的社区
 ----------
@@ -46,15 +46,15 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 虽然有些社区成员之间的分歧可以通过互相尊重的方式直接沟通解决，但我们知道情况并非总是如此。 我们鼓励社区成员在认为自己遇到的内容或活动违反了我们的政策时，及时[告知我们](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified)。 不过，如果您在网站上遇到令人反感的某件事或某个人，可以通过 GitHub 提供的以下几种方式来采取行动：
 
-* **传达期望** - 维护者可以设置社区特定的指导方针，以帮助用户了解如何与其项目进行交互，例如，在存储库的 README、[CONTRIBUTING 文件](/cn/articles/setting-guidelines-for-repository-contributors)或 [专门的行为准则](/cn/articles/adding-a-code-of-conduct-to-your-project)中。 您可以在[此处](/cn/communities)找到有关建设社区的更多信息。
+* **传达期望** - 维护者可以设置社区特定的指导方针，以帮助用户了解如何与其项目进行交互，例如，在存储库的 README、[CONTRIBUTING 文件](/zh/articles/setting-guidelines-for-repository-contributors)或 [专门的行为准则](/zh/articles/adding-a-code-of-conduct-to-your-project)中。 您可以在[此处](/zh/communities)找到有关建设社区的更多信息。
 
-* **审核评论** - 对存储库拥有 [写入权限](/cn/articles/repository-permission-levels-for-an-organization)的用户可以 [编辑、删除或隐藏](/cn/communities/moderating-comments-and-conversations/managing-disruptive-comments)任何人对提交、拉取请求和议题的评论。 对存储库具有读取权限的任何人都可查看评论的编辑历史记录。 评论作者和对存储库具有写入权限的人员还可以从[评论的编辑历史记录](/cn/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)中删除敏感信息。 如果有很多活动，审核项目可能会让人感觉像是一项艰巨的任务，但您可以[添加协作者](/cn/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)以帮助您管理社区。
+* **审核评论** - 对存储库拥有 [写入权限](/zh/articles/repository-permission-levels-for-an-organization)的用户可以 [编辑、删除或隐藏](/zh/communities/moderating-comments-and-conversations/managing-disruptive-comments)任何人对提交、拉取请求和议题的评论。 对存储库具有读取权限的任何人都可查看评论的编辑历史记录。 评论作者和对存储库具有写入权限的人员还可以从[评论的编辑历史记录](/zh/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)中删除敏感信息。 如果有很多活动，审核项目可能会让人感觉像是一项艰巨的任务，但您可以[添加协作者](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)以帮助您管理社区。
 
-* **锁定对话** - 如果议题、拉取请求或提交的讨论失控、偏离主题或者违反项目的行为准则或 GitHub 政策，则所有者、协作者和其他具有写入权限的人可以临时或永久 [锁定](/cn/articles/locking-conversations)对话。
+* **锁定对话** - 如果议题、拉取请求或提交的讨论失控、偏离主题或者违反项目的行为准则或 GitHub 政策，则所有者、协作者和其他具有写入权限的人可以临时或永久 [锁定](/zh/articles/locking-conversations)对话。
 
-* **阻止用户** - 如果您遇到某个您不希望与之交互的用户，则可以 [从您的个人帐户阻止该用户](/cn/articles/blocking-a-user-from-your-personal-account)或 [从您的组织阻止该用户](/cn/articles/blocking-a-user-from-your-organization)。
+* **阻止用户** - 如果您遇到某个您不希望与之交互的用户，则可以 [从您的个人帐户阻止该用户](/zh/articles/blocking-a-user-from-your-personal-account)或 [从您的组织阻止该用户](/zh/articles/blocking-a-user-from-your-organization)。
 
-* **限制交互** - 如果您的公共项目受到不必要的关注、收到挑衅信息、收到垃圾邮件或其他侮辱性信息，您可以选择设置 [临时交互限制](/cn/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)，以阻止某些用户与您的存储库进行交互。 您甚至可以设置[代码审查限制](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)，以保障对您项目的高质量参与。
+* **限制交互** - 如果您的公共项目受到不必要的关注、收到挑衅信息、收到垃圾邮件或其他侮辱性信息，您可以选择设置 [临时交互限制](/zh/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)，以阻止某些用户与您的存储库进行交互。 您甚至可以设置[代码审查限制](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)，以保障对您项目的高质量参与。
 
 虽然我们热切希望授权维护人员会审核他们自己的项目，但如果您在应对某个局面时需要额外的支持，请通过 [报告滥用](https://github.com/contact/report-abuse) 与我们联系。
 
@@ -80,11 +80,11 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 [](#appeal-and-reinstatement)申诉和恢复
 ----------
 
-如果您的内容或帐户已被禁用或限制，而您希望恢复或提出申诉，请参阅我们的[申诉和恢复页面](/cn/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)，了解流程信息，并使用我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)提交申请。
+如果您的内容或帐户已被禁用或限制，而您希望恢复或提出申诉，请参阅我们的[申诉和恢复页面](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)，了解流程信息，并使用我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)提交申请。
 
 [](#legal-notices)法律声明
 ----------
 
 我们将这些社区指导方针专用于公共领域，让所有人都可以根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整等等。
 
-这些只是指导方针；不影响我们的[服务条款](/cn/articles/github-terms-of-service)，也不打算作为完整的清单。 根据这些条款，GitHub 可全权决定删除任何内容或终止任何违反我们[可接受使用政策](/cn/articles/github-acceptable-use-policies)的活动帐户。 这些指导方针说明了我们何时行使该自由裁量权。
+这些只是指导方针；不影响我们的[服务条款](/zh/articles/github-terms-of-service)，也不打算作为完整的清单。 根据这些条款，GitHub 可全权决定删除任何内容或终止任何违反我们[可接受使用政策](/zh/articles/github-acceptable-use-policies)的活动帐户。 这些指导方针说明了我们何时行使该自由裁量权。

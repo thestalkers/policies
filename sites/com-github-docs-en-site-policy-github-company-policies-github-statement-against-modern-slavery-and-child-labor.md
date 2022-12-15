@@ -49,7 +49,6 @@ GitHub offers free and paid software and web-based software as a service to cust
 
 * GitHub.com: web-based collaboration and code-hosting platform
 * GitHub Enterprise: on-premises collaboration and code hosting software
-* Atom: text editor
 * Electron: framework for writing cross-platform desktop apps
 * GitHub Desktop: desktop app for accessing GitHub.com and GitHub Enterprise
 

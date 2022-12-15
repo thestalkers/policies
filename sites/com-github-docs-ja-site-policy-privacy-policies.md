@@ -10,7 +10,6 @@
 ==========
 
 * [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)
-* [グローバル プライバシー規定](/ja/site-policy/privacy-policies/global-privacy-practices)
 * [GitHub の下請処理者と Cookie](/ja/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [GitHub Codespaces プライバシーに関する声明](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [GitHub 応募者プライバシー ポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)

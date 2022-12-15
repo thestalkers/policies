@@ -2,7 +2,7 @@ GitHub 服务条款 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -89,7 +89,7 @@ GitHub 服务条款
 **短版本：\***我们将在整个协议中使用这些基本术语，它们具有特定含义。在我们使用每个术语时，您应该了解我们表达的意思。我们不会对定义进行检验，但它仍然是有用的信息。\*
 
 1. “帐户”代表您与 GitHub 之间的法律关系。 “个人帐户”代表个人用户登录和使用服务的授权，并且在 GitHub 上被视为用户的身份。 “组织”是指可能与一个实体或者与一个或多个用户相关的共享工作空间，其中多个用户可以同时跨多个项目进行协作。 个人帐户可以是任意数量组织的成员。
-2. “协议”是一种统称，包括本文档中包含或引用的所有条款、条件、通知（“服务条款”或“条款”）和所有其他操作规则、政策（包括 GitHub 隐私声明，请参阅 [github.com/site/privacy](https://github.com/site/privacy))，以及我们可能不时在网站上发布的程序。 我们的大多数站点政策可在 [docs.github.com/categories/site-policy](/cn/categories/site-policy) 上查看。
+2. “协议”是一种统称，包括本文档中包含或引用的所有条款、条件、通知（“服务条款”或“条款”）和所有其他操作规则、政策（包括 GitHub 隐私声明，请参阅 [github.com/site/privacy](https://github.com/site/privacy))，以及我们可能不时在网站上发布的程序。 我们的大多数站点政策可在 [docs.github.com/categories/site-policy](/zh/categories/site-policy) 上查看。
 3. “Beta 预览版”是指标识为 Alpha 版、Beta 版、预览版、抢先体验版或评估版，或者具有类似含义的字词或短语的软件、服务或功能。
 4. “内容”是指通过网站提供或显示的内容，包括但不限于通过网站或服务提供的代码、文本、数据、文章、图像、照片、图形、软件、应用程序、程序包、设计、功能及其他材料。 “内容”也包括服务。 “用户生成的内容”是由我们的用户创建或上传的书面或其他形式的内容。 “您的内容”是您创建或拥有的内容。
 5. “GitHub”和“我们”是指 GitHub Inc.，以及我们的附属公司、董事、子公司、合同工、许可人、高管、代理和雇员。
@@ -121,7 +121,7 @@ GitHub 服务条款
 * 一个人或一个法律实体最多可以拥有一个免费帐户（如果您选择同时控制一个机器帐户，可以，但是它只能用于运行机器）。
 * 您必须年满 13 周岁。 虽然我们很高兴看到优秀的年轻编程员热衷于学习编程，但我们必须遵守美国法律。 GitHub 并未针对 13 周岁以下的儿童定制服务，因此我们不允许任何 13 周岁以下的用户使用我们的服务。 如果我们发现任何用户未满 13 周岁，我们将[立即终止该用户的帐户](#l-cancellation-and-termination)。 如果您是美国以外的国家/地区的居民，您所在国家/地区规定的最低年龄可能会更大；在这种情况下，您有责任遵守您所在国家/地区的法律。
 * 您的登录名只能由一个人使用，即不允许多个人共用一个登录名。 付费组织只能在订阅允许的范围内向多个个人帐户提供访问权限。
-* 对 GitHub 的使用不得违反美国或任何其他适用司法管辖区的出口管制或制裁法律。 如果您是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或被美国政府机构实施的类似封锁或被拒方禁令所限制的个人，或者代表他们工作，则您不得使用 GitHub。 GitHub 可能会根据美国政府的授权，允许某些受制裁国家或地区的人员访问某些 GitHub 服务。 有关更多信息，请参阅我们的[出口管制政策](/cn/articles/github-and-export-controls)。
+* 对 GitHub 的使用不得违反美国或任何其他适用司法管辖区的出口管制或制裁法律。 如果您是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或被美国政府机构实施的类似封锁或被拒方禁令所限制的个人，或者代表他们工作，则您不得使用 GitHub。 GitHub 可能会根据美国政府的授权，允许某些受制裁国家或地区的人员访问某些 GitHub 服务。 有关更多信息，请参阅我们的[出口管制政策](/zh/articles/github-and-export-controls)。
 
 ### [](#4-account-security)4.帐户安全 ###
 
@@ -135,9 +135,9 @@ GitHub 服务条款
 
 在某些情况下，第三方的条款可能适用于您对 GitHub 的使用。 例如，您可能是 GitHub 上具有自有条款或许可协议的组织的成员；您可能下载与 GitHub 相集成的应用程序；或者您可能使用 GitHub 来对另一项服务进行身份验证。 请注意，虽然这些条款是我们与您完整协商达成的，但其他方的条款也会制约他们与您的关系。
 
-如果您是政府用户或者在政府部门访问或使用 GitHub 服务，则 [GitHub 服务条款政府修订](/cn/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users)适用于您，并且您同意其条款。
+如果您是政府用户或者在政府部门访问或使用 GitHub 服务，则 [GitHub 服务条款政府修订](/zh/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users)适用于您，并且您同意其条款。
 
-如果您注册了 GitHub Enterprise Cloud，则 [Enterprise Cloud 附录](/cn/articles/github-enterprise-cloud-addendum)适用于您，并且您同意其条款。
+如果您注册了 GitHub Enterprise Cloud，则 [Enterprise Cloud 附录](/zh/articles/github-enterprise-cloud-addendum)适用于您，并且您同意其条款。
 
 [](#c-acceptable-use)C. 可接受的使用方式
 ----------
@@ -146,7 +146,7 @@ GitHub 服务条款
 
 您对网站和服务的使用不得违反任何适用法律，包括版权或商标法、出口管制或制裁法律，或您所在司法管辖区的其他法律。 您有责任确保您对服务的使用符合法律和任何适用条例。
 
-您同意在任何情况下都不会违反我们的[可接受使用政策](/cn/articles/github-acceptable-use-policies)或[社区准则](/cn/articles/github-community-guidelines)。
+您同意在任何情况下都不会违反我们的[可接受使用政策](/zh/articles/github-acceptable-use-policies)或[社区准则](/zh/articles/github-community-guidelines)。
 
 [](#d-user-generated-content)D. 用户生成内容
 ----------
@@ -159,7 +159,7 @@ GitHub 服务条款
 
 ### [](#2-github-may-remove-content)2.GitHub 可删除内容 ###
 
-我们有权自行决定拒绝或删除我们认为违反了任何法律或 [GitHub 条款或政策](/cn/github/site-policy)的任何用户生成内容。 GitHub Mobile 上显示的用户生成内容可能受移动应用商店附加条款的约束。
+我们有权自行决定拒绝或删除我们认为违反了任何法律或 [GitHub 条款或政策](/zh/github/site-policy)的任何用户生成内容。 GitHub Mobile 上显示的用户生成内容可能受移动应用商店附加条款的约束。
 
 ### [](#3-ownership-of-content-right-to-post-and-license-grants)3.内容所有权、发布权利和许可授予 ###
 
@@ -177,7 +177,7 @@ GitHub 服务条款
 
 您公开发布的任何用户生成内容（包括议题、评论以及对其他用户存储库的贡献）都可供其他人查看。 将您的存储库设置为可公开查看，即表示您同意允许他人查看和“复刻”您的存储库（这意味着他人可以从他们控制的存储库自行复制您存储库中的内容）。
 
-如果您将页面和存储库设置为可公开查看，则表示您向 GitHub 的每个用户授予非独占的全球许可，允许他们通过 GitHub 服务使用、显示和执行您的内容，以及通过 GitHub 的功能（例如通过复刻）在允许的情况下只在 GitHub 上复制您的内容。 如果您[采用许可](/cn/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository)，您可授予进一步的权利。 如果您上传的内容并非由您创建或拥有，则您负责确保上传的内容根据向其他 GitHub 用户授予这些权限的条款进行许可。
+如果您将页面和存储库设置为可公开查看，则表示您向 GitHub 的每个用户授予非独占的全球许可，允许他们通过 GitHub 服务使用、显示和执行您的内容，以及通过 GitHub 的功能（例如通过复刻）在允许的情况下只在 GitHub 上复制您的内容。 如果您[采用许可](/zh/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository)，您可授予进一步的权利。 如果您上传的内容并非由您创建或拥有，则您负责确保上传的内容根据向其他 GitHub 用户授予这些权限的条款进行许可。
 
 ### [](#6-contributions-under-repository-license)6.存储库许可下的贡献 ###
 
@@ -206,22 +206,22 @@ GitHub 将私有存储库的内容视为您的机密。 GitHub 将保护私有�
 
 ### [](#3-access)3.访问 ###
 
-GitHub 工作人员只能在我们的[隐私声明](/cn/github/site-policy/github-privacy-statement#repository-contents)所述的情况下访问您的私有存储库的内容。
+GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/github-privacy-statement#repository-contents)所述的情况下访问您的私有存储库的内容。
 
 您可选择对您的私有存储库启用其他访问权限。 例如：
 
 * 您可以启用需要对私有存储库中的内容拥有额外权限的各种 GitHub 服务或功能。 根据服务或功能的不同，这些权利可能有所不同，但 GitHub 仍会将您的私有存储库内容视为机密信息。 如果这些服务或功能除了我们提供 GitHub 服务所需的权利之外，还需要其他权利，我们将对这些权利进行解释。
 
-此外，我们可能会[按法律要求](/cn/github/site-policy/github-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
+此外，我们可能会[按法律要求](/zh/github/site-policy/github-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
 
-除非[出于法律披露目的](/cn/github/site-policy/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
+除非[出于法律披露目的](/zh/github/site-policy/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
 
 [](#f-copyright-infringement-and-dmca-policy)F. 版权侵犯和 DMCA 政策
 ----------
 
-如果您认为我们的网站上的内容侵犯了您的版权，请按照我们的[千禧年数字著作权法案](/cn/articles/dmca-takedown-policy)联系我们。 如果您是版权所有者并且您认为 GitHub 上的内容侵犯了您的权利，请通过[我们便利的 DMCA 表](https://github.com/contact/dmca)联系我们，或发送电子邮件到 [copyright@github.com](mailto:copyright@github.com)。 发出虚假或无用的下架通知可能会产生法律后果。 在发送下架请求之前，您必须考虑合法使用，如公平使用和许可使用。
+如果您认为我们的网站上的内容侵犯了您的版权，请按照我们的[千禧年数字著作权法案](/zh/articles/dmca-takedown-policy)联系我们。 如果您是版权所有者并且您认为 GitHub 上的内容侵犯了您的权利，请通过[我们便利的 DMCA 表](https://github.com/contact/dmca)联系我们，或发送电子邮件到 [copyright@github.com](mailto:copyright@github.com)。 发出虚假或无用的下架通知可能会产生法律后果。 在发送下架请求之前，您必须考虑合法使用，如公平使用和许可使用。
 
-我们将终止对此政策[反复违反之人](/cn/articles/dmca-takedown-policy/#e-repeated-infringement)的帐户。
+我们将终止对此政策[反复违反之人](/zh/articles/dmca-takedown-policy/#e-repeated-infringement)的帐户。
 
 [](#g-intellectual-property-notice)G. 知识产权声明
 ----------
@@ -260,7 +260,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **短版本：\***您需要遵守 GitHub 不同功能和产品的特定条款和条件，并且在同意本协议时也同意补充条款和条件。\*
 
-某些服务功能可能受 GitHub 附加产品条款中规定的该功能或产品特定附加条款的约束。 访问或使用服务即表示您也同意 [GitHub 附加产品条款](/cn/github/site-policy/github-additional-product-terms)。
+某些服务功能可能受 GitHub 附加产品条款中规定的该功能或产品特定附加条款的约束。 访问或使用服务即表示您也同意 [GitHub 附加产品条款](/zh/github/site-policy/github-additional-product-terms)。
 
 [](#j-beta-previews)J. Beta 预览版
 ----------
@@ -303,7 +303,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **基于计划的付款** 对于按月付款或按年付款计划，服务账单将以每月或每年为基础提前开具，并且不予退款。 对于开设的帐户，不提供部分服务月度的退款或退单、降级退款或未使用月份退款；但服务将在整个已付费的计费期间保持有效。 为了平等对待每一个人，将不会有例外情况。
 
-**基于使用情况的付款** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择购买超出计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 我们将定期收取这些购买所产生月度付款的欠付款项。 请参阅 [GitHub 附加产品条款，了解详情](/cn/github/site-policy/github-additional-product-terms)。
+**基于使用情况的付款** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择购买超出计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 我们将定期收取这些购买所产生月度付款的欠付款项。 请参阅 [GitHub 附加产品条款，了解详情](/zh/github/site-policy/github-additional-product-terms)。
 
 **开票** 对于开具发票的用户，用户同意以美元全额预付费用，没有任何形式的扣减或抵销。 用户必须在 GitHub 开票日期后的三十 (30) 天内支付费用。 除非本协议另有规定，否则根据本协议应付的金额不可退款。 如果用户未能按时支付任何费用，则除了依据法律或衡平法采取任何其他行动之外，GitHub 还有权 (i) 以每月 1.0% 或法律允许的最高利率（取较小者）对逾期未付款项收取利息，并收取所有恢复费用，以及 (ii) 终止适用订单。 用户自行负责本协议造成或与之相关的所有税款、费用、关税和政府评估（基于 GitHub 净收入的税款除外）。
 
@@ -322,7 +322,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### [](#1-account-cancellation)1.帐户取消 ###
 
-您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/cn/articles/how-do-i-cancel-my-account)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
+您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/articles/how-do-i-cancel-my-account)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
 
 ### [](#2-upon-cancellation)2.取消后 ###
 
@@ -351,7 +351,7 @@ GitHub 有权随时暂停或终止您对网站全部或任何部分的访问，�
 
 ### [](#2-legal-notice-to-github-must-be-in-writing)2.向 GitHub 发出的法律声明必须采用书面形式 ###
 
-在合同或者任何法律或条例要求向 GitHub 发出通知的任何情况下，通过电子邮件或 GitHub 支持部门的消息发送系统进行的通信不构成向 GitHub 或者其任何高管、员工、代理或代表发出的法律声明。 向 GitHub 发出的法律声明必须采用书面形式，并且[提供给 GitHub 的法定代理人](/cn/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests)。
+在合同或者任何法律或条例要求向 GitHub 发出通知的任何情况下，通过电子邮件或 GitHub 支持部门的消息发送系统进行的通信不构成向 GitHub 或者其任何高管、员工、代理或代表发出的法律声明。 向 GitHub 发出的法律声明必须采用书面形式，并且[提供给 GitHub 的法定代理人](/zh/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests)。
 
 ### [](#3-no-phone-support)3.无电话支持 ###
 

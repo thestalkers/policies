@@ -2,7 +2,7 @@ GitHub 上的欺凌和骚扰 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -12,7 +12,7 @@ GitHub 上的欺凌和骚扰
 我们不容忍任何形式的骚扰、欺凌或虐待，无论是直接还是鼓励他人参与违禁行为。 其中包括：
 
 * 针对性的人身攻击
-* 以近乎于虐待的方式实施或策划[破坏性](/cn/github/site-policy/github-disrupting-the-experience-of-other-users)活动
+* 以近乎于虐待的方式实施或策划[破坏性](/zh/github/site-policy/github-disrupting-the-experience-of-other-users)活动
 * 以一种会导致威胁的方式关注平台上的其他用户
 * 发出针对他人的性骚扰或性评论
 * 以煽动冲突或破坏真诚讨论的方式虚伪地参与对话

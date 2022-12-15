@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-[](/cn)[GitHub Docs](/cn)
+[](/zh)[GitHub Docs](/zh)
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。有关最新信息，请访问[英语文档](/en)。
 
@@ -65,24 +65,24 @@
 GitHub 使用 [Git 版本控制系统](https://git-scm.com/video/what-is-version-control)托管数百万个数据存储库。
 GitHub 上的公共存储库或私有存储库最常用于软件开发项目，但也常用于托管各种类型的内容。
 
-* [**用户**](/cn/articles/github-glossary#user) - 用户在我们的系统中以个人 GitHub 帐户的形式呈现。
+* [**用户**](/zh/articles/github-glossary#user) - 用户在我们的系统中以个人 GitHub 帐户的形式呈现。
   每个用户都有自己的个人资料，可以拥有多个存储库。
   用户可以创建或受邀加入组织，也可以在其他用户的存储库上进行协作。
 
-* [**协作者**](/cn/articles/github-glossary#collaborator) - 协作者是受存储库所有者邀请提供贡献的用户，有权读取和写入存储库。
+* [**协作者**](/zh/articles/github-glossary#collaborator) - 协作者是受存储库所有者邀请提供贡献的用户，有权读取和写入存储库。
 
-* [**组织**](/cn/articles/github-glossary#organization) - 组织是由两个或以上用户组成的组，通常对应实际的组织，如企业或项目。
+* [**组织**](/zh/articles/github-glossary#organization) - 组织是由两个或以上用户组成的组，通常对应实际的组织，如企业或项目。
   组织由用户管理，可以包含存储库和用户小组。
 
-* [**存储库**](/cn/articles/github-glossary#repository) - 存储库是最基本的 GitHub 元素之一。
+* [**存储库**](/zh/articles/github-glossary#repository) - 存储库是最基本的 GitHub 元素之一。
   最简单的方式是将它们想象为项目的文件夹。
   存储库包含所有项目文件（包括文档），并存储每个文件的修订历史记录。
   存储库可以有多个协作者，并由管理员自行决定是否可以公开查看。
 
-* [**页面**](/cn/articles/what-is-github-pages) - GitHub 页面是由 GitHub 免费托管的公共网页，用户可以轻松地通过存储在其存储库中的代码发布这些网页。
+* [**页面**](/zh/articles/what-is-github-pages) - GitHub 页面是由 GitHub 免费托管的公共网页，用户可以轻松地通过存储在其存储库中的代码发布这些网页。
   如果用户或组织有一个 GitHub 页面，该页面通常位于`https://username.github.io`这样的 URL 上，或其网页可能已映射到其自定义域名。
 
-* [**Gist**](/cn/articles/creating-gists) - Gist 是源代码或其他文本的片段，用户可用来存储想法或与朋友共享。
+* [**Gist**](/zh/articles/creating-gists) - Gist 是源代码或其他文本的片段，用户可用来存储想法或与朋友共享。
   像普通的 GitHub 存储库一样，Gist 也是通过 Git 创建的，所以它们会自动设置版本、可复刻、可下载。
   Gist 可以是公共的，也可以是秘密的（只能通过已知 URL 访问）。 公共 Gist 无法转换成秘密 Gist。
 
@@ -121,7 +121,7 @@ GitHub 上的公共存储库或私有存储库最常用于软件开发项目，�
 
   * 用户所属的组织（*取决于组织或用户偏好*）
 
-* []()**私人帐户数据** - GitHub 也收集和维护我们的[隐私政策](/cn/articles/github-privacy-statement)中概述的有关用户的特定私人信息。
+* []()**私人帐户数据** - GitHub 也收集和维护我们的[隐私政策](/zh/articles/github-privacy-statement)中概述的有关用户的特定私人信息。
   这可能包括：
 
   * 私人电子邮件地址
