@@ -14,3 +14,4 @@
 * [GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [GitHub Copilot for Business Privacy Statement](/zh/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
+* [GitHub Octernships Terms of Service](/zh/site-policy/privacy-policies/github-octernships-terms-of-service)

@@ -14,3 +14,4 @@ Directivas de Privacidad
 * [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [Directiva de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [GitHub Copilot for Business Privacy Statement](/es/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
+* [GitHub Octernships Terms of Service](/es/site-policy/privacy-policies/github-octernships-terms-of-service)
