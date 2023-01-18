@@ -4,12 +4,12 @@ Términos del Programa de Investigación de GitHub - GitHub Docs
 
 [](/es)[GitHub Docs](/es)
 
-Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, visite la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 Términos del Programa de Investigación de GitHub
 ==========
 
-En este artículo
+In this article
 ----------
 
 * [A. Sus Comentarios](#a-your-feedback)

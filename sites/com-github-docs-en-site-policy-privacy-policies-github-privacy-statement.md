@@ -358,7 +358,7 @@ United States
 
 [Privacy contact form](https://support.github.com/contact/privacy)
 
-**Github Data Protection Officer**
+**GitHub Data Protection Officer**
 
 c/o DP Dock DPO Services GmbH,
 Attn: GitHub BV, Gut Projensdorf,
