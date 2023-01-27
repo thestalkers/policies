@@ -13,7 +13,7 @@ Este compromisso se refere às contribuições do GitHub para o Git, o kernel do
 
 Nós nos baseamos em nossa declaração no [modelo](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Consulte o [Site do Compromisso de Cooperação GPL](https://gplcc.github.io/gplcc/) para saber como outras empresas, pessoas físicas e projetos podem adotar esse compromisso.
 
-[](#our-commitment)Nosso Compromisso
+[](#nosso-compromisso)[]()Nosso Compromisso
 ----------
 
 Antes de protocolar ou continuar mantendo qualquer processo legal ou requerimento judicial ou extrajudicial (que não seja uma Ação Defensiva) decorrente da rescisão de uma Licença Coberta, o GitHub se compromete a estender à pessoa física ou jurídica (“você”) acusada de violar a Licença Coberta as seguintes disposições sobre como sanar a violação e fazer seu restabelecimento, retirado da GPL versão 3. Como é usado aqui, o termo “esta Licença” significa a Licença Coberta específica que está sendo aplicada.

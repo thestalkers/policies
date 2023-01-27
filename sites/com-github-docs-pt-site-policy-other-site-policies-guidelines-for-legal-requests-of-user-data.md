@@ -274,4 +274,4 @@ O GitHub responderá imediatamente às solicitações emitidas por meio de um tr
 [](#dúvidas)[]()Dúvidas
 ----------
 
-Você tem outras dúvidas, comentários ou sugestões? Entre em contato pelo [Suporte do GitHub](https://support.github.com/contact?tags=docs-generic).
+Você tem outras dúvidas, comentários ou sugestões? Entre em contato pelo [GitHub Support](https://support.github.com/contact?tags=docs-generic).

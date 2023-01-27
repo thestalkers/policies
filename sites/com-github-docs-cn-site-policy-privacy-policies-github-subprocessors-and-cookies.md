@@ -27,7 +27,7 @@ GitHub 高度透明地公开我们将如何使用数据、如何收集数据以�
 
 当我们引入新的次级处理者处理我们用户的个人信息、删除次级处理者或更改我们使用次级处理者的方式时，我们将更新次级处理者列表。 您可以在 <https://github.com/privacy/subprocessors> 查看最新次级处理者列表并注册接收次级处理者列表更新。
 
-如果您对新的次级处理者有疑问或顾虑，我们乐意为您提供帮助。 请通过 [隐私联系人表](https://github.com/contact/privacy) 联系我们。
+如果您对新的次级处理者有疑问或顾虑，我们乐意为您提供帮助。 请通过 [Privacy contact form](https://github.com/contact/privacy) 联系我们。
 
 [](#github-上的-cookie)[]()GitHub 上的 Cookie
 ----------

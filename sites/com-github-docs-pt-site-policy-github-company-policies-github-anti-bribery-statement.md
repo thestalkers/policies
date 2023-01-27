@@ -12,11 +12,11 @@ Política Antissuborno do GitHub
 In this article
 ----------
 
-* [Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
+* [Políticas do GitHub que proíbem suborno](#políticas-do-github-que-proíbem-suborno)
 
-* [Treinamento para nossos funcionários](#training-for-our-employees)
+* [Treinamento para nossos funcionários](#treinamento-para-nossos-funcionários)
 
-* [Engajamento dos parceiros](#engaging-our-partners)
+* [Engajamento dos parceiros](#engajamento-dos-parceiros)
 
 O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são
 
@@ -27,7 +27,7 @@ O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive p
 
 De acordo com o [Banco Mundial](https://www.worldbank.org/en/topic/governance/brief/anti-corruption), em 2017, empresas e pessoas físicas pagaram cerca de US$ 1,5 trilhão em subornos a cada ano.
 
-[](#github-policies-prohibiting-bribery)Políticas do GitHub que proíbem suborno
+[](#políticas-do-github-que-proíbem-suborno)[]()Políticas do GitHub que proíbem suborno
 ----------
 
 O GitHub deixa claro nosso compromisso antissuborno em várias políticas da empresa. Como parte da família Microsoft, o GitHub também está comprometido com a Política Anticorrupção da Microsoft, que se aplica a todos os funcionários e prestadores de serviços do GitHub, além das políticas descritas aqui.
@@ -52,7 +52,7 @@ Os Padrões de Conduta do GitHub proíbem:
 
 A **Política de Presentes e Entretenimento** do GitHub explica que o suborno não é permitido em relação a viagens ou entretenimento e fornece exemplos para ilustrar a conduta imprópria. A política descreve presentes, viagens e despesas de entretenimento apropriados e impróprios; processos da empresa para doação de presentes por diretores, executivos, funcionários e agentes do GitHub e requisitos para manutenção de registros, multas e comunicação de violações. Inclui limites monetários claros para presentes juntamente com limitações anuais, com exceções limitadas para presentes aprovados pela administração apropriada. A política é clara e facilmente acessível aos funcionários e prestadores de serviços do GitHub.
 
-[](#training-for-our-employees)Treinamento para nossos funcionários
+[](#treinamento-para-nossos-funcionários)[]()Treinamento para nossos funcionários
 ----------
 
 Os funcionários do GitHub são obrigados a participar de treinamento sobre corrupção, incluindo suborno. Também fornecemos treinamento adicional para pessoas e equipes particularmente relevantes, como a equipe de vendas. O treinamento explica os elementos relevantes do U.S. Foreign Corrupt Practices Act e U.K. Bribery Act de 2010. Por exemplo:
@@ -78,7 +78,7 @@ Além disso, o treinamento abrange as políticas internas do GitHub relacionadas
 
 Enquanto a FCPA dos EUA está focada em interações com funcionários públicos, a U.K. Bribery Act é mais ampla e se estende ao suborno de qualquer pessoa, independentemente de ser um funcionário público. Ambas as leis podem se estender às ações do GitHub em outras partes do mundo. As políticas do GitHub proíbem subornar qualquer pessoa, em qualquer lugar do mundo.
 
-[](#engaging-our-partners)Engajamento dos parceiros
+[](#engajamento-dos-parceiros)[]()Engajamento dos parceiros
 ----------
 
 * Os **contratos de revenda padrão do GitHub com Parceiros de Canal** incluem cláusulas anticorrupção obrigatórias. Daqui para frente, o GitHub exige que nossos Parceiros de Canal se comprometam a cumprir esta Política Anticorrupção.

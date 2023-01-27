@@ -12,13 +12,13 @@ Guia para Enviar uma Notificação de Remoção da DMCA
 In this article
 ----------
 
-* [Antes de iniciar](#before-you-start)
+* [Antes de iniciar](#antes-de-iniciar)
 
-* [Sua reclamação deve...](#your-complaint-must-)
+* [Sua reclamação deve...](#sua-reclamação-deve)
 
-* [Reclamações sobre a Tecnologia Antievasão](#complaints-about-anti-circumvention-technology)
+* [Reclamações sobre a Tecnologia Antievasão](#reclamações-sobre-a-tecnologia-antievasão)
 
-* [Como enviar sua reclamação](#how-to-submit-your-complaint)
+* [Como enviar sua reclamação](#como-enviar-sua-reclamação)
 
 Este guia descreve as informações de que o GitHub precisa para processar uma solicitação de remoção da DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/articles/dmca-takedown-policy).
 
@@ -26,10 +26,10 @@ Devido ao tipo de conteúdo que o GitHub hospeda (principalmente código de soft
 
 Como em todas as questões jurídicas, é sempre melhor consultar um profissional a respeito de dúvidas ou situações específicas. Nós incentivamos você a fazê-lo antes de tomar qualquer medida que possa afetar seus direitos. Este guia não constitui aconselhamento jurídico e não deve ser considerado como tal.
 
-[](#before-you-start)Antes de iniciar
+[](#antes-de-iniciar)[]()Antes de iniciar
 ----------
 
-**\*Diga a verdade.** \_ A DMCA exige que você faça um juramento em relação aos fatos em sua reclamação de direitos autorais \_sob pena de perjúrio *. É crime federal mentir intencionalmente em uma declaração juramentada. (* Consulte\* o [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode ocasionar responsabilidade civil, ou seja, você pode ser processado por danos financeiros. A própria DMCA [prevê perdas e danos](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) contra qualquer pessoa que alegue falsamente que uma atividade ou um material é infrator.
+***Diga a verdade.*** O DMCA exige que você faça uma declaração juramentada em sua reclamação de direitos autorais *sob pena de perjúrio*. É crime federal mentir intencionalmente em uma declaração juramentada. (*Consulte o* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode ocasionar obrigações civis, ou seja, você pode ser processado por danos financeiros. A própria DMCA [prevê perdas e danos](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) contra qualquer pessoa que alegue falsamente que uma atividade ou um material é infrator.
 
 ***Investigar.*** Milhões de usuários e organizações dedicam-se aos projetos que criam e para os quais contribuem no GitHub. A apresentação de uma reclamação da DMCA contra tal projeto é uma alegação legal séria que traz consequências reais para as pessoas. Por isso, pedimos que você realize uma investigação completa e consulte um advogado antes de enviar uma remoção a fim de garantir que o uso realmente não seja permitido.
 
@@ -59,7 +59,7 @@ Esta lista não é completa, e é por isso que conversar com um profissional da 
 
 ***O GitHub não é o juiz.***O GitHub tem pouca atuação no processo além de determinar se as notificações atendem aos requisitos mínimos da DMCA. Cabe às partes (e seus advogados) avaliar o mérito dos requisitos judiciais e/ou extrajudiciais, lembrando que as notificações devem ser feitas sob pena de perjúrio.
 
-[](#your-complaint-must-)Sua reclamação deve...
+[](#sua-reclamação-deve)[]()Sua reclamação deve...
 ----------
 
 1. **Incluir a seguinte declaração: “Li e entendi o Guia do GitHub para protocolar uma notificação da DMCA.”** Não nos recusaremos a processar uma reclamação completa se você não incluir essa declaração. No entanto, saberemos que você não leu estas diretrizes e poderemos solicitar que você o faça.
@@ -82,19 +82,19 @@ Esta lista não é completa, e é por isso que conversar com um profissional da 
 
 9. **Incluir sua assinatura física ou eletrônica.**
 
-[](#complaints-about-anti-circumvention-technology)Reclamações sobre a Tecnologia Antievasão
+[](#reclamações-sobre-a-tecnologia-antievasão)[]()Reclamações sobre a Tecnologia Antievasão
 ----------
 
-A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso [Formulário de reivindicação de direitos autorais](https://github.com/contact/dmca). Uma alegação de evasão deve incluir os detalhes a seguir sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as está contornando. Especificamente, a notificação ao GitHub deve incluir declarações detalhadas que descrevam:
+A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso [Copyright claims form](https://github.com/contact/dmca). Uma alegação de evasão deve incluir os detalhes a seguir sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as está contornando. Especificamente, a notificação ao GitHub deve incluir declarações detalhadas que descrevam:
 
 1. Quais são as medidas técnicas;
 2. Como elas efetivamente controlam o acesso ao material protegido por direitos autorais; e
 3. Como o projeto acusado é projetado para contornar suas medidas de proteção tecnológica descritas anteriormente.
 
-[](#how-to-submit-your-complaint)Como enviar sua reclamação
+[](#como-enviar-sua-reclamação)[]()Como enviar sua reclamação
 ----------
 
-A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de reivindicação de direitos autorais](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Copyright claims form](https://github.com/contact/dmca).
 
 Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo da mensagem.
 

@@ -27,7 +27,7 @@ Cuando compartimos su información con subencargados externos, como nuestros dis
 
 Actualizaremos la lista de subencargados cuando incorporemos un nuevo subencargado que administre la información personal de nuestros usuarios, cuando eliminemos un subencargado o cuando cambiemos la forma en que usamos un subencargado. Puede consultar la lista actualizada de subencargados y suscribirse para recibir actualizaciones de la misma en <https://github.com/privacy/subprocessors>.
 
-Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Formulario de contacto sobre privacidad](https://github.com/contact/privacy).
+Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Privacy contact form](https://github.com/contact/privacy).
 
 [](#cookies-en-github)[]()Cookies en GitHub
 ----------

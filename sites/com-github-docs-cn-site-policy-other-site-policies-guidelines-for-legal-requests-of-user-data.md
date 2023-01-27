@@ -274,4 +274,4 @@ GitHub 将迅速答复美国法院通过司法互助条约（“MLAT）或委托
 [](#问题)[]()问题
 ----------
 
-您是否有其他问题、评论或建议？ 请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-generic)。
+您是否有其他问题、评论或建议？ 请联系 [GitHub Support](https://support.github.com/contact?tags=docs-generic)。
