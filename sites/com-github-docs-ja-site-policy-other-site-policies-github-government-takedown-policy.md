@@ -2,9 +2,11 @@ GitHub の行政機関による削除のポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [その他のサイト ポリシー/](/ja/site-policy/other-site-policies)
+* [GitHub の行政機関による削除のポリシー](/ja/site-policy/other-site-policies/github-government-takedown-policy)
 
 GitHub の行政機関による削除のポリシー
 ==========

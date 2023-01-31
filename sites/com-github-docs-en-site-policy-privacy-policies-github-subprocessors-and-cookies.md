@@ -2,7 +2,9 @@ GitHub Subprocessors and Cookies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Privacy Policies/](/en/site-policy/privacy-policies)
+* [GitHub Subprocessors and Cookies](/en/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 GitHub Subprocessors and Cookies
 ==========

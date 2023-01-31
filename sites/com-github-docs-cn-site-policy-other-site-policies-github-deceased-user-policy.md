@@ -2,9 +2,11 @@ GitHub 已故用户政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [其他站点政策/](/zh/site-policy/other-site-policies)
+* [GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub 已故用户政策
 ==========

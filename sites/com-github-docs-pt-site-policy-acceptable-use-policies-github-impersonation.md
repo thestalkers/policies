@@ -2,9 +2,11 @@ Falsificação de Identidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Política do Site/](/pt/site-policy)
+* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+* [Representação](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
 Falsificação de Identidade do GitHub
 ==========

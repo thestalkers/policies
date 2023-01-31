@@ -2,7 +2,9 @@ GitHub Privacy Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Privacy Policies/](/en/site-policy/privacy-policies)
+* [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement)
 
 GitHub Privacy Statement
 ==========

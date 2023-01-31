@@ -2,9 +2,11 @@ Directiva de obsequios y entretenimiento de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/es)[GitHub Docs](/es)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Directiva del Sitio/](/es/site-policy)
+* [Directivas de Empresa de GitHub/](/es/site-policy/github-company-policies)
+* [Directiva de obsequios y entretenimiento de GitHub](/es/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 Directiva de obsequios y entretenimiento de GitHub
 ==========

@@ -2,7 +2,9 @@ GitHub Hate Speech and Discrimination - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Acceptable Use Policies/](/en/site-policy/acceptable-use-policies)
+* [Hate Speech and Discrimination](/en/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub Hate Speech and Discrimination
 ==========

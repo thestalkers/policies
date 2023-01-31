@@ -2,9 +2,11 @@ GitHub 开源应用程序条款和条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [GitHub 条款/](/zh/site-policy/github-terms)
+* [GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub 开源应用程序条款和条件
 ==========

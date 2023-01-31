@@ -2,9 +2,11 @@ GitHub 礼品和招待政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [GitHub 公司政策/](/zh/site-policy/github-company-policies)
+* [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub 礼品和招待政策
 ==========

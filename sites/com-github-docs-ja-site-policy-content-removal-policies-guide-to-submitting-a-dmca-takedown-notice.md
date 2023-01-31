@@ -2,9 +2,11 @@ DMCA 削除通知提出ガイド - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [コンテンツ削除ポリシー/](/ja/site-policy/content-removal-policies)
+* [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 DMCA 削除通知提出ガイド
 ==========

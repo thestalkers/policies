@@ -2,9 +2,11 @@ GitHub 申诉和恢复 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
+* [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 GitHub 申诉和恢复
 ==========

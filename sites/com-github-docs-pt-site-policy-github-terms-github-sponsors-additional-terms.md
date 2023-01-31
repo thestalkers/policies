@@ -2,9 +2,11 @@ Termos Adicionais do GitHub Sponsors - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Política do Site/](/pt/site-policy)
+* [Termos do GitHub/](/pt/site-policy/github-terms)
+* [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
 Termos Adicionais do GitHub Sponsors
 ==========

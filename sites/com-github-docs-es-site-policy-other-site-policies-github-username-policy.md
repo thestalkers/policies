@@ -2,9 +2,11 @@ Directiva de Nombres de Usuario de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/es)[GitHub Docs](/es)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Directiva del Sitio/](/es/site-policy)
+* [Otras Directivas del Sitio/](/es/site-policy/other-site-policies)
+* [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
 Directiva de Nombres de Usuario de GitHub
 ==========

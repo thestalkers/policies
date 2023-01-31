@@ -2,9 +2,11 @@ GitHub のプライバシーに関する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [プライバシー ポリシー/](/ja/site-policy/privacy-policies)
+* [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)
 
 GitHub のプライバシーに関する声明
 ==========

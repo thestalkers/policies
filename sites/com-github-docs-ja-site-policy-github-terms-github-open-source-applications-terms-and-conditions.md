@@ -2,9 +2,11 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [GitHub 条件/](/ja/site-policy/github-terms)
+* [GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub オープン ソース アプリケーションの契約条件
 ==========

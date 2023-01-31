@@ -2,7 +2,9 @@ GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [GitHub Terms/](/en/site-policy/github-terms)
+* [GitHub Open Source Applications Terms and Conditions](/en/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub Open Source Applications Terms and Conditions
 ==========

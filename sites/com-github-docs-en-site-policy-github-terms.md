@@ -2,7 +2,8 @@ GitHub Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [GitHub Terms](/en/site-policy/github-terms)
 
 GitHub Terms
 ==========

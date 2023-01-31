@@ -2,9 +2,11 @@ Envío de solicitudes de eliminación de contenido - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/es)[GitHub Docs](/es)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Directiva del Sitio/](/es/site-policy)
+* [Directivas de Eliminación de Contenido/](/es/site-policy/content-removal-policies)
+* [Envío de solicitudes de eliminación de contenido](/es/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 Envío de solicitudes de eliminación de contenido
 ==========

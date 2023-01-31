@@ -2,9 +2,11 @@ GitHub 次级处理者和 Cookie - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [隐私政策/](/zh/site-policy/privacy-policies)
+* [GitHub 次级处理者和 Cookie](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 GitHub 次级处理者和 Cookie
 ==========

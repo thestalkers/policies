@@ -2,9 +2,11 @@ GitHub の登録開発者契約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [GitHub 条件/](/ja/site-policy/github-terms)
+* [GitHub の登録開発者契約](/ja/site-policy/github-terms/github-registered-developer-agreement)
 
 GitHub の登録開発者契約
 ==========

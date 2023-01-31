@@ -2,7 +2,9 @@ GitHub Misinformation and Disinformation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Acceptable Use Policies/](/en/site-policy/acceptable-use-policies)
+* [Misinformation and Disinformation](/en/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 GitHub Misinformation and Disinformation
 ==========

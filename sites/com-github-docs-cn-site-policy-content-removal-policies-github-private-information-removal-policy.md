@@ -2,9 +2,11 @@ GitHub 私人信息删除政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [内容删除政策/](/zh/site-policy/content-removal-policies)
+* [GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 GitHub 私人信息删除政策
 ==========

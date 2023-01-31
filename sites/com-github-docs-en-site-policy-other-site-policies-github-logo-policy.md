@@ -2,7 +2,9 @@ GitHub Logo Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Other Site Policies/](/en/site-policy/other-site-policies)
+* [GitHub Logo Policy](/en/site-policy/other-site-policies/github-logo-policy)
 
 GitHub Logo Policy
 ==========

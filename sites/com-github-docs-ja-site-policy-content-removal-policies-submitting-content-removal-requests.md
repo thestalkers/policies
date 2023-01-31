@@ -2,9 +2,11 @@
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [コンテンツ削除ポリシー/](/ja/site-policy/content-removal-policies)
+* [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 コンテンツ削除要求の提出
 ==========

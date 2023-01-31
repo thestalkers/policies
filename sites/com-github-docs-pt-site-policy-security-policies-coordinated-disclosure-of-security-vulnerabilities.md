@@ -2,9 +2,11 @@ Divulgação Coordenada de Vulnerabilidades de Segurança - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Política do Site/](/pt/site-policy)
+* [Políticas de Segurança/](/pt/site-policy/security-policies)
+* [Divulgação Coordenada de Vulnerabilidades de Segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Divulgação Coordenada de Vulnerabilidades de Segurança
 ==========

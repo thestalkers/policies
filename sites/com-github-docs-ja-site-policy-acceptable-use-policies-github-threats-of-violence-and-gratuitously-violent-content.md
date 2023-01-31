@@ -2,9 +2,11 @@ GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHub Doc
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [利用規約/](/ja/site-policy/acceptable-use-policies)
+* [Threats of Violence and Gratuitously Violent Content](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub の暴力の脅威と根拠のない暴力的コンテンツ
 ==========

@@ -2,7 +2,9 @@ GitHub Deceased User Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Other Site Policies/](/en/site-policy/other-site-policies)
+* [GitHub Deceased User Policy](/en/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub Deceased User Policy
 ==========

@@ -2,9 +2,11 @@ DMCA 抗辩通知提交指南 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/zh)[GitHub Docs](/zh)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [站点政策/](/zh/site-policy)
+* [内容删除政策/](/zh/site-policy/content-removal-policies)
+* [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 DMCA 抗辩通知提交指南
 ==========

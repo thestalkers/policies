@@ -2,7 +2,9 @@ Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Security Policies/](/en/site-policy/security-policies)
+* [Coordinated Disclosure of Security Vulnerabilities](/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Coordinated Disclosure of Security Vulnerabilities
 ==========

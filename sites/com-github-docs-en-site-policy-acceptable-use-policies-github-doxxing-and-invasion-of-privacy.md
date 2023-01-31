@@ -2,7 +2,9 @@ GitHub Doxxing and Invasion of Privacy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Acceptable Use Policies/](/en/site-policy/acceptable-use-policies)
+* [Doxxing and Invasion of Privacy](/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub Doxxing and Invasion of Privacy
 ==========

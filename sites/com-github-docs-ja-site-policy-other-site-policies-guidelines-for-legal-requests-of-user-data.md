@@ -2,9 +2,11 @@
 
 [Skip to main content](#main-content)
 
-[](/ja)[GitHub Docs](/ja)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [サイト ポリシー/](/ja/site-policy)
+* [その他のサイト ポリシー/](/ja/site-policy/other-site-policies)
+* [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========

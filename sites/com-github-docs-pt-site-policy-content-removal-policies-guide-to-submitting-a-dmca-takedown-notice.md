@@ -2,9 +2,11 @@ Guia para Enviar uma Notificação de Remoção da DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Política do Site/](/pt/site-policy)
+* [Políticas de Remoção de Conteúdo/](/pt/site-policy/content-removal-policies)
+* [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Guia para Enviar uma Notificação de Remoção da DMCA
 ==========

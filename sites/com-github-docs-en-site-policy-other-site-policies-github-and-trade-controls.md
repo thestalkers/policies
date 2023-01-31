@@ -2,7 +2,9 @@ GitHub and Trade Controls - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Other Site Policies/](/en/site-policy/other-site-policies)
+* [GitHub and Trade Controls](/en/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub and Trade Controls
 ==========

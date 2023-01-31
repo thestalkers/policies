@@ -2,7 +2,7 @@ Site policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy](/en/site-policy)
 
 Site policy
 ==========

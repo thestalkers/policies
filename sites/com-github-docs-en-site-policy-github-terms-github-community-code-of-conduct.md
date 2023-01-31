@@ -2,7 +2,9 @@ GitHub Community Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [GitHub Terms/](/en/site-policy/github-terms)
+* [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
 
 GitHub Community Code of Conduct
 ==========

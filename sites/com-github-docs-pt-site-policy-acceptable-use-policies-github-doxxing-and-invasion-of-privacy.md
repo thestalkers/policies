@@ -2,9 +2,11 @@ Vazamento por parte do GitHub e Invasão de Privacidade - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/pt)[GitHub Docs](/pt)
-
 We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+
+* [Política do Site/](/pt/site-policy)
+* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+* [Doxxing and Invasion of Privacy](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 Vazamento por parte do GitHub e Invasão de Privacidade
 ==========

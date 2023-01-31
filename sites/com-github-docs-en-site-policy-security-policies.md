@@ -2,7 +2,8 @@ Security Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[](/en)[GitHub Docs](/en)
+* [Site policy/](/en/site-policy)
+* [Security Policies](/en/site-policy/security-policies)
 
 Security Policies
 ==========
