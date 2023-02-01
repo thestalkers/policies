@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
-* [Bullying and Harassment](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 Bullying e Assédio no GitHub
 ==========

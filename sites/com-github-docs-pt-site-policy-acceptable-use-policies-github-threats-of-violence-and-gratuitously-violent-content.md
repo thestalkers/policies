@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
-* [Threats of Violence and Gratuitously Violent Content](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Ameaças de violência e conteúdo injustificadamente violento](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 Ameaças de Violência e Conteúdo Injustificadamente Violento do GitHub
 ==========

@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
-* [Misinformation and Disinformation](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Desinformação e informações incorretas](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 Desinformação e Informações Incorretas do GitHub
 ==========

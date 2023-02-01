@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
-* [Hate Speech and Discrimination](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Discriminação e discurso de ódio](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 Discriminação e Discurso de Ódio do GitHub
 ==========

@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
-* [Sexually Obscene Content](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Conteúdo sexualmente obsceno](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 Conteúdo Sexualmente Obsceno do GitHub
 ==========
