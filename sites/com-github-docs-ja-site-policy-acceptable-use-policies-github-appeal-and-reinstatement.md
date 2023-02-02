@@ -2,7 +2,7 @@ GitHub の異議申し立ておよび復活 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 * [サイト ポリシー/](/ja/site-policy)
 * [利用規約/](/ja/site-policy/acceptable-use-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub の異議申し立ておよび復活
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [異議申し立ておよび復活](#異議申し立ておよび復活)

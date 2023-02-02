@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Hate Speech and Discrimination](/zh/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [仇恨言论和歧视](/zh/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub 仇恨言论和歧视
 ==========

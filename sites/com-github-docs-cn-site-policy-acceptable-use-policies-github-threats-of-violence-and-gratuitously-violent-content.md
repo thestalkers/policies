@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Threats of Violence and Gratuitously Violent Content](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [暴力威胁和无端暴力内容](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub 上的暴力威胁和无端暴力内容
 ==========

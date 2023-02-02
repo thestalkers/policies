@@ -2,11 +2,11 @@ GitHub の誤報と偽情報 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 * [サイト ポリシー/](/ja/site-policy)
 * [利用規約/](/ja/site-policy/acceptable-use-policies)
-* [Misinformation and Disinformation](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [誤報と偽情報](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 GitHub の誤報と偽情報
 ==========

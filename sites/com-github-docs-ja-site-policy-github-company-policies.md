@@ -2,7 +2,7 @@ GitHub の会社ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 * [サイト ポリシー/](/ja/site-policy)
 * [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)

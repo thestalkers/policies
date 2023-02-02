@@ -2,7 +2,7 @@ GitHub の下請処理者と Cookie - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 * [サイト ポリシー/](/ja/site-policy)
 * [プライバシー ポリシー/](/ja/site-policy/privacy-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub の下請処理者と Cookie
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [GitHub の下請処理者](#github-の下請処理者)

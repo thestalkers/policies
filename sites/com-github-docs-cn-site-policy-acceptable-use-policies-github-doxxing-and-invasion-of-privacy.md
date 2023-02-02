@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Doxxing and Invasion of Privacy](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [进行人肉搜索和侵犯隐私](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 在 GitHub 上进行人肉搜索和侵犯隐私
 ==========

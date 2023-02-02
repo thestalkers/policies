@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Disrupting the Experience of Other Users](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 在 GitHub 上扰乱其他用户的体验
 ==========

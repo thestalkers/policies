@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Sexually Obscene Content](/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [性淫秽内容](/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub 上的性淫秽内容
 ==========

@@ -2,11 +2,11 @@ GitHub のいじめまたは嫌がらせ - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 * [サイト ポリシー/](/ja/site-policy)
 * [利用規約/](/ja/site-policy/acceptable-use-policies)
-* [Bullying and Harassment](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub のいじめまたは嫌がらせ
 ==========

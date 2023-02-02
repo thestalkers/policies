@@ -6,7 +6,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策/](/zh/site-policy)
 * [可接受使用政策/](/zh/site-policy/acceptable-use-policies)
-* [Misinformation and Disinformation](/zh/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [错误信息和虚假信息](/zh/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 GitHub 上的错误信息和虚假信息
 ==========
