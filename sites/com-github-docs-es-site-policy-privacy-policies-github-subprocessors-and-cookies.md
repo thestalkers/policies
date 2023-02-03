@@ -1,8 +1,8 @@
-Subencargados y Cookies de GitHub - GitHub Docs
+Subencargados y Cookies de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 * [Directiva del Sitio/](/es/site-policy)
 * [Directivas de Privacidad/](/es/site-policy/privacy-policies)
@@ -11,18 +11,18 @@ We publish frequent updates to our documentation, and translation of this page m
 Subencargados y Cookies de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
-* [Subencargados de GitHub](#subencargados-de-github)
+* [Subencargados de GitHub](#github-subprocessors)
 
-* [Cookies en GitHub](#cookies-en-github)
+* [Cookies en GitHub](#cookies-on-github)
 
 Fecha de entrada en vigor: **1 de septiembre de 2022**
 
 GitHub es muy transparente con respecto a la forma en que usamos y recopilamos sus datos y con quién los compartimos. Con ese fin, hemos creado esta página, en la que se detallan [nuestros subencargados](#github-subprocessors) y la forma en que usamos las [cookies](#cookies-on-github).
 
-[](#subencargados-de-github)[]()Subencargados de GitHub
+[](#github-subprocessors)Subencargados de GitHub
 ----------
 
 Cuando compartimos su información con subencargados externos, como nuestros distribuidores y proveedores de servicios, seguimos siendo responsables de ella. Nos esforzamos muchísimo para mantener su confianza cuando incorporamos nuevos proveedores, por lo que exigimos a todos los proveedores que suscriban acuerdos de protección de datos con nosotros que restringen el tratamiento de la Información Personal de los Usuarios (tal y como se define en la [Declaración de Privacidad](/es/articles/github-privacy-statement)).
@@ -31,7 +31,7 @@ Actualizaremos la lista de subencargados cuando incorporemos un nuevo subencarga
 
 Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Privacy contact form](https://github.com/contact/privacy).
 
-[](#cookies-en-github)[]()Cookies en GitHub
+[](#cookies-on-github)Cookies en GitHub
 ----------
 
 GitHub utiliza cookies para proporcionar nuestros sitios web, para protegerlos y para analizar su uso con el fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.

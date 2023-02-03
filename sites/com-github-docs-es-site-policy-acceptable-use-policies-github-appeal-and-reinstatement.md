@@ -1,8 +1,8 @@
-Apelación y Restablecimiento de GitHub - GitHub Docs
+Apelación y Restablecimiento de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 * [Directiva del Sitio/](/es/site-policy)
 * [Directivas de Uso Aceptable/](/es/site-policy/acceptable-use-policies)
@@ -11,23 +11,23 @@ We publish frequent updates to our documentation, and translation of this page m
 Apelación y Restablecimiento de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
-* [Apelación y restablecimiento](#apelación-y-restablecimiento)
+* [Apelación y restablecimiento](#appeal-and-reinstatement)
 
-* [¿Qué son las apelaciones y los restablecimientos?](#qué-son-las-apelaciones-y-los-restablecimientos)
+* [¿Qué son las apelaciones y los restablecimientos?](#what-are-appeals-and-reinstatements)
 
-* [Funcionamiento del proceso](#funcionamiento-del-proceso)
+* [Funcionamiento del proceso](#how-this-works)
 
-* [Transparencia](#transparencia)
+* [Transparencia](#transparency)
 
-[](#apelación-y-restablecimiento)[]()Apelación y restablecimiento
+[](#appeal-and-reinstatement)Apelación y restablecimiento
 ----------
 
 Si bien la mayoría de las interacciones entre personas en la comunidad de GitHub entran en el ámbito de las Directivas de Uso Aceptable y en las Pautas de la Comunidad de GitHub, en ocasiones se producen infracciones de esas directivas. Cuando esto sucede, es posible que el personal de GitHub deba llevar a cabo acciones de ejecución para abordar esas infracciones. Sin embargo, en algunos casos, puede que existan fundamentos para revertir una acción de moderación realizada por el personal de GitHub.
 
-[](#qué-son-las-apelaciones-y-los-restablecimientos)[]()¿Qué son las apelaciones y los restablecimientos?
+[](#what-are-appeals-and-reinstatements)¿Qué son las apelaciones y los restablecimientos?
 ----------
 
 Tanto las apelaciones como los restablecimientos surgen en relación con la inhabilitación de contenidos o con las restricciones de acceso a una cuenta.
@@ -36,7 +36,7 @@ Tanto las apelaciones como los restablecimientos surgen en relación con la inha
 
 **Apelación**: el usuario no está de acuerdo con que se haya producido una infracción y puede proporcionar información adicional para demostrar que se debería haber tomado una decisión diferente.
 
-[](#funcionamiento-del-proceso)[]()Funcionamiento del proceso
+[](#how-this-works)Funcionamiento del proceso
 ----------
 
 Si desea que se restablezca su cuenta o su contenido o apelar una acción de ejecución, rellene el [formulario de apelación y restablecimiento](https://support.github.com/contact/reinstatement).
@@ -51,7 +51,7 @@ Todas las solicitudes legítimas de restablecimiento se revisarán inicialmente 
 
 Si el revisor del personal de GitHub es la misma persona que tomó la determinación inicial y ese miembro del personal considera que su conclusión inicial fue correcta (y, por lo tanto, se inclinaría a denegar la apelación), otro miembro del personal de GitHub revisará la apelación de forma independiente. Todas las apelaciones legítimas se responderán con una decisión final.
 
-[](#transparencia)[]()Transparencia
+[](#transparency)Transparencia
 ----------
 
 Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuestros [informes de transparencia](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

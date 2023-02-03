@@ -14,15 +14,15 @@ GitHub 社区指导方针
 In this article
 ----------
 
-* [维护强大的社区](#维护强大的社区)
+* [维护强大的社区](#maintaining-a-strong-community)
 
-* [如果某件事或某人冒犯了您，该怎么办？](#如果某件事或某人冒犯了您该怎么办)
+* [如果某件事或某人冒犯了您，该怎么办？](#what-if-something-or-someone-offends-you)
 
-* [如果有人违反了 GitHub 的政策，会发生什么情况？](#如果有人违反了-github-的政策会发生什么情况)
+* [如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
 
-* [申诉和恢复](#申诉和恢复)
+* [申诉和恢复](#appeal-and-reinstatement)
 
-* [法律声明](#法律声明)
+* [法律声明](#legal-notices)
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。
 
@@ -32,7 +32,7 @@ In this article
 
 我们鼓励社区成员清楚地传达期望，尽可能[审核](#what-if-something-or-someone-offends-you)他们的项目，并[举报](https://github.com/contact/report-abuse)任何可能违反我们[政策](/zh/github/site-policy/github-terms-of-service)的内容。 GitHub 工作人员将调查任何有关滥用行为的举报，并可能审核网站上我们认为违反我们服务条款的公开内容。
 
-[](#维护强大的社区)[]()维护强大的社区
+[](#maintaining-a-strong-community)维护强大的社区
 ----------
 
 GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持一个用户能够自由表达意见并对彼此想法（包括技术和其他方面）提出挑战的社区。 同时，重要的是用户要保持尊重，并为其他人留出公开贡献的空间。 为了营造一个安全和富有成效的环境，我们鼓励社区成员参考这些准则，以了解如何在我们的平台上进行互动。 作为 GitHub 社区的重要成员，您可以在下面找到一些有关如何成功互动的建议。
@@ -43,7 +43,7 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 * **富有同情心** - GitHub 是一个全球性社区，社区中的用户背景各异，他们的观点也各不相同，其中许多人的背景和观点可能与您不同。 试着设身处地为他人着想，在对他们说话之前，先了解他们的感受。 尽最大努力帮助使 GitHub 成为一个任何人都能放心地作出贡献、参与讨论和分享不同想法的社区。
 
-[](#如果某件事或某人冒犯了您该怎么办)[]()如果某件事或某人冒犯了您，该怎么办？
+[](#what-if-something-or-someone-offends-you)如果某件事或某人冒犯了您，该怎么办？
 ----------
 
 虽然有些社区成员之间的分歧可以通过互相尊重的方式直接沟通解决，但我们知道情况并非总是如此。 我们鼓励社区成员在认为自己遇到的内容或活动违反了我们的政策时，及时[告知我们](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified)。 不过，如果您在网站上遇到令人反感的某件事或某个人，可以通过 GitHub 提供的以下几种方式来采取行动：
@@ -60,7 +60,7 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 虽然我们热切希望授权维护人员会审核他们自己的项目，但如果您在应对某个局面时需要额外的支持，请通过 [Report abuse](https://github.com/contact/report-abuse) 与我们联系。
 
-[](#如果有人违反了-github-的政策会发生什么情况)[]()如果有人违反了 GitHub 的政策，会发生什么情况？
+[](#what-happens-if-someone-violates-githubs-policies)如果有人违反了 GitHub 的政策，会发生什么情况？
 ----------
 
 我们依靠来自社区的举报以及主动检测来帮助确保 GitHub 成为软件开发人员的安全、受欢迎和高效的平台。 当我们知悉不符合 GitHub 政策的行为或内容时，我们会考虑各种因素。 但是，我们的政策执行和内容审核方法优先考虑我们的愿景，即成为所有开发人员的家园。 这意味着：
@@ -79,12 +79,12 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 * 从公众视野中隐藏用户帐户或组织
 * 暂停用户帐户或组织
 
-[](#申诉和恢复)[]()申诉和恢复
+[](#appeal-and-reinstatement)申诉和恢复
 ----------
 
 如果您的内容或帐户已被禁用或限制，而您希望恢复或提出申诉，请参阅我们的[申诉和恢复页面](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)，了解流程信息，并使用我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)提交申请。
 
-[](#法律声明)[]()法律声明
+[](#legal-notices)法律声明
 ----------
 
 我们将这些社区指导方针专用于公共领域，让所有人都可以根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整等等。

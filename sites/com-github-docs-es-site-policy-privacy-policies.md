@@ -1,8 +1,8 @@
-Directivas de Privacidad - GitHub Docs
+Directivas de Privacidad - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 * [Directiva del Sitio/](/es/site-policy)
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)
@@ -15,4 +15,4 @@ Directivas de Privacidad
 * [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [Directiva de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [Declaración de privacidad de GitHub Copilot for Business](/es/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
-* [GitHub Octernships Terms of Service](/es/site-policy/privacy-policies/github-octernships-terms-of-service)
+* [Términos del servicio de Octernships de GitHub](/es/site-policy/privacy-policies/github-octernships-terms-of-service)

@@ -1,8 +1,8 @@
-Términos del Evento de GitHub - GitHub Docs
+Términos del Evento de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 * [Directiva del Sitio/](/es/site-policy)
 * [Términos de GitHub/](/es/site-policy/github-terms)
@@ -11,24 +11,24 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos del Evento de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
-* [1. Requisitos básicos para asistir, incluido el Código de Conducta del Evento](#1-requisitos-básicos-para-asistir-incluido-el-código-de-conducta-del-evento)
+* [1. Requisitos básicos para asistir, incluido el Código de Conducta del Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 
-* [2. Imágenes](#2-imágenes)
+* [2. Imágenes](#2-pictures)
 
-* [3. Riesgo, responsabilidad e indemnización](#3-riesgo-responsabilidad-e-indemnización)
+* [3. Riesgo, responsabilidad e indemnización](#3-risk-liability-and-indemnity)
 
-* [4. Rescisión](#4-rescisión)
+* [4. Rescisión](#4-termination)
 
-* [5. Selección de legislación y fuero](#5-selección-de-legislación-y-fuero)
+* [5. Selección de legislación y fuero](#5-choice-of-law-and-venue)
 
-* [6. Otras cláusulas contractuales](#6-otras-cláusulas-contractuales)
+* [6. Otras cláusulas contractuales](#6-miscellaneous-terms)
 
 Al confirmar su asistencia a un evento de GitHub o asistir a él, incluidos cualquiera de los eventos o actividades organizados por GitHub en asociación con el evento de GitHub (colectivamente, el «Evento»), indica que ha leído, comprende y acepta los siguientes Términos y Condiciones del Evento.
 
-[](#1-requisitos-básicos-para-asistir-incluido-el-código-de-conducta-del-evento)[]()1. Requisitos básicos para asistir, incluido el [Código de Conducta del Evento](/es/articles/github-event-code-of-conduct)
+[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1. Requisitos básicos para asistir, incluido el [Código de Conducta del Evento](/es/articles/github-event-code-of-conduct)
 ----------
 
 Para participar en el Evento, usted declara que
@@ -43,15 +43,15 @@ Para participar en el Evento, usted declara que
 
 Se espera que los participantes a los que se les pida que dejen de acosar u otro comportamiento prohibido acaten esta petición de inmediato. Si un participante mantiene un comportamiento que infringe el [Código de Conducta del Evento](/es/articles/github-event-code-of-conduct) o estos Términos, los organizadores del evento pueden tomar las medidas que consideren apropiadas, incluida la advertencia al infractor o la expulsión del evento o conferencia sin reembolso.
 
-[](#2-imágenes)[]()2. Imágenes
+[](#2-pictures)2. Imágenes
 ----------
 
 GitHub o sus socios a veces toman fotos y vídeos en los eventos de GitHub. Al participar o asistir al Evento, acepta que puede aparecer en algunas de estas fotos y vídeos, y autoriza el uso de ellos por parte de GitHub. Por otro lado, si toma fotos o vídeos de los asistentes al Evento y nos los proporciona, nos autoriza a usarlos de la misma manera y declara que los asistentes que aparecen en sus fotos y vídeos también han dado su consentimiento para tal uso.
 
-[](#3-riesgo-responsabilidad-e-indemnización)[]()3. Riesgo, responsabilidad e indemnización
+[](#3-risk-liability-and-indemnity)3. Riesgo, responsabilidad e indemnización
 ----------
 
-### [](#asunción-de-riesgo)[]()Asunción de riesgo ###
+### [](#assumption-of-risk)Asunción de riesgo ###
 
 Aunque tratamos de crear un ambiente seguro en el evento, pueden ocurrir accidentes u otros infortunios, incluso a las buenas personas. Le pedimos que ponga de su parte para ayudar a limitar la posibilidad de que pueda lesionarse en el Evento.
 
@@ -61,25 +61,25 @@ En definitiva, comprende que su asistencia y participación en cualquier evento 
 
 Del mismo modo, acepta que GitHub no es responsable de ninguna lesión o accidente que pueda sufrir en cualquier evento que GitHub no organice ni controle.
 
-### [](#exención-de-responsabilidad)[]()Exención de responsabilidad ###
+### [](#release-of-liability)Exención de responsabilidad ###
 
 Usted (para usted, sus herederos, representantes personales o cesionarios, y cualquier otra persona que pueda presentar una reclamación en su nombre) por el presente exime, renuncia, descarga y se compromete a no demandar a GitHub y sus respectivas empresas matrices, filiales, entidades afiliadas, responsables, directores, socios, accionistas, miembros, agentes, empleados, proveedores, patrocinadores y voluntarios de todas y cada una de las reclamaciones, demandas, causas de acción, daños, pérdidas o gastos (incluidos los costes judiciales y los honorarios razonables de los abogados) que puedan surgir de, resulten de o se relacionen de alguna manera con su asistencia al Evento o cualquier evento relacionado, excepto, por supuesto, por cualquier negligencia grave o conducta indebida intencionada de nuestra parte.
 
-### [](#indemnizaciones)[]()Indemnizaciones ###
+### [](#indemnity)Indemnizaciones ###
 
 De la misma manera, acepta indemnizar y eximir de responsabilidad a GitHub, sus matrices, filiales, entidades afiliadas, responsables, directores, empleados, agentes y representantes, incluidos los costes, responsabilidades y honorarios legales, de cualquier reclamación o demanda realizada por un tercero debido a, relacionado o conectado con su asistencia o conducta en el Evento o cualquier evento relacionado.
 
-[](#4-rescisión)[]()4. Rescisión
+[](#4-termination)4. Rescisión
 ----------
 
 Si bien esperamos que no ocurra, GitHub puede prohibir su asistencia a cualquier evento de GitHub en cualquier momento si no cumple los Términos del Evento y el [Código de Conducta del Evento](/es/articles/github-event-code-of-conduct), los [Términos de Servicio de GitHub.com](/es/articles/github-terms-of-service), por cualquier motivo o sin él, sin previo aviso ni responsabilidad de ningún tipo. El apartado 3 (Riesgo, responsabilidad e indemnización) continuará aplicándose después de cualquier rescisión.
 
-[](#5-selección-de-legislación-y-fuero)[]()5. Selección de legislación y fuero
+[](#5-choice-of-law-and-venue)5. Selección de legislación y fuero
 ----------
 
 La ley de California regirá estos Términos del Evento, así como cualquier reclamación, causa de acción o disputa que pueda surgir entre usted y GitHub (una «Reclamación»), sin tener en cuenta las disposiciones sobre conflictos de leyes. PARA CUALQUIER RECLAMACIÓN PRESENTADA POR CUALQUIERA DE LAS PARTES, USTED ACEPTA SOMETERSE A LA JURISDICCIÓN PERSONAL Y EXCLUSIVA Y EL FUERO EXCLUSIVO DE LOS TRIBUNALES ESTATALES Y FEDERALES UBICADOS EN EL CONDADO DE SAN FRANCISCO, CALIFORNIA.
 
-[](#6-otras-cláusulas-contractuales)[]()6. Otras cláusulas contractuales
+[](#6-miscellaneous-terms)6. Otras cláusulas contractuales
 ----------
 
 Usted acepta que no se hará pasar por empleado, representante o agente de GitHub (a menos, por supuesto, que realmente sea un empleado de GitHub). Nos reservamos el derecho de cancelar el Evento o cualquier evento relacionado en cualquier momento, por cualquier motivo y sin responsabilidad ni perjuicio. El hecho de que GitHub no ejercite ni exija ningún derecho o disposición de estos términos no constituye una renuncia de dicho derecho o disposición. Si se determina que alguna disposición de estos términos no es aplicable o válida, esa disposición se limitará o eliminará en la medida mínima necesaria para que los Términos del Evento permanezcan en pleno vigor y efecto y exigibles.
