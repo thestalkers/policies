@@ -2,7 +2,7 @@ Política de Marcas Registradas do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 * [Política do Site/](/pt/site-policy)
 * [Políticas de Remoção de Conteúdo/](/pt/site-policy/content-removal-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Política de Marcas Registradas do GitHub
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [O que é uma Violação da Política de Marcas Registradas do GitHub?](#what-is-a-github-trademark-policy-violation)

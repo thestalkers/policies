@@ -2,7 +2,7 @@ Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 * [Política do Site/](/pt/site-policy)
 * [Outras Políticas do Site/](/pt/site-policy/other-site-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Diretrizes para Solicitações Legais de Dados do Usuário
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Sobre estas diretrizes](#about-these-guidelines)
