@@ -1,8 +1,8 @@
-GitHub 附加产品和功能条款 - GitHub Docs
+GitHub 附加产品和功能条款 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
 * [站点政策/](/zh/site-policy)
 * [GitHub 条款/](/zh/site-policy/github-terms)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 附加产品和功能条款
 ==========
 
-In this article
+本文内容
 ----------
 
 * [Actions](#actions)

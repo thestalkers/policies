@@ -1,8 +1,8 @@
-GitHub 次级处理者和 Cookie - GitHub Docs
+GitHub 次级处理者和 Cookie - GitHub 文档
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
 * [站点政策/](/zh/site-policy)
 * [隐私政策/](/zh/site-policy/privacy-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 次级处理者和 Cookie
 ==========
 
-In this article
+本文内容
 ----------
 
 * [GitHub 次级处理者](#github-subprocessors)
@@ -37,5 +37,3 @@ GitHub 高度透明地公开我们将如何使用数据、如何收集数据以�
 GitHub 使用 Cookie 提供和保护我们的网站，以及分析我们网站的使用情况，以便为您提供良好的用户体验。 如果您希望进一步了解 Cookie，以及我们如何及为何使用 Cookie，请阅读我们的[隐私声明](/zh/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking)。
 
 您可以在 <https://github.com/privacy/cookies> 查看最新的 GitHub 上的 Cookie 列表并注册接收 Cookie 列表更新。
-
-(!)请注意，尽管我们仅限于在提供外部功能以呈现外部内容时根据需要使用第三方 Cookie，但我们网站上的某些页面可能会设置其他第三方 Cookie。 例如，我们可能会嵌入来自其他站点的内容（如视频），而该站点设置 Cookie。 尽管我们会尽可能避免使用这些第三方 Cookie，但我们无法总是控制第三方内容会设置哪些 Cookie。

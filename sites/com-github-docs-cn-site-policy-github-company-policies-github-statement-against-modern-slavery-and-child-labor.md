@@ -1,8 +1,8 @@
-GitHub 反对现代奴役制和童工制的声明 - GitHub Docs
+GitHub 反对现代奴役制和童工制的声明 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
 * [站点政策/](/zh/site-policy)
 * [GitHub 公司政策/](/zh/site-policy/github-company-policies)
@@ -11,7 +11,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 反对现代奴役制和童工制的声明
 ==========
 
-In this article
+本文内容
 ----------
 
 * [GitHub 的结构、业务和供应链](#githubs-structure-business-and-supply-chains)

@@ -37,5 +37,3 @@ Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados
 GitHub utiliza cookies para proporcionar nuestros sitios web, para protegerlos y para analizar su uso con el fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.
 
 Puede consultar la lista actualizada de cookies en GitHub y suscribirse para recibir actualizaciones de la misma en <https://github.com/privacy/cookies>.
-
-(!) Tenga en cuenta que, aunque limitamos nuestro uso de cookies de terceros a las necesarias para proporcionar funcionalidades externas al mostrar contenido externo, ciertas páginas de nuestro sitio web podrían instalar otras cookies de terceros. Por ejemplo, podríamos incorporar contenido (por ejemplo, vídeos) de otro sitio que instala una cookie. Aunque tratamos de minimizar estas cookies de terceros, no siempre podemos controlar qué cookies instala este contenido de terceros.
