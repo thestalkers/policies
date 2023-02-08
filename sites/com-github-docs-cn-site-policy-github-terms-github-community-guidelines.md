@@ -58,7 +58,7 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 * **限制交互** - 如果您的公共项目受到不必要的关注、收到挑衅信息、收到垃圾邮件或其他侮辱性信息，您可以选择设置[临时交互限制](/zh/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)，以阻止某些用户与您的存储库进行交互。 您甚至可以设置[代码审查限制](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)，以保障对您项目的高质量参与。
 
-虽然我们热切希望授权维护人员会审核他们自己的项目，但如果您在应对某个局面时需要额外的支持，请通过 [Report abuse](https://github.com/contact/report-abuse) 与我们联系。
+虽然我们热切希望授权维护人员会审核他们自己的项目，但如果您在应对某个局面时需要额外的支持，请通过 [报告滥用](https://github.com/contact/report-abuse) 与我们联系。
 
 [](#what-happens-if-someone-violates-githubs-policies)如果有人违反了 GitHub 的政策，会发生什么情况？
 ----------
