@@ -69,7 +69,7 @@ GitHub 上のお客様のコンテンツが DMCA 削除要求により誤って�
 [](#how-to-submit-your-counter-notice)反論通知の提出方法
 ----------
 
-[Copyright claims form](https://github.com/contact/dmca)で情報を入力し、すべての質問に答えることで、最も早く回答を得ることができます。
+[著作権侵害申し立てフォーム](https://github.com/contact/dmca)で情報を入力し、すべての質問に答えることで、最も早く回答を得ることができます。
 
 また、[copyright@github.com](mailto:copyright@github.com) に電子メール通知を送信することもできます。 必要に応じて添付ファイルを含めることもできますが、メッセージの本文にはテキスト形式の文書も含めてください。
 

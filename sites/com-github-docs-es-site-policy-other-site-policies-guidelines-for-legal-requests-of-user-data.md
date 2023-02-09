@@ -276,4 +276,4 @@ GitHub responderá de inmediato a las solicitudes que se emitan a través de un 
 [](#questions)Preguntas
 ----------
 
-¿Tiene otras preguntas, comentarios o sugerencias? Póngase en contacto con [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+¿Tiene otras preguntas, comentarios o sugerencias? Póngase en contacto con [Soporte técnico de GitHub](https://support.github.com/contact?tags=docs-generic).

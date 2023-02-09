@@ -29,7 +29,7 @@ Quando compartilhamos suas informações com subprocessadores terceiros, como no
 
 Quando contratamos um novo subprocessador que lida com Informações Pessoais de nossos Usuários, removemos um deles ou alteramos a forma como usamos um subprocessador, a lista de subprocessadores é atualizada. Você pode ver a lista atual de subprocessadores e se inscrever para receber atualizações sobre ela em <https://github.com/privacy/subprocessors>.
 
-Se você tiver dúvidas ou preocupações sobre um novo subprocessador, ficaremos satisfeitos em ajudar. Entre em contato conosco pelo [Privacy contact form](https://github.com/contact/privacy).
+Se você tiver dúvidas ou preocupações sobre um novo subprocessador, ficaremos satisfeitos em ajudar. Entre em contato conosco pelo [Formulário de contato de privacidade](https://github.com/contact/privacy).
 
 [](#cookies-on-github)Cookies no GitHub
 ----------

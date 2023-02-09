@@ -69,7 +69,7 @@ Estes são apenas alguns exemplos das complexidades da lei de direitos autorais.
 [](#how-to-submit-your-counter-notice)Como enviar sua contranotificação
 ----------
 
-A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Copyright claims form](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de declarações de direitos autorais](https://github.com/contact/dmca).
 
 Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo da mensagem.
 
