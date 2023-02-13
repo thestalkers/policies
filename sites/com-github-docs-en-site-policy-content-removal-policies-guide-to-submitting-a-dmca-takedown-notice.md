@@ -2,8 +2,12 @@ Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Content Removal Policies/](/en/site-policy/content-removal-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Content Removal Policies](/en/site-policy/content-removal-policies)/
 * [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Guide to Submitting a DMCA Takedown Notice

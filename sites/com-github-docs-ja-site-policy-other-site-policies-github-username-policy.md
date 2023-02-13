@@ -2,16 +2,20 @@ GitHub のユーザー名ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [その他のサイト ポリシー/](/ja/site-policy/other-site-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
 * [GitHub のユーザー名ポリシー](/ja/site-policy/other-site-policies/github-username-policy)
 
 GitHub のユーザー名ポリシー
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [使用したいユーザー名が既に他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)

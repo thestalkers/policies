@@ -2,7 +2,11 @@ GitHub Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
 * [GitHub Terms](/en/site-policy/github-terms)
 
 GitHub Terms

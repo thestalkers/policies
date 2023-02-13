@@ -4,8 +4,12 @@ Vazamento por parte do GitHub e Invasão de Privacidade - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
 * [Vazamento e invasão de privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 Vazamento por parte do GitHub e Invasão de Privacidade

@@ -2,7 +2,11 @@ Privacy Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
 * [Privacy Policies](/en/site-policy/privacy-policies)
 
 Privacy Policies

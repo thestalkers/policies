@@ -2,6 +2,10 @@ Site policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
 * [Site policy](/en/site-policy)
 
 Site policy

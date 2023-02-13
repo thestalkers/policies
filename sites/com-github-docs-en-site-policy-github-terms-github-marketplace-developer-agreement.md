@@ -2,8 +2,12 @@ GitHub Marketplace Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [GitHub Terms/](/en/site-policy/github-terms)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [GitHub Terms](/en/site-policy/github-terms)/
 * [GitHub Marketplace Developer Agreement](/en/site-policy/github-terms/github-marketplace-developer-agreement)
 
 GitHub Marketplace Developer Agreement

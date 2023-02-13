@@ -4,7 +4,11 @@ Políticas de Segurança - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
 * [Políticas de Segurança](/pt/site-policy/security-policies)
 
 Políticas de Segurança

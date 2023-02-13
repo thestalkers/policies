@@ -4,8 +4,12 @@ Divulgación Coordinada de Vulnerabilidades de Seguridad - Documentación de Git
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Seguridad/](/es/site-policy/security-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Seguridad](/es/site-policy/security-policies)/
 * [Divulgación Coordinada de Vulnerabilidades de Seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Divulgación Coordinada de Vulnerabilidades de Seguridad

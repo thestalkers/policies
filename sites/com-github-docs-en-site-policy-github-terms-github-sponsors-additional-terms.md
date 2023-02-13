@@ -2,8 +2,12 @@ GitHub Sponsors Additional Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [GitHub Terms/](/en/site-policy/github-terms)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [GitHub Terms](/en/site-policy/github-terms)/
 * [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
 
 GitHub Sponsors Additional Terms

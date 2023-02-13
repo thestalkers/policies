@@ -2,10 +2,14 @@ GitHub の GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [GitHub の会社ポリシー/](/ja/site-policy/github-company-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
 * [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 GitHub の GPL Cooperation Commitment

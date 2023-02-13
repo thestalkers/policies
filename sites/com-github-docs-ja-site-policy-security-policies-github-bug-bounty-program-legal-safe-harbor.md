@@ -2,16 +2,20 @@ GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [セキュリティ ポリシー/](/ja/site-policy/security-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [セキュリティ ポリシー](/ja/site-policy/security-policies)/
 * [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub バグ報奨金プログラムの法的免責事項
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [概要](#summary)

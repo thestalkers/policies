@@ -2,8 +2,12 @@ GitHub Government Takedown Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Other Site Policies/](/en/site-policy/other-site-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Other Site Policies](/en/site-policy/other-site-policies)/
 * [GitHub Government Takedown Policy](/en/site-policy/other-site-policies/github-government-takedown-policy)
 
 GitHub Government Takedown Policy

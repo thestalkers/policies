@@ -4,8 +4,12 @@ Discriminação e Discurso de Ódio do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
 * [Discriminação e discurso de ódio](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 Discriminação e Discurso de Ódio do GitHub

@@ -4,8 +4,12 @@ Directiva de Eliminación de Información Privada de GitHub - Documentación de 
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Eliminación de Contenido/](/es/site-policy/content-removal-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/
 * [Directiva de Eliminación de Información Privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 Directiva de Eliminación de Información Privada de GitHub

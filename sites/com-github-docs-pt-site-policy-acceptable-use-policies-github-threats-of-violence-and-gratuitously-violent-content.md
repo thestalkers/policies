@@ -4,8 +4,12 @@ Ameaças de Violência e Conteúdo Injustificadamente Violento do GitHub - GitHu
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
 * [Ameaças de violência e conteúdo injustificadamente violento](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 Ameaças de Violência e Conteúdo Injustificadamente Violento do GitHub

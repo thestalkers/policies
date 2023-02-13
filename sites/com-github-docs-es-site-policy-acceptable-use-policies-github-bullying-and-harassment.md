@@ -4,8 +4,12 @@ Intimidación y Acoso en GitHub - Documentación de GitHub
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Uso Aceptable/](/es/site-policy/acceptable-use-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Intimidación y Acoso](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 Intimidación y Acoso en GitHub

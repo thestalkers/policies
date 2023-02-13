@@ -2,8 +2,12 @@ GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Acceptable Use Policies/](/en/site-policy/acceptable-use-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)/
 * [Threats of Violence and Gratuitously Violent Content](/en/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub Threats of Violence and Gratuitously Violent Content

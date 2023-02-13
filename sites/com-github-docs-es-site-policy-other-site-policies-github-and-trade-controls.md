@@ -4,8 +4,12 @@ GitHub y los Controles Comerciales - Documentación de GitHub
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Otras Directivas del Sitio/](/es/site-policy/other-site-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
 * [GitHub y los Controles Comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub y los Controles Comerciales

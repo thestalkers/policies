@@ -2,7 +2,11 @@ GitHub Company Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
 * [GitHub Company Policies](/en/site-policy/github-company-policies)
 
 GitHub Company Policies

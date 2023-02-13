@@ -4,8 +4,12 @@ Política de Presentes e Entretenimento do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas da Empresa GitHub/](/pt/site-policy/github-company-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas da Empresa GitHub](/pt/site-policy/github-company-policies)/
 * [Política de Presentes e Entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 Política de Presentes e Entretenimento do GitHub

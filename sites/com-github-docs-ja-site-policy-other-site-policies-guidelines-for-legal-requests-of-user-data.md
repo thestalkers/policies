@@ -2,16 +2,20 @@
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [その他のサイト ポリシー/](/ja/site-policy/other-site-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
 * [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [本ガイドラインの概要](#about-these-guidelines)

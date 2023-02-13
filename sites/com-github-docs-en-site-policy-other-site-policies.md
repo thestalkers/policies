@@ -2,7 +2,11 @@ Other Site Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
 * [Other Site Policies](/en/site-policy/other-site-policies)
 
 Other Site Policies

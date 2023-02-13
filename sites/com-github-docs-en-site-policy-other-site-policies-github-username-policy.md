@@ -2,8 +2,12 @@ GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Other Site Policies/](/en/site-policy/other-site-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Other Site Policies](/en/site-policy/other-site-policies)/
 * [GitHub Username Policy](/en/site-policy/other-site-policies/github-username-policy)
 
 GitHub Username Policy

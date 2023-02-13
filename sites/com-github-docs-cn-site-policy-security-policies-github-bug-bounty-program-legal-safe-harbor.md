@@ -4,8 +4,12 @@ GitHub Bug 赏金计划法律安全港 - GitHub 文档
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
-* [站点政策/](/zh/site-policy)
-* [安全政策/](/zh/site-policy/security-policies)
+[All products](/zh)
+
+[站点政策](/zh/site-policy)
+
+* [站点政策](/zh/site-policy)/
+* [安全政策](/zh/site-policy/security-policies)/
 * [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub Bug 赏金计划法律安全港

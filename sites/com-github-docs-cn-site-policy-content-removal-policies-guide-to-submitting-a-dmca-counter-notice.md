@@ -4,8 +4,12 @@ DMCA 抗辩通知提交指南 - GitHub 文档
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
-* [站点政策/](/zh/site-policy)
-* [内容删除政策/](/zh/site-policy/content-removal-policies)
+[All products](/zh)
+
+[站点政策](/zh/site-policy)
+
+* [站点政策](/zh/site-policy)/
+* [内容删除政策](/zh/site-policy/content-removal-policies)/
 * [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 DMCA 抗辩通知提交指南

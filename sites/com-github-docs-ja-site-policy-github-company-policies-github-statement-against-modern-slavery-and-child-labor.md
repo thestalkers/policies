@@ -2,16 +2,20 @@ GitHub の現代奴隷制と児童労働に反対する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [GitHub の会社ポリシー/](/ja/site-policy/github-company-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
 * [GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
 GitHub の現代奴隷制と児童労働に反対する声明
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [GitHub の構造、ビジネス、サプライ チェーン](#githubs-structure-business-and-supply-chains)

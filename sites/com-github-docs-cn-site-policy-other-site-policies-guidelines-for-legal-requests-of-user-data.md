@@ -4,8 +4,12 @@
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
-* [站点政策/](/zh/site-policy)
-* [其他站点政策/](/zh/site-policy/other-site-policies)
+[All products](/zh)
+
+[站点政策](/zh/site-policy)
+
+* [站点政策](/zh/site-policy)/
+* [其他站点政策](/zh/site-policy/other-site-policies)/
 * [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 用户数据法律请求准则

@@ -2,8 +2,12 @@ GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Security Policies/](/en/site-policy/security-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Security Policies](/en/site-policy/security-policies)/
 * [GitHub Bug Bounty Program Legal Safe Harbor](/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub Bug Bounty Program Legal Safe Harbor

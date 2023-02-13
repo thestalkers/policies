@@ -4,7 +4,11 @@ Directivas de Seguridad - Documentación de GitHub
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Seguridad](/es/site-policy/security-policies)
 
 Directivas de Seguridad

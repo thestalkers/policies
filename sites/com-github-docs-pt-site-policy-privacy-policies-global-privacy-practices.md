@@ -4,8 +4,12 @@ Política de Privacidade do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Privacidade/](/pt/site-policy/privacy-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
 * [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
 
 Política de Privacidade do GitHub

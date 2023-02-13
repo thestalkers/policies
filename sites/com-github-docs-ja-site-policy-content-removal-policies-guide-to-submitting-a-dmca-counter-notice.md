@@ -2,16 +2,20 @@ DMCA 反論通知提出ガイド - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [コンテンツ削除ポリシー/](/ja/site-policy/content-removal-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
 * [DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 DMCA 反論通知提出ガイド
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [提出前の準備](#before-you-start)

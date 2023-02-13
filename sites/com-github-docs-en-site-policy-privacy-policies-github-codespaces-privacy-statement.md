@@ -2,8 +2,12 @@ GitHub Codespaces Privacy Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Privacy Policies/](/en/site-policy/privacy-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Privacy Policies](/en/site-policy/privacy-policies)/
 * [GitHub Codespaces Privacy Statement](/en/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 GitHub Codespaces Privacy Statement

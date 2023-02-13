@@ -4,8 +4,12 @@ Política de Remoção de Informações Privadas do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Remoção de Conteúdo/](/pt/site-policy/content-removal-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
 * [Política de Remoção de Informações Privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 Política de Remoção de Informações Privadas do GitHub

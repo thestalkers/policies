@@ -2,16 +2,20 @@ GitHub コミュニティの行動規範 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [GitHub 条件/](/ja/site-policy/github-terms)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub 条件](/ja/site-policy/github-terms)/
 * [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
 GitHub コミュニティの行動規範
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [概要および目的](#overview-and-purpose)

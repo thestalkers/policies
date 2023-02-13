@@ -4,8 +4,12 @@ Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Outras Políticas do Site/](/pt/site-policy/other-site-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
 * [Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 Diretrizes para Solicitações Legais de Dados do Usuário

@@ -4,8 +4,12 @@ Compromiso de cooperación con GPL de GitHub - Documentación de GitHub
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Empresa de GitHub/](/es/site-policy/github-company-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Empresa de GitHub](/es/site-policy/github-company-policies)/
 * [Compromiso de cooperación con GPL de GitHub](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 Compromiso de cooperación con GPL de GitHub

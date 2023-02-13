@@ -4,8 +4,12 @@ Divulgación de información personal («doxxing») e invasión de la privacidad
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Uso Aceptable/](/es/site-policy/acceptable-use-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Divulgación de información personal («doxxing») e invasión de la privacidad](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub

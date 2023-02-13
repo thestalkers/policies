@@ -4,8 +4,12 @@ Termos do Programa de Pesquisa do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Termos do GitHub/](/pt/site-policy/github-terms)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Termos do GitHub](/pt/site-policy/github-terms)/
 * [Termos do Programa de Pesquisa do GitHub](/pt/site-policy/github-terms/github-research-program-terms)
 
 Termos do Programa de Pesquisa do GitHub

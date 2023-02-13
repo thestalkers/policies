@@ -2,8 +2,12 @@ GitHub Event Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [GitHub Terms/](/en/site-policy/github-terms)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [GitHub Terms](/en/site-policy/github-terms)/
 * [GitHub Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
 
 GitHub Event Code of Conduct

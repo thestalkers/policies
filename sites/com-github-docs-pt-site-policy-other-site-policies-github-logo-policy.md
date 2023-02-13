@@ -4,8 +4,12 @@ Política de Logotipo do GitHub - GitHub Docs
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Outras Políticas do Site/](/pt/site-policy/other-site-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
 * [Política de Logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 
 Política de Logotipo do GitHub

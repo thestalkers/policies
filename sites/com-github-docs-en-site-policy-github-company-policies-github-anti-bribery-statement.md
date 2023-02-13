@@ -2,8 +2,12 @@ GitHub Anti-Bribery Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [GitHub Company Policies/](/en/site-policy/github-company-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [GitHub Company Policies](/en/site-policy/github-company-policies)/
 * [GitHub Anti-Bribery Statement](/en/site-policy/github-company-policies/github-anti-bribery-statement)
 
 GitHub Anti-Bribery Statement

@@ -2,16 +2,20 @@ GitHub の下請処理者と Cookie - GitHub Docs
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
-* [サイト ポリシー/](/ja/site-policy)
-* [プライバシー ポリシー/](/ja/site-policy/privacy-policies)
+[All products](/ja)
+
+[サイト ポリシー](/ja/site-policy)
+
+* [サイト ポリシー](/ja/site-policy)/
+* [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
 * [GitHub の下請処理者と Cookie](/ja/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 GitHub の下請処理者と Cookie
 ==========
 
-この記事の内容
+In this article
 ----------
 
 * [GitHub の下請処理者](#github-subprocessors)

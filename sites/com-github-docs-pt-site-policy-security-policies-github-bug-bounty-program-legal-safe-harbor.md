@@ -4,8 +4,12 @@ Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub -
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Segurança/](/pt/site-policy/security-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Segurança](/pt/site-policy/security-policies)/
 * [Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub

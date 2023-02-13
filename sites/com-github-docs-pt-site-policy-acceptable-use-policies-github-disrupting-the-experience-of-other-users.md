@@ -4,8 +4,12 @@ Interrupção da Experiência de Outros Usuários por Parte do GitHub - GitHub D
 
 Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
-* [Política do Site/](/pt/site-policy)
-* [Políticas de Uso Aceitável/](/pt/site-policy/acceptable-use-policies)
+[All products](/pt)
+
+[Política do Site](/pt/site-policy)
+
+* [Política do Site](/pt/site-policy)/
+* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
 * [Interrupção da experiência de outros usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 Interrupção da Experiência de Outros Usuários por Parte do GitHub

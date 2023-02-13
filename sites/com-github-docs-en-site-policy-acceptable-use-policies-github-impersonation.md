@@ -2,8 +2,12 @@ GitHub Impersonation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-* [Site policy/](/en/site-policy)
-* [Acceptable Use Policies/](/en/site-policy/acceptable-use-policies)
+[All products](/en)
+
+[Site policy](/en/site-policy)
+
+* [Site policy](/en/site-policy)/
+* [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)/
 * [Impersonation](/en/site-policy/acceptable-use-policies/github-impersonation)
 
 GitHub Impersonation

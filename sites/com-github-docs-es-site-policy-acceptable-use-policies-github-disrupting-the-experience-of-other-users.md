@@ -4,8 +4,12 @@ Alteración de la experiencia de otros usuarios de GitHub - Documentación de Gi
 
 Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
-* [Directiva del Sitio/](/es/site-policy)
-* [Directivas de Uso Aceptable/](/es/site-policy/acceptable-use-policies)
+[All products](/es)
+
+[Directiva del Sitio](/es/site-policy)
+
+* [Directiva del Sitio](/es/site-policy)/
+* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Alteración de la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 Alteración de la experiencia de otros usuarios de GitHub

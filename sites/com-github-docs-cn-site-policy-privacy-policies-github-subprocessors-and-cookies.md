@@ -4,8 +4,12 @@ GitHub 次级处理者和 Cookie - GitHub 文档
 
 我们经常发布文档更新，此页面的翻译可能仍在进行中。 有关最新信息，请访问[英语文档](/en)。
 
-* [站点政策/](/zh/site-policy)
-* [隐私政策/](/zh/site-policy/privacy-policies)
+[All products](/zh)
+
+[站点政策](/zh/site-policy)
+
+* [站点政策](/zh/site-policy)/
+* [隐私政策](/zh/site-policy/privacy-policies)/
 * [GitHub 次级处理者和 Cookie](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 GitHub 次级处理者和 Cookie
