@@ -1,8 +1,8 @@
-Apelación y Restablecimiento de GitHub - Documentación de GitHub
+Apelación y Restablecimiento de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 [All products](/es)
 
@@ -15,7 +15,7 @@ Publicamos actualizaciones para la documentación con frecuencia y es posible qu
 Apelación y Restablecimiento de GitHub
 ==========
 
-En este artículo
+In this article
 ----------
 
 * [Apelación y restablecimiento](#appeal-and-reinstatement)

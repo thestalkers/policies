@@ -34,7 +34,7 @@ If the username you want has already been claimed, consider other names or uniqu
 [](#trademark-policy)Trademark Policy
 ----------
 
-If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/en/articles/github-trademark-policy) page.
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy) page.
 
 [](#name-squatting-policy)Name Squatting Policy
 ----------

@@ -30,20 +30,20 @@ In this article
 
 By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you signal that you have read, understand, and agree to the following Event Terms and Conditions.
 
-[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1. Basic requirements to attend - including the [Event Code of Conduct](/en/articles/github-event-code-of-conduct)
+[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1. Basic requirements to attend - including the [Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
 In order to participate in the Event, you represent that
 
 * you have the requisite power and authority to enter into these Event Terms
 
-* you have read and understood these Event Terms as well as the [GitHub.com Terms of Service](/en/articles/github-terms-of-service)
+* you have read and understood these Event Terms as well as the [GitHub.com Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
 
-* you agree to abide by the [Event Code of Conduct](/en/articles/github-event-code-of-conduct), which seeks to provide a harassment-free experience for everyone
+* you agree to abide by the [Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct), which seeks to provide a harassment-free experience for everyone
 
 * if alcohol is being served at a GitHub event, you represent that you are at least 21 years old, or otherwise over the legal drinking age in your jurisdiction.
 
-Participants asked to stop any harassing or other prohibited behavior are expected to comply immediately. If a participant engages in behavior that violates the [Event Code of Conduct](/en/articles/github-event-code-of-conduct) or these Terms, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event or conference with no refund.
+Participants asked to stop any harassing or other prohibited behavior are expected to comply immediately. If a participant engages in behavior that violates the [Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct) or these Terms, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event or conference with no refund.
 
 [](#2-pictures)2. Pictures
 ----------
@@ -74,7 +74,7 @@ By the same token, you agree to indemnify and hold GitHub, its parents, subsidia
 [](#4-termination)4. Termination
 ----------
 
-While we hope not to, GitHub may prohibit your attendance at any GitHub event at any time if you fail to abide by these Event Terms and the [Event Code of Conduct](/en/articles/github-event-code-of-conduct), the [GitHub.com Terms of Service](/en/articles/github-terms-of-service), or for any or no reason, without notice or liability of any kind. Section 3 (Risk, liability, and indemnity) will continue to apply following any termination.
+While we hope not to, GitHub may prohibit your attendance at any GitHub event at any time if you fail to abide by these Event Terms and the [Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct), the [GitHub.com Terms of Service](/en/site-policy/github-terms/github-terms-of-service), or for any or no reason, without notice or liability of any kind. Section 3 (Risk, liability, and indemnity) will continue to apply following any termination.
 
 [](#5-choice-of-law-and-venue)5. Choice of law and venue
 ----------

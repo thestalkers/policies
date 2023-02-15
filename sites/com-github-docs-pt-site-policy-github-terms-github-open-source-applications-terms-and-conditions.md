@@ -2,7 +2,7 @@ Termos e Condições de Aplicativos de Software Livre do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 [All products](/pt)
 
@@ -15,7 +15,7 @@ Publicamos atualizações frequentes em nossa documentação, e a tradução des
 Termos e Condições de Aplicativos de Software Livre do GitHub
 ==========
 
-Neste artigo
+In this article
 ----------
 
 * [Como conectar-se ao GitHub](#connecting-to-github)

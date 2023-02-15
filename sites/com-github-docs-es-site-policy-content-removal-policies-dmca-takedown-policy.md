@@ -1,8 +1,8 @@
-Directiva de Retirada de la DMCA - Documentación de GitHub
+Directiva de Retirada de la DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
-Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
+We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
 
 [All products](/es)
 
@@ -15,7 +15,7 @@ Publicamos actualizaciones para la documentación con frecuencia y es posible qu
 Directiva de Retirada de la DMCA
 ==========
 
-En este artículo
+In this article
 ----------
 
 * [¿Qué son los Derechos de Uso de los Productos (DMCA)?](#what-is-the-dmca)

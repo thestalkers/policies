@@ -15,9 +15,9 @@ GitHub Codespaces Privacy Statement
 
 Effective Date: August 10, 2021
 
-Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/en/github/site-policy/github-privacy-statement).
+Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement).
 
-Activity on github.dev is subject to [GitHub's Beta Previews terms](/en/github/site-policy/github-terms-of-service#j-beta-previews)
+Activity on github.dev is subject to [GitHub's Beta Previews terms](/en/site-policy/github-terms/github-terms-of-service#j-beta-previews)
 
 [](#using-visual-studio-code)Using Visual Studio Code
 ----------
