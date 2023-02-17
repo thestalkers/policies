@@ -1,4 +1,4 @@
-Guia para Enviar uma Notificação de Remoção da DMCA - GitHub Docs
+Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
-* [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Guide to Submitting a DMCA Takedown Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Guia para Enviar uma Notificação de Remoção da DMCA
+Guide to Submitting a DMCA Takedown Notice
 ==========
 
 In this article
@@ -26,7 +26,7 @@ In this article
 
 * [Como enviar sua reclamação](#how-to-submit-your-complaint)
 
-Este guia descreve as informações de que o GitHub precisa para processar uma solicitação de remoção da DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/articles/dmca-takedown-policy).
+Este guia descreve as informações de que o GitHub precisa para processar uma solicitação de remoção da DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy).
 
 Devido ao tipo de conteúdo que o GitHub hospeda (principalmente código de software) e à maneira como esse conteúdo é gerenciado (com Git), precisamos que as reclamações sejam tão específicas quanto possível. Estas diretrizes foram elaboradas para tornar o processamento de notificações de supostas violações o mais simples possível. Nosso formulário de notificação apresentado abaixo é consistente com o formulário sugerido pelo estatuto da DMCA, que pode ser encontrado no site oficial do US Copyright Office: <https://www.copyright.gov>.
 
@@ -41,7 +41,7 @@ Como em todas as questões jurídicas, é sempre melhor consultar um profissiona
 
 ***Primeiro pergunte gentilmente.*** Um ótimo primeiro passo antes de nos enviar uma notificação de remoção é tentar entrar em contato diretamente com o usuário. Ele pode ter fornecido informações de contato na respectiva página de perfil público ou no README do repositório, ou você pode entrar em contato abrindo um chamado ou uma solicitação de pull no repositório. Isso não é rigorosamente necessário, mas é elegante.
 
-***Envie a solicitação correta.*** Podemos aceitar notificações de remoção da DMCA somente referentes a trabalhos protegidos por direitos autorais e que identifiquem um trabalho específico protegido por direitos autorais. Se você tiver uma reclamação sobre abuso de marca registrada, consulte nossa [política de marcas registradas](/pt/articles/github-trademark-policy). Se você deseja remover dados sigilosos, como senhas, consulte nossa [política sobre dados sigilosos](/pt/articles/github-sensitive-data-removal-policy). Se você estiver lidando com difamação ou outro comportamento abusivo, consulte nossas [Diretrizes da Comunidade](/pt/articles/github-community-guidelines).
+***Envie a solicitação correta.*** Podemos aceitar notificações de remoção da DMCA somente referentes a trabalhos protegidos por direitos autorais e que identifiquem um trabalho específico protegido por direitos autorais. Se você tiver uma reclamação sobre abuso de marca registrada, consulte nossa [política de marcas registradas](/pt/site-policy/content-removal-policies/github-trademark-policy). Se você deseja remover dados sigilosos, como senhas, consulte nossa [política sobre dados sigilosos](/pt/site-policy/content-removal-policies/github-private-information-removal-policy). Se você estiver lidando com difamação ou outro comportamento abusivo, consulte nossas [Diretrizes da Comunidade](/pt/site-policy/github-terms/github-community-guidelines).
 
 ***O código é diferente de outro conteúdo criativo.*** O GitHub foi desenvolvido para colaboração em código de software. Isso torna a identificação de uma violação de direitos autorais válida mais complicada do que seria, por exemplo, para fotos, músicas ou vídeos.
 
@@ -59,9 +59,9 @@ Esta lista não é completa, e é por isso que conversar com um profissional da 
 
 ***Questões de direitos autorais são difíceis.*** Pode ser muito difícil determinar se uma determinada obra está ou não protegida por direitos autorais. Por exemplo, fatos (incluindo dados) geralmente não são protegidos por direitos autorais. Palavras e frases curtas geralmente não são protegidas por direitos autorais. URLs e nomes de domínio geralmente não são protegidos por direitos autorais. Como você só pode usar o processo de DMCA para tratar de conteúdo protegido por direitos autorais, fale com um advogado se tiver dúvidas sobre se seu conteúdo pode ou não ser protegido.
 
-***Você pode receber uma contranotificação.*** Qualquer usuário afetado por sua notificação de remoção pode decidir enviar uma [contranotificação](/pt/articles/guide-to-submitting-a-dmca-counter-notice). Nesse caso, reativaremos o respectivo conteúdo em 10 a 14 dias, a menos que você nos notifique de que iniciou uma ação legal para impedir que o usuário realize atividades infratoras relacionadas ao conteúdo no GitHub.
+***Você pode receber uma contranotificação.*** Qualquer usuário afetado por sua notificação de remoção pode decidir enviar uma [contranotificação](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Nesse caso, reativaremos o respectivo conteúdo em 10 a 14 dias, a menos que você nos notifique de que iniciou uma ação legal para impedir que o usuário realize atividades infratoras relacionadas ao conteúdo no GitHub.
 
-***Sua reclamação será publicada.*** Conforme observado em nossa [Política de Remoção da DMCA](/pt/articles/dmca-takedown-policy#d-transparency), depois de editar as informações pessoais, publicamos todas as notificações de remoção completas e acionáveis em <https://github.com/github/dmca>.
+***Sua reclamação será publicada.*** Conforme observado em nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), depois de editar as informações pessoais, publicamos todas as notificações de remoção completas e acionáveis em <https://github.com/github/dmca>.
 
 ***O GitHub não é o juiz.***O GitHub tem pouca atuação no processo além de determinar se as notificações atendem aos requisitos mínimos da DMCA. Cabe às partes (e seus advogados) avaliar o mérito dos requisitos judiciais e/ou extrajudiciais, lembrando que as notificações devem ser feitas sob pena de perjúrio.
 
@@ -74,7 +74,7 @@ Esta lista não é completa, e é por isso que conversar com um profissional da 
 
 3. **Identificar o material que você alega estar violando o trabalho protegido por direitos autorais indicado no item 2 acima.** É importante ser o mais específico possível em sua identificação. Essa identificação precisa ser razoavelmente suficiente para permitir que o GitHub localize o material. No mínimo, isso significa que você deve incluir o URL do material que supostamente viola seus direitos autorais. Se você alegar que menos de um repositório inteiro é infrator, identifique os arquivos específicos ou os números de linha dentro de um arquivo supostamente infrator. Se você alegar que todo o conteúdo em um URL é infrator, seja explícito sobre isso também.
 
-   * O GitHub *não* desativará automaticamente [forks](/pt/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork) ao desabilitar um repositório pai. Se você investigou e analisou os forks de um repositório e acredita que eles também são infratores, identifique explicitamente cada fork supostamente infrator. Confirme também que você investigou cada caso individual e que suas declarações juramentadas se aplicam a cada fork identificado. Em casos raros, você pode estar alegando violação de direitos autorais em um repositório completo do qual foi criado ativamente um fork. Se, no momento em que você enviou a notificação, você identificou todos os forks existentes desse repositório como supostamente infratores, processaremos um requerimento judicial e/ou extrajudicial válido contra todos os forks nessa rede no momento em que processarmos a notificação. Faríamos isso dada a probabilidade de todos os forks recém-criados conterem o mesmo conteúdo. Além disso, se a rede denunciada que contém o conteúdo supostamente infrator for maior que 100 (cem) repositórios e, portanto, difícil de revisar integralmente, poderemos considerar a desativação de toda a rede se você declarar na notificação que, “Com base no número representativo de forks revisados, acredito que todos ou a maioria dos forks estão infringindo na mesma extensão do repositório pai”. Sua declaração juramentada se aplicaria a esta declaração.
+   * O GitHub *não* desativará automaticamente [forks](/pt/site-policy/content-removal-policies/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork) ao desabilitar um repositório pai. Se você investigou e analisou os forks de um repositório e acredita que eles também são infratores, identifique explicitamente cada fork supostamente infrator. Confirme também que você investigou cada caso individual e que suas declarações juramentadas se aplicam a cada fork identificado. Em casos raros, você pode estar alegando violação de direitos autorais em um repositório completo do qual foi criado ativamente um fork. Se, no momento em que você enviou a notificação, você identificou todos os forks existentes desse repositório como supostamente infratores, processaremos um requerimento judicial e/ou extrajudicial válido contra todos os forks nessa rede no momento em que processarmos a notificação. Faríamos isso dada a probabilidade de todos os forks recém-criados conterem o mesmo conteúdo. Além disso, se a rede denunciada que contém o conteúdo supostamente infrator for maior que 100 (cem) repositórios e, portanto, difícil de revisar integralmente, poderemos considerar a desativação de toda a rede se você declarar na notificação que, “Com base no número representativo de forks revisados, acredito que todos ou a maioria dos forks estão infringindo na mesma extensão do repositório pai”. Sua declaração juramentada se aplicaria a esta declaração.
 
 4. **Explicar o que o usuário afetado precisaria fazer para remediar a violação.** Novamente, a especificidade é importante. Ao encaminharmos sua reclamação ao usuário, ela informará o que ele precisa fazer para evitar que o restante do conteúdo seja desativado. O usuário só precisa adicionar uma declaração de atribuição? Ele precisa excluir determinadas linhas em seu código ou arquivos inteiros? Obviamente, entendemos que, em alguns casos, todo o conteúdo de um usuário pode ser acusado de violação e não há nada que ele possa fazer a não ser excluir tudo. Se for esse o caso, deixe isso claro também.
 

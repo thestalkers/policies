@@ -1,4 +1,4 @@
-GitHub 附加产品和功能条款 - GitHub Docs
+GitHub Terms for Additional Products and Features - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-GitHub 附加产品和功能条款
+GitHub Terms for Additional Products and Features
 ==========
 
 In this article
@@ -65,7 +65,7 @@ In this article
 
 GitHub Actions 使你能够直接在 GitHub 存储库中创建自定义软件开发生命周期工作流程。 Actions 按使用情况计费。 [Actions 文档](/zh/actions)包含详细信息，包括计算和存储量（取决于您的帐户计划）以及如何监控您的 Actions 分钟使用情况和设置使用限制。
 
-对 Actions 以及任何 Action 产品或服务元素的使用不得违反协议、[GitHub 可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)或 [Actions 文档](/zh/actions/reference/usage-limits-billing-and-administration)规定的 GitHub Actions 服务限制。 此外，无论操作是否使用自托管运行器，Actions 都不应用于：
+对 Actions 以及任何 Action 产品或服务元素的使用不得违反协议、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Actions 文档](/zh/actions/learn-github-actions/usage-limits-billing-and-administration)规定的 GitHub Actions 服务限制。 此外，无论操作是否使用自托管运行器，Actions 都不应用于：
 
 * 加密货币挖矿；
 * 破坏、获取或试图未经授权而访问任何服务、设备、数据、帐户或网络（[GitHub Bug 赏金计划](https://bounty.github.com)授权的除外）；
@@ -94,7 +94,7 @@ GitHub Actions 使你能够直接在 GitHub 存储库中创建自定义软件开
 [](#advanced-security)Advanced Security
 ----------
 
-GitHub 根据 Advanced Security 许可证向客户提供额外的安全功能。 这些功能包括代码扫描、秘密扫描和依赖项审查。 [Advanced Security 文档](/zh/github/getting-started-with-github/about-github-advanced-security)提供更多详细信息。
+GitHub 根据 Advanced Security 许可证向客户提供额外的安全功能。 这些功能包括代码扫描、秘密扫描和依赖项审查。 [Advanced Security 文档](/zh/get-started/learning-about-github/about-github-advanced-security)提供更多详细信息。
 
 Advanced Security 基于“唯一提交者”获得许可。 “唯一提交者”是 GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server 或 GitHub AE 的许可用户，他们在过去 90 天内在激活了 GitHub Advanced Security 功能的任何存储库中进行过提交。 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能对由您开发或为您开发的代码库使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些 Advanced Security 功能还需要使用 GitHub Actions。
 
@@ -128,7 +128,7 @@ GitHub Codespaces 使您能够直接从浏览器中使用 GitHub 存储库中的
 
 Codespaces 允许您从 Microsoft Visual Studio Marketplace 加载扩展（“Marketplace Extensions”）以在开发环境中使用，例如，用于处理编写代码所使用的编程语言。 Marketplace Extensions 根据其自己的单独使用条款（如 Visual Studio Marketplace 中所述）以及位于 <https://aka.ms/vsmarketplace-ToU> 的使用条款进行许可。 GitHub 对 Marketplace Extensions 不作任何形式的保证，对于有权访问您的内容的 Marketplace Extensions 的第三方作者的行为也概不负责。 Codespaces 还允许您通过 devcontainer 功能将软件加载到您的环境中。 此类软件根据其随附的单独使用条款提供。 您使用任何第三方应用程序由您自行承担风险。
 
-Codespaces 的通用版本当前不适用于美国政府客户。 美国政府客户可以在单独条款下继续使用 Codespaces Beta 预览版。 请参阅 [Beta 预览版条款](/zh/github/site-policy/github-terms-of-service#j-beta-previews)。
+Codespaces 的通用版本当前不适用于美国政府客户。 美国政府客户可以在单独条款下继续使用 Codespaces Beta 预览版。 请参阅 [Beta 预览版条款](/zh/site-policy/github-terms/github-terms-of-service#j-beta-previews)。
 
 [](#competitive-benchmarking)竞争基准分析
 ----------
@@ -138,7 +138,7 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 [](#connect)连接
 ----------
 
-使用 GitHub Connect，您可以在 GitHub Enterprise Server 或 GitHub AE 部署与您的 GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间共享特定功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 或 GitHub AE 部署。 您通过 Connect 对 GitHub Enterprise Cloud 或 GitHub.com 的使用受您许可 GitHub Enterprise Cloud 或 GitHub.com 所依据的条款管理。 对个人数据的使用受 [GitHub 隐私声明](/zh/github/site-policy/github-privacy-statement)管理。
+使用 GitHub Connect，您可以在 GitHub Enterprise Server 或 GitHub AE 部署与您的 GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间共享特定功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 或 GitHub AE 部署。 您通过 Connect 对 GitHub Enterprise Cloud 或 GitHub.com 的使用受您许可 GitHub Enterprise Cloud 或 GitHub.com 所依据的条款管理。 对个人数据的使用受 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)管理。
 
 [](#github-copilot)GitHub Copilot
 ----------
@@ -170,22 +170,22 @@ npm 是一种软件包托管服务，允许您以私有方式或公开方式托�
 [](#packages)服务包
 ----------
 
-GitHub Packages 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 GitHub Packages 按使用情况计费。 [Packages 文档](/zh/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages 带宽使用受 [GitHub 可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)的限制。
+GitHub Packages 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 GitHub Packages 按使用情况计费。 [Packages 文档](/zh/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages 带宽使用受 [GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的限制。
 
 [](#pages)Pages
 ----------
 
-每个帐户都可以访问 [GitHub Pages 静态托管服务](/zh/github/working-with-github-pages/about-github-pages)。 GitHub Pages 旨在托管静态网页，但主要用作个人和组织项目的展示。
+每个帐户都可以访问 [GitHub Pages 静态托管服务](/zh/pages/getting-started-with-github-pages/about-github-pages)。 GitHub Pages 旨在托管静态网页，但主要用作个人和组织项目的展示。
 
 GitHub Pages 并非旨在用于或允许用作免费的 Web 托管服务来运行您的在线业务、电子商务站点或主要针对促进商业交易或提供商业软件即服务 (SaaS) 的任何其他网站。 用户可在 Pages 上进行一些与货币有关的工作，如捐款按钮和筹款链接。
 
 *带宽和使用限制*
 
-GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于某些高带宽用途。 请参阅我们的 [GitHub Pages 限制](/zh/github/working-with-github-pages/about-github-pages)，了解更多信息。
+GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于某些高带宽用途。 请参阅我们的 [GitHub Pages 限制](/zh/pages/getting-started-with-github-pages/about-github-pages)，了解更多信息。
 
 *禁止的使用情形*
 
-对 GitHub Pages 的使用不得违反协议、GitHub [可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)或 [Pages 文档](/zh/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)规定的 GitHub Pages 服务限制。
+对 GitHub Pages 的使用不得违反协议、GitHub [可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Pages 文档](/zh/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)规定的 GitHub Pages 服务限制。
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
@@ -197,7 +197,7 @@ GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于�
 [](#sponsors-program)赞助商计划
 ----------
 
-GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、构建和维护自身所依赖的开源项目的人员及组织提供经济支持。 要成为受赞助开发人员，您必须同意 [GitHub 赞助商计划附加条款](/zh/github/site-policy/github-sponsors-additional-terms)。
+GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、构建和维护自身所依赖的开源项目的人员及组织提供经济支持。 要成为受赞助开发人员，您必须同意 [GitHub 赞助商计划附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)。
 
 [](#sql-server-images)SQL Server Images
 ----------

@@ -1,4 +1,4 @@
-Directiva de Privacidad de Candidatos de GitHub - GitHub Docs
+GitHub Candidate Privacy Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/
-* [Directiva de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub Candidate Privacy Policy](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-Directiva de Privacidad de Candidatos de GitHub
+GitHub Candidate Privacy Policy
 ==========
 
 In this article
@@ -40,7 +40,7 @@ A efectos de esta directiva:
 
 «Información Personal del Candidato» se refiere a cualquier información que recopilamos sobre uno de nuestros Candidatos durante el proceso de solicitud o contratación que podría, por sí sola o en combinación con otra información, identificarlo personalmente o vincularse o conectarse razonablemente con esa persona.
 
-Esta directiva no se aplica al uso de los servicios de GitHub, que están cubiertos por la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
+Esta directiva no se aplica al uso de los servicios de GitHub, que están cubiertos por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
 [](#what-candidate-personal-information-do-we-collect)¿Qué Información Personal del Candidato recopilamos?
 ----------

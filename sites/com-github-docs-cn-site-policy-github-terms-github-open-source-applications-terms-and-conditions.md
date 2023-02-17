@@ -1,4 +1,4 @@
-GitHub 开源应用程序条款和条件 - GitHub Docs
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [GitHub Open Source Applications Terms and Conditions](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub 开源应用程序条款和条件
+GitHub Open Source Applications Terms and Conditions
 ==========
 
 In this article
@@ -58,7 +58,7 @@ In this article
 [](#privacy)隐私
 ----------
 
-软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/articles/github-privacy-statement)处理这些信息。
+软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)处理这些信息。
 
 [](#additional-services)其他服务
 ----------

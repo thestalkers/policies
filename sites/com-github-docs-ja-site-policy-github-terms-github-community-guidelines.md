@@ -1,4 +1,4 @@
-GitHub コミュニティ ガイドライン - GitHub Docs
+GitHub Community Guidelines - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
+* [GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines)
 
-GitHub コミュニティ ガイドライン
+GitHub Community Guidelines
 ==========
 
 In this article
@@ -52,11 +52,11 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 意見の相違には、コミュニティ メンバーの間の直接的で敬意を払ったコミュニケーションによって解決できるものもありますが、必ずしもそうはならないことを当社は理解しています。 当社では、コミュニティ内のコンテンツやアクティビティが当社のポリシーに違反していると思われる場合は、[当社にお知らせいただく](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified)ことをお勧めします。 ただし、サイト上上の何かまたは何ものかがお客様の感情を害した場合、GitHub でアクションを起こす方法がいくつかあります。
 
-* **期待を伝える** - 管理者は、リポジトリの README、[CONTRIBUTING ファイル](/ja/articles/setting-guidelines-for-repository-contributors)、または[専用の行動規範](/ja/articles/adding-a-code-of-conduct-to-your-project)など、ユーザーが自分のプロジェクトと対話する方法をユーザーが理解できるように、コミュニティ専用のガイドラインを設定できます。 コミュニティの構築に関する詳細については、[こちら](/ja/communities)をご覧ください。
+* **期待を伝える** - 管理者は、リポジトリの README、[CONTRIBUTING ファイル](/ja/articles/setting-guidelines-for-repository-contributors)、または[専用の行動規範](/ja/articles/adding-a-code-of-conduct-to-your-project)など、ユーザーが自分のプロジェクトと対話する方法をユーザーが理解できるように、コミュニティ専用のガイドラインを設定できます。 コミュニティの構築に関する詳細については、[コミュニティ](/ja/communities)に関するページを参照してください。
 
 * **コメントをモデレートする** - リポジトリの[書き込みアクセス権](/ja/articles/repository-permission-levels-for-an-organization)を持つユーザーは、コミット、プル リクエスト、およびイシューに関する[ユーザーのコメントを編集、削除、または非表示にする](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments)ことができます。 リポジトリへの読み取りアクセス権を持つユーザーは、コメントの編集履歴を表示できます。 コメント作成者とリポジトリへの書き込みアクセス権を持つユーザーは、[コメントの編集履歴](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)から機密情報を削除することもできます。 多くのアクティビティがある場合、プロジェクトのモデレートは大きな作業のように感じるかもしれませんが、[コラボレーター](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)を追加してコミュニティの管理を支援することができます。
 
-* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的な[ロック](/ja/articles/locking-conversations)をかけることができます。
+* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳細については、[会話のロック](/ja/articles/locking-conversations)に関するページを参照してください。
 
 * **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/articles/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/articles/blocking-a-user-from-your-organization)できます。
 

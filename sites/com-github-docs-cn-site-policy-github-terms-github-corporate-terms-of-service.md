@@ -1,4 +1,4 @@
-GitHub 公司服务条款 - GitHub Docs
+GitHub Corporate Terms of Service - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)
+* [GitHub Corporate Terms of Service](/zh/site-policy/github-terms/github-corporate-terms-of-service)
 
-GitHub 公司服务条款
+GitHub Corporate Terms of Service
 ==========
 
 In this article
@@ -79,7 +79,7 @@ In this article
 
 **“关联公司”** 是指任何直接或间接控制一方、被一方控制或与一方处于共同控制之下的实体，这里的“控制”是指持有相关实体百分之五十 (50%) 以上的所有权，或拥有指导相关实体管理层的权利。
 
-**“协议”** 统指本文档中包含或引用的所有条款、条件、通知，以及 GitHub 可能会不时发布的与服务有关的所有其他运作规则、政策和程序。 GitHub 的站点政策可在 [https://docs.github.com/categories/site-policy](/zh/categories/site-policy) 查阅。
+**“协议”** 统指本文档中包含或引用的所有条款、条件、通知，以及 GitHub 可能会不时发布的与服务有关的所有其他运作规则、政策和程序。 GitHub 的站点政策可在 [https://docs.github.com/categories/site-policy](/zh/site-policy) 查阅。
 
 **“所有用户”** 统指客户的用户以及使用服务的外部用户。
 
@@ -148,7 +148,7 @@ In this article
 
 ### [](#1-account-controls)1.帐户控制。 ###
 
-* 用户。 客户确认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub 的标准服务条款](/zh/articles/github-terms-of-service)管辖用户对服务的使用，但第 B 节下所述的用户活动除外。
+* 用户。 客户确认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub 的标准服务条款](/zh/site-policy/github-terms/github-terms-of-service)管辖用户对服务的使用，但第 B 节下所述的用户活动除外。
 
 * 组织。 根据第 B 节，客户对代表客户创建的任何组织以及发布到其组织内存储库的用户生成内容具有最终管理控制权。第 B 节管辖客户组织的使用。
 
@@ -160,7 +160,7 @@ In this article
 
 * 用户的登录信息不能由多个人共享。
 
-* 客户在以下情况下不得使用产品：(a) 违反美国或任何其他司法管辖区的出口管制或制裁法律；(b) 客户位于或通常居住于受到美国“海外资产管理办公室”(OFAC) 全面制裁的国家或地区；或 (c) 客户是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或代表其工作，或者是受到类似封锁或拒绝方禁令约束的个人。 有关更多信息，请参阅我们的[出口管制政策](/zh/articles/github-and-export-controls)。
+* 客户在以下情况下不得使用产品：(a) 违反美国或任何其他司法管辖区的出口管制或制裁法律；(b) 客户位于或通常居住于受到美国“海外资产管理办公室”(OFAC) 全面制裁的国家或地区；或 (c) 客户是[特别指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) 或代表其工作，或者是受到类似封锁或拒绝方禁令约束的个人。 有关更多信息，请参阅我们的[出口管制政策](/zh/site-policy/other-site-policies/github-and-trade-controls)。
 
 ### [](#3-account-security)3.帐户安全 ###
 
@@ -172,11 +172,11 @@ In this article
 
 ### [](#5-us-federal-government-terms)5.美国联邦政府条款 ###
 
-如果客户是美国政府实体或以政府身份访问或使用服务，则[美国联邦政府修正案](/zh/articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)适用，并且客户同意其条款。
+如果客户是美国政府实体或以政府身份访问或使用服务，则[美国联邦政府修正案](/zh/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)适用，并且客户同意其条款。
 
 ### [](#6-enterprise-cloud-service-level-agreement)6.Enterprise Cloud 服务级别协议 ###
 
-GitHub 在[企业服务级别协议](/zh/github/site-policy/github-enterprise-service-level-agreement)中提供了 GitHub Enterprise Cloud 的季度正常运行时间承诺。 客户注册 GitHub Enterprise Cloud 后，如果 GitHub 未达到其服务级别，则客户将有权获得服务积分。
+GitHub 在[企业服务级别协议](/zh/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement)中提供了 GitHub Enterprise Cloud 的季度正常运行时间承诺。 客户注册 GitHub Enterprise Cloud 后，如果 GitHub 未达到其服务级别，则客户将有权获得服务积分。
 
 [](#c-compliance-with-laws-acceptable-use-privacy)C. 遵守法律；可接受的使用；隐私
 ----------
@@ -187,11 +187,11 @@ GitHub 在[企业服务级别协议](/zh/github/site-policy/github-enterprise-se
 
 ### [](#2-acceptable-use)2.可接受的使用 ###
 
-客户对服务的使用必须遵守 [GitHub 的可接受使用政策](/zh/articles/github-acceptable-use-policies)和 [GitHub 的社区指导方针](/zh/articles/github-community-guidelines)。 客户不得在任何司法管辖区将服务用于非法、淫秽、冒犯性或欺诈性内容或活动，例如鼓吹或造成伤害；干扰或违反网络或系统的完整性或安全性；避开过滤器；发送未经请求、辱骂性或欺诈性消息、病毒或有害代码；或者侵犯第三方权利。
+客户对服务的使用必须遵守 [GitHub 的可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和 [GitHub 的社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)。 客户不得在任何司法管辖区将服务用于非法、淫秽、冒犯性或欺诈性内容或活动，例如鼓吹或造成伤害；干扰或违反网络或系统的完整性或安全性；避开过滤器；发送未经请求、辱骂性或欺诈性消息、病毒或有害代码；或者侵犯第三方权利。
 
 ### [](#3-privacy)3.隐私 ###
 
-[GitHub 隐私声明](/zh/articles/github-privacy-statement)和 [GitHub 数据保护协议](https://github.com/customer-terms)详细说明了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 从服务收集数据的任何个人、实体或服务都必须遵守 GitHub 隐私声明，尤其是在收集个人数据方面（如 GitHub 隐私声明中所定义）。 如果客户从 GitHub 收集任何个人信息，则客户只会将其用于外部用户授权的目的。 客户将合理地保护任何此类个人信息，并且客户会及时回应 GitHub 或外部用户的投诉、删除请求和“请勿联系”请求。
+[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)和 [GitHub 数据保护协议](https://github.com/customer-terms)详细说明了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 从服务收集数据的任何个人、实体或服务都必须遵守 GitHub 隐私声明，尤其是在收集个人数据方面（如 GitHub 隐私声明中所定义）。 如果客户从 GitHub 收集任何个人信息，则客户只会将其用于外部用户授权的目的。 客户将合理地保护任何此类个人信息，并且客户会及时回应 GitHub 或外部用户的投诉、删除请求和“请勿联系”请求。
 
 [](#d-content-responsibility-ownership-license-rights)D. 内容责任；所有权；许可权利
 ----------
@@ -235,13 +235,13 @@ GitHub 将客户私有存储库中的客户内容视为客户的机密信息。 
 
 ### [](#3-access)3.访问 ###
 
-GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/github-privacy-statement#repository-contents)所述的情况下访问客户的私有存储库。
+GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#repository-contents)所述的情况下访问客户的私有存储库。
 
 客户可选择对其私有存储库启用额外访问权限。 例如，客户可以启用需要对私有存储库中的客户内容拥有额外权限的各种 GitHub 服务或功能。 根据服务或功能的不同，这些权利可能有所不同，但 GitHub 仍会将客户私有存储库中的客户内容视为客户的机密信息。 如果这些服务或功能除了提供服务所需的权利之外，还需要其他权利，GitHub 将对这些权利进行解释。
 
-此外，我们可能会[按法律要求](/zh/github/site-policy/github-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
+此外，我们可能会[按法律要求](/zh/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
 
-除非[出于法律披露目的](/zh/github/site-policy/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
+除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
 
 [](#f-intellectual-property-notice)F. 知识产权声明
 ----------
@@ -260,7 +260,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/githu
 
 ### [](#4-copyright-infringement-and-dmca-policy)4.版权侵犯和 DMCA 政策 ###
 
-如果客户是版权所有者，并且认为服务上的内容侵犯了其版权，则客户可根据 GitHub 的[千禧年数字著作权法案](/zh/articles/dmca-takedown-policy)，通过 [DMCA 表](https://github.com/contact/dmca)联系 GitHub，或发送电子邮件至 [copyright@github.com](mailto:copyright@github.com)。
+如果客户是版权所有者，并且认为服务上的内容侵犯了其版权，则客户可根据 GitHub 的[千禧年数字著作权法案](/zh/site-policy/content-removal-policies/dmca-takedown-policy)，通过 [DMCA 表](https://github.com/contact/dmca)联系 GitHub，或发送电子邮件至 [copyright@github.com](mailto:copyright@github.com)。
 
 ### [](#5-intellectual-property-rights-reserved)5.保留知识产权 ###
 
@@ -269,7 +269,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/githu
 [](#g-github-additional-product-terms)G. GitHub 附加产品条款
 ----------
 
-某些服务功能可能受 [GitHub 附加产品条款](/zh/github/site-policy/github-additional-product-terms)中规定的附加条款的约束。 客户访问或使用这些功能，即表示同意 GitHub 附加产品条款。
+某些服务功能可能受 [GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)中规定的附加条款的约束。 客户访问或使用这些功能，即表示同意 GitHub 附加产品条款。
 
 [](#h-subscription-licenses)H. 订购许可
 ----------
@@ -288,7 +288,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/githu
 
 **付款方式** 我们的定价发布于 [github.com/pricing](https://github.com/pricing)（除非双方另有协商并在订单中说明）。 客户同意以美元全额支付费用，预先没有任何形式的扣除或抵销。 客户必须在 GitHub 开票日期的三十 (30) 天内支付费用。 除非本协议另有规定，否则根据本协议应付的金额不可退款。 如果客户未能按时支付任何费用，则除了依据法律或衡平法采取任何其他行动之外，GitHub 还有权 (i) 以每月 1.0% 或法律允许的最高利率（取较小者）对逾期未付款项收取利息，并收取所有恢复费用，以及 (ii) 终止适用的订单或 SOW。 客户自行负责本协议造成或与之相关的所有税款、费用、关税和政府核定税额（基于 GitHub 净收入的税款除外）。
 
-**基于使用情况的计费** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择购买超出计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 购买了付费服务功能的客户将需要根据提前开具的发票每月定期支付所欠款项。 请参阅 [GitHub 附加产品条款，了解详情](/zh/github/site-policy/github-additional-product-terms)。
+**基于使用情况的计费** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择购买超出计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 购买了付费服务功能的客户将需要根据提前开具的发票每月定期支付所欠款项。 请参阅 [GitHub 附加产品条款，了解详情](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
 
 ### [](#2-purchasing-additional-subscription-licenses)2.购买附加订阅许可 ###
 
@@ -342,7 +342,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/github/site-policy/githu
 
 ### [](#2-legal-notice-to-github-must-be-in-writing)2.向 GitHub 发出的法律声明必须采用书面形式 ###
 
-在合同或者任何法律或条例要求向 GitHub 发出通知的任何情况下，通过电子邮件或 GitHub 支持部门的消息发送系统进行的通信不构成向 GitHub 发出的法律声明。 向 GitHub 发出的法律声明必须采用书面形式，并且[提供给 GitHub 的法定代理人](/zh/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests)。
+在合同或者任何法律或条例要求向 GitHub 发出通知的任何情况下，通过电子邮件或 GitHub 支持部门的消息发送系统进行的通信不构成向 GitHub 发出的法律声明。 向 GitHub 发出的法律声明必须采用书面形式，并且[提供给 GitHub 的法定代理人](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests)。
 
 [](#m-limited-warranty-disclaimer)M. 有限保证；免责声明
 ----------
@@ -401,7 +401,7 @@ GitHub 通过更新和添加新功能来更改服务。 尽管有上述规定，
 [](#s-support)S. 支持
 ----------
 
-GitHub 每周五 (5) 天（不包括周末和美国全国性假日）每天二十四 (24) 小时为服务提供标准技术支持，不收取额外费用。 标准支持仅通过 GitHub 支持以基于 Web 的支持单系统提供，支持请求必须由 GitHub 支持团队可与之互动的用户发起。 GitHub 按订单或 SOW 规定的支持级别、费用和订阅期为服务提供高级支持（受 [GitHub 对 Enterprise Cloud 的高级支持](/zh/articles/about-github-premium-support)条款约束）或专门的技术支持。
+GitHub 每周五 (5) 天（不包括周末和美国全国性假日）每天二十四 (24) 小时为服务提供标准技术支持，不收取额外费用。 标准支持仅通过 GitHub 支持以基于 Web 的支持单系统提供，支持请求必须由 GitHub 支持团队可与之互动的用户发起。 GitHub 按订单或 SOW 规定的支持级别、费用和订阅期为服务提供高级支持（受 [GitHub 对 Enterprise Cloud 的高级支持](/zh/support/learning-about-github-support/about-github-premium-support)条款约束）或专门的技术支持。
 
 [](#t-miscellaneous)T. 其他
 ----------

@@ -1,4 +1,4 @@
-DMCA 抗辩通知提交指南 - GitHub Docs
+Guide to Submitting a DMCA Counter Notice - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [内容删除政策](/zh/site-policy/content-removal-policies)/
-* [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Guide to Submitting a DMCA Counter Notice](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-DMCA 抗辩通知提交指南
+Guide to Submitting a DMCA Counter Notice
 ==========
 
 In this article
@@ -24,7 +24,7 @@ In this article
 
 * [如何提交抗辩通知](#how-to-submit-your-counter-notice)
 
-本指南说明了 GitHub 处理 DMCA 下架请求抗辩通知所需的信息。 如果您对 DMCA 是什么或 GitHub 如何处理 DMCA 下架请求有更多常规问题，请参阅我们的 [DMCA 下架政策](/zh/articles/dmca-takedown-policy)。
+本指南说明了 GitHub 处理 DMCA 下架请求抗辩通知所需的信息。 如果您对 DMCA 是什么或 GitHub 如何处理 DMCA 下架请求有更多常规问题，请参阅我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)。
 
 如果您认为 DMCA 下架请求错误禁用了您在 GitHub 上的内容，您有权通过提交抗辩通知来反对下架。 如果您这样做，我们将等待 10-14 天，然后重新启用您的内容，除非版权所有者在此之前对您提起法律诉讼。 下述抗辩通知形式与 DMCA 法规建议的形式一致，您可以登录美国版权局官方网站<https://www.copyright.gov> 查看该法规。
 
@@ -50,7 +50,7 @@ In this article
 
 ***抗辩通知是法律声明。***我们要求您完整填写抗辩通知的所有字段，因为抗辩通知是一种法律声明，不仅是对我们的声明，也是对投诉方的声明。 如上所述，如果投诉方在收到抗辩通知后，希望继续禁用内容，则他们需要发起法律诉讼，寻求通过法院命令制止您从事与 GitHub 上的内容相关的侵权活动。 换句话说，您可能会被起诉（并且您在抗辩通知中同意这一点）。
 
-***您的抗辩通知将被公布。***如我们的 [DMCA 下架政策](/zh/articles/dmca-takedown-policy#d-transparency)所述，**在删除个人信息后**，我们将在 <https://github.com/github/dmca> 上发布所有完整、可诉的抗辩通知。 另请注意，尽管我们仅公开发布经删节的通知，但我们可能会向权利受影响的任何相关方直接提供相关通知的完整未删节版。 如果您担心自己的隐私，可以请律师或其他法律代表作为您的代表提交抗辩通知。
+***您的抗辩通知将被公布。***如我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)所述，**在删除个人信息后**，我们将在 <https://github.com/github/dmca> 上发布所有完整、可诉的抗辩通知。 另请注意，尽管我们仅公开发布经删节的通知，但我们可能会向权利受影响的任何相关方直接提供相关通知的完整未删节版。 如果您担心自己的隐私，可以请律师或其他法律代表作为您的代表提交抗辩通知。
 
 ***GitHub 不是法官。***除了确定通知是否符合 DMCA 的最低要求外，GitHub 在此过程中几乎不行使酌处权。 当事方（及其律师）应负责评估其投诉的合理性，并注意，此类通知受伪证处罚条款约束。
 

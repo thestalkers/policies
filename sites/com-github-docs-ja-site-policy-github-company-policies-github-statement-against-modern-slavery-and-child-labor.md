@@ -1,4 +1,4 @@
-GitHub の現代奴隷制と児童労働に反対する声明 - GitHub Docs
+GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
-* [GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [GitHub Statement Against Modern Slavery and Child Labor](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-GitHub の現代奴隷制と児童労働に反対する声明
+GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
 In this article
@@ -75,7 +75,7 @@ GitHub は、[人身売買との闘いに関する米国連邦調達規則 22.17
 
 さらに、GitHub は FairHotel Program と提携しています。これは、GitHub が従業員に対して、FairHotel が支持する、公正な給料、十分な福利厚生、従業員の声が職場に反映されるホテルを選ぶよう奨励していることを意味します。 また、FairHotel と提携していることは、公正な雇用者として、GitHub がホテルに仕事を提供していることも意味します。
 
-今後、GitHub はこの声明をすべての従業員、請負業者、および人材紹介業者や派遣事業者を含むサプライヤーに伝達していきます。 さらに、GitHub は現代奴隷制および児童労働について、GitHub の全従業員を対象とした研修を開発しています。 GitHub は、[「現代奴隷制と児童労働に反対する声明」を公に掲げています](/ja/articles/github-statement-against-modern-slavery-and-child-labor)。
+今後、GitHub はこの声明をすべての従業員、請負業者、および人材紹介業者や派遣事業者を含むサプライヤーに伝達していきます。 さらに、GitHub は現代奴隷制および児童労働について、GitHub の全従業員を対象とした研修を開発しています。 GitHub は、[「現代奴隷制と児童労働に反対する声明」を公に掲げています](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)。
 
 GitHub は、職場に関する懸念事項の報告について報復禁止ポリシーを持っています。 この声明に沿って、GitHub は従業員や請負業者が報復を恐れることなく現代奴隷制と児童労働に関する問題を報告できるようにしています。
 
@@ -143,4 +143,4 @@ GitHub で従業員が企業購買を行うための調達指示には、マイ�
 
 GitHub は、GitHub の事業とサプライ チェーンを視野に入れ、すべての従業員に義務付けられる現代奴隷制と児童労働に関する研修を開発しています。 GitHub は、イベントのサポート、建設、施設サービス、食品サービスなどの肉体労働が含まれるサービスを提供するサプライヤーを、潜在的なリスクがより高い分野として特に重点を置きます。
 
-**GitHub の取締役会は、[この声明](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf)を承認しました。**
+**GitHub の取締役会は、この声明を承認しました。[GitHub の最高戦略責任者兼法務顧問によって署名されたこの声明のコピー (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf) を参照してください。**

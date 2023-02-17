@@ -1,4 +1,4 @@
-GitHub 用户名政策 - GitHub Docs
+GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [其他站点政策](/zh/site-policy/other-site-policies)/
-* [GitHub 用户名政策](/zh/site-policy/other-site-policies/github-username-policy)
+* [GitHub Username Policy](/zh/site-policy/other-site-policies/github-username-policy)
 
-GitHub 用户名政策
+GitHub Username Policy
 ==========
 
 In this article
@@ -36,7 +36,7 @@ GitHub 帐户名按先到先得的原则提供，旨在供用户立即并积极�
 [](#trademark-policy)商标政策
 ----------
 
-如果您认为某个用户的帐户侵犯了您的商标权，您可以在我们的[商标政策](/zh/articles/github-trademark-policy)页面上找到有关提出商标投诉的更多信息。
+如果您认为某个用户的帐户侵犯了您的商标权，您可以在我们的[商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)页面上找到有关提出商标投诉的更多信息。
 
 [](#name-squatting-policy)帐户名抢注政策
 ----------

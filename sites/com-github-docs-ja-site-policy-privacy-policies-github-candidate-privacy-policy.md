@@ -1,4 +1,4 @@
-GitHub 応募者プライバシー ポリシー - GitHub Docs
+GitHub Candidate Privacy Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
-* [GitHub 応募者プライバシー ポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub Candidate Privacy Policy](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-GitHub 応募者プライバシー ポリシー
+GitHub Candidate Privacy Policy
 ==========
 
 In this article
@@ -40,7 +40,7 @@ In this article
 
 「応募者の個人情報」とは、当社が応募または採用プロセスで当社の応募者の 1 人に関して収集する情報を意味します。この情報だけで、または他の情報と共に、応募者個人を特定できるか、あるいは合理的に結び付けることができます。
 
-本ポリシーは、GitHub サービスの利用には適用されせん。GitHub サービスは、当社の[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)の適用対象となります。
+本ポリシーは、GitHub サービスの利用には適用されせん。GitHub サービスは、当社の[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)の適用対象となります。
 
 [](#what-candidate-personal-information-do-we-collect)当社が収集する応募者の個人情報
 ----------

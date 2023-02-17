@@ -1,4 +1,4 @@
-Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub - GitHub Docs
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [GitHub Open Source Applications Terms and Conditions](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub
+GitHub Open Source Applications Terms and Conditions
 ==========
 
 In this article
@@ -58,7 +58,7 @@ Los nombres GitHub, GitHub Desktop, GitHub para Mac, GitHub para Windows, the Oc
 [](#privacy)Privacidad
 ----------
 
-El Software puede recopilar datos personales. Usted puede controlar los datos que recopila el Software en el panel de configuración. Si el Software recopila datos personales en nombre de GitHub, GitHub tratará dichos datos de acuerdo con la [Declaración de Privacidad de GitHub](/es/articles/github-privacy-statement).
+El Software puede recopilar datos personales. Usted puede controlar los datos que recopila el Software en el panel de configuración. Si el Software recopila datos personales en nombre de GitHub, GitHub tratará dichos datos de acuerdo con la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
 [](#additional-services)Servicios adicionales
 ----------

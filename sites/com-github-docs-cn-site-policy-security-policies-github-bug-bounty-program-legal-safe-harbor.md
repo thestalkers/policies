@@ -1,4 +1,4 @@
-GitHub Bug 赏金计划法律安全港 - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,15 +10,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [安全政策](/zh/site-policy/security-policies)/
-* [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug 赏金计划法律安全港
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
 In this article
 ----------
 
-* [概述](#summary)
+* [总结](#summary)
 
 * [1.安全港条款](#1-safe-harbor-terms)
 
@@ -26,7 +26,7 @@ In this article
 
 * [3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
 
-[](#summary)概述
+[](#summary)总结
 ----------
 
 1. 我们希望您通过我们的 Bug 赏金计划协调披露，与此同时，我们不希望研究人员因为他们善意地试图遵守我们的 Bug 赏金政策而担心法律后果。 我们不能约束任何第三方，所以不要认为这种保护将延伸到任何第三方。 如有疑问，请在采取任何您认为*可能*超出我们政策范围的具体行动之前咨询我们。
@@ -56,4 +56,4 @@ In this article
 [](#3-limited-waiver-of-other-site-polices)3.其他站点政策的有限豁免
 ----------
 
-如果您的安全研究活动不符合我们[相关站点政策](/zh/categories/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！
+如果您的安全研究活动不符合我们[相关站点政策](/zh/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！

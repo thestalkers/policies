@@ -1,4 +1,4 @@
-GitHub 研究计划条款 - GitHub Docs
+GitHub Research Program Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 研究计划条款](/zh/site-policy/github-terms/github-research-program-terms)
+* [GitHub Research Program Terms](/zh/site-policy/github-terms/github-research-program-terms)
 
-GitHub 研究计划条款
+GitHub Research Program Terms
 ==========
 
 In this article
@@ -64,7 +64,7 @@ GitHub 可能会为您提供访问权限，使您可以访问世界上的其他�
 
 参与本计划，即表示您同意我们将您的个人信息用于研究目的，而不会用于任何其他目的。 作为计划的一部分，我们可能会使用您的个人信息与您联系，或者保留您的信息，以便日后与您联系。 个人信息不包括汇总的非个人识别信息。 我们可能会使用通过计划收集的汇总或其他非个人识别信息来运行、分析和改进我们的产品和服务。
 
-您可以随时撤回此项同意，并请求访问或删除我们持有的关于您的个人信息。 如需进一步了解您如何访问、更新、更改或删除 GitHub 通过计划收集的个人信息，请参阅 [GitHub 隐私声明](/zh/articles/github-privacy-statement)，或通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系。
+您可以随时撤回此项同意，并请求访问或删除我们持有的关于您的个人信息。 如需进一步了解您如何访问、更新、更改或删除 GitHub 通过计划收集的个人信息，请参阅 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)，或通过我们的 [隐私联系人表](https://github.com/contact/privacy) 与我们联系。
 
 [](#e-github-services-and-software-terms)E. GitHub 服务和软件条款
 ----------

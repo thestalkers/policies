@@ -1,4 +1,4 @@
-Intimidación y Acoso en GitHub - GitHub Docs
+GitHub Bullying and Harassment - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,15 +10,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Intimidación y Acoso](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-Intimidación y Acoso en GitHub
+GitHub Bullying and Harassment
 ==========
 
 No toleramos el acoso, la intimidación ni el abuso de ningún tipo, ya se practique directamente o animando a otros a participar en la conducta prohibida. Esto incluye:
 
 * los ataques personales dirigidos;
-* la acumulación o la organización de actividades [perturbadoras](/es/github/site-policy/github-disrupting-the-experience-of-other-users) de cualquier modo que pueda ser constitutivo de abuso;
+* la acumulación o la organización de actividades [perturbadoras](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) de cualquier modo que pueda ser constitutivo de abuso;
 * el seguimiento a otro usuario por la plataforma de cualquier modo que provoque intimidación;
 * la realización de insinuaciones o comentarios sexuales dirigidos a otra persona;
 * la participación deshonesta en una conversación de tal forma instigue el conflicto o socave un debate sincero;

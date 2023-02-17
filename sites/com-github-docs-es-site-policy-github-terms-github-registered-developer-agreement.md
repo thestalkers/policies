@@ -1,4 +1,4 @@
-Acuerdo de Desarrollador Registrado de GitHub - GitHub Docs
+GitHub Registered Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Acuerdo de Desarrollador Registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
+* [GitHub Registered Developer Agreement](/es/site-policy/github-terms/github-registered-developer-agreement)
 
-Acuerdo de Desarrollador Registrado de GitHub
+GitHub Registered Developer Agreement
 ==========
 
 GitHub tiene la suerte de contar con muchos desarrolladores que integran su código en nuestra plataforma. Creemos que es algo fantástico y queremos hacer que esta experiencia resulte aún mejor. El Programa para Desarrolladores de GitHub (el «Programa») nos ayuda a contactar con usted, a compartir información y a apoyar sus esfuerzos creativos mejor que nunca. La relación especial entre GitHub y la comunidad de desarrolladores que crea el Programa requiere una serie especial de términos. Este es el Acuerdo de Desarrollador Registrado («Acuerdo»).
@@ -21,15 +21,15 @@ Este Acuerdo es un acuerdo legal entre usted («usted») y GitHub, Inc. («GitHu
 
 1. **Se aplicarán los Términos de Uso de GitHub.com**
 
-   Debe tener una cuenta en GitHub.com para poder participar en el Programa. Al hacer clic en «Acepto» en la parte inferior de este Acuerdo, también acepta quedar vinculado por los [Términos de Servicio](/es/articles/github-terms-of-service) (los «TDS») de GitHub.com. En caso de conflicto directo entre este Acuerdo y los TDS, prevalecerá este Acuerdo; de lo contrario, se aplicarán ambos acuerdos simultáneamente.
+   Debe tener una cuenta en GitHub.com para poder participar en el Programa. Al hacer clic en «Acepto» en la parte inferior de este Acuerdo, también acepta quedar vinculado por los [Términos de Servicio](/es/site-policy/github-terms/github-terms-of-service) (los «TDS») de GitHub.com. En caso de conflicto directo entre este Acuerdo y los TDS, prevalecerá este Acuerdo; de lo contrario, se aplicarán ambos acuerdos simultáneamente.
 
 2. **Términos del Programa**
 
-   Publicamos las [Ventajas y directrices del Programa](/es/program) (la «Descripción General del Programa»). Como es de esperar, la Descripción General del Programa cambiará periódicamente. Estos cambios se aplicarán a usted como participante del Programa, por lo que le recomendamos que revise periódicamente la Descripción General del Programa para estar al tanto de cualquier cambio. Por diversas razones, es posible que tengamos que cambiar, suspender o interrumpir el Programa o algunas de las ventajas que ofrecemos. Usted acepta que podamos llevar a cabo tales actividades sin responsabilidad alguna ante usted, salvo lo especificado en el Apartado 8.
+   Publicamos las [Ventajas y directrices del Programa](/es/get-started/exploring-integrations/github-developer-program) (la «Descripción General del Programa»). Como es de esperar, la Descripción General del Programa cambiará periódicamente. Estos cambios se aplicarán a usted como participante del Programa, por lo que le recomendamos que revise periódicamente la Descripción General del Programa para estar al tanto de cualquier cambio. Por diversas razones, es posible que tengamos que cambiar, suspender o interrumpir el Programa o algunas de las ventajas que ofrecemos. Usted acepta que podamos llevar a cabo tales actividades sin responsabilidad alguna ante usted, salvo lo especificado en el Apartado 8.
 
 3. **Licencia de API**
 
-   Siempre que cumpla con los TDS, este Acuerdo y los Términos del Programa, le concedemos una licencia internacional limitada, no exclusiva e intransferible durante la vigencia de este Acuerdo para acceder y usar nuestra API (como se define en los [TDS](/es/articles/github-terms-of-service)) únicamente con la finalidad de desarrollar, demostrar, probar y respaldar la interoperabilidad y las integraciones entre sus productos y servicios y los nuestros.
+   Siempre que cumpla con los TDS, este Acuerdo y los Términos del Programa, le concedemos una licencia internacional limitada, no exclusiva e intransferible durante la vigencia de este Acuerdo para acceder y usar nuestra API (como se define en los [TDS](/es/site-policy/github-terms/github-terms-of-service)) únicamente con la finalidad de desarrollar, demostrar, probar y respaldar la interoperabilidad y las integraciones entre sus productos y servicios y los nuestros.
 
    Promete no hacer «nada malo» con nuestra API. Entre otras cosas, esto significa que usted no modificará, publicará, venderá, alquilará, cederá bajo licencia, distribuirá ni otorgará como sublicencia nuestra API; descompilará, desensamblará, realizará ingeniería inversa o intentará obtener el código fuente de nuestra API; reproducirá, modificará o creará obras derivadas de nuestra API; utilizará nuestra API para prestar servicios de oficina de servicios, alojamiento de aplicaciones o procesamiento a terceros; incorporará, combinará o integrará de otro modo nuestra API con cualquiera de sus productos o servicios; ni utilizará nuestra API para participar, apoyar o permitir cualquier tipo de actividad ilegal.
 
@@ -45,7 +45,7 @@ Este Acuerdo es un acuerdo legal entre usted («usted») y GitHub, Inc. («GitHu
 
    Acepta que no realizará ninguna declaración, garantía o aval a nadie en nombre de GitHub (incluidos, entre otras cosas, cualquier producto o servicio de GitHub). A menos que lo indiquemos específicamente en los Términos del Programa, usted se compromete a no declarar ni dar a entender que hemos desarrollado, respaldado, revisado o aprobado de alguna manera ninguno de sus Productos.
 
-   Si decide promocionar o publicitar alguno de nuestros productos o servicios en relación con sus Productos, tendrá que asegurarse de cumplir con los términos de este Acuerdo, los Términos del Programa, los TDS, nuestra [directiva de marcas registradas](/es/articles/github-trademark-policy) y cualquier otra directiva de GitHub aplicable. Sujeto a los términos y condiciones de este Acuerdo y los TDS, y durante la vigencia de este Acuerdo, le concedemos una licencia internacional limitada, revocable, no exclusiva e intransferible para usar nuestras marcas registradas, marcas de servicio y logotipos (conjuntamente, las «Marcas de GitHub») de acuerdo con nuestra [directiva de marcas registradas](/es/articles/github-trademark-policy) y como se especifica en los Términos del Programa, únicamente con la finalidad de publicitar su pertenencia al Programa.
+   Si decide promocionar o publicitar alguno de nuestros productos o servicios en relación con sus Productos, tendrá que asegurarse de cumplir con los términos de este Acuerdo, los Términos del Programa, los TDS, nuestra [directiva de marcas registradas](/es/site-policy/content-removal-policies/github-trademark-policy) y cualquier otra directiva de GitHub aplicable. Sujeto a los términos y condiciones de este Acuerdo y los TDS, y durante la vigencia de este Acuerdo, le concedemos una licencia internacional limitada, revocable, no exclusiva e intransferible para usar nuestras marcas registradas, marcas de servicio y logotipos (conjuntamente, las «Marcas de GitHub») de acuerdo con nuestra [directiva de marcas registradas](/es/site-policy/content-removal-policies/github-trademark-policy) y como se especifica en los Términos del Programa, únicamente con la finalidad de publicitar su pertenencia al Programa.
 
    Queremos hablarle al mundo sobre usted y su participación en el Programa. Para ayudarnos a hacerlo, usted nos concede una licencia internacional limitada, revocable, no exclusiva e intransferible para utilizar sus marcas comerciales, marcas de servicio y logotipos (conjuntamente, las «Marcas de Partner») en nuestros materiales de marketing, únicamente con el fin de promocionar el Programa y publicitar su participación en el mismo.
 

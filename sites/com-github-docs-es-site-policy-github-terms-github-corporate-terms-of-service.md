@@ -1,4 +1,4 @@
-Términos de Servicio Corporativos de GitHub - GitHub Docs
+GitHub Corporate Terms of Service - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Términos de Servicio Corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
+* [GitHub Corporate Terms of Service](/es/site-policy/github-terms/github-corporate-terms-of-service)
 
-Términos de Servicio Corporativos de GitHub
+GitHub Corporate Terms of Service
 ==========
 
 In this article
@@ -79,7 +79,7 @@ Este Acuerdo se aplica a los siguientes productos y servicios de GitHub, conform
 
 **«Entidad Afiliada»** se refiere a cualquier entidad que, directa o indirectamente, controle, sea controlada por o esté bajo el control común de una parte; en este contexto, «control» o «controlar» se refiere a poseer más del cincuenta por ciento (50 %) de la titularidad o del derecho de dirigir la administración de la entidad.
 
-**«Acuerdo»** se refiere, colectivamente, a todos los términos, condiciones y avisos contenidos en este documento o a los que se hace referencia en el presente, así como a todas las demás normas, directivas y procedimientos operativos que GitHub publique en el Servicio en cada momento. Las directivas del sitio de GitHub están disponibles en [https://docs.github.com/categories/site-policy](/es/categories/site-policy).
+**«Acuerdo»** se refiere, colectivamente, a todos los términos, condiciones y avisos contenidos en este documento o a los que se hace referencia en el presente, así como a todas las demás normas, directivas y procedimientos operativos que GitHub publique en el Servicio en cada momento. Las directivas del sitio de GitHub están disponibles en [https://docs.github.com/categories/site-policy](/es/site-policy).
 
 **«Todos los Usuarios»** se refiere, colectivamente, a los Usuarios del Cliente y a los Usuarios Externos que utilizan el Servicio.
 
@@ -148,7 +148,7 @@ Este Acuerdo se aplica a los siguientes productos y servicios de GitHub, conform
 
 ### [](#1-account-controls)1. Controles de la Cuenta. ###
 
-* *Usuarios.* El Cliente confirma que los Usuarios conservan el control administrativo último sobre sus cuentas individuales y sobre el Contenido de estas. [Los Términos de servicio de GitHub estándar](/es/articles/github-terms-of-service) rigen el uso del Servicio por parte de los Usuarios, excepto en relación con las actividades de los Usuarios en virtud de este apartado B.
+* *Usuarios.* El Cliente confirma que los Usuarios conservan el control administrativo último sobre sus cuentas individuales y sobre el Contenido de estas. [Los Términos de servicio de GitHub estándar](/es/site-policy/github-terms/github-terms-of-service) rigen el uso del Servicio por parte de los Usuarios, excepto en relación con las actividades de los Usuarios en virtud de este apartado B.
 
 * *Organizaciones.* El Cliente conserva el control administrativo último sobre cualquier Organización creada en nombre del Cliente y sobre el Contenido Generado por el Usuario publicado en los repositorios en el seno de sus Organizaciones, con sujeción a este apartado B. Este apartado B regirá el uso de las Organizaciones del Cliente.
 
@@ -160,7 +160,7 @@ Para crear una cuenta, el Cliente debe cumplir los requisitos siguientes:
 
 * El inicio de sesión de un Usuario no se puede compartir entre varias personas.
 
-* El Cliente no debe usar los Productos (a) de ningún modo que infrinja las leyes de control de las exportaciones o de sanciones de los Estados Unidos o de cualquier otra jurisdicción aplicable; (b) si se encuentra o reside habitualmente en un país o territorio sujeto a sanciones integrales administradas por la Oficina de Control de Activos Extranjeros (OFAC) de EE. UU.; ni (c) si se encuentra en o trabaja en nombre de un [Nacional Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) o de una persona física o jurídica sujeta a bloqueos similares o prohibiciones de partes denegadas. Para obtener más información, consulte nuestra [directiva sobre controles de exportación](/es/articles/github-and-export-controls).
+* El Cliente no debe usar los Productos (a) de ningún modo que infrinja las leyes de control de las exportaciones o de sanciones de los Estados Unidos o de cualquier otra jurisdicción aplicable; (b) si se encuentra o reside habitualmente en un país o territorio sujeto a sanciones integrales administradas por la Oficina de Control de Activos Extranjeros (OFAC) de EE. UU.; ni (c) si se encuentra en o trabaja en nombre de un [Nacional Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) o de una persona física o jurídica sujeta a bloqueos similares o prohibiciones de partes denegadas. Para obtener más información, consulte nuestra [directiva sobre controles de exportación](/es/site-policy/other-site-policies/github-and-trade-controls).
 
 ### [](#3-account-security)3. Seguridad de la Cuenta ###
 
@@ -172,11 +172,11 @@ En algunas situaciones, pueden ser de aplicación términos de terceros al uso d
 
 ### [](#5-us-federal-government-terms)5. Términos de la Administración Federal de EE. UU. ###
 
-Si el Cliente es una entidad de la administración pública de EE. UU. u obtiene acceso al Servicio o lo usa en calidad de miembro de dicha administración, será de aplicación la [Enmienda del Gobierno de EE. UU. a los Términos de Servicio de GitHub](/es/articles/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) y el Cliente acepta sus estipulaciones.
+Si el Cliente es una entidad de la administración pública de EE. UU. u obtiene acceso al Servicio o lo usa en calidad de miembro de dicha administración, será de aplicación la [Enmienda del Gobierno de EE. UU. a los Términos de Servicio de GitHub](/es/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) y el Cliente acepta sus estipulaciones.
 
 ### [](#6-enterprise-cloud-service-level-agreement)6. Acuerdo de Nivel de Servicio de Enterprise Cloud ###
 
-El compromiso de tiempo de actividad trimestral de GitHub para GitHub Enterprise Cloud figura en el [Acuerdo de Nivel de Servicio Empresarial](/es/github/site-policy/github-enterprise-service-level-agreement). Si el Cliente se ha registrado en GitHub Enterprise Cloud, entonces el Cliente tendrá derecho a un crédito de servicio si GitHub incumple el nivel de servicio.
+El compromiso de tiempo de actividad trimestral de GitHub para GitHub Enterprise Cloud figura en el [Acuerdo de Nivel de Servicio Empresarial](/es/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement). Si el Cliente se ha registrado en GitHub Enterprise Cloud, entonces el Cliente tendrá derecho a un crédito de servicio si GitHub incumple el nivel de servicio.
 
 [](#c-compliance-with-laws-acceptable-use-privacy)C. Cumplimiento de la Legislación; Uso Aceptable; Privacidad
 ----------
@@ -187,11 +187,11 @@ El uso de los Productos por parte del Cliente no debe infringir ninguna ley apli
 
 ### [](#2-acceptable-use)2. Uso Aceptable ###
 
-El uso del Servicio por parte del Cliente debe cumplir las [Directivas de Uso Aceptable de GitHub](/es/articles/github-acceptable-use-policies) y las [Pautas de la Comunidad de GitHub](/es/articles/github-community-guidelines). El Cliente no debe usar el Servicio en ninguna jurisdicción para actividades o Contenido que sean ilegales, obscenos, ofensivos o fraudulentos, tales como promover o causar daño, interferir con o infringir la integridad o la seguridad de una red o sistema, eludir filtros, enviar mensajes no solicitados, abusivos o engañosos, virus o códigos dañinos, ni infringir los derechos de terceros.
+El uso del Servicio por parte del Cliente debe cumplir las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) y las [Pautas de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines). El Cliente no debe usar el Servicio en ninguna jurisdicción para actividades o Contenido que sean ilegales, obscenos, ofensivos o fraudulentos, tales como promover o causar daño, interferir con o infringir la integridad o la seguridad de una red o sistema, eludir filtros, enviar mensajes no solicitados, abusivos o engañosos, virus o códigos dañinos, ni infringir los derechos de terceros.
 
 ### [](#3-privacy)3. Privacidad ###
 
-La [Declaración de Privacidad de GitHub](/es/articles/github-privacy-statement) y el [Acuerdo de Protección de Datos de GitHub](https://github.com/customer-terms) contienen información detallada sobre las prácticas de GitHub en materia de privacidad y uso de datos, así como sobre las obligaciones de tratamiento y seguridad de GitHub con respecto a los Datos Personales de los Clientes. Cualquier persona, entidad o servicio que recopile datos del Servicio debe cumplir la Declaración de Privacidad de GitHub, en concreto en lo que respecta a la recopilación de datos personales (según lo definido en la Declaración de Privacidad de GitHub). Si el Cliente recopila cualquier información personal de GitHub, el Cliente la utilizará exclusivamente con los fines para los cuales el Usuario Externo haya autorizado. El Cliente aplicará métodos razonables para proteger dicha Información Personal y responderá con prontitud a las quejas, solicitudes de supresión y solicitudes de «no contactar» de GitHub o Usuarios Externos.
+La [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement) y el [Acuerdo de Protección de Datos de GitHub](https://github.com/customer-terms) contienen información detallada sobre las prácticas de GitHub en materia de privacidad y uso de datos, así como sobre las obligaciones de tratamiento y seguridad de GitHub con respecto a los Datos Personales de los Clientes. Cualquier persona, entidad o servicio que recopile datos del Servicio debe cumplir la Declaración de Privacidad de GitHub, en concreto en lo que respecta a la recopilación de datos personales (según lo definido en la Declaración de Privacidad de GitHub). Si el Cliente recopila cualquier información personal de GitHub, el Cliente la utilizará exclusivamente con los fines para los cuales el Usuario Externo haya autorizado. El Cliente aplicará métodos razonables para proteger dicha Información Personal y responderá con prontitud a las quejas, solicitudes de supresión y solicitudes de «no contactar» de GitHub o Usuarios Externos.
 
 [](#d-content-responsibility-ownership-license-rights)D. Responsabilidad respecto al Contenido; Propiedad; Derechos de Licencia
 ----------
@@ -235,13 +235,13 @@ GitHub considera el Contenido del Cliente que se encuentra en los Repositorios P
 
 ### [](#3-access)3. Acceso ###
 
-El personal de GitHub solo puede obtener acceso a los Repositorios Privados del Cliente en las situaciones descritas en la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement#repository-contents).
+El personal de GitHub solo puede obtener acceso a los Repositorios Privados del Cliente en las situaciones descritas en la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement#repository-contents).
 
 El Cliente puede optar por habilitar el acceso adicional a sus Repositorios Privados. Por ejemplo, el Cliente puede habilitar varios servicios o características de GitHub que requieren derechos adicionales sobre el Contenido del Cliente en Repositorios Privados. Estos derechos pueden variar según el servicio o la función, pero GitHub seguirá tratando el Contenido del Cliente que se encuentre en los Repositorios Privados del Cliente como Información Confidencial del Cliente. Si tales servicios o características requieren otros derechos además de los necesarios para prestar el Servicio, GitHub proporcionará una explicación de esos derechos.
 
-Además, puede suceder que estemos [obligados por ley](/es/github/site-policy/github-privacy-statement#for-legal-disclosure) a revelar el contenido de los repositorios privados.
+Además, puede suceder que estemos [obligados por ley](/es/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) a revelar el contenido de los repositorios privados.
 
-GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/github/site-policy/github-privacy-statement#for-legal-disclosure), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
+GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
 
 [](#f-intellectual-property-notice)F. Aviso de Propiedad Intelectual
 ----------
@@ -260,7 +260,7 @@ La licencia de este Acuerdo se concede en virtud de la [Licencia Creative Common
 
 ### [](#4-copyright-infringement-and-dmca-policy)4. Infracción de Derechos de Autor y Directiva de DMCA ###
 
-Si el Cliente es propietario de derechos de autor y considera que el Contenido del Servicio infringe los derechos de autor del Cliente, el Cliente puede notificárselo a GitHub de conformidad con la [Política de retiro de DMCA](/es/articles/dmca-takedown-policy) (Ley estadounidense sobre derechos de autor en el milenio digital) de GitHub a través del [formulario de DMCA](https://github.com/contact/dmca) o enviando un correo electrónico a [copyright@github.com](mailto:copyright@github.com).
+Si el Cliente es propietario de derechos de autor y considera que el Contenido del Servicio infringe los derechos de autor del Cliente, el Cliente puede notificárselo a GitHub de conformidad con la [Política de retiro de DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy) (Ley estadounidense sobre derechos de autor en el milenio digital) de GitHub a través del [formulario de DMCA](https://github.com/contact/dmca) o enviando un correo electrónico a [copyright@github.com](mailto:copyright@github.com).
 
 ### [](#5-intellectual-property-rights-reserved)5. Derechos de Propiedad Intelectual Reservados ###
 
@@ -269,7 +269,7 @@ Entre las Partes, GitHub es la propietaria de todos los derechos, títulos e int
 [](#g-github-additional-product-terms)G. Términos Adicionales para los Productos de GitHub
 ----------
 
-Algunas características del Servicio pueden estar sujetas a términos adicionales según lo estipulado en los [Términos Adicionales para los Productos de GitHub](/es/github/site-policy/github-additional-product-terms). Al obtener acceso a estas características o usarlas, el Cliente acepta los Términos Adicionales para los Productos de GitHub.
+Algunas características del Servicio pueden estar sujetas a términos adicionales según lo estipulado en los [Términos Adicionales para los Productos de GitHub](/es/site-policy/github-terms/github-terms-for-additional-products-and-features). Al obtener acceso a estas características o usarlas, el Cliente acepta los Términos Adicionales para los Productos de GitHub.
 
 [](#h-subscription-licenses)H. Licencias de Suscripción
 ----------
@@ -288,7 +288,7 @@ Las Entidades Afiliadas del Cliente están autorizados a usar los Productos de c
 
 **Términos de pago** Nuestros precios están disponibles en [github.com/pricing](https://github.com/pricing) (a no ser que se negocie otra cosa entre las Partes y se haga constar en un Formulario de Pedido). El Cliente acepta abonar las Tarifas en su totalidad, por adelantado, sin deducciones ni compensaciones de ningún tipo y en dólares estadounidenses. El Cliente debe abonar las Tarifas dentro de los treinta (30) días posteriores a la fecha de la factura de GitHub. Los importes debidos en virtud de este Acuerdo no son reembolsables, excepto que se estipule otra cosa en este Acuerdo. Si el Cliente no abona las Tarifas a tiempo, GitHub se reserva el derecho, además de tomar cualquier otra acción en derecho o en equidad, de (i) cobrar intereses sobre los importes vencidos a razón del uno por ciento (1,0 %) por mes o del tipo de interés más alto que permita la ley, el que sea menor, y de cobrar todos los gastos de recuperación, así como de (ii) rescindir el Formulario de Pedido o la SOW aplicable. El Cliente es el único responsable de todos los impuestos, las tarifas, los aranceles y las valoraciones de las administraciones públicas (a excepción de los impuestos basados en los ingresos netos de GitHub) que se impongan o venzan en relación con este Acuerdo.
 
-**Facturación basada en uso** Algunas características del Servicio se facturan en función del uso que el Cliente haga de ellas. Se puede incluir una cantidad limitada de estas características del Servicio en el plan del Cliente durante un periodo limitado sin cargo adicional. Si decide comprar más características del Servicio de pago que las que se incluyen en el plan, esas características del Servicio se abonarán en función del uso real durante el mes anterior. El pago mensual de estas compras se cobrará periódicamente a plazo vencido, si bien, para los clientes facturados, las características del Servicio de pago se facturarán por adelantado. Consulte los [Términos Adicionales para los Productos de GitHub](/es/github/site-policy/github-additional-product-terms) para obtener más información al respecto.
+**Facturación basada en uso** Algunas características del Servicio se facturan en función del uso que el Cliente haga de ellas. Se puede incluir una cantidad limitada de estas características del Servicio en el plan del Cliente durante un periodo limitado sin cargo adicional. Si decide comprar más características del Servicio de pago que las que se incluyen en el plan, esas características del Servicio se abonarán en función del uso real durante el mes anterior. El pago mensual de estas compras se cobrará periódicamente a plazo vencido, si bien, para los clientes facturados, las características del Servicio de pago se facturarán por adelantado. Consulte los [Términos Adicionales para los Productos de GitHub](/es/site-policy/github-terms/github-terms-for-additional-products-and-features) para obtener más información al respecto.
 
 ### [](#2-purchasing-additional-subscription-licenses)2. Compra de Licencias de Suscripción Adicionales ###
 
@@ -342,7 +342,7 @@ A efectos contractuales, el Cliente (1) acepta recibir comunicaciones en formato
 
 ### [](#2-legal-notice-to-github-must-be-in-writing)2. Las Notificaciones Legales a GitHub Deben Constar por Escrito ###
 
-Las comunicaciones realizadas por correo electrónico o a través del sistema de mensajería de Soporte de GitHub no constituirán una notificación legal para GitHub en ninguna situación en la que se requiera enviar una notificación a GitHub por contrato o en virtud de cualquier ley o normativa. Las notificaciones legales a GitHub deben constar por escrito y [entregarse al representante legal de GitHub](/es/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
+Las comunicaciones realizadas por correo electrónico o a través del sistema de mensajería de Soporte de GitHub no constituirán una notificación legal para GitHub en ninguna situación en la que se requiera enviar una notificación a GitHub por contrato o en virtud de cualquier ley o normativa. Las notificaciones legales a GitHub deben constar por escrito y [entregarse al representante legal de GitHub](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
 [](#m-limited-warranty-disclaimer)M. Garantía Limitada; Exención de Responsabilidad
 ----------
@@ -401,7 +401,7 @@ GitHub cambia el Servicio mediante Actualizaciones y la adición de nuevas carac
 [](#s-support)S. Soporte Técnico.
 ----------
 
-GitHub prestará Soporte técnico estándar para el Servicio sin cargo adicional las veinticuatro (24) horas del día, cinco (5) días a la semana, excepto los fines de semana y los festivos nacionales de EE. UU. El Soporte estándar solo se ofrece mediante la emisión de tickets en la Web en Soporte de GitHub. Debe iniciar las solicitudes de Soporte un Usuario con el que el equipo de Soporte de GitHub pueda interactuar. GitHub puede proporcionar Soporte premium (con sujeción a los términos del [soporte premium de GitHub para Enterprise Cloud](/es/articles/about-github-premium-support)) o Soporte técnico dedicado para el Servicio con el nivel de Soporte, las Tarifas y el Periodo de Suscripción especificados en un Formulario de Pedido o una SOW.
+GitHub prestará Soporte técnico estándar para el Servicio sin cargo adicional las veinticuatro (24) horas del día, cinco (5) días a la semana, excepto los fines de semana y los festivos nacionales de EE. UU. El Soporte estándar solo se ofrece mediante la emisión de tickets en la Web en Soporte de GitHub. Debe iniciar las solicitudes de Soporte un Usuario con el que el equipo de Soporte de GitHub pueda interactuar. GitHub puede proporcionar Soporte premium (con sujeción a los términos del [soporte premium de GitHub para Enterprise Cloud](/es/support/learning-about-github-support/about-github-premium-support)) o Soporte técnico dedicado para el Servicio con el nivel de Soporte, las Tarifas y el Periodo de Suscripción especificados en un Formulario de Pedido o una SOW.
 
 [](#t-miscellaneous)T. Disposiciones Adicionales
 ----------

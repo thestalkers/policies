@@ -1,4 +1,4 @@
-Términos de Servicio de GitHub Marketplace - GitHub Docs
+GitHub Marketplace Terms of Service - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Términos de Servicio de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-terms-of-service)
+* [GitHub Marketplace Terms of Service](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 
-Términos de Servicio de GitHub Marketplace
+GitHub Marketplace Terms of Service
 ==========
 
 In this article
@@ -47,7 +47,7 @@ Fecha de entrada en vigor: 20 de noviembre de 2020
 [](#a-githubcoms-terms-of-service)A. Términos de Servicio de GitHub.com
 ----------
 
-Marketplace lo proporciona GitHub y se rige por los [Términos de Servicio](/es/articles/github-terms-of-service) o los [Términos de Servicio Corporativos](/es/articles/github-corporate-terms-of-service) («Términos de GitHub»), en función del tipo de cuenta que tenga, así como estos Términos de Marketplace. Si configura los Productos para Desarrolladores para que funcionen con una o varias cuentas en el sitio web de GitHub.com, el uso de los Productos para Desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento estará definido en los Términos de GitHub aplicables.
+Marketplace lo proporciona GitHub y se rige por los [Términos de Servicio](/es/site-policy/github-terms/github-terms-of-service) o los [Términos de Servicio Corporativos](/es/site-policy/github-terms/github-corporate-terms-of-service) («Términos de GitHub»), en función del tipo de cuenta que tenga, así como estos Términos de Marketplace. Si configura los Productos para Desarrolladores para que funcionen con una o varias cuentas en el sitio web de GitHub.com, el uso de los Productos para Desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento estará definido en los Términos de GitHub aplicables.
 
 No puede usar un Producto para Desarrolladores para infringir los Términos de GitHub aplicables. Muchos de estos Productos para Desarrolladores se utilizan exclusivamente para llevar a cabo tareas automatizadas. Asimismo, varios Usuarios pueden dirigir las acciones de un Producto para Desarrolladores. No obstante, si adquiere y/o configura un Producto para Desarrolladores en su cuenta, o es propietario de una cuenta con un Producto para Desarrolladores integrado, entonces será responsable de las acciones del Producto para Desarrolladores que se lleven a cabo en su cuenta o a través de la misma.
 
@@ -68,7 +68,7 @@ No somos parte del acuerdo entre usted y el Proveedor del Producto con respecto 
 [](#d-payment-billing-schedule-and-cancellation)D. Pago, Calendario de Pagos y Cancelación
 ----------
 
-Todos los pagos de los Productos para Desarrolladores se realizarán a través de GitHub. Los términos del pago y de las tarifas se regirán por el [Apartado K. Pago](/es/articles/github-terms-of-service/#k-payment) o el apartado análogo de los Términos de GitHub aplicables. Al usar Marketplace, acepta pagar a GitHub cualquier cargo en el que incurra en relación con su compra del Producto para Desarrolladores. Cada compra es un contrato electrónico entre usted y GitHub, y usted y el Proveedor del Producto. Usted tiene la responsabilidad de facilitarnos un medio de pago válido para las compras de Productos para Desarrolladores. Si solo adquiere Productos para Desarrolladores gratuitos, no es necesario que facilite ninguna información de pago.
+Todos los pagos de los Productos para Desarrolladores se realizarán a través de GitHub. Los términos del pago y de las tarifas se regirán por el [Apartado K. Pago](/es/site-policy/github-terms/github-terms-of-service#k-payment) o el apartado análogo de los Términos de GitHub aplicables. Al usar Marketplace, acepta pagar a GitHub cualquier cargo en el que incurra en relación con su compra del Producto para Desarrolladores. Cada compra es un contrato electrónico entre usted y GitHub, y usted y el Proveedor del Producto. Usted tiene la responsabilidad de facilitarnos un medio de pago válido para las compras de Productos para Desarrolladores. Si solo adquiere Productos para Desarrolladores gratuitos, no es necesario que facilite ninguna información de pago.
 
 **Calendario de Pagos; No se Realizan Reembolsos.** La programación de pagos está determinada por la programación de pagos que eligió al crear su cuenta de GitHub (por ejemplo, gratuito, mensual, anual). Para los planes de pago mensuales o anuales, las compras en Marketplace se facturan por adelantado mensual o anualmente, según el caso, y no son reembolsables. No habrá reembolsos o créditos por meses parciales de servicio, reembolsos por descenso de categoría ni reembolsos por meses sin utilizar; no obstante, el servicio permanecerá activo durante el periodo de facturación pagado. Si desea cancelar los servicios del Producto para Desarrolladores, puede hacerlo accediendo a su Configuración en la barra de navegación global en la parte superior de la pantalla.
 
@@ -77,7 +77,7 @@ Si tiene alguna pregunta, duda o desacuerdo con respecto a su facturación, pón
 [](#e-your-data-and-githubs-privacy-policy)E. Sus Datos y la Directiva de Privacidad de GitHub
 ----------
 
-**Privacidad.** Al seleccionar o usar un Producto para Desarrolladores, GitHub puede compartir determinada Información Personal (tal como se define en la [Declaración de Privacidad de GitHub](/es/articles/github-privacy-statement)) con el Proveedor del Producto (si se recibe dicha Información Personal de usted) a fin de proporcionarle el Producto para Desarrolladores, con independencia de su configuración de privacidad. En función de los requisitos del Producto para Desarrolladores que elija, GitHub puede compartir tan solo su nombre de cuenta, id. y dirección de correo electrónico principal o tanto como el acceso al contenido de sus repositorios, incluida la capacidad de leer y modificar sus datos privados. Podrá ver el alcance de los permisos que solicita el Producto para Desarrolladores, y aceptarlos o denegarlos, cuando se le otorgue autorización a través de OAuth.
+**Privacidad.** Al seleccionar o usar un Producto para Desarrolladores, GitHub puede compartir determinada Información Personal (tal como se define en la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)) con el Proveedor del Producto (si se recibe dicha Información Personal de usted) a fin de proporcionarle el Producto para Desarrolladores, con independencia de su configuración de privacidad. En función de los requisitos del Producto para Desarrolladores que elija, GitHub puede compartir tan solo su nombre de cuenta, id. y dirección de correo electrónico principal o tanto como el acceso al contenido de sus repositorios, incluida la capacidad de leer y modificar sus datos privados. Podrá ver el alcance de los permisos que solicita el Producto para Desarrolladores, y aceptarlos o denegarlos, cuando se le otorgue autorización a través de OAuth.
 
 Si deja de usar el Producto para Desarrolladores y revoca el acceso a través de la configuración de su cuenta, el Proveedor del Producto ya no podrá acceder a su cuenta. El Proveedor del Producto es responsable de eliminar su Información Personal de sus sistemas dentro del plazo definido. Póngase en contacto con el Proveedor del Producto para asegurarse de que su cuenta se haya cancelado correctamente.
 
@@ -116,11 +116,11 @@ Usted se compromete a indemnizarnos, defendernos y eximirnos de toda reclamació
 
 1. **Legislación Aplicable.** Usted acepta que estos Términos de Marketplace y su uso de los Productos para Desarrolladores se rigen por la legislación de California y que cualquier conflicto relacionado con los Productos para Desarrolladores debe presentarse ante un tribunal competente situado en San Francisco, California, o sus alrededores.
 
-2. **No Transferibilidad.** GitHub puede asignar o delegar estos Términos de Marketplace y/o la [Declaración de Privacidad de GitHub](/es/articles/github-privacy-statement), en su totalidad o en parte, a cualquier persona o entidad en cualquier momento con o sin su consentimiento. Usted no puede ceder ni delegar ningún derecho u obligación en virtud de los Términos de Marketplace o la Declaración de Privacidad sin nuestro consentimiento previo por escrito, y cualquier cesión y delegación no autorizada por usted se considera nula.
+2. **No Transferibilidad.** GitHub puede asignar o delegar estos Términos de Marketplace y/o la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement), en su totalidad o en parte, a cualquier persona o entidad en cualquier momento con o sin su consentimiento. Usted no puede ceder ni delegar ningún derecho u obligación en virtud de los Términos de Marketplace o la Declaración de Privacidad sin nuestro consentimiento previo por escrito, y cualquier cesión y delegación no autorizada por usted se considera nula.
 
 3. **Divisibilidad, No Renuncia y Supervivencia.** Si alguna parte de estos Términos de Marketplace se considerara no válida o inaplicable, dicha parte de los Términos de Marketplace se interpretará de forma que refleje la intención original de las partes. Las partes restantes permanecerán en plena vigencia y efecto. El hecho de que GitHub no ejercite o exija ningún derecho o disposición de estos Términos de Marketplace no constituirá una renuncia de dicho derecho o disposición. Nuestros derechos en virtud de estos Términos de Marketplace sobrevivirán a cualquier rescisión de estos Términos de Marketplace.
 
-4. **Sin Modificaciones; Acuerdo Completo.** Estos Términos de Marketplace solo pueden modificarse mediante una enmienda por escrito firmada por un representante autorizado de GitHub o mediante la publicación por parte de GitHub de una versión revisada. Estos Términos de Marketplace, junto con la [Declaración de Privacidad de GitHub](/es/articles/github-privacy-statement), representan la declaración completa y exclusiva del acuerdo entre usted y nosotros. Estos Términos de Marketplace sustituyen a cualquier propuesta o acuerdo previo oral o escrito, así como a cualquier otra comunicación entre usted y GitHub en relación con el asunto de estos términos.
+4. **Sin Modificaciones; Acuerdo Completo.** Estos Términos de Marketplace solo pueden modificarse mediante una enmienda por escrito firmada por un representante autorizado de GitHub o mediante la publicación por parte de GitHub de una versión revisada. Estos Términos de Marketplace, junto con la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement), representan la declaración completa y exclusiva del acuerdo entre usted y nosotros. Estos Términos de Marketplace sustituyen a cualquier propuesta o acuerdo previo oral o escrito, así como a cualquier otra comunicación entre usted y GitHub en relación con el asunto de estos términos.
 
 5. **Encabezados de Apartado.** A lo largo de estos Términos de Marketplace, cada apartado incluye títulos de los siguientes términos y condiciones. Los títulos de estos apartados no son legalmente vinculantes.
 

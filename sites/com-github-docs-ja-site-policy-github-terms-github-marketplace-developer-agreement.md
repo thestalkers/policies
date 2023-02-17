@@ -1,4 +1,4 @@
-GitHub Marketplace 開発者契約 - GitHub Docs
+GitHub Marketplace Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace Developer Agreement](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace 開発者契約
+GitHub Marketplace Developer Agreement
 ==========
 
 In this article
@@ -61,7 +61,7 @@ In this article
 [](#1definitions)1.定義
 ----------
 
-本契約で使用されている用語のうち、定義のないものについては、[https://docs.github.com/articles/github-terms-of-service](/ja/articles/github-terms-of-service) にある「GitHub サービス条件」(以下「サービス条件」といいます) に規定されている意味を持つものとします。
+本契約で使用されている用語のうち、定義のないものについては、[https://docs.github.com/articles/github-terms-of-service](/ja/site-policy/github-terms/github-terms-of-service) にある「GitHub サービス条件」(以下「サービス条件」といいます) に規定されている意味を持つものとします。
 
 「Action」とは、アプリケーションを作成することなく、GitHub で特定のタスクを実行するためのカスタムロジックを実装できる仕組みを意味します。
 

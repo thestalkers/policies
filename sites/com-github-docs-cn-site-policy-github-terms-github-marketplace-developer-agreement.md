@@ -1,4 +1,4 @@
-GitHub Marketplace 开发人员协议 - GitHub Docs
+GitHub Marketplace Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace Developer Agreement](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace 开发人员协议
+GitHub Marketplace Developer Agreement
 ==========
 
 In this article
@@ -61,7 +61,7 @@ In this article
 [](#1definitions)1.定义
 ----------
 
-本协议中使用但未定义的术语，其含义须与位于 [https://docs.github.com/articles/github-terms-of-service](/zh/articles/github-terms-of-service) 的“GitHub 服务条款”（以下简称“条款”或“ToS”）中规定的含义相同。
+本协议中使用但未定义的术语，其含义须与位于 [https://docs.github.com/articles/github-terms-of-service](/zh/site-policy/github-terms/github-terms-of-service) 的“GitHub 服务条款”（以下简称“条款”或“ToS”）中规定的含义相同。
 
 “操作”是指可用于实施自定义逻辑而不必创建应用程序来执行 GitHub 特定任务的机制。
 

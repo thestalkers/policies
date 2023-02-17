@@ -1,4 +1,4 @@
-在 GitHub 上冒充他人 - GitHub Docs
+GitHub Impersonation - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [模拟](/zh/site-policy/acceptable-use-policies/github-impersonation)
+* [Impersonation](/zh/site-policy/acceptable-use-policies/github-impersonation)
 
-在 GitHub 上冒充他人
+GitHub Impersonation
 ==========
 
 您不得歪曲您的身份或者您与他人或组织的关系。 这包括以误导或欺骗他人的方式执行以下任何操作：
@@ -24,4 +24,4 @@ We publish frequent updates to our documentation, and translation of this page m
 
 冒充是一种骚扰形式，违反此政策可能会导致无法访问您的帐户。
 
-请注意，用户名与其他人的用户名相似并不一定是冒充。 GitHub 将考虑背景信息。 例如，在涉及[错误信息或虚假信息](/zh/github/site-policy/github-misinformation-and-disinformation)主张的情况下，我们通常允许符合我们[可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)的模仿和讽刺。
+请注意，用户名与其他人的用户名相似并不一定是冒充。 GitHub 将考虑背景信息。 例如，在涉及[错误信息或虚假信息](/zh/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)主张的情况下，我们通常允许符合我们[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的模仿和讽刺。

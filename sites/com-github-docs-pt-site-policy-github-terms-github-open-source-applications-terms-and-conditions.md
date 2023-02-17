@@ -1,4 +1,4 @@
-Termos e Condições de Aplicativos de Software Livre do GitHub - GitHub Docs
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos e Condições de Aplicativos de Software Livre do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [GitHub Open Source Applications Terms and Conditions](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-Termos e Condições de Aplicativos de Software Livre do GitHub
+GitHub Open Source Applications Terms and Conditions
 ==========
 
 In this article
@@ -58,7 +58,7 @@ Os nomes GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, o Octocat e
 [](#privacy)Privacidade
 ----------
 
-O Software pode coletar minhas informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Política de Privacidade do GitHub](/pt/articles/github-privacy-statement).
+O Software pode coletar minhas informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
 
 [](#additional-services)Serviços adicionais
 ----------

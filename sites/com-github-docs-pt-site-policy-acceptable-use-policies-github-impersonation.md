@@ -1,4 +1,4 @@
-Falsificação de Identidade do GitHub - GitHub Docs
+GitHub Impersonation - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Representação](/pt/site-policy/acceptable-use-policies/github-impersonation)
+* [Impersonation](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
-Falsificação de Identidade do GitHub
+GitHub Impersonation
 ==========
 
 Você não pode fingir sua identidade ou associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou iludir os outros:
@@ -24,4 +24,4 @@ Você não pode fingir sua identidade ou associação com outra pessoa ou organi
 
 A falsificação de identidade é uma forma de assédio, e a violação desta política pode levar à perda de acesso à sua conta.
 
-Observe que ter um nome de usuário semelhante a outro não é necessariamente falsificação de identidade. O GitHub levará o contexto em consideração. Por exemplo, como nos casos que envolvem requerimentos judiciais ou extrajudiciais de [informações incorretas ou desinformação](/pt/github/site-policy/github-misinformation-and-disinformation), geralmente permitimos paródias e sátiras que estejam de acordo com as [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies).
+Observe que ter um nome de usuário semelhante a outro não é necessariamente falsificação de identidade. O GitHub levará o contexto em consideração. Por exemplo, como nos casos que envolvem requerimentos judiciais ou extrajudiciais de [informações incorretas ou desinformação](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), geralmente permitimos paródias e sátiras que estejam de acordo com as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).

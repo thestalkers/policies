@@ -1,4 +1,4 @@
-Contrato de Desenvolvedor do Marketplace do GitHub - GitHub Docs
+GitHub Marketplace Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Contrato de Desenvolvedor do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace Developer Agreement](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
 
-Contrato de Desenvolvedor do Marketplace do GitHub
+GitHub Marketplace Developer Agreement
 ==========
 
 In this article
@@ -61,7 +61,7 @@ Data de Início de Vigência: 24 August 2021
 [](#1definitions)1. DEFINIÇÕES
 ----------
 
-Os termos em letras maiúsculas usados neste Contrato e não definidos neste documento terão o significado estabelecido nos Termos de Serviço do GitHub localizados em [https://docs.github.com/articles/github-terms-of-service](/pt/articles/github-terms-of-service) (os “Termos” ou “ToS”).
+Os termos em letras maiúsculas usados neste Contrato e não definidos neste documento terão o significado estabelecido nos Termos de Serviço do GitHub localizados em [https://docs.github.com/articles/github-terms-of-service](/pt/site-policy/github-terms/github-terms-of-service) (os “Termos” ou “ToS”).
 
 “Ação” significa um mecanismo que permite implementar uma lógica personalizada, sem precisar criar um aplicativo para executar uma tarefa específica com o GitHub.
 

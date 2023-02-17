@@ -1,4 +1,4 @@
-GitHub 赞助商附加条款 - GitHub Docs
+GitHub Sponsors Additional Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
+* [GitHub Sponsors Additional Terms](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub 赞助商附加条款
+GitHub Sponsors Additional Terms
 ==========
 
 In this article
@@ -32,12 +32,12 @@ In this article
 
 * [7.其他](#7-miscellaneous)
 
-您对 GitHub 赞助商计划（以下简称“计划”）的参与受 [GitHub 服务条款](/zh/github/site-policy/github-terms-of-service)（以下简称“协议”），以及以下附加条款（以下简称“附加条款”）的约束。 任何使用 GitHub 赞助商计划但违反协议的行为也将构成对本附加条款的违反。 下文中使用但未定义的任何术语与协议中的含义相同。 针对 GitHub 赞助商计划的本附加条款描述 GitHub 与您（即“受赞助开发人员”）之间就计划而言的关系。 附加条款自您接受这些条款之日起生效（以下简称“生效日期”）。
+您对 GitHub 赞助商计划（以下简称“计划”）的参与受 [GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)（以下简称“协议”），以及以下附加条款（以下简称“附加条款”）的约束。 任何使用 GitHub 赞助商计划但违反协议的行为也将构成对本附加条款的违反。 下文中使用但未定义的任何术语与协议中的含义相同。 针对 GitHub 赞助商计划的本附加条款描述 GitHub 与您（即“受赞助开发人员”）之间就计划而言的关系。 附加条款自您接受这些条款之日起生效（以下简称“生效日期”）。
 
 [](#1-definitions)1.定义。
 ----------
 
-“**GitHub 政策**”是指 GitHub 的所有当时有效的政策和程序，包括 [GitHub 社区准则](/zh/github/site-policy/github-community-guidelines)，受赞助开发人员必须按照计划中的说明遵守。
+“**GitHub 政策**”是指 GitHub 的所有当时有效的政策和程序，包括 [GitHub 社区准则](/zh/site-policy/github-terms/github-community-guidelines)，受赞助开发人员必须按照计划中的说明遵守。
 
 “**赞助商**”是指通过您的受赞助开发人员帐户向您购买订阅或向您支付赞助的用户。
 
@@ -58,7 +58,7 @@ In this article
 
 ### [](#21-github-sponsors-program)2.1. GitHub 赞助商计划 ###
 
-为了参与计划，您必须遵守所在国家/地区的最低年龄法律（例如，如果您居住在美国，则必须至少年满 13 岁），拥有有效的 GitHub 帐户，并已同意协议中的[“可接受的使用”一节](/zh/github/site-policy/github-terms-of-service#c-acceptable-use)和适用的 GitHub 政策，以及这些 GitHub 赞助商附加条款。
+为了参与计划，您必须遵守所在国家/地区的最低年龄法律（例如，如果您居住在美国，则必须至少年满 13 岁），拥有有效的 GitHub 帐户，并已同意协议中的[“可接受的使用”一节](/zh/site-policy/github-terms/github-terms-of-service#c-acceptable-use)和适用的 GitHub 政策，以及这些 GitHub 赞助商附加条款。
 
 如果您已超过 13 岁但未满 18 岁，您可以给予和接收赞助商资金，前提是我们的付款处理机构 Stripe 可以向您的法定监护人收集验证信息。
 
@@ -88,7 +88,7 @@ GitHub 赞助商匹配资金旨在鼓励加入到开放源代码软件 (OSS) 生
 
 * 您必须拥有 GitHub 帐户，以个人身份获准加入计划，并积极为 OSS 做出贡献。 请注意，GitHub 不允许运营多个免费个人帐户的行为。 因此，匹配仅适用于个人，且跨多个帐户的匹配不会获得批准。
 
-* 根据我们的全权决定，您对 GitHub 和您的受赞助开发人员帐户的使用必须符合 GitHub 赞助商使命，拓展更多的机会来为支持 [GitHub 社区准则](/zh/github/site-policy/github-community-guidelines)的开放源代码做出贡献。
+* 根据我们的全权决定，您对 GitHub 和您的受赞助开发人员帐户的使用必须符合 GitHub 赞助商使命，拓展更多的机会来为支持 [GitHub 社区准则](/zh/site-policy/github-terms/github-community-guidelines)的开放源代码做出贡献。
 
 * 如果赞助来自具有已发布 GitHub 赞助商个人资料的用户或组织帐户，则您无法获得接收此类赞助的匹配。
 
@@ -115,7 +115,7 @@ GitHub 赞助商匹配资金旨在鼓励加入到开放源代码软件 (OSS) 生
 
 ### [](#32-registration)3.2. 注册。 ###
 
-如果您选择申请加入计划，则只有在完成注册过程并由 GitHub 准许加入计划后，您才有可能加入计划。 此外，您可能需要在 GitHub 选择的付款服务提供商（例如 Stripe）处注册帐户，才能访问和使用计划的某些功能。 您必须使用您的真实身份进行注册，并且您同意根据计划注册表的要求，提供并维护关于您本人的真实、准确、最新且完整的信息。 注册数据及关于您的某些其他信息受我们的[隐私声明](/zh/github/site-policy/github-privacy-statement)以及我们的付款处理机构提供的任何隐私声明的约束。 GitHub 有权拒绝准许对计划的加入。
+如果您选择申请加入计划，则只有在完成注册过程并由 GitHub 准许加入计划后，您才有可能加入计划。 此外，您可能需要在 GitHub 选择的付款服务提供商（例如 Stripe）处注册帐户，才能访问和使用计划的某些功能。 您必须使用您的真实身份进行注册，并且您同意根据计划注册表的要求，提供并维护关于您本人的真实、准确、最新且完整的信息。 注册数据及关于您的某些其他信息受我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)以及我们的付款处理机构提供的任何隐私声明的约束。 GitHub 有权拒绝准许对计划的加入。
 
 ### [](#33-content-monetization)3.3. 内容盈利。 ###
 
@@ -131,7 +131,7 @@ GitHub 赞助商匹配资金旨在鼓励加入到开放源代码软件 (OSS) 生
 
 #### [](#333-advertising)3.3.3. 广告。 ####
 
-虽然我们了解，您可能希望通过在您的帐户中发布赞助商的名称或徽标来对他们进行宣传，但您的受赞助开发人员内容的主要重点不应是广告或宣传营销。 此外，如果[协议](/zh/github/site-policy/github-terms-of-service)或 GitHub 的社区准则禁止签订任何广告协议来推广任何产品或品牌，则您不得从事此类活动。 如果您决定在您的受赞助开发人员内容中放置任何广告或促销材料，您应全权负责遵守所有适用的法律和法规，包括美国联邦贸易委员会的《背书和推荐指南》。
+虽然我们了解，您可能希望通过在您的帐户中发布赞助商的名称或徽标来对他们进行宣传，但您的受赞助开发人员内容的主要重点不应是广告或宣传营销。 此外，如果[协议](/zh/site-policy/github-terms/github-terms-of-service)或 GitHub 的社区准则禁止签订任何广告协议来推广任何产品或品牌，则您不得从事此类活动。 如果您决定在您的受赞助开发人员内容中放置任何广告或促销材料，您应全权负责遵守所有适用的法律和法规，包括美国联邦贸易委员会的《背书和推荐指南》。
 
 [](#4-financial-terms)4.财务条款。
 ----------

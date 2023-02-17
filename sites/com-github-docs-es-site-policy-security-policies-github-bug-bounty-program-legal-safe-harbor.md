@@ -1,4 +1,4 @@
-Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Seguridad](/es/site-policy/security-policies)/
-* [Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
 In this article
@@ -56,4 +56,4 @@ Dicho esto, si algún tercero inicia una acción legal, incluida la aplicación 
 [](#3-limited-waiver-of-other-site-polices)3. Renuncia limitada a otras directivas del sitio
 ----------
 
-En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/categories/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por la detección de errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.
+En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por la detección de errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.

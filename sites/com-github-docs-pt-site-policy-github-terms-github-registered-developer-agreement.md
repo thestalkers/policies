@@ -1,4 +1,4 @@
-Contrato de Desenvolvedor Registrado do GitHub - GitHub Docs
+GitHub Registered Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Contrato de Desenvolvedor Registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
+* [GitHub Registered Developer Agreement](/pt/site-policy/github-terms/github-registered-developer-agreement)
 
-Contrato de Desenvolvedor Registrado do GitHub
+GitHub Registered Developer Agreement
 ==========
 
 O GitHub tem a sorte de ter muitos desenvolvedores se integrando à nossa plataforma. Achamos isso incrível e queremos tornar essa experiência ainda melhor. O Programa de Desenvolvedor do GitHub (o “Programa”) nos ajuda a nos conectar com você, compartilhar informações com você e apoiar seus esforços criativos melhor do que nunca. O relacionamento especial entre o GitHub e a comunidade de desenvolvedores que o Programa cria requer um conjunto especial de termos. Bem-vindo ao Contrato de Desenvolvedor Registrado (“Contrato”).
@@ -21,15 +21,15 @@ Este Contrato é um contrato legal celebrado entre você (“você”) e a GitHu
 
 1. **Os Termos de Uso do GitHub.com serão aplicados**
 
-   Você precisa ter uma conta no GitHub.com para participar do Programa. Clicar em “Concordo” na parte inferior deste Contrato significa que você também concorda em estar vinculado ao GitHub.com [Termos de Serviço](/pt/articles/github-terms-of-service) (os “TOS”). No caso de um conflito direto entre este Contrato e os TOS, este Contrato prevalecerá; caso contrário, ambos os contratos se aplicarão a você simultaneamente.
+   Você precisa ter uma conta no GitHub.com para participar do Programa. Clicar em “Concordo” na parte inferior deste Contrato significa que você também concorda em estar vinculado ao GitHub.com [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) (os “TOS”). No caso de um conflito direto entre este Contrato e os TOS, este Contrato prevalecerá; caso contrário, ambos os contratos se aplicarão a você simultaneamente.
 
 2. **Termos do Programa**
 
-   Nós postamos os [Benefícios e diretrizes do programa](/pt/program) (a “Visão Geral do Programa”). Como você pode esperar, a Visão Geral do Programa mudará de tempos em tempos. Essas alterações se aplicarão a você como participante do Programa, portanto, recomendamos que você revise periodicamente a Visão Geral do Programa para se manter informado sobre quaisquer alterações. Por vários motivos, podemos precisar alterar, suspender ou descontinuar o Programa ou alguns dos benefícios que oferecemos. Você concorda que podemos fazer isso sem responsabilidade para você, exceto conforme especificado na Seção 8.
+   Nós postamos os [Benefícios e diretrizes do programa](/pt/get-started/exploring-integrations/github-developer-program) (a “Visão Geral do Programa”). Como você pode esperar, a Visão Geral do Programa mudará de tempos em tempos. Essas alterações se aplicarão a você como participante do Programa, portanto, recomendamos que você revise periodicamente a Visão Geral do Programa para se manter informado sobre quaisquer alterações. Por vários motivos, podemos precisar alterar, suspender ou descontinuar o Programa ou alguns dos benefícios que oferecemos. Você concorda que podemos fazer isso sem responsabilidade para você, exceto conforme especificado na Seção 8.
 
 3. **Licença da API**
 
-   Desde que você permaneça em conformidade com os TOS, este Contrato e os Termos do Programa, concedemos a Você uma licença limitada, mundialmente válida, não exclusiva e intransferível durante a vigência deste Contrato para acessar e usar nossa API (conforme definido nos [TOS](/pt/articles/github-terms-of-service)) exclusivamente para fins de desenvolvimento, demonstração, teste e suporte à interoperabilidade e integrações entre seus produtos e serviços e nossos produtos e serviços.
+   Desde que você permaneça em conformidade com os TOS, este Contrato e os Termos do Programa, concedemos a Você uma licença limitada, mundialmente válida, não exclusiva e intransferível durante a vigência deste Contrato para acessar e usar nossa API (conforme definido nos [TOS](/pt/site-policy/github-terms/github-terms-of-service)) exclusivamente para fins de desenvolvimento, demonstração, teste e suporte à interoperabilidade e integrações entre seus produtos e serviços e nossos produtos e serviços.
 
    Você promete não fazer coisas erradas com nossa API. Entre outras coisas, isso significa que você não irá – e não permitirá que outros o façam – modificar, publicar, vender, arrendar, licenciar, distribuir ou sublicenciar nossa API; descompilar, desmontar, fazer engenharia reversa ou tentar derivar o código-fonte de nossa API; reproduzir, modificar ou criar trabalhos derivados de nossa API; usar nossa API para fornecer serviços de agência de serviços, hospedagem de aplicativos ou serviços de processamento a terceiros; incorporar ou, de outra forma, combinar ou integrar nossa API com qualquer um de seus produtos ou serviços ou usar nossa API para participar, apoiar ou permitir qualquer tipo de atividade ilegal.
 
@@ -45,7 +45,7 @@ Este Contrato é um contrato legal celebrado entre você (“você”) e a GitHu
 
    Você concorda que não fará declarações, não dará garantias nem fará endossos a ninguém em nome do GitHub (incluindo, entre outras coisas, quaisquer produtos ou serviços do GitHub). A menos que digamos especificamente que concordamos nos Termos do Programa, você promete não declarar nem sugerir que nós desenvolvemos, endossamos, revisamos ou aprovamos qualquer um de seus Produtos.
 
-   Se você optar por promover ou divulgar qualquer um de nossos produtos ou serviços em conexão com seus Produtos, precisará cumprir os termos deste Contrato, os Termos do Programa, os TOS, a [política de marca](/pt/articles/github-trademark-policy) e quaisquer outras políticas aplicáveis do GitHub. Sujeito aos termos e condições deste Contrato e dos TOS, e durante a vigência deste Contrato, concedemos a você uma licença limitada, revogável, mundialmente válida, não exclusiva e intransferível para usar nossas marcas, marcas de serviço e logotipos (coletivamente, as “Marcas do GitHub”) de acordo com a [política de marca](/pt/articles/github-trademark-policy) e conforme especificado nos Termos do Programa, exclusivamente com o propósito de divulgar sua participação no Programa.
+   Se você optar por promover ou divulgar qualquer um de nossos produtos ou serviços em conexão com seus Produtos, precisará cumprir os termos deste Contrato, os Termos do Programa, os TOS, a [política de marca](/pt/site-policy/content-removal-policies/github-trademark-policy) e quaisquer outras políticas aplicáveis do GitHub. Sujeito aos termos e condições deste Contrato e dos TOS, e durante a vigência deste Contrato, concedemos a você uma licença limitada, revogável, mundialmente válida, não exclusiva e intransferível para usar nossas marcas, marcas de serviço e logotipos (coletivamente, as “Marcas do GitHub”) de acordo com a [política de marca](/pt/site-policy/content-removal-policies/github-trademark-policy) e conforme especificado nos Termos do Programa, exclusivamente com o propósito de divulgar sua participação no Programa.
 
    Queremos contar ao mundo sobre você e sua participação no Programa. Para nos ajudar a fazer isso, você nos concede uma licença limitada, revogável, mundialmente válida, não exclusiva e intransferível para usar suas marcas, marcas de serviço e logotipos (coletivamente, as “Marcas do Parceiro”) em nossos materiais de marketing, exclusivamente para o objetivo de promover o Programa e divulgar sua participação nele.
 

@@ -1,4 +1,4 @@
-GitHub y los Controles Comerciales - GitHub Docs
+GitHub and Trade Controls - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
-* [GitHub y los Controles Comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
+* [GitHub and Trade Controls](/es/site-policy/other-site-policies/github-and-trade-controls)
 
-GitHub y los Controles Comerciales
+GitHub and Trade Controls
 ==========
 
 In this article
@@ -35,7 +35,7 @@ Si bien proporcionamos la siguiente información para su comodidad, en última i
 
 ### [](#githubcom)GitHub.com ###
 
-En virtud de los [Términos de servicio de GitHub](/es/articles/github-terms-of-service), los usuarios solo pueden obtener acceso a GitHub.com y usarlo de conformidad con la legislación aplicable, lo que incluye las leyes de control de exportaciones y de sanciones de EE. UU.
+En virtud de los [Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service), los usuarios solo pueden obtener acceso a GitHub.com y usarlo de conformidad con la legislación aplicable, lo que incluye las leyes de control de exportaciones y de sanciones de EE. UU.
 
 Los usuarios son responsables de garantizar que el contenido que desarrollen y compartan en GitHub.com cumpla las leyes de control de exportaciones de EE. UU., incluido el EAR y el Reglamento sobre tráfico internacional de armas de EE. UU. (U.S. International Traffic in Arms Regulations) (el «ITAR»). Los servicios hospedados en la nube disponibles en [GitHub.com](https://github.com) no se han diseñado para hospedar datos sujetos al ITAR ni ofrecen en la actualidad la posibilidad de restringir el acceso a los repositorios por países. Si desea colaborar con datos controlados en virtud del ITAR o de otras normativas de control de exportaciones, le recomendamos que estudie la posibilidad de usar [GitHub Enterprise Server](https://enterprise.github.com), el servicio local de GitHub.
 

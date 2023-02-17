@@ -1,4 +1,4 @@
-GitHub Codespaces プライバシーに関する声明 - GitHub Docs
+GitHub Codespaces Privacy Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,16 +10,16 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
-* [GitHub Codespaces プライバシーに関する声明](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-GitHub Codespaces プライバシーに関する声明
+GitHub Codespaces Privacy Statement
 ==========
 
 発効日:2021 年 8 月 10 日
 
-GitHub Codespaces の使用には、[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)が適用されます。
+GitHub Codespaces の使用には、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)が適用されます。
 
-github.dev でのアクティビティには、[GitHub のベータ プレビュー使用条件](/ja/github/site-policy/github-terms-of-service#j-beta-previews)が適用されます。
+github.dev でのアクティビティには、[GitHub のベータ プレビュー使用条件](/ja/site-policy/github-terms/github-terms-of-service#j-beta-previews)が適用されます。
 
 [](#visual-studio-code-の使用)Visual Studio Code の使用
 ----------

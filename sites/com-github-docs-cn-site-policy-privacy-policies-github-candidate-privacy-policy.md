@@ -1,4 +1,4 @@
-GitHub 求职者隐私政策 - GitHub Docs
+GitHub Candidate Privacy Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [隐私政策](/zh/site-policy/privacy-policies)/
-* [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub Candidate Privacy Policy](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-GitHub 求职者隐私政策
+GitHub Candidate Privacy Policy
 ==========
 
 In this article
@@ -40,7 +40,7 @@ In this article
 
 “求职者个人信息”是指我们在申请或招聘过程中收集的关于某一位求职者的任何信息，这些信息可以单独或结合其他信息来识别他们的身份，或者以其他方式与他们产生合理的关联。
 
-本政策不适用于 GitHub 服务的使用，[GitHub 隐私声明](/zh/github/site-policy/github-privacy-statement)涵盖了这些服务的使用。
+本政策不适用于 GitHub 服务的使用，[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)涵盖了这些服务的使用。
 
 [](#what-candidate-personal-information-do-we-collect)我们收集哪些求职者个人信息？
 ----------

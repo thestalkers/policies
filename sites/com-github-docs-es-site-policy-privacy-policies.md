@@ -14,9 +14,9 @@ We publish frequent updates to our documentation, and translation of this page m
 Directivas de Privacidad
 ==========
 
-* [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
-* [Subencargados y Cookies de GitHub](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
-* [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
-* [Directiva de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub Privacy Statement](/es/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub Subprocessors and Cookies](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [GitHub Codespaces Privacy Statement](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [GitHub Candidate Privacy Policy](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [Declaración de privacidad de GitHub Copilot for Business](/es/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
 * [Términos del servicio de Octernships de GitHub](/es/site-policy/privacy-policies/github-octernships-terms-of-service)

@@ -14,5 +14,5 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de Segurança
 ==========
 
-* [Divulgação Coordenada de Vulnerabilidades de Segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
-* [Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Coordinated Disclosure of Security Vulnerabilities](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

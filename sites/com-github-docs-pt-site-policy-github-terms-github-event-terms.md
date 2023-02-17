@@ -1,4 +1,4 @@
-Termos do Evento do GitHub - GitHub Docs
+GitHub Event Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos do Evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
+* [GitHub Event Terms](/pt/site-policy/github-terms/github-event-terms)
 
-Termos do Evento do GitHub
+GitHub Event Terms
 ==========
 
 In this article
@@ -32,20 +32,20 @@ In this article
 
 Ao responder ao convite ou participar de um evento do GitHub, incluindo qualquer dos eventos ou atividades organizados pelo GitHub em associação com o evento do GitHub (coletivamente, o “Evento”), você indica que leu, entendeu e concorda com os seguintes Termos e Condições do Evento.
 
-[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1. Requisitos básicos para participar – incluindo o [Código de Conduta do Evento](/pt/articles/github-event-code-of-conduct)
+[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1. Requisitos básicos para participar – incluindo o [Código de Conduta do Evento](/pt/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
 Para participar do Evento, você declara que
 
 * tem poder e autoridade necessários para celebrar estes Termos do Evento
 
-* Você leu e entendeu estes Termos do Evento, bem como os [Termos de Serviço do GitHub.com](/pt/articles/github-terms-of-service)
+* Você leu e entendeu estes Termos do Evento, bem como os [Termos de Serviço do GitHub.com](/pt/site-policy/github-terms/github-terms-of-service)
 
-* Você concorda em cumprir o [Código de Conduta do Evento](/pt/articles/github-event-code-of-conduct), que busca proporcionar uma experiência livre de assédio para todos
+* Você concorda em cumprir o [Código de Conduta do Evento](/pt/site-policy/github-terms/github-event-code-of-conduct), que busca proporcionar uma experiência livre de assédio para todos
 
 * se estiverem servindo bebidas alcoólicas em um evento do GitHub, você declara ter pelo menos 21 anos de idade ou estar acima da idade legal para beber em sua jurisdição.
 
-Espera-se que os participantes solicitados a interromper qualquer assédio ou outro comportamento proibido cumpram o pedido imediatamente. Se um participante se envolver em um comportamento que viole o [Código de Conduta do Evento](/pt/articles/github-event-code-of-conduct) ou estes Termos, os organizadores do evento poderão tomar as medidas que julgarem apropriadas, incluindo avisar o infrator ou expulsá-lo do evento ou da conferência sem reembolso.
+Espera-se que os participantes solicitados a interromper qualquer assédio ou outro comportamento proibido cumpram o pedido imediatamente. Se um participante se envolver em um comportamento que viole o [Código de Conduta do Evento](/pt/site-policy/github-terms/github-event-code-of-conduct) ou estes Termos, os organizadores do evento poderão tomar as medidas que julgarem apropriadas, incluindo avisar o infrator ou expulsá-lo do evento ou da conferência sem reembolso.
 
 [](#2-pictures)2. Fotos
 ----------
@@ -76,7 +76,7 @@ Da mesma forma, você concorda em indenizar e isentar o GitHub, suas matrizes, s
 [](#4-termination)4. Rescisão
 ----------
 
-Embora esperemos que não, o GitHub poderá proibir sua participação em qualquer evento do GitHub a qualquer momento se você não cumprir estes Termos do Evento e o [Código de Conduta do Evento](/pt/articles/github-event-code-of-conduct), os [Termos de Serviço do GitHub.com](/pt/articles/github-terms-of-service) ou por qualquer ou nenhuma razão, sem aviso ou responsabilidade de qualquer tipo. A Seção 3 (Risco, responsabilidade e indenização) continuará a ser aplicada após qualquer rescisão.
+Embora esperemos que não, o GitHub poderá proibir sua participação em qualquer evento do GitHub a qualquer momento se você não cumprir estes Termos do Evento e o [Código de Conduta do Evento](/pt/site-policy/github-terms/github-event-code-of-conduct), os [Termos de Serviço do GitHub.com](/pt/site-policy/github-terms/github-terms-of-service) ou por qualquer ou nenhuma razão, sem aviso ou responsabilidade de qualquer tipo. A Seção 3 (Risco, responsabilidade e indenização) continuará a ser aplicada após qualquer rescisão.
 
 [](#5-choice-of-law-and-venue)5. Direito aplicável e foro
 ----------

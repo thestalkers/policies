@@ -1,4 +1,4 @@
-Acuerdo de Desarrollador de GitHub Marketplace - GitHub Docs
+GitHub Marketplace Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Acuerdo de Desarrollador de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace Developer Agreement](/es/site-policy/github-terms/github-marketplace-developer-agreement)
 
-Acuerdo de Desarrollador de GitHub Marketplace
+GitHub Marketplace Developer Agreement
 ==========
 
 In this article
@@ -61,7 +61,7 @@ Fecha de entrada en vigor: 24 de agosto de 2021
 [](#1definitions)1. DEFINICIONES
 ----------
 
-Los términos en mayúscula que se usan en este Acuerdo y no están definidos aquí tendrán el significado que se establece en los Términos de Servicio de GitHub ubicados en [https://docs.github.com/articles/github-terms-of-service](/es/articles/github-terms-of-service) (los «Términos» o «TDS»).
+Los términos en mayúscula que se usan en este Acuerdo y no están definidos aquí tendrán el significado que se establece en los Términos de Servicio de GitHub ubicados en [https://docs.github.com/articles/github-terms-of-service](/es/site-policy/github-terms/github-terms-of-service) (los «Términos» o «TDS»).
 
 «Acción» se refiere a un mecanismo que le permite implementar una lógica personalizada sin tener que crear una aplicación para llevar a cabo una tarea particular con GitHub.
 

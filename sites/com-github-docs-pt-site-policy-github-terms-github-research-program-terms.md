@@ -1,4 +1,4 @@
-Termos do Programa de Pesquisa do GitHub - GitHub Docs
+GitHub Research Program Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos do Programa de Pesquisa do GitHub](/pt/site-policy/github-terms/github-research-program-terms)
+* [GitHub Research Program Terms](/pt/site-policy/github-terms/github-research-program-terms)
 
-Termos do Programa de Pesquisa do GitHub
+GitHub Research Program Terms
 ==========
 
 In this article
@@ -64,7 +64,7 @@ Todas as Informações Confidenciais permanecem sendo propriedade única e exclu
 
 Ao participar deste Programa, você concorda com o uso de suas informações pessoais para fins de pesquisa e não para quaisquer outros fins. Como parte do Programa, podemos usar suas informações pessoais para entrar em contato com você ou reter suas informações para contatá-lo posteriormente. As informações pessoais não incluem informações agregadas e de identificação não pessoal. Podemos usar informações agregadas ou outras informações de identificação não pessoal coletadas por meio do programa para operar, analisar e melhorar nossos produtos e serviços.
 
-Você pode remover seu consentimento a qualquer momento e solicitar o acesso ou a exclusão das informações pessoais que mantemos sobre você. Para obter mais informações sobre como você pode acessar, atualizar, alterar ou excluir as informações pessoais que o GitHub coleta por meio do Programa, consulte a [Política de Privacidade do GitHub](/pt/articles/github-privacy-statement) ou entre em contato usando nosso [Formulário de contato de privacidade](https://github.com/contact/privacy).
+Você pode remover seu consentimento a qualquer momento e solicitar o acesso ou a exclusão das informações pessoais que mantemos sobre você. Para obter mais informações sobre como você pode acessar, atualizar, alterar ou excluir as informações pessoais que o GitHub coleta por meio do Programa, consulte a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement) ou entre em contato usando nosso [Formulário de contato de privacidade](https://github.com/contact/privacy).
 
 [](#e-github-services-and-software-terms)E. Termos de Serviços e Software do GitHub
 ----------

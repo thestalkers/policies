@@ -1,4 +1,4 @@
-Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Segurança](/pt/site-policy/security-policies)/
-* [Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
 In this article
@@ -56,4 +56,4 @@ Dito isso, se ações legais forem movidas por um terceiro, incluindo autoridade
 [](#3-limited-waiver-of-other-site-polices)3. Renúncia limitada de outras políticas do site
 ----------
 
-Na medida em que suas atividades de pesquisa de segurança forem inconsistentes com determinadas restrições em nossas [políticas locais relevantes](/pt/categories/site-policy), mas forem consistentes com nosso programa por recompensas por bugs, renunciaremos a essas restrições para a finalidade exclusiva e limitada de autorizar sua pesquisa de segurança de acordo com este programa de recompensas por bugs. Conforme mencionado acima, em caso de dúvida, pergunte primeiro.
+Na medida em que suas atividades de pesquisa de segurança forem inconsistentes com determinadas restrições em nossas [políticas locais relevantes](/pt/site-policy), mas forem consistentes com nosso programa por recompensas por bugs, renunciaremos a essas restrições para a finalidade exclusiva e limitada de autorizar sua pesquisa de segurança de acordo com este programa de recompensas por bugs. Conforme mencionado acima, em caso de dúvida, pergunte primeiro.

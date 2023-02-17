@@ -1,4 +1,4 @@
-追加の製品および機能に適用される GitHub 条件 - GitHub Docs
+GitHub Terms for Additional Products and Features - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [追加の製品および機能に適用される GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-追加の製品および機能に適用される GitHub 条件
+GitHub Terms for Additional Products and Features
 ==========
 
 In this article
@@ -65,7 +65,7 @@ GitHub を利用する際、数多くの追加製品や機能 (以下「追加�
 
 GitHub Actions を使用すると、カスタム ソフトウェア開発ライフサイクル ワークフローを GitHub リポジトリに直接作成することができます。 Actions は使用量ベースで請求されます。 [Actions のドキュメント](/ja/actions)には、コンピューティング量とストレージ量 (アカウント プランによって異なります)、Actions の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。
 
-Actions および Actions 製品またはサービスの要素は、「契約」、「[GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)」、または [Actions ドキュメント](/ja/actions/reference/usage-limits-billing-and-administration) に規定されている GitHub Actions サービスの制限に違反して使用することはできません。 さらに、Action が自己ホスト型のランナーを使用しているかどうかに関係なく、Action は次の目的には使用しないでください。
+Actions および Actions 製品またはサービスの要素は、「契約」、「[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)」、または [Actions ドキュメント](/ja/actions/learn-github-actions/usage-limits-billing-and-administration) に規定されている GitHub Actions サービスの制限に違反して使用することはできません。 さらに、Action が自己ホスト型のランナーを使用しているかどうかに関係なく、Action は次の目的には使用しないでください。
 
 * クリプトマイニング
 * サービス、デバイス、データ、アカウント、またはネットワーク ([GitHub バグ報奨金プログラム](https://bounty.github.com)によって承認されたものを除く) に対する中断、取得、または不正アクセスの試み。
@@ -94,7 +94,7 @@ Actions および Actions 製品またはサービスの要素は、「契約」
 [](#advanced-security)Advanced Security
 ----------
 
-GitHub は、Advanced Security ライセンスの下でお客様が追加のセキュリティ機能を利用できるようにします。 これらの機能には、コード スキャン、シークレット スキャン、依存関係のレビューなどがあります。 詳細については、[Advanced Security のドキュメント](/ja/github/getting-started-with-github/about-github-advanced-security)を参照してください。
+GitHub は、Advanced Security ライセンスの下でお客様が追加のセキュリティ機能を利用できるようにします。 これらの機能には、コード スキャン、シークレット スキャン、依存関係のレビューなどがあります。 詳細については、[Advanced Security のドキュメント](/ja/get-started/learning-about-github/about-github-advanced-security)を参照してください。
 
 Advanced Security は、「一意のコミッター」ごとにライセンスされます。 「一意のコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server、または GitHub AE のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様は、一意のコミッターごとに 1 つの GitHub Advanced Security User ライセンスを取得しなければなりません。 GitHub Advanced Security は、お客様によって、またはお客様のために開発されたコードベースでのみ使用できます。 GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能では GitHub Actions の使用も必要です。
 
@@ -128,7 +128,7 @@ GitHub Codespaces を使用すると、GitHub リポジトリ内のコードを�
 
 Codespaces を使用すると、Microsoft Visual Studio Marketplace から拡張機能 (以下「Marketplace 拡張機能」といいます) を読み込んで、開発環境で使用することができます (たとえば、コードが記述されているプログラミング言語を処理する場合など)。 Marketplace 拡張機能は、Visual Studio Marketplace に記載されている独自の個別の使用条件と、<https://aka.ms/vsmarketplace-ToU> にある使用条件に基づいてライセンス供与されます。 GitHub は、Marketplace 拡張機能に関していかなる種類の保証も行わず、「お客様のコンテンツ」へのアクセスを許可された Marketplace 拡張機能の第三者作成者の行為について責任を負いません。 Codespaces では、devcontainer 機能を使用して環境にソフトウェアを読み込むこともできます。 このようなソフトウェアは、それに付随する個別の使用条件に基づいて提供されます。 第三者のアプリケーションの使用は、お客様ご自身の責任において行ってください。
 
-一般に利用可能なバージョンの Codespaces は、現在、米国政府のお客様にはご利用いただけません。 米国政府のお客様は、Codespaces ベータ プレビューを別の条件で引き続き使用することができます。 [ベータ プレビューの条件](/ja/github/site-policy/github-terms-of-service#j-beta-previews)を参照してください。
+一般に利用可能なバージョンの Codespaces は、現在、米国政府のお客様にはご利用いただけません。 米国政府のお客様は、Codespaces ベータ プレビューを別の条件で引き続き使用することができます。 [ベータ プレビューの条件](/ja/site-policy/github-terms/github-terms-of-service#j-beta-previews)を参照してください。
 
 [](#competitive-benchmarking)競合する製品またはサービスのベンチマーク
 ----------
@@ -138,7 +138,7 @@ GitHub の製品またはサービスと競合する製品またはサービス�
 [](#connect)接続する
 ----------
 
-GitHub Connect を使用すると、GitHub Enterprise Server または GitHub AE デプロイと、GitHub.com 上の GitHub Enterprise Cloud の組織またはエンタープライズ アカウントとの間で特定の機能やデータを共有できます。 GitHub Connect を有効にするには、GitHub Enterprise Cloud または GitHub.com に少なくとも 1 つのアカウントと、GitHub Enterprise Server または GitHub AE の 1 つのライセンス デプロイを持っていなければなりません。 Connect を介した GitHub Enterprise Cloud または GitHub.com の使用には、お客様が GitHub Enterprise Cloud または GitHub.com のライセンスを供与する条件が適用されます。 個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)」が適用されます。
+GitHub Connect を使用すると、GitHub Enterprise Server または GitHub AE デプロイと、GitHub.com 上の GitHub Enterprise Cloud の組織またはエンタープライズ アカウントとの間で特定の機能やデータを共有できます。 GitHub Connect を有効にするには、GitHub Enterprise Cloud または GitHub.com に少なくとも 1 つのアカウントと、GitHub Enterprise Server または GitHub AE の 1 つのライセンス デプロイを持っていなければなりません。 Connect を介した GitHub Enterprise Cloud または GitHub.com の使用には、お客様が GitHub Enterprise Cloud または GitHub.com のライセンスを供与する条件が適用されます。 個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)」が適用されます。
 
 [](#github-copilot)GitHub Copilot
 ----------
@@ -170,22 +170,22 @@ npm は、ソフトウェア パッケージをプライベートまたはパブ
 [](#packages)パッケージ
 ----------
 
-GitHub Packages は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 GitHub Packages は使用量ベースで請求されます。 [Packages のドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅とストレージ量 (アカウント プランによって異なります)、Packages の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。 Packages の帯域幅使用量は「[GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)」によって制限されます。
+GitHub Packages は、ソフトウェア パッケージをプライベートまたはパブリックにホストし、プロジェクトの依存関係としてパッケージを使用できるようにするソフトウェア パッケージ ホスティング サービスです。 GitHub Packages は使用量ベースで請求されます。 [Packages のドキュメント](/ja/packages/learn-github-packages/introduction-to-github-packages)には、帯域幅とストレージ量 (アカウント プランによって異なります)、Packages の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。 Packages の帯域幅使用量は「[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)」によって制限されます。
 
 [](#pages)Pages
 ----------
 
-各アカウントには、[GitHub Pages の静的ホスティング サービス](/ja/github/working-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的な Web ページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割を担っています。
+各アカウントには、[GitHub Pages の静的ホスティング サービス](/ja/pages/getting-started-with-github-pages/about-github-pages)へのアクセス権があります。 GitHub Pages は静的な Web ページをホストするためのサービスですが、主に個人および組織のプロジェクトのためのショーケースの役割を担っています。
 
 GitHub Pages は、オンライン ビジネス、e コマース サイト、主に商取引の円滑化または商用のサービスとしてのソフトウェア (SaaS) の提供のいずれかを目的とする、その他の Web サイトを運営するための無料の Web ホスティング サービスとしての使用を意図したものではなく、またそのような使用を許可するものでもありません。 Pages では、寄付のボタンやクラウドファンディングのリンクなど、収益化の行為が一部認められています。
 
 *帯域幅および使用制限*
 
-GitHub Pages は、特定の帯域幅を対象とし、使用制限が適用されるため、一定以上の高帯域の利用には適していない場合があります。 詳細については、[GitHub Pages の制限](/ja/github/working-with-github-pages/about-github-pages)を参照してください。
+GitHub Pages は、特定の帯域幅を対象とし、使用制限が適用されるため、一定以上の高帯域の利用には適していない場合があります。 詳細については、[GitHub Pages の制限](/ja/pages/getting-started-with-github-pages/about-github-pages)を参照してください。
 
 *禁止されている用途*
 
-GitHub Pages は、契約、「GitHub [利用規約](/ja/github/site-policy/github-acceptable-use-policies)」、または[Pages ドキュメント](/ja/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)に規定されている GitHub Pages サービスの制限に違反して使用することはできません。
+GitHub Pages は、契約、「GitHub [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)」、または[Pages ドキュメント](/ja/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)に規定されている GitHub Pages サービスの制限に違反して使用することはできません。
 
 お客様の使用または使用目的がこれらのカテゴリに分類されるかどうかについてご質問がある場合は、[GitHub サポート](https://support.github.com/contact?tags=docs-policy)までお問い合わせください。 GitHub はいつでも、責任を負うことなく GitHub の任意のサブドメインを回収する権利を常に留保します。
 
@@ -197,7 +197,7 @@ GitHub Pages は、契約、「GitHub [利用規約](/ja/github/site-policy/gith
 [](#sponsors-program)Sponsors プログラム
 ----------
 
-GitHub Sponsors により、開発者コミュニティは、日々活用しているオープン ソース プロジェクトの設計、構築、維持に携わる人々や組織を、GitHub で直接、経済的に支援できます。 支援対象開発者になるには、[GitHub Sponsors プログラムの追加条件](/ja/github/site-policy/github-sponsors-additional-terms)に同意しなければなりません。
+GitHub Sponsors により、開発者コミュニティは、日々活用しているオープン ソース プロジェクトの設計、構築、維持に携わる人々や組織を、GitHub で直接、経済的に支援できます。 支援対象開発者になるには、[GitHub Sponsors プログラムの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)に同意しなければなりません。
 
 [](#sql-server-images)SQL Server Images
 ----------

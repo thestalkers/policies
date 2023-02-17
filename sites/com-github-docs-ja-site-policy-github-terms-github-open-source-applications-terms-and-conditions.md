@@ -1,4 +1,4 @@
-GitHub オープン ソース アプリケーションの契約条件 - GitHub Docs
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [GitHub Open Source Applications Terms and Conditions](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub オープン ソース アプリケーションの契約条件
+GitHub Open Source Applications Terms and Conditions
 ==========
 
 In this article
@@ -58,7 +58,7 @@ GitHub、GitHub Desktop、GitHub for Mac、GitHub for Windows、Octocat、およ
 [](#privacy)プライバシー
 ----------
 
-本ソフトウェアは、個人情報を収集する場合があります。 お客様は、本ソフトウェアが収集する情報を設定パネルで管理できます。 本ソフトウェアが GitHub に代わって個人情報を収集する場合、GitHub はその情報を[「GitHub のプライバシーに関する声明」](/ja/articles/github-privacy-statement)に従って処理します。
+本ソフトウェアは、個人情報を収集する場合があります。 お客様は、本ソフトウェアが収集する情報を設定パネルで管理できます。 本ソフトウェアが GitHub に代わって個人情報を収集する場合、GitHub はその情報を[「GitHub のプライバシーに関する声明」](/ja/site-policy/privacy-policies/github-privacy-statement)に従って処理します。
 
 [](#additional-services)追加サービス
 ----------

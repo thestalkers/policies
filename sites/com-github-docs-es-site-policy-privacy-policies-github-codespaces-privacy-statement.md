@@ -1,4 +1,4 @@
-Declaración de Privacidad de GitHub Codespaces - GitHub Docs
+GitHub Codespaces Privacy Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,16 +10,16 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/
-* [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [GitHub Codespaces Privacy Statement](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-Declaración de Privacidad de GitHub Codespaces
+GitHub Codespaces Privacy Statement
 ==========
 
 Fecha de entrada en vigor: 10 de agosto de 2021
 
-El uso de GitHub Codespaces se rige por la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
+El uso de GitHub Codespaces se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
-La actividad en github.dev se rige por los [términos de las Versiones Preliminares Beta de GitHub](/es/github/site-policy/github-terms-of-service#j-beta-previews).
+La actividad en github.dev se rige por los [términos de las Versiones Preliminares Beta de GitHub](/es/site-policy/github-terms/github-terms-of-service#j-beta-previews).
 
 [](#uso-de-visual-studio-code)Uso de Visual Studio Code
 ----------

@@ -1,4 +1,4 @@
-Pautas de la Comunidad de GitHub - GitHub Docs
+GitHub Community Guidelines - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [Pautas de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines)
+* [GitHub Community Guidelines](/es/site-policy/github-terms/github-community-guidelines)
 
-Pautas de la Comunidad de GitHub
+GitHub Community Guidelines
 ==========
 
 In this article
@@ -52,11 +52,11 @@ El objetivo principal de la comunidad de GitHub es colaborar en proyectos de sof
 
 Si bien algunos desacuerdos se pueden resolver mediante una comunicación directa y respetuosa entre los miembros de la comunidad, entendemos que no siempre es así. Alentamos a nuestra comunidad a [comunicarnos](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) cualquier contenido o actividad que detecten que, a su juicio, infringe nuestras directivas. Sin embargo, si se encuentra algo o alguien en el sitio que considera censurable, a continuación le indicamos algunas formas en que GitHub permite adoptar medidas al respecto:
 
-* **Comunique sus expectativas**. Los responsables del mantenimiento pueden establecer pautas específicas de la comunidad para ayudar a los usuarios a entender cómo interactuar con sus proyecto; por ejemplo, en el archivo LÉAME de un repositorio, en un [archivo de contribución](/es/articles/setting-guidelines-for-repository-contributors), o en un [código de conducta específico](/es/articles/adding-a-code-of-conduct-to-your-project). Encontrará información adicional sobre el desarrollo de comunidades [aquí](/es/communities).
+* **Comunique sus expectativas**. Los responsables del mantenimiento pueden establecer pautas específicas de la comunidad para ayudar a los usuarios a entender cómo interactuar con sus proyecto; por ejemplo, en el archivo LÉAME de un repositorio, en un [archivo de contribución](/es/articles/setting-guidelines-for-repository-contributors), o en un [código de conducta específico](/es/articles/adding-a-code-of-conduct-to-your-project). Puede encontrar más información sobre el desarrollo de comunidades en la página [Comunidades](/es/communities).
 
 * **Modere los comentarios**. Los usuarios con [privilegios de acceso de escritura](/es/articles/repository-permission-levels-for-an-organization) en un repositorio pueden [editar, eliminar y ocultar los comentarios de cualquier persona](/es/communities/moderating-comments-and-conversations/managing-disruptive-comments) sobre las confirmaciones, las solicitudes de incorporación de cambios y las ediciones. Cualquier persona con acceso de lectura a un repositorio puede ver el historial de edición de un comentario. Los autores de los comentarios y las personas con acceso de escritura a un repositorio también pueden eliminar información confidencial del [historial de edición de un comentario](/es/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). Moderar los proyectos puede parecer una tarea abrumadora si hay mucha actividad, pero puede [añadir colaboradores](/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) que lo ayuden a gestionar la comunidad.
 
-* **Bloquee la conversación** . Si un debate en una edición, una solicitud de incorporación de cambios o una confirmación no se consigue controlar, se desvía del tema o infringe el código de conducta del proyecto o las directivas de GitHub, los propietarios, colaboradores y cualquier otra persona con acceso de escritura puede establecer un [bloqueo](/es/articles/locking-conversations) temporal o permanente en la conversación.
+* **Bloquee la conversación** . Si un debate en una edición, una solicitud de incorporación de cambios o una confirmación no se consigue controlar, se desvía del tema o infringe el código de conducta del proyecto o las directivas de GitHub, los propietarios, colaboradores y cualquier otra persona con acceso de escritura puede establecer un bloqueo temporal o permanente en la conversación. Para más información, vea "[Bloqueo de conversaciones](/es/articles/locking-conversations)".
 
 * **Bloquee al usuario** . Si hay un usuario determinado con el que prefiere no interactuar, puede [bloquearlo para su cuenta personal](/es/articles/blocking-a-user-from-your-personal-account) o [para su organización](/es/articles/blocking-a-user-from-your-organization).
 

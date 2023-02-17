@@ -1,4 +1,4 @@
-Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil - GitHub Docs
+GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Empresa de GitHub](/es/site-policy/github-company-policies)/
-* [Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [GitHub Statement Against Modern Slavery and Child Labor](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil
+GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
 In this article
@@ -75,7 +75,7 @@ GitHub cumple las leyes que prohíben la trata de personas y el trabajo infantil
 
 Asimismo, GitHub se ha asociado al Programa FairHotel, lo que significa que anima a sus empleados a elegir hoteles aprobados por FairHotel, donde los trabajadores tienen salarios justos, prestaciones adecuadas y voz en el trabajo. Al ser socio de FairHotel, GitHub también ofrece negocios a los hoteles como un empleador justo.
 
-En el futuro, GitHub comunicará esta Declaración a todos los empleados, personal subcontratado y proveedores, incluidos seleccionadores de personal y agencias de empleo. Además, GitHub está desarrollando cursos de formación para todos sus empleados sobre la esclavitud moderna y el trabajo infantil. GitHub [publica su Declaración contra la Esclavitud Moderna y el Trabajo Infantil](/es/articles/github-statement-against-modern-slavery-and-child-labor).
+En el futuro, GitHub comunicará esta Declaración a todos los empleados, personal subcontratado y proveedores, incluidos seleccionadores de personal y agencias de empleo. Además, GitHub está desarrollando cursos de formación para todos sus empleados sobre la esclavitud moderna y el trabajo infantil. GitHub [publica su Declaración contra la Esclavitud Moderna y el Trabajo Infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor).
 
 GitHub tiene una directiva de no represalias por denunciar problemas relacionados con el lugar de trabajo. De acuerdo con esta Declaración, GitHub permite a los empleados y personal subcontratado denunciar problemas relacionados con la esclavitud moderna y el trabajo infantil sin temor a represalias.
 
@@ -143,4 +143,4 @@ Las instrucciones de adquisición de GitHub para los empleados que realizan comp
 
 GitHub está desarrollando un curso de formación sobre esclavitud moderna y trabajo infantil que deberán realizar obligatoriamente todos los empleados, enfocado en el negocio y la cadena de suministro de GitHub. GitHub se centrará en los proveedores que ofrecen servicios que involucran trabajos manuales, como la asistencia de eventos, la construcción, los servicios de instalaciones y los servicios de alimentación, ya que son las áreas de mayor riesgo potencial.
 
-**La Junta Directiva de GitHub ha aprobado [esta Declaración](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
+**La Junta directiva de GitHub aprobó esta declaración. Consulte una [copia de esta declaración firmada por el Consejo general y el responsable de estrategias de GitHub (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**

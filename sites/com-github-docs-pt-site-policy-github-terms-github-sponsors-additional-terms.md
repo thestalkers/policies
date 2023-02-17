@@ -1,4 +1,4 @@
-Termos Adicionais do GitHub Sponsors - GitHub Docs
+GitHub Sponsors Additional Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+* [GitHub Sponsors Additional Terms](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
-Termos Adicionais do GitHub Sponsors
+GitHub Sponsors Additional Terms
 ==========
 
 In this article
@@ -32,12 +32,12 @@ In this article
 
 * [7. Disposições Gerais.](#7-miscellaneous)
 
-Sua participação no Programa GitHub Sponsors (o “Programa”) está sujeita aos [Termos de Serviço do GitHub](/pt/github/site-policy/github-terms-of-service) (o “Contrato”), bem como aos seguintes termos adicionais (“Termos Adicionais”). Qualquer uso do Programa GitHub Sponsors que viole o Contrato também será uma violação destes Termos Adicionais. Os termos em letras maiúsculas usados, mas não definidos abaixo, possuem os mesmos significados que constam no Contrato. Estes Termos Adicionais para o Programa GitHub Sponsors descrevem a relação entre o GitHub e você, o “Desenvolvedor Patrocinado”, para o Programa. Os Termos Adicionais entram em vigor na data em que você os aceita (“Data de Início de Vigência”).
+Sua participação no Programa GitHub Sponsors (o “Programa”) está sujeita aos [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service) (o “Contrato”), bem como aos seguintes termos adicionais (“Termos Adicionais”). Qualquer uso do Programa GitHub Sponsors que viole o Contrato também será uma violação destes Termos Adicionais. Os termos em letras maiúsculas usados, mas não definidos abaixo, possuem os mesmos significados que constam no Contrato. Estes Termos Adicionais para o Programa GitHub Sponsors descrevem a relação entre o GitHub e você, o “Desenvolvedor Patrocinado”, para o Programa. Os Termos Adicionais entram em vigor na data em que você os aceita (“Data de Início de Vigência”).
 
 [](#1-definitions)1. Definições.
 ----------
 
-“**Políticas do GitHub**” são todas as políticas e procedimentos vigentes do GitHub que o Desenvolvedor Patrocinado deve seguir conforme indicado no Programa, incluindo as [Diretrizes da Comunidade do GitHub](/pt/github/site-policy/github-community-guidelines).
+“**Políticas do GitHub**” são todas as políticas e procedimentos vigentes do GitHub que o Desenvolvedor Patrocinado deve seguir conforme indicado no Programa, incluindo as [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines).
 
 “**Patrocinador**” significa o Usuário que comprou uma Assinatura ou pagou um Patrocínio a você por meio de sua Conta do Desenvolvedor Patrocinado.
 
@@ -58,7 +58,7 @@ Sua participação no Programa GitHub Sponsors (o “Programa”) está sujeita 
 
 ### [](#21-github-sponsors-program)2.1. Programa de Patrocinadores do GitHub ###
 
-Para participar do Programa, você deve cumprir as leis de idade mínima do seu país (por exemplo, deve ter pelo menos 13 anos de idade se morar nos Estados Unidos), ter uma conta do GitHub válida e concordar com a [seção Uso Aceitável](/pt/github/site-policy/github-terms-of-service#c-acceptable-use) do Contrato e das Políticas do GitHub aplicáveis, e destes Termos Adicionais do GitHub Sponsors.
+Para participar do Programa, você deve cumprir as leis de idade mínima do seu país (por exemplo, deve ter pelo menos 13 anos de idade se morar nos Estados Unidos), ter uma conta do GitHub válida e concordar com a [seção Uso Aceitável](/pt/site-policy/github-terms/github-terms-of-service#c-acceptable-use) do Contrato e das Políticas do GitHub aplicáveis, e destes Termos Adicionais do GitHub Sponsors.
 
 Se você tiver mais de 13 anos, mas menos de 18 anos, poderá dar e receber fundos do Patrocinador, desde que o Stripe, nosso processador de pagamentos, possa coletar informações de verificação de seu responsável legal.
 
@@ -88,7 +88,7 @@ A elegibilidade para o Fundo Correspondente do GitHub Sponsors é avaliada caso 
 
 * Você deve ter uma conta no GitHub, ser aceito no Programa como indivíduo e contribuir ativamente com o OSS. Observe que o GitHub não permite operar mais de uma conta pessoal gratuita. Como tal, a correspondência está disponível individualmente e não será aprovada em várias contas.
 
-* O uso que você faz do GitHub e da Conta do Desenvolvedor Patrocinado deve ser, com base em nossa determinação, a nosso exclusivo critério, de acordo com a missão do GitHub Sponsors de expandir as oportunidades de contribuir para o software livre que mantém as [Diretrizes da Comunidade do GitHub](/pt/github/site-policy/github-community-guidelines).
+* O uso que você faz do GitHub e da Conta do Desenvolvedor Patrocinado deve ser, com base em nossa determinação, a nosso exclusivo critério, de acordo com a missão do GitHub Sponsors de expandir as oportunidades de contribuir para o software livre que mantém as [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines).
 
 * Você não pode receber correspondência para qualquer patrocínio originado de uma conta de usuário ou organização com um perfil do GitHub Sponsors publicado.
 
@@ -115,7 +115,7 @@ Você: (A) criará uma Conta do Desenvolvedor Patrocinado; (B) disponibilizará 
 
 ### [](#32-registration)3.2. Registro. ###
 
-Se você optar por se inscrever no Programa, a entrada no Programa dependerá da conclusão do processo de registro e da aceitação no Programa pelo GitHub. Além disso, pode ser solicitado que você se registre nos provedores de serviços de pagamento selecionados pelo GitHub (como Stripe) para acessar e usar determinados recursos do Programa. Você deve se registrar com sua identidade verdadeira e concorda em fornecer e manter informações verdadeiras, precisas, atuais e completas sobre você, conforme solicitado pelo formulário de registro do Programa. Os dados de registro e algumas outras informações sobre você são regidos pela [Política de Privacidade](/pt/github/site-policy/github-privacy-statement), bem como qualquer política de privacidade fornecida pelo nosso processador de pagamentos. O GitHub reserva para si o direito de recusar a aceitação no Programa.
+Se você optar por se inscrever no Programa, a entrada no Programa dependerá da conclusão do processo de registro e da aceitação no Programa pelo GitHub. Além disso, pode ser solicitado que você se registre nos provedores de serviços de pagamento selecionados pelo GitHub (como Stripe) para acessar e usar determinados recursos do Programa. Você deve se registrar com sua identidade verdadeira e concorda em fornecer e manter informações verdadeiras, precisas, atuais e completas sobre você, conforme solicitado pelo formulário de registro do Programa. Os dados de registro e algumas outras informações sobre você são regidos pela [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement), bem como qualquer política de privacidade fornecida pelo nosso processador de pagamentos. O GitHub reserva para si o direito de recusar a aceitação no Programa.
 
 ### [](#33-content-monetization)3.3. Monetização de Conteúdo. ###
 
@@ -131,7 +131,7 @@ O Programa ou Serviço pode fornecer a você a capacidade de aceitar uma doaçã
 
 #### [](#333-advertising)3.3.3. Publicidade. ####
 
-Embora entendamos que você talvez queira promover seus Patrocinadores postando seus nomes ou logotipos em sua conta, o foco principal do Conteúdo do Desenvolvedor Patrocinado não deve ser publicidade nem marketing promocional. Além disso, você não pode celebrar nenhum contrato de publicidade para promover qualquer produto ou marca se isso for proibido pelo [Contrato](/pt/github/site-policy/github-terms-of-service) ou pelas Diretrizes da Comunidade do GitHub. Se você optar por hospedar qualquer material promocional ou publicitário em seu Conteúdo do Desenvolvedor Patrocinado, você será o único responsável por cumprir todas as leis e regulamentos aplicáveis, incluindo as Diretrizes sobre Endossos e Depoimentos da Comissão Federal de Comércio dos EUA.
+Embora entendamos que você talvez queira promover seus Patrocinadores postando seus nomes ou logotipos em sua conta, o foco principal do Conteúdo do Desenvolvedor Patrocinado não deve ser publicidade nem marketing promocional. Além disso, você não pode celebrar nenhum contrato de publicidade para promover qualquer produto ou marca se isso for proibido pelo [Contrato](/pt/site-policy/github-terms/github-terms-of-service) ou pelas Diretrizes da Comunidade do GitHub. Se você optar por hospedar qualquer material promocional ou publicitário em seu Conteúdo do Desenvolvedor Patrocinado, você será o único responsável por cumprir todas as leis e regulamentos aplicáveis, incluindo as Diretrizes sobre Endossos e Depoimentos da Comissão Federal de Comércio dos EUA.
 
 [](#4-financial-terms)4. Termos Financeiros.
 ----------

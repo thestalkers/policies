@@ -1,4 +1,4 @@
-Directiva de Nombres de Usuario de GitHub - GitHub Docs
+GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
-* [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
+* [GitHub Username Policy](/es/site-policy/other-site-policies/github-username-policy)
 
-Directiva de Nombres de Usuario de GitHub
+GitHub Username Policy
 ==========
 
 In this article
@@ -36,7 +36,7 @@ Si el nombre de usuario que desea ya lo ha elegido alguien, piense otros nombres
 [](#trademark-policy)Directiva de Marcas Comerciales
 ----------
 
-Si cree que la cuenta de alguien está infringiendo sus derechos de marca comercial, encontrará más información sobre cómo presentar una queja sobre la marca comercial en nuestra página [Directiva de Marcas Comerciales](/es/articles/github-trademark-policy).
+Si cree que la cuenta de alguien está infringiendo sus derechos de marca comercial, encontrará más información sobre cómo presentar una queja sobre la marca comercial en nuestra página [Directiva de Marcas Comerciales](/es/site-policy/content-removal-policies/github-trademark-policy).
 
 [](#name-squatting-policy)Directiva sobre Ocupación de Nombres
 ----------

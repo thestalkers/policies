@@ -1,4 +1,4 @@
-GitHub のサービス条件 - GitHub Docs
+GitHub Terms of Service - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub のサービス条件](/ja/site-policy/github-terms/github-terms-of-service)
+* [GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service)
 
-GitHub のサービス条件
+GitHub Terms of Service
 ==========
 
 In this article
@@ -95,7 +95,7 @@ GitHub をご利用いただきありがとうございます。 ご利用いた
 **要約:**  *当社は以下の基本的用語を契約全般で使用しており、用語には固有の意味があります。お客様は、当社が各用語を使用したときの意味を認識しておく必要があります。テストが行われるわけではありませんが、それでも有益な情報であることに変わりありません。*
 
 1. 「アカウント」は、GitHub との法的関係を表します。 「個人アカウント」は、サービスにログインして使用する個々のユーザーに与えられた権限を意味し、GitHub のユーザー ID として機能します。 「組織アカウント」は、1 つの団体または 1 人以上のユーザーに関連付けることができる共有ワークスペースを意味し、複数のユーザーが一度に複数のプロジェクトにわたってコラボレーションすることができます。 個人アカウントは、組織アカウントの任意の数のメンバーになることができます。
-2. 「契約」は、本書 (以下「サービス条件」または「条件」といいます) に記載または言及されるすべての表現、条件、通知および他のすべての運用規則、ポリシー ([github.com/site/privacy](https://github.com/site/privacy) に掲載された GitHub のプライバシーに関する声明を含む)、ならびに当社が Web サイトで随時公開する手順を総称したものです。 当社のサイト ポリシーの多くについては、[docs.github.com/categories/site-policy](/ja/categories/site-policy) をご覧ください。
+2. 「契約」は、本書 (以下「サービス条件」または「条件」といいます) に記載または言及されるすべての表現、条件、通知および他のすべての運用規則、ポリシー ([github.com/site/privacy](https://github.com/site/privacy) に掲載された GitHub のプライバシーに関する声明を含む)、ならびに当社が Web サイトで随時公開する手順を総称したものです。 当社のサイト ポリシーの多くについては、[docs.github.com/categories/site-policy](/ja/site-policy) をご覧ください。
 3. 「ベータ プレビュー」とは、アルファ版、ベータ版、プレビュー版、早期アクセス版、または評価版として識別されるソフトウェア、サービス、または機能、または同様の意味を持つ単語または語句を意味します。
 4. 「コンテンツ」とは、Web サイトを通じて紹介または表示されるコンテンツで、コード、テキスト、データ、記事、画像、写真、グラフィック、ソフトウェア、アプリケーション、パッケージ、デザイン、機能、および Web サイト上で、もしくは本サービスを通じて利用できるその他のマテリアルを意味しますが、それらを含むがそれらに限定されません。 「コンテンツ」にはサービスも含まれます。 「ユーザー生成コンテンツ」は、ユーザーが書き込んだ、もしくは作成またはアップロードしたコンテンツです。 「お客様のコンテンツ」は、お客様が作成または所有するコンテンツです。
 5. 「GitHub」および「当社」とは、GitHub, Inc.、ならびに当社の関連会社、取締役、子会社、請負業者、許諾者、役員、および従業員を意味します。
@@ -127,7 +127,7 @@ GitHub のサービスの個人アカウントには簡単な規則がいくつ�
 * 1 人の個人または 1 法人が維持できる無料アカウントは 1 つのみです (マシン アカウントを管理することを選択することもできますが、アカウントはマシンを実行するためにのみ使用できます)。
 * お客様は 13 歳以上でなければなりません。 才能ある若いプログラマーが胸をときめかせながらプログラミングを学習しているのを見るのは喜ばしいことですが、当社は米国法を遵守しなければなりません。 GitHub では当社のサービスを 13 歳未満の子どもを対象にしておらず、サービスでは 13 歳未満のユーザーを禁止しています。 当社が 13 歳未満のユーザーの存在を認識した場合は、[そのユーザーのアカウントを直ちに終了させます](#l-cancellation-and-termination)。 お客様が米国以外の国に所在している場合、お客様の国の最低年齢はそれより年上の場合があります。そのような場合、お客様は自国の法律を遵守する責任を負います。
 * ログインは 1 人のユーザーのみが使用できます。つまり、1 つのアカウントは複数のユーザーと共有することはできません。 有料組織アカウントは、サブスクリプションで許可された数の個人アカウントにのみアクセスを提供できます。
-* お客様は、米国またはその他の適用法域の輸出管理法または制裁法に違反して GitHub を使用することはできません。 お客様は、お客様が[特別指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) または米国政府機関が管理する同様の資格停止または取引禁止となった当事者の禁止の対象となる人物であったりその代理として活動している場合は、GitHub を使用することはできません。 GitHub は、米国政府の承認に従い、特定の制裁対象の国および地域の住民に一定の GitHub サービスへのアクセスを許可する場合があります。 詳細については、[輸出管理ポリシー](/ja/articles/github-and-export-controls)をご覧ください。
+* お客様は、米国またはその他の適用法域の輸出管理法または制裁法に違反して GitHub を使用することはできません。 お客様は、お客様が[特別指定国民 (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) または米国政府機関が管理する同様の資格停止または取引禁止となった当事者の禁止の対象となる人物であったりその代理として活動している場合は、GitHub を使用することはできません。 GitHub は、米国政府の承認に従い、特定の制裁対象の国および地域の住民に一定の GitHub サービスへのアクセスを許可する場合があります。 詳細については、[輸出管理ポリシー](/ja/site-policy/other-site-policies/github-and-trade-controls)をご覧ください。
 
 ### [](#4-account-security)4.アカウントのセキュリティ ###
 
@@ -141,9 +141,9 @@ GitHub のサービスの個人アカウントには簡単な規則がいくつ�
 
 状況によっては、お客様による GitHub の使用に第三者の使用条件が適用される場合があります。 たとえば、お客様は、GitHub 上で独自の使用条件またはライセンス契約を持つ組織のメンバーである可能性があります。お客様は、GitHub と統合するアプリケーションをダウンロードすることができます。あるいは、お客様は、GitHub を使用して別のサービスに対する認証を行うことができます。 本使用条件はお客様と当社の完全な合意ですが、他の当事者の使用条件がお客様との関係に適用されます。
 
-お客様が政府ユーザーである場合、または政府の立場で GitHub サービスにアクセスまたは使用する場合、[GitHub のサービス条件の政府修正条項](/ja/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users)が適用され、お客様はその条項に同意するものとします。
+お客様が政府ユーザーである場合、または政府の立場で GitHub サービスにアクセスまたは使用する場合、[GitHub のサービス条件の政府修正条項](/ja/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)が適用され、お客様はその条項に同意するものとします。
 
-GitHub Enterprise Cloud の契約をしている場合、[Enterprise Cloud Addendum](/ja/articles/github-enterprise-cloud-addendum) が適用され、お客様はその規定に同意するものとします。
+GitHub Enterprise Cloud の契約をしている場合、[Enterprise Cloud Addendum](/ja/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement) が適用され、お客様はその規定に同意するものとします。
 
 [](#c-許可される使用)C. "許可される使用"
 ----------
@@ -152,7 +152,7 @@ GitHub Enterprise Cloud の契約をしている場合、[Enterprise Cloud Adden
 
 お客様による Web サイトおよび本サービスの使用は、著作権法、商標法、輸出管理法や制裁法、または管轄区域の規制を含む適用法に違反してはなりません。 お客様は、本サービスを利用するにあたり、法令およびすべての適用される規制を遵守する責任を負います。
 
-お客様は、いかなる場合でも [利用規約](/ja/articles/github-acceptable-use-policies)および [GitHub のコミュニティ ガイドライン](/ja/articles/github-community-guidelines) に違反しないことに同意するものとします。
+お客様は、いかなる場合でも [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)および [GitHub のコミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines) に違反しないことに同意するものとします。
 
 [](#d-user-generated-content)D. ユーザー生成コンテンツ
 ----------
@@ -165,7 +165,7 @@ GitHub Enterprise Cloud の契約をしている場合、[Enterprise Cloud Adden
 
 ### [](#2-github-may-remove-content)2.GitHub はコンテンツを削除できる ###
 
-当社は、[GitHub の何らかの使用条件またはポリシー](/ja/github/site-policy)に違反すると当社が独自の裁量で判断したユーザー生成コンテンツを拒否または削除する権利を有します。 GitHub Mobile に表示されたユーザー生成コンテンツは、モバイル アプリ ストアの追加条件が適用されます。
+当社は、[GitHub の何らかの使用条件またはポリシー](/ja/site-policy)に違反すると当社が独自の裁量で判断したユーザー生成コンテンツを拒否または削除する権利を有します。 GitHub Mobile に表示されたユーザー生成コンテンツは、モバイル アプリ ストアの追加条件が適用されます。
 
 ### [](#3-ownership-of-content-right-to-post-and-license-grants)3.コンテンツの所有権、投稿権、ライセンスの付与 ###
 
@@ -183,7 +183,7 @@ GitHub Enterprise Cloud の契約をしている場合、[Enterprise Cloud Adden
 
 イシュー、コメント、他のユーザーのリポジトリへの投稿など、お客様が公に投稿したユーザー生成コンテンツは、他のユーザーが閲覧することができます。 リポジトリをパブリックに表示するように設定することにより、お客様は、他者がお客様のリポジトリを表示および「フォークする」ことを許可することに同意するものとします (これは、他者がお客様のリポジトリから自らが管理するリポジトリに独自のコピーを作成できるということです)。
 
-お客様が自分のページおよびリポジトリを一般公開するように設定した場合、お客様は、GitHub の各ユーザーに対し、GitHub サービスを通じてお客様のコンテンツを使用、表示、および実行し、GitHub の機能 (フォーク など) を通じて許可される GitHub 上でのみお客様のコンテンツを複製するための非独占的かつ世界的なライセンスを付与します。 お客様は、お客様が[ライセンスを採用する](/ja/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository)場合、さらなる権利を付与することができます。 お客様が作成または所有していないお客様のコンテンツをアップロードする場合、お客様は、アップロードするお客様のコンテンツが、外部ユーザーにこれらのアクセス許可を付与する条件に基づいてライセンスされていることを確認する責任があります。
+お客様が自分のページおよびリポジトリを一般公開するように設定した場合、お客様は、GitHub の各ユーザーに対し、GitHub サービスを通じてお客様のコンテンツを使用、表示、および実行し、GitHub の機能 (フォーク など) を通じて許可される GitHub 上でのみお客様のコンテンツを複製するための非独占的かつ世界的なライセンスを付与します。 お客様は、お客様が[ライセンスを採用する](/ja/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository)場合、さらなる権利を付与することができます。 お客様が作成または所有していないお客様のコンテンツをアップロードする場合、お客様は、アップロードするお客様のコンテンツが、外部ユーザーにこれらのアクセス許可を付与する条件に基づいてライセンスされていることを確認する責任があります。
 
 ### [](#6-contributions-under-repository-license)6.リポジトリ ライセンスの下での投稿 ###
 
@@ -212,22 +212,22 @@ GitHub は、プライベート リポジトリにあるコンテンツをお客
 
 ### [](#3-access)3.アクセス ###
 
-GitHub の担当者は、[プライバシーに関する声明](/ja/github/site-policy/github-privacy-statement#repository-contents)に記載されている状況でのみ、お客様のプライベート リポジトリのコンテンツにアクセスできます。
+GitHub の担当者は、[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#repository-contents)に記載されている状況でのみ、お客様のプライベート リポジトリのコンテンツにアクセスできます。
 
 お客様は、プライベート リポジトリへの追加アクセスを有効にすることを選択できます。 以下に例を示します。
 
 * お客様は、プライベート リポジトリのお客様のコンテンツに対する追加の権利を必要とするさまざまな GitHub サービスまたは機能を有効にすることができます。 これらの権利はサービスまたは機能によって異なる場合がありますが、GitHub は引き続きお客様のプライベート リポジトリ内のお客様のコンテンツをお客様の機密情報として取り扱います。 これらのサービスまたは機能が当社が GitHub サービスを提供するために必要な権利の他に権利を必要とする場合、当社はそれらの権利の説明を提供します。
 
-さらに、当社は[法律により](/ja/github/site-policy/github-privacy-statement#for-legal-disclosure)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
+さらに、当社は[法律により](/ja/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
 
-GitHub は、[法的開示のため](/ja/github/site-policy/github-privacy-statement#for-legal-disclosure)、当社の法的義務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
+GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、当社の法的義務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
 
 [](#f-copyright-infringement-and-dmca-policy)F. 著作権侵害と DMCA ポリシー
 ----------
 
-当社の Web サイト上のコンテンツがお客様の著作権を侵害していると思われる場合は、[デジタル ミレニアム著作権法ポリシー](/ja/articles/dmca-takedown-policy)に従って当社にご連絡ください。 お客様が著作権者で、GitHub 上のコンテンツがお客様の権利を侵害していると思われる場合は、violates your rights, please contact us via [当社の便利な DMCA フォーム](https://github.com/contact/dmca)を使用するか、[copyright@github.com](mailto:copyright@github.com) に電子メール送信することにより、当社にご連絡ください。 虚偽または根拠のない削除通知の送信は法的責任を伴う場合があります。 削除通知を送信する前に、公正使用や許諾使用などの法的使用を考慮する必要があります。
+当社の Web サイト上のコンテンツがお客様の著作権を侵害していると思われる場合は、[デジタル ミレニアム著作権法ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)に従って当社にご連絡ください。 お客様が著作権者で、GitHub 上のコンテンツがお客様の権利を侵害していると思われる場合は、violates your rights, please contact us via [当社の便利な DMCA フォーム](https://github.com/contact/dmca)を使用するか、[copyright@github.com](mailto:copyright@github.com) に電子メール送信することにより、当社にご連絡ください。 虚偽または根拠のない削除通知の送信は法的責任を伴う場合があります。 削除通知を送信する前に、公正使用や許諾使用などの法的使用を考慮する必要があります。
 
-当社は、このポリシーの[侵害行為を繰り返す](/ja/articles/dmca-takedown-policy/#e-repeated-infringement)アカウントを終了させます。
+当社は、このポリシーの[侵害行為を繰り返す](/ja/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement)アカウントを終了させます。
 
 [](#g-intellectual-property-notice)G. 知的財産に関する通知
 ----------
@@ -266,7 +266,7 @@ GitHub は、ハイスループット アクセスを必要とするか、アク
 
 **要約:** *お客様は、GitHub のさまざまな機能および製品固有の契約条件に従う必要があり、本契約に同意する場合は追加の製品使用条件にも同意するものとします。*
 
-本サービスの一部の機能には、GitHub の追加の製品使用条件に規定されている当該機能または製品固有の追加条件が適用される場合があります。 本サービスにアクセスまたは使用することにより、お客様は、[GitHub の追加の製品使用条件](/ja/github/site-policy/github-additional-product-terms)にも同意するものとします。
+本サービスの一部の機能には、GitHub の追加の製品使用条件に規定されている当該機能または製品固有の追加条件が適用される場合があります。 本サービスにアクセスまたは使用することにより、お客様は、[GitHub の追加の製品使用条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)にも同意するものとします。
 
 [](#j-beta-previews)J. ベータ プレビュー
 ----------
@@ -309,7 +309,7 @@ GitHub は、ハイスループット アクセスを必要とするか、アク
 
 **プランに基づく支払い** 月払いまたは年払いプランの場合、サービスはそれぞれ月単位または年単位で事前に請求され、返金はできません。 サービスの一部月分の払い戻しやクレジット、ダウングレードの払い戻し、またはオープン アカウントを使用した未使用の月の払い戻しはありません。ただし、サービスは有料の請求期間の間、アクティブなままになります。 全員を平等に扱うために、例外は認めません。
 
-**使用量に基づく支払** 一部のサービス機能は、お客様の使用状況に基づいて請求されます。 これらのサービス機能の数量は限られており、追加料金なしで期間限定でプランに含まれる場合があります。 お客様が、プランに含まれる数量を超えて有料のサービス機能を購入することを選択した場合は、お客様が、前月の実際の使用量に基づいてそれらのサービス機能の料金を支払います。 これらの購入に対する毎月の支払いは、定期的に延滞金で請求されます。 詳細については、[GitHub の追加の製品使用条件](/ja/github/site-policy/github-additional-product-terms)を参照してください。
+**使用量に基づく支払** 一部のサービス機能は、お客様の使用状況に基づいて請求されます。 これらのサービス機能の数量は限られており、追加料金なしで期間限定でプランに含まれる場合があります。 お客様が、プランに含まれる数量を超えて有料のサービス機能を購入することを選択した場合は、お客様が、前月の実際の使用量に基づいてそれらのサービス機能の料金を支払います。 これらの購入に対する毎月の支払いは、定期的に延滞金で請求されます。 詳細については、[GitHub の追加の製品使用条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)を参照してください。
 
 **請求** 請求対象ユーザーの場合、お客様は、いかなる種類の控除または相殺もなしに、料金を全額、前払いで米ドルで支払うことに同意するものとします。 お客様は、GitHub の請求書の日付から 30 日以内に料金を支払わなければなりません。 本契約に基づいて支払われる金額は、本契約に別段の記載がある場合を除き、返金できません。 ユーザーが料金を期限内に支払わなかった場合、GitHub は、法律または衡平法でその他の措置を講じることに加えて、(i) 支払期日を過ぎた金額に対して月額 1.0% または法律で認められている最高金利のいずれか低い方で利息を請求し、すべての回収費用を請求し、(ii) 該当する注文書を終了する権利を留保します。 ユーザーは、本契約に関連して課せられる、または支払われるべきすべての税金、料金、関税、および政府による評価 (GitHub の純利益に基づく税金を除く) について単独で責任を負います。
 
@@ -328,7 +328,7 @@ GitHub は、ハイスループット アクセスを必要とするか、アク
 
 ### [](#1-account-cancellation)1.アカウントの解約 ###
 
-GitHub のアカウントを適切に解約することはお客様の責任です。 お客様は、画面上部のグローバル ナビゲーション バーの [設定] に移動して[アカウントをいつでも解約する](/ja/articles/how-do-i-cancel-my-account)ことができます。 [アカウント] 画面には、簡素で質問のない解約リンクが表示されます。 当社は、電子メールまたは電話による要求に応じてアカウントを解約することはできません。
+GitHub のアカウントを適切に解約することはお客様の責任です。 お客様は、画面上部のグローバル ナビゲーション バーの [設定] に移動して[アカウントをいつでも解約する](/ja/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)ことができます。 [アカウント] 画面には、簡素で質問のない解約リンクが表示されます。 当社は、電子メールまたは電話による要求に応じてアカウントを解約することはできません。
 
 ### [](#2-upon-cancellation)2.解約の結果 ###
 
@@ -357,7 +357,7 @@ GitHub はいつでも、理由および通知の有無にかかわらず、即�
 
 ### [](#2-legal-notice-to-github-must-be-in-writing)2.GitHub への法的通知は書面で行わなければなりません ###
 
-電子メールまたは GitHub サポートのメッセージング システムを介して行われた連絡は、契約または法律または規制によって GitHub への通知が要求されるいかなる状況においても、GitHub、その役員、従業員、代理人、または代表者への法的通知を構成するものではありません。 GitHub への法的通知は書面で行い、[GitHub の法的代理人に送達](/ja/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests)しなければなりません。
+電子メールまたは GitHub サポートのメッセージング システムを介して行われた連絡は、契約または法律または規制によって GitHub への通知が要求されるいかなる状況においても、GitHub、その役員、従業員、代理人、または代表者への法的通知を構成するものではありません。 GitHub への法的通知は書面で行い、[GitHub の法的代理人に送達](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests)しなければなりません。
 
 ### [](#3-no-phone-support)3.電話サポートなし ###
 

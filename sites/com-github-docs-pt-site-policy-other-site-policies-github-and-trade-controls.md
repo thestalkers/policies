@@ -1,4 +1,4 @@
-GitHub e Controle de Comércio - GitHub Docs
+GitHub and Trade Controls - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
-* [GitHub e Controle de Comércio](/pt/site-policy/other-site-policies/github-and-trade-controls)
+* [GitHub and Trade Controls](/pt/site-policy/other-site-policies/github-and-trade-controls)
 
-GitHub e Controle de Comércio
+GitHub and Trade Controls
 ==========
 
 In this article
@@ -35,7 +35,7 @@ Embora tenhamos fornecido estas informações para sua conveniência, em última
 
 ### [](#githubcom)GitHub.com ###
 
-Segundo nossos [Termos de Serviços](/pt/articles/github-terms-of-service), os usuários só podem acessar e usar o site GitHub.com em conformidade com a lei aplicável, incluindo o controle de exportação dos EUA e as leis de sanções.
+Segundo nossos [Termos de Serviços](/pt/site-policy/github-terms/github-terms-of-service), os usuários só podem acessar e usar o site GitHub.com em conformidade com a lei aplicável, incluindo o controle de exportação dos EUA e as leis de sanções.
 
 Os usuários são responsáveis por garantir que o conteúdo que eles desenvolvem e compartilham em GitHub.com está em conformidade com as leis de controle de exportação dos EUA, incluindo o EAR e os Regulamentos sobre o Tráfego Internacional de Armas (ITAR) dos EUA. A oferta de serviços hospedados na nuvem disponível em [GitHub.com](https://github.com) não foi projetada para hospedar dados sujeitos ao ITAR e, no momento, não oferece a capacidade de restringir o acesso ao repositório por país. Se você deseja colaborar com os ITAR ou outros dados com controle de exportação, recomendamos que você considere [GitHub Enterprise Server](https://enterprise.github.com), a oferta local do GitHub.
 

@@ -1,4 +1,4 @@
-Interrupção da Experiência de Outros Usuários por Parte do GitHub - GitHub Docs
+GitHub Disrupting the Experience of Other Users - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Interrupção da experiência de outros usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [Disrupting the Experience of Other Users](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-Interrupção da Experiência de Outros Usuários por Parte do GitHub
+GitHub Disrupting the Experience of Other Users
 ==========
 
 Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e com a plataforma na qual elas confiam.
@@ -28,4 +28,4 @@ Não permitimos comportamentos que interrompam significativa ou continuamente a 
 
 Embora incentivemos os mantenedores a moderar seus próprios projetos individualmente, a equipe do GitHub pode tomar medidas restritivas adicionais contra contas que estão envolvidas nesses tipos de comportamento.
 
-Observe que a conduta acima também pode violar outras restrições em nossas [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies). Por exemplo, dependendo da natureza e gravidade da atividade, pode chegar ao nível de [bullying e assédio](/pt/github/site-policy/github-bullying-and-harassment).
+Observe que a conduta acima também pode violar outras restrições em nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). Por exemplo, dependendo da natureza e gravidade da atividade, pode chegar ao nível de [bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).

@@ -1,4 +1,4 @@
-GitHub のいじめまたは嫌がらせ - GitHub Docs
+GitHub Bullying and Harassment - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,15 +10,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying and Harassment](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-GitHub のいじめまたは嫌がらせ
+GitHub Bullying and Harassment
 ==========
 
 当社は、禁止されている行為を自ら行うか、または加担することを他者に促すかにかかわらず、いかなる嫌がらせ、いじめ、または虐待も容認しません。 こうした行為には、以下が含まれます。
 
 * 対象を絞った個人攻撃
-* 虐待に相当する方法で[破壊的な](/ja/github/site-policy/github-disrupting-the-experience-of-other-users)行為を重ねたり、それを画策したりすること
+* 虐待に相当する方法で[破壊的な](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)行為を重ねたり、それを画策したりすること
 * 脅迫行為の原因となる方法で、プラットフォームの周りの別のユーザーに従うこと
 * 他人に向けて性的な誘いかけや発言を行うこと
 * 衝突を引き起こしたり、誠実なやり取りを損なったりする方法で、不誠実な態度で会話に参加すること

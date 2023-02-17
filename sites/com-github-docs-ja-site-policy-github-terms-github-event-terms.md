@@ -1,4 +1,4 @@
-GitHub イベント条件 - GitHub Docs
+GitHub Event Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
+* [GitHub Event Terms](/ja/site-policy/github-terms/github-event-terms)
 
-GitHub イベント条件
+GitHub Event Terms
 ==========
 
 In this article
@@ -32,20 +32,20 @@ In this article
 
 GitHub イベントに関連して GitHub が主催するイベントまたは活動 (以下総称して「イベント」といいます) など、GitHub イベントに出欠の返事をしたり出欠することにより、お客様は以下のイベントに関する条件を読み、理解し、同意を示したことになります。
 
-[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1.基本的な出席要件 - [イベントの行動規範](/ja/articles/github-event-code-of-conduct)を含む
+[](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)1.基本的な出席要件 - [イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)を含む
 ----------
 
 イベントに参加するには、以下を表明するものとします。
 
 * このイベント条件を受諾するために必須の権能および権限を有していること
 
-* これらのイベント条件および[GitHub.com サービス条件](/ja/articles/github-terms-of-service)を読み、理解したこと
+* これらのイベント条件および[GitHub.com サービス条件](/ja/site-policy/github-terms/github-terms-of-service)を読み、理解したこと
 
-* 誰にとっても嫌がらせのないエクスペリエンスを提供することを求める[イベント行動規範](/ja/articles/github-event-code-of-conduct)に拘束されることに同意すること
+* 誰にとっても嫌がらせのないエクスペリエンスを提供することを求める[イベント行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)に拘束されることに同意すること
 
 * GitHub イベントでアルコールを出された場合、21 歳以上であること、さもなければ居住法域で法的に飲酒が認められた年齢以上であることを表明すること。
 
-嫌がらせまたはその他の禁止行為を止めるよう求められた参加者は、直ちに従うものとします。 参加者が[イベント行動規範](/ja/articles/github-event-code-of-conduct)またはこれらの条件に違反する行為を行った場合、イベント主催者は、違反者に警告したりイベントまたはコンファレンスから払い戻しを行わずに退去させるなど、適切と判断する措置を講じることができます。
+嫌がらせまたはその他の禁止行為を止めるよう求められた参加者は、直ちに従うものとします。 参加者が[イベント行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)またはこれらの条件に違反する行為を行った場合、イベント主催者は、違反者に警告したりイベントまたはコンファレンスから払い戻しを行わずに退去させるなど、適切と判断する措置を講じることができます。
 
 [](#2-pictures)2.写真
 ----------
@@ -76,7 +76,7 @@ GitHub またはそのパートナーは、GitHub イベントで写真または
 [](#4-termination)4.契約終了
 ----------
 
-望ましいことではありませんが、GitHub は、お客様がこれらのイベント条件および [イベント行動規範](/ja/articles/github-event-code-of-conduct)、[GitHub.com サービス条件](/ja/articles/github-terms-of-service) を守らない場合、理由の有無を問わず、いかなる通知も責任もなく、GitHub イベントへのお客様の出席をいつでも禁止することができます。 第 3 条 (リスク、責任、および免責) は契約終了後も引き続き適用されます。
+望ましいことではありませんが、GitHub は、お客様がこれらのイベント条件および [イベント行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)、[GitHub.com サービス条件](/ja/site-policy/github-terms/github-terms-of-service) を守らない場合、理由の有無を問わず、いかなる通知も責任もなく、GitHub イベントへのお客様の出席をいつでも禁止することができます。 第 3 条 (リスク、責任、および免責) は契約終了後も引き続き適用されます。
 
 [](#5-choice-of-law-and-venue)5.法および裁判地の選択
 ----------

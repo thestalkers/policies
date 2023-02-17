@@ -1,4 +1,4 @@
-Bullying e Assédio no GitHub - GitHub Docs
+GitHub Bullying and Harassment - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,15 +10,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Bullying and Harassment](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-Bullying e Assédio no GitHub
+GitHub Bullying and Harassment
 ==========
 
 Não toleramos assédio, bullying ou abuso de qualquer natureza, seja diretamente ou incentivando outras pessoas a participar da conduta proibida. Isso inclui:
 
 * Ataques pessoais direcionados
-* Acumular ou orquestrar atividades [perturbadoras](/pt/github/site-policy/github-disrupting-the-experience-of-other-users) de uma forma que equivale a abuso
+* Acumular ou orquestrar atividades [perturbadoras](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) de uma forma que equivale a abuso
 * Seguir outro usuário pela plataforma de maneira que cause intimidação
 * Fazer investidas ou comentários sexuais dirigidos a outro indivíduo
 * Participar de forma dissimulada de uma conversa de modo que instigue conflito ou prejudique uma discussão verdadeira

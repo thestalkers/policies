@@ -1,4 +1,4 @@
-Termos do GitHub para Produtos e Recursos Adicionais - GitHub Docs
+GitHub Terms for Additional Products and Features - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos do GitHub para Produtos e Recursos Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [GitHub Terms for Additional Products and Features](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-Termos do GitHub para Produtos e Recursos Adicionais
+GitHub Terms for Additional Products and Features
 ==========
 
 In this article
@@ -65,7 +65,7 @@ Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos 
 
 O GitHub Actions permite que você crie fluxos de trabalho de ciclo de vida de desenvolvimento de software personalizados diretamente em seu repositório do GitHub. As Ações são cobradas com base no uso. A [documentação das Ações](/pt/actions) inclui detalhes, entre eles, quantidades de computação e armazenamento (dependendo de seu plano de conta) e como monitorar o uso de minutos das Ações, além de definir limites de uso.
 
-As Ações e os elementos do produto ou do serviço Ações não podem ser usados em violação do Contrato, das [Políticas de Uso Aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies) nem das limitações do serviço GitHub Actions estabelecidas na [documentação das Ações](/pt/actions/reference/usage-limits-billing-and-administration). Além disso, independentemente de uma Ação estar usando executores auto-hospedados, as Ações não devem ser usadas para:
+As Ações e os elementos do produto ou do serviço Ações não podem ser usados em violação do Contrato, das [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem das limitações do serviço GitHub Actions estabelecidas na [documentação das Ações](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Além disso, independentemente de uma Ação estar usando executores auto-hospedados, as Ações não devem ser usadas para:
 
 * mineração de criptomoedas;
 * interromper, obter ou tentar obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo [Programa de Recompensas por Bugs do GitHub](https://bounty.github.com));
@@ -94,7 +94,7 @@ Se você usar executores auto-hospedados, poderá desativar as atualizações au
 [](#advanced-security)Advanced Security
 ----------
 
-O GitHub disponibiliza recursos extras de segurança para clientes sob uma licença do Advanced Security. Esses recursos incluem verificação de código, verificação secreta e revisão de dependência. A [documentação do Advanced Security](/pt/github/getting-started-with-github/about-github-advanced-security) fornece mais detalhes.
+O GitHub disponibiliza recursos extras de segurança para clientes sob uma licença do Advanced Security. Esses recursos incluem verificação de código, verificação secreta e revisão de dependência. A [documentação do Advanced Security](/pt/get-started/learning-about-github/about-github-advanced-security) fornece mais detalhes.
 
 O Advanced Security é licenciado com base em “Committer Exclusivo”. “Committer Exclusivo” é um usuário licenciado do GitHub Enterprise, do GitHub Enterprise Cloud, do GitHub Enterprise Server ou do GitHub AE, que criou uma validação de código nos últimos 90 dias em qualquer repositório com qualquer funcionalidade do GitHub Advanced Security ativada. Você deve adquirir uma licença de usuário do GitHub Advanced Security para cada um dos seus Committers Exclusivos. Você só pode usar o GitHub Advanced Security em bases de código desenvolvidas por ou para você. Para usuários do GitHub Enterprise Cloud, alguns recursos do Advanced Security também exigem o uso do GitHub Actions.
 
@@ -128,7 +128,7 @@ Para evitar violações dessas limitações e abuso do GitHub Codespaces, o GitH
 
 O Codespaces permite que você carregue extensões do Microsoft Visual Studio Marketplace (“Extensões do Marketplace”) para uso em seu ambiente de desenvolvimento, por exemplo, para processar as linguagens de programação nas quais seu código está escrito. As Extensões do Marketplace são licenciadas de acordo com seus próprios termos de uso separados, conforme observado no Visual Studio Marketplace, e os termos de uso localizados em <https://aka.ms/vsmarketplace-ToU>. O GitHub não oferece garantias de nenhum tipo em relação às Extensões do Marketplace e não é responsável por ações de autores terceiros das Extensões do Marketplace que tenham acesso ao Seu Conteúdo. O Codespaces também permite carregar software em seu ambiente por meio de recursos devcontainer. Esse software é fornecido de acordo com os termos de uso separados que o acompanham. O uso que você faz de quaisquer aplicativos de terceiros é de sua inteira responsabilidade.
 
-A versão disponível para o público do Codespaces não está disponível atualmente para clientes do governo dos EUA. Os clientes do governo dos EUA podem continuar a usar a Visualização Beta do Codespaces de acordo com termos separados. Consulte [Termos da Visualização Beta](/pt/github/site-policy/github-terms-of-service#j-beta-previews).
+A versão disponível para o público do Codespaces não está disponível atualmente para clientes do governo dos EUA. Os clientes do governo dos EUA podem continuar a usar a Visualização Beta do Codespaces de acordo com termos separados. Consulte [Termos da Visualização Beta](/pt/site-policy/github-terms/github-terms-of-service#j-beta-previews).
 
 [](#competitive-benchmarking)Parâmetro de comparação competitiva
 ----------
@@ -138,7 +138,7 @@ Caso ofereça um produto ou serviço concorrente a qualquer produto ou serviço 
 [](#connect)Conectar
 ----------
 
-Com o GitHub Connect, você pode compartilhar determinados recursos e dados entre sua implantação do GitHub Enterprise Server ou do GitHub AE e sua organização ou conta corporativa do GitHub Enterprise Cloud no GitHub.com. Para habilitar o GitHub Connect, você precisa ter pelo menos uma (1) conta do GitHub Enterprise Cloud ou do GitHub.com e uma (1) implantação licenciada do GitHub Enterprise Server ou do GitHub AE. O uso que você faz do GitHub Enterprise Cloud ou do GitHub.com por meio do Connect é regido pelos termos de acordo com os quais você licencia o GitHub Enterprise Cloud ou o GitHub.com. O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
+Com o GitHub Connect, você pode compartilhar determinados recursos e dados entre sua implantação do GitHub Enterprise Server ou do GitHub AE e sua organização ou conta corporativa do GitHub Enterprise Cloud no GitHub.com. Para habilitar o GitHub Connect, você precisa ter pelo menos uma (1) conta do GitHub Enterprise Cloud ou do GitHub.com e uma (1) implantação licenciada do GitHub Enterprise Server ou do GitHub AE. O uso que você faz do GitHub Enterprise Cloud ou do GitHub.com por meio do Connect é regido pelos termos de acordo com os quais você licencia o GitHub Enterprise Cloud ou o GitHub.com. O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
 
 [](#github-copilot)GitHub Copilot
 ----------
@@ -170,22 +170,22 @@ npm é um serviço de hospedagem de pacotes de software que permite hospedar seu
 [](#packages)Pacotes
 ----------
 
-O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usá-los como dependências em seus projetos. O GitHub Packages é cobrado com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso da largura de banda do Packages é limitado pelas [Políticas de Uso Aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies).
+O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usá-los como dependências em seus projetos. O GitHub Packages é cobrado com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso da largura de banda do Packages é limitado pelas [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 [](#pages)Pages
 ----------
 
-Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/github/working-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas é usado principalmente como vitrine para projetos pessoais e organizacionais.
+Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas é usado principalmente como vitrine para projetos pessoais e organizacionais.
 
 O GitHub Pages não se destina nem há permissão para ser usado como um serviço gratuito de hospedagem na web para administrar seus negócios online, site de comércio eletrônico nem qualquer outro site que seja direcionado principalmente para facilitar transações comerciais ou fornecer software comercial como serviço (SaaS). Alguns esforços de monetização são permitidos no Pages, como botões de doação e links de financiamento coletivo.
 
 *Limites de Uso e Largura de Banda*
 
-O GitHub Pages está sujeito a alguns limites de uso e largura de banda específicos e pode não ser apropriado para alguns usos de largura de banda alta. Consulte nossos [Limites do GitHub Pages](/pt/github/working-with-github-pages/about-github-pages) para obter mais informações.
+O GitHub Pages está sujeito a alguns limites de uso e largura de banda específicos e pode não ser apropriado para alguns usos de largura de banda alta. Consulte nossos [Limites do GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages) para obter mais informações.
 
 *Usos Proibidos*
 
-O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
+O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
 Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
 
@@ -197,7 +197,7 @@ Pré-visualizações referem-se a software, serviços online e produtos e recurs
 [](#sponsors-program)Programa Sponsors
 ----------
 
-O GitHub Sponsors permite que a comunidade de desenvolvedores apoie financeiramente as pessoas e as organizações que projetam, constroem e mantêm os projetos de software livre dos quais dependem, diretamente no GitHub. Para tornar-se um Desenvolvedor Patrocinado, é necessário concordar com os [Termos Adicionais do Programa GitHub Sponsors](/pt/github/site-policy/github-sponsors-additional-terms).
+O GitHub Sponsors permite que a comunidade de desenvolvedores apoie financeiramente as pessoas e as organizações que projetam, constroem e mantêm os projetos de software livre dos quais dependem, diretamente no GitHub. Para tornar-se um Desenvolvedor Patrocinado, é necessário concordar com os [Termos Adicionais do Programa GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms).
 
 [](#sql-server-images)Imagens do SQL Server
 ----------

@@ -1,4 +1,4 @@
-Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
+Guidelines for Legal Requests of User Data - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
-* [Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [Guidelines for Legal Requests of User Data](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
-Diretrizes para Solicitações Legais de Dados do Usuário
+Guidelines for Legal Requests of User Data
 ==========
 
 In this article
@@ -71,24 +71,24 @@ Antes de nos solicitar a divulgação de dados, pode ser útil entender como nos
 O GitHub hospeda milhões de repositórios de dados usando o [Sistema de controle de versão Git](https://git-scm.com/video/what-is-version-control).
 Os repositórios no GitHub, que podem ser públicos ou privados, são mais comumente usados para projetos de desenvolvimento de software, mas também costumam ser usados para trabalhar com conteúdo de todos os tipos.
 
-* [**Usuários**](/pt/articles/github-glossary#user): os usuários são representados em nosso sistema como contas pessoais do GitHub.
+* [**Usuários**](/pt/get-started/quickstart/github-glossary#user): os usuários são representados em nosso sistema como contas pessoais do GitHub.
   Cada usuário tem um perfil pessoal e pode ter vários repositórios.
   Os usuários podem criar ou ser convidados a ingressar em organizações ou colaborar no repositório de outro usuário.
 
-* [**Colaboradores**](/pt/articles/github-glossary#collaborator) – um colaborador é um usuário com acesso de leitura e gravação a um repositório que foi convidado a contribuir pelo proprietário do repositório.
+* [**Colaboradores**](/pt/get-started/quickstart/github-glossary#collaborator) – um colaborador é um usuário com acesso de leitura e gravação a um repositório que foi convidado a contribuir pelo proprietário do repositório.
 
-* [**Organizações**](/pt/articles/github-glossary#organization): organizações são um grupo de dois ou mais usuários que normalmente espelham organizações do mundo real, como negócios ou projetos.
+* [**Organizações**](/pt/get-started/quickstart/github-glossary#organization): organizações são um grupo de dois ou mais usuários que normalmente espelham organizações do mundo real, como negócios ou projetos.
   Elas são administradas por usuários e podem conter repositórios e equipes de usuários.
 
-* [**Repositórios**](/pt/articles/github-glossary#repository): um repositório é um dos elementos mais básicos do GitHub.
+* [**Repositórios**](/pt/get-started/quickstart/github-glossary#repository): um repositório é um dos elementos mais básicos do GitHub.
   Talvez seja mais fácil imaginá-lo como uma pasta de um projeto.
   Um repositório contém todos os arquivos do projeto (incluindo documentação) e armazena o histórico de revisão de cada arquivo.
   Os repositórios podem ter vários colaboradores e, a critério de seus administradores, podem ser visualizados pelo público ou não.
 
-* [**Páginas**](/pt/articles/what-is-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
+* [**Páginas**](/pt/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
   Se um usuário ou uma organização tiver uma GitHub Page, ela geralmente poderá ser encontrada em um URL, como `https://username.github.io` ou eles podem ter a página da Web mapeada para seu próprio nome de domínio personalizado.
 
-* [**Gists**](/pt/articles/creating-gists): Gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
+* [**Gists**](/pt/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
   Como os repositórios regulares do GitHub, os Gists são criados com o Git, portanto, é possível criar fork, baixar e criar versões deles de forma automática.
   Os Gists podem ser públicos ou secretos (acessíveis apenas por meio de um URL conhecido). Gists públicos não podem ser convertidos em Gists secretos.
 
@@ -127,7 +127,7 @@ Veja a seguir uma lista incompleta dos tipos de dados que mantemos sobre usuári
 
   * Organizações das quais o usuário é membro (*dependendo das preferências das organizações ou dos usuários*)
 
-* []()**Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/articles/github-privacy-statement).
+* []()**Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
   São elas:
 
   * Endereços de email privados

@@ -1,4 +1,4 @@
-DMCA 反論通知提出ガイド - GitHub Docs
+Guide to Submitting a DMCA Counter Notice - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Guide to Submitting a DMCA Counter Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-DMCA 反論通知提出ガイド
+Guide to Submitting a DMCA Counter Notice
 ==========
 
 In this article
@@ -24,7 +24,7 @@ In this article
 
 * [反論通知の提出方法](#how-to-submit-your-counter-notice)
 
-このガイドでは、DMCA 削除要求に対する反論通知を処理するために GitHub が必要とする情報について説明します。 DMCA の内容や、GitHub による DMCA 削除要求の処理方法など、一般的な事項については [DMCA 削除ポリシー](/ja/articles/dmca-takedown-policy)をご覧ください。
+このガイドでは、DMCA 削除要求に対する反論通知を処理するために GitHub が必要とする情報について説明します。 DMCA の内容や、GitHub による DMCA 削除要求の処理方法など、一般的な事項については [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)をご覧ください。
 
 GitHub 上のお客様のコンテンツが DMCA 削除要求により誤って無効にされたと思われる場合、お客様には反論通知を提出して削除に異議を唱える権利があります。 異議を唱えた場合、10 ～ 14 日の期間内に著作権者がお客様に対して法的措置を講じない限り、当社はお客様のコンテンツを再度有効にします。 以下に規定する当社の反論通知の形式はDMCA 法で提案されている形式に適合しています。これは、米国著作権局の公式 Web サイト (<https://www.copyright.gov>) でご確認いただけます。
 
@@ -49,7 +49,7 @@ GitHub 上のお客様のコンテンツが DMCA 削除要求により誤って�
 
 ***反論通知は法的声明です。***反論通知は当社に対してだけでなく、苦情を申し立てた当事者に対する法的声明でもあるため、反論通知のすべてのフィールドにもれなく記入する必要があります。 上記のとおり、苦情を申し立てた当事者が反論通知を受け取った後もコンテンツを無効にしておきたいと望む場合は、GitHub 上のコンテンツに関連する侵害行為にお客様が関与しないよう求める訴訟を起こす必要があります。 言い換えると、お客様は告訴される可能性があります (また、お客様は反論通知でこれに同意します)。
 
-***お客様の反論通知は公開されます。***[DMCA 削除ポリシー](/ja/articles/dmca-takedown-policy#d-transparency)に記載されているように、当社は、完全かつ法的に有効なすべての反論通知を、**個人情報を編集したうえで** <https://github.com/github/dmca> に公開します。 編集後の通知だけを公開しますが、当社が受信した通知の完全な未編集コピーを、通知によって権利に影響を受ける当事者に直接送信する場合があります。 プライバシーが心配な場合は、お客様の代わりに弁護士または他の法定代理人に反論通知を提出してもらうことができます。
+***お客様の反論通知は公開されます。***[DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)に記載されているように、当社は、完全かつ法的に有効なすべての反論通知を、**個人情報を編集したうえで** <https://github.com/github/dmca> に公開します。 編集後の通知だけを公開しますが、当社が受信した通知の完全な未編集コピーを、通知によって権利に影響を受ける当事者に直接送信する場合があります。 プライバシーが心配な場合は、お客様の代わりに弁護士または他の法定代理人に反論通知を提出してもらうことができます。
 
 ***GitHub は裁判官ではありません。***GitHub は、通知が DMCA の最小要件を満たしているかどうかを判断する以外に、このプロセスで自由裁量権を行使することはほとんどありません。 メモが偽証罪により罰せられるという条件で作成されたことを念頭に、申し立てのメリットを評価するのは両当事者 (およびそれぞれの弁護士) 次第です。
 
