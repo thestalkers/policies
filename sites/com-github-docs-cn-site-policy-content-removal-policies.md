@@ -14,7 +14,7 @@ We publish frequent updates to our documentation, and translation of this page m
 内容删除政策
 ==========
 
-* [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Submitting content removal requests](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
 * [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)
 * [GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
 * [GitHub 商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)

@@ -14,7 +14,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de Remoção de Conteúdo
 ==========
 
-* [Enviando solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Submitting content removal requests](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
 * [Política de Remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
 * [Política de Remoção de Informações Privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 * [Política de Marcas Registradas do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)

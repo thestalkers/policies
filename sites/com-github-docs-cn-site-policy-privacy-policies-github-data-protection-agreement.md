@@ -14,7 +14,7 @@ We publish frequent updates to our documentation, and translation of this page m
 隐私政策
 ==========
 
-* [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement)
 * [GitHub Subprocessors and Cookies](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [GitHub Candidate Privacy Policy](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)

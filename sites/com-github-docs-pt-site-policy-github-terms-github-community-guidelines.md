@@ -1,4 +1,4 @@
-Diretrizes da Comunidade do GitHub - GitHub Docs
+GitHub Community Guidelines - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+* [GitHub Community Guidelines](/pt/site-policy/github-terms/github-community-guidelines)
 
-Diretrizes da Comunidade do GitHub
+GitHub Community Guidelines
 ==========
 
 In this article
@@ -52,11 +52,11 @@ O objetivo principal da comunidade do GitHub é colaborar em projetos de softwar
 
 Embora algumas divergências possam ser resolvidas com uma comunicação direta e respeitosa entre os membros da comunidade, entendemos que isso nem sempre acontece. Incentivamos nossa comunidade a [nos informar](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) quando se acreditar que o conteúdo ou a atividade identificado viola nossas políticas. No entanto, se você encontrar algo ou alguém no site que considere censurável, aqui estão algumas maneiras pelas quais o GitHub permite que você tome uma atitude:
 
-* **Comunique as expectativas** – Os mantenedores podem definir diretrizes específicas da comunidade para ajudar os usuários a entender como interagir com seus projetos, por exemplo, no README de um repositório, [arquivo CONTRIBUTING](/pt/articles/setting-guidelines-for-repository-contributors), ou [código de conduta específico](/pt/articles/adding-a-code-of-conduct-to-your-project). Você pode encontrar informações adicionais sobre como construir comunidades [aqui](/pt/communities).
+* **Comunique as expectativas** – Os mantenedores podem definir diretrizes específicas da comunidade para ajudar os usuários a entender como interagir com seus projetos, por exemplo, no README de um repositório, [arquivo CONTRIBUTING](/pt/articles/setting-guidelines-for-repository-contributors), ou [código de conduta específico](/pt/articles/adding-a-code-of-conduct-to-your-project). Você pode encontrar informações adicionais sobre como construir comunidades na página [Comunidades](/pt/communities).
 
 * **Modere os comentários** – Usuários com [privilégios de acesso para gravação](/pt/articles/repository-permission-levels-for-an-organization) em um repositório podem [editar, excluir ou ocultar os comentários de qualquer pessoa](/pt/communities/moderating-comments-and-conversations/managing-disruptive-comments) em commits, solicitações de pull e problemas. Qualquer pessoa com acesso de leitura em um repositório pode visualizar o histórico de edição de um comentário. Autores de comentários e pessoas com acesso para gravação em um repositório também podem excluir informações confidenciais de um [histórico de edições de comentários](/pt/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). Moderar seus projetos pode parecer uma grande tarefa se houver muita atividade, mas você pode [adicionar colaboradores](/pt/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) para ajudar você a gerenciar a comunidade.
 
-* **Bloqueie as conversas** – Se uma discussão sobre um problema, solicitação de pull ou commit sair de controle, fugir do assunto ou violar o código de conduta do projeto ou das políticas do GitHub, proprietários, colaboradores e qualquer outra pessoa com acesso para gravação podem colocar um [bloqueio](/pt/articles/locking-conversations) temporário ou permanente na conversa.
+* **Bloqueie as conversas** – Se uma discussão sobre um problema, solicitação de pull ou commit sair de controle, fugir do assunto ou violar o código de conduta do projeto ou das políticas do GitHub, proprietários, colaboradores e qualquer outra pessoa com acesso para gravação podem colocar um bloqueio temporário ou permanente na conversa. Para obter mais informações, confira "[Como bloquear conversas](/pt/articles/locking-conversations)".
 
 * **Bloqueie os usuários** – Se você encontrar um usuário específico com o qual prefere não se envolver, poderá [bloqueá-lo de sua conta pessoal](/pt/articles/blocking-a-user-from-your-personal-account) ou [da sua organização](/pt/articles/blocking-a-user-from-your-organization).
 

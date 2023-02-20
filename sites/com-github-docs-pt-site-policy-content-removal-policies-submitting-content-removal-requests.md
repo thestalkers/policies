@@ -1,4 +1,4 @@
-Enviando solicitações de remoção de conteúdo - GitHub Docs
+Submitting content removal requests - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
-* [Enviando solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Submitting content removal requests](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-Enviando solicitações de remoção de conteúdo
+Submitting content removal requests
 ==========
 
 In this article
@@ -45,4 +45,4 @@ A Política de Marcas Registradas do GitHub pode ser usada para denunciar conte�
 
 A Política de Remoção de Informações Privadas do GitHub pode ser usada para denunciar dados privados (confidenciais e que representam um risco de segurança), mas que não são necessariamente protegidos por direitos autorais ou marcas registradas.
 
-Usuários na Índia podem entrar em contato com o Representante de Reclamações do GitHub [aqui](https://support.github.com/contact/india-grievance-officer).
+Usuários na Índia podem [entrar em contato com o Oficial de Reclamações do GitHub](https://support.github.com/contact/india-grievance-officer).

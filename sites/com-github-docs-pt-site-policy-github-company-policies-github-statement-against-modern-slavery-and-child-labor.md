@@ -1,4 +1,4 @@
-Declaração do GitHub contra a Escravidão Moderna e o Trabalho Infantil - GitHub Docs
+GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas da Empresa GitHub](/pt/site-policy/github-company-policies)/
-* [Declaração do GitHub contra a Escravidão Moderna e o Trabalho Infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [GitHub Statement Against Modern Slavery and Child Labor](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-Declaração do GitHub contra a Escravidão Moderna e o Trabalho Infantil
+GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
 In this article
@@ -143,4 +143,4 @@ As instruções de aquisição do GitHub para funcionários que fazem compras da
 
 O GitHub está desenvolvendo treinamentos sobre escravidão moderna e trabalho infantil que serão obrigatórios para todos os funcionários, visando aos negócios e à cadeia de fornecimento do GitHub. O GitHub enfatizará fornecedores que prestam serviços envolvendo mão de obra, como suporte a eventos, construção, serviços de instalações e serviços de alimentação, como áreas de maior risco potencial.
 
-O **Conselho de Administração do GitHub aprovou [esta Declaração](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
+**O Conselho de Administração do GitHub aprovou esta Declaração. Confira uma [cópia desta declaração assinada pelo Diretor de Estratégia e pelo Conselho Geral do GitHub (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**

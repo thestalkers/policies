@@ -14,7 +14,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de Privacidade
 ==========
 
-* [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement)
 * [GitHub Subprocessors and Cookies](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [Política de Privacidade de Codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [GitHub Candidate Privacy Policy](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
