@@ -1,4 +1,4 @@
-Código de conduta da comunidade do GitHub - GitHub Docs
+GitHub Community Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Community Code of Conduct](/pt/site-policy/github-terms/github-community-code-of-conduct)
 
-Código de conduta da comunidade do GitHub
+GitHub Community Code of Conduct
 ==========
 
 In this article
@@ -35,7 +35,7 @@ In this article
 
 Milhões de desenvolvedores do mundo todo hospedam milhões de projetos – tanto de código aberto quanto fechado – no GitHub. Temos a sorte de poder desempenhar um papel em permitir a colaboração em toda a comunidade de desenvolvedores todos os dias, o que é uma responsabilidade que nós não tratamos levianamente. Juntos, todos nós temos a emocionante oportunidade de fazer desta comunidade algo do qual podemos nos orgulhar.
 
-A Comunidade do GitHub, da plataforma GitHub Discussions, pretende ser um local para colaboração, suporte e brainstorming adicionais. É um lugar civilizado para se conectar com outros usuários, aprender novas habilidades, compartilhar feedback e ideias e encontrar todo o suporte necessário para seus projetos do GitHub. Ao participar desta Comunidade do GitHub, você concorda com os mesmos [Termos de serviço](/pt/github/site-policy/github-terms-of-service) e [Políticas de uso aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies) que se aplicam ao GitHub.com, bem como este Código de Conduta específico da Comunidade do GitHub.
+A Comunidade do GitHub, da plataforma GitHub Discussions, pretende ser um local para colaboração, suporte e brainstorming adicionais. É um lugar civilizado para se conectar com outros usuários, aprender novas habilidades, compartilhar feedback e ideias e encontrar todo o suporte necessário para seus projetos do GitHub. Ao participar desta Comunidade do GitHub, você concorda com os mesmos [Termos de serviço](/pt/site-policy/github-terms/github-terms-of-service) e [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) que se aplicam ao GitHub.com, bem como este Código de Conduta específico da Comunidade do GitHub.
 
 Com esse Código de Conduta, esperamos ajudar você a entender a melhor forma de colaborar na Comunidade do GitHub, o que você pode esperar dos moderadores e quais tipos de ação ou conteúdo podem resultar na suspensão temporária ou permanente de participação na Comunidade. Investigaremos todas as denúncias de abuso e poderemos moderar o conteúdo público dentro da Comunidade do GitHub se determinarmos que ele viola os Termos de serviço do GitHub ou deste Código de conduta.
 
@@ -95,15 +95,15 @@ O objetivo principal da comunidade do GitHub é colaborar em projetos de softwar
 
 ### [](#what-is-not-allowed)*O que não é permitido* ###
 
-As [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub, que fazem parte dos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) do GitHub, definem uma referência sobre o que não é permitido no GitHub. Como a Comunidade do GitHub está no GitHub.com, esses termos e restrições se aplicam à Comunidade do GitHub, incluindo as seguintes restrições:
+As [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub, que fazem parte dos [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) do GitHub, definem uma referência sobre o que não é permitido no GitHub. Como a Comunidade do GitHub está no GitHub.com, esses termos e restrições se aplicam à Comunidade do GitHub, incluindo as seguintes restrições:
 
-* **Qualquer pessoa com menos de 13 anos.** Se você é uma criança menor de 13 anos, não é permitido que você tenha uma conta no GitHub. O GitHub não coleta intencionalmente informações nem direciona nada do nosso conteúdo especificamente para crianças menores de 13 anos. Se descobrirmos ou tivermos motivos para suspeitar de que você é usuário e tem menos de 13 anos de idade, infelizmente teremos que encerrar a sua conta no GitHub.com. Não queremos desencorajá-lo a aprender a codificar, mas essas são as regras. Consulte os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) para obter informações sobre o encerramento da conta.
+* **Qualquer pessoa com menos de 13 anos.** Se você é uma criança menor de 13 anos, não é permitido que você tenha uma conta no GitHub. O GitHub não coleta intencionalmente informações nem direciona nada do nosso conteúdo especificamente para crianças menores de 13 anos. Se descobrirmos ou tivermos motivos para suspeitar de que você é usuário e tem menos de 13 anos de idade, infelizmente teremos que encerrar a sua conta no GitHub.com. Não queremos desencorajá-lo a aprender a codificar, mas essas são as regras. Consulte os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) para obter informações sobre o encerramento da conta.
 
-* **Criação de uma nova conta após restrição.** Os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) do GitHub declaram que “Uma pessoa física ou jurídica não pode manter mais de uma conta gratuita”. Contas gratuitas adicionais criadas para questionar sobre contas sinalizadas ou suspensas no GitHub serão removidas.
+* **Criação de uma nova conta após restrição.** Os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) do GitHub declaram que “Uma pessoa física ou jurídica não pode manter mais de uma conta gratuita”. Contas gratuitas adicionais criadas para questionar sobre contas sinalizadas ou suspensas no GitHub serão removidas.
 
 * **Outras condutas que possam ser razoavelmente consideradas inadequadas em um ambiente profissional.** A Comunidade do GitHub é um espaço profissional e deve ser tratado como tal.
 
-* **Violação dos Termos de Serviço.** Se a sua conta GitHub.com for identificada em violação dos [Termos de serviço](/pt/github/site-policy/github-terms-of-service) teremos que encerrá-la.
+* **Violação dos Termos de Serviço.** Se a sua conta GitHub.com for identificada em violação dos [Termos de serviço](/pt/site-policy/github-terms/github-terms-of-service) teremos que encerrá-la.
 
 [](#enforcement)Imposição
 ----------
@@ -112,7 +112,7 @@ As [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github
 
 * **Se você vir um problema, denuncie.** Os moderadores têm autoridade especial; eles são responsáveis por esta Comunidade do GitHub. Mas você também é. Com sua ajuda, os moderadores podem ser facilitadores da comunidade, não apenas fiscais ou policiais.
 
-  Quando você vir um mau comportamento, não responda. Isso incentiva o mau comportamento ao reconhecê-lo, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para o GitHub. Para obter mais informações, confira "[Como denunciar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)".
+  Quando você vir um mau comportamento, não responda. Isso incentiva o mau comportamento ao reconhecê-lo, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para o GitHub. Para mais informações, consulte "[Denunciar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)".
 
 ### [](#our-responsibilities)Nossas responsabilidades ###
 
@@ -139,10 +139,10 @@ Vamos trabalhar juntos para manter a Comunidade do GitHub um lugar no qual as pe
 [](#legal-notices)Notificações Legais
 ----------
 
-Sim, o juridiquês é chato, mas devemos nos proteger – e, por extensão, você e seus dados – contra pessoas hostis. Nós temos [Termos de Serviço](/pt/github/site-policy/github-terms-of-service), que incluem as [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies) e a [Política de Privacidade](/pt/github/site-policy/github-privacy-statement) descrevendo seu (e nosso) comportamento e direitos relacionados a conteúdo, privacidade e leis. Para usar este serviço, você deve concordar em cumprir os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service), [Políticas de Uso Aceitável do GitHub](/pt/github/site-policy/github-acceptable-use-policies) e a [Política de Privacidade](/pt/github/site-policy/github-privacy-statement).
+Sim, o juridiquês é chato, mas devemos nos proteger – e, por extensão, você e seus dados – contra pessoas hostis. Nós temos [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service), que incluem as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e a [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement) descrevendo seu (e nosso) comportamento e direitos relacionados a conteúdo, privacidade e leis. Para usar este serviço, você deve concordar em cumprir os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service), [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e a [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
 
-Este Código de Conduta não modifica os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) — o que inclui as [Políticas de Uso Aceitável](/pt/github/site-policy/github-acceptable-use-policies) — e não pretende ser uma lista completa. O GitHub mantém total discrição segundo os [Termos de Serviço](/pt/github/site-policy/github-terms-of-service) para remover ou restringir quaisquer conteúdos ou contas por atividades que violem essas políticas, inclusive porque é ilícito, ofensivo, ameaçador, calunioso, difamatório, pornográfico, obsceno ou censurável ou viola a propriedade intelectual de qualquer parte ou dos nossos Termos de Serviço. Este Código de Conduta descreve quando exerceremos esse critério.
+Este Código de Conduta não modifica os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) — o que inclui as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) — e não pretende ser uma lista completa. O GitHub mantém total discrição segundo os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) para remover ou restringir quaisquer conteúdos ou contas por atividades que violem essas políticas, inclusive porque é ilícito, ofensivo, ameaçador, calunioso, difamatório, pornográfico, obsceno ou censurável ou viola a propriedade intelectual de qualquer parte ou dos nossos Termos de Serviço. Este Código de Conduta descreve quando exerceremos esse critério.
 
 ### [](#data-retention-and-deletion-of-data)Retenção e exclusão de dados ###
 
-Se você é um usuário do GitHub, você pode acessar, atualizar, alterar ou excluir suas informações básicas de perfil do usuário [editando seu perfil do usuário](https://github.com/settings/profile) ou entrando em contato com o [Suporte do GitHub](https://support.github.com/contact). Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver controvérsias e fazer cumprir nossos contratos, mas, salvo as exigências legais, excluiremos seu perfil completo (dentro do razoável) dentro de 90 dias da sua solicitação. Para mais informações, confira a [Política de privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
+Se você é um usuário do GitHub, você pode acessar, atualizar, alterar ou excluir suas informações básicas de perfil do usuário [editando seu perfil do usuário](https://github.com/settings/profile) ou entrando em contato com o [Suporte do GitHub](https://support.github.com/contact). Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver controvérsias e fazer cumprir nossos contratos, mas, salvo as exigências legais, excluiremos seu perfil completo (dentro do razoável) dentro de 90 dias da sua solicitação. Para mais informações, confira a [Política de privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).

@@ -1,4 +1,4 @@
-DMCA 削除ポリシー - GitHub Docs
+DMCA Takedown Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+* [DMCA Takedown Policy](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
 
-DMCA 削除ポリシー
+DMCA Takedown Policy
 ==========
 
 In this article
@@ -58,13 +58,13 @@ DMCA では、著作権で保護された作品へのアクセスを効果的に
 [](#dmca-notices-in-a-nutshell)DMCA 通知の要約
 ----------
 
-DMCA には、GitHub ユーザーに認識していただく必要がある 2 つの簡単で分かりやすい手続きがあります。(i) 著作権者がコンテンツの削除を要求する[削除通知](/ja/articles/guide-to-submitting-a-dmca-takedown-notice)手続き、(ii)コンテンツが間違いまたは誤認によって削除されたときにユーザーがコンテンツを再度有効にするための[反論通知](/ja/articles/guide-to-submitting-a-dmca-counter-notice)手続きです。
+DMCA には、GitHub ユーザーに認識していただく必要がある 2 つの簡単で分かりやすい手続きがあります。(i) 著作権者がコンテンツの削除を要求する[削除通知](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)手続き、(ii)コンテンツが間違いまたは誤認によって削除されたときにユーザーがコンテンツを再度有効にするための[反論通知](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)手続きです。
 
-DMCA 削除通知 [takedown notices](/ja/articles/guide-to-submitting-a-dmca-takedown-notice)は、著作権者が権利侵害されていると考えるコンテンツを GitHub に削除を要求するときに使用します。 ソフトウェアの設計者または開発者であれば、著作権のあるコンテンツを毎日作成しています。 第三者がお客様の著作権のあるコンテンツを不正な方法で GitHub で使用している場合、当社に DMCA 削除通知を送信して著作権を侵害しているコンテンツの変更または削除を要求することができます。
+DMCA 削除通知 [takedown notices](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)は、著作権者が権利侵害されていると考えるコンテンツを GitHub に削除を要求するときに使用します。 ソフトウェアの設計者または開発者であれば、著作権のあるコンテンツを毎日作成しています。 第三者がお客様の著作権のあるコンテンツを不正な方法で GitHub で使用している場合、当社に DMCA 削除通知を送信して著作権を侵害しているコンテンツの変更または削除を要求することができます。
 
-一方、[反論通知](/ja/articles/guide-to-submitting-a-dmca-counter-notice)を使用して間違いを訂正することができます。 削除通知の送信者は、著作権を保有していなかったり、お客様がライセンスを保有していることを認識していなかったり、削除通知で他の間違いをしているかもしれません。 GitHub は、通常、間違いがあったかどうかを認識できないため、DMCA の反論通知を使用すると、お客様は当社に通知してコンテンツを元に戻すよう要求することができます。
+一方、[反論通知](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)を使用して間違いを訂正することができます。 削除通知の送信者は、著作権を保有していなかったり、お客様がライセンスを保有していることを認識していなかったり、削除通知で他の間違いをしているかもしれません。 GitHub は、通常、間違いがあったかどうかを認識できないため、DMCA の反論通知を使用すると、お客様は当社に通知してコンテンツを元に戻すよう要求することができます。
 
-DMCA 通知および削除プロセスは、著作権の侵害に関する苦情についてのみ使用してください。 当社の DMCA プロセスから送信される通知では、権利侵害が主張されている 1 つまたは複数の著作物を特定する必要があります。 このプロセスは、権利侵害が主張されている[商標権侵害](/ja/articles/github-trademark-policy)や[機密データ](/ja/articles/github-sensitive-data-removal-policy)などに関する苦情には使用できません。このような場合には別のプロセスが用意されています。
+DMCA 通知および削除プロセスは、著作権の侵害に関する苦情についてのみ使用してください。 当社の DMCA プロセスから送信される通知では、権利侵害が主張されている 1 つまたは複数の著作物を特定する必要があります。 このプロセスは、権利侵害が主張されている[商標権侵害](/ja/site-policy/content-removal-policies/github-trademark-policy)や[機密データ](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)などに関する苦情には使用できません。このような場合には別のプロセスが用意されています。
 
 [](#a-how-does-this-actually-work)A. どのように機能するのですか?
 ----------
@@ -81,7 +81,7 @@ DMCA のフレームワークはクラスでメモを回すことに似ていま
    >
    >
 
-2. **著作権者が通知を送信します。** 調査を実施したら、著作権者は[削除通知](/ja/articles/guide-to-submitting-a-dmca-takedown-notice)を作成して GitHub に送信します。 削除通知が法廷要件 ([ハウツー ガイド](/ja/articles/guide-to-submitting-a-dmca-takedown-notice)に説明される) に従って十分に説明されていると想定して、当社は[パブリック リポジトリ](https://github.com/github/dmca)に[通知を掲載](#d-transparency)して、影響を受けるユーザーにリンクを伝えます。
+2. **著作権者が通知を送信します。** 調査を実施したら、著作権者は[削除通知](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)を作成して GitHub に送信します。 削除通知が法廷要件 ([ハウツー ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)に説明される) に従って十分に説明されていると想定して、当社は[パブリック リポジトリ](https://github.com/github/dmca)に[通知を掲載](#d-transparency)して、影響を受けるユーザーにリンクを伝えます。
 
 3. **GitHub はユーザーに変更を行うよう要請します。** 通知で、リポジトリのコンテンツ全体が権利を侵害している、またはパッケージが権利を侵害していると主張されている場合、当社はステップ 6 に進んで、リポジトリ全体またはパッケージを迅速に無効にします。 それ以外の場合、GitHub は、リポジトリ内の特定のファイルへのアクセスを無効にできないため、リポジトリを作成したユーザーに連絡して、通知に指定されたコンテンツを削除または変更するためにほぼ 1 営業日の猶予を与えます。 当社は、ユーザーに変更する機会を与える場合は著作権者に通知します。 パッケージは変更不可能なため、パッケージの一部のみが権利を侵害している場合、GitHub はパッケージ全体を無効にする必要がありますが、権利侵害部分が削除された時点で復活を許可します。
 
@@ -91,14 +91,14 @@ DMCA のフレームワークはクラスでメモを回すことに似ていま
 
 6. **GitHub はコンテンツへのアクセスを無効にする場合があります。** GitHub は、以下の場合、ユーザーのコンテンツを無効にします。(i) 著作権者がユーザーのリポジトリ全体またはパッケージについて権利の侵害を主張している場合 (ステップ 3 に示す)、(ii) ユーザーが変更する機会を与えられた後でも変更を行っていない場合 (ステップ 4 に示す)、または (iii) 著作権者が、ユーザーが変更する機会を得た後に削除通知を更新した場合。 著作権者が、代わりに通知を*訂正する*ことを選択した場合、当社はステップ 2 に戻り、訂正された通知が新しい通知であるかのようにプロセスを繰り返します。
 
-7. **ユーザーは反論通知を送信できます。** コンテンツを無効にされたユーザーは、弁護士に選択肢について相談することをお勧めします。 ユーザーは、間違いまたは誤認の結果としてコンテンツが無効にされたと考える場合、当社に[反論通知](/ja/articles/guide-to-submitting-a-dmca-counter-notice)を送信することができます。 元の通知と同様、当社は、反論通知が十分に説明されていることを確認します ([ハウツー ガイド](/ja/articles/guide-to-submitting-a-dmca-counter-notice)に説明する)。 十分に説明されている場合、当社は[パブリック リポジトリ](https://github.com/github/dmca)に[掲載](#d-transparency)し、リンクを送信して著作権者に通知を返します。
+7. **ユーザーは反論通知を送信できます。** コンテンツを無効にされたユーザーは、弁護士に選択肢について相談することをお勧めします。 ユーザーは、間違いまたは誤認の結果としてコンテンツが無効にされたと考える場合、当社に[反論通知](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)を送信することができます。 元の通知と同様、当社は、反論通知が十分に説明されていることを確認します ([ハウツー ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)に説明する)。 十分に説明されている場合、当社は[パブリック リポジトリ](https://github.com/github/dmca)に[掲載](#d-transparency)し、リンクを送信して著作権者に通知を返します。
 
 8. **著作権者は提訴できます。** 著作権者は、反論通知を受け取った後もコンテンツを無効にしておきたいと望む場合、GitHub 上のコンテンツに関するユーザーの権利侵害活動を抑制するために、裁判所命令を求める訴訟を起こす必要があります。 言い換えると、お客様は告訴される可能性があります。 著作権者が、管轄裁判所に送信された有効な訴状のコピーを送信して、10 ～ 14 日以内に GitHub に通知を行わない場合、GitHub は無効にしたコンテンツを再度有効にします。
 
 [](#b-what-about-forks-or-whats-a-fork)B. フォークについて教えてください (またはフォークとは何ですか?)
 ----------
 
-GitHub の最も優れた特徴の 1 つはユーザーが別のユーザーのリポジトリに「フォーク」できる機能です。 どのような意味ですか? 基本的に、ユーザーが GitHub 上のプロジェクトのコピーを自らのリポジトリに作成できるということです。 ライセンスまたは法律により許可されているため、ユーザーはこのフォークに変更を加えて、メイン プロジェクトにプッシュすることも、プロジェクトの独自のバリエーションとして保管することもできます。 これらのコピーは、これぞれ元のリポジトリの「[フォーク](/ja/articles/github-glossary#fork)」であり、フォークの「親」とも呼ばれます。
+GitHub の最も優れた特徴の 1 つはユーザーが別のユーザーのリポジトリに「フォーク」できる機能です。 どのような意味ですか? 基本的に、ユーザーが GitHub 上のプロジェクトのコピーを自らのリポジトリに作成できるということです。 ライセンスまたは法律により許可されているため、ユーザーはこのフォークに変更を加えて、メイン プロジェクトにプッシュすることも、プロジェクトの独自のバリエーションとして保管することもできます。 このようなコピーはそれぞれが元のリポジトリ (フォークの "親" と呼ばれる場合もあります) の "[GitHub 用語集](/ja/get-started/quickstart/github-glossary#fork)" です。
 
 GitHub では、親リポジトリを無効にするときに、フォークを自動的に*無効にすることはありません*。 これは、フォークは異なるユーザーに所属しており、多くの方法で変更され、公正使用の原則により保護されたさまざまな方法でライセンス付与または使用されているからです。 GitHub は、フォークの独自調査を実施しません。 フォークも権利を侵害していると考えられる場合は、著作権者がこの調査を行い、削除通知にフォークを明示して記載してください。
 
@@ -107,7 +107,7 @@ GitHub では、親リポジトリを無効にするときに、フォークを�
 [](#c-what-about-circumvention-claims)C. 回避申し立てとは何ですか?
 ----------
 
-DMCA では、著作権法で保護されている作品絵のアクセスを効果的に制御する技術的措置の回避 [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) は禁止されています。 このような申し立ては本来しばしば高度に技術的なことを考慮して、GitHub では[これらの申し立てに関する詳細情報](/ja/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology)を申立人に送信するよう求めて、広範な見直しを行います。
+DMCA では、著作権法で保護されている作品絵のアクセスを効果的に制御する技術的措置の回避 [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) は禁止されています。 このような申し立ては本来しばしば高度に技術的なことを考慮して、GitHub では[これらの申し立てに関する詳細情報](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology)を申立人に送信するよう求めて、広範な見直しを行います。
 
 回避申し立てには、実施されている技術的措置に関する以下の詳細および告発されたプロジェクトが回避している方法を記載する必要があります。 特に、GitHub への通知には、以下に関する詳細な説明を含める必要があります。
 
@@ -145,8 +145,8 @@ GitHub が回避技術の申し立て見直しプロセスの下で DMCA の削�
 
 通知または反論通知を送信する準備ができた場合:
 
-* [DMCA 通知の送信方法](/ja/articles/guide-to-submitting-a-dmca-takedown-notice)
-* [DMCA 反論通知の送信方法](/ja/articles/guide-to-submitting-a-dmca-counter-notice)
+* [DMCA 通知の送信方法](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [DMCA 反論通知の送信方法](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 [](#learn-more-and-speak-up)詳細と発言
 ----------

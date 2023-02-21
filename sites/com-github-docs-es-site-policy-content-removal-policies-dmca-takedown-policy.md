@@ -1,4 +1,4 @@
-Directiva de Retirada de la DMCA - GitHub Docs
+DMCA Takedown Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/
-* [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
+* [DMCA Takedown Policy](/es/site-policy/content-removal-policies/dmca-takedown-policy)
 
-Directiva de Retirada de la DMCA
+DMCA Takedown Policy
 ==========
 
 In this article
@@ -58,13 +58,13 @@ La DMCA también prohíbe [eludir las medidas técnicas](https://www.copyright.g
 [](#dmca-notices-in-a-nutshell)Resumen de las notificaciones en virtud de la DMCA
 ----------
 
-La DMCA proporciona dos procedimientos simples y directos que todos los usuarios de GitHub deben conocer: (i) un procedimiento de [notificación de retirada](/es/articles/guide-to-submitting-a-dmca-takedown-notice) que permite a los titulares de los derechos de autor solicitar que se retire un contenido; y (ii) un procedimiento de [contranotificación](/es/articles/guide-to-submitting-a-dmca-counter-notice) para que los usuarios puedan rehabilitar el contenido cuando este se ha retirado por error o por una identificación incorrecta.
+La DMCA proporciona dos procedimientos simples y directos que todos los usuarios de GitHub deben conocer: (i) un procedimiento de [notificación de retirada](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) que permite a los titulares de los derechos de autor solicitar que se retire un contenido; y (ii) un procedimiento de [contranotificación](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) para que los usuarios puedan rehabilitar el contenido cuando este se ha retirado por error o por una identificación incorrecta.
 
-Los titulares de los derechos de autor utilizan las [notificaciones de retirada](/es/articles/guide-to-submitting-a-dmca-takedown-notice) en virtud de la DMCA para solicitar a GitHub que retire un contenido que consideran infractor. Si usted es diseñador o desarrollador de software, crea contenido protegido por derechos de autor todos los días. Si otra persona utiliza su contenido protegido por derechos de autor sin autorización en GitHub, puede enviarnos una notificación de retirada en virtud de la DMCA para solicitar que se modifique o elimine el contenido infractor.
+Los titulares de los derechos de autor utilizan las [notificaciones de retirada](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) en virtud de la DMCA para solicitar a GitHub que retire un contenido que consideran infractor. Si usted es diseñador o desarrollador de software, crea contenido protegido por derechos de autor todos los días. Si otra persona utiliza su contenido protegido por derechos de autor sin autorización en GitHub, puede enviarnos una notificación de retirada en virtud de la DMCA para solicitar que se modifique o elimine el contenido infractor.
 
-Por otro lado, las [contranotificaciones](/es/articles/guide-to-submitting-a-dmca-counter-notice) se pueden usar para corregir errores. Puede suceder que la persona que ha enviado la notificación no sea la titular de los derechos de autor, que no se haya dado cuenta de que usted tiene una licencia o que haya cometido algún otro error en su notificación de retirada. Dado que, por lo general, GitHub no puede saber si ha se ha producido un error, la contranotificación en virtud de la DMCA le permite informarnos y solicitar que volvamos a publicar el contenido.
+Por otro lado, las [contranotificaciones](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) se pueden usar para corregir errores. Puede suceder que la persona que ha enviado la notificación no sea la titular de los derechos de autor, que no se haya dado cuenta de que usted tiene una licencia o que haya cometido algún otro error en su notificación de retirada. Dado que, por lo general, GitHub no puede saber si ha se ha producido un error, la contranotificación en virtud de la DMCA le permite informarnos y solicitar que volvamos a publicar el contenido.
 
-La notificación en virtud de la DMCA y el proceso de retirada solo deben usarse para reclamaciones relativas a infracciones de derechos de autor. En las notificaciones enviadas a través de nuestro proceso en virtud de la DMCA, debe identificarse el trabajo sujeto a derechos de autor o los trabajos que presuntamente se están infringiendo. El proceso no se puede utilizar para otras reclamaciones, tales como reclamaciones por supuestas [infracciones de marcas comerciales](/es/articles/github-trademark-policy) o relacionadas con [datos confidenciales](/es/articles/github-sensitive-data-removal-policy); para estas situaciones, ofrecemos procesos independientes.
+La notificación en virtud de la DMCA y el proceso de retirada solo deben usarse para reclamaciones relativas a infracciones de derechos de autor. En las notificaciones enviadas a través de nuestro proceso en virtud de la DMCA, debe identificarse el trabajo sujeto a derechos de autor o los trabajos que presuntamente se están infringiendo. El proceso no se puede utilizar para otras reclamaciones, tales como reclamaciones por supuestas [infracciones de marcas comerciales](/es/site-policy/content-removal-policies/github-trademark-policy) o relacionadas con [datos confidenciales](/es/site-policy/content-removal-policies/github-private-information-removal-policy); para estas situaciones, ofrecemos procesos independientes.
 
 [](#a-how-does-this-actually-work)A. ¿Cómo funciona esto realmente?
 ----------
@@ -81,7 +81,7 @@ Estos son los pasos básicos del proceso.
    >
    >
 
-2. **El propietario de los derechos de autor envía una notificación.** Tras llevar a cabo la investigación, el propietario de los derechos de autor elabora y envía una [notificación de retirada](/es/articles/guide-to-submitting-a-dmca-takedown-notice) a GitHub. Suponiendo que la notificación de retirada contenga los detalles suficientes de conformidad con los requisitos legales (según se explica en la [guía](/es/articles/guide-to-submitting-a-dmca-takedown-notice)), [publicaremos la notificación](#d-transparency) en nuestro [repositorio público](https://github.com/github/dmca) y transmitiremos el enlace al usuario afectado.
+2. **El propietario de los derechos de autor envía una notificación.** Tras llevar a cabo la investigación, el propietario de los derechos de autor elabora y envía una [notificación de retirada](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) a GitHub. Suponiendo que la notificación de retirada contenga los detalles suficientes de conformidad con los requisitos legales (según se explica en la [guía](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)), [publicaremos la notificación](#d-transparency) en nuestro [repositorio público](https://github.com/github/dmca) y transmitiremos el enlace al usuario afectado.
 
 3. **GitHub solicita al usuario que realice cambios.** Si en la notificación se alega que todo el contenido de un repositorio o un paquete infringen los derechos de autor, iremos directamente al paso 6 y deshabilitaremos todo el repositorio o el paquete de inmediato. De lo contrario, debido a que GitHub no puede deshabilitar el acceso a archivos específicos dentro de un repositorio, nos pondremos en contacto con el usuario que haya creado el repositorio y le proporcionaremos un plazo de aproximadamente un (1) día hábil para retirar o modificar el contenido especificado en la notificación. Notificaremos al propietario de los derechos de autor cuando hayamos proporcionado al usuario la oportunidad de realizar cambios. Debido a que los paquetes son inmutables, si solo una parte de un paquete infringe los derechos de autor, GitHub tendría que deshabilitar todo el paquete, pero permitimos su restauración una vez que se haya retirado la parte infractora.
 
@@ -91,14 +91,14 @@ Estos son los pasos básicos del proceso.
 
 6. **GitHub puede deshabilitar el acceso al contenido.** GitHub deshabilitará el contenido de un usuario si: (i) el propietario de los derechos de autor ha alegado derechos de autor sobre todo el repositorio o paquete del usuario (como se indica en el paso 3); (ii) el usuario no ha realizado ningún cambio después de haber tenido la oportunidad de hacerlo (como se indica en el paso 4); o (iii) el propietario de los derechos de autor ha renovado su notificación de retirada después de que el usuario haya tenido la oportunidad de realizar cambios. Si, en cambio, el propietario de los derechos de autor opta por *revisar* la notificación, volveremos al paso 2 y repetiremos el proceso como si la notificación revisada fuese una notificación nueva.
 
-7. **El usuario puede enviar una contranotificación.** Alentamos a los usuarios a quienes se les ha deshabilitado el contenido a que consulten con un abogado para saber qué opciones tienen. Si un usuario considera que su contenido se ha deshabilitado a consecuencia de un error o de una identificación errónea, puede enviarnos una [contranotificación](/es/articles/guide-to-submitting-a-dmca-counter-notice). Al igual que sucede con la notificación original, nos aseguraremos de que la contranotificación esté lo suficientemente detallada (como se explica en la [guía](/es/articles/guide-to-submitting-a-dmca-counter-notice)). En caso afirmativo, la [publicaremos](#d-transparency) en nuestro [repositorio público](https://github.com/github/dmca) y pasaremos la contranotificación al propietario de los derechos de autor enviándole el enlace.
+7. **El usuario puede enviar una contranotificación.** Alentamos a los usuarios a quienes se les ha deshabilitado el contenido a que consulten con un abogado para saber qué opciones tienen. Si un usuario considera que su contenido se ha deshabilitado a consecuencia de un error o de una identificación errónea, puede enviarnos una [contranotificación](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Al igual que sucede con la notificación original, nos aseguraremos de que la contranotificación esté lo suficientemente detallada (como se explica en la [guía](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)). En caso afirmativo, la [publicaremos](#d-transparency) en nuestro [repositorio público](https://github.com/github/dmca) y pasaremos la contranotificación al propietario de los derechos de autor enviándole el enlace.
 
 8. **El propietario de los derechos de autor puede incoar una acción legal.** Si un propietario de derechos de autor desea mantener el contenido deshabilitado después de recibir una contranotificación, deberá iniciar una acción legal para obtener una orden judicial dirigida a impedir que el usuario participe en actividades infractoras relacionadas con el contenido de GitHub. En otras palabras, usted podría ser objeto de una demanda. Si el propietario de los derechos de autor no envía una notificación a GitHub dentro de un plazo de diez (10) a catorce (14) días, mediante el envío de una copia de una demanda legal válida presentada ante un tribunal de jurisdicción competente, GitHub volverá a habilitar el contenido deshabilitado.
 
 [](#b-what-about-forks-or-whats-a-fork)B. ¿Qué hay de las bifurcaciones? (o ¿Qué es una «bifurcación»?)
 ----------
 
-Una de las mejores características de GitHub es la capacidad de los usuarios de «bifurcar» («fork» en inglés) los repositorios de los demás. ¿Qué significa eso? Básicamente, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden hacer cambios en esa bifurcación para volver al proyecto principal o simplemente mantenerlo como su propia variante de un proyecto. Cada una de estas copias es una «[bifurcación](/es/articles/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
+Una de las mejores características de GitHub es la capacidad de los usuarios de «bifurcar» («fork» en inglés) los repositorios de los demás. ¿Qué significa eso? Básicamente, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden hacer cambios en esa bifurcación para volver al proyecto principal o simplemente mantenerlo como su propia variante de un proyecto. Cada una de estas copias es un «[Glosario de GitHub](/es/get-started/quickstart/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
 
 GitHub *no* deshabilitará automáticamente las bifurcaciones cuando deshabilite un repositorio matriz. Esto se debe a que las bifurcaciones pertenecen a diferentes usuarios, pueden haberse alterado de manera significativa y pueden tener licencia o usarse de una manera diferente que esté protegida por la doctrina de uso justo. GitHub no lleva a cabo ninguna investigación independiente sobre las bifurcaciones. Corresponde a los propietarios de los derechos de autor llevar a cabo esa investigación y, si consideran que las bifurcaciones también cometen alguna infracción, incluyan expresamente las bifurcaciones en su notificación de retirada.
 
@@ -107,7 +107,7 @@ En casos excepcionales, es posible que se alegue una infracción de derechos de 
 [](#c-what-about-circumvention-claims)C. ¿Qué sucede con las reclamaciones de elusión?
 ----------
 
-La DMCA prohíbe [eludir las medidas técnicas](https://www.copyright.gov/title17/92chap12.html) que controlan de forma eficiente el acceso a las obras protegidas por derechos de autor. Dado que estas reclamaciones suelen ser de naturaleza muy técnica, GitHub requiere que los demandantes proporcionen [información detallada sobre estas reclamaciones](/es/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology) y llevamos a cabo una revisión más extensa.
+La DMCA prohíbe [eludir las medidas técnicas](https://www.copyright.gov/title17/92chap12.html) que controlan de forma eficiente el acceso a las obras protegidas por derechos de autor. Dado que estas reclamaciones suelen ser de naturaleza muy técnica, GitHub requiere que los demandantes proporcionen [información detallada sobre estas reclamaciones](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology) y llevamos a cabo una revisión más extensa.
 
 Una notificación de elusión debe incluir los siguientes detalles sobre las medidas técnicas implementadas y sobre la forma en que el proyecto denunciado las elude. En concreto, la notificación enviada a GitHub debe incluir indicaciones detalladas que describan:
 
@@ -145,8 +145,8 @@ Es norma de GitHub, en las circunstancias apropiadas y según su exclusivo crite
 
 Si está listo para enviar una notificación o una contranotificación:
 
-* [Guía para enviar un aviso de retiro de DMCA](/es/articles/guide-to-submitting-a-dmca-takedown-notice)
-* [Guía para enviar una contranotificación de DMCA](/es/articles/guide-to-submitting-a-dmca-counter-notice)
+* [Guía para enviar un aviso de retiro de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Guía para enviar una contranotificación de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 [](#learn-more-and-speak-up)Obtenga más información y haga oír su voz
 ----------

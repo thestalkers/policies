@@ -18,7 +18,7 @@ GitHub 条件
 * [GitHub の企業向けサービス条件](/ja/site-policy/github-terms/github-corporate-terms-of-service)
 * [GitHub Terms for Additional Products and Features](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines)
-* [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Community Code of Conduct](/ja/site-policy/github-terms/github-community-code-of-conduct)
 * [GitHub Sponsors Additional Terms](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 * [GitHub Registered Developer Agreement](/ja/site-policy/github-terms/github-registered-developer-agreement)
 * [GitHub Marketplace Terms of Service](/ja/site-policy/github-terms/github-marketplace-terms-of-service)

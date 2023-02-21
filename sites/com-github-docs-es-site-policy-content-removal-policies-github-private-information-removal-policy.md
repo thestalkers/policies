@@ -1,4 +1,4 @@
-Directiva de Eliminación de Información Privada de GitHub - GitHub Docs
+GitHub Private Information Removal Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/
-* [Directiva de Eliminación de Información Privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [GitHub Private Information Removal Policy](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-Directiva de Eliminación de Información Privada de GitHub
+GitHub Private Information Removal Policy
 ==========
 
 In this article
@@ -30,7 +30,7 @@ In this article
 
 * [Conflictos](#disputes)
 
-Ofrecemos este proceso de eliminación de información privada como un servicio excepcional solo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. En esta guía se describe la información que GitHub necesita de usted a fin de procesar una solicitud de eliminación de información privada de un repositorio.
+Ofrecemos este proceso de eliminación de información privada como un servicio excepcional solo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. En esta guía se describe la información que GitHub necesita de usted a fin de procesar una solicitud de eliminación de información privada de un repositorio.
 
 [](#what-is-private-information)¿Qué se entiende por Información Privada?
 ----------
@@ -51,10 +51,10 @@ A efectos de este documento, se entiende por «información privada» el conteni
 * Nombres de servidores internos, direcciones IP y URL, por sí solos. Debe poder demostrar que su uso en un archivo o elemento de código en particular representa una amenaza para la seguridad.
 * Las meras menciones de la identidad, el nombre, la marca, el nombre de dominio o cualquier otra referencia a su empresa en los archivos de GitHub. Debe ser capaz de articular por qué el uso de la identidad de su empresa supone una amenaza para la seguridad de su empresa.
 * Archivos o repositorios enteros que no supongan un riesgo específico para la seguridad, pero que usted crea que son censurables por otros motivos.
-* Solicitudes para eliminar contenidos que puedan infringir sus derechos de autor o los de su organización. Si tiene alguna pregunta sobre cómo gestiona GitHub las cuestiones relativas a los derechos de autor o si desea denunciar contenido potencialmente infractor, consulte nuestra [Directiva de Retirada de la DMCA](/es/articles/dmca-takedown-policy). El proceso de eliminación de información privada generalmente no está pensado para la eliminación de archivos o repositorios completos: solo para partes específicas de información privada en dichos archivos. Aunque puede haber casos en los que los archivos estén repletos de información privada, debe justificar el riesgo de seguridad para la eliminación de tales archivos y esto puede prolongar el tiempo necesario para procesar la solicitud.
-* Conflictos de marcas registradas. Si tiene preguntas sobre cómo gestiona GitHub las cuestiones relativas a las marcas comerciales o desea informar sobre contenidos que incluyan marcas comerciales o de servicio de su organización, revise nuestra [Directiva de Marcas Registradas](/es/articles/github-trademark-policy).
+* Solicitudes para eliminar contenidos que puedan infringir sus derechos de autor o los de su organización. Si tiene alguna pregunta sobre cómo gestiona GitHub las cuestiones relativas a los derechos de autor o si desea denunciar contenido potencialmente infractor, consulte nuestra [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy). El proceso de eliminación de información privada generalmente no está pensado para la eliminación de archivos o repositorios completos: solo para partes específicas de información privada en dichos archivos. Aunque puede haber casos en los que los archivos estén repletos de información privada, debe justificar el riesgo de seguridad para la eliminación de tales archivos y esto puede prolongar el tiempo necesario para procesar la solicitud.
+* Conflictos de marcas registradas. Si tiene preguntas sobre cómo gestiona GitHub las cuestiones relativas a las marcas comerciales o desea informar sobre contenidos que incluyan marcas comerciales o de servicio de su organización, revise nuestra [Directiva de Marcas Registradas](/es/site-policy/content-removal-policies/github-trademark-policy).
 * Reclamaciones de privacidad. Si desea acceder, transferir, modificar o eliminar su información personal en GitHub, póngase en contacto con nosotros a través de [nuestro formulario de contacto de Privacidad](https://github.com/contact/privacy).
-* Contenido que se rige por nuestras [Directrices de la Comunidad](/es/articles/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas acerca de nuestras Directrices de la Comunidad o cree que el contenido de GitHub podría infringir nuestras directrices, puede usar [Notificar contenido](https://github.com/contact/report-content) para ponerse en contacto con nosotros.
+* Contenido que se rige por nuestras [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas acerca de nuestras Directrices de la Comunidad o cree que el contenido de GitHub podría infringir nuestras directrices, puede usar [Notificar contenido](https://github.com/contact/report-content) para ponerse en contacto con nosotros.
 
 [](#things-to-know)Información importante
 ----------
@@ -88,7 +88,7 @@ A efectos de este documento, se entiende por «información privada» el conteni
 
 ### [](#what-about-forks-or-whats-a-fork)¿Qué hay de las bifurcaciones? (o ¿Qué es una «bifurcación»?) ###
 
-Una de las mejores características de GitHub es la capacidad de los usuarios de «bifurcar» («fork» en inglés) los repositorios de los demás. ¿Qué significa eso? Básicamente, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden hacer cambios en esa bifurcación para volver al proyecto principal o simplemente mantenerlo como su propia variante de un proyecto. Cada una de estas copias es una «[bifurcación](/es/articles/github-glossary/#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
+Una de las mejores características de GitHub es la capacidad de los usuarios de «bifurcar» («fork» en inglés) los repositorios de los demás. ¿Qué significa eso? Básicamente, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden hacer cambios en esa bifurcación para volver al proyecto principal o simplemente mantenerlo como su propia variante de un proyecto. Cada una de estas copias es un «[Glosario de GitHub](/es/get-started/quickstart/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
 
 GitHub no deshabilitará automáticamente las bifurcaciones cuando deshabilite un repositorio matriz. Esto se debe a que las bifurcaciones pertenecen a diferentes usuarios y se pueden haber alterado de manera importante. GitHub no lleva a cabo ninguna investigación independiente sobre las bifurcaciones. Esperamos que quienes envían solicitudes de eliminación de información privada lleven a cabo esa investigación y, si consideran que las bifurcaciones también contienen información privada, las incluyan expresamente en su solicitud.
 

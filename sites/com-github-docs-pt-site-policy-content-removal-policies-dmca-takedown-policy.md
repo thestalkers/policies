@@ -1,4 +1,4 @@
-Política de Remoção de DMCA - GitHub Docs
+DMCA Takedown Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
-* [Política de Remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
+* [DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
 
-Política de Remoção de DMCA
+DMCA Takedown Policy
 ==========
 
 In this article
@@ -58,13 +58,13 @@ A DMCA também proíbe a [evasão de medidas técnicas](https://www.copyright.go
 [](#dmca-notices-in-a-nutshell)Notificações de DMCA em poucas palavras
 ----------
 
-A DMCA fornece dois procedimentos simples e diretos que todos os usuários do GitHub devem conhecer: (i) um procedimento de [notificação de remoção](/pt/articles/guide-to-submitting-a-dmca-takedown-notice) para os detentores de direitos autorais solicitarem que o conteúdo seja removido e (ii) um procedimento de [contranotificação](/pt/articles/guide-to-submitting-a-dmca-counter-notice) para que os usuários reativem o conteúdo quando o conteúdo for removido por engano ou identificação incorreta.
+A DMCA fornece dois procedimentos simples e diretos que todos os usuários do GitHub devem conhecer: (i) um procedimento de [notificação de remoção](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) para os detentores de direitos autorais solicitarem que o conteúdo seja removido e (ii) um procedimento de [contranotificação](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) para que os usuários reativem o conteúdo quando o conteúdo for removido por engano ou identificação incorreta.
 
-As [notificações de remoção](/pt/articles/guide-to-submitting-a-dmca-takedown-notice) da DMCA são usadas por proprietários de direitos autorais para solicitar ao GitHub que retire o conteúdo que eles acreditam estar infringindo seus direitos. Se você for um designer ou desenvolvedor de software, você cria conteúdo protegido por direitos autorais todos os dias. Se outra pessoa estiver usando seu conteúdo protegido por direitos autorais de maneira não autorizada no GitHub, você poderá nos enviar uma notificação de remoção da DMCA para solicitar que o conteúdo infrator seja alterado ou removido.
+As [notificações de remoção](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) da DMCA são usadas por proprietários de direitos autorais para solicitar ao GitHub que retire o conteúdo que eles acreditam estar infringindo seus direitos. Se você for um designer ou desenvolvedor de software, você cria conteúdo protegido por direitos autorais todos os dias. Se outra pessoa estiver usando seu conteúdo protegido por direitos autorais de maneira não autorizada no GitHub, você poderá nos enviar uma notificação de remoção da DMCA para solicitar que o conteúdo infrator seja alterado ou removido.
 
-Por outro lado, [contranotificações](/pt/articles/guide-to-submitting-a-dmca-counter-notice) podem ser usadas para corrigir erros. Talvez a pessoa que esteja enviando a notificação de remoção não detenha os direitos autorais, não tenha percebido que você tem uma licença ou tenha cometido algum outro erro na notificação de remoção. Como o GitHub geralmente não tem como saber se houve um erro, a contranotificação da DMCA permite que você nos informe e solicite que coloquemos o conteúdo novamente.
+Por outro lado, [contranotificações](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) podem ser usadas para corrigir erros. Talvez a pessoa que esteja enviando a notificação de remoção não detenha os direitos autorais, não tenha percebido que você tem uma licença ou tenha cometido algum outro erro na notificação de remoção. Como o GitHub geralmente não tem como saber se houve um erro, a contranotificação da DMCA permite que você nos informe e solicite que coloquemos o conteúdo novamente.
 
-O processo de notificação e remoção da DMCA deve ser usado apenas para reclamações sobre violação de direitos autorais. As notificações enviadas por meio do processo de DMCA devem identificar trabalhos protegidos por direitos autorais ou trabalhos que estejam sendo supostamente violados. O processo não pode ser usado para outras reclamações, como reclamações sobre supostas [violações de marca registrada](/pt/articles/github-trademark-policy) ou [dados suscetíveis](/pt/articles/github-sensitive-data-removal-policy); oferecemos processos separados para essas situações.
+O processo de notificação e remoção da DMCA deve ser usado apenas para reclamações sobre violação de direitos autorais. As notificações enviadas por meio do processo de DMCA devem identificar trabalhos protegidos por direitos autorais ou trabalhos que estejam sendo supostamente violados. O processo não pode ser usado para outras reclamações, como reclamações sobre supostas [violações de marca registrada](/pt/site-policy/content-removal-policies/github-trademark-policy) ou [dados suscetíveis](/pt/site-policy/content-removal-policies/github-private-information-removal-policy); oferecemos processos separados para essas situações.
 
 [](#a-how-does-this-actually-work)R. Como isso realmente funciona?
 ----------
@@ -81,7 +81,7 @@ Aqui estão as etapas básicas do processo.
    >
    >
 
-2. **O proprietário dos direitos autorais envia uma notificação.** Após conduzir uma investigação, o proprietário dos direitos autorais prepara e envia uma [notificação de remoção](/pt/articles/guide-to-submitting-a-dmca-takedown-notice) para o GitHub. Supondo que a notificação de remoção seja suficientemente detalhada de acordo com os requisitos legais (conforme explicado no [guia de procedimentos](/pt/articles/guide-to-submitting-a-dmca-takedown-notice)), [postaremos a notificação](#d-transparency) em nosso [repositório público](https://github.com/github/dmca) e passaremos o link para o usuário afetado.
+2. **O proprietário dos direitos autorais envia uma notificação.** Após conduzir uma investigação, o proprietário dos direitos autorais prepara e envia uma [notificação de remoção](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) para o GitHub. Supondo que a notificação de remoção seja suficientemente detalhada de acordo com os requisitos legais (conforme explicado no [guia de procedimentos](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)), [postaremos a notificação](#d-transparency) em nosso [repositório público](https://github.com/github/dmca) e passaremos o link para o usuário afetado.
 
 3. **O GitHub pede ao usuário para fazer alterações.** Se a notificação alegar que todo o conteúdo de um repositório ou um pacote constitui uma violação, pularemos para a Etapa 6 e desabilitaremos todo o repositório ou pacote rapidamente. Caso contrário, como o GitHub não pode desabilitar o acesso a arquivos específicos dentro de um repositório, entraremos em contato com o usuário que criou o repositório e daremos aproximadamente 1 dia útil para excluir ou modificar o conteúdo especificado no aviso. Notificaremos o proprietário dos direitos autorais se e quando dermos ao usuário a chance de fazer alterações. Como os pacotes são imutáveis, se apenas parte de um pacote contivesse uma infração, o GitHub precisaria desabilitar o pacote inteiro, mas permitiremos o restabelecimento assim que a parte referente à infração seja removida.
 
@@ -91,14 +91,14 @@ Aqui estão as etapas básicas do processo.
 
 6. **O GitHub poderá desabilitar o acesso ao conteúdo.** O GitHub desabilitará o conteúdo de um usuário se: (i) o proprietário dos direitos autorais alegou direitos autorais sobre todo o repositório ou pacote do usuário (conforme observado na Etapa 3); (ii) o usuário não fez nenhuma alteração após ter tido a oportunidade de fazê-lo (conforme observado na Etapa 4); ou (iii) o proprietário dos direitos autorais renovou a notificação de remoção depois que o usuário teve a chance de fazer alterações. Se o proprietário dos direitos autorais optar por *rever* a notificação, voltaremos à Etapa 2 e repetiremos o processo como se a notificação revisada fosse nova.
 
-7. **O usuário pode enviar uma contranotificação.** Incentivamos os usuários que tiveram o conteúdo desativado a consultar um advogado sobre suas opções. Se um usuário acreditar que seu conteúdo foi desativado como resultado de um erro ou identificação incorreta, ele poderá nos enviar uma [contranotificação](/pt/articles/guide-to-submitting-a-dmca-counter-notice). Assim como na notificação original, nós nos certificaremos de que a contranotificação seja suficientemente detalhada (conforme explicado no [guia de procedimentos](/pt/articles/guide-to-submitting-a-dmca-counter-notice)). Se for, nós [a publicaremos](#d-transparency) no [repositório público](https://github.com/github/dmca) e repassaremos a notificação ao proprietário dos direitos autorais enviando a eles o link.
+7. **O usuário pode enviar uma contranotificação.** Incentivamos os usuários que tiveram o conteúdo desativado a consultar um advogado sobre suas opções. Se um usuário acreditar que seu conteúdo foi desativado como resultado de um erro ou identificação incorreta, ele poderá nos enviar uma [contranotificação](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Assim como na notificação original, nós nos certificaremos de que a contranotificação seja suficientemente detalhada (conforme explicado no [guia de procedimentos](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)). Se for, nós [a publicaremos](#d-transparency) no [repositório público](https://github.com/github/dmca) e repassaremos a notificação ao proprietário dos direitos autorais enviando a eles o link.
 
 8. **O proprietário dos direitos autorais pode entrar com uma ação legal.** Se um proprietário de direitos autorais desejar manter o conteúdo desativado após receber uma contranotificação, ele precisará iniciar uma ação legal buscando uma decisão judicial para impedir que o usuário se envolva em atividades infratoras relacionadas ao conteúdo no GitHub. Em outras palavras, você poderá ser processado. Se o proprietário dos direitos autorais não notificar o GitHub dentro de 10 a 14 dias, enviando uma cópia de uma reclamação legal válida apresentada a um juiz competente, o GitHub reativará o conteúdo desativado.
 
 [](#b-what-about-forks-or-whats-a-fork)B. E os forks? (ou O que é um fork?)
 ----------
 
-Um dos melhores recursos do GitHub é a capacidade de os usuários "criarem forks" dos repositórios uns dos outros. O que isso significa? Basicamente, isso significa que os usuários podem fazer uma cópia de um projeto no GitHub em seus próprios repositórios. Conforme a licença ou a lei permitir, os usuários podem fazer alterações nesse fork para retornar ao projeto principal ou apenas manter como sua própria variação de um projeto. Cada uma dessas cópias é um "[fork](/pt/articles/github-glossary#fork)" do repositório original, que por sua vez também pode ser chamado de "pai" do fork.
+Um dos melhores recursos do GitHub é a capacidade de os usuários "criarem forks" dos repositórios uns dos outros. O que isso significa? Basicamente, isso significa que os usuários podem fazer uma cópia de um projeto no GitHub em seus próprios repositórios. Conforme a licença ou a lei permitir, os usuários podem fazer alterações nesse fork para retornar ao projeto principal ou apenas manter como sua própria variação de um projeto. Cada uma dessas cópias é um "[Glossário do GitHub](/pt/get-started/quickstart/github-glossary#fork)" do repositório original, que por sua vez também pode ser chamado de "pai" do fork.
 
 O GitHub *não* desabilitará automaticamente os forks ao desabilitar um repositório pai. Isso ocorre porque os forks pertencem a usuários diferentes, podem ter sido alterados de maneira significativa e podem ser licenciados ou usados de uma maneira diferente, protegida pela doutrina do uso permitido. O GitHub não conduz nenhuma investigação independente sobre forks. Esperamos que os proprietários de direitos autorais conduzam essa investigação e, se acreditarem que os forks também envolvem infrações, incluam expressamente os forks na notificação de remoção.
 
@@ -107,7 +107,7 @@ Em casos raros, você pode estar alegando violação de direitos autorais em um 
 [](#c-what-about-circumvention-claims)C. E quanto às alegações de evasão?
 ----------
 
-A DMCA proíbe a [evasão de medidas técnicas](https://www.copyright.gov/title17/92chap12.html) que efetivamente controlam o acesso a obras protegidas por direitos autorais. Uma vez que esses tipos de alegações geralmente são de natureza altamente técnica, o GitHub exige que os autores forneçam [informações detalhadas sobre essas alegações](/pt/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology) e realizaremos uma revisão mais extensa.
+A DMCA proíbe a [evasão de medidas técnicas](https://www.copyright.gov/title17/92chap12.html) que efetivamente controlam o acesso a obras protegidas por direitos autorais. Uma vez que esses tipos de alegações geralmente são de natureza altamente técnica, o GitHub exige que os autores forneçam [informações detalhadas sobre essas alegações](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology) e realizaremos uma revisão mais extensa.
 
 Uma alegação de evasão deve incluir os detalhes a seguir sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as está contornando. Especificamente, a notificação ao GitHub deve incluir declarações detalhadas que descrevam:
 
@@ -145,8 +145,8 @@ Observe também que, embora não divulguemos publicamente notificações não ed
 
 Se você estiver pronto para enviar uma notificação ou uma contranotificação:
 
-* [Como enviar uma notificação de DMCA](/pt/articles/guide-to-submitting-a-dmca-takedown-notice)
-* [Como enviar uma contranotificação de DMCA](/pt/articles/guide-to-submitting-a-dmca-counter-notice)
+* [Como enviar uma notificação de DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Como enviar uma contranotificação de DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 [](#learn-more-and-speak-up)Saiba mais e denuncie
 ----------

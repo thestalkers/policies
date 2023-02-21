@@ -1,4 +1,4 @@
-GitHub の個人情報削除ポリシー - GitHub Docs
+GitHub Private Information Removal Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [GitHub Private Information Removal Policy](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-GitHub の個人情報削除ポリシー
+GitHub Private Information Removal Policy
 ==========
 
 In this article
@@ -30,7 +30,7 @@ In this article
 
 * [異議申し立て](#disputes)
 
-当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub のサービス条件](/ja/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions)に違反する高リスク コンテンツに限定して例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除する要求を GitHub が処理するために必要な情報について説明します。
+当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub のサービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)に違反する高リスク コンテンツに限定して例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除する要求を GitHub が処理するために必要な情報について説明します。
 
 [](#what-is-private-information)個人情報とは
 ----------
@@ -51,10 +51,10 @@ In this article
 * 内部サーバーの名前、IP アドレス、および URL 自体。 特定のファイルまたはコードの一部でそれらを使用することがセキュリティ上の脅威になることを示す必要があります。
 * GitHub のファイル内で会社の ID、会社名、ブランド、ドメイン名、その他を単に言及している場合。 会社の ID を使用することがその会社のセキュリティ態勢に対する脅威となる理由を明確に示す必要があります。
 * 特定のセキュリティ リスクをもたらすことはないが、それ以外の理由で好ましくないと考えられるファイルやリポジトリ全体。
-* お客様またはお客様の組織の著作権を侵害している可能性のあるコンテンツの削除要求。 著作権関連の問題に対する GitHub の対応方法について質問がある場合、または著作権侵害の可能性があるコンテンツを報告する場合は、[DMCA 削除ポリシー](/ja/articles/dmca-takedown-policy)をご覧ください。 一般に個人情報削除プロセスは、ファイルまたはリポジトリ全体を削除することが目的ではなく、ファイル内で個人情報を含んだ特定部分のみが削除の対象となります。 ファイルの内容がすべて個人情報である場合もありますが、このようなファイルを削除するためにはセキュリティ リスクがあることを証明しなければならず、このような場合、要求の処理にかかる時間が長くなる可能性があります。
-* 商標に関する紛争。 商標関連の問題に対する GitHub の対応方法について質問がある場合や、お客様の組織の商標やサービス マークを含んでいるコンテンツを報告する場合は、[商標ポリシー](/ja/articles/github-trademark-policy)をご確認ください。
+* お客様またはお客様の組織の著作権を侵害している可能性のあるコンテンツの削除要求。 著作権関連の問題に対する GitHub の対応方法について質問がある場合、または著作権侵害の可能性があるコンテンツを報告する場合は、[DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)をご覧ください。 一般に個人情報削除プロセスは、ファイルまたはリポジトリ全体を削除することが目的ではなく、ファイル内で個人情報を含んだ特定部分のみが削除の対象となります。 ファイルの内容がすべて個人情報である場合もありますが、このようなファイルを削除するためにはセキュリティ リスクがあることを証明しなければならず、このような場合、要求の処理にかかる時間が長くなる可能性があります。
+* 商標に関する紛争。 商標関連の問題に対する GitHub の対応方法について質問がある場合や、お客様の組織の商標やサービス マークを含んでいるコンテンツを報告する場合は、[商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)をご確認ください。
 * プライバシーに関する苦情。 GitHub 上の個人情報についてアクセス、移転、変更、削除を求める場合は、[プライバシー連絡フォーム](https://github.com/contact/privacy)で連絡ください。
-* マルウェアや汎用ツールなど、当社の [コミュニティ ガイドライン](/ja/articles/github-community-guidelines)で管理されるコンテンツ。 コミュニティ ガイドラインについて質問がある場合や、GitHub のコンテンツがガイドラインに違反する可能性があると思われる場合は、[コンテンツの報告](https://github.com/contact/report-content)を使用して当社までご報告ください。
+* マルウェアや汎用ツールなど、当社の [コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)で管理されるコンテンツ。 コミュニティ ガイドラインについて質問がある場合や、GitHub のコンテンツがガイドラインに違反する可能性があると思われる場合は、[コンテンツの報告](https://github.com/contact/report-content)を使用して当社までご報告ください。
 
 [](#things-to-know)注意事項
 ----------
@@ -88,7 +88,7 @@ In this article
 
 ### [](#what-about-forks-or-whats-a-fork)フォークについて教えてください (またはフォークとは何ですか?) ###
 
-GitHub の最も優れた特徴の 1 つはユーザーが別のユーザーのリポジトリに「フォーク」できる機能です。 どのような意味ですか? 基本的に、ユーザーが GitHub 上のプロジェクトのコピーを自らのリポジトリに作成できるということです。 ライセンスまたは法律により許可されているため、ユーザーはこのフォークに変更を加えて、メイン プロジェクトにプッシュすることも、プロジェクトの独自のバリエーションとして保管することもできます。 これらのコピーは、これぞれ元のリポジトリの「[フォーク](/ja/articles/github-glossary/#fork)」であり、フォークの「親」とも呼ばれます。
+GitHub の最も優れた特徴の 1 つはユーザーが別のユーザーのリポジトリに「フォーク」できる機能です。 どのような意味ですか? 基本的に、ユーザーが GitHub 上のプロジェクトのコピーを自らのリポジトリに作成できるということです。 ライセンスまたは法律により許可されているため、ユーザーはこのフォークに変更を加えて、メイン プロジェクトにプッシュすることも、プロジェクトの独自のバリエーションとして保管することもできます。 このようなコピーはそれぞれが元のリポジトリ (フォークの "親" と呼ばれる場合もあります) の "[GitHub 用語集](/ja/get-started/quickstart/github-glossary#fork)" です。
 
 GitHub では、親リポジトリを無効にするときに、フォークを自動的に無効にすることはありません。 これは、フォークはさまざまなユーザーに属しており、著しく変更されている可能性があるためです。 GitHub は、フォークの独自調査を実施しません。 この調査は、個人情報削除要求を送信する申立人が実施することが前提となっています。また、フォークにも個人情報が含まれていると思われる場合は、フォークを要求に明示的に記載してください。
 

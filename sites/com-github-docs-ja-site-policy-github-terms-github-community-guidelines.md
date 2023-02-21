@@ -32,9 +32,9 @@ In this article
 
 ユーザーのベースが異なれば、その視点、アイデア、経験は異なります。先週、初めて「Hello World」プロジェクトを作った人から、世界で最も有名なソフトウェア開発者まで、さまざまなユーザーがいます。 当社は、開発者が最高の仕事をするための安全な場所を維持しながら、GitHub が当社のコミュニティで提供する必要があるさまざまな意見や視点に対応する環境になるように取り組んでいます。
 
-GitHub で考えられている[安全、好意的、生産的なコミュニティ](https://opensource.guide/building-community/)の概要を説明することにより、[サービス条件](/ja/github/site-policy/github-terms-of-service)および[利用規約](/ja/github/site-policy/github-acceptable-use-policies)に従って当社のプラットフォームで対話および協力を行う最適な方法について理解する助けとなることを願います。
+GitHub で考えられている[安全、好意的、生産的なコミュニティ](https://opensource.guide/building-community/)の概要を説明することにより、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)および[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に従って当社のプラットフォームで対話および協力を行う最適な方法について理解する助けとなることを願います。
 
-当社では、コミュニティのメンバーが、期待を明確に伝え、可能な限りプロジェクトを[モデレート](#what-if-something-or-someone-offends-you)し、当社の[ポリシー](/ja/github/site-policy/github-terms-of-service)に違反するコンテンツがある場合は[報告](https://github.com/contact/report-abuse)することをお勧めします。 GitHub スタッフ当社は不正行為の報告を調査し、当社のサービス条件に違反していると当社が判断したサイト内の公開コンテンツをモデレートすることがあります。
+当社では、コミュニティのメンバーが、期待を明確に伝え、可能な限りプロジェクトを[モデレート](#what-if-something-or-someone-offends-you)し、当社の[ポリシー](/ja/site-policy/github-terms/github-terms-of-service)に違反するコンテンツがある場合は[報告](https://github.com/contact/report-abuse)することをお勧めします。 GitHub スタッフ当社は不正行為の報告を調査し、当社のサービス条件に違反していると当社が判断したサイト内の公開コンテンツをモデレートすることがあります。
 
 [](#maintaining-a-strong-community)強力なコミュニティの維持
 ----------
@@ -52,13 +52,13 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 意見の相違には、コミュニティ メンバーの間の直接的で敬意を払ったコミュニケーションによって解決できるものもありますが、必ずしもそうはならないことを当社は理解しています。 当社では、コミュニティ内のコンテンツやアクティビティが当社のポリシーに違反していると思われる場合は、[当社にお知らせいただく](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified)ことをお勧めします。 ただし、サイト上上の何かまたは何ものかがお客様の感情を害した場合、GitHub でアクションを起こす方法がいくつかあります。
 
-* **期待を伝える** - 管理者は、リポジトリの README、[CONTRIBUTING ファイル](/ja/articles/setting-guidelines-for-repository-contributors)、または[専用の行動規範](/ja/articles/adding-a-code-of-conduct-to-your-project)など、ユーザーが自分のプロジェクトと対話する方法をユーザーが理解できるように、コミュニティ専用のガイドラインを設定できます。 コミュニティの構築に関する詳細については、[コミュニティ](/ja/communities)に関するページを参照してください。
+* **期待を伝える** - 管理者は、リポジトリの README、[CONTRIBUTING ファイル](/ja/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)、または[専用の行動規範](/ja/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)など、ユーザーが自分のプロジェクトと対話する方法をユーザーが理解できるように、コミュニティ専用のガイドラインを設定できます。 コミュニティの構築に関する詳細については、[コミュニティ](/ja/communities)に関するページを参照してください。
 
-* **コメントをモデレートする** - リポジトリの[書き込みアクセス権](/ja/articles/repository-permission-levels-for-an-organization)を持つユーザーは、コミット、プル リクエスト、およびイシューに関する[ユーザーのコメントを編集、削除、または非表示にする](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments)ことができます。 リポジトリへの読み取りアクセス権を持つユーザーは、コメントの編集履歴を表示できます。 コメント作成者とリポジトリへの書き込みアクセス権を持つユーザーは、[コメントの編集履歴](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)から機密情報を削除することもできます。 多くのアクティビティがある場合、プロジェクトのモデレートは大きな作業のように感じるかもしれませんが、[コラボレーター](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)を追加してコミュニティの管理を支援することができます。
+* **コメントをモデレートする** - リポジトリの[書き込みアクセス権](/ja/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)を持つユーザーは、コミット、プル リクエスト、およびイシューに関する[ユーザーのコメントを編集、削除、または非表示にする](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments)ことができます。 リポジトリへの読み取りアクセス権を持つユーザーは、コメントの編集履歴を表示できます。 コメント作成者とリポジトリへの書き込みアクセス権を持つユーザーは、[コメントの編集履歴](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)から機密情報を削除することもできます。 多くのアクティビティがある場合、プロジェクトのモデレートは大きな作業のように感じるかもしれませんが、[コラボレーター](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)を追加してコミュニティの管理を支援することができます。
 
-* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳細については、[会話のロック](/ja/articles/locking-conversations)に関するページを参照してください。
+* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳しくは、「[会話をロックする](/ja/communities/moderating-comments-and-conversations/locking-conversations)」を参照してください。
 
-* **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/articles/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/articles/blocking-a-user-from-your-organization)できます。
+* **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)できます。
 
 * **やり取りを制限する** - パブリック プロジェクトが不要な注目を集めたり、トロールされたり、スパムされたりした場合、[やり取りの一時的な制限](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)を設定して、特定のユーザーがリポジトリとやり取りできないようにすることができます。 [コード レビューの制限](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)を設定して、プロジェクトへの質の高い貢献を保証することもできます。
 
@@ -93,4 +93,4 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 本コミュニティ ガイドラインは、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) の条件に基づいて、誰でも使用、再利用、改作、その他あらゆることが可能になるようにパブリック ドメインになっています。
 
-これらはあくまでもガイドラインであり、[サービス条件](/ja/articles/github-terms-of-service)を変更するものや、完全なリストであることを意図したものではありません。 これらの条件に基づき、GitHub は、当社の[利用規約](/ja/articles/github-acceptable-use-policies)に違反するアクティビティのコンテンツを削除したり、アカウントを終了させる完全な裁量権を保持します。 本ガイドラインは、かかる裁量を行使する場合について説明しています。
+これらはあくまでもガイドラインであり、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)を変更するものや、完全なリストであることを意図したものではありません。 これらの条件に基づき、GitHub は、当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に違反するアクティビティのコンテンツを削除したり、アカウントを終了させる完全な裁量権を保持します。 本ガイドラインは、かかる裁量を行使する場合について説明しています。

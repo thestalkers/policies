@@ -15,8 +15,8 @@ Políticas de Remoção de Conteúdo
 ==========
 
 * [Submitting content removal requests](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
-* [Política de Remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
-* [Política de Remoção de Informações Privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
+* [GitHub Private Information Removal Policy](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 * [Política de Marcas Registradas do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)
 * [Guide to Submitting a DMCA Counter Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 * [Guide to Submitting a DMCA Takedown Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)

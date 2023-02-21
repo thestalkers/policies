@@ -1,4 +1,4 @@
-GitHub 社区行为准则 - GitHub Docs
+GitHub Community Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Community Code of Conduct](/zh/site-policy/github-terms/github-community-code-of-conduct)
 
-GitHub 社区行为准则
+GitHub Community Code of Conduct
 ==========
 
 In this article
@@ -35,7 +35,7 @@ In this article
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。
 
-GitHub 社区由 GitHub Discussions 提供支持，旨在成为推动协作、支持和集思广益的地方。 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 参与 GitHub 社区，即表示您同意遵守适用于 GitHub.com 的[服务条款](/zh/github/site-policy/github-terms-of-service)以及 [GitHub 可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)以及本 GitHub 社区特定的行为准则。
+GitHub 社区由 GitHub Discussions 提供支持，旨在成为推动协作、支持和集思广益的地方。 这是一个文明荟萃之地，在这里，您可以与其他用户联系、学习新技能、分享反馈和想法、寻找您的 GitHub 项目所需的所有支持。 参与 GitHub 社区，即表示您同意遵守适用于 GitHub.com 的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)以及 [GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)以及本 GitHub 社区特定的行为准则。
 
 我们希望通过本行为准则，帮助您了解如何在 GitHub 社区中完美协作、版主的职能以及哪些类型的行为或内容可能导致暂停或永久性终止社区参与。 我们将调查任何滥用举报，并且可能会审核 GitHub 社区内我们确定违反了 GitHub 服务条款或本行为准则的公共内容。
 
@@ -95,15 +95,15 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 ### [](#what-is-not-allowed)*不允许的情形* ###
 
-GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)是 GitHub [服务条款](/zh/github/site-policy/github-terms-of-service)的一部分，为 GitHub 上不允许的情形设定了基线。 由于 GitHub 社区在 GitHub.com 上，因此这些条款和限制适用于 GitHub 社区，包括以下限制：
+GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)是 GitHub [服务条款](/zh/site-policy/github-terms/github-terms-of-service)的一部分，为 GitHub 上不允许的情形设定了基线。 由于 GitHub 社区在 GitHub.com 上，因此这些条款和限制适用于 GitHub 社区，包括以下限制：
 
-* **13 岁以下的任何人。** 如果您是未满 13 周岁的儿童，则您不得在 GitHub 上拥有帐户。 GitHub 不会有意收集未满 13 周岁儿童的信息，也没有专门为他们定制任何内容。 如果我们得知或有理由怀疑您是 13 岁以下的用户，很遗憾，我们不得不关闭您的 GitHub.com 帐户。 我们并不想阻止您学习编程，但这是规则。 有关帐户终止的信息，请参阅我们的[服务条款](/zh/github/site-policy/github-terms-of-service)。
+* **13 岁以下的任何人。** 如果您是未满 13 周岁的儿童，则您不得在 GitHub 上拥有帐户。 GitHub 不会有意收集未满 13 周岁儿童的信息，也没有专门为他们定制任何内容。 如果我们得知或有理由怀疑您是 13 岁以下的用户，很遗憾，我们不得不关闭您的 GitHub.com 帐户。 我们并不想阻止您学习编程，但这是规则。 有关帐户终止的信息，请参阅我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)。
 
-* **在帐户被限制后创建新帐户。** GitHub 的[服务条款](/zh/github/site-policy/github-terms-of-service)规定，“一个人或法人实体最多只能保有一个免费帐户”。 为查询 GitHub 中被标记或暂停的帐户而创建的其他免费帐户将被删除。
+* **在帐户被限制后创建新帐户。** GitHub 的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)规定，“一个人或法人实体最多只能保有一个免费帐户”。 为查询 GitHub 中被标记或暂停的帐户而创建的其他免费帐户将被删除。
 
 * **在职业场合中会被认为不适当的其他行为。** GitHub 社区是一个专业环境，应按专业环境来对待它。
 
-* **违反服务条款。** 如果您的 GitHub.com 帐户被发现违反[服务条款](/zh/github/site-policy/github-terms-of-service)，我们将不得不关闭您的帐户。
+* **违反服务条款。** 如果您的 GitHub.com 帐户被发现违反[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，我们将不得不关闭您的帐户。
 
 [](#enforcement)执行
 ----------
@@ -112,7 +112,7 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 * **发现问题请举报。** 版主拥有特殊权限；他们对本 GitHub 社区负责。 但这也是你们的责任。 在您的帮助下，版主可以成为社区的推动者，而不仅仅是“门卫”或“警察”。
 
-  发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[报告滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
+  发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[举报滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
 
 ### [](#our-responsibilities)我们的职责 ###
 
@@ -139,10 +139,10 @@ GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 
 [](#legal-notices)法律声明
 ----------
 
-确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/github/site-policy/github-terms-of-service)（包括我们的[可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)）和[隐私声明](/zh/github/site-policy/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/github/site-policy/github-terms-of-service)、[GitHub 可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)和[隐私声明](/zh/github/site-policy/github-privacy-statement)。
+确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)（包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
 
-本行为准则不修改我们的[服务条款](/zh/github/site-policy/github-terms-of-service) - 包括我们的[可接受使用政策](/zh/github/site-policy/github-acceptable-use-policies)），也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/zh/github/site-policy/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
+本行为准则不修改我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service) - 包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)），也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/zh/site-policy/github-terms/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
 
 ### [](#data-retention-and-deletion-of-data)数据保留和数据删除 ###
 
-如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/github/site-policy/github-privacy-statement)。
+如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。

@@ -14,7 +14,7 @@ We publish frequent updates to our documentation, and translation of this page m
 利用規約
 ==========
 
-* [GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [GitHub Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 * [GitHub におけるアクティブなマルウェアまたはエクスプロイト](/ja/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 * [GitHub Bullying and Harassment](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 * [GitHub での他のユーザー エクスペリエンスの妨害](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)

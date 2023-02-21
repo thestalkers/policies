@@ -15,8 +15,8 @@ Directivas de Eliminación de Contenido
 ==========
 
 * [Submitting content removal requests](/es/site-policy/content-removal-policies/submitting-content-removal-requests)
-* [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
-* [Directiva de Eliminación de Información Privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [DMCA Takedown Policy](/es/site-policy/content-removal-policies/dmca-takedown-policy)
+* [GitHub Private Information Removal Policy](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
 * [Directiva de Marcas Comerciales de GitHub](/es/site-policy/content-removal-policies/github-trademark-policy)
 * [Guide to Submitting a DMCA Counter Notice](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 * [Guide to Submitting a DMCA Takedown Notice](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)

@@ -1,4 +1,4 @@
-GitHub コミュニティの行動規範 - GitHub Docs
+GitHub Community Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Community Code of Conduct](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
-GitHub コミュニティの行動規範
+GitHub Community Code of Conduct
 ==========
 
 In this article
@@ -35,7 +35,7 @@ In this article
 
 世界中の何百万人もの開発者が、GitHub で何百万ものプロジェクト (オープン ソースとクローズド ソースの両方) をホストしています。 当社は、開発者コミュニティの日々のコラボレーションに貢献できて幸いに思います。これは軽々しく考えてはならない当社の責任です。 同時に、当社には誇りに思うことができるこのコミュニティを実現するための絶好の機会があります。
 
-GitHub Discussions を利用した GitHub コミュニティは、コラボレーション、サポート、およびブレインストーミングを推進する場となることを目的としています。 ここは、他のユーザーとつながり、新しいスキルを学び、意見やアイデアを共有し、さらに GitHub プロジェクトに必要なサポートを得るための文化的な場です。 GitHub コミュニティに参加することにより、GitHub.com に適用される[サービス条件](/ja/github/site-policy/github-terms-of-service)および [GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)、ならびにこの GitHub コミュニティに固有の行動規範にも同意したことになります。
+GitHub Discussions を利用した GitHub コミュニティは、コラボレーション、サポート、およびブレインストーミングを推進する場となることを目的としています。 ここは、他のユーザーとつながり、新しいスキルを学び、意見やアイデアを共有し、さらに GitHub プロジェクトに必要なサポートを得るための文化的な場です。 GitHub コミュニティに参加することにより、GitHub.com に適用される[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)および [GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)、ならびにこの GitHub コミュニティに固有の行動規範にも同意したことになります。
 
 この行動規範により、当社は、GitHub コミュニティで協力する最善の方法、モデレーターにできること、およびコミュニティへの参加が一時的または永久に停止される可能性のある行為やコンテンツの種類について理解する助けになることを願っています。 当社は不正行為の報告を調査し、GitHub 利用規約または本行動規範のいずれかに違反していると当社が判断した GitHub コミュニティ内の公開コンテンツをモデレートすることがあります。
 
@@ -95,15 +95,15 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 ### [](#what-is-not-allowed)*禁止事項* ###
 
-GitHub の[利用規約](/ja/github/site-policy/github-terms-of-service)の一部である GitHub の[サービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)は、GitHub での禁止事項に関するベースラインを設定するものです。 GitHub コミュニティは GitHub.com 上に存在するため、以下の制限を含むこれらの規約と制限事項が GitHub コミュニティに適用されます。
+GitHub の[利用規約](/ja/site-policy/github-terms/github-terms-of-service)の一部である GitHub の[サービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)は、GitHub での禁止事項に関するベースラインを設定するものです。 GitHub コミュニティは GitHub.com 上に存在するため、以下の制限を含むこれらの規約と制限事項が GitHub コミュニティに適用されます。
 
-* **13 歳未満の方。** 13 未満のお子様の場合、GitHub でアカウントを保有することはできません。 GitHub は、13 歳未満の子どもから意図的に情報を収集せず、13 歳未満の子どもを対象としたコンテンツを提供しません。 当社は、お客様が 13 歳未満のユーザーであることを知った場合、またはそうであると疑う理由がある場合、残念ながら GitHub.com アカウントを閉鎖する必要があります。 当社はお客様がコードを学習することに反対したくはありませんが、これらは規則なのです。 アカウントの終了については、当社の[サービス条件](/ja/github/site-policy/github-terms-of-service)を参照してください。
+* **13 歳未満の方。** 13 未満のお子様の場合、GitHub でアカウントを保有することはできません。 GitHub は、13 歳未満の子どもから意図的に情報を収集せず、13 歳未満の子どもを対象としたコンテンツを提供しません。 当社は、お客様が 13 歳未満のユーザーであることを知った場合、またはそうであると疑う理由がある場合、残念ながら GitHub.com アカウントを閉鎖する必要があります。 当社はお客様がコードを学習することに反対したくはありませんが、これらは規則なのです。 アカウントの終了については、当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)を参照してください。
 
-* **アカウント制限後の新しいアカウントの作成。** GitHub の[サービス条件](/ja/github/site-policy/github-terms-of-service)には、「単一の個人または法人が維持できる無料アカウントは 1 つのみです」と記載されています。 GitHub でフラグが設定されているか一時停止されたアカウントについて問い合わせるために作成された追加の無料アカウントは削除されます。
+* **アカウント制限後の新しいアカウントの作成。** GitHub の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)には、「単一の個人または法人が維持できる無料アカウントは 1 つのみです」と記載されています。 GitHub でフラグが設定されているか一時停止されたアカウントについて問い合わせるために作成された追加の無料アカウントは削除されます。
 
 * **職場で合理的に不適切と見なされる可能性があるその他の行動。** GitHub コミュニティはプロフェッショナルな場であり、それにふさわしい振る舞いが求められます。
 
-* **サービス条件への違反。** お客様の GitHub.com アカウントが[サービス条件](/ja/github/site-policy/github-terms-of-service)に違反していることが確認された場合、当社ではお客様のアカウントを閉鎖する必要があります。
+* **サービス条件への違反。** お客様の GitHub.com アカウントが[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)に違反していることが確認された場合、当社ではお客様のアカウントを閉鎖する必要があります。
 
 [](#enforcement)適用
 ----------
@@ -112,7 +112,7 @@ GitHub の[利用規約](/ja/github/site-policy/github-terms-of-service)の一�
 
 * **問題を見つけた場合は、報告してください。** モデレーターは特別な権限を持ち、この GitHub コミュニティに対して責任があります。 しかし、あなたもコミュニティに責任を負っているのです。 あなたの助けがあってこそ、モデレーターは守衛や警察のように振る舞うだけでなく、コミュニティの進行役を努めることができます。
 
-  悪意のある書き込みを見ても、返信しないでください。 その存在を認識することで、悪い振る舞いが促され、あなたを疲弊させ、みんなの時間を無駄にします。 混乱をもたらすユーザーまたは混乱をもたらすコンテンツを GitHub に報告できます。 詳細については、「[悪用あるいはスパムをレポートする](/ja/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)」を参照してください。
+  悪意のある書き込みを見ても、返信しないでください。 その存在を認識することで、悪い振る舞いが促され、あなたを疲弊させ、みんなの時間を無駄にします。 混乱をもたらすユーザーまたは混乱をもたらすコンテンツを GitHub に報告できます。 詳しくは、「[悪用あるいはスパムをレポートする](/ja/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)」を参照してください。
 
 ### [](#our-responsibilities)私たちの責任 ###
 
@@ -139,10 +139,10 @@ GitHub の[利用規約](/ja/github/site-policy/github-terms-of-service)の一�
 [](#legal-notices)法定通知
 ----------
 
-法律的な言葉は退屈なものですが、私たちは自分自身、その延長として皆さんやそのデータを、敵意ある人々から守る必要があります。 当社の[サービス条件](/ja/github/site-policy/github-terms-of-service)には、[利用規約](/ja/github/site-policy/github-acceptable-use-policies)と、コンテンツ、プライバシー、および法律に関連するお客様 (と当社) の行動と権利が記載された[プライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)が含まれています。 このサービスを使用するには、[サービス条件](/ja/github/site-policy/github-terms-of-service)、[GitHub 利用規約](/ja/github/site-policy/github-acceptable-use-policies)、および[プライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)に従うことに同意しなければなりません。
+法律的な言葉は退屈なものですが、私たちは自分自身、その延長として皆さんやそのデータを、敵意ある人々から守る必要があります。 当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)には、[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)と、コンテンツ、プライバシー、および法律に関連するお客様 (と当社) の行動と権利が記載された[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)が含まれています。 このサービスを使用するには、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)、[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)、および[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に従うことに同意しなければなりません。
 
-この行動規範は、当社の[サービス条件](/ja/github/site-policy/github-terms-of-service) (当社の[利用規約](/ja/github/site-policy/github-acceptable-use-policies)を含む) を変更するものではなく、また包括的なリストであることを意図したものではありません。 GitHub は、[サービス条件](/ja/github/site-policy/github-terms-of-service)に基づいて、非合法、攻撃的、脅迫的、中傷、名誉毀損、ポルノ、わいせつ、その他不快なもの、他者の知的財産権や当社のサービス条件に違反するものであるなどの理由から、これらの規約に反する行為に対してあらゆるコンテンツまたはアカウントの削除または制限を実施できる、完全な裁量を保持します。 本行動規範は、かかる裁量を行使する場合について説明しています。
+この行動規範は、当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service) (当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)を含む) を変更するものではなく、また包括的なリストであることを意図したものではありません。 GitHub は、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)に基づいて、非合法、攻撃的、脅迫的、中傷、名誉毀損、ポルノ、わいせつ、その他不快なもの、他者の知的財産権や当社のサービス条件に違反するものであるなどの理由から、これらの規約に反する行為に対してあらゆるコンテンツまたはアカウントの削除または制限を実施できる、完全な裁量を保持します。 本行動規範は、かかる裁量を行使する場合について説明しています。
 
 ### [](#data-retention-and-deletion-of-data)データの保持と削除 ###
 
-お客様が GitHub ユーザーである場合は、[ユーザー プロファイルを編集する](https://github.com/settings/profile)か、[GitHub サポート](https://support.github.com/contact)に連絡することによって、基本的なユーザー プロファイル情報へのアクセス、更新、変更、または削除を行うことができます。 当社は、当社の法的義務の遵守、紛争の解決、および当社の契約の履行のために、必要に応じてお客様の情報を保持して使用しますが、法的要件がない限り、当社はお客様の要求から 90 日以内にお客様のプロファイル全体を妥当な範囲で削除します。 詳細については、[GitHub のプライバシーに関する声明](/ja/github/site-policy/github-privacy-statement)を参照してください。
+お客様が GitHub ユーザーである場合は、[ユーザー プロファイルを編集する](https://github.com/settings/profile)か、[GitHub サポート](https://support.github.com/contact)に連絡することによって、基本的なユーザー プロファイル情報へのアクセス、更新、変更、または削除を行うことができます。 当社は、当社の法的義務の遵守、紛争の解決、および当社の契約の履行のために、必要に応じてお客様の情報を保持して使用しますが、法的要件がない限り、当社はお客様の要求から 90 日以内にお客様のプロファイル全体を妥当な範囲で削除します。 詳細については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)を参照してください。

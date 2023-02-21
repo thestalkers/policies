@@ -1,4 +1,4 @@
-Política de Remoção de Informações Privadas do GitHub - GitHub Docs
+GitHub Private Information Removal Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
-* [Política de Remoção de Informações Privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [GitHub Private Information Removal Policy](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-Política de Remoção de Informações Privadas do GitHub
+GitHub Private Information Removal Policy
 ==========
 
 In this article
@@ -30,7 +30,7 @@ In this article
 
 * [Controvérsias](#disputes)
 
-Oferecemos esse processo de remoção de informações privadas como um serviço excepcional apenas para conteúdo de alto risco que viola os [Termos de Serviço do GitHub](/pt/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions), como quando sua segurança está em risco devido à exposição das credenciais de acesso. Este guia descreve as informações que o GitHub precisa que você forneça a fim de processar uma solicitação para remover informações privadas de um repositório.
+Oferecemos esse processo de remoção de informações privadas como um serviço excepcional apenas para conteúdo de alto risco que viola os [Termos de Serviço do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), como quando sua segurança está em risco devido à exposição das credenciais de acesso. Este guia descreve as informações que o GitHub precisa que você forneça a fim de processar uma solicitação para remover informações privadas de um repositório.
 
 [](#what-is-private-information)O que são Informações Privadas?
 ----------
@@ -51,10 +51,10 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 * Nomes de servidores internos, endereços IP e URLs por conta própria. Você deve ser capaz de comprovar que seu uso em um determinado arquivo ou parte de código representa uma ameaça à segurança.
 * Meras menções à identidade, nome, marca, nome de domínio da sua empresa ou outras referências a ela em arquivos no GitHub. Você deverá ser capaz de expressar por que o uso da identidade de sua empresa é uma ameaça à postura de segurança de sua empresa.
 * Arquivos ou repositórios inteiros que não representam um risco à segurança específico, mas que você acredita serem censuráveis.
-* Solicitações para remover conteúdo que possa violar seus direitos autorais ou os da sua organização. Se você tiver dúvidas sobre como o GitHub lida com questões relacionadas a direitos autorais ou se gostaria de denunciar conteúdo potencialmente infrator, consulte a [Política de Remoção de DMCA](/pt/articles/dmca-takedown-policy). O processo de remoção de informações privadas geralmente não se destina à remoção de arquivos ou repositórios completos — apenas de partes específicas de informações privadas nesses arquivos. Embora possa haver casos em que os arquivos sejam preenchidos inteiramente com informações privadas, você deverá justificar o risco à segurança para a remoção de tais arquivos, e isso pode aumentar o tempo necessário para processar sua solicitação.
-* Controvérsias sobre marcas. Se você tiver dúvidas sobre como o GitHub lida com assuntos relacionados a marcas ou se gostaria de denunciar conteúdo que contenha marcas comerciais ou de serviço de sua organização, consulte a [Política de Marcas](/pt/articles/github-trademark-policy).
+* Solicitações para remover conteúdo que possa violar seus direitos autorais ou os da sua organização. Se você tiver dúvidas sobre como o GitHub lida com questões relacionadas a direitos autorais ou se gostaria de denunciar conteúdo potencialmente infrator, consulte a [Política de Remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy). O processo de remoção de informações privadas geralmente não se destina à remoção de arquivos ou repositórios completos — apenas de partes específicas de informações privadas nesses arquivos. Embora possa haver casos em que os arquivos sejam preenchidos inteiramente com informações privadas, você deverá justificar o risco à segurança para a remoção de tais arquivos, e isso pode aumentar o tempo necessário para processar sua solicitação.
+* Controvérsias sobre marcas. Se você tiver dúvidas sobre como o GitHub lida com assuntos relacionados a marcas ou se gostaria de denunciar conteúdo que contenha marcas comerciais ou de serviço de sua organização, consulte a [Política de Marcas](/pt/site-policy/content-removal-policies/github-trademark-policy).
 * Reclamações de privacidade. Se você desejar acessar, transferir, alterar ou excluir suas informações pessoais no GitHub, entre em contato conosco usando o [Formulário de contato de privacidade](https://github.com/contact/privacy).
-* Conteúdo regido pelas [Diretrizes da Comunidade](/pt/articles/github-community-guidelines), como malware ou ferramentas de uso geral. Se você tiver dúvidas sobre as Diretrizes da Comunidade ou se acreditar que o conteúdo do GitHub pode violar nossas diretrizes, use [Reportar conteúdo](https://github.com/contact/report-content) para entrar em contato conosco.
+* Conteúdo regido pelas [Diretrizes da Comunidade](/pt/site-policy/github-terms/github-community-guidelines), como malware ou ferramentas de uso geral. Se você tiver dúvidas sobre as Diretrizes da Comunidade ou se acreditar que o conteúdo do GitHub pode violar nossas diretrizes, use [Reportar conteúdo](https://github.com/contact/report-content) para entrar em contato conosco.
 
 [](#things-to-know)Coisas que você deve saber
 ----------
@@ -88,7 +88,7 @@ Para as finalidades deste documento, “informação privada” refere-se ao con
 
 ### [](#what-about-forks-or-whats-a-fork)E os forks? (ou O que é um fork?) ###
 
-Um dos melhores recursos do GitHub é a capacidade de os usuários "criarem forks" dos repositórios uns dos outros. O que isso significa? Basicamente, isso significa que os usuários podem fazer uma cópia de um projeto no GitHub em seus próprios repositórios. Conforme a licença ou a lei permitir, os usuários podem fazer alterações nesse fork para retornar ao projeto principal ou apenas manter como sua própria variação de um projeto. Cada uma dessas cópias é um “[fork](/pt/articles/github-glossary/#fork)” do repositório original, que por sua vez também pode ser chamado de “pai” do fork.
+Um dos melhores recursos do GitHub é a capacidade de os usuários "criarem forks" dos repositórios uns dos outros. O que isso significa? Basicamente, isso significa que os usuários podem fazer uma cópia de um projeto no GitHub em seus próprios repositórios. Conforme a licença ou a lei permitir, os usuários podem fazer alterações nesse fork para retornar ao projeto principal ou apenas manter como sua própria variação de um projeto. Cada uma dessas cópias é um "[Glossário do GitHub](/pt/get-started/quickstart/github-glossary#fork)" do repositório original, que por sua vez também pode ser chamado de "pai" do fork.
 
 O GitHub não desabilitará automaticamente os forks ao desabilitar um repositório pai. Isso ocorre porque os forks pertencem a usuários diferentes e podem ter sido alterados de maneira significativa. O GitHub não conduz nenhuma investigação independente sobre forks. Esperamos que aqueles que enviam solicitações de remoção de informações privadas conduzam essa investigação e, se acreditarem que os forks também contêm informações privadas, incluam expressamente os forks em sua solicitação.
 
