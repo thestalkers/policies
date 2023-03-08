@@ -1,4 +1,4 @@
-GitHub Terms of Service - GitHub Docs
+Termos de serviço do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Terms of Service](/pt/site-policy/github-terms/github-terms-of-service)
+* [Termos de serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
 
-GitHub Terms of Service
+Termos de serviço do GitHub
 ==========
 
 In this article

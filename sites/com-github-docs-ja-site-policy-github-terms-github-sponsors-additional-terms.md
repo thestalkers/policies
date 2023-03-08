@@ -1,4 +1,4 @@
-GitHub Sponsors Additional Terms - GitHub Docs
+GitHub スポンサーの追加条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub Sponsors Additional Terms](/ja/site-policy/github-terms/github-sponsors-additional-terms)
+* [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub Sponsors Additional Terms
+GitHub スポンサーの追加条件
 ==========
 
 In this article

@@ -1,4 +1,4 @@
-GitHub Username Policy - GitHub Docs
+Directiva de Nombres de Usuario de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
-* [GitHub Username Policy](/es/site-policy/other-site-policies/github-username-policy)
+* [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
-GitHub Username Policy
+Directiva de Nombres de Usuario de GitHub
 ==========
 
 In this article

@@ -14,14 +14,14 @@ We publish frequent updates to our documentation, and translation of this page m
 Directivas de Uso Aceptable
 ==========
 
-* [GitHub Acceptable Use Policies](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Directivas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 * [Malware Activo o Vulnerabilidades de GitHub](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
-* [GitHub Bullying and Harassment](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [No toleramos el acoso, la intimidación ni el abuso de ningún tipo, ya se practique directamente o animando a otros a participar en la conducta prohibida.](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 * [Alteración de la experiencia de otros usuarios de GitHub](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
-* [Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [No publique información personal de otras personas.](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 * [Discurso de odio y discriminación en GitHub](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
-* [GitHub Impersonation](/es/site-policy/acceptable-use-policies/github-impersonation)
-* [GitHub Misinformation and Disinformation](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Suplantación en GitHub](/es/site-policy/acceptable-use-policies/github-impersonation)
+* [Información Errónea y Desinformación en GitHub](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 * [Contenido Sexualmente Obsceno en GitHub](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 * [Amenazas de Violencia y Contenido Violento Gratuito en GitHub](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 * [Apelación y Restablecimiento de GitHub](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

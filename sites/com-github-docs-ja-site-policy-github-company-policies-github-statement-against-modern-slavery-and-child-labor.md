@@ -1,4 +1,4 @@
-GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
+GitHub の現代奴隷制と児童労働に反対する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
-* [GitHub Statement Against Modern Slavery and Child Labor](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-GitHub Statement Against Modern Slavery and Child Labor
+GitHub の現代奴隷制と児童労働に反対する声明
 ==========
 
 In this article
@@ -75,7 +75,7 @@ GitHub は、[人身売買との闘いに関する米国連邦調達規則 22.17
 
 さらに、GitHub は FairHotel Program と提携しています。これは、GitHub が従業員に対して、FairHotel が支持する、公正な給料、十分な福利厚生、従業員の声が職場に反映されるホテルを選ぶよう奨励していることを意味します。 また、FairHotel と提携していることは、公正な雇用者として、GitHub がホテルに仕事を提供していることも意味します。
 
-今後、GitHub はこの声明をすべての従業員、請負業者、および人材紹介業者や派遣事業者を含むサプライヤーに伝達していきます。 さらに、GitHub は現代奴隷制および児童労働について、GitHub の全従業員を対象とした研修を開発しています。 GitHub は、[「現代奴隷制と児童労働に反対する声明」を公に掲げています](/ja/articles/github-statement-against-modern-slavery-and-child-labor)。
+今後、GitHub はこの声明をすべての従業員、請負業者、および人材紹介業者や派遣事業者を含むサプライヤーに伝達していきます。 さらに、GitHub は現代奴隷制および児童労働について、GitHub の全従業員を対象とした研修を開発しています。 GitHub は、[「現代奴隷制と児童労働に反対する声明」を公に掲げています](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)。
 
 GitHub は、職場に関する懸念事項の報告について報復禁止ポリシーを持っています。 この声明に沿って、GitHub は従業員や請負業者が報復を恐れることなく現代奴隷制と児童労働に関する問題を報告できるようにしています。
 

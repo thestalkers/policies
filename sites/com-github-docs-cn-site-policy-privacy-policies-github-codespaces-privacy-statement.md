@@ -17,9 +17,9 @@ GitHub Codespaces 隐私声明
 
 生效日期：2021 年 8 月 10 日
 
-对 GitHub Codespaces 的使用受 [GitHub 隐私声明](/zh/github/site-policy/github-privacy-statement)的约束。
+对 GitHub Codespaces 的使用受 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)的约束。
 
-github.dev 上的活动受 [GitHub Beta 预览版条款](/zh/github/site-policy/github-terms-of-service#j-beta-previews)的约束
+github.dev 上的活动受 [GitHub Beta 预览版条款](/zh/site-policy/github-terms/github-terms-of-service#j-beta-previews)的约束
 
 [](#使用-visual-studio-code)使用 Visual Studio Code
 ----------

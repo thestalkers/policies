@@ -95,7 +95,7 @@ Fecha de entrada en vigor: 16 de noviembre de 2020
 **Version abreviada:** *estos son los términos básicos que utilizamos a lo largo del acuerdo y que tienen significados específicos. Debe saber a qué nos referimos cuando usamos cada uno de los términos. Aunque no le vayamos a examinar sobre ellos, son bastante útiles.*
 
 1. Una «Cuenta» representa su relación legal con GitHub. Una «Cuenta Personal» representa la autorización de un Usuario individual para iniciar sesión y utilizar el Servicio y sirve como identidad del Usuario en GitHub. Las «Organizaciones» son espacios de trabajo compartidos que pueden estar asociados a una sola entidad o a uno o más Usuarios y en los que varios Usuarios pueden colaborar en varios proyectos al mismo tiempo. Una Cuenta Personal puede ser miembro de cualquier número de Organizaciones.
-2. El «Acuerdo» se refiere, de forma colectiva, a todos los términos, condiciones, avisos contenidos o a los que se hace referencia en este documento (los «Términos de Servicio» o los «Términos») y todas las demás normas de funcionamiento, directivas (incluida la Declaración de Privacidad de GitHub que está disponible en [github.com/site/privacy](https://github.com/site/privacy)) y los procedimientos que podemos publicar ocasionalmente en el Sitio Web. La mayoría de las directivas del sitio están disponibles en [docs.github.com/categories/site-policy](/es/categories/site-policy).
+2. El «Acuerdo» se refiere, de forma colectiva, a todos los términos, condiciones, avisos contenidos o a los que se hace referencia en este documento (los «Términos de Servicio» o los «Términos») y todas las demás normas de funcionamiento, directivas (incluida la Declaración de Privacidad de GitHub que está disponible en [github.com/site/privacy](https://github.com/site/privacy)) y los procedimientos que podemos publicar ocasionalmente en el Sitio Web. La mayoría de las directivas del sitio están disponibles en [docs.github.com/categories/site-policy](/es/site-policy).
 3. «Versiones Preliminares Beta» se refiere al software, los servicios o las características identificadas como alfa, beta, versión preliminar, de acceso anticipado o de evaluación, o mediante palabras o expresiones con significados similares.
 4. «Contenido»” se refiere al contenido presentado o mostrado a través del Sitio Web, incluido, sin que sirva de limitación, el código, el texto, los datos, los artículos, las imágenes, las fotografías, los gráficos, el software, las aplicaciones, los paquetes, los diseños, las características y demás materiales que estén disponibles en el Sitio Web o a través del Servicio. El «Contenido» también incluye Servicios. El «Contenido Generado por el Usuario» es Contenido, escrito o no, creado o cargado por nuestros Usuarios. «Su Contenido» es el Contenido que usted crea o posee.
 5. «GitHub», «Nosotros» y «Nos» se refieren a GitHub, Inc., así como a nuestras entidades afiliadas, directores, subsidiarias, contratistas, licenciantes, responsables, representantes y empleados.
@@ -127,7 +127,7 @@ Tenemos algunas reglas muy sencillas para las Cuentas Personales en el Servicio 
 * Una persona o entidad jurídica no puede tener más de una Cuenta gratuita (también puede optar por controlar una cuenta automática, pero solo se puede usar para ejecutar una máquina).
 * Debe ser mayor de 13 años. Aunque nos encanta ver que hay jóvenes programadores muy brillantes que están entusiasmados por aprender a programar, debemos cumplir las leyes de Estados Unidos. GitHub no dirige el Servicio a menores de 13 años y no permitimos que haya ningún Usuario menor de 13 años en nuestro Servicio. Si descubrimos que hay algún Usuario menor de 13 años, [cerraremos la Cuenta de ese Usuario inmediatamente](#l-cancellation-and-termination). Si reside en un país fuera de los Estados Unidos, es posible que la edad mínima legal en su país sea mayor; en tal caso, usted es responsable de cumplir las leyes de su país.
 * Sus credenciales de usuario solo puede utilizarlas una persona, es decir, no está permitido que varias personas compartan las mismas credenciales de usuario. Una Organización de pago solo puede proporcionar acceso al número de Cuentas Personales que le permita su suscripción.
-* No puede usar GitHub de ninguna manera que incumpla las leyes de sanciones o control de exportaciones de los Estados Unidos o cualquier otra jurisdicción aplicable. No puede usar GitHub si es un [Ciudadano Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), o trabaja en su nombre, o se le han impuesto bloqueos o prohibiciones de partes restringidas similares administradas por un organismo del gobierno de los EE. UU. GitHub podría permitir que personas de ciertos países o territorios con sanciones accedan a determinados servicios de GitHub de conformidad con las autorizaciones del gobierno de EE. UU. Para obtener más información, consulte nuestra [Directiva sobre Controles de Exportación](/es/articles/github-and-export-controls).
+* No puede usar GitHub de ninguna manera que incumpla las leyes de sanciones o control de exportaciones de los Estados Unidos o cualquier otra jurisdicción aplicable. No puede usar GitHub si es un [Ciudadano Especialmente Designado (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx), o trabaja en su nombre, o se le han impuesto bloqueos o prohibiciones de partes restringidas similares administradas por un organismo del gobierno de los EE. UU. GitHub podría permitir que personas de ciertos países o territorios con sanciones accedan a determinados servicios de GitHub de conformidad con las autorizaciones del gobierno de EE. UU. Para obtener más información, consulte nuestra [Directiva sobre Controles de Exportación](/es/site-policy/other-site-policies/github-and-trade-controls).
 
 ### [](#4-account-security)4. Seguridad de la Cuenta ###
 
@@ -141,9 +141,9 @@ Usted es responsable de proteger su Cuenta mientras usa nuestro Servicio. Tenemo
 
 En algunas situaciones, podrían aplicarse términos de terceros al uso que usted realiza de GitHub. Por ejemplo, podría ser miembro de una organización en GitHub que tiene sus propios términos o acuerdos de licencia, podría descargarse una aplicación que se integra con GitHub o podría usar GitHub para autenticarse en otro servicio. Tenga en cuenta que, aunque estos Términos constituyen nuestro acuerdo completo con usted, los términos de otras partes rigen sus relaciones con usted.
 
-Si usted es un Usuario del gobierno de EE. UU. u obtiene acceso al Servicio de GitHub o lo usa en calidad de miembro de dicho gobierno, se aplicará la [Enmienda del Gobierno de EE. UU. a los Términos de Servicio de GitHub](/es/articles/amendment-to-github-terms-of-service-applicable-to-u-s-federal-government-users) y usted acepta sus cláusulas.
+Si usted es un Usuario del gobierno de EE. UU. u obtiene acceso al Servicio de GitHub o lo usa en calidad de miembro de dicho gobierno, se aplicará la [Enmienda del Gobierno de EE. UU. a los Términos de Servicio de GitHub](/es/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) y usted acepta sus cláusulas.
 
-Si se ha registrado en GitHub Enterprise Cloud, se le aplicará el [Anexo de Enterprise Cloud](/es/articles/github-enterprise-cloud-addendum) y usted acepta sus cláusulas.
+Si se ha registrado en GitHub Enterprise Cloud, se le aplicará el [Anexo de Enterprise Cloud](/es/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement) y usted acepta sus cláusulas.
 
 [](#c-acceptable-use)C. Uso aceptable
 ----------
@@ -152,7 +152,7 @@ Si se ha registrado en GitHub Enterprise Cloud, se le aplicará el [Anexo de Ent
 
 Su uso del Sitio Web y el Servicio no debe incumplir ninguna ley aplicable, incluidas las leyes sobre derechos de autor o marcas comerciales, las leyes de sanciones o control de exportaciones, u otras leyes de su jurisdicción. Usted es responsable de asegurarse de que su uso del Servicio cumpla las leyes y las normativas aplicables.
 
-Usted acuerda que, bajo ninguna circunstancia, incumplirá nuestras [Directrices de Uso Aceptable](/es/articles/github-acceptable-use-policies) o las [Directrices de la Comunidad](/es/articles/github-community-guidelines).
+Usted acuerda que, bajo ninguna circunstancia, incumplirá nuestras [Directrices de Uso Aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines).
 
 [](#d-user-generated-content)D. Contenido Generado por el Usuario
 ----------
@@ -165,7 +165,7 @@ Usted puede crear o cargar Contenido Generado por el Usuario mientras utiliza el
 
 ### [](#2-github-may-remove-content)2. GitHub Puede Eliminar Contenido ###
 
-Tenemos derecho a rechazar o eliminar cualquier Contenido Generado por el Usuario que, a nuestra exclusiva discreción, incumpla cualquier ley o los [términos o directivas de GitHub](/es/github/site-policy). El Contenido Generado por el Usuario que se muestra en GitHub Mobile puede estar sujeto a los términos adicionales de las tiendas de aplicaciones móviles.
+Tenemos derecho a rechazar o eliminar cualquier Contenido Generado por el Usuario que, a nuestra exclusiva discreción, incumpla cualquier ley o los [términos o directivas de GitHub](/es/site-policy). El Contenido Generado por el Usuario que se muestra en GitHub Mobile puede estar sujeto a los términos adicionales de las tiendas de aplicaciones móviles.
 
 ### [](#3-ownership-of-content-right-to-post-and-license-grants)3. Propiedad del Contenido, Derecho de Publicación y Concesión de Licencias ###
 
@@ -183,7 +183,7 @@ Esta licencia no concede a GitHub el derecho a vender Su Contenido. Tampoco conc
 
 Cualquier Contenido Generado por el Usuario que publique, incluidos los problemas, los comentarios y las contribuciones que realicen a los repositorios otros Usuarios, puede ser visto por otros. Al configurar sus repositorios para que se vean de forma pública, acepta que otros vean y «bifurquen» sus repositorios (eso significa que otros usuarios pueden hacer sus propias copias del Contenido desde sus repositorios en los repositorios que ellos controlan).
 
-Si usted configura sus páginas y repositorios para que se vean de forma pública, le otorga a cada Usuario de GitHub una licencia internacional no exclusiva para utilizar, mostrar y reproducir su Contenido a través del Servicio de GitHub y para reproducir su Contenido únicamente en GitHub de la forma que permite la funcionalidad de GitHub (por ejemplo, a través de bifurcación). Puede otorgar más derechos si [adopta una licencia](/es/articles/adding-a-license-to-a-repository/#including-an-open-source-license-in-your-repository). Si carga Contenido que no ha creado o que no es de su propiedad, usted es responsable de asegurarse de que el Contenido que cargue tenga una licencia de acuerdo con los términos que otorgan estos permisos a otros Usuarios de GitHub.
+Si usted configura sus páginas y repositorios para que se vean de forma pública, le otorga a cada Usuario de GitHub una licencia internacional no exclusiva para utilizar, mostrar y reproducir su Contenido a través del Servicio de GitHub y para reproducir su Contenido únicamente en GitHub de la forma que permite la funcionalidad de GitHub (por ejemplo, a través de bifurcación). Puede otorgar más derechos si [adopta una licencia](/es/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository). Si carga Contenido que no ha creado o que no es de su propiedad, usted es responsable de asegurarse de que el Contenido que cargue tenga una licencia de acuerdo con los términos que otorgan estos permisos a otros Usuarios de GitHub.
 
 ### [](#6-contributions-under-repository-license)6. Contribuciones en Virtud de una Licencia de Repositorio ###
 
@@ -212,22 +212,22 @@ GitHub considera que el contenido de los repositorios privados es confidencial p
 
 ### [](#3-access)3. Acceso ###
 
-El personal de GitHub solo puede obtener acceso al contenido de sus repositorios privados en las situaciones que se describen en nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement#repository-contents).
+El personal de GitHub solo puede obtener acceso al contenido de sus repositorios privados en las situaciones que se describen en nuestra [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement#repository-contents).
 
 Puede optar por habilitar el acceso adicional a sus repositorios privados. Por ejemplo:
 
 * Puede habilitar varios servicios o características de GitHub que requieren derechos adicionales sobre Su Contenido en repositorios privados. Estos derechos pueden variar según el servicio o la característica, pero GitHub continuará tratando como confidencial el Contenido de su repositorio privado. Si tales servicios o características requieren otros derechos además de los necesarios para prestar el Servicio de GitHub, explicaremos cuáles son esos derechos.
 
-Además, puede suceder que estemos [obligados por ley](/es/github/site-policy/github-privacy-statement#for-legal-disclosure) a revelar el contenido de los repositorios privados.
+Además, puede suceder que estemos [obligados por ley](/es/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) a revelar el contenido de los repositorios privados.
 
-GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/github/site-policy/github-privacy-statement#for-legal-disclosure), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
+GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
 
 [](#f-copyright-infringement-and-dmca-policy)F. Infracción de Derechos de Autor y Directiva de DMCA
 ----------
 
-Si cree que el contenido de nuestro sitio web infringe sus derechos de autor, comuníquese con nosotros de acuerdo con nuestra [Directiva de la Ley de Derechos de Autor de Digital Millennium](/es/articles/dmca-takedown-policy). Si es propietario de derechos de autor y cree que el contenido de GitHub infringe sus derechos, póngase en contacto con nosotros a través de [nuestro práctico formulario de DMCA](https://github.com/contact/dmca) o por correo electrónico escribiendo a la dirección [copyright@github.com.](mailto:copyright@github.com.) Enviar un aviso de retirada falso o poco serio podría tener consecuencias legales. Antes de enviar una solicitud de retirada, debe estudiar cuáles son los usos legales del Contenido (por ejemplo, el uso legítimo y los usos con licencia).
+Si cree que el contenido de nuestro sitio web infringe sus derechos de autor, comuníquese con nosotros de acuerdo con nuestra [Directiva de la Ley de Derechos de Autor de Digital Millennium](/es/site-policy/content-removal-policies/dmca-takedown-policy). Si es propietario de derechos de autor y cree que el contenido de GitHub infringe sus derechos, póngase en contacto con nosotros a través de [nuestro práctico formulario de DMCA](https://github.com/contact/dmca) o por correo electrónico escribiendo a la dirección [copyright@github.com.](mailto:copyright@github.com.) Enviar un aviso de retirada falso o poco serio podría tener consecuencias legales. Antes de enviar una solicitud de retirada, debe estudiar cuáles son los usos legales del Contenido (por ejemplo, el uso legítimo y los usos con licencia).
 
-Cancelaremos las Cuentas de los [infractores reincidentes](/es/articles/dmca-takedown-policy/#e-repeated-infringement) de esta directiva.
+Cancelaremos las Cuentas de los [infractores reincidentes](/es/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement) de esta directiva.
 
 [](#g-intellectual-property-notice)G. Aviso de Propiedad Intelectual
 ----------
@@ -266,7 +266,7 @@ GitHub puede ofrecer acceso basado en suscripción a nuestra API a aquellos Usua
 
 **Versión abreviada:** *debe cumplir determinados términos y condiciones específicos para las diversas características y productos de GitHub, y usted acepta los Términos y Condiciones Complementarios en el momento en que acepta este Acuerdo.*
 
-Algunas características del Servicio podrían estar sujetas a términos adicionales específicos de esa característica o producto, tal como se establece en los Términos Adicionales para los Productos de GitHub. Al acceder o utilizar los Servicios, también acepta los [Términos Adicionales para los Productos de GitHub](/es/github/site-policy/github-additional-product-terms).
+Algunas características del Servicio podrían estar sujetas a términos adicionales específicos de esa característica o producto, tal como se establece en los Términos Adicionales para los Productos de GitHub. Al acceder o utilizar los Servicios, también acepta los [Términos Adicionales para los Productos de GitHub](/es/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
 [](#j-beta-previews)J. Versiones Preliminares Beta
 ----------
@@ -309,7 +309,7 @@ Nuestros precios y plazos de pago están disponibles en [github.com/pricing](htt
 
 **Pago Basado en Plan** En los planes de pago mensuales o anuales, el Servicio se factura por adelantado mensual o anualmente, según el caso, y no es reembolsable. No se realizarán reembolsos o abonos de meses de servicio parciales, reembolsos por reducciones de planes o reembolsos por meses no utilizados de una Cuenta abierta; no obstante, el servicio permanecerá activo durante el periodo de facturación pagado. Para tratar a todo el mundo por igual, no se harán excepciones.
 
-**Pago Basado en Uso** Algunas características del Servicio se facturan en función del uso que haga de ellas. Se puede incluir una cantidad limitada de estas características del Servicio en el plan del Cliente durante un periodo limitado sin cargo adicional. Si decide comprar más características del Servicio de pago que las que se incluyen en el plan, esas características del Servicio se abonarán en función del uso real durante el mes anterior. El pago mensual de estas compras se cobrará periódicamente a mes vencido. Consulte los [Términos Adicionales para los Productos de GitHub](/es/github/site-policy/github-additional-product-terms) para obtener más información al respecto.
+**Pago Basado en Uso** Algunas características del Servicio se facturan en función del uso que haga de ellas. Se puede incluir una cantidad limitada de estas características del Servicio en el plan del Cliente durante un periodo limitado sin cargo adicional. Si decide comprar más características del Servicio de pago que las que se incluyen en el plan, esas características del Servicio se abonarán en función del uso real durante el mes anterior. El pago mensual de estas compras se cobrará periódicamente a mes vencido. Consulte los [Términos Adicionales para los Productos de GitHub](/es/site-policy/github-terms/github-terms-for-additional-products-and-features) para obtener más información al respecto.
 
 **Facturación** En caso de Usuarios facturados, el Usuario acepta abonar las tarifas en su totalidad, por adelantado, sin deducciones ni compensaciones de ningún tipo y en dólares estadounidenses. El Usuario debe abonar las tarifas en un plazo de treinta (30) días a partir de la fecha de la factura de GitHub. Los importes debidos en virtud de este Acuerdo no son reembolsables, excepto que se estipule otra cosa en este Acuerdo. Si el Usuario no abona las tarifas a tiempo, GitHub se reserva el derecho, aparte de tomar medidas conforme a derecho o equidad, a (i) cobrar intereses sobre los importes vencidos a razón del uno por ciento (1,0 %) al mes o al tipo de interés más alto que permita la ley, el que sea menor, a cobrar todos los gastos para recuperar el dinero, así como a (ii) rescindir el formulario de pedido aplicable. El Usuario es el único responsable del pago de todos los impuestos, tasas, aranceles y gravámenes gubernamentales (a excepción de los impuestos por los ingresos netos de GitHub) que se apliquen o sean exigibles en relación con este Acuerdo.
 
@@ -328,7 +328,7 @@ Usted es responsable del pago de todas las tarifas, incluidos los impuestos, aso
 
 ### [](#1-account-cancellation)1. Cancelación de la Cuenta ###
 
-Es su responsabilidad cancelar correctamente su Cuenta de GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/articles/how-do-i-cancel-my-account) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta contiene un enlace de cancelación muy sencillo en el que no se le hará ninguna pregunta. No podemos cancelar Cuentas en respuesta a un correo electrónico o una solicitud telefónica.
+Es su responsabilidad cancelar correctamente su Cuenta de GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta contiene un enlace de cancelación muy sencillo en el que no se le hará ninguna pregunta. No podemos cancelar Cuentas en respuesta a un correo electrónico o una solicitud telefónica.
 
 ### [](#2-upon-cancellation)2. Tras la Cancelación ###
 
@@ -357,7 +357,7 @@ A efectos contractuales, usted (1) acepta recibir comunicaciones nuestras en for
 
 ### [](#2-legal-notice-to-github-must-be-in-writing)2. Las Notificaciones Legales a GitHub Deben Constar por Escrito ###
 
-Las comunicaciones realizadas por correo electrónico o a través del sistema de mensajería del Servicio de Soporte de GitHub no constituirán una notificación legal para GitHub o cualquiera de sus responsables, empleados, agentes o representantes en ninguna situación en la que se requiera enviar una notificación a GitHub por contrato o en virtud de cualquier ley o normativa. Las notificaciones legales a GitHub deben constar por escrito y [entregarse al representante legal de GitHub](/es/articles/guidelines-for-legal-requests-of-user-data/#submitting-requests).
+Las comunicaciones realizadas por correo electrónico o a través del sistema de mensajería del Servicio de Soporte de GitHub no constituirán una notificación legal para GitHub o cualquiera de sus responsables, empleados, agentes o representantes en ninguna situación en la que se requiera enviar una notificación a GitHub por contrato o en virtud de cualquier ley o normativa. Las notificaciones legales a GitHub deben constar por escrito y [entregarse al representante legal de GitHub](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
 ### [](#3-no-phone-support)3. Sin Soporte Telefónico ###
 

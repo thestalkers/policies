@@ -17,9 +17,9 @@ Política de Privacidade de Codespaces do GitHub
 
 Data de Início de Vigência: 10 August 2021
 
-O uso de Codespaces do GitHub está sujeito à [Declaração de Privacidade do GitHub](/pt/github/site-policy/github-privacy-statement).
+O uso de Codespaces do GitHub está sujeito à [Declaração de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
 
-A atividade em github.dev está sujeita aos [Termos de Visualizações Beta do GitHub](/pt/github/site-policy/github-terms-of-service#j-beta-previews)
+A atividade em github.dev está sujeita aos [Termos de Visualizações Beta do GitHub](/pt/site-policy/github-terms/github-terms-of-service#j-beta-previews)
 
 [](#usando-o-visual-studio-code)Usando o Visual Studio Code
 ----------

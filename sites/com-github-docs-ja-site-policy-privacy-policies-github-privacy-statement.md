@@ -1,4 +1,4 @@
-GitHub Privacy Statement - GitHub Docs
+GitHub のプライバシーに関する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
-* [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)
 
-GitHub Privacy Statement
+GitHub のプライバシーに関する声明
 ==========
 
 In this article
@@ -271,7 +271,7 @@ GitHub は、当社のサービスの提供、安全確保、改善、または�
 
 当社の電子メールにはピクセル タグが含まれている場合があります。これは、お客様が電子メールを開いたかどうかと、お客様の IP アドレスを当社に伝えることができる小さい鮮明な画像です。 当社はこのピクセル タグを使用して、当社からの電子メール通信の効果を高めると共に、不要な電子メールをお客様に送信することがないようにしています。
 
-Cookie がお客様のブラウザーまたはデバイス上に保持される時間の長さは、それが "永続" と "セッション" のどちらの Cookie であるかによって異なります。 セッション Cookie は、閲覧を終了するまでの間のみデバイス上に保持されます。 永続 Cookie は、有効期限になるか削除されるまで保持されます。 永続 Cookie に適用される有効期限または保持期間は、Cookie 収集の目的と、使用されるツールによって異なります。 Cookie データを削除できる場合があります。 詳しくは、「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)」を参照してください。
+Cookie がお客様のブラウザーまたはデバイス上に保持される時間の長さは、それが "永続" と "セッション" のどちらの Cookie であるかによって異なります。 セッション Cookie は、閲覧を終了するまでの間のみデバイス上に保持されます。 永続 Cookie は、有効期限になるか削除されるまで保持されます。 永続 Cookie に適用される有効期限または保持期間は、Cookie 収集の目的と、使用されるツールによって異なります。 Cookie データを削除できる場合があります。 詳しくは、「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)」を参照してください。
 
 #### [](#what-are-cookies-and-similar-technologies)Cookie および類似のテクノロジとは? ####
 
@@ -479,12 +479,12 @@ GitHub は、お客様の機密データを収集して処理することにつ�
 * GitHub が所有または管理するサービスまたはデバイスの品質または安全性の検証または維持、改善、アップグレード、または強化を行う活動のため
 * 適用される法令に従ってその他の活動を行うため
 
-上記の表には、個人データの各カテゴリの主なソース、処理の目的、受信者が含まれています。 当社は、当社の法的義務の履行、社内業務の改善、調査の実施など、当社のプライバシーに関する声明の「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)」セクションに記載されている目的で上記の個人情報のカテゴリを使用します。 また、ビジネスまたはコンプライアンスの目的で、上記の個人情報のカテゴリを開示します。 詳しくは、プライバシーに関する声明の「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。
+上記の表には、個人データの各カテゴリの主なソース、処理の目的、受信者が含まれています。 当社は、当社の法的義務の履行、社内業務の改善、調査の実施など、当社のプライバシーに関する声明の「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)」セクションに記載されている目的で上記の個人情報のカテゴリを使用します。 また、ビジネスまたはコンプライアンスの目的で、上記の個人情報のカテゴリを開示します。 詳しくは、プライバシーに関する声明の「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。
 
 **同一性識別をする立場にはないデータ**。 状況によっては、GitHub が、データを識別する立場にはない (NPI) と呼ばれる状態のデータまたは匿名化されたデータを処理する場合があります。 追加の手順を実行しなければ、そのようなデータが関連している可能性のある個人にデータを関連付けることができない場合、データはこの状態になります。 そのような場合、適用される法令で許可されていない限り、当社はそのような情報を NPI 状態で維持し、NPI データが関連する個人を再特定しようとしません。
 
-**ビジネスまたは商用目的での個人データの開示**。 「当社は収集した情報をどのように共有するか」セクションで示されているように、当社は、さまざまなビジネスおよび商業目的で個人データを第三者と共有します。 当社が個人データを共有する主なビジネスおよび商業目的は、上記の表に記載されている処理の目的です。 また、上記に記載された個人情報のカテゴリをビジネス目的で開示します。 詳しくは、プライバシーに関する声明の「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。
+**ビジネスまたは商用目的での個人データの開示**。 「当社は収集した情報をどのように共有するか」セクションで示されているように、当社は、さまざまなビジネスおよび商業目的で個人データを第三者と共有します。 当社が個人データを共有する主なビジネスおよび商業目的は、上記の表に記載されている処理の目的です。 また、上記に記載された個人情報のカテゴリをビジネス目的で開示します。 詳しくは、プライバシーに関する声明の「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。
 
 **個人データの収集を管理する当事者**。 特定の状況で、当社が第三者に対して、個人データの収集の管理を許可する場合があります。 たとえば、エンタープライズ マーケティング ページでは、広告主が Cookie を通じて収集する情報の管理者になる場合があります。
 
-当社は、上記の個人情報のカテゴリを、当社のプライバシーに関する声明の「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)」セクションに記載されている目的のために使用します。 また、上記に記載された個人情報のカテゴリをビジネス目的で開示します。 詳しくは、プライバシーに関する声明の「[GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。
+当社は、上記の個人情報のカテゴリを、当社のプライバシーに関する声明の「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)」セクションに記載されている目的のために使用します。 また、上記に記載された個人情報のカテゴリをビジネス目的で開示します。 詳しくは、プライバシーに関する声明の「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)」セクションを参照してください。

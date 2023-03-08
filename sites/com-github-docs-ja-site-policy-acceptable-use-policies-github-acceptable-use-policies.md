@@ -1,4 +1,4 @@
-GitHub Acceptable Use Policies - GitHub Docs
+GitHub 利用規約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [GitHub Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-GitHub Acceptable Use Policies
+GitHub 利用規約
 ==========
 
 In this article

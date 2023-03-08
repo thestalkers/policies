@@ -1,4 +1,4 @@
-GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
+Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Seguridad](/es/site-policy/security-policies)/
-* [GitHub Bug Bounty Program Legal Safe Harbor](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug Bounty Program Legal Safe Harbor
+Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub
 ==========
 
 In this article

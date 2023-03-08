@@ -1,4 +1,4 @@
-GitHub Acceptable Use Policies - GitHub Docs
+Directivas de uso aceptable de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [GitHub Acceptable Use Policies](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Directivas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-GitHub Acceptable Use Policies
+Directivas de uso aceptable de GitHub
 ==========
 
 In this article

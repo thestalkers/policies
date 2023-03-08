@@ -1,4 +1,4 @@
-GitHub Doxxing and Invasion of Privacy - GitHub Docs
+Vazamento por parte do GitHub e Invasão de Privacidade - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Doxxing and Invasion of Privacy](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [Vazamento e invasão de privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-GitHub Doxxing and Invasion of Privacy
+Vazamento por parte do GitHub e Invasão de Privacidade
 ==========
 
 Não publique informações pessoais de outras pessoas. Isso inclui:

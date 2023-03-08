@@ -1,4 +1,4 @@
-GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
+GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,15 +10,15 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [セキュリティ ポリシー](/ja/site-policy/security-policies)/
-* [GitHub Bug Bounty Program Legal Safe Harbor](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug Bounty Program Legal Safe Harbor
+GitHub バグ報奨金プログラムの法的免責事項
 ==========
 
 In this article
 ----------
 
-* [まとめ](#summary)
+* [概要](#summary)
 
 * [1.免責条項](#1-safe-harbor-terms)
 
@@ -26,7 +26,7 @@ In this article
 
 * [3.他のサイト ポリシーの選択的撤回](#3-limited-waiver-of-other-site-polices)
 
-[](#summary)まとめ
+[](#summary)概要
 ----------
 
 1. マイクロソフトでは、当社のバグ報奨金プログラムを通じた公開を調整していただくことをお客様にお願いしています。また、リサーチャーの皆様は、法的効果を恐れることなくプログラムにご参加ください。それは、このプログラムが当社のバグ報奨金規定に適合した善意の試みであるからです。 当社には第三者に対していかなる拘束力もありません。したがって、この保護規定がすべての第三者に適用されることはありません。 マイクロソフトの方針の範囲を超える*可能性がある*と皆様が考える具体的な行動を取る際に、ご不明な点があれば、当社にお問い合わせください。

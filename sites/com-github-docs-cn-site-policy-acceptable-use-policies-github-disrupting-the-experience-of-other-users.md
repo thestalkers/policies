@@ -1,4 +1,4 @@
-GitHub Disrupting the Experience of Other Users - GitHub Docs
+在 GitHub 上扰乱其他用户的体验 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [Disrupting the Experience of Other Users](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-GitHub Disrupting the Experience of Other Users
+在 GitHub 上扰乱其他用户的体验
 ==========
 
 成为社区的一部分包括认识到您的行为如何影响他人，并与他人及其依赖的平台进行有意义和富有成效的互动。

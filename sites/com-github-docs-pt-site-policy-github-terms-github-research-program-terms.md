@@ -1,4 +1,4 @@
-GitHub Research Program Terms - GitHub Docs
+Termos do Programa de Pesquisa do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Research Program Terms](/pt/site-policy/github-terms/github-research-program-terms)
+* [Termos do Programa de Pesquisa do GitHub](/pt/site-policy/github-terms/github-research-program-terms)
 
-GitHub Research Program Terms
+Termos do Programa de Pesquisa do GitHub
 ==========
 
 In this article

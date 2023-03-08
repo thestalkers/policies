@@ -1,4 +1,4 @@
-GitHub Impersonation - GitHub Docs
+Suplantación en GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Impersonation](/es/site-policy/acceptable-use-policies/github-impersonation)
+* [Suplantación](/es/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+Suplantación en GitHub
 ==========
 
 No puede falsear su identidad ni su asociación con otra persona u organización. Esto incluye hacer cualquiera de las siguientes cosas de una manera que confunda o engañe a otros:

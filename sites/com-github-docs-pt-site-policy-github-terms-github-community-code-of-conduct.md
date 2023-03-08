@@ -1,4 +1,4 @@
-GitHub Community Code of Conduct - GitHub Docs
+Código de conduta da comunidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Community Code of Conduct](/pt/site-policy/github-terms/github-community-code-of-conduct)
+* [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 
-GitHub Community Code of Conduct
+Código de conduta da comunidade do GitHub
 ==========
 
 In this article

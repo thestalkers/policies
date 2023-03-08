@@ -1,4 +1,4 @@
-DMCA Takedown Policy - GitHub Docs
+DMCA 削除ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [DMCA Takedown Policy](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+* [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
 
-DMCA Takedown Policy
+DMCA 削除ポリシー
 ==========
 
 In this article

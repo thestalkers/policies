@@ -1,4 +1,4 @@
-GitHub Bullying and Harassment - GitHub Docs
+GitHub 上的欺凌和骚扰 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [Bullying and Harassment](/zh/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [欺凌和骚扰](/zh/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-GitHub Bullying and Harassment
+GitHub 上的欺凌和骚扰
 ==========
 
 我们不容忍任何形式的骚扰、欺凌或虐待，无论是直接还是鼓励他人参与违禁行为。 其中包括：

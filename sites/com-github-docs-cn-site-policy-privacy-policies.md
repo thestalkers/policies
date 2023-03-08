@@ -14,9 +14,9 @@ We publish frequent updates to our documentation, and translation of this page m
 隐私政策
 ==========
 
-* [GitHub Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement)
-* [GitHub Subprocessors and Cookies](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [生效日期：2022 年 12 月 15 日](/zh/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub 次级处理者和 Cookie](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
-* [GitHub Candidate Privacy Policy](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [生效日期：2021 年 3 月 8 日](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [GitHub Copilot for Business 隐私声明](/zh/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
 * [GitHub Octernships 服务条款](/zh/site-policy/privacy-policies/github-octernships-terms-of-service)

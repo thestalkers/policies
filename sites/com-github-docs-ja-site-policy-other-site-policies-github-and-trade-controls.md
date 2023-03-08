@@ -35,7 +35,7 @@ GitHub のビジョンは、開発者がどこに居住していようと、開�
 
 ### [](#githubcom)GitHub.com ###
 
-当社の[サービス条件](/ja/articles/github-terms-of-service)に基づき、ユーザーは、米国輸出管理法および制裁法を含む、適用される法律に従ってのみ GitHub.com にアクセスして利用することができます。
+当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)に基づき、ユーザーは、米国輸出管理法および制裁法を含む、適用される法律に従ってのみ GitHub.com にアクセスして利用することができます。
 
 ユーザーは、GitHub.com 上で開発し共有するコンテンツが、EAR および米国国際武器取引規則 (ITAR) を含む、米国輸出管理法を遵守していることを確認する義務を負います。 [GitHub.com](https://github.com) で提供されるクラウド型ホスト サービスは、ITAR に従ってデータをホストするように設計されておらず、現在、リポジトリ アクセスを国別に制限することはできません。 ITAR、または他の輸出管理対象データを使ってコラボレーションする場合は、GitHub のオンプレミス製品 [GitHub Enterprise Server](https://enterprise.github.com) を検討することをお勧めします。
 

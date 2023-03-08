@@ -1,4 +1,4 @@
-GitHub Community Guidelines - GitHub Docs
+GitHub 社区指导方针 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines)
+* [GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
 
-GitHub Community Guidelines
+GitHub 社区指导方针
 ==========
 
 In this article

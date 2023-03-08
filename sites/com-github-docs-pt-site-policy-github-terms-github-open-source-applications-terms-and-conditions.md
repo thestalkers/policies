@@ -1,4 +1,4 @@
-GitHub Open Source Applications Terms and Conditions - GitHub Docs
+Termos e Condições de Aplicativos de Software Livre do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Open Source Applications Terms and Conditions](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Termos e Condições de Aplicativos de Software Livre do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub Open Source Applications Terms and Conditions
+Termos e Condições de Aplicativos de Software Livre do GitHub
 ==========
 
 In this article

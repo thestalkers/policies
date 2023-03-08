@@ -1,4 +1,4 @@
-GitHub Deceased User Policy - GitHub Docs
+Política de Usuário Falecido do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
-* [GitHub Deceased User Policy](/pt/site-policy/other-site-policies/github-deceased-user-policy)
+* [Política de Usuário Falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
 
-GitHub Deceased User Policy
+Política de Usuário Falecido do GitHub
 ==========
 
 No caso de falecimento de um usuário do GitHub, poderemos trabalhar com um indivíduo autorizado para determinar o que acontece com o conteúdo da conta.

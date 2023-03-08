@@ -1,4 +1,4 @@
-GitHub Impersonation - GitHub Docs
+Falsificação de Identidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Impersonation](/pt/site-policy/acceptable-use-policies/github-impersonation)
+* [Representação](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+Falsificação de Identidade do GitHub
 ==========
 
 Você não pode fingir sua identidade ou associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou iludir os outros:

@@ -28,4 +28,4 @@ GitHub での他のユーザー エクスペリエンスの妨害
 
 管理者には自らのプロジェクトを個別に調整することを推奨しますが、GitHub スタッフは、このような行為を行うアカウントに対してさらに制限を加える場合があります。
 
-上記の行為は、当社の[利用規約](/ja/github/site-policy/github-acceptable-use-policies)のその他の制限事項に違反する場合もあります。 たとえば、行動の性質と重大度に応じて、[いじめまたは嫌がらせ](/ja/github/site-policy/github-bullying-and-harassment)のレベルに達することがあります。
+上記の行為は、当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)のその他の制限事項に違反する場合もあります。 たとえば、行動の性質と重大度に応じて、[いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)のレベルに達することがあります。

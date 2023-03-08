@@ -1,4 +1,4 @@
-GitHub Event Terms - GitHub Docs
+Termos do Evento do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Event Terms](/pt/site-policy/github-terms/github-event-terms)
+* [Termos do Evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
 
-GitHub Event Terms
+Termos do Evento do GitHub
 ==========
 
 In this article

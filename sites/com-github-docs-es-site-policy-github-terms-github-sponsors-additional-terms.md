@@ -32,12 +32,12 @@ In this article
 
 * [7. Disposiciones adicionales.](#7-miscellaneous)
 
-Su participación en el Programa de Patrocinadores de GitHub (el «Programa») está sujeta a los [Términos de Servicio de GitHub](/es/github/site-policy/github-terms-of-service) (el «Acuerdo»), así como a los siguientes términos adicionales («Términos Adicionales»). Cualquier uso del Programa de Patrocinadores de GitHub que infrinja el Acuerdo también constituirá una infracción de estos Términos Adicionales. Los términos que se utilicen en mayúsculas, pero que no estén definidos a continuación, tendrán el significado que se les atribuye en el Acuerdo. En estos Términos Adicionales del Programa de Patrocinadores de GitHub, se describe la relación entre GitHub y usted, el «Desarrollador Patrocinado», en el Programa. Los Términos Adicionales entrarán en vigor a partir de la fecha en que los acepte («Fecha de Entrada en Vigor»).
+Su participación en el Programa de Patrocinadores de GitHub (el «Programa») está sujeta a los [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) (el «Acuerdo»), así como a los siguientes términos adicionales («Términos Adicionales»). Cualquier uso del Programa de Patrocinadores de GitHub que infrinja el Acuerdo también constituirá una infracción de estos Términos Adicionales. Los términos que se utilicen en mayúsculas, pero que no estén definidos a continuación, tendrán el significado que se les atribuye en el Acuerdo. En estos Términos Adicionales del Programa de Patrocinadores de GitHub, se describe la relación entre GitHub y usted, el «Desarrollador Patrocinado», en el Programa. Los Términos Adicionales entrarán en vigor a partir de la fecha en que los acepte («Fecha de Entrada en Vigor»).
 
 [](#1-definitions)1. Definiciones.
 ----------
 
-«**Directivas de GitHub**» se refiere a todas las directivas y procedimientos de GitHub vigentes en ese momento que el Desarrollador Patrocinado debe seguir, tal y como se indica en el Programa, incluidas las [Directrices de la Comunidad de GitHub](/es/github/site-policy/github-community-guidelines).
+«**Directivas de GitHub**» se refiere a todas las directivas y procedimientos de GitHub vigentes en ese momento que el Desarrollador Patrocinado debe seguir, tal y como se indica en el Programa, incluidas las [Directrices de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines).
 
 «**Patrocinador**» se refiere al Usuario que le ha comprado una Suscripción o le ha pagado un Patrocinio a través de su Cuenta de Desarrollador Patrocinado.
 
@@ -58,7 +58,7 @@ Su participación en el Programa de Patrocinadores de GitHub (el «Programa») e
 
 ### [](#21-github-sponsors-program)2.1. Programa de Patrocinadores de GitHub ###
 
-Para participar en el Programa, debe tener la edad mínima legal en su país (por ejemplo, al menos 13 años si vive en Estados Unidos), tener una cuenta de GitHub válida y haber aceptado el [apartado Uso Aceptable](/es/github/site-policy/github-terms-of-service#c-acceptable-use) del Acuerdo y las Directivas de GitHub aplicables y estos Términos Adicionales de los Patrocinadores de GitHub.
+Para participar en el Programa, debe tener la edad mínima legal en su país (por ejemplo, al menos 13 años si vive en Estados Unidos), tener una cuenta de GitHub válida y haber aceptado el [apartado Uso Aceptable](/es/site-policy/github-terms/github-terms-of-service#c-acceptable-use) del Acuerdo y las Directivas de GitHub aplicables y estos Términos Adicionales de los Patrocinadores de GitHub.
 
 Si tiene más de 13 años pero es menor de 18, puede dar y recibir fondos del Patrocinador, siempre que Stripe, la empresa que procesa los pagos, pueda obtener información de verificación de su tutor legal.
 
@@ -88,7 +88,7 @@ El cumplimiento de los requisitos para acceder al Fondo de Contrapartida de Patr
 
 * Debe tener una cuenta de GitHub, ser aceptado en el Programa como particular y contribuir activamente al OSS. Tenga en cuenta que GitHub no permite operar más de una cuenta personal gratuita. Por lo tanto, la contrapartida está disponible de forma individual y no se aprobará en varias cuentas.
 
-* Debemos determinar que su uso de GitHub y su Cuenta de Desarrollador Patrocinado, a nuestra exclusiva discreción, se ajusta a la misión de los Patrocinadores de GitHub de expandir las oportunidades para contribuir al código abierto que se defiende en las [Directrices de la Comunidad de GitHub](/es/github/site-policy/github-community-guidelines).
+* Debemos determinar que su uso de GitHub y su Cuenta de Desarrollador Patrocinado, a nuestra exclusiva discreción, se ajusta a la misión de los Patrocinadores de GitHub de expandir las oportunidades para contribuir al código abierto que se defiende en las [Directrices de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines).
 
 * No puede recibir contrapartidas de ningún patrocinio que se origine en una cuenta de usuario u organización con un perfil de Patrocinador de GitHub publicado.
 
@@ -115,7 +115,7 @@ Está obligado a lo siguiente: (A) crear una Cuenta de Desarrollador Patrocinado
 
 ### [](#32-registration)3.2. Registro. ###
 
-Si decide optar al Programa, su participación en el Programa depende de que realice el proceso de registro y que GitHub le acepte en el Programa. Además, es posible que deba registrarse en los proveedores de servicios de pago seleccionados por GitHub (como Stripe) para poder acceder a determinadas características del Programa y utilizarlas. Debe registrarse con su verdadera identidad, y se compromete a proporcionar y mantener información verdadera, precisa, actual y completa sobre usted de la forma en que se solicite en el formulario de registro del Programa. Los datos de registro y otra información sobre usted se rigen por nuestra [Declaración de Privacidad](/es/github/site-policy/github-privacy-statement), así como cualquier declaración de privacidad proporcionada por la empresa que procesa los pagos. GitHub se reserva el derecho a rechazar su aceptación en el Programa.
+Si decide optar al Programa, su participación en el Programa depende de que realice el proceso de registro y que GitHub le acepte en el Programa. Además, es posible que deba registrarse en los proveedores de servicios de pago seleccionados por GitHub (como Stripe) para poder acceder a determinadas características del Programa y utilizarlas. Debe registrarse con su verdadera identidad, y se compromete a proporcionar y mantener información verdadera, precisa, actual y completa sobre usted de la forma en que se solicite en el formulario de registro del Programa. Los datos de registro y otra información sobre usted se rigen por nuestra [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement), así como cualquier declaración de privacidad proporcionada por la empresa que procesa los pagos. GitHub se reserva el derecho a rechazar su aceptación en el Programa.
 
 ### [](#33-content-monetization)3.3. Monetización de Contenido. ###
 
@@ -131,7 +131,7 @@ El Programa o Servicio puede ofrecerle la capacidad de aceptar una donación u o
 
 #### [](#333-advertising)3.3.3. Publicidad. ####
 
-Si bien entendemos que es posible que desee publicar el nombre o los logotipos de sus Patrocinadores en su cuenta para promocionarlos, el objetivo principal de su Contenido de Desarrollador Patrocinado no debe ser la publicidad o el marketing promocional. Además, no puede celebrar ningún acuerdo publicitario para promocionar ningún producto o marca si lo prohíbe el [Acuerdo](/es/github/site-policy/github-terms-of-service) o las Directrices de la Comunidad de GitHub. Si decide alojar cualquier material publicitario o promocional en su Contenido de Desarrollador Patrocinado, usted es el único responsable de cumplir todas las leyes y normativas aplicables, incluidas las Directrices de la Comisión Federal de Comercio de EE. UU sobre Consentimientos y Testimonios.
+Si bien entendemos que es posible que desee publicar el nombre o los logotipos de sus Patrocinadores en su cuenta para promocionarlos, el objetivo principal de su Contenido de Desarrollador Patrocinado no debe ser la publicidad o el marketing promocional. Además, no puede celebrar ningún acuerdo publicitario para promocionar ningún producto o marca si lo prohíbe el [Acuerdo](/es/site-policy/github-terms/github-terms-of-service) o las Directrices de la Comunidad de GitHub. Si decide alojar cualquier material publicitario o promocional en su Contenido de Desarrollador Patrocinado, usted es el único responsable de cumplir todas las leyes y normativas aplicables, incluidas las Directrices de la Comisión Federal de Comercio de EE. UU sobre Consentimientos y Testimonios.
 
 [](#4-financial-terms)4. Términos Financieros.
 ----------

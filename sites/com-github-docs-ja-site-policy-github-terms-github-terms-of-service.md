@@ -1,4 +1,4 @@
-GitHub Terms of Service - GitHub Docs
+GitHub のサービス条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service)
+* [GitHub のサービス条件](/ja/site-policy/github-terms/github-terms-of-service)
 
-GitHub Terms of Service
+GitHub のサービス条件
 ==========
 
 In this article

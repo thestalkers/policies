@@ -1,4 +1,4 @@
-GitHub Codespaces Privacy Statement - GitHub Docs
+Declaración de Privacidad de GitHub Codespaces - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/
-* [GitHub Codespaces Privacy Statement](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-GitHub Codespaces Privacy Statement
+Declaración de Privacidad de GitHub Codespaces
 ==========
 
 Fecha de entrada en vigor: 10 de agosto de 2021

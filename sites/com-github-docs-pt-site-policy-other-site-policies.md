@@ -14,9 +14,9 @@ We publish frequent updates to our documentation, and translation of this page m
 Outras Políticas do Site
 ==========
 
-* [GitHub and Trade Controls](/pt/site-policy/other-site-policies/github-and-trade-controls)
-* [GitHub Deceased User Policy](/pt/site-policy/other-site-policies/github-deceased-user-policy)
+* [GitHub.com, GitHub Enterprise Server e as informações que você carrega em qualquer um dos produtos podem estar sujeitas a regulamentos de controle comercial, inclusive segundo os Regulamentos de Administração de Exportação dos EUA (o EAR).](/pt/site-policy/other-site-policies/github-and-trade-controls)
+* [Política de Usuário Falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
 * [Política de Logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 * [Política de Remoção Governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
-* [Política de Nome de Usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
+* [Os nomes de conta do GitHub estão disponíveis por ordem de chegada e destinam-se ao uso imediato e ativo.](/pt/site-policy/other-site-policies/github-username-policy)
 * [Guidelines for Legal Requests of User Data](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)

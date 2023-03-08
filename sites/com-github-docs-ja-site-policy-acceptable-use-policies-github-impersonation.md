@@ -1,4 +1,4 @@
-GitHub Impersonation - GitHub Docs
+GitHub でのなりすまし - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [Impersonation](/ja/site-policy/acceptable-use-policies/github-impersonation)
+* [偽装](/ja/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+GitHub でのなりすまし
 ==========
 
 お客様は、自身の身元、または他の人や組織と自身の関係について虚偽の表示をすることはできません。 これには、他の人を誤解させたりだましたりするような以下の行為が含まれます。

@@ -1,4 +1,4 @@
-Guide to Submitting a DMCA Takedown Notice - GitHub Docs
+Guia para Enviar uma Notificação de Remoção da DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Takedown Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Guide to Submitting a DMCA Takedown Notice
+Guia para Enviar uma Notificação de Remoção da DMCA
 ==========
 
 In this article

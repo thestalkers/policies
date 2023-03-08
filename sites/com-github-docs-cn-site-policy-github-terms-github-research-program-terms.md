@@ -1,4 +1,4 @@
-GitHub Research Program Terms - GitHub Docs
+GitHub 研究计划条款 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Research Program Terms](/zh/site-policy/github-terms/github-research-program-terms)
+* [GitHub 研究计划条款](/zh/site-policy/github-terms/github-research-program-terms)
 
-GitHub Research Program Terms
+GitHub 研究计划条款
 ==========
 
 In this article

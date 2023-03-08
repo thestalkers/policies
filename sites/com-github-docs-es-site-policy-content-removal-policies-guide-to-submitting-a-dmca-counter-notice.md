@@ -1,4 +1,4 @@
-Guide to Submitting a DMCA Counter Notice - GitHub Docs
+Guía para Presentar una Contranotificación de la DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Counter Notice](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Guía para Presentar una Contranotificación de la DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-Guide to Submitting a DMCA Counter Notice
+Guía para Presentar una Contranotificación de la DMCA
 ==========
 
 In this article

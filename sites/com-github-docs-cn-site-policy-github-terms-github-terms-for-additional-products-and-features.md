@@ -1,4 +1,4 @@
-GitHub Terms for Additional Products and Features - GitHub Docs
+GitHub 附加产品和功能条款 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Terms for Additional Products and Features](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-GitHub Terms for Additional Products and Features
+GitHub 附加产品和功能条款
 ==========
 
 In this article

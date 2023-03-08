@@ -1,4 +1,4 @@
-Guide to Submitting a DMCA Takedown Notice - GitHub Docs
+DMCA 削除通知提出ガイド - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Takedown Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Guide to Submitting a DMCA Takedown Notice
+DMCA 削除通知提出ガイド
 ==========
 
 In this article

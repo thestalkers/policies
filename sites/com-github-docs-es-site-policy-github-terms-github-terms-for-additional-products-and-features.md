@@ -65,7 +65,7 @@ Al usar los Productos y Características Adicionales, también acepta los Térmi
 
 Acciones de GitHub le permite crear flujos de trabajo personalizados de ciclo de vida de desarrollo del software directamente en su repositorio de GitHub. Actions se factura por uso. En la [documentación de Actions](/es/actions) se incluyen los detalles, como las cantidades de recursos informáticos y almacenamiento (según el plan de su Cuenta) y cómo supervisar el uso de minutos de Actions y establecer límites de uso.
 
-No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Actions establecidas en la [documentación de Actions](/es/actions/reference/usage-limits-billing-and-administration). Asimismo, independientemente de si una instancia de Actions utiliza programas de ejecución autohospedados, Actions no debe usarse para:
+No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Actions establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Asimismo, independientemente de si una instancia de Actions utiliza programas de ejecución autohospedados, Actions no debe usarse para:
 
 * criptominería;
 * interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, dato, cuenta o red (que no sean los autorizados en el [Programa de Recompensas por la Detección de Errores de GitHub](https://bounty.github.com));
@@ -94,7 +94,7 @@ Si usa programas de ejecución autohospedados, tiene la capacidad de desactivar 
 [](#advanced-security)Advanced Security
 ----------
 
-GitHub pone a disposición de los clientes características de seguridad adicionales con una licencia de Advanced Security. Estas características incluyen escaneado de códigos, escaneado de secretos y revisión de dependencias. En la [documentación de Advanced Security](/es/github/getting-started-with-github/about-github-advanced-security) encontrará más detalles.
+GitHub pone a disposición de los clientes características de seguridad adicionales con una licencia de Advanced Security. Estas características incluyen escaneado de códigos, escaneado de secretos y revisión de dependencias. En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
 
 La licencia de Advanced Security se basa en un «Confirmador Único». Un «Confirmador Único» es un usuario con licencia de GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server o GitHub AE, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con cualquier funcionalidad de GitHub Advanced Security activada. Deberá adquirir una licencia de usuario de GitHub Advanced Security para cada uno de sus Confirmadores Únicos. Solo puede usar GitHub Advanced Security en bases de código desarrolladas por usted o para usted. Para los usuarios de GitHub Enterprise Cloud, algunas características de Advanced Security también requieren el uso de GitHub Actions.
 
@@ -128,7 +128,7 @@ Para evitar que se incumplan estas limitaciones y se abuse de GitHub Codespaces,
 
 Codespaces le permite cargar extensiones desde el Marketplace de Microsoft Visual Studio («Extensiones de Marketplace») para usarlas en su entorno de desarrollo, por ejemplo, para procesar los lenguajes de programación en los que está escrito su código. Las licencias de Extensiones de Marketplace se conceden de acuerdo con sus propios términos de uso, como se indica en el Marketplace de Visual Studio, que se encuentran en <https://aka.ms/vsmarketplace-ToU>. GitHub no ofrece garantías de ningún tipo en relación con las Extensiones de Marketplace y no es responsable de las acciones de autores externos de las Extensiones de Marketplace a los que se les otorga acceso a Su Contenido. Codespaces también le permite cargar software en su entorno a través de características de devcontainer. Dicho software se proporciona de acuerdo con los términos de uso propios que lo acompañan. Usted utiliza cualquier aplicación de terceros por su cuenta y riesgo.
 
-La versión de Codespaces disponible con carácter general no está disponible actualmente para los clientes del gobierno de EE. UU. Los clientes del gobierno de EE. UU. pueden continuar usando Codespaces Beta Preview de acuerdo con otros términos. Consulte los [Términos de Beta Preview](/es/github/site-policy/github-terms-of-service#j-beta-previews).
+La versión de Codespaces disponible con carácter general no está disponible actualmente para los clientes del gobierno de EE. UU. Los clientes del gobierno de EE. UU. pueden continuar usando Codespaces Beta Preview de acuerdo con otros términos. Consulte los [Términos de Beta Preview](/es/site-policy/github-terms/github-terms-of-service#j-beta-previews).
 
 [](#competitive-benchmarking)Puntos de referencia competitivos
 ----------
@@ -138,7 +138,7 @@ Si ofrece un producto o servicio que haga competencia a cualquier producto o ser
 [](#connect)Conectar
 ----------
 
-Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server o GitHub AE y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server o GitHub AE. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos en virtud de los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/github/site-policy/github-privacy-statement).
+Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server o GitHub AE y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server o GitHub AE. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos en virtud de los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
 [](#github-copilot)Copiloto de GitHub
 ----------
@@ -170,22 +170,22 @@ npm es un servicio de alojamiento de paquetes de software que le permite alojar 
 [](#packages)Packages
 ----------
 
-GitHub Packages es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. GitHub Packages se factura por uso. La [documentación de Packages](/es/packages/learn-github-packages/introduction-to-github-packages) incluye datos, como el ancho de banda y las cantidades de almacenamiento (según el plan de su Cuenta), y cómo supervisar el uso de Packages y establecer límites de uso. El uso del ancho de banda de Packages está limitado por las [Directivas de Uso Aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies).
+GitHub Packages es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. GitHub Packages se factura por uso. La [documentación de Packages](/es/packages/learn-github-packages/introduction-to-github-packages) incluye datos, como el ancho de banda y las cantidades de almacenamiento (según el plan de su Cuenta), y cómo supervisar el uso de Packages y establecer límites de uso. El uso del ancho de banda de Packages está limitado por las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 [](#pages)Pages
 ----------
 
-Cada Cuenta incluye acceso al [Servicio de hospedaje estático de GitHub Pages](/es/github/working-with-github-pages/about-github-pages). GitHub Pages está diseñado para alojar páginas web estáticas, pero principalmente como un escaparate para proyectos personales y de la organización.
+Cada Cuenta incluye acceso al [Servicio de hospedaje estático de GitHub Pages](/es/pages/getting-started-with-github-pages/about-github-pages). GitHub Pages está diseñado para alojar páginas web estáticas, pero principalmente como un escaparate para proyectos personales y de la organización.
 
 GitHub Pages no está diseñado ni se permite utilizarlo como un servicio de alojamiento web gratuito para ejecutar un negocio online, un sitio de comercio electrónico o cualquier otro sitio web que esté dirigido principalmente a facilitar transacciones comerciales o proporcionar software comercial como servicio (SaaS). Está permitido utilizar algunos elementos de monetización en Pages, como botones de donaciones y enlaces a páginas de financiación colectiva.
 
 *Límites de Uso y Ancho de Banda*
 
-GitHub Pages está sujeto a algunos límites de uso y ancho de banda específicos, y es posible que no sea apropiado para usos en los que el ancho de banda es alto. Consulte nuestros [Límites de GitHub Pages](/es/github/working-with-github-pages/about-github-pages) para obtener más información.
+GitHub Pages está sujeto a algunos límites de uso y ancho de banda específicos, y es posible que no sea apropiado para usos en los que el ancho de banda es alto. Consulte nuestros [Límites de GitHub Pages](/es/pages/getting-started-with-github-pages/about-github-pages) para obtener más información.
 
 *Usos Prohibidos*
 
-GitHub Pages no se puede utilizar de ninguna forma que incumpla el Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/github/site-policy/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Pages que se establecen en la [documentación de Pages](/es/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
+GitHub Pages no se puede utilizar de ninguna forma que incumpla el Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Pages que se establecen en la [documentación de Pages](/es/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
 Si tiene dudas sobre si el uso actual o previsto se incluye en estas categorías, póngase en contacto con el [Servicio de Soporte de GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin ninguna responsabilidad.
 
@@ -197,7 +197,7 @@ Las Versiones Preliminares se refieren al software, servicios online y productos
 [](#sponsors-program)Programa de Patrocinadores
 ----------
 
-Los Patrocinadores de GitHub permiten a la comunidad de desarrolladores ayudar financieramente, directamente en GitHub, a las personas y organizaciones que diseñan, crean y mantienen los proyectos de código abierto de los que dependen. Para convertirse en Desarrollador Patrocinado, debe aceptar los [Términos Adicionales del Programa de Patrocinadores de GitHub](/es/github/site-policy/github-sponsors-additional-terms).
+Los Patrocinadores de GitHub permiten a la comunidad de desarrolladores ayudar financieramente, directamente en GitHub, a las personas y organizaciones que diseñan, crean y mantienen los proyectos de código abierto de los que dependen. Para convertirse en Desarrollador Patrocinado, debe aceptar los [Términos Adicionales del Programa de Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms).
 
 [](#sql-server-images)Imágenes de SQL Server
 ----------

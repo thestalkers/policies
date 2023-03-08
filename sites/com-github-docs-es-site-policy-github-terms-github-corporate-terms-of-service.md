@@ -1,4 +1,4 @@
-GitHub Corporate Terms of Service - GitHub Docs
+Términos de Servicio Corporativos de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
-* [GitHub Corporate Terms of Service](/es/site-policy/github-terms/github-corporate-terms-of-service)
+* [Términos de Servicio Corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
 
-GitHub Corporate Terms of Service
+Términos de Servicio Corporativos de GitHub
 ==========
 
 In this article

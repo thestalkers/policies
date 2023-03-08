@@ -1,4 +1,4 @@
-Guide to Submitting a DMCA Counter Notice - GitHub Docs
+DMCA 反論通知提出ガイド - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Counter Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-Guide to Submitting a DMCA Counter Notice
+DMCA 反論通知提出ガイド
 ==========
 
 In this article

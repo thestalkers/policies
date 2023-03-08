@@ -19,4 +19,4 @@ We publish frequent updates to our documentation, and translation of this page m
 * [GitHub ロゴのポリシー](/ja/site-policy/other-site-policies/github-logo-policy)
 * [GitHub の行政機関による削除のポリシー](/ja/site-policy/other-site-policies/github-government-takedown-policy)
 * [GitHub のユーザー名ポリシー](/ja/site-policy/other-site-policies/github-username-policy)
-* [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [あなたは、GitHub でホストされているユーザー コンテンツに関連する可能性がある調査を実施する法執行機関の担当者ですか。](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)

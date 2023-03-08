@@ -1,4 +1,4 @@
-GitHub Marketplace Developer Agreement - GitHub Docs
+GitHub Marketplace 开发人员协议 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Marketplace Developer Agreement](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace Developer Agreement
+GitHub Marketplace 开发人员协议
 ==========
 
 In this article

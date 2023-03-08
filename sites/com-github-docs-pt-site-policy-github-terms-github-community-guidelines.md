@@ -1,4 +1,4 @@
-GitHub Community Guidelines - GitHub Docs
+Diretrizes da Comunidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Community Guidelines](/pt/site-policy/github-terms/github-community-guidelines)
+* [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 
-GitHub Community Guidelines
+Diretrizes da Comunidade do GitHub
 ==========
 
 In this article

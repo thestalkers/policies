@@ -1,4 +1,4 @@
-GitHub Misinformation and Disinformation - GitHub Docs
+Información Errónea y Desinformación en GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Misinformation and Disinformation](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Información incorrecta y desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-GitHub Misinformation and Disinformation
+Información Errónea y Desinformación en GitHub
 ==========
 
 No puede publicar contenido que presente una visión distorsionada de la realidad, ya sea inexacta o falsa (información errónea) o intencionadamente engañosa (desinformación), cuando dicho contenido pueda resultar perjudicial para el público o interferir con las oportunidades justas y equitativas para que todo el mundo participe en una sociedad libre y abierta. Esto puede incluir:

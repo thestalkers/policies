@@ -1,4 +1,4 @@
-GitHub Disrupting the Experience of Other Users - GitHub Docs
+Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e com a plataforma na qual elas confiam. - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,22 +10,22 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Disrupting the Experience of Other Users](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
-
-GitHub Disrupting the Experience of Other Users
-==========
+* [Não permitimos comportamentos que interrompam significativa ou continuamente a experiência de outros usuários.](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e com a plataforma na qual elas confiam.
+==========
 
-Não permitimos comportamentos que interrompam significativa ou continuamente a experiência de outros usuários. Isso inclui:
+Isso inclui:
 
-* Postar comentários irrelevantes
-* Abrir problemas inúteis ou sem sentido ou solicitações de pull
+Postar comentários irrelevantes Abrir problemas inúteis ou sem sentido ou solicitações de pull
+
 * Marcar e/ou seguir contas ou repositórios em grande volume em um curto período
 * Criar revisões de código sem sentido ou irrelevantes
 * Envolver-se com os recursos da plataforma de forma que cause excesso de notificações para outros usuários
 * Usar qualquer outro recurso da plataforma de uma maneira que crie interrupção
+* Embora incentivemos os mantenedores a moderar seus próprios projetos individualmente, a equipe do GitHub pode tomar medidas restritivas adicionais contra contas que estão envolvidas nesses tipos de comportamento.
+* Observe que a conduta acima também pode violar outras restrições em nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-Embora incentivemos os mantenedores a moderar seus próprios projetos individualmente, a equipe do GitHub pode tomar medidas restritivas adicionais contra contas que estão envolvidas nesses tipos de comportamento.
+Por exemplo, dependendo da natureza e gravidade da atividade, pode chegar ao nível de [bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
-Observe que a conduta acima também pode violar outras restrições em nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). Por exemplo, dependendo da natureza e gravidade da atividade, pode chegar ao nível de [bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).
+Please note that the above conduct may also violate other restrictions in our [](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)[Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, depending on the nature and severity of the activity, it may rise to the level of [](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)[bullying and harassment](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).

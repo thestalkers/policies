@@ -1,4 +1,4 @@
-GitHub Registered Developer Agreement - GitHub Docs
+Contrato de Desenvolvedor Registrado do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Registered Developer Agreement](/pt/site-policy/github-terms/github-registered-developer-agreement)
+* [Contrato de Desenvolvedor Registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
 
-GitHub Registered Developer Agreement
+Contrato de Desenvolvedor Registrado do GitHub
 ==========
 
 O GitHub tem a sorte de ter muitos desenvolvedores se integrando à nossa plataforma. Achamos isso incrível e queremos tornar essa experiência ainda melhor. O Programa de Desenvolvedor do GitHub (o “Programa”) nos ajuda a nos conectar com você, compartilhar informações com você e apoiar seus esforços criativos melhor do que nunca. O relacionamento especial entre o GitHub e a comunidade de desenvolvedores que o Programa cria requer um conjunto especial de termos. Bem-vindo ao Contrato de Desenvolvedor Registrado (“Contrato”).

@@ -14,5 +14,5 @@ We publish frequent updates to our documentation, and translation of this page m
 セキュリティ ポリシー
 ==========
 
-* [Coordinated Disclosure of Security Vulnerabilities](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
-* [GitHub Bug Bounty Program Legal Safe Harbor](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [私たちは、GitHub をすべての人にとって安全であるよう保ちたいと願っています。](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

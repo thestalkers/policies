@@ -1,4 +1,4 @@
-GitHub Subprocessors and Cookies - GitHub Docs
+GitHub 次级处理者和 Cookie - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [隐私政策](/zh/site-policy/privacy-policies)/
-* [GitHub Subprocessors and Cookies](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [GitHub 次级处理者和 Cookie](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-GitHub Subprocessors and Cookies
+GitHub 次级处理者和 Cookie
 ==========
 
 In this article

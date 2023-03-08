@@ -1,4 +1,4 @@
-GitHub Privacy Statement - GitHub Docs
+Política de Privacidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
-* [GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement)
+* [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
 
-GitHub Privacy Statement
+Política de Privacidade do GitHub
 ==========
 
 In this article
@@ -271,7 +271,7 @@ Para Páginas de Marketing Corporativo, também podemos usar cookies não essenc
 
 Nossos emails para usuários podem conter uma tag de pixel, que é uma imagem pequena e clara que pode nos dizer se você abriu ou não um email e qual é o endereço IP. Usamos essa tag de pixel para tornar nossas comunicações por email mais eficazes e garantir que não estamos enviando emails indesejados.
 
-O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para obter mais informações, confira "[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)".
+O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para obter mais informações, confira "[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)".
 
 #### [](#what-are-cookies-and-similar-technologies)O que são cookies e tecnologias semelhantes? ####
 
@@ -383,7 +383,7 @@ No caso improvável de surgir uma disputa entre você e o GitHub com relação a
 [](#changes-to-our-privacy-statement)Alterações à nossa Política de Privacidade
 ----------
 
-O GitHub pode alterar esta Política de Privacidade de tempos em tempos por vários motivos, incluindo para cumprir novas leis e regulamentos, abranger novos recursos e funcionalidades e aumentar a transparência. Forneceremos notificações sobre alterações substanciais nesta Política de Privacidade por meio do nosso Site pelo menos 30 dias antes de a alteração entrar em vigor. Isso será feito por meio da publicação de um aviso em nossa home page ou do envio de um email para o endereço principal especificado em sua conta do GitHub. Também atualizaremos nosso [Repositório de Políticas do Site](https://github.com/github/site-policy/), que rastreia todas as alterações nesta política. Para outras alterações nesta Política de Privacidade, incentivamos os Usuários a assistir ou verificar nosso repositório de Políticas do Site com frequência. Para saber como inspecionar um repositório, confira "[Configuring notifications](/pt/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)".
+O GitHub pode alterar esta Política de Privacidade de tempos em tempos por vários motivos, incluindo para cumprir novas leis e regulamentos, abranger novos recursos e funcionalidades e aumentar a transparência. Forneceremos notificações sobre alterações substanciais nesta Política de Privacidade por meio do nosso Site pelo menos 30 dias antes de a alteração entrar em vigor. Isso será feito por meio da publicação de um aviso em nossa home page ou do envio de um email para o endereço principal especificado em sua conta do GitHub. Também atualizaremos nosso [Repositório de Políticas do Site](https://github.com/github/site-policy/), que rastreia todas as alterações nesta política. Para outras alterações nesta Política de Privacidade, incentivamos os Usuários a assistir ou verificar nosso repositório de Políticas do Site com frequência. Para saber como inspecionar um repositório, confira "[Configurar notificações](/pt/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)".
 
 [](#license)Licença
 ----------
@@ -479,12 +479,12 @@ O GitHub solicita seu consentimento para coletar e processar dados confidenciais
 * Para realizar atividades a fim de verificar ou manter a qualidade ou a segurança ou aprimorar, atualizar ou aperfeiçoar um serviço ou dispositivo de propriedade ou controlado pelo GitHub e
 * Para realizar qualquer outra atividade de acordo com a lei aplicável.
 
-As tabelas acima contêm as fontes primárias, as finalidades do processamento e os destinatários para cada categoria de dados pessoais. Usamos as categorias de informações pessoais descritas acima para as finalidades listadas na seção “[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)” de nossa Política de Privacidade, como cumprir nossas obrigações legais, aprimorar nossas operações internas e conduzir pesquisas. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais ou de conformidade. Confira a seção "[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.
+As tabelas acima contêm as fontes primárias, as finalidades do processamento e os destinatários para cada categoria de dados pessoais. Usamos as categorias de informações pessoais descritas acima para as finalidades listadas na seção “[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)” de nossa Política de Privacidade, como cumprir nossas obrigações legais, aprimorar nossas operações internas e conduzir pesquisas. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais ou de conformidade. Confira a seção "[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.
 
 **Sem condições de identificar os dados**. Em algumas situações, o GitHub pode processar dados em um estado chamado NPI (ou, em português, sem condições de identificar os dados) ou os dados são descaracterizados. Esse estado ocorre quando não podemos vincular dados a um indivíduo ao qual eles podem se relacionar sem tomar medidas adicionais. Nesses casos e, a menos que permitido sob a lei aplicável, manteremos essas informações em um estado NPI e não tentaremos identificar novamente o indivíduo ao qual os dados de NPI se relacionam.
 
-**Divulgações de dados pessoais para finalidades empresariais ou comerciais**. Conforme indicado na seção Como compartilhamos as informações coletadas, compartilhamos dados pessoais com terceiros para várias finalidades empresariais e comerciais. Os dados empresariais e comerciais que compartilhamos são principalmente para os processamentos listados na tabela acima. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais. Confira a seção "[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.
+**Divulgações de dados pessoais para finalidades empresariais ou comerciais**. Conforme indicado na seção Como compartilhamos as informações coletadas, compartilhamos dados pessoais com terceiros para várias finalidades empresariais e comerciais. Os dados empresariais e comerciais que compartilhamos são principalmente para os processamentos listados na tabela acima. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais. Confira a seção "[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.
 
 **Partes que controlam a coleta de dados pessoais**. Em determinadas situações, podemos permitir que um terceiro controle a coleta dos seus dados pessoais. Por exemplo, em nossas Páginas de Marketing Corporativo, os anunciantes podem ser os controladores das informações que coletam por meio dos próprios cookies.
 
-Usamos as categorias de informações pessoais descritas acima para as finalidades listadas na seção “[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)” de nossa Política de Privacidade. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais. Confira a seção "[GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.
+Usamos as categorias de informações pessoais descritas acima para as finalidades listadas na seção “[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)” de nossa Política de Privacidade. Também divulgamos as categorias de informações pessoais listadas acima para fins comerciais. Confira a seção "[Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)" de nossa Política de Privacidade para obter detalhes adicionais.

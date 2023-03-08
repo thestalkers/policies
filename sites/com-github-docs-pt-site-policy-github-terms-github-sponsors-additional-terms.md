@@ -1,4 +1,4 @@
-GitHub Sponsors Additional Terms - GitHub Docs
+Termos Adicionais do GitHub Sponsors - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Sponsors Additional Terms](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+* [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub Sponsors Additional Terms
+Termos Adicionais do GitHub Sponsors
 ==========
 
 In this article

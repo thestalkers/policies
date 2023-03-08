@@ -1,4 +1,4 @@
-DMCA Takedown Policy - GitHub Docs
+Directiva de Retirada de la DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/
-* [DMCA Takedown Policy](/es/site-policy/content-removal-policies/dmca-takedown-policy)
+* [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
 
-DMCA Takedown Policy
+Directiva de Retirada de la DMCA
 ==========
 
 In this article
