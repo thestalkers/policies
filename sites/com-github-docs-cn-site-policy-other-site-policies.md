@@ -18,5 +18,5 @@ We publish frequent updates to our documentation, and translation of this page m
 * [GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
 * [GitHub 徽标政策](/zh/site-policy/other-site-policies/github-logo-policy)
 * [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
-* [GitHub 帐户名按先到先得的原则提供，旨在供用户立即并积极使用。](/zh/site-policy/other-site-policies/github-username-policy)
-* [您是否是一名执法官员，所开展的调查可能涉及到 GitHub 上托管的用户内容？](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [GitHub 用户名政策](/zh/site-policy/other-site-policies/github-username-policy)
+* [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)

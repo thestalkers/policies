@@ -1,4 +1,4 @@
-GitHub Terms for Additional Products and Features - GitHub Docs
+Termos do GitHub para Produtos e Recursos Adicionais - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
-* [GitHub Terms for Additional Products and Features](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [Termos do GitHub para Produtos e Recursos Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-GitHub Terms for Additional Products and Features
+Termos do GitHub para Produtos e Recursos Adicionais
 ==========
 
 In this article

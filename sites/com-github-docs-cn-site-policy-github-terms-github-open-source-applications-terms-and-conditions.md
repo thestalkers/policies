@@ -1,4 +1,4 @@
-GitHub Open Source Applications Terms and Conditions - GitHub Docs
+GitHub 开源应用程序条款和条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub Open Source Applications Terms and Conditions](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub Open Source Applications Terms and Conditions
+GitHub 开源应用程序条款和条件
 ==========
 
 In this article

@@ -14,5 +14,5 @@ We publish frequent updates to our documentation, and translation of this page m
 Políticas de Segurança
 ==========
 
-* [Queremos manter o GitHub seguro para todos.](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Divulgação Coordenada de Vulnerabilidades de Segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 * [Resumo](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

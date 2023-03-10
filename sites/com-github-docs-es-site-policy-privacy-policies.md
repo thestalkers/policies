@@ -15,7 +15,7 @@ Directivas de Privacidad
 ==========
 
 * [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
-* [Fecha de entrada en vigor: 1 de septiembre de 2022](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [Subencargados y Cookies de GitHub](/es/site-policy/privacy-policies/github-subprocessors-and-cookies)
 * [Declaración de Privacidad de GitHub Codespaces](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [Directiva de Privacidad de Candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 * [Declaración de privacidad de GitHub Copilot for Business](/es/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)

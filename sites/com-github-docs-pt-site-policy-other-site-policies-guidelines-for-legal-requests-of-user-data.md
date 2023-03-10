@@ -1,4 +1,4 @@
-Guidelines for Legal Requests of User Data - GitHub Docs
+Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
-* [Guidelines for Legal Requests of User Data](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
-Guidelines for Legal Requests of User Data
+Diretrizes para Solicitações Legais de Dados do Usuário
 ==========
 
 In this article

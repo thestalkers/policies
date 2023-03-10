@@ -19,4 +19,4 @@ Otras Directivas del Sitio
 * [Directiva de logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
 * [Directiva de eliminación por parte del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 * [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
-* [¿Es un agente de la ley que está realizando una investigación para la que podría necesitar contenido de usuario alojado en GitHub?](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [Directrices para las Solicitudes Legales de Datos de Usuarios](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)

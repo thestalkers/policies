@@ -16,9 +16,9 @@ Directivas de Uso Aceptable
 
 * [Directivas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 * [Malware Activo o Vulnerabilidades de GitHub](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
-* [No toleramos el acoso, la intimidación ni el abuso de ningún tipo, ya se practique directamente o animando a otros a participar en la conducta prohibida.](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Intimidación y Acoso en GitHub](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 * [Alteración de la experiencia de otros usuarios de GitHub](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
-* [No publique información personal de otras personas.](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [Divulgación de información personal («doxxing») e invasión de la privacidad en GitHub](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 * [Discurso de odio y discriminación en GitHub](/es/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 * [Suplantación en GitHub](/es/site-policy/acceptable-use-policies/github-impersonation)
 * [Información Errónea y Desinformación en GitHub](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)

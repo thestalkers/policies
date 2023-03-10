@@ -112,7 +112,7 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 * **发现问题请举报。** 版主拥有特殊权限；他们对本 GitHub 社区负责。 但这也是你们的责任。 在您的帮助下，版主可以成为社区的推动者，而不仅仅是“门卫”或“警察”。
 
-  发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[关于举报滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
+  发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[举报滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
 
 ### [](#our-responsibilities)我们的职责 ###
 

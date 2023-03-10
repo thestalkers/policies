@@ -1,4 +1,4 @@
-生效日期：2021 年 3 月 8 日 - GitHub Docs
+GitHub 求职者隐私政策 - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,25 +10,27 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [站点政策](/zh/site-policy)/
 * [隐私政策](/zh/site-policy/privacy-policies)/
-* [生效日期：2021 年 3 月 8 日](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-生效日期：2021 年 3 月 8 日
+GitHub 求职者隐私政策
 ==========
 
 In this article
 ----------
 
-* [我们收集、使用和维护（或“处理”）的求职者个人信息包括但不限于以下内容：](#what-candidate-personal-information-do-we-collect)
+* [我们收集哪些求职者个人信息？](#what-candidate-personal-information-do-we-collect)
 
-* [我们将求职者个人信息用于以下目的：](#how-do-we-use-the-candidate-personal-information-we-collect)
+* [我们如何使用我们收集的求职者个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
 
-* [GitHub 将与具有合法业务需求的人分享您的求职者个人信息。](#how-do-we-share-your-candidate-personal-information)
+* [我们如何分享您的求职者个人信息？](#how-do-we-share-your-candidate-personal-information)
 
-* [在某些地方，根据适用的当地隐私法（例如欧洲的《一般数据保护条例》），求职者可能拥有某些权利。](#your-rights-to-your-candidate-personal-information)
+* [您对求职者个人信息具备的权利](#your-rights-to-your-candidate-personal-information)
 
-* [为了履行我们的法律义务，求职者个人信息将在您申请后存储一年。](#how-long-do-we-retain-your-candidate-personal-information)
+* [我们会将您的求职者个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
 
-* [我们可能会在某些情况下更新 GitHub 求职者隐私政策。](#changes-to-this-policy)
+* [本政策的更改](#changes-to-this-policy)
+
+生效日期：2021 年 3 月 8 日
 
 本“GitHub 求职者隐私政策”说明了我们在 GitHub 求职申请或招聘过程中会收集关于您的哪些信息，以及我们收集和使用该信息的目的。
 
@@ -40,10 +42,10 @@ In this article
 
 本政策不适用于 GitHub 服务的使用，[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)涵盖了这些服务的使用。
 
-我们收集哪些求职者个人信息？
-
-[](#what-candidate-personal-information-do-we-collect)我们收集、使用和维护（或“处理”）的求职者个人信息包括但不限于以下内容：
+[](#what-candidate-personal-information-do-we-collect)我们收集哪些求职者个人信息？
 ----------
+
+我们收集、使用和维护（或“处理”）的求职者个人信息包括但不限于以下内容：
 
 **身份识别和联系信息**，包括您的姓名、电子邮件地址、电话号码、位置、GitHub 个人资料以及您提供的任何其他信息（例如，推荐材料和证明文件）。
 
@@ -55,13 +57,12 @@ In this article
 
 **敏感信息或人口统计信息**，例如您的性别、医疗或健康信息、退伍军人身份或您的种族或民族起源。
 
-我们如何使用我们收集的求职者个人信息？
-
-[](#how-do-we-use-the-candidate-personal-information-we-collect)我们将求职者个人信息用于以下目的：
+[](#how-do-we-use-the-candidate-personal-information-we-collect)我们如何使用我们收集的求职者个人信息？
 ----------
 
-评估您的技能、任职资格和兴趣，看看您是否与 GitHub 提供的就业机会匹配；
+我们将求职者个人信息用于以下目的：
 
+* 评估您的技能、任职资格和兴趣，看看您是否与 GitHub 提供的就业机会匹配；
 * 验证您或其他人提供的信息，包括检查您的证明文件；
 * 就您的申请和招聘过程与您进行沟通，包括向您通报 GitHub 的其他潜在就业机会；
 * 如果您受人推荐，则用于向推荐人告知您的申请状态；
@@ -70,37 +71,36 @@ In this article
 * 为了遵守当地法律、法规、法律程序或可强制执行的政府要求；以及
 * 根据当地法律和法规的要求编制和提交报告；
 * 管理和改进我们的申请和招聘流程（例如提高申请流程的效率和改进我们的多元化实践）。
-* 我们如何分享您的求职者个人信息？
 
-[](#how-do-we-share-your-candidate-personal-information)GitHub 将与具有合法业务需求的人分享您的求职者个人信息。
+[](#how-do-we-share-your-candidate-personal-information)我们如何分享您的求职者个人信息？
 ----------
 
-当我们允许第三方访问您的求职者个人信息时，我们将确保以符合本政策的方式使用该信息。 出于以下目的，我们可能会与我们的关联公司（例如微软）及其他第三方（例如供应商）分享您的求职者个人信息： 为了使用上述求职者个人信息；
+GitHub 将与具有合法业务需求的人分享您的求职者个人信息。 当我们允许第三方访问您的求职者个人信息时，我们将确保以符合本政策的方式使用该信息。 出于以下目的，我们可能会与我们的关联公司（例如微软）及其他第三方（例如供应商）分享您的求职者个人信息：
 
-1. 为了使第三方能够向我们提供或代表我们提供产品或服务（例如为申请过程提供便利或进行背景调查）。
-2. 为了遵守我们的法律义务、条例或合同，或对法庭判令、行政或司法程序（例如传票、政府审计或搜查令）作出回应，或应公共当局（例如国家安全部门或执法机构）的合法要求；
-3. 出于确立、行使或抗辩可能的诉讼或未决诉讼的需要；
-4. 必要时保护 GitHub、您的切身利益（例如安全和安保）或他人的利益；或
-5. 征得您的同意（例如，联系您的介绍人）。
-6. 在向 GitHub 提供介绍人的个人信息之前，您有责任征得其同意。 您对求职者个人信息具备的权利
+1. 为了使用上述求职者个人信息；
+2. 为了使第三方能够向我们提供或代表我们提供产品或服务（例如为申请过程提供便利或进行背景调查）。
+3. 为了遵守我们的法律义务、条例或合同，或对法庭判令、行政或司法程序（例如传票、政府审计或搜查令）作出回应，或应公共当局（例如国家安全部门或执法机构）的合法要求；
+4. 出于确立、行使或抗辩可能的诉讼或未决诉讼的需要；
+5. 必要时保护 GitHub、您的切身利益（例如安全和安保）或他人的利益；或
+6. 征得您的同意（例如，联系您的介绍人）。 在向 GitHub 提供介绍人的个人信息之前，您有责任征得其同意。
 
-[](#your-rights-to-your-candidate-personal-information)在某些地方，根据适用的当地隐私法（例如欧洲的《一般数据保护条例》），求职者可能拥有某些权利。
+[](#your-rights-to-your-candidate-personal-information)您对求职者个人信息具备的权利
 ----------
 
-但是，我们会为世界各地的所有求职者提供同样高标准的隐私保护，无论他们位于何处。 这包括请求访问或更正您的信息、请求删除您的信息或者反对或限制 GitHub 将其用于某些用途的权利。
+在某些地方，根据适用的当地隐私法（例如欧洲的《一般数据保护条例》），求职者可能拥有某些权利。 但是，我们会为世界各地的所有求职者提供同样高标准的隐私保护，无论他们位于何处。
 
-如有这些需求，您可以联系 [privacy@github.com](mailto:privacy@github.com) 以提出请求。
+这包括请求访问或更正您的信息、请求删除您的信息或者反对或限制 GitHub 将其用于某些用途的权利。
 
-我们将根据适用的数据保护法响应所有请求。 我们会将您的求职者个人信息保留多长时间？
+如有这些需求，您可以联系 [privacy@github.com](mailto:privacy@github.com) 以提出请求。 我们将根据适用的数据保护法响应所有请求。
 
-[](#how-long-do-we-retain-your-candidate-personal-information)为了履行我们的法律义务，求职者个人信息将在您申请后存储一年。
+[](#how-long-do-we-retain-your-candidate-personal-information)我们会将您的求职者个人信息保留多长时间？
 ----------
 
-在此之后，我们将与您联系，并请您同意继续保留您的个人信息，以便在 GitHub 有任何未来工作机会时我们可以考虑您。 如果您已受雇于 GitHub 的某个职位，我们将保留在申请和招聘过程中提供的信息，将其作为您员工记录的一部分。
+为了履行我们的法律义务，求职者个人信息将在您申请后存储一年。 在此之后，我们将与您联系，并请您同意继续保留您的个人信息，以便在 GitHub 有任何未来工作机会时我们可以考虑您。
 
-本政策的更改
+如果您已受雇于 GitHub 的某个职位，我们将保留在申请和招聘过程中提供的信息，将其作为您员工记录的一部分。
 
-[](#changes-to-this-policy)我们可能会在某些情况下更新 GitHub 求职者隐私政策。
+[](#changes-to-this-policy)本政策的更改
 ----------
 
-当我们对此页面作出更改时，将会更新“最后更新”日期。 When we do make changes to this page, we will update the "last updated" date.
+我们可能会在某些情况下更新 GitHub 求职者隐私政策。 当我们对此页面作出更改时，将会更新“最后更新”日期。

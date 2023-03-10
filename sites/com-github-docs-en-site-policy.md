@@ -1,4 +1,4 @@
-Site policy - GitHub Docs
+Site policy documentation - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -8,7 +8,7 @@ Site policy - GitHub Docs
 
 * [Site policy](/en/site-policy)
 
-Site policy
+Site policy documentation
 ==========
 
 * [GitHub Terms](/en/site-policy/github-terms)

@@ -1,4 +1,4 @@
-GitHub Subprocessors and Cookies - GitHub Docs
+Subprocessadores e cookies do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,9 +10,9 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
-* [GitHub Subprocessors and Cookies](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [Subprocessadores e cookies do GitHub](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-GitHub Subprocessors and Cookies
+Subprocessadores e cookies do GitHub
 ==========
 
 In this article
