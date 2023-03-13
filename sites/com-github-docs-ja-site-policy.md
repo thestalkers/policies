@@ -1,4 +1,4 @@
-サイト ポリシー - GitHub Docs
+サイト ポリシーのドキュメント - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,7 +10,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [サイト ポリシー](/ja/site-policy)
 
-サイト ポリシー
+サイト ポリシーのドキュメント
 ==========
 
 * [GitHub 条件](/ja/site-policy/github-terms)
