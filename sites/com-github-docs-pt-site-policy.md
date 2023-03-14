@@ -1,4 +1,4 @@
-Política do Site - GitHub Docs
+Documentação da Política do Site - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,7 +10,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Política do Site](/pt/site-policy)
 
-Política do Site
+Documentação da Política do Site
 ==========
 
 * [Termos do GitHub](/pt/site-policy/github-terms)
