@@ -1,4 +1,4 @@
-Directiva del Sitio - GitHub Docs
+Documentación de la directiva del sitio - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -10,7 +10,7 @@ We publish frequent updates to our documentation, and translation of this page m
 
 * [Directiva del Sitio](/es/site-policy)
 
-Directiva del Sitio
+Documentación de la directiva del sitio
 ==========
 
 * [Términos de GitHub](/es/site-policy/github-terms)
