@@ -34,9 +34,9 @@ In this article
 
 * [要求の提出](#submitting-requests)
 
-* [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
+* [外国の法執行機関からの要求](#california-assembly-bill-1242-notice)
 
-* [お問い合わせ](#questions)
+* [お問い合わせ](#requests-from-foreign-law-enforcement)
 
 あなたは、GitHub でホストされているユーザー コンテンツに関連する可能性がある調査を実施する法執行機関の担当者ですか。
 そうでなければ、当社が法執行機関と共有する情報と、それを共有する状況を知りたいと思っているプライバシー意識の高い方でしょう。
@@ -270,14 +270,14 @@ Sacramento, CA 95833-3505
 
 当社がお客様の要求を調査するのに、2 週間以上かかることをご了承ください。
 
-[](#requests-from-foreign-law-enforcement)外国の法執行機関からの要求
+[](#california-assembly-bill-1242-notice)外国の法執行機関からの要求
 ----------
 
 GitHub は、カリフォルニア州に本拠地を置く米国企業として、外国の当局が発行した司法手続きに対応して、外国政府にデータを提供する義務はありません。
 GitHub に情報の要求を希望する外国の法執行機関の担当者は、米国司法省刑事部門の国際業務課に連絡してください。
 GitHub は、刑事共助条約 (「MLAT」) または嘱託書を通じて米国の裁判所から発行された要求に直ちに対応します。
 
-[](#questions)お問い合わせ
+[](#requests-from-foreign-law-enforcement)お問い合わせ
 ----------
 
 その他の質問、意見、提案がある場合 [GitHub Support](https://support.github.com/contact?tags=docs-generic) にお問い合わせください。

@@ -34,9 +34,9 @@ In this article
 
 * [Enviando solicitações](#submitting-requests)
 
-* [Solicitações de autoridades estrangeiras](#requests-from-foreign-law-enforcement)
+* [Solicitações de autoridades estrangeiras](#california-assembly-bill-1242-notice)
 
-* [Dúvidas](#questions)
+* [Dúvidas](#requests-from-foreign-law-enforcement)
 
 Você é um agente da lei realizando uma investigação que pode envolver conteúdo de usuário hospedado no GitHub?
 Ou talvez você seja uma pessoa preocupada com a privacidade que gostaria de saber quais informações compartilhamos com as autoridades e em quais circunstâncias.
@@ -270,14 +270,14 @@ Torne suas solicitações o mais específicas e restritas possível, incluindo a
 
 Aguarde pelo menos duas semanas para que possamos investigar sua solicitação.
 
-[](#requests-from-foreign-law-enforcement)Solicitações de autoridades estrangeiras
+[](#california-assembly-bill-1242-notice)Solicitações de autoridades estrangeiras
 ----------
 
 Como empresa dos Estados Unidos com sede na Califórnia, o GitHub não é obrigado a fornecer dados a governos estrangeiros em resposta a processos legais emitidos por autoridades estrangeiras.
 Autoridades policiais estrangeiras que desejam solicitar informações do GitHub devem entrar em contato com o Escritório de Assuntos Internacionais da Divisão Criminal do Departamento de Justiça dos Estados Unidos.
 O GitHub responderá imediatamente às solicitações emitidas por meio de um tribunal dos EUA por meio de um tratado de assistência jurídica mútua (“MLAT”) ou carta rogatória.
 
-[](#questions)Dúvidas
+[](#requests-from-foreign-law-enforcement)Dúvidas
 ----------
 
 Você tem outras dúvidas, comentários ou sugestões? Entre em contato pelo [Suporte do GitHub](https://support.github.com/contact?tags=docs-generic).

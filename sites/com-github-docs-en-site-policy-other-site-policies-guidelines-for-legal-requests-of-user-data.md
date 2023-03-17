@@ -286,6 +286,10 @@ Please make your requests as specific and narrow as possible, including the foll
 
 Please allow at least two weeks for us to be able to look into your request.
 
+### [](#california-assembly-bill-1242-notice)California Assembly Bill 1242 Notice ###
+
+By submitting legal process to GitHub, you attest that the legal process does not relate to the violation of any law that creates liability for abortion-related conduct that is lawful in California.
+
 [](#requests-from-foreign-law-enforcement)Requests from foreign law enforcement
 ----------
 

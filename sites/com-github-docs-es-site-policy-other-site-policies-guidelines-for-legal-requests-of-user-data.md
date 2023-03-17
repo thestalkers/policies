@@ -34,9 +34,9 @@ In this article
 
 * [Envío de solicitudes](#submitting-requests)
 
-* [Solicitudes de fuerzas del orden extranjeras](#requests-from-foreign-law-enforcement)
+* [Solicitudes de fuerzas del orden extranjeras](#california-assembly-bill-1242-notice)
 
-* [Preguntas](#questions)
+* [Preguntas](#requests-from-foreign-law-enforcement)
 
 ¿Es un agente de la ley que está realizando una investigación para la que podría necesitar contenido de usuario alojado en GitHub?
 ¿O tal vez es una persona a la que le preocupa la privacidad y le gustaría saber qué información compartimos con las fuerzas del orden y en qué circunstancias?
@@ -270,14 +270,14 @@ Procure que sus solicitudes sean lo más específicas y concretas posible, y que
 
 Espere al menos dos semanas a que podamos examinar su solicitud.
 
-[](#requests-from-foreign-law-enforcement)Solicitudes de fuerzas del orden extranjeras
+[](#california-assembly-bill-1242-notice)Solicitudes de fuerzas del orden extranjeras
 ----------
 
 Como empresa de Estados Unidos con sede en California, GitHub no está obligada a proporcionar datos a gobiernos extranjeros en respuesta a procedimientos legales iniciados por autoridades extranjeras.
 Los agentes de las fuerzas del orden extranjeros que deseen solicitar información de GitHub deben comunicarse con la Oficina de Asuntos Internacionales de la División Penal del Departamento de Justicia de los Estados Unidos.
 GitHub responderá de inmediato a las solicitudes que se emitan a través de un tribunal de los EE. UU. por medio de un tratado de asistencia legal mutua («MLAT») o carta rogatoria.
 
-[](#questions)Preguntas
+[](#requests-from-foreign-law-enforcement)Preguntas
 ----------
 
 ¿Tiene otras preguntas, comentarios o sugerencias? Póngase en contacto con [Soporte técnico de GitHub](https://support.github.com/contact?tags=docs-generic).
