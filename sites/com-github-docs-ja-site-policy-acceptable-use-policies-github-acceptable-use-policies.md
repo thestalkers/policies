@@ -140,7 +140,7 @@ GitHub においては、次のようなコンテンツまたはアクティビ�
 [](#9-excessive-bandwidth-use)9.過剰な帯域の使用
 ----------
 
-本サービスの帯域制限は、利用する機能によって異なります。 帯域の利用が、同等の機能の他のユーザーと比較して過剰であると当社が判断した場合、帯域の消費を抑えられるまで、当社はお客様の「アカウント」を停止するか、ファイルのホスティングを抑制するなどをしてアクティビティを制限する権利を留保します。 また当社は、当社のインフラストラクチャに過度の負荷をかけていると判断するリポジトリを、事前通知を行った後に削除する権利を留保します。 リポジトリのオブジェクト ストレージの許可される利用に関するガイダンスについては、「[About large files on GitHub](/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github)」を参照してください。 特定機能の帯域制限に関する詳しい情報については、[GitHub の追加の製品使用条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)を参照してください。
+本サービスの帯域制限は、利用する機能によって異なります。 帯域の利用が、同等の機能の他のユーザーと比較して過剰であると当社が判断した場合、帯域の消費を抑えられるまで、当社はお客様の「アカウント」を停止するか、ファイルのホスティングを抑制するなどをしてアクティビティを制限する権利を留保します。 また当社は、当社のインフラストラクチャに過度の負荷をかけていると判断するリポジトリを、事前通知を行った後に削除する権利を留保します。 リポジトリのオブジェクト ストレージの許可される利用に関するガイダンスについては、「[GitHub での大きいファイルについて](/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github)」を参照してください。 特定機能の帯域制限に関する詳しい情報については、[GitHub の追加の製品使用条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)を参照してください。
 
 [](#10-advertising-on-github)10. GitHub での広告
 ----------
