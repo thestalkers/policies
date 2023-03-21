@@ -2,7 +2,7 @@ GitHub と貿易管理 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 [All products](/ja)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub と貿易管理
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [輸出の概要](#export-overview)
@@ -43,7 +43,7 @@ GitHub は、イランに拠点を置くか居住する開発者にクラウド 
 
 GitHub クラウド サービスも、有料と無料の両方で、キューバを居住地とする開発者に一般に提供されています。
 
-特別指定国民 (SDN)、米国およびその他の適用される法律に基づく取引禁止者または資格停止者、特定の政府関係者は、GitHub.com のアクセスまたは使用を制限される場合があります。 また、ユーザーは、一般に制裁対象国の政府を含む、当該関係者のために GitHub.com を使用することはできません。 さらに、GitHub.com は、[17 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5) に記載される禁止された最終用途を含む、適用される輸出管理法で禁止された目的に使用することはできません。
+特別指定国民 (SDN)、米国およびその他の適用される法律に基づく取引禁止者または資格停止者、特定の政府関係者は、GitHub.com のアクセスまたは使用を制限される場合があります。 また、ユーザーは、一般に制裁対象国の政府を含む、当該関係者のために GitHub.com を使用することはできません。 さらに、GitHub.com は、[15 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5) に記載される禁止された最終用途を含む、適用される輸出管理法で禁止された目的に使用することはできません。
 
 ### [](#github-enterprise-server)GitHub Enterprise Server ###
 

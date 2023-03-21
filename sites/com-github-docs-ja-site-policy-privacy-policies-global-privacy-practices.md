@@ -2,7 +2,7 @@ GitHub のプライバシーに関する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 [All products](/ja)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub のプライバシーに関する声明
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [要約](#the-short-version)
@@ -383,7 +383,7 @@ CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
 [](#changes-to-our-privacy-statement)プライバシーに関する声明の変更
 ----------
 
-GitHub は、新しい法律や規制への準拠、新機能の説明、透明性の向上など、さまざまな理由で本プライバシーに関する声明を随時変更する場合があります。 本プライバシーに関する声明の重大な変更については、変更が有効になる 30 日前までに、当社ホーム ページ上に通知を掲載するか、お客様の GitHub アカウントで指定されたプライマリ電子メール アドレスに電子メールを送信することにより、通知します。 当社は、本ポリシーへのあらゆる変更を追跡する、[サイト ポリシー リポジトリ](https://github.com/github/site-policy/)も更新します。 本プライバシーに関する声明のその他の変更については、サイト ポリシー リポジトリを参照するか、頻繁に確認することをお勧めします。 レジストリを Watch する方法については、「[Configuring notifications](/ja/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)」を参照してください。
+GitHub は、新しい法律や規制への準拠、新機能の説明、透明性の向上など、さまざまな理由で本プライバシーに関する声明を随時変更する場合があります。 本プライバシーに関する声明の重大な変更については、変更が有効になる 30 日前までに、当社ホーム ページ上に通知を掲載するか、お客様の GitHub アカウントで指定されたプライマリ電子メール アドレスに電子メールを送信することにより、通知します。 当社は、本ポリシーへのあらゆる変更を追跡する、[サイト ポリシー リポジトリ](https://github.com/github/site-policy/)も更新します。 本プライバシーに関する声明のその他の変更については、サイト ポリシー リポジトリを参照するか、頻繁に確認することをお勧めします。 レジストリを Watch する方法については、「[通知を設定する](/ja/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)」を参照してください。
 
 [](#license)ライセンス
 ----------

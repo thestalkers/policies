@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 [All products](/ja)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [本ガイドラインの概要](#about-these-guidelines)
@@ -34,9 +34,9 @@ In this article
 
 * [要求の提出](#submitting-requests)
 
-* [外国の法執行機関からの要求](#california-assembly-bill-1242-notice)
+* [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
 
-* [お問い合わせ](#requests-from-foreign-law-enforcement)
+* [お問い合わせ](#questions)
 
 あなたは、GitHub でホストされているユーザー コンテンツに関連する可能性がある調査を実施する法執行機関の担当者ですか。
 そうでなければ、当社が法執行機関と共有する情報と、それを共有する状況を知りたいと思っているプライバシー意識の高い方でしょう。
@@ -270,14 +270,18 @@ Sacramento, CA 95833-3505
 
 当社がお客様の要求を調査するのに、2 週間以上かかることをご了承ください。
 
-[](#california-assembly-bill-1242-notice)外国の法執行機関からの要求
+### [](#california-assembly-bill-1242-notice)カリフォルニア州議会ビル 1242 に関する通知 ###
+
+法的手続きを GitHub に提出することで、法的手続きが、カリフォルニア州で合法的な中絶関連の行為に対する責任を生み出す法律違反に関係しないことを証明します。
+
+[](#requests-from-foreign-law-enforcement)外国の法執行機関からの要求
 ----------
 
 GitHub は、カリフォルニア州に本拠地を置く米国企業として、外国の当局が発行した司法手続きに対応して、外国政府にデータを提供する義務はありません。
 GitHub に情報の要求を希望する外国の法執行機関の担当者は、米国司法省刑事部門の国際業務課に連絡してください。
 GitHub は、刑事共助条約 (「MLAT」) または嘱託書を通じて米国の裁判所から発行された要求に直ちに対応します。
 
-[](#requests-from-foreign-law-enforcement)お問い合わせ
+[](#questions)お問い合わせ
 ----------
 
 その他の質問、意見、提案がある場合 [GitHub Support](https://support.github.com/contact?tags=docs-generic) にお問い合わせください。

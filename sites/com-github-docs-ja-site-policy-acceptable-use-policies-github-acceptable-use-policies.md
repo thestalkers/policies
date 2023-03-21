@@ -2,7 +2,7 @@ GitHub 利用規約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
 
 [All products](/ja)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub 利用規約
 ==========
 
-In this article
+この記事の内容
 ----------
 
 * [1.法規制の遵守](#1-compliance-with-laws-and-regulations)

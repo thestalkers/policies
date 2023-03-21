@@ -43,7 +43,7 @@ GitHub 现在获得了 OFAC 的许可，可以为位于或居住在伊朗的开�
 
 GitHub 云服务（包括付费和免费）也向古巴的开发人员普遍开放。
 
-特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub.com。 此外，用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。 而且，GitHub.com 不得用于适用的出口管制法律所禁止的目的，包括 [17 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5) 中所述的被禁止最终用途。
+特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub.com。 此外，用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。 此外，GitHub.com 不得用于适用出口管制法禁止的目的，包括[《美国联邦法规》第 15 编第 744 部分](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5)中禁止的最终用途。
 
 ### [](#github-enterprise-server)GitHub Enterprise Server ###
 

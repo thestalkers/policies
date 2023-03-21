@@ -34,9 +34,9 @@
 
 * [提交请求](#submitting-requests)
 
-* [外国执法部门的请求](#california-assembly-bill-1242-notice)
+* [外国执法部门的请求](#requests-from-foreign-law-enforcement)
 
-* [问题](#requests-from-foreign-law-enforcement)
+* [问题](#questions)
 
 您是否是一名执法官员，所开展的调查可能涉及到 GitHub 上托管的用户内容？
 或者您是一位非常注重隐私的人士，希望了解我们在哪些情况下与执法机构分享哪些信息。
@@ -270,14 +270,18 @@ Sacramento, CA 95833-3505
 
 请给我们至少两周时间审查您的请求。
 
-[](#california-assembly-bill-1242-notice)外国执法部门的请求
+### [](#california-assembly-bill-1242-notice)加州众议会 1242 号法案通告 ###
+
+通过向 GitHub 提交法律程序，您证明该法律程序不涉及违反任何造成对在加州合法的堕胎相关行为负责的法律。
+
+[](#requests-from-foreign-law-enforcement)外国执法部门的请求
 ----------
 
 作为一家设在加利福尼亚的美国公司，GitHub 无需根据外国机构签发的法律程序向外国政府提供数据。
 希望向 GitHub 索取信息的外国执法官员应与美国司法部刑事司国际事务办公室联系。
 GitHub 将迅速答复美国法院通过司法互助条约（“MLAT）或委托调查书发出的请求。
 
-[](#requests-from-foreign-law-enforcement)问题
+[](#questions)问题
 ----------
 
 您是否有其他问题、评论或建议？ 请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-generic)。
