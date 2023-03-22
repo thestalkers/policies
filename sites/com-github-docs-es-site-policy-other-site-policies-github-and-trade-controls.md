@@ -1,8 +1,8 @@
-GitHub y los Controles Comerciales - GitHub Docs
+GitHub y los Controles Comerciales - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 [All products](/es)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub y los Controles Comerciales
 ==========
 
-In this article
+En este artículo
 ----------
 
 * [Resumen sobre la exportación](#export-overview)
@@ -43,7 +43,7 @@ En la actualidad, GitHub cuenta con una licencia de la OFAC para prestar servici
 
 Los servicios en la nube de GitHub, tanto gratuitos como de pago, también están disponibles de forma generalizada para los desarrolladores ubicados en Cuba.
 
-Es posible que se restrinja el acceso a GitHub.com o su uso a los Nacionales Especialmente Designados (SDN), a otras partes denegadas o sometidas a bloqueos en virtud de la legislación estadounidense y de otras leyes aplicables, así como a determinados funcionarios públicos. Además, los usuarios no pueden usar GitHub.com para o en nombre de dichas partes, lo que incluye, en general, las Administraciones Públicas de los países sancionados. Además, GitHub.com no se puede utilizar para fines prohibidos por las leyes de control de exportaciones aplicables, lo que incluye los usos finales prohibidos descritos en [17 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5).
+Es posible que se restrinja el acceso a GitHub.com o su uso a los Nacionales Especialmente Designados (SDN), a otras partes denegadas o sometidas a bloqueos en virtud de la legislación estadounidense y de otras leyes aplicables, así como a determinados funcionarios públicos. Además, los usuarios no pueden usar GitHub.com para o en nombre de dichas partes, lo que incluye, en general, las Administraciones Públicas de los países sancionados. Además, GitHub.com no se puede utilizar para fines prohibidos por las leyes de control de exportaciones aplicables, incluidos los usos finales prohibidos descritos en [15 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5).
 
 ### [](#github-enterprise-server)GitHub Enterprise Server ###
 

@@ -2,7 +2,7 @@ Bem-vindo ao Marketplace do GitHub (“Marketplace”)! - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 [All products](/pt)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Bem-vindo ao Marketplace do GitHub (“Marketplace”)!
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Termos de Serviço do GitHub.com O Marketplace é fornecido pelo GitHub e é regido pelos Termos de Serviço ou pelos Termos de Serviços Corporativos (“Termos do GitHub”), dependendo do tipo de conta em que você está, bem como destes Termos do Marketplace.](#a-githubcoms-terms-of-service)

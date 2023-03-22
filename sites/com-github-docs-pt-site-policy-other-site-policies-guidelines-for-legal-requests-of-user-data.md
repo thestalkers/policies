@@ -2,7 +2,7 @@ Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 [All products](/pt)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Diretrizes para Solicitações Legais de Dados do Usuário
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Sobre estas diretrizes](#about-these-guidelines)
@@ -34,9 +34,9 @@ In this article
 
 * [Enviando solicitações](#submitting-requests)
 
-* [Solicitações de autoridades estrangeiras](#california-assembly-bill-1242-notice)
+* [Solicitações de autoridades estrangeiras](#requests-from-foreign-law-enforcement)
 
-* [Dúvidas](#requests-from-foreign-law-enforcement)
+* [Dúvidas](#questions)
 
 Você é um agente da lei realizando uma investigação que pode envolver conteúdo de usuário hospedado no GitHub?
 Ou talvez você seja uma pessoa preocupada com a privacidade que gostaria de saber quais informações compartilhamos com as autoridades e em quais circunstâncias.
@@ -270,14 +270,18 @@ Torne suas solicitações o mais específicas e restritas possível, incluindo a
 
 Aguarde pelo menos duas semanas para que possamos investigar sua solicitação.
 
-[](#california-assembly-bill-1242-notice)Solicitações de autoridades estrangeiras
+### [](#california-assembly-bill-1242-notice)Aviso relacionado ao projeto de lei 1242 da Califórnia ###
+
+Ao enviar um processo legal ao GitHub, você atesta que o processo legal não está associado à violação de qualquer lei que crie responsabilidade por conduta relacionada ao aborto legal na Califórnia.
+
+[](#requests-from-foreign-law-enforcement)Solicitações de autoridades estrangeiras
 ----------
 
 Como empresa dos Estados Unidos com sede na Califórnia, o GitHub não é obrigado a fornecer dados a governos estrangeiros em resposta a processos legais emitidos por autoridades estrangeiras.
 Autoridades policiais estrangeiras que desejam solicitar informações do GitHub devem entrar em contato com o Escritório de Assuntos Internacionais da Divisão Criminal do Departamento de Justiça dos Estados Unidos.
 O GitHub responderá imediatamente às solicitações emitidas por meio de um tribunal dos EUA por meio de um tratado de assistência jurídica mútua (“MLAT”) ou carta rogatória.
 
-[](#requests-from-foreign-law-enforcement)Dúvidas
+[](#questions)Dúvidas
 ----------
 
 Você tem outras dúvidas, comentários ou sugestões? Entre em contato pelo [Suporte do GitHub](https://support.github.com/contact?tags=docs-generic).

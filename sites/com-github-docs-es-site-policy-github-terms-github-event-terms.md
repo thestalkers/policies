@@ -1,8 +1,8 @@
-Términos del Evento de GitHub - GitHub Docs
+Términos del Evento de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 [All products](/es)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Términos del Evento de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
 * [1. Requisitos básicos para asistir, incluido el Código de Conducta del Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)

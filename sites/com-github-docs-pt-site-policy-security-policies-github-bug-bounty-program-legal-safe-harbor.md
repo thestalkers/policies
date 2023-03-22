@@ -2,7 +2,7 @@ Resumo - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 [All products](/pt)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Resumo
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Queremos que você coordene a divulgação por meio do nosso programa de recompensas por bugs e não queremos que os pesquisadores criem consequências legais devido às suas tentativas de boa-fé de cumprir nossa política de recompensas por bugs.](#summary)

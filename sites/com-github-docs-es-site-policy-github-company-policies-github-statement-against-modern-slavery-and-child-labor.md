@@ -1,8 +1,8 @@
-Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil - GitHub Docs
+Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
 
 [All products](/es)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 Declaración de GitHub contra la Esclavitud Moderna y el Trabajo Infantil
 ==========
 
-In this article
+En este artículo
 ----------
 
 * [Estructura, negocio y cadenas de suministro de GitHub](#githubs-structure-business-and-supply-chains)

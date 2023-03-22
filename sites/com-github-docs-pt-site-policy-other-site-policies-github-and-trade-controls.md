@@ -2,7 +2,7 @@ GitHub e Controle de Comércio - GitHub Docs
 
 [Skip to main content](#main-content)
 
-We publish frequent updates to our documentation, and translation of this page may still be in progress. For the most current information, please visit the [English documentation](/en).
+Publicamos atualizações frequentes em nossa documentação, e a tradução desta página ainda pode estar em andamento. Para obter as informações mais atualizadas, acesse a [documentação em inglês](/en).
 
 [All products](/pt)
 
@@ -15,7 +15,7 @@ We publish frequent updates to our documentation, and translation of this page m
 GitHub e Controle de Comércio
 ==========
 
-In this article
+Neste artigo
 ----------
 
 * [Visão geral da exportação](#export-overview)
@@ -43,7 +43,7 @@ O GitHub agora tem uma licença da OFAC para fornecer serviços em nuvem para de
 
 Os serviços de nuvem do GitHub, gratuitos e pagos, geralmente também estão disponíveis para desenvolvedores localizados em Cuba.
 
-Cidadãos Especialmente Designados (SDNs), outras partes negadas ou bloqueadas de acordo com as leis dos EUA e outras leis aplicáveis e determinados funcionários do governo podem ser impedidos de acessar ou usar o GitHub.com. Além disso, os usuários talvez não possam usar o GitHub.com para ou em nome de tais partes, geralmente incluindo os Governos dos países sancionados. Ademais, o GitHub.com não pode ser usado para fins proibidos pelas leis de controle de exportação aplicáveis, incluindo usos finais proibidos descritos em [17 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5).
+Cidadãos Especialmente Designados (SDNs), outras partes negadas ou bloqueadas de acordo com as leis dos EUA e outras leis aplicáveis e determinados funcionários do governo podem ser impedidos de acessar ou usar o GitHub.com. Além disso, os usuários talvez não possam usar o GitHub.com para ou em nome de tais partes, geralmente incluindo os Governos dos países sancionados. Ademais, o GitHub.com não pode ser usado para fins proibidos pelas leis de controle de exportação aplicáveis, incluindo os usos finais proibidos descritos no [CFR, título 15, parte 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5).
 
 ### [](#github-enterprise-server)GitHub Enterprise Server ###
 
