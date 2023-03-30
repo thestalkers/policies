@@ -80,7 +80,7 @@ GitHub 隐私声明
 |              [Cookie 和跟踪技术](#cookies-and-tracking-technologies)               |除在我们的企业营销页面上使用部分 Cookie 外，我们仅使用绝对必要的 Cookie 来提供、保护和改进我们的网站或服务，或开发我们网站或服务的新特性和功能。  <br/><br/>如下所述，我们可能会在我们网站的某些页面上使用非必要的 Cookie 来支持我们的企业营销工作并向企业客户推销我们的产品和服务，例如在 resources.github.com（统称为“企业营销页面”）上。  <br/><br/>有关 Cookie 的详细信息，请参阅 [GitHub 使用的 Cookie 列表](https://github.com/privacy/cookies)。|
 |            [GitHub 如何保护您的信息](#how-github-secures-your-information)            |                                                                                                                我们采用所有合理和必要的措施来保护您在 GitHub 上的个人数据的机密性、真实性和可用性，以及保护我们服务器的恢复能力。                                                                                                                 |
 |                      [通信偏好](#communication-preferences)                       |                                                                                                                          我们通过电子邮件与您通信。 您可以通过帐户设置或联系我们来控制我们与您联系的方式。                                                                                                                           |
-|                         [解决投诉](#resolving-complaints)                         |                                                                                                                         虽然这种情况极少发生，但如果我们无法尽快和充分地解决隐私问题，我们将提供解决争议的途径。                                                                                                                         |
+|                      [解决投诉](#dispute-resolution-process)                      |                                                                                                                         虽然这种情况极少发生，但如果我们无法尽快和充分地解决隐私问题，我们将提供解决争议的途径。                                                                                                                         |
 |                  [隐私声明更改](#changes-to-our-privacy-statement)                  |                                                                                                               如果本隐私声明出现任何重大更改，我们将在该等更改生效前 30 天向您发出通知。 您也可以在我们的站点政策存储库中跟踪这些更改。                                                                                                                |
 |                                [许可](#license)                                 |                                                                                                          本隐私声明根据[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)获得许可。                                                                                                           |
 |                        [联系 GitHub](#contacting-github)                        |                                                                                                                                   如果您对我们的隐私声明有疑问，请随时联系我们。                                                                                                                                    |
@@ -378,7 +378,8 @@ CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
 
 ### [](#dispute-resolution-process)争议解决流程 ###
 
-尽管这种情况极少发生，但如果您与 GitHub 就我们处理您的个人数据的方式产生争议，请直接发送电子邮件至 ([privacy@github.com](mailto:privacy@github.com))，并在主题行中标明“隐私问题”。 我们会及时答复，并将尽最大努力解决争议。 此外，您可能有权向当地数据保护、隐私机构或监管机构提出投诉。
+尽管这种情况极少发生，但如果您与 GitHub 就我们处理您的个人数据的方式产生争议，请直接发送电子邮件至 ([privacy@github.com](mailto:privacy@github.com))，并在主题行中标明“隐私问题”。 我们会及时答复，并将尽最大努力解决争议。
+此外，您可能有权向当地数据保护、隐私机构或监管机构提出投诉。
 
 [](#changes-to-our-privacy-statement)隐私声明更改
 ----------
