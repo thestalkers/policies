@@ -11,7 +11,7 @@ jobs:
     env:
       WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Check website-stalker config
         uses: docker://ghcr.io/edjopato/website-stalker:latest
