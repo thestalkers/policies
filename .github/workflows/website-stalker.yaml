@@ -11,6 +11,8 @@ jobs:
     env:
       WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
     steps:
+      - uses: EdJoPaTo/website-stalker-github-action@v1
+
       - uses: actions/checkout@v3
 
       - name: Check website-stalker config
