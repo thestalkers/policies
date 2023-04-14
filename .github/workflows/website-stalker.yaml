@@ -16,14 +16,10 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Check website-stalker config
-        uses: docker://ghcr.io/edjopato/website-stalker:latest
-        with:
-          args: check
+        run: website-stalker check
 
       - name: Run website-stalker
-        uses: docker://ghcr.io/edjopato/website-stalker:latest
-        with:
-          args: run --all --commit
+        run: website-stalker run --all --commit
 
       - if: always()
         run: git push
