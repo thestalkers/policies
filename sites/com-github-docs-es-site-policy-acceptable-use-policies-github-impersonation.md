@@ -20,6 +20,7 @@ No puede falsear su identidad ni su asociación con otra persona u organización
 * copiar el avatar de otro usuario u otra información de perfil personal;
 * publicar contenido con la dirección de correo electrónico de otro usuario;
 * usar un nombre de usuario, nombre de organización u otro nombre engañosamente similar;
+* Acceso a una cuenta u organización con el token o las credenciales de otro usuario
 * hacerse pasar por otra persona u organización.
 
 La suplantación de identidad es una manera de acoso y la infracción de esta directiva puede dar lugar a la pérdida de acceso a su cuenta.
