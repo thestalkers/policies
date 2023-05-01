@@ -44,7 +44,7 @@ O GitHub lamenta a presença e a persistência da escravidão moderna e do traba
 
 De acordo com a [Lei da Escravidão Moderna do Reino Unido](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted) e em sintonia com o [Protocolo da OIT de 2014 à sua Convenção sobre Trabalho Forçado](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [Declaração da OIT sobre Princípios e Direitos Fundamentais no Trabalho](https://www.ilo.org/declaration/thedeclaration/textdeclaration/lang--en/index.htm) e [Meta 8.7 dos Objetivos de Desenvolvimento Sustentável das Nações Unidas](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms), esta Declaração contra a Escravidão Moderna e o Trabalho Infantil de 2018 (a “Declaração”) descreve as medidas tomadas pelo GitHub para impedir a ocorrência de escravidão moderna e trabalho infantil em seus negócios ou cadeia de fornecimento.
 
-[](#githubs-structure-business-and-supply-chains)Estrutura, negócios e cadeias de fornecimento do GitHub
+[Estrutura, negócios e cadeias de fornecimento do GitHub #](#githubs-structure-business-and-supply-chains)
 ----------
 
 O GitHub é uma plataforma de desenvolvimento de software com sede em São Francisco, com funcionários e prestadores de serviços que trabalham em vários países.
@@ -62,10 +62,10 @@ O GitHub oferece software gratuito e pago e software baseado na Web como serviç
 
 A cadeia de fornecimento do GitHub consiste em bens e serviços para nossos produtos e operações, incluindo serviços de computação, planejamento de eventos, compra de itens promocionais e de varejo, material de escritório e aluguel de instalações como escritórios e data centers.
 
-[](#policies-in-relation-to-modern-slavery-and-child-labor)Políticas em relação à escravidão moderna e trabalho infantil
+[Políticas em relação à escravidão moderna e trabalho infantil #](#policies-in-relation-to-modern-slavery-and-child-labor)
 ----------
 
-### [](#modern-slavery-and-child-labor)Escravidão moderna e trabalho infantil ###
+### [Escravidão moderna e trabalho infantil #](#modern-slavery-and-child-labor) ###
 
 O **Código de Ética do GitHub** proíbe conscientemente o uso, a participação, o apoio ou a tolerância à escravidão moderna (escravidão, trabalho forçado ou compulsório, tráfico, servidão ou trabalhadores que estão presos, presos a contratos ou em regime de servidão) ou trabalho infantil em suas operações comerciais. Qualquer funcionário ou contratado do GitHub que viole essa proibição estará sujeito à rescisão do contrato de trabalho ou da relação comercial.
 
@@ -79,7 +79,7 @@ No futuro, o GitHub comunicará esta Declaração a todos os funcionários, pres
 
 O GitHub tem uma política de não retaliação para denunciar preocupações relacionadas ao local de trabalho. De acordo com esta Declaração, o GitHub permite que funcionários e prestadores de serviços relatem problemas relacionados à escravidão moderna e ao trabalho infantil sem medo de retaliação.
 
-[](#labor-laws-and-practices)Leis e práticas trabalhistas
+[Leis e práticas trabalhistas #](#labor-laws-and-practices)
 ----------
 
 As práticas trabalhistas do GitHub são
@@ -104,19 +104,19 @@ As práticas trabalhistas do GitHub são
 * O GitHub oferece benefícios aos funcionários nos níveis esperados no setor ou acima deles
 * O GitHub incentiva os funcionários a relatar qualquer reclamação no local de trabalho e não tolera retaliação por denúncia
 
-[](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)Processos de due diligence em relação à escravidão moderna e ao trabalho infantil em seus negócios e cadeias de fornecimento
+[Processos de due diligence em relação à escravidão moderna e ao trabalho infantil em seus negócios e cadeias de fornecimento #](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 ----------
 
 O GitHub avalia seus negócios e cadeia de fornecimento quanto aos riscos relacionados à escravidão moderna e ao trabalho infantil. Com base na experiência interna e externa em direitos humanos, o GitHub se envolveu em uma análise multifuncional (incluindo Política, Jurídico, Compras, Finanças e Operações, especialmente Recursos Humanos) para determinar onde existem serviços trabalhistas em seus negócios e cadeia de fornecimento e identificar possíveis riscos relacionados à escravidão moderna e ao trabalho infantil. O GitHub prioriza áreas nas quais esses riscos podem ser mais significativos em termos de gravidade, escala ou probabilidade de maior due diligence, monitoramento e verificação. O GitHub continua considerando onde os riscos podem ocorrer e como resolvê-los. Além disso, o GitHub agora obtém a garantia de seus fornecedores de que eles têm práticas consistentes com esta Declaração, inclusive cumprindo as leis relacionadas à escravidão moderna ou ao trabalho infantil.
 
-[](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)Locais nas cadeias de suprimento e nos negócios do GitHub onde há risco de escravidão moderna e trabalho infantil, e as medidas que o GitHub tomou para avaliar e gerenciar esse risco
+[Locais nas cadeias de suprimento e nos negócios do GitHub onde há risco de escravidão moderna e trabalho infantil, e as medidas que o GitHub tomou para avaliar e gerenciar esse risco #](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 ----------
 
 O GitHub não identificou nenhum fornecedor de alto risco; no entanto, a escravidão moderna ou o trabalho infantil teriam maior probabilidade de ocorrer com fornecedores de serviços que envolvam trabalho manual, como apoio a eventos, construção, serviços de instalações e serviços de alimentação. O GitHub auditará seus fornecedores existentes e exigirá que aqueles em áreas de maior risco confirmem que fornecem serviços consistentes com esta Declaração.
 
 Embora o GitHub não tenha conhecimento de real ou suposta escravidão moderna ou trabalho infantil em seus negócios ou na cadeia de fornecimento e não tenha base confiável para acreditar que isso esteja ocorrendo, o GitHub está comprometido em fornecer soluções se ele mesmo causar diretamente escravidão moderna ou trabalho infantil e para correção de padrões mais amplos de não conformidade com esta Declaração causados por deficiências nos sistemas ou processos do GitHub. A remediação do GitHub para vítimas individuais inclui protocolos para ação imediata apropriada para eliminar as práticas modernas de escravidão e trabalho infantil, juntamente com recursos para serviços de vítimas razoáveis e apropriados projetados para compensar os danos sofridos.
 
-[](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)Eficácia em garantir que nem escravidão moderna nem trabalho infantil ocorram nos negócios ou nas cadeias de fornecimento do GitHub
+[Eficácia em garantir que nem escravidão moderna nem trabalho infantil ocorram nos negócios ou nas cadeias de fornecimento do GitHub #](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 ----------
 
 O GitHub cumpre e continuará cumprindo as leis relacionadas à escravidão moderna e ao trabalho infantil.
@@ -138,7 +138,7 @@ Além disso, o GitHub incentiva veementemente seus fornecedores a:
 
 As instruções de aquisição do GitHub para funcionários que fazem compras da empresa agora incluem uma referência à exigência de que os fornecedores cumpram o Código de Conduta do Fornecedor da Microsoft ou esta Declaração.
 
-[](#training-for-github-staff-about-modern-slavery-and-human-trafficking)Treinamento para a equipe do GitHub sobre escravidão moderna e tráfico humano
+[Treinamento para a equipe do GitHub sobre escravidão moderna e tráfico humano #](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 ----------
 
 O GitHub está desenvolvendo treinamentos sobre escravidão moderna e trabalho infantil que serão obrigatórios para todos os funcionários, visando aos negócios e à cadeia de fornecimento do GitHub. O GitHub enfatizará fornecedores que prestam serviços envolvendo mão de obra, como suporte a eventos, construção, serviços de instalações e serviços de alimentação, como áreas de maior risco potencial.

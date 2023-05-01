@@ -32,7 +32,7 @@ DMCA 下架通知提交指南
 
 与所有法律事务一样，就您的具体问题或情况咨询专业人员始终是最好的方式。 我们强烈建议您在采取任何可能影响您权利的行动之前这样做。 本指南不是法律意见，不应被视为法律意见。
 
-[](#before-you-start)开始前
+[开始前 #](#before-you-start)
 ----------
 
 ***说实话。*** DMCA 要求您对自己的版权投诉内容宣誓，如有不实会受到伪证处罚。 在宣誓声明中故意说谎是一种联邦罪行。 （*请参阅*[美国法典，第 18 章，第 1621 条](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)。）提交虚假信息还可能导致民事责任，即可能被诉提供经济赔偿。 DMCA 本身对任何故意严重歪曲材料或活动侵权的人[规定了赔偿条款](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)。
@@ -65,7 +65,7 @@ DMCA 下架通知提交指南
 
 ***GitHub 不是法官。***除了确定通知是否符合 DMCA 的最低要求外，GitHub 在此过程中几乎不行使酌处权。 当事方（及其律师）应负责评估其投诉的合理性，并注意，此类通知受伪证处罚条款约束。
 
-[](#your-complaint-must-)您的投诉必须...
+[您的投诉必须... #](#your-complaint-must-)
 ----------
 
 1. **包括以下声明：“我已阅读并理解 GitHub 的《DMCA 通知提交指南》。** 如果您的投诉未包括此声明，但其他内容完整，我们不会拒绝处理。 但我们知道您尚未阅读这些准则后，可能会要求您先完成这一步。
@@ -88,7 +88,7 @@ DMCA 下架通知提交指南
 
 9. **包括您的纸质或电子签名。**
 
-[](#complaints-about-anti-circumvention-technology)有关反规避技术的投诉
+[有关反规避技术的投诉 #](#complaints-about-anti-circumvention-technology)
 ----------
 
 著作权法还禁止规避用于有效控制受版权保护作品的访问权限的技术措施。 如果您认为 GitHub 上托管的内容违反了此禁令，请通过我们的 [版权声明表](https://github.com/contact/dmca) 向我们发送报告。 规避索赔必须包括以下有关现有技术措施以及被指控项目如何规避这些措施的详细信息。 具体来说，发送给 GitHub 的通知必须包含详细的说明，描述：
@@ -97,7 +97,7 @@ DMCA 下架通知提交指南
 2. 它们如何有效控制对受版权保护材料的访问；以及
 3. 被指控项目如何设计来规避前面所述的技术保护措施。
 
-[](#how-to-submit-your-complaint)如何提交投诉
+[如何提交投诉 #](#how-to-submit-your-complaint)
 ----------
 
 得到回复的最快方式是在我们的[版权声明表](https://github.com/contact/dmca)中输入您的信息并回答所有问题。

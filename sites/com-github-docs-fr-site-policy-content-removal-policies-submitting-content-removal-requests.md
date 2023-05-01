@@ -30,17 +30,17 @@ Si vous souhaitez demander le retrait d’un contenu de GitHub, prenez le temps 
 
 Veuillez noter que nous ne sommes pas en mesure de vous aider à déterminer quelle politique convient à votre situation spécifique. Si vous avez examiné les politiques ci-dessous et que vous avez encore des questions sur la nécessité de signaler un contenu comme étant un droit d’auteur, une marque commerciale ou une information privée, nous vous recommandons de consulter un conseiller juridique indépendant.
 
-[](#dmca-takedown-policy)[Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy)
+[](#dmca-takedown-policy)[Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy) #
 ----------
 
 La Politique de retrait DMCA permet de signaler un contenu qui, selon vous, porte atteinte à un droit d’auteur dont vous ou votre organisation êtes titulaires. Après avoir examiné la politique, vous pouvez également consulter notre [Guide de soumission d’un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) avant de soumettre un signalement.
 
-[](#github-trademark-policy)[Politique relative aux marques de GitHub](/fr/site-policy/content-removal-policies/github-trademark-policy)
+[](#github-trademark-policy)[Politique relative aux marques de GitHub](/fr/site-policy/content-removal-policies/github-trademark-policy) #
 ----------
 
 La politique de GitHub relative aux marques peut être utilisée pour signaler un contenu qui semble utiliser le nom de votre société ou de votre entreprise, votre logo ou d’autres éléments protégés par une marque commerciale d’une manière susceptible d’induire en erreur ou de prêter à confusion quant à la marque ou à l’affiliation.
 
-[](#github-private-information-removal-policy)[Politique GitHub de retrait des informations privées](/fr/site-policy/content-removal-policies/github-private-information-removal-policy)
+[](#github-private-information-removal-policy)[Politique GitHub de retrait des informations privées](/fr/site-policy/content-removal-policies/github-private-information-removal-policy) #
 ----------
 
 La Politique de retrait des informations privées de GitHub peut être utilisée pour signaler des données privées (confidentielles et présentant un risque de sécurité), mais qui ne sont pas nécessairement protégées par des droits d’auteur ou des marques commerciales.

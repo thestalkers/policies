@@ -26,12 +26,12 @@ In diesem Artikel
 
 * [Transparenz](#transparency)
 
-[](#appeal-and-reinstatement)Einspruch und Wiederherstellung
+[Einspruch und Wiederherstellung #](#appeal-and-reinstatement)
 ----------
 
 Während die meisten Interaktionen zwischen Einzelpersonen in der GitHub Community unter unsere Richtlinien zur akzeptablen Nutzung und die Community-Richtlinien fallen, kommt es gelegentlich zu Verstößen gegen diese Richtlinien. Wenn dies der Fall ist, müssen GitHub Mitarbeiter möglicherweise Durchsetzungsmaßnahmen ergreifen, um die Verstöße zu beheben. In einigen Fällen kann es jedoch eine Grundlage geben, eine von GitHub Mitarbeitern ergriffene Moderationsmaßnahme rückgängig zu machen.
 
-[](#what-are-appeals-and-reinstatements)Was sind Einsprüche und Wiederherstellungen?
+[Was sind Einsprüche und Wiederherstellungen? #](#what-are-appeals-and-reinstatements)
 ----------
 
 Sowohl Einsprüche als auch Wiederherstellungen entstehen im Zusammenhang mit der Deaktivierung von Inhalten oder Beschränkungen für den Zugriff auf ein Konto.
@@ -40,7 +40,7 @@ Sowohl Einsprüche als auch Wiederherstellungen entstehen im Zusammenhang mit de
 
 **Einspruch**: Der Nutzer bestreitet, dass ein Verstoß stattgefunden hat, und kann zusätzliche Informationen bereitstellen, um zu zeigen, dass eine andere Entscheidung hätte getroffen werden müssen.
 
-[](#how-this-works)Funktionsweise
+[Funktionsweise #](#how-this-works)
 ----------
 
 Wenn Sie eine Wiederherstellung beantragen oder gegen eine Durchsetzungsmaßnahme Einspruch einlegen möchten, füllen Sie bitte unser [Einspruchs- und Wiederherstellungsformular](https://support.github.com/contact/reinstatement) aus.
@@ -55,7 +55,7 @@ Alle legitimen Wiederherstellungsanfragen werden zunächst von GitHub Mitarbeite
 
 Wenn der Überprüfer aus der Belegschaft von GitHub dieselbe Person ist, die die anfängliche Entscheidung getroffen hat, und dieser Mitarbeiter der Ansicht ist, dass die anfängliche Schlussfolgerung richtig war (und daher geneigt wäre, den Einspruch abzulehnen), wird ein anderer Mitarbeiter von GitHub den Einspruch unabhängig prüfen. Alle berechtigten Einsprüche werden mit einer endgültigen Entscheidung beantwortet.
 
-[](#transparency)Transparenz
+[Transparenz #](#transparency)
 ----------
 
 Wir verfolgen Einsprüche und Wiederherstellungen in unseren [Transparenzberichten](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

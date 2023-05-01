@@ -60,7 +60,7 @@ GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 
 
 * **GitHub AE** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages.
 
-[](#actions)Actions
+[Actions #](#actions)
 ----------
 
 GitHub Actions를 통해 GitHub 리포지토리에서 직접 사용자 지정 소프트웨어 개발 수명 주기 워크플로를 만들 수 있습니다. Actions는 사용량 기준으로 청구됩니다. [Actions 설명서](/ko/actions)에는 컴퓨팅 및 스토리지 양(계정 플랜에 따라 다름) 등의 세부 정보와 Actions 분 단위 사용량을 모니터링하는 방법과 사용량 한도를 설정하는 방법이 포함되어 있습니다.
@@ -91,14 +91,14 @@ GitHub는 이러한 제한 사항 위반과 GitHub Actions 악용을 방지하�
 
 자체 호스트된 실행기를 사용하는 경우 자동 업데이트를 끌 수 있지만 GitHub는 중요한 보안 업데이트의 경우 귀하의 선택을 재정의할 수 있는 권리를 보유합니다.
 
-[](#advanced-security)Advanced Security
+[Advanced Security #](#advanced-security)
 ----------
 
 GitHub는 Advanced Security 라이선스에 따라 고객에게 추가 보안 기능을 제공합니다. 이러한 기능에는 코드 검사, 비밀 검사, 종속성 검토가 포함됩니다. [Advanced Security 설명서](/ko/get-started/learning-about-github/about-github-advanced-security)는 추가 세부 정보를 제공합니다.
 
 Advanced Security는 "고유 커미터" 기준으로 라이선스가 부여됩니다. "고유 커미터"란 지난 90일 안에 GitHub Advanced Security 기능이 활성화된 리포지토리에 커밋한 GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server 또는 GitHub AE의 라이선스가 허여된 사용자입니다. 귀하의 각 고유 커미터마다 GitHub Advanced Security 사용자 라이선스를 획득해야 합니다. GitHub Advanced Security는 귀하가 개발하거나 귀하를 위해 개발된 코드베이스에서만 사용할 수 있습니다. GitHub Enterprise Cloud 사용자의 경우 일부 Advanced Security 기능에는 GitHub Actions 사용도 필요합니다.
 
-[](#advisory-database)Advisory Database
+[Advisory Database #](#advisory-database)
 ----------
 
 GitHub Advisory Database를 통해 GitHub의 오픈 소스 프로젝트에 영향을 미치는 취약성을 탐색하거나 검색할 수 있습니다.
@@ -111,7 +111,7 @@ GitHub가 GitHub Advisory Database에 대한 귀하의 기여를 [National Vulne
 
 GitHub Advisory Database는 [Creative Commons Attribution 4.0 라이선스](https://creativecommons.org/licenses/by/4.0/)에 따라 라이선스가 허여됩니다. 귀속 조건은 GitHub Advisory Database(<https://github.com/advisories>) 또는 사용된 개별 GitHub Advisory Database 레코드(<https://github.com/advisories> 접두사 추가)에 대한 링크를 설정하여 충족할 수 있습니다.
 
-[](#codespaces)Codespaces
+[Codespaces #](#codespaces)
 ----------
 
 *참고: 를 눌러 사용할 수 있는 github.dev 서비스입니다. 리포지토리에서 또는 github.dev 직접 탐색하는 경우 GitHub의 베타 서비스 약관이 적용됩니다.*
@@ -130,17 +130,17 @@ Codespaces를 통해 개발 환경에서 사용할(예를 들어 코드가 작�
 
 미국 정부 고객은 현재 Codespaces 일반 공급 버전을 사용할 수 없습니다. 미국 정부 고객은 별도의 약관에 따라 Codespaces 베타 미리 보기를 계속 사용할 수 있습니다. [베타 미리 보기 약관](/ko/site-policy/github-terms/github-terms-of-service#j-beta-previews)을 참조하십시오.
 
-[](#competitive-benchmarking)경쟁 벤치마킹
+[경쟁 벤치마킹 #](#competitive-benchmarking)
 ----------
 
 GitHub 제품 또는 서비스에 경쟁력 있는 제품 또는 서비스를 제공하는 경우 해당 GitHub 제품 또는 서비스를 사용하여 경쟁력 있는 제품 또는 서비스를 관리하는 측면에서 경쟁적 사용 및 벤치마크 테스트에 대한 GitHub에 대한 제한을 포기합니다. 사용 약관에서 이러한 제한을 포기하려는 경우 해당 GitHub 제품 또는 서비스를 사용할 수 없습니다.
 
-[](#connect)연결
+[연결 #](#connect)
 ----------
 
 GitHub Connect를 사용하면 GitHub Enterprise Server 또는 GitHub AE 배포와 gitHub Enterprise Cloud 조직 또는 GitHub.com 엔터프라이즈 계정 간에 특정 기능과 데이터를 공유할 수 있습니다. GitHub Connect를 사용하도록 설정하려면 GitHub Enterprise Cloud 또는 GitHub.com 하나 이상의 (1) 계정과 GitHub Enterprise Server 또는 GitHub AE의 라이선스 배포가 하나 이상 있어야 합니다. Connect를 통한 GitHub Enterprise Cloud 도는 GitHub.com 사용에는 귀하가 GitHub Enterprise Cloud 또는 GitHub.com에 라이선스를 허여하는 약관이 적용됩니다. 개인 데이터 사용에는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)이 적용됩니다.
 
-[](#github-copilot)GitHub Copilot
+[GitHub Copilot #](#github-copilot)
 ----------
 
 GitHub Copilot를 사용하려면 IDE(통합 개발 환경) 또는 편집기에 대한 확장을 설치해야 합니다. IDE 또는 편집기에서 GitHub Copilot 확장을 사용해 작성한 코드(“**귀하의 코드**”)는 GitHub.com에 업로드될 때까지는 본 계약에 따른 “콘텐츠”가 아닙니다.
@@ -157,22 +157,22 @@ GitHub Copilot은 (i) 귀하의 기본 텔레메트리 설정에 따라 귀하�
 
 엔터프라이즈 사용자의 경우 GitHub Copilot 사용은 [GitHub Copilot 제품별 약관에 따라 관리됩니다](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
 
 Importer는 다른 원본에서 데이터를 내보내 GitHub 플랫폼으로 가져오기 위한 프레임워크입니다. Importer는 "있는 그대로" 제공됩니다.
 
-[](#npm)npm
+[npm #](#npm)
 ----------
 
 npm은 소프트웨어 패키지를 비공개 또는 공개적으로 호스트하고 프로젝트에서 패키지를 종속성으로 사용할 수 있도록 해 주는 소프트웨어 패키지 호스팅 서비스입니다. npm은 JavaScript 에코시스템의 레코드 레지스트리입니다. npm 공용 레지스트리는 무료로 사용할 수 있지만 비공개 패키지를 게시하거나 팀을 사용하여 비공개 패키지를 관리하려는 고객에게는 요금이 청구됩니다. [npm 설명서](https://docs.npmjs.com/)에는 계정 유형 제한 사항과 [프라이빗 패키지](https://docs.npmjs.com/about-private-packages) 및 [조직](https://docs.npmjs.com/organizations) 관리 방법에 대한 세부 정보가 포함되어 있습니다. npm 레지스트리의 사용 제한은 [오픈 소스 약관](https://www.npmjs.com/policies/open-source-terms)에 설명되어 있습니다. npm [solo](https://www.npmjs.com/policies/solo-plan) 플랜과 [org](https://www.npmjs.com/policies/orgs-plan) 플랜에는 추가 약관이 있습니다. npm 사용에는 npm [사용 약관](https://www.npmjs.com/policies/terms)이 적용됩니다.
 
-[](#packages)패키지
+[패키지 #](#packages)
 ----------
 
 GitHub Packages는 소프트웨어 패키지를 비공개 또는 공개적으로 호스트하고 프로젝트에서 패키지를 종속성으로 사용할 수 있도록 해 주는 소프트웨어 패키지 호스팅 서비스입니다. GitHub Packages는 사용량 기준으로 청구됩니다. [Packages 설명서](/ko/packages/learn-github-packages/introduction-to-github-packages)에는 대역폭 및 스토리지 양(계정 플랜에 따라 다름) 등의 세부 정보와 Packages 사용량을 모니터링하는 방법과 사용량 한도를 설정하는 방법이 포함되어 있습니다. Packages 대역폭 사용량은 [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)에 의해 제한됩니다.
 
-[](#pages)Pages
+[Pages #](#pages)
 ----------
 
 각 계정에는 [GitHub Pages 정적 호스팅 서비스](/ko/pages/getting-started-with-github-pages/about-github-pages)에 대한 액세스 권한이 제공됩니다. GitHub Pages는 정적 웹 페이지를 호스트하도록 되어 있지만 주로 개인 프로젝트와 조직 프로젝트 소개에 사용됩니다.
@@ -189,17 +189,17 @@ GitHub Pages는 계약, GitHub [사용 제한 정책](/ko/site-policy/acceptable
 
 사용 또는 의도한 사용이 이러한 범주에 속하는지 여부에 대한 질문이 있는 경우, [GitHub 지원](https://support.github.com/contact?tags=docs-policy)에 문의하시기 바랍니다. GitHub는 언제든지 책임을 지지 않고 GitHub 하위 도메인을 회수할 수 있는 권리를 보유합니다.
 
-[](#previews)미리 보기
+[미리 보기 #](#previews)
 ----------
 
 미리 보기는 미리 보기, 평가, 데모 또는 시험 목적으로 제공되는 소프트웨어, 온라인 서비스, 추가 제품 및 기능 또는 알파, 베타 또는 사전 체험판 등 이러한 소프트웨어, 온라인 서비스, 추가 제품 및 기능의 출시 전 버전입니다. 계약에 미리 보기를 다루는 계약조건이 포함되지 않은 경우, 다음 약관이 적용됩니다. GitHub는 미리 보기의 비프로덕션 인스턴스를 사용할 수 있는 제한 없는 권리를 부여합니다. 미리보기는 "있는 그대로", "모든 오류와 함께", "사용 가능한 상태로" 제공됩니다. GitHub는 언제든지 통지 없이 미리보기를 변경하거나 중단할 수 있습니다. GitHub가 비공개 미리 보기에 대해 제공하는 모든 정보는 GitHub의 비밀 정보로 간주됩니다. 미리 보기에 대한 의견 또는 제안을 제공하기로 선택하는 경우 GitHub는 어떤 종류의 의무도 없이 해당 피드백을 어떤 목적으로도 사용할 수 있습니다. GitHub의 최대 배상 한도액은 최대 미화 $5,000의 직접 손해로 제한됩니다. GitHub는 귀하의 미리 보기 사용으로 인해 제3자가 제기하는 청구에 대해 귀하를 방어하거나 면책하거나 책임을 면제할 의무가 없습니다.
 
-[](#sponsors-program)Sponsors 프로그램
+[Sponsors 프로그램 #](#sponsors-program)
 ----------
 
 GitHub Sponsors를 통해 개발자 커뮤니티는 개발자 커뮤니티가 의존하는 오픈 소스 프로젝트를 GitHub에서 직접 설계, 구축, 유지 관리하는 사람과 조직을 재정적으로 지원할 수 있습니다. Sponsored Developer가 되려면 [GitHub Sponsors 프로그램 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)에 동의해야 합니다.
 
-[](#sql-server-images)SQL Server Images
+[SQL Server Images #](#sql-server-images)
 ----------
 
 Linux용 Microsoft SQL Server Standard Edtion 컨테이너 이미지 파일("SQL Server Images")을 다운로드할 수 있습니다. SQL Server Images를 사용할 수 있는 권리가 종료되면 해당 소프트웨어를 제거해야 합니다. Microsoft Corporation은 언제든지 SQL Server Images를 사용 중지할 수 있습니다.

@@ -24,12 +24,12 @@ In this article
 
 * [Transparency](#transparency)
 
-[](#appeal-and-reinstatement)Appeal and Reinstatement
+[Appeal and Reinstatement #](#appeal-and-reinstatement)
 ----------
 
 While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, in some cases there may be a basis to reverse a moderation action taken by GitHub Staff.
 
-[](#what-are-appeals-and-reinstatements)What are appeals and reinstatements?
+[What are appeals and reinstatements? #](#what-are-appeals-and-reinstatements)
 ----------
 
 Both appeals and reinstatements arise in relation to disabling of content or restrictions to access an account.
@@ -38,7 +38,7 @@ Both appeals and reinstatements arise in relation to disabling of content or res
 
 **Appeal**: The user disputes that a violation occurred and can provide additional information to show that a different decision should have been reached.
 
-[](#how-this-works)How this works
+[How this works #](#how-this-works)
 ----------
 
 If you seek reinstatement or wish to appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement).
@@ -53,7 +53,7 @@ All legitimate reinstatement requests will be reviewed initially by GitHub staff
 
 If the GitHub staff reviewer is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the appeal), a different member of GitHub’s staff will independently review the appeal. All legitimate appeals will be answered with a final decision.
 
-[](#transparency)Transparency
+[Transparency #](#transparency)
 ----------
 
 We track appeals and reinstatements in our [transparency reports](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

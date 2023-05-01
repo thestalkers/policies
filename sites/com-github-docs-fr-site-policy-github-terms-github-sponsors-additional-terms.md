@@ -34,7 +34,7 @@ Dans cet article
 
 Votre participation au Programme GitHub Sponsors (le « Programme ») est soumise aux [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service) (le « Contrat »), ainsi qu’aux conditions supplémentaires suivantes (les « Conditions Supplémentaires »). Toute utilisation du Programme GitHub Sponsors qui viole le Contrat constituera également une violation des présentes Conditions Supplémentaires. Tous les termes commençant par une majuscule, utilisés mais non définis ci-dessous ont la signification qui leur est donnée dans le Contrat. Les présentes Conditions Supplémentaires pour le Programme GitHub Sponsors décrivent la relation entre GitHub et vous, le « Développeur Sponsorisé », pour le Programme. Les Conditions Supplémentaires entrent en vigueur à la date à laquelle vous les acceptez (« Date d’Entrée en Vigueur »).
 
-[](#1-definitions)1. Définitions.
+[1. Définitions. #](#1-definitions)
 ----------
 
 « **Politiques de GitHub** » désigne toutes les politiques et procédures alors en vigueur de GitHub que le Développeur Sponsorisé doit suivre comme indiqué dans le Programme, y compris la [Charte de la Communauté de GitHub](/fr/site-policy/github-terms/github-community-guidelines).﻿
@@ -53,10 +53,10 @@ Votre participation au Programme GitHub Sponsors (le « Programme ») est soum
 
 « **USD** » désigne le dollar des États-Unis.
 
-[](#2-acceptable-use)2. Bon usage.
+[2. Bon usage. #](#2-acceptable-use)
 ----------
 
-### [](#21-github-sponsors-program)2.1. Programme GitHub Sponsors ###
+### [2.1. Programme GitHub Sponsors #](#21-github-sponsors-program) ###
 
 Pour participer au Programme, vous devez respecter les lois sur l’âge minimum de votre pays (par exemple, vous devez être âgé d’au moins 13 ans si vous vivez aux États-Unis), posséder un compte GitHub valable et avoir accepté la [section Bon Usage](/fr/site-policy/github-terms/github-terms-of-service#c-acceptable-use) du Contrat et des Politiques GitHub applicables, ainsi que les présentes Conditions supplémentaires de GitHub Sponsors.
 
@@ -78,11 +78,11 @@ Vous ne devez en aucun cas autoriser des paiements ou collecter des fonds impliq
 
 * activités avec, dans, ou impliquant des pays, régions, gouvernements, personnes ou entités qui ne sont pas autorisés par les sanctions économiques américaines et autres en vertu de la loi applicable.
 
-### [](#22-github-sponsors-matching-fund)2.2. Fonds de Contrepartie GitHub Sponsors ###
+### [2.2. Fonds de Contrepartie GitHub Sponsors #](#22-github-sponsors-matching-fund) ###
 
 Le Fonds de Contrepartie GitHub Sponsors vise à encourager la communauté qui participe à l’écosystème des logiciels open source (OSS) à apporter un financement durable aux personnes qualifiées disposant de Comptes de Développeur Sponsorisé. Toutes les persionnes ayant fait une demande de participation au Programme avant le 1er janvier 2020 seront examinés pour leur admissibilité au Fonds de Contrepartie, mais tous les Comptes de Développeur Sponsorisé individuels admissibles ne recevront pas de contrepartie. Les organisations ne peuvent pas participer au Fonds de Contrepartie GitHub Sponsors, et le Sponsoring d’une organisation pour un Compte de Développeur Sponsorisé admissible ne sera pas jumelé. Voir les règles supplémentaires ci-dessous.
 
-#### [](#221-matching-fund-terms)2.2.1. Conditions relatives au Fonds de Contrepartie. ####
+#### [2.2.1. Conditions relatives au Fonds de Contrepartie. #](#221-matching-fund-terms) ####
 
 L’éligibilité au Fonds de Contrepartie GitHub Sponsors est évaluée au cas par cas et est soumise aux limitations suivantes :
 
@@ -94,7 +94,7 @@ L’éligibilité au Fonds de Contrepartie GitHub Sponsors est évaluée au cas 
 
 * GitHub se réserve le droit de retenir ou d’annuler l’argent du Fonds de Contrepartie et de bloquer la participation de tout utilisateur au Fonds de Contrepartie GitHub Sponsors pour quelque raison que ce soit, notamment la publication de contenu ou de projets que GitHub juge offensants ou autrement répréhensibles.
 
-#### [](#222-matching-period)2.2.2. Période de Contrepartie. ####
+#### [2.2.2. Période de Contrepartie. #](#222-matching-period) ####
 
 La période de contrepartie commence après l’acceptation par GitHub d’un Compte de Développeur Sponsorisé individuel comme Sponsors de GitHub. Pour chaque Compte de Développeur Sponsorisé individuel éligible au Fonds de Contrepartie GitHub Sponsors, GitHub peut verser une somme équivalente au sponsoring communautaire jusqu’à 5 000 USD au total pendant les 12 premiers mois du Compte de Développeur Sponsorisé dans le Programme. La période de contrepartie ne peut être prolongée pour quelque raison que ce soit. Pendant la période de contrepartie, GitHub ne facturera pas de frais, de sorte que 100 % des sponsorings iront au Développeur Sponsorisé. À l’avenir, nous pourrons facturer des frais de traitement minimes.
 
@@ -106,57 +106,57 @@ La période de contrepartie commence après l’acceptation par GitHub d’un Co
 
 * GitHub peut contacter les candidats ou participants à GitHub Sponsors pour avoir des informations supplémentaires sur leur profil de parrainage ou leur activité afin de déterminer l’éligibilité au parrainage ou aux fonds de contrepartie, ou dans le cadre de l’investigation sur les violations potentielles des conditions.
 
-[](#3-sponsored-developer-obligations)3. Obligations du Développeur Sponsorisé.
+[3. Obligations du Développeur Sponsorisé. #](#3-sponsored-developer-obligations)
 ----------
 
-### [](#31-general)3.1. Dispositions générales. ###
+### [3.1. Dispositions générales. #](#31-general) ###
 
 Vous vous engagez : (A) créer un Compte de Développeur Sponsorisé ; (B) rendre le Contenu de Développeur Sponsorisé disponible via le Programme et le Service ; et, (C) respecter toutes les Politiques de GitHub. Vous serez seul responsable du support, du développement et de la maintenance de votre Compte de Développeur Sponsorisé et du Contenu de Développeur Sponsorisé, ainsi que de toute plainte les concernant.
 
-### [](#32-registration)3.2. Inscription. ###
+### [3.2. Inscription. #](#32-registration) ###
 
 Si vous choisissez de vous inscrire au Programme, votre participation à celui-ci est subordonnée à l’achèvement de la procédure d’inscription et à l’acceptation de votre participation au Programme par GitHub. En outre, il peut vous être demandé de vous inscrire auprès du ou des fournisseurs de services de paiement sélectionnés par GitHub (p. ex. Stripe) afin d’accéder à certaines fonctionnalités du Programme et de les utiliser. Vous devez vous inscrire sous votre véritable identité, et vous acceptez de fournir et de maintenir des informations vraies, exactes, actuelles et complètes sur vous-même, comme le demande le formulaire d’inscription au Programme. Les données d’inscription et certaines autres informations vous concernant sont régies par notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement), ainsi que par toute déclaration de confidentialité fournie par notre fournisseur de traitement des paiements. GitHub se réserve le droit de refuser la participation au Programme.
 
-### [](#33-content-monetization)3.3. Monétisation du Contenu. ###
+### [3.3. Monétisation du Contenu. #](#33-content-monetization) ###
 
 Par le biais du Programme et du Service, GitHub peut vous proposer diverses options pour monétiser votre Contenu de Développeur Sponsorisé. Certaines options peuvent vous obliger à mettre à jour certains paramètres de votre Compte de Développeur Sponsorisé. En outre, les moyens par lesquels le Programme prend en charge chaque option de monétisation peuvent varier. Si vous utilisez une (ou plusieurs) de ces options en modifiant les paramètres applicables, vous acceptez les conditions qui s’appliquent à cette option. Certaines options de monétisation peuvent vous obliger à fournir des informations supplémentaires à GitHub ou à ses prestataires de services, ou à accepter des conditions supplémentaires de GitHub ou des conditions de tiers.
 
-#### [](#331-subscriptions)3.3.1. Abonnements. ####
+#### [3.3.1. Abonnements. #](#331-subscriptions) ####
 
 Le Programme vous donne la possibilité de proposer des abonnements. Si vous choisissez d’offrir des abonnements, GitHub vous versera la somme du Sponsoring d’Abonnement comme prévu à la Section 4. Il vous incombe de déterminer la nature, le contenu et les capacités de votre offre d’Abonnement, sous réserve des présentes Conditions Supplémentaires et des Politiques GitHub applicables.
 
-#### [](#332-other-sponsorships)3.3.2. Autres Sponsorings. ####
+#### [3.3.2. Autres Sponsorings. #](#332-other-sponsorships) ####
 
 Le Programme ou le Service peut vous donner la possibilité d’accepter un don ou un autre type de sponsoring direct d’un autre Utilisateur sans offre d’Abonnement. Cependant, étant donné que GitHub ne propose pas ces types de Sponsorings, vous devez établir un compte marchand avec un fournisseur de services de paiement tiers (comme Stripe) et être soumis aux conditions et politiques de confidentialité du compte marchand de ce fournisseur de services. Tous les montants qui vous sont versés, qu’il s’agisse de dons ou autres, seront payés directement sur votre compte marchand et ne seront pas inclus dans les Paiements des Développeurs Sponsorisés. Vous acceptez de ne pas avoir de réclamation ou de recours contre GitHub en ce qui concerne les dons et tout litige relatif à un don est uniquement entre vous et le prestataire de services de paiement tiers. Vous êtes responsable du respect des accords et des politiques de tout fournisseur de services de paiement tiers, ainsi que des lois ou réglementations qui peuvent s’appliquer. GitHub peut choisir de vous fournir des informations ou un rapport sur le montant des dons qui vous ont été faits pour votre commodité.
 
-#### [](#333-advertising)3.3.3. Publicité. ####
+#### [3.3.3. Publicité. #](#333-advertising) ####
 
 Bien que nous comprenions que vous souhaitiez promouvoir vos Sponsors en affichant leurs noms ou logos sur votre compte, l’objectif principal de votre Contenu de Développeur Sponsorisé ne doit pas être la publicité ou le marketing promotionnel. En outre, vous ne pouvez pas conclure d’accord publicitaire pour promouvoir un produit ou une marque si cela est interdit par le [Contrat](/fr/site-policy/github-terms/github-terms-of-service) ou la Charte de la Communauté GitHub. Si vous décidez d’héberger du contenu publicitaire ou promotionnel dans votre Contenu de Développeur Sponsorisé, vous êtes seul responsable du respect de toutes les lois et réglementations applicables, y compris, les directives de la Federal Trade Commission des États-Unis sur les endossements et les témoignages (« Guidelines on Endorsements and Testimonials »).
 
-[](#4-financial-terms)4. Conditions Financières.
+[4. Conditions Financières. #](#4-financial-terms)
 ----------
 
-### [](#41-payment)4.1. Paiement. ###
+### [4.1. Paiement. #](#41-payment) ###
 
 GitHub vous versera le Paiement du Développeur Sponsorisé conformément à la présente Section 4, tant que vous respectez les Obligations du Développeur Sponsorisé de la Section 3 et que vous n’êtes pas en violation des présentes Conditions Supplémentaires. Si vous ne respectez pas ces obligations pour un mois donné, nous pouvons, à notre seule discrétion, retenir le Paiement du Développeur Sponsorisé pour ce mois spécifique. Si vous ne respectez pas ou ne maintenez pas les Obligations du Développeur Sponsorisé pendant deux (2) mois ou plus au cours de la Période (consécutivement ou non), GitHub peut résilier les présentes Conditions Supplémentaires comme prévu à la Section 6.
 
-### [](#42-sponsored-developer-payment-exclusions)4.2. Exclusions de Paiement du Développeur Sponsorisé. ###
+### [4.2. Exclusions de Paiement du Développeur Sponsorisé. #](#42-sponsored-developer-payment-exclusions) ###
 
 Les montants suivants ne sont pas inclus dans les Paiements des Développeurs Sponsorisés, ou peuvent être retenus par GitHub, selon le cas.
 
-#### [](#421-sponsored-developer-expenses)4.2.1. Dépenses des Développeurs Sponsorisés. ####
+#### [4.2.1. Dépenses des Développeurs Sponsorisés. #](#421-sponsored-developer-expenses) ####
 
 Vous prendrez en charge toutes les dépenses que vous engagez dans le cadre de votre performance en vertu des présentes Conditions Supplémentaires. Nous ne vous rembourserons ni ne vous avancerons aucune dépense.
 
-#### [](#422-taxes)4.2.2. Taxes. ####
+#### [4.2.2. Taxes. #](#422-taxes) ####
 
 GitHub a l’intention de se conformer à toutes les lois applicables en matière de déclaration d’informations fiscales et de retenue d’impôt que GitHub détermine dans une limite raisonnable selon son jugement et qui s’appliquent à ces paiements. Si des taxes doivent être retenues sur les montants que GitHub doit vous verser ou sur les montants qui sont soumis à la déclaration d’informations fiscales en vertu des lois applicables, GitHub déduira ces taxes du montant dû et les versera à l’autorité fiscale appropriée et, le cas échéant, obtiendra et vous remettra un reçu officiel pour ces taxes retenues comme l’exigent les lois applicables. GitHub fera des efforts raisonnables pour minimiser ces taxes dans la mesure permise par la loi applicable, et chaque partie coopérera dans une limite raisonnable avec l’autre pour obtenir les taux d’imposition les plus bas ou l’élimination de ces taxes en vertu des lois ou traités fiscaux applicables. Cela inclut que vous fournissiez à GitHub les informations adéquates requises par les lois applicables, comme les formulaires W-8, W-9 de l’IRS, ou toute autre information permettant d’établir les exemptions de retenue. Vous serez également responsable du respect des conditions générales de tout fournisseur de traitement de paiement tiers concernant la retenue d’impôt et la déclaration, le cas échéant. En outre, GitHub se réserve le droit de suspendre les paiements sur votre compte jusqu’à ce que vous fournissiez à GitHub la documentation ou les informations adéquates requises par les lois en vigueur pour que GitHub puisse déterminer toute retenue d’impôt ou obligation de déclaration applicables aux paiements en vertu des présentes Conditions Supplémentaires ou du Contrat.
 
-#### [](#423-withholding-of-sponsored-developer-payment-for-breach)4.2.3. Retenue du Paiement du Développeur Sponsorisé pour Violation. ####
+#### [4.2.3. Retenue du Paiement du Développeur Sponsorisé pour Violation. #](#423-withholding-of-sponsored-developer-payment-for-breach) ####
 
 En cas de violation ou de violation présumée, par un Développeur Sponsorisé des présentes Conditions Supplémentaires ou du Contrat, GitHub se réserve le droit de retenir le paiement dû au Développeur Sponsorisé en vertu des présentes Conditions Supplémentaires ou autrement, en attendant que GitHub mène une enquête raisonnable à ce sujet. Si GitHub détermine, à sa seule discrétion, qu’un Développeur Sponsorisé ne respecte pas les présentes Conditions Supplémentaires ou le Contrat, GitHub peut retenir de manière permanente les montants dus au Développeur Sponsorisé.
 
-### [](#43-payment-timing)4.3. Délai de Paiement. ###
+### [4.3. Délai de Paiement. #](#43-payment-timing) ###
 
 Pendant la durée du Contrat, GitHub vous remettra tous les Paiements de Développeur Sponsorisé reçus au cours d’un mois donné dans les 30 jours suivant la clôture de ce mois, sous réserve des variables ci-dessous. Les versements sont envoyés par Stripe Connect, par virement ACH ou par virement bancaire sur le compte que vous avez fourni lorsque vous avez demandé à participer à GitHub Sponsors. Nous ne sommes pas responsables du retard ou de la mauvaise application de tout Paiement de Développeur Sponsorisé en raison d’informations incorrectes ou incomplètes fournies par vous ou par une banque, ou de l’incapacité d’une banque à créditer votre compte.
 
@@ -168,23 +168,23 @@ Pendant la durée du Contrat, GitHub vous remettra tous les Paiements de Dévelo
 
 * Après la résiliation, nous vous remettrons tous les Paiements de Développeur Sponsorisé reçus et non payés dans un délai d’environ 90 jours après la fin du mois civil au cours duquel nous reconnaissons que ces conditions supplémentaires ont été résiliées.
 
-### [](#44-payment-method)4.4. Mode de paiement. ###
+### [4.4. Mode de paiement. #](#44-payment-method) ###
 
 Nous verserons les Paiements de Développeur Sponsorisé via virement ACH/SEPA ou par virement sur un compte que vous spécifiez, sous réserve des seuils, méthodes et délais prévus dans nos politiques de paiement alors en vigueur, que nous pouvons mettre à jour de temps à autre. Le mode et le seuil de paiement peuvent varier en fonction du pays et des informations sur le compte que vous fournissez. Nous pouvons, à notre seule discrétion, combiner le Paiement du Développeur Sponsorisé avec tout autre paiement qui pourrait vous être dû.
 
-### [](#45-currency)4.5. Devise. ###
+### [4.5. Devise. #](#45-currency) ###
 
 Toutes les références aux devises sont en dollars amércains (USD). Si vous êtes en dehors des États-Unis, nous pouvons convertir les dollars américains (USD) dans la devise locale de votre adresse pour le paiement, en utilisant nos taux de conversion alors en vigueur.
 
-### [](#46-refund-requirements)4.6. Conditions de Remboursement. ###
+### [4.6. Conditions de Remboursement. #](#46-refund-requirements) ###
 
 Il vous appartiendra de préciser les modalités de remboursement, le cas échéant, à vos Sponsors. En aucun cas, GitHub ne fournira une quelconque assistance pour les remboursements ni ne sera tenu responsable du paiement d’un quelconque remboursement.
 
-### [](#47-requested-payment-information)4.7. Informations sur le Paiement Demandé. ###
+### [4.7. Informations sur le Paiement Demandé. #](#47-requested-payment-information) ###
 
 Pour vous payer, vous devez nous fournir les informations financières, fiscales et bancaires complètes et exactes que nous vous demandons (par exemple, lors de la création ou de la configuration du compte ou autrement). Nous vous informerons, par tout moyen de communication, des modifications apportées aux informations requises. Si vous ne fournissez pas (ou ne mettez pas à jour) ces informations avec précision, (a) nous pouvons déduire de votre Paiement de Développeur Sponsorisé tous les frais bancaires associés, et (b) nous pouvons résilier les présentes Conditions Supplémentaires et vous pouvez renoncer à tous les montants qui vous sont dus par GitHub.
 
-### [](#48-stripe-connect)4.8. Stripe Connect ###
+### [4.8. Stripe Connect #](#48-stripe-connect) ###
 
 Si vous êtes payé via Stripe Connect, les conditions supplémentaires suivantes s’appliquent à votre utilisation de GitHub Sponsors :
 
@@ -200,10 +200,10 @@ Les services de traitement des paiements pour les Comptes de Développeur Sponso
 
 Nous utilisons Stripe pour effectuer des versements sur les Comptes de Développeur Sponsorisé. Le [Contrat de Bénéficiaire Stripe](https://stripe.com/connect-account/legal/recipient) s’applique à votre réception de ces paiements. Pour recevoir des paiements de la part de GitHub Sponsors, vous devez nous fournir des informations précises et complètes sur vous et votre entreprise, et vous nous autorisez à les partager avec Stripe, ainsi que les informations de transaction liées à votre paiement.
 
-[](#5-representations-and-warranties-limitation-of-liability-indemnification)5. Déclarations et Garanties ; Limitation de Responsabilité ; Indemnisation.
+[5. Déclarations et Garanties ; Limitation de Responsabilité ; Indemnisation. #](#5-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [](#51-by-sponsored-developer)5.1. Par le Développeur Sponsorisé. ###
+### [5.1. Par le Développeur Sponsorisé. #](#51-by-sponsored-developer) ###
 
 Le Développeur Sponsorisé déclare et garantit que :
 
@@ -215,48 +215,48 @@ Le Développeur Sponsorisé déclare et garantit que :
 
 * il se conformera à toutes les lois et réglementations, et son Contenu de Développeur Sponsorisé n’est pas illégal et n’enfreint aucune loi ou réglementation.
 
-### [](#52-disclaimer-of-warranties-limitation-of-liability-indemnification)5.2. Exclusion des garanties ; Limitation de responsabilité ; Indemnisation. ###
+### [5.2. Exclusion des garanties ; Limitation de responsabilité ; Indemnisation. #](#52-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
 VOUS ACCEPTEZ EXPLICITEMENT QUE LES SECTIONS O (EXCLUSION DE GARANTIE), P (LIMITATION DE RESPONSABILITÉ) ET Q (DÉCHARGE ET INDEMNISATION) DU CONTRAT S’APPLIQUENT AUX PRÉSENTES CONDITIONS SUPPLÉMENTAIRES.
 
-[](#6-term-and-termination)6. Durée et résiliation.
+[6. Durée et résiliation. #](#6-term-and-termination)
 ----------
 
-### [](#61-term)6.1. Durée. ###
+### [6.1. Durée. #](#61-term) ###
 
 Les présentes Conditions Supplémentaires commencent à la Date d’Entrée en Vigueur et restent en vigueur tant que vous participez au Programme.
 
-### [](#62-suspension)6.2. Suspension. ###
+### [6.2. Suspension. #](#62-suspension) ###
 
 GitHub peut suspendre immédiatement votre Compte de Développeur Sponsorisé si vous enfreignez les présentes Conditions Supplémentaires ou le Contrat de quelque manière que ce soit, ou si vous êtes placé sur une liste commerciale restreinte ou êtes situé ou résidez habituellement dans un pays ou territoire soumis à des sanctions complètes administrées par l’Office of Foreign Assets Control (OFAC) des États-Unis. L’absence de correction ou de remède à la cause de la suspension peut entraîner la résiliation de votre Compte de Développeur Sponsorisé.
 
-### [](#63-termination)6.3. Résiliation. ###
+### [6.3. Résiliation. #](#63-termination) ###
 
 L’une ou l’autre des parties peut résilier les présentes Conditions Supplémentaires et votre Compte de Développeur Sponsorisé à tout moment, avec ou sans motif, avec ou sans préavis. Si vous enfreignez les présentes Conditions Supplémentaires ou le Contrat, nous pouvons, sans y être obligés, vous offrir un délai pour remédier à l’infraction.
 
-### [](#64-effect-of-termination)6.4. Conséquences de la Résiliation. ###
+### [6.4. Conséquences de la Résiliation. #](#64-effect-of-termination) ###
 
 Si l’une ou l’autre des Parties résilie en vertu de la Section 6.3, la seule obligation de GitHub sera de payer au Développeur Sponsorisé le montant du Paiement du Développeur Sponsorisé accumulé jusqu’à la date de résiliation, sauf si ces paiements sont interdits par la loi.
 
-[](#7-miscellaneous)7. Dispositions diverses.
+[7. Dispositions diverses. #](#7-miscellaneous)
 ----------
 
-### [](#71-entire-agreement)7.1. Intégralité du Contrat. ###
+### [7.1. Intégralité du Contrat. #](#71-entire-agreement) ###
 
 Les présentes Conditions Supplémentaires, ainsi que le Contrat, les Politiques de GitHub, la Déclaration de Confidentialité GitHub, et toutes les conditions supplémentaires pour différentes options de monétisation représentent l’intégralité de l’accord entre vous et GitHub.
 
-### [](#72-changes-to-the-terms)7.2. Modifications des Conditions. ###
+### [7.2. Modifications des Conditions. #](#72-changes-to-the-terms) ###
 
 Nous nous réservons le droit, à notre seule discrétion, de modifier les présentes Conditions Supplémentaires à tout moment. Nous vous informerons des modifications importantes apportées aux présentes Conditions Supplémentaires, notamment les modifications apportées aux prix, au moins 30 jours avant leur entrée en vigueur, en publiant un avis sur notre Site Web. Votre participation continue au Programme vaut pour acceptation de nos révisions des présentes Conditions Supplémentaires. Vous pouvez consulter toutes les modifications apportées aux présentes Conditions dans notre dépôt sur les [Politiques du Site](https://github.com/github/site-policy).
 
-### [](#73-third-party-beneficiaries)7.3. Tiers bénéficiaires. ###
+### [7.3. Tiers bénéficiaires. #](#73-third-party-beneficiaries) ###
 
 Sauf mention expresse, aucune personne, aucune entreprise, aucun groupe ou aucune société autre que les parties ne sera réputée avoir acquis un quelconque droit en raison du contenu des présentes Conditions Supplémentaires.
 
-### [](#74-independent-contractors)7.4. Indépendance des parties. ###
+### [7.4. Indépendance des parties. #](#74-independent-contractors) ###
 
 Les parties sont des entrepreneurs indépendants. Aucune des parties n’est un employeur, un employé, un agent, un partenaire ou un représentant légal de l’autre partie à quelque fin que ce soit ; et ni l’une ou l’autre des parties n’a le droit, le pouvoir ou l’autorité de créer une quelconque obligation ou responsabilité au nom de l’autre partie.
 
-### [](#75-publicity)7.5. Publicité. ###
+### [7.5. Publicité. #](#75-publicity) ###
 
 Nous pouvons publier un communiqué de presse ou toute autre communication publique liée à votre participation au Programme.

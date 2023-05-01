@@ -60,7 +60,7 @@ Durch die Nutzung der zusätzlichen Produkte und Funktionen stimmen Sie auch den
 
 * **GitHub AE** Nutzer haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages und Pages.
 
-[](#actions)Actions
+[Actions #](#actions)
 ----------
 
 Mit GitHub Actions können Sie benutzerdefinierte Lebenszyklusworkflows für die Softwareentwicklung direkt in Ihrem GitHub-Repository erstellen. Actions wird nutzungsbasiert abgerechnet. Die [Dokumentation von Actions](/de/actions) enthält Details, einschließlich Rechen- und Speichermengen (abhängig von Ihrem Kontoplan) und wie Sie die Nutzung Ihrer Actions-Minuten überwachen und Nutzungslimits festlegen können.
@@ -91,14 +91,14 @@ Wenn Sie GitHub Zugriff auf Ihre Repositorydienst-Konten von Drittanbietern gew�
 
 Wenn Sie selbst gehostete Runner verwenden, haben Sie die Möglichkeit, automatische Updates zu deaktivieren. GitHub behält sich jedoch das Recht vor, diese Auswahl für kritische Sicherheitsupdates außer Kraft zu setzen.
 
-[](#advanced-security)Erweiterte Sicherheit
+[Erweiterte Sicherheit #](#advanced-security)
 ----------
 
 GitHub stellt Kunden zusätzliche Sicherheitsfunktionen im Rahmen einer Advanced Security-Lizenz zur Verfügung. Zu diesen Funktionen gehören Code-Scanning, Secret-Scanning und Abhängigkeitsprüfung. Die [Dokumentation über erweiterte Sicherheit](/de/get-started/learning-about-github/about-github-advanced-security) liefert weitere Einzelheiten.
 
 Erweiterte Sicherheit wird für die Lizenz „Individueller Software-Entwickler“ angeboten. Ein „Individueller Software-Entwickler“ ist ein lizenzierter Nutzer von GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server oder GitHub AE, der in den letzten 90 Tagen eine Codeübergabe an ein beliebiges Repository mit aktivierter GitHub Advanced Security-Funktionalität vorgenommen hat. Sie müssen für jeden Ihrer individuellen Software-Entwickler eine GitHub Advanced Security User-Lizenz erwerben. Sie dürfen GitHub Advanced Security auf jede Codebasis anwenden, die von Ihnen oder für Sie entwickelt wurde. Für GitHub Enterprise Cloud-Nutzer ist bei einigen erweiterten Sicherheitsfunktionen auch die Verwendung von GitHub Actions erforderlich.
 
-[](#advisory-database)Beratungsdatenbank
+[Beratungsdatenbank #](#advisory-database)
 ----------
 
 Die GitHub Advisory Database ermöglicht Ihnen das Durchsuchen oder Suchen nach Schwachstellen, die Open-Source-Projekte auf GitHub betreffen.
@@ -111,7 +111,7 @@ Wir müssen rechtlich dazu autorisiert sein, Ihre Beiträge in der GitHub Adviso
 
 Die GitHub Advisory Database ist unter der [Creative Commons Attribution 4.0-Lizenz](https://creativecommons.org/licenses/by/4.0/) lizenziert. Die Zuordnungsbedingung kann durch Verlinkung auf die GitHub Advisory Database unter <https://github.com/advisories> erfüllt werden, oder durch Verlinkung auf einzelne verwendete Datensätze der GitHub Advisory Database, denen das Präfix von <https://github.com/advisories> angehängt wird.
 
-[](#codespaces)Codespaces
+[Codespaces #](#codespaces)
 ----------
 
 *Hinweis: Der Dienst github.dev, der per Klick auf „.“ für ein Repository oder per direkter Navigation zu github.dev verfügbar ist, unterliegt den Beta-Nutzungsbedingungen von GitHub.*
@@ -130,17 +130,17 @@ Mit Codespaces können Sie Erweiterungen aus dem Microsoft Visual Studio Marketp
 
 Die allgemein verfügbare Version von Codespaces ist derzeit nicht für Kunden verfügbar, die für die US-Regierung arbeiten. Kunden, die für die US-Regierung arbeiten, können weiterhin die Beta-Vorschau von Codespaces unter separaten Bedingungen nutzen. Siehe [Bedingungen für die Beta-Vorschau](/de/site-policy/github-terms/github-terms-of-service#j-beta-previews).
 
-[](#competitive-benchmarking)Wettbewerbsbenchmarking
+[Wettbewerbsbenchmarking #](#competitive-benchmarking)
 ----------
 
 Wenn Sie ein Produkt oder einen Dienst anbieten, das bzw. der im Wettbewerb zu einem GitHub-Produkt oder -Dienst steht, stimmen Sie mit Ihrer Verwendung dieses GitHub-Produkts oder -Diensts zu, auf jegliche Einschränkungen in Bezug auf GitHub bei der Verwendung im Wettbewerb und bei Benchmarktests in den Bestimmungen, die für das bzw. den konkurrierende(n) Produkt oder Dienst gelten, zu verzichten. Wenn Sie nicht beabsichtigen, auf solche Einschränkungen in Ihren Nutzungsbedingungen zu verzichten, dürfen Sie dieses GitHub-Produkt bzw. diesen GitHub-Dienst nicht verwenden.
 
-[](#connect)Verbinden
+[Verbinden #](#connect)
 ----------
 
 Mit GitHub Connect können Sie bestimmte Features und Daten zwischen Ihrer GitHub Enterprise Server- oder GitHub AE-Bereitstellung und Ihrer GitHub Enterprise Cloud-Organisation oder Ihrem Unternehmenskonto auf GitHub.com teilen. Zum Aktivieren von GitHub Connect müssen Sie über mindestens ein (1) Konto auf GitHub Enterprise Cloud oder GitHub.com und eine (1) lizenzierte Bereitstellung von GitHub Enterprise Server oder GitHub AE verfügen. Ihre Nutzung von GitHub Enterprise Cloud oder GitHub.com über Connect unterliegt den Bedingungen, unter denen Sie GitHub Enterprise Cloud oder GitHub.com lizenziert haben. Die Nutzung personenbezogener Daten unterliegt der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
 
-[](#github-copilot)GitHub Copilot
+[GitHub Copilot #](#github-copilot)
 ----------
 
 Um GitHub Copilot verwenden zu können, müssen Sie eine Erweiterung für eine integrierte Entwicklungsumgebung (Integrated Development Environment, IDE) oder einen Editor installieren. Der Code, den Sie mit der GitHub Copilot-Erweiterung in einer IDE oder einem Editor schreiben (**Ihr Code**), ist kein „Inhalt“ im Sinne der Vereinbarung, bis Sie ihn auf GitHub.com hochladen.
@@ -157,22 +157,22 @@ GitHub Copilot (i) kann abhängig von Ihren bevorzugten Telemetrieeinstellungen 
 
 Für Enterprise-Benutzer unterliegt Ihre Nutzung von GitHub Copilot den [produktspezifischen Bedingungen für GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-[](#github-enterprise-importer)GitHub Enterprise Importer
+[GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
 
 Importer ist ein Framework zum Exportieren von Daten aus anderen Quellen, die in die GitHub Plattform importiert werden sollen. Importer wird „wie besehen” zur Verfügung gestellt.
 
-[](#npm)npm
+[npm #](#npm)
 ----------
 
 Npm ist ein Hosting-Service für Softwarepakete, mit dem Sie Ihre Softwarepakete privat oder öffentlich hosten und Pakete als Abhängigkeiten in Ihren Projekten verwenden können. Npm ist die Registrierungsstelle für das JavaScript-Ökosystem. Die öffentliche npm-Registrierung kann kostenlos verwendet werden, Kunden müssen jedoch Gebühren zahlen, wenn sie private Pakete veröffentlichen oder private Pakete mithilfe von Teams verwalten möchten. Die [npm-Dokumentation](https://docs.npmjs.com/) enthält Details zur Beschränkung von Kontotypen und zur Verwaltung von [privaten Paketen](https://docs.npmjs.com/about-private-packages) und [Organisationen](https://docs.npmjs.com/organizations). Die akzeptable Nutzung der npm-Registrierung ist in den [Open-Source-Bedingungen](https://www.npmjs.com/policies/open-source-terms) beschrieben. Sowohl für npm [solo](https://www.npmjs.com/policies/solo-plan) als auch für [org](https://www.npmjs.com/policies/orgs-plan) gibt es zusätzliche Bedingungen. Wenn Sie npm nutzen, sind Sie an die [Nutzungsbedingungen](https://www.npmjs.com/policies/terms) von npm gebunden.
 
-[](#packages)Pakete
+[Pakete #](#packages)
 ----------
 
 GitHub Package ist ein Hosting-Service für Softwarepakete, mit dem Sie Ihre Softwarepakete privat oder öffentlich hosten und Pakete als Abhängigkeiten in Ihren Projekten verwenden können. GitHub Packages wird auf Nutzungsbasis abgerechnet. Die [Dokumentation zu Packages](/de/packages/learn-github-packages/introduction-to-github-packages) enthält Informationen über Bandbreite und Speichermengen (abhängig von Ihrem Kontoplan) und darüber, wie Sie die Nutzung von Packages überwachen und Nutzungslimits festlegen können. Die Bandbreitennutzung von Packages wird durch die [GitHub Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) beschränkt.
 
-[](#pages)Pages
+[Pages #](#pages)
 ----------
 
 Jedes Konto bietet Zugriff auf den [statischen Hosting-Dienst GitHub Pages](/de/pages/getting-started-with-github-pages/about-github-pages). GitHub Pages ist dazu gedacht, statische Webseiten zu hosten, dienst aber in erster Linie als Schaufenster für persönliche und organisatorische Projekte.
@@ -189,17 +189,17 @@ Bei Verwendung von GitHub Pages sind Sie stets an die Vereinbarung, an die GitHu
 
 Wenn Sie unsicher sind, ob Ihre Nutzung oder Ihr Nutzungszweck in eine dieser Kategorien fällt, wenden Sie sich bitte an den [GitHub Support](https://support.github.com/contact?tags=docs-policy). GitHub behält sich das Recht vor, jede GitHub-Subdomain jederzeit ohne Haftung zurückzufordern.
 
-[](#previews)Vorschauen
+[Vorschauen #](#previews)
 ----------
 
 Der Begriff „Vorschauversion” bezeichnet Software, Online-Dienste und zusätzliche Produkte und Funktionen, die für Vorschau-, Evaluierungs-, Demonstrations- oder Testzwecke bereitgestellt werden, oder Vorabversionen davon, wie z. B. Alpha, Beta oder Early Access. Wenn Ihre Vereinbarung keine Bedingungen enthält, die sich auf Vorschauen beziehen, gelten die folgenden Bedingungen. GitHub gewährt ein eingeschränktes Recht zur Nutzung einer Nicht-Produktionsinstanz der Vorschauversion. Die Vorschauversionen werden „wie besehen“, „mit allen Fehlern“ und „wie verfügbar“ bereitgestellt. GitHub behält sich vor, Vorschauversionen jederzeit ohne vorherige Ankündigung zu ändern oder einzustellen. Alle Informationen, die wir Ihnen über eine private Vorschauversion geben, gelten als vertrauliche Informationen von GitHub. Wenn Sie Kommentare oder Vorschläge zu einer Vorschauversion abgeben, können wir dieses Feedback für jeden Zweck ohne jegliche Verpflichtung verwenden. Die maximale Haftung von GitHub ist auf direkte Schäden bis zu 5.000 USD beschränkt. GitHub ist nicht verpflichtet, Sie bei Ansprüchen Dritter, die sich aus Ihrer Nutzung von Vorschauversionen ergeben, zu verteidigen, zu entschädigen oder schadlos zu halten.
 
-[](#sponsors-program)Sponsors Programm
+[Sponsors Programm #](#sponsors-program)
 ----------
 
 Über GitHub Sponsors kann die Entwickler-Community Personen und Organisationen finanziell unterstützen, die die Open-Source-Projekte, auf die sie angewiesen sind, entwerfen, erstellen und verwalten. Um Sponsored Developer zu werden, müssen Sie den [zusätzlichen Bedingungen für das GitHub Sponsors Programm](/de/site-policy/github-terms/github-sponsors-additional-terms) zustimmen
 
-[](#sql-server-images)SQL Server Images
+[SQL Server Images #](#sql-server-images)
 ----------
 
 Sie können Microsoft SQL Server Standard Edition Container Images für Linux-Dateien („SQL Server Images“) herunterladen. Sie sind verpflichtet, die SQL Server Images zu deinstallieren, wenn Ihr Recht zur Verwendung der Software endet. Die Microsoft Corporation kann SQL Server Images jederzeit deaktivieren.

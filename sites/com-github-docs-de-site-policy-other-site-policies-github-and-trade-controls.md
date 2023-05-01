@@ -30,10 +30,10 @@ Als Ergebnis unseres Eintretens und unserer harten Arbeit mit den US-Aufsichtsbe
 
 Obwohl wir die folgenden Informationen unten zu Ihrer Übersicht bereitgestellt haben, liegt es letztendlich in Ihrer Verantwortung, sicherzustellen, dass Ihre Nutzung der Produkte und Dienste von GitHub allen geltenden Gesetzen und Vorschriften entspricht, einschließlich der US-Exportkontrollgesetze.
 
-[](#export-overview)Exportvorschriften im Überblick
+[Exportvorschriften im Überblick #](#export-overview)
 ----------
 
-### [](#githubcom)GitHub.com ###
+### [GitHub.com #](#githubcom) ###
 
 Im Rahmen unserer [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) dürfen Nutzer GitHub.com nur in Übereinstimmung mit geltendem Recht, einschließlich US-Exportkontroll- und Sanktionsgesetzen, aufrufen und verwenden.
 
@@ -45,7 +45,7 @@ Sowohl kostenlose als auch kostenpflichtige GitHub Cloud-Dienste stehen zudem En
 
 Specially Designated Nationals (SDNs), andere nach US-amerikanischem und anderem geltendem Recht Denied Parties oder gesperrte Parteien und bestimmte Regierungsbeamte können vom Zugriff auf oder der Verwendung von GitHub.com ausgeschlossen werden. Darüber hinaus dürfen Nutzer GitHub.com nicht für oder im Namen solcher Parteien verwenden, im Allgemeinen einschließlich der Regierungen sanktionierter Länder. Darüber hinaus darf GitHub.com nicht für Zwecke verwendet werden, die nach den geltenden Exportkontrollgesetzen verboten sind, einschließlich der in [15 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5) beschriebenen verbotenen Endverwendungen.
 
-### [](#github-enterprise-server)GitHub Enterprise Server ###
+### [GitHub Enterprise Server #](#github-enterprise-server) ###
 
 GitHub Enterprise Server ist eine selbstgehostete virtuelle Appliance, die in Ihrem eigenen Rechenzentrum oder Ihrer Virtual Private Cloud ausgeführt werden kann. Als solches kann GitHub Enterprise Server zum Speichern von ITAR-Informationen oder anderen Informationen, die der Exportkontrolle unterliegen, verwendet werden, obwohl Endbenutzer dennoch dafür verantwortlich sind, die Einhaltung der ITAR und anderer anwendbarer Exportkontrollen sicherzustellen.
 
@@ -53,24 +53,24 @@ GitHub Enterprise Server ist ein kommerzielles Produkt für den Massenmarkt, hat
 
 GitHub Enterprise Server darf nicht an Länder verkauft, exportiert oder reexportiert werden, die in Country Group E:1 in Supplement No. 1 bis Teil 740 der EAR aufgeführt sind, oder in die folgenden Regionen der Ukraine: Krim und die Separatistengebiete Donezk und Luhansk. Zu den aufgeführten Ländern gehören derzeit Kuba, Iran, Nordkorea, Syrien, Russland und Belarus, aber diese Liste kann sich ändern.
 
-[](#frequently-asked-questions)Häufig gestellte Fragen
+[Häufig gestellte Fragen #](#frequently-asked-questions)
 ----------
 
-### [](#on-which-countries-and-territories-are-us-government-sanctions-applied)Für welche Länder und Gebiete werden Sanktionen der US-Regierung verhängt? ###
+### [Für welche Länder und Gebiete werden Sanktionen der US-Regierung verhängt? #](#on-which-countries-and-territories-are-us-government-sanctions-applied) ###
 
 Die Krim, die Separatistengebiete Donezk und Luhansk, Kuba, den Iran, Nordkorea und Syrien. In Bezug auf den Iran verfügt GitHub jedoch jetzt über eine Lizenz des Office of Foreign Assets Control (OFAC) des US-Finanzministeriums, um Cloud-Dienste für Entwickler bereitzustellen, die sich in diesem Land befinden oder anderweitig dort ansässig sind. Sowohl kostenlose als auch kostenpflichtige GitHub Cloud-Dienste stehen zudem Entwicklern in Kuba allgemein zur Verfügung.
 
-### [](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal)Wie stellt GitHub sicher, dass Personen, die nicht in den sanktionierten Ländern und Gebieten leben und/oder berufliche Verbindungen zu ihnen haben, weiterhin Zugang oder die Möglichkeit haben, Einspruch einzulegen? ###
+### [Wie stellt GitHub sicher, dass Personen, die nicht in den sanktionierten Ländern und Gebieten leben und/oder berufliche Verbindungen zu ihnen haben, weiterhin Zugang oder die Möglichkeit haben, Einspruch einzulegen? #](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
 
 In dem seltenen Fall, dass ein Konto unbeabsichtigt oder irrtümlich betroffen ist, haben wir ein Beschwerdeverfahren, um solche Fälle regeln.
 
 Wenn ein einzelner Nutzer oder Organisationsadministrator der Meinung ist, dass er irrtümlicherweise gekennzeichnet wurde, hat dieser Nutzer die Möglichkeit, die Markierung anzufechten, indem er GitHub Verifizierungsinformationen zur Verfügung stellt. Wenn GitHub ausreichende Informationen erhält, um zu bestätigen, dass der Nutzer oder die Organisation nicht mit einer von den USA sanktionierten Rechtsordnung verbunden ist, für die wir keine Lizenz haben, oder nicht anderweitig durch US-Wirtschaftssanktionen eingeschränkt ist, wird die Markierung entfernt. Wir verweisen auf das [Einspruchsformular für Einzelkonten](https://airtable.com/shrGBcceazKIoz6pY) und das [Einspruchsformular für Organisationskonten](https://airtable.com/shrB2je5RBkqLEt5D).
 
-### [](#will-traveling-in-these-regions-be-impacted)Ist das Reisen in diese Regionen davon betroffen? ###
+### [Ist das Reisen in diese Regionen davon betroffen? #](#will-traveling-in-these-regions-be-impacted) ###
 
 Reisen in diese Regionen können sich auf Ihren Kontostatus auswirken, aber die Verfügbarkeit kann wiederhergestellt werden, sobald Sie sich außerhalb der sanktionierten Region befinden und einen erfolgreichen [Beschwerdeantrag für Einzelkonten](https://airtable.com/shrGBcceazKIoz6pY) bzw. einen erfolgreichen [Beschwerdeantrag für Organisationskonten](https://airtable.com/shrB2je5RBkqLEt5D) eingereicht haben.
 
-### [](#what-is-available-and-not-available)Was ist verfügbar und was nicht? ###
+### [Was ist verfügbar und was nicht? #](#what-is-available-and-not-available) ###
 
 GitHub hat jetzt eine Lizenz von OFAC, um Cloud-Dienste für Entwickler bereitzustellen, die sich im von den USA sanktionierten Iran befinden oder anderweitig dort ansässig sind. Die Lizenz umfasst alle öffentlichen und privaten Dienste für Einzelpersonen und Organisationen, sowohl kostenlose als auch kostenpflichtige. Sowohl kostenlose als auch kostenpflichtige GitHub Cloud-Dienste stehen zudem Entwicklern in Kuba allgemein zur Verfügung.
 
@@ -84,25 +84,25 @@ Specially Designated Nationals (SDNs), andere nach US-amerikanischem und anderem
 
 GitHub Dienste stehen Entwicklern mit Sitz oder anderweitigem Wohnsitz in Nordkorea nicht zur Verfügung.
 
-### [](#how-do-you-define-these-specific-users)Wie definieren Sie diese spezifischen Benutzer\*innen? ###
+### [Wie definieren Sie diese spezifischen Benutzer\*innen? #](#how-do-you-define-these-specific-users) ###
 
 Wenn GitHub feststellt, dass sich ein Nutzer oder Kunde in einer Region befindet, die US-Handelskontrollbeschränkungen unterliegt, für die GitHub noch keine Lizenz der US-Regierung hat, oder ein Nutzer anderweitig durch US-Wirtschaftssanktionen eingeschränkt ist, dann wird das verbundene Konto so beschränkt, dass diese gesetzlichen Anforderungen eingehalten werden. Die Bestimmung des Nutzer- und Kundenstandorts zur Umsetzung dieser gesetzlichen Beschränkungen wird aus einer Reihe von Quellen abgeleitet, u. a. IP-Adressen und Zahlungsverlauf. Nationalität und ethnische Zugehörigkeit werden nicht dafür herangezogen, Nutzer für Sanktionsbeschränkungen zu kennzeichnen.
 
-### [](#how-are-organization-accounts-impacted)Wie sind Organisationskonten betroffen? ###
+### [Wie sind Organisationskonten betroffen? #](#how-are-organization-accounts-impacted) ###
 
 Wenn eine Organisation ihren Sitz in einem sanktionierten Gebiet oder Land hat oder die Schlüsselpersonen oder die Mitgliedschaft einer Organisation ausreichende Verbindungen zu einem sanktionierten Gebiet oder Land aufweisen, für das GitHub noch keine Lizenz der US-Regierung hat, oder wenn die Organisation anderweitig US-Wirtschaftssanktionen zu unterliegen scheint, dann werden das Organisationskonto und das Konto des verbundenen Eigentümers eingeschränkt.
 
 Die Einschränkung sperrt den Zugriff auf private Repository-Dienste und kostenpflichtige Dienste, wie z. B. die Verfügbarkeit von kostenlosen oder kostenpflichtigen privaten Repositories, geheimen Inhalten, kostenpflichtigen Action-Minuten, Sponsors und GitHub Marketplace Diensten. Für kostenpflichtige Organisationskonten, die mit diesen sanktionierten Regionen verbunden sind, haben Nutzer möglicherweise eingeschränkten Zugriff auf ihre öffentlichen Repositories, die auf archivierte schreibgeschützte Repositories heruntergestuft wurden. Für kostenlose Organisationskonten, die mit diesen sanktionierten Regionen verbunden sind, haben Nutzer weiterhin vollen Zugriff auf kostenlose öffentliche Repositories für Open-Source-Projekte (und zugehörige öffentliche Pages), öffentliche Gists und zugeteilte kostenlose Action-Minuten.
 
-### [](#can-trade-restricted-users-private-repositories-be-made-public)Können die privaten Repositories von Nutzern, die Handelsbeschränkungen unterliegen, öffentlich gemacht werden? ###
+### [Können die privaten Repositories von Nutzern, die Handelsbeschränkungen unterliegen, öffentlich gemacht werden? #](#can-trade-restricted-users-private-repositories-be-made-public) ###
 
 Nutzer von kostenlosen Einzelkonten können eingeschränkte private Repositories nur für die private Kommunikation und nicht für kommerzielle Zwecke öffentlich machen. Nutzer können dies tun, indem sie zur Registerkarte „Repository Settings“ (Repository-Einstellungen) navigieren und auf die Schaltfläche „make public“ (Öffentlich machen) klicken. Sobald das Repository öffentlich ist, haben Nutzer Zugriff auf öffentliche Repository-Dienste. Dieser Vorgang kann nicht rückgängig gemacht werden.
 
-### [](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data)Können Nutzer, die Handelsbeschränkungen unterliegen, auf private Repositorydaten zugreifen (z. B. Repository-Daten herunterladen oder löschen)? ###
+### [Können Nutzer, die Handelsbeschränkungen unterliegen, auf private Repositorydaten zugreifen (z. B. Repository-Daten herunterladen oder löschen)? #](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
 
 Leider gibt uns unser Rechtsverständnis nicht die Möglichkeit, Downloads oder Löschungen von Inhalten privater Repositories zuzulassen, solange dies nicht von der US-Regierung genehmigt wurde. Wir werden uns bei den US-Aufsichtsbehörden nachdrücklich für das Recht von Nutzern, die Handelsbeschränkungen unterliegen, einsetzen, die Inhalte ihrer privaten Repositories zu sichern. Wir werden uns auch für eine größere Verfügbarkeit von GitHub Diensten für Entwickler in sanktionierten Märkten einsetzen und die Bedeutung der Code-Zusammenarbeit bei der Unterstützung der persönlichen Kommunikation für Entwickler weltweit weiter unterstreichen.
 
-### [](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran)Welche Arten von Konten werden unter der Lizenz, die GitHub von OFAC erhalten hat, im Iran verfügbar sein? ###
+### [Welche Arten von Konten werden unter der Lizenz, die GitHub von OFAC erhalten hat, im Iran verfügbar sein? #](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
 
 Die Lizenz, die wir erhalten haben, umfasst alle öffentlichen und privaten Dienste für Einzelpersonen und Organisationen, sowohl kostenlose als auch kostenpflichtige.
 
@@ -112,11 +112,11 @@ Specially Designated Nationals (SDNs), andere nach US-amerikanischem und anderem
 
 Wenn GitHub feststellt, dass eine Person oder Organisation in eine eingeschränkte Kategorie fällt (SDNs, andere gesperrte Parteien oder bestimmte Regierungsbeamte), wird ihr Konto gekennzeichnet und sie können keine GitHub Funktionen verwenden. Wenn sie der Meinung sind, dass sie irrtümlicherweise gekennzeichnet wurden, haben sie die Möglichkeit, Einspruch gegen die Kennzeichnung einzulegen, indem sie GitHub Verifizierungsinformationen über unser [Einspruchsformular für Einzelkonten oder Organisationskonten](https://airtable.com/shrGBcceazKIoz6pY) zur Verfügung stellen. Wenn GitHub ausreichende Informationen erhält, um zu bestätigen, dass die Person nicht in eine Kategorie fällt, die durch US-Wirtschaftssanktionen eingeschränkt ist, wird die Markierung entfernt.
 
-### [](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license)Werden iranische GitHub Nutzer kostenpflichtige Dienste unter der Lizenz nutzen können? ###
+### [Werden iranische GitHub Nutzer kostenpflichtige Dienste unter der Lizenz nutzen können? #](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
 
 Gemäß der Lizenz, die wir von OFAC erhalten haben, stellen wir alle Cloud-Dienste für iranische Nutzer wieder her, einschließlich kostenpflichtiger Dienste. Wir akzeptieren alle gängigen Kreditkarten, aber Zahlungen werden von Dritten für uns abgewickelt, daher unterliegen Zahlungen den Geschäftsbedingungen unserer Zahlungsabwickler. Diese Drittanbieter können Beschränkungen festlegen, die Zahlungen aus dem Iran blockieren.
 
-### [](#can-you-clarify-availability-of-github-to-cuban-developers)Können Sie die Verfügbarkeit von GitHub für kubanische Entwickler\*innen erläutern? ###
+### [Können Sie die Verfügbarkeit von GitHub für kubanische Entwickler\*innen erläutern? #](#can-you-clarify-availability-of-github-to-cuban-developers) ###
 
 Sowohl kostenlose als auch kostenpflichtige GitHub Cloud-Dienste stehen Entwicklern in Kuba allgemein zur Verfügung.
 Specially Designated Nationals (SDNs), andere nach US-amerikanischem und anderem geltendem Recht Denied Parties oder gesperrte Parteien und bestimmte Regierungsbeamte können unabhängig von ihrem Standort vom Zugriff auf oder der Verwendung von GitHub.com ausgeschlossen werden. Darüber hinaus dürfen Nutzer GitHub.com nicht für oder im Namen solcher Parteien verwenden, im Allgemeinen einschließlich der Regierungen sanktionierter Länder.

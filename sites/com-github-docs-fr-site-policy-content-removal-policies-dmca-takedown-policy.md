@@ -44,7 +44,7 @@ Bienvenue dans le guide GitHub sur le Digital Millennium Copyright Act, communé
 
 Comme pour toutes les questions juridiques, il est toujours préférable de consulter un professionnel pour votre situation spécifique. Nous vous encourageons fortement à le faire avant d’entreprendre toute action qui pourrait avoir un impact sur vos droits. Ce guide n’est pas un avis juridique et ne doit pas être considéré comme tel.
 
-[](#what-is-the-dmca)Qu’est ce que le DMCA ?
+[Qu’est ce que le DMCA ? #](#what-is-the-dmca)
 ----------
 
 Pour comprendre le DMCA et certaines des lignes politiques qu’il dessine, il peut être utile d’examiner la vie avant sa promulgation.
@@ -55,7 +55,7 @@ Le DMCA aborde cette question en créant une [sphère de sécurité pour la resp
 
 Le DMCA interdit également le [contournement des mesures techniques](https://www.copyright.gov/title17/92chap12.html) qui contrôlent efficacement l’accès aux œuvres protégées par le droit d’auteur.
 
-[](#dmca-notices-in-a-nutshell)Coup d’œil sur les Avis DMCA
+[Coup d’œil sur les Avis DMCA #](#dmca-notices-in-a-nutshell)
 ----------
 
 Le DMCA fournit deux procédures simples que tous les utilisateurs de GitHub doivent connaître : (i) une procédure d’[avis de retrait](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) permettant aux détenteurs de droits d’auteur de demander le retrait d’un contenu ; et (ii) une procédure d’[avis de contestation](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) permettant aux utilisateurs de faire réactiver un contenu retiré par erreur ou après une mauvaise identification.
@@ -66,7 +66,7 @@ D’autre part, des [avis de contestation](/fr/site-policy/content-removal-polic
 
 La procédure d’avis et de retrait DMCA ne doit être utilisée que pour les plaintes relatives à l’atteinte au droit d’auteur. Les notifications envoyées au moyen de notre procédure DMCA doivent identifier la ou les œuvres protégées par des droits d’auteur prétendument violés. Cette procédure ne peut pas être utilisée pour d’autres plaintes, comme les plaintes relatives à une prétendue [violation de marque commerciale](/fr/site-policy/content-removal-policies/github-trademark-policy) ou à des [données sensibles](/fr/site-policy/content-removal-policies/github-private-information-removal-policy). Nous proposons des procédures distinctes pour ces problèmes.
 
-[](#a-how-does-this-actually-work)A. Comment cela fonctionne-t-il réellement ?
+[A. Comment cela fonctionne-t-il réellement ? #](#a-how-does-this-actually-work)
 ----------
 
 Le cadre du DMCA, c’est un peu comme passer des notes en classe. Le titulaire du droit d’auteur transmet à GitHub une plainte concernant un utilisateur. Si elle est écrite correctement, nous transmettons la plainte à l’utilisateur. Si l’utilisateur conteste la plainte, il peut renvoyer une note indiquant son désaccord. GitHub exerce peu de pouvoir discrétionnaire dans ce processus, si ce n’est de déterminer si les avis répondent aux exigences minimales du DMCA. Il appartient aux parties (et à leurs avocats) d’évaluer le bien-fondé de leurs demandes, en gardant à l’esprit que les avis doivent être émis sous peine de parjure.
@@ -95,7 +95,7 @@ Vous trouverez ci-dessous les étapes de base du processus.
 
 8. **Le titulaire du droit d’auteur peut intenter une action en justice.** Si un titulaire de droits d’auteur souhaite maintenir le contenu désactivé après avoir reçu un avis de contestation, il devra engager une action en justice pour obtenir une ordonnance du tribunal afin d’empêcher l’utilisateur de se livrer à une activité illicite liée au contenu sur GitHub. En d’autres termes, vous pourriez être poursuivi en justice. Si le titulaire des droits d’auteur ne donne pas de préavis à GitHub dans les 10 à 14 jours, en envoyant une copie d’une plainte légale valable déposée auprès d’un tribunal compétent, GitHub réactivera le contenu désactivé.
 
-[](#b-what-about-forks-or-whats-a-fork)B. Qu’en est-il des forks ? (ou qu’est-ce qu’un fork ?)
+[B. Qu’en est-il des forks ? (ou qu’est-ce qu’un fork ?) #](#b-what-about-forks-or-whats-a-fork)
 ----------
 
 L’une des meilleures fonctionnalités de GitHub est la possibilité pour les utilisateurs de « forker » les dépôts des autres. Qu’est‑ce que cela signifie ? En substance, cela signifie que les utilisateurs peuvent faire une copie d’un projet sur GitHub dans leurs propres dépôts. Si la licence ou la loi l’autorise, les utilisateurs peuvent alors apporter des modifications à ce fork, soit pour le réintégrer dans le projet principal, soit pour le conserver comme leur propre variante du projet. Chacun de ces exemplaires est un « [Glossaire GitHub](/fr/get-started/quickstart/github-glossary#fork) » du référentiel d'origine, qui à son tour peut également être appelé le « parent » du fork.
@@ -104,7 +104,7 @@ GitHub *ne désactive pas* automatiquement les forks lors de la désactivation d
 
 Dans de rares cas, vous pouvez alléguer une atteinte au droit d’auteur dans un dépôt complet faisant l’objet d’un fork en cours d’utilisation. Si, au moment où vous avez soumis votre avis, vous avez identifié tous les forks existants de ce dépôt comme étant en infraction, nous traiterons une réclamation valable contre tous les forks de ce réseau au moment où nous traiterons l’avis. Nous ferions cela étant donné la probabilité que tous les forks nouvellement créés contiennent le même contenu. En outre, si le réseau signalé qui contient le contenu prétendument en infraction intègre plus de cent (100) dépôts et qu’il serait donc difficile de l’examiner dans son intégralité, nous pouvons envisager de désactiver l’ensemble du réseau si vous déclarez dans votre avis que : « Sur la base du nombre représentatif de forks que j’ai examinés, je pense que la totalité ou la plupart des forks sont en infraction dans la même mesure que le dépôt parent. » Votre déclaration sous serment s’applique à cette déclaration.
 
-[](#c-what-about-circumvention-claims)C Qu’en est-il des réclamations pour contournement ?
+[C Qu’en est-il des réclamations pour contournement ? #](#c-what-about-circumvention-claims)
 ----------
 
 Le DMCA interdit le [contournement des mesures techniques](https://www.copyright.gov/title17/92chap12.html) qui contrôlent efficacement l’accès aux œuvres protégées par le droit d’auteur. Étant donné que ces types de réclamations sont souvent de nature très technique, GitHub demande aux demandeurs de fournir [des informations détaillées sur ces réclamations](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), et nous entreprendrons alors un examen plus approfondi.
@@ -123,24 +123,24 @@ Veuillez noter que notre processus d’examen des technologies de contournement 
 
 Lorsque GitHub traite une demande de retrait DMCA dans le cadre de notre processus d’examen des réclamations relatives aux technologies de contournement, nous proposons au propriétaire du dépôt de bénéficier gratuitement d’une consultation juridique indépendante par l’intermédiaire du [Fonds de Défense des Développeurs de GitHub](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/).
 
-[](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)D. Que se passe-t-il si je n’ai pas respecté par inadvertance le délai pour effectuer des modifications ?
+[D. Que se passe-t-il si je n’ai pas respecté par inadvertance le délai pour effectuer des modifications ? #](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 ----------
 
 Nous reconnaissons qu’il existe de nombreuses raisons valables pour lesquelles vous ne pouvez pas effectuer de modifications dans le délai d’environ un jour ouvrable que nous vous accordons avant que votre dépôt ne soit désactivé. Peut-être que notre message a été signalé comme un spam, peut-être que vous étiez en vacances, peut-être que vous ne vérifiez pas ce compte de messagerie régulièrement, ou peut-être que vous étiez simplement occupé. Nous comprenons. Si vous répondez pour nous faire savoir que vous auriez voulu effectuer les modifications, mais que vous avez manqué la première occasion, nous réactiverons le dépôt une fois de plus pendant environ un jour ouvrable pour vous permettre d’effectuer les modifications. Encore une fois, vous devez nous notifier que vous avez apporté les modifications pour pouvoir conserver le dépôt après ce délai d’environ 1 jour ouvrable, comme indiqué ci-dessus à [l’étape A.4](#a-how-does-this-actually-work). Veuillez noter que nous n’offrirons qu’une seule chance supplémentaire.
 
-[](#e-transparency)E. Transparence
+[E. Transparence #](#e-transparency)
 ----------
 
 Nous pensons que la transparence est une vertu. Le public doit savoir quel contenu est retiré de GitHub et pourquoi. Un public informé peut remarquer et mettre en évidence des problèmes potentiels qui passeraient autrement inaperçus dans un système opaque. Nous publions des copies expurgées de tous les avis juridiques que nous recevons (y compris les avis originaux, les avis de contestation ou les rétractations) à l’adresse <https://github.com/github/dmca>. Nous ne publierons pas publiquement vos coordonnées personnelles. Nous supprimerons les informations personnelles (à l’exception des noms d’utilisateur dans les URL) avant de publier les avis. Toutefois, nous n’expurgerons pas d’autres informations de votre avis, sauf si vous nous le demandez expressément. Voici quelques exemples d’un [avis](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) et d’un [avis de contestation](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md) publiés pour vous permettre de voir à quoi ils ressemblent. Lorsque nous supprimons un contenu, nous publions à sa place un lien vers l’avis correspondant.
 
 Sachez également que, bien que nous ne publiions pas les avis non expurgés, nous pouvons fournir une copie complète non expurgée de tout avis que nous recevons directement à toute partie dont les droits seraient affectés par cet avis.
 
-[](#f-repeated-infringement)F. Infraction répétée
+[F. Infraction répétée #](#f-repeated-infringement)
 ----------
 
 La politique de GitHub est, dans des circonstances appropriées et à sa seule discrétion, de désactiver et de résilier les comptes des utilisateurs qui peuvent enfreindre les droits d’auteur ou d’autres droits de propriété intellectuelle de GitHub ou d’autres.
 
-[](#g-submitting-notices)G. Envoi d’avis
+[G. Envoi d’avis #](#g-submitting-notices)
 ----------
 
 Si vous êtes prêt à soumettre un avis ou un avis de contestation :
@@ -148,7 +148,7 @@ Si vous êtes prêt à soumettre un avis ou un avis de contestation :
 * [Comment soumettre un avis DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 * [Comment soumettre un avis de contestation DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-[](#learn-more-and-speak-up)Informez-vous et exprimez-vous
+[Informez-vous et exprimez-vous #](#learn-more-and-speak-up)
 ----------
 
 Si vous vous promenez sur Internet, il n’est pas difficile de trouver des commentaires et des critiques sur le système du droit d’auteur en général et sur le DMCA en particulier. Bien que GitHub reconnaisse et apprécie le rôle important que le DMCA a joué dans la promotion de l’innovation en ligne, nous pensons que les lois sur le droit d’auteur auraient besoin d’être revues, paritellement voire complètement. Dans le domaine des logiciels, nous améliorons et mettons à jour notre code en permanence. Pensez à l’évolution de la technologie depuis 1998, date à laquelle le DMCA a été rédigé. N’est-il pas logique de mettre à jour ces lois qui s’appliquent aux logiciels ?

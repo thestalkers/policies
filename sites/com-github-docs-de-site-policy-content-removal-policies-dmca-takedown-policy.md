@@ -44,7 +44,7 @@ Willkommen beim GitHub-Leitfaden zum Digital Millennium Copyright Act, allgemein
 
 Wie bei allen rechtlichen Angelegenheiten ist es stets ratsam, sich zu Ihren spezifischen Fragen oder Ihrer Situation an einen Fachmann zu wenden. Wir empfehlen Ihnen dringend, dies zu tun, bevor Sie Maßnahmen ergreifen, die Ihre Rechte beeinträchtigen könnten. Dieser Leitfaden ist keine Rechtsberatung und sollte auch nicht als solche verstanden werden.
 
-[](#what-is-the-dmca)Was sind die Produktbenutzungsrechte (DMCA)?
+[Was sind die Produktbenutzungsrechte (DMCA)? #](#what-is-the-dmca)
 ----------
 
 Um den DMCA und einige der darin vorgegebenen Richtlinien zu verstehen, ist es vielleicht hilfreich, einen Blick auf die Situation vor der Verabschiedung dieses Gesetzes zu werfen.
@@ -55,7 +55,7 @@ Der DMCA geht dieses Problem an, indem er eine [urheberrechtlichen Haftungsschut
 
 Der DMCA verbietet auch die [Umgehung technischer Maßnahmen](https://www.copyright.gov/title17/92chap12.html), die den Zugang zu urheberrechtlich geschützten Werken wirksam kontrollieren.
 
-[](#dmca-notices-in-a-nutshell)DMCA-Mitteilungen in Kürze
+[DMCA-Mitteilungen in Kürze #](#dmca-notices-in-a-nutshell)
 ----------
 
 Der DMCA bietet zwei einfache, unkomplizierte Verfahren, die alle GitHub-Nutzer kennen sollten: (i) ein [Takedown Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)-Verfahren für Urheberrechtsinhaber, um die Entfernung von Inhalten zu beantragen; und (ii) ein [Counter Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)-Verfahren, mit dem Nutzer Inhalte wieder aktivieren können, wenn Inhalte versehentlich oder durch fälschliche Identifizierung entfernt wurden.
@@ -66,7 +66,7 @@ Auf der anderen Seite können mit [Counter Notices](/de/site-policy/content-remo
 
 Der DMCA-Notice-and-Takedown-Prozess sollte nur für Beschwerden über Urheberrechtsverletzungen verwendet werden. Mitteilungen, die über unseren DMCA-Prozess gesendet werden, müssen urheberrechtlich geschützte Werke oder Werke, die mutmaßlich verletzt werden, identifizieren. Das Verfahren kann nicht für andere Beschwerden verwendet werden, z. B. Beschwerden über mutmaßliche [Markenrechtsverletzung](/de/site-policy/content-removal-policies/github-trademark-policy) oder [sensible Daten](/de/site-policy/content-removal-policies/github-private-information-removal-policy); für diese Situationen bieten wir separate Prozesse an.
 
-[](#a-how-does-this-actually-work)A. Wie funktioniert das eigentlich?
+[A. Wie funktioniert das eigentlich? #](#a-how-does-this-actually-work)
 ----------
 
 Das DMCA-Framework ist mit dem Weitergeben von Zetteln im Unterricht vergleichbar. Der Urheberrechtsinhaber übergibt GitHub eine Beschwerde über einen Nutzer. Wenn diese richtig geschrieben ist, leiten wir die Beschwerde an den Nutzer weiter. Wenn der Nutzer die Beschwerde bestreitet, kann er eine entsprechende Mitteilung zurückgeben. GitHub hat in diesem Verfahren wenig Ermessensspielraum und muss lediglich bestimmen, ob die Mitteilungen die Mindestanforderungen des DMCA erfüllen. Es ist Sache der Parteien (und ihrer Anwälte), die Begründetheit ihrer Ansprüche zu beurteilen, wobei zu beachten ist, dass Mitteilungen in Kenntnis der Strafbarkeit einer falschen eidesstattlichen Versicherung erfolgen müssen.
@@ -95,7 +95,7 @@ Nachfolgend werden die grundlegenden Schritte des Prozesses erläutert.
 
 8. **Der Urheberrechtsinhaber kann rechtliche Schritte einleiten.** Wenn ein Urheberrechtsinhaber den Inhalt nach Erhalt einer Counter Notice deaktiviert lassen möchte, muss er durch Einleitung rechtlicher Schritte einen Gerichtsbeschluss erwirken, um den Nutzer daran zu hindern, sich an rechtsverletzenden Aktivitäten in Bezug auf den Inhalt auf GitHub zu beteiligen. Mit anderen Worten, Sie könnten verklagt werden. Wenn der Urheberrechtsinhaber GitHub nicht innerhalb von 10 bis 14 Tagen benachrichtigt, indem er eine Kopie einer rechtsgültigen Beschwerde sendet, die bei einem zuständigen Gericht eingereicht wurde, wird GitHub den deaktivierten Inhalt wieder aktivieren.
 
-[](#b-what-about-forks-or-whats-a-fork)B. Was ist mit Abspaltungen (Forks)? (oder Was ist eine Abspaltung?)
+[B. Was ist mit Abspaltungen (Forks)? (oder Was ist eine Abspaltung?) #](#b-what-about-forks-or-whats-a-fork)
 ----------
 
 Eines der besten Features von GitHub ist, dass Nutzer die Möglichkeit haben, Repositories anderer abzuspalten bzw. zu „forken“. Was bedeutet das? Im Wesentlichen bedeutet dies, dass Nutzer in ihrem eigenen Repository eine Kopie eines Projekts auf GitHub erstellen können. Wenn die Lizenz oder das Gesetz es zulässt, können Nutzer dann Änderungen an dieser Abspaltung vornehmen, um entweder zum Hauptprojekt zurückzukehren oder einfach ihre eigene Variante eines Projekts zu behalten. Jedes dieser Exemplare ist ein [GitHub-Glossar](/de/get-started/quickstart/github-glossary#fork) des ursprünglichen Repositorys, das wiederum auch als „übergeordnetes Element“ des Forks bezeichnet werden kann.
@@ -104,7 +104,7 @@ GitHub wird Abspaltungen *nicht* automatisch deaktivieren, wenn ein übergeordne
 
 In seltenen Fällen können Sie eine Urheberrechtsverletzung in einem vollständigen Repository geltend machen, das aktiv geforkt wird. Wenn Sie zu dem Zeitpunkt, an dem Sie Ihre Mitteilung eingereicht haben, alle vorhandenen Abspaltungen dieses Repositories als mutmaßlich verletzend identifiziert haben, würden wir bei Bearbeitung der Mitteilung einen gültigen Anspruch gegen alle Abspaltungen in diesem Netzwerk bearbeiten. Wir würden dies aufgrund der Wahrscheinlichkeit tun, dass alle neu erstellten Abspaltungen denselben Inhalt enthalten würden. Wenn das gemeldete Netzwerk, das die mutmaßlich verletzenden Inhalte enthält, größer als einhundert (100) Repositories ist und es daher schwierig wäre, es in seiner Gesamtheit zu überprüfen, können wir außerdem in Betracht ziehen, das gesamte Netzwerk zu deaktivieren, wenn Sie in Ihre Mitteilung folgende Aussage aufnehmen: „Auf der Grundlage der von mir überprüften repräsentativen Anzahl von Abspaltungen bin ich der Ansicht, dass alle oder die meisten Abspaltungen im gleichen Maße wie das übergeordnete Repository rechtsverletzend sind.“ Ihre eidesstattliche Erklärung würde für diese Erklärung gelten.
 
-[](#c-what-about-circumvention-claims)C. Was ist mit Ansprüchen wegen Umgehung von Maßnahmen (Circumvention Claims)?
+[C. Was ist mit Ansprüchen wegen Umgehung von Maßnahmen (Circumvention Claims)? #](#c-what-about-circumvention-claims)
 ----------
 
 Der DMCA verbietet die [Umgehung technischer Maßnahmen](https://www.copyright.gov/title17/92chap12.html), die den Zugang zu urheberrechtlich geschützten Werken wirksam kontrollieren. Angesichts der Tatsache, dass diese Arten von Ansprüchen oft sehr technischer Natur sind, verlangt GitHub von den Anspruchsstellern die Bereitstellung [detaillierte Informationen zu diesen Forderungen](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), und wir nehmen eine umfassendere Prüfung vor.
@@ -123,24 +123,24 @@ Bitte beachten Sie, dass unser Überprüfungsprozess für Umgehungstechnologie n
 
 Wenn GitHub eine DMCA Takedown Notice im Rahmen unseres Prozesses zur Überprüfung von Ansprüchen wegen Umgehungstechnologie verarbeitet, bieten wir dem Repository-Eigentümer eine Empfehlung an, um eine unabhängige Rechtsberatung über [GitHubs Developer Defense Fund](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) zu erhalten, die für ihn kostenlos ist.
 
-[](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)D. Was passiert, wenn ich versehentlich das Zeitfenster zum Vornehmen von Änderungen verpasst habe?
+[D. Was passiert, wenn ich versehentlich das Zeitfenster zum Vornehmen von Änderungen verpasst habe? #](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 ----------
 
 Uns ist bewusst, dass es viele triftige Gründe gibt, warum Sie möglicherweise keine Änderungen innerhalb des von uns bereitgestellten Zeitfensters von etwa einem Werktag vornehmen können, bevor Ihr Repository deaktiviert wird. Womöglich wurde unsere Nachricht als Spam markiert, vielleicht waren Sie im Urlaub, checken Ihr E-Mail-Konto nicht regelmäßig oder waren eventuell einfach nur beschäftigt. Das verstehen wir. Wenn Sie antworten, um uns mitzuteilen, dass Sie die Änderungen gerne vorgenommen hätten, aber aus irgendeinem Grund die erste Gelegenheit verpasst haben, werden wir das Repository ein weiteres Mal für etwa einen Werktag erneut aktivieren, damit Sie die Änderungen vornehmen können. Auch hier müssen Sie uns benachrichtigen, dass Sie die Änderungen vorgenommen haben, damit das Repository nach diesem Zeitfenster von etwa einem Werktag aktiviert bleibt, wie oben unter [Schritt A.4](#a-how-does-this-actually-work) angegeben. Bitte beachten Sie, dass wir Ihnen nur diese eine zusätzliche Chance anbieten.
 
-[](#e-transparency)E. Transparenz
+[E. Transparenz #](#e-transparency)
 ----------
 
 Wir glauben, dass Transparenz eine Tugend ist. Die Öffentlichkeit sollte wissen, welche Inhalte von GitHub entfernt werden und warum. Eine informierte Öffentlichkeit kann potenzielle Probleme erkennen und aufdecken, die sonst in einem undurchsichtigen System unbemerkt bleiben würden. Wir veröffentlichen redigierte Kopien aller rechtlichen Mitteilungen, die wir erhalten (einschließlich Originalmitteilungen, Counter Notices oder Widerrufen), unter <https://github.com/github/dmca>. Wir veröffentlichen Ihre persönlichen Kontaktdaten nicht, und wir entfernen persönliche Daten (mit Ausnahme von Nutzernamen in URLs), bevor wir Mitteilungen veröffentlichen. Andere Informationen aus Ihrer Mitteilung machen wir jedoch nur dann unkenntlich, wenn Sie uns ausdrücklich dazu auffordern. Hier sind einige Beispiele für eine veröffentlichte [Takedown Notice](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) und[Counter Notice](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md), damit Sie sich eine Vorstellung davon machen können. Wenn wir Inhalte entfernen, veröffentlichen wir an ihrer Stelle einen Link zu der entsprechenden Mitteilung.
 
 Bitte beachten Sie auch, dass wir, obwohl wir nicht redigierte Mitteilungen nicht veröffentlichen, eine vollständige nicht redigierte Kopie aller Mitteilungen, die wir erhalten, direkt an jede Partei weitergeben können, deren Rechte davon betroffen wären.
 
-[](#f-repeated-infringement)F. Wiederholte Verletzung
+[F. Wiederholte Verletzung #](#f-repeated-infringement)
 ----------
 
 GitHub ist bestrebt, unter geeigneten Umständen und nach eigenem Ermessen die Konten von Nutzern zu deaktivieren und zu kündigen, die möglicherweise die Urheberrechte oder andere gewerbliche Schutzrechte von GitHub oder anderen verletzen.
 
-[](#g-submitting-notices)G. Senden von Mitteilungen
+[G. Senden von Mitteilungen #](#g-submitting-notices)
 ----------
 
 Wenn Sie bereit sind, eine Takedown Notice oder Counter Notice einzureichen, nutzen Sie diese Informationen:
@@ -148,7 +148,7 @@ Wenn Sie bereit sind, eine Takedown Notice oder Counter Notice einzureichen, nut
 * [So reichen Sie eine DMCA Takedown Notice ein](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 * [So reichen Sie eine DMCA Counter Notice ein](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-[](#learn-more-and-speak-up)Weitere Informationen und Bitte um Mitwirkung
+[Weitere Informationen und Bitte um Mitwirkung #](#learn-more-and-speak-up)
 ----------
 
 Im Internet sind Kommentare und Kritik am Urheberrechtssystem im Allgemeinen und am DMCA im Besonderen nicht schwer zu finden. Während GitHub die wichtige Rolle, die der DMCA bei der Förderung von Innovationen im Internet gespielt hat, anerkennt und wertschätzt, sind wir der Auffassung, dass die Urheberrechtsgesetze wahrscheinlich das ein oder andere Patch gebrauchen könnten – wenn nicht eine ganz neue Version. Im Softwarebereich verbessern und aktualisieren wir unseren Code ständig. Überlegen Sie einmal, wie sehr sich die Technologie seit 1998, als der DMCA verfasst wurde, verändert hat. Wäre es nicht sinnvoll, diese Gesetze, die für Software gelten, auf den neuesten Stand zu bringen?

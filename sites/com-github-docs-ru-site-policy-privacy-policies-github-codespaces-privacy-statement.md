@@ -21,7 +21,7 @@
 
 Активность на github.dev регулируется [Условиями для предварительных бета-версий GitHub](/ru/site-policy/github-terms/github-terms-of-service#j-beta-previews)
 
-[](#использование-visual-studio-code)Использование Visual Studio Code
+[Использование Visual Studio Code #](#использование-visual-studio-code)
 ----------
 
 GitHub Codespaces и github.dev позволяют использовать Visual Studio Code в веб-браузере. При использовании VS Code в веб-браузере по умолчанию включен сбор некоторых данных телеметрии. [Подробные сведения см. на веб-сайте VS Code](https://code.visualstudio.com/docs/getstarted/telemetry). Пользователи могут отказаться от телеметрии, выбрав «Файл» \> «Параметры» \> «Настройки» в верхнем левом меню.

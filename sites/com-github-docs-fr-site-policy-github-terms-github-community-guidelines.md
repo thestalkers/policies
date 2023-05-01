@@ -36,7 +36,7 @@ En décrivant ce que nous pensons être une [communauté sûre, accueillante et 
 
 Nous encourageons les membres de notre communauté à communiquer clairement leurs attentes, à [modérer](#what-if-something-or-someone-offends-you) leurs projets lorsque cela est possible, et à [signaler](https://github.com/contact/report-abuse) tout contenu susceptible de violer nos [politiques](/fr/site-policy/github-terms/github-terms-of-service). Le personnel de GitHub enquêtera sur tous les signalements d’abus et pourra modérer le contenu public sur notre site que nous estimons être en violation de nos Conditions Générales d’Utilisation.
 
-[](#maintaining-a-strong-community)Soutenir une communauté forte
+[Soutenir une communauté forte #](#maintaining-a-strong-community)
 ----------
 
 L’objectif principal de la communauté GitHub est la collaboration sur des projets logiciels. Nous nous engageons à créer une communauté où les utilisateurs sont libres de s’exprimer et de contester les idées des autres qu’elles soient techniques ou autres. En même temps, il est important que les utilisateurs restent respectueux et permettent aux autres de contribuer ouvertement. Afin de favoriser un environnement à la fois sûr et productif, nous encourageons les membres de notre communauté à consulter ces règles pour savoir comment ils doivent se comporter sur notre plateforme. Vous trouverez ci-dessous quelques suggestions sur la manière d’avoir des interactions réussies en tant que membre apprécié de la communauté GitHub.
@@ -47,7 +47,7 @@ L’objectif principal de la communauté GitHub est la collaboration sur des pro
 
 * **Faites preuve d’empathie** : GitHub est une communauté mondiale composée de personnes issues d’horizons et de points de vue très divers, dont beaucoup peuvent ne pas être les vôtres. Essayez de vous mettre à la place des autres et de comprendre leurs sentiments avant de vous adresser à eux. Faites de votre mieux pour contribuer à faire de GitHub une communauté où les autres se sentent à l’aise pour apporter des contributions, participer à des discussions et partager des idées différentes.
 
-[](#what-if-something-or-someone-offends-you)Que faire si quelque chose ou quelqu’un vous offense ?
+[Que faire si quelque chose ou quelqu’un vous offense ? #](#what-if-something-or-someone-offends-you)
 ----------
 
 Si certains désaccords peuvent être résolus par une communication directe et respectueuse entre les membres de la communauté, nous comprenons que cela peut ne pas toujours être le cas. Nous encourageons notre communauté à [nous faire savoir](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) lorsqu’elle pense qu’un contenu ou une activité qu’elle a rencontré enfreint nos politiques. Toutefois, si vous rencontrez sur le site quelque chose ou quelqu’un que vous trouvez répréhensible, voici comment GitHub vous permet d’agir :
@@ -64,7 +64,7 @@ Si certains désaccords peuvent être résolus par une communication directe et 
 
 Bien que nous ayons à cœur de permettre aux responsables de modérer leurs propres projets, n’hésitez pas à nous contacter à [Signaler un abus](https://github.com/contact/report-abuse) si vous avez besoin d’une aide supplémentaire pour faire face à une situation particulière.
 
-[](#what-happens-if-someone-violates-githubs-policies)Que se passe-t-il si quelqu’un enfreint les politiques de GitHub ?
+[Que se passe-t-il si quelqu’un enfreint les politiques de GitHub ? #](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
 Nous nous appuyons sur les signalements de la communauté, ainsi que sur la détection proactive, pour nous assurer que GitHub reste une plateforme sûre, accueillante et productive pour les développeurs de logiciels. Nous tenons compte de plusieurs facteurs lorsque nous sommes informés d’un comportement ou d’un contenu non conforme aux politiques de GitHub. Cependant, notre approche de l’application des politiques et de la modération du contenu donne la priorité à notre volonté d’incarner une plateforme conviviale pour tous les développeurs. En d’autres termes :
@@ -83,12 +83,12 @@ Lorsque nous avons décidé qu’une action de modération est justifiée, voici
 * Masquage d’un compte utilisateur ou d’une organisation pour le public
 * Suspension d’un compte utilisateur ou d’une organisation
 
-[](#appeal-and-reinstatement)Appel et réintégration
+[Appel et réintégration #](#appeal-and-reinstatement)
 ----------
 
 Si votre contenu ou votre compte a été désactivé ou restreint et que vous souhaitez le rétablir ou faire appel, veuillez consulter notre [page Appel et réintégration](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) pour obtenir des informations sur la procédure et utiliser notre [formulaire d’appel et de réintégration](https://support.github.com/contact/reinstatement) pour soumettre une demande.
 
-[](#legal-notices)Mentions légales
+[Mentions légales #](#legal-notices)
 ----------
 
 La présente Charte de la Communauté est placée dans le domaine public afin que chacun puisse l’utiliser, la réutiliser ou encore l’adapter, selon les conditions de la licence [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -36,7 +36,7 @@ Indem wir darlegen, wie wir uns eine [sichere, freundliche und produktive Gemein
 
 Wir ermutigen unsere Community-Mitglieder, Erwartungen klar zu kommunizieren, ihre Projekte nach Möglichkeit zu [moderieren](#what-if-something-or-someone-offends-you) und Inhalte zu [melden](https://github.com/contact/report-abuse), die unter Umständen gegen unsere [Richtlinien](/de/site-policy/github-terms/github-terms-of-service) verstoßen. GitHub Beschäftigte gehen allen Missbrauchsmeldungen nach und können öffentliche Inhalte auf unserer Website moderieren, die unserer Meinung nach gegen unsere Nutzungsbedingungen verstoßen.
 
-[](#maintaining-a-strong-community)Pflege einer starken Community
+[Pflege einer starken Community #](#maintaining-a-strong-community)
 ----------
 
 Der Hauptzweck der GitHub Community ist die Zusammenarbeit an Softwareprojekten. Wir engagieren uns für die Wahrung einer Community, in der Nutzer sich frei äußern und die Ideen anderer sowohl technisch als auch anderweitig infrage stellen können. Gleichzeitig ist es wichtig, dass die Nutzer respektvoll bleiben und anderen Raum geben, sich offen einzubringen. Um sowohl ein sicheres als auch produktives Umfeld zu fördern, ermutigen wir unsere Community-Mitglieder, sich diese Richtlinien anzusehen, um sich darüber zu informieren, wie sie auf unserer Plattform interagieren sollten. Nachfolgend finden Sie einige Vorschläge für erfolgreiche Interaktionen als geschätztes Mitglied der GitHub Community.
@@ -47,7 +47,7 @@ Der Hauptzweck der GitHub Community ist die Zusammenarbeit an Softwareprojekten.
 
 * **Einfühlsam sein**. GitHub ist eine globale Community, zu der Menschen mit unterschiedlichsten Hintergründen und Perspektiven gehören. Einige davon unterscheiden sich womöglich von Ihren eigenen Ansichten. Versuchen Sie, sich in andere hineinzuversetzen und ihre Gefühle nachzuvollziehen, bevor Sie sie ansprechen. Tun Sie Ihr Bestes, um GitHub zu einer Community zu machen, in der sich andere sicher fühlen, wenn sie etwas beitragen, an Diskussionen teilnehmen und unterschiedliche Ideen austauschen.
 
-[](#what-if-something-or-someone-offends-you)Was ist, wenn etwas oder jemand Sie beleidigt?
+[Was ist, wenn etwas oder jemand Sie beleidigt? #](#what-if-something-or-someone-offends-you)
 ----------
 
 Während manche Meinungsverschiedenheiten durch direkte, respektvolle Kommunikation zwischen Community-Mitgliedern ausgeräumt werden können, ist uns klar, dass dies nicht immer der Fall ist. Wir ermutigen unsere Community dazu, [uns zu informieren](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified), wenn sie glauben, dass Inhalte oder Aktivitäten, auf die sie gestoßen sind, gegen unsere Richtlinien verstoßen. Wenn Sie jedoch auf etwas oder jemanden auf der Website stoßen, das bzw. den Sie anstößig finden, gibt es hier einige Möglichkeiten, um auf GitHub Maßnahmen zu ergreifen:
@@ -64,7 +64,7 @@ Während manche Meinungsverschiedenheiten durch direkte, respektvolle Kommunikat
 
 Obwohl wir uns leidenschaftlich dafür einsetzen, Betreuern die Möglichkeit zu geben, ihre eigenen Projekte zu moderieren, kontaktieren Sie uns bitte unter [Missbrauch melden](https://github.com/contact/report-abuse), wenn Sie zusätzliche Unterstützung bei der Bewältigung einer Situation benötigen.
 
-[](#what-happens-if-someone-violates-githubs-policies)Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt?
+[Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt? #](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
 Wir verlassen uns auf Meldungen aus der Community sowie auf die proaktive Erkennung, um sicherzustellen, dass GitHub eine sichere, freundliche und produktive Plattform für Softwareentwickler ist. Es gibt eine Vielzahl von Faktoren, die wir berücksichtigen, wenn wir auf Verhaltensweisen oder Inhalte aufmerksam werden, die nicht den Richtlinien von GitHub entsprechen. Unser Ansatz zur Richtliniendurchsetzung und Inhaltsmoderation priorisiert jedoch unsere Vision, das Zuhause für alle Entwickler zu sein. Das bedeutet Folgendes:
@@ -83,12 +83,12 @@ Wenn wir entschieden haben, dass eine Moderationsmaßnahme gerechtfertigt ist, k
 * Verbergen eines Nutzerkontos oder einer Organisation vor der Öffentlichkeit
 * Sperren eines Nutzerkontos oder einer Organisation
 
-[](#appeal-and-reinstatement)Einspruch und Wiederherstellung
+[Einspruch und Wiederherstellung #](#appeal-and-reinstatement)
 ----------
 
 Wenn Ihre Inhalte oder Ihr Konto deaktiviert oder eingeschränkt wurden und Sie die Wiederherstellung beantragen oder Einspruch einlegen möchten, finden Sie auf unserer [Einspruchs- und Wiederherstellungsseite](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) Informationen über die Vorgehensweise. Nutzen Sie unser [Einspruchs- und Wiederherstellungsformular](https://support.github.com/contact/reinstatement), um eine entsprechende Anfrage zu stellen.
 
-[](#legal-notices)Rechtliche Hinweise
+[Rechtliche Hinweise #](#legal-notices)
 ----------
 
 Wir stellen diese Community-Richtlinien der Allgemeinheit zur Verfügung, damit jeder sie unter den Bedingungen von [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) verwenden, wiederverwenden, anpassen kann usw.

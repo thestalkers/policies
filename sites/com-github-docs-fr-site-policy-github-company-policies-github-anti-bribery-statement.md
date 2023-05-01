@@ -33,7 +33,7 @@ GitHub respecte son engagement en matière de pratiques commerciales éthiques, 
 
 Selon la [Banque Mondiale](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) en 2017, les entreprises et les particuliers versent chaque année environ 1 500 milliards de dollars en pots-de-vin.
 
-[](#github-policies-prohibiting-bribery)Politiques de GitHub relative à la lutte contre la corruption
+[Politiques de GitHub relative à la lutte contre la corruption #](#github-policies-prohibiting-bribery)
 ----------
 
 GitHub clarifie son engagement en matière de lutte contre la corruption dans un certain nombre de politiques de l’entreprise. En tant que membre de la famille Microsoft, GitHub s’engage également à respecter la Politique Anti-Corruption de Microsoft, qui s’applique à tous les employés et sous-traitants de GitHub, en plus des politiques décrites dans les présentes.
@@ -58,7 +58,7 @@ Les Règles de bonne conduite de GitHub interdisent :
 
 La **Politique en matière de cadeaux et de divertissements** de GitHub explique que la corruption n’est pas autorisée dans le cadre de voyages ou de divertissements, et fournit des exemples pour illustrer un comportement inapproprié. Cette politique décrit les cadeaux, les voyages et les frais de représentation appropriés et inappropriés, les procédures de l’entreprise concernant les cadeaux offerts par les directeurs, les responsables, les employés et les agents de GitHub, ainsi que les exigences en matière de tenue de registres, de sanctions et de signalement des violations. Elle fournit des seuils monétaires clairs pour les cadeaux ainsi que des limites annuelles, avec des exceptions limitées pour les cadeaux approuvés par la direction appropriée. La politique est claire et facilement accessible aux employés et aux sous-traitants de GitHub.
 
-[](#training-for-our-employees)Formation de nos collaborateurs
+[Formation de nos collaborateurs #](#training-for-our-employees)
 ----------
 
 Les collaborateurs de GitHub sont tenus de participer à une formation sur la corruption, y compris les pots-de-vin. Nous proposons également des formations supplémentaires aux personnes et aux équipes particulièrement concernées, comme notre équipe commerciale. La formation explique les éléments pertinents du Foreign Corrupt Practices Act aux États-Unis et du Bribery Act de 2010 au Royaume-Uni. Par exemple :
@@ -84,7 +84,7 @@ En outre, la formation couvre les politiques internes de GitHub relatives à la 
 
 Alors que le FCPA américain est axé sur les interactions avec les fonctionnaires, le Bribery Act britannique est plus large et s’étend à la corruption de toute personne, qu’il s’agisse d’un fonctionnaire du gouvernement ou non. Ces deux lois peuvent s’étendre aux actions de GitHub ailleurs dans le monde. La politique de GitHub interdit de corrompre qui que ce soit, partout dans le monde.
 
-[](#engaging-our-partners)Engagement de nos partenaires
+[Engagement de nos partenaires #](#engaging-our-partners)
 ----------
 
 * Les accords de **revente standard de GitHub avec les Partenaires de Distribution** incluent des clauses anticorruption obligatoires. Dorénavant, GitHub exige de ses Partenaires de Distribution qu’ils s’engagent à respecter à la présente Déclaration Anti-corruption.

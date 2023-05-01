@@ -49,7 +49,7 @@ Mais avant d’entrer dans les détails, voici quelques informations importantes
 * Nous ne divulguerons pas **les données de suivi de localisation**, comme les journaux d’adresses IP, sans une [ordonnance judiciaire ou un mandat de perquisition valable](#with-a-court-order-or-a-search-warrant).
 * Nous ne divulguerons aucun **contenu utilisateur privé**, y compris le contenu des dépôts privés, sans un [mandat de perquisition](#only-with-a-search-warrant).
 
-[](#about-these-guidelines)À propos de ces directives
+[À propos de ces directives #](#about-these-guidelines)
 ----------
 
 Nos utilisateurs nous confient leurs projets logiciels et leur code, qui font souvent partie de leurs actifs commerciaux ou personnels les plus précieux.
@@ -64,7 +64,7 @@ Nos utilisateurs doivent savoir que nous attachons de l’importance à leurs in
 Au minimum, cela signifie que les données ne sont communiquées à des tiers que lorsque les exigences légales appropriées ont été satisfaites.
 Dans le même ordre d’idées, nous espérons également sensibiliser les professionnels de l’application de la loi aux systèmes de GitHub afin qu’ils puissent adapter plus efficacement leurs demandes de données et cibler uniquement les informations nécessaires pour mener leur enquête.
 
-[](#github-terminology)Terminologie GitHub
+[Terminologie GitHub #](#github-terminology)
 ----------
 
 Avant de nous demander de divulguer des données, il peut être utile de comprendre comment notre système est mis en œuvre.
@@ -92,7 +92,7 @@ Les dépôts sur GitHub, qui peuvent être publics ou privés, sont le plus souv
   Comme les dépôts GitHub ordinaires, les gists sont créés avec Git, de sorte qu’ils sont automatiquement versionnés, forkés et téléchargés.
   Les gists peuvent être publics ou secrets (accessibles uniquement via une URL connue). Les gists publics ne peuvent pas être convertis en gists secrets.
 
-[](#user-data-on-githubcom)Données utilisateurs sur GitHub.com
+[Données utilisateurs sur GitHub.com #](#user-data-on-githubcom)
 ----------
 
 Voici une liste non exhaustive des types de données que nous conservons sur les utilisateurs et les projets sur GitHub.
@@ -180,12 +180,12 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
 * []()**Autres données** : en outre, GitHub collecte des données d’analyse telles que les visites de pages et les informations fournies occasionnellement par nos utilisateurs (comme les communications avec notre équipe d’assistance, les informations d’enquête et/ou les inscriptions au site).
 
-[](#we-will-notify-any-affected-account-owners)Nous informerons tous les propriétaires de comptes concernés
+[Nous informerons tous les propriétaires de comptes concernés #](#we-will-notify-any-affected-account-owners)
 ----------
 
 Nous avons pour politique d’informer les utilisateurs de toute demande en cours concernant leurs comptes ou dépôts, sauf si la loi ou une décision de justice nous interdit de le faire. Avant de divulguer des informations sur les utilisateurs, nous ferons un effort raisonnable pour informer le(s) propriétaire(s) du compte concerné(s) en envoyant un message à leur adresse électronique vérifiée, en leur fournissant une copie de l’assignation à comparaître, de l’ordonnance du tribunal ou du mandat, afin qu’ils aient la possibilité de contester la procédure légale s’ils le souhaitent. Dans de (rares) circonstances urgentes, nous pouvons retarder la notification si nous déterminons que ce retard est nécessaire pour éviter un décès ou un préjudice grave ou en raison d’une enquête en cours.
 
-[](#disclosure-of-non-public-information)Divulgation d’informations non publiques
+[Divulgation d’informations non publiques #](#disclosure-of-non-public-information)
 ----------
 
 Nous avons pour politique de ne divulguer des informations non publiques sur les utilisateurs dans le cadre d’une enquête civile ou criminelle qu’avec le consentement de l’utilisateur ou à la réception d’une citation à comparaître, d’une demande d’enquête civile, d’une ordonnance du tribunal, d’un mandat de perquisition ou de toute autre procédure légale valable. Dans certaines circonstances urgentes (voir ci-dessous), nous pouvons également partager des informations limitées, mais uniquement en fonction de la nature des circonstances, et nous aurions besoin d’une procédure judiciaire pour toute autre chose.
@@ -227,7 +227,7 @@ Veuillez noter que les informations disponibles varient d’un cas à l’autre.
 
 * []()**Dans des circonstances urgentes** : si nous recevons une demande d’informations dans certaines circonstances exceptionnelles (lorsque nous pensons que la divulgation est nécessaire pour prévenir une urgence impliquant un danger de mort ou de blessure physique grave pour une personne), nous pouvons divulguer des informations limitées que nous jugeons nécessaires pour permettre aux forces de l’ordre de répondre à l’urgence. Pour toute autre information, nous avons besoin d’une assignation à comparaître, d’un mandat de perquisition ou d’une ordonnance du tribunal, comme indiqué ci-dessus. Par exemple, nous ne divulguerons pas le contenu de dépôts privés sans un mandat de perquisition. Avant de divulguer des informations, nous confirmons que la demande émane d’un organisme chargé de l’application de la loi, qu’une autorité a envoyé un avis officiel résumant l’urgence et que les informations demandées permettront de faire face à l’urgence.
 
-[](#cost-reimbursement)Remboursement des frais
+[Remboursement des frais #](#cost-reimbursement)
 ----------
 
 En vertu des lois étatiques et fédérales, GitHub peut demander le remboursement des frais associés au respect d’une demande légale valable, comme une citation à comparaître, une ordonnance du tribunal ou un mandat de perquisition. Nous ne facturons des frais que pour récupérer certains coûts, et ces remboursements ne couvrent qu’une partie des frais que nous devons réellement engager pour nous conformer aux ordonnances légales.
@@ -239,12 +239,12 @@ Bien que nous ne facturions pas de frais dans les situations d’urgence ou dans
 * Production d’informations / de données sur les abonnés pour plus de 5 comptes : 20 dollars par compte
 * Recherches secondaires : 10 dollars par recherche
 
-[](#data-preservation)Conservation des données
+[Conservation des données #](#data-preservation)
 ----------
 
 Nous prendrons des mesures pour conserver les enregistrements de compte jusqu’à 90 jours sur demande formelle des forces de l’ordre américaines dans le cadre d’enquêtes criminelles officielles, et en attendant la délivrance d’une ordonnance du tribunal ou d’une autre procédure.
 
-[](#submitting-requests)Envoi des demandes
+[Envoi des demandes #](#submitting-requests)
 ----------
 
 Veuillez envoyer vos demandes à l’adresse suivante :
@@ -270,18 +270,18 @@ Veuillez formuler vos demandes de manière aussi précise et succincte que possi
 
 Veuillez prévoir au moins deux semaines pour que nous puissions examiner votre demande.
 
-### [](#california-assembly-bill-1242-notice)Avis relatif au projet de loi 1242 de l’Assemblée de l’État de Californie ###
+### [Avis relatif au projet de loi 1242 de l’Assemblée de l’État de Californie #](#california-assembly-bill-1242-notice) ###
 
 En soumettant une procédure légale à GitHub, vous attestez que la procédure légale n’est pas liée à la violation d’une loi qui crée une responsabilité pour les comportements liés à l’avortement qui sont légaux en Californie.
 
-[](#requests-from-foreign-law-enforcement)Demandes des autorités de police étrangères
+[Demandes des autorités de police étrangères #](#requests-from-foreign-law-enforcement)
 ----------
 
 En tant que société américaine basée en Californie, GitHub n’est pas tenue de fournir des données à des gouvernements étrangers en réponse à une procédure légale émise par des autorités étrangères.
 Les autorités policières étrangères souhaitant demander des informations à GitHub doivent contacter le Bureau des Affaires Internationales de la Division Criminelle du Ministère de la Justice des États-Unis.
 GitHub répondra rapidement aux demandes qui sont émises par le biais d’un tribunal américain au moyen d’un traité d’entraide judiciaire (« MLAT ») ou d’une commission rogatoire.
 
-[](#questions)Questions
+[Questions #](#questions)
 ----------
 
 Avez-vous d’autres questions, commentaires ou suggestions ? Veuillez contacter l’.

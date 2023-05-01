@@ -32,7 +32,7 @@ Aufgrund der Art der Inhalte, die GitHub hostet (hauptsächlich Softwarecode) un
 
 Wie bei allen rechtlichen Angelegenheiten ist es stets ratsam, sich zu Ihren spezifischen Fragen oder Ihrer Situation an einen Fachmann zu wenden. Wir empfehlen Ihnen dringend, dies zu tun, bevor Sie Maßnahmen ergreifen, die Ihre Rechte beeinträchtigen könnten. Dieser Leitfaden ist keine Rechtsberatung und sollte auch nicht als solche verstanden werden.
 
-[](#before-you-start)Bevor Sie beginnen
+[Bevor Sie beginnen #](#before-you-start)
 ----------
 
 ***Sagen Sie stets die Wahrheit.*** Der DMCA verlangt, dass Sie in Ihrer Urheberrechtsbeschwerde *unter Strafe des Meineids* auf die Tatsachen schwören. Es ist eine Straftat, in einer eidesstattlichen Erklärung vorsätzlich zu lügen. (*Siehe* [United States Code, Titel 18, Abschnitt 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Das Einreichen falscher Informationen kann auch zu einer zivilrechtlichen Haftung führen – das heißt, Sie könnten auf Schadensersatz in Geld verklagt werden. Gemäß den Bestimmungen des DMCA ist jede Person, die vorsätzlich falsch aussagt, dass Material oder Aktivitäten eine Verletzung darstellen, [schadensersatzpflichtig](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations).
@@ -65,7 +65,7 @@ Wenn es um den Umgang mit Code geht, sollten Sie stets mit einem Rechtsexperten 
 
 ***GitHub tritt nicht als Richter auf.***GitHub hat in diesem Verfahren wenig Ermessensspielraum und muss lediglich bestimmen, ob die Mitteilungen die Mindestanforderungen des DMCA erfüllen. Es ist Sache der Parteien (und ihrer Anwälte), die Begründetheit ihrer Ansprüche zu beurteilen, wobei zu beachten ist, dass alle Counter Notices in Kenntnis der Strafbarkeit einer falschen eidesstattlichen Versicherung erfolgen müssen.
 
-[](#your-complaint-must-)Ihre Beschwerde muss...
+[Ihre Beschwerde muss... #](#your-complaint-must-)
 ----------
 
 1. **die folgende Erklärung beinhalten: „I have read and understand GitHub's Guide to Filing a DMCA Notice.”** („Ich habe den Leitfaden von GitHub zur Einreichung einer DMCA-Notice gelesen und verstanden.”) Wenn diese Erklärung nicht enthalten ist, werden wir die Beschwerde dennoch bearbeiten, sofern sie ansonsten vollständig ist. Wir müssen jedoch davon ausgehen, dass Sie diese Richtlinien nicht gelesen haben, und werden Sie gegebenenfalls auffordern, dies nachzuholen.
@@ -88,7 +88,7 @@ Wenn es um den Umgang mit Code geht, sollten Sie stets mit einem Rechtsexperten 
 
 9. **Setzen Sie Ihre physische oder elektronische Unterschrift darunter.**
 
-[](#complaints-about-anti-circumvention-technology)Beschwerden über Anti-Umgehungstechnologie
+[Beschwerden über Anti-Umgehungstechnologie #](#complaints-about-anti-circumvention-technology)
 ----------
 
 Der Copyright Act verbietet die Umgehung technischer Maßnahmen, die den Zugang zu urheberrechtlich geschützten Werken wirksam kontrollieren. Wenn Sie glauben, dass auf GitHub gehostete Inhalte gegen dieses Verbot verstoßen, senden Sie uns bitte einen Bericht über unseren [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca). Ein Anspruch wegen Umgehung von Maßnahmen muss die folgenden Angaben zu den eingesetzten technischen Maßnahmen sowie zur Art und Weise enthalten, wie sie durch das betreffende Projekt umgangen werden. Insbesondere muss die Mitteilung an GitHub detaillierte Erklärungen enthalten, die Folgendes beschreiben:
@@ -97,7 +97,7 @@ Der Copyright Act verbietet die Umgehung technischer Maßnahmen, die den Zugang 
 2. wie sie den Zugriff auf das urheberrechtlich geschützte Material effektiv kontrollieren und
 3. wie das betreffende Projekt darauf abzielt, die zuvor beschriebenen technischen Schutzmaßnahmen zu umgehen.
 
-[](#how-to-submit-your-complaint)So übermitteln Sie Ihre Beschwerde
+[So übermitteln Sie Ihre Beschwerde #](#how-to-submit-your-complaint)
 ----------
 
 Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.

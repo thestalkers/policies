@@ -44,28 +44,28 @@ En utilisant Marketplace, vous acceptez d’être lié par les présentes Condit
 
 Date d’Entrée en Vigueur : 20 novembre 2020
 
-[](#a-githubcoms-terms-of-service)A. Conditions Générales d’Utilisation de GitHub.com
+[A. Conditions Générales d’Utilisation de GitHub.com #](#a-githubcoms-terms-of-service)
 ----------
 
 Marketplace est fourni par GitHub et est régi par les [Conditions Générales d’Utilisation](/fr/site-policy/github-terms/github-terms-of-service) ou les [Conditions d’Utilisation pour les Entreprises](/fr/site-policy/github-terms/github-corporate-terms-of-service) (« Conditions GitHub »), en fonction du type de compte que vous possédez, ainsi que par les présentes Conditions de Marketplace. Si vous configurez les Produits Développeurs pour qu’ils fonctionnent avec un ou plusieurs comptes sur le site Web GitHub.com, votre utilisation des Produits Développeurs sera également régie par vos Conditions GitHub applicables. Tous les termes en majuscules qui ne sont pas définis dans le présent document seront définis dans vos Conditions GitHub applicables.
 
 Vous ne pouvez pas utiliser un Produit Développeur pour violer vos Conditions GitHub applicables. Un grand nombre de ces Produits Développeurs sont utilisés exclusivement pour effectuer des tâches automatisées. En outre, plusieurs utilisateurs peuvent diriger les actions d’un Produit Développeur. Toutefois, si vous achetez et/ou configurez un Produit Développeur sur votre compte, ou si vous êtes propriétaire d’un compte doté d’un Produit Développeur intégré, vous serez responsable des actions du Produit Développeur effectuées sur ou via votre compte.
 
-[](#b-use-requirements)B. Conditions requises pour l’utilisation
+[B. Conditions requises pour l’utilisation #](#b-use-requirements)
 ----------
 
 Pour utiliser Marketplace, vous devez être âgé de 13 ans ou plus (si vous vivez aux États-Unis ; si vous vivez dans un autre pays, vous devez vous conformer aux lois sur l’âge minimum de votre pays), avoir un compte GitHub valable, et avoir accepté vos Conditions GitHub applicables et les présentes Conditions de Marketplace.
 
 Si vous acceptez les présentes Conditions de Marketplace au nom d’une société, d’une organisation ou d’une autre entité juridique, vous déclarez avoir le pouvoir d’engager la responsabilité de cette entité, ses sociétés affiliées et tous les utilisateurs qui accèdent à Marketplace en son nom aux présentes Conditions de Marketplace. Si vous ne disposez pas de l’autorité requise, vous ne devez pas accepter les présentes Conditions de Marketplace et vous ne pouvez pas utiliser les services Marketplace.
 
-[](#c-developer-products-and-product-providers)C Produits Développeurs et Fournisseurs de Produits
+[C Produits Développeurs et Fournisseurs de Produits #](#c-developer-products-and-product-providers)
 ----------
 
 Si vous installez et/ou achetez un Produit Développeur, vous achetez le Produit Développeur auprès de GitHub et vous devez effectuer les paiements correspondants directement auprès de GitHub. Cependant, vous recevez l’accès et les droits d’utilisation de ce Produit Développeur d’un Fournisseur de Produits, et non de GitHub (sauf s’il s’agit d’un Produit Développeur appartenant à GitHub). Le Fournisseur de Produits est seul responsable du Produit Développeur qu’il fournit, de son contenu et de toute réclamation que vous ou toute autre partie pourriez avoir concernant ce Produit Développeur ou votre utilisation de ce Produit Développeur.
 
 Nous ne sommes pas partie à l’accord entre vous et le Fournisseur de Produits concernant ce Produit Développeur. Nous ne sommes pas responsables de ce Produit Développeur, de son contenu ou de toute réclamation que vous ou toute autre partie pourriez avoir concernant ce Produit Développeur ou votre utilisation de ce Produit Développeur. Cependant, nous sommes un tiers bénéficiaire de l’accord entre vous et le Fournisseur de Produits pour chaque Produit Développeur, et nous aurons le droit (et serons réputés avoir accepté le droit) d’appliquer cet accord contre vous en tant que tiers bénéficiaire.
 
-[](#d-payment-billing-schedule-and-cancellation)D. Paiement, Calendrier de Facturation et Annulation
+[D. Paiement, Calendrier de Facturation et Annulation #](#d-payment-billing-schedule-and-cancellation)
 ----------
 
 Tous les paiements pour les Produits Développeurs passeront par GitHub. Les conditions de votre paiement et les frais seront régis par la [Section K. Paiement](/fr/site-policy/github-terms/github-terms-of-service#k-payment) ou la section analogue de vos Conditions GitHub applicables. En utilisant Marketplace, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre achat du Produit Développeur. Chaque achat constitue un contrat électronique entre vous et GitHub, et entre vous et le Fournisseur de Produits. Il vous incombe de nous fournir un moyen de paiement valable pour les achats de Produits Développeurs. Si vous n’achetez que des Produits Développeur gratuits, vous n’êtes pas tenu de fournir des informations de paiement.
@@ -74,7 +74,7 @@ Tous les paiements pour les Produits Développeurs passeront par GitHub. Les con
 
 Si vous avez une question, un problème ou un litige concernant votre facturation, veuillez contacter l’[Assistance GitHub](https://support.github.com/contact?tags=docs-policy).
 
-[](#e-your-data-and-githubs-privacy-policy)E. Vos Données et la Politique de Confidentialité de GitHub
+[E. Vos Données et la Politique de Confidentialité de GitHub #](#e-your-data-and-githubs-privacy-policy)
 ----------
 
 **Confidentialité.** Lorsque vous sélectionnez ou utilisez un Produit Développeur, GitHub peut partager certaines Informations Personnelles (telles que définies dans la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement)) avec le Fournisseur de Produits (si ces Informations Personnelles sont reçues de votre part) afin de vous fournir le Produit Développeur, quels que soient vos paramètres de confidentialité. Selon les exigences du Produit Développeur que vous choisissez, GitHub peut partager le nom de votre compte, votre identifiant et votre adresse e-mail principale ou l’accès au contenu de vos dépôts, y compris la possibilité de lire et de modifier vos données privées. Vous pourrez afficher la portée des autorisations demandées par le Produit Développeur, et les accepter ou les refuser, lorsque vous lui accorderez une autorisation via OAuth.
@@ -83,22 +83,22 @@ Si vous cessez d’utiliser le Produit Développeur et révoquez l’accès via 
 
 **Avertissement sur la sécurité et la confidentialité des données.** Lorsque vous sélectionnez ou utilisez un Produit Développeur, la sécurité du Produit Développeur et la protection de vos données, y compris vos Informations Personnelles (le cas échéant), relèvent de la responsabilité du Fournisseur de Produits. Il vous incombe de comprendre les considérations de sécurité et de confidentialité liées à la sélection ou à l’utilisation du Produit Développeur pour vos propres considérations de risque et de conformité en matière de sécurité et de confidentialité.
 
-[](#f-rights-to-developer-products)F. Droits sur les Produits Développeurs
+[F. Droits sur les Produits Développeurs #](#f-rights-to-developer-products)
 ----------
 
 Les droits qui vous sont accordés pour l’utilisation de tout Produit Développeur vous sont personnels et ne sont pas transférables à des tiers, notamment vos Utilisateurs Finaux. Tout droit de fournir ou de revendre des Produits Développeurs à des tiers doit être accordé directement par le Fournisseur de Produits.
 
-[](#g-updates-to-developer-products)G. Mises à jour des Produits Développeurs
+[G. Mises à jour des Produits Développeurs #](#g-updates-to-developer-products)
 ----------
 
 De temps à autre, GitHub.com peut vérifier auprès de serveurs distants (hébergés par GitHub ou par des tiers) la disponibilité de mises à jour pour les Produits Développeurs, y compris, mais sans s’y limiter, des corrections de bogues ou des fonctionnalités améliorées. Vous acceptez que ces mises à jour soient automatiquement demandées, téléchargées et installées sans autre notification à votre intention.
 
-[](#h-developer-product-blocking)H. Blocage des Produits Développeurs
+[H. Blocage des Produits Développeurs #](#h-developer-product-blocking)
 ----------
 
 GitHub peut bloquer un Produit Développeur depuis nos serveurs, ou désactiver ses fonctionnalités, pour des raisons légales ou stratégiques. Dans le cas où nous devons bloquer ou désactiver un Produit Développeur, nous travaillerons avec le Fournisseur de Produits pour informer les utilisateurs concernés.
 
-[](#i-disclaimer-limitation-of-liability-release-and-indemnification)I. Clause de non-responsabilité ; Limitation de Responsabilité ; Décharge et Indemnisation
+[I. Clause de non-responsabilité ; Limitation de Responsabilité ; Décharge et Indemnisation #](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 ----------
 
 **Clause de non-responsabilité.** Votre utilisation de Marketplace et de tout Produit Développeur obtenu par l’intermédiaire de Marketplace e fait à vos propres risques. À l’exception de ce qui est expressément indiqué, GitHub fournit Marketplace et les Produits Développeurs « EN L’ÉTAT » et « TEL QUE DISPONIBLE ». GitHub n’émet ni ne sous-entend aucune garantie ni aucun engagement concernant Marketplace et les Produits Développeurs, y compris, mais sans s’y limiter, les fonctionnalités spécifiques disponibles sur Marketplace et les Produits Développeurs, leur fiabilité, leur disponibilité ou leur capacité à répondre à votre besoin.
@@ -111,7 +111,7 @@ Nous nous réservons le droit, à tout moment et de temps à autre, de modifier 
 
 Vous acceptez de nous couvrir, de nous défendre et de nous dégager de toute responsabilité à l’égard de l’ensemble des réclamations, obligations et dépenses, y compris les honoraires d’avocats et de conseils, découlant de votre utilisation de Marketplace, y compris, mais sans s’y limiter, votre violation des présentes Conditions de Marketplace, à condition que GitHub (1) vous donne rapidement un avis écrit de la réclamation, de la demande, du procès ou de la procédure ; (2) vous donne le contrôle exclusif de la défense et du règlement de la réclamation, de la demande, du procès ou de la procédure (à condition que vous ne puissiez pas régler une réclamation, une demande, un procès ou une procédure à moins que le règlement ne libère sans réserve GitHub de toute responsabilité) ; et (3) vous fournisse toute assistance raisonnable, à vos frais.
 
-[](#j-miscellanea)J. Dispositions diverses
+[J. Dispositions diverses #](#j-miscellanea)
 ----------
 
 1. **Droit applicable.** Vous acceptez que les présentes Conditions de Marketplace et votre utilisation des Produits Développeurs soient régies par la loi californienne et que tout litige lié aux Produits Développeurs doive être porté devant un tribunal compétent situé à San Francisco, Californie ou près de San Francisco, Californie.

@@ -44,28 +44,28 @@ Durch die Nutzung von Marketplace stimmen Sie zu, an diese Marketplace Bedingung
 
 Wirksamkeitsdatum: 20. November 2020
 
-[](#a-githubcoms-terms-of-service)A. Nutzungsbedingungen für GitHub.com
+[A. Nutzungsbedingungen für GitHub.com #](#a-githubcoms-terms-of-service)
 ----------
 
 Marketplace wird von GitHub bereitgestellt und unterliegt entweder den [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) oder den [Nutzungsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service) („GitHub Bedingungen”) – je nach Art des Kontos, mit dem Sie zugreifen, sowie diesen Marketplace Bedingungen. Wenn Sie die Entwicklerprodukte so konfigurieren, dass sie mit einem oder mehreren Konten auf der GitHub.com Website funktionieren, unterliegt Ihre Nutzung der Entwicklerprodukte auch Ihren geltenden GitHub Bedingungen. Alle festen Begriffe, die in diesem Dokument nicht definiert sind, werden in Ihren geltenden GitHub Bedingungen definiert.
 
 Sie sind nicht berechtigt, ein Entwicklerprodukt einzusetzen, um gegen Ihre geltenden GitHub Bedingungen zu verstoßen. Viele dieser Entwicklerprodukte werden ausschließlich zum Ausführen automatisierter Aufgaben verwendet. Darüber hinaus können mehrere Nutzer die Aktionen eines Entwicklerprodukts steuern. Wenn Sie jedoch ein Entwicklerprodukt für Ihr Konto kaufen und/oder einrichten oder Inhaber eines Kontos mit einem integrierten Entwicklerprodukt sind, dann sind Sie für die Aktionen des Entwicklerprodukts verantwortlich, die auf oder über Ihr Konto ausgeführt werden.
 
-[](#b-use-requirements)B. Nutzungsvoraussetzungen
+[B. Nutzungsvoraussetzungen #](#b-use-requirements)
 ----------
 
 Um Marketplace nutzen zu können, müssen Sie mindestens 13 Jahre alt sein (wenn Sie in den Vereinigten Staaten leben; wenn Sie in einem anderen Land leben, müssen Sie die Gesetze zum Mindestalter Ihres Lands einhalten), ein gültiges GitHub Konto haben und Ihren geltenden GitHub Bedingungen und diesen Marketplace Bedingungen zustimmen.
 
 Wenn Sie diesen Marketplace Bedingungen im Namen eines Unternehmens, einer Organisation oder einer anderen juristischen Person zustimmen, erklären Sie, dass Sie befugt sind, diese juristische Person, ihre verbundenen Unternehmen und alle Nutzer, die in ihrem Namen auf Marketplace zugreifen, an diese Marketplace Bedingungen zu binden. Wenn Sie keine Befugnis haben, dürfen Sie diese Marketplace Bedingungen nicht akzeptieren und sind nicht berechtigt, die Marketplace Dienste zu nutzen.
 
-[](#c-developer-products-and-product-providers)C. Entwicklerprodukte und Produktanbieter
+[C. Entwicklerprodukte und Produktanbieter #](#c-developer-products-and-product-providers)
 ----------
 
 Wenn Sie ein Entwicklerprodukt installieren und/oder kaufen, kaufen Sie die Entwicklerprodukte von GitHub und müssen die entsprechenden Zahlungen direkt an GitHub leisten. Sie erhalten jedoch Zugriff auf und die Rechte zur Nutzung dieses Entwicklerprodukts von einem Produktanbieter, nicht von GitHub (es sei denn, es handelt sich um ein Entwicklerprodukt von GitHub). Der Produktanbieter ist allein verantwortlich für das von ihm bereitgestellte Entwicklerprodukt, den darin enthaltenen Inhalt und alle Ansprüche, die Sie oder eine andere Partei in Bezug auf dieses Entwicklerprodukt oder Ihre Nutzung dieses Entwicklerprodukts haben könnten.
 
 Wir sind keine Partei der Vereinbarung zwischen Ihnen und dem Produktanbieter in Bezug auf dieses Entwicklerprodukt. Wir sind nicht verantwortlich für das von ihm bereitgestellte Entwicklerprodukt, den darin enthaltenen Inhalt und alle Ansprüche, die Sie oder eine andere Partei in Bezug auf dieses Entwicklerprodukt oder Ihre Nutzung dieses Entwicklerprodukts haben könnten. Wir sind jedoch ein Drittbegünstigter der Vereinbarung zwischen Ihnen und dem Produktanbieter für jedes Entwicklerprodukt, und wir haben das Recht (und es wird davon ausgegangen, dass wir das Recht akzeptiert haben), diese Vereinbarung als Drittbegünstigter gegen Sie durchzusetzen.
 
-[](#d-payment-billing-schedule-and-cancellation)D. Zahlung, Abrechnungszeitplan und Stornierung
+[D. Zahlung, Abrechnungszeitplan und Stornierung #](#d-payment-billing-schedule-and-cancellation)
 ----------
 
 Alle Zahlungen für Entwicklerprodukte erfolgen über GitHub. Die Bedingungen Ihrer Zahlung und Gebühren werden von [Abschnitt K. Zahlung](/de/site-policy/github-terms/github-terms-of-service#k-payment) oder dem entsprechenden Abschnitt Ihrer geltenden GitHub Bedingungen geregelt. Durch die Nutzung des Marketplace erklären Sie sich damit einverstanden, GitHub alle Gebühren zu zahlen, die im Zusammenhang mit Ihrem Kauf des Entwicklerprodukts anfallen. Jeder Kauf ist ein elektronischer Vertrag zwischen Ihnen und GitHub und Ihnen und dem Produktanbieter. Sie sind dafür verantwortlich, uns ein gültiges Zahlungsmittel für den Kauf von Entwicklerprodukten zur Verfügung zu stellen. Wenn Sie nur kostenlose Entwicklerprodukte kaufen, müssen Sie keine Zahlungsinformationen angeben.
@@ -74,7 +74,7 @@ Alle Zahlungen für Entwicklerprodukte erfolgen über GitHub. Die Bedingungen Ih
 
 Wenn Sie Fragen, Bedenken oder Streitigkeiten bezüglich Ihrer Abrechnung haben, wenden Sie sich bitte an [GitHub Support](https://support.github.com/contact?tags=docs-policy).
 
-[](#e-your-data-and-githubs-privacy-policy)E. Ihre Daten und die Datenschutzrichtlinie von GitHub
+[E. Ihre Daten und die Datenschutzrichtlinie von GitHub #](#e-your-data-and-githubs-privacy-policy)
 ----------
 
 **Datenschutz.** Wenn Sie ein Entwicklerprodukt auswählen oder verwenden, kann GitHub bestimmte Personenbezogene Informationen (wie in der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) definiert) unabhängig von Ihren Datenschutzeinstellungen mit dem Produktanbieter teilen (falls solche Personenbezogenen Informationen von Ihnen erhalten wurden), um Ihnen das Entwicklerprodukt bereitzustellen. Abhängig von den Anforderungen des von Ihnen gewählten Entwicklerprodukts kann GitHub nur Ihren Kontonamen, Ihre ID und Ihre primäre E-Mail-Adresse oder nur den Zugriff auf die Inhalte in Ihren Repositories weitergeben, einschließlich der Möglichkeit, Ihre privaten Daten zu lesen und zu ändern. Sie können den Umfang der vom Entwicklerprodukt angeforderten Berechtigungen aufrufen und diese akzeptieren oder ablehnen, wenn Sie ihm die Autorisierung über OAuth erteilen.
@@ -83,22 +83,22 @@ Wenn Sie die Nutzung des Entwicklerprodukts einstellen und den Zugriff über Ihr
 
 **Gewährleistungsausschluss zu Sicherheit und Datenschutz.** Wenn Sie ein Entwicklerprodukt auswählen oder verwenden, liegt die Sicherheit des Entwicklerprodukts und die Verwahrung Ihrer Daten, einschließlich Ihrer Personenbezogenen Informationen (falls vorhanden), in der Verantwortung des Produktanbieters. Sie sind dafür verantwortlich, die Sicherheits- und Datenschutzabwägungen bei der Auswahl oder Verwendung des Entwicklerprodukts für Ihre eigenen Sicherheits- und Datenschutzrisiken und Compliance-Überlegungen zu nachzuvollziehen.
 
-[](#f-rights-to-developer-products)F. Rechte an Entwicklerprodukten
+[F. Rechte an Entwicklerprodukten #](#f-rights-to-developer-products)
 ----------
 
 Die Ihnen gewährten Rechte zur Nutzung eines Entwicklerprodukts sind für Sie persönlich und nicht auf Dritte, wie z. B. Ihre Endbenutzer, übertragbar. Jegliche Rechte zur Bereitstellung oder zum Weiterverkauf von Entwicklerprodukten an Dritte müssen direkt vom Produktanbieter gewährt werden.
 
-[](#g-updates-to-developer-products)G. Updates von Entwicklerprodukten
+[G. Updates von Entwicklerprodukten #](#g-updates-to-developer-products)
 ----------
 
 Von Zeit zu Zeit kann GitHub.com bei Remote Servern (die von GitHub oder von Drittanbietern gehostet werden) nach verfügbaren Updates für Entwicklerprodukte suchen, einschließlich, aber nicht beschränkt auf Fehlerbehebungen oder erweiterte Funktionen. Sie stimmen zu, dass solche Updates ohne weitere Benachrichtigung an Sie automatisch angefordert, heruntergeladen und installiert werden.
 
-[](#h-developer-product-blocking)H. Blockierung von Entwicklerprodukten
+[H. Blockierung von Entwicklerprodukten #](#h-developer-product-blocking)
 ----------
 
 GitHub kann aus rechtlichen oder politischen Gründen ein Entwicklerprodukt von unseren Servern blockieren oder seine Funktionalität deaktivieren. Für den Fall, dass wir ein Entwicklerprodukt blockieren oder deaktivieren müssen, arbeiten wir mit dem Produktanbieter zusammen, um betroffene Nutzer zu benachrichtigen.
 
-[](#i-disclaimer-limitation-of-liability-release-and-indemnification)I. Gewährleistungsausschluss; Haftungsbeschränkung; Haftungsfreistellung und Schadenersatz.
+[I. Gewährleistungsausschluss; Haftungsbeschränkung; Haftungsfreistellung und Schadenersatz. #](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 ----------
 
 **Gewährleistungsausschluss.** Ihre Nutzung von Marketplace und aller über Marketplace erworbenen Entwicklerprodukte erfolgt auf Ihr alleiniges Risiko. Falls nicht ausdrücklich anders angegeben, stellt GitHub Marketplace und Entwicklerprodukte „WIE BESEHEN“ und „WIE VERFÜGBAR“ bereit. GitHub gibt keine Garantien oder Zusicherungen in Bezug auf Marketplace und Entwicklerprodukte ab, einschließlich, aber nicht beschränkt auf die spezifischen Funktionen, die über Marketplace und Entwicklerprodukte verfügbar sind, ihre Zuverlässigkeit, Verfügbarkeit oder Fähigkeit, Ihre Anforderungen zu erfüllen.
@@ -111,7 +111,7 @@ Wir behalten uns ungeachtet des Vorstehenden das Recht vor, Marketplace (oder ei
 
 Sie erklären sich damit einverstanden, uns von allen Ansprüchen, Verbindlichkeiten und Ausgaben, einschließlich Anwaltskosten, die sich aus Ihrer Nutzung von Marketplace ergeben, schad- und klaglos zu halten und zu verteidigen, einschließlich, aber nicht beschränkt auf Ihre Verletzung dieser Marketplace Bedingungen, vorausgesetzt, dass GitHub (1) Sie unverzüglich schriftlich über die Forderung, Klage oder das Verfahren informiert; (2) Ihnen die alleinige Kontrolle über die Verteidigung und Beilegung der Forderung, Klage oder des Verfahrens gibt (mit der Maßgabe, dass Sie nicht berechtigt sind, Forderungen, Klagen oder Verfahren beizulegen, es sei denn, die Beilegung entbindet GitHub bedingungslos von jeglicher Haftung); und (3) Ihnen auf Ihre Kosten jede angemessene Unterstützung bietet.
 
-[](#j-miscellanea)J. Vermischtes
+[J. Vermischtes #](#j-miscellanea)
 ----------
 
 1. **Anwendbares Recht.** Sie stimmen zu, dass diese Marketplace Bedingungen und Ihre Nutzung der Entwicklerprodukte dem kalifornischen Recht unterliegen und alle Streitigkeiten im Zusammenhang mit den Entwicklerprodukten vor ein zuständiges Gericht in oder in der Nähe von San Francisco, Kalifornien, gebracht werden müssen.

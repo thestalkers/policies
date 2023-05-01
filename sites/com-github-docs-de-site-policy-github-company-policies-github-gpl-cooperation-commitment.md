@@ -19,7 +19,7 @@ Diese Verpflichtung bezieht sich auf GitHub Beiträge zu Git, dem Linux Kernel u
 
 Wir stützen unsere Erklärung auf die [Vorlage](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) für Unternehmen. Siehe die [Webseite zur GPL Kooperationsverpflichtung](https://gplcc.github.io/gplcc/) dazu, wie andere Unternehmen, Einzelpersonen und Projekte diese Verpflichtung übernehmen können.
 
-[](#our-commitment)Unsere Verpflichtung
+[Unsere Verpflichtung #](#our-commitment)
 ----------
 
 Vor der Einleitung oder Fortsetzung der Verfolgung von Klagen oder Ansprüchen (außer einer Abwehrmaßnahme), die sich aus der Kündigung einer Covered License ergeben, verpflichtet sich GitHub, der natürlichen oder juristischen Person („Sie“), die beschuldigt wird, die Covered License verletzt zu haben, die folgenden Mittel zur Behebung und Wiederherstellung zu übermitteln – entnommen aus GPL Version 3. Wie hier verwendet, bezieht sich der Begriff „diese Lizenz“ auf die spezifische Covered License, die durchgesetzt wird.

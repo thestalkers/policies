@@ -26,7 +26,7 @@ Date d’entrée en vigueur : **1 septembre 2022**
 
 GitHub offre une grande transparence quant à la manière dont nous utilisons vos données, comment nous les collectons et avec qui nous les partageons. À cette fin, nous fournissons cette page, qui détaille [nos sous-traitants ultérieurs](#github-subprocessors), et comment nous utilisons les [cookies](#cookies-on-github).
 
-[](#github-subprocessors)Sous-traitants Ultérieurs de GitHub
+[Sous-traitants Ultérieurs de GitHub #](#github-subprocessors)
 ----------
 
 Lorsque nous partageons vos informations avec des sous-traitants ultérieurs, comme nos fournisseurs et prestataires de services, nous en restons responsables. Nous mettons tout en œuvre pour conserver votre confiance lorsque nous faisons appel à de nouveaux fournisseurs et nous exigeons de tous les fournisseurs qu’ils concluent avec nous des accords de protection des données qui limitent leur traitement des Informations Personnelles Utilisateur (telles que définies dans la [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement)).
@@ -35,7 +35,7 @@ Nous mettrons la liste des sous-traitants à jour si nous faisons appel à un no
 
 Si vous avez des questions ou des interrogations sur un nouveau sous-traitant ultérieur, nous nous ferons un plaisir de vous aider. Veuillez nous contacter via le [Formulaire de contact relatif à la confidentialité](https://github.com/contact/privacy).
 
-[](#cookies-on-github)Cookies sur GitHub
+[Cookies sur GitHub #](#cookies-on-github)
 ----------
 
 GitHub utilise des cookies pour fournir et sécuriser nos sites Web, ainsi que pour analyser l’utilisation de nos sites Web, afin de vous offrir une excellente expérience utilisateur. Veuillez consulter notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) si vous souhaitez obtenir plus d’informations sur les cookies, ainsi que sur la manière et la raison pour laquelle nous les utilisons.

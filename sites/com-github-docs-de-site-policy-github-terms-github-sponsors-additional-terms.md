@@ -34,7 +34,7 @@ In diesem Artikel
 
 Ihre Teilnahme am GitHub Sponsors Programm (das „Programm“) unterliegt den [GitHub Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) (die „Vereinbarung“) sowie den folgenden Zusatzbedingungen („Zusätzliche Bedingungen“). Jede Nutzung des GitHub Sponsors Programms, die gegen die Vereinbarung verstößt, stellt auch eine Verletzung dieser Zusätzlichen Bedingungen dar. Die verwendeten Begriffe, die unten nicht definiert sind, haben dieselbe Bedeutung wie in der Vereinbarung. Die vorliegenden Zusätzlichen Bedingungen für das GitHub Sponsors Programm beschreiben die Beziehung zwischen GitHub und Ihnen, dem „Sponsored Developer“ (Gesponserten Entwickler) im Rahmen des Programms. Die Zusätzlichen Bedingungen gelten ab dem Datum, an dem Sie sie akzeptieren („Datum des Inkrafttretens“).
 
-[](#1-definitions)1. Definitionen.
+[1. Definitionen. #](#1-definitions)
 ----------
 
 „**GitHub Richtlinien**” umfasst alle zum aktuellen Zeitpunkt gültigen Richtlinien und Verfahren von GitHub, die Sponsored Developer gemäß dem Programm befolgen müssen, einschließlich der [GitHub Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines).
@@ -53,10 +53,10 @@ Ihre Teilnahme am GitHub Sponsors Programm (das „Programm“) unterliegt den [
 
 **USD** ist United States Dollar.
 
-[](#2-acceptable-use)2. Akzeptable Nutzung.
+[2. Akzeptable Nutzung. #](#2-acceptable-use)
 ----------
 
-### [](#21-github-sponsors-program)2.1. GitHub Sponsors Programm ###
+### [2.1. GitHub Sponsors Programm #](#21-github-sponsors-program) ###
 
 Um am Programm teilnehmen zu können, müssen Sie die Gesetze in Bezug auf das erforderliche Mindestalter für die Teilnahme befolgen, die in Ihrem Land gelten (z. B. müssen Sie mindestens 13 Jahre alt sein, wenn Sie in den Vereinigten Staaten leben), Sie müssen über ein gültiges GitHub Konto verfügen und dem [Abschnitt „Zulässige Nutzung”](/de/site-policy/github-terms/github-terms-of-service#c-acceptable-use) der Vereinbarung sowie den geltenden GitHub Richtlinien und den vorliegenden Zusätzlichen Bedingungen für GitHub Sponsoren zugestimmt haben.
 
@@ -78,11 +78,11 @@ Sie dürfen unter keinen Umständen Zahlungen zulassen oder Mittel beschaffen, d
 
 * Aktivitäten in oder mit Ländern, Regionen, Regierungen, Personen oder Körperschaften, die nach geltendem Recht aufgrund von US-amerikanischen und anderen Wirtschaftssanktionen nicht erlaubt sind.
 
-### [](#22-github-sponsors-matching-fund)2.2. GitHub Sponsors Matching Fund ###
+### [2.2. GitHub Sponsors Matching Fund #](#22-github-sponsors-matching-fund) ###
 
 Der GitHub Sponsors Matching Fund zielt darauf ab, die Community, die am Open Source Software (OSS)-Ökosystem teilnimmt, dazu zu ermutigen, qualifizierte Personen mit Sponsored Developer-Konten nachhaltig zu finanzieren. Alle Personen, die sich vor dem 1. Januar 2020 für das Programm beworben haben, werden auf ihre Teilnahmeberechtigung für den Matching Fund überprüft, aber nicht alle teilnahmeberechtigten einzelnen Sponsored Developer-Konten erhalten ein Matching. Organisationen können nicht am GitHub Sponsors Matching Fund teilnehmen, und Sponsorings von Organisationen, die an teilnahmeberechtigte Sponsored Developer-Konten gehen, werden nicht gematcht. Zusätzliche Regeln finden Sie weiter unten.
 
-#### [](#221-matching-fund-terms)2.2.1. Matching Fund – Bedingungen. ####
+#### [2.2.1. Matching Fund – Bedingungen. #](#221-matching-fund-terms) ####
 
 Die Teilnahmeberechtigung für den GitHub Sponsors Matching Fund wird von Fall zu Fall bewertet und unterliegt den folgenden Einschränkungen:
 
@@ -94,7 +94,7 @@ Die Teilnahmeberechtigung für den GitHub Sponsors Matching Fund wird von Fall z
 
 * GitHub behält sich das Recht vor, Matching Fund-Gelder zurückzuhalten oder zu annullieren und jeden Nutzer aus irgendeinem Grund von der Teilnahme am GitHub Sponsors Matching Fund zu sperren. Dies gilt auch für das Posten von Inhalten oder Projekten, die GitHub als beleidigend oder auf andere Art anstößig erachtet.
 
-#### [](#222-matching-period)2.2.2. Matching-Zeitraum. ####
+#### [2.2.2. Matching-Zeitraum. #](#222-matching-period) ####
 
 Der Matching-Zeitraum beginnt, nachdem GitHub ein einzelnes Sponsored Developer-Konto in GitHub Sponsors aufgenommen hat. Für jedes einzelne Sponsored Developer-Konto, der für den GitHub Sponsors Matching Fund teilnahmeberechtigt ist, kann GitHub während der ersten 12 Monate, die das betreffende Konto am Programm teilnimmt, Community-Sponsoring von bis zu insgesamt $5.000 USD vergeben. Der Matching-Zeitraum kann nicht verlängert werden. Während des Matching-Zeitraums erhebt GitHub keine Gebühren, sodass 100 % der Sponsorings an den Sponsored Developer gehen. In Zukunft werden wir unter Umständen eine nominale Bearbeitungsgebühr erheben.
 
@@ -106,57 +106,57 @@ Der Matching-Zeitraum beginnt, nachdem GitHub ein einzelnes Sponsored Developer-
 
 * GitHub kann GitHub Sponsors-Bewerber oder -Teilnehmer kontaktieren, um weitere Informationen bezüglich ihres Sponsoring-Profils oder ihrer Aktivität zu erhalten, um die Berechtigung für Sponsoring oder Matching zu ermitteln oder im Rahmen der Untersuchung potenzieller Vertragsverletzungen.
 
-[](#3-sponsored-developer-obligations)3. Sponsored Developer – Verpflichtungen.
+[3. Sponsored Developer – Verpflichtungen. #](#3-sponsored-developer-obligations)
 ----------
 
-### [](#31-general)3.1. Allgemeines. ###
+### [3.1. Allgemeines. #](#31-general) ###
 
 Sie verpflichten sich: (A) ein Sponsored Developer-Konto zu erstellen; (B) Sponsored Developer-Inhalte über das Programm und den Dienst verfügbar zu machen; und (C) alle GitHub Richtlinien einzuhalten. Sie sind allein verantwortlich für den Support, die Entwicklung und Pflege Ihres Sponsored Developer-Kontos und der Sponsored Developer-Inhalte sowie für alle diesbezüglichen Beschwerden.
 
-### [](#32-registration)3.2. Registrierung. ###
+### [3.2. Registrierung. #](#32-registration) ###
 
 Wenn Sie sich für das Programm bewerben, hängt Ihre Teilnahme davon ab, ob Sie den Registrierungsprozess abgeschlossen haben und von GitHub in das Programm aufgenommen wurden. Darüber hinaus müssen Sie sich möglicherweise bei den von GitHub ausgewählten Zahlungsdienstleistern (z. B. Stripe) registrieren, um auf bestimmte Funktionen des Programms zugreifen und diese nutzen zu können. Sie müssen sich mit Ihrer wahren Identität registrieren, und erklären sich damit einverstanden, wahre, genaue, aktuelle und vollständige Informationen über sich selbst bereitzustellen und zu pflegen, wie im Registrierungsformular des Programms verlangt. Registrierungsdaten und bestimmte andere Informationen über Sie unterliegen unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) und gegebenenfalls der Datenschutzerklärung, die von unserem Zahlungsabwickler bereitgestellt wird. GitHub behält sich das Recht vor, die Aufnahme in das Programm abzulehnen.
 
-### [](#33-content-monetization)3.3. Monetarisierung von Inhalten. ###
+### [3.3. Monetarisierung von Inhalten. #](#33-content-monetization) ###
 
 Über das Programm und den Dienst kann GitHub Ihnen verschiedene Optionen zur Monetarisierung Ihrer Sponsored Developer-Inhalte anbieten. Bei einigen Optionen müssen Sie möglicherweise bestimmte Einstellungen in Ihrem Sponsored Developer-Konto aktualisieren. Darüber hinaus kann die Art und Weise, wie das Programm die einzelnen Monetarisierungsoptionen unterstützt, unterschiedlich sein. Wenn Sie eine (oder mehrere) dieser Optionen nutzen, indem Sie die entsprechenden Einstellungen ändern, stimmen Sie automatisch den Bedingungen zu, die für diese Option gelten. Einige Monetarisierungsoptionen erfordern gegebenenfalls, dass Sie GitHub oder seinen Dienstanbietern zusätzliche Informationen zur Verfügung stellen oder zusätzliche GitHub Bedingungen oder Bedingungen von Drittanbietern akzeptieren.
 
-#### [](#331-subscriptions)3.3.1. Abonnements. ####
+#### [3.3.1. Abonnements. #](#331-subscriptions) ####
 
 Das Programm bietet Ihnen die Möglichkeit, Abonnements anzubieten. Wenn Sie sich dafür entscheiden, Abonnements anzubieten, zahlt Ihnen GitHub das Abonnement-Sponsoring, wie in Abschnitt 4 angegeben. Sie sind dafür verantwortlich, die Art, den Inhalt und die Möglichkeiten Ihres Abonnementangebots gemäß den vorliegenden Zusätzlichen Bedingungen und den geltenden GitHub Richtlinien festzulegen.
 
-#### [](#332-other-sponsorships)3.3.2. Andere Sponsorings. ####
+#### [3.3.2. Andere Sponsorings. #](#332-other-sponsorships) ####
 
 Das Programm oder der Dienst kann Ihnen die Möglichkeit geben, eine Spende oder eine andere Art von direktem Sponsoring von einem anderen Nutzer ohne ein Abonnementangebot anzunehmen. Da GitHub diese Arten von Sponsorings jedoch nicht ausführt, müssen Sie ein Händlerkonto bei einem externen Zahlungsdienstleister (z. B. Stripe) einrichten und die Geschäftsbedingungen und Datenschutzrichtlinien für Händlerkonten bei diesem Dienstanbieter einhalten. Alle an Sie gespendeten Beträge und sonstige Gelder werden direkt auf Ihr Händlerkonto gezahlt und sind nicht in den Sponsored Developer-Zahlungen enthalten. Sie stimmen zu, dass Sie keine Ansprüche oder Rechtsbehelfe gegen GitHub in Bezug auf Spenden haben und dass alle Streitigkeiten im Zusammenhang mit einer Spende ausschließlich zwischen Ihnen und dem externen Zahlungsdienstleister bestehen. Sie sind für die Einhaltung jeglicher Vereinbarungen und Richtlinien des externen Zahlungsdienstleisters sowie für die Einhaltung aller anwendbaren Gesetze und Vorschriften verantwortlich. GitHub kann sich dafür entscheiden, Ihnen Informationen oder einen Bericht über die Höhe der an Sie geleisteten Spenden zur Verfügung zu stellen.
 
-#### [](#333-advertising)3.3.3. Werbung. ####
+#### [3.3.3. Werbung. #](#333-advertising) ####
 
 Obwohl wir verstehen, dass Sie möglicherweise Ihre Sponsoren bewerben möchten, indem Sie ihre Namen oder Logos in Ihrem Konto veröffentlichen, sollte der Hauptfokus Ihrer Sponsored Developer-Inhalte nicht auf Werbung oder Verkaufsförderung liegen. Darüber hinaus dürfen Sie keine Werbevereinbarung abschließen, um für ein Produkt oder eine Marke zu werben, wenn dies laut der [Vereinbarung](/de/site-policy/github-terms/github-terms-of-service) oder den Community-Richtlinien von GitHub untersagt ist. Wenn Sie sich entscheiden, Werbe- oder Verkaufsförderungsmaterialien in Ihren Sponsored Developer-Inhalten zu hosten, sind Sie allein verantwortlich für die Einhaltung aller geltenden Gesetze und Vorschriften, einschließlich der Richtlinien der US Federal Trade Commission on Endorsements and Testimonials.
 
-[](#4-financial-terms)4. Bestimmungen im Zusammenhang mit Finanzen.
+[4. Bestimmungen im Zusammenhang mit Finanzen. #](#4-financial-terms)
 ----------
 
-### [](#41-payment)4.1. Zahlung. ###
+### [4.1. Zahlung. #](#41-payment) ###
 
 GitHub zahlt Ihnen die Sponsored Developer-Zahlung gemäß diesem Abschnitt 4, solange Sie Ihre Verpflichtungen als Sponsored Developer gemäß Abschnitt 3 erfüllen und nicht gegen die vorliegenden Zusätzlichen Bedingungen verstoßen. Wenn Sie diese Verpflichtungen für einen bestimmten Monat nicht erfüllen, können wir nach unserem alleinigen Ermessen die Sponsored Developer-Zahlung für diesen Monat zurückhalten. Wenn Sie Ihre Verpflichtungen als Sponsored Developer für zwei (2) oder mehr Monate während der Laufzeit (aufeinanderfolgend oder nicht aufeinanderfolgend) nicht erfüllen, kann GitHub die vorliegenden Zusätzlichen Bedingungen kündigen, wie in Abschnitt 6 vorgesehen.
 
-### [](#42-sponsored-developer-payment-exclusions)4.2. Ausschlüsse von Sponsored Developer-Zahlungen. ###
+### [4.2. Ausschlüsse von Sponsored Developer-Zahlungen. #](#42-sponsored-developer-payment-exclusions) ###
 
 Die folgenden Beträge sind nicht in den Sponsored Developer-Zahlungen enthalten oder können gegebenenfalls von GitHub einbehalten werden.
 
-#### [](#421-sponsored-developer-expenses)4.2.1. Sponsored Developer-Ausgaben. ####
+#### [4.2.1. Sponsored Developer-Ausgaben. #](#421-sponsored-developer-expenses) ####
 
 Sie tragen alle Kosten, die Ihnen im Zusammenhang mit Ihrer Leistung gemäß diesen Zusätzlichen Bedingungen entstehen. Wir werden Ihnen keine Kosten erstatten oder vorschießen.
 
-#### [](#422-taxes)4.2.2. Steuern. ####
+#### [4.2.2. Steuern. #](#422-taxes) ####
 
 GitHub befolgt alle anwendbaren Gesetze zur Meldung von Steuerinformationen und zum Steuereinbehalt, die GitHub nach eigenem Ermessen auf diese Zahlungen anwendet. Wenn Steuern auf Beträge einbehalten werden müssen, die von GitHub an Sie zu zahlen sind, oder auf Beträge, die nach geltendem Recht der Meldung von Steuerinformationen unterliegen, wird GitHub diese Steuern von dem geschuldeten Betrag abziehen und an die zuständige Steuerbehörde abführen und bei Bedarf eine offizielle Quittung für solche einbehaltenen Steuern anfordern und Ihnen zustellen, wenn dies nach geltendem Recht erforderlich ist. GitHub wird angemessene Anstrengungen unternehmen, um derartige einbehaltene Steuern auf das nach dem anwendbaren Recht zulässige Mindestmaß zu beschränken, und beide Parteien werden in angemessener Weise zusammenarbeiten, um den niedrigsten Steuersatz zu erhalten oder eine Eliminierung derartiger Steuern gemäß den anwendbaren Einkommenssteuerverträgen zu erreichen. Dazu gehört, dass Sie GitHub angemessene Informationen zur Verfügung stellen, die nach geltendem Recht erforderlich sind, wie z. B. die IRS-Formulare W-8, W-9 oder andere Informationen, um Steuerausnahmen zu begründen. Sie sind auch dafür verantwortlich, die Geschäftsbedingungen von externen Zahlungsabwicklern in Bezug auf Steuereinbehalt und Steuerberichtswesen einzuhalten. Darüber hinaus behält sich GitHub das Recht vor, Zahlungen auf Ihr Konto auszusetzen, bis Sie GitHub angemessene Unterlagen oder Informationen zur Verfügung stellen, die nach geltendem Recht für GitHub erforderlich sind, um geltende Steuereinbehaltungs- oder Berichtspflichten zu bestimmen, die für die Zahlungen gemäß den vorliegenden Zusätzlichen Bedingungen oder der Vereinbarung gelten.
 
-#### [](#423-withholding-of-sponsored-developer-payment-for-breach)4.2.3. Einbehaltung von Sponsored Developer-Zahlungen aufgrund von Verstößen. ####
+#### [4.2.3. Einbehaltung von Sponsored Developer-Zahlungen aufgrund von Verstößen. #](#423-withholding-of-sponsored-developer-payment-for-breach) ####
 
 Im Falle eines Verstoßes oder mutmaßlichen Verstoßes eines Sponsored Developer gegen die vorliegenden Zusätzlichen Bedingungen oder die Vereinbarung behält sich GitHub das Recht vor, die Zahlung an den Sponsored Developer gemäß diesen Zusätzlichen Bedingungen oder anderweitig zurückzuhalten, bis GitHub eine angemessene Untersuchung diesbezüglich durchgeführt hat. Wenn GitHub nach eigenem Ermessen feststellt, dass ein Sponsored Developer gegen die vorliegenden Zusätzlichen Bedingungen oder die Vereinbarung verstößt, kann GitHub alle dem Sponsored Developer zustehenden Beträge dauerhaft zurückhalten.
 
-### [](#43-payment-timing)4.3. Zahlungszeitpunkt. ###
+### [4.3. Zahlungszeitpunkt. #](#43-payment-timing) ###
 
 Während der Laufzeit überweist GitHub Ihnen alle in einem bestimmten Monat erhaltenen Sponsored Developer-Zahlungen innerhalb von 30 Tagen nach Ende dieses Monats, vorbehaltlich der folgenden Variablen. Auszahlungen werden über Stripe Connect, ACH-Überweisung oder Banküberweisung auf das Bankkonto gesendet, das Sie bei der Bewerbung für GitHub Sponsors angegeben haben. Wir sind nicht für Verzögerungen, Verlust oder Missbrauch von Geldmitteln infolge falscher oder unvollständiger Informationen verantwortlich, die von Ihnen oder einer Bank bereitgestellt worden sind, oder für Fehler einer Bank bei der Gutschrift auf Ihr Konto.
 
@@ -168,23 +168,23 @@ Während der Laufzeit überweist GitHub Ihnen alle in einem bestimmten Monat erh
 
 * Nach der Kündigung überweisen wir Ihnen alle erhaltenen und unbezahlten Sponsored Developer-Zahlungen innerhalb von etwa 90 Tagen nach dem Ende des Kalendermonats, in dem wir erkennen, dass diese Zusätzlichen Bedingungen gekündigt wurden.
 
-### [](#44-payment-method)4.4. Zahlungsmethode. ###
+### [4.4. Zahlungsmethode. #](#44-payment-method) ###
 
 Wir überweisen Sponsored Developer-Zahlungen per ACH/SEPA oder per Überweisung auf ein von Ihnen angegebenes Konto, vorbehaltlich der Schwellenwerte, Methoden und Zeitrahmen, die in unseren jeweils aktuellen Zahlungsrichtlinien angegeben sind. Die Zahlungsmethode und der Schwellenwert können je nach Land und Kontoinformationen, die Sie angeben, variieren. Wir können nach eigenem Ermessen die Sponsored Developer-Zahlung mit allen anderen Zahlungen kombinieren, wir Ihnen schulden.
 
-### [](#45-currency)4.5. Währung. ###
+### [4.5. Währung. #](#45-currency) ###
 
 Alle Währungsangaben beziehen sich auf USD. Wenn Sie sich außerhalb der Vereinigten Staaten befinden, können wir für die Zahlung USD in die lokale Währung Ihres Wohnsitzlandes umrechnen, wobei wir unsere dann aktuellen Umrechnungskurse verwenden.
 
-### [](#46-refund-requirements)4.6. Rückerstattungsanforderungen. ###
+### [4.6. Rückerstattungsanforderungen. #](#46-refund-requirements) ###
 
 Sie sind dafür verantwortlich, die Bedingungen für eventuelle Rückerstattungen an Ihre Sponsoren festzulegen. In keinem Fall ist GitHub für die Bereitstellung von Support für Rückerstattungen verantwortlich, noch ist GitHub für die Zahlung von Rückerstattungen haftbar.
 
-### [](#47-requested-payment-information)4.7. Angeforderte Zahlungsinformationen. ###
+### [4.7. Angeforderte Zahlungsinformationen. #](#47-requested-payment-information) ###
 
 Damit wir Zahlungen an Sie leisten können, müssen Sie uns vollständige und genaue Finanz-, Steuer- und Bankinformationen zur Verfügung stellen (z. B. durch Erstellung oder Einrichtung eines Kontos oder auf andere Weise). Wir werden Sie auf jedem Kommunikationsweg über Änderungen der erforderlichen Informationen informieren. Wenn Sie diese Informationen nicht korrekt bereitstellen (oder nicht korrekt pflegen), (a) können wir alle damit verbundenen Bankgebühren von Ihrer Sponsored Developer-Zahlung abziehen und (b) können wir die vorliegenden Zusätzlichen Bedingungen kündigen und Sie büßen alle Ihnen von GitHub geschuldeten Beträge ein.
 
-### [](#48-stripe-connect)4.8. Stripe Connect ###
+### [4.8. Stripe Connect #](#48-stripe-connect) ###
 
 Wenn Sie über Stripe Connect bezahlt werden, gelten die folgenden zusätzlichen Bedingungen für Ihre Nutzung von GitHub Sponsors:
 
@@ -200,10 +200,10 @@ Zahlungsverarbeitungsdienste für Sponsored Developer-Konten auf GitHub Sponsors
 
 Wir verwenden Stripe, um Auszahlungen an Sponsored Developer-Konten vorzunehmen. Die [Stripe Servicevereinbarung für Empfänger](https://stripe.com/connect-account/legal/recipient) gilt für Ihren Erhalt solcher Auszahlungen. Um Auszahlungen von GitHub Sponsors zu erhalten, müssen Sie uns genaue und vollständige Informationen über sich und Ihr Unternehmen zur Verfügung stellen, und Sie autorisieren uns, diese Informationen sowie Transaktionsinformationen im Zusammenhang mit Ihrer Auszahlung an Stripe weiterzugeben.
 
-[](#5-representations-and-warranties-limitation-of-liability-indemnification)5. Zusicherungen und Gewährleistungen; Haftungsbeschränkung; Schadenersatz.
+[5. Zusicherungen und Gewährleistungen; Haftungsbeschränkung; Schadenersatz. #](#5-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [](#51-by-sponsored-developer)5.1. Vom Sponsored Developer. ###
+### [5.1. Vom Sponsored Developer. #](#51-by-sponsored-developer) ###
 
 Der Sponsored Developer erklärt und garantiert, dass:
 
@@ -215,48 +215,48 @@ Der Sponsored Developer erklärt und garantiert, dass:
 
 * Sie alle Gesetze und Vorschriften einhalten werden und Ihre Sponsored Developer-Inhalte nicht illegal sind und nicht gegen Gesetze oder Vorschriften verstoßen.
 
-### [](#52-disclaimer-of-warranties-limitation-of-liability-indemnification)5.2. Gewährleistungsausschluss, Haftungsbeschränkung und Schadensersatz. ###
+### [5.2. Gewährleistungsausschluss, Haftungsbeschränkung und Schadensersatz. #](#52-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
 SIE STIMMEN AUSDRÜCKLICH ZU, DASS DIE ABSCHNITTE O (HAFTUNGSAUSSCHLUSS), P (HAFTUNGSBESCHRÄNKUNG) UND Q (FREISTELLUNG UND SCHADENERSATZ) DER VEREINBARUNG FÜR DIE VORLIEGENDEN ZUSÄTZLICHEN BEDINGUNGEN GELTEN.
 
-[](#6-term-and-termination)6. Laufzeit und Kündigung.
+[6. Laufzeit und Kündigung. #](#6-term-and-termination)
 ----------
 
-### [](#61-term)6.1. Laufzeit. ###
+### [6.1. Laufzeit. #](#61-term) ###
 
 Diese Zusätzlichen Bedingungen gelten ab dem Tag des Inkrafttretens und bleiben in Kraft, solange Sie an dem Programm teilnehmen.
 
-### [](#62-suspension)6.2. Aussetzung. ###
+### [6.2. Aussetzung. #](#62-suspension) ###
 
 GitHub kann Ihr gesponsertes Entwicklerkonto sofort aussetzen, wenn Sie in irgendeiner Weise gegen diese Zusätzlichen Bedingungen oder die Vereinbarung verstoßen, oder wenn Sie auf einer Liste mit Handelsbeschränkungen stehen oder sich in einem Land oder Gebiet befinden oder Ihren gewöhnlichen Wohnsitz dort haben, das umfassenden Sanktionen unterliegt, die vom U.S. Office of Foreign Assets Control (OFAC) verwaltet werden. Wenn der Grund für die Sperrung nicht korrigiert oder behoben wird, kann dies zur Kündigung Ihres Sponsored Developer-Kontos führen.
 
-### [](#63-termination)6.3. Kündigung. ###
+### [6.3. Kündigung. #](#63-termination) ###
 
 Jede Partei kann diese Zusätzlichen Bedingungen und Ihr Sponsored Developer-Konto jederzeit ohne Angabe von Gründen und ohne Frist gekündigt werden. Wenn Sie gegen diese Zusätzlichen Bedingungen oder die Vereinbarung verstoßen, können wir Ihnen eine Frist zur Behebung des Verstoßes einräumen, sind aber nicht dazu verpflichtet.
 
-### [](#64-effect-of-termination)6.4. Wirkung der Kündigung. ###
+### [6.4. Wirkung der Kündigung. #](#64-effect-of-termination) ###
 
 Wenn eine der Parteien gemäß Abschnitt 6.3 kündigt, besteht die einzige Verpflichtung von GitHub darin, dem Sponsored Developer den bis zum Datum der Kündigung aufgelaufenen Betrag der Sponsored Developer-Zahlung zu zahlen, es sei denn, solche Zahlungen sind gesetzlich verboten.
 
-[](#7-miscellaneous)7. Sonstiges.
+[7. Sonstiges. #](#7-miscellaneous)
 ----------
 
-### [](#71-entire-agreement)7.1. Gesamter Vertrag. ###
+### [7.1. Gesamter Vertrag. #](#71-entire-agreement) ###
 
 Diese Zusätzlichen Bedingungen stellen zusammen mit der Vereinbarung, den GitHub Richtlinien, der GitHub Datenschutzerklärung und allen zusätzlichen Bedingungen für verschiedene Monetarisierungsoptionen die gesamte Vereinbarung zwischen Ihnen und GitHub dar.
 
-### [](#72-changes-to-the-terms)7.2. Änderungen dieser Bedingungen. ###
+### [7.2. Änderungen dieser Bedingungen. #](#72-changes-to-the-terms) ###
 
 Wir behalten uns das Recht vor, diese zusätzlichen Bestimmungen jederzeit nach eigenem Ermessen zu ändern. Wir werden Sie über wesentliche Änderungen dieser zusätzlichen Bestimmungen (z. B. Preisänderungen) mindestens 30 Tage vor dem Inkrafttreten der Änderung durch Veröffentlichung einer Mitteilung auf unserer Website informieren. Durch Ihre fortgesetzte Teilnahme am Programm geben Sie Ihre Zustimmung zu jeder überarbeiteten Version dieser Zusätzlichen Bedingungen. Sie können alle Änderungen an diesen Bedingungen in unserem Repository für [Website-Richtlinien](https://github.com/github/site-policy) einsehen.
 
-### [](#73-third-party-beneficiaries)7.3. Drittbegünstigte. ###
+### [7.3. Drittbegünstigte. #](#73-third-party-beneficiaries) ###
 
 Sofern nicht ausdrücklich angegeben, wird davon ausgegangen, dass keine andere Person, Firma, Gruppe oder Körperschaft als die Parteien Rechte aufgrund von Inhalten dieser Zusätzlichen Bedingungen erworben hat.
 
-### [](#74-independent-contractors)7.4. Unabhängige Vertragspartner. ###
+### [7.4. Unabhängige Vertragspartner. #](#74-independent-contractors) ###
 
 Die Parteien sind unabhängige Vertragspartner. Keine der Parteien ist Arbeitgeber, Angestellter, Agent, Partner oder gesetzlicher Vertreter der anderen Partei, und keine der Parteien hat das Recht, die Befugnis oder die Autorität, im Namen der anderen Partei eine Verpflichtung oder Verantwortung zu übernehmen.
 
-### [](#75-publicity)7.5. Werbung. ###
+### [7.5. Werbung. #](#75-publicity) ###
 
 Unter Umständen geben wir eine Pressemitteilung oder andere öffentliche Mitteilungen im Zusammenhang mit Ihrer Teilnahme am Programm heraus.

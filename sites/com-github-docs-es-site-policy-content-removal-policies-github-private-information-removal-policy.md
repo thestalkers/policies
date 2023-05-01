@@ -32,21 +32,21 @@ En este artículo
 
 Ofrecemos este proceso de eliminación de información privada como un servicio excepcional solo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. En esta guía se describe la información que GitHub necesita de usted a fin de procesar una solicitud de eliminación de información privada de un repositorio.
 
-[](#what-is-private-information)¿Qué se entiende por Información Privada?
+[¿Qué se entiende por Información Privada? #](#what-is-private-information)
 ----------
 
 A efectos de este documento, se entiende por «información privada» el contenido que (i) debería haberse mantenido confidencial, *y* (ii) cuya disponibilidad pública represente un riesgo de seguridad específico o concreto para usted o su organización.
 
 «Riesgo de seguridad» se refiere a una situación que implica la exposición a un peligro físico, el robo de identidad o una mayor probabilidad de acceso no autorizado a instalaciones físicas o de red.
 
-### [](#private-information-removal-requests-are-appropriate-for)Las solicitudes de eliminación de información privada son adecuadas para: ###
+### [Las solicitudes de eliminación de información privada son adecuadas para: #](#private-information-removal-requests-are-appropriate-for) ###
 
 * Las credenciales de acceso, como los nombres de usuario combinados con las contraseñas, los tokens de acceso u otros secretos de carácter confidencial que pueden conceder acceso al servidor, la red o el dominio de su organización.
 * Tokens de AWS y otras credenciales de acceso similares que otorgan acceso a un tercero en su nombre. Debe poder demostrar que el token le pertenece.
 * Documentación (como diagramas de red o arquitectura) que suponga un riesgo de seguridad específico para una organización.
 * [Información](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) relacionada con usted como persona y que represente un riesgo para su seguridad (como números de la Seguridad Social u otros números de identificación oficiales).
 
-### [](#private-information-removal-requests-are-not-appropriate-for)Las solicitudes de eliminación de información privada *no* son adecuadas para: ###
+### [Las solicitudes de eliminación de información privada *no* son adecuadas para: #](#private-information-removal-requests-are-not-appropriate-for) ###
 
 * Nombres de servidores internos, direcciones IP y URL, por sí solos. Debe poder demostrar que su uso en un archivo o elemento de código en particular representa una amenaza para la seguridad.
 * Las meras menciones de la identidad, el nombre, la marca, el nombre de dominio o cualquier otra referencia a su empresa en los archivos de GitHub. Debe ser capaz de articular por qué el uso de la identidad de su empresa supone una amenaza para la seguridad de su empresa.
@@ -56,7 +56,7 @@ A efectos de este documento, se entiende por «información privada» el conteni
 * Reclamaciones de privacidad. Si desea acceder, transferir, modificar o eliminar su información personal en GitHub, póngase en contacto con nosotros a través de [nuestro formulario de contacto de Privacidad](https://github.com/contact/privacy).
 * Contenido que se rige por nuestras [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas acerca de nuestras Directrices de la Comunidad o cree que el contenido de GitHub podría infringir nuestras directrices, puede usar [Notificar contenido](https://github.com/contact/report-content) para ponerse en contacto con nosotros.
 
-[](#things-to-know)Información importante
+[Información importante #](#things-to-know)
 ----------
 
 **Pregunte educadamente primero.** Un primer paso recomendable antes de enviarnos una solicitud de eliminación de datos es intentar ponerse en contacto con el usuario directamente. Puede que haya incluido información de contacto en su página de perfil público o en el archivo LÉAME o de Soporte del repositorio, o puede ponerse en contacto creando una incidencia o una solicitud de extracción en el repositorio. Esto no es estrictamente necesario, pero es un gesto que se agradece.
@@ -67,7 +67,7 @@ A efectos de este documento, se entiende por «información privada» el conteni
 
 **Tiempo de procesamiento.** Aunque tramitamos las solicitudes de eliminación de información privada lo más pronto posible, dado el volumen de solicitudes que tramitamos, puede pasar algún tiempo hasta que se revise su solicitud. Las solicitudes adicionales o solicitudes múltiples de puntos de contacto adicionales pueden ocasionar demoras.
 
-[](#how-does-this-actually-work)¿Cómo funciona esto realmente?
+[¿Cómo funciona esto realmente? #](#how-does-this-actually-work)
 ----------
 
 1. **El demandante investiga.** Corresponde a la parte solicitante llevar a cabo su propia investigación y facilitarnos los [detalles que solicitamos](#your-request-must-include) y, lo más importante, una explicación de las razones por las que los datos suponen un riesgo para la seguridad. GitHub no está en disposición de buscar o hacer valoraciones iniciales sobre la información privada en nombre de ninguna persona física u organización.
@@ -86,7 +86,7 @@ A efectos de este documento, se entiende por «información privada» el conteni
 
 7. **El usuario puede solicitar un plazo adicional para realizar los cambios.** Si el usuario no tuvo la oportunidad de eliminar la información privada especificada en el aviso, podemos concederle un plazo adicional de aproximadamente un (1) día hábil, previa solicitud, para realizar esos cambios. En ese caso, GitHub se lo notificará al demandante.
 
-### [](#what-about-forks-or-whats-a-fork)¿Qué hay de las bifurcaciones? (o ¿Qué es una «bifurcación»?) ###
+### [¿Qué hay de las bifurcaciones? (o ¿Qué es una «bifurcación»?) #](#what-about-forks-or-whats-a-fork) ###
 
 Una de las mejores características de GitHub es la capacidad de los usuarios de «bifurcar» («fork» en inglés) los repositorios de los demás. ¿Qué significa eso? Básicamente, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden hacer cambios en esa bifurcación para volver al proyecto principal o simplemente mantenerlo como su propia variante de un proyecto. Cada una de estas copias es un «[Glosario de GitHub](/es/get-started/quickstart/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
 
@@ -94,14 +94,14 @@ GitHub no deshabilitará automáticamente las bifurcaciones cuando deshabilite u
 
 Si en el momento de enviar la notificación, identificó todas las bifurcaciones existentes de ese repositorio, procesaríamos una reclamación válida contra todas las bifurcaciones en esa red al momento de procesar la notificación. Lo haríamos dada la probabilidad de que todas las bifurcaciones recién creadas tengan el mismo contenido. Además, si la red que se denuncia por incluir contenido denunciado tiene más de cien (100) repositorios y, por lo tanto, es difícil revisarla íntegramente, podríamos plantearnos deshabilitar toda la red si declara en su aviso que, de acuerdo con la cantidad representativa de bifurcaciones que ha revisado, cree que todas o la mayoría de las bifurcaciones contienen el contenido denunciado en el repositorio principal.
 
-[](#sending-a-private-information-removal-request)Envío de una solicitud de eliminación de información privada
+[Envío de una solicitud de eliminación de información privada #](#sending-a-private-information-removal-request)
 ----------
 
 Debido al tipo de contenido que aloja GitHub (principalmente código de software) y la forma en que se administra el contenido (con Git), necesitamos que las quejas sean lo más específicas posible. Para poder verificar si un usuario ha eliminado por completo la información privada denunciada, tenemos que saber dónde buscar exactamente.
 
 Estas directrices se han diseñado para que la tramitación de las solicitudes de eliminación de información privada resulte lo más sencilla posible.
 
-### [](#your-request-must-include)Su solicitud debe incluir: ###
+### [Su solicitud debe incluir: #](#your-request-must-include) ###
 
 1. Un enlace funcional en el que se pueda hacer clic para cada archivo que contenga información privada. (Tenga en cuenta que no podemos trabajar a partir de resultados de búsqueda, ejemplos o capturas de pantalla).
 2. Números de línea específicos dentro de cada archivo que contenga la información privada.
@@ -109,12 +109,12 @@ Estas directrices se han diseñado para que la tramitación de las solicitudes d
 4. Si usted es un tercero que actúa como agente de una organización que se enfrenta a un riesgo de seguridad, incluya una declaración en la que se indique que tiene derecho legal a actuar en nombre de dicha organización.
 5. OPCIONAL: Díganos si su solicitud es especialmente urgente y por qué. Respondemos a todas las solicitudes de eliminación de información privada lo antes posible. Sin embargo, si esta solicitud es especialmente urgente, como una exposición de credenciales muy reciente, explique los motivos.
 
-[](#how-to-submit-your-request)Cómo enviar su solicitud
+[Cómo enviar su solicitud #](#how-to-submit-your-request)
 ----------
 
 Puede enviar su solicitud para eliminar información privada a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-private-information). Incluya una versión de texto sin formato de su solicitud en el cuerpo del mensaje. El envío de la solicitud en un archivo adjunto puede provocar retrasos en la tramitación.
 
-[](#disputes)Conflictos
+[Conflictos #](#disputes)
 ----------
 
 Si ha recibido una solicitud de eliminación de información privada por nuestra parte, puede impugnarla respondiendo a nuestro correo electrónico y haciéndonos saber, con el máximo detalle posible, por qué cree que el contenido en cuestión no es información privada sujeta a esta Directiva.

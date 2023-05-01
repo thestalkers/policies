@@ -26,7 +26,7 @@ We value the participation of each member and want all attendees to have an enjo
 
 To make clear what is expected, all attendees, speakers, exhibitors, organizers, and volunteers at any event in the GitHub space are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
-[](#code-of-conduct)Code of Conduct
+[Code of Conduct #](#code-of-conduct)
 ----------
 
 GitHub is dedicated to providing a positive and harassment-free event experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience. We do not tolerate harassment of event participants in any form, nor do we tolerate any behavior that would reasonably lead to another event participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication should be appropriate for a professional audience including people of many different backgrounds.
@@ -53,13 +53,13 @@ Each event guest is entirely responsible for their own actions.
 
 Thank you for helping to make this a welcoming, friendly space for all.
 
-### [](#reporting-an-incident)Reporting an incident ###
+### [Reporting an incident #](#reporting-an-incident) ###
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the organizer by email ([events@github.com](mailto:events@github.com)) or phone/text (+1 415 842 2837), or by speaking to another GitHub employee or a security officer.
 
 GitHubbers will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-[](#credit)Credit
+[Credit #](#credit)
 ----------
 
 Portions of this Code of Conduct are based on the [example anti-harassment policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.

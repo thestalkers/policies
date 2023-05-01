@@ -30,17 +30,17 @@ Wenn Sie beantragen möchten, dass Inhalte von GitHub entfernt werden, nehmen Si
 
 Bitte beachten Sie, dass wir Ihnen nicht dabei helfen können, festzustellen, welche Richtlinie für Ihre spezifische Situation infrage kommt. Wenn Sie die folgenden Richtlinien gelesen haben und weiterhin unsicher sind, ob Inhalte als urheberrechtlich geschützte, markenrechtlich geschützte oder private Informationen gemeldet werden sollten, empfehlen wir Ihnen, sich an einen unabhängigen Rechtsberater zu wenden.
 
-[](#dmca-takedown-policy)[Richtlinie zu DMCA Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy)
+[](#dmca-takedown-policy)[Richtlinie zu DMCA Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy) #
 ----------
 
 Die Richtlinie zu DMCA Takedowns kann verwendet werden, um Inhalte zu melden, von denen Sie glauben, dass sie ein Urheberrecht verletzen, das Ihnen oder Ihrer Organisation gehört. Wenn Sie die Richtlinie bereits gelesen haben, ist es empfehlenswert, auch unsere [Anleitung zum Einreichen einer DMCA Takedown Notice (Antrag auf Entfernung von Inhalten im Rahmen des DMCA)](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) zu lesen, bevor Sie eine Meldung einreichen.
 
-[](#github-trademark-policy)[GitHub Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
+[](#github-trademark-policy)[GitHub Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy) #
 ----------
 
 Die GitHub Markenrichtlinie kann verwendet werden, um Inhalte zu melden, die den Anschein erwecken, dass Ihr Firmen- oder Geschäftsname, Ihr Logo oder andere markenrechtlich geschützte Materialien auf eine Art und Weise verwendet werden, die andere Personen in Bezug auf die Marken- oder Geschäftszugehörigkeit in die Irre führen oder verwirren könnte.
 
-[](#github-private-information-removal-policy)[GitHub Richtlinie zum Entfernen privater Informationen](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
+[](#github-private-information-removal-policy)[GitHub Richtlinie zum Entfernen privater Informationen](/de/site-policy/content-removal-policies/github-private-information-removal-policy) #
 ----------
 
 Die GitHub Richtlinie zum Entfernen privater Informationen kann verwendet werden, um Daten zu melden, die privat sind (d. h. die vertraulich sind und ein Sicherheitsrisiko darstellen), die jedoch nicht unbedingt urheberrechtlich oder markenrechtlich geschützt sind.

@@ -26,12 +26,12 @@ Dans cet article
 
 * [Transparence](#transparency)
 
-[](#appeal-and-reinstatement)Appel et réintégration
+[Appel et réintégration #](#appeal-and-reinstatement)
 ----------
 
 Bien que la majorité des interactions entre les membres de la communauté GitHub soient conformes à nos Règles de Bon Usage et à notre Charte de la Communauté, des violations de ces politiques se produisent parfois. Dans ce cas, le personnel de GitHub peut être amené à prendre des mesures pour remédier aux violations. Cependant, dans certains cas, il peut exister une base pour annuler une mesure de modération prise par le personnel de GitHub.
 
-[](#what-are-appeals-and-reinstatements)Que sont les appels et les réintégrations ?
+[Que sont les appels et les réintégrations ? #](#what-are-appeals-and-reinstatements)
 ----------
 
 Les appels et les réintégrations concernent tous deux la désactivation du contenu ou les restrictions d’accès à un compte.
@@ -40,7 +40,7 @@ Les appels et les réintégrations concernent tous deux la désactivation du con
 
 **Appel** : l’utilisateur conteste qu’une violation ait eu lieu et peut fournir des informations supplémentaires pour montrer qu’une décision différente aurait dû être prise.
 
-[](#how-this-works)Fonctionnement du processus
+[Fonctionnement du processus #](#how-this-works)
 ----------
 
 Si vous souhaitez être réintégré ou faire appel d’une mesure coercitive, veuillez remplir notre [formulaire d’appel et de réintégration](https://support.github.com/contact/reinstatement).
@@ -55,7 +55,7 @@ Toutes les demandes légitimes de réintégration seront examinées dans un prem
 
 Si l’examinateur du personnel de GitHub est la même personne qui a pris la décision initiale et que ce membre du personnel pense que sa conclusion initiale était correcte (et serait donc enclin à refuser l’appel), un autre membre du personnel de GitHub examinera l’appel de manière indépendante. Tous les appels légitimes feront l’objet d’une décision finale.
 
-[](#transparency)Transparence
+[Transparence #](#transparency)
 ----------
 
 Nous suivons les appels et les réintégrations dans nos [rapports de transparence](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

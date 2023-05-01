@@ -30,7 +30,7 @@ GitHub 社区行为准则
 
 * [法律声明](#legal-notices)
 
-[](#overview-and-purpose)概述和宗旨
+[概述和宗旨 #](#overview-and-purpose)
 ----------
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。
@@ -41,19 +41,19 @@ GitHub 社区由 GitHub Discussions 提供支持，旨在成为推动协作、�
 
 我们多样化的用户群带来了不同的观点、想法和经验，从上周刚创建第一个“Hello World”项目的初学者到世界上最知名的软件开发人员，涵盖各种各样的人群。 我们致力于将 GitHub 营造成一个兼容并蓄的环境，让我们社区的参与者可以带来不同的声音和观点，同时维护一个让开发人员可以出色完成工作的安全环境。
 
-[](#pledge)承诺
+[承诺 #](#pledge)
 ----------
 
 为了营造一个开放和包容的环境，我们作为参与者和维护者在此承诺，GitHub 社区不歧视任何参与者，不论他们的年龄、身材、能力、种族、性别认同和表达、经验水平、国籍、外貌、民族、宗教或性认同和性取向如何。
 
-[](#standards)标准
+[标准 #](#standards)
 ----------
 
 尊重 GitHub 社区。 论坛是一种共享资源，人们在这里通过不断对话来分享技能、知识和兴趣的地方。
 
 以下规则并非硬性规定，仅用于帮助我们社区的人为判断。 我们使用这些准则为文明的公众讨论提供一个干净光明的环境。
 
-### [](#best-practices-for-maintaining-a-strong-community)*维持强大社区的最佳做法* ###
+### [*维持强大社区的最佳做法* #](#best-practices-for-maintaining-a-strong-community) ###
 
 GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持一个用户能够自由表达意见并对彼此想法（包括技术和其他方面）提出挑战的社区。 同时，重要的是用户要保持尊重，并为其他人留出公开贡献的空间。 为了营造一个安全和富有成效的环境，我们鼓励社区成员参考这些准则，以了解如何在我们的平台上进行互动。 作为 GitHub 社区的重要成员，您可以在下面找到一些有关如何成功互动的建议。
 
@@ -93,7 +93,7 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
   * **保持真诚。** 不要有意分享错误信息或故意误导 GitHub 社区的其他参与者。 如果您不知道某人问题的答案，但仍想提供帮助，您可以尝试帮助他们研究问题或寻找资源。 GitHub 工作人员也活跃在 GitHub 社区中，因此如果您不确定答案，版主或许能够提供帮助。
 
-### [](#what-is-not-allowed)*不允许的情形* ###
+### [*不允许的情形* #](#what-is-not-allowed) ###
 
 GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)是 GitHub [服务条款](/zh/site-policy/github-terms/github-terms-of-service)的一部分，为 GitHub 上不允许的情形设定了基线。 由于 GitHub 社区在 GitHub.com 上，因此这些条款和限制适用于 GitHub 社区，包括以下限制：
 
@@ -105,16 +105,16 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 * **违反服务条款。** 如果您的 GitHub.com 帐户被发现违反[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，我们将不得不关闭您的帐户。
 
-[](#enforcement)执行
+[执行 #](#enforcement)
 ----------
 
-### [](#what-github-community-participants-can-do)GitHub 社区参与者可以做什么 ###
+### [GitHub 社区参与者可以做什么 #](#what-github-community-participants-can-do) ###
 
 * **发现问题请举报。** 版主拥有特殊权限；他们对本 GitHub 社区负责。 但这也是你们的责任。 在您的帮助下，版主可以成为社区的推动者，而不仅仅是“门卫”或“警察”。
 
   发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[举报滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
 
-### [](#our-responsibilities)我们的职责 ###
+### [我们的职责 #](#our-responsibilities) ###
 
 针对不当行为或内容，我们可能会采取各种措施。 它通常取决于特定案例的确切情况。 我们知道，有时人们可能会出于各种原因而去说或去做一些不适当的事情。 也许他们并未意识到自己的言论会被如何解读。 或者他们只是想让自己的情绪得到宣泄。 当然，有时候，有些人只是想散发垃圾信息或存心捣乱。
 
@@ -129,20 +129,20 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 GitHub 社区其他领导成员决定的临时或永久性处罚。
 
-[](#contacting-github-staff)联系 GitHub 工作人员
+[联系 GitHub 工作人员 #](#contacting-github-staff)
 ----------
 
 如果出于任何原因要私下联系 GitHub 社区的 GitHub 工作人员、社区管理员或版主，您可以使用我们的[支持联系表](https://support.github.com/contact?tags=docs-community-support)。 强烈建议不要通过未经请求的提及或 ping 或者通过 GitHub 社区或支持联系表以外的渠道联系任何 GitHub 工作人员，否则可能被视为违反我们禁止骚扰的规定。
 
 让我们共同努力，互相尊重并珍惜每个人的时间，使 GitHub 社区成为一个人们可以安心参与的环境。
 
-[](#legal-notices)法律声明
+[法律声明 #](#legal-notices)
 ----------
 
 确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)（包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
 
 本行为准则不修改我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service) - 包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)），也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/zh/site-policy/github-terms/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
 
-### [](#data-retention-and-deletion-of-data)数据保留和数据删除 ###
+### [数据保留和数据删除 #](#data-retention-and-deletion-of-data) ###
 
 如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。

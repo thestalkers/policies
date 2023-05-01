@@ -28,7 +28,7 @@ Wir schätzen die Teilnahme jedes Mitglieds und wünschen uns, dass alle Teilneh
 
 Um deutlich zu machen, was erwartet wird, müssen alle Teilnehmer, Referenten, Aussteller, Organisatoren und Ehrenamtlichen bei jeder Veranstaltung im GitHub Space den folgenden Verhaltenskodex einhalten. Die Organisatoren werden diesen Kodex während der gesamten Veranstaltung durchsetzen.
 
-[](#code-of-conduct)Verhaltensregeln
+[Verhaltensregeln #](#code-of-conduct)
 ----------
 
 GitHub hat sich der Bereitstellung eines positiven und belästigungsfreien Veranstaltungserlebnisses für alle verpflichtet, unabhängig von Alter, Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, persönlichem Erscheinungsbild, Körpergröße, ethnischer Zugehörigkeit, Hautfarbe, Religion, Staatsangehörigkeit oder Erfahrungsniveau. Wir tolerieren keinerlei belästigende Verhaltensweisen von Veranstaltungsteilnehmern, noch tolerieren wir Verhaltensweisen, die begründetermaßen dazu führen könnten, dass sich andere Veranstaltungsteilnehmer in Bezug auf ihr körperliches oder emotionales Wohlbefinden angegriffen, verunsichert oder verängstigt fühlen. Die gesamte Kommunikation sollte für ein professionelles Publikum angemessen sein, das Menschen mit vielen unterschiedlichen Hintergründen umfasst.
@@ -55,13 +55,13 @@ Jeder Veranstaltungsgast ist für sein Handeln vollumfänglich selbst verantwort
 
 Vielen Dank, dass Sie dazu beitragen, diesen Ort einladend und freundlich für alle zu gestalten.
 
-### [](#reporting-an-incident)Meldung eines Vorfalls ###
+### [Meldung eines Vorfalls #](#reporting-an-incident) ###
 
 Wenn Sie belästigt werden, bemerken, dass jemand anderes belästigt wird, oder andere Bedenken haben, wenden Sie sich bitte per E-Mail an den Veranstalter ([events@github.com](mailto:events@github.com)) oder Telefon/Nachricht (+1 415 842 2837), oder sprechen Sie mit einem anderen GitHub Mitarbeiter oder Sicherheitsbeauftragten.
 
 Die GitHubber helfen Teilnehmern, die belästigendem Verhalten ausgesetzt sind, selbstverständlich dabei, den Sicherheitsdienst oder die örtlichen Strafverfolgungsbehörden zu kontaktieren, sich in Sicherheit zu bringen oder andere angemessene Maßnahmen zu ergreifen, damit sie sich für die Dauer der Konferenz sicher fühlen. Ihre Teilnahme ist uns sehr wichtig.
 
-[](#credit)Gutschrift
+[Gutschrift #](#credit)
 ----------
 
 Teile dieses Verhaltenskodex basieren auf der Vorlage [example anti-harassment policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) aus dem Geek Feminism Wiki, erstellt von der Ada Initiative und anderen Ehrenamtlichen unter einer Creative Commons Zero Lizenz.
