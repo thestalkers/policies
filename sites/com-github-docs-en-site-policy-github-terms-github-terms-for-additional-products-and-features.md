@@ -153,7 +153,7 @@ Your Code is subject to the GitHub [Acceptable Use Policies](/en/site-policy/acc
 
 GitHub Copilot (i) may, depending on your preferred telemetry settings, collect snippets of Your Code, and (ii) will collect additional usage information through the IDE or editor tied to your Account. This may include personal data, as referenced in the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement). You can learn more about the collection and use of GitHub Copilot data in the [GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals).
 
-For enterprise users, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
+For GitHub Copilot for Business users, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
