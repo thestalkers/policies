@@ -133,12 +133,12 @@ Codespaces를 통해 개발 환경에서 사용할(예를 들어 코드가 작�
 [경쟁 벤치마킹 #](#competitive-benchmarking)
 ----------
 
-GitHub 제품 또는 서비스에 경쟁력 있는 제품 또는 서비스를 제공하는 경우 해당 GitHub 제품 또는 서비스를 사용하여 경쟁력 있는 제품 또는 서비스를 관리하는 측면에서 경쟁적 사용 및 벤치마크 테스트에 대한 GitHub에 대한 제한을 포기합니다. 사용 약관에서 이러한 제한을 포기하려는 경우 해당 GitHub 제품 또는 서비스를 사용할 수 없습니다.
+GitHub 제품 또는 서비스에 경쟁력 있는 제품 또는 서비스를 제공하는 경우 해당 GitHub 제품 또는 서비스를 사용하여 경쟁 제품 또는 서비스를 관리하는 측면에서 경쟁력 있는 사용 및 벤치마크 테스트에 대한 GitHub에 대한 제한을 포기하는 것에 동의하고 이에 동의합니다. 사용 약관에서 이러한 제한을 포기하려는 경우 해당 GitHub 제품 또는 서비스를 사용할 수 없습니다.
 
 [연결 #](#connect)
 ----------
 
-GitHub Connect를 사용하면 GitHub Enterprise Server 또는 GitHub AE 배포와 gitHub Enterprise Cloud 조직 또는 GitHub.com 엔터프라이즈 계정 간에 특정 기능과 데이터를 공유할 수 있습니다. GitHub Connect를 사용하도록 설정하려면 GitHub Enterprise Cloud 또는 GitHub.com 하나 이상의 (1) 계정과 GitHub Enterprise Server 또는 GitHub AE의 라이선스 배포가 하나 이상 있어야 합니다. Connect를 통한 GitHub Enterprise Cloud 도는 GitHub.com 사용에는 귀하가 GitHub Enterprise Cloud 또는 GitHub.com에 라이선스를 허여하는 약관이 적용됩니다. 개인 데이터 사용에는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)이 적용됩니다.
+GitHub Connect를 사용하면 GitHub Enterprise Server 또는 GitHub AE 배포와 GitHub Enterprise Cloud organization 또는 GitHub.com 엔터프라이즈 계정 간에 특정 기능과 데이터를 공유할 수 있습니다. GitHub Connect를 사용하도록 설정하려면 GitHub Enterprise Cloud 또는 GitHub.com 하나 이상의 (1) 계정과 GitHub Enterprise Server 또는 GitHub AE의 라이선스 배포가 하나 이상 있어야 합니다. Connect를 통한 GitHub Enterprise Cloud 도는 GitHub.com 사용에는 귀하가 GitHub Enterprise Cloud 또는 GitHub.com에 라이선스를 허여하는 약관이 적용됩니다. 개인 데이터 사용에는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)이 적용됩니다.
 
 [GitHub Copilot #](#github-copilot)
 ----------
@@ -155,7 +155,7 @@ GitHub Copilot에서 귀하에게 반환되는 코드, 기능 및 기타 출력�
 
 GitHub Copilot은 (i) 귀하의 기본 텔레메트리 설정에 따라 귀하의 코드의 스니펫을 수집하고, (ii) 귀하의 계정에 연결된 IDE 또는 편집기를 통해 추가 사용 정보를 수집할 수 있습니다. 이러한 정보에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 언급된 개인 데이터가 포함됩니다. GitHub Copilot 데이터의 수집 및 사용에 관한 자세한 내용은 [GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals)를 참조하시기 바랍니다.
 
-엔터프라이즈 사용자의 경우 GitHub Copilot 사용은 [GitHub Copilot 제품별 약관에 따라 관리됩니다](https://github.com/customer-terms/github-copilot-product-specific-terms).
+비즈니스용 GitHub Copilot 사용자의 경우 GitHub Copilot 사용은 [GitHub Copilot 제품별 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)에 의해 관리됩니다.
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
