@@ -14,7 +14,7 @@
 コンテンツ削除ポリシー
 ==========
 
-* [当社は、著作権のあるコンテンツ、商標登録されたコンテンツ、または個人的なコンテンツが、偶然または故意に GitHub で (場合によってはお客様が所有していないリポジトリに) 公開される場合があることを理解しています。](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 * [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
 * [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 * [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)

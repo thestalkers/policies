@@ -155,7 +155,7 @@ GitHub Copilot からお客様に返されるコード、関数およびその�
 
 GitHub Copilot は、(i) お客様が希望する遠隔測定設定に応じて、お客様のコードのスニペットを収集する場合があり、(ii) お客様のアカウントに関連付けられた IDE またはエディターを通じて追加の使用情報を収集します。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals) で詳しく説明されています。
 
-エンタープライズ ユーザーの場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
+GitHub Copilot for Business のユーザーの場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------

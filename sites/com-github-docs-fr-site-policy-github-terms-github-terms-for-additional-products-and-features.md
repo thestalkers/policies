@@ -155,7 +155,7 @@ Votre Code est soumis aux [Règles de Bon Usage](/fr/site-policy/acceptable-use-
 
 GitHub Copilot (i) peut, en fonction de vos paramètres de télémétrie préférés, recueillir des extraits de Votre Code, et (ii) recueillir des informations d’utilisation supplémentaires par le biais de l’IDE ou de l’éditeur lié à votre Compte. Cela peut inclure les données personnelles telles que définies dans la [Déclaration de confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement). Vous pouvez en savoir plus sur la collecte et l’utilisation des données de GitHub Copilot dans le [FAQ GitHub Copilot](https://github.com/features/copilot#faq-privacy-copilot-for-individuals).
 
-Pour les utilisateurs en entreprise, votre utilisation de GitHub Copilot est régie par les [Conditions spécifiques du produit GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Pour les utilisateurs de GitHub Copilot for Business, votre utilisation de GitHub Copilot est régie par les [Conditions spécifiques du produit GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
