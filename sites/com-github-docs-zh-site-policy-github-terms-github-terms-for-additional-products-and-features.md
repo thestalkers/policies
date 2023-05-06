@@ -155,7 +155,7 @@ GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”�
 
 GitHub Copilot (i) 可以收集你的代码的片段，以及 (ii) 通过绑定到你的帐户的 IDE 或编辑器收集其他使用信息，具体取决于你的首选遥测设置。 这可能包括个人数据，如 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 常见问题解答](https://github.com/features/copilot#faq-privacy-copilot-for-individuals)详细了解 GitHub Copilot 数据的收集和使用。
 
-企业用户对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)的约束。
+GitHub Copilot for Business 用户对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------

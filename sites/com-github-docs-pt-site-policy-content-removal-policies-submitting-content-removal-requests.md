@@ -18,7 +18,7 @@ Enviando solicitações de remoção de conteúdo
 Neste artigo
 ----------
 
-* [Política de Remoção da DMCA](#dmca-takedown-policy)
+* [Política de Remoção de DMCA](#dmca-takedown-policy)
 
 * [Política de Marcas Registradas do GitHub](#github-trademark-policy)
 
@@ -30,19 +30,19 @@ Se você quiser solicitar que o conteúdo seja removido do GitHub, reserve um te
 
 Observe que não podemos ajudar você a determinar qual política é apropriada para sua situação específica. Se você analisou as políticas abaixo e ainda tem dúvidas sobre se o conteúdo deve ou não ser denunciado como direito autoral, marca registrada ou informação privada, recomendamos consultar um advogado independente.
 
-[](#dmca-takedown-policy)[Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy) #
+[Política de Remoção de DMCA #](#dmca-takedown-policy)
 ----------
 
-A Política de Remoção da DMCA pode ser usada para denunciar conteúdo que você acredita que viola direitos autorais de sua propriedade ou de sua organização. Depois de analisar a política, você também pode analisar nosso [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) antes de enviar uma denúncia.
+A [Política de remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy) pode ser usada para denunciar conteúdo que você acredita que viola direitos autorais de sua propriedade ou de sua organização. Depois de analisar a política, você também pode analisar nosso [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) antes de enviar uma denúncia.
 
-[](#github-trademark-policy)[Política de Marcas Registradas do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy) #
+[Política de Marcas Registradas do GitHub #](#github-trademark-policy)
 ----------
 
-A Política de Marcas Registradas do GitHub pode ser usada para denunciar conteúdo que pareça usar sua empresa ou nome comercial, o logotipo ou outros materiais protegidos por marca registrada de maneira que possa enganar ou confundir outras pessoas em relação à marca ou à afiliação comercial.
+A [Política de marcas registradas do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy) pode ser usada para denunciar conteúdo que pareça usar sua empresa ou nome comercial, o logotipo ou outros materiais protegidos por marca de maneira que possa enganar ou confundir outras pessoas em relação à marca ou à afiliação comercial.
 
-[](#github-private-information-removal-policy)[Política de Remoção de Informações Privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) #
+[Política de Remoção de Informações Privadas do GitHub #](#github-private-information-removal-policy)
 ----------
 
-A Política de Remoção de Informações Privadas do GitHub pode ser usada para denunciar dados privados (confidenciais e que representam um risco de segurança), mas que não são necessariamente protegidos por direitos autorais ou marcas registradas.
+A [Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) pode ser usada para denunciar dados privados (confidenciais e que representam um risco de segurança), mas que não são necessariamente protegidos por direitos autorais ou marcas.
 
 Usuários na Índia podem [entrar em contato com o Oficial de Reclamações do GitHub](https://support.github.com/contact/india-grievance-officer).

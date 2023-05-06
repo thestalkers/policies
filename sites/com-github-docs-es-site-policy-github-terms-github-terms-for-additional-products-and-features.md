@@ -155,7 +155,7 @@ Su código está sujeto a las [directivas de uso aceptable de GitHub](/es/site-p
 
 Copiloto de GitHub (i) puede, en función de su configuración de telemetría preferida, recopilar fragmentos de su código, y (ii) recopilará información de uso adicional a través del IDE o editor vinculados a su cuenta. Esto puede incluir datos personales, como se indica en la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement). Puede obtener más información sobre la recopilación y el uso de los datos de Copiloto de GitHub en las [preguntas frecuentes](https://github.com/features/copilot#faq-privacy-copilot-for-individuals).
 
-Para los usuarios empresariales, el uso de GitHub Copilot se rige por los [términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Para los usuarios de GitHub Copilot for Business, el uso de GitHub Copilot se rige por los [términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
 [GitHub Enterprise Importer #](#github-enterprise-importer)
 ----------
