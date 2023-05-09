@@ -42,12 +42,12 @@ In this article
 
 Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in our [Terms of Service](/en/site-policy/github-terms/github-terms-of-service), [Corporate Terms of Service](/en/site-policy/github-terms/github-corporate-terms-of-service), and [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement). For customers subject to the [Corporate Terms of Service](/en/site-policy/github-terms/github-corporate-terms-of-service), "you" and "your" refer to "Customer" or "Users". "We", "us", "our" refer to "GitHub".
 
-[1. Compliance with Laws and Regulations #](#1-compliance-with-laws-and-regulations)
+[1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
 ----------
 
 You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below, as well as in our [Terms of Service](/en/site-policy/github-terms/github-terms-of-service) and [Corporate Terms of Service](/en/site-policy/github-terms/github-corporate-terms-of-service).
 
-[2. User Safety #](#2-user-safety)
+[2. User Safety](#2-user-safety)
 ----------
 
 We do not allow content or activity on GitHub that:
@@ -70,7 +70,7 @@ We do not allow content or activity on GitHub that:
 
 * is off-topic, or interacts with platform features in a way that significantly or repeatedly [disrupts the experience of other users](/en/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users).
 
-[3. Intellectual Property, Authenticity, and Private Information #](#3-intellectual-property-authenticity-and-private-information)
+[3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
 ----------
 
 We do not allow content or activity on GitHub that:
@@ -83,7 +83,7 @@ We do not allow content or activity on GitHub that:
 
 * [violates the privacy of any third party](/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy), such as by posting another person's personal information without consent.
 
-[4. Spam and Inauthentic Activity on GitHub #](#4-spam-and-inauthentic-activity-on-github)
+[4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
 ----------
 
 We do not allow content or activity on GitHub that is:
@@ -101,7 +101,7 @@ We do not allow content or activity on GitHub that is:
 * using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
 * incentivized by (or incentivizes inauthentic engagement with) rewards such as cryptocurrency airdrops, tokens, credits, gifts or other give-aways.
 
-[5. Site Access and Safety #](#5-site-access-and-safety)
+[5. Site Access and Safety](#5-site-access-and-safety)
 ----------
 
 We do not allow content or activity on GitHub that:
@@ -109,12 +109,12 @@ We do not allow content or activity on GitHub that:
 * directly supports [unlawful active attack or malware campaigns](/en/site-policy/acceptable-use-policies/github-active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
 * uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized,” but must only affect the organization whose bug bounty program authorized the activity.
 
-[6. Services Usage Limits #](#6-services-usage-limits)
+[6. Services Usage Limits](#6-services-usage-limits)
 ----------
 
 You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
 
-[7. Information Usage Restrictions #](#7-information-usage-restrictions)
+[7. Information Usage Restrictions](#7-information-usage-restrictions)
 ----------
 
 You may use information from our Service for the following reasons, regardless of whether the information was scraped, collected through our API, or obtained otherwise:
@@ -128,19 +128,19 @@ You may not use information from the Service (whether scraped, collected through
 
 Your use of information from the Service must comply with the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement).
 
-[8. Privacy #](#8-privacy)
+[8. Privacy](#8-privacy)
 ----------
 
 Misuse of personal information is prohibited.
 
 Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
-[9. Excessive Bandwidth Use #](#9-excessive-bandwidth-use)
+[9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
 ----------
 
 The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. We also reserve the right—after providing advance notice—to delete repositories that we determine to be placing undue strain on our infrastructure. For guidance on acceptable use of object storage in repositories, refer to "[About large files on GitHub](/en/repositories/working-with-files/managing-large-files/about-large-files-on-github)". For more details on specific features' bandwidth limitations, see the [GitHub Additional Product Terms](/en/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-[10. Advertising on GitHub #](#10-advertising-on-github)
+[10. Advertising on GitHub](#10-advertising-on-github)
 ----------
 
 **Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
@@ -151,7 +151,7 @@ You may not promote or distribute content or activity that is illegal or otherwi
 
 If you decide to post any promotional materials in your Account, you are solely responsible for complying with all applicable laws and regulations, including without limitation the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials. We reserve the right to remove any promotional materials or advertisements that, in our sole discretion, violate any GitHub terms or policies.
 
-[11. User Protection #](#11-user-protection)
+[11. User Protection](#11-user-protection)
 ----------
 
 You must not engage in activity that significantly harms other users.

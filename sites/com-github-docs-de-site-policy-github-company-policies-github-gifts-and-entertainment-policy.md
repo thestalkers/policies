@@ -30,7 +30,7 @@ In diesem Artikel
 
 Bei GitHub sind wir uns bewusst, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil des Aufbaus dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, und solche Interaktionen nicht zu nutzen, um uns einen besonderen Vorteil zu schaffen oder einen Geschäftsabschluss zu beeinflussen.
 
-[Unternehmensrichtlinien #](#company-policies)
+[Unternehmensrichtlinien](#company-policies)
 ----------
 
 Zur Erinnerung: In unserem Ethikkodex heißt es:
@@ -53,7 +53,7 @@ Unsere Verhaltensstandards verbieten:
 
 Sowohl Bargeld und Bargeldäquivalente jeglicher Art, als auch alle anderen Werte dürfen nicht vergeben werden (einschließlich an Beamte, Regierungsbeamte oder Personen in Macht- oder Autoritätspositionen sowie Personen, die in keiner dieser Positionen stehen), um diese Personen zu beeinflussen, oder angenommen werden, um GitHub zu beeinflussen. Solche Aktivitäten sind durch den US Foreign Corrupt Practices Act und die UK Anti-Bribery-Gesetze verboten, welche die Handlungen von GitHub weltweit regeln.
 
-[Beispiele für akzeptable und inakzeptable Geschenke #](#examples-of-acceptable-and-unacceptable-gifts)
+[Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
 Was bedeutet „wertvoll“? Denken Sie daran, dass für Regierungsbeamte keinerlei Geschenke akzeptabel sind (ok, vielleicht Aufkleber). Sie sollten sie immer fragen, was ihre Richtlinien erlauben und verbieten. Aber im Zweifelsfall wenden Sie sich bitte an die Rechtsabteilung, um sicher zu gehen. Zum Beispiel ist es für viele US-Kongressabgeordnete nicht akzeptabel, sich zu einem gemeinsamen Abendessen einladen zu lassen.
@@ -79,7 +79,7 @@ Für die einen Kunden oder potenziellen Kunden mögen bestimmte Dinge trivial er
 
 Alle oben genannten Punkte gelten auch für die *Annahme* von Bestechungsgeldern. Wenn Ihnen also ein Anbieter oder potenzieller Anbieter etwas „wertvolles“ zuschickt, nehmen Sie es nicht an – oder lassen Sie es zumindest von der Rechtsabteilung überprüfen, bevor Sie es annehmen.
 
-[Prozess #](#process)
+[Prozess](#process)
 ----------
 
 Wenn Sie vorhaben, ein informelles Geschenk zu machen oder anzunehmen (das nicht zu unseren Werbeartikeln wie T-Shirts und Aufklebern gehört), befolgen Sie bitte unbedingt das nachstehende Verfahren.
@@ -93,14 +93,14 @@ Denken Sie daran, dass die akzeptable Menge variieren kann. Beispielsweise kann 
    * Geben Sie den Empfänger und den Zweck des Geschenks in den Anmerkungen an und
    * fügen Sie eine Kopie der schriftlichen Genehmigung (E-Mail) bei
 
-[Konsequenzen #](#consequences)
+[Konsequenzen](#consequences)
 ----------
 
 Was passiert, wenn Sie die Richtlinie nicht befolgen und GitHub am Ende dafür bezahlt, dass ein potenzieller Kunde und seine Familie in der ersten Klasse nach Japan fliegen und an den Olympischen Spielen in Tokio teilnehmen? Oder wenn Sie einen Koffer voller Geld für einen Regierungsbeamten in einem vorab eingerichteten Schließfach am Bahnhof abgeben?
 
 GELDSTRAFEN und GEFÄNGNIS. Und nicht unbedingt nur für GitHub. Es könnte auch passieren, dass Sie selbst eine mehrjährige Gefängnisstrafe erhalten, und es spielt dabei keine Rolle, ob der Kunde nach seiner Reise nach Japan überhaupt eine Bestellung bei GitHub aufgegeben hat oder ob der Regierungsbeamte den Koffer mit Bargeld jemals abgeholt hat. Im Grunde ist es egal, ob Sie tatsächlich *erfolgreich* mit der Bestechung waren. Anders als bei Yoda zählt hier schon der Versuch.
 
-[Weitere Informationen #](#more-information)
+[Weitere Informationen](#more-information)
 ----------
 
 Weitere Informationen und Hintergründe zu Regeln, Durchsetzung und Strafen finden Sie beim US-Justizministerium: Der [Ressourcenleitfaden zum US Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) ist eine hervorragende Ressource.

@@ -58,7 +58,7 @@ En este artículo
 
 Fecha de entrada en vigor: 24 de agosto de 2021
 
-[1. DEFINICIONES #](#1definitions)
+[1. DEFINICIONES](#1definitions)
 ----------
 
 Los términos en mayúscula que se usan en este Acuerdo y no están definidos aquí tendrán el significado que se establece en los Términos de Servicio de GitHub ubicados en [https://docs.github.com/articles/github-terms-of-service](/es/site-policy/github-terms/github-terms-of-service) (los «Términos» o «TDS»).
@@ -83,7 +83,7 @@ Los términos en mayúscula que se usan en este Acuerdo y no están definidos aq
 
 «Datos de Uso» se refiere a los datos relacionados con Marketplace generados en relación con el uso por parte del Usuario Final de GitHub Marketplace y la licencia de los Productos para Desarrolladores, incluidos, entre otros, estadísticas de uso y datos de ventas agregados. Los Datos de Uso no incluyen y excluyen específicamente la información bancaria y de pago.
 
-[2. FINALIDAD Y CONCESIÓN DE LICENCIAS #](#2purpose-and-license-grant)
+[2. FINALIDAD Y CONCESIÓN DE LICENCIAS](#2purpose-and-license-grant)
 ----------
 
 **2.1** Este Acuerdo establece los términos y condiciones según los cuales el Desarrollador puede publicar Listados en GitHub Marketplace para la compra de Productos para Desarrolladores por parte de los Usuarios Finales y su uso en relación con GitHub.com. Este Acuerdo se aplica a los Productos para Desarrolladores distribuidos de forma gratuita y a los Productos para Desarrolladores por los que se cobra una cuota a los Usuarios Finales. El Desarrollador acepta usar GitHub Marketplace únicamente para los fines permitidos por este Acuerdo o según lo permita la legislación aplicable. En lo que respecta a GitHub y al Desarrollador, el Desarrollador es el único responsable de los Productos para Desarrolladores.
@@ -98,7 +98,7 @@ Los términos en mayúscula que se usan en este Acuerdo y no están definidos aq
 
 **2.6** El Desarrollador reconoce y acepta que GitHub tendrá derecho a proporcionar el nombre, la dirección y otros datos de contacto del Desarrollador a cualquier tercero que de forma razonable, a criterio exclusivo de GitHub, afirme que el Desarrollador no posee todos los derechos de propiedad intelectual necesarios sobre los Productos para Desarrolladores.
 
-[3. RESTRICCIONES Y RESPONSABILIDADES #](#3restrictions-and-responsibilities)
+[3. RESTRICCIONES Y RESPONSABILIDADES](#3restrictions-and-responsibilities)
 ----------
 
 Sin perjuicio de ninguno de los requisitos establecidos en el Apartado 2, Finalidad y Concesión de Licencias, anteriormente, el Desarrollador reconoce y acepta que su uso de Marketplace y su participación en el Programa están condicionados explícitamente a la adhesión del Desarrollador a este Acuerdo, incluidas, entre otras, las restricciones y requisitos de cumplimiento establecidos en este Apartado 3.
@@ -139,7 +139,7 @@ Sin perjuicio de ninguno de los requisitos establecidos en el Apartado 2, Finali
 
 **3.8** Nada de lo dispuesto en este Acuerdo impedirá que cualquiera de las partes desarrolle y/o publique aplicaciones que sean similares a las aplicaciones de la otra parte o compitan con ellas.
 
-[4. RETIRADAS #](#4takedowns)
+[4. RETIRADAS](#4takedowns)
 ----------
 
 **4.1** Sus retiradas. Al proporcionar a GitHub una notificación por escrito con treinta (30) días de antelación al primer día del mes natural siguiente, usted puede eliminar sus Listados de la futura distribución a través de Marketplace, pero debe cumplir con este Acuerdo para cualquier Listado distribuido a través de Marketplace, incluidos entre otros los requisitos de reembolso. La eliminación del Listado de la distribución futura a través de Marketplace no (a) afecta los derechos de licencia de los Usuarios Finales que compraron o instalaron previamente su Listado ni (b) cambia su obligación de entregar o mantener el Listado que los usuarios compraron o instalaron previamente.
@@ -180,7 +180,7 @@ En el caso de que su Listado se elimine involuntariamente porque sea defectuoso,
 
 **4.4** Retiradas de Usuarios Finales. Si un Usuario Final usa su Producto para Desarrolladores de una manera que infrinja los Términos, entonces tenemos el derecho de suspender o cancelar el acceso de dicho Usuario Final al Producto para Desarrolladores sin ninguna responsabilidad hacia usted.
 
-[5. MANIFESTACIONES, GARANTÍAS Y CLÁUSULAS #](#5representations-warranties-and-covenants)
+[5. MANIFESTACIONES, GARANTÍAS Y CLÁUSULAS](#5representations-warranties-and-covenants)
 ----------
 
 **5.1** El Desarrollador declara y garantiza que el Desarrollador ha notificado a todos los usuarios de dichas Aplicaciones para Desarrolladores que los datos de su cuenta se transmitirán fuera del Servicio y los términos del Desarrollador controlarán la privacidad, seguridad o integridad de tales datos de la cuenta. El Desarrollador declara y garantiza además que, en la medida en que las Aplicaciones para Desarrolladores almacenen, traten o transmitan datos de cuenta, ni el Desarrollador ni la Aplicación para Desarrolladores, sin el consentimiento previo del usuario o excepto en la medida requerida por la ley aplicable:
@@ -195,7 +195,7 @@ En el caso de que su Listado se elimine involuntariamente porque sea defectuoso,
 
 **5.4** RENUNCIA DE GARANTÍAS. TODOS LOS ASPECTOS DEL MARKETPLACE Y LA API DE GITHUB, INCLUIDOS TODOS LOS COMPONENTES DE SERVIDOR Y DE RED, SE PROPORCIONAN «TAL CUAL» Y «SEGÚN DISPONIBILIDAD», SIN GARANTÍA DE NINGÚN TIPO EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, Y GITHUB NIEGA EXPRESAMENTE TODAS LAS GARANTÍAS, YA SEAN EXPLÍCITAS O IMPLÍCITAS, INCLUIDAS, ENTRE OTRAS, CUALQUIER GARANTÍA IMPLÍCITA DE COMERCIABILIDAD, TÍTULO, ADECUACIÓN A UN FIN PARTICULAR Y AUSENCIA DE INFRACCIÓN. EL DESARROLLADOR RECONOCE QUE GITHUB NO GARANTIZA QUE EL MARKETPLACE O LA API DE GITHUB FUNCIONEN DE FORMA ININTERRUMPIDA, PUNTUAL, SEGURA, QUE ESTÉN LIBRES DE ERRORES O LIBRES DE VIRUS, MALWARE O GUSANOS (TAMBIÉN DENOMINADOS CÓDIGO INFORMÁTICO U OTRA TECNOLOGÍA DISEÑADA ESPECÍFICAMENTE PARA INTERRUMPIR, DESHABILITAR O DAÑAR EL SOFTWARE, EL HARDWARE, EL SISTEMA INFORMÁTICO O RED) Y NINGUNA INFORMACIÓN O CONSEJO OBTENIDO POR EL DESARROLLADOR DE GITHUB O A TRAVÉS DEL MARKETPLACE O DE LA API DE GITHUB NO REPRESENTARÁN GARANTÍA ALGUNA QUE NO ESTÉ EXPRESAMENTE ESTABLECIDA EN ESTOS TÉRMINOS. GITHUB NO ES RESPONSABLE Y RENUNCIA ESPECÍFICAMENTE A TODA RESPONSABILIDAD POR CUALQUIER USO NO AUTORIZADO DE LOS PRODUCTOS PARA DESARROLLADORES FUERA DEL MARKETPLACE.
 
-[6. PRECIOS Y TÉRMINOS DE PAGO #](#6pricing-and-payment-terms)
+[6. PRECIOS Y TÉRMINOS DE PAGO](#6pricing-and-payment-terms)
 ----------
 
 **6.1** GitHub será el comerciante registrado para los Productos para Desarrolladores adquiridos por los Usuarios Finales a través de Marketplace.
@@ -206,22 +206,22 @@ En el caso de que su Listado se elimine involuntariamente porque sea defectuoso,
 
 **6.4** Usted Ofrece el Soporte del Producto para Desarrolladores. Usted será el único responsable del soporte y mantenimiento de sus Productos para Desarrolladores y de cualquier reclamación sobre sus Productos para Desarrolladores. Su información de contacto de soporte técnico se mostrará en todas las páginas de detalles de la aplicación y estará disponible para los usuarios con fines de soporte al cliente. El hecho de no brindar una asistencia adecuada a sus Productos para Desarrolladores puede dar lugar a una exposición menos destacada del producto o, en algunos casos, a su eliminación de Marketplace o de cualquier otro lugar de GitHub.com en el que se almacenen Productos para Desarrolladores previamente adquiridos o descargados en nombre de los usuarios.
 
-[7. PROPIEDAD #](#7ownership)
+[7. PROPIEDAD](#7ownership)
 ----------
 
 Sujeto a las licencias limitadas provistas expresamente en este Acuerdo, nada de lo dispuesto en este Acuerdo transfiere o asigna a una de las partes ninguno de los derechos de propiedad intelectual de la otra parte en sus Características de Marca u otra tecnología, y nada de lo dispuesto en este Acuerdo transfiere o asigna a una parte ninguno de los derechos de propiedad intelectual de la otra parte.
 
-[8. LIMITACIÓN DE RESPONSABILIDAD #](#8limitation-of-liability)
+[8. LIMITACIÓN DE RESPONSABILIDAD](#8limitation-of-liability)
 ----------
 
 BAJO NINGUNA CIRCUNSTANCIA Y BAJO NINGUNA TEORÍA JURÍDICA (YA SEA POR CONTRATO, AGRAVIO, NEGLIGENCIA O DE OTRA MANERA), GITHUB, O SUS ENTIDADES AFILIADAS, RESPONSABLES, DIRECTORES, EMPLEADOS, AGENTES O PROVEEDORES SERÁN RESPONSABLES ANTE EL DESARROLLADOR O ANTE CUALQUIER TERCERO EN VIRTUD DE ESTE ACUERDO DE NINGÚN DAÑO INDIRECTO, IMPREVISTO, ESPECIAL, EJEMPLAR, EMERGENTE, PUNITIVO U OTROS DAÑOS SIMILARES, INCLUIDA LA PÉRDIDA DE BENEFICIOS, PÉRDIDA DE VENTAS O NEGOCIOS, PÉRDIDA DE DATOS, INTERRUPCIÓN DE LA ACTIVIDAD COMERCIAL O CUALQUIER OTRA PÉRDIDA EN LA QUE INCURRA EL DESARROLLADOR O CUALQUIER TERCERO EN RELACIÓN CON ESTE ACUERDO, CON INDEPENDENCIA DE QUE SE HAYA ADVERTIDO AL DESARROLLADOR DE LA POSIBILIDAD DE QUE SE PRODUZCAN O DE QUE SE HAYAN PODIDO PREVER DICHOS DAÑOS, SIN PERJUICIO DE NINGUNA DISPOSICIÓN QUE INDIQUE LO CONTRARIO EN ESTE ACUERDO. LA RESPONSABILIDAD TOTAL DE GITHUB ANTE EL DESARROLLADOR O CUALQUIER TERCERO DERIVADA DE ESTE ACUERDO NO SUPERARÁ LOS GASTOS DE SEIS (6) MESES.
 
-[9. INDEMNIZACIÓN #](#9indemnification)
+[9. INDEMNIZACIÓN](#9indemnification)
 ----------
 
 **9.1** En la medida máxima permitida por la ley aplicable, el Desarrollador acepta defender, indemnizar y eximir de responsabilidad a GitHub, sus entidades afiliadas y sus respectivos directores, responsables, empleados y agentes de y contra todas y cada una de las reclamaciones, acciones, juicios o procedimientos, así como cualquier pérdida, responsabilidad, daño, coste y gasto (incluidos los honorarios razonables de los abogados) que surjan o se relacionen con (a) el uso del Marketplace por parte del Desarrollador en vulneración de este Acuerdo, los Términos o cualquier ley o regulación aplicable; (b) Productos para Desarrolladores que infrinjan cualquier derecho de autor, marca comercial, secreto comercial, patente u otro derecho de propiedad intelectual de un tercero; (c) cualquier pérdida o revelación de datos o información personal por parte de los Productos para Desarrolladores; y (d) EULA del Desarrollador (o TDS).
 
-[10. RESCISIÓN #](#10termination)
+[10. RESCISIÓN](#10termination)
 ----------
 
 **10.1** Este Acuerdo continuará aplicándose hasta que cualquiera de las partes lo rescinda como se establece a continuación.
@@ -234,49 +234,49 @@ BAJO NINGUNA CIRCUNSTANCIA Y BAJO NINGUNA TEORÍA JURÍDICA (YA SEA POR CONTRATO
 
 **10.5** Las obligaciones de los Apartados 2, 3, 4, 5, 8, 9 y 12-18 seguirán vigentes tras cualquier vencimiento o rescisión de este Acuerdo.
 
-[11. MODIFICACIÓN #](#11modification)
+[11. MODIFICACIÓN](#11modification)
 ----------
 
 El Desarrollador reconoce y acepta que GitHub puede modificar este Acuerdo, el Marketplace, la API de GitHub, las Directivas Generales de la API, la Directiva de Privacidad de GitHub, los Términos del Servicio del Programa para Desarrolladores de GitHub y los Términos del Servicio de GitHub.com ocasionalmente (una «Modificación»). Todas las Modificaciones se comunicarán a través de Marketplace, el sitio web de GitHub en [www.GitHub.com](http://www.GitHub.com) o mediante una forma de comunicación directa de GitHub al Desarrollador. El Desarrollador reconoce y acepta además que tales Modificaciones pueden implementarse en cualquier momento y sin previo aviso al Desarrollador. El Desarrollador deberá, en el plazo de cuarenta y cinco (45) días a partir de la fecha del primer aviso de cualquier Modificación (o el período de tiempo más corto especificado en el aviso de las Modificaciones) (el «Período de Conformidad») cumplir con dichas modificaciones implementando y utilizando la versión más reciente de la API de GitHub en la versión más reciente de los Productos para Desarrolladores y realizando los cambios pertinentes en los Productos para Desarrolladores como resultado de dichas Modificaciones. El Desarrollador reconoce que una Modificación puede tener un efecto adverso en los Productos para Desarrolladores, lo que incluye, entre otros, cambiar la forma en que las aplicaciones se comunican con la API de GitHub. GitHub no tendrá responsabilidad de ningún tipo ante el Desarrollador ni ante ningún Usuario Final con respecto a dichas Modificaciones o cualquier efecto adverso que resulte de dichas Modificaciones. El acceso continuo del Desarrollador o el uso de Marketplace o de la API de GitHub después del Período de Conformidad constituirán una aceptación vinculante de las Modificaciones en cuestión.
 
-[12. ASIGNACIÓN; ACUERDO COMPLETO; REVISIONES #](#12assignment-entire-agreement-revisions)
+[12. ASIGNACIÓN; ACUERDO COMPLETO; REVISIONES](#12assignment-entire-agreement-revisions)
 ----------
 
 **12.1** El Desarrollador no puede, de forma directa o indirecta, por procedimiento legal o de otro modo, ceder la totalidad o parte de este Acuerdo o los derechos del Desarrollador en virtud de este Acuerdo o delegar el desempeño de las obligaciones del Desarrollador en virtud de este Acuerdo sin el consentimiento previo por escrito de GitHub. GitHub puede asignar o transferir los derechos otorgados en este Acuerdo sin la aprobación previa del Desarrollador. Asimismo, GitHub puede delegar sus responsabilidades u obligaciones en virtud de este Acuerdo sin el consentimiento del Desarrollador.
 
 **12.2** Este Acuerdo, junto con los Términos, constituye el acuerdo completo entre las partes con respecto al asunto de este Acuerdo. El hecho de que GitHub no haga cumplir en cualquier momento alguna disposición de este Acuerdo no constituye una renuncia a dicha disposición ni a ninguna otra disposición de este Acuerdo.
 
-[13. CONSERVACIÓN #](#13severability)
+[13. CONSERVACIÓN](#13severability)
 ----------
 
 Si un tribunal competente determina que alguna disposición de este Acuerdo es inexigible, dicha disposición deberá ser modificada por el tribunal e interpretada de la manera que mejor cumpla con la disposición original en la máxima medida que permita la ley y las disposiciones restantes de este Acuerdo permanecerán en vigor.
 
-[14. RELACIÓN ENTRE LAS PARTES #](#14-relationship-of-the-parties)
+[14. RELACIÓN ENTRE LAS PARTES](#14-relationship-of-the-parties)
 ----------
 
 Las partes son contratistas independientes. Este Acuerdo no crea una relación de asociación, franquicia, empresa conjunta, agencia, fiduciaria o laboral entre las partes. El Desarrollador acepta que cada miembro del grupo de empresas al que pertenece GitHub será un tercero beneficiario de este Acuerdo y que dichas otras empresas tendrán derecho a hacer cumplir directamente y confiar en cualquier disposición de este Acuerdo que confiera un beneficio u otorgue un derecho a favor o GitHub. Ninguna otra persona, empresa o persona jurídica será un tercero beneficiario del Acuerdo.
 
-[15. NOTIFICACIONES #](#15-notice)
+[15. NOTIFICACIONES](#15-notice)
 ----------
 
 Todos las notificaciones que debe proporcionar GitHub al Desarrollador en virtud de este Acuerdo pueden entregarse por escrito (i) mediante un servicio nacional de entrega al día siguiente reconocido («Servicio de Mensajería») o correo postal de los EE. UU. a la dirección postal de contacto proporcionada por el Desarrollador a GitHub; o (ii) correo electrónico a la dirección de correo electrónico proporcionada por el Desarrollador. El Desarrollador debe enviar las notificaciones a GitHub por escrito por Servicio de Mensajería o correo postal de los EE. UU. a la siguiente dirección: GitHub, Inc., Attn: Legal Department, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107 EE. UU. Todas las notificaciones se considerarán entregadas inmediatamente después de la entrega por correo electrónico, o si se entregan de otra manera, al recibirlas o, si es antes, dos (2) días hábiles después de depositarlas en el correo o en un Servicio de Mensajería permitido descrito anteriormente.
 
-[16. LEGISLACIÓN APLICABLE #](#16-governing-law)
+[16. LEGISLACIÓN APLICABLE](#16-governing-law)
 ----------
 
 Este Acuerdo se regirá por las leyes del Estado de California con independencia de sus principios sobre conflicto de leyes. Por el presente, el Desarrollador acepta de forma expresa someterse a la jurisdicción personal exclusiva de los tribunales federales y estatales del Estado de California, Condado de San Francisco, con el fin de resolver cualquier conflicto relativo a este Acuerdo. Sin perjuicio de lo anterior, GitHub tendrá derecho a solicitar medidas cautelares u otros tipos de medidas legales urgentes en cualquier jurisdicción.
 
-[17. RESTRICCIONES EN MATERIA DE EXPORTACIÓN #](#17-export-restrictions)
+[17. RESTRICCIONES EN MATERIA DE EXPORTACIÓN](#17-export-restrictions)
 ----------
 
 LOS PRODUCTOS PARA DESARROLLADORES DISTRIBUIDOS A TRAVÉS DE MARKETPLACE PUEDEN ESTAR SUJETOS A CONTROLES O RESTRICCIONES DE EXPORTACIÓN POR PARTE DE LOS ESTADOS UNIDOS U OTROS PAÍSES O TERRITORIOS. EL DESARROLLADOR ACEPTA CUMPLIR CON TODAS LAS LEYES Y REGULACIONES DE EXPORTACIÓN INTERNACIONALES Y DE EE. UU. APLICABLES. ESTAS LEYES PUEDEN INCLUIR RESTRICCIONES SOBRE DESTINOS, CONTENIDOS Y/O USUARIOS FINALES.
 
-[18. DATOS DE USO #](#18--usage-data)
+[18. DATOS DE USO](#18--usage-data)
 ----------
 
 Con el fin de operar y mejorar Marketplace, GitHub puede recopilar Datos de Uso de Marketplace y de la API de GitHub o en cualquier lugar donde GitHub almacene Productos para Desarrolladores adquiridos o descargados previamente por GitHub en nombre de los Usuarios Finales. Los Datos de Uso se mantendrán de acuerdo con las directivas de privacidad de GitHub vigentes en ese momento. Los Datos de Uso limitados pueden estar disponibles para que los use el Desarrollador a la entera discreción de GitHub.
 
-[Anexo 1: Apéndice de protección de datos #](#anexo-1-apéndice-de-protección-de-datos)
+[Anexo 1: Apéndice de protección de datos](#anexo-1-apéndice-de-protección-de-datos)
 ==========
 
 Este Anexo de Protección de Datos (este «Anexo») se adjunta y forma parte del Acuerdo para Desarrolladores de GitHub Marketplace entre usted y GitHub (el «Acuerdo»). Los términos no definidos en este Anexo tienen el significado que se les asigna en el Acuerdo. En caso de conflicto o incoherencia, los términos de este Anexo prevalecerán sobre los del Acuerdo.

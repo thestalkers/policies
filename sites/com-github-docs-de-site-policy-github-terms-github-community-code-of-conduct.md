@@ -30,7 +30,7 @@ In diesem Artikel
 
 * [Rechtliche Hinweise](#legal-notices)
 
-[Überblick und Zweck #](#overview-and-purpose)
+[Überblick und Zweck](#overview-and-purpose)
 ----------
 
 Millionen von Entwicklern auf der ganzen Welt hosten auf GitHub Millionen von Projekten – sowohl Open als auch Closed Source. Wir haben das Glück, jeden Tag an der Ermöglichung der Zusammenarbeit in der Entwickler-Community mitzuwirken – eine Verantwortung, die wir nicht auf die leichte Schulter nehmen. Gemeinsam haben wir alle die spannende Gelegenheit, dies zu einer Community zu machen, auf die wir stolz sein können.
@@ -41,19 +41,19 @@ Mit diesen Verhaltensregeln möchten wir Ihnen verdeutlichen, wie Sie am besten 
 
 Unsere vielfältige Nutzerbasis bringt unterschiedliche Perspektiven, Ideen und Erfahrungen mit und reicht von Menschen, die letzte Woche ihr erstes „Hello World“-Projekt erstellt haben, bis zu den bekanntesten Softwareentwicklern der Welt. Wir sind bestrebt, GitHub zu einer Umgebung zu machen, die all die verschiedenen Stimmen und Perspektiven unserer Community willkommen heißt und gleichzeitig einen sicheren Ort für Entwickler bietet, an dem sie ihre beste Arbeit leisten können.
 
-[Versprechen #](#pledge)
+[Versprechen](#pledge)
 ----------
 
 Da wir ein offenes und freundliches Umfeld fördern möchten, verpflichten wir uns als Mitwirkende und Betreiber, die Teilnahme an der GitHub Community zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Alter, Körpergröße, Behinderung, ethnischer Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönlichem Erscheinungsbild, ethnischer Herkunft, Religion oder sexueller Identität und Orientierung.
 
-[Standards #](#standards)
+[Standards](#standards)
 ----------
 
 Behandeln Sie die GitHub Community mit Respekt. Wir sind eine gemeinsam genutzte Ressource – ein Ort, an dem Fähigkeiten, Wissen und Interessen durch kontinuierliche Dialoge geteilt werden.
 
 Im Folgenden finden Sie keine festen Regeln, sondern lediglich Hilfsmittel für das Urteilsvermögen unserer Gemeinschaft. Nutzen Sie diese Richtlinien, damit dies ein sauberer, transparenter Ort für einen zivilisierten öffentlichen Diskurs bleibt.
 
-### [*Best Practices für die Aufrechterhaltung einer starken Community* #](#best-practices-for-maintaining-a-strong-community) ###
+### [*Best Practices für die Aufrechterhaltung einer starken Community*](#best-practices-for-maintaining-a-strong-community) ###
 
 Der Hauptzweck der GitHub Community ist die Zusammenarbeit an Softwareprojekten. Wir engagieren uns für die Wahrung einer Community, in der Nutzer sich frei äußern und die Ideen anderer sowohl technisch als auch anderweitig infrage stellen können. Gleichzeitig ist es wichtig, dass die Nutzer respektvoll bleiben und anderen Raum geben, sich offen einzubringen. Um sowohl ein sicheres als auch produktives Umfeld zu fördern, ermutigen wir unsere Community-Mitglieder, sich diese Richtlinien anzusehen, um sich darüber zu informieren, wie sie auf unserer Plattform interagieren sollten. Nachfolgend finden Sie einige Vorschläge für erfolgreiche Interaktionen als geschätztes Mitglied der GitHub Community.
 
@@ -93,7 +93,7 @@ Der Hauptzweck der GitHub Community ist die Zusammenarbeit an Softwareprojekten.
 
   * **Stets ehrlich sein.** Geben Sie nicht wissentlich falsche Informationen weiter, und führen Sie andere Teilnehmer der GitHub Community nicht absichtlich in die Irre. Wenn Sie die Antwort auf die Frage einer Person nicht kennen, aber dennoch helfen möchten, können Sie stattdessen versuchen, der Person bei der Recherche zu helfen oder Ressourcen zu finden. GitHub-Mitarbeiter sind auch in der GitHub Community aktiv. Wenn Sie sich also bei einer Antwort nicht sicher sind, kann Ihnen wahrscheinlich ein Moderator helfen.
 
-### [*Was nicht zulässig ist* #](#what-is-not-allowed) ###
+### [*Was nicht zulässig ist*](#what-is-not-allowed) ###
 
 Die [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) von GitHub, die Bestandteil der [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) von GitHub sind, bilden die Grundlage dessen, was auf GitHub nicht zulässig ist. Da sich die GitHub Community auf GitHub.com befindet, gelten diese Bestimmungen und Beschränkungen für die GitHub Community. Dazu zählen auch die folgenden Beschränkungen:
 
@@ -105,16 +105,16 @@ Die [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policie
 
 * **Verstoß gegen die Nutzungsbedingungen.** Wenn Ihr GitHub.com-Konto als Verstoß gegen die [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) identifiziert wird, müssen wir Ihr Konto schließen.
 
-[Durchsetzung #](#enforcement)
+[Durchsetzung](#enforcement)
 ----------
 
-### [*Was Teilnehmer der GitHub Community tun können* #](#what-github-community-participants-can-do) ###
+### [*Was Teilnehmer der GitHub Community tun können*](#what-github-community-participants-can-do) ###
 
 * **Wenn Sie ein Problem sehen, melden Sie es.** Moderatoren haben besondere Befugnisse; sie sind für diese GitHub Community verantwortlich. Aber Sie sind es auch. Mit Ihrer Hilfe können die Moderatoren nicht nur Hausmeister oder Polizisten sein, sondern wirkliche Unterstützer der Community.
 
   Wenn Sie unerwünschtes Verhalten bemerken, reagieren Sie nicht. Indem man es anerkennt, fördert man das unerwünschte Verhalten. Sie verschwenden dadurch Ihre Energie und die Zeit aller. Sie können störende Benutzer oder Inhalte an GitHub melden. Weitere Informationen finden Sie unter [Missbrauch oder Spam melden](/de/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
 
-### [Unsere Pflichten #](#our-responsibilities) ###
+### [Unsere Pflichten](#our-responsibilities) ###
 
 Es gibt eine Vielzahl von Maßnahmen, die wir als Reaktion auf unangemessenes Verhalten oder unangemessene Inhalte ergreifen können. Dies hängt in der Regel von den genauen Umständen des Einzelfalls ab. Uns ist klar, dass Menschen manchmal aus unterschiedlichen Gründen unangemessene Dinge sagen oder tun. Vielleicht war ihnen nicht klar, welche Wirkung ihre Worte haben würden. Oder sie haben sich von ihren Emotionen mitreißen lassen. Natürlich gibt es manchmal Leute, die einfach nur Spam versenden oder Ärger machen wollen.
 
@@ -129,20 +129,20 @@ Zu den Maßnahmen, die wir als Reaktion auf eine Meldung oder eine Missbrauchsme
 
 Moderatoren der GitHub Community, die den Verhaltenskodex nicht angemessen befolgen oder durchsetzen, müssen mit vorübergehenden oder dauerhaften Konsequenzen rechnen, die von anderen Mitgliedern der GitHub Community-Leitung festgelegt werden.
 
-[Kontaktaufnahme mit GitHub Beschäftigten #](#contacting-github-staff)
+[Kontaktaufnahme mit GitHub Beschäftigten](#contacting-github-staff)
 ----------
 
 Wenn Sie aus irgendeinem Grund Beschäftigte von GitHub, die Community-Manager, Administratoren oder Moderatoren dieses Forums privat kontaktieren möchten, verwenden Sie unser [Support-Kontaktformular](https://support.github.com/contact?tags=docs-community-support). Es wird dringend davon abgeraten, Beschäftigte von GitHub über unerbetene Erwähnungen oder Pings oder über andere Kanäle als die GitHub Community oder das Support-Kontaktformular zu kontaktieren. Dies kann als Verstoß gegen unser Verbot der Belästigung angesehen werden.
 
 Arbeiten wir gemeinsam daran, die GitHub Community zu einem Ort zu machen, an dem sich die Menschen sicher fühlen und an dem ihnen und ihrem Engagement Respekt entgegengebracht wird.
 
-[Rechtliche Hinweise #](#legal-notices)
+[Rechtliche Hinweise](#legal-notices)
 ----------
 
 Ja, Juristensprache ist langweilig, aber wir müssen uns – und damit auch Sie und Ihre Daten – vor unfreundlichen Menschen schützen. Wir verfügen über [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service), die unsere [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) sowie unsere [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) umfassen. Darin werden Ihre (und unsere) Verhaltensweisen im Zusammenhang mit Inhalten, Datenschutz und Gesetzen beschrieben. Um diesen Dienst nutzen zu können, müssen Sie sich verpflichten, unsere [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service), die [Richtlinien zur akzeptablen Nutzung von GitHub](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) und die [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) einzuhalten.
 
 Durch diesen Verhaltenskodex werden unsere [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service), die unsere [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) umfassen, nicht geändert. Der Kodex ist nicht als vollständige Liste zu verstehen. GitHub behält sich vor, im Rahmen der [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) bei Aktivitäten, die gegen diese Richtlinien verstoßen, nach eigenem Ermessen Inhalte oder Konten zu entfernen oder einzuschränken, unter anderem wenn sie rechtswidrig, beleidigend, bedrohlich, verleumderisch, diffamierend, pornografisch, obszön oder anderweitig anstößig sind oder das geistige Eigentum einer Partei oder unsere Nutzungsbedingungen verletzen. Dieser Verhaltenskodex beschreibt, wann wir von diesem Ermessen Gebrauch machen.
 
-### [Aufbewahrung und Löschung von Daten #](#data-retention-and-deletion-of-data) ###
+### [Aufbewahrung und Löschung von Daten](#data-retention-and-deletion-of-data) ###
 
 Wenn Sie GitHub-Benutzer sind, können Sie auf Ihre grundlegenden Benutzerprofilinformationen zugreifen, sie aktualisieren, ändern oder löschen, indem Sie [Ihr Benutzerprofil bearbeiten](https://github.com/settings/profile) oder sich an den [GitHub-Support](https://support.github.com/contact) wenden. Wir speichern und verwenden Ihre Daten nach Bedarf, um unseren gesetzlichen Verpflichtungen nachzukommen, Streitigkeiten beizulegen und unsere Vereinbarungen durchzusetzen, aber sofern keine gesetzlichen Anforderungen bestehen, werden wir Ihr vollständiges Profil (im Rahmen des Zumutbaren) innerhalb von 90 Tagen nach Ihrer Anfrage löschen. Weitere Informationen finden Sie unter[GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).

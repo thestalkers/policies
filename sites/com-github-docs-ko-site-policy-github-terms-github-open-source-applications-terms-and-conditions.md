@@ -32,14 +32,14 @@ GitHub 오픈 소스 애플리케이션 계약조건
 
 이 GitHub 오픈 소스 애플리케이션 계약조건("애플리케이션 약관")은 GitHub Desktop™ 및 관련 설명서("소프트웨어") 등 귀하의 GitHub 애플리케이션 사용과 관련하여 귀하(개인 또는 단체를 대표하는 자)와 GitHub, Inc. 간의 법적 계약서입니다. 본 애플리케이션 약관은 소프트웨어의 실행 코드 버전에 적용됩니다. 소프트웨어의 소스 코드는 오픈 소스 소프트웨어 라이선스 계약에 따라 별도로 제공되며 무료입니다. 본 애플리케이션 약관의 모든 조건에 동의하지 않는다면 소프트웨어를 다운로드, 설치, 사용 또는 복사하지 마십시오.
 
-[GitHub에 연결 #](#connecting-to-github)
+[GitHub에 연결](#connecting-to-github)
 ----------
 
 GitHub.com 웹 사이트 또는 GitHub Enterprise Server 또는 GitHub AE 배포에서 하나 이상의 계정으로 작동하도록 소프트웨어를 구성하는 경우 소프트웨어 사용은 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 GitHub Enterprise Server 또는 GitHub AE("GitHub 약관")의 배포에 적용되는 사용권 계약에 의해 관리됩니다.
 
 귀하의 해당 GitHub 약관을 위반하는 소프트웨어의 사용도 본 애플리케이션 약관을 위반한 것으로 간주됩니다.
 
-[오픈 소스 라이선스 및 표시 #](#open-source-licenses-and-notices)
+[오픈 소스 라이선스 및 표시](#open-source-licenses-and-notices)
 ----------
 
 소프트웨어에 대한 오픈 소스 라이선스는 소프트웨어에 포함된 "오픈 소스 표시" 설명서에 포함되어 있습니다. 해당 설명서에는 적용 가능한 모든 오픈 소스 라이선스의 사본도 포함되어 있습니다.
@@ -48,19 +48,19 @@ GitHub.com 웹 사이트 또는 GitHub Enterprise Server 또는 GitHub AE 배포
 
 GitHub와 별도의 서면 합의를 하지 않는 한, 귀하와 GitHub의 계약에는 항상 본 애플리케이션 약관이 최소한의 조건으로 포함됩니다. 소프트웨어의 소스 코드에 대한 오픈 소스 소프트웨어 라이선스는 별도의 서면 계약을 구성합니다. 오픈 소스 소프트웨어 라이선스가 본 애플리케이션 약관을 명시적으로 대체하는 한, 오픈 소스 라이선스는 소프트웨어 또는 소프트웨어에 포함된 특정 구성 요소의 사용에 대한 GitHub와의 계약에 적용됩니다.
 
-[GitHub의 로고 #](#githubs-logos)
+[GitHub의 로고](#githubs-logos)
 ----------
 
 소프트웨어에 포함된 라이선스 허여는 소프트웨어 로고 디자인을 포함하는 GitHub의 상표에 대한 것이 아닙니다. GitHub는 모든 GitHub 상표에 귀속되는 모든 상표 및 저작권을 보유합니다. 예를 들어, GitHub의 로고는 "logos" 폴더의 파일 제목에 "logo"가 포함된 양식화된 디자인을 포함합니다.
 
 GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 GitHub 로고 및/또는 스타일화된 이름은 GitHub의 상표입니다. 귀하는 GitHub의 사전 서면 허가 없이 어떤 방식으로든 이러한 상표를 표시하거나 사용하지 않는다는 데 동의합니다. 단, GitHub의 로고 및 사용 정책( [https://github.com/logos)에서](https://github.com/logos)%EC%97%90%EC%84%9C) 그러한 표시 또는 사용을 허용하는 경우는 예외로 합니다.
 
-[개인 정보 보호 #](#privacy)
+[개인 정보 보호](#privacy)
 ----------
 
 소프트웨어는 개인 정보를 수집할 수 있습니다. 귀하는 설정 패널에서 소프트웨어가 수집하는 정보를 통제할 수 있습니다. 소프트웨어가 GitHub를 대신하여 개인 정보를 수집하는 경우, GitHub는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 따라 해당 정보를 처리합니다.
 
-[추가 서비스 #](#additional-services)
+[추가 서비스](#additional-services)
 ----------
 
 **자동 업데이트 서비스**
@@ -75,7 +75,7 @@ GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 Git
 
 GitHub는 통지 여부에 관계없이 서비스(또는 그 일부)를 일시적 또는 영구적으로 수정하거나 중단할 수 있는 권리를 언제든지 수시로 보유합니다. GitHub는 서비스의 가격 변경, 일시 중지 또는 중단에 대해 귀하 또는 제3자에게 어떠한 책임도 지지 않습니다.
 
-[기타 #](#miscellanea)
+[기타](#miscellanea)
 ----------
 
 1. 권리 포기 없음. GitHub가 이 애플리케이션 약관의 모든 권한 또는 조항을 행사하거나 이행하지 못하는 경우, 이는 해당 권한 또는 조항에 대한 권리 포기로 볼 수 없습니다.

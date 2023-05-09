@@ -44,7 +44,7 @@ GitHub는 현대 노예제와 미성년 노동이 존재하고 지속되는 것�
 
 [영국 현대판노예방지법](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)에 따라, 또한 [강제 노동 협약에 대한 2014년 ILO 의정서](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [작업장에서의 기본 원칙과 권리에 관한 ILO 선언](https://www.ilo.org/declaration/thedeclaration/textdeclaration/lang--en/index.htm), [UN 지속 가능 발전 목표 내 목표 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms)에 맞춰 현대 노예제 및 미성년 노동에 반대하는 이 2018년 성명서("성명서")에서는 현대 노예제와 미성년 노동이 GitHub의 사업 또는 공급망에서 발생하는 것을 방지하기 위해 GitHub가 취한 조치를 설명합니다.
 
-[GitHub의 구조, 사업, 공급망 #](#githubs-structure-business-and-supply-chains)
+[GitHub의 구조, 사업, 공급망](#githubs-structure-business-and-supply-chains)
 ----------
 
 GitHub는 샌프란시스코에 본사가 있고 수많은 나라에서 직원과 계약자가 일하고 있는 소프트웨어 개발 플랫폼입니다.
@@ -62,10 +62,10 @@ GitHub는 전 세계 고객에게 무료 및 유료 소프트웨어와 웹 기�
 
 GitHub의 공급망은 컴퓨팅 서비스, 이벤트 기획, 소매 및 판촉 물품 구매, 사무실 비품, 사무실 공간 및 데이터 센터 등의 시설 임대 같은 GitHub 제품 및 운영을 위한 재화와 용역으로 구성됩니다.
 
-[현대 노예제 및 미성년 노동 관련 정책 #](#policies-in-relation-to-modern-slavery-and-child-labor)
+[현대 노예제 및 미성년 노동 관련 정책](#policies-in-relation-to-modern-slavery-and-child-labor)
 ----------
 
-### [현대 노예제 및 미성년 노동 #](#modern-slavery-and-child-labor) ###
+### [현대 노예제 및 미성년 노동](#modern-slavery-and-child-labor) ###
 
 **GitHub의 윤리 강령**은 사업 운영에서 현대 노예제(노예 상태, 강제 또는 부역 노동, 인신 매매, 노역 또는 감금되거나 도제 계약되거나 채무를 갚기 위해 일해야 하는 근로자) 또는 미성년 노동을 고의로 이용, 참여, 지지 또는 용인하는 것을 금지합니다. 이 금지 조항을 위반하는 GitHub 직원이나 계약자는 해고되거나 거래 관계가 해지됩니다.
 
@@ -79,7 +79,7 @@ GitHub는 [인신 매매 근절에 관한 미국 연방조달규정 22.17](https
 
 GitHub는 직장 관련 우려 사항 신고에 대한 보복 금지 정책을 두고 있습니다. 이 성명서에 부합하게 GitHub는 직원 및 계약자가 현대 노예제 및 미성년 노동 관련 문제를 보복에 대한 두려움 없이 신고하는 것을 허용합니다.
 
-[노동법 및 관행 #](#labor-laws-and-practices)
+[노동법 및 관행](#labor-laws-and-practices)
 ----------
 
 GitHub의 노동 관행은 다음과 같습니다.
@@ -104,19 +104,19 @@ GitHub의 노동 관행은 다음과 같습니다.
 * GitHub는 직원에게 업계에서 기대하는 수준 또는 그 이상의 복리 후생을 제공합니다.
 * GitHub는 직원들이 직장 내 불만 사항을 신고하도록 장려하며, 신고에 대한 보복을 용인하지 않습니다.
 
-[GitHub의 사업 및 공급망에서의 현대 노예제 및 미성년 노동 관련 실사 프로세스 #](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+[GitHub의 사업 및 공급망에서의 현대 노예제 및 미성년 노동 관련 실사 프로세스](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 ----------
 
 GitHub는 GitHub 사업 및 공급망의 현대 노예제 및 미성년 노동 관련 위험을 평가합니다. GitHub는 내부 및 외부 인권 전문 지식을 활용하여 교차 기능 분석(정책, 법무, 조달, 재무, 운영, 특히 인사 포함)을 통해 GitHub의 사업 및 공급망에 노무 서비스가 존재하는 부분을 규명하고, 현대 노예제 및 미성년 노동과 관련된 잠재적 위험을 파악했습니다. GitHub는 심각성, 규모 또는 가능성 측면에서 이러한 위험이 더 클 수 있는 분야의 우선 순위를 정해 실사, 모니터링, 검증을 강화합니다. GitHub는 위험이 발생할 수 있는 분야와 그 해결 방법을 지속적으로 검토합니다. 또한 GitHub는 이제 현대 노예제 또는 미성년 노동 관련 법률 준수를 포함하여 근로 관행이 이 성명서에 부합한다는 공급업체의 확약을 받고 있습니다.
 
-[GitHub의 사업 및 공급망에서 현대 노예제 또는 미성년 노동의 위험이 있는 곳과 GitHub가 이 위험을 평가하고 관리하기 위해 취한 조치 #](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+[GitHub의 사업 및 공급망에서 현대 노예제 또는 미성년 노동의 위험이 있는 곳과 GitHub가 이 위험을 평가하고 관리하기 위해 취한 조치](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 ----------
 
 위험이 큰 공급업체를 GitHub는 파악하지 못했습니다. 하지만 이벤트 지원, 건설, 시설 서비스, 식품 서비스 등 육체 노동이 필요한 서비스의 공급업체에서는 현대 노예제 또는 미성년 노동이 발생할 가능성이 더 큽니다. GitHub는 기존 공급업체를 감사하여 이러한 위험이 더 큰 분야의 공급업체에게는 이 성명서에 부합하게 서비스를 제공하도록 요구할 것입니다.
 
 GitHub 사업 또는 공급망에는 GitHub가 아는 한 실제 현대 노예제 또는 미성년 노동 사례나 혐의가 없고 발생하고 있다고 믿을 만한 근거도 없지만 GitHub는 GitHub 자신이 현대 노예제 또는 미성년 노동을 직접적으로 초래할 경우 구제 수단을 제공하고, GitHub 시스템이나 프로세스의 결함으로 인해 본 성명서에 위배되는 보다 폭넓은 패턴을 교정하기 위해 노력합니다. GitHub의 개별 피해자 교정에는 현대 노예제 및 미성년 노동 관행 근절을 위한 적절하고 즉각적인 조치 계획과 겪은 피해를 상쇄하도록 고안된 합리적이고 적절한 피해자 서비스를 위한 리소스가 포함됩니다.
 
-[GitHub 사업 또는 공급망의 현대 노예제 및 미성년 노동 근절 보장의 효과 #](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+[GitHub 사업 또는 공급망의 현대 노예제 및 미성년 노동 근절 보장의 효과](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 ----------
 
 GitHub는 현대 노예제 및 미성년 노동 관련 법률을 준수하며 앞으로도 계속 준수할 것입니다.
@@ -138,7 +138,7 @@ GitHub는 현대 노예제 및 미성년 노동 관련 법률을 준수하며 �
 
 회사 구매를 수행하는 직원에 대한 GitHub의 조달 지침에는 이제 공급업체가 Microsoft의 공급업체 윤리 강령 또는 본 성명서를 준수해야 한다는 요구 사항에 대한 언급이 포함됩니다.
 
-[현대 노예제 및 인신 매매에 관한 GitHub 직원 교육 #](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+[현대 노예제 및 인신 매매에 관한 GitHub 직원 교육](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 ----------
 
 GitHub는 GitHub 사업 및 공급망을 목표로 모든 직원이 의무적으로 이수해야 하는 현대 노예제 및 미성년 노동 교육을 개발 중입니다. GitHub는 이벤트 지원, 건설, 시설 서비스, 식품 서비스 등 육체 노동이 필요한 서비스를 제공하는 공급업체를 잠재적 위험이 큰 분야로 강조할 것입니다.

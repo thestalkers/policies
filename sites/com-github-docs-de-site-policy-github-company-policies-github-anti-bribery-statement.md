@@ -33,7 +33,7 @@ GitHub hält an unserer Verpflichtung zu ethischen Geschäftspraktiken fest, unt
 
 Laut Einschätzung der [Weltbank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) von 2017 zahlen Unternehmen und Privatpersonen jedes Jahr schätzungsweise 1,5 Billionen USD an Bestechungsgeldern.
 
-[GitHub Richtlinien, die Bestechung verbieten #](#github-policies-prohibiting-bribery)
+[GitHub Richtlinien, die Bestechung verbieten](#github-policies-prohibiting-bribery)
 ----------
 
 GitHub hat sein Engagement gegen Bestechung in einer Reihe von Unternehmensrichtlinien verankert. Als Teil der Microsoft-Familie bekennt sich GitHub zusätzlich zu den hier beschriebenen Richtlinien auch zur Antikorruptionsrichtlinie von Microsoft, die für alle Mitarbeiter und Auftragnehmer von GitHub gilt.
@@ -58,7 +58,7 @@ Die Verhaltensstandards von GitHub verbieten Folgendes:
 
 In der **Richtlinie zu Geschenken und Bewirtung** von GitHub wird erläutert, dass Bestechung im Zusammenhang mit Reisen oder Bewirtungen nicht gestattet ist, und gibt Beispiele zur Veranschaulichung unangemessenen Verhaltens. Die Richtlinie beschreibt angemessene und unangemessene Geschenke, Reise- und Bewirtungskosten; Unternehmensprozesse für das Übergeben von Geschenken durch Direktoren, leitende Angestellten, Mitarbeiter und Vertreter von GitHub und Vorschriften für die Aufbewahrung von Aufzeichnungen, Strafen; und Meldung von Verstößen. Sie enthält klare maximale Geldbeträge für Geschenke sowie jährliche Beschränkungen, mit begrenzten Ausnahmen für Geschenke, die von der entsprechenden Geschäftsleitung genehmigt wurden. Die Richtlinie ist klar und für GitHub Mitarbeiter und Auftragnehmer leicht zugänglich.
 
-[Schulungen für unsere Mitarbeiter #](#training-for-our-employees)
+[Schulungen für unsere Mitarbeiter](#training-for-our-employees)
 ----------
 
 GitHub Mitarbeiter sind verpflichtet, an Schulungen zum Thema Korruption, einschließlich Bestechung, teilzunehmen. Darüber hinaus bieten wir zusätzliche Schulungen für besonders relevante Personen und Teams, wie z. B. unser Vertriebsteam, an. In der Schulung werden relevante Elemente des US Foreign Corrupt Practices Act und des U.K. Bribery Act of 2010 erläutert. Beispiel:
@@ -84,7 +84,7 @@ Darüber hinaus behandelt die Schulung die internen Richtlinien von GitHub zur B
 
 Während sich der US-FCPA auf Interaktionen mit Regierungsbeamten konzentriert, ist der U.K. Bribery Act umfassender und erstreckt sich auf die Bestechung von beliebigen Personen, unabhängig davon, ob es sich um Regierungsbeamte handelt. Beide Gesetze können sich auf die Handlungen von GitHub in anderen Teilen der Welt erstrecken. Die Richtlinien von GitHub verbieten die Bestechung von Personen überall auf der Welt.
 
-[Einbindung unserer Partner #](#engaging-our-partners)
+[Einbindung unserer Partner](#engaging-our-partners)
 ----------
 
 * Die standardmäßigen **Wiederverkaufsvereinbarungen mit Channel-Partnern** enthalten verbindliche Antikorruptionsklauseln. In Zukunft verlangt GitHub von unseren Channel-Partnern, sich zur Einhaltung dieser Erklärung zur Bestechungsbekämpfung zu verpflichten.

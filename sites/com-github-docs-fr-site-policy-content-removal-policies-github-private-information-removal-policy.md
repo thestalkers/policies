@@ -32,21 +32,21 @@ Dans cet article
 
 Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), par exemple lorsque votre sécurité est menacée par des informations d’identification d’accès exposées. Ce guide décrit les informations dont GitHub a besoin de votre part pour traiter une demande de retrait d’informations privées d’un dépôt.
 
-[Que sont les Informations Privées ? #](#what-is-private-information)
+[Que sont les Informations Privées ?](#what-is-private-information)
 ----------
 
 Aux fins du présent document, les « informations privées » désignent le contenu qui (i) aurait dû rester confidentiel, *et* (ii) dont la disponibilité publique présente un risque de sécurité spécifique ou ciblé pour vous ou votre organisation.
 
 Le « risque de sécurité » désigne une situation impliquant une exposition à un danger physique, une usurpation d’identité ou une probabilité accrue d’accès non autorisé à des installations physiques ou à des réseaux.
 
-### [Les demandes de retrait d’informations privées sont appropriées dans les cas suivants : #](#private-information-removal-requests-are-appropriate-for) ###
+### [Les demandes de retrait d’informations privées sont appropriées dans les cas suivants :](#private-information-removal-requests-are-appropriate-for) ###
 
 * Informations d’identification, comme les noms d’utilisateur associés à des mots de passe, les jetons d’accès ou autres secrets sensibles qui peuvent donner accès au serveur, au réseau ou au domaine de votre organisation.
 * Jetons AWS et autres informations d’identification similaires qui accordent l’accès à un tiers en votre nom. Vous devez être en mesure de démontrer que le jeton vous appartient bien.
 * Documentation (comme les diagrammes réseau ou l’architecture) qui présente un risque de sécurité spécifique pour une organisation.
 * [Informations](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) liées à, et posant un risque de sécurité pour, vous en tant qu’individu (comme les numéros de sécurité sociale ou autres numéros d’identification gouvernementaux).
 
-### [Les demandes de suppression d’informations privées ne sont *pas* approprié pour : #](#private-information-removal-requests-are-not-appropriate-for) ###
+### [Les demandes de suppression d’informations privées ne sont *pas* approprié pour :](#private-information-removal-requests-are-not-appropriate-for) ###
 
 * Noms de serveur, adresses IP et URL internes, individuellement. Vous devez être en mesure de démontrer que leur utilisation dans un fichier ou un morceau de code particulier constitue une menace pour la sécurité.
 * Simples mentions de l’identité, du nom, de la marque, du nom de domaine ou d’autres références à votre entreprise dans des fichiers sur GitHub. Vous devez être en mesure d’expliquer pourquoi l’utilisation de l’identité de votre entreprise constitue une menace pour la sécurité de votre entreprise.
@@ -56,7 +56,7 @@ Le « risque de sécurité » désigne une situation impliquant une exposition
 * Plaintes relatives à la confidentialité. Si vous souhaitez accéder à vos informations personnelles sur GitHub, les transférer, les modifier ou les supprimer, veuillez nous contacter via [notre formulaire de contact sur la confidentialité](https://github.com/contact/privacy).
 * Contenu régi par notre [Charte de la Communauté](/fr/site-policy/github-terms/github-community-guidelines), comme les logiciels malveillants ou les outils polyvalents. Si vous avez des questions sur notre Charte de la Communauté ou si vous pensez que le contenu de GitHub pourrait enfreindre nos règles, vous pouvez utiliser un [Signaler du contenu](https://github.com/contact/report-content) pour nous contacter.
 
-[Ce qu’il faut savoir #](#things-to-know)
+[Ce qu’il faut savoir](#things-to-know)
 ----------
 
 **Demandez d’abord gentiment.** Une excellente première étape avant de nous envoyer une demande de retrait de données est d’essayer de contacter l’utilisateur directement. Celui-ci a peut-être ajouté des coordonnées de contact sur la page publique de son profil ou dans le fichier README ou Support du dépôt, ou vous pouvez le contacter en créant une « issue » ou une « pull request » dans le dépôt. Ceci est une recommandation, non une obligation.
@@ -67,7 +67,7 @@ Le « risque de sécurité » désigne une situation impliquant une exposition
 
 **Temps de traitement.** Bien que nous traitions les demandes de retrait d’informations privées aussi rapidement que possible, en raison du volume de demandes que nous traitons, l’examen de votre demande peut prendre un certain temps. Les demandes supplémentaires, ou les demandes multiples provenant de points de contact supplémentaires, peuvent entraîner des retards.
 
-[Comment cela fonctionne-t-il réellement ? #](#how-does-this-actually-work)
+[Comment cela fonctionne-t-il réellement ?](#how-does-this-actually-work)
 ----------
 
 1. **Le plaignant enquête.** Il appartient au demandeur de mener sa propre enquête et de nous fournir les [détails dont nous avons besoin](#your-request-must-include), le plus important étant d’expliquer en quoi les données présentent un risque pour la sécurité. GitHub n’est pas en mesure de rechercher ou de prendre des décisions initiales concernant des informations privées au nom d’un individu ou d’une organisation.
@@ -86,7 +86,7 @@ Le « risque de sécurité » désigne une situation impliquant une exposition
 
 7. **L’utilisateur peut demander une fenêtre supplémentaire pour apporter des modifications.** Si l’utilisateur a manqué l’occasion de supprimer les informations privées spécifiées dans l’avis, nous pouvons lui accorder un délai supplémentaire d’environ un jour ouvrable, sur demande, pour effectuer ces modifications. Dans ce cas, GitHub en avisera le plaignant.
 
-### [Qu’en est-il des forks ? (ou qu’est-ce qu’un fork ?) #](#what-about-forks-or-whats-a-fork) ###
+### [Qu’en est-il des forks ? (ou qu’est-ce qu’un fork ?)](#what-about-forks-or-whats-a-fork) ###
 
 L’une des meilleures fonctionnalités de GitHub est la possibilité pour les utilisateurs de « forker » les dépôts des autres. Qu’est‑ce que cela signifie ? En substance, cela signifie que les utilisateurs peuvent faire une copie d’un projet sur GitHub dans leurs propres dépôts. Si la licence ou la loi l’autorise, les utilisateurs peuvent alors apporter des modifications à ce fork, soit pour le réintégrer dans le projet principal, soit pour le conserver comme leur propre variante du projet. Chacun de ces exemplaires est un « [Glossaire GitHub](/fr/get-started/quickstart/github-glossary#fork) » du référentiel d'origine, qui à son tour peut également être appelé le « parent » du fork.
 
@@ -94,14 +94,14 @@ GitHub ne désactive pas automatiquement les forks lors de la désactivation d�
 
 Si, au moment où vous avez soumis votre notification, vous avez identifié tous les forks existants de ce dépôt, nous traiterons une réclamation valable contre tous les forks de ce réseau au moment où nous traitons la notification. Nous ferions cela étant donné la probabilité que tous les forks nouvellement créés contiennent le même contenu. En outre, si le réseau signalé qui contient le contenu signalé contient plus de cent (100) dépôts et qu’il serait donc difficile de l’examiner dans son intégralité, nous pouvons envisager de désactiver l’ensemble du réseau si vous indiquez dans votre notification que, sur la base du nombre représentatif de forks que vous avez examinés, vous pensez que la totalité ou la plupart des forks contiennent le contenu signalé dans le dépôt parent.
 
-[Envoi d’une demande de retrait d’informations privées #](#sending-a-private-information-removal-request)
+[Envoi d’une demande de retrait d’informations privées](#sending-a-private-information-removal-request)
 ----------
 
 En raison du type de contenu hébergé par GitHub (principalement du code logiciel) et de la manière dont ce contenu est géré (avec Git), nous avons besoin que les plaintes soient aussi spécifiques que possible. Pour que nous puissions vérifier qu’un utilisateur a complètement retiré les informations privées signalées, nous devons savoir exactement où chercher.
 
 Ces recommandations sont conçues pour rendre le traitement des demandes de retrait d’informations privées aussi simple que possible.
 
-### [Votre demande doit inclure : #](#your-request-must-include) ###
+### [Votre demande doit inclure :](#your-request-must-include) ###
 
 1. Un lien fonctionnel et cliquable vers chaque fichier contenant des informations privées. (notez que nous ne sommes pas en mesure de travailler à partir de résultats de recherche, d’exemples ou de captures d’écran).
 2. Les numéros de ligne spécifiques dans chaque fichier contenant les informations privées.
@@ -109,12 +109,12 @@ Ces recommandations sont conçues pour rendre le traitement des demandes de retr
 4. Si vous êtes un tiers agissant en tant qu’agent pour une organisation confrontée à un risque de sécurité, incluez une déclaration indiquant que vous avez le droit légal d’agir au nom de cette organisation.
 5. FACULTATIF : faites-nous savoir si votre demande est particulièrement urgente, et pourquoi. Nous répondons à toutes les demandes de retrait d’informations privées aussi rapidement que possible. Cependant, si cette demande est particulièrement urgente, notamment en cas d’exposition très récente d’informations d’identification, veuillez expliquer pourquoi.
 
-[Comment envoyer une demande #](#how-to-submit-your-request)
+[Comment envoyer une demande](#how-to-submit-your-request)
 ----------
 
 Vous pouvez soumettre votre demande de retrait d’informations privées via notre [formulaire de contact](https://support.github.com/contact?tags=docs-private-information). Veuillez inclure une version en texte brut de votre demande dans le corps de votre message. L’envoi de votre demande dans une pièce jointe peut entraîner des retards de traitement.
 
-[Litiges #](#disputes)
+[Litiges](#disputes)
 ----------
 
 Si vous avez reçu de notre part une demande de retrait d’informations privées, vous pouvez la contester en répondant à notre courrier électronique et en nous indiquant, de manière aussi détaillée que possible, pourquoi vous pensez que le contenu en question n’est pas une information privée soumise à la présente Politique.

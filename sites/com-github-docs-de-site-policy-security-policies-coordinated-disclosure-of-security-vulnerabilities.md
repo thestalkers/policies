@@ -17,7 +17,7 @@ Koordinierte Offenlegung von Sicherheitslücken
 
 Wir möchten, dass GitHub für alle sicher ist und bleibt. Wenn Sie eine Sicherheitslücke bei GitHub entdeckt haben, würden wir uns über Ihre Unterstützung freuen, indem Sie uns diese auf koordinierte Weise mitteilen.
 
-[Bounty-Programm #](#bounty-program)
+[Bounty-Programm](#bounty-program)
 ----------
 
 Wie mehrere andere große Softwareunternehmen bietet GitHub eine Prämie für Fehler (Bug Bounty), um besser mit Sicherheitsexperten in Kontakt zu treten. Die Idee ist einfach: Hacker und Sicherheitsexperten (wie Sie) finden und melden Schwachstellen durch unseren koordinierten Offenlegungsprozess. Um den erheblichen Aufwand zu würdigen, den diese Experten oft bei der Suche nach Fehlern betreiben, belohnen wir sie mit ein wenig Bargeld.

@@ -30,7 +30,7 @@ Si vous pensez que votre contenu sur GitHub a été désactivé par erreur par u
 
 Comme pour toutes les questions juridiques, il est toujours préférable de consulter un professionnel au sujet de vos questions ou de votre situation spécifique. Nous vous encourageons fortement à le faire avant d’entreprendre toute action qui pourrait avoir un impact sur vos droits. Ce guide n’est pas un avis juridique et ne doit pas être considéré comme tel.
 
-[Avant de commencer #](#before-you-start)
+[Avant de commencer](#before-you-start)
 ----------
 
 ***Dites la vérité.***Le DMCA exige que vous prêtiez serment sur votre avis de contestation *sous peine de parjure*. Le fait de mentir intentionnellement dans une déclaration sous serment constitue un crime fédéral. (*Voir* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) La présentation de fausses informations peut également entraîner une responsabilité civile, c’est-à-dire que vous pouvez être poursuivi en justice pour des dommages-intérêts.
@@ -55,7 +55,7 @@ Ce ne sont là que quelques exemples de la complexité du droit d’auteur. Éta
 
 ***Ressources supplémentaires.***Si vous avez besoin d’une aide supplémentaire, il existe de nombreuses ressources d’auto-assistance en ligne. Lumen propose un ensemble de guides informatifs sur le [droit d’auteur](https://www.lumendatabase.org/topics/5) et les [Principes de protection des données (Safe Harbor) dans le cadre du DMCA](https://www.lumendatabase.org/topics/14)). Si vous participez à un projet open source nécessitant des conseils juridiques, vous pouvez contacter le [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). Et si vous pensez que vous avez un cas particulièrement difficile, des organisations à but non lucratif comme la [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) peuvent également être disposées à vous aider directement ou à vous orienter vers un avocat.
 
-[Votre avis de contestation doit... #](#your-counter-notice-must)
+[Votre avis de contestation doit...](#your-counter-notice-must)
 ----------
 
 1. **Ajoutez la déclaration suivante : « J’ai lu et compris le Guide de GitHub pour déposer un avis de contestation DMCA. »**Nous ne refuserons pas de traiter un avis de contestation par ailleurs complet si vous n’incluez pas cette déclaration. Cependant, nous saurons que vous n’avez pas lu ces directives et vous demanderons peut-être de les consulter.
@@ -70,7 +70,7 @@ Ce ne sont là que quelques exemples de la complexité du droit d’auteur. Éta
 
 6. **Ajoutez votre signature physique ou électronique.**
 
-[Comment soumettre votre avis de contestation #](#how-to-submit-your-counter-notice)
+[Comment soumettre votre avis de contestation](#how-to-submit-your-counter-notice)
 ----------
 
 Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca).

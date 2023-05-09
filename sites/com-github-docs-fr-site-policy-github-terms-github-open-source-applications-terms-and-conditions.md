@@ -32,14 +32,14 @@ Dans cet article
 
 Les présentes Conditions générales relatives aux Applications Open Source de GitHub (« Conditions relatives aux Applications ») constituent un accord légal entre vous (en tant qu’individu ou au nom d’une entité) et GitHub, Inc. concernant votre utilisation des applications de GitHub, comme GitHub Desktop™ et la documentation associée (« Logiciel »). Les présentes Conditions relatives aux Applications s’appliquent à la version en code exécutable du Logiciel. Le code source du Logiciel est disponible séparément et gratuitement dans le cadre de contrats de licence de logiciel open source. Si vous n’acceptez pas toutes les dispositions des présentes Conditions relatives aux Applications, ne téléchargez pas, n’installez pas, n’utilisez pas et ne copiez pas le Logiciel.
 
-[Connexion à GitHub #](#connecting-to-github)
+[Connexion à GitHub](#connecting-to-github)
 ----------
 
 Si vous configurez le Logiciel pour qu’il fonctionne avec un ou plusieurs comptes sur le site web GitHub.com ou avec un déploiement de GitHub Enterprise Server ou GitHub AE, votre utilisation du Logiciel sera également régie par les Conditions d’Utilisation du site web GitHub.com et/ou le contrat de licence applicable à votre déploiement de GitHub Enterprise Server ou de GitHub AE (« Conditions GitHub »).
 
 Toute utilisation du Logiciel qui viole les Conditions GitHub applicables constitue également une violation des présentes Conditions relatives aux Applications.
 
-[Licences open source et notifications #](#open-source-licenses-and-notices)
+[Licences open source et notifications](#open-source-licenses-and-notices)
 ----------
 
 La licence open source du Logiciel est incluse dans la documentation du Logiciel. Cette documentation comprend également des copies de toutes les licences open source applicables.
@@ -48,19 +48,19 @@ Dans la mesure où les conditions des licences applicables aux composants open s
 
 Sauf accord écrit contraire avec GitHub, votre accord avec GitHub inclura toujours, au minimum, les présentes Conditions relatives aux Applications. Les licences de logiciels open source pour le code source du Logiciel constituent des accords écrits distincts. Dans la mesure limitée où les licences de logiciels open source remplacent expressément les présentes Conditions relatives aux Applications, les licences open source régissent votre accord avec GitHub pour l’utilisation du Logiciel ou de composants spécifiques inclus dans le Logiciel.
 
-[Logos de GitHub #](#githubs-logos)
+[Logos de GitHub](#githubs-logos)
 ----------
 
 La concession de licence incluse dans le Logiciel ne concerne pas les marques de GitHub, qui incluent les dessins du logo du Logiciel. GitHub se réserve tous les droits de marque et droits d’auteur sur toutes les marques de GitHub. Les logos de GitHub comprennent, par exemple, les dessins stylisés qui incluent le « logo » dans le titre du fichier du dossier « logos ».
 
 Les noms GitHub, GitHub Desktop, GitHub pour Mac, GitHub pour Windows, l’Octocat et les logos et/ou noms stylisés GitHub associés sont des marques commerciales de GitHub. Vous acceptez de ne pas afficher ou utiliser ces marques de quelque manière que ce soit sans l’autorisation écrite préalable de GitHub, sauf dans les cas autorisés par la Politique d’Utilisation des Logos de GitHub : <https://github.com/logos>.
 
-[Confidentialité #](#privacy)
+[Confidentialité](#privacy)
 ----------
 
 Le Logiciel peut collecter des informations personnelles. Vous pouvez contrôler les informations recueillies par le Logiciel dans le panneau de configuration. Si le Logiciel collecte des informations personnelles au nom de GitHub, GitHub traitera ces informations conformément à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
 
-[Services Supplémentaires #](#additional-services)
+[Services Supplémentaires](#additional-services)
 ----------
 
 **Services de mises à jour automatique**
@@ -75,7 +75,7 @@ VOUS COMPRENEZ ET ACCEPTEZ EXPRESSÉMENT QUE GITHUB NE SERA PAS RESPONSABLE DES 
 
 GitHub se réserve le droit, à tout moment et de temps à autre, de modifier ou d’interrompre, temporairement ou définitivement, le Service (ou toute partie de celui-ci) avec ou sans préavis. GitHub ne sera pas responsable envers vous ou envers un tiers pour toute modification de prix, suspension ou interruption du Service.
 
-[Dispositions diverses #](#miscellanea)
+[Dispositions diverses](#miscellanea)
 ----------
 
 1. Absence de Renonciation. Le fait que GitHub n’exerce pas ou ne fasse pas valoir un droit ou une disposition des présentes Conditions relatives aux Applications ne constitue pas une renonciation à ce droit ou à cette disposition.

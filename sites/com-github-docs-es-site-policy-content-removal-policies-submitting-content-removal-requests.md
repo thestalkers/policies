@@ -30,17 +30,17 @@ Si desea solicitar que se elimine contenido de GitHub, tómese un tiempo para fa
 
 Tenga en cuenta que no podemos ayudarle a determinar qué directiva es adecuada para su situación específica. Si ha revisado las siguientes directivas y aún tiene preguntas sobre si se considera o no que el contenido tiene derechos de autor, marcas comerciales o información privada, le recomendamos que consulte a un asesor legal independiente.
 
-[Directiva de Retirada de la DMCA #](#dmca-takedown-policy)
+[Directiva de Retirada de la DMCA](#dmca-takedown-policy)
 ----------
 
 La [directiva de eliminación de contenidos de DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy) se puede usar para denunciar contenido que crea que infringe un derecho de autor que le pertenece a usted o a su organización. Una vez que haya revisado la directiva, es posible que también desee revisar nuestra [Guía para Enviar una Notificación de Retirada de la DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) antes de enviar una denuncia.
 
-[Directiva de Marcas Comerciales de GitHub #](#github-trademark-policy)
+[Directiva de Marcas Comerciales de GitHub](#github-trademark-policy)
 ----------
 
 La [directiva de marcas comerciales de GitHub](/es/site-policy/content-removal-policies/github-trademark-policy) puede usarse para denunciar contenido que parezca que usa el nombre de su empresa o negocio, su logotipo u otros materiales protegidos por marcas comerciales de una manera que pueda inducir a error o confundir a otras personas con respecto a su marca o afiliación empresarial.
 
-[Directiva de Eliminación de Información Privada de GitHub #](#github-private-information-removal-policy)
+[Directiva de Eliminación de Información Privada de GitHub](#github-private-information-removal-policy)
 ----------
 
 La [directiva de eliminación de información privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy) se puede usar para denunciar datos que son privados (confidenciales y que presentan un riesgo de seguridad), pero que no están necesariamente protegidos por derechos de autor o marcas comerciales.

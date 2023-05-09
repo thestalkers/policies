@@ -30,17 +30,17 @@ Wenn Sie beantragen möchten, dass Inhalte von GitHub entfernt werden, nehmen Si
 
 Bitte beachten Sie, dass wir Ihnen nicht dabei helfen können, die geeignete Richtlinie für Ihre spezifische Situation zu ermitteln. Wenn Sie die folgenden Richtlinien gelesen haben und immer noch Fragen dazu haben, ob Inhalte als urheberrechtlich geschützte, markenrechtlich geschützte oder private Informationen gemeldet werden sollten, empfehlen wir Ihnen, sich an einen unabhängigen Rechtsbeistand zu wenden.
 
-[Richtlinie zu DMCA Takedown Notices #](#dmca-takedown-policy)
+[Richtlinie zu DMCA Takedown Notices](#dmca-takedown-policy)
 ----------
 
 Die [DMCA Takedown-Richtlinie](/de/site-policy/content-removal-policies/dmca-takedown-policy) kann verwendet werden, um Inhalte zu melden, von denen Sie glauben, dass sie ein Urheberrecht verletzen, das Ihnen oder Ihrer Organisation gehört. Nachdem Sie die Richtlinie gelesen haben, sollten Sie ggf. auch unseren [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) lesen, bevor Sie einen Bericht einreichen.
 
-[GitHub Markenrichtlinie #](#github-trademark-policy)
+[GitHub Markenrichtlinie](#github-trademark-policy)
 ----------
 
 Die [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy) kann verwendet werden, um Inhalte zu melden, die Ihren Firmen- oder Geschäftsnamen, Ihr Logo oder andere markenrechtlich geschützte Materialien auf eine Weise zu verwenden scheinen, die andere über die Marken- oder Geschäftszugehörigkeit täuschen oder verwirren kann.
 
-[GitHub Richtlinie zum Entfernen privater Informationen #](#github-private-information-removal-policy)
+[GitHub Richtlinie zum Entfernen privater Informationen](#github-private-information-removal-policy)
 ----------
 
 Die [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy) kann verwendet werden, um Daten zu melden, die privat sind (vertraulich sind und ein Sicherheitsrisiko darstellen), die jedoch nicht unbedingt urheberrechtlich oder markenrechtlich geschützt sind.

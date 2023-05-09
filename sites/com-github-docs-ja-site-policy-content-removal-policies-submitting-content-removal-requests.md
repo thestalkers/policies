@@ -30,17 +30,17 @@ GitHub からコンテンツを削除するよう要求する場合は、報告�
 
 当社は、特定の状況に対してどのポリシーが該当するかをお客様が判断するためのサポートはできませんのでご注意ください。 以下のポリシーを確認しても、コンテンツを著作権、商標、または個人情報のいずれの問題として報告すべきかが不明な場合は、独立した法律顧問に相談することをお勧めします。
 
-[DMCA 削除ポリシー #](#dmca-takedown-policy)
+[DMCA 削除ポリシー](#dmca-takedown-policy)
 ----------
 
 [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)は、お客様またはお客様の組織が所有する著作権を侵害していると思われるコンテンツの報告に使用できます。 このポリシーを確認したら、報告書を提出する前に [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)もご確認ください。
 
-[GitHub の商標ポリシー #](#github-trademark-policy)
+[GitHub の商標ポリシー](#github-trademark-policy)
 ----------
 
 [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)は、お客様の会社名、商号、ロゴ、またはその他の商標で保護されたマテリアルを、ブランドや企業系列について他人を誤解させたり混乱させたりするおそれのある方法で使用していると思われるコンテンツの報告に使用できます。
 
-[GitHub の個人情報削除ポリシー #](#github-private-information-removal-policy)
+[GitHub の個人情報削除ポリシー](#github-private-information-removal-policy)
 ----------
 
 [GitHub 個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)は、個人的 (機密性が高く、セキュリティ リスクをもたらす) で、必ずしも著作権または商標によって保護されていないデータの報告に使用できます。

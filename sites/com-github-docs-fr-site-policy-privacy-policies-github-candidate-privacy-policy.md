@@ -42,7 +42,7 @@ Aux fins de la présente politique :
 
 La présente politique ne s’applique pas à l’utilisation des services GitHub, qui sont couverts par notre [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
 
-[Quelles sont les Informations Personnelles des Candidats que nous recueillons ? #](#what-candidate-personal-information-do-we-collect)
+[Quelles sont les Informations Personnelles des Candidats que nous recueillons ?](#what-candidate-personal-information-do-we-collect)
 ----------
 
 Les Informations Personnelles des Candidats que nous recueillons, utilisons et conservons (ou « traitons ») peuvent inclure les éléments suivants, sans toutefois s’y limiter :
@@ -57,7 +57,7 @@ Les Informations Personnelles des Candidats que nous recueillons, utilisons et c
 
 **Informations sensibles ou démographiques**, comme votre sexe, des informations médicales ou de santé, votre statut d’ancien combattant ou votre origine raciale ou ethnique.
 
-[Comment utilisons-nous les Informations Personnelles des Candidats que nous recueillons ? #](#how-do-we-use-the-candidate-personal-information-we-collect)
+[Comment utilisons-nous les Informations Personnelles des Candidats que nous recueillons ?](#how-do-we-use-the-candidate-personal-information-we-collect)
 ----------
 
 Nous utilisons les Informations Personnelles des Candidats aux fins suivantes :
@@ -72,7 +72,7 @@ Nous utilisons les Informations Personnelles des Candidats aux fins suivantes :
 * préparer et soumettre les rapports requis par les lois et réglementations locales ; et
 * gérer et améliorer notre processus de candidature et de recrutement (par exemple, améliorer l’efficacité du processus de candidature et améliorer nos pratiques en matière de diversité).
 
-[Comment partageons-nous les Informations Personnelles des Candidats ? #](#how-do-we-share-your-candidate-personal-information)
+[Comment partageons-nous les Informations Personnelles des Candidats ?](#how-do-we-share-your-candidate-personal-information)
 ----------
 
 GitHub partagera les Informations Personnelles des Candidats avec les personnes qui en ont besoin dans le cadre de leur rôle professionnel légitime. Lorsque nous autorisons un tiers à accéder aux Informations Personnelles des Candidats, nous veillons à ce que ces informations soient utilisées conformément à la présente politique. Les Informations Personnelles des Candidats peuvent être partagées avec nos sociétés affiliées (comme Microsoft) et d’autres tiers (par exemple, des fournisseurs) aux fins suivantes :
@@ -84,7 +84,7 @@ GitHub partagera les Informations Personnelles des Candidats avec les personnes 
 5. lorsque cela est nécessaire pour protéger GitHub, vos intérêts vitaux (votre sécurité) ou ceux d’une autre personne ; ou
 6. avec votre consentement (par exemple pour contacter vos référents). Il vous incombe d’obtenir le consentement des référents avant de fournir leurs informations personnelles à GitHub.
 
-[Vos droits sur les Informations Personnelles des Candidats #](#your-rights-to-your-candidate-personal-information)
+[Vos droits sur les Informations Personnelles des Candidats](#your-rights-to-your-candidate-personal-information)
 ----------
 
 Dans certaines régions, les Candidats peuvent avoir certains droits en vertu des lois locales applicables en matière de protection des données personnelles (comme le Règlement Général Européen sur la Protection des Données). Toutefois, quel que soit votre lieu de résidence, nous offrons le même niveau élevé de protection des données personnelles à tous nos Candidats dans le monde entier.
@@ -93,14 +93,14 @@ Cette protection inclut les droits de demander l’accès à vos informations ou
 
 Vous pouvez faire une demande à cet effet en envoyant un courrier électronique à l’adresse [privacy@github.com.](mailto:privacy@github.com.) Nous répondrons à toutes les demandes conformément aux lois applicables en matière de protection des données.
 
-[Combien de temps conservons-nous les Informations Personnelles des Candidats ? #](#how-long-do-we-retain-your-candidate-personal-information)
+[Combien de temps conservons-nous les Informations Personnelles des Candidats ?](#how-long-do-we-retain-your-candidate-personal-information)
 ----------
 
 Les Informations Personnelles des Candidats sont conservées pendant une période d’un an après votre candidature afin de nous conformer à nos obligations légales. Après cette période, nous vous contacterons et vous demanderons votre consentement pour continuer à conserver vos informations personnelles afin de pouvoir vous prendre en considération pour toute offre d’emploi future chez GitHub.
 
 Si vous êtes embauché pour un poste chez GitHub, nous conserverons les informations fournies au cours du processus de candidature et de recrutement dans votre dossier d’embauche.
 
-[Modifications apportées à la présente Politique #](#changes-to-this-policy)
+[Modifications apportées à la présente Politique](#changes-to-this-policy)
 ----------
 
 Nous pouvons occasionnellement mettre à jour la présente Politique GitHub de Confidentialité des Candidats. Lorsque nous apporterons des modifications à cette page, nous mettrons à jour la date de dernière mise à jour.

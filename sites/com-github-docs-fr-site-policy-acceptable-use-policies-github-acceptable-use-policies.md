@@ -44,12 +44,12 @@ Dans cet article
 
 Les termes en majuscules utilisés, mais non définis dans les présentes Règles de Bon Usage ont la signification qui leur est attribuée dans nos [Conditions Générales d’Utilisation](/fr/site-policy/github-terms/github-terms-of-service), [Conditions d’Utilisation pour les Entreprises](/fr/site-policy/github-terms/github-corporate-terms-of-service) et notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement)). Pour les clients soumis aux [Conditions d’Utilisation pour les Entreprises](/fr/site-policy/github-terms/github-corporate-terms-of-service), les termes « vous » et « votre » font référence au « Client » ou aux « Utilisateurs ». Les termes « nous », « notre » ou « nos » font référence à « GitHub ».
 
-[1. Respect des lois et des réglementations #](#1-compliance-with-laws-and-regulations)
+[1. Respect des lois et des réglementations](#1-compliance-with-laws-and-regulations)
 ----------
 
 Vous êtes responsable de l’utilisation du Service en conformité avec toutes les lois et réglementations applicables, ainsi qu’avec toutes nos Règles de Bon Usage. Ces politiques peuvent être mises à jour de temps à autre et sont fournies ci-dessous, ainsi que dans nos [Conditions Générales d’Utilisation](/fr/site-policy/github-terms/github-terms-of-service) et [Conditions d’Utilisation pour les Entreprises](/fr/site-policy/github-terms/github-corporate-terms-of-service).
 
-[2. Sécurité des utilisateurs #](#2-user-safety)
+[2. Sécurité des utilisateurs](#2-user-safety)
 ----------
 
 Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
@@ -72,7 +72,7 @@ Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
 
 * sont hors sujet ou interagissent avec les fonctionnalités de la plateforme d’une manière qui [perturbe l’expérience des autres utilisateurs](/fr/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) de manière significative ou répétée.
 
-[3. Propriété intellectuelle, authenticité et informations privées #](#3-intellectual-property-authenticity-and-private-information)
+[3. Propriété intellectuelle, authenticité et informations privées](#3-intellectual-property-authenticity-and-private-information)
 ----------
 
 Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
@@ -85,7 +85,7 @@ Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
 
 * [violent la vie privée d’un tiers](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy), par exemple en publiant les informations personnelles d’une autre personne sans son consentement.
 
-[4. Spam et activité non authentique sur GitHub #](#4-spam-and-inauthentic-activity-on-github)
+[4. Spam et activité non authentique sur GitHub](#4-spam-and-inauthentic-activity-on-github)
 ----------
 
 Nous n’autorisons pas les contenus ou les activités sur GitHub qui impliquent :
@@ -103,7 +103,7 @@ Nous n’autorisons pas les contenus ou les activités sur GitHub qui impliquent
 * l’utilisation de nos serveurs pour toute forme d’activité de masse automatisée excessive, pour faire peser une charge excessive sur nos serveurs par des moyens automatisés ou pour relayer toute forme de publicité ou de sollicitation non sollicitée par l’intermédiaire de nos serveurs, comme les systèmes d’enrichissement rapide ;
 * l’incitation par (ou l’incitation à un engagement inauthentique avec) des récompenses telles que des dons de cryptomonnaies, des jetons, des crédits, des cadeaux ou d’autres avantages.
 
-[5. Accès au site et sécurité #](#5-site-access-and-safety)
+[5. Accès au site et sécurité](#5-site-access-and-safety)
 ----------
 
 Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
@@ -111,12 +111,12 @@ Nous n’autorisons pas les contenus ou les activités sur GitHub qui :
 * soutiennent directement des [campagnes d’attaques actives illégales ou de logiciels malveillants](/fr/site-policy/acceptable-use-policies/github-active-malware-or-exploits) qui causent des préjudices techniques (comme l’utilisation de notre plateforme pour fournir des exécutables malveillants ou comme infrastructure d’attaque, par exemple en organisant des attaques par déni de service ou en gérant des serveurs de commande et de contrôle) sans objectif implicite ou explicite de double usage avant que l’abus ne se produise ; ou
 * utilisent nos serveurs pour perturber ou tenter de perturber, ou pour obtenir ou tenter d’obtenir un accès non autorisé à des services, dispositifs, données, comptes ou réseaux. Veuillez noter que les activités autorisées dans le cadre des programmes de primes aux bogues, telles que le [programme GitHub Bug Bounty](https://bounty.github.com), ne sont pas considérées comme « non autorisées », mais doivent uniquement affecter l’organisation dont le programme de primes aux bogues a autorisé l’activité.
 
-[6. Limites d’utilisation des services #](#6-services-usage-limits)
+[6. Limites d’utilisation des services](#6-services-usage-limits)
 ----------
 
 Vous vous engagez à ne pas reproduire, dupliquer, copier, vendre, revendre ou exploiter une partie du Service, l’utilisation du Service ou l’accès au Service sans notre autorisation écrite expresse.
 
-[7. Restrictions relatives à l’utilisation des informations #](#7-information-usage-restrictions)
+[7. Restrictions relatives à l’utilisation des informations](#7-information-usage-restrictions)
 ----------
 
 Vous pouvez utiliser les informations provenant de notre Service pour les raisons suivantes, indépendamment du fait que les informations aient été extraites (scraping), recueillies par notre API ou obtenues autrement :
@@ -130,19 +130,19 @@ Vous n’êtes pas autorisé à utiliser les informations du Service (qu’elles
 
 Votre utilisation des informations provenant du Service doit être conforme à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
 
-[8. Confidentialité #](#8-privacy)
+[8. Confidentialité](#8-privacy)
 ----------
 
 L’utilisation abusive des informations personnelles est interdite.
 
 Toute personne, toute entité ou tout service recueillant des données à partir du Service doit se conformer à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement), notamment en ce qui concerne la collecte de Données personnelles. Si vous recueillez des informations personnelles à partir du Service, vous acceptez de n’utiliser ces informations que dans le but pour lequel l’Utilisateur les a autorisées. Vous acceptez de sécuriser dans une limite raisonnable toutes les informations personnelles que vous avez recueillies sur le Service, et vous répondrez rapidement aux plaintes, aux demandes de suppression et aux demandes d’interdiction de contact de notre part ou de celle d’autres utilisateurs.
 
-[9. Utilisation excessive de la bande passante #](#9-excessive-bandwidth-use)
+[9. Utilisation excessive de la bande passante](#9-excessive-bandwidth-use)
 ----------
 
 Les limitations de la bande passante du Service varient en fonction des fonctions que vous utilisez. Si nous déterminons que votre utilisation de la bande passante est nettement excessive par rapport à celle d’autres utilisateurs de fonctionnalités similaires, nous nous réservons le droit de suspendre votre compte, de limiter l’hébergement de vos fichiers ou de restreindre votre activité jusqu’à ce que vous puissiez réduire votre consommation de bande passante. Nous nous réservons également le droit, après notification, de supprimer les dépôts qui, selon nous, exercent une pression excessive sur notre infrastructure. Pour obtenir des conseils sur l'utilisation acceptable du stockage d'objets dans les référentiels, reportez-vous à « [À propos des fichiers volumineux sur GitHub](/fr/repositories/working-with-files/managing-large-files/about-large-files-on-github) ». Pour plus de détails sur les limitations de bande passante de certaines fonctionnalités, consultez les [Conditions Supplémentaires des Produits GitHub](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-[10. Publicité sur GitHub #](#10-advertising-on-github)
+[10. Publicité sur GitHub](#10-advertising-on-github)
 ----------
 
 **Version courte :** *Nous n’interdisons généralement pas l’utilisation de GitHub à des fins publicitaires. Cependant, nous attendons de nos utilisateurs qu’ils respectent certaines limitations, de sorte que GitHub ne devienne pas un paradis pour les spams. Personne ne souhaite que cela se produise.*
@@ -153,7 +153,7 @@ Vous ne pouvez pas promouvoir ou distribuer du contenu ou des activités illéga
 
 Si vous décidez de publier du contenu promotionnel sur votre compte, vous êtes seul responsable du respect de toutes les lois et réglementations applicables, notamment les directives de la Federal Trade Commission des États-Unis sur les endossements et les témoignages (« Guidelines on Endorsements and Testimonials »). Nous nous réservons le droit de supprimer tout contenu promotionnel ou toute publicité qui, à notre seule discrétion, viole les conditions ou politiques de GitHub.
 
-[11. Protection des utilisateurs #](#11-user-protection)
+[11. Protection des utilisateurs](#11-user-protection)
 ----------
 
 Vous ne devez pas vous livrer à des activités qui nuisent de manière significative aux autres utilisateurs.

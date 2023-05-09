@@ -28,17 +28,17 @@ GitHub 상표 정책
 
 * [상표 정책 위반을 신고할 때 어떤 정보가 필요합니까?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[GitHub 상표 정책 위반인 것은 무엇입니까? #](#what-is-a-github-trademark-policy-violation)
+[GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)
 ----------
 
 회사 또는 사업체 이름, 로고 또는 기타 상표가 보호되는 자료를 브랜드 또는 사업 제휴와 관련하여 다른 사람을 오도하거나 혼동시킬 수 있는 방식으로 사용하는 것은 상표 정책 위반으로 간주될 수 있습니다.
 
-[GitHub 상표 정책 위반이 아닌 것은 무엇입니까? #](#what-is-not-a-github-trademark-policy-violation)
+[GitHub 상표 정책 위반이 아닌 것은 무엇입니까?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
 다른 자의 상표를 상표가 부여된 제품 또는 서비스와 무관한 방식으로 사용하는 것은 상표 정책 위반이 아닙니다. GitHub 사용자 이름은 선착순으로 사용할 수 있으며, 예약할 수 없습니다. 등록된 상표와 동일한 사용자 이름을 가진 GitHub 계정은 그 자체로는 반드시 GitHub 상표 정책 위반이라 할 수 없습니다.
 
-[GitHub는 상표 정책 위반 신고에 어떻게 대응합니까? #](#how-does-github-respond-to-reported-trademark-policy-violations)
+[GitHub는 상표 정책 위반 신고에 어떻게 대응합니까?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
 GitHub는 연방 또는 국제 상표 등록 보유자로부터 상표 정책 위반 신고를 접수하면 계정을 검토하고 다음 조치를 취할 수 있습니다.
@@ -46,12 +46,12 @@ GitHub는 연방 또는 국제 상표 등록 보유자로부터 상표 정책 �
 * 상표의 무단 사용을 통해 다른 사람을 오도하려는 명백한 의도가 있는 경우, GitHub는 해당 계정을 정지시키고 계정 보유자에게 알립니다.
 * GitHub는 계정이 사용자를 혼동시키는 것으로 보이지만 상표 등록된 제품 또는 서비스로 가장할 의도가 없다고 판단하는 경우, 잠재적 혼동을 제거할 기회를 계정 보유자에게 제공합니다. 상표 보유자의 활성 사용을 위해 사용자 이름을 해제할 수도 있습니다.
 
-[상표 정책 위반을 신고하려면 어떻게 해야 합니까? #](#how-do-i-report-a-trademark-policy-violation)
+[상표 정책 위반을 신고하려면 어떻게 해야 합니까?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
 등록된 상표의 보유자는 GitHub [문의 양식](https://support.github.com/contact?tags=docs-trademark)을 통해 가능한 상표 정책 위반을 GitHub에 신고할 수 있습니다. 상표 관련 요청을 제출할 때는 회사 이메일을 사용하고, 빠른 응답이 가능하도록 아래 요청된 모든 정보를 포함해 주십시오. 또한 해당 계정이 왜 귀하의 상표와의 혼동을 유발할 수 있는지 또는 해당 계정이 귀하의 상표를 어떻게 약화 또는 손상시키는지 명확히 설명해 주십시오.
 
-[상표 정책 위반을 신고할 때 어떤 정보가 필요합니까? #](#what-information-is-required-when-reporting-trademark-policy-violations)
+[상표 정책 위반을 신고할 때 어떤 정보가 필요합니까?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
 상표 정책 위반을 조사할 수 있도록 다음 정보를 모두 포함해 주십시오.

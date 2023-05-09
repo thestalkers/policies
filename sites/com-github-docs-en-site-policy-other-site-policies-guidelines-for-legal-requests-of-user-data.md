@@ -47,7 +47,7 @@ Before we get into the details, however, here are a few important details you ma
 * We will not disclose **location-tracking data**, such as IP address logs, without a [valid court order or search warrant](#with-a-court-order-or-a-search-warrant).
 * We will not disclose any **private user content**, including the contents of private repositories, without a valid [search warrant](#only-with-a-search-warrant).
 
-[About these guidelines #](#about-these-guidelines)
+[About these guidelines](#about-these-guidelines)
 ----------
 
 Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
@@ -62,7 +62,7 @@ Our users should know that we value their private information and that we do wha
 At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
 By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
-[GitHub terminology #](#github-terminology)
+[GitHub terminology](#github-terminology)
 ----------
 
 Before asking us to disclose data, it may be useful to understand how our system is implemented.
@@ -96,7 +96,7 @@ Repositories on GitHub—which may be public or private—are most commonly used
   Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
   Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
-[User data on GitHub.com #](#user-data-on-githubcom)
+[User data on GitHub.com](#user-data-on-githubcom)
 ----------
 
 Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
@@ -190,12 +190,12 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 * []()**Other data** —
   Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
-[We will notify any affected account owners #](#we-will-notify-any-affected-account-owners)
+[We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
 ----------
 
 It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm or due to an ongoing investigation.
 
-[Disclosure of non-public information #](#disclosure-of-non-public-information)
+[Disclosure of non-public information](#disclosure-of-non-public-information)
 ----------
 
 It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
@@ -243,7 +243,7 @@ Please note that the information available will vary from case to case. Some of 
 * []()**Under exigent circumstances** —
   If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
-[Cost reimbursement #](#cost-reimbursement)
+[Cost reimbursement](#cost-reimbursement)
 ----------
 
 Under state and federal law, GitHub can seek reimbursement for costs associated with compliance with a valid legal demand, such as a subpoena, court order or search warrant. We only charge to recover some costs, and these reimbursements cover only a portion of the costs we actually incur to comply with legal orders.
@@ -255,12 +255,12 @@ While we do not charge in emergency situations or in other exigent circumstances
 * Production of subscriber information/data for more than 5 accounts: $20 per account
 * Secondary searches: $10 per search
 
-[Data preservation #](#data-preservation)
+[Data preservation](#data-preservation)
 ----------
 
 We will take steps to preserve account records for up to 90 days upon formal request from U.S. law enforcement in connection with official criminal investigations, and pending the issuance of a court order or other process.
 
-[Submitting requests #](#submitting-requests)
+[Submitting requests](#submitting-requests)
 ----------
 
 Please serve requests to:
@@ -286,18 +286,18 @@ Please make your requests as specific and narrow as possible, including the foll
 
 Please allow at least two weeks for us to be able to look into your request.
 
-### [California Assembly Bill 1242 Notice #](#california-assembly-bill-1242-notice) ###
+### [California Assembly Bill 1242 Notice](#california-assembly-bill-1242-notice) ###
 
 By submitting legal process to GitHub, you attest that the legal process does not relate to the violation of any law that creates liability for abortion-related conduct that is lawful in California.
 
-[Requests from foreign law enforcement #](#requests-from-foreign-law-enforcement)
+[Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
 ----------
 
 As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
 Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
 GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
 
-[Questions #](#questions)
+[Questions](#questions)
 ----------
 
 Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).

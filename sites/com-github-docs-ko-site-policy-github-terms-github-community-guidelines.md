@@ -36,7 +36,7 @@ GitHub의 다양한 사용자 기반은 지난 주 첫 번째 "Hello World" 프�
 
 GitHub는 커뮤니티 회원들이 기대치를 명확하게 전달하고 가능하다면 각자의 프로젝트를 [조정](#what-if-something-or-someone-offends-you)하며 당사의 [정책](/ko/site-policy/github-terms/github-terms-of-service)을 위반할 소지가 있는 모든 콘텐츠를 [신고](https://github.com/contact/report-abuse)할 것을 권장합니다. GitHub 직원은 모든 남용 신고 사례를 조사하고 GitHub 서비스 약관을 위반하는 것으로 판단되는 GitHub 사이트 내 공개 콘텐츠를 조정할 수 있습니다.
 
-[강력한 커뮤니티 유지 #](#maintaining-a-strong-community)
+[강력한 커뮤니티 유지](#maintaining-a-strong-community)
 ----------
 
 GitHub 커뮤니티의 주된 목적은 소프트웨어 프로젝트에서 협업하는 데 있습니다. GitHub는 사용자가 마음껏 자신을 표현하고 기술 및 그 밖의 분야에서 서로의 아이디어에 도전할 수 있는 커뮤니티를 유지하기 위해 최선을 다하고 있습니다. 그와 동시에 사용자가 상대방을 늘 존중하고 다른 사람들이 공개적으로 기여할 수 있는 여지를 허용하는 것이 중요합니다. 안전하고 생산적인 환경을 조성하기 위해 GitHub는 GitHub 커뮤니티 회원들이 이 지침의 내용을 살펴보고 GitHub 플랫폼에서 상호 작용하는 방법을 알릴 것을 권장합니다. 아래에서는 GitHub 커뮤니티의 소중한 구성원으로서 성공적인 상호 작용을 하는 방법에 대한 몇 가지 제안을 찾을 수 있습니다.
@@ -47,7 +47,7 @@ GitHub 커뮤니티의 주된 목적은 소프트웨어 프로젝트에서 협�
 
 * **공감하기** - GitHub는 다양한 배경과 관점을 가진 사람들로 구성된 글로벌 커뮤니티이며 그들 중 상당수는 여러분과는 다른 생각을 가질 수 있습니다. 이야기를 하기 전에 다른 사람의 입장이 되어 상대의 감정을 이해하려고 노력하세요. 다른 사람들이 안심하고 의견을 내고 토론에 참여하며 다양한 아이디어를 공유할 수 있는 GitHub 커뮤니티를 만들기 위해 최선을 다하세요.
 
-[귀하에게 불쾌감을 주는 것 또는 사람이 있다면 어떻게 해야 할까요? #](#what-if-something-or-someone-offends-you)
+[귀하에게 불쾌감을 주는 것 또는 사람이 있다면 어떻게 해야 할까요?](#what-if-something-or-someone-offends-you)
 ----------
 
 일부 의견 불일치는 커뮤니티 회원 간의 직접적이고 정중한 의사 소통으로 해결할 수 있지만 항상 그런 것은 아닙니다. GitHub는 GitHub 커뮤니티 회원들이 접한 콘텐츠 또는 활동이 GitHub의 정책을 위반한다고 판단되면 당사의 커뮤니티가 그 사실을 [공지](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified)할 것을 권장합니다. 그러나 귀하가 GitHub 사이트에서 불쾌감을 주는 것 또는 사람을 접한다면 다음과 같이 GitHub의 허락 하에 귀하가 조치를 취할 수 있는 몇 가지 방법이 있습니다.
@@ -64,7 +64,7 @@ GitHub 커뮤니티의 주된 목적은 소프트웨어 프로젝트에서 협�
 
 GitHub는 유지 관리자에게 각자의 프로젝트를 조정할 수 있는 권한을 부여하기 위해 최선을 다하고 있지만 주어진 상황을 처리하는 데 추가 지원이 필요하다면 [남용 보고](https://github.com/contact/report-abuse)에 연락하시기 바랍니다.
 
-[누군가 GitHub의 정책을 위반하면 어떻게 되나요? #](#what-happens-if-someone-violates-githubs-policies)
+[누군가 GitHub의 정책을 위반하면 어떻게 되나요?](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
 당사는 GitHub가 소프트웨어 개발자를 위해 안전하고 수용적이면서도 생산적인 플랫폼이 될 수 있도록 지원하기 위해 커뮤니티의 신고와 자동 관리 검색을 활용합니다. GitHub의 정책과 일치하지 않는 행위나 콘텐츠를 인지하게 되면 당사는 다양한 요인들을 고려합니다. 그러나 당사의 정책 시행 및 콘텐츠 조정 접근 방식은 모든 개발자의 본거지가 되려는 GitHub의 비전을 우선시합니다. 즉,
@@ -83,12 +83,12 @@ GitHub는 유지 관리자에게 각자의 프로젝트를 조정할 수 있는 
 * 사용자 계정 또는 조직을 공개 보기에서 숨기기
 * 사용자 계정 또는 조직을 일시 중지
 
-[이의 제기 및 복원 #](#appeal-and-reinstatement)
+[이의 제기 및 복원](#appeal-and-reinstatement)
 ----------
 
 귀하의 콘텐츠 또는 계정이 사용 중지되거나 제한되었으며 복원을 요청하거나 이의를 제기하려면 당사의 [이의 제기 및 복원 페이지](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)를 참조하여 자세한 절차를 알아보고 [이의 제기 및 복원 요청서 양식](https://support.github.com/contact/reinstatement)을 사용하여 요청을 제기하십시오.
 
-[법적 고지 사항 #](#legal-notices)
+[법적 고지 사항](#legal-notices)
 ----------
 
 GitHub는 이 커뮤니티 지침을 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)의 제반 조건에 따라 누구나 사용, 재사용, 개정할 수 있도록 공개 도메인에 할애합니다.

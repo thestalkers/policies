@@ -21,7 +21,7 @@ GitHub Codespaces의 사용에 대해서는 [GitHub 개인정보취급방침](/k
 
 github.dev에서의 활동에는 [GitHub의 베타 미리 보기 약관](/ko/site-policy/github-terms/github-terms-of-service#j-beta-previews)이 적용됩니다.
 
-[Visual Studio Code 사용 #](#visual-studio-code-사용)
+[Visual Studio Code 사용](#visual-studio-code-사용)
 ----------
 
 GitHub Codespaces 및 github.dev를 사용하면 웹 브라우저에서 Visual Studio Code를 사용할 수 있습니다. 웹 브라우저에서 VS Code를 사용할 때, 일부 텔레메트리 컬렉션은 기본으로 활성화됩니다. [자세한 설명은 VS Code 웹사이트](https://code.visualstudio.com/docs/getstarted/telemetry)를 참조하시기 바랍니다. 사용자는 왼쪽 상단 메뉴의 File(파일) \> Preferences(기본 설정) \> Settings(설정)로 이동하여 텔레메트리 실행을 취소할 수 있습니다.

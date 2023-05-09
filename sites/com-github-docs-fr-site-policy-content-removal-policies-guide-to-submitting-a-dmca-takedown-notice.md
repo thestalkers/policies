@@ -32,7 +32,7 @@ En raison du type de contenu hébergé par GitHub (principalement du code logici
 
 Comme pour toutes les questions juridiques, il est toujours préférable de consulter un professionnel au sujet de vos questions ou de votre situation spécifique. Nous vous encourageons fortement à le faire avant d’entreprendre toute action qui pourrait avoir un impact sur vos droits. Ce guide n’est pas un avis juridique et ne doit pas être considéré comme tel.
 
-[Avant de commencer #](#before-you-start)
+[Avant de commencer](#before-you-start)
 ----------
 
 ***Dites la vérité.*** Le DMCA exige que vous prêtiez serment sur les faits de votre plainte d’atteinte au droit d’auteur *sous peine de parjure*. Le fait de mentir intentionnellement dans une déclaration sous serment constitue un crime fédéral. (*Voir* [Code des États-Unis, Titre 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) La présentation de fausses informations peut également entraîner une responsabilité civile, c’est-à-dire que vous pouvez être poursuivi en justice pour des dommages-intérêts. Le DMCA [prévoit des dommages-intérêts](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) contre toute personne qui fait sciemment une fausse déclaration sur le caractère illicite d’un élément ou d’une activité.
@@ -65,7 +65,7 @@ Cette liste n’est pas exhaustive, c’est pourquoi il est d’autant plus impo
 
 ***GitHub n’est pas le juge.***GitHub exerce peu de pouvoir discrétionnaire dans ce processus, si ce n’est de déterminer si les avis répondent aux exigences minimales du DMCA. Il appartient aux parties (et à leurs avocats) d’évaluer le bien-fondé de leurs demandes, en gardant à l’esprit que les avis doivent être émis sous peine de parjure.
 
-[Votre plainte doit ... #](#your-complaint-must-)
+[Votre plainte doit ...](#your-complaint-must-)
 ----------
 
 1. **Ajoutez la déclaration suivante : « J’ai lu et compris le Guide de GitHub pour déposer un avis DMCA ».** Nous ne refuserons pas de traiter une plainte par ailleurs complète si vous n’incluez pas cette déclaration. Mais nous saurons que vous n’avez pas lu ces directives et nous pourrons vous demander d’y revenir.
@@ -88,7 +88,7 @@ Cette liste n’est pas exhaustive, c’est pourquoi il est d’autant plus impo
 
 9. **Ajoutez votre signature physique ou électronique.**
 
-[Plaintes concernant la technologie anti-contournement #](#complaints-about-anti-circumvention-technology)
+[Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
 ----------
 
 Le Copyright Act interdit également le contournement des mesures technologiques qui contrôlent efficacement l’accès aux œuvres protégées par le droit d’auteur. Si vous pensez qu’un contenu hébergé sur GitHub viole cette interdiction, veuillez nous envoyer un rapport via notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca). Une réclamation pour contournement doit inclure les informations suivantes sur les mesures techniques en place et la manière dont le projet mis en cause les contourne. Plus précisément, l’avis envoyé à GitHub doit inclure des déclarations précises décrivant :
@@ -97,7 +97,7 @@ Le Copyright Act interdit également le contournement des mesures technologiques
 2. comment elles contrôlent efficacement l’accès aux éléments protégés par le droit d’auteur ; et
 3. comment le projet mis en cause est conçu pour contourner les mesures de protection technologiques précédemment décrites.
 
-[Comment soumettre votre plainte #](#how-to-submit-your-complaint)
+[Comment soumettre votre plainte](#how-to-submit-your-complaint)
 ----------
 
 Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca).

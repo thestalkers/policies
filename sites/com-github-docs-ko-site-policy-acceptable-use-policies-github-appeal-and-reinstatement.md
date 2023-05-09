@@ -26,12 +26,12 @@ GitHub 이의 제기 및 복원
 
 * [투명성](#transparency)
 
-[이의 제기 및 복원 #](#appeal-and-reinstatement)
+[이의 제기 및 복원](#appeal-and-reinstatement)
 ----------
 
 GitHub 커뮤니티에서 개인 간의 상호 작용은 대부분 당사의 사용 제한 정책 및 커뮤니티 지침에 포함되지만 이러한 정책의 위반 사례가 때때로 발생합니다. 이러한 상황이 발생할 때 GitHub 직원은 위반 사항을 해결하기 위해 사법 조치를 취해야 할 수도 있습니다. 그러나 경우에 따라서는 GitHub 직원이 취한 조정 조치를 번복할 수 있는 근거가 존재할 수도 있습니다.
 
-[이의 제기 및 복원이란 무엇인가요? #](#what-are-appeals-and-reinstatements)
+[이의 제기 및 복원이란 무엇인가요?](#what-are-appeals-and-reinstatements)
 ----------
 
 이의 제기 및 복원은 콘텐츠 사용 중지 또는 계정 액세스 제한과 관련하여 발생합니다.
@@ -40,7 +40,7 @@ GitHub 커뮤니티에서 개인 간의 상호 작용은 대부분 당사의 사
 
 **이의 제기**: 사용자는 위반이 발생한 것에 대해 이의를 제기하고, 다른 결정을 내릴 수 있었음을 보여주는 추가 정보를 제공할 수 있습니다.
 
-[운영 방식 #](#how-this-works)
+[운영 방식](#how-this-works)
 ----------
 
 복원을 요구하거나 사법 조치에 대해 이의를 제기하려면 [이의 제기 및 복원 요청서 양식](https://support.github.com/contact/reinstatement)을 빠짐없이 작성하시기 바랍니다.
@@ -55,7 +55,7 @@ GitHub 직원은 동 요청서 양식에 기재된 정보를 검토하여 복원
 
 GitHub 직원 검토자가 최초 결정을 내린 자와 동일인이며 그 직원이 볼 때 처음의 결론이 옳았다고 판단하는 경우(또한 이에 근거하여 이의를 거부하려는 경향을 보이는 경우) GitHub 직원 중 다른 구성원이 독립적으로 이의 사항을 검토하게 됩니다. 모든 합법적 이의 제기에 대해서는 최종 결정으로 대응합니다.
 
-[투명성 #](#transparency)
+[투명성](#transparency)
 ----------
 
 당사는 GitHub [투명성 보고서](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)에서 이의 제기 및 복원 이력을 추적합니다.

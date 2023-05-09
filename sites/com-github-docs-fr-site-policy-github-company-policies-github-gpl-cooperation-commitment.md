@@ -19,7 +19,7 @@ Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à
 
 Nous avons basé notre déclaration sur le [modèle](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) pour les entreprises. Consultez le [site de l’engagement de coopération à la GPL](https://gplcc.github.io/gplcc/) pour savoir comment d’autres entreprises, individus et projets peuvent adopter cet engagement.
 
-[Notre engagement #](#our-commitment)
+[Notre engagement](#our-commitment)
 ----------
 
 Avant de déposer ou de poursuivre une procédure judiciaire ou une réclamation (autre qu’une Action Défensive) découlant de la résiliation d’une Licence Couverte, GitHub s’engage à étendre à la personne ou à l’entité (« vous ») accusée d’avoir violé la Licence Couverte les dispositions suivantes concernant les recours et la réintégration, tirées de la GPL version 3. Dans les présentes, l’expression « cette Licence » fait référence à la Licence Couverte spécifique qui est appliquée.

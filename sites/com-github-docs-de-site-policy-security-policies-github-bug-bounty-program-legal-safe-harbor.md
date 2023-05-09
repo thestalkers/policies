@@ -26,14 +26,14 @@ In diesem Artikel
 
 * [Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren jeweiligen Standortrichtlinien unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen.](#3-limited-waiver-of-other-site-polices)
 
-[Wir möchten, dass Sie im Rahmen unseres Bug-Bounty-Programms Themen Sicherheitslücken auf koordinierte Weise offenlegen, und wollen vermeiden, dass Forscher wegen ihrer Versuche, unsere Bug-Bounty-Richtlinie einzuhalten, rechtliche Konsequenzen fürchten müssen. #](#summary)
+[Wir möchten, dass Sie im Rahmen unseres Bug-Bounty-Programms Themen Sicherheitslücken auf koordinierte Weise offenlegen, und wollen vermeiden, dass Forscher wegen ihrer Versuche, unsere Bug-Bounty-Richtlinie einzuhalten, rechtliche Konsequenzen fürchten müssen.](#summary)
 ----------
 
 1. Wir können Dritte nicht binden. Gehen Sie daher nicht davon aus, dass sich dieser Schutz auf Dritte erstreckt. Fragen Sie uns im Zweifelsfall, bevor Sie eine bestimmte Aktion durchführen, von der Sie denken, dass sie außerhalb der Grenzen unserer Richtlinien liegen *könnte*. Da sowohl personenbezogene als auch nicht personenbezogene Daten einen Forscher gefährden können, geben wir Inhalte an Dritte nur in beschränktem Umfang weiter.
 2. Gegebenenfalls geben wir nicht personenbezogene wesentliche Informationen aus Ihrem Bericht an betroffene Dritte weiter, jedoch nur, nachdem wir Sie darüber informiert und uns verpflichtet haben, dass diese Dritten keine rechtlichen Schritte gegen Sie einleiten werden. Wir geben personenbezogene Daten (Name, E-Mail-Adresse, Telefonnummer usw.) nur mit Ihrer schriftlichen Zustimmung an Dritte weiter. Wenn Ihre Sicherheitsforschung im Rahmen des Bug-Bounty-Programms gegen bestimmte Einschränkungen unserer Standortregeln verstößt, erlauben die Safe-Harbor-Bedingungen eine begrenzte Ausnahme.
 3. 1. Safe-Harbor-Bedingungen
 
-[Um die Erforschung und koordinierte Offenlegung von Sicherheitslücken zu fördern, werden wir wegen unbeabsichtigter oder gutgläubiger Verstöße gegen diese Richtlinie keine zivil- oder strafrechtlichen Schritte unternehmen und keine Strafverfolgung einleiten. #](#1-safe-harbor-terms)
+[Um die Erforschung und koordinierte Offenlegung von Sicherheitslücken zu fördern, werden wir wegen unbeabsichtigter oder gutgläubiger Verstöße gegen diese Richtlinie keine zivil- oder strafrechtlichen Schritte unternehmen und keine Strafverfolgung einleiten.](#1-safe-harbor-terms)
 ----------
 
 Wir betrachten Aktivitäten im Bereich der Sicherheitsforschung und Aufdeckung von Schwachstellen, die im Einklang mit dieser Richtlinie durchgeführt werden, als „autorisiertes” Verhalten gemäß dem Computer Fraud and Abuse Act, dem Digital Millennium Copyright Act (DMCA) und anderen anwendbaren Gesetzen für die Nutzung von Computern wie dem Cal. Penal Code 502(c). Wir verzichten auf jeden potenziellen Anspruch im Sinne des Digital Millennium Copyright Act gegen Sie, der darauf begründet sein könnte, dass Sie die technologischen Maßnahmen, die wir zum Schutz der Anwendungen im Rahmen dieses Bug-Bounty-Programms eingesetzt haben, umgehen. Wenn Ihre Sicherheitsforschung die Netzwerke, Systeme, Informationen, Anwendungen, Produkte oder Dienstleistungen eines Dritten betrifft, seien Sie sich darüber bewusst, dass wir solche Dritten nicht an unsere Bestimmungen binden können, und solche Dritten gegebenenfalls rechtliche Schritte einleiten oder Hinweise an die Strafverfolgungsbehörden geben können.
@@ -44,7 +44,7 @@ Bitte wenden Sie sich zunächst an uns, bevor Sie eine Aktivität durchführen, 
 
 Wir behalten uns das alleinige Recht vor, zu entscheiden, ob ein Verstoß gegen diese Richtlinie versehentlich oder in gutem Glauben begangen wurde, und eine proaktive Kontaktaufnahme mit uns, bevor wir Maßnahmen ergreifen, spielt bei dieser Entscheidung eine wesentliche Rolle. Fragen Sie im Zweifelsfall nach! 2. Safe-Harbor-Verfahren in Bezug auf Dritte
 
-[Wenn Sie einen Bericht über unser Bug-Bounty-Programm einreichen, der einen Drittanbieter-Dienst betrifft, werden wir die Weitergabe von Informationen an betroffene Drittanbieter einschränken. #](#2-third-party-safe-harbor)
+[Wenn Sie einen Bericht über unser Bug-Bounty-Programm einreichen, der einen Drittanbieter-Dienst betrifft, werden wir die Weitergabe von Informationen an betroffene Drittanbieter einschränken.](#2-third-party-safe-harbor)
 ----------
 
 Wir können nicht personenbezogene Inhalte aus Ihrem Bericht an einen betroffenen Dritten weitergeben, jedoch erst, nachdem wir Sie darüber informiert haben und der Dritte sich schriftlich verpflichtet hat, auf der Grundlage Ihres Berichts keine rechtlichen Schritte gegen Sie einzuleiten oder Kontakt mit den Strafverfolgungsbehörden aufzunehmen. Wir geben Ihre personenbezogenen Daten nicht an betroffene Dritte weiter, ohne vorher Ihre schriftliche Zustimmung einzuholen. Bitte beachten Sie, dass wir keine außerplanmäßigen Tests im Namen Dritter zulassen können und diese Tests den Rahmen unserer Richtlinien sprengen.
@@ -53,7 +53,7 @@ Ziehen Sie die Bug-Bounty-Richtlinie des jeweiligen Drittanbieters zu Rate, wenn
 
 Obwohl wir die eingereichten Berichte sowohl als vertrauliche als auch als potenziell rechtlich geschützte Dokumente betrachten, die in den meisten Fällen vor einer erzwungenen Offenlegung geschützt sind, beachten Sie bitte, dass ein Gericht uns trotz unserer Einwände anweisen könnte, Daten an Dritte weiterzugeben. 3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien
 
-[Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren](#3-limited-waiver-of-other-site-polices)[jeweiligen Standortrichtlinien](/de/site-policy) unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen. #
+[Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren](#3-limited-waiver-of-other-site-polices)[jeweiligen Standortrichtlinien](/de/site-policy) unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen.
 ----------
 
 Wie oben gilt: Fragen Sie im Zweifelsfall nach! Just like above, if in doubt, ask us first!

@@ -19,7 +19,7 @@ Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/en/site-p
 
 Activity on github.dev is subject to [GitHub's Beta Previews terms](/en/site-policy/github-terms/github-terms-of-service#j-beta-previews)
 
-[Using Visual Studio Code #](#using-visual-studio-code)
+[Using Visual Studio Code](#using-visual-studio-code)
 ----------
 
 GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.

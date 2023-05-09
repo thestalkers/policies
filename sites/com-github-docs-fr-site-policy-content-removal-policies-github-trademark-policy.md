@@ -28,17 +28,17 @@ Dans cet article
 
 * [Quelles sont les informations requises lorsque vous signalez des violations de la politique relative aux marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[Qu’est-ce qu’une violation de la politique relative aux marques de GitHub ? #](#what-is-a-github-trademark-policy-violation)
+[Qu’est-ce qu’une violation de la politique relative aux marques de GitHub ?](#what-is-a-github-trademark-policy-violation)
 ----------
 
 L’utilisation du nom d’une société ou d’une entreprise, d’un logo ou d’autres éléments protégés par une marque commerciale d’une manière susceptible d’induire en erreur ou de prêter à confusion quant à sa marque ou à son affiliation commerciale peut être considérée comme une violation de la politique relative aux marques.
 
-[Qu’est-ce qui ne constitue pas une violation de la politique relative aux marques de GitHub ? #](#what-is-not-a-github-trademark-policy-violation)
+[Qu’est-ce qui ne constitue pas une violation de la politique relative aux marques de GitHub ?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
 L’utilisation d’une marque d’autrui d’une manière qui n’a rien à voir avec le produit ou le service pour lequel la marque a été accordée ne constitue pas une violation de la politique relative aux marques. Les noms d’utilisateur GitHub sont disponibles selon le principe du premier arrivé, premier servi et ne peuvent être réservés. Un compte GitHub avec un nom d’utilisateur qui se trouve être le même qu’une marque déposée ne constitue pas, en soi, nécessairement une violation de notre politique relative aux marques.
 
-[Comment GitHub répond-elle aux violations de la politique relative aux marques signalées ? #](#how-does-github-respond-to-reported-trademark-policy-violations)
+[Comment GitHub répond-elle aux violations de la politique relative aux marques signalées ?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
 Lorsque nous recevons des signalements de violation de la politique relative aux marques de la part de titulaires d’enregistrements de marques au niveau fédéral ou international, nous examinons le compte et pouvons prendre les mesures suivantes :
@@ -46,12 +46,12 @@ Lorsque nous recevons des signalements de violation de la politique relative aux
 * Lorsqu’il existe une intention claire d’induire les autres en erreur par l’utilisation non autorisée d’une marque commerciale, GitHub suspend le compte et en avise le détenteur.
 * Lorsque nous déterminons qu’un compte semble créer une confusion chez les utilisateurs, mais qu’il ne se fait pas délibérément passer pour le produit ou le service de la marque, nous donnons au titulaire du compte la possibilité de dissiper toute confusion potentielle. Nous pouvons également libérer un nom d’utilisateur pour l’usage actif du titulaire de la marque.
 
-[Comment signaler une violation de la politique relative aux marques ? #](#how-do-i-report-a-trademark-policy-violation)
+[Comment signaler une violation de la politique relative aux marques ?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
 Les détenteurs de marques déposées peuvent signaler à GitHub d’éventuelles violations de la politique relative aux marques via notre [formulaire de contact](https://support.github.com/contact?tags=docs-trademark). Veuillez soumettre vos demandes relatives aux marques en utilisant l’adresse électronique de votre entreprise et inclure toutes les informations demandées ci-dessous afin d’accélérer notre réponse. Veillez également à nous décrire clairement pourquoi le compte peut prêter à confusion avec votre marque ou comment le compte peut diluer ou ternir votre marque.
 
-[Quelles sont les informations requises lorsque vous signalez des violations de la politique relative aux marques ? #](#what-information-is-required-when-reporting-trademark-policy-violations)
+[Quelles sont les informations requises lorsque vous signalez des violations de la politique relative aux marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
 Afin d’enquêter sur les violations de la politique relative aux marques, veuillez fournir toutes les informations suivantes :

@@ -44,7 +44,7 @@ GitHub의 디지털 밀레니엄 저작권법(약칭 "DMCA") 가이드를 이용
 
 모든 법적 문제와 마찬가지로 특정 질문이나 상황에 대해서는 항상 전문가와 상담하는 것이 가장 좋습니다. 귀하의 권리에 영향을 미칠 수 있는 조치를 취하기 전에 그러한 전문 상담을 할 것을 적극 권장합니다. 이 가이드는 법률 자문이 아니며 그러한 것으로 받아들여서도 안 됩니다.
 
-[DMCA란 무엇인가요? #](#what-is-the-dmca)
+[DMCA란 무엇인가요?](#what-is-the-dmca)
 ----------
 
 DMCA와 해당 법이 규정하는 정책 방침 중 일부 내용을 이해하려면 이 법이 제정되기 전의 생활을 고려하는 것이 도움이 될 수 있습니다.
@@ -55,7 +55,7 @@ DMCA는 저작권 침해가 의심되는 사용자 생성 콘텐츠를 호스팅
 
 또한 DMCA는 저작권으로 보호되는 저작물에 대한 접근을 효과적으로 통제하는 [기술적 조치의 우회](https://www.copyright.gov/title17/92chap12.html)를 금지합니다.
 
-[DMCA 고지에 관한 요약 설명 #](#dmca-notices-in-a-nutshell)
+[DMCA 고지에 관한 요약 설명](#dmca-notices-in-a-nutshell)
 ----------
 
 DMCA는 모든 GitHub 사용자가 알아야 할 단순하고 간단한 두 가지 절차 즉, (i) 저작권자가 콘텐츠 삭제를 요청하기 위한 [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) 절차, (ii) 착오 또는 잘못된 식별로 인해 콘텐츠 게시가 중단된 경우 사용자가 콘텐츠를 다시 활성화하기 위한 [반론 고지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) 절차를 규정합니다.
@@ -66,7 +66,7 @@ DMCA [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-su
 
 DMCA 고지 및 게시 중단 절차는 저작권 침해에 관한 불만 사항에만 적용해야 합니다. 당사의 DMCA 절차를 통해 전달된 알림에서는 저작권이 있는 저작물 또는 침해된 것으로 의심되는 저작물을 식별해야 합니다. [상표권 침해](/ko/site-policy/content-removal-policies/github-trademark-policy) 또는 [민감한 데이터](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)에 관한 불만 사항 등 그 밖의 불만 사항에 대해서는 DMCA 절차를 적용할 수 없습니다. 당사는 이러한 상황에 대해 별도의 절차를 제공합니다.
 
-[A. 이 절차의 운영 방식 #](#a-how-does-this-actually-work)
+[A. 이 절차의 운영 방식](#a-how-does-this-actually-work)
 ----------
 
 DMCA 프레임워크는 수업 시간에 메모를 전달하는 행위에 비유할 수 있습니다. 저작권자는 사용자에 관한 불만 사항을 GitHub에 전달합니다. 당사는 올바르게 작성된 불만 사항을 사용자에게 전달합니다. 사용자가 불만 사항에 이의를 제기하면 이의 사항을 명시한 메모를 다시 전달할 수 있습니다. GitHub는 통지가 DMCA의 최소 요구 사항을 충족하는지 여부를 판단하는 것 외에 절차에서 재량권을 거의 행사하지 않습니다. 통지는 위증 시 처벌을 전제로 전달해야 한다는 점을 유념하여 청구의 장점을 평가할 책임은 당사자 본인(및 그 변호사)에게 있습니다.
@@ -95,7 +95,7 @@ DMCA 절차를 구성하는 기본 단계는 다음과 같습니다.
 
 8. **저작권자는 소송을 제기할 수 있습니다.** 저작권자가 반론 고지를 받은 후 콘텐츠를 비활성화된 상태로 유지하려는 경우, 사용자가 GitHub의 콘텐츠와 관련된 침해 활동에 참여하는 것을 제한하기 위해 법원 명령을 요구하는 법적 조치를 시작해야 합니다. 다시 말해, 귀하가 고소당할 수 있습니다. 저작권자가 10\~14일 이내에 GitHub에 통지하지 않을 경우, GitHub는 관할 법원에 제출된 유효한 내용의 고소장 사본을 전달하여 사용 중지된 콘텐츠를 다시 사용합니다.
 
-[B. 포크는 어떻습니까? (또는 포크란 무엇입니까?) #](#b-what-about-forks-or-whats-a-fork)
+[B. 포크는 어떻습니까? (또는 포크란 무엇입니까?)](#b-what-about-forks-or-whats-a-fork)
 ----------
 
 GitHub의 가장 좋은 기능 중 하나는 사용자가 서로의 리포지토리를 "포크"할 수 있는 기능입니다. 이것은 무엇을 의미합니까? 포크는 본질적으로 사용자가 GitHub의 프로젝트를 자신의 리포지토리에 복사할 수 있다는 것을 의미합니다. 라이선스 또는 법률이 허용하는 한, 사용자는 해당 포크를 변경하여 기본 프로젝트에 다시 푸시하거나 고유한 프로젝트 변형으로 유지할 수 있습니다. 이러한 각 복사본은 원래 리포지토리의 "[GitHub 용어](/ko/get-started/quickstart/github-glossary#fork)"이며, 포크의 "부모"라고도 합니다.
@@ -104,7 +104,7 @@ GitHub는 부모 리포지토리를 사용 중지할 때 포크를 자동으로 
 
 드문 경우지만 활발하게 포크되고 있는 전체 리포지토리에서 저작권 침해 혐의를 제기할 수 있습니다. 통지를 제출할 당시에 해당 리포지토리의 모든 기존 포크를 저작권 침해가 의심되는 포크로 식별했다면 당사는 통지를 처리할 때 해당 네트워크의 모든 포크에 대해 유효한 청구를 처리합니다. GitHub는 새로 생성된 모든 포크에 동일한 콘텐츠가 포함될 가능성을 고려하여 이 작업을 수행합니다. 또한 저작권 침해가 의심되는 콘텐츠가 포함된 것으로 보고된 네트워크가 리포지토리 100개를 넘는 규모에 해당되어 전체 내용을 검토하기 어려운 경우, 귀하의 알림에서 "본인이 검토한 대표적인 포크의 수를 근거로 할 때 모든 포크 또는 대부분의 포크가 부모 리포지토리와 동일한 정도로 저작권을 침해하고 있다고 판단됩니다"라는 내용이 명시된다면 당사는 전체 네트워크의 사용 중지를 고려할 수 있습니다. 귀하의 선서 후 진술 내용은 이 문서에 적용됩니다.
 
-[C. 우회 청구는 어떻습니까? #](#c-what-about-circumvention-claims)
+[C. 우회 청구는 어떻습니까?](#c-what-about-circumvention-claims)
 ----------
 
 DMCA는 저작권으로 보호되는 저작물에 대한 접근을 효과적으로 통제하는 [기술적 조치의 우회](https://www.copyright.gov/title17/92chap12.html)를 금지합니다. 이러한 유형의 청구는 그 본질상 매우 전문적인 경우가 많기 때문에 GitHub는 [이 청구에 관한 자세한 정보](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology)를 제공할 것을 청구인(원고) 측에 요구하며 더욱 광범위한 검토를 수행합니다.
@@ -123,24 +123,24 @@ GitHub는 기술 및 법률 전문가들이 제기한 청구를 포함하여 우
 
 GitHub가 당사의 우회 기술 청구 검토 절차에 따라 DMCA 게시 중단을 처리할 때 [GitHub의 Developer Defense Fund](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/)를 통해 독립적인 법률 자문을 받을 수 있는 소개 서비스를 리포지토리 소유자에게 무상으로 제공할 것입니다.
 
-[D. 실수로 변경 적용 기간을 놓친 경우 어떻게 되나요? #](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+[D. 실수로 변경 적용 기간을 놓친 경우 어떻게 되나요?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 ----------
 
 귀하의 리포지토리가 사용 중지되기 전에 당사가 제공하는 약 1영업일의 기한 내에 귀하가 변경 사항을 적용하지 못할 만한 타당한 이유가 많음을 인정합니다. 당사의 메시지가 스팸으로 지정되었을 수도 있고 귀하가 휴가 중이었을 수도 있고 해당 이메일 계정을 정기적으로 확인하지 않았거나 아니면 그냥 바빴을 수도 있습니다. 충분히 이해합니다. 귀하가 변경 사항을 적용하고 싶었지만 첫 번째 기회를 놓친 사실을 알려주기 위해 응답할 경우, 당사는 변경 사항을 적용할 수 있도록 대략 1영업일 동안 리포지토리를 한 번 더 다시 활성화할 것입니다. 다시 한 번 강조하지만, 상기의 [A.4 단계](#a-how-does-this-actually-work)에서 언급한 바와 같이 대략 1영업일의 기한이 경과한 후에도 리포지토리를 계속 사용 상태로 유지하기 위해 귀하는 변경 사항을 적용했음을 당사에 알려야 합니다. 당사는 이러한 추가 기회를 단 한 번만 제공합니다.
 
-[E. 투명성 #](#e-transparency)
+[E. 투명성](#e-transparency)
 ----------
 
 우리는 투명성이 미덕이라고 생각합니다. 일반 대중은 GitHub에서 어떤 콘텐츠가 제거되고 있으며 그 이유는 무엇인지 알아야 합니다. 사전 정보를 접한 일반 대중은 불투명한 시스템에서 달리 눈에 띄지 않을 수 있는 잠재적인 문제를 인지하고 드러낼 수 있습니다. 당사는 직접 수신한 법적 고지(원본 고지, 반론 고지 또는 철회를 포함)의 수정된 사본을 <https://github.com/github/dmca>에 게시합니다. 당사는 귀하의 개인 연락처 정보를 공개적으로 게시하지 않으며, 알림을 게시하기 전에 개인 정보(URL에 포함된 사용자 이름은 제외)를 제거합니다. 다만 귀하가 특별히 요청하지 않는 한, 당사는 귀하의 고지에서 그 밖의 어떠한 정보도 수정하지 않습니다. 게시된 [고지](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) 및 [반론 고지](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md)가 외형상 어떤 식으로 표시되는지를 보여주는 일부 예제를 소개하면 다음과 같습니다. 콘텐츠를 제거하면 관련 고지와 연결되는 링크를 제 위치에 게시할 것입니다.
 
 또한 당사는 수정되지 않은 고지를 공개적으로 게시하지는 않지만 당사가 받은 모든 고지의 수정되지 않은 전체 사본을 그러한 고지에 따른 영향을 받는 관련 권리를 보유한 모든 당사자에게 직접 제공할 수 있습니다.
 
-[F. 반복적인 침해 #](#f-repeated-infringement)
+[F. 반복적인 침해](#f-repeated-infringement)
 ----------
 
 GitHub의 정책에 의거하여 GitHub 또는 타인의 저작권이나 그 외 지적 재산권을 침해할 소지가 있는 사용자의 계정은 적절한 상황에서 GitHub의 단독 재량에 따라 사용 중지하고 종료할 수 있습니다.
 
-[G. 알림 제출 #](#g-submitting-notices)
+[G. 알림 제출](#g-submitting-notices)
 ----------
 
 알림 또는 반론 고지를 제출할 준비가 된 경우:
@@ -148,7 +148,7 @@ GitHub의 정책에 의거하여 GitHub 또는 타인의 저작권이나 그 외
 * [DMCA 고지 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 * [DMCA 반론 고지 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-[자세히 알아보기 및 의견 밝히기 #](#learn-more-and-speak-up)
+[자세히 알아보기 및 의견 밝히기](#learn-more-and-speak-up)
 ----------
 
 인터넷 검색을 해보면 일반적으로 저작권 제도, 특히 DMCA에 관한 해설과 비판을 어렵지 않게 찾을 수 있습니다. GitHub는 온라인에서 혁신을 촉진하는 데 있어 DMCA가 담당하는 중요한 역할을 인정하며 높이 평가하지만, 우리는 저작권법이 완전히 새로운 릴리스는 아니더라도 한두 개의 패치 정도는 적용할 수 있다고 생각합니다. 당사는 소프트웨어에서 코드를 지속적으로 개선하고 업데이트합니다. DMCA가 제정된 1998년 이후로 기술이 얼마나 변화해왔는지 생각해 보십시오. 소프트웨어에 적용되는 이러한 법률을 개정하는 것이 합리적이지 않습니까?

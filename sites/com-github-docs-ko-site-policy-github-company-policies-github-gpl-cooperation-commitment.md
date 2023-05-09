@@ -19,7 +19,7 @@ GitHub GPL 협력 약정
 
 당사는 회사를 위한 [템플릿](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)을 기반으로 방침을 마련했습니다. 다른 회사, 개인 및 프로젝트가 이 약정을 채택하는 방법에 대해서는 [GPL 협력 약정 사이트](https://gplcc.github.io/gplcc/)를 참조하십시오.
 
-[당사의 약정 #](#our-commitment)
+[당사의 약정](#our-commitment)
 ----------
 
 적용 라이선스의 해지로 인해 발생하는 법적 절차 또는 청구(방어 조치 제외)를 제기하거나 계속 소추하기 전에 GitHub는 적용 라이선스를 위반한 혐의를 받는 개인 또는 단체("귀하")에게 GPL 버전 3을 출처로 한 다음의 구제 및 복원 관련 조항을 확대 적용할 것을 약정합니다. 여기서 사용된 '이 라이선스'라는 용어는 현재 중인 시행 중인 특정 적용 라이선스를 의미합니다.

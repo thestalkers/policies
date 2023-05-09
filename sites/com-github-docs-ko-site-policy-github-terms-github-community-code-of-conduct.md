@@ -30,7 +30,7 @@ GitHub 커뮤니티 준수 사항
 
 * [법적 고지 사항](#legal-notices)
 
-[개요와 목적 #](#overview-and-purpose)
+[개요와 목적](#overview-and-purpose)
 ----------
 
 전 세계 수백만 명의 개발자들은 GitHub에서 공개 소스와 비공개 소스를 모두 포함하는 수백만 개의 프로젝트를 호스팅합니다. 다행스럽게도 GitHub 커뮤니티는 매일 개발자 커뮤니티에서 협업을 가능케 하는 역할을 할 수 있습니다. 이 역할은 우리가 가볍게 여기지 않는 책임에 속합니다. 우리에게는 이 커뮤니티를 자랑스러워할 만한 커뮤니티로 만들 흥미진진한 기회가 있습니다.
@@ -41,19 +41,19 @@ GitHub Discussions가 운영하는 GitHub 커뮤니티는 추가 협업, 지원 
 
 GitHub의 다양한 사용자 기반은 지난 주 첫 번째 "Hello World" 프로젝트를 만든 사람들부터 전 세계에서 가장 유명한 소프트웨어 개발자에 이르기까지 다양한 관점, 아이디어 및 경험을 제공합니다. GitHub는 GitHub 커뮤니티가 제공해야 할 모든 다양한 목소리와 관점을 수용하는 GitHub 환경을 조성하는 동시에 개발자가 최선을 다할 수 있는 안전한 장소를 유지하기 위해 최대한 노력하고 있습니다.
 
-[서약 #](#pledge)
+[서약](#pledge)
 ----------
 
 개방적이면서 수용적인 환경을 조성하기 위해 GitHub는 기여자 겸 유지 관리자로서 연령, 체구, 장애, 출신 민족, 성 정체성 및 표현, 숙련도, 국적, 외모, 인종, 종교, 성적 정체성 및 성적 지향 등과 관계없이 누구나 괴롭힘 없이 GitHub 커뮤니티에 참여하는 경험을 제공할 것을 서약합니다.
 
-[표준 #](#standards)
+[표준](#standards)
 ----------
 
 GitHub 커뮤니티를 존중해 주십시오. GitHub 커뮤니티는 우리 모두가 공유하는 리소스입니다. 즉, 지속적인 대화를 통해 기술, 지식 및 관심을 함께 공유하는 곳입니다.
 
 아래의 요건들은 고정불변의 규칙이 아니며 다만 GitHub 커뮤니티에서 사람들의 판단에 도움이 될 뿐입니다. 이 지침을 적용하여 교양 있는 공개 담론을 위한 깨끗하고 밝은 장소를 유지하십시오.
 
-### [*강력한 커뮤니티를 유지하기 위한 모범 사례* #](#best-practices-for-maintaining-a-strong-community) ###
+### [*강력한 커뮤니티를 유지하기 위한 모범 사례*](#best-practices-for-maintaining-a-strong-community) ###
 
 GitHub 커뮤니티의 주된 목적은 소프트웨어 프로젝트에서 협업하는 데 있습니다. GitHub는 사용자가 마음껏 자신을 표현하고 기술 및 그 밖의 분야에서 서로의 아이디어에 도전할 수 있는 커뮤니티를 유지하기 위해 최선을 다하고 있습니다. 그와 동시에 사용자가 상대방을 늘 존중하고 다른 사람들이 공개적으로 기여할 수 있는 여지를 허용하는 것이 중요합니다. 안전하고 생산적인 환경을 조성하기 위해 GitHub는 GitHub 커뮤니티 회원들이 이 지침의 내용을 살펴보고 GitHub 플랫폼에서 상호 작용하는 방법을 알릴 것을 권장합니다. 아래에서는 GitHub 커뮤니티의 소중한 구성원으로서 성공적인 상호 작용을 하는 방법에 대한 몇 가지 제안을 찾을 수 있습니다.
 
@@ -93,7 +93,7 @@ GitHub 커뮤니티의 주된 목적은 소프트웨어 프로젝트에서 협�
 
   * **항상 솔직한 태도를 유지.** 고의로 잘못된 정보를 공유하거나 의도적으로 다른 GitHub 커뮤니티 참여자들을 호도하지 마십시오. 다른 사람의 질문에 대한 답을 모르지만 여전히 도움을 주고 싶다면 그 사람이 리소스를 조사하거나 찾도록 도와줄 수 있습니다. GitHub 직원도 GitHub 커뮤니티에서 활동할 것이므로 답변이 확실하지 않다면 중재자가 도움을 줄 수 있을 것입니다.
 
-### [*허용되지 않는 사항* #](#what-is-not-allowed) ###
+### [*허용되지 않는 사항*](#what-is-not-allowed) ###
 
 GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)에 속하는 GitHub의 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)은 GitHub에서 허용되지 않는 항목에 대한 기준을 설정합니다. GitHub 커뮤니티는 GitHub.com에 있으므로 다음 제한을 포함하여 이러한 조건과 제한 사항이 GitHub 커뮤니티에 적용됩니다.
 
@@ -105,16 +105,16 @@ GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-servic
 
 * **서비스 약관 위반.** 귀하의 GitHub.com 계정이 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 위반하는 것으로 확인되면 GitHub는 귀하의 계정도 폐쇄해야 합니다.
 
-[계약 이행 #](#enforcement)
+[계약 이행](#enforcement)
 ----------
 
-### [GitHub 커뮤니티 참가자가 할 수 있는 일 #](#what-github-community-participants-can-do) ###
+### [GitHub 커뮤니티 참가자가 할 수 있는 일](#what-github-community-participants-can-do) ###
 
 * **문제가 보인다면 신고하세요.** 중재자에게는 특별한 권한이 있으며 이 GitHub 커뮤니티에 대한 책임이 있습니다. 물론 귀하도 마찬가지입니다. 귀하의 도움으로 중재자는 관리인이나 경찰뿐만 아니라 커뮤니티 촉진자가 될 수도 있습니다.
 
   부정 행위가 보인다면 응하지 마십시오. 그렇지 않으면 부정 행위를 인정함으로써 오히려 이를 부추기고 에너지를 소진하며 모든 사람의 시간을 낭비하는 셈이 됩니다. 파괴적인 사용자나 콘텐츠는 GitHub에 신고할 수 있습니다. 자세한 내용은 "[남용 또는 스팸 보고](/ko/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"을 참조하세요.
 
-### [GitHub의 책임 #](#our-responsibilities) ###
+### [GitHub의 책임](#our-responsibilities) ###
 
 GitHub는 부적절한 행위나 콘텐츠에 대해 다양한 조치를 취할 수 있습니다. 그 조치는 대체로 특정 사례의 정확한 상황에 따라 달라집니다. 우리는 때때로 사람들이 여러 가지 이유로 부적절한 것을 말하거나 부적절한 행동을 할 수 있다는 사실을 알고 있습니다. 아마도 그들은 자신이 내뱉은 말이 어떻게 받아들여질지 몰랐을 겁니다. 아니면 감정을 주체하지 못할 수도 있겠죠. 물론 때로는 단순히 스팸을 보내거나 문제를 일으키고 싶은 사람들이 있습니다.
 
@@ -129,20 +129,20 @@ GitHub는 부적절한 행위나 콘텐츠에 대해 다양한 조치를 취할 
 
 준수 사항을 신의에 따라 성실하게 준수하거나 이행하지 않는 GitHub 커뮤니티 중재자는 GitHub 커뮤니티 리더십의 다른 구성원이 결정한 대로 일시적 또는 영구적인 영향을 받을 수 있습니다.
 
-[GitHub 직원에게 연락 #](#contacting-github-staff)
+[GitHub 직원에게 연락](#contacting-github-staff)
 ----------
 
 어떤 이유로든 GitHub 커뮤니티의 GitHub 직원, 커뮤니티 매니저, 관리자 또는 중재자에게 비공개로 연락하려면 [지원 문의 양식](https://support.github.com/contact?tags=docs-community-support)을 사용하시기 바랍니다. 원치 않는 멘션이나 핑, GitHub 커뮤니티 자체가 아닌 다른 채널, 또는 지원 문의 양식을 통해 GitHub 직원에게 연락하는 것은 결코 권장하지 않으며 GitHub의 괴롭힘 금지 규정을 위반하는 것으로 간주될 수 있습니다.
 
 GitHub 커뮤니티를 사람들이 자신과 시간을 존중하여 안심하고 참여할 수 있는 곳으로 유지하기 위해 함께 노력합시다.
 
-[법적 고지 사항 #](#legal-notices)
+[법적 고지 사항](#legal-notices)
 ----------
 
 난해한 법률 용어는 지루하지만 GitHub는 불친절한 사람들로부터 우리 자신을 보호해야 하며, 더 나아가 귀하 자신과 귀하의 데이터를 보호해야 합니다. GitHub는 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)이 있으며 여기에는 당사의 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)이 포함되며 콘텐츠, 개인정보보호 및 법률과 관련된 귀하(및 당사)의 행동과 권리를 설명하는 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)도 포함됩니다. 이 서비스를 이용하려면 GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service), [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)과 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 각각 동의해야 합니다.
 
 이 준수 사항은 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)을 포함해 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 수정하지 않으며, 전체 목록을 제시한 것이 아닙니다. [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)에 따라 GitHub는 불법, 모욕, 위협, 비방, 명예 훼손, 포르노, 외설에 해당하거나, 그 밖의 불쾌감을 주거나, 당사자의 지적 재산권이나 서비스 약관을 위반하는 등 이러한 정책을 위반하는 활동에 대해 콘텐츠 또는 계정을 제거하거나 제한할 수 있는 전적인 재량권이 있습니다. 이 준수 사항은 GitHub가 그러한 재량권을 언제 행사하는지 설명합니다.
 
-### [데이터의 보존 및 삭제 #](#data-retention-and-deletion-of-data) ###
+### [데이터의 보존 및 삭제](#data-retention-and-deletion-of-data) ###
 
 귀하가 GitHub 사용자라면 [사용자 프로필 편집](https://github.com/settings/profile)을 수행하거나 [GitHub 지원](https://support.github.com/contact)에 문의하여 귀하의 기본 사용자 프로필 정보에 액세스하고 동 정보를 업데이트, 변경 또는 삭제할 수 있습니다. GitHub는 당사의 법적 의무를 준수하고 분쟁을 해결하며 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유하고 사용할 것이며, 다만 법적 요구 사항을 제외하면 귀하의 요청 후 90일 이내에 귀하의 전체 프로필을 (합당한 범위 내에서) 삭제할 것입니다. 자세한 내용은 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 참조하십시오.

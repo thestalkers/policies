@@ -26,7 +26,7 @@ Fecha de entrada en vigor: **1 de septiembre de 2022**
 
 GitHub es muy transparente con respecto a la forma en que usamos y recopilamos sus datos y con quién los compartimos. Con ese fin, hemos creado esta página, en la que se detallan [nuestros subencargados](#github-subprocessors) y la forma en que usamos las [cookies](#cookies-on-github).
 
-[Subencargados de GitHub #](#github-subprocessors)
+[Subencargados de GitHub](#github-subprocessors)
 ----------
 
 Cuando compartimos su información con subencargados externos, como nuestros distribuidores y proveedores de servicios, seguimos siendo responsables de ella. Nos esforzamos muchísimo para mantener su confianza cuando incorporamos nuevos proveedores, por lo que exigimos a todos los proveedores que suscriban acuerdos de protección de datos con nosotros que restringen el tratamiento de la Información Personal de los Usuarios (tal y como se define en la [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement)).
@@ -35,7 +35,7 @@ Actualizaremos la lista de subencargados cuando incorporemos un nuevo subencarga
 
 Si tiene preguntas o dudas acerca de un nuevo subencargado, estaremos encantados de ayudarle. Póngase en contacto con nosotros a través de [Formulario de contacto de privacidad](https://github.com/contact/privacy).
 
-[Cookies en GitHub #](#cookies-on-github)
+[Cookies en GitHub](#cookies-on-github)
 ----------
 
 GitHub utiliza cookies para proporcionar nuestros sitios web, para protegerlos y para analizar su uso con el fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.

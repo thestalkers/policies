@@ -30,7 +30,7 @@ Neste artigo
 
 O GitHub reconhece que nossos negócios se baseiam em relações positivas e transparentes. Embora as interações informais e a troca de presentes possam fazer parte do desenvolvimento dessas relações e possam até ser consideradas costumeiras em alguns países, precisamos garantir que estamos seguindo as leis antissuborno. Temos a obrigação legal de nos comportarmos de forma ética, inclusive não usando tais interações para criar uma vantagem especial nem influenciar uma negociação.
 
-[Políticas da empresa #](#company-policies)
+[Políticas da empresa](#company-policies)
 ----------
 
 Como lembrete, nosso Código de Ética declara:
@@ -53,7 +53,7 @@ Nossos Padrões de Conduta do GitHub proíbem:
 
 Isso significa que não apenas dinheiro ou equivalente a dinheiro de qualquer tipo, mas nada de valor deve ser dado a qualquer pessoa (incluindo funcionários públicos, funcionários do governo nem a qualquer pessoa em posição de poder ou autoridade, bem como a pessoas que não estejam em nenhuma dessas posições privilegiadas) para influenciá-los ou tirado de qualquer pessoa para influenciar o GitHub. Essa atividade é proibida pela U.S. Foreign Corrupt Practices Act e pela UK Anti-Bribery Law, que regem as ações do GitHub globalmente.
 
-[Exemplos de presentes aceitáveis e inaceitáveis #](#examples-of-acceptable-and-unacceptable-gifts)
+[Exemplos de presentes aceitáveis e inaceitáveis](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
 Então, o que significa “de valor”? Tenha em mente que os funcionários do governo não podem aceitar nenhum presente (ok, talvez adesivos). Você sempre deve perguntar a eles o que suas políticas permitem e proíbem. Mas, em caso de dúvida, faça isso por meio do Departamento Jurídico para ter certeza. Por exemplo, muitos congressistas americanos não permitem que você os leve para jantar e pague a conta.
@@ -79,7 +79,7 @@ Quanto a outros clientes ou possíveis clientes, determinadas coisas podem parec
 
 Todos os itens acima também se aplicam a *receber* propinas. Portanto, se um fornecedor ou fornecedor em potencial lhe enviar algo “de valor”, não aceite — ou no mínimo envie-o por meio do Departamento Jurídico antes de fazê-lo.
 
-[Processo #](#process)
+[Processo](#process)
 ----------
 
 Se você planeja fornecer ou aceitar um presente informal (que não seja um de nossos itens promocionais, como camisetas e brindes em tecidos adesivos), certifique-se de seguir o processo abaixo.
@@ -93,14 +93,14 @@ Esteja ciente que o valor aceitável pode variar. Por exemplo, gastar US$ 50,00 
    * Indique o destinatário e a finalidade do presente nas notas e
    * Inclua uma cópia da aprovação por email
 
-[Consequências #](#consequences)
+[Consequências](#consequences)
 ----------
 
 O que acontece se você não seguir a política e o GitHub acabar pagando para um cliente em potencial e sua família voar de primeira classe para o Japão e participar das Olimpíadas de Tóquio? Ou se você deixar uma mala de euros para um funcionário do governo em um armário predeterminado da estação de trem?
 
 MULTAS e CADEIA. Não necessariamente apenas para o GitHub. Você pode passar alguns anos na prisão, e não importa se o cliente já enviou um pedido ao GitHub após sua viagem ao Japão ou se o funcionário do governo pegou a mala de dinheiro. Basicamente, não importa se você realmente *fez* um suborno. No entanto, o que vale é tentar.
 
-[Mais informações #](#more-information)
+[Mais informações](#more-information)
 ----------
 
 Para obter mais informações e contexto sobre regras, imposição e multas, o Departamento de Justiça dos EUA [Guia de Recursos da U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) é um excelente recurso.

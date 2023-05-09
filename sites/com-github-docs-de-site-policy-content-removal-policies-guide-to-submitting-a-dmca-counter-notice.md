@@ -30,7 +30,7 @@ Wenn Sie der Auffassung sind, dass Ihre Inhalte auf GitHub fälschlicherweise du
 
 Wie bei allen rechtlichen Angelegenheiten ist es stets ratsam, sich zu Ihren spezifischen Fragen oder Ihrer Situation an einen Fachmann zu wenden. Wir empfehlen Ihnen dringend, dies zu tun, bevor Sie Maßnahmen ergreifen, die Ihre Rechte beeinträchtigen könnten. Dieser Leitfaden ist keine Rechtsberatung und sollte auch nicht als solche verstanden werden.
 
-[Bevor Sie beginnen #](#before-you-start)
+[Bevor Sie beginnen](#before-you-start)
 ----------
 
 ***Sagen Sie stets die Wahrheit.***Eine Gegendarstellung im Rahmen des DMCA ist wie eine eidesstattliche Erklärung, und wenn Sie die Unwahrheit sagen, können Sie *des Meineids* bezichtigt werden. Es ist eine Straftat, in einer eidesstattlichen Erklärung vorsätzlich zu lügen. (*Siehe* [U.S. Code, Titel 18, Abschnitt 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Die Angabe falscher Informationen kann auch zu einer zivilrechtlichen Haftung führen, d. h. Sie können auf Schadenersatz verklagt werden.
@@ -55,7 +55,7 @@ Dies sind nur einige Beispiele dafür, wie komplex das Urheberrecht sein kann. D
 
 ***Zusätzliche Ressourcen.***Wenn Sie zusätzliche Hilfe benötigen, finden Sie im Internet zahlreiche Ressourcen zur Selbsthilfe. Lumen bietet viele hilfreiche Informationen über [Urheberrechte](https://www.lumendatabase.org/topics/5) und [DMCA Safe Harbor](https://www.lumendatabase.org/topics/14). Wenn Sie an einem Open-Source-Projekt beteiligt sind und Rechtsberatung benötigen, können Sie sich an das [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/) wenden. In besonders schwierigen Fällen bieten auch gemeinnützige Organisationen wie die [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) direkte Hilfe an oder verweisen Sie an einen sachkundigen Anwalt.
 
-[Ihre Counter Notice muss... #](#your-counter-notice-must)
+[Ihre Counter Notice muss...](#your-counter-notice-must)
 ----------
 
 1. **die folgende Erklärung beinhalten: „I have read and understand GitHub's Guide to Filing a DMCA Counter Notice.”** („Ich habe den Leitfaden von GitHub zur Einreichung einer DMCA-Counter Notice gelesen und verstanden.”)
@@ -72,7 +72,7 @@ Dies sind nur einige Beispiele dafür, wie komplex das Urheberrecht sein kann. D
 
 6. **Setzen Sie Ihre physische oder elektronische Unterschrift darunter.**
 
-[So reichen Sie Ihre Counter Notice ein #](#how-to-submit-your-counter-notice)
+[So reichen Sie Ihre Counter Notice ein](#how-to-submit-your-counter-notice)
 ----------
 
 Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.

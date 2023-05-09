@@ -34,7 +34,7 @@ By outlining what we think a [safe, welcoming, and productive community](https:/
 
 We encourage our community members to communicate expectations clearly, [moderate](#what-if-something-or-someone-offends-you) their projects where possible, and [report](https://github.com/contact/report-abuse) any content that may violate our [policies](/en/site-policy/github-terms/github-terms-of-service). GitHub Staff will investigate any reports of abuse, and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
-[Maintaining a strong community #](#maintaining-a-strong-community)
+[Maintaining a strong community](#maintaining-a-strong-community)
 ----------
 
 The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
@@ -45,7 +45,7 @@ The primary purpose of the GitHub community is to collaborate on software projec
 
 * **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
-[What if something or someone offends you? #](#what-if-something-or-someone-offends-you)
+[What if something or someone offends you?](#what-if-something-or-someone-offends-you)
 ----------
 
 While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to [let us know](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) when they believe content or activity they’ve encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitHub enables you to take action:
@@ -62,7 +62,7 @@ While some disagreements can be resolved with direct, respectful communication b
 
 While we are passionate about empowering maintainers to moderate their own projects, please reach out to us to [Report abuse](https://github.com/contact/report-abuse) if you need additional support in dealing with a situation.
 
-[What happens if someone violates GitHub's policies? #](#what-happens-if-someone-violates-githubs-policies)
+[What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
 We rely on reports from the community, as well as proactive detection, to help ensure that GitHub is a safe, welcoming, and productive platform for software developers. There are a variety of factors we consider when we’re made aware of behavior or content not in line with GitHub’s policies. However, our policy enforcement and content moderation approach prioritizes our vision to be the home for all developers. This means:
@@ -81,12 +81,12 @@ Where we have decided that moderation action is warranted, these are some of the
 * Hiding a user account or organization from public view
 * Suspending a user account or organization
 
-[Appeal and Reinstatement #](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
 If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
 
-[Legal Notices #](#legal-notices)
+[Legal Notices](#legal-notices)
 ----------
 
 We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).

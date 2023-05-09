@@ -17,7 +17,7 @@ Divulgation coordonnée des vulnérabilités de sécurité
 
 Nous voulons que GitHub reste sûr pour tout le monde. Si vous avez découvert une faille de sécurité dans GitHub, nous vous remercions de nous aider à la divulguer de manière coordonnée.
 
-[Bounty Program #](#bounty-program)
+[Bounty Program](#bounty-program)
 ----------
 
 À l’instar de plusieurs autres grandes entreprises de logiciels, GitHub offre une prime de bug pour mieux impliquer les chercheurs en sécurité. L’idée est simple : les hackers et les chercheurs en sécurité (comme vous) trouvent et signalent les vulnérabilités grâce à notre processus de divulgation coordonné. Ensuite, pour reconnaître les efforts considérables que ces chercheurs déploient souvent dans leur chasse aux bugs, nous les récompensons avec de l’argent liquide.

@@ -44,12 +44,12 @@ GitHub 사용 제한 정책
 
 본 사용 제한 정책에 사용되었지만 정의되지 않은 특정 용어는 당사의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service), [기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service) 및 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 각 용어에 부여한 의미를 갖습니다. [기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service)이 적용되는 고객의 경우, "귀하" 및 "귀하의"는 "고객" 또는 "사용자"를 가리킵니다. "당사", "당사를", "당사의" 등의 표현은 "GitHub"를 가리킵니다.
 
-[1. 법률 및 규정 준수 #](#1-compliance-with-laws-and-regulations)
+[1. 법률 및 규정 준수](#1-compliance-with-laws-and-regulations)
 ----------
 
 귀하는 모든 관련 법률 및 규정과 당사의 모든 사용 제한 정책을 준수하여 서비스를 사용할 책임이 있습니다. 이러한 정책은 수시로 업데이트될 수 있으며 하기의 내용뿐만 아니라 당사의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service) 및 [기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service)에도 명시됩니다.
 
-[2. 사용자 안전 #](#2-user-safety)
+[2. 사용자 안전](#2-user-safety)
 ----------
 
 다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
@@ -72,7 +72,7 @@ GitHub 사용 제한 정책
 
 * 주제에서 벗어나거나 다분히 또는 반복적으로 [다른 사용자의 경험을 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)하는 방식으로 플랫폼 기능과 상호 작용하는 경우
 
-[3. 지적 재산, 신뢰성 및 개인 정보 #](#3-intellectual-property-authenticity-and-private-information)
+[3. 지적 재산, 신뢰성 및 개인 정보](#3-intellectual-property-authenticity-and-private-information)
 ----------
 
 다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
@@ -85,7 +85,7 @@ GitHub 사용 제한 정책
 
 * 타인의 개인 정보를 당사자의 동의 없이 게시하는 등 [제3자의 개인 정보를 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)하는 경우
 
-[4. GitHub에서 스팸과 허위 활동 #](#4-spam-and-inauthentic-activity-on-github)
+[4. GitHub에서 스팸과 허위 활동](#4-spam-and-inauthentic-activity-on-github)
 ----------
 
 다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
@@ -103,7 +103,7 @@ GitHub 사용 제한 정책
 * 서버를 사용하여 어떤 형태의 과도한 자동화된 대량 활동이든, 자동화된 수단을 통해 서버에 과도한 부담을 주거나, 서버를 통해 원치 않는 광고 또는 권유의 형식을 릴레이할 수 있습니다(예: 풍부한 빠른 구성표).
 * 가상화폐 공중 투하, 토큰, 크레딧, 선물 또는 기타 기부와 같은 보상에 의해 인센티브를 받거나 인증되지 않은 참여를 장려합니다.
 
-[5. 사이트 액세스와 안전 #](#5-site-access-and-safety)
+[5. 사이트 액세스와 안전](#5-site-access-and-safety)
 ----------
 
 다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
@@ -111,12 +111,12 @@ GitHub 사용 제한 정책
 * 남용이 발생하기 전에 묵시적 또는 명시적인 이중 사용 목적을 두지 않고 기술적 피해를 초래하는 [불법 활성 공격 또는 맬웨어 캠페인](/ko/site-policy/acceptable-use-policies/github-active-malware-or-exploits)을 직접 지원하는 경우(예를 들어 서비스 거부(DoS) 공격을 계획하거나 명령 및 제어 서버를 관리하여 악성 실행 파일을 전달할 수단이나 공격 인프라로서 당사 플랫폼을 사용)
 * 당사 서버를 사용하여 서비스, 장치, 데이터, 계정 또는 네트워크를 방해하거나 방해를 시도하거나 무단으로 액세스하거나 그러한 액세스를 시도하는 경우. [GitHub 버그](https://bounty.github.com) 장려금 프로그램과 같은 버그 장려금 프로그램에서 허용되는 활동은 "권한 없음"으로 간주되지 않지만 버그 장려금 프로그램이 활동에 권한을 부여한 조직에만 영향을 주어야 합니다.
 
-[6. 서비스 사용 제한 #](#6-services-usage-limits)
+[6. 서비스 사용 제한](#6-services-usage-limits)
 ----------
 
 귀하는 당사의 명시적인 서면 허가 없이 서비스, 서비스 사용 또는 서비스 액세스의 어떤 부분도 복제, 중복, 복사, 판매, 재판매 또는 활용할 수 없습니다.
 
-[7. 정보 사용 제한 #](#7-information-usage-restrictions)
+[7. 정보 사용 제한](#7-information-usage-restrictions)
 ----------
 
 귀하는 해당 정보를 스크래핑했는지 또는 당사 API를 통해 수집했는지 아니면 다른 방식으로 입수했는지 여부와 관계없이 다음과 같은 이유로 당사 서비스를 출처로 한 정보를 사용할 수 있습니다.
@@ -130,19 +130,19 @@ GitHub 사용 제한 정책
 
 서비스를 출처로 한 정보를 사용 시 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 준수해야 합니다.
 
-[8. 개인 정보 보호 #](#8-privacy)
+[8. 개인 정보 보호](#8-privacy)
 ----------
 
 개인 데이터의 오용을 금지합니다.
 
 서비스를 출처로 한 데이터를 수집하는 모든 개인, 단체 또는 서비스는 특히 개인 정보의 수집과 관련하여 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 준수해야 합니다. 서비스를 출처로 한 개인 데이터를 수집하는 경우, 귀하는 해당 사용자가 승인한 목적으로만 개인 데이터를 사용하는 데 동의합니다. 귀하는 서비스에서 수집한 모든 개인 정보를 합당하게 보호하고 불만 사항, 제거 요청, 당사 또는 다른 사용자의 “연락 금지” 요청 등에 즉시 응답하기로 동의합니다.
 
-[9. 과도한 대역폭 사용 #](#9-excessive-bandwidth-use)
+[9. 과도한 대역폭 사용](#9-excessive-bandwidth-use)
 ----------
 
 서비스의 대역폭 제한은 사용하는 기능에 따라 다릅니다. 귀하의 대역폭 사용량이 유사한 기능의 다른 사용자에 비해 상당히 과도하다고 판단될 경우, 당사는 귀하가 대역폭 사용량을 줄일 수 있을 때까지 귀하의 계정을 일시 중지하거나 파일 호스팅을 제한하거나 그렇지 않으면 귀하의 활동을 제한할 수 있는 권리가 있습니다. 또한 당사는 당사의 인프라에 과도한 부담을 주는 것으로 판단되는 리포지토리를 (사전 통지 후) 삭제할 권리가 있습니다. 리포지토리에서 개체 스토리지를 사용할 수 있는 방법에 대한 지침은 "[GitHub의 대용량 파일 정보](/ko/repositories/working-with-files/managing-large-files/about-large-files-on-github)"을 참조하세요. 특정 기능의 대역폭 제한에 관한 자세한 내용은 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)을 참조하세요.
 
-[10. GitHub에서의 광고 #](#10-advertising-on-github)
+[10. GitHub에서의 광고](#10-advertising-on-github)
 ----------
 
 **짧은 버전:** *일반적으로 당사는 GitHub를 광고 목적으로 사용하는 것을 금지하지 않습니다. 그러나 당사의 사용자가 특정 제한 사항을 따를 것으로 예상되므로 GitHub는 스팸 피난처가 되지 않습니다. 아무도 그것을 원하지 않습니다.*
@@ -153,7 +153,7 @@ GitHub 사용 제한 정책
 
 귀하의 계정에 프로모션 자료를 게시하기로 결정할 경우, 귀하는 미국 연방 거래위원회(FTC)의 보증 및 평가 지침을 포함하되 이에 국한되지 않는 모든 관련 법률 및 규정을 준수할 전적인 책임이 있습니다. 당사는 단독 재량에 따라 GitHub 약관 또는 정책을 위반하는 프로모션 자료 또는 광고를 제거할 권리가 있습니다.
 
-[11. 사용자 보호 #](#11-user-protection)
+[11. 사용자 보호](#11-user-protection)
 ----------
 
 다른 사용자에게 중대한 피해를 주는 행위를 해서는 안 됩니다.

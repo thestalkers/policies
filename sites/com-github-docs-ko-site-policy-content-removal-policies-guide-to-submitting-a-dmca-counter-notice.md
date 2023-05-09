@@ -30,7 +30,7 @@ GitHub에 있는 귀하의 콘텐츠가 DMCA 게시 중단 요청에 의해 실�
 
 모든 법적 문제와 마찬가지로 특정 질문이나 상황에 대해서는 항상 전문가와 상담하는 것이 가장 좋습니다. 귀하의 권리에 영향을 미칠 수 있는 조치를 취하기 전에 그러한 전문 상담을 할 것을 적극 권장합니다. 이 가이드는 법률 자문이 아니며 그러한 것으로 받아들여서도 안 됩니다.
 
-[시작하기 전에 #](#before-you-start)
+[시작하기 전에](#before-you-start)
 ----------
 
 ***사실을 말하십시오.***DMCA는 반박 통지가 사실임을 맹세하고 *위증일 경우 처벌*을 받도록 요구하고 있습니다. 선서 진술에서 고의로 거짓을 말하는 것은 연방 범죄입니다. ([U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)을 *참조하십시오*.) 허위 정보를 제출할 경우 민사상 책임을 지게 될 수도 있습니다. 즉, 금전적 손해를 이유로 고소될 수 있습니다.
@@ -55,7 +55,7 @@ GitHub에 있는 귀하의 콘텐츠가 DMCA 게시 중단 요청에 의해 실�
 
 추가 리소스.**\*\***추가 도움이 필요할 경우, 온라인 자습 리소스가 많이 있습니다. Lumen에는 [저작권](https://www.lumendatabase.org/topics/5) 및 [DMCA 면책 조항](https://www.lumendatabase.org/topics/14)에 대한 유용한 가이드가 있습니다. 법적 조언이 필요한 오픈 소스 프로젝트에 관여하고 있는 경우, [소프트웨어 자유 법률 센터](https://www.softwarefreedom.org/about/contact/)에 문의할 수 있습니다. 특히 까다로운 사건이라고 생각하는 경우, [전자 프런티어 재단](https://www.eff.org/pages/legal-assistance) 같은 비영리 단체도 직접 도와주거나 변호사를 소개해 줄 수 있습니다.
 
-[반론 통지는 다음과 같아야 합니다. #](#your-counter-notice-must)
+[반론 통지는 다음과 같아야 합니다.](#your-counter-notice-must)
 ----------
 
 1. **다음 진술이 포함되어야 합니다. "저는 GitHub의 DMCA 반론 통지 제출 가이드를 읽고 이해했습니다."**GitHub는 이 진술이 포함되지 않았지만 그 밖에는 완전한 반론 통지의 처리를 거부하지 않지만 귀하가 이 지침을 읽지 않았음을 알게 되며, 다시 제출할 것을 귀하에게 요청할 수 있습니다.
@@ -70,7 +70,7 @@ GitHub에 있는 귀하의 콘텐츠가 DMCA 게시 중단 요청에 의해 실�
 
 6. **물리적 또는 전자 서명을 포함하십시오.**
 
-[반론 통지 제출 방법 #](#how-to-submit-your-counter-notice)
+[반론 통지 제출 방법](#how-to-submit-your-counter-notice)
 ----------
 
 답변을 받는 가장 빠른 방법은 GitHub의 [저작권 클레임 양식](https://github.com/contact/dmca)에서 귀하의 정보를 입력하고 모든 질문에 답하는 것입니다.

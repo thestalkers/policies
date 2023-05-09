@@ -32,14 +32,14 @@ Neste artigo
 
 Estes Termos e Condições dos Aplicativos de Software Livre do GitHub (“Termos do Aplicativo”) representam um acordo legal celebrado entre você (como pessoa física ou em nome de uma pessoa jurídica) e a GitHub, Inc. em relação ao uso que você faz dos aplicativos do GitHub, como GitHub Desktop™ e a documentação associada (“Software”). Estes Termos do Aplicativo aplicam-se à versão de código executável do Software. O código-fonte do Software está disponível separada e gratuitamente de acordo com os termos dos contratos de licença de software livre. Se você não concordar com todos os termos destes Termos do Aplicativo, não baixe, instale, use nem copie o Software.
 
-[Como conectar-se ao GitHub #](#connecting-to-github)
+[Como conectar-se ao GitHub](#connecting-to-github)
 ----------
 
 Se você configurar o Software para funcionar com uma ou mais contas no site GitHub.com ou com uma implantação do GitHub Enterprise Server ou do GitHub AE, o uso que você faz do Software também será regido pelos Termos de Serviço do site GitHub.com aplicáveis e/ou pelo contrato de licença aplicável à sua implantação do GitHub Enterprise Server ou do GitHub AE (“Termos do GitHub”).
 
 Qualquer uso do Software que viole os Termos aplicáveis do GitHub também será uma violação destes Termos do Aplicativo.
 
-[Notificações e Licenças de Software Livre #](#open-source-licenses-and-notices)
+[Notificações e Licenças de Software Livre](#open-source-licenses-and-notices)
 ----------
 
 A licença de software livre do Software está incluída na documentação “Notificações de Software Livre” que acompanha o Software. Essa documentação também inclui cópias de todas as licenças de software livre aplicáveis.
@@ -48,19 +48,19 @@ Na medida em que os termos das licenças aplicáveis aos componentes de software
 
 Salvo acordo em contrário por escrito com o GitHub, seu contrato com o GitHub sempre incluirá, no mínimo, estes Termos do Aplicativo. As licenças de software livre para o código-fonte do Software constituem contratos separados por escrito. Até o limite permitido que as licenças de software livre substituem expressamente estes Termos do Aplicativo, as licenças de software livre regerão seu contrato com o GitHub para o uso do Software ou de componentes específicos incluídos do Software.
 
-[Logotipos do GitHub #](#githubs-logos)
+[Logotipos do GitHub](#githubs-logos)
 ----------
 
 A outorga de licença incluída com o Software não se destina às marcas registradas do GitHub, que incluem os designs do logotipo do Software. O GitHub reserva para si todos os direitos de marca registrada e direitos autorais de todas as marcas registradas do GitHub. Os logotipos do GitHub incluem, por exemplo, os designs estilizados que incluem “logo” no título do arquivo na pasta “logos”.
 
 Os nomes GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, o Octocat e os logotipos e/ou nomes estilizados relacionados ao GitHub são marcas registradas do GitHub. Você concorda em não exibir nem usar essas marcas registradas de nenhuma maneira sem a permissão prévia por escrito do GitHub, exceto conforme permitido pela Política de Uso e Logotipos do GitHub: <https://github.com/logos>.
 
-[Privacidade #](#privacy)
+[Privacidade](#privacy)
 ----------
 
 O Software pode coletar minhas informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
 
-[Serviços adicionais #](#additional-services)
+[Serviços adicionais](#additional-services)
 ----------
 
 **Serviços de Atualização Automática**
@@ -75,7 +75,7 @@ VOCÊ COMPREENDE E CONCORDA EXPRESSAMENTE QUE O GITHUB NÃO SERÁ RESPONSÁVEL P
 
 O GitHub reserva para si o direito de, a qualquer momento e periodicamente, modificar ou descontinuar, temporária ou permanentemente, o Serviço (ou qualquer parte dele) com ou sem notificação prévia. O GitHub não será responsável perante você ou terceiros por qualquer alteração de preço, suspensão ou descontinuação do Serviço.
 
-[Disposições Gerais #](#miscellanea)
+[Disposições Gerais](#miscellanea)
 ----------
 
 1. Impossibilidade de Renúncia. O não exercício ou aplicação por parte do GitHub de qualquer direito ou cláusula destes Termos do Aplicativo não constituirá renúncia desse direito ou cláusula.

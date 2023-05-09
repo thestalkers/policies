@@ -28,17 +28,17 @@ If you'd like to request that content be removed from GitHub, please take some t
 
 Please note that we're not able to help you determine which policy is appropriate for your specific situation. If you’ve reviewed the policies below and still have questions about whether or not content should be reported as copyright, trademark, or private information, we recommend consulting with independent legal counsel.
 
-[DMCA Takedown Policy #](#dmca-takedown-policy)
+[DMCA Takedown Policy](#dmca-takedown-policy)
 ----------
 
 The [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy) can be used to report content that you believe infringes a copyright owned by you or your organization. Once you have reviewed the policy, you may also want to review our [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) before submitting a report.
 
-[GitHub Trademark Policy #](#github-trademark-policy)
+[GitHub Trademark Policy](#github-trademark-policy)
 ----------
 
 The [GitHub Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy) can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
 
-[GitHub Private Information Removal Policy #](#github-private-information-removal-policy)
+[GitHub Private Information Removal Policy](#github-private-information-removal-policy)
 ----------
 
 The [GitHub Private Information Removal Policy](/en/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.

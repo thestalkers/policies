@@ -30,7 +30,7 @@ DMCA 抗辩通知提交指南
 
 与所有法律事务一样，就您的具体问题或情况咨询专业人员始终是最好的方式。 我们强烈建议您在采取任何可能影响您权利的行动之前这样做。 本指南不是法律意见，不应被视为法律意见。
 
-[开始前 #](#before-you-start)
+[开始前](#before-you-start)
 ----------
 
 ***说实话。***DMCA 要求您对自己的抗辩通知宣誓，如有不实会*受到伪证处罚*。 在宣誓声明中故意说谎是一种联邦罪行。 （*请参阅* [美国法典，第 18 章，第 1621 节](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)。）提交虚假信息还可能导致民事责任，即您可能会因经济损失被提起诉讼。
@@ -57,7 +57,7 @@ DMCA 抗辩通知提交指南
 其他资源。
 如果您需要其他帮助，可以找到许多在线自助资源。 Lumen 有一套内容丰富的[版权](https://www.lumendatabase.org/topics/5)和 [DMCA 安全港](https://www.lumendatabase.org/topics/14)指南。 如果您正在参与开源项目，需要寻求法律意见，您可以联系[软件自由法律中心](https://www.softwarefreedom.org/about/contact/)。 如果您认为自己的案例特别棘手，[电子前沿基金会](https://www.eff.org/pages/legal-assistance)等非营利组织可能也愿意直接提供帮助，或将您推荐给律师。
 
-[您的抗辩通知必须... #](#your-counter-notice-must)
+[您的抗辩通知必须...](#your-counter-notice-must)
 ----------
 
 1. **包括以下声明：“我已阅读并理解 GitHub 的《DMCA 抗辩通知提交指南》。**如果您的抗辩通知未包括此声明，但其他内容完整，我们不会拒绝处理；但我们知道您尚未阅读这些准则后，可能会要求您先完成这一步。
@@ -72,7 +72,7 @@ DMCA 抗辩通知提交指南
 
 6. **包括您的纸质或电子签名。**
 
-[如何提交抗辩通知 #](#how-to-submit-your-counter-notice)
+[如何提交抗辩通知](#how-to-submit-your-counter-notice)
 ----------
 
 得到回复的最快方式是在我们的 [版权声明表](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
