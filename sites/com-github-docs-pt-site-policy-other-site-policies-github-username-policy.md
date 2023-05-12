@@ -31,7 +31,7 @@ Os nomes de conta do GitHub estão disponíveis por ordem de chegada e destinam-
 
 Lembre-se de que nem todas as atividades no GitHub são visíveis ao público; contas sem atividade visível podem estar em uso ativo.
 
-Se o nome de usuário que você deseja já foi reivindicado, considere outros nomes ou variações exclusivas. Usar um número, um hífen ou uma ortografia alternativa pode ajudar você a identificar um nome de usuário desejável ainda disponível.
+Se o nome de usuário que você deseja já foi reivindicado, considere outros nomes ou variações exclusivas. Usar um número, um hífen ou uma grafia alternativa pode ajudar você a identificar um nome de usuário desejado que ainda está disponível.
 
 [Política de Marcas Registradas](#trademark-policy)
 ----------
