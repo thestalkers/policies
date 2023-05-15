@@ -31,7 +31,7 @@ Los nombres de cuenta de GitHub están disponibles para las primeras personas qu
 
 Tenga en cuenta que no toda la actividad de GitHub es visible de forma pública; es posible que haya en uso cuentas cuya actividad no es visible.
 
-Si el nombre de usuario que desea ya lo ha elegido alguien, piense otros nombres o variaciones únicas. Puede utilizar un número, un guion o una forma alternativa de escribir ese nombre para encontrar un nombre de usuario de su preferencia que aún esté disponible.
+Si el nombre de usuario que desea ya lo ha elegido alguien, piense otros nombres o variaciones únicas. Puede usar un número, un guion o una forma alternativa de escribir ese nombre para encontrar un nombre de usuario de su preferencia que aún esté disponible.
 
 [Directiva de Marcas Comerciales](#trademark-policy)
 ----------
