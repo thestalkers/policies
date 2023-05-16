@@ -20,7 +20,7 @@ GitHub와 무역 통제
 
 * [수출 개요](#export-overview)
 
-* [질문과 대답](#frequently-asked-questions)
+* [질문과 대답](#github-copilot)
 
 GitHub.com, GitHub Enterprise Server 그리고 두 제품 중 하나에 업로드하는 정보는 미국 수출 관리 규정(EAR)을 포함한 무역 통제 규정의 적용 대상이 될 수 있습니다.
 
@@ -53,24 +53,24 @@ GitHub Enterprise Server는 대량 판매용 상용 제품에 속하며 수출 �
 
 GitHub Enterprise Server는 미국 수출 관리 규정(EAR) 중 파트 740, 부록 1의 국가 그룹 E:1에 나열된 국가 또는 우크라이나의 크림 반도 지역과 도네츠크 및 루한스크 분리주의 지역에 판매, 수출 또는 재수출할 수 없습니다. 현재 제재 대상국 명단에는 쿠바, 이란, 북한, 시리아, 러시아 및 벨라루스가 포함되지만 이 명단은 변경될 수 있습니다.
 
-[질문과 대답](#frequently-asked-questions)
+[질문과 대답](#github-copilot)
 ----------
 
-### [미국 정부의 제재가 적용되는 대상 국가와 영토는 어디인가요?](#on-which-countries-and-territories-are-us-government-sanctions-applied) ###
+### [미국 정부의 제재가 적용되는 대상 국가와 영토는 어디인가요?](#frequently-asked-questions) ###
 
 (우크라이나의) 크림 반도 지역, 도네츠크 및 루한스크 분리주의 지역, 쿠바, 이란, 북한, 시리아. 그러나 GitHub는 이란에 소재하거나 거주하는 개발자를 대상으로 클라우드 서비스를 제공할 수 있는 라이선스를 미국 재무부 외국자산통제국(OFAC)으로부터 획득하여 보유하는 중입니다. 무료 및 유료로 제공되는 GitHub 클라우드 서비스는 대체로 쿠바에 소재한 개발자도 이용할 수 있습니다.
 
-### [GitHub가 제재 대상의 국가와 영토에 거주하지 않거나 업무상의 연고가 없는 사람들이 여전히 접근권을 갖거나 이의를 제기할 수 있도록 보장하는 방법이 있다면 무엇인가요?](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
+### [GitHub가 제재 대상의 국가와 영토에 거주하지 않거나 업무상의 연고가 없는 사람들이 여전히 접근권을 갖거나 이의를 제기할 수 있도록 보장하는 방법이 있다면 무엇인가요?](#on-which-countries-and-territories-are-us-government-sanctions-applied) ###
 
 드물지만 하나의 계정이 뜻하지 않게 또는 착오로 인해 영향을 받는 경우, 당사는 이러한 문제를 해결하기 위한 이의 절차를 운영하고 있습니다.
 
 개별 사용자 또는 조직 관리자의 소견으로 볼 때 문제의 사례에 대한 플래그가 잘못 지정되었다고 판단될 경우, 해당 사용자는 GitHub에 확인 정보를 제공하여 해당 플래그에 대해 이의를 제기할 수 있습니다. 당사가 라이선스를 보유하지 않은 지역에서 해당 사용자 또는 조직이 미국 정부 제재 관할권과 관련이 없거나 미국 경제 제재 조치에 따른 규제를 받지 않음을 확인할 수 있는 충분한 정보를 GitHub가 수신하면 플래그는 제거됩니다. [개별 계정 이의 요청서 양식](https://airtable.com/shrGBcceazKIoz6pY)과 [조직 계정 이의 요청서 양식](https://airtable.com/shrB2je5RBkqLEt5D)을 각각 참조하십시오.
 
-### [이들 지역을 여행하는 경우 영향을 받습니까?](#will-traveling-in-these-regions-be-impacted) ###
+### [이들 지역을 여행하는 경우 영향을 받습니까?](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
 
 이들 지역을 여행할 경우 귀하의 계정 상태에 영향을 미칠 수 있으며 다만 제재 지역을 벗어나 [개별 계정 이의 요청서](https://airtable.com/shrGBcceazKIoz6pY) 또는 [조직 계정 이의 요청서](https://airtable.com/shrB2je5RBkqLEt5D)를 성공적으로 제출하면 가용성을 복원할 수 있습니다.
 
-### [사용 가능한 것과 사용할 수 없는 것으로는 무엇이 있나요?](#what-is-available-and-not-available) ###
+### [사용 가능한 것과 사용할 수 없는 것으로는 무엇이 있나요?](#will-traveling-in-these-regions-be-impacted) ###
 
 현재 GitHub는 미국 정부의 제재 대상국인 이란에 소재하거나 거주하는 개발자를 대상으로 클라우드 서비스를 제공할 수 있는 라이선스를 OFAC로부터 획득한 상태입니다. 이 라이선스에는 개인과 조직을 대상으로 무료 및 유료로 제공되는 모든 공용 서비스와 개인 서비스가 포함됩니다. 무료 및 유료로 제공되는 GitHub 클라우드 서비스는 대체로 쿠바에 소재한 개발자도 이용할 수 있습니다.
 
@@ -84,25 +84,25 @@ GitHub는 개인 리포지토리를 포함해 시리아, 크림 반도 등 제�
 
 북한에 소재하거나 거주하는 개발자는 GitHub 서비스를 사용할 수 없습니다.
 
-### [이러한 특정 사용자를 어떻게 정의하나요?](#how-do-you-define-these-specific-users) ###
+### [이러한 특정 사용자를 어떻게 정의하나요?](#what-is-available-and-not-available) ###
 
 GitHub가 미국 정부로부터 라이선스를 아직 획득하지 못한 곳으로써 미국 무역 통제의 적용 대상에 해당하는 지역에 어떤 사용자 또는 고객이 소재하는 것으로 판단되거나 사용자가 미국 경제 제재에 따른 규제를 받고 있다고 GitHub가 판단할 경우, 이러한 법적 요구 사항을 준수하기 위해 관련 계정은 제한됩니다. 이러한 법적 규제를 이행하기 위한 사용자 및 고객 소재지의 확인은 IP 주소 및 결제 내역을 비롯한 여러 출처에서 도출됩니다. 국적과 민족은 제재에 따른 제한 대상의 사용자에 대해 플래그를 지정할 목적으로 사용되지 않습니다.
 
-### [조직 계정은 어떤 영향을 받나요?](#how-are-organization-accounts-impacted) ###
+### [조직 계정은 어떤 영향을 받나요?](#how-do-you-define-these-specific-users) ###
 
 GitHub가 아직 미국 정부로부터 라이선스를 획득하지 않은 제재 대상의 영토 또는 국가에 기반을 두고 있거나 어떤 조직의 핵심 인물 또는 구성원이 그러한 영토 또는 국가에 대한 연고를 충분히 드러내는 경우, 또는 해당 조직이 미국 경제 제재의 대상에 속하는 것으로 보일 경우, 조직 계정 및 관련 소유자 계정은 제한됩니다.
 
 이러한 제한은 무료 또는 유료 개인 리포지토리, 비밀 지스트, 유료 작업 회의록, 후원자 및 GitHub Marketplace 서비스의 가용성 등 개인 리포지토리 서비스 및 유료 서비스에 대한 액세스를 일시 중단합니다. 이러한 제재 지역과 관련된 유료 조직 계정의 경우, 사용자는 보관된 읽기 전용 리포지토리로 다운그레이드된 공용 리포지토리에 대한 액세스가 제한될 수 있습니다. 이러한 제재 지역과 관련된 무료 조직 계정의 경우, 사용자는 오픈 소스 프로젝트(및 관련 공개 페이지), 공개 지스트, 할당된 무료 작업 회의록 등을 위한 무료 공용 리포지토리에 계속 액세스할 수 있는 모든 권한을 갖습니다.
 
-### [거래가 제한된 사용자의 개인 리포지토리를 공개할 수 있나요?](#can-trade-restricted-users-private-repositories-be-made-public) ###
+### [거래가 제한된 사용자의 개인 리포지토리를 공개할 수 있나요?](#how-are-organization-accounts-impacted) ###
 
 무료 개인 계정 사용자는 제한된 개인 리포지토리를 상업적 목적이 아닌 개인 통신 목적으로만 공개할 수 있습니다. 사용자는 리포지토리 설정 탭으로 이동하여 "공개" 버튼을 클릭하면 이를 수행할 수 있습니다. 리포지토리가 공개되면 사용자는 공용 리포지토리 서비스에 액세스할 수 있습니다. 이 작업은 취소할 수 없습니다.
 
-### [거래가 제한된 사용자가 개인 리포지토리 데이터에 액세스할 수 있습니까(예: 리포지토리 데이터 다운로드 또는 삭제)?](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
+### [거래가 제한된 사용자가 개인 리포지토리 데이터에 액세스할 수 있습니까(예: 리포지토리 데이터 다운로드 또는 삭제)?](#can-trade-restricted-users-private-repositories-be-made-public) ###
 
 유감스럽게도 해당 법률에 대해 당사가 이해하고 있는 바에 따르면 미국 정부에서 달리 승인하지 않는 한, 당사는 개인 리포지토리 콘텐츠를 다운로드하거나 삭제할 수 있는 선택권이 없습니다. 당사는 거래가 제한된 사용자가 개인 리포지토리의 콘텐츠를 보호할 수 있는 권리를 미국 규제 기관과 함께 강력하게 지지할 것입니다. 또한 당사는 제재 대상의 시장에서 개발자를 위한 GitHub 서비스의 가용 범위 확대를 지지하며, 전 세계 개발자를 위한 개인 통신을 지원하는 데 있어 코드 협업의 중요성을 더욱 강조할 것입니다.
 
-### [GitHub가 OFAC에서 획득한 라이선스에 따라 이란에서 어떤 유형의 계정을 사용할 수 있습니까?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
+### [GitHub가 OFAC에서 획득한 라이선스에 따라 이란에서 어떤 유형의 계정을 사용할 수 있습니까?](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
 
 당사가 확보한 이 라이선스에는 개인과 조직을 대상으로 무료 및 유료로 제공되는 모든 공용 서비스와 개인 서비스가 포함됩니다.
 
@@ -112,11 +112,11 @@ GitHub가 아직 미국 정부로부터 라이선스를 획득하지 않은 제�
 
 어떤 개인 또는 조직이 제한된 범주(SDN, 그 외 차단된 당사자 또는 특정 정부 공무원)에 속한다고 GitHub가 판단하면 그러한 개인 또는 조직은 본인 계정에 플래그가 지정되며 GitHub 기능을 사용할 수 없습니다. 플래그가 잘못 지정되었다고 판단되면 당사자는 GitHub의 [개인 계정 이의 요청서 양식 또는 조직 계정 이의 요청서 양식](https://airtable.com/shrGBcceazKIoz6pY)을 사용하여 GitHub에 확인 정보를 제공함으로써 플래그에 대한 이의를 제기할 수 있습니다. 개인이 미국 경제 제재에 따라 규제를 받는 범주에 속하지 않음을 확인할 수 있는 충분한 정보를 GitHub가 수신하면 플래그가 제거됩니다.
 
-### [이란의 GitHub 사용자는 라이선스에 따라 유료 서비스를 사용할 수 있나요?](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
+### [이란의 GitHub 사용자는 라이선스에 따라 유료 서비스를 사용할 수 있나요?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
 
 당사는 OFAC에서 획득한 라이선스에 따라 유료 서비스를 포함하여 이란의 사용자에게 제공되는 모든 클라우드 서비스를 복원하고 있습니다. 당사는 모든 주요 신용 카드 결제를 수락하지만 당사를 대신해 제3자가 결제 처리를 대행하므로 결제 처리에 대해서는 결제 대행업체의 계약조건이 적용됩니다. 이러한 제3자는 이란으로부터의 결제를 차단하는 규제를 포함할 수 있습니다.
 
-### [쿠바의 개발자에게 GitHub의 가용성을 명확히 설명할 수 있습니까?](#can-you-clarify-availability-of-github-to-cuban-developers) ###
+### [쿠바의 개발자에게 GitHub의 가용성을 명확히 설명할 수 있습니까?](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
 
 쿠바에 소재한 개발자는 대체로 GitHub 클라우드 서비스를 무료 및 유료로 이용할 수 있습니다.
 특별제재대상국민(SDN), 미국법 및 그 외 관련 법률에 의거해 거부되거나 차단된 기타 당사자, 특정 정부 공무원 등은 소재지와 관계없이 GitHub에 액세스할 수 없거나 이를 이용하지 못할 수도 있습니다. 또한 사용자는 일반적으로 제재 대상국의 정부를 포함해 그러한 당사자를 대신하여 GitHub.com을 이용할 수 없습니다.
