@@ -70,7 +70,7 @@ Crimeia, as áreas separatistas de Donetsk e Luhasnk, Cuba, Irã, Coreia do Nort
 
 Nos raros casos em que uma conta é afetada acidentalmente ou por engano, temos um processo de recurso para resolver tais casos.
 
-Se um usuário individual ou administrador da organização acreditar que foi sinalizado por engano, esse usuário terá a oportunidade de contestar a sinalização fornecendo informações de verificação ao GitHub. Se o GitHub receber informações suficientes para verificar que o usuário ou a organização não é afiliado a uma jurisdição sancionada pelos EUA para a qual não temos uma licença ou de outra forma restrita por sanções econômicas dos EUA, a sinalização será removida. Consulte o [formulário de solicitação de recurso de conta individual](https://airtable.com/shrGBcceazKIoz6pY) e [formulário de solicitação de recurso de conta corporativa](https://airtable.com/shrB2je5RBkqLEt5D).
+Se um usuário individual ou o proprietário de uma organização acreditar que foi sinalizado por engano, esse usuário terá a oportunidade de contestar a sinalização fornecendo informações de verificação ao GitHub. Se o GitHub receber informações suficientes para verificar que o usuário ou a organização não é afiliado a uma jurisdição sancionada pelos EUA para a qual não temos uma licença ou de outra forma restrita por sanções econômicas dos EUA, a sinalização será removida. Consulte o [formulário de solicitação de recurso de conta individual](https://airtable.com/shrGBcceazKIoz6pY) e [formulário de solicitação de recurso de conta corporativa](https://airtable.com/shrB2je5RBkqLEt5D).
 
 ### [As viagens para essas regiões serão afetadas?](#will-traveling-in-these-regions-be-impacted) ###
 
