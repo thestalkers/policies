@@ -70,7 +70,7 @@ GitHub Copilot 是一种商业性的大宗市场产品，已被分配了出口�
 
 在极少数情况下，会有帐户无意或错误地受到影响，此时我们有申诉流程来处理这种情况。
 
-如果个别用户或组织管理员认为他们被错误标记，则该用户有机会向 GitHub 提供验证信息，对该标记提出申诉。 如果 GitHub 收到充分的信息，能够核实用户或组织不属于我们未获得许可的美国制裁地区或美国经济制裁限制的地区，则会撤销该标记。 请参阅[个人帐户申诉申请表](https://airtable.com/shrGBcceazKIoz6pY)和[组织帐户申诉申请表](https://airtable.com/shrB2je5RBkqLEt5D)。
+如果个别用户或组织所有者认为他们被错误标记，则该用户有机会向 GitHub 提供验证信息，对该标记提出申诉。 如果 GitHub 收到充分的信息，能够核实用户或组织不属于我们未获得许可的美国制裁地区或美国经济制裁限制的地区，则会撤销该标记。 请参阅[个人帐户申诉申请表](https://airtable.com/shrGBcceazKIoz6pY)和[组织帐户申诉申请表](https://airtable.com/shrB2je5RBkqLEt5D)。
 
 ### [到这些地区旅行是否会受到影响？](#will-traveling-in-these-regions-be-impacted) ###
 
