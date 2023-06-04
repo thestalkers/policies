@@ -20,4 +20,4 @@ Andere Website-Richtlinien
 * [GitHub Richtlinie zu Government Takedown](/de/site-policy/other-site-policies/github-government-takedown-policy)
 * [GitHub Richtlinie für Nutzernamen](/de/site-policy/other-site-policies/github-username-policy)
 * [Richtlinien für rechtliche Anfragen von Nutzerdaten](/de/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
-* [GitHub Account Recovery Policy](/de/site-policy/other-site-policies/github-account-recovery-policy)
+* [Wiederherstellungsrichtlinie für GitHub-Konten](/de/site-policy/other-site-policies/github-account-recovery-policy)
