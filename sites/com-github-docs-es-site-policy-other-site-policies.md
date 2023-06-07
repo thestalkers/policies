@@ -20,4 +20,4 @@ Otras Directivas del Sitio
 * [Directiva de eliminación por parte del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 * [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 * [Directrices para las Solicitudes Legales de Datos de Usuarios](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
-* [GitHub Account Recovery Policy](/es/site-policy/other-site-policies/github-account-recovery-policy)
+* [Directiva de recuperación de cuentas de GitHub](/es/site-policy/other-site-policies/github-account-recovery-policy)

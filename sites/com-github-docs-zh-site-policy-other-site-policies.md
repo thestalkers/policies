@@ -20,4 +20,4 @@
 * [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
 * [GitHub 用户名政策](/zh/site-policy/other-site-policies/github-username-policy)
 * [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
-* [GitHub Account Recovery Policy](/zh/site-policy/other-site-policies/github-account-recovery-policy)
+* [GitHub 帐户恢复政策](/zh/site-policy/other-site-policies/github-account-recovery-policy)

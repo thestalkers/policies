@@ -20,4 +20,4 @@ Outras Políticas do Site
 * [Política de Remoção Governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
 * [Política de Nome de Usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
 * [Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
-* [GitHub Account Recovery Policy](/pt/site-policy/other-site-policies/github-account-recovery-policy)
+* [Política de Recuperação de Conta do GitHub](/pt/site-policy/other-site-policies/github-account-recovery-policy)
