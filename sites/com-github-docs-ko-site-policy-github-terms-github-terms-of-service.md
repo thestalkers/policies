@@ -101,7 +101,7 @@ GitHub를 이용해 주셔서 감사합니다. 여러분을 뵙게 되어 매우
 5. “GitHub”, “우리”, "당사"는 GitHub, Inc.와 GitHub 계열사, 이사, 자회사, 계약자, 사용 허가자, 임원, 대리인, 직원을 말합니다.
 6. "서비스"란 베타 미리 보기를 포함하여 GitHub가 제공하는 응용 프로그램, 소프트웨어, 제품, 서비스를 말합니다.
 7. “사용자”, “귀하”, “귀하의”는 웹 사이트 또는 서비스를 방문했거나 사용 중이거나, 계정의 일부에 액세스하거나 이를 사용하거나, 기능을 수행하는 과정에서 계정의 사용을 지시하는 개인, 회사 또는 조직을 말합니다. 사용자는 만 13세 이상이어야 합니다. 비즈니스 계정 또는 정부 계정에는 특별한 약관이 적용될 수 있습니다([섹션 B(5): 추가 약관](#5-additional-terms)을 참조하십시오).
-8. “웹 사이트”란 [github.com](https://github.com/)에 있는 GitHub의 웹 사이트와 GitHub가 이 웹 사이트에서 또는 이 웹 사이트를 통해 제공하는 모든 콘텐츠, 서비스, 제품을 말합니다. [education.github.com](https://education.github.com/)과 [pages.github.com](https://pages.github.com/) 등 GitHub가 소유한 github.com의 하위 도메인도 가리킵니다. 또한 이 약관은 [githubuniverse.com](https://githubuniverse.com/) 같은 GitHub의 회의 웹 사이트와 [electronjs.org](https://www.electronjs.org/) 같은 제품 웹 사이트를 관리합니다. 경우에 따라 GitHub가 소유한 웹 사이트에서 다른 또는 추가 서비스 약관을 제공할 수 있습니다. 이러한 추가 약관이 본 계약과 충돌하는 경우, 보다 구체적인 약관이 관련 페이지 또는 서비스에 적용됩니다.
+8. “웹 사이트”란 [github.com](https://github.com/)에 있는 GitHub의 웹 사이트와 GitHub가 이 웹 사이트에서 또는 이 웹 사이트를 통해 제공하는 모든 콘텐츠, 서비스, 제품을 말합니다. [education.github.com](https://education.github.com/)과 [pages.github.com](https://pages.github.com/) 등 GitHub가 소유한 github.com의 하위 도메인도 가리킵니다. 본 약관은 [githubuniverse.com](https://githubuniverse.com/) 같은 GitHub의 회의 웹 사이트와 [electronjs.org](https://www.electronjs.org/) 같은 제품 웹 사이트를 관리합니다. 경우에 따라 GitHub가 소유한 웹 사이트에서 다른 또는 추가 서비스 약관을 제공할 수 있습니다. 이러한 추가 약관이 본 계약과 충돌하는 경우, 보다 구체적인 약관이 관련 페이지 또는 서비스에 적용됩니다.
 
 [B. 계정 약관](#b-account-terms)
 ----------

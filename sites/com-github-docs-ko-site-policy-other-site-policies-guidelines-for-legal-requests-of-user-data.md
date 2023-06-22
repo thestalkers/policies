@@ -34,9 +34,9 @@
 
 * [요청 제출](#submitting-requests)
 
-* [외국 법 집행 기관의 요청](#california-assembly-bill-1242-notice)
+* [외국 법 집행 기관의 요청](#requests-from-foreign-law-enforcement)
 
-* [문의 사항](#requests-from-foreign-law-enforcement)
+* [문의 사항](#questions)
 
 GitHub에서 호스트되는 사용자 콘텐츠가 관련될 수 있는 조사를 수행하는 법 집행관이십니까?
 아니면 GitHub가 법 집행 기관과 어떤 정보를 어떤 상황에서 공유하는지 알고 싶은 개인 정보 보호에 민감한 분일 수도 있습니다.
@@ -164,7 +164,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
   * 협업자
 
 * []()**공용 리포지토리 데이터** - GitHub는 수많은 오픈 소스 소프트웨어 프로젝트의 본산입니다.
-  거의 모든 퍼블릭 리포지토리(예: [GitHub Docs)를 찾아 GitHub](https://github.com/github/docs)가 리포지토리에 대해 수집하고 유지 관리하는 정보를 파악할 수 있습니다.
+  거의 모든 퍼블릭 리포지토리(예: [GitHub Docs](https://github.com/github/docs))을 찾아 GitHub가 리포지토리에 대해 수집하고 유지 관리하는 정보를 파악할 수 있습니다.
   여기에는 다음이 포함될 수 있습니다.
 
   * 코드 자체
@@ -270,14 +270,18 @@ Sacramento, CA 95833-3505
 
 요청을 조사할 수 있도록 적어도 2주의 시간 여유를 주십시오.
 
-[외국 법 집행 기관의 요청](#california-assembly-bill-1242-notice)
+### [캘리포니아 의회 법안 1242 통지](#california-assembly-bill-1242-notice) ###
+
+GitHub에 법적 절차를 제출하면 법적 절차가 캘리포니아에서 합법적 인 낙태 관련 행위에 대한 책임을 만드는 법률 위반과 관련이 없음을 확인합니다.
+
+[외국 법 집행 기관의 요청](#requests-from-foreign-law-enforcement)
 ----------
 
 캘리포니아에 본사를 둔 미국 회사로서 GitHub는 외국 당국이 발부한 법적 절차에 응하여 외국 정부에 데이터를 제공할 필요가 없습니다.
 GitHub에 정보를 요청하려는 외국 법 집행 기관 관리는 미국 법무부 형사국 국제과에 문의해야 합니다.
 GitHub는 상호 사법 공조 조약("MLAT") 또는 협조 공문을 거쳐 미국 법원이 발부하는 요청에 지체 없이 응합니다.
 
-[문의 사항](#requests-from-foreign-law-enforcement)
+[문의 사항](#questions)
 ----------
 
 다른 질문, 의견 또는 제안이 있으십니까? [GitHub 지원](https://support.github.com/contact?tags=docs-generic)에 문의하십시오.

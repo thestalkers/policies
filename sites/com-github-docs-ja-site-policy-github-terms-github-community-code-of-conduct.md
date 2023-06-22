@@ -108,7 +108,7 @@ GitHub の[利用規約](/ja/site-policy/github-terms/github-terms-of-service)�
 [適用](#enforcement)
 ----------
 
-### [GitHub コミュニティ参加者ができること\*\*](#what-github-community-participants-can-do) ###
+### [GitHub コミュニティ参加者ができること\_\_](#what-github-community-participants-can-do) ###
 
 * **問題を見つけた場合は、報告してください。** モデレーターは特別な権限を持ち、この GitHub コミュニティに対して責任があります。 しかし、あなたもコミュニティに責任を負っているのです。 あなたの助けがあってこそ、モデレーターは守衛や警察のように振る舞うだけでなく、コミュニティの進行役を努めることができます。
 
