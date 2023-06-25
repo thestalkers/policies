@@ -21,7 +21,7 @@ Termos do GitHub
 * [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 * [Contrato de Desenvolvedor Registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
-* [Bem-vindo ao Marketplace do GitHub (“Marketplace”)!](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Termos de Serviço do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
 * [Contrato de Desenvolvedor do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
 * [Termos do Programa de Pesquisa do GitHub](/pt/site-policy/github-terms/github-research-program-terms)
 * [Termos e Condições de Aplicativos de Software Livre do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
