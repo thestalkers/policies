@@ -207,7 +207,7 @@ Such processing by service providers and any related cross border data transfers
 
 ### [Affiliates](#affiliates) ###
 
- We enable access to personal data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems, when affiliates provide services on our behalf, or where access is needed to operate and provide the Service.
+We enable access to personal data across our subsidiaries, affiliates, and related companies, for example, where we share common data systems, when affiliates provide services on our behalf, or where access is needed to operate and provide the Service.
 
 ### [For security purposes](#for-security-purposes) ###
 
