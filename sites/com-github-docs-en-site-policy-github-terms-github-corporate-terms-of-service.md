@@ -233,36 +233,7 @@ GitHub considers Customer Content in Customer’s Private Repositories to be Cus
 
 ### [3. Access](#3-access) ###
 
-\<\<\<\<\<\<\< HEAD
-
-[GitHub personnel may only access Customer's Private Repositories in the situations described in our](#github-personnel-may-only-access-customers-private-repositories-in-the-situations-described-in-our-privacy-statement)[Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement#repository-contents).
-==========
-
 GitHub personnel may only access Customer's Private Repositories in the situations described in our [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement#repository-contents).
-
->
-> >
-> > >
-> > > >
-> > > > >
-> > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > > main
-> > > > > > >
-> > > > > > >
-> > > > > >
-> > > > > >
-> > > > >
-> > > > >
-> > > >
-> > > >
-> > >
-> > >
-> >
-> >
->
->
 
 Customer may choose to enable additional access to its Private Repositories. For example, Customer may enable various GitHub services or features that require additional rights to Customer Content in Private Repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat Customer Content in Customer’s Private Repositories as Customer’s Confidential Information. If those services or features require rights in addition to those it needs to provide the Service, GitHub will provide an explanation of those rights.
 

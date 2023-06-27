@@ -209,7 +209,7 @@ Un tel traitement par les prestataires de services et les transferts de données
 
 ### [Affiliés](#affiliates) ###
 
- Nous permettons l’accès aux données personnelles à travers nos filiales, sociétés affiliées et sociétés liées, par exemple, lorsque nous partageons des systèmes de données communs, lorsque des sociétés affiliées fournissent des services en notre nom ou lorsque l’accès est nécessaire pour exploiter et fournir le Service.
+Nous permettons l’accès aux données personnelles à travers nos filiales, sociétés affiliées et sociétés liées, par exemple, lorsque nous partageons des systèmes de données communs, lorsque des sociétés affiliées fournissent des services en notre nom ou lorsque l’accès est nécessaire pour exploiter et fournir le Service.
 
 ### [À des fins de sécurité](#for-security-purposes) ###
 

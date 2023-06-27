@@ -20,7 +20,7 @@ Neste artigo
 
 * [1. Definições.](#1-definitions)
 
-* [2. Uso Aceitável.](#2-acceptable-use)
+* [2. Uso Aceitável.](#1-acceptable-use)
 
 * [3. Obrigações do Desenvolvedor Patrocinado.](#3-sponsored-developer-obligations)
 
@@ -53,7 +53,7 @@ Sua participação no Programa GitHub Sponsors (o “Programa”) está sujeita 
 
 “**USD**” significa dólares americanos.
 
-[2. Uso Aceitável.](#2-acceptable-use)
+[2. Uso Aceitável.](#1-acceptable-use)
 ----------
 
 ### [2.1. Programa de Patrocinadores do GitHub](#21-github-sponsors-program) ###

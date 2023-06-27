@@ -155,7 +155,7 @@ GitHub Copilot에서 귀하에게 반환되는 코드, 기능 및 기타 출력�
 
 GitHub Copilot은 (i) 귀하의 기본 텔레메트리 설정에 따라 귀하의 코드의 스니펫을 수집하고, (ii) 귀하의 계정에 연결된 IDE 또는 편집기를 통해 추가 사용 정보를 수집할 수 있습니다. 이러한 정보에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 언급된 개인 데이터가 포함됩니다. GitHub Copilot 데이터의 수집 및 사용에 관한 자세한 내용은 [GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals)를 참조하시기 바랍니다.
 
-비즈니스용 GitHub Copilot 사용자의 경우 GitHub Copilot 사용은 [GitHub Copilot 제품별 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)에 의해 관리됩니다.
+비즈니스용 GitHub Copilot 사용자의 경우 GitHub Copilot 사용은 [GitHub Copilot 제품별 약관의 적용을 받습니다](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------

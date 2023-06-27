@@ -20,7 +20,7 @@ GitHub スポンサーの追加条件
 
 * [1.定義](#1-definitions)
 
-* [2.許可される使用](#2-acceptable-use)
+* [2.許可される使用](#1-acceptable-use)
 
 * [3.支援対象開発者の義務](#3-sponsored-developer-obligations)
 
@@ -53,7 +53,7 @@ GitHub スポンサー プログラム (以下「プログラム」といいま�
 
 「**米国ドル**」とは、北米ドルを意味します。
 
-[2.許可される使用](#2-acceptable-use)
+[2.許可される使用](#1-acceptable-use)
 ----------
 
 ### [2.1. GitHub スポンサー プログラム](#21-github-sponsors-program) ###

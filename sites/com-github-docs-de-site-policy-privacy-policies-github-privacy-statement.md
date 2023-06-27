@@ -209,7 +209,7 @@ Eine derartige Verarbeitung durch Dienstanbieter und alle damit verbundenen gren
 
 ### [Verbundene Unternehmen](#affiliates) ###
 
- Wir ermöglichen den Zugriff auf personenbezogene Daten in allen unseren Tochtergesellschaften und verbundenen/zugehörigen Unternehmen, mit denen wir beispielsweise gemeinsame Datensysteme nutzen, wenn verbundene Unternehmen Dienste in unserem Auftrag bereitstellen oder wenn Zugriff benötigt wird, um den Dienst zu betreiben und bereitzustellen.
+Wir ermöglichen den Zugriff auf personenbezogene Daten in allen unseren Tochtergesellschaften und verbundenen/zugehörigen Unternehmen, mit denen wir beispielsweise gemeinsame Datensysteme nutzen, wenn verbundene Unternehmen Dienste in unserem Auftrag bereitstellen oder wenn Zugriff benötigt wird, um den Dienst zu betreiben und bereitzustellen.
 
 ### [Aus Sicherheitsgründen](#for-security-purposes) ###
 

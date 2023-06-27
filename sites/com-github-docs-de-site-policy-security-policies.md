@@ -15,4 +15,4 @@ Sicherheitsrichtlinien
 ==========
 
 * [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
-* [Zusammenfassung](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

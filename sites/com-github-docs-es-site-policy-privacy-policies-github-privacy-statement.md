@@ -209,7 +209,7 @@ Dicho procesamiento por parte de los proveedores de servicios y las transferenci
 
 ### [Entidades Afiliadas](#affiliates) ###
 
- Permitimos el acceso a los datos personales a nuestras subsidiarias, filiales y empresas relacionadas, por ejemplo, en aquellos casos en los que compartimos sistemas de datos comunes, cuando las filiales prestan servicios en nuestro nombre o cuando el acceso es necesario para dirigir y proporcionar el servicio.
+Permitimos el acceso a los datos personales a nuestras subsidiarias, filiales y empresas relacionadas, por ejemplo, en aquellos casos en los que compartimos sistemas de datos comunes, cuando las filiales prestan servicios en nuestro nombre o cuando el acceso es necesario para dirigir y proporcionar el servicio.
 
 ### [Por motivos de seguridad](#for-security-purposes) ###
 
