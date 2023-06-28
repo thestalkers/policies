@@ -2,8 +2,6 @@ Contrat pour les Développeurs du GitHub Marketplace - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-Nous publions des mises à jour fréquentes de notre documentation, et la traduction de cette page peut encore être en cours. Pour obtenir les informations les plus actuelles, consultez la [documentation anglaise](/en).
-
 [All products](/fr)
 
 [Politique du Site](/fr/site-policy)

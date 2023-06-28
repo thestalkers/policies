@@ -2,8 +2,6 @@ GitHub Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentatio
 
 [Skip to main content](#main-content)
 
-Wir veröffentlichen regelmäßig Aktualisierungen unserer Dokumentation, und die Übersetzung dieser Seite ist möglicherweise noch nicht abgeschlossen. Aktuelle Informationen findest du in der [englischsprachigen Dokumentation](/en).
-
 [All products](/de)
 
 [Website-Richtlinie](/de/site-policy)

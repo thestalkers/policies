@@ -2,8 +2,6 @@ GitHub Allgemeine Geschäftsbedingungen für Open-Source-Anwendungen - GitHub-Do
 
 [Skip to main content](#main-content)
 
-Wir veröffentlichen regelmäßig Aktualisierungen unserer Dokumentation, und die Übersetzung dieser Seite ist möglicherweise noch nicht abgeschlossen. Aktuelle Informationen findest du in der [englischsprachigen Dokumentation](/en).
-
 [All products](/de)
 
 [Website-Richtlinie](/de/site-policy)

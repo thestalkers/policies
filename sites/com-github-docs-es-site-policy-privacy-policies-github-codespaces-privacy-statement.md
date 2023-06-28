@@ -2,8 +2,6 @@ Declaración de Privacidad de GitHub Codespaces - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-Publicamos actualizaciones para la documentación con frecuencia y es posible que aún se esté traduciendo esta página. Para obtener la información más reciente, consulta la [documentación en inglés](/en).
-
 [All products](/es)
 
 [Directiva del Sitio](/es/site-policy)

@@ -2,8 +2,6 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 
 [Skip to main content](#main-content)
 
-ドキュメントへの更新が頻繁に発行されており、このページの翻訳はまだ行われている場合があります。 最新の情報については、「[英語のドキュメント](/en)」を参照してください。
-
 [All products](/ja)
 
 [サイト ポリシー](/ja/site-policy)
