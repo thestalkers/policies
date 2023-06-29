@@ -18,7 +18,7 @@ Dans cet article
 
 * [1. Définitions.](#1-definitions)
 
-* [2. Bon usage.](#1-acceptable-use)
+* [1. Bon usage.](#1-acceptable-use)
 
 * [3. Obligations du Développeur Sponsorisé.](#3-sponsored-developer-obligations)
 
@@ -51,7 +51,7 @@ Votre participation au Programme GitHub Sponsors (le « Programme ») est soum
 
 « **USD** » désigne le dollar des États-Unis.
 
-[2. Bon usage.](#1-acceptable-use)
+[1. Bon usage.](#1-acceptable-use)
 ----------
 
 ### [2.1. Programme GitHub Sponsors](#21-github-sponsors-program) ###

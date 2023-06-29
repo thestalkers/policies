@@ -433,7 +433,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 **权利**。 您有权要求我们 (i) 披露我们收集、使用、披露、共享和出售哪些个人数据，(ii) 删除您的个人数据，(iii) 更正您的个人数据，(iv) 限制使用和披露您的敏感数据，以及 (v) 取消将来出于定向广告目“共享”个人数据。 您可以自行或通过授权代理提出这些请求。 如果您使用授权代理，我们会为您的代理提供有关如何行使您的隐私权的详细指导。
 
-有关如何行使这些权利的更多信息，请参阅 GitHub 隐私声明的[您对我们处理您的个人数据的选择](#your-choices-regarding-our-processing-of-your-personal-data)部分。 您可以使用 GitHub 的用户迁移 API 来访问和下载您的数据。 有关详细信息，请参阅“[请求个人帐户数据的存档](/zh/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)”。
+有关如何行使这些权利的更多信息，请参阅 GitHub 隐私声明的[您对我们处理您的个人数据的选择](#your-choices-regarding-our-processing-of-your-personal-data)部分。 您可以使用 GitHub 的用户迁移 API 来访问和下载您的数据。 有关详细信息，请参阅“[Requesting an archive of your personal account’s data](/zh/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)”。
 
 如果您有 GitHub 帐户，您必须通过提供的工具行使您的权利，这要求您登录到您的 GitHub 帐户。 如果您在登录后有其他请求或问题，可以通过[如何联系我们](#how-to-contact-us)部分中的地址联系 GitHub，也可通过我们的 Web 表单与我们联系。
 

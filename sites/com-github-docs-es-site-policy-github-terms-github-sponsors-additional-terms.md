@@ -18,7 +18,7 @@ En este artículo
 
 * [1. Definiciones.](#1-definitions)
 
-* [2. Uso aceptable.](#1-acceptable-use)
+* [1. Uso Aceptable.](#1-acceptable-use)
 
 * [3. Obligaciones del Desarrollador Patrocinado.](#3-sponsored-developer-obligations)
 
@@ -51,7 +51,7 @@ Su participación en el Programa de Patrocinadores de GitHub (el «Programa») e
 
 «**USD**» se refiere al dólar estadounidense.
 
-[2. Uso aceptable.](#1-acceptable-use)
+[1. Uso Aceptable.](#1-acceptable-use)
 ----------
 
 ### [2.1. Programa de Patrocinadores de GitHub](#21-github-sponsors-program) ###
