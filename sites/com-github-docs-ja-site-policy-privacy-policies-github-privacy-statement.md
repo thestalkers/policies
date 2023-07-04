@@ -433,7 +433,7 @@ GitHub のプライバシーに関する声明 (PDF) のフランス語版は、
 
 **権利**。 お客様は、(i) 当社が収集、使用、開示、共有、販売する個人データの開示、(ii) お客様の個人データの削除、(iii) お客様の個人データの修正、および (iv) お客様の機密データの使用と開示の制限、(v) ターゲット広告目的での個人データの将来の「共有」のオプトアウトを要求する権利を有します。 これらの要求は、自分で、または承認されたエージェントを介して行うことができます。 お客様が、承認されたエージェントを使用する場合、当社は、プライバシー権を行使する方法に関する詳細なガイダンスをエージェントに提供します。
 
-これらの権利を行使する方法の詳細については、GitHub のプライバシーに関する声明の「[お客様の個人データの処理に関するお客様の選択](#your-choices-regarding-our-processing-of-your-personal-data)」セクションを参照してください。 お客様は GitHub のユーザー マイグレーション API を使用して、データにアクセスしてダウンロードできます。 詳しくは、「[Requesting an archive of your personal account’s data](/ja/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)」を参照してください。
+これらの権利を行使する方法の詳細については、GitHub のプライバシーに関する声明の「[お客様の個人データの処理に関するお客様の選択](#your-choices-regarding-our-processing-of-your-personal-data)」セクションを参照してください。 お客様は GitHub のユーザー マイグレーション API を使用して、データにアクセスしてダウンロードできます。 詳しくは、「[個人アカウントのデータのアーカイブをリクエストする](/ja/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)」を参照してください。
 
 GitHub アカウントをお持ちの場合は、提供されているツールを通じて権利を行使する必要があります。そのためには、GitHub アカウントにログインする必要があります。 ログイン後に追加の要求または不明な点がある場合は、Web フォームなどを使用して、「[GitHub への連絡](#how-to-contact-us)」セクションに記載したアドレスの GitHub にお問い合わせください。
 
