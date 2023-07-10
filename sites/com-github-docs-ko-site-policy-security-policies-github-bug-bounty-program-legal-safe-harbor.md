@@ -4,7 +4,7 @@ GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub 
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [보안 정책](/ko/site-policy/security-policies)/

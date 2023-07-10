@@ -4,7 +4,7 @@ Directiva de Eliminación de Información Privada de GitHub - Documentación de 
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/

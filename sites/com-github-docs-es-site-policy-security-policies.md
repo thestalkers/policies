@@ -4,7 +4,7 @@ Directivas de Seguridad - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Seguridad](/es/site-policy/security-policies)

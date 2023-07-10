@@ -4,7 +4,7 @@ GitHub 등록 개발자 계약 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 약관](/ko/site-policy/github-terms)/

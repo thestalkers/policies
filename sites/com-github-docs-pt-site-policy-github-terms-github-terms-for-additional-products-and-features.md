@@ -4,7 +4,7 @@ Termos do GitHub para Produtos e Recursos Adicionais - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/

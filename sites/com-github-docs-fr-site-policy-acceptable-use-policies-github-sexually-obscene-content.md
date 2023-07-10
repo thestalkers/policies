@@ -4,7 +4,7 @@ Contenu Sexuellement Obscène sur GitHub - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/

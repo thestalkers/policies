@@ -4,7 +4,7 @@ Código de conduta da comunidade do GitHub - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/

@@ -4,7 +4,7 @@ GitHub 따돌림 및 괴롭힘 방지 정책 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/

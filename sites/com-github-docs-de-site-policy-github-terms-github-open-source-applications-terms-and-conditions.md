@@ -4,7 +4,7 @@ GitHub Allgemeine Geschäftsbedingungen für Open-Source-Anwendungen - GitHub-Do
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [GitHub Bedingungen](/de/site-policy/github-terms)/

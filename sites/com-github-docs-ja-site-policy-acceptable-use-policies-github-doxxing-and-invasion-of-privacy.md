@@ -4,7 +4,7 @@ GitHub でのドキシングとプライバシーの侵害 - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/

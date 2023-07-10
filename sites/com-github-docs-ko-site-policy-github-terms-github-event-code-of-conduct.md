@@ -4,7 +4,7 @@ GitHub 이벤트 준수 사항 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 약관](/ko/site-policy/github-terms)/

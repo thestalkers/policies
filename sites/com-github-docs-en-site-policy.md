@@ -4,7 +4,7 @@ Site policy documentation - GitHub Docs
 
 [All products](/en)
 
-[Site policy](/en/site-policy)
+[Site policy](/site-policy)
 
 * [Site policy](/en/site-policy)
 

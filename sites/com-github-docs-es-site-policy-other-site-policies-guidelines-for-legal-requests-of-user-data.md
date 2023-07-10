@@ -4,7 +4,7 @@ Directrices para las Solicitudes Legales de Datos de Usuarios - Documentación d
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/

@@ -4,7 +4,7 @@ Compromisso de Cooperação GPL do GitHub - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas da Empresa GitHub](/pt/site-policy/github-company-policies)/

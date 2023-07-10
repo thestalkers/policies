@@ -4,7 +4,7 @@ GitHub の会社ポリシー - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)

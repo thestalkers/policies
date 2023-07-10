@@ -4,7 +4,7 @@ Other Site Policies - GitHub Docs
 
 [All products](/en)
 
-[Site policy](/en/site-policy)
+[Site policy](/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [Other Site Policies](/en/site-policy/other-site-policies)

@@ -4,7 +4,7 @@ Guía para Presentar una Notificación de Retirada de la DMCA - Documentación d
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/

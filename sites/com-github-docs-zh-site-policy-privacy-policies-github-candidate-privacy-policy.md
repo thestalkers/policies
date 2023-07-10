@@ -4,7 +4,7 @@ GitHub 求职者隐私政策 - GitHub 文档
 
 [All products](/zh)
 
-[站点政策](/zh/site-policy)
+[Site policy](/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [隐私政策](/zh/site-policy/privacy-policies)/

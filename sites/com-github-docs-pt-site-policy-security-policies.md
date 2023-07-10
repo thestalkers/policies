@@ -4,7 +4,7 @@ Políticas de Segurança - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Segurança](/pt/site-policy/security-policies)

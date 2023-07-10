@@ -4,7 +4,7 @@
 
 [All products](/ru)
 
-[Политика сайта](/ru/site-policy)
+[Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики конфиденциальности](/ru/site-policy/privacy-policies)/

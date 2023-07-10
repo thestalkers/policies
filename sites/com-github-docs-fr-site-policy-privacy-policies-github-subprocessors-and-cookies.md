@@ -4,7 +4,7 @@ Sous-traitants Ultérieurs et Cookies de GitHub - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Politiques de Confidentialité](/fr/site-policy/privacy-policies)/

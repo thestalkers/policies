@@ -4,7 +4,7 @@ GitHub の企業向けサービス条件 - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/

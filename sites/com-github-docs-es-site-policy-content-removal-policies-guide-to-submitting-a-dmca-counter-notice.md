@@ -4,7 +4,7 @@ Guía para Presentar una Contranotificación de la DMCA - Documentación de GitH
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)/

@@ -4,7 +4,7 @@ GitHub 上的错误信息和虚假信息 - GitHub 文档
 
 [All products](/zh)
 
-[站点政策](/zh/site-policy)
+[Site policy](/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/

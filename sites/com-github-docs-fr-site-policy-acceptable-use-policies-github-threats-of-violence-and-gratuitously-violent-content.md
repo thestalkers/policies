@@ -4,7 +4,7 @@ Menaces de Violence et Contenu de Violence Gratuite sur GitHub - Documentation G
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/

@@ -4,7 +4,7 @@ GitHub GPL Kooperationsverpflichtung - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [GitHub Unternehmensrichtlinien](/de/site-policy/github-company-policies)/

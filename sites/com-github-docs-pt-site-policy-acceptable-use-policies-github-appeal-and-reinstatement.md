@@ -4,7 +4,7 @@ Recurso e Restabelecimento do GitHub - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/

@@ -4,7 +4,7 @@ GitHub 선물 및 접대 정책 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 회사 정책](/ko/site-policy/github-company-policies)/

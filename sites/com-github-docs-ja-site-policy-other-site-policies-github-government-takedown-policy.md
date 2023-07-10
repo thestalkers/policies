@@ -4,7 +4,7 @@ GitHub の行政機関による削除のポリシー - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/

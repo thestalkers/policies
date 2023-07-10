@@ -4,7 +4,7 @@ GitHub: незаконное распространение персональн
 
 [All products](/ru)
 
-[Политика сайта](/ru/site-policy)
+[Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/

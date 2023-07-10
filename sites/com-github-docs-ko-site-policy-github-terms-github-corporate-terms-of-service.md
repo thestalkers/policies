@@ -4,7 +4,7 @@ GitHub 기업 서비스 약관 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 약관](/ko/site-policy/github-terms)/

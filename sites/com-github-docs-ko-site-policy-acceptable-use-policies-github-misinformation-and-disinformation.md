@@ -4,7 +4,7 @@ GitHub 잘못된 정보 및 허위 정보 방침 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/

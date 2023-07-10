@@ -4,7 +4,7 @@ Políticas de Privacidade - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)

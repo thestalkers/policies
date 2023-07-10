@@ -4,7 +4,7 @@ Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub - Docum
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/

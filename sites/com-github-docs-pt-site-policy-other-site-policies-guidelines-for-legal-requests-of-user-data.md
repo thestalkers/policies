@@ -4,7 +4,7 @@ Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Outras Políticas do Site](/pt/site-policy/other-site-policies)/

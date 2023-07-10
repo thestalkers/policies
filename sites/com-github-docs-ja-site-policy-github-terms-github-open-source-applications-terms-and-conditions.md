@@ -4,7 +4,7 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/

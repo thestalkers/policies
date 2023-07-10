@@ -4,7 +4,7 @@ Subencargados y Cookies de GitHub - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/

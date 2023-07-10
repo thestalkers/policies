@@ -4,7 +4,7 @@ Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Seguridad](/es/site-policy/security-policies)/

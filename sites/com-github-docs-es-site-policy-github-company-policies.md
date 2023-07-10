@@ -4,7 +4,7 @@ Directivas de Empresa de GitHub - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Empresa de GitHub](/es/site-policy/github-company-policies)

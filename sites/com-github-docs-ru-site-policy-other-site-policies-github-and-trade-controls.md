@@ -4,7 +4,7 @@ GitHub и торговый контроль - Документация по GitH
 
 [All products](/ru)
 
-[Политика сайта](/ru/site-policy)
+[Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Другие правила сайта](/ru/site-policy/other-site-policies)/

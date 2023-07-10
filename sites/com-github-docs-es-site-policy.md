@@ -4,7 +4,7 @@ Documentación de la directiva del sitio - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)
 

@@ -4,7 +4,7 @@ GitHub 上的暴力威胁和无端暴力内容 - GitHub 文档
 
 [All products](/zh)
 
-[站点政策](/zh/site-policy)
+[Site policy](/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/

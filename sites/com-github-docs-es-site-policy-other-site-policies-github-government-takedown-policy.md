@@ -4,7 +4,7 @@ Directiva de eliminación por parte del gobierno de GitHub - Documentación de G
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/

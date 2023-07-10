@@ -4,7 +4,7 @@ Verhaltenskodex für die GitHub Community - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [GitHub Bedingungen](/de/site-policy/github-terms)/

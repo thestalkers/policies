@@ -4,7 +4,7 @@ Acuerdo de Desarrollador de GitHub Marketplace - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/

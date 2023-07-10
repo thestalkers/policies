@@ -4,7 +4,7 @@ GitHub 보조 처리자 및 쿠키 - GitHub Docs
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [개인정보보호정책](/ko/site-policy/privacy-policies)/

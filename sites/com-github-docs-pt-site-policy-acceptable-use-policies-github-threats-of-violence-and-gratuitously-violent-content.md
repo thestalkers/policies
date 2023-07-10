@@ -4,7 +4,7 @@ Ameaças de Violência e Conteúdo Injustificadamente Violento do GitHub - GitHu
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/

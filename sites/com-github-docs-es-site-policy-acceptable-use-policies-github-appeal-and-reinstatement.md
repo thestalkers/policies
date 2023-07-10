@@ -4,7 +4,7 @@ Apelación y Restablecimiento de GitHub - Documentación de GitHub
 
 [All products](/es)
 
-[Directiva del Sitio](/es/site-policy)
+[Site policy](/site-policy)
 
 * [Directiva del Sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/

@@ -4,7 +4,7 @@ GitHub Richtlinie zu Government Takedown - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/

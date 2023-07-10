@@ -4,7 +4,7 @@ GitHub Event Terms - GitHub Docs
 
 [All products](/en)
 
-[Site policy](/en/site-policy)
+[Site policy](/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [GitHub Terms](/en/site-policy/github-terms)/

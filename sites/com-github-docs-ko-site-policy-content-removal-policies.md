@@ -4,7 +4,7 @@
 
 [All products](/ko)
 
-[사이트 정책](/ko/site-policy)
+[Site policy](/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)

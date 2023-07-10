@@ -4,7 +4,7 @@ Politique relative aux Marques de GitHub - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Politiques de Retrait du Contenu](/fr/site-policy/content-removal-policies)/

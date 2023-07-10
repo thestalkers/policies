@@ -4,7 +4,7 @@ GitHub et les contrôles des échanges commerciaux - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Autres Politiques du Site](/fr/site-policy/other-site-policies)/

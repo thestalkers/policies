@@ -4,7 +4,7 @@ GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHub Doc
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/

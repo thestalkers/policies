@@ -4,7 +4,7 @@ GitHub Gifts and Entertainment Policy - GitHub Docs
 
 [All products](/en)
 
-[Site policy](/en/site-policy)
+[Site policy](/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [GitHub Company Policies](/en/site-policy/github-company-policies)/

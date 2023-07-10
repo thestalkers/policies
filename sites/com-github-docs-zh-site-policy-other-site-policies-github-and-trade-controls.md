@@ -4,7 +4,7 @@ GitHub 和贸易管制 - GitHub 文档
 
 [All products](/zh)
 
-[站点政策](/zh/site-policy)
+[Site policy](/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [其他站点政策](/zh/site-policy/other-site-policies)/

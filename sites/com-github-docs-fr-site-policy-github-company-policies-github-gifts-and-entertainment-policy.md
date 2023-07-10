@@ -4,7 +4,7 @@ Politique de GitHub en matière de Cadeaux et de Divertissement - Documentation 
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Politiques de la société GitHub](/fr/site-policy/github-company-policies)/

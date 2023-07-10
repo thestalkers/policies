@@ -4,7 +4,7 @@ Documentation sur la politique du site - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)
 

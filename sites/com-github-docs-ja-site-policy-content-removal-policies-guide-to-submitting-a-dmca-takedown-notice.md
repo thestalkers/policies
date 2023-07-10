@@ -4,7 +4,7 @@ DMCA 削除通知提出ガイド - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/

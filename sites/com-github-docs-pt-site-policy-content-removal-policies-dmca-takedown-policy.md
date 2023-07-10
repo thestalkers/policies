@@ -4,7 +4,7 @@ Política de Remoção de DMCA - GitHub Docs
 
 [All products](/pt)
 
-[Política do Site](/pt/site-policy)
+[Site policy](/site-policy)
 
 * [Política do Site](/pt/site-policy)/
 * [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)/

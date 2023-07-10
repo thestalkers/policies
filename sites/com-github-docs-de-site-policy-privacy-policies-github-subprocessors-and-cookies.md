@@ -4,7 +4,7 @@ GitHub Unterauftragsverarbeiter und Cookies - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [Datenschutzrichtlinien](/de/site-policy/privacy-policies)/

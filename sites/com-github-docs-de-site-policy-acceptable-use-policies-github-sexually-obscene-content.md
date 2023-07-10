@@ -4,7 +4,7 @@ GitHub – sexuell obszöne Inhalte - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/

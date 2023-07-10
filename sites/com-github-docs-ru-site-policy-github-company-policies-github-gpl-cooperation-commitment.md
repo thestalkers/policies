@@ -4,7 +4,7 @@ GitHub: общедоступная лицензия (GPL), обязательс�
 
 [All products](/ru)
 
-[Политика сайта](/ru/site-policy)
+[Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политика компании GitHub](/ru/site-policy/github-company-policies)/

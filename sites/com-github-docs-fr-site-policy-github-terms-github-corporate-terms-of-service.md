@@ -4,7 +4,7 @@ Conditions d’Utilisation de GitHub pour les Entreprises - Documentation GitHub
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Conditions de GitHub](/fr/site-policy/github-terms)/

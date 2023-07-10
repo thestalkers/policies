@@ -4,7 +4,7 @@ Conditions Générales des Applications Open Source de GitHub - Documentation Gi
 
 [All products](/fr)
 
-[Politique du Site](/fr/site-policy)
+[Site policy](/site-policy)
 
 * [Politique du Site](/fr/site-policy)/
 * [Conditions de GitHub](/fr/site-policy/github-terms)/

@@ -4,7 +4,7 @@ Sicherheitsrichtlinien - GitHub-Dokumentation
 
 [All products](/de)
 
-[Website-Richtlinie](/de/site-policy)
+[Site policy](/site-policy)
 
 * [Website-Richtlinie](/de/site-policy)/
 * [Sicherheitsrichtlinien](/de/site-policy/security-policies)

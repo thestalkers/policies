@@ -4,7 +4,7 @@ GitHub 応募者プライバシー ポリシー - GitHub Docs
 
 [All products](/ja)
 
-[サイト ポリシー](/ja/site-policy)
+[Site policy](/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
