@@ -17,23 +17,14 @@
 ----------
 
 * [이 가이드라인에 대하여](#about-these-guidelines)
-
 * [GitHub 용어](#github-terminology)
-
 * [GitHub.com에 있는 사용자 데이터](#user-data-on-githubcom)
-
 * [GitHub는 영향을 받는 계정 소유자에게 통보합니다](#we-will-notify-any-affected-account-owners)
-
 * [비공개 정보의 공개](#disclosure-of-non-public-information)
-
 * [비용 상환](#cost-reimbursement)
-
 * [데이터 보존](#data-preservation)
-
 * [요청 제출](#submitting-requests)
-
 * [외국 법 집행 기관의 요청](#requests-from-foreign-law-enforcement)
-
 * [문의 사항](#questions)
 
 GitHub에서 호스트되는 사용자 콘텐츠가 관련될 수 있는 조사를 수행하는 법 집행관이십니까?

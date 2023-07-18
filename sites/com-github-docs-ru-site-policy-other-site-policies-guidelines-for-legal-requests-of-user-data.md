@@ -17,23 +17,14 @@
 ----------
 
 * [Об этих рекомендациях](#about-these-guidelines)
-
 * [Терминология GitHub](#github-terminology)
-
 * [Пользовательские данные на GitHub.com](#user-data-on-githubcom)
-
 * [Мы уведомим всех затронутых владельцев учетных записей](#we-will-notify-any-affected-account-owners)
-
 * [Раскрытие непубличной информации](#disclosure-of-non-public-information)
-
 * [Возмещение затрат](#cost-reimbursement)
-
 * [Сохранение данных](#data-preservation)
-
 * [Отправка запросов](#submitting-requests)
-
 * [Запросы от иностранных правоохранительных органов](#requests-from-foreign-law-enforcement)
-
 * [Ответы на вопросы](#questions)
 
 Вы сотрудник правоохранительных органов, проводящий расследование, которое может касаться пользовательского контента, размещенного на GitHub?

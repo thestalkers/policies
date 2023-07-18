@@ -17,7 +17,6 @@ GitHub와 무역 통제
 ----------
 
 * [수출 개요](#export-overview)
-
 * [질문과 대답](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server 그리고 두 제품 중 하나에 업로드하는 정보는 미국 수출 관리 규정(EAR)을 포함한 무역 통제 규정의 적용 대상이 될 수 있습니다.

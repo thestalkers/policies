@@ -17,11 +17,8 @@ Neste artigo
 ----------
 
 * [Resumo](#summary)
-
 * [1. Termos do Safe Harbor (Porto Seguro)](#1-safe-harbor-terms)
-
 * [2. Safe Harbor (Porto Seguro) de Terceiros](#2-third-party-safe-harbor)
-
 * [3. Renúncia limitada de outras políticas do site](#3-limited-waiver-of-other-site-polices)
 
 [Resumo](#summary)

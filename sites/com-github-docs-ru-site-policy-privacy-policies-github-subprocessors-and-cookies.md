@@ -17,7 +17,6 @@
 ----------
 
 * [GitHub Subprocessors](#github-subprocessors)
-
 * [Cookies on GitHub](#cookies-on-github)
 
 Effective date: **September 1, 2022**

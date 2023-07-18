@@ -17,9 +17,7 @@ GitHub のユーザー名ポリシー
 ----------
 
 * [使用したいユーザー名が既に他者に取得されている場合](#what-if-the-username-i-want-is-already-taken)
-
 * [商標ポリシー](#trademark-policy)
-
 * [アカウント名の不法占拠に関するポリシー](#name-squatting-policy)
 
 GitHub アカウント名は、即時かつ実際に使用されることを目的として先着順で提供されています。

@@ -17,17 +17,11 @@
 ----------
 
 * [GitHub의 구조, 사업, 공급망](#githubs-structure-business-and-supply-chains)
-
 * [현대 노예제 및 미성년 노동 관련 정책](#policies-in-relation-to-modern-slavery-and-child-labor)
-
 * [노동법 및 관행](#labor-laws-and-practices)
-
 * [GitHub의 사업 및 공급망에서의 현대 노예제 및 미성년 노동 관련 실사 프로세스](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-
 * [GitHub의 사업 및 공급망에서 현대 노예제 또는 미성년 노동의 위험이 있는 곳과 GitHub가 이 위험을 평가하고 관리하기 위해 취한 조치](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-
 * [GitHub 사업 또는 공급망의 현대 노예제 및 미성년 노동 근절 보장의 효과](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-
 * [현대 노예제 및 인신 매매에 관한 GitHub 직원 교육](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018년 성명서*

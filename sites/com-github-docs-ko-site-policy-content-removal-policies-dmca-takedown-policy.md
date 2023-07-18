@@ -17,23 +17,14 @@ DMCA 게시 중단 정책
 ----------
 
 * [DMCA란 무엇인가요?](#what-is-the-dmca)
-
 * [DMCA 고지에 관한 요약 설명](#dmca-notices-in-a-nutshell)
-
 * [A. 이 절차의 운영 방식](#a-how-does-this-actually-work)
-
 * [B. 포크는 어떻습니까? (또는 포크란 무엇입니까?)](#b-what-about-forks-or-whats-a-fork)
-
 * [C. 우회 청구는 어떻습니까?](#c-what-about-circumvention-claims)
-
 * [D. 실수로 변경 적용 기간을 놓친 경우 어떻게 되나요?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
-
 * [E. 투명성](#e-transparency)
-
 * [F. 반복적인 침해](#f-repeated-infringement)
-
 * [G. 알림 제출](#g-submitting-notices)
-
 * [자세히 알아보기 및 의견 밝히기](#learn-more-and-speak-up)
 
 GitHub의 디지털 밀레니엄 저작권법(약칭 "DMCA") 가이드를 이용해 주셔서 감사합니다. 이 페이지는 해당 법령에 대한 포괄적인 입문서가 아닙니다. 그러나 귀하가 GitHub에 게시한 콘텐츠를 대상으로 하는 DMCA 게시 중단 알림을 수신했거나 그러한 알림을 전달하려는 권리 보유자라면 이 페이지는 해당 법과 이를 준수하기 위한 당사의 정책을 쉽게 이해하는 데 도움이 될 것입니다.

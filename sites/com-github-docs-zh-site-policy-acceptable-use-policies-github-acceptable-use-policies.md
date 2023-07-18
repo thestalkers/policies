@@ -17,25 +17,15 @@ GitHub 可接受使用政策
 ----------
 
 * [1.遵守法律和法规](#1-compliance-with-laws-and-regulations)
-
 * [2.用户安全](#2-user-safety)
-
 * [3.知识产权、真实性和私人信息](#3-intellectual-property-authenticity-and-private-information)
-
 * [4.GitHub 上的垃圾信息和假活动](#4-spam-and-inauthentic-activity-on-github)
-
 * [5.站点访问和安全](#5-site-access-and-safety)
-
 * [6.服务使用限制](#6-services-usage-limits)
-
 * [7.信息使用限制](#7-information-usage-restrictions)
-
 * [8.隐私](#8-privacy)
-
 * [9.过度带宽使用](#9-excessive-bandwidth-use)
-
 * [10. GitHub 上的广告](#10-advertising-on-github)
-
 * [11.用户保护](#11-user-protection)
 
 **短版本：***我们托管全球各地大量的协作项目，仅当用户能够诚信合作时，该协作才能正常进行。在使用服务时，您必须遵守我们的《可接受使用政策》，其中包括对 GitHub 上的内容和行为的一些限制，这些限制与用户安全、知识产权、隐私、真实性和其他限制有关。简言之，要善待彼此。*

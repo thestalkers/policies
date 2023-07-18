@@ -17,45 +17,25 @@ GitHub の企業向けサービス条件
 ----------
 
 * [GitHub の企業向けサービス条件](#github-corporate-terms-of-service)
-
 * [A. 定義](#a-definitions)
-
 * [B. アカウント利用規約](#b-account-terms)
-
 * [C. 法規制の遵守、許容される使用、プライバシー](#c-compliance-with-laws-acceptable-use-privacy)
-
 * [D. コンテンツの責任、所有権、ライセンスの権利](#d-content-responsibility-ownership-license-rights)
-
 * [E. プライベート リポジトリ](#e-private-repositories)
-
 * [F. 知的財産に関する通知](#f-intellectual-property-notice)
-
 * [G. GitHub の追加の製品使用条件](#g-github-additional-product-terms)
-
 * [H. サブスクリプション ライセンス](#h-subscription-licenses)
-
 * [I. 関連会社](#i-affiliates)
-
 * [J. 支払](#j-payment)
-
 * [K. 期間、終了、および停止](#k-term-termination-suspension)
-
 * [L. GitHub との連絡](#l-communications-with-github)
-
 * [M. 限定的保証、免責](#m-limited-warranty-disclaimer)
-
 * [N. 責任の制限](#n-limitations-of-liability)
-
 * [O. 申し立てに対する防御、解放](#o-defense-of-claims-release)
-
 * [P. 秘密保持](#p-confidentiality)
-
 * [Q. プロフェッショナル サービス](#q-professional-services)
-
 * [R. 本サービスまたは本条件の変更](#r-changes-to-the-service-or-terms)
-
 * [S. サポート](#s-support)
-
 * [T. 雑則](#t-miscellaneous)
 
 本契約は、企業向けサービス条件を参照する契約を締結した GitHub.com ご利用のお客様に適用されます。その他すべての企業または機関のお客様は、[github.com/customer-terms](https://github.com/customer-terms) にアクセスして最新の契約条件をご確認ください。\_\_

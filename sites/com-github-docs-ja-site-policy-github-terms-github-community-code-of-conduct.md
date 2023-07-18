@@ -17,15 +17,10 @@ GitHub コミュニティの行動規範
 ----------
 
 * [概要および目的](#overview-and-purpose)
-
 * [誓約](#pledge)
-
 * [標準](#standards)
-
 * [適用](#enforcement)
-
 * [GitHub スタッフへの連絡](#contacting-github-staff)
-
 * [法定通知](#legal-notices)
 
 [概要および目的](#overview-and-purpose)

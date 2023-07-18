@@ -17,39 +17,22 @@ GitHub Marketplace 개발자 계약
 ----------
 
 * [1. 용어 정의](#1definitions)
-
 * [2. 목적 및 라이선스 허여](#2purpose-and-license-grant)
-
 * [3. 제한과 책임](#3restrictions-and-responsibilities)
-
 * [4. 게시 중단](#4takedowns)
-
 * [5. 진술, 보증 및 서약](#5representations-warranties-and-covenants)
-
 * [6. 가격 책정 및 지불 조건](#6pricing-and-payment-terms)
-
 * [7. 소유권](#7ownership)
-
 * [8. 책임의 제한](#8limitation-of-liability)
-
 * [9. 면책 조항](#9indemnification)
-
 * [10. 해지](#10termination)
-
 * [11. 수정](#11modification)
-
 * [12. 양도, 완전 합의, 수정](#12assignment-entire-agreement-revisions)
-
 * [13. 분리 가능성](#13severability)
-
 * [14. 양 당사자의 관계](#14-relationship-of-the-parties)
-
 * [15. 통지](#15-notice)
-
 * [16. 준거법](#16-governing-law)
-
 * [17. 수출 제한](#17-export-restrictions)
-
 * [18. 사용 현황 데이터](#18--usage-data)
 
 **본 계약조건(이하 "계약")은 GITHUB의 Marketplace 프로그램 참여에 적용됩니다. Marketplace 프로그램에 참여하기 위해 등록하거나 아래의 "동의함"을 클릭하면 본 계약의 내용을 이해하고 그것의 계약조건에 모두 동의함을 확인하는 것입니다. 회사 또는 기타 법인을 대신하여 본 계약을 체결하는 경우 귀하는 해당 법인이 본 계약에 구속되도록 할 법적 권한이 있음을 진술하며, 이 경우 "귀하"는 귀하가 대표하는 법인을 의미합니다.**

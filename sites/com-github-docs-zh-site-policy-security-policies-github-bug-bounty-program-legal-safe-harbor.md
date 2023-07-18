@@ -17,11 +17,8 @@ GitHub Bug 赏金计划法律安全港
 ----------
 
 * [概述](#summary)
-
 * [1.安全港条款](#1-safe-harbor-terms)
-
 * [2.第三方安全港](#2-third-party-safe-harbor)
-
 * [3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
 
 [概述](#summary)

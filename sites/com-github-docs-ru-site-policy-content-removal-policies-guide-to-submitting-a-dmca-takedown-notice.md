@@ -17,11 +17,8 @@
 ----------
 
 * [Перед началом работы](#before-you-start)
-
 * [Ваша жалоба должна...](#your-complaint-must-)
-
 * [Жалобы на технологию защиты от обхода](#complaints-about-anti-circumvention-technology)
-
 * [Как подать жалобу](#how-to-submit-your-complaint)
 
 В этом руководстве описывается информация, необходимая GitHub для обработки уведомления об изъятии контента DMCA. Если у вас есть еще общие вопросы о том, что такое DMCA или как GitHub обрабатывает запросы об изъятии контента DMCA, ознакомьтесь с нашей [Политикой изъятия контента DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy).

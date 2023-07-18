@@ -17,15 +17,10 @@ GitHub 커뮤니티 준수 사항
 ----------
 
 * [개요와 목적](#overview-and-purpose)
-
 * [서약](#pledge)
-
 * [표준](#standards)
-
 * [계약 이행](#enforcement)
-
 * [GitHub 직원에게 연락](#contacting-github-staff)
-
 * [법적 고지 사항](#legal-notices)
 
 [개요와 목적](#overview-and-purpose)

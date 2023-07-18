@@ -17,11 +17,8 @@ GitHub バグ報奨金プログラムの法的免責事項
 ----------
 
 * [概要](#summary)
-
 * [1.免責条項](#1-safe-harbor-terms)
-
 * [2.第三者の免責条項](#2-third-party-safe-harbor)
-
 * [3.他のサイト ポリシーの選択的撤回](#3-limited-waiver-of-other-site-polices)
 
 [概要](#summary)

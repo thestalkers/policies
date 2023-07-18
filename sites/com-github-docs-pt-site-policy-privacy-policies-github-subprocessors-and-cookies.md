@@ -17,7 +17,6 @@ Neste artigo
 ----------
 
 * [Subprocessadores do GitHub](#github-subprocessors)
-
 * [Cookies no GitHub](#cookies-on-github)
 
 Data de início de vigência: **1º de setembro de 2022**

@@ -17,15 +17,10 @@ GitHub 지원자 개인정보보호정책
 ----------
 
 * [당사가 수집하는 지원자 개인 정보는 무엇인가요?](#what-candidate-personal-information-do-we-collect)
-
 * [당사가 수집한 지원자 개인 정보는 어떻게 사용하나요?](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [당사는 귀하의 지원자 개인 정보를 어떻게 공유하나요?](#how-do-we-share-your-candidate-personal-information)
-
 * [귀하의 지원자 개인 정보에 대한 귀하의 권리](#your-rights-to-your-candidate-personal-information)
-
 * [당사가 귀하의 지원자 개인 정보를 보유하는 기간은 얼마나 되나요?](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [본 방침에 대한 변경](#changes-to-this-policy)
 
 발효일: 2021년 3월 8일

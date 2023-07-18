@@ -17,15 +17,10 @@ GitHub 応募者プライバシー ポリシー
 ----------
 
 * [当社が収集する応募者の個人情報](#what-candidate-personal-information-do-we-collect)
-
 * [収集した応募者の個人情報を当社はどのように使用するか](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [当社が応募者の個人情報を共有する方法](#how-do-we-share-your-candidate-personal-information)
-
 * [応募者の個人情報に対する権利](#your-rights-to-your-candidate-personal-information)
-
 * [当社が応募者の個人情報を保持する期間](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [本ポリシーの変更](#changes-to-this-policy)
 
 発効日: 2021 年 3 月 8 日

@@ -17,11 +17,8 @@ Neste artigo
 ----------
 
 * [Recurso e Restabelecimento](#appeal-and-reinstatement)
-
 * [O que são recursos e restabelecimentos?](#what-are-appeals-and-reinstatements)
-
 * [Como isso funciona](#how-this-works)
-
 * [Transparência](#transparency)
 
 [Recurso e Restabelecimento](#appeal-and-reinstatement)

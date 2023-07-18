@@ -17,17 +17,11 @@ Neste artigo
 ----------
 
 * [O que é isso?](#what-is-this)
-
 * [O que é uma solicitação de remoção governamental completa?](#what-is-a-complete-government-takedown-request)
-
 * [O que acontece quando recebemos uma solicitação de remoção completa de um governo?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [Por que publicamos notificações de remoção publicamente?](#why-do-we-publicly-post-takedown-notices)
-
 * [O que significa se postarmos uma notificação em nosso repositório de remoções governamentais?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [Remoções governamentais com base em violações dos Termos de Serviço do GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [Relatórios de transparência](#transparency-reporting)
 
 [O que é isso?](#what-is-this)

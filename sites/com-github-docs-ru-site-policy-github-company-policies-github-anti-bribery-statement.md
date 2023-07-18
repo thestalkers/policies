@@ -17,9 +17,7 @@
 ----------
 
 * [Политика GitHub, запрещающая взяточничество](#github-policies-prohibiting-bribery)
-
 * [Тренинги для наших сотрудников](#training-for-our-employees)
-
 * [Вовлечение наших партнеров](#engaging-our-partners)
 
 GitHub придерживается этических принципов ведения бизнеса, в том числе запрещает взяточничество и коррупцию. Как объясняет [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption), издержки коррупции носят

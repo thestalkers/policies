@@ -17,39 +17,22 @@ Neste artigo
 ----------
 
 * [1. DEFINIÇÕES](#1definitions)
-
 * [2. PROPÓSITO E OUTORGA DE LICENÇA](#2purpose-and-license-grant)
-
 * [3. RESTRIÇÕES E RESPONSABILIDADES](#3restrictions-and-responsibilities)
-
 * [4. REMOÇÕES](#4takedowns)
-
 * [5. DECLARAÇÕES, GARANTIAS E ACORDOS](#5representations-warranties-and-covenants)
-
 * [6. PREÇOS E CONDIÇÕES DE PAGAMENTO](#6pricing-and-payment-terms)
-
 * [7. PROPRIEDADE](#7ownership)
-
 * [8. LIMITAÇÃO DE RESPONSABILIDADE](#8limitation-of-liability)
-
 * [9. INDENIZAÇÃO](#9indemnification)
-
 * [10. RESCISÃO](#10termination)
-
 * [11. MODIFICAÇÃO](#11modification)
-
 * [12. CESSÃO; ACORDO INTEGRAL; REVISÕES](#12assignment-entire-agreement-revisions)
-
 * [13. INDEPENDÊNCIA DAS CLÁUSULAS](#13severability)
-
 * [14. RELACIONAMENTO ENTRE AS PARTES](#14-relationship-of-the-parties)
-
 * [15. NOTIFICAÇÃO](#15-notice)
-
 * [16. LEI APLICÁVEL](#16-governing-law)
-
 * [17. RESTRIÇÕES DE EXPORTAÇÃO](#17-export-restrictions)
-
 * [18. DADOS DE USO](#18--usage-data)
 
 **ESTES TERMOS E CONDIÇÕES (O “CONTRATO”) REGEM SUA PARTICIPAÇÃO NO PROGRAMA DO MARKETPLACE DO GITHUB. AO INSCREVER-SE PARA PARTICIPAR DO PROGRAMA DO MARKETPLACE OU CLICAR EM “ACEITO” ABAIXO, VOCÊ CONFIRMA QUE COMPREENDE ESTE CONTRATO E ACEITA TODOS OS TERMOS E CONDIÇÕES. SE VOCÊ ESTÁ CELEBRANDO ESTE CONTRATO EM NOME DE UMA EMPRESA OU OUTRA PESSOA JURÍDICA, VOCÊ DECLARA QUE TEM AUTORIDADE LEGAL PARA VINCULAR A ENTIDADE A ESTE CONTRATO; NESSE CASO, “VOCÊ” SIGNIFICARÁ A ENTIDADE QUE VOCÊ REPRESENTA.**

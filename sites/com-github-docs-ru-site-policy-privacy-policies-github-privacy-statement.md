@@ -17,39 +17,22 @@
 ----------
 
 * [Короткая версия](#the-short-version)
-
 * [Сводная информация](#summary)
-
 * [Заявление GitHub о конфиденциальности](#github-privacy-statement)
-
 * [Кто несет ответственность за обработку вашей информации?](#who-is-responsible-for-the-processing-of-your-information)
-
 * [Действия GitHub от вашего имени](#github-acting-on-your-behalf)
-
 * [Какую информацию собирает GitHub](#what-information-github-collects)
-
 * [Как GitHub использует вашу информацию](#how-github-uses-your-information)
-
 * [Как мы делимся информацией, которую собираем](#how-we-share-the-information-we-collect)
-
 * [Возможности выбора относительно обработки нами ваших личных данных](#your-choices-regarding-our-processing-of-your-personal-data)
-
 * [Наше использование файлов cookie и технологий отслеживания](#our-use-of-cookies-and-tracking-technologies)
-
 * [Хранение личных данных](#retention-of-personal-data)
-
 * [Как GitHub защищает вашу информацию](#how-github-secures-your-information)
-
 * [Изменения в нашем Заявлении о конфиденциальности](#changes-to-our-privacy-statement)
-
 * [Лицензия](#license)
-
 * [Связь с GitHub](#contacting-github)
-
 * [Версии на других языках](#translations)
-
 * [Уведомление о защите данных в Европе](#european-data-protection-rights-notice)
-
 * [Конфиденциальность данных штата США](#us-state-data-privacy)
 
 Дата вступления в силу: 15 декабря 2022 г.

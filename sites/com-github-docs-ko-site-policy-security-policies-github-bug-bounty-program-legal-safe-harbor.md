@@ -17,11 +17,8 @@ GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버
 ----------
 
 * [요약](#summary)
-
 * [1. 세이프 하버 조건](#1-safe-harbor-terms)
-
 * [2. 제3자에 의한 세이프 하버](#2-third-party-safe-harbor)
-
 * [3. 다른 사이트 정책의 제한 포기](#3-limited-waiver-of-other-site-polices)
 
 [요약](#summary)

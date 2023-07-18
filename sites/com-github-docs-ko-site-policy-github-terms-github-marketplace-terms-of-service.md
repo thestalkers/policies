@@ -17,23 +17,14 @@ GitHub Marketplace 서비스 약관
 ----------
 
 * [A. GitHub.com 서비스 약관](#a-githubcoms-terms-of-service)
-
 * [B. 사용 요구 사항](#b-use-requirements)
-
 * [C. 개발자 제품 및 제품 제공자](#c-developer-products-and-product-providers)
-
 * [D. 대금 지급, 청구 일정표 및 취소](#d-payment-billing-schedule-and-cancellation)
-
 * [E. 귀하의 데이터와 GitHub 개인정보보호정책](#e-your-data-and-githubs-privacy-policy)
-
 * [F. 개발자 제품에 대한 권리](#f-rights-to-developer-products)
-
 * [G. 개발자 제품에 대한 업데이트](#g-updates-to-developer-products)
-
 * [H. 개발자 제품 차단](#h-developer-product-blocking)
-
 * [I. 부인, 책임의 제한, 면제 및 면책](#i-disclaimer-limitation-of-liability-release-and-indemnification)
-
 * [J. 기타](#j-miscellanea)
 
 GitHub Marketplace("Marketplace")를 소개합니다! 여러분을 뵙게 되어 매우 기쁩니다. GitHub Marketplace에 액세스하거나 이를 사용하기 전에 본 서비스 약관("Marketplace 약관")을 주의하여 읽으시기 바랍니다. GitHub Marketplace는 GitHub.com 계정과 함께 사용할 수 있는 (무료 또는 유료의) 개발자 앱 또는 작업("개발자 제품")을 선택할 수 있는 플랫폼입니다. 개발자 제품은 GitHub, Inc.("GitHub", "당사")에서 제공하지만 GitHub 또는 제3자 소프트웨어 제공업체에서 개발하고 유지 관리할 수 있습니다. 개발자 제품을 선택하거나 사용하는 경우에는 본 Marketplace 약관이 적용되고 해당 요금이 부과되며, 해당 개발자 제품의 제3자 라이선스 허여자("제품 제공자")가 제공하는 추가 약관에 동의해야 할 수도 있습니다.

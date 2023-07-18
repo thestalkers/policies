@@ -17,9 +17,7 @@ DMCA 抗辩通知提交指南
 ----------
 
 * [开始前](#before-you-start)
-
 * [您的抗辩通知必须...](#your-counter-notice-must)
-
 * [如何提交抗辩通知](#how-to-submit-your-counter-notice)
 
 本指南说明了 GitHub 处理 DMCA 下架请求抗辩通知所需的信息。 如果您对 DMCA 是什么或 GitHub 如何处理 DMCA 下架请求有更多常规问题，请参阅我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)。

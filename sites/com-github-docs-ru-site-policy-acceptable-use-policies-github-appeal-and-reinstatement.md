@@ -17,11 +17,8 @@
 ----------
 
 * [Апелляция и восстановление](#appeal-and-reinstatement)
-
 * [Что такое апелляция и восстановление?](#what-are-appeals-and-reinstatements)
-
 * [Как это работает](#how-this-works)
-
 * [Прозрачность](#transparency)
 
 [Апелляция и восстановление](#appeal-and-reinstatement)

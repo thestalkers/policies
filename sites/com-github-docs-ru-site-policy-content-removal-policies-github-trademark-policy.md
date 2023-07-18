@@ -17,13 +17,9 @@
 ----------
 
 * [Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)
-
 * [Что не является нарушением политики GitHub в отношении товарных знаков?](#what-is-not-a-github-trademark-policy-violation)
-
 * [Как GitHub реагирует на сообщения о нарушениях политики в отношении товарных знаков?](#how-does-github-respond-to-reported-trademark-policy-violations)
-
 * [Как сообщить о нарушении политики в отношении товарных знаков?](#how-do-i-report-a-trademark-policy-violation)
-
 * [Какая информация требуется при сообщении о нарушениях политики в отношении товарных знаков?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)

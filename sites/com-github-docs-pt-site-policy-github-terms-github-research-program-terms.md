@@ -17,19 +17,12 @@ Neste artigo
 ----------
 
 * [R. Seu feedback](#a-your-feedback)
-
 * [B. Confidencialidade](#b-confidentiality)
-
 * [C. Reserva de direitos](#c-reservation-of-rights)
-
 * [D. Privacidade](#d-privacy)
-
 * [E. Termos de Serviços e Software do GitHub](#e-github-services-and-software-terms)
-
 * [F. Aviso de isenção de responsabilidade de garantias](#f-disclaimer-of-warranties)
-
 * [G. Limitação de responsabilidade](#g-limitation-of-liability)
-
 * [H. Disposições Gerais](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o “Programa”)! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub (“Contrato”).

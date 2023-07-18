@@ -17,15 +17,10 @@
 ----------
 
 * [Какую личную информацию о кандидатах мы собираем?](#what-candidate-personal-information-do-we-collect)
-
 * [Как мы используем Личную информацию кандидата, которую мы собираем?](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [Как мы передаем вашу Личную информацию кандидата?](#how-do-we-share-your-candidate-personal-information)
-
 * [Ваши права на Личную информацию кандидата](#your-rights-to-your-candidate-personal-information)
-
 * [Как долго мы храним вашу Личную информацию кандидата?](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [Внесение изменений в эту Политику](#changes-to-this-policy)
 
 Дата вступления в силу: 8 марта 2021 г.

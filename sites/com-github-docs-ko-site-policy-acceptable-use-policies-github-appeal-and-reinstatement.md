@@ -17,11 +17,8 @@ GitHub 이의 제기 및 복원
 ----------
 
 * [이의 제기 및 복원](#appeal-and-reinstatement)
-
 * [이의 제기 및 복원이란 무엇인가요?](#what-are-appeals-and-reinstatements)
-
 * [운영 방식](#how-this-works)
-
 * [투명성](#transparency)
 
 [이의 제기 및 복원](#appeal-and-reinstatement)

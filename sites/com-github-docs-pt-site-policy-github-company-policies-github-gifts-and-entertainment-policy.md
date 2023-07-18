@@ -17,13 +17,9 @@ Neste artigo
 ----------
 
 * [Políticas da empresa](#company-policies)
-
 * [Exemplos de presentes aceitáveis e inaceitáveis](#examples-of-acceptable-and-unacceptable-gifts)
-
 * [Processo](#process)
-
 * [Consequências](#consequences)
-
 * [Mais informações](#more-information)
 
 O GitHub reconhece que nossos negócios se baseiam em relações positivas e transparentes. Embora as interações informais e a troca de presentes possam fazer parte do desenvolvimento dessas relações e possam até ser consideradas costumeiras em alguns países, precisamos garantir que estamos seguindo as leis antissuborno. Temos a obrigação legal de nos comportarmos de forma ética, inclusive não usando tais interações para criar uma vantagem especial nem influenciar uma negociação.

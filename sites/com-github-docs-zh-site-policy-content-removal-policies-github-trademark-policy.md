@@ -17,13 +17,9 @@ GitHub 商标政策
 ----------
 
 * [哪些行为违反 GitHub 商标政策？](#what-is-a-github-trademark-policy-violation)
-
 * [哪些行为并不违反 GitHub 商标政策？](#what-is-not-a-github-trademark-policy-violation)
-
 * [GitHub 如何应对被举报为违反商标政策的行为？](#how-does-github-respond-to-reported-trademark-policy-violations)
-
 * [如何举报违反商标政策的行为？](#how-do-i-report-a-trademark-policy-violation)
-
 * [举报违反商标政策的行为时需要提供哪些信息？](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [哪些行为违反 GitHub 商标政策？](#what-is-a-github-trademark-policy-violation)

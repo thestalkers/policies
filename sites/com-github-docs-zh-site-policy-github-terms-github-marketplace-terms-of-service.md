@@ -17,23 +17,14 @@ GitHub Marketplace 服务条款
 ----------
 
 * [A. GitHub.com 服务条款](#a-githubcoms-terms-of-service)
-
 * [B. 用户要求](#b-use-requirements)
-
 * [C. 开发人员产品和产品提供商](#c-developer-products-and-product-providers)
-
 * [D. 付款、计费计划和取消](#d-payment-billing-schedule-and-cancellation)
-
 * [E. 您的数据和 GitHub 隐私政策](#e-your-data-and-githubs-privacy-policy)
-
 * [F. 对开发人员产品的权利](#f-rights-to-developer-products)
-
 * [G. 开发人员产品更新](#g-updates-to-developer-products)
-
 * [H. 开发人员产品拦截](#h-developer-product-blocking)
-
 * [I. 免责声明；责任限制；免除和赔偿](#i-disclaimer-limitation-of-liability-release-and-indemnification)
-
 * [J. 其他](#j-miscellanea)
 
 欢迎使用 GitHub Marketplace（以下简称“Marketplace”）！ 我们很高兴在这里遇到你。 在访问或使用 GitHub Marketplace 之前，请仔细阅读以下服务条款（以下简称“Marketplace 条款”）。 GitHub Marketplace 是一个平台，供您选择可通过您的 GitHub.com 帐户使用的开发人员应用或操作（免费或付费）（以下简称“开发人员产品”）。 尽管开发人员产品由 GitHub, Inc.（以下简称“GitHub”或“我们”）提供，但 GitHub 或第三方软件提供商都可以开发和维护开发人员产品。 您对开发人员产品的选择或使用受这些 Marketplace 条款的约束，并可能需要支付适当的费用，而且您可能需要同意开发人员产品的第三方许可方（以下简称“产品提供商”）提出的额外条款。

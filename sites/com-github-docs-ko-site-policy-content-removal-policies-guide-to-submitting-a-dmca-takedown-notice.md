@@ -17,11 +17,8 @@ DMCA 게시 중단 통지 제출 가이드
 ----------
 
 * [시작하기 전에](#before-you-start)
-
 * [신고는 다음과 같아야 합니다.](#your-complaint-must-)
-
 * [우회 방지 기술에 관한 위반 신고](#complaints-about-anti-circumvention-technology)
-
 * [위반 신고 제출 방법](#how-to-submit-your-complaint)
 
 이 가이드에서는 DMCA 게시 중단 요청 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다. DMCA가 무엇인지 또는 GitHub가 DMCA 게시 중단 요청을 어떻게 처리하는지에 대한 일반적인 추가 질문이 있는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하십시오.

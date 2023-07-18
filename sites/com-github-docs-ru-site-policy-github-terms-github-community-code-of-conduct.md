@@ -17,15 +17,10 @@
 ----------
 
 * [Обзор и цель](#overview-and-purpose)
-
 * [Обязательство](#pledge)
-
 * [Стандарты](#standards)
-
 * [Обеспечение исполнения](#enforcement)
-
 * [Обращение к персоналу GitHub](#contacting-github-staff)
-
 * [Юридические уведомления](#legal-notices)
 
 [Обзор и цель](#overview-and-purpose)

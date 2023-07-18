@@ -17,15 +17,10 @@ Neste artigo
 ----------
 
 * [1. Requisitos básicos para participar – incluindo o Código de Conduta do Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-
 * [2. Fotos](#2-pictures)
-
 * [3. Risco, responsabilidade e indenização](#3-risk-liability-and-indemnity)
-
 * [4. Rescisão](#4-termination)
-
 * [5. Direito aplicável e foro](#5-choice-of-law-and-venue)
-
 * [6. Termos gerais](#6-miscellaneous-terms)
 
 Ao responder ao convite ou participar de um evento do GitHub, incluindo qualquer dos eventos ou atividades organizados pelo GitHub em associação com o evento do GitHub (coletivamente, o “Evento”), você indica que leu, entendeu e concorda com os seguintes Termos e Condições do Evento.

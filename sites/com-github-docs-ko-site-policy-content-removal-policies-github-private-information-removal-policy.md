@@ -17,15 +17,10 @@ GitHub 개인 정보 제거 정책
 ----------
 
 * [개인 정보란?](#what-is-private-information)
-
 * [유의 사항](#things-to-know)
-
 * [이 절차의 운영 방식](#how-does-this-actually-work)
-
 * [개인 정보 제거 정책 요청 보내기](#sending-a-private-information-removal-request)
-
 * [요청 제출 방법](#how-to-submit-your-request)
-
 * [분쟁](#disputes)
 
 이 개인 정보 제거 프로세스는 액세스 자격 증명 노출로 보안이 위험에 처한 경우와 같이 [GitHub 서비스 약관](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)을 위반하는 위험성 높은 콘텐츠에 한해 예외적 서비스로 제공됩니다. 이 가이드에서는 리포지토리에서의 개인 정보 제거 요청 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다.

@@ -17,9 +17,7 @@ GitHub 뇌물 방지 방침
 ----------
 
 * [GitHub 뇌물 방지 정책](#github-policies-prohibiting-bribery)
-
 * [당사 직원에 대한 교육](#training-for-our-employees)
-
 * [당사 파트너의 참여](#engaging-our-partners)
 
 GitHub는 뇌물 및 부패 금지를 포함한 제반 조치를 통해 윤리적인 업무 관행을 준수하려는 당사의 약속을 지지합니다. [국제투명성기구](https://www.transparency.org/what-is-corruption#costs-of-corruption)에서 설명하는 것처럼 부패 비용은 다음과 같은 범주로 구분됩니다.

@@ -17,15 +17,10 @@ GitHub 오픈 소스 애플리케이션 계약조건
 ----------
 
 * [GitHub에 연결](#connecting-to-github)
-
 * [오픈 소스 라이선스 및 표시](#open-source-licenses-and-notices)
-
 * [GitHub의 로고](#githubs-logos)
-
 * [개인 정보 보호](#privacy)
-
 * [추가 서비스](#additional-services)
-
 * [기타](#miscellanea)
 
 이 GitHub 오픈 소스 애플리케이션 계약조건("애플리케이션 약관")은 GitHub Desktop™ 및 관련 설명서("소프트웨어") 등 귀하의 GitHub 애플리케이션 사용과 관련하여 귀하(개인 또는 단체를 대표하는 자)와 GitHub, Inc. 간의 법적 계약서입니다. 본 애플리케이션 약관은 소프트웨어의 실행 코드 버전에 적용됩니다. 소프트웨어의 소스 코드는 오픈 소스 소프트웨어 라이선스 계약에 따라 별도로 제공되며 무료입니다. 본 애플리케이션 약관의 모든 조건에 동의하지 않는다면 소프트웨어를 다운로드, 설치, 사용 또는 복사하지 마십시오.

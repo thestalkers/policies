@@ -17,39 +17,22 @@ GitHub 개인정보취급방침
 ----------
 
 * [짧은 버전](#the-short-version)
-
 * [요약](#summary)
-
 * [GitHub 개인정보취급방침](#github-privacy-statement)
-
 * [귀하의 정보 처리를 누가 책임집니까?](#who-is-responsible-for-the-processing-of-your-information)
-
 * [GitHub가 귀하를 대신하여 행동하는 경우](#github-acting-on-your-behalf)
-
 * [GitHub가 수집하는 정보](#what-information-github-collects)
-
 * [GitHub가 귀하의 정보를 사용하는 방법](#how-github-uses-your-information)
-
 * [당사가 수집한 정보를 공유하는 방법](#how-we-share-the-information-we-collect)
-
 * [귀하의 개인 데이터에 대한 당사의 처리에 관한 귀하의 선택지](#your-choices-regarding-our-processing-of-your-personal-data)
-
 * [당사의 쿠키 사용 및 추적 기술](#our-use-of-cookies-and-tracking-technologies)
-
 * [개인 데이터의 보관](#retention-of-personal-data)
-
 * [GitHub가 귀하의 정보를 보호하는 방법](#how-github-secures-your-information)
-
 * [GitHub 개인정보처리방침 변경 사항](#changes-to-our-privacy-statement)
-
 * [사용권](#license)
-
 * [GitHub에 문의](#contacting-github)
-
 * [번역](#translations)
-
 * [유럽 데이터 보호 권한 공지](#european-data-protection-rights-notice)
-
 * [미국 주 데이터 개인 정보](#us-state-data-privacy)
 
 발효일: 2022년 12월 15일

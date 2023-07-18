@@ -17,13 +17,9 @@ GitHub 커뮤니티 지침
 ----------
 
 * [강력한 커뮤니티 유지](#maintaining-a-strong-community)
-
 * [귀하에게 불쾌감을 주는 것 또는 사람이 있다면 어떻게 해야 할까요?](#what-if-something-or-someone-offends-you)
-
 * [누군가 GitHub의 정책을 위반하면 어떻게 되나요?](#what-happens-if-someone-violates-githubs-policies)
-
 * [이의 제기 및 복원](#appeal-and-reinstatement)
-
 * [법적 고지 사항](#legal-notices)
 
 전 세계 수백만 명의 개발자들은 GitHub에서 공개 소스와 비공개 소스를 모두 포함하는 수백만 개의 프로젝트를 호스팅합니다. 다행스럽게도 GitHub 커뮤니티는 매일 개발자 커뮤니티에서 협업을 가능케 하는 역할을 할 수 있습니다. 이 역할은 우리가 가볍게 여기지 않는 책임에 속합니다. 우리에게는 이 커뮤니티를 자랑스러워할 만한 커뮤니티로 만들 흥미진진한 기회가 있습니다.

@@ -17,9 +17,7 @@ GitHub 사용자 이름 정책
 ----------
 
 * [원하는 사용자 이름이 이미 사용 중인 이름이라면 어떻게 해야 합니까?](#what-if-the-username-i-want-is-already-taken)
-
 * [상표 정책](#trademark-policy)
-
 * [이름 무단 점유 정책](#name-squatting-policy)
 
 GitHub 계정 이름은 선착순으로 사용할 수 있으며, 즉각적인 활성 사용을 위한 것입니다.

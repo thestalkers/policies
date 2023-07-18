@@ -17,39 +17,22 @@ GitHub Marketplace 開発者契約
 ----------
 
 * [1.定義](#1definitions)
-
 * [2.目的およびライセンスの付与](#2purpose-and-license-grant)
-
 * [3.制限事項と責任](#3restrictions-and-responsibilities)
-
 * [4.削除](#4takedowns)
-
 * [5.表明、保証、および誓約](#5representations-warranties-and-covenants)
-
 * [6.価格および支払条件](#6pricing-and-payment-terms)
-
 * [7.所有権](#7ownership)
-
 * [8.責任制限](#8limitation-of-liability)
-
 * [9.補償](#9indemnification)
-
 * [10.契約終了](#10termination)
-
 * [11.変更](#11modification)
-
 * [12.譲渡、完全なる合意、改訂](#12assignment-entire-agreement-revisions)
-
 * [13.可分性](#13severability)
-
 * [14.各当事者の関係](#14-relationship-of-the-parties)
-
 * [15.注意](#15-notice)
-
 * [16.準拠法](#16-governing-law)
-
 * [17.輸出規制](#17-export-restrictions)
-
 * [18.使用状況データ](#18--usage-data)
 
 **以下の契約条件 (以下「本契約」といいます) は、お客様の GitHub の Marketplace プログラムへの参加について規定するものです。Marketplace プログラムへの参加登録を行うか、または以下の [同意する] をクリックすることにより、お客様は本契約を理解し、そのすべての契約条件を受け入れることを確認したことになります。お客様が、会社またはその他の法人を代表して本契約を締結する場合、お客様は、その法人を本契約に拘束する法的権限を持つことを表明するものとします。その場合の「お客様」とは、あなたが代表する法人のことを意味するものとします。**

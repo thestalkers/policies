@@ -17,7 +17,6 @@ GitHub 보조 처리자 및 쿠키
 ----------
 
 * [GitHub 보조 처리자](#github-subprocessors)
-
 * [GitHub의 쿠키](#cookies-on-github)
 
 발효일: **2022년 9월 1일**

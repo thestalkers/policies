@@ -17,17 +17,11 @@
 ----------
 
 * [Что это такое?](#what-is-this)
-
 * [Что такое полный запрос правительства на удаление контента?](#what-is-a-complete-government-takedown-request)
-
 * [Что происходит, когда мы получаем полный запрос на удаление от правительства?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [Почему мы публично размещаем уведомления об удалении?](#why-do-we-publicly-post-takedown-notices)
-
 * [Что значит, если мы опубликуем уведомление в нашем репозитории gov-takedowns?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [Правительственные уведомления об удалении на основании нарушений Условий обслуживания GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [Отчетность о прозрачности](#transparency-reporting)
 
 [Что это такое?](#what-is-this)

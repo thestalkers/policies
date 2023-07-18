@@ -17,31 +17,18 @@ GitHub 추가 제품 및 기능 약관
 ----------
 
 * [Actions](#actions)
-
 * [Advanced Security](#advanced-security)
-
 * [Advisory Database](#advisory-database)
-
 * [Codespaces](#codespaces)
-
 * [경쟁 벤치마킹](#competitive-benchmarking)
-
 * [연결](#connect)
-
 * [GitHub Copilot](#github-copilot)
-
 * [GitHub Enterprise Importer](#github-enterprise-importer)
-
 * [npm](#npm)
-
 * [패키지](#packages)
-
 * [Pages](#pages)
-
 * [미리 보기](#previews)
-
 * [Sponsors 프로그램](#sponsors-program)
-
 * [SQL Server Images](#sql-server-images)
 
 버전 유효 날짜: 2022년 11월 3일

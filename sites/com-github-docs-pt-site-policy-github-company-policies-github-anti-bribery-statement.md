@@ -17,9 +17,7 @@ Neste artigo
 ----------
 
 * [Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
-
 * [Treinamento para nossos funcionários](#training-for-our-employees)
-
 * [Engajamento dos parceiros](#engaging-our-partners)
 
 O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são

@@ -17,9 +17,7 @@ Neste artigo
 ----------
 
 * [Política de Remoção de DMCA](#dmca-takedown-policy)
-
 * [Política de Marcas Registradas do GitHub](#github-trademark-policy)
-
 * [Política de Remoção de Informações Privadas do GitHub](#github-private-information-removal-policy)
 
 Entendemos que conteúdo privado, protegido por direitos autorais ou marca registrada pode ser publicado no GitHub, acidentalmente ou de forma deliberada, às vezes em repositórios que não são de sua propriedade. Como a natureza desse conteúdo varia e em virtude das diferentes leis aplicáveis, cada categoria tem seus próprios requisitos de denúncia distintos descritos em nossas políticas.

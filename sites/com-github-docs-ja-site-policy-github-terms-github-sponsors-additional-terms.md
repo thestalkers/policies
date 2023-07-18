@@ -17,17 +17,11 @@ GitHub スポンサーの追加条件
 ----------
 
 * [1.定義](#1-definitions)
-
 * [1. 許可される使用](#1-acceptable-use)
-
 * [3.支援対象開発者の義務](#3-sponsored-developer-obligations)
-
 * [4.財務条件](#4-financial-terms)
-
 * [5.表明と保証、責任の制限、補償](#5-representations-and-warranties-limitation-of-liability-indemnification)
-
 * [6.契約の期間および終了。](#6-term-and-termination)
-
 * [7.雑則](#7-miscellaneous)
 
 GitHub スポンサー プログラム (以下「プログラム」といいます) には、[GitHub サービス条件](/ja/site-policy/github-terms/github-terms-of-service) (以下「契約」といいます)、および以下の追加条件が (以下「追加条件」といいます) が適用されます。 本契約に違反する GitHub スポンサー プログラムの使用は、本追加条件の違反にもなります。 使用されている用語のうち以下に定義のないものについては、本契約における定義が適用されます。 GitHub スポンサー プログラムの本追加条件は、GitHub とプログラムの「支援対象開発者」であるお客様との間の関係について説明します。 本追加条件は、お客様が同意した日付において発効します (以下「発効日」といいます)。

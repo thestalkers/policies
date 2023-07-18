@@ -17,19 +17,12 @@ GitHub Research 프로그램 약관
 ----------
 
 * [A. 피드백](#a-your-feedback)
-
 * [B. 비밀 유지](#b-confidentiality)
-
 * [C. 권리 보유](#c-reservation-of-rights)
-
 * [D. 개인 정보 보호](#d-privacy)
-
 * [E. GitHub 서비스 및 소프트웨어 약관](#e-github-services-and-software-terms)
-
 * [F. 보증의 부인](#f-disclaimer-of-warranties)
-
 * [G. 책임의 제한](#g-limitation-of-liability)
-
 * [H. 기타](#h-miscellaneous)
 
 GitHub Research 프로그램("프로그램")에 오신 것을 환영합니다! 참가하려면 특별한 약관 집합인 GitHub Research 프로그램 계약("계약")에 동의해야 합니다.

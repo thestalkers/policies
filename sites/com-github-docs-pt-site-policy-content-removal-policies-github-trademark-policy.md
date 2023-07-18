@@ -17,13 +17,9 @@ Neste artigo
 ----------
 
 * [O que é uma Violação da Política de Marcas Registradas do GitHub?](#what-is-a-github-trademark-policy-violation)
-
 * [O que não se trata de uma Violação da Política de Marcas Registradas do GitHub?](#what-is-not-a-github-trademark-policy-violation)
-
 * [Como o GitHub responde a violações da política de marcas registradas denunciadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
-
 * [Como faço para denunciar uma violação da política de marcas registradas?](#how-do-i-report-a-trademark-policy-violation)
-
 * [Quais informações são necessárias ao denunciar violações da política de marcas registradas?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [O que é uma Violação da Política de Marcas Registradas do GitHub?](#what-is-a-github-trademark-policy-violation)

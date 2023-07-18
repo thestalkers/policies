@@ -17,17 +17,11 @@ GitHub Sponsors 추가 약관
 ----------
 
 * [1. 용어 정의.](#1-definitions)
-
 * [1. 허용 가능한 사용.](#1-acceptable-use)
-
 * [3. 후원 대상 개발자 의무.](#3-sponsored-developer-obligations)
-
 * [4. 재정적 약관.](#4-financial-terms)
-
 * [5. 진술 및 보증, 책임의 제한, 면책](#5-representations-and-warranties-limitation-of-liability-indemnification)
-
 * [6. 기간 및 해지](#6-term-and-termination)
-
 * [7. 기타.](#7-miscellaneous)
 
 GitHub Sponsors 프로그램("프로그램") 참가에는 [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)("계약")과 다음 추가 약관("추가 약관")이 적용됩니다. 계약을 위반하는 GitHub Sponsors 프로그램 사용도 본 추가 약관 위반입니다. 별도로 정의되지 않은 용어는 계약에 정의된 의미를 따릅니다. 이 GitHub Sponsors 프로그램 추가 약관은 GitHub와 프로그램의 "후원 대상 개발자(Sponsored Developer)"인 귀하 사이의 관계를 기술합니다. 추가 약관은 귀하가 약관을 수락하는 날짜에 효력이 발생합니다("발효일").

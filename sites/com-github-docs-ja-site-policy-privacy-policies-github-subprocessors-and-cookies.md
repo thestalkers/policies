@@ -17,7 +17,6 @@ GitHub の下請処理者と Cookie
 ----------
 
 * [GitHub の下請処理者](#github-subprocessors)
-
 * [GitHub の Cookie](#cookies-on-github)
 
 発効日: **2022 年 9 月 1 日**
