@@ -17,11 +17,8 @@ En este artículo
 ----------
 
 * [Resumen](#summary)
-
 * [1. Términos de Safe Harbor](#1-safe-harbor-terms)
-
 * [2. Safe Harbor de terceros.](#2-third-party-safe-harbor)
-
 * [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-polices)
 
 [Resumen](#summary)

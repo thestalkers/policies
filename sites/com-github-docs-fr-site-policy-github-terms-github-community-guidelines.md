@@ -17,13 +17,9 @@ Dans cet article
 ----------
 
 * [Soutenir une communauté forte](#maintaining-a-strong-community)
-
 * [Que faire si quelque chose ou quelqu’un vous offense ?](#what-if-something-or-someone-offends-you)
-
 * [Que se passe-t-il si quelqu’un enfreint les politiques de GitHub ?](#what-happens-if-someone-violates-githubs-policies)
-
 * [Appel et réintégration](#appeal-and-reinstatement)
-
 * [Mentions légales](#legal-notices)
 
 Des millions de développeurs à travers le monde hébergent des millions de projets (à la fois privés et open source) sur GitHub. Nous avons la chance de pouvoir contribuer chaque jour à la collaboration au sein de la communauté des développeurs, une responsabilité que nous ne prenons pas à la légère. Ensemble, nous avons tous l’opportunité de faire de cette communauté un lieu dont nous pouvons être fiers.

@@ -17,13 +17,9 @@ In diesem Artikel
 ----------
 
 * [Unternehmensrichtlinien](#company-policies)
-
 * [Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
-
 * [Prozess](#process)
-
 * [Konsequenzen](#consequences)
-
 * [Weitere Informationen](#more-information)
 
 Bei GitHub sind wir uns bewusst, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil des Aufbaus dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, und solche Interaktionen nicht zu nutzen, um uns einen besonderen Vorteil zu schaffen oder einen Geschäftsabschluss zu beeinflussen.

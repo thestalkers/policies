@@ -17,9 +17,7 @@ Dans cet article
 ----------
 
 * [Avant de commencer](#before-you-start)
-
 * [Votre avis de contestation doit...](#your-counter-notice-must)
-
 * [Comment soumettre votre avis de contestation](#how-to-submit-your-counter-notice)
 
 Ce guide décrit les informations dont GitHub a besoin pour traiter un avis de contestation d’une demande de retrait DMCA. Si vous avez des questions plus générales sur ce qu’est le DMCA ou sur la manière dont GitHub traite les demandes de retrait DMCA, veuillez consulter notre [Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy).

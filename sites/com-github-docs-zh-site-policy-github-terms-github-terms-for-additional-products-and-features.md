@@ -17,31 +17,18 @@ GitHub 附加产品和功能条款
 ----------
 
 * [Actions](#actions)
-
 * [Advanced Security](#advanced-security)
-
 * [Advisory Database](#advisory-database)
-
 * [Codespaces](#codespaces)
-
 * [竞争基准分析](#competitive-benchmarking)
-
 * [连接](#connect)
-
 * [GitHub Copilot](#github-copilot)
-
 * [GitHub Enterprise Importer](#github-enterprise-importer)
-
 * [npm](#npm)
-
 * [服务包](#packages)
-
 * [Pages](#pages)
-
 * [预览版](#previews)
-
 * [赞助商计划](#sponsors-program)
-
 * [SQL Server Images](#sql-server-images)
 
 版本生效日期：2022 年 11 月 3 日

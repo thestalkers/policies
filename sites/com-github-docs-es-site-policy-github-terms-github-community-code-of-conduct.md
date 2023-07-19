@@ -17,15 +17,10 @@ En este artículo
 ----------
 
 * [Descripción General y Finalidad](#overview-and-purpose)
-
 * [Compromiso](#pledge)
-
 * [Estándares](#standards)
-
 * [Cumplimiento](#enforcement)
-
 * [Contacto con el Personal de GitHub](#contacting-github-staff)
-
 * [Avisos legales](#legal-notices)
 
 [Descripción General y Finalidad](#overview-and-purpose)

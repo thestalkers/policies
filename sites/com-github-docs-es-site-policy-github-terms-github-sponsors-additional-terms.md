@@ -17,17 +17,11 @@ En este artículo
 ----------
 
 * [1. Definiciones.](#1-definitions)
-
 * [1. Uso Aceptable.](#1-acceptable-use)
-
 * [3. Obligaciones del Desarrollador Patrocinado.](#3-sponsored-developer-obligations)
-
 * [4. Términos Financieros.](#4-financial-terms)
-
 * [5. Declaraciones y Garantías; Limitación de Responsabilidad; Indemnización.](#5-representations-and-warranties-limitation-of-liability-indemnification)
-
 * [6. Término y Rescisión.](#6-term-and-termination)
-
 * [7. Disposiciones adicionales.](#7-miscellaneous)
 
 Su participación en el Programa de Patrocinadores de GitHub (el «Programa») está sujeta a los [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) (el «Acuerdo»), así como a los siguientes términos adicionales («Términos Adicionales»). Cualquier uso del Programa de Patrocinadores de GitHub que infrinja el Acuerdo también constituirá una infracción de estos Términos Adicionales. Los términos que se utilicen en mayúsculas, pero que no estén definidos a continuación, tendrán el significado que se les atribuye en el Acuerdo. En estos Términos Adicionales del Programa de Patrocinadores de GitHub, se describe la relación entre GitHub y usted, el «Desarrollador Patrocinado», en el Programa. Los Términos Adicionales entrarán en vigor a partir de la fecha en que los acepte («Fecha de Entrada en Vigor»).

@@ -17,43 +17,24 @@ Dans cet article
 ----------
 
 * [Résumé](#summary)
-
 * [Les Conditions Générales d’Utilisation de GitHub](#the-github-terms-of-service)
-
 * [A. Définitions](#a-definitions)
-
 * [B. Conditions relatives aux comptes](#b-account-terms)
-
 * [C Bon usage](#c-acceptable-use)
-
 * [D. Contenu Généré par l’Utilisateur](#d-user-generated-content)
-
 * [E. Dépôts Privés](#e-private-repositories)
-
 * [F. Politique en matière d’atteinte au droit d’auteur et de violation DMCA](#f-copyright-infringement-and-dmca-policy)
-
 * [G. Avis sur la Propriété Intellectuelle](#g-intellectual-property-notice)
-
 * [H. Conditions de l’API](#h-api-terms)
-
 * [I. Conditions des Produits Supplémentaires de GitHub](#i-github-additional-product-terms)
-
 * [J. Versions Bêta Préliminaires](#j-beta-previews)
-
 * [K. Paiement](#k-payment)
-
 * [L. Annulation et résiliation](#l-cancellation-and-termination)
-
 * [m. Communications avec GitHub](#m-communications-with-github)
-
 * [N. Exclusion de garantie](#n-disclaimer-of-warranties)
-
 * [O. Limitation de responsabilité](#o-limitation-of-liability)
-
 * [P. Décharge et Indemnisation](#p-release-and-indemnification)
-
 * [Q. Modifications des présentes Conditions](#q-changes-to-these-terms)
-
 * [R. Dispositions diverses](#r-miscellaneous)
 
 Merci d’utiliser GitHub ! Nous sommes contents de vous voir. Veuillez lire attentivement le présent accord sur les Conditions Générales d’Utilisation avant d’accéder à GitHub ou de l’utiliser. Comme il s’agit d’un accord très important entre nous et nos utilisateurs, nous avons essayé de le rendre aussi clair que possible. Pour votre commodité, nous avons présenté les présentes conditions sous la forme d’un bref résumé non contraignant, suivi des conditions juridiques complètes.

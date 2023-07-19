@@ -17,25 +17,15 @@ GitHub 사용 제한 정책
 ----------
 
 * [1. 법률 및 규정 준수](#1-compliance-with-laws-and-regulations)
-
 * [2. 사용자 안전](#2-user-safety)
-
 * [3. 지적 재산, 신뢰성 및 개인 정보](#3-intellectual-property-authenticity-and-private-information)
-
 * [4. GitHub에서 스팸과 허위 활동](#4-spam-and-inauthentic-activity-on-github)
-
 * [5. 사이트 액세스와 안전](#5-site-access-and-safety)
-
 * [6. 서비스 사용 제한](#6-services-usage-limits)
-
 * [7. 정보 사용 제한](#7-information-usage-restrictions)
-
 * [8. 개인 정보 보호](#8-privacy)
-
 * [9. 과도한 대역폭 사용](#9-excessive-bandwidth-use)
-
 * [10. GitHub에서의 광고](#10-advertising-on-github)
-
 * [11. 사용자 보호](#11-user-protection)
 
 **짧은 버전:** *당사는 전 세계의 다양한 협업 프로젝트를 주최하며, 해당 협업은 사용자가 신의에 따라 성실하게 협력할 수 있을 때만 잘 진행됩니다. 서비스를 사용하는 동안 귀하는 사용자 안전, 지적 재산권, 개인 정보 보호, 신뢰성 및 그 밖의 제한과 관련된 GitHub의 콘텐츠와 행위에 대한 일부 제한을 포함하는 당사의 사용 제한 정책을 준수해야 합니다. 간단히 말해 서로에게 모범이 되어야 합니다.*

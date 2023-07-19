@@ -17,13 +17,9 @@ En este artículo
 ----------
 
 * [Directivas de empresa](#company-policies)
-
 * [Ejemplos de regalos aceptables e inaceptables](#examples-of-acceptable-and-unacceptable-gifts)
-
 * [Proceso](#process)
-
 * [Consecuencias](#consequences)
-
 * [Más información](#more-information)
 
 GitHub reconoce que nuestro negocio se basa en relaciones positivas y transparentes. Si bien las interacciones informales y los intercambios de obsequios pueden ser parte del desarrollo de esas relaciones e incluso pueden considerarse habituales en algunos países, debemos asegurarnos de cumplir las leyes antisoborno. Tenemos la obligación legal de comportarnos de manera ética, lo que incluye no utilizar tales interacciones para crear una ventaja especial o influir en un acuerdo.

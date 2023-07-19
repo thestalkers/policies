@@ -17,11 +17,8 @@ In diesem Artikel
 ----------
 
 * [Einspruch und Wiederherstellung](#appeal-and-reinstatement)
-
 * [Was sind Einsprüche und Wiederherstellungen?](#what-are-appeals-and-reinstatements)
-
 * [Funktionsweise](#how-this-works)
-
 * [Transparenz](#transparency)
 
 [Einspruch und Wiederherstellung](#appeal-and-reinstatement)

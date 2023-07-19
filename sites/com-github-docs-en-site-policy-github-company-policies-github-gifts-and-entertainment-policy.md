@@ -17,13 +17,9 @@ In this article
 ----------
 
 * [Company policies](#company-policies)
-
 * [Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
-
 * [Process](#process)
-
 * [Consequences](#consequences)
-
 * [More information](#more-information)
 
 GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.

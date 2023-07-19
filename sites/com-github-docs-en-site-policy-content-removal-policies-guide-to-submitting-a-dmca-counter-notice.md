@@ -17,9 +17,7 @@ In this article
 ----------
 
 * [Before You Start](#before-you-start)
-
 * [Your Counter Notice Must...](#your-counter-notice-must)
-
 * [How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
 
 This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy).

@@ -17,7 +17,6 @@ In diesem Artikel
 ----------
 
 * [GitHub Unterauftragsverarbeiter](#github-subprocessors)
-
 * [Cookies auf GitHub](#cookies-on-github)
 
 Datum des Inkrafttretens: **1. September 2022**

@@ -17,15 +17,10 @@ In diesem Artikel
 ----------
 
 * [1. Grundvoraussetzungen für die Teilnahme – umfasst den Verhaltenskodex für Veranstaltungen](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-
 * [2. Bilder](#2-pictures)
-
 * [3. Risiko, Haftung und Schadenersatz](#3-risk-liability-and-indemnity)
-
 * [4. Kündigung](#4-termination)
-
 * [5. Rechtswahl und Gerichtsstand](#5-choice-of-law-and-venue)
-
 * [6. Verschiedenes](#6-miscellaneous-terms)
 
 Indem Sie sich zu einer GitHub Veranstaltung anmelden oder daran teilnehmen, einschließlich aller von GitHub in Verbindung mit der GitHub Veranstaltung organisierten Veranstaltungen oder Aktivitäten (zusammen die „Veranstaltung“), signalisieren Sie, dass Sie die folgenden Bedingungen für Veranstaltungen gelesen und verstanden haben und ihnen zustimmen.

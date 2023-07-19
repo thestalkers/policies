@@ -17,15 +17,10 @@ En este artículo
 ----------
 
 * [1. Requisitos básicos para asistir, incluido el Código de Conducta del Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-
 * [2. Imágenes](#2-pictures)
-
 * [3. Riesgo, responsabilidad e indemnización](#3-risk-liability-and-indemnity)
-
 * [4. Rescisión](#4-termination)
-
 * [5. Selección de legislación y fuero](#5-choice-of-law-and-venue)
-
 * [6. Otras cláusulas contractuales](#6-miscellaneous-terms)
 
 Al confirmar su asistencia a un evento de GitHub o asistir a él, incluidos cualquiera de los eventos o actividades organizados por GitHub en asociación con el evento de GitHub (colectivamente, el «Evento»), indica que ha leído, comprende y acepta los siguientes Términos y Condiciones del Evento.

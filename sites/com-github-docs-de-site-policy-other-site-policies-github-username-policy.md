@@ -17,9 +17,7 @@ In diesem Artikel
 ----------
 
 * [Was ist, wenn der gewünschte Nutzername bereits vergeben ist?](#what-if-the-username-i-want-is-already-taken)
-
 * [Markenrichtlinie](#trademark-policy)
-
 * [Richtlinie zu Name-Squatting](#name-squatting-policy)
 
 GitHub Kontonamen sind nach dem Prinzip „First come first served“ verfügbar und sind für die sofortige und aktive Nutzung vorgesehen.

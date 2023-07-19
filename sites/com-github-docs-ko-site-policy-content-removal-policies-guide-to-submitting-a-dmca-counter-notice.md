@@ -17,9 +17,7 @@ DMCA 반론 통지 제출 가이드
 ----------
 
 * [시작하기 전에](#before-you-start)
-
 * [반론 통지는 다음과 같아야 합니다.](#your-counter-notice-must)
-
 * [반론 통지 제출 방법](#how-to-submit-your-counter-notice)
 
 이 가이드에서는 DMCA 게시 중단 요청에 대한 반론 통지 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다. DMCA가 무엇인지 또는 GitHub가 DMCA 게시 중단 요청을 어떻게 처리하는지에 대한 일반적인 추가 질문이 있는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하십시오.

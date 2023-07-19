@@ -17,15 +17,10 @@ In diesem Artikel
 ----------
 
 * [Verbindung zu GitHub herstellen](#connecting-to-github)
-
 * [Open-Source-Lizenzen und Hinweise](#open-source-licenses-and-notices)
-
 * [GitHub Logos](#githubs-logos)
-
 * [Datenschutz](#privacy)
-
 * [Weitere Dienste](#additional-services)
-
 * [Vermischtes](#miscellanea)
 
 Diese Allgemeinen Geschäftsbedingungen von GitHub für Open-Source-Anwendungen („Anwendungsbedingungen“) sind eine rechtliche Vereinbarung zwischen Ihnen (entweder als Einzelperson oder im Namen einer juristischen Person) und GitHub, Inc. in Bezug auf Ihre Nutzung der Anwendungen von GitHub, wie GitHub Desktop™ und zugehörige Dokumentation („Software”). Diese Anwendungsbedingungen gelten für die ausführbare Codeversion der Software. Der Quellcode für die Software ist separat und kostenlos im Rahmen von Open-Source-Software-Lizenzvereinbarungen erhältlich. Wenn Sie nicht allen Bestimmungen dieser Anwendungsbedingungen zustimmen, dürfen Sie die Software nicht herunterladen, installieren, verwenden oder kopieren.

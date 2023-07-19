@@ -17,17 +17,11 @@ In diesem Artikel
 ----------
 
 * [Struktur, Geschäft und Lieferketten von GitHub](#githubs-structure-business-and-supply-chains)
-
 * [Richtlinien in Bezug auf moderne Sklaverei und Kinderarbeit](#policies-in-relation-to-modern-slavery-and-child-labor)
-
 * [Arbeitsgesetze und -praktiken](#labor-laws-and-practices)
-
 * [Due-Diligence-Prozesse in Bezug auf moderne Sklaverei und Kinderarbeit in seinen Geschäfts- und Lieferketten](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-
 * [Bereiche in den Geschäfts- und Lieferketten von GitHub, in denen das Risiko moderner Sklaverei und Kinderarbeit besteht, und Schritte, die GitHub unternommen hat, um dieses Risiko zu bewerten und zu steuern](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-
 * [Effektive Verhinderung von moderner Sklaverei noch Kinderarbeit in den Geschäfts- und Lieferketten von GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-
 * [Schulungen für Mitarbeiter von GitHub zu moderner Sklaverei und Menschenhandel](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018 Erklärung*

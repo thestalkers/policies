@@ -17,11 +17,8 @@ In this article
 ----------
 
 * [Summary](#summary)
-
 * [1. Safe Harbor Terms](#1-safe-harbor-terms)
-
 * [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
-
 * [3. Limited Waiver of Other Site Polices](#3-limited-waiver-of-other-site-polices)
 
 [Summary](#summary)

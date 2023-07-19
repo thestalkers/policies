@@ -17,17 +17,11 @@ In diesem Artikel
 ----------
 
 * [Was ist das?](#what-is-this)
-
 * [Was ist ein vollständiger Antrag auf Entfernen durch eine Regierung (Government Takedown)?](#what-is-a-complete-government-takedown-request)
-
 * [Was passiert, wenn wir von einer Regierung einen vollständigen Antrag auf Entfernung erhalten?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [Warum machen wir Anträge auf Entfernung öffentlich?](#why-do-we-publicly-post-takedown-notices)
-
 * [Was bedeutet es, wenn wir eine Benachrichtigung in unserem Gov-Takedowns-Repository veröffentlichen?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [Government Takedowns aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [Transparenzberichterstattung](#transparency-reporting)
 
 [Was ist das?](#what-is-this)

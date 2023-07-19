@@ -17,13 +17,9 @@ Neste artigo
 ----------
 
 * [Como manter uma comunidade forte](#maintaining-a-strong-community)
-
 * [E se algo ou alguém ofender você?](#what-if-something-or-someone-offends-you)
-
 * [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
-
 * [Recurso e Restabelecimento](#appeal-and-reinstatement)
-
 * [Notificações Legais](#legal-notices)
 
 Milhões de desenvolvedores do mundo todo hospedam milhões de projetos – tanto de código aberto quanto fechado – no GitHub. Temos a sorte de poder desempenhar um papel em permitir a colaboração em toda a comunidade de desenvolvedores todos os dias, o que é uma responsabilidade que nós não tratamos levianamente. Juntos, todos nós temos a emocionante oportunidade de fazer desta comunidade algo do qual podemos nos orgulhar.

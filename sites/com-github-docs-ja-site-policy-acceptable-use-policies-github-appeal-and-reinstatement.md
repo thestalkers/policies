@@ -17,11 +17,8 @@ GitHub の異議申し立ておよび復活
 ----------
 
 * [異議申し立ておよび復活](#appeal-and-reinstatement)
-
 * [異議申し立ておよび復活とはどのようなものですか?](#what-are-appeals-and-reinstatements)
-
 * [仕組み](#how-this-works)
-
 * [透明性](#transparency)
 
 [異議申し立ておよび復活](#appeal-and-reinstatement)

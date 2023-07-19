@@ -17,23 +17,14 @@ En este artículo
 ----------
 
 * [¿Qué son los Derechos de Uso de los Productos (DMCA)?](#what-is-the-dmca)
-
 * [Resumen de las notificaciones en virtud de la DMCA](#dmca-notices-in-a-nutshell)
-
 * [A. ¿Cómo funciona esto realmente?](#a-how-does-this-actually-work)
-
 * [B. ¿Qué hay de las bifurcaciones? (o ¿Qué es una «bifurcación»?)](#b-what-about-forks-or-whats-a-fork)
-
 * [C. ¿Qué sucede con las reclamaciones de elusión?](#c-what-about-circumvention-claims)
-
 * [D. ¿Qué sucede si, involuntariamente, se me ha pasado el periodo de realización de cambios?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
-
 * [E. Transparencia](#e-transparency)
-
 * [F. Infracción reiterada](#f-repeated-infringement)
-
 * [G. Envío de notificaciones](#g-submitting-notices)
-
 * [Obtenga más información y haga oír su voz](#learn-more-and-speak-up)
 
 Le damos la bienvenida a la Guía de GitHub sobre la Ley Estadounidense sobre Derechos de Autor en el Milenio Digital, habitualmente denominada la «DMCA». Esta página no pretende ser un manual completo sobre la ley. Sin embargo, si ha recibido una notificación de retirada en virtud de la DMCA dirigida a algún contenido que ha publicado en GitHub o si es un titular de derechos que desea emitir dicha notificación, esperamos que esta página lo ayude a entender mejor la ley, así como nuestra directivas relacionadas con su cumplimiento.

@@ -17,7 +17,6 @@ Dans cet article
 ----------
 
 * [Sous-traitants Ultérieurs de GitHub](#github-subprocessors)
-
 * [Cookies sur GitHub](#cookies-on-github)
 
 Date d’entrée en vigueur : **1 septembre 2022**

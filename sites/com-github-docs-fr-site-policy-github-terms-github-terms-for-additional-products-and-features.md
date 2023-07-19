@@ -17,31 +17,18 @@ Dans cet article
 ----------
 
 * [Actions](#actions)
-
 * [Advanced Security](#advanced-security)
-
 * [Advisory Database](#advisory-database)
-
 * [Codespaces](#codespaces)
-
 * [Point de référence concurrentiel](#competitive-benchmarking)
-
 * [Se connecter](#connect)
-
 * [GitHub Copilot](#github-copilot)
-
 * [GitHub Enterprise Importer](#github-enterprise-importer)
-
 * [npm](#npm)
-
 * [Packages](#packages)
-
 * [Pages](#pages)
-
 * [Previews](#previews)
-
 * [Programme Sponsors](#sponsors-program)
-
 * [SQL Server Images](#sql-server-images)
 
 Date d’entrée en vigueur de la version : 3 novembre 2022

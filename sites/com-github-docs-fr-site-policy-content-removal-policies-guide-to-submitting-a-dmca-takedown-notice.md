@@ -17,11 +17,8 @@ Dans cet article
 ----------
 
 * [Avant de commencer](#before-you-start)
-
 * [Votre plainte doit ...](#your-complaint-must-)
-
 * [Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
-
 * [Comment soumettre votre plainte](#how-to-submit-your-complaint)
 
 Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de retrait DMCA. Si vous avez des questions plus générales sur ce qu’est le DMCA ou sur la manière dont GitHub traite les demandes de retrait DMCA, veuillez consulter notre [Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy).

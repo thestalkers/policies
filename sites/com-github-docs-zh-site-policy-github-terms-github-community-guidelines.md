@@ -17,13 +17,9 @@ GitHub 社区指导方针
 ----------
 
 * [维护强大的社区](#maintaining-a-strong-community)
-
 * [如果某件事或某人冒犯了您，该怎么办？](#what-if-something-or-someone-offends-you)
-
 * [如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
-
 * [申诉和恢复](#appeal-and-reinstatement)
-
 * [法律声明](#legal-notices)
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。

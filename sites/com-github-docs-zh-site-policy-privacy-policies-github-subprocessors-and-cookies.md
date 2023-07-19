@@ -17,7 +17,6 @@ GitHub 次级处理者和 Cookie
 ----------
 
 * [GitHub 次级处理者](#github-subprocessors)
-
 * [GitHub 上的 Cookie](#cookies-on-github)
 
 生效日期：2022 年 9 月 1 日

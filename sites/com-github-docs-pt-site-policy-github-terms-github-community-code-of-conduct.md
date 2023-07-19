@@ -17,15 +17,10 @@ Neste artigo
 ----------
 
 * [Visão Geral e Finalidade](#overview-and-purpose)
-
 * [Compromisso](#pledge)
-
 * [Padrões](#standards)
-
 * [Imposição](#enforcement)
-
 * [Contato com a Equipe do GitHub](#contacting-github-staff)
-
 * [Notificações Legais](#legal-notices)
 
 [Visão Geral e Finalidade](#overview-and-purpose)

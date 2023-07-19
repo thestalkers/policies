@@ -17,15 +17,10 @@ In diesem Artikel
 ----------
 
 * [Überblick und Zweck](#overview-and-purpose)
-
 * [Versprechen](#pledge)
-
 * [Standards](#standards)
-
 * [Durchsetzung](#enforcement)
-
 * [Kontaktaufnahme mit GitHub Beschäftigten](#contacting-github-staff)
-
 * [Rechtliche Hinweise](#legal-notices)
 
 [Überblick und Zweck](#overview-and-purpose)

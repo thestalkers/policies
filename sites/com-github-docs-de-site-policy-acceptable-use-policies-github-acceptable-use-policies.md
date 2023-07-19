@@ -17,25 +17,15 @@ In diesem Artikel
 ----------
 
 * [1. Einhaltung von Gesetzen und Vorschriften](#1-compliance-with-laws-and-regulations)
-
 * [2. Nutzersicherheit](#2-user-safety)
-
 * [3. Geistiges Eigentum, Authentizität und private Informationen](#3-intellectual-property-authenticity-and-private-information)
-
 * [4. Spam und nicht authentische Aktivitäten auf GitHub](#4-spam-and-inauthentic-activity-on-github)
-
 * [5. Website-Zugriff und -Sicherheit](#5-site-access-and-safety)
-
 * [6. Nutzungsbeschränkungen für Dienste](#6-services-usage-limits)
-
 * [7. Einschränkungen der Informationsnutzung](#7-information-usage-restrictions)
-
 * [8. Datenschutz](#8-privacy)
-
 * [9. Übermäßige Bandbreitennutzung](#9-excessive-bandwidth-use)
-
 * [10. Werbung auf GitHub](#10-advertising-on-github)
-
 * [11. Schutz der Nutzer](#11-user-protection)
 
 **Kurzfassung:** *Wir hosten eine Vielzahl von Kooperationsprojekten aus der ganzen Welt, und diese Zusammenarbeit funktioniert nur, wenn unsere Nutzer in gutem Glauben zusammenarbeiten können. Bei der Nutzung des Dienstes müssen Sie unsere Richtlinien zur akzeptablen Nutzung einhalten, die einige Einschränkungen für Inhalt und Verhalten auf GitHub in Bezug auf Nutzersicherheit, geistiges Eigentum, Datenschutz, Authentizität und andere Einschränkungen enthalten. Kurz gesagt, wir wünschen uns einen hervorragenden Umgang miteinander.*

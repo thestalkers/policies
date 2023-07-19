@@ -17,13 +17,9 @@ En este artículo
 ----------
 
 * [Mantenimiento de una comunidad sólida](#maintaining-a-strong-community)
-
 * [¿Qué ocurre si algo o alguien lo ofende?](#what-if-something-or-someone-offends-you)
-
 * [¿Qué sucede si alguien infringe las directivas de GitHub?](#what-happens-if-someone-violates-githubs-policies)
-
 * [Apelación y restablecimiento](#appeal-and-reinstatement)
-
 * [Avisos legales](#legal-notices)
 
 Millones de desarrolladores de todo el mundo hospedan en GitHub millones de proyectos, tanto de código abierto como cerrado. Somos afortunados de poder desempeñar la función de hacer posible la colaboración entre la comunidad de desarrolladores todos los días, lo cual es una responsabilidad que no nos tomamos a la ligera. Juntos, entre todos tenemos la apasionante oportunidad de hacer que esta sea una comunidad de la que nos sintamos orgullosos.

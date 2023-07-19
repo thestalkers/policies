@@ -17,31 +17,18 @@
 ----------
 
 * [Действия](#actions)
-
 * [Расширенные функции безопасности](#advanced-security)
-
 * [Консультативная база данных](#advisory-database)
-
 * [Кодовые пространства](#codespaces)
-
 * [Конкурентное тестирование производительности](#competitive-benchmarking)
-
 * [Подключение](#connect)
-
 * [GitHub Copilot](#github-copilot)
-
 * [GitHub Enterprise Importer](#github-enterprise-importer)
-
 * [npm](#npm)
-
 * [Пакеты](#packages)
-
 * [Страницы](#pages)
-
 * [Предварительные версии](#previews)
-
 * [Спонсорская программа](#sponsors-program)
-
 * [Образы SQL Server](#sql-server-images)
 
 Дата вступления в силу версии: 3 ноября 2022 г.

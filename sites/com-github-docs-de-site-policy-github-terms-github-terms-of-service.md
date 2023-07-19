@@ -17,43 +17,24 @@ In diesem Artikel
 ----------
 
 * [Zusammenfassung](#summary)
-
 * [Die GitHub Nutzungsbedingungen](#the-github-terms-of-service)
-
 * [A. Definitionen](#a-definitions)
-
 * [B. Kontobedingungen](#b-account-terms)
-
 * [C. Akzeptable Nutzung](#c-acceptable-use)
-
 * [D. Benutzergenerierte Inhalte](#d-user-generated-content)
-
 * [E. Private Repositories](#e-private-repositories)
-
 * [F. Urheberrechtsverletzung und DMCA-Richtlinie](#f-copyright-infringement-and-dmca-policy)
-
 * [G. Hinweis zu Rechten an geistigem Eigentum](#g-intellectual-property-notice)
-
 * [H. API-Bestimmungen](#h-api-terms)
-
 * [I. Zusätzliche Produktbestimmungen von GitHub](#i-github-additional-product-terms)
-
 * [J. Beta-Vorschauen](#j-beta-previews)
-
 * [K. Zahlung](#k-payment)
-
 * [L. Auflösung und Kündigung](#l-cancellation-and-termination)
-
 * [m. Kommunikation mit GitHub](#m-communications-with-github)
-
 * [N. Ausschluss von Gewährleistungen](#n-disclaimer-of-warranties)
-
 * [O. Haftungsbeschränkung](#o-limitation-of-liability)
-
 * [P. Haftungsfreistellung und Schadenersatz](#p-release-and-indemnification)
-
 * [Q. Änderungen an diesen Nutzungsbedingungen](#q-changes-to-these-terms)
-
 * [R. Sonstiges](#r-miscellaneous)
 
 Vielen Dank für die Nutzung von GitHub! Wir freuen uns, dass Sie hier sind. Bitte lies diese Vertragsbedingungen sorgfältig durch, bevor du GitHub verwendest oder darauf zugreifst. Da es sich um einen so wichtigen Vertrag zwischen uns und unseren Nutzern handelt, haben wir uns um Klarheit bemüht. Zur besseren Übersicht haben wir diese Bedingungen in einer kurzen unverbindlichen Zusammenfassung dargestellt, gefolgt von den vollständigen rechtlichen Bedingungen.

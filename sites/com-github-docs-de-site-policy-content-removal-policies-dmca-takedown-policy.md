@@ -17,23 +17,14 @@ In diesem Artikel
 ----------
 
 * [Was sind die Produktbenutzungsrechte (DMCA)?](#what-is-the-dmca)
-
 * [DMCA-Mitteilungen in Kürze](#dmca-notices-in-a-nutshell)
-
 * [A. Wie funktioniert das eigentlich?](#a-how-does-this-actually-work)
-
 * [B. Was ist mit Abspaltungen (Forks)? (oder Was ist eine Abspaltung?)](#b-what-about-forks-or-whats-a-fork)
-
 * [C. Was ist mit Ansprüchen wegen Umgehung von Maßnahmen (Circumvention Claims)?](#c-what-about-circumvention-claims)
-
 * [D. Was passiert, wenn ich versehentlich das Zeitfenster zum Vornehmen von Änderungen verpasst habe?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
-
 * [E. Transparenz](#e-transparency)
-
 * [F. Wiederholte Verletzung](#f-repeated-infringement)
-
 * [G. Senden von Mitteilungen](#g-submitting-notices)
-
 * [Weitere Informationen und Bitte um Mitwirkung](#learn-more-and-speak-up)
 
 Willkommen beim GitHub-Leitfaden zum Digital Millennium Copyright Act, allgemein bekannt als „DMCA“. Diese Seite ist nicht als umfassende Einführung in das Gesetz gedacht. Wenn Sie jedoch zu Inhalten, die Sie auf GitHub gepostet haben, eine so genannte DMCA Takedown Notice erhalten haben oder wenn Sie ein Rechteinhaber sind, der eine solche Mitteilung herausgeben möchte, wird diese Seite hoffentlich dazu beitragen, das Gesetz anschaulich zu erläutern, ebenso wie unsere Richtlinien für dessen Einhaltung.

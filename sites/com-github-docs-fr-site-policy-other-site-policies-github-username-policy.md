@@ -17,9 +17,7 @@ Dans cet article
 ----------
 
 * [Que faire si le nom d’utilisateur que j’ai choisi est déjà pris ?](#what-if-the-username-i-want-is-already-taken)
-
 * [Politique relative aux marques](#trademark-policy)
-
 * [Politique en matière de Monopolisation de Noms](#name-squatting-policy)
 
 Les noms de comptes GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.

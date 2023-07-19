@@ -17,11 +17,8 @@ En este artículo
 ----------
 
 * [Antes de Empezar](#before-you-start)
-
 * [Su Queja Debe...](#your-complaint-must-)
-
 * [Quejas sobre la Tecnología Antielusión](#complaints-about-anti-circumvention-technology)
-
 * [Cómo Enviar su Queja](#how-to-submit-your-complaint)
 
 En esta guía se describe la información que necesita GitHub para procesar una solicitud de retirada de la DMCA. Si tiene preguntas más generales sobre qué es la DMCA o cómo procesa GitHub las solicitudes de retirada de la DMCA, consulte nuestra [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy).

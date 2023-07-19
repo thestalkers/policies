@@ -17,9 +17,7 @@ Neste artigo
 ----------
 
 * [E se o nome de usuário que eu quero já estiver em uso?](#what-if-the-username-i-want-is-already-taken)
-
 * [Política de Marcas Registradas](#trademark-policy)
-
 * [Política de Apropriação de Nomes](#name-squatting-policy)
 
 Os nomes de conta do GitHub estão disponíveis por ordem de chegada e destinam-se ao uso imediato e ativo.

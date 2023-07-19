@@ -17,11 +17,8 @@ In diesem Artikel
 ----------
 
 * [Zusammenfassung](#summary)
-
 * [1. Safe-Harbor-Bedingungen](#1-safe-harbor-terms)
-
 * [2. Safe-Harbor-Verfahren in Bezug auf Dritte](#2-third-party-safe-harbor)
-
 * [3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-polices)
 
 [Zusammenfassung](#summary)

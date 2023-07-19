@@ -17,9 +17,7 @@ Dans cet article
 ----------
 
 * [Politiques de GitHub relative à la lutte contre la corruption](#github-policies-prohibiting-bribery)
-
 * [Formation de nos collaborateurs](#training-for-our-employees)
-
 * [Engagement de nos partenaires](#engaging-our-partners)
 
 GitHub respecte son engagement en matière de pratiques commerciales éthiques, notamment en interdisant les pots-de-vin et la corruption. Comme l’explique [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption), les coûts de la corruption sont :

@@ -17,45 +17,25 @@
 ----------
 
 * [Корпоративные условия обслуживания GitHub](#github-corporate-terms-of-service)
-
 * [А. Определения](#a-definitions)
-
 * [B. Условия учетной записи](#b-account-terms)
-
 * [C. Соблюдение законов; Приемлемое использование; Конфиденциальность](#c-compliance-with-laws-acceptable-use-privacy)
-
 * [D. Ответственность за Контент; Право собственности; Лицензионные права](#d-content-responsibility-ownership-license-rights)
-
 * [Е. Частные репозитории](#e-private-repositories)
-
 * [F. Уведомление об интеллектуальной собственности](#f-intellectual-property-notice)
-
 * [G. Дополнительные условия для продуктов GitHub](#g-github-additional-product-terms)
-
 * [H. Лицензии по подписке](#h-subscription-licenses)
-
 * [I. Аффилированные лица](#i-affiliates)
-
 * [J. Оплата](#j-payment)
-
 * [K. Срок действия; Прекращение; Приостановка](#k-term-termination-suspension)
-
 * [L. Взаимодействие с GitHub](#l-communications-with-github)
-
 * [M. Ограниченная гарантия; Отказ от ответственности.](#m-limited-warranty-disclaimer)
-
 * [N. Ограничение ответственности](#n-limitations-of-liability)
-
 * [O. Организация защиты в связи с исками; Отказ от требований](#o-defense-of-claims-release)
-
 * [P. Конфиденциальность](#p-confidentiality)
-
 * [Вопрос. Профессиональные услуги](#q-professional-services)
-
 * [R. Изменения Сервиса или Условий](#r-changes-to-the-service-or-terms)
-
 * [S. Поддержка](#s-support)
-
 * [T. Прочие условия](#t-miscellaneous)
 
 *Эти условия распространяются на клиентов GitHub.com, заключивших соглашения, в которых содержится ссылка на Корпоративные условия предоставления услуг. Все остальные клиенты, работающие в коммерческих организациях или учреждениях, могут ознакомиться с текущими условиями на сайте [github.com/customer-terms](https://github.com/customer-terms).*

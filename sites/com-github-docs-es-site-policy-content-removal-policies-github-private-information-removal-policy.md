@@ -17,15 +17,10 @@ En este artículo
 ----------
 
 * [¿Qué se entiende por Información Privada?](#what-is-private-information)
-
 * [Información importante](#things-to-know)
-
 * [¿Cómo funciona esto realmente?](#how-does-this-actually-work)
-
 * [Envío de una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
-
 * [Cómo enviar su solicitud](#how-to-submit-your-request)
-
 * [Conflictos](#disputes)
 
 Ofrecemos este proceso de eliminación de información privada como un servicio excepcional solo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. En esta guía se describe la información que GitHub necesita de usted a fin de procesar una solicitud de eliminación de información privada de un repositorio.

@@ -17,7 +17,6 @@ In diesem Artikel
 ----------
 
 * [Exportvorschriften im Überblick](#export-overview)
-
 * [Häufig gestellte Fragen](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server und die Informationen, die Sie auf eines der beiden Produkte hochladen, können Handelskontrollbestimmungen unterliegen, einschließlich der US Export Administration Regulations (EAR).

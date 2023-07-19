@@ -17,7 +17,6 @@ Dans cet article
 ----------
 
 * [Code de Conduite](#code-of-conduct)
-
 * [Avoir](#credit)
 
 Les événements GitHub sont des événements communautaires destinés au développement des réseaux de contacts personnels et à la collaboration au sein de la communauté technologique.

@@ -17,9 +17,7 @@ In diesem Artikel
 ----------
 
 * [GitHub Richtlinien, die Bestechung verbieten](#github-policies-prohibiting-bribery)
-
 * [Schulungen für unsere Mitarbeiter](#training-for-our-employees)
-
 * [Einbindung unserer Partner](#engaging-our-partners)
 
 GitHub hält an unserer Verpflichtung zu ethischen Geschäftspraktiken fest, unter anderem durch das Verbot von Bestechung und Korruption. Wie [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) erklärt, verursacht Korruption folgende Arten von Kosten:

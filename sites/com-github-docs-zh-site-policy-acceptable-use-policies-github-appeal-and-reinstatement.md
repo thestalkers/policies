@@ -17,11 +17,8 @@ GitHub 申诉和恢复
 ----------
 
 * [申诉和恢复](#appeal-and-reinstatement)
-
 * [什么是申诉和恢复？](#what-are-appeals-and-reinstatements)
-
 * [运作方式](#how-this-works)
-
 * [透明度](#transparency)
 
 [申诉和恢复](#appeal-and-reinstatement)

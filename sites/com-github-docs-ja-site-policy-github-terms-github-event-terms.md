@@ -17,15 +17,10 @@ GitHub イベント条件
 ----------
 
 * [1.基本的な出席要件 - イベントの行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-
 * [2.写真](#2-pictures)
-
 * [3.リスク、責任、および免責](#3-risk-liability-and-indemnity)
-
 * [4.契約終了](#4-termination)
-
 * [5.法および裁判地の選択](#5-choice-of-law-and-venue)
-
 * [6.その他の条件](#6-miscellaneous-terms)
 
 GitHub イベントに関連して GitHub が主催するイベントまたは活動 (以下総称して「イベント」といいます) など、GitHub イベントに出欠の返事をしたり出欠することにより、お客様は以下のイベントに関する条件を読み、理解し、同意を示したことになります。

@@ -17,19 +17,12 @@ In diesem Artikel
 ----------
 
 * [A. Ihr Feedback](#a-your-feedback)
-
 * [B. Vertraulichkeit](#b-confidentiality)
-
 * [C. Eigentumsvorbehalt](#c-reservation-of-rights)
-
 * [D. Datenschutz](#d-privacy)
-
 * [E. GitHub Dienstleistungs- und Software-Bestimmungen.](#e-github-services-and-software-terms)
-
 * [F. Ausschluss von Gewährleistungen](#f-disclaimer-of-warranties)
-
 * [G. Haftungsbeschränkung](#g-limitation-of-liability)
-
 * [H. Sonstiges](#h-miscellaneous)
 
 Willkommen beim GitHub Forschungsprogramm (das „Programm“)! Um teilnehmen zu können, müssen Sie speziellen Bedingungen zustimmen – der Vereinbarung zum GitHub Forschungsprogramm („Vereinbarung“).

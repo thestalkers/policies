@@ -17,7 +17,6 @@ GitHub と貿易管理
 ----------
 
 * [輸出の概要](#export-overview)
-
 * [よくある質問](#frequently-asked-questions)
 
 GitHub.com、GitHub Enterprise Server、およびいずれかの製品にアップロードする情報には、米国輸出管理規則 (EAR) を含む貿易管理規制が適用されます。

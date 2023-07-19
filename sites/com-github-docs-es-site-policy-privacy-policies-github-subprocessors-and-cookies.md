@@ -17,7 +17,6 @@ En este artículo
 ----------
 
 * [Subencargados de GitHub](#github-subprocessors)
-
 * [Cookies en GitHub](#cookies-on-github)
 
 Fecha de entrada en vigor: **1 de septiembre de 2022**

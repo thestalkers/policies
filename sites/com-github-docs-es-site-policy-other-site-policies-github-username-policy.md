@@ -17,9 +17,7 @@ En este artículo
 ----------
 
 * [¿Qué pasa si el nombre de usuario que quiero ya lo ha elegido alguien?](#what-if-the-username-i-want-is-already-taken)
-
 * [Directiva de Marcas Comerciales](#trademark-policy)
-
 * [Directiva sobre Ocupación de Nombres](#name-squatting-policy)
 
 Los nombres de cuenta de GitHub están disponibles para las primeras personas que los solicitan y están destinados a ser utilizados de una manera inmediata y activa.

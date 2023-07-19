@@ -17,17 +17,11 @@ GitHub の行政機関による削除のポリシー
 ----------
 
 * [これは何ですか。](#what-is-this)
-
 * [要件を満たす行政機関による削除要求とは](#what-is-a-complete-government-takedown-request)
-
 * [行政機関から要件を満たす削除要求を受け取った際の対応について](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [削除の通知を投稿して公開する理由](#why-do-we-publicly-post-takedown-notices)
-
 * [gov-takedowns リポジトリに通知を投稿することの意味](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [GitHub のサービス条件の侵害に基づいた行政機関からの削除要求](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [透明性の報告](#transparency-reporting)
 
 [これは何ですか。](#what-is-this)

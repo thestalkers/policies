@@ -17,19 +17,12 @@ Dans cet article
 ----------
 
 * [A. Vos Commentaires](#a-your-feedback)
-
 * [B. Confidentialité](#b-confidentiality)
-
 * [C Droits réservés](#c-reservation-of-rights)
-
 * [D. Confidentialité](#d-privacy)
-
 * [E. Conditions relatives aux Services et Logiciels GitHub](#e-github-services-and-software-terms)
-
 * [F. Exclusion de garantie](#f-disclaimer-of-warranties)
-
 * [G. Limitation de responsabilité](#g-limitation-of-liability)
-
 * [H. Dispositions diverses](#h-miscellaneous)
 
 Bienvenue dans le Programme de Recherche GitHub (le « Programme ») ! Pour participer, nous avons besoin que vous acceptiez un ensemble de conditions spéciales, à savoir le Contrat du Programme de Recherche GitHub (« Contrat »).

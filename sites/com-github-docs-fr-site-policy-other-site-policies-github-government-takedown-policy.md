@@ -17,17 +17,11 @@ Dans cet article
 ----------
 
 * [De quoi s’agit-il ?](#what-is-this)
-
 * [Qu’est-ce qu’une demande de retrait complet d’un gouvernement ?](#what-is-a-complete-government-takedown-request)
-
 * [Que se passe-t-il lorsque nous recevons une demande de retrait complète de la part d’un gouvernement ?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [Pourquoi publions-nous des avis de retrait ?](#why-do-we-publicly-post-takedown-notices)
-
 * [Qu’est-ce que cela signifie si nous publions un avis dans notre dépôt de gov-takedowns ?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [Demandes de retrait gouvernementales basées sur des violations des Conditions Générales d’Utilisation de GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [Rapports de transparence](#transparency-reporting)
 
 [De quoi s’agit-il ?](#what-is-this)

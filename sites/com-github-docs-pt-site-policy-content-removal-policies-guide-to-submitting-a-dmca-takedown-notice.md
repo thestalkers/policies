@@ -17,11 +17,8 @@ Neste artigo
 ----------
 
 * [Antes de iniciar](#before-you-start)
-
 * [Sua reclamação deve...](#your-complaint-must-)
-
 * [Reclamações sobre a Tecnologia Antievasão](#complaints-about-anti-circumvention-technology)
-
 * [Como enviar sua reclamação](#how-to-submit-your-complaint)
 
 Este guia descreve as informações de que o GitHub precisa para processar uma solicitação de remoção da DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy).

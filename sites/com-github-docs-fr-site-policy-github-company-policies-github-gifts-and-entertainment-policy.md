@@ -17,13 +17,9 @@ Dans cet article
 ----------
 
 * [Politiques de la Société](#company-policies)
-
 * [Exemples de cadeaux acceptables et inacceptables](#examples-of-acceptable-and-unacceptable-gifts)
-
 * [Procédure](#process)
-
 * [Conséquences](#consequences)
-
 * [Informations complémentaires](#more-information)
 
 GitHub reconnaît que notre activité repose sur des relations positives et transparentes. Si les interactions informelles et les échanges de cadeaux peuvent faire partie du développement de ces relations et peuvent même être considérés comme habituels dans certains pays, nous devons nous assurer que nous respectons les lois anticorruption. Nous avons l’obligation légale de nous comporter de manière éthique, notamment en n’utilisant pas ces interactions pour créer un avantage spécial ou influencer une transaction.

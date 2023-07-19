@@ -17,43 +17,24 @@ GitHub 服务条款
 ----------
 
 * [概述](#summary)
-
 * [GitHub 服务条款](#the-github-terms-of-service)
-
 * [A. 定义](#a-definitions)
-
 * [B. 帐户条款](#b-account-terms)
-
 * [C. 可接受的使用方式](#c-acceptable-use)
-
 * [D. 用户生成内容](#d-user-generated-content)
-
 * [E. 私有存储库](#e-private-repositories)
-
 * [F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
-
 * [G. 知识产权声明](#g-intellectual-property-notice)
-
 * [H. API 条款](#h-api-terms)
-
 * [I. GitHub 附加产品条款](#i-github-additional-product-terms)
-
 * [J. Beta 预览版](#j-beta-previews)
-
 * [K. 付款](#k-payment)
-
 * [L. 取消和终止](#l-cancellation-and-termination)
-
 * [M. 与 GitHub 的通信](#m-communications-with-github)
-
 * [N. 免责声明](#n-disclaimer-of-warranties)
-
 * [O. 责任限制](#o-limitation-of-liability)
-
 * [P. 免除和赔偿](#p-release-and-indemnification)
-
 * [Q. 条款的变更](#q-changes-to-these-terms)
-
 * [R. 其他](#r-miscellaneous)
 
 感谢使用 GitHub！ 我们很高兴在这里遇到你。 在访问或使用 GitHub 之前，请仔细阅读本服务协议条款。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍了这些条款。

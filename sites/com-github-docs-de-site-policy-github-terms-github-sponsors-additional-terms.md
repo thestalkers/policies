@@ -17,17 +17,11 @@ In diesem Artikel
 ----------
 
 * [1. Definitionen.](#1-definitions)
-
 * [2. Akzeptable Nutzung.](#1-acceptable-use)
-
 * [3. Sponsored Developer – Verpflichtungen.](#3-sponsored-developer-obligations)
-
 * [4. Bestimmungen im Zusammenhang mit Finanzen.](#4-financial-terms)
-
 * [5. Zusicherungen und Gewährleistungen; Haftungsbeschränkung; Schadenersatz.](#5-representations-and-warranties-limitation-of-liability-indemnification)
-
 * [6. Laufzeit und Kündigung.](#6-term-and-termination)
-
 * [7. Sonstiges.](#7-miscellaneous)
 
 Ihre Teilnahme am GitHub Sponsors-Programm (das „Programm“) unterliegt den[GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) (die „Vereinbarung“) sowie den folgenden zusätzlichen Bedingungen („Zusatzbedingungen“). Jede Nutzung des GitHub Sponsors Programms, die gegen die Vereinbarung verstößt, stellt auch eine Verletzung dieser Zusätzlichen Bedingungen dar. Die verwendeten Begriffe, die unten nicht definiert sind, haben dieselbe Bedeutung wie in der Vereinbarung. Die vorliegenden Zusatzbedingungen für das GitHub Sponsors-Programm beschreiben die Beziehung zwischen GitHub und Ihnen, dem „Sponsored Developer“ (gesponserte*r Entwickler*in) im Rahmen des Programms. Die Zusatzbedingungen gelten ab dem Datum, an dem Sie sie akzeptieren („Wirksamkeitsdatum“).

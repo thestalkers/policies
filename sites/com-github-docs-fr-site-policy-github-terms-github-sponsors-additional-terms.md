@@ -17,17 +17,11 @@ Dans cet article
 ----------
 
 * [1. Définitions.](#1-definitions)
-
 * [1. Bon usage.](#1-acceptable-use)
-
 * [3. Obligations du Développeur Sponsorisé.](#3-sponsored-developer-obligations)
-
 * [4. Conditions Financières.](#4-financial-terms)
-
 * [5. Déclarations et Garanties ; Limitation de Responsabilité ; Indemnisation.](#5-representations-and-warranties-limitation-of-liability-indemnification)
-
 * [6. Durée et résiliation.](#6-term-and-termination)
-
 * [7. Dispositions diverses.](#7-miscellaneous)
 
 Votre participation au Programme GitHub Sponsors (le « Programme ») est soumise aux [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service) (le « Contrat »), ainsi qu’aux conditions supplémentaires suivantes (les « Conditions Supplémentaires »). Toute utilisation du Programme GitHub Sponsors qui viole le Contrat constituera également une violation des présentes Conditions Supplémentaires. Tous les termes commençant par une majuscule, utilisés mais non définis ci-dessous ont la signification qui leur est donnée dans le Contrat. Les présentes Conditions Supplémentaires pour le Programme GitHub Sponsors décrivent la relation entre GitHub et vous, le « Développeur Sponsorisé », pour le Programme. Les Conditions Supplémentaires entrent en vigueur à la date à laquelle vous les acceptez (« Date d’Entrée en Vigueur »).

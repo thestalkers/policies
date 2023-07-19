@@ -17,13 +17,9 @@ In diesem Artikel
 ----------
 
 * [Pflege einer starken Community](#maintaining-a-strong-community)
-
 * [Was ist, wenn etwas oder jemand Sie beleidigt?](#what-if-something-or-someone-offends-you)
-
 * [Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt?](#what-happens-if-someone-violates-githubs-policies)
-
 * [Einspruch und Wiederherstellung](#appeal-and-reinstatement)
-
 * [Rechtliche Hinweise](#legal-notices)
 
 Millionen von Entwicklern auf der ganzen Welt hosten auf GitHub Millionen von Projekten – sowohl Open als auch Closed Source. Wir haben das Glück, jeden Tag an der Ermöglichung der Zusammenarbeit in der Entwickler-Community mitzuwirken – eine Verantwortung, die wir nicht auf die leichte Schulter nehmen. Gemeinsam haben wir alle die spannende Gelegenheit, dies zu einer Community zu machen, auf die wir stolz sein können.

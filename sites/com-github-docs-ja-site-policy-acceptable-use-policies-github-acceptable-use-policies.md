@@ -17,25 +17,15 @@ GitHub 利用規約
 ----------
 
 * [1.法規制の遵守](#1-compliance-with-laws-and-regulations)
-
 * [2. ユーザーの安全](#2-user-safety)
-
 * [3.知的財産、真正性、および個人情報](#3-intellectual-property-authenticity-and-private-information)
-
 * [4.GitHub における迷惑メールおよび不正なアクティビティ](#4-spam-and-inauthentic-activity-on-github)
-
 * [5.サイトのアクセスと安全](#5-site-access-and-safety)
-
 * [6.サービス利用の制限](#6-services-usage-limits)
-
 * [7.情報使用の制限](#7-information-usage-restrictions)
-
 * [8.プライバシー](#8-privacy)
-
 * [9.過剰な帯域の使用](#9-excessive-bandwidth-use)
-
 * [10. GitHub での広告](#10-advertising-on-github)
-
 * [11.ユーザーの保護](#11-user-protection)
 
 **要約:** *当社は、世界各国からの参加のあるさまざまな共同プロジェクトをホストしており、そのコラボレーションは、ユーザーが誠実に協力できた場合にのみ成立します。お客様は、本サービスを使用する場合、ユーザーの安全、知的財産権、プライバシー、真正性、およびその他の制限に関する、GitHub のコンテンツおよび行為についての制限を含む、当社の利用規約を遵守しなければなりません。要約すれば、お互いのことを思いやりましょう、ということです。*

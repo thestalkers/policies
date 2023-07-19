@@ -17,17 +17,11 @@ In this article
 ----------
 
 * [What is this?](#what-is-this)
-
 * [What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
-
 * [What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-
 * [Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
-
 * [What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-
 * [Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-
 * [Transparency reporting](#transparency-reporting)
 
 [What is this?](#what-is-this)

@@ -17,15 +17,10 @@ GitHub 求职者隐私政策
 ----------
 
 * [我们收集哪些求职者个人信息？](#what-candidate-personal-information-do-we-collect)
-
 * [我们如何使用我们收集的求职者个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [我们如何分享您的求职者个人信息？](#how-do-we-share-your-candidate-personal-information)
-
 * [您对求职者个人信息具备的权利](#your-rights-to-your-candidate-personal-information)
-
 * [我们会将您的求职者个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [本政策的更改](#changes-to-this-policy)
 
 生效日期：2021 年 3 月 8 日

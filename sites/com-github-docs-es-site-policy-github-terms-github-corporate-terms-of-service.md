@@ -17,45 +17,25 @@ En este artículo
 ----------
 
 * [Términos de Servicio Corporativos de GitHub](#github-corporate-terms-of-service)
-
 * [A. Definiciones](#a-definitions)
-
 * [B. Términos de la Cuenta](#b-account-terms)
-
 * [C. Cumplimiento de la Legislación; Uso Aceptable; Privacidad](#c-compliance-with-laws-acceptable-use-privacy)
-
 * [D. Responsabilidad respecto al Contenido; Propiedad; Derechos de Licencia](#d-content-responsibility-ownership-license-rights)
-
 * [E. Repositorios Privados](#e-private-repositories)
-
 * [F. Aviso de Propiedad Intelectual](#f-intellectual-property-notice)
-
 * [G. Términos Adicionales para los Productos de GitHub](#g-github-additional-product-terms)
-
 * [H. Licencias de Suscripción](#h-subscription-licenses)
-
 * [I. Entidades Afiliadas](#i-affiliates)
-
 * [J. Pago](#j-payment)
-
 * [K. Vigencia; Rescisión; Suspensión](#k-term-termination-suspension)
-
 * [L. Comunicaciones con GitHub](#l-communications-with-github)
-
 * [M. Garantía Limitada; Exención de Responsabilidad](#m-limited-warranty-disclaimer)
-
 * [N. Limitación de Responsabilidad](#n-limitations-of-liability)
-
 * [O. Defensa frente a Reclamaciones; Exoneración](#o-defense-of-claims-release)
-
 * [P. Confidencialidad](#p-confidentiality)
-
 * [Q. Servicios Profesionales](#q-professional-services)
-
 * [R. Cambios en el Servicio o en los Términos](#r-changes-to-the-service-or-terms)
-
 * [S. Soporte Técnico.](#s-support)
-
 * [T. Disposiciones Adicionales](#t-miscellaneous)
 
 *Los presentes términos y condiciones son aplicables a los clientes de GitHub.com que tengan suscritos contratos en vigor en los que se haga referencia a los términos del servicio corporativo. A todos los demás clientes de empresas o instituciones se les remitirá a [github.com/customer-terms](https://github.com/customer-terms) para que consulten los términos y condiciones en vigor.*

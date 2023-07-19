@@ -17,15 +17,10 @@ Dans cet article
 ----------
 
 * [Connexion à GitHub](#connecting-to-github)
-
 * [Licences open source et notifications](#open-source-licenses-and-notices)
-
 * [Logos de GitHub](#githubs-logos)
-
 * [Confidentialité](#privacy)
-
 * [Services Supplémentaires](#additional-services)
-
 * [Dispositions diverses](#miscellanea)
 
 Les présentes Conditions générales relatives aux Applications Open Source de GitHub (« Conditions relatives aux Applications ») constituent un accord légal entre vous (en tant qu’individu ou au nom d’une entité) et GitHub, Inc. concernant votre utilisation des applications de GitHub, comme GitHub Desktop™ et la documentation associée (« Logiciel »). Les présentes Conditions relatives aux Applications s’appliquent à la version en code exécutable du Logiciel. Le code source du Logiciel est disponible séparément et gratuitement dans le cadre de contrats de licence de logiciel open source. Si vous n’acceptez pas toutes les dispositions des présentes Conditions relatives aux Applications, ne téléchargez pas, n’installez pas, n’utilisez pas et ne copiez pas le Logiciel.

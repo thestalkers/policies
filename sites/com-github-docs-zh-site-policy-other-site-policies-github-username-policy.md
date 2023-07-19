@@ -17,9 +17,7 @@ GitHub 用户名政策
 ----------
 
 * [如果我想要的用户名已被占用怎么办？](#what-if-the-username-i-want-is-already-taken)
-
 * [商标政策](#trademark-policy)
-
 * [帐户名抢注政策](#name-squatting-policy)
 
 GitHub 帐户名按先到先得的原则提供，旨在供用户立即并积极使用。

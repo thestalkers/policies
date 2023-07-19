@@ -17,17 +17,11 @@
 ----------
 
 * [Структура, бизнес и цепочки поставок GitHub](#githubs-structure-business-and-supply-chains)
-
 * [Политика в отношении современного рабства и детского труда](#policies-in-relation-to-modern-slavery-and-child-labor)
-
 * [Трудовое законодательство и практика](#labor-laws-and-practices)
-
 * [Процессы должной осмотрительности в отношении современного рабства и детского труда в своем бизнесе и цепочках поставок](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-
 * [Места в бизнесе и цепочках поставок GitHub, где существует риск современного рабства и детского труда, и шаги, предпринятые GitHub для оценки этого риска и управления им.](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-
 * [Эффективность в обеспечении отсутствия современного рабства и детского труда в бизнесе GitHub или цепочках поставок](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-
 * [Тренинг для сотрудников GitHub по вопросам современного рабства и торговли людьми](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *заявление 2018 года*

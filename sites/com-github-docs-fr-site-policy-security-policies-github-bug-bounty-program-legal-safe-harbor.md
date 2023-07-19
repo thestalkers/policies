@@ -17,11 +17,8 @@ Dans cet article
 ----------
 
 * [Résumé](#summary)
-
 * [1. Conditions des Principes de la Sphère de sécurité (Safe Harbor)](#1-safe-harbor-terms)
-
 * [2. Principes de protection des données (Safe Harbor) applicables aux tiers](#2-third-party-safe-harbor)
-
 * [3. Dérogation limitée aux règlements d’autres sites](#3-limited-waiver-of-other-site-polices)
 
 [Résumé](#summary)

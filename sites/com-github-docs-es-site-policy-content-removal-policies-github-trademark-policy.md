@@ -17,13 +17,9 @@ En este artículo
 ----------
 
 * [¿Qué es una infracción de la directiva de marcas comerciales de GitHub?](#what-is-a-github-trademark-policy-violation)
-
 * [¿Qué no es una infracción de la directiva de marcas comerciales de GitHub?](#what-is-not-a-github-trademark-policy-violation)
-
 * [¿Cómo responde GitHub a las infracciones de la directiva de marcas comerciales denunciadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
-
 * [¿Cómo denuncio una infracción de la directiva de marcas comerciales?](#how-do-i-report-a-trademark-policy-violation)
-
 * [¿Qué información se necesita para denunciar infracciones de la directiva de marcas comerciales?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [¿Qué es una infracción de la directiva de marcas comerciales de GitHub?](#what-is-a-github-trademark-policy-violation)

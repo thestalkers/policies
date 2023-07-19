@@ -17,39 +17,22 @@ GitHub のプライバシーに関する声明
 ----------
 
 * [要約](#the-short-version)
-
 * [概要](#summary)
-
 * [GitHub のプライバシーに関する声明](#github-privacy-statement)
-
 * [誰がお客様の情報の処理に責任を負いますか?](#who-is-responsible-for-the-processing-of-your-information)
-
 * [お客様の代理で活動する GitHub](#github-acting-on-your-behalf)
-
 * [GitHub が収集する情報](#what-information-github-collects)
-
 * [GitHub はお客様の情報をどのように使用するか](#how-github-uses-your-information)
-
 * [当社は収集した情報をどのように共有するか](#how-we-share-the-information-we-collect)
-
 * [お客様の個人データの処理に関するお客様の選択](#your-choices-regarding-our-processing-of-your-personal-data)
-
 * [当社による Cookie の使用と追跡技術](#our-use-of-cookies-and-tracking-technologies)
-
 * [個人データの保持](#retention-of-personal-data)
-
 * [GitHub はお客様の情報をどのように保護するか](#how-github-secures-your-information)
-
 * [プライバシーに関する声明の変更](#changes-to-our-privacy-statement)
-
 * [ライセンス](#license)
-
 * [GitHub への連絡](#contacting-github)
-
 * [翻訳](#translations)
-
 * [欧州のデータ保護の権利に関する通知](#european-data-protection-rights-notice)
-
 * [米国州のデータのプライバシー](#us-state-data-privacy)
 
 発効日: 2022 年 12 月 15 日

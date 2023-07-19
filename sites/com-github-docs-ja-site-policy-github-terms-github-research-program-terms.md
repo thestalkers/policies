@@ -17,19 +17,12 @@ GitHub のリサーチ プログラム条項
 ----------
 
 * [A. お客様からのフィードバック](#a-your-feedback)
-
 * [B. 秘密保持](#b-confidentiality)
-
 * [C. 権利の留保](#c-reservation-of-rights)
-
 * [D. プライバシー](#d-privacy)
-
 * [E. GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
-
 * [F. 保証の免責](#f-disclaimer-of-warranties)
-
 * [G. 責任の制限](#g-limitation-of-liability)
-
 * [H. 雑則](#h-miscellaneous)
 
 GitHub のリサーチ プログラム (以下「プログラム」といいます) へようこそ。 本プログラムに参加するには、GitHub のリサーチ プログラム契約 (以下「契約」といいます) の特別条項に同意する必要があります。

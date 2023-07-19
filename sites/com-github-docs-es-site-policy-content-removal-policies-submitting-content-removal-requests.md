@@ -17,9 +17,7 @@ En este artículo
 ----------
 
 * [Directiva de Retirada de la DMCA](#dmca-takedown-policy)
-
 * [Directiva de Marcas Comerciales de GitHub](#github-trademark-policy)
-
 * [Directiva de Eliminación de Información Privada de GitHub](#github-private-information-removal-policy)
 
 Entendemos que en GitHub se podría publicar contenido con derechos de autor y marcas comerciales o contenido privado, ya sea de manera intencionada o no, a veces en repositorios que no son de su propiedad. Dado que la naturaleza de este contenido varía y dado que hay diferentes leyes aplicables, cada categoría tiene sus propios requisitos de denuncia que se describen en nuestras directivas.

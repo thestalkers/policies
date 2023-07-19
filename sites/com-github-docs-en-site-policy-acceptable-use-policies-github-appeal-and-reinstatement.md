@@ -17,11 +17,8 @@ In this article
 ----------
 
 * [Appeal and Reinstatement](#appeal-and-reinstatement)
-
 * [What are appeals and reinstatements?](#what-are-appeals-and-reinstatements)
-
 * [How this works](#how-this-works)
-
 * [Transparency](#transparency)
 
 [Appeal and Reinstatement](#appeal-and-reinstatement)

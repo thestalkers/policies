@@ -17,9 +17,7 @@ In diesem Artikel
 ----------
 
 * [Bevor Sie beginnen](#before-you-start)
-
 * [Ihre Counter Notice muss...](#your-counter-notice-must)
-
 * [So reichen Sie Ihre Counter Notice ein](#how-to-submit-your-counter-notice)
 
 Dieser Leitfaden beschreibt die Informationen, die GitHub benötigt, um eine Gegendarstellung zu einem DMCA-Takedown-Antrag zu bearbeiten. Wenn Sie allgemeinere Fragen dazu haben, was der DMCA ist oder wie GitHub DMCA-Takedown-Anträge bearbeitet, lesen Sie bitte unsere [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy).

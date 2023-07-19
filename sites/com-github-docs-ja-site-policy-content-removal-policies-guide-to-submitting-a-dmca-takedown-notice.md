@@ -17,11 +17,8 @@ DMCA 削除通知提出ガイド
 ----------
 
 * [提出前の準備](#before-you-start)
-
 * [苦情の要件](#your-complaint-must-)
-
 * [技術的な保護措置の回避禁止に関する苦情](#complaints-about-anti-circumvention-technology)
-
 * [苦情の提出方法](#how-to-submit-your-complaint)
 
 このガイドでは、DMCA 削除要求を処理するために GitHub が必要とする情報について説明します。 DMCA の内容や、GitHub による DMCA 削除要求の処理方法など、一般的な事項については [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy) をご覧ください。

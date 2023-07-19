@@ -17,45 +17,25 @@ Dans cet article
 ----------
 
 * [Conditions d’Utilisation de GitHub pour les Entreprises](#github-corporate-terms-of-service)
-
 * [A. Définitions](#a-definitions)
-
 * [B. Conditions relatives aux comptes](#b-account-terms)
-
 * [C Conformité aux Lois en vigueur ; Bon Usage ; Confidentialité](#c-compliance-with-laws-acceptable-use-privacy)
-
 * [D. Responsabilité du Contenu ; Propriété ; Droits de licence](#d-content-responsibility-ownership-license-rights)
-
 * [E. Dépôts Privés](#e-private-repositories)
-
 * [F. Avis sur la Propriété Intellectuelle](#f-intellectual-property-notice)
-
 * [G. Conditions Supplémentaires des Produits GitHub](#g-github-additional-product-terms)
-
 * [H. Licences d’Abonnement](#h-subscription-licenses)
-
 * [I. Affiliés](#i-affiliates)
-
 * [J. Paiement](#j-payment)
-
 * [K. Durée ; Résiliation ; Suspension](#k-term-termination-suspension)
-
 * [L. Communications avec GitHub](#l-communications-with-github)
-
 * [m. Garantie limitée ; Clause de non-responsabilité](#m-limited-warranty-disclaimer)
-
 * [N. Limitations de responsabilité](#n-limitations-of-liability)
-
 * [O. Défense contre les réclamations ; Décharge](#o-defense-of-claims-release)
-
 * [P. Confidentialité](#p-confidentiality)
-
 * [Q. Services Professionnels](#q-professional-services)
-
 * [R. Modifications du Service ou des Conditions](#r-changes-to-the-service-or-terms)
-
 * [S. Assistance technique](#s-support)
-
 * [T. Dispositions diverses](#t-miscellaneous)
 
 *Ces conditions s’appliquent aux clients GitHub.com qui ont signé des accords mentionnant les Conditions d’utilisation pour les Entreprises. Tous les autres clients professionnels ou institutionnels sont dirigés vers [github.com/customer-terms](https://github.com/customer-terms) pour y consulter les conditions actuelles.*

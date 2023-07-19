@@ -17,9 +17,7 @@ En este artículo
 ----------
 
 * [Directivas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
-
 * [Formación para nuestros empleados](#training-for-our-employees)
-
 * [Implicación de nuestros partners](#engaging-our-partners)
 
 En GitHub, mantenemos nuestro compromiso con las prácticas empresariales éticas, lo que incluye la prohibición del soborno y la corrupción. Como explica [Transparencia Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption), el coste de la corrupción es:

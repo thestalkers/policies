@@ -17,39 +17,22 @@ Dans cet article
 ----------
 
 * [Version courte](#the-short-version)
-
 * [Résumé](#summary)
-
 * [Déclaration de Confidentialité GitHub](#github-privacy-statement)
-
 * [Qui est responsable du traitement de vos informations ?](#who-is-responsible-for-the-processing-of-your-information)
-
 * [Action de GitHub en votre nom](#github-acting-on-your-behalf)
-
 * [Quelles sont les informations recueillies par GitHub ?](#what-information-github-collects)
-
 * [Comment GitHub utilise vos informations](#how-github-uses-your-information)
-
 * [Comment partageons-nous les informations que nous recueillons ?](#how-we-share-the-information-we-collect)
-
 * [Vos choix concernant le traitement de vos données personnelles.](#your-choices-regarding-our-processing-of-your-personal-data)
-
 * [Notre utilisation des cookies et des technologies de suivi](#our-use-of-cookies-and-tracking-technologies)
-
 * [Conservation des données personnelles](#retention-of-personal-data)
-
 * [Comment GitHub sécurise-t-elle vos informations ?](#how-github-secures-your-information)
-
 * [Modifications de notre Déclaration de Confidentialité](#changes-to-our-privacy-statement)
-
 * [Licence](#license)
-
 * [Contacter GitHub](#contacting-github)
-
 * [Traductions](#translations)
-
 * [Notification concernant les droits de l’UE en matière de protection des données](#european-data-protection-rights-notice)
-
 * [Confidentialité des données dans les États des États-Unis](#us-state-data-privacy)
 
 Date d’entrée en vigueur : 15 décembre 2022

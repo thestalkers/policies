@@ -17,15 +17,10 @@ En este artículo
 ----------
 
 * [¿Qué Información Personal del Candidato recopilamos?](#what-candidate-personal-information-do-we-collect)
-
 * [¿Cómo utilizamos la Información Personal del Candidato que recopilamos?](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [¿Cómo compartimos la Información Personal del Candidato?](#how-do-we-share-your-candidate-personal-information)
-
 * [Derechos del Candidato sobre la Información Personal del Candidato](#your-rights-to-your-candidate-personal-information)
-
 * [¿Durante cuánto tiempo conservamos la Información Personal del Candidato?](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [Cambios en esta Directiva](#changes-to-this-policy)
 
 Fecha de entrada en vigor: 8 de marzo de 2021

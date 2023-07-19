@@ -17,43 +17,24 @@ GitHub のサービス条件
 ----------
 
 * [概要](#summary)
-
 * [GitHub のサービス条件](#the-github-terms-of-service)
-
 * [A. 定義](#a-definitions)
-
 * [B. アカウント利用規約](#b-account-terms)
-
 * [C. "許可される使用"](#c-許可される使用)
-
 * [D. ユーザー生成コンテンツ](#d-user-generated-content)
-
 * [E. プライベート リポジトリ](#e-private-repositories)
-
 * [F. 著作権侵害と DMCA ポリシー](#f-copyright-infringement-and-dmca-policy)
-
 * [G. 知的財産に関する通知](#g-intellectual-property-notice)
-
 * [H. API 規約](#h-api-terms)
-
 * [I. GitHub の追加の製品使用条件](#i-github-additional-product-terms)
-
 * [J. ベータ プレビュー](#j-beta-previews)
-
 * [K. 支払](#k-payment)
-
 * [L. 解約および終了](#l-cancellation-and-termination)
-
 * [M. GitHub との連絡](#m-communications-with-github)
-
 * [N. 保証の免責](#n-disclaimer-of-warranties)
-
 * [O. 責任の制限](#o-limitation-of-liability)
-
 * [P. 免責および補償](#p-release-and-indemnification)
-
 * [Q. 本条項の変更](#q-changes-to-these-terms)
-
 * [R. 雑則](#r-miscellaneous)
 
 GitHub をご利用いただきありがとうございます。 ご利用いただきありがとうございます。 GitHub にアクセスまたは使用する前に、本サービス条件をよくお読みください。 これは当社とユーザーの間の非常に重要な契約であるため、当社は努めて可能な限り明確にしました。 お客様の便宜のため、最初に本条件の拘束力のない要約を、次に法的条件の全文を示しています。

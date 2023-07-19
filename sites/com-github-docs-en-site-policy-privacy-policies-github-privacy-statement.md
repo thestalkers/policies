@@ -17,39 +17,22 @@ In this article
 ----------
 
 * [The short version](#the-short-version)
-
 * [Summary](#summary)
-
 * [GitHub Privacy Statement](#github-privacy-statement)
-
 * [Who is responsible for the processing of your information?](#who-is-responsible-for-the-processing-of-your-information)
-
 * [GitHub acting on your behalf](#github-acting-on-your-behalf)
-
 * [What information GitHub collects](#what-information-github-collects)
-
 * [How GitHub uses your information](#how-github-uses-your-information)
-
 * [How we share the information we collect](#how-we-share-the-information-we-collect)
-
 * [Your choices regarding our processing of your personal data](#your-choices-regarding-our-processing-of-your-personal-data)
-
 * [Our use of cookies and tracking technologies](#our-use-of-cookies-and-tracking-technologies)
-
 * [Retention of personal data](#retention-of-personal-data)
-
 * [How GitHub secures your information](#how-github-secures-your-information)
-
 * [Changes to our Privacy Statement](#changes-to-our-privacy-statement)
-
 * [License](#license)
-
 * [Contacting GitHub](#contacting-github)
-
 * [Translations](#translations)
-
 * [European Data Protection Rights Notice](#european-data-protection-rights-notice)
-
 * [U.S. State Data Privacy](#us-state-data-privacy)
 
 Effective date: December 15, 2022

@@ -17,9 +17,7 @@ Dans cet article
 ----------
 
 * [Politique de retrait DMCA](#dmca-takedown-policy)
-
 * [Politique relative aux Marques de GitHub](#github-trademark-policy)
-
 * [Politique GitHub de Retrait des Informations Privées](#github-private-information-removal-policy)
 
 Nous comprenons que du contenu protégé par des droits d’auteur, des marques ou du contenu privé peut être publié sur GitHub, accidentellement ou volontairement, parfois dans des dépôts qui ne vous appartiennent pas. Étant donné que la nature de ce contenu varie, et en raison des différentes lois applicables, chaque catégorie a ses propres exigences en matière de signalement, décrites dans nos politiques.

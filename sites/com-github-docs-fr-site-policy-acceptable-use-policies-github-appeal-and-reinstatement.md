@@ -17,11 +17,8 @@ Dans cet article
 ----------
 
 * [Appel et réintégration](#appeal-and-reinstatement)
-
 * [Que sont les appels et les réintégrations ?](#what-are-appeals-and-reinstatements)
-
 * [Fonctionnement du processus](#how-this-works)
-
 * [Transparence](#transparency)
 
 [Appel et réintégration](#appeal-and-reinstatement)

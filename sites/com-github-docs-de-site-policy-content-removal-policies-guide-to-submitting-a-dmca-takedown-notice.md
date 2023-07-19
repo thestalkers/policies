@@ -17,11 +17,8 @@ In diesem Artikel
 ----------
 
 * [Bevor Sie beginnen](#before-you-start)
-
 * [Ihre Beschwerde muss...](#your-complaint-must-)
-
 * [Beschwerden über Anti-Umgehungstechnologie](#complaints-about-anti-circumvention-technology)
-
 * [So übermitteln Sie Ihre Beschwerde](#how-to-submit-your-complaint)
 
 Dieser Leitfaden beschreibt die Informationen, die GitHub benötigt, um einen DMCA-Takedown-Antrag zu bearbeiten. Wenn Sie allgemeinere Fragen dazu haben, was der DMCA ist oder wie GitHub DMCA-Takedown-Anträge bearbeitet, lesen Sie bitte unsere [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy).

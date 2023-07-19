@@ -17,15 +17,10 @@ En este artículo
 ----------
 
 * [Conexión a GitHub](#connecting-to-github)
-
 * [Avisos y Licencias de Código Abierto](#open-source-licenses-and-notices)
-
 * [Logotipos de GitHub](#githubs-logos)
-
 * [Privacidad](#privacy)
-
 * [Servicios adicionales](#additional-services)
-
 * [Otras disposiciones](#miscellanea)
 
 Estos Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub («Términos de Aplicaciones») son un acuerdo legal entre usted (ya sea como particular o en nombre de una entidad) y GitHub, Inc. con respecto a su uso de las aplicaciones de GitHub, como GitHub Desktop™ y la documentación asociada («Software»). Estos Términos de Aplicaciones se aplican a la versión del código ejecutable del Software. El código fuente del Software está disponible por separado y de forma gratuita según los acuerdos de licencia del software de código abierto. Si no está de acuerdo con todos los términos de estos Términos de Aplicaciones, no descargue, instale, use ni copie el Software.

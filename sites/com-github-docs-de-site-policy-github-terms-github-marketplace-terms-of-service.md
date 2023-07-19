@@ -17,23 +17,14 @@ In diesem Artikel
 ----------
 
 * [A. Nutzungsbedingungen für GitHub.com](#a-githubcoms-terms-of-service)
-
 * [B. Nutzungsvoraussetzungen](#b-use-requirements)
-
 * [C. Entwicklerprodukte und Produktanbieter](#c-developer-products-and-product-providers)
-
 * [D. Zahlung, Abrechnungszeitplan und Stornierung](#d-payment-billing-schedule-and-cancellation)
-
 * [E. Ihre Daten und die Datenschutzrichtlinie von GitHub](#e-your-data-and-githubs-privacy-policy)
-
 * [F. Rechte an Entwicklerprodukten](#f-rights-to-developer-products)
-
 * [G. Updates von Entwicklerprodukten](#g-updates-to-developer-products)
-
 * [H. Blockierung von Entwicklerprodukten](#h-developer-product-blocking)
-
 * [I. Gewährleistungsausschluss; Haftungsbeschränkung; Haftungsfreistellung und Schadenersatz.](#i-disclaimer-limitation-of-liability-release-and-indemnification)
-
 * [J. Vermischtes](#j-miscellanea)
 
 Willkommen beim GitHub Marketplace („Marketplace”)! Wir freuen uns, dass Sie hier sind. Bitte lesen Sie diese Nutzungsbedingungen („Marketplace Bedingungen“) sorgfältig durch, bevor Sie auf GitHub Marketplace zugreifen oder es verwenden. GitHub Marketplace ist eine Plattform, auf der Sie Entwickleranwendungen oder -aktionen (kostenlos oder kostenpflichtig) auswählen können, die mit Ihrem GitHub.com-Konto verwendet werden können („Entwicklerprodukte“). Obwohl sie von GitHub, Inc. („GitHub“, „wir“, „uns“) angeboten werden, können Entwicklerprodukte entweder von GitHub oder von Software-Drittanbietern entwickelt und gewartet werden. Ihre Auswahl oder Nutzung von Entwicklerprodukten unterliegt diesen Marketplace Bedingungen und allen anwendbaren Gebühren und erfordert möglicherweise, dass Sie zusätzlichen Bedingungen zustimmen, die vom Drittlizenzgeber dieses Entwicklerprodukts (dem „Produktanbieter“) bereitgestellt werden.

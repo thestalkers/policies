@@ -17,9 +17,7 @@ In diesem Artikel
 ----------
 
 * [Richtlinie zu DMCA Takedown Notices](#dmca-takedown-policy)
-
 * [GitHub Markenrichtlinie](#github-trademark-policy)
-
 * [GitHub Richtlinie zum Entfernen privater Informationen](#github-private-information-removal-policy)
 
 Wir sind uns bewusst, dass urheberrechtlich geschützte, markenrechtlich geschützte oder private Inhalte auf GitHub manchmal – entweder versehentlich oder absichtlich – in Repositorys veröffentlicht werden können, die Ihnen nicht gehören. Da die Art dieser Inhalte unterschiedlich ist und es verschiedenen anwendbare Gesetze gibt, gibt es für jede Kategorie eigene, individuelle Meldepflichten, die in unseren Richtlinien beschrieben sind.

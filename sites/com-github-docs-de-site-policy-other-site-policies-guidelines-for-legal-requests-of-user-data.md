@@ -17,23 +17,14 @@ In diesem Artikel
 ----------
 
 * [Über diese Richtlinien](#about-these-guidelines)
-
 * [GitHub Terminologie](#github-terminology)
-
 * [Nutzerdaten auf GitHub.com](#user-data-on-githubcom)
-
 * [Wir werden alle betroffenen Kontoinhaber benachrichtigen](#we-will-notify-any-affected-account-owners)
-
 * [Offenlegung von nicht öffentlichen Informationen](#disclosure-of-non-public-information)
-
 * [Kostenerstattung](#cost-reimbursement)
-
 * [Datenaufbewahrung](#data-preservation)
-
 * [Anträge stellen](#submitting-requests)
-
 * [Anfragen ausländischer Strafverfolgungsbehörden](#requests-from-foreign-law-enforcement)
-
 * [Fragen](#questions)
 
 Sind Sie ein/e Strafverfolgungsbeamter\*in, die/der eine Untersuchung durchführt, die möglicherweise auf GitHub gehostete Benutzerinhalte betrifft?

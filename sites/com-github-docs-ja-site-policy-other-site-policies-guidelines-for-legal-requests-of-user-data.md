@@ -17,23 +17,14 @@
 ----------
 
 * [本ガイドラインの概要](#about-these-guidelines)
-
 * [GitHub の用語](#github-terminology)
-
 * [GitHub.com 上のユーザー データ](#user-data-on-githubcom)
-
 * [当社は、影響を受けるアカウント所有者に通知します](#we-will-notify-any-affected-account-owners)
-
 * [非公開情報の開示](#disclosure-of-non-public-information)
-
 * [費用の払い戻し](#cost-reimbursement)
-
 * [データの保持](#data-preservation)
-
 * [要求の提出](#submitting-requests)
-
 * [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
-
 * [お問い合わせ](#questions)
 
 あなたは、GitHub でホストされているユーザー コンテンツに関連する可能性がある調査を実施する法執行機関の担当者ですか。

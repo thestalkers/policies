@@ -17,15 +17,10 @@ Dans cet article
 ----------
 
 * [Quelles sont les Informations Personnelles des Candidats que nous recueillons ?](#what-candidate-personal-information-do-we-collect)
-
 * [Comment utilisons-nous les Informations Personnelles des Candidats que nous recueillons ?](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [Comment partageons-nous les Informations Personnelles des Candidats ?](#how-do-we-share-your-candidate-personal-information)
-
 * [Vos droits sur les Informations Personnelles des Candidats](#your-rights-to-your-candidate-personal-information)
-
 * [Combien de temps conservons-nous les Informations Personnelles des Candidats ?](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [Modifications apportées à la présente Politique](#changes-to-this-policy)
 
 Date d'effet : 8 mars 2021

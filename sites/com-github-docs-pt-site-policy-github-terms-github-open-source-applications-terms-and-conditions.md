@@ -17,15 +17,10 @@ Neste artigo
 ----------
 
 * [Como conectar-se ao GitHub](#connecting-to-github)
-
 * [Notificações e Licenças de Software Livre](#open-source-licenses-and-notices)
-
 * [Logotipos do GitHub](#githubs-logos)
-
 * [Privacidade](#privacy)
-
 * [Serviços adicionais](#additional-services)
-
 * [Disposições Gerais](#miscellanea)
 
 Estes Termos e Condições dos Aplicativos de Software Livre do GitHub (“Termos do Aplicativo”) representam um acordo legal celebrado entre você (como pessoa física ou em nome de uma pessoa jurídica) e a GitHub, Inc. em relação ao uso que você faz dos aplicativos do GitHub, como GitHub Desktop™ e a documentação associada (“Software”). Estes Termos do Aplicativo aplicam-se à versão de código executável do Software. O código-fonte do Software está disponível separada e gratuitamente de acordo com os termos dos contratos de licença de software livre. Se você não concordar com todos os termos destes Termos do Aplicativo, não baixe, instale, use nem copie o Software.

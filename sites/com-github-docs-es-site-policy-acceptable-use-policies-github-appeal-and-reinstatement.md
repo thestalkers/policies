@@ -17,11 +17,8 @@ En este artículo
 ----------
 
 * [Apelación y restablecimiento](#appeal-and-reinstatement)
-
 * [¿Qué son las apelaciones y los restablecimientos?](#what-are-appeals-and-reinstatements)
-
 * [Funcionamiento del proceso](#how-this-works)
-
 * [Transparencia](#transparency)
 
 [Apelación y restablecimiento](#appeal-and-reinstatement)

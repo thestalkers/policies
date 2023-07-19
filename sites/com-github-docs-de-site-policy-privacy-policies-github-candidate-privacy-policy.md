@@ -17,15 +17,10 @@ In diesem Artikel
 ----------
 
 * [Welche Personenbezogenen Kandidatendaten erheben wir?](#what-candidate-personal-information-do-we-collect)
-
 * [Wie verwenden wir die von uns erhobenen Personenbezogenen Kandidatendaten?](#how-do-we-use-the-candidate-personal-information-we-collect)
-
 * [Wie geben wir Ihre Personenbezogenen Kandidatendaten weiter?](#how-do-we-share-your-candidate-personal-information)
-
 * [Ihre Rechte an Ihren Personenbezogenen Kandidatendaten](#your-rights-to-your-candidate-personal-information)
-
 * [Wie lange bewahren wir Ihre Personenbezogenen Kandidatendaten auf?](#how-long-do-we-retain-your-candidate-personal-information)
-
 * [Änderungen an dieser Richtlinie](#changes-to-this-policy)
 
 Wirksamkeitsdatum: 8. März 2021

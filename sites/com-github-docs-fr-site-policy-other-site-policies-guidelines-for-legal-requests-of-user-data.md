@@ -17,23 +17,14 @@ Dans cet article
 ----------
 
 * [À propos de ces directives](#about-these-guidelines)
-
 * [Terminologie GitHub](#github-terminology)
-
 * [Données utilisateurs sur GitHub.com](#user-data-on-githubcom)
-
 * [Nous informerons tous les propriétaires de comptes concernés](#we-will-notify-any-affected-account-owners)
-
 * [Divulgation d’informations non publiques](#disclosure-of-non-public-information)
-
 * [Remboursement des frais](#cost-reimbursement)
-
 * [Conservation des données](#data-preservation)
-
 * [Envoi des demandes](#submitting-requests)
-
 * [Demandes des autorités de police étrangères](#requests-from-foreign-law-enforcement)
-
 * [Questions](#questions)
 
 Êtes-vous un agent des forces de l’ordre qui mène une enquête susceptible d’impliquer du contenu utilisateur hébergé sur GitHub ?

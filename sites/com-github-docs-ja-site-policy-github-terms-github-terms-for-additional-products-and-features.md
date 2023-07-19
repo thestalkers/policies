@@ -17,31 +17,18 @@
 ----------
 
 * [Actions](#actions)
-
 * [Advanced Security](#advanced-security)
-
 * [Advisory Database](#advisory-database)
-
 * [Codespaces](#codespaces)
-
 * [競合する製品またはサービスのベンチマーク](#competitive-benchmarking)
-
 * [接続する](#connect)
-
 * [GitHub Copilot](#github-copilot)
-
 * [GitHub Enterprise Importer](#github-enterprise-importer)
-
 * [npm](#npm)
-
 * [パッケージ](#packages)
-
 * [Pages](#pages)
-
 * [プレビュー](#previews)
-
 * [Sponsors プログラム](#sponsors-program)
-
 * [SQL Server Images](#sql-server-images)
 
 バージョン発効日: 2022 年 11 月 3 日

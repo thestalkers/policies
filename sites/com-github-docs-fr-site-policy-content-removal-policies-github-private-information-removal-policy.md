@@ -17,15 +17,10 @@ Dans cet article
 ----------
 
 * [Que sont les Informations Privées ?](#what-is-private-information)
-
 * [Ce qu’il faut savoir](#things-to-know)
-
 * [Comment cela fonctionne-t-il réellement ?](#how-does-this-actually-work)
-
 * [Envoi d’une demande de retrait d’informations privées](#sending-a-private-information-removal-request)
-
 * [Comment envoyer une demande](#how-to-submit-your-request)
-
 * [Litiges](#disputes)
 
 Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), par exemple lorsque votre sécurité est menacée par des informations d’identification d’accès exposées. Ce guide décrit les informations dont GitHub a besoin de votre part pour traiter une demande de retrait d’informations privées d’un dépôt.

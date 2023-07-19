@@ -17,15 +17,10 @@ Dans cet article
 ----------
 
 * [1. Conditions de base pour participer, y compris le Code de Conduite des Événements](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-
 * [2. Photos](#2-pictures)
-
 * [3. Risque, responsabilité et indemnisation](#3-risk-liability-and-indemnity)
-
 * [4. Résiliation](#4-termination)
-
 * [5. Droit applicable et juridiction](#5-choice-of-law-and-venue)
-
 * [6. Dispositions diverses](#6-miscellaneous-terms)
 
 En répondant à une invitation ou en participant à un événement GitHub, y compris les événements ou activités organisés par GitHub en association avec l’événement GitHub (collectivement, « l’Événement »), vous indiquez que vous avez lu, compris et accepté les Conditions Générales des Événements suivantes.

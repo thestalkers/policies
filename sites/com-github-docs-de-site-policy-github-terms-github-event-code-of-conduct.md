@@ -17,7 +17,6 @@ In diesem Artikel
 ----------
 
 * [Verhaltensregeln](#code-of-conduct)
-
 * [Gutschrift](#credit)
 
 GitHub Veranstaltungen sind Community-Events, die für Networking und Zusammenarbeit in der Tech-Community gedacht sind.

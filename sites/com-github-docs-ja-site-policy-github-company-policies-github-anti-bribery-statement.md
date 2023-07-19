@@ -17,9 +17,7 @@ GitHub の腐敗防止に関する声明
 ----------
 
 * [GitHub ポリシーは贈収賄を禁止](#github-policies-prohibiting-bribery)
-
 * [従業員のトレーニング](#training-for-our-employees)
-
 * [パートナーへの関与](#engaging-our-partners)
 
 GitHub は、贈収賄と汚職の禁止を含む、倫理的ビジネス慣行への取り組みを掲げています。 [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) の説明によると、汚職のコストは

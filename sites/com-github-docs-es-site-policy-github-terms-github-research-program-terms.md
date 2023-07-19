@@ -17,19 +17,12 @@ En este artículo
 ----------
 
 * [A. Sus Comentarios](#a-your-feedback)
-
 * [B. Confidencialidad](#b-confidentiality)
-
 * [C. Reserva de Derechos](#c-reservation-of-rights)
-
 * [D. Privacidad](#d-privacy)
-
 * [E. Términos de Servicios y de Software de GitHub](#e-github-services-and-software-terms)
-
 * [F. Renuncia de Garantías](#f-disclaimer-of-warranties)
-
 * [G. Limitación de Responsabilidad](#g-limitation-of-liability)
-
 * [H. Disposiciones adicionales](#h-miscellaneous)
 
 Bienvenido al Programa de Investigación de GitHub (el «Programa»). Para participar, necesitaremos que acepte un conjunto especial de términos, el Acuerdo del Programa de Investigación de GitHub («Acuerdo»).

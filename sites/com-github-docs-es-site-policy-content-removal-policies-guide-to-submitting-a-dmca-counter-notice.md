@@ -17,9 +17,7 @@ En este artículo
 ----------
 
 * [Antes de Empezar](#before-you-start)
-
 * [Su Contranotificación Debe...](#your-counter-notice-must)
-
 * [Cómo Enviar la Contranotificación](#how-to-submit-your-counter-notice)
 
 En esta guía se describe la información que necesita GitHub para procesar una contranotificación a una solicitud de retirada de la DMCA. Si tiene preguntas más generales sobre qué es la DMCA o cómo procesa GitHub las solicitudes de retirada de la DMCA, consulte nuestra [Directiva de Retirada de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy).

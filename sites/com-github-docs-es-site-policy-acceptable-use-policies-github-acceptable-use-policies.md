@@ -17,25 +17,15 @@ En este artículo
 ----------
 
 * [1. Cumplimiento de la legislación y la normativa](#1-compliance-with-laws-and-regulations)
-
 * [2. Seguridad del usuario](#2-user-safety)
-
 * [3. Propiedad Intelectual, autenticidad e información privada](#3-intellectual-property-authenticity-and-private-information)
-
 * [4. Correo no deseado y actividad no auténtica en GitHub](#4-spam-and-inauthentic-activity-on-github)
-
 * [5. Acceso al sitio y seguridad de este](#5-site-access-and-safety)
-
 * [6. Límites de uso de los servicios](#6-services-usage-limits)
-
 * [7. Restricciones de uso de la información](#7-information-usage-restrictions)
-
 * [8. Privacidad](#8-privacy)
-
 * [9. Uso excesivo del ancho de banda](#9-excessive-bandwidth-use)
-
 * [10. Publicidad en GitHub](#10-advertising-on-github)
-
 * [11. Protección del usuario](#11-user-protection)
 
 **Versión breve:** *Hospedamos una amplia variedad de proyectos colaborativos de todo el mundo, y esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el Servicio, debe cumplir nuestras Directivas de Uso Aceptable, que incluyen algunas restricciones sobre el contenido y la conducta en GitHub relacionadas con la seguridad del usuario, la propiedad intelectual, la privacidad, la autenticidad y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*

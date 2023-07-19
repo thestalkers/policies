@@ -17,23 +17,14 @@ En este artículo
 ----------
 
 * [Acerca de estas directrices](#about-these-guidelines)
-
 * [Terminología de GitHub](#github-terminology)
-
 * [Datos de usuario en GitHub.com](#user-data-on-githubcom)
-
 * [Notificamos a los propietarios de las cuentas afectadas.](#we-will-notify-any-affected-account-owners)
-
 * [Divulgación de información no pública](#disclosure-of-non-public-information)
-
 * [Reembolso de los gastos](#cost-reimbursement)
-
 * [Conservación de datos](#data-preservation)
-
 * [Envío de solicitudes](#submitting-requests)
-
 * [Solicitudes de fuerzas del orden extranjeras](#requests-from-foreign-law-enforcement)
-
 * [Preguntas](#questions)
 
 ¿Es un agente de la ley que está realizando una investigación para la que podría necesitar contenido de usuario alojado en GitHub?

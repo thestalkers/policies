@@ -17,7 +17,6 @@ Dans cet article
 ----------
 
 * [Vue d’ensemble sur les exportations](#export-overview)
-
 * [Questions fréquemment posées](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server et les informations que vous téléchargez sur l’un ou l’autre de ces produits peuvent être soumis à des réglementations de contrôle des échanges commerciaux, notamment en vertu de la Réglementation Américaine sur les Exportations (EAR).

@@ -17,23 +17,14 @@ Dans cet article
 ----------
 
 * [Qu’est ce que le DMCA ?](#what-is-the-dmca)
-
 * [Coup d’œil sur les Avis DMCA](#dmca-notices-in-a-nutshell)
-
 * [A. Comment cela fonctionne-t-il réellement ?](#a-how-does-this-actually-work)
-
 * [B. Qu’en est-il des forks ? (ou qu’est-ce qu’un fork ?)](#b-what-about-forks-or-whats-a-fork)
-
 * [C Qu’en est-il des réclamations pour contournement ?](#c-what-about-circumvention-claims)
-
 * [D. Que se passe-t-il si je n’ai pas respecté par inadvertance le délai pour effectuer des modifications ?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
-
 * [E. Transparence](#e-transparency)
-
 * [F. Infraction répétée](#f-repeated-infringement)
-
 * [G. Envoi d’avis](#g-submitting-notices)
-
 * [Informez-vous et exprimez-vous](#learn-more-and-speak-up)
 
 Bienvenue dans le guide GitHub sur le Digital Millennium Copyright Act, communément appelé « DMCA ». Cette page n’est pas conçue comme une introduction complète à la loi. Toutefois, si vous avez reçu un avis de retrait DMCA visant du contenu que vous avez publié sur GitHub ou si vous êtes un titulaire de droits et souhaitez émettre un tel avis, cette page vous aidera, nous l’espérons, à démystifier un peu la loi ainsi que nos politiques pour s’y conformer.
