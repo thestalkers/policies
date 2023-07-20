@@ -17,6 +17,7 @@ GitHub 条款
 * [GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
 * [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Copilot Pre-release Terms](/zh/site-policy/github-terms/github-copilot-pre-release-terms)
 * [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 * [GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
 * [GitHub Marketplace 服务条款](/zh/site-policy/github-terms/github-marketplace-terms-of-service)

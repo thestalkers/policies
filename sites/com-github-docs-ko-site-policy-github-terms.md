@@ -17,6 +17,7 @@ GitHub 약관
 * [GitHub 추가 제품 및 기능 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [GitHub 커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)
 * [GitHub 커뮤니티 준수 사항](/ko/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Copilot Pre-release Terms](/ko/site-policy/github-terms/github-copilot-pre-release-terms)
 * [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 * [GitHub 등록 개발자 계약](/ko/site-policy/github-terms/github-registered-developer-agreement)
 * [GitHub Marketplace 서비스 약관](/ko/site-policy/github-terms/github-marketplace-terms-of-service)

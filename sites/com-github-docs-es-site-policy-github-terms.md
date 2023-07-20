@@ -17,6 +17,7 @@ Términos de GitHub
 * [Términos de GitHub para Productos y Características Adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [Pautas de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines)
 * [Código de conducta de la comunidad de GitHub](/es/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Copilot Pre-release Terms](/es/site-policy/github-terms/github-copilot-pre-release-terms)
 * [Términos Adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
 * [Acuerdo de Desarrollador Registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
 * [Términos de Servicio de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-terms-of-service)

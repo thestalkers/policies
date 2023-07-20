@@ -17,6 +17,7 @@ Conditions de GitHub
 * [Conditions GitHub pour les Produits et Fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [Charte de la Communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)
 * [Code de Conduite de la Communauté GitHub](/fr/site-policy/github-terms/github-community-code-of-conduct)
+* [GitHub Copilot Pre-release Terms](/fr/site-policy/github-terms/github-copilot-pre-release-terms)
 * [Conditions Supplémentaires de GitHub Sponsors](/fr/site-policy/github-terms/github-sponsors-additional-terms)
 * [Contrat GitHub pour les Développeurs Enregistrés](/fr/site-policy/github-terms/github-registered-developer-agreement)
 * [Conditions d’Utilisation de GitHub Marketplace](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
