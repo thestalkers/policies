@@ -17,7 +17,7 @@
 * [Условия GitHub для дополнительных продуктов и функций](/ru/site-policy/github-terms/github-terms-for-additional-products-and-features)
 * [Правила сообщества GitHub](/ru/site-policy/github-terms/github-community-guidelines)
 * [Правила поведения сообщества GitHub](/ru/site-policy/github-terms/github-community-code-of-conduct)
-* [GitHub Copilot Pre-release Terms](/ru/site-policy/github-terms/github-copilot-pre-release-terms)
+* [условия предварительной версии GitHub Copilot](/ru/site-policy/github-terms/github-copilot-pre-release-terms)
 * [Дополнительные условия для спонсоров GitHub](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 * [Соглашение с зарегистрированным разработчиком GitHub](/ru/site-policy/github-terms/github-registered-developer-agreement)
 * [Условия обслуживания GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-terms-of-service)
