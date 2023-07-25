@@ -13,8 +13,13 @@
 ==========
 
 * [Заявление GitHub о конфиденциальности](/ru/site-policy/privacy-policies/github-privacy-statement)
+
 * [Дополнительные обработчики GitHub и файлы cookie](/ru/site-policy/privacy-policies/github-subprocessors-and-cookies)
+
 * [Заявление о конфиденциальности GitHub Codespaces](/ru/site-policy/privacy-policies/github-codespaces-privacy-statement)
+
 * [Политика конфиденциальности кандидата GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
+
 * [Заявление о конфиденциальности GitHub Copilot для бизнеса](/ru/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
+
 * [Условия предоставления услуг GitHub Octernships](/ru/site-policy/privacy-policies/github-octernships-terms-of-service)

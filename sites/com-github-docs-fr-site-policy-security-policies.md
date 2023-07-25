@@ -13,4 +13,5 @@ Politiques de Sécurité
 ==========
 
 * [Divulgation coordonnée des vulnérabilités de sécurité](/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+
 * [Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug Bounty de GitHub](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
