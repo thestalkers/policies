@@ -22,7 +22,7 @@ GitHub 条件
 
 * [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release Terms](/ja/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot プレリリース条件](/ja/site-policy/github-terms/github-copilot-pre-release-terms)
 
 * [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
