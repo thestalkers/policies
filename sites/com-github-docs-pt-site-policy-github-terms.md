@@ -22,7 +22,7 @@ Termos do GitHub
 
 * [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release Terms](/pt/site-policy/github-terms/github-copilot-pre-release-terms)
+* [Termos de pré-lançamento do GitHub Copilot](/pt/site-policy/github-terms/github-copilot-pre-release-terms)
 
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 

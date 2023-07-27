@@ -22,7 +22,7 @@ GitHub 条款
 
 * [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release Terms](/zh/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot 预发行条款](/zh/site-policy/github-terms/github-copilot-pre-release-terms)
 
 * [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 
