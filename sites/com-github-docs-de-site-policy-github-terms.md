@@ -22,7 +22,7 @@ GitHub Bedingungen
 
 * [Verhaltenskodex für die GitHub Community](/de/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release Terms](/de/site-policy/github-terms/github-copilot-pre-release-terms)
+* [Bestimmungen der Vorabversion von GitHub Copilot](/de/site-policy/github-terms/github-copilot-pre-release-terms)
 
 * [GitHub Sponsors – Zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
 
