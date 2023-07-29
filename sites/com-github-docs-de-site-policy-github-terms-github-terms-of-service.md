@@ -307,7 +307,7 @@ Sie sind für alle Gebühren, einschließlich Steuern, im Zusammenhang mit Ihrer
 
 ### [1. Kontoauflösung](#1-account-cancellation) ###
 
-Es liegt in deiner Verantwortung, dein Konto bei GitHub ordnungsgemäß zu kündigen. Du kannst [dein Konto jederzeit kündigen](/de/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription), indem du über die allgemeine Navigationsleiste oben auf dem Bildschirm zu deinen Einstellungen gehst. Der Kontobildschirm bietet einen einfachen Kündigungslink, bei dem keine Fragen gestellt werden. Wir können Konten nicht als Antwort auf eine E-Mail- oder Telefonanfrage auflösen.
+Es liegt in deiner Verantwortung, dein Konto bei GitHub ordnungsgemäß zu kündigen. Du kannst [dein Konto jederzeit kündigen](/de/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan), indem du über die allgemeine Navigationsleiste oben auf dem Bildschirm zu deinen Einstellungen gehst. Der Kontobildschirm bietet einen einfachen Kündigungslink, bei dem keine Fragen gestellt werden. Wir können Konten nicht als Antwort auf eine E-Mail- oder Telefonanfrage auflösen.
 
 ### [2. Bei Auflösung](#2-upon-cancellation) ###
 

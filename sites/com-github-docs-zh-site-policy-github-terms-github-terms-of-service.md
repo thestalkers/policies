@@ -307,7 +307,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### [1.帐户取消](#1-account-cancellation) ###
 
-您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
+您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
 
 ### [2.取消后](#2-upon-cancellation) ###
 

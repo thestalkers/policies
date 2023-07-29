@@ -307,7 +307,7 @@ Usted es responsable del pago de todas las tarifas, incluidos los impuestos, aso
 
 ### [1. Cancelación de la Cuenta](#1-account-cancellation) ###
 
-Es su responsabilidad cancelar correctamente su Cuenta de GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta contiene un enlace de cancelación muy sencillo en el que no se le hará ninguna pregunta. No podemos cancelar Cuentas en respuesta a un correo electrónico o una solicitud telefónica.
+Es su responsabilidad cancelar correctamente su Cuenta de GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta contiene un enlace de cancelación muy sencillo en el que no se le hará ninguna pregunta. No podemos cancelar Cuentas en respuesta a un correo electrónico o una solicitud telefónica.
 
 ### [2. Tras la Cancelación](#2-upon-cancellation) ###
 
