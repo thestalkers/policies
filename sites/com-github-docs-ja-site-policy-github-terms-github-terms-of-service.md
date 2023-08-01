@@ -307,7 +307,7 @@ GitHub は、ハイスループット アクセスを必要とするか、アク
 
 ### [1.アカウントの解約](#1-account-cancellation) ###
 
-GitHub のアカウントを適切に解約することはお客様の責任です。 お客様は、画面上部のグローバル ナビゲーション バーの [設定] に移動して[アカウントをいつでも解約する](/ja/billing/managing-billing-for-your-github-account/downgrading-your-github-subscription)ことができます。 [アカウント] 画面には、簡素で質問のない解約リンクが表示されます。 当社は、電子メールまたは電話による要求に応じてアカウントを解約することはできません。
+GitHub のアカウントを適切に解約することはお客様の責任です。 お客様は、画面上部のグローバル ナビゲーション バーの [設定] に移動して[アカウントをいつでも解約する](/ja/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)ことができます。 [アカウント] 画面には、簡素で質問のない解約リンクが表示されます。 当社は、電子メールまたは電話による要求に応じてアカウントを解約することはできません。
 
 ### [2.解約の結果](#2-upon-cancellation) ###
 
