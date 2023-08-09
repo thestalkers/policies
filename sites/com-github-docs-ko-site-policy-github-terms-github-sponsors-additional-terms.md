@@ -17,7 +17,7 @@ GitHub Sponsors 추가 약관
 ----------
 
 * [1. 용어 정의.](#1-definitions)
-* [1. 허용 가능한 사용.](#1-acceptable-use)
+* [1. 허용 가능한 사용.](#2-acceptable-use)
 * [3. 후원 대상 개발자 의무.](#3-sponsored-developer-obligations)
 * [4. 재정적 약관.](#4-financial-terms)
 * [5. 진술 및 보증, 책임의 제한, 면책](#5-representations-and-warranties-limitation-of-liability-indemnification)
@@ -45,7 +45,7 @@ GitHub Sponsors 프로그램("프로그램") 참가에는 [GitHub 서비스 약�
 
 "**USD**"는 미국 달러화를 뜻합니다.
 
-[1. 허용 가능한 사용.](#1-acceptable-use)
+[1. 허용 가능한 사용.](#2-acceptable-use)
 ----------
 
 ### [2.1. GitHub Sponsors 프로그램](#21-github-sponsors-program) ###

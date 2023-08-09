@@ -17,7 +17,7 @@ In diesem Artikel
 ----------
 
 * [1. Definitionen.](#1-definitions)
-* [2. Akzeptable Nutzung.](#1-acceptable-use)
+* [2. Akzeptable Nutzung.](#2-acceptable-use)
 * [3. Sponsored Developer – Verpflichtungen.](#3-sponsored-developer-obligations)
 * [4. Bestimmungen im Zusammenhang mit Finanzen.](#4-financial-terms)
 * [5. Zusicherungen und Gewährleistungen; Haftungsbeschränkung; Schadenersatz.](#5-representations-and-warranties-limitation-of-liability-indemnification)
@@ -45,7 +45,7 @@ Ihre Teilnahme am GitHub Sponsors-Programm (das „Programm“) unterliegt den[
 
 **USD** ist United States Dollar.
 
-[2. Akzeptable Nutzung.](#1-acceptable-use)
+[2. Akzeptable Nutzung.](#2-acceptable-use)
 ----------
 
 ### [2.1. GitHub Sponsors Programm](#21-github-sponsors-program) ###

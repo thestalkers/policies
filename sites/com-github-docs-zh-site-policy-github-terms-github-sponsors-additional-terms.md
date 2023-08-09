@@ -17,7 +17,7 @@ GitHub 赞助商附加条款
 ----------
 
 * [1.定义。](#1-definitions)
-* [1. 可接受的使用方式。](#1-acceptable-use)
+* [1. 可接受的使用方式。](#2-acceptable-use)
 * [3.受赞助开发人员的义务。](#3-sponsored-developer-obligations)
 * [4.财务条款。](#4-financial-terms)
 * [5.声明与保证；责任限制；赔偿。](#5-representations-and-warranties-limitation-of-liability-indemnification)
@@ -45,7 +45,7 @@ GitHub 赞助商附加条款
 
 **“USD**”指美元。
 
-[1. 可接受的使用方式。](#1-acceptable-use)
+[1. 可接受的使用方式。](#2-acceptable-use)
 ----------
 
 ### [2.1. GitHub 赞助商计划](#21-github-sponsors-program) ###

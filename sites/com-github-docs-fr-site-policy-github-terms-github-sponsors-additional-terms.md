@@ -17,7 +17,7 @@ Dans cet article
 ----------
 
 * [1. Définitions.](#1-definitions)
-* [1. Bon usage.](#1-acceptable-use)
+* [1. Bon usage.](#2-acceptable-use)
 * [3. Obligations du Développeur Sponsorisé.](#3-sponsored-developer-obligations)
 * [4. Conditions Financières.](#4-financial-terms)
 * [5. Déclarations et Garanties ; Limitation de Responsabilité ; Indemnisation.](#5-representations-and-warranties-limitation-of-liability-indemnification)
@@ -45,7 +45,7 @@ Votre participation au Programme GitHub Sponsors (le « Programme ») est soum
 
 « **USD** » désigne le dollar des États-Unis.
 
-[1. Bon usage.](#1-acceptable-use)
+[1. Bon usage.](#2-acceptable-use)
 ----------
 
 ### [2.1. Programme GitHub Sponsors](#21-github-sponsors-program) ###

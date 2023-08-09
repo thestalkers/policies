@@ -17,7 +17,7 @@
 ----------
 
 * [1. Определения.](#1-definitions)
-* [1. Допустимое использование.](#1-acceptable-use)
+* [1. Допустимое использование.](#2-acceptable-use)
 * [3. Обязательства Спонсируемого разработчика.](#3-sponsored-developer-obligations)
 * [4. Финансовые условия.](#4-financial-terms)
 * [5. Заверения и гарантии; Ограничение ответственности; Возмещение ущерба.](#5-representations-and-warranties-limitation-of-liability-indemnification)
@@ -45,7 +45,7 @@
 
 «**USD**» означает «доллар США».
 
-[1. Допустимое использование.](#1-acceptable-use)
+[1. Допустимое использование.](#2-acceptable-use)
 ----------
 
 ### [2.1. Спонсорская программа GitHub](#21-github-sponsors-program) ###
