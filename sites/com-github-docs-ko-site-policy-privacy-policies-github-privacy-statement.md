@@ -416,7 +416,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 **권한**. 귀하는 (i) 당사가 수집, 사용, 공개, 공유 및 판매하는 개인 데이터를 공개하고, (ii) 귀하의 개인 데이터를 삭제하고, (iii) 귀하의 개인 데이터를 수정하고, (iv) 사용자의 중요한 데이터의 사용 및 공개를 제한하고, (v) 타겟 광고 목적으로 향후 개인 데이터의 "공유"를 옵트아웃하도록 요청할 권리가 있습니다. 직접 또는 권한 있는 에이전트를 통해 이러한 요청을 수행할 수 있습니다. 승인된 에이전트를 사용하는 경우 Microsoft는 귀하의 개인 정보 권한을 행사하는 방법에 대한 자세한 지침을 에이전트에 제공합니다.
 
-이러한 권한을 행사하는 방법에 대한 자세한 내용은 GitHub 개인정보처리방침의 [개인 데이터 처리에 관한 귀하의 선택](#your-choices-regarding-our-processing-of-your-personal-data) 사항을 참조하세요. GitHub의 사용자 마이그레이션 API를 사용하여 귀하의 데이터에 액세스하고 데이터를 다운로드할 수 있습니다. 자세한 내용은 "[Requesting an archive of your personal account’s data](/ko/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)"을 참조하세요.
+이러한 권한을 행사하는 방법에 대한 자세한 내용은 GitHub 개인정보처리방침의 [개인 데이터 처리에 관한 귀하의 선택](#your-choices-regarding-our-processing-of-your-personal-data) 사항을 참조하세요. GitHub의 사용자 마이그레이션 API를 사용하여 귀하의 데이터에 액세스하고 데이터를 다운로드할 수 있습니다. 자세한 내용은 "[개인 계정 데이터의 보관 파일 요청](/ko/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data)"을 참조하세요.
 
 GitHub 계정이 있는 경우 제공된 도구를 통해 권한을 행사해야 하며, 이를 위해서는 GitHub 계정에 로그인해야 합니다. 로그인 후 추가 요청 또는 질문이 있는 경우 웹 양식을 포함하여 문의 방법 섹션의 주소로 GitHub [에 문의](#how-to-contact-us) 할 수 있습니다.
 
