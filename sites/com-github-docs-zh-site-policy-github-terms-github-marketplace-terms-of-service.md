@@ -36,7 +36,7 @@ GitHub Marketplace 服务条款
 [A. GitHub.com 服务条款](#a-githubcoms-terms-of-service)
 ----------
 
-Marketplace 由 GitHub 提供，受[服务条款](/zh/site-policy/github-terms/github-terms-of-service)或[企业服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)（“GitHub 条款”）的约束，具体取决于您的帐户类型以及这些 Marketplace 条款。 如果您将开发人员产品配置在 GitHub.com 网站上的一个或多个帐户中使用，则您对开发人员产品的使用还受适用的 GitHub 条款的约束。 在本文档中未定义的任何大写术语将在适用的 GitHub 条款中定义。
+Marketplace 由 GitHub 提供，受 Marketplace 条款以及您与我们签订的主要协议（[GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)、GitHub 客户协议、[GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)、其他旧版 GitHub 合同或 Microsoft 批量许可协议）的约束。 如果您将开发人员产品配置在 GitHub.com 网站上的一个或多个帐户中使用，则您对开发人员产品的使用还受适用的 GitHub 条款的约束。 在本文档中未定义的任何大写术语将在适用的 GitHub 条款中定义。
 
 您对开发人员产品的使用不得违反适用的 GitHub 条款。 许多开发人员产品专用于执行自动化任务。 而且，可能会有多个用户指挥开发人员产品的操作。 但是，如果您购买开发人员产品和/或在您的帐户上设置开发人员产品，或者您是带有集成式开发人员产品的帐户的所有者，则在您的帐户上执行或通过您的帐户执行的开发人员产品操作由您担责。
 

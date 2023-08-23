@@ -38,7 +38,7 @@ GitHub 公司服务条款
 * [S. 支持](#s-support)
 * [T. 其他](#t-miscellaneous)
 
-这些条款适用于已执行引用《公司服务条款》的协议的 GitHub.com 客户。所有其他企业或机构客户都会定向到 [github.com/customer-terms](https://github.com/customer-terms) 以了解当前条款。
+注意：\*\*\*\* GitHub 公司服务条款已弃用（弃用于 2021 年 11 月 30 日生效），不再用于新客户。 以下条款仅适用于\_\_ 明确执行引用《公司服务条款》的协议的 GitHub 客户。 所有其他企业或机构客户都会定向到 [github.com/customer-terms](https://github.com/customer-terms) 以了解当前 GitHub 客户协议条款。
 
 [GitHub 公司服务条款](#github-corporate-terms-of-service)
 ----------

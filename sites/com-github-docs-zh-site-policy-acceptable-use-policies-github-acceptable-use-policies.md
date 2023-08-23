@@ -30,12 +30,12 @@ GitHub 可接受使用政策
 
 **短版本：***我们托管全球各地大量的协作项目，仅当用户能够诚信合作时，该协作才能正常进行。在使用服务时，您必须遵守我们的《可接受使用政策》，其中包括对 GitHub 上的内容和行为的一些限制，这些限制与用户安全、知识产权、隐私、真实性和其他限制有关。简言之，要善待彼此。*
 
-《可接受使用政策》中使用但未定义的重要术语具有我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中赋予它们的含义。 对于受[公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)约束的客户，“您”是指“客户”或“用户”。 “我们”是指“GitHub”。
+这些可接受使用策略中使用但未定义的大写术语在您与我们签订的主要协议（[GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)、GitHub 客户协议、[GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)、其他旧版 GitHub 合同或 Microsoft 批量许可协议）中具有其在各自协议中指定的含义。 对于受旧版公司服务条款约束的客户，“您”是指“客户”或“用户”。 “我们”是指“GitHub”。
 
 [1.遵守法律和法规](#1-compliance-with-laws-and-regulations)
 ----------
 
-您负责遵照所有相关的法律、法规以及我们所有的《可接受使用政策》来使用服务。 这些政策可能不时更新，请参阅下面的内容以及我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)和[公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)。
+您负责遵照所有相关的法律、法规以及我们所有的《可接受使用政策》来使用服务。 这些策略可能会不时更新，如下所示。
 
 [2.用户安全](#2-user-safety)
 ----------

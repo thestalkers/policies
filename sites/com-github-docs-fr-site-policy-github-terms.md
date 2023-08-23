@@ -14,9 +14,9 @@ Conditions de GitHub
 
 * [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
 
-* [Conditions d’Utilisation de GitHub pour les Entreprises](/fr/site-policy/github-terms/github-corporate-terms-of-service)
+* [Conditions d'utilisation de GitHub Corporate](/fr/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [Conditions GitHub pour les Produits et Fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [Conditions GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [Charte de la Communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)
 
@@ -28,7 +28,7 @@ Conditions de GitHub
 
 * [Contrat GitHub pour les Développeurs Enregistrés](/fr/site-policy/github-terms/github-registered-developer-agreement)
 
-* [Conditions d’Utilisation de GitHub Marketplace](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
 
 * [Contrat pour les Développeurs du GitHub Marketplace](/fr/site-policy/github-terms/github-marketplace-developer-agreement)
 

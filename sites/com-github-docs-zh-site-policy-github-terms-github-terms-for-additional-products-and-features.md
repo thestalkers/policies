@@ -33,7 +33,7 @@ GitHub 附加产品和功能条款
 
 版本生效日期：2022 年 11 月 3 日
 
-当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，针对该产品或功能的具体条款在适用于您与我们的主要协议之余，也适用于 GitHub 服务条款、GitHub 企业服务条款、GitHub 通用条款或微软批量许可协议（每个条款均称为“协议”）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
+当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
 使用附加产品和功能，即表示您也同意下面列出的适用的 GitHub 附加产品和功能条款。 违反这些 GitHub 附加产品和功能条款即为违反协议。 此处未定义的术语与协议中规定的含义相同。
 
@@ -82,6 +82,8 @@ GitHub Actions 使你能够直接在 GitHub 存储库中创建自定义软件开
 GitHub 根据 Advanced Security 许可证向客户提供额外的安全功能。 这些功能包括代码扫描、秘密扫描和依赖项审查。 [Advanced Security 文档](/zh/get-started/learning-about-github/about-github-advanced-security)提供更多详细信息。
 
 Advanced Security 基于“唯一提交者”获得许可。 “唯一提交者”是 GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server 或 GitHub AE 的许可用户，他们在过去 90 天内在激活了 GitHub Advanced Security 功能的任何存储库中进行过提交。 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能对由您开发或为您开发的代码库使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些 Advanced Security 功能还需要使用 GitHub Actions。
+
+若要使用 GitHub Advanced Security 进行机密扫描，如果选择自动验证合作伙伴模式，可能会与相关合作伙伴共享公开的第三方令牌，以便提供有关令牌有效性的详细信息。 并非所有合作伙伴都位于美国。 [机密扫描模式文档](/zh/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)提供了更多详细信息，介绍哪些合作伙伴支持有效性检查。
 
 [Advisory Database](#advisory-database)
 ----------
