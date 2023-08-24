@@ -12,7 +12,7 @@ Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
 Richtlinien zur akzeptablen Nutzung
 ==========
 
-* [Richtlinien zur akzeptablen Nutzung von GitHub](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [GitHub-Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 * [Aktive Malware oder Exploits auf GitHub](/de/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 

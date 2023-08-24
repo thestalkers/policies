@@ -28,7 +28,7 @@ Términos de GitHub
 
 * [Acuerdo de Desarrollador Registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
 
-* [Términos de Servicio de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 
 * [Acuerdo de Desarrollador de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-developer-agreement)
 

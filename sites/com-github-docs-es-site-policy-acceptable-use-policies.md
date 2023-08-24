@@ -12,7 +12,7 @@ Directivas de Uso Aceptable - Documentación de GitHub
 Directivas de Uso Aceptable
 ==========
 
-* [Directivas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Políticas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 * [Malware Activo o Vulnerabilidades de GitHub](/es/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 

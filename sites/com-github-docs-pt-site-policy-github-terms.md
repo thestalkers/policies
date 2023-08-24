@@ -12,11 +12,11 @@ Termos do GitHub - GitHub Docs
 Termos do GitHub
 ==========
 
-* [Termos de serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+* [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
 
-* [Termos de Serviços Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
+* [Termos de serviço corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [Termos do GitHub para Produtos e Recursos Adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 

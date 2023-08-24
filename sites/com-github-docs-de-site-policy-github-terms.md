@@ -14,9 +14,9 @@ GitHub Bedingungen
 
 * [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service)
 
-* [GitHub Nutzungsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
+* [GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
 
-* [GitHub Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 * [Community-Richtlinien von GitHub](/de/site-policy/github-terms/github-community-guidelines)
 
@@ -28,7 +28,7 @@ GitHub Bedingungen
 
 * [GitHub Vereinbarung für registrierte Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
 
-* [Nutzungsbedingungen für GitHub Marketplace](/de/site-policy/github-terms/github-marketplace-terms-of-service)
+* [GitHub Marketplace-Nutzungsbedingungen](/de/site-policy/github-terms/github-marketplace-terms-of-service)
 
 * [GitHub Marketplace Entwicklervereinbarung](/de/site-policy/github-terms/github-marketplace-developer-agreement)
 
