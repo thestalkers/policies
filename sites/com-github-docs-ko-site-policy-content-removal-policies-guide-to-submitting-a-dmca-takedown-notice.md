@@ -16,90 +16,90 @@ DMCA 게시 중단 통지 제출 가이드
 이 문서의 내용
 ----------
 
-* [시작하기 전에](#before-you-start)
-* [신고는 다음과 같아야 합니다.](#your-complaint-must-)
-* [우회 방지 기술에 관한 위반 신고](#complaints-about-anti-circumvention-technology)
-* [위반 신고 제출 방법](#how-to-submit-your-complaint)
+* [Before You Start](#before-you-start)
+* [Your Complaint Must ...](#your-complaint-must-)
+* [Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
+* [How to Submit Your Complaint](#how-to-submit-your-complaint)
 
-이 가이드에서는 DMCA 게시 중단 요청 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다. DMCA가 무엇인지 또는 GitHub가 DMCA 게시 중단 요청을 어떻게 처리하는지에 대한 일반적인 추가 질문이 있는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하십시오.
+This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy).
 
-GitHub가 호스트하는 콘텐츠 형식(주로 소프트웨어 코드)과 콘텐츠를 (Git로) 관리하는 방법 때문에 불만 사항은 최대한 구체적이어야 합니다. 이 가이드라인은 침해 혐의 통지 처리를 최대한 간단히 설명하기 위해 고안되었습니다. 아래 명시된 GitHub의 통지 양식은 미국 저작권청의 공식 웹 사이트( <https://www.copyright.gov>에서 찾을 수 있는 DMCA 법령이 추천하는 양식과 일치합니다.
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. These guidelines are designed to make the processing of alleged infringement notices as straightforward as possible. Our form of notice set forth below is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
 
-모든 법적 문제와 마찬가지로 특정 질문이나 상황에 대해서는 항상 전문가와 상담하는 것이 가장 좋습니다. 귀하의 권리에 영향을 미칠 수 있는 조치를 취하기 전에 그러한 전문 상담을 할 것을 적극 권장합니다. 이 가이드는 법률 자문이 아니며 그러한 것으로 받아들여서도 안 됩니다.
+As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-[시작하기 전에](#before-you-start)
+[Before You Start](#before-you-start)
 ----------
 
-***사실을 말하십시오.*** DMCA에서는 저작권 신고의 사실 관계가 사실임을 맹세하고 위증일 경우 처벌을 받도록 요구하고 있습니다. 선서 진술에서 고의로 거짓을 말하는 것은 연방 범죄입니다. (*U.S. Code, Title 18, Section 1621*을 [참조하십시오](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) 허위 정보를 제출할 경우 민사상 책임을 지게 될 수도 있습니다. 즉, 금전적 손해를 이유로 고소될 수 있습니다. DMCA 자체는 자료 또는 활동이 저작권을 침해한다고 고의로 현저하게 허위 표시하는 자에 대해 [손해 배상을 규정](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)하고 있습니다.
+***Tell the Truth.*** The DMCA requires that you swear to the facts in your copyright complaint *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself [provides for damages](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) against any person who knowingly materially misrepresents that material or activity is infringing.
 
-조사하십시오.**\*\*** 수많은 사용자와 조직이 GitHub에서 그들이 만들고 기여하는 프로젝트에 심혈을 기울이고 있습니다. 이러한 프로젝트를 상대로 DMCA 신고를 제출하는 것은 실제 사람들에게 실제 영향을 미치는 심각한 법률적 주장입니다. 이때문에 GitHub는 게시 중단 통지를 제출하기 전에 철저한 조사를 실시하고 변호사와 상담하여 해당 사용이 실제로 허용 가능한 사용이 아님을 확인할 것을 요청합니다.
+***Investigate.*** Millions of users and organizations pour their hearts and souls into the projects they create and contribute to on GitHub. Filing a DMCA complaint against such a project is a serious legal allegation that carries real consequences for real people. Because of that, we ask that you conduct a thorough investigation and consult with an attorney before submitting a takedown to make sure that the use isn't actually permissible.
 
-***먼저 정중히 요청하십시오.*** GitHub에 게시 중단 통지를 보내기 전에 먼저 해당 사용자에게 직접 연락하는 것이 좋습니다. 공개 프로필 페이지나 리포지토리의 README에 연락처 정보가 있을 수도 있고, 리포지토리에서 이슈 또는 끌어오기 요청을 열어 연락할 수도 있습니다. 반드시 이렇게 해야 하는 것은 아니지만 그것이 세련된 대처입니다.
+***Ask Nicely First.*** A great first step before sending us a takedown notice is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README, or you could get in touch by opening an issue or pull request on the repository. This is not strictly required, but it is classy.
 
-***올바른 요청을 보내십시오.*** GitHub는 저작권으로 보호되고 저작권 보호를 받을 수 있는 구체적 저작물을 식별하는 DMCA 게시 중단 통지만 받을 수 있습니다. 상표 남용에 대한 불만 사항이 있는 경우 GitHub의 [상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)을 참조하십시오. 암호와 같은 민감한 데이터를 제거하기 원하는 경우, GitHub의 [민감한 데이터 관련 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)을 참조하십시오. 명예 훼손 또는 기타 모욕 행위에 대처하는 경우, GitHub의 [커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)을 참조하십시오.
+***Send In The Correct Request.*** We can only accept DMCA takedown notices for works that are protected by copyright, and that identify a specific copyrightable work. If you have a complaint about trademark abuse, please see our [trademark policy](/en/site-policy/content-removal-policies/github-trademark-policy). If you wish to remove sensitive data such as passwords, please see our [policy on sensitive data](/en/site-policy/content-removal-policies/github-private-information-removal-policy). If you are dealing with defamation or other abusive behavior, please see our [Community Guidelines](/en/site-policy/github-terms/github-community-guidelines).
 
-***코드는 다른 크리에이티브 콘텐츠와 다릅니다.*** GitHub는 소프트웨어 코드에서의 협업을 위해 만들어졌습니다. 따라서 예를 들어 사진, 음악 또는 동영상의 경우보다 유효한 저작권 침해를 파악하기가 더 어렵습니다.
+***Code Is Different From Other Creative Content.*** GitHub is built for collaboration on software code. This makes identifying a valid copyright infringement more complicated than it might otherwise be for, say, photos, music, or videos.
 
-코드가 다른 크리에이티브 콘텐츠와 다른 이유는 많습니다. 예:
+There are a number of reasons why code is different from other creative content. For instance:
 
-* 리포지토리에 수많은 사람의 다양한 코드 조각이 포함될 수 있지만 단 하나의 파일 또는 심지어 파일 내의 서브루틴 하나가 저작권을 침해합니다.
-* 코드에는 기능과 독창적 표현이 섞여 있지만 저작권은 기능적 부분이 아니라 표현적 요소만 보호합니다.
-* 라이선스를 고려해야 하는 경우도 많습니다. 코드 조각에 저작권 표시가 있다고 해서 반드시 저작권을 침해하는 것은 아닙니다. 코드가 오픈 소스 라이선스에 따라 사용되고 있을 수 있습니다.
-* 저작권이 있는 콘텐츠를 소량만 사용하거나, 해당 콘텐츠를 혁신적 방식으로 사용하거나, 교육 목적으로 사용하거나, 위 항목을 일부 조합하여 사용하는 특정한 사용은 [공정 사용](https://www.lumendatabase.org/topics/22)으로 간주될 수 있습니다. 코드는 이러한 용도에 적합하므로 각 사용 사례에는 차이가 있으며 별도로 고려해야 합니다.
-* 코드는 다양한 방법으로 침해를 주장할 수 있기 때문에 저작물의 자세한 설명과 식별이 필요합니다.
+* A repository may include bits and pieces of code from many different people, but only one file or even a sub-routine within a file infringes your copyrights.
+* Code mixes functionality with creative expression, but copyright only protects the expressive elements, not the parts that are functional.
+* There are often licenses to consider. Just because a piece of code has a copyright notice does not necessarily mean that it is infringing. It is possible that the code is being used in accordance with an open-source license.
+* A particular use may be [fair-use](https://www.lumendatabase.org/topics/22) if it only uses a small amount of copyrighted content, uses that content in a transformative way, uses it for educational purposes, or some combination of the above. Because code naturally lends itself to such uses, each use case is different and must be considered separately.
+* Code may be alleged to infringe in many different ways, requiring detailed explanations and identifications of works.
 
-이 목록은 완전한 것이 아니므로 코드를 다룰 때는 제안된 위반 신고에 대해 법률 전문가와 상의하는 것이 두 배로 중요합니다.
+This list isn't exhaustive, which is why speaking to a legal professional about your proposed complaint is doubly important when dealing with code.
 
-***봇 사용 금지.*** 보내는 모든 게시 중단 요청의 사실 관계는 훈련된 전문가가 평가하도록 해야 합니다. 이 작업을 제3자에 외주를 주는 경우, 제3자의 작업 방식을 파악하고 제3자가 자동화된 봇을 사용하여 불만 사항을 대량으로 제출하지 않도록 해야 합니다. 이러한 위반 신고는 흔히 무효이며, 처리 결과 불필요하게 프로젝트가 게시 중단될 수 있습니다!
+***No Bots.*** You should have a trained professional evaluate the facts of every takedown notice you send. If you are outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints are often invalid and processing them results in needlessly taking down projects!
 
-***저작권 문제는 어렵습니다.*** 특정 저작물이 저작권으로 보호되는 저작물인지 판단하기는 매우 어려울 수 있습니다. 예를 들어 사실(데이터를 포함)은 일반적으로 저작권으로 보호할 수 없습니다. 단어와 짧은 문구는 일반적으로 저작권으로 보호할 수 없습니다. URL과 도메인 이름은 일반적으로 저작권으로 보호할 수 없습니다. DMCA 절차는 저작권으로 보호되는 콘텐츠만을 대상으로 사용할 수 있으므로 콘텐츠가 보호 가능한지 여부에 대한 질문이 있는 경우, 변호사와 상의해야 합니다.
+***Matters of Copyright Are Hard.*** It can be very difficult to determine whether or not a particular work is protected by copyright. For example, facts (including data) are generally not copyrightable. Words and short phrases are generally not copyrightable. URLs and domain names are generally not copyrightable. Since you can only use the DMCA process to target content that is protected by copyright, you should speak with a lawyer if you have questions about whether or not your content is protectable.
 
-***반론 통지를 받을 수 있습니다.*** 게시 중단 통지의 영향을 받는 모든 사용자는 [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 제출하기로 결정할 수 있습니다. 반론 통지가 제출되는 경우, 귀하가 GitHub에 있는 콘텐츠와 관련된 침해 활동에 해당 사용자가 참여하는 것을 제한하기 위한 법적 조치를 개시했음을 GitHub에 통지하지 않으면 10\~14일 이내에 해당 콘텐츠가 다시 활성화됩니다.
+***You May Receive a Counter Notice.*** Any user affected by your takedown notice may decide to submit a [counter notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). If they do, we will re-enable their content within 10-14 days unless you notify us that you have initiated a legal action seeking to restrain the user from engaging in infringing activity relating to the content on GitHub.
 
-***귀하의 위반 신고는 게시됩니다.*** GitHub [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)에 명시된 것처럼 GitHub는 개인 정보를 삭제한 후 <https://github.com/github/dmca>에 완전하고 소송 가능한 모든 게시 중단 통지를 게시합니다.
+***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/github/dmca>.
 
-***GitHub는 판사가 아닙니다.***GitHub는 통지가 DMCA의 최소 요구 사항을 충족하는지 여부를 판단하는 것 외에 절차에서 재량권을 거의 행사하지 않습니다. 통지는 위증 시 처벌을 전제로 전달해야 한다는 점을 유념하여 청구의 장점을 평가할 책임은 당사자 본인(및 그 변호사)에게 있습니다.
+***GitHub Isn't The Judge.***GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
-[신고는 다음과 같아야 합니다.](#your-complaint-must-)
+[Your Complaint Must ...](#your-complaint-must-)
 ----------
 
-1. **다음 진술이 포함되어야 합니다. "저는 GitHub의 DMCA 통지 제출 가이드를 읽고 이해했습니다."** GitHub는 이 진술이 포함되지 않은 것만 제외하면 완전한 신고의 처리를 거부하지 않습니다. 하지만 귀하가 이 지침을 읽지 않았음을 알게 되며, 다시 제출할 것을 귀하에게 요청할 수 있습니다.
+1. **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Notice."** We won't refuse to process an otherwise complete complaint if you don't include this statement. But we'll know that you haven't read these guidelines and may ask you to go back and do so.
 
-2. **저작권이 침해되었다고 생각하는 저작물을 명시하십시오.** 이 정보는 영향을 받는 사용자가 귀하의 청구를 평가하는 데 도움이 되고 귀하의 저작물을 자신의 저작물과 비교할 수 있기 때문에 중요합니다. 명시의 구체성은 침해되었다고 생각하는 저작물의 특성에 따라 달라집니다. 저작물을 게시한 경우, 저작물이 있는 웹 페이지에 대한 링크를 설정할 수 있습니다. 독점이고 게시되지 않은 저작물의 경우, 이를 기술하고 독점 저작물임을 설명할 수 있습니다. 저작권청에 등록한 경우, 등록 번호를 포함해야 합니다. 호스트된 콘텐츠가 귀하의 저작물의 직접적인 문언적 복제라고 주장하는 경우, 해당 사실도 설명할 수 있습니다.
+2. **Identify the copyrighted work you believe has been infringed.** This information is important because it helps the affected user evaluate your claim and give them the ability to compare your work to theirs. The specificity of your identification will depend on the nature of the work you believe has been infringed. If you have published your work, you might be able to just link back to a web page where it lives. If it is proprietary and not published, you might describe it and explain that it is proprietary. If you have registered it with the Copyright Office, you should include the registration number. If you are alleging that the hosted content is a direct, literal copy of your work, you can also just explain that fact.
 
-3. **위의 항목 2에 나열된 저작권으로 보호되는 저작물의 저작권 침해를 주장하는 자료를 명시하십시오.** 최대한 구체적으로 명시하는 것이 중요합니다. 이 명시는 GitHub가 해당 자료를 찾을 수 있을 만큼 합리적으로 충분해야 합니다. 최소한 저작권 침해 혐의가 있는 자료의 URL을 포함해야 합니다. 전체 리포지토리가 저작권을 침해한다고 주장하는 것이 아니라면 구체적 파일 또는 저작권 침해를 주장하는 파일 내의 줄 번호를 명시하십시오. URL의 모든 콘텐츠가 저작권을 침해한다고 주장하는 경우에도 명시적으로 밝히십시오.
+3. **Identify the material that you allege is infringing the copyrighted work listed in item #2, above.** It is important to be as specific as possible in your identification. This identification needs to be reasonably sufficient to permit GitHub to locate the material. At a minimum, this means that you should include the URL to the material allegedly infringing your copyright. If you allege that less than a whole repository infringes, identify the specific file(s) or line numbers within a file that you allege infringe. If you allege that all of the content at a URL infringes, please be explicit about that as well.
 
-   * GitHub는 부모 리포지토리를 비활성화할 때 [포크](/ko/site-policy/content-removal-policies/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork)를 자동으로 비활성화하지 *않습니다*. 리포지토리의 포크를 조사 및 분석했고 포크도 저작권을 침해한다고 생각하는 경우, 저작권을 침해한다고 주장하는 각 포크를 명시하십시오. 또한 각 개별 사례를 조사했으며, 명시된 각 포크에 선서 진술이 적용된다고 확인해 주십시오. 드문 경우지만 활발하게 포크되고 있는 전체 리포지토리에서 저작권 침해 혐의를 제기할 수 있습니다. 통지를 제출할 당시에 해당 리포지토리의 모든 기존 포크를 저작권 침해가 의심되는 포크로 식별했다면 당사는 통지를 처리할 때 해당 네트워크의 모든 포크에 대해 유효한 청구를 처리합니다. GitHub는 새로 생성된 모든 포크에 동일한 콘텐츠가 포함될 가능성을 고려하여 이 작업을 수행합니다. 또한 저작권 침해 혐의가 있는 콘텐츠가 포함된 것으로 보고된 네트워크가 리포지토리 100개를 넘어 전체를 검토하기 어려운 경우, 통지에서 "본인이 검토한 대표적인 포크의 수를 근거로 할 때 모든 포크 또는 대부분의 포크가 부모 리포지토리와 동일한 정도로 저작권을 침해하고 있다고 판단됩니다"라는 내용이 명시된다면 GitHub는 전체 네트워크의 비활성화를 고려할 수 있습니다. 귀하의 선서 후 진술 내용은 이 문서에 적용됩니다.
+   * Please note that GitHub will *not* automatically disable [forks](/en/site-policy/content-removal-policies/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork) when disabling a parent repository. If you have investigated and analyzed the forks of a repository and believe that they are also infringing, please explicitly identify each allegedly infringing fork. Please also confirm that you have investigated each individual case and that your sworn statements apply to each identified fork. In rare cases, you may be alleging copyright infringement in a full repository that is actively being forked. If at the time that you submitted your notice, you identified all existing forks of that repository as allegedly infringing, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the allegedly infringing content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, "Based on the representative number of forks you have reviewed, I believe that all or most of the forks are infringing to the same extent as the parent repository." Your sworn statement would apply to this statement.
 
-4. **영향을 받는 사용자가 침해 구제를 위해 해야 할 일을 설명하십시오.** 다시 말하지만 구체성이 중요합니다. 귀하의 위반 신고를 해당 사용자에게 전달할 경우, 이는 해당 사용자에게 나머지 콘텐츠의 비활성화를 막기 위해 해야 할 일을 알려 주는 것입니다. 해당 사용자가 저작권 표시 진술만 추가하면 됩니까? 코드 내의 특정 줄을 삭제하거나 전체 파일을 삭제해야 합니까? 물론 경우에 따라 사용자의 콘텐츠 전체가 저작권 침해 혐의가 있어 모두 삭제하는 것 외에는 해당 사용자가 할 수 있는 일이 없을 수 있음을 이해합니다. 이 경우, 이 점도 명확히 밝혀 주십시오.
+4. **Explain what the affected user would need to do in order to remedy the infringement.** Again, specificity is important. When we pass your complaint along to the user, this will tell them what they need to do in order to avoid having the rest of their content disabled. Does the user just need to add a statement of attribution? Do they need to delete certain lines within their code, or entire files? Of course, we understand that in some cases, all of a user's content may be alleged to infringe and there's nothing they could do short of deleting it all. If that's the case, please make that clear as well.
 
-5. **연락처 정보를 제공하십시오.** 이메일 주소, 이름, 전화 번호, 실제 주소를 포함하십시오.
+5. **Provide your contact information.** Include your email address, name, telephone number and physical address.
 
-6. **알고 있는 경우 침해 혐의자의 연락처 정보를 제공하십시오.** 일반적으로 이는 침해 혐의가 있는 콘텐츠에 연결된 GitHub 사용자 이름을 제공하면 충족됩니다. 하지만 침해 혐의자에 대한 추가 지식이 있는 경우도 있습니다. 이 경우 해당 정보도 GitHub와 공유해 주십시오.
+6. **Provide contact information, if you know it, for the alleged infringer.** Usually this will be satisfied by providing the GitHub username associated with the allegedly infringing content. But there may be cases where you have additional knowledge about the alleged infringer. If so, please share that information with us.
 
-7. **다음 진술이 포함되어야 합니다. "저는 저작권을 침해하는 웹 페이지에서 위에 설명한 저작권 보호 자료의 사용이 저작권 소유자 또는 그 대리인 또는 법률의 허가를 받지 않았다고 선의로 믿습니다. 저는 공정 사용을 고려했습니다."**
+7. **Include the following statement: "I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration."**
 
-8. **다음 진술도 포함되어야 합니다. "저는 이 통지의 정보가 정확하며, 제가 침해를 주장하는 독점적 권리의 저작권 소유자이거나 소유자를 대신하여 행위할 권한을 부여받았음을 맹세하며 위증 시 처벌을 감수합니다."**
+8. **Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."**
 
-9. **물리적 또는 전자 서명을 포함하십시오.**
+9. **Include your physical or electronic signature.**
 
-[우회 방지 기술에 관한 위반 신고](#complaints-about-anti-circumvention-technology)
+[Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
 ----------
 
-저작권법은 저작권으로 보호되는 저작물에 대한 액세스를 효과적으로 제어하는 기술적 조치의 우회를 금지합니다. GitHub에서 호스트되는 콘텐츠가 이 금지를 위반한다고 믿는 경우, [저작권 클레임 양식](https://github.com/contact/dmca)를 통해 GitHub에 보고서를 보낼 수 있습니다. 우회 청구에는 갖추고 있는 기술적 조치에 관한 정보는 물론, 고발된 프로젝트가 그러한 조치를 우회하는 방식에 관한 다음과 같은 세부 정보도 포함되어야 합니다. 특히 GitHub에 대한 통지에는 다음을 설명하는 세부 정보가 포함되어야 합니다.
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our [Copyright claims form](https://github.com/contact/dmca). A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 
-1. 기술적 조치의 내용
-2. 저작권으로 보호되는 자료에 대한 액세스를 효과적으로 제어하는 방법
-3. 고발된 프로젝트가 앞서 설명한 기술적 보호 조치를 우회하도록 설계된 방법
+1. What the technical measures are;
+2. How they effectively control access to the copyrighted material; and
+3. How the accused project is designed to circumvent their previously described technological protection measures.
 
-[위반 신고 제출 방법](#how-to-submit-your-complaint)
+[How to Submit Your Complaint](#how-to-submit-your-complaint)
 ----------
 
-답변을 받는 가장 빠른 방법은 GitHub의 [저작권 클레임 양식](https://github.com/contact/dmca)에서 귀하의 정보를 입력하고 모든 질문에 답하는 것입니다.
+The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
 
-[copyright@github.com](mailto:copyright@github.com)으로 메일 알림을 보낼 수도 있습니다. 원하는 경우 첨부 파일을 포함할 수도 있지만 메시지 본문에 요청의 일반 텍스트 버전도 포함하십시오.
+You can also send an email notification to [copyright@github.com](mailto:copyright@github.com). You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
-우편을 통해 통지를 보내야 하는 경우, 이것 역시 가능하지만 GitHub가 받고 응답하는 데 걸리는 시간이 *상당히* 길어집니다. 일반 텍스트 이메일을 통해 GitHub가 받는 통지가 PDF 첨부 파일이나 실제 우편보다 수령 및 응답이 훨씬 빠릅니다. 그래도 우편으로 통지를 송부하려는 경우, GitHub의 실제 주소는 아래와 같습니다.
+If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 
 ```
 GitHub, Inc

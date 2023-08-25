@@ -16,98 +16,98 @@ GitHub 개인 정보 제거 정책
 이 문서의 내용
 ----------
 
-* [개인 정보란?](#what-is-private-information)
-* [유의 사항](#things-to-know)
-* [이 절차의 운영 방식](#how-does-this-actually-work)
-* [개인 정보 제거 정책 요청 보내기](#sending-a-private-information-removal-request)
-* [요청 제출 방법](#how-to-submit-your-request)
-* [분쟁](#disputes)
+* [What is Private Information?](#what-is-private-information)
+* [Things to Know](#things-to-know)
+* [How Does This Actually Work?](#how-does-this-actually-work)
+* [Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
+* [How to Submit Your Request](#how-to-submit-your-request)
+* [Disputes](#disputes)
 
-이 개인 정보 제거 프로세스는 액세스 자격 증명 노출로 보안이 위험에 처한 경우와 같이 [GitHub 서비스 약관](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)을 위반하는 위험성 높은 콘텐츠에 한해 예외적 서비스로 제공됩니다. 이 가이드에서는 리포지토리에서의 개인 정보 제거 요청 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다.
+We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
 
-[개인 정보란?](#what-is-private-information)
+[What is Private Information?](#what-is-private-information)
 ----------
 
-이 문서에서 “개인 정보”란 (i) 기밀을 유지해야 하고 *또한* (ii) 공개적 사용 가능성이 귀하 또는 귀하의 조직에 특정하거나 집중된 보안 위험을 초래하는 콘텐츠를 말합니다.
+For the purposes of this document, “private information” refers to content that (i) should have been kept confidential, *and* (ii) whose public availability poses a specific or targeted security risk to you or your organization.
 
-"보안 위험"이란 물리적 위험이나 신원 도용 또는 물리적 또는 네트워크 시설에 대한 무단 액세스 가능성 증가에 노출되는 상황을 말합니다.
+"Security risk" refers to a situation involving exposure to physical danger, identity theft, or increased likelihood of unauthorized access to physical or network facilities.
 
-### [개인 정보 제거 요청이 적절한 경우:](#private-information-removal-requests-are-appropriate-for) ###
+### [Private information removal requests are appropriate for:](#private-information-removal-requests-are-appropriate-for) ###
 
-* 암호, 액세스 토큰 또는 조직의 서버나 네트워크 또는 도메인에 대한 액세스를 허용할 수 있는 기타 중요한 비밀과 조합된 사용자 이름과 같은 액세스 자격 증명.
-* AWS 토큰 및 귀하를 대신하는 제3자에게 액세스를 허용하는 기타 유사한 액세스 자격 증명. 토큰이 귀하의 소유임을 입증할 수 있어야 합니다.
-* 조직에 특정 보안 위험을 초래하는 문서(예: 네트워크 다이어그램 또는 아키텍처).
-* 개인으로서의 귀하와 관련되고 보안 위험을 초래하는 [정보](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) (예: 사회 보장 번호 또는 기타 정부 ID 번호).
+* Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
+* AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
+* Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization.
+* [Information](/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
 
-### [개인 정보 제거 요청이 적절하지 *않은* 경우:](#private-information-removal-requests-are-not-appropriate-for) ###
+### [Private information removal requests are *not* appropriate for:](#private-information-removal-requests-are-not-appropriate-for) ###
 
-* 내부 서버 이름, IP 주소, URL 자체. 특정 파일이나 코드에서의 사용이 보안 위협이 된다는 것을 입증할 수 있어야 합니다.
-* 회사 ID, 이름, 브랜드, 도메인 이름의 단순한 언급 또는 GitHub의 파일에서 그 밖에 회사를 참조. 회사의 ID 사용이 회사의 보안 태세에 위협이 되는 이유를 명확히 설명할 수 있어야 합니다.
-* 특정 보안 위험을 초래하지 않지만 기타 방식으로 불쾌하다고 믿는 전체 파일 또는 리포지토리.
-* 귀하 또는 귀하의 조직의 저작권을 침해할 수 있는 콘텐츠 제거 요청. GitHub의 저작권 관련 문제 처리 방법에 대한 질문이 있거나 잠재적 침해 콘텐츠를 신고하려는 경우 [DMCA 제거 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하십시오. 개인 정보 제거 프로세스는 일반적으로 전체 파일이나 리포지토리가 아니라 해당 파일의 특정 개인 정보만 제거하기 위한 것입니다. 파일 전체가 개인 정보로 채워진 경우도 있을 수 있지만 그러한 파일을 제거해야 할 보안 위험을 정당화해야 하며, 이 경우 요청 처리에 필요한 시간이 늘어날 수 있습니다.
-* 상표 분쟁. GitHub의 상표 관련 문제 처리 방법에 대한 질문이 있거나 귀하의 조직의 상표 또는 서비스 마크가 포함된 콘텐츠를 신고하려는 경우 [상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)을 참조하십시오.
-* 개인 정보 불만 사항. GitHub에 있는 귀하의 개인 정보에 액세스하거나 전송, 변경 또는 삭제하려면 [GitHub 개인 정보 보호 문의 양식](https://github.com/contact/privacy)을 통해 문의하십시오.
-* GitHub [커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)이 적용되는 콘텐츠(예: 맬웨어 또는 범용 도구). 커뮤니티 가이드라인에 대한 질문이 있거나 GitHub의 콘텐츠가 GitHub 가이드라인을 위반할 수 있다고 믿는 경우, [보고서 콘텐츠](https://github.com/contact/report-content)를 사용하여 문의하실 수 있습니다.
+* Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
+* Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture.
+* Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
+* Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy). The private information removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of private information in those files. While there may be cases where files are filled entirely with private information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
+* Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy).
+* Privacy complaints. If you wish to access, transfer, change, or delete your personal information on GitHub, please contact us via [our Privacy contact form](https://github.com/contact/privacy).
+* Content governed by our [Community Guidelines](/en/site-policy/github-terms/github-community-guidelines), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can use [Report content](https://github.com/contact/report-content) to contact us.
 
-[유의 사항](#things-to-know)
+[Things to Know](#things-to-know)
 ----------
 
-**먼저 정중히 요청하십시오.** GitHub에 데이터 제거 요청을 보내기 전에 먼저 해당 사용자에게 직접 연락하는 것이 좋습니다. 공개 프로필 페이지나 리포지토리의 README 또는 지원 파일에 연락처 정보가 있을 수도 있고, 리포지토리에서 이슈 또는 끌어오기 요청을 생성해 연락할 수도 있습니다. 반드시 이렇게 해야 하는 것은 아니지만 그러면 GitHub에게 도움이 됩니다.
+**Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by creating an issue or pull request in the repository. This is not strictly required, but it is appreciated.
 
-**봇 사용 금지.** 보내는 모든 요청의 사실 관계는 훈련된 전문가가 평가하도록 해야 합니다. 이 작업을 제3자에 외주를 주는 경우, 제3자의 작업 방식을 파악하고 제3자가 자동화된 봇을 사용하여 불만 사항을 대량으로 제출하지 않도록 해야 합니다. 이러한 불만 사항에는 보안 위협이 되지 않는 데이터가 포함된 경우가 많고, 불만 사항이 타당한 경우에도 충분한 설명이 포함되어 있지 않아 추가 연락이 필요하기 때문에 지연이 발생합니다.
+**No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints often include data that does not pose any security threats, and they do not include sufficient explanations, requiring additional back-and-forth and resulting in delays, even when the complaint is valid.
 
-**올바른 요청을 보내십시오.** 앞서 언급한 것처럼 이 개인 정보 제거 프로세스는 위험성이 높은 콘텐츠에 한해 예외적 서비스로 제공됩니다. 잠재적인 침해 콘텐츠 같은 다른 종류의 콘텐츠를 제거하는 데는 이 프로세스를 사용할 수 없으며, 개인 정보 제거 요청을 처리하면서 동시에 다른 종류의 제거 요청도 처리할 수는 없습니다. 잠재적 침해 콘텐츠 제거 요청과 별도로 개인 제거 요청을 보내면 보다 빨리 도움을 받으실 수 있습니다. 요청이 개인 정보와만 관련되는지, 아니면 다른 법적 문제와도 관련되는지 잘 모르겠다면 법률 고문과 상의하십시오.
+**Send In The Correct Request.** As noted above, we offer this private information removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing private information removal requests. We will be able to help you more quickly if you send in your private information removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only private information or also involves other legal matters, please consult legal counsel.
 
-**처리 시간.** GitHub는 개인 정보 제거 요청을 최대한 빨리 처리하겠지만 처리하는 요청의 양 때문에 요청을 검토하려면 약간의 시간이 걸릴 수 있습니다. 추가 요청이나 추가 연락 담당자의 여러 요청은 지연을 초래할 수 있습니다.
+**Processing Time.** While we do process private information removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
 
-[이 절차의 운영 방식](#how-does-this-actually-work)
+[How Does This Actually Work?](#how-does-this-actually-work)
 ----------
 
-1. **신고자가 조사합니다.** 자체 조사를 수행하고 GitHub에 [필요한 세부 정보](#your-request-must-include)(가장 중요한 것은 해당 데이터가 어떻게 보안 위협이 되는지에 대한 설명)를 제공하는 것은 요청하는 당사자의 몫입니다. GitHub는 개인 또는 조직을 대신하여 개인 정보를 검색하거나 개인 정보에 대한 예비 결정을 할 입장에 있지 않습니다.
+1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about private information on any individual's or organization's behalf.
 
-2. **신고자가 개인 정보 제거 요청을 보냅니다.** 신고자는 조사를 수행한 후 개인 정보 제거 요청을 작성하고 GitHub에 [개인 정보 제거 요청을 보냅니다](#sending-a-private-information-removal-request). 요청이 보안 위험을 입증하고 GitHub가 데이터를 찾을 만큼 충분히 자세하지 않은 경우, GitHub가 답장을 보내 추가 정보를 요청합니다.
+2. **Complainant Sends a Private Information Removal Request.** After conducting an investigation, the complainant prepares and [sends a private information removal request](#sending-a-private-information-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
 
-3. **GitHub가 사용자에게 변경을 요청합니다.** 대부분의 경우 GitHub는 리포지토리를 만든 사용자에게 연락하여 요청에 명시된 개인 정보를 삭제 또는 수정하거나 청구에 대해 다툴 수 있는 기회를 제공합니다.
+3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the private information specified in the request or to dispute the claim.
 
-4. **사용자가 GitHub에 변경 사항을 알립니다.** 사용자가 명시된 변경을 하기로 선택할 경우, 허용된 기간 내에 GitHub에 이를 알려야 합니다. 그렇지 않을 경우 해당 리포지토리의 사용이 중지됩니다. 사용자가 변경했음을 GitHub에 알리는 경우, GitHub는 변경된 것을 확인한 후 신고자에게 알립니다.
+4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
 
-   또는
+   OR
 
-5. **사용자는 요청에 대해 다툴 수 있습니다.** 문제의 콘텐츠가 이 정책이 적용되는 개인 정보가 아니라고 사용자가 믿는 경우, 사용자는 이를 다툴 수 있습니다. 다투는 경우 GitHub는 일반적으로 사용자에게 연락하고 사용자와 직접 문제를 합리적으로 해결하는 것을 신고자에게 맡깁니다.
+5. **User May Dispute the Request.** If a user believes the content in question is not private information subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
-6. **신고자가 변경 내용을 검토합니다.** 사용자가 변경하는 경우, 신고자는 변경 내용을 검토해야 합니다. 변경 내용이 충분하지 않은 경우, 신고자는 그 이유를 설명하는 세부 정보를 GitHub에 제공해야 합니다. GitHub는 리포지토리를 사용 중지하거나 추가 변경 기회를 사용자에게 줄 수 있습니다.
+6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
-7. **사용자는 추가 변경 기간을 요청할 수 있습니다.** 사용자가 알림에 명시된 개인 정보를 제거할 기회를 놓친 경우, GitHub는 요청에 의해 이러한 변경을 할 수 있는 추가 약 1영업일의 기간을 사용자에게 제공합니다. 이 경우 GitHub는 신고자에게 알립니다.
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the private information specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
 
-### [포크는 어떻습니까? (또는 포크란 무엇입니까?)](#what-about-forks-or-whats-a-fork) ###
+### [What About Forks? (or What's a Fork?)](#what-about-forks-or-whats-a-fork) ###
 
-GitHub의 가장 좋은 기능 중 하나는 사용자가 서로의 리포지토리를 "포크"할 수 있는 기능입니다. 이것은 무엇을 의미합니까? 포크는 본질적으로 사용자가 GitHub의 프로젝트를 자신의 리포지토리에 복사할 수 있다는 것을 의미합니다. 라이선스 또는 법률이 허용하는 한, 사용자는 해당 포크를 변경하여 기본 프로젝트에 다시 푸시하거나 고유한 프로젝트 변형으로 유지할 수 있습니다. 이러한 각 복사본은 원래 리포지토리의 "[GitHub 용어](/ko/get-started/quickstart/github-glossary#fork)"이며, 포크의 "부모"라고도 합니다.
+One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/en/get-started/quickstart/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
 
-GitHub는 부모 리포지토리를 사용 중지할 때 포크를 자동으로 사용 중지하지 않습니다. 포크는 서로 다른 사용자에게 속하고 중요한 변경이 있었을 수도 있기 때문입니다. GitHub는 포크에 대한 독립적인 조사를 수행하지 않습니다. 개인 정보 제거 요청을 보내는 당사자가 해당 조사를 수행해야 하며, 포크에 개인 정보도 포함되어 있다고 믿는 경우, 요청에 포크를 명시적으로 포함해야 합니다.
+GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending private information removal requests to conduct that investigation and, if they believe that the forks also contain private information, expressly include forks in their request.
 
-통지를 제출할 당시에 해당 리포지토리의 모든 기존 포크를 식별했다면 당사는 통지를 처리할 때 해당 네트워크의 모든 포크에 대해 유효한 청구를 처리합니다. GitHub는 새로 생성된 모든 포크에 동일한 콘텐츠가 포함될 가능성을 고려하여 이 작업을 수행합니다. 또한 신고된 콘텐츠가 포함된 것으로 신고된 네트워크가 리포지토리 100개를 넘어 전체를 검토하기 어려운 경우, 검토한 대표적인 포크의 수를 근거로 할 때 모든 포크 또는 대부분의 포크가 부모 리포지토리에서 신고된 콘텐츠를 포함하고 있다고 알림에서 명시한다면 GitHub는 전체 네트워크의 사용 중지를 고려할 수 있습니다.
+If at the time that you submitted your notice, you identified all existing forks of that repository, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the reported content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, based on the representative number of forks you have reviewed, you believe that all or most of the forks contain the content reported in the parent repository.
 
-[개인 정보 제거 정책 요청 보내기](#sending-a-private-information-removal-request)
+[Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
 ----------
 
-GitHub가 호스트하는 콘텐츠 형식(주로 소프트웨어 코드)과 콘텐츠를 (Git로) 관리하는 방법 때문에 불만 사항은 최대한 구체적이어야 합니다. GitHub가 신고된 개인 정보를 사용자가 완전히 제거했음을 확인하기 위해서는 정확히 어디를 살펴봐야 하는지 알아야 합니다.
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported private information completely, we need to know exactly where to look.
 
-이 가이드라인은 개인 정보 제거 요청 처리를 최대한 간단히 설명하기 위해 고안되었습니다.
+These guidelines are designed to make the processing of requests to remove private information as straightforward as possible.
 
-### [요청에는 다음이 포함되어야 합니다.](#your-request-must-include) ###
+### [Your Request Must Include:](#your-request-must-include) ###
 
-1. 개인 정보가 포함된 각 파일에 대한 클릭 가능하고 작동하는 링크. (GitHub는 검색 결과, 예 또는 스크린샷으로 작업할 수 없습니다.)
-2. 개인 정보가 포함된 각 파일 내의 특정 줄 번호.
-3. 식별한 각 항목이 귀하 또는 귀하의 조직에 어떻게 보안 위협이 되는지에 대한 간략한 설명. ***해당 데이터가 보안 위협이 된다고 단순히 언급하는 데 그치지 않고 어떻게 보안 위협이 되는지에 대한 설명을 제공하는 것이 중요합니다.***
-4. 보안 위협에 직면한 조직의 대리인으로 행동하는 제3자인 경우, 해당 조직의 대리인으로 행동할 법적 권리가 있다는 진술서를 포함하십시오.
-5. 선택 사항: 요청이 특히 긴급하다면 그 이유와 함께 알려 주십시오. GitHub는 모든 개인 정보 제거 요청에 최대한 빨리 응답합니다. 하지만 아주 최근의 자격 증명 노출과 같이 특별히 시각을 다투는 요청인 경우 이유를 설명해 주십시오.
+1. A working, clickable link to each file containing private information. (Note that we're not able to work from search results, examples, or screenshots.)
+2. Specific line numbers within each file containing the private information.
+3. A brief description of how each item you've identified poses a security risk to you or your organization. ***It is important that you provide an explanation of how the data poses a security risk beyond merely stating that it does.***
+4. If you are a third party acting as an agent for an organization facing a security risk, include a statement that you have a legal right to act on behalf of that organization.
+5. OPTIONAL: Let us know if your request is particularly urgent, and why. We respond to all private information removal requests as quickly as possible. However, if this request is especially time-sensitive, such as a very recent credential exposure, please explain why.
 
-[요청 제출 방법](#how-to-submit-your-request)
+[How to Submit Your Request](#how-to-submit-your-request)
 ----------
 
-개인 정보 제거 요청은 GitHub [문의 양식](https://support.github.com/contact?tags=docs-private-information)을 통해 제출할 수 있습니다. 메시지 본문에 요청의 일반 텍스트 버전을 포함하십시오. 첨부 파일로 요청을 보내는 경우, 처리가 지연될 수 있습니다.
+You can submit your request to remove private information via our [contact form](https://support.github.com/contact?tags=docs-private-information). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
 
-[분쟁](#disputes)
+[Disputes](#disputes)
 ----------
 
-GitHub로부터 개인 정보 제거 요청을 받는 경우, GitHub 이메일에 답장으로 (최대한 자세히) 문제의 콘텐츠가 이 정책이 적용되는 개인 정보가 아니라고 생각하는 이유를 명시하여 요청에 대해 다툴 수 있습니다.
+If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.

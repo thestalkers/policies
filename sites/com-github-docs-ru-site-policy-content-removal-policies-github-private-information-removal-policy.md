@@ -16,98 +16,98 @@
 В этой статье
 ----------
 
-* [Что такое личная информация?](#what-is-private-information)
-* [Что нужно знать](#things-to-know)
-* [Как это на самом деле работает?](#how-does-this-actually-work)
-* [Отправка запроса на удаление личной информации](#sending-a-private-information-removal-request)
-* [Как отправить запрос](#how-to-submit-your-request)
-* [Споры](#disputes)
+* [What is Private Information?](#what-is-private-information)
+* [Things to Know](#things-to-know)
+* [How Does This Actually Work?](#how-does-this-actually-work)
+* [Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
+* [How to Submit Your Request](#how-to-submit-your-request)
+* [Disputes](#disputes)
 
-Мы предлагаем этот процесс удаления личной информации в качестве исключительной услуги только для контента с высоким уровнем риска, который нарушает [Условия предоставления услуг GitHub](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), например, когда ваша безопасность находится под угрозой из-за открытых учетных данных для доступа. В этом руководстве описана информация, которая нужна GitHub от вас для обработки запроса на удаление личной информации из репозитория.
+We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
 
-[Что такое личная информация?](#what-is-private-information)
+[What is Private Information?](#what-is-private-information)
 ----------
 
-Для целей настоящего документа под «личной информацией» понимается контент, который (i) должен был оставаться конфиденциальным *и* (ii) публичная доступность которого представляет конкретный или направленный риск для безопасности вас или вашей организации.
+For the purposes of this document, “private information” refers to content that (i) should have been kept confidential, *and* (ii) whose public availability poses a specific or targeted security risk to you or your organization.
 
-«Угроза безопасности» относится к ситуации, связанной с физической опасностью, кражей личных данных или повышенной вероятностью несанкционированного доступа к физическим или сетевым объектам.
+"Security risk" refers to a situation involving exposure to physical danger, identity theft, or increased likelihood of unauthorized access to physical or network facilities.
 
-### [Запросы на удаление личной информации подходят для:](#private-information-removal-requests-are-appropriate-for) ###
+### [Private information removal requests are appropriate for:](#private-information-removal-requests-are-appropriate-for) ###
 
-* учетных данных доступа, таких как имена пользователей в сочетании с паролями, токены доступа или другие чувствительные сведения, которые могут предоставить доступ к серверу, сети или домену вашей организации.
-* токенов AWS и других аналогичных реквизитов для доступа, которые предоставляют доступ третьему лицу от вашего имени. Вы должны быть в состоянии показать, что токен действительно принадлежит вам.
-* документации (например, сетевых схем или архитектуры), представляющей определенный риск для безопасности организации.
-* [информации,](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) связанной с вами как физическим лицом и представляющей угрозу безопасности (например, номера социального страхования или другие государственные идентификационные номера).
+* Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
+* AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
+* Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization.
+* [Information](/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
 
-### [Запросы на удаление личной информации *не* подходят для:](#private-information-removal-requests-are-not-appropriate-for) ###
+### [Private information removal requests are *not* appropriate for:](#private-information-removal-requests-are-not-appropriate-for) ###
 
-* внутренних имен серверов, IP-адресов и URL-адресов самих по себе. Вы должны быть в состоянии показать, что их использование в конкретном файле или фрагменте кода представляет угрозу безопасности.
-* простых упоминаний личности, имен, бренда, доменного имени или других ссылок на вашу компанию в файлах на GitHub. Вы должны быть в состоянии сформулировать, почему использование идентификационных данных вашей компании представляет угрозу безопасности вашей компании.
-* целых файлов или репозиториев, которые не представляют особой угрозы безопасности, но, по вашему мнению, нежелательны.
-* запросов на удаление контента, который может нарушать ваши авторские права или права вашей организации. Если у вас есть вопросы о том, как GitHub решает вопросы, связанные с авторскими правами, или вы хотите сообщить о контенте, потенциально нарушающем авторские права, ознакомьтесь с нашей [Политикой предотвращения нарушений DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy). Процесс удаления личной информации, как правило, не предназначен для удаления полных файлов или репозиториев — только для определенных фрагментов личной информации в этих файлах. Несмотря на возможные случаи, когда файлы полностью заполнены личной информацией, вы должны обосновать угрозу безопасности для удаления таких файлов, и это может увеличить время, необходимое для обработки вашего запроса.
-* Споры о товарных знаках. Если у вас есть вопросы о том, как GitHub обрабатывает вопросы, связанные с товарными знаками, или вы хотите сообщить о контенте, содержащем товарные знаки или знаки обслуживания вашей организации, ознакомьтесь с нашей [Политикой в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy).
-* Жалобы в отношении персональных данных. Если вы хотите получить доступ, передать, изменить или удалить свои персональные данные на GitHub, свяжитесь с нами через [нашу Форму для связи по вопросам конфиденциальности](https://github.com/contact/privacy).
-* Контент регулируется нашими [Правилами сообщества](/ru/site-policy/github-terms/github-community-guidelines), включая вредоносное ПО или универсальные инструменты. Если у вас есть вопросы о наших Правилах сообщества или вы считаете, что контент на GitHub может нарушать наши правила, вы можете использовать [Содержимое отчета](https://github.com/contact/report-content) для связи с нами.
+* Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
+* Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture.
+* Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
+* Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy). The private information removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of private information in those files. While there may be cases where files are filled entirely with private information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
+* Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy).
+* Privacy complaints. If you wish to access, transfer, change, or delete your personal information on GitHub, please contact us via [our Privacy contact form](https://github.com/contact/privacy).
+* Content governed by our [Community Guidelines](/en/site-policy/github-terms/github-community-guidelines), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can use [Report content](https://github.com/contact/report-content) to contact us.
 
-[Что нужно знать](#things-to-know)
+[Things to Know](#things-to-know)
 ----------
 
-**Сначала спросите вежливо.** Мы рекомендуем перед отправкой нам запроса на удаление данных связаться с пользователем напрямую. Возможно, он указал контактную информацию на своей публичной странице профиля или в файле README или Support репозитория, или вы можете связаться с ним, создав вопрос или запрос на включение изменений в репозитории. Это не является обязательным, но приветствуется.
+**Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by creating an issue or pull request in the repository. This is not strictly required, but it is appreciated.
 
-**Никаких ботов.** Вы должны иметь подготовленного специалиста для оценки фактов в каждом запросе, который вы отправляете. Если вы передаете свои полномочия третьим лицам, убедитесь, что вы знаете, как они работают, и убедитесь, что они не используют автоматических ботов для массовой подачи жалоб. Эти жалобы часто включают данные, не представляющие угрозы безопасности, и не содержат достаточных объяснений, что требует дополнительных ответных действий и приводит к задержкам, даже если жалоба обоснована.
+**No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints often include data that does not pose any security threats, and they do not include sufficient explanations, requiring additional back-and-forth and resulting in delays, even when the complaint is valid.
 
-**Отправляйте правильный запрос.** Как отмечалось выше, мы предлагаем этот процесс удаления личной информации в качестве исключительной услуги только для контента с высоким уровнем риска. Мы не можем использовать этот процесс для удаления других типов контента, например контента, потенциально нарушающего авторские права, и мы не можем обрабатывать какие-либо другие типы запросов на удаление одновременно с обработкой запросов на удаление личной информации. Мы сможем помочь вам быстрее, если вы отправите запросы на удаление личной информации отдельно от любых запросов на удаление потенциально нарушающего права контента. Если вы не уверены, касается ли ваш запрос только личной информации или касается и других юридических вопросов, проконсультируйтесь с юристом.
+**Send In The Correct Request.** As noted above, we offer this private information removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing private information removal requests. We will be able to help you more quickly if you send in your private information removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only private information or also involves other legal matters, please consult legal counsel.
 
-**Время обработки.** Хотя мы обрабатываем запросы на удаление личной информации так быстро, насколько это возможно, но из-за большого количества запросов, которые мы обрабатываем, рассмотрение вашего запроса может занять некоторое время. Дополнительные запросы или несколько запросов от дополнительных контактных лиц могут привести к задержкам.
+**Processing Time.** While we do process private information removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
 
-[Как это на самом деле работает?](#how-does-this-actually-work)
+[How Does This Actually Work?](#how-does-this-actually-work)
 ----------
 
-1. **Жалоба расследуется заявителем.** Запрашивающая сторона должна провести собственное расследование и предоставить нам [детали, которые нам нужны,](#your-request-must-include) — самое главное, объяснение того, почему данные представляют угрозу безопасности. GitHub не имеет права искать или принимать первоначальные решения в отношении личной информации от имени какого-либо лица или организации.
+1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about private information on any individual's or organization's behalf.
 
-2. **Заявитель отправляет запрос на удаление личной информации.** После проведения расследования заявитель подготавливает и [отправляет запрос на удаление личной информации](#sending-a-private-information-removal-request) на GitHub. Если запрос недостаточно подробен, то чтобы продемонстрировать угрозу безопасности и чтобы GitHub смог найти данные, в своем ответе мы попросим предоставить дополнительную информацию.
+2. **Complainant Sends a Private Information Removal Request.** After conducting an investigation, the complainant prepares and [sends a private information removal request](#sending-a-private-information-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
 
-3. **GitHub просит пользователя внести изменения.** В большинстве случаев мы свяжемся с пользователем, создавшим репозиторий, и предоставим ему возможность удалить или изменить личную информацию, указанную в запросе, либо оспорить претензию.
+3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the private information specified in the request or to dispute the claim.
 
-4. **Пользователь уведомляет GitHub об изменениях.** Если пользователь решит внести указанные изменения, он должен сообщить нам об этом в течение отведенного ему времени. Если он этого не сделает, мы отключим репозиторий. Если пользователь уведомит нас о внесении изменений, мы проверим, были ли внесены изменения, а затем уведомим заявителя.
+4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
 
-   ИЛИ
+   OR
 
-5. **Пользователь может оспорить запрос.** Если пользователь считает, что рассматриваемый контент не является личной информацией, подпадающей под действие настоящей Политики, он может оспорить его. В этом случае мы, как правило, оставляем заявителю возможность связаться с пользователем и решить вопрос напрямую с ним в пределах разумного.
+5. **User May Dispute the Request.** If a user believes the content in question is not private information subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
-6. **Заявитель рассматривает изменения.** Если пользователь вносит изменения, заявитель должен их просмотреть. Если изменений недостаточно, то заявитель должен предоставить GitHub подробную информацию с объяснением причин. GitHub может отключить репозиторий или предоставить пользователю дополнительную возможность внести изменения.
+6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
-7. **Пользователь может запросить дополнительное время для внесения изменений.** Если пользователь упустил возможность удалить личную информацию, указанную в уведомлении, мы можем предоставить ему дополнительное время примерно 1 рабочий день по запросу для внесения этих изменений. В этом случае GitHub уведомит заявителя.
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the private information specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
 
-### [Что насчет «вилок»? (или Что такое «вилка»?)](#what-about-forks-or-whats-a-fork) ###
+### [What About Forks? (or What's a Fork?)](#what-about-forks-or-whats-a-fork) ###
 
-Одной из лучших особенностей GitHub является возможность для пользователей «разветвлять» репозитории друг друга. Что это значит? По сути, это означает, что пользователи могут сделать копию проекта на GitHub в свои собственные репозитории. В соответствии с лицензией или законом пользователи могут затем вносить изменения в эту «вилку», чтобы либо вернуться к основному проекту, либо просто сохранить как свою собственную вариацию проекта. Каждая из этих копий является "[Глоссарий GitHub](/ru/get-started/quickstart/github-glossary#fork)" исходного репозитория, который, в свою очередь, также может называться "родительским" для вилки.
+One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/en/get-started/quickstart/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
 
-GitHub не будет автоматически отключать «вилки» при отключении родительского репозитория. Это связано с тем, что «вилки» принадлежат разным пользователям и могут быть существенно изменены. GitHub не проводит никаких независимых расследований «вилок». Мы ожидаем, что те, кто отправляет запросы на удаление личной информации, проведут это расследование и, если они сочтут, что «вилки» также содержат личную информацию, прямо включат «вилки» в свой запрос.
+GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending private information removal requests to conduct that investigation and, if they believe that the forks also contain private information, expressly include forks in their request.
 
-Если на момент отправки уведомления вы определили все существующие «вилки» этого репозитория, мы обработаем обоснованную претензию против всех «вилок» в этой сети на момент обработки уведомления. Мы бы сделали это, учитывая вероятность того, что все вновь созданные «вилки» будут содержать один и тот же контент. Кроме того, если заявленная сеть, которая содержит указанный контент, превышает сто (100) репозиториев и, таким образом, будет трудно проверить ее целиком, мы можем рассмотреть возможность отключения всей сети, если вы укажете в своем уведомлении, что на основании относительно репрезентативного количества «вилок», которые вы рассмотрели, вы считаете, что все или большинство содержат тот же контент, что и родительский репозиторий.
+If at the time that you submitted your notice, you identified all existing forks of that repository, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the reported content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, based on the representative number of forks you have reviewed, you believe that all or most of the forks contain the content reported in the parent repository.
 
-[Отправка запроса на удаление личной информации](#sending-a-private-information-removal-request)
+[Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
 ----------
 
-Учитывая тип контента GitHub (в основном программный код) и способ управления этим контентом (с помощью Git), нам необходимо, чтобы жалобы были как можно более конкретными. Для того чтобы проверить, что пользователь полностью удалил личную информацию, нам нужно знать, где именно ее искать.
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported private information completely, we need to know exactly where to look.
 
-Эти рекомендации предназначены для того, чтобы максимально упростить обработку запросов на удаление личной информации.
+These guidelines are designed to make the processing of requests to remove private information as straightforward as possible.
 
-### [Ваш запрос должен включать:](#your-request-must-include) ###
+### [Your Request Must Include:](#your-request-must-include) ###
 
-1. рабочую ссылку на каждый файл, содержащий личную информацию. (Обратите внимание, что мы не можем работать с результатами поиска, примерами или снимками экрана).
-2. конкретные номера строк в каждом файле, содержащем личную информацию.
-3. краткое описание того, каким образом каждый выявленный вами элемент представляет риск безопасности для вас или вашей организации. ***Важно, чтобы вы предоставили объяснение того, каким образом данные представляют риск для безопасности, а не просто заявили, что это так.***
-4. Если вы являетесь третьим лицом, выступающим в качестве агента организации, сталкивающейся с угрозой безопасности, включите заявление о том, что у вас есть законное право действовать от имени этой организации.
-5. ДОПОЛНИТЕЛЬНО: Сообщите нам, если ваш запрос особо срочный и объясните почему. Мы отвечаем на все запросы на удаление личной информации в максимально сжатые сроки. Однако, если этот запрос особенно критичен ко времени, например в случае недавнего раскрытия учетных данных, пожалуйста, объясните, почему это так важно.
+1. A working, clickable link to each file containing private information. (Note that we're not able to work from search results, examples, or screenshots.)
+2. Specific line numbers within each file containing the private information.
+3. A brief description of how each item you've identified poses a security risk to you or your organization. ***It is important that you provide an explanation of how the data poses a security risk beyond merely stating that it does.***
+4. If you are a third party acting as an agent for an organization facing a security risk, include a statement that you have a legal right to act on behalf of that organization.
+5. OPTIONAL: Let us know if your request is particularly urgent, and why. We respond to all private information removal requests as quickly as possible. However, if this request is especially time-sensitive, such as a very recent credential exposure, please explain why.
 
-[Как отправить запрос](#how-to-submit-your-request)
+[How to Submit Your Request](#how-to-submit-your-request)
 ----------
 
-Вы можете отправить запрос на удаление личной информации через нашу [Форму обратной связи](https://support.github.com/contact?tags=docs-private-information). Пожалуйста, включите версию вашего запроса в виде обычного текста непосредственно в сообщении. Отправка вашего запроса во вложении может привести к задержке обработки.
+You can submit your request to remove private information via our [contact form](https://support.github.com/contact?tags=docs-private-information). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
 
-[Споры](#disputes)
+[Disputes](#disputes)
 ----------
 
-Если вы получили от нас запрос на удаление личной информации, вы можете оспорить его, ответив на наше электронное письмо и сообщив нам — как можно более подробно — почему вы считаете, что рассматриваемый контент не является личной информацией, подпадающей под действие настоящей Политики.
+If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.

@@ -16,25 +16,25 @@ GitHub 보조 처리자 및 쿠키
 이 문서의 내용
 ----------
 
-* [GitHub 보조 처리자](#github-subprocessors)
-* [GitHub의 쿠키](#cookies-on-github)
+* [GitHub Subprocessors](#github-subprocessors)
+* [Cookies on GitHub](#cookies-on-github)
 
-발효일: **2022년 9월 1일**
+Effective date: **September 1, 2022**
 
-GitHub는 사용자의 데이터를 어떻게 사용하고, 어떻게 수집하며, 누구와 공유하는지에 관해 매우 높은 투명성을 제공합니다. 이를 위해 GitHub는 [GitHub의 보조 처리자](#github-subprocessors)와 GitHub가 [쿠키](#cookies-on-github)를 사용하는 방식을 자세히 설명한 이 페이지를 제공합니다.
+GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page, which details [our subprocessors](#github-subprocessors), and how we use [cookies](#cookies-on-github).
 
-[GitHub 보조 처리자](#github-subprocessors)
+[GitHub Subprocessors](#github-subprocessors)
 ----------
 
-GitHub는 사용자의 정보를 GitHub의 공급업체 및 서비스 공급자 같은 제3자 보조 처리자와 공유할 때도 여전히 정보에 대한 책임을 집니다. GitHub는 신규 공급업체를 도입할 때 사용자의 신뢰를 유지하기 위해 열심히 노력하며, 모든 공급업체는 사용자의 개인 정보([개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 정의됨) 처리를 제한하는 데이터 보호 계약을 GitHub와 체결해야 합니다.
+When we share your information with third party subprocessors, such as our vendors and service providers, we remain responsible for it. We work very hard to maintain your trust when we bring on new vendors, and we require all vendors to enter into data protection agreements with us that restrict their processing of Users' Personal Information (as defined in the [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement)).
 
-GitHub는 사용자의 개인 정보를 처리하는 신규 보조 처리자를 도입하거나, 보조 처리자를 제거하거나, 보조 처리자를 사용하는 방법을 바꾸는 경우, 보조 처리자 목록을 업데이트합니다. <https://github.com/privacy/subprocessors>에서 보조 처리자의 현재 목록을 보고 보조 처리자 목록 업데이트를 받아보도록 등록할 수 있습니다.
+When we bring on a new subprocessor who handles our Users' Personal Information, or remove a subprocessor, or we change how we use a subprocessor, we will update the list of subprocessors. You can view the current list of subprocessors, and sign up to receive subprocessor list updates, at <https://github.com/privacy/subprocessors>.
 
-신규 보조 처리자에 대한 질문이나 우려가 있는 경우, 기꺼이 도와드리겠습니다. [개인 정보 연락처 양식](https://github.com/contact/privacy)을 통해 문의하십시오.
+If you have questions or concerns about a new subprocessor, we'd be happy to help. Please contact us via [Privacy contact form](https://github.com/contact/privacy).
 
-[GitHub의 쿠키](#cookies-on-github)
+[Cookies on GitHub](#cookies-on-github)
 ----------
 
-GitHub는 훌륭한 사용자 환경을 제공하기 위하여 GitHub 웹 사이트를 제공 및 보호하고 GitHub 웹 사이트의 사용 현황을 분석하는 데 쿠키를 사용합니다. 쿠키 및 GitHub가 쿠키를 사용하는 방법과 이유에 대해 자세히 알아보려면 GitHub [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking)을 살펴보시기 바랍니다.
+GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
 
-<https://github.com/privacy/cookies>에서 GitHub의 현재 쿠키 목록을 보고 쿠키 목록 업데이트를 받아보도록 등록할 수 있습니다.
+You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.

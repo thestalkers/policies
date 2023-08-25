@@ -16,227 +16,245 @@
 이 문서의 내용
 ----------
 
-* [이 가이드라인에 대하여](#about-these-guidelines)
-* [GitHub 용어](#github-terminology)
-* [GitHub.com에 있는 사용자 데이터](#user-data-on-githubcom)
-* [GitHub는 영향을 받는 계정 소유자에게 통보합니다](#we-will-notify-any-affected-account-owners)
-* [비공개 정보의 공개](#disclosure-of-non-public-information)
-* [비용 상환](#cost-reimbursement)
-* [데이터 보존](#data-preservation)
-* [요청 제출](#submitting-requests)
-* [외국 법 집행 기관의 요청](#requests-from-foreign-law-enforcement)
-* [문의 사항](#questions)
+* [About these guidelines](#about-these-guidelines)
+* [GitHub terminology](#github-terminology)
+* [User data on GitHub.com](#user-data-on-githubcom)
+* [We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
+* [Disclosure of non-public information](#disclosure-of-non-public-information)
+* [Cost reimbursement](#cost-reimbursement)
+* [Data preservation](#data-preservation)
+* [Submitting requests](#submitting-requests)
+* [Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
+* [Questions](#questions)
 
-GitHub에서 호스트되는 사용자 콘텐츠가 관련될 수 있는 조사를 수행하는 법 집행관이십니까?
-아니면 GitHub가 법 집행 기관과 어떤 정보를 어떤 상황에서 공유하는지 알고 싶은 개인 정보 보호에 민감한 분일 수도 있습니다.
-어느 경우든 올바른 페이지를 찾아오셨습니다.
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
+Either way, you're on the right page.
 
-이 가이드라인에서는 GitHub가 무엇이고, 어떤 유형의 데이터를 보유하고 있으며, 사용자 개인 정보를 공개하는 조건은 무엇인지에 대한 약간의 배경 정보를 제공합니다.
-하지만 자세한 내용을 다루기 전에 다음과 같은 몇 가지 중요한 세부 정보를 알아 두면 좋습니다.
+In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+Before we get into the details, however, here are a few important details you may want to know:
 
-* 법률이나 법원 명령으로 금지되지 않는 한 GitHub는 사용자 계정 정보 요청에 관해 [**영향을 받는 사용자에게 통보**](#we-will-notify-any-affected-account-owners)합니다.
-* GitHub는 [유효한 법원 명령 또는 수색 영장](#with-a-court-order-or-a-search-warrant) 없이는 IP 주소 로그 같은 **위치 추적 데이터**를 공개하지 않습니다.
-* GitHub는 유효한 [수색 영장](#only-with-a-search-warrant) 없이는 개인 리포지토리의 콘텐츠를 포함하여 어떠한 **개인 사용자 콘텐츠**도 공개하지 않습니다.
+* We will [**notify affected users**](#we-will-notify-any-affected-account-owners) about any requests for their account information, unless prohibited from doing so by law or court order.
+* We will not disclose **location-tracking data**, such as IP address logs, without a [valid court order or search warrant](#with-a-court-order-or-a-search-warrant).
+* We will not disclose any **private user content**, including the contents of private repositories, without a valid [search warrant](#only-with-a-search-warrant).
 
-[이 가이드라인에 대하여](#about-these-guidelines)
+[About these guidelines](#about-these-guidelines)
 ----------
 
-GitHub 사용자들은 종종 가장 중요한 비즈니스 또는 개인적 자산의 일부인 소프트웨어 프로젝트와 코드를 안심하고 GitHub에 맡깁니다.
-이 신뢰를 유지하는 것은 GitHub에게 가장 중요하며, 이는 사용자 데이터를 안전하게 비공개로 보호하는 것을 뜻합니다.
+Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
+Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.
 
-GitHub 사용자의 압도적 다수가 GitHub 서비스를 새 비즈니스 생성과 신기술 구축에 사용하고 있고, 인류의 전반적 발전을 위해 전 세계에 흩어져 있는 수백만의 사용자와 함께 GitHub도 이를 인정하지만 그중에는 소수의 썩은 사과가 있게 마련입니다.
-이런 경우, GitHub는 법 집행 기관이 일반 대중 보호라는 정당한 이익에 봉사하는 것을 돕고자 합니다.
+While the overwhelming majority of our users use GitHub's services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
+In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.
 
-법 집행 담당자를 위한 가이드라인을 제공함으로써 GitHub는 사용자 개인 정보 보호와 정의라는 종종 경합하는 이익 사이에서 균형을 잡기를 바랍니다.
-이 지침이 양측의 기대치를 설정하고 GitHub 내부 절차의 투명성을 높이는 데 도움이 되기를 바랍니다.
-GitHub 사용자는 GitHub가 사용자의 개인 정보를 중요하게 생각하며 보호하기 위해 최선을 다한다는 것을 알아야 합니다.
-최소한 이는 적절한 법적 요구 사항이 충족되는 경우에만 제3자에게 데이터를 공개하는 것을 뜻합니다.
-같은 이유로 GitHub는 데이터 요청을 보다 효율적으로 조정하고 조사 수행에 필요한 정보만을 목표로 할 수 있도록 GitHub의 시스템에 대해 법 집행 전문가들을 교육하기를 바랍니다.
+By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub's internal processes.
+Our users should know that we value their private information and that we do what we can to protect it.
+At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
+By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
-[GitHub 용어](#github-terminology)
+[GitHub terminology](#github-terminology)
 ----------
 
-GitHub에 데이터 공개를 요청하기 전에 GitHub 시스템의 구현 방식을 이해하면 도움이 될 수 있습니다.
-GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-version-control)을 사용하여 수많은 데이터 리포지토리를 호스트합니다.
-공용 또는 개인 리포지토리일 수 있는 GitHub의 리포지토리는 소프트웨어 개발 프로젝트에 가장 흔히 사용되지만 온갖 종류의 콘텐츠 작업에도 자주 사용됩니다.
+Before asking us to disclose data, it may be useful to understand how our system is implemented.
+GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
+Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-* [**사용자**](/ko/get-started/quickstart/github-glossary#user) - GitHub 시스템에서 사용자는 개인 GitHub 계정으로 대표됩니다.
-  각 사용자는 개인 프로필이 있으며, 여러 리포지토리를 소유할 수 있습니다.
-  사용자는 조직을 만들거나 조직에 가입하거나 다른 사용자의 리포지토리에서 협업하도록 초대될 수 있습니다.
+* [**Users**](/en/get-started/quickstart/github-glossary#user) —
+  Users are represented in our system as personal GitHub accounts.
+  Each user has a personal profile, and can own multiple repositories.
+  Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-* [**협업자**](/ko/get-started/quickstart/github-glossary#collaborator) - 협업자란 리포지토리 소유자에 의해 기여하도록 초대된 사용자로서 리포지토리에 대한 읽기 및 쓰기 액세스 권한이 있습니다.
+* [**Collaborators**](/en/get-started/quickstart/github-glossary#collaborator) —
+  A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
-* [**조직**](/ko/get-started/quickstart/github-glossary#organization) - 조직은 둘 이상의 사용자로 구성된 그룹으로서 일반적으로 비즈니스 또는 프로젝트 같은 실제 조직을 반영합니다.
-  조직은 사용자가 관리하며, 리포지토리와 사용자 팀을 모두 포함할 수 있습니다.
+* [**Organizations**](/en/get-started/quickstart/github-glossary#organization) —
+  Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
+  They are administered by users and can contain both repositories and teams of users.
 
-* [**리포지토리**](/ko/get-started/quickstart/github-glossary#repository) - 리포지토리는 가장 기본적인 GitHub 요소 중 하나입니다.
-  프로젝트의 폴더라고 생각하면 가장 쉬울 수 있습니다.
-  리포지토리에는 문서를 포함한 모든 프로젝트 파일이 포함되며, 각 파일의 수정 기록이 저장됩니다.
-  리포지토리에는 여러 협업이 있을 수 있으며, 관리자의 재량에 따라 공개적으로 볼 수 있거나 없을 수 있습니다.
+* [**Repositories**](/en/get-started/quickstart/github-glossary#repository) —
+  A repository is one of the most basic GitHub elements.
+  They may be easiest to imagine as a project's folder.
+  A repository contains all of the project files (including documentation), and stores each file's revision history.
+  Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-* [**페이지**](/ko/pages/getting-started-with-github-pages/about-github-pages) - GitHub 페이지는 리포지토리에 저장된 코드를 통해 사용자가 쉽게 게시할 수 있는 GitHub가 무료로 호스트하는 공용 웹 페이지입니다.
-  사용자 또는 조직에게 GitHub 페이지가 있는 경우, 일반적으로 `https://username.github.io` 같은 URL에서 찾을 수도 있고, 자체 사용자 지정 도메인 이름에 웹 페이지를 매핑할 수도 있습니다.
+* [**Pages**](/en/pages/getting-started-with-github-pages/about-github-pages) —
+  GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
+  If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-* [**gist**](/ko/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) - gist는 사용자가 아이디어를 저장하는 데 사용하거나 친구와 공유할 수 있는 소스 코드 또는 기타 텍스트의 조각입니다.
-  일반 GitHub 리포지토리처럼 gist는 git을 사용해 만들어지므로 자동으로 버전이 지정되고, 포크 및 다운로드가 가능합니다.
-  gist는 공용 또는 비밀(알려진 URL을 통해서만 액세스 가능)일 수 있습니다. 공용 gist는 비밀 gist로 전환할 수 없습니다.
+* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) —
+  Gists are snippets of source code or other text that users can use to store ideas or share with friends.
+  Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+  Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
-[GitHub.com에 있는 사용자 데이터](#user-data-on-githubcom)
+[User data on GitHub.com](#user-data-on-githubcom)
 ----------
 
-다음은 GitHub에서 사용자 및 프로젝트에 대해 유지하는 데이터 종류의 일부 목록입니다.
+Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
 
-* []()**공용 계정 데이터** - GitHub에는 사용자와 사용자 리포지토리에 대해 공개적으로 사용할 수 있는 다양한 정보가 있습니다.
-  사용자 프로필은 `https://github.com/username`과 같은 URL에서 찾을 수 있습니다.
-  사용자 프로필에는 사용자가 계정을 만든 시기 및 GitHub.com에서의 공개적 활동 및 사회적 상호 작용에 대한 정보가 표시됩니다.
-  일반 사용자 프로필에는 사용자가 공개적으로 공유하기로 선택한 추가 정보도 포함될 수 있습니다.
-  모든 사용자 일반 프로필에는 다음이 표시됩니다.
+* []()**Public account data** —
+  There is a variety of information publicly available on GitHub about users and their repositories.
+  User profiles can be found at a URL such as `https://github.com/username`.
+  User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+  Public user profiles can also include additional information that a user may have chosen to share publicly.
+  All user public profiles display:
 
-  * 사용자 이름
+  * Username
 
-  * 사용자가 별표 표시한 리포지토리
+  * The repositories that the user has starred
 
-  * 사용자가 팔로우하는 다른 GitHub 사용자
+  * The other GitHub users the user follows
 
-  * 사용자를 팔로우하는 사용자
+  * The users that follow them
 
-    원하는 경우, 사용자는 다음 정보도 공개적으로 공유하기로 선택할 수 있습니다.
+    Optionally, a user may also choose to share the following information publicly:
 
-  * 본명
+  * Their real name
 
-  * 아바타
+  * An avatar
 
-  * 계열사
+  * An affiliated company
 
-  * 위치
+  * Their location
 
-  * 공용 이메일 주소
+  * A public email address
 
-  * 개인 웹 페이지
+  * Their personal web page
 
-  * 사용자가 구성원인 조직(*조직 또는 사용자의 기본 설정에 따라 다름*)
+  * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-* []()**개인 계정 데이터** - GitHub는 GitHub [개인정보보호정책](/ko/site-policy/privacy-policies/github-privacy-statement)에 명시된 것처럼 사용자에 대한 일부 개인 정보도 수집 및 유지합니다.
-  여기에는 다음이 포함됩니다.
+* []()**Private account data** —
+  GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
+  This may include:
 
-  * 개인 이메일 주소
+  * Private email addresses
 
-  * 결제 세부 정보
+  * Payment details
 
-  * 보안 액세스 로그
+  * Security access logs
 
-  * 개인 리포지토리와의 상호 작용에 대한 데이터
+  * Data about interactions with private repositories
 
-    [개인 대시보드](https://github.com/dashboard)를 방문하여 왼쪽 메뉴 모음을 탐색하면 GitHub가 수집하는 개인 계정 정보 유형을 파악할 수 있습니다.
+    To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
-* []()**조직 계정 데이터** - 조직, 조직의 관리 사용자, 리포지토리에 대한 정보는 GitHub에서 공개적으로 사용할 수 있습니다.
-  조직 프로필은 `https://github.com/organization`과 같은 URL에서 찾을 수 있습니다.
-  공개 조직 프로필에는 소유자가 공개적으로 공유하기로 선택한 추가 정보도 포함될 수 있습니다.
-  모든 조직 공개 프로필에는 다음이 표시됩니다.
+* []()**Organization account data** —
+  Information about organizations, their administrative users and repositories is publicly available on GitHub.
+  Organization profiles can be found at a URL such as `https://github.com/organization`.
+  Public organization profiles can also include additional information that the owners have chosen to share publicly.
+  All organization public profiles display:
 
-  * 조직 이름
+  * The organization name
 
-  * 소유자가 별표 표시한 리포지토리
+  * The repositories that the owners have starred
 
-  * 조직의 소유자인 모든 GitHub 사용자
+  * All GitHub users that are owners of the organization
 
-    원하는 경우, 관리 사용자는 다음 정보도 공개적으로 공유하기로 선택할 수 있습니다.
+    Optionally, administrative users may also choose to share the following information publicly:
 
-  * 아바타
+  * An avatar
 
-  * 계열사
+  * An affiliated company
 
-  * 위치
+  * Their location
 
-  * 정회원 및 팀
+  * Direct Members and Teams
 
-  * 협업자
+  * Collaborators
 
-* []()**공용 리포지토리 데이터** - GitHub는 수많은 오픈 소스 소프트웨어 프로젝트의 본산입니다.
-  거의 모든 퍼블릭 리포지토리(예: [GitHub Docs](https://github.com/github/docs))을 찾아 GitHub가 리포지토리에 대해 수집하고 유지 관리하는 정보를 파악할 수 있습니다.
-  여기에는 다음이 포함될 수 있습니다.
+* []()**Public repository data** —
+  GitHub is home to millions of public, open-source software projects.
+  You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
+  This can include:
 
-  * 코드 자체
-  * 이전 버전의 코드
-  * 프로젝트의 안정적 릴리스 버전
-  * 협업자, 기여자, 리포지토리 구성원에 대한 정보
-  * 커밋, 분기, 푸시, 풀, 포크, 복제 등 Git 작업 로그
-  * 풀 요청 또는 커밋에 대한 의견 등 Git 작업과 관련된 대화
-  * 이슈 및 Wiki 페이지 등 프로젝트 문서
-  * 프로젝트 기여자와 기여자 네트워크를 보여 주는 통계 및 그래프
+  * The code itself
+  * Previous versions of the code
+  * Stable release versions of the project
+  * Information about collaborators, contributors and repository members
+  * Logs of Git operations such as commits, branching, pushing, pulling, forking and cloning
+  * Conversations related to Git operations such as comments on pull requests or commits
+  * Project documentation such as Issues and Wiki pages
+  * Statistics and graphs showing contributions to the project and the network of contributors
 
-* []()**개인 리포지토리 데이터** - 특별히 초대된 사용자만 개인 리포지토리 데이터에 액세스할 수 있다는 점을 제외하면 GitHub가 수집하고 유지하는 개인 리포지토리 데이터 유형은 공용 리포지토리에서 볼 수 있는 것과 동일합니다.
+* []()**Private repository data** —
+  GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
 
-* []()**기타 데이터** - 또한 GitHub는 페이지 방문 수 같은 분석 데이터와 GitHub 사용자가 경우에 따라 자발적으로 제공하는 정보(예를 들어 GitHub 지원 팀과의 통신, 설문 조사 정보 및/또는 사이트 등록)도 수집합니다.
+* []()**Other data** —
+  Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
-[GitHub는 영향을 받는 계정 소유자에게 통보합니다](#we-will-notify-any-affected-account-owners)
+[We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
 ----------
 
-법률이나 법원 명령으로 금지되지 않는 한 계정 또는 리포지토리와 관련된 임박한 요청에 관해 사용자에게 알리는 것이 GitHub의 정책입니다. 원하는 경우 법적 절차에 이의를 제기할 기회를 가질 수 있도록 GitHub는 사용자 정보를 공개하기 전에 영향을 받는 계정 소유자에게 확인된 이메일 주소로 메시지를 보내 통지하고 소환장, 법원 명령 또는 영장 사본을 제공하기 위하여 합리적인 노력을 기울입니다. (드문) 긴급한 상황에서 GitHub는 사망 또는 심각한 피해를 방지하기 위해 또는 진행 중인 조사로 인하여 연기가 필요하다고 판단하는 경우, 통지를 연기할 수 있습니다.
+It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm or due to an ongoing investigation.
 
-[비공개 정보의 공개](#disclosure-of-non-public-information)
+[Disclosure of non-public information](#disclosure-of-non-public-information)
 ----------
 
-민사 또는 형사 조사와 관련된 비공개 사용자 정보는 사용자가 동의하거나 유효한 소환장, 민사 조사 요구, 법원 명령 또는 기타 비슷한 유효한 법적 절차를 수령하는 경우에만 공개하는 것이 GitHub의 정책입니다. 일부 긴급한 상황에서(아래 참조) GitHub는 상황의 특성에 부합하는 경우에 한해 제한된 정보를 공유할 수도 있지만 어떠한 경우에도 법적 절차를 요구합니다.
-GitHub는 어떠한 비공개 정보 요청에도 반대할 수 있는 권리를 보유합니다.
-GitHub는 합법적 요청에 응하여 비공개 정보를 제공하는 데 동의할 경우, 요청된 정보를 찾기 위한 합리적인 검색을 수행합니다.
-다음은 송달 받는 법적 절차의 종류에 따라 GitHub가 제공하기로 동의하는 정보의 종류입니다.
+It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
+GitHub reserves the right to object to any requests for non-public information.
+Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
-* []()**사용자 동의** - GitHub는 요청을 받는 경우 사용자(또는 조직 계정인 경우 소유자)에게 직접 또는 사용자의 신원 증명을 확신하는 경우 사용자의 서면 동의로 지명된 제3자에게 개인 계정 정보를 제공합니다.
+* []()**With user consent** —
+  GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
 
-* []()**소환장** - 유효한 소환장, 민사 조사 요구 또는 공식적 형사 또는 민사 조사와 관련하여 발부된 유사한 법적 절차를 송달 받는 경우, GitHub는 일부 비공개 계정 정보를 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
+* []()**With a subpoena** —
+  If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
 
-  * 계정과 연결된 이름
-  * 계정과 연결된 이메일 주소
-  * 청구 정보
-  * 등록 날짜 및 해지일
-  * 계정 등록 시점의 IP 주소, 날짜, 시간
-  * 지정된 시간에 계정에 액세스하는 데 사용된 IP 주소 또는 조사와 관련된 이벤트
+  * Name(s) associated with the account
+  * Email address(es) associated with the account
+  * Billing information
+  * Registration date and termination date
+  * IP address, date, and time at the time of account registration
+  * IP address(es) used to access the account at a specified time or event relevant to the investigation
 
-조직 계정인 경우, GitHub는 계정 소유자의 이름 및 이메일 주소와 조직 계정 생성 시점의 날짜와 IP 주소를 제공할 수 있습니다. 다른 구성원이나 조직 계정에 대한 기여자(있는 경우)에 대한 정보 또는 명시된 계정 소유자에 관한 추가 정보는 이러한 특정 사용자에 대한 후속 요청 없이는 제공하지 않습니다.
+In the case of organization accounts, we can provide the name(s) and email address(es) of the account owner(s) as well as the date and IP address at the time of creation of the organization account. We will not produce information about other members or contributors, if any, to the organization account or any additional information regarding the identified account owner(s) without a follow-up request for those specific users.
 
-제공할 수 있는 정보는 사안마다 다릅니다. 일부 정보는 사용자가 제공 여부를 선택할 수 있습니다. 그 밖의 경우 GitHub가 정보를 수집하거나 보유하지 않았을 수 있습니다.
+Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
-* []()**법원 명령 *or* 수색 영장** - GitHub는 (i) 18 U.S.C. Section 2703(d)에 따라 발부된 법원 명령에 의해 구하는 정보가 진행 중인 범죄 수사에 관련성이 있고 중요하다고 믿을 만한 합리적인 근거가 있음을 보여 주는 구체적이고 명확한 사실 관계가 입증되거나 (ii) 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정 액세스 로그를 공개하지 않습니다.
-  GitHub는 위에 나열된 비공개 계정 정보 외에 법원 명령 또는 수색 영장에 응하여 계정 액세스 로그를 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
+* []()**With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either
+  (i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
+  (ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
+  In addition to the non-public account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
 
-  * 일정 기간에 걸친 사용자의 이동을 밝힐 수 있는 로그
-  * 계정 또는 개인 리포지토리 설정(예를 들어 어떤 사용자에게 어떤 권한이 있는지 등)
-  * 검색 기록 등 사용자 또는 IP 관련 분석 데이터
-  * 계정 생성 외의 또는 특정 시간 및 날짜의 보안 액세스 로그
+  * Any logs which would reveal a user's movements over a period of time
+  * Account or private repository settings (for example, which users have certain permissions, etc.)
+  * User- or IP-specific analytic data such as browsing history
+  * Security access logs other than account creation or for a specific time and date
 
-* []()**수색 영장만** - GitHub는 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 설명된 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정의 개인 콘텐츠를 공개하지 않습니다.
-  GitHub는 위에 언급한 비공개 계정 정보 및 계정 액세스 로그 외에 법원 명령 또는 수색 영장에 응하여 개인 계정 콘텐츠도 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
+* []()**Only with a search warrant** —
+  We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
+  In addition to the non-public account information and account access logs mentioned above, we will also provide private account contents in response to a search warrant, which may include:
 
-  * 비밀 Gist의 콘텐츠
-  * 개인 리포지토리에 있는 소스 코드 또는 기타 콘텐츠
-  * 개인 리포지토리의 기여 및 협업 기록
-  * 개인 리포지토리에 있는 통신 또는 문서(이슈 또는 Wiki)
-  * 인증 또는 암호화에 사용되는 보안 키
+  * Contents of secret Gists
+  * Source code or other content in private repositories
+  * Contribution and collaboration records for private repositories
+  * Communications or documentation (such as Issues or Wikis) in private repositories
+  * Any security keys used for authentication or encryption
 
-* []()**긴급한 상황** - 일부 긴급한 상황에서 정보 요청을 받는 경우(GitHub가 믿기에 사람의 사망 또는 중상의 위험이 관련된 긴급 사태를 방지하기 위해 공개가 필요한 경우) GitHub는 법 집행 기관의 긴급 사태 대처에 필요하다고 판단하는 제한된 정보를 공개할 수 있습니다. GitHub는 그 이상의 모든 정보에 대해서는 위에 설명한 대로 소환장, 수색 영장 또는 법원 명령을 요구합니다. 예를 들어 GitHub는 수색 영장 없이는 개인 리포지토리의 콘텐츠를 공개하지 않습니다. GitHub는 정보 공개 전에 요청이 법 집행 기관의 요청인지, 당국이 긴급 사태를 요약하는 공식 통지를 보냈는지, 요청된 정보가 긴급 사태 대처에 어떤 도움이 되는지 확인합니다.
+* []()**Under exigent circumstances** —
+  If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
-[비용 상환](#cost-reimbursement)
+[Cost reimbursement](#cost-reimbursement)
 ----------
 
-GitHub는 주 및 연방법에 따라 소환장, 법원 명령 또는 수색 영장 등 유효한 법적 요구 준수와 관련된 비용의 상환을 구할 수 있습니다. GitHub는 일부 비용만 회수할 수 있는 상환을 청구하며, 이러한 상환은 법적 명령 준수를 위해 실제로 발생하는 비용의 일부만 충당합니다.
+Under state and federal law, GitHub can seek reimbursement for costs associated with compliance with a valid legal demand, such as a subpoena, court order or search warrant. We only charge to recover some costs, and these reimbursements cover only a portion of the costs we actually incur to comply with legal orders.
 
-GitHub는 비상 상황 또는 기타 긴급 상황에서는 비용을 청구하지 않지만 그 밖의 모든 법적 요청에 대해서는 법률에서 달리 요구하지 않는 한 다음 명세에 따른 상환을 구합니다.
+While we do not charge in emergency situations or in other exigent circumstances, we seek reimbursement for all other legal requests in accordance with the following schedule, unless otherwise required by law:
 
-* 최대 25개 식별자의 최초 검색: 무료
-* 최대 5개 계정의 구독자 정보/데이터 제공: 무료
-* 6개 이상 계정의 구독자 정보/데이터 제공: 계정당 $20
-* 2차 검색: 검색당 $10
+* Initial search of up to 25 identifiers: Free
+* Production of subscriber information/data for up to 5 accounts: Free
+* Production of subscriber information/data for more than 5 accounts: $20 per account
+* Secondary searches: $10 per search
 
-[데이터 보존](#data-preservation)
+[Data preservation](#data-preservation)
 ----------
 
-GitHub는 공식적 범죄 조사와 관련하여 미국 법 집행 기관의 공식 요청이 있고 법원 명령 또는 기타 절차의 발급을 기다리는 동안 최대 90일 동안 계정 기록을 보존하기 위한 조치를 취합니다.
+We will take steps to preserve account records for up to 90 days upon formal request from U.S. law enforcement in connection with official criminal investigations, and pending the issuance of a court order or other process.
 
-[요청 제출](#submitting-requests)
+[Submitting requests](#submitting-requests)
 ----------
 
-요청은 다음으로 송달해 주십시오.
+Please serve requests to:
 
 ```
 GitHub, Inc.
@@ -246,31 +264,31 @@ Sacramento, CA 95833-3505
 
 ```
 
-사본은 메일을 통해 [legal-support@github.com](mailto:legal-support@github.com)으로 보낼 수 있습니다.
+Courtesy copies may be emailed to [legal-support@github.com](mailto:legal-support@github.com)
 
-요청은 가능한 한 구체적이고 정확하며 다음 정보를 포함해야 합니다.
+Please make your requests as specific and narrow as possible, including the following information:
 
-* 정보 요청을 발급하는 당국에 대한 완전한 정보
-* 담당 요원의 이름 및 배지/ID
-* 공식 이메일 주소 및 연락 전화 번호
-* 관심 있는 사용자, 조직, 리포지토리 이름
-* 관심 있는 페이지, gist 또는 파일의 URL
-* 필요한 기록의 유형에 대한 설명
+* Full information about authority issuing the request for information
+* The name and badge/ID of the responsible agent
+* An official email address and contact phone number
+* The user, organization, repository name(s) of interest
+* The URLs of any pages, gists or files of interest
+* The description of the types of records you need
 
-요청을 조사할 수 있도록 적어도 2주의 시간 여유를 주십시오.
+Please allow at least two weeks for us to be able to look into your request.
 
-### [캘리포니아 의회 법안 1242 통지](#california-assembly-bill-1242-notice) ###
+### [California Assembly Bill 1242 Notice](#california-assembly-bill-1242-notice) ###
 
-GitHub에 법적 절차를 제출하면 법적 절차가 캘리포니아에서 합법적 인 낙태 관련 행위에 대한 책임을 만드는 법률 위반과 관련이 없음을 확인합니다.
+By submitting legal process to GitHub, you attest that the legal process does not relate to the violation of any law that creates liability for abortion-related conduct that is lawful in California.
 
-[외국 법 집행 기관의 요청](#requests-from-foreign-law-enforcement)
+[Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
 ----------
 
-캘리포니아에 본사를 둔 미국 회사로서 GitHub는 외국 당국이 발부한 법적 절차에 응하여 외국 정부에 데이터를 제공할 필요가 없습니다.
-GitHub에 정보를 요청하려는 외국 법 집행 기관 관리는 미국 법무부 형사국 국제과에 문의해야 합니다.
-GitHub는 상호 사법 공조 조약("MLAT") 또는 협조 공문을 거쳐 미국 법원이 발부하는 요청에 지체 없이 응합니다.
+As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
+GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
 
-[문의 사항](#questions)
+[Questions](#questions)
 ----------
 
-다른 질문, 의견 또는 제안이 있으십니까? [GitHub 지원](https://support.github.com/contact?tags=docs-generic)에 문의하십시오.
+Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).

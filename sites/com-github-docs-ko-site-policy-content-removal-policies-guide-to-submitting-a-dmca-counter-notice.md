@@ -16,64 +16,64 @@ DMCA 반론 통지 제출 가이드
 이 문서의 내용
 ----------
 
-* [시작하기 전에](#before-you-start)
-* [반론 통지는 다음과 같아야 합니다.](#your-counter-notice-must)
-* [반론 통지 제출 방법](#how-to-submit-your-counter-notice)
+* [Before You Start](#before-you-start)
+* [Your Counter Notice Must...](#your-counter-notice-must)
+* [How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
 
-이 가이드에서는 DMCA 게시 중단 요청에 대한 반론 통지 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다. DMCA가 무엇인지 또는 GitHub가 DMCA 게시 중단 요청을 어떻게 처리하는지에 대한 일반적인 추가 질문이 있는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하십시오.
+This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy).
 
-GitHub에 있는 귀하의 콘텐츠가 DMCA 게시 중단 요청에 의해 실수로 비활성화되었다고 생각하는 경우, 반론 통지를 제출하여 게시 중단을 다툴 수 있는 권리가 있습니다. 그럴 경우 GitHub는 10\~14일 동안 기다린 다음 저작권 소유자가 그 전에 귀하를 상대로 법적 절차를 개시하지 않으면 귀하의 콘텐츠를 다시 활성화합니다. 아래 명시된 GitHub의 반론 통지 양식은 미국 저작권청의 공식 웹 사이트( <https://www.copyright.gov>에서 찾을 수 있는 DMCA 법령이 추천하는 양식과 일치합니다.
+If you believe your content on GitHub was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice. If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action against you before then. Our counter-notice form, set forth below, is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
 
-모든 법적 문제와 마찬가지로 특정 질문이나 상황에 대해서는 항상 전문가와 상담하는 것이 가장 좋습니다. 귀하의 권리에 영향을 미칠 수 있는 조치를 취하기 전에 그러한 전문 상담을 할 것을 적극 권장합니다. 이 가이드는 법률 자문이 아니며 그러한 것으로 받아들여서도 안 됩니다.
+As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-[시작하기 전에](#before-you-start)
+[Before You Start](#before-you-start)
 ----------
 
-***사실을 말하십시오.***DMCA는 반박 통지가 사실임을 맹세하고 *위증일 경우 처벌*을 받도록 요구하고 있습니다. 선서 진술에서 고의로 거짓을 말하는 것은 연방 범죄입니다. ([U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)을 *참조하십시오*.) 허위 정보를 제출할 경우 민사상 책임을 지게 될 수도 있습니다. 즉, 금전적 손해를 이유로 고소될 수 있습니다.
+***Tell the Truth.***The DMCA requires that you swear to your counter notice *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability—that is, you could get sued for money damages.
 
-조사하십시오.**\*\***DMCA 반론 통지를 제출할 경우 실제 법적 결과가 따를 수 있습니다. 원고가 원고의 게시 중단 통지가 잘못되었다는 데 동의하지 않는 경우, 콘텐츠를 계속 비활성화하기 위해 귀하를 상대로 소송을 제기하기로 결정할 수 있습니다. 반론 통지를 제출하기 전에 게시 중단 통지에 제기된 혐의에 대한 철저한 조사를 실시해야 하고, 변호사와 상의해야 할 수도 있습니다.
+***Investigate.***Submitting a DMCA counter notice can have real legal consequences. If the complaining party disagrees that their takedown notice was mistaken, they might decide to file a lawsuit against you to keep the content disabled. You should conduct a thorough investigation into the allegations made in the takedown notice and probably talk to a lawyer before submitting a counter notice.
 
-***반론 통지를 제출할 정당한 사유가 있어야 합니다.***반론 통지를 제출하기 위해서는 "제거 또는 비활성화되어야 하는 것으로 자료를 착오 또는 오인한 결과 자료가 제거 또는 비활성화되었다는 선의의 믿음"이 있어야 합니다. ([U.S. Code, Title 17, Section 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) 착오가 있었다고 믿는 이유를 설명할지 여부는 귀하와 귀하의 변호사가 결정할 일이지만 반론 통지를 제출하기 전에 착오를 *반드시* 명시해야 합니다. 과거에 GitHub는 다음과 같은 게시 중단 통지의 착오를 인용하는 반박 통지를 받았습니다. 원고에게 저작권이 없음, 나에게 라이선스가 있음, 사용을 허락하는 오픈 소스 라이선스에 따라 코드가 릴리스되었음 또는 공정 사용 법리에 따라 보호되는 사용이라는 사실을 원고가 고려하지 않음. 물론 게시 중단 통지에 그 밖의 결함도 있을 수 있습니다.
+***You Must Have a Good Reason to Submit a Counter Notice.***In order to file a counter notice, you must have "a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled." ([U.S. Code, Title 17, Section 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) Whether you decide to explain why you believe there was a mistake is up to you and your lawyer, but you *do* need to identify a mistake before you submit a counter notice. In the past, we have received counter notices citing mistakes in the takedown notice such as: the complaining party doesn't have the copyright; I have a license; the code has been released under an open-source license that permits my use; or the complaint doesn't account for the fact that my use is protected by the fair-use doctrine. Of course, there could be other defects with the takedown notice.
 
-***저작권법은 복잡합니다.***경우에 따라 게시 중단 통지가 침해를 주장하는 방식이 이상하거나 간접적으로 보일 수 있습니다. 저작권법은 복잡하며 일부 예기치 못한 결과를 초래할 수 있습니다. 경우에 따라 귀하의 소스 코드가 컴파일되고 실행된 후 할 수 있는 것을 이유로 저작권을 침해한다고 게시 중단 통지에서 주장할 수도 있습니다. 예:
+***Copyright Laws Are Complicated.***Sometimes a takedown notice might allege infringement in a way that seems odd or indirect. Copyright laws are complicated and can lead to some unexpected results. In some cases a takedown notice might allege that your source code infringes because of what it can do after it is compiled and run. For example:
 
-* 통지에서 귀하의 소프트웨어가 저작권으로 보호되는 저작물에 대한 [액세스 제어를 우회](https://www.copyright.gov/title17/92chap12.html)를 우회하는 데 사용된다고 주장할 수 있습니다.
-* [경우에 따라](https://www.copyright.gov/docs/mgm/) 소프트웨어를 사용하여 저작권으로 보호되는 저작물을 침해하도록 최종 사용자를 유도하는 경우, 소프트웨어 배포가 저작권 침해가 될 수 있습니다.
-* 소스 코드 자체가 아니라 소프트웨어 디자인 요소의 [비문언적 복제](https://en.wikipedia.org/wiki/Substantial_similarity)가 저작권 침해 신고의 근거가 될 수 있습니다. 즉, 누군가 귀하의 *디자인*이 자신의 디자인과 너무 비슷하다면서 통지를 보내는 것입니다.
+* The notice may claim that your software is used to [circumvent access controls](https://www.copyright.gov/title17/92chap12.html) to copyrighted works.
+* [Sometimes](https://www.copyright.gov/docs/mgm/) distributing software can be copyright infringement, if you induce end users to use the software to infringe copyrighted works.
+* A copyright complaint might also be based on [non-literal copying](https://en.wikipedia.org/wiki/Substantial_similarity) of design elements in the software, rather than the source code itself — in other words, someone has sent a notice saying they think your *design* looks too similar to theirs.
 
-이것은 저작권법의 복잡성을 보여 주는 몇 가지 예에 불과합니다. 이런 유형의 사례에는 법률의 미묘한 차이가 많고 일부 해결되지 않은 문제가 있기 때문에 침해 혐의가 간단해 보이지 않을 경우, 전문가의 조언을 구하는 것이 특히 중요합니다.
+These are just a few examples of the complexities of copyright law. Since there are many nuances to the law and some unsettled questions in these types of cases, it is especially important to get professional advice if the infringement allegations do not seem straightforward.
 
-***반론 통지는 법적 진술입니다.***반론 통지는 GitHub뿐 아니라 원고에게도 법적 진술이므로 반론 통지의 모든 기입란에 빠짐없이 기입해야 합니다. 위에서 언급한 것처럼 원고는 반론 통지를 받은 후 콘텐츠의 비활성 상태를 유지하려는 경우, GitHub에 있는 콘텐츠와 관련된 침해 활동에 귀하가 참여하는 것을 제한하기 위해 법원 명령을 구하는 법적 조치를 시작해야 합니다. 다시 말하면 귀하가 고소될 수 있습니다(그리고 귀하는 반론 통지에서 이에 동의합니다).
+***A Counter Notice Is A Legal Statement.***We require you to fill out all fields of a counter notice completely, because a counter notice is a legal statement — not just to us, but to the complaining party. As we mentioned above, if the complaining party wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain you from engaging in infringing activity relating to the content on GitHub. In other words, you might get sued (and you consent to that in the counter notice).
 
-***반론 통지는 게시됩니다.***GitHub [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)에 명시된 것처럼 GitHub는 **개인 정보를 삭제한 후** <https://github.com/github/dmca>에 완전하고 소송 가능한 모든 반론 통지를 게시합니다. 또한 GitHub는 개인 정보가 삭제된 통지만 공개적으로 게시하지만 GitHub가 받은 모든 통지의 수정되지 않은 전체 사본을 이러한 통지의 영향을 받는 권리를 보유한 모든 당사자에게 직접 제공할 수 있습니다. 귀하의 개인 정보 보호가 우려되는 경우, 변호사 또는 기타 법정 대리인이 귀하 대신 반론 통지를 제출하도록 할 수 있습니다.
+***Your Counter Notice Will Be Published.***As noted in our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/github/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
 
-***GitHub는 판사가 아닙니다.***통지가 DMCA의 최소 요구 사항을 충족하는지 여부를 판단하는 것 외에 이 절차에서 GitHub가 행사하는 재량권은 거의 없습니다. 통지는 위증 시 처벌을 전제로 전달해야 한다는 점을 유념하여 청구의 장점을 평가할 책임은 당사자 본인(및 그 변호사)에게 있습니다.
+***GitHub Isn't The Judge.***GitHub exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
-추가 리소스.**\*\***추가 도움이 필요할 경우, 온라인 자습 리소스가 많이 있습니다. Lumen에는 [저작권](https://www.lumendatabase.org/topics/5) 및 [DMCA 면책 조항](https://www.lumendatabase.org/topics/14)에 대한 유용한 가이드가 있습니다. 법적 조언이 필요한 오픈 소스 프로젝트에 관여하고 있는 경우, [소프트웨어 자유 법률 센터](https://www.softwarefreedom.org/about/contact/)에 문의할 수 있습니다. 특히 까다로운 사건이라고 생각하는 경우, [전자 프런티어 재단](https://www.eff.org/pages/legal-assistance) 같은 비영리 단체도 직접 도와주거나 변호사를 소개해 줄 수 있습니다.
+***Additional Resources.***If you need additional help, there are many self-help resources online. Lumen has an informative set of guides on [copyright](https://www.lumendatabase.org/topics/5) and [DMCA safe harbor](https://www.lumendatabase.org/topics/14). If you are involved with an open-source project in need of legal advice, you can contact the [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). And if you think you have a particularly challenging case, non-profit organizations such as the [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) may also be willing to help directly or refer you to a lawyer.
 
-[반론 통지는 다음과 같아야 합니다.](#your-counter-notice-must)
+[Your Counter Notice Must...](#your-counter-notice-must)
 ----------
 
-1. **다음 진술이 포함되어야 합니다. "저는 GitHub의 DMCA 반론 통지 제출 가이드를 읽고 이해했습니다."**GitHub는 이 진술이 포함되지 않았지만 그 밖에는 완전한 반론 통지의 처리를 거부하지 않지만 귀하가 이 지침을 읽지 않았음을 알게 되며, 다시 제출할 것을 귀하에게 요청할 수 있습니다.
+1. **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Counter Notice."**We won't refuse to process an otherwise complete counter notice if you don't include this statement; however, we will know that you haven't read these guidelines and may ask you to go back and do so.
 
-2. ***비활성화된 콘텐츠와 콘텐츠가 표시됐던 위치를 명시하십시오.***비활성화된 콘텐츠는 게시 중단 통지에서 URL로 명시되었어야 합니다. 이의를 제기하려는 URL만 복사하면 됩니다.
+2. ***Identify the content that was disabled and the location where it appeared.***The disabled content should have been identified by URL in the takedown notice. You simply need to copy the URL(s) that you want to challenge.
 
-3. **연락처 정보를 제공하십시오.**이메일 주소, 이름, 전화 번호, 실제 주소를 포함하십시오.
+3. **Provide your contact information.**Include your email address, name, telephone number, and physical address.
 
-4. ***다음 진술이 포함되어야 합니다. "저는 제거 또는 비활성화되어야 하는 것으로 자료를 착오 또는 오인한 결과 자료가 제거 또는 비활성화되었다고 선의로 믿고 있음을 맹세하며 위증 시 처벌을 감수하겠습니다."***착오나 오인이 있었다고 믿는 이유를 전달하기로 선택할 수도 있습니다. 반론 통지를 원고에게 보내는 "메모"로 생각한다면 이는 원고가 다음 조치를 취하지 않고 소송 제기로 대응하지 말아야 할 이유를 설명할 수 있는 기회입니다. 이것은 반론 통지를 제출할 때 변호사와 협력해야 할 또 다른 이유입니다.
+4. ***Include the following statement: "I swear, under penalty of perjury, that I have a good-faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."***You may also choose to communicate the reasons why you believe there was a mistake or misidentification. If you think of your counter notice as a "note" to the complaining party, this is a chance to explain why they should not take the next step and file a lawsuit in response. This is yet another reason to work with a lawyer when submitting a counter notice.
 
-5. ***다음 진술이 포함되어야 합니다. "저는 제 주소가 있는 재판구 연방 지방 법원의 관할에 동의하며(미국 내인 경우, 그렇지 않은 경우 GitHub가 소재한 Northern District of California), DMCA 통지를 제공한 자 또는 그러한 자의 대리인으로부터의 소장 송달을 수락합니다."***
+5. ***Include the following statement: "I consent to the jurisdiction of Federal District Court for the judicial district in which my address is located (if in the United States, otherwise the Northern District of California where GitHub is located), and I will accept service of process from the person who provided the DMCA notification or an agent of such person."***
 
-6. **물리적 또는 전자 서명을 포함하십시오.**
+6. **Include your physical or electronic signature.**
 
-[반론 통지 제출 방법](#how-to-submit-your-counter-notice)
+[How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
 ----------
 
-답변을 받는 가장 빠른 방법은 GitHub의 [저작권 클레임 양식](https://github.com/contact/dmca)에서 귀하의 정보를 입력하고 모든 질문에 답하는 것입니다.
+The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
 
-[copyright@github.com](mailto:copyright@github.com)으로 메일 알림을 보낼 수도 있습니다. 원하는 경우 첨부 파일을 포함할 수도 있지만 메시지 본문에 요청의 일반 텍스트 버전도 포함하십시오.
+You can also send an email notification to [copyright@github.com](mailto:copyright@github.com). You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
-우편을 통해 통지를 보내야 하는 경우, 이것 역시 가능하지만 GitHub가 받고 응답하는 데 걸리는 시간이 *상당히* 길어지며, 10\~14일 대기 기간은 GitHub가 반론 통지를 *수령*한 때부터 시작됩니다. 일반 텍스트 이메일을 통해 GitHub가 받는 통지가 PDF 첨부 파일이나 실제 우편보다 수령 및 응답이 훨씬 빠릅니다. 그래도 우편으로 통지를 송부하려는 경우, GitHub의 실제 주소는 아래와 같습니다.
+If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it—and the 10-14 day waiting period starts from when we *receive* your counter notice. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 
 ```
 GitHub, Inc
