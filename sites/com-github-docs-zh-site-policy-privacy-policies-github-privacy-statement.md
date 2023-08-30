@@ -221,7 +221,7 @@ GitHub 隐私声明
 
 我们会按照本隐私声明中的说明保留和使用您的信息，但除非法律要求，否则我们将在您提出请求后的 90 天内删除您的完整个人资料。 帐户删除后，某些数据（例如，在其他用户的存储库中提交的内容及在其他人的问题中发表的评论）将保留。 但是，我们会通过将您的个人数据（包括您的用户名和电子邮件地址）与幽灵用户相关联的方式，从问题、拉取请求和评论的作者字段中删除该等信息或对其进行去标识化处理。 也就是说，您通过 Git 提交设置提供的电子邮件地址将始终与您在 Git 系统中的提交相关联。 如果您选择将您的电子邮件地址设为不公开，则您还应该更新您的 Git 提交设置。 我们无法更改或删除 Git 提交历史记录中的数据，因为 Git 软件设计为保留记录，但我们允许您控制您在该记录中可以放入哪些信息。
 
-如果 GitHub 处理您的个人资料信息以外的个人数据，例如 [GitHub 从第三方收到的关于您的信息](/zh/site-policy/privacy-policies/github-privacy-statement#information-we-collect-from-third-parties)，那么您可根据适用法律访问、更新、更改、删除您的个人数据、反对或限制其处理，方法是联系 [GitHub 支持部门](https://support.github.com/contact)或 [GitHub 高级支持部门](https://enterprise.githubsupport.com/hc/en-us)。
+如果 GitHub 处理您的个人资料信息以外的个人数据，例如 GitHub 从[第三方](/zh/site-policy/privacy-policies/github-privacy-statement#information-we-collect-from-third-parties)收到的关于您的信息，那么您可以根据适用法律访问、更新、更改、删除、反对或限制处理您的个人数据，方法是联系 [GitHub 支持](https://support.github.com/contact)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)。
 
 您可以通过[个人资料设置](https://github.com/settings/profile)调整您的帐户上关于您的个人数据在专用或公共存储库中的显示或与社区功能（如 GitHub 源、GitHub 赞助商和 GitHub 探索）相关的个人数据处理的设置。
 
@@ -336,7 +336,7 @@ GitHub 可能会在您所在的地区、美国以及 GitHub 或其关联公司�
 
 如果您对隐私有疑问或对 GitHub 处理您的个人数据的方式有疑虑，请立即告知我们。 我们希望能够帮助到您。 您可以通过填写[隐私联系表](https://support.github.com/contact/privacy)来联系我们。 我们会及时答复。
 
-我们的地址：
+我们的地址是：
 
 **GitHub 隐私团队**
 
@@ -344,16 +344,6 @@ GitHub, Inc.
 88 Colin P. Kelly Jr. St.
 San Francisco, CA 94107
 United States
-
-[隐私联系表](https://support.github.com/contact/privacy)
-
-**GitHub 数据保护官**
-
-c/o DP Dock DPO Services GmbH,
-Attn: GitHub BV, Gut Projensdorf,
-24161 Altenholz, Germany
-
-CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
 
 [隐私联系表](https://support.github.com/contact/privacy)
 
@@ -426,7 +416,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 此外，根据《加州民法典》第 1798.83 条（也称为《反客户信息披露法》），向与个人建立业务关系的企业提供个人信息以用于个人或家庭目的的加州居民（“加州客户”）可能会要求提供有关企业是否出于第三方直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会出于本法所定义的任何第三方的直接营销目的向任何第三方披露个人信息。 加州客户可以通过发送电子邮件至 [privacy@github.com](mailto:privacy@github.com) 请求提供有关我们遵守该法律的情况的更多信息。 请注意，企业必须每年对每位加州客户的一项请求作出回应，并且可能不需要对通过指定电子邮件地址以外的其他方式提出的请求作出回应。
 
-属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，请提交[隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/request)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
+属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，[请提交隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/request)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
 
 ### [我们对个人信息的处理](#our-handling-of-personal-information) ###
 
