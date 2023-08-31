@@ -22,7 +22,7 @@ GitHub 条款
 
 * [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot 预发行条款](/zh/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot Pre-release License Terms](/zh/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 
@@ -39,3 +39,5 @@ GitHub 条款
 * [GitHub 活动条款](/zh/site-policy/github-terms/github-event-terms)
 
 * [GitHub 活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)
+
+* [GitHub Educational Use Agreement](/zh/site-policy/github-terms/github-educational-use-agreement)

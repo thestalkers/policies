@@ -22,7 +22,7 @@ Conditions de GitHub
 
 * [Code de Conduite de la Communauté GitHub](/fr/site-policy/github-terms/github-community-code-of-conduct)
 
-* [Conditions générales de la version pré-commerciale de GitHub Copilot](/fr/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot Pre-release License Terms](/fr/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [Conditions Supplémentaires de GitHub Sponsors](/fr/site-policy/github-terms/github-sponsors-additional-terms)
 
@@ -39,3 +39,5 @@ Conditions de GitHub
 * [Conditions relatives aux Événements GitHub](/fr/site-policy/github-terms/github-event-terms)
 
 * [Code de Conduite pour les événements GitHub](/fr/site-policy/github-terms/github-event-code-of-conduct)
+
+* [GitHub Educational Use Agreement](/fr/site-policy/github-terms/github-educational-use-agreement)

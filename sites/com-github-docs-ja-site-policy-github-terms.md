@@ -22,7 +22,7 @@ GitHub 条件
 
 * [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot プレリリース条件](/ja/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot Pre-release License Terms](/ja/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
@@ -39,3 +39,5 @@ GitHub 条件
 * [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
 
 * [GitHub イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
+
+* [GitHub Educational Use Agreement](/ja/site-policy/github-terms/github-educational-use-agreement)

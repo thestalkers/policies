@@ -22,7 +22,7 @@ GitHub Terms
 
 * [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release Terms](/en/site-policy/github-terms/github-copilot-pre-release-terms)
+* [GitHub Copilot Pre-release License Terms](/en/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
 
@@ -39,3 +39,5 @@ GitHub Terms
 * [GitHub Event Terms](/en/site-policy/github-terms/github-event-terms)
 
 * [GitHub Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
+
+* [GitHub Educational Use Agreement](/en/site-policy/github-terms/github-educational-use-agreement)
