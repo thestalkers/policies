@@ -29,16 +29,16 @@
 [DMCA 下架政策](#dmca-takedown-policy)
 ----------
 
-[DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)可用于报告您认为侵犯了您或您组织拥有的版权的内容。 查看此政策后，您可能还需要在提交报告之前阅读我们的[提交 DMCA 下架通知指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)。
+[DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)可用于举报您认为侵犯了您或贵组织拥有的版权的内容。 查看此政策后，您可能还需要在提交报告之前阅读我们的[提交 DMCA 下架通知指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)。
 
 [GitHub 商标政策](#github-trademark-policy)
 ----------
 
-[GitHub 商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)可用于报告涉嫌使用您公司或企业的名称、徽标或其他受商标保护材料的内容，这些内容可能使他人对品牌或业务从属关系产生误解或困惑。
+[GitHub 商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)可用于举报涉嫌使用贵公司或企业的名称、徽标或其他受商标保护材料的内容，这些内容可能使他人对品牌或业务从属关系产生误解或困惑。
 
 [GitHub 私人信息删除政策](#github-private-information-removal-policy)
 ----------
 
-[GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)可用于报告私人（机密并且会造成安全风险）的数据，但这些数据不一定受版权或商标保护。
+[GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)可用于举报私人（机密并且会造成安全风险）的数据，但这些数据不一定受版权或商标保护。
 
 印度用户可[联系 GitHub 的申诉官](https://support.github.com/contact/india-grievance-officer)。
