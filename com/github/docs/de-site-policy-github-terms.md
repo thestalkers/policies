@@ -6,7 +6,7 @@ GitHub-Bedingungen - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)
 
 GitHub-Bedingungen
@@ -18,26 +18,26 @@ GitHub-Bedingungen
 
 * [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-* [Community-Richtlinien von GitHub](/de/site-policy/github-terms/github-community-guidelines)
+* [GitHub-Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines)
 
-* [Verhaltenskodex für die GitHub Community](/de/site-policy/github-terms/github-community-code-of-conduct)
+* [Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
 
 * [Lizenzbedingungen für die Vorabversion von GitHub Copilot](/de/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [GitHub Sponsors – Zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
 
-* [GitHub Vereinbarung für registrierte Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
+* [Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
 
 * [GitHub Marketplace-Nutzungsbedingungen](/de/site-policy/github-terms/github-marketplace-terms-of-service)
 
-* [GitHub Marketplace Entwicklervereinbarung](/de/site-policy/github-terms/github-marketplace-developer-agreement)
+* [GitHub Marketplace-Entwicklervereinbarung](/de/site-policy/github-terms/github-marketplace-developer-agreement)
 
-* [Bedingungen für das GitHub Forschungsprogramm](/de/site-policy/github-terms/github-research-program-terms)
+* [Bedingungen des GitHub-Forschungsprogramms](/de/site-policy/github-terms/github-research-program-terms)
 
-* [GitHub Allgemeine Geschäftsbedingungen für Open-Source-Anwendungen](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-* [Bedingungen für GitHub Veranstaltungen](/de/site-policy/github-terms/github-event-terms)
+* [Bedingungen für GitHub-Events](/de/site-policy/github-terms/github-event-terms)
 
-* [GitHub Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
+* [GitHub-Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
 
 * [GitHub-Vereinbarung zur Nutzung für Bildungszwecke](/de/site-policy/github-terms/github-educational-use-agreement)

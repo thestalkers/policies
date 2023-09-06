@@ -8,7 +8,7 @@ GitHub 외설적 콘텐츠 - GitHub Docs
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [성적으로 외설적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [외설적 콘텐츠](/ko/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub 외설적 콘텐츠
 ==========

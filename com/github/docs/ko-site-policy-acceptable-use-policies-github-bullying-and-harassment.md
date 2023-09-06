@@ -8,7 +8,7 @@ GitHub 따돌림 및 괴롭힘 방지 정책 - GitHub Docs
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [괴롭힘 및 괴롭힘](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [따돌림 및 괴롭힘 방지 정책](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub 따돌림 및 괴롭힘 방지 정책
 ==========
@@ -16,7 +16,7 @@ GitHub 따돌림 및 괴롭힘 방지 정책
 GitHub는 직접적이든 아니면 금지된 행위에 타인이 가담하도록 독려하든 간에 어떠한 유형의 괴롭힘, 따돌림 또는 학대도 용납하지 않습니다. 여기에는
 
 * 개인을 표적으로 한 공격
-* 학대나 마찬가지인 방식으로 [문제](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) 활동을 늘리거나 조정
+* 학대나 마찬가지인 방식으로 [문제](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) 활동을 늘리거나 조정하는 행위
 * 플랫폼 주변에 있는 다른 사용자를 위협하는 방식으로 뒤따라가는 행위
 * 다른 사람을 향해 성적인 접근 또는 발언을 하는 행위
 * 갈등을 일으키거나 진지한 토론을 저해하는 방식으로 대화에 불성실하게 참여하는 행위

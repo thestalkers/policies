@@ -6,7 +6,7 @@ Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
 
 Richtlinien zur akzeptablen Nutzung
@@ -14,22 +14,22 @@ Richtlinien zur akzeptablen Nutzung
 
 * [GitHub-Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [Aktive Malware oder Exploits auf GitHub](/de/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [GitHub Aktive Malware oder Exploits](/de/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
 * [GitHub Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-* [GitHub – Stören der Erfahrung anderer Nutzer](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub stört die Erfahrung anderer Benutzer](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 * [GitHub Doxxing und Verletzung der Privatsphäre](/de/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [Hassreden und Diskriminierung auf GitHub](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [GitHub Hassreden und Diskriminierung](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [Ausgabe für GitHub Vertreter](/de/site-policy/acceptable-use-policies/github-impersonation)
+* [GitHub-Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
 
-* [GitHub Falschinformation und Desinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [GitHub Fehlinformationen und Desinformationen](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [GitHub – sexuell obszöne Inhalte](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [GitHub Sexuell obszöner Inhalt](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [GitHub – Androhung von Gewalt und gewalttätige Inhalte](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [Einspruch und Wiederherstellung bei GitHub](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

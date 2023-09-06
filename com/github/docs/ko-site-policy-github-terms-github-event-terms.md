@@ -16,7 +16,7 @@ GitHub 이벤트 계약
 이 문서의 내용
 ----------
 
-* [1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+* [1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항을 포함](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 * [2. 사진](#2-pictures)
 * [3. 위험, 책임 및 면책](#3-risk-liability-and-indemnity)
 * [4. 해지](#4-termination)
@@ -25,7 +25,7 @@ GitHub 이벤트 계약
 
 GitHub 이벤트(총칭하여 "이벤트"라 한다)와 관련하여 GitHub에서 주최한 모든 이벤트 또는 활동을 포함하여 GitHub 이벤트에 참석 여부를 알리거나 참석함으로써 귀하는 다음과 같은 이벤트 계약조건을 읽고 이해했으며 이에 동의한다는 의사를 표시합니다.
 
-[1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+[1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항을 포함](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 ----------
 
 이벤트에 참여하기 위해 귀하는 다음 사항을 진술합니다.

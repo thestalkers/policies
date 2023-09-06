@@ -6,7 +6,7 @@ GitHub-Nutzungsbedingungen - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/
 * [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service)
 
@@ -28,7 +28,7 @@ In diesem Artikel
 * [H. API-Bestimmungen](#h-api-terms)
 * [I. Zusätzliche Produktbestimmungen von GitHub](#i-github-additional-product-terms)
 * [J. Beta-Vorschau](#j-beta-previews)
-* [K. payment](#k-payment)
+* [K. Zahlung](#k-payment)
 * [L. Auflösung und Kündigung](#l-cancellation-and-termination)
 * [M. Kommunikation mit GitHub](#m-communications-with-github)
 * [N. Ausschluss von Gewährleistungen](#n-disclaimer-of-warranties)
@@ -75,7 +75,7 @@ Wirksamkeitsdatum: 16. November 2020
 
 1. Ein „Konto“ stellt Ihre Rechtsbeziehung zu GitHub dar. Ein „persönliches Konto“ stellt die Berechtigung eines einzelnen Benutzers dar, sich bei dem Dienst anzumelden und ihn zu nutzen, und dient als Identität eines Benutzers auf GitHub. „Organisationen“ sind gemeinsam genutzte Arbeitsbereiche, die einer einzelnen Entität oder einem oder mehreren Benutzern zugeordnet sein können, wobei mehrere Benutzer gleichzeitig über viele Projekte hinweg zusammenarbeiten können. Ein persönliches Konto kann Mitglied einer beliebigen Anzahl von Organisationen sein.
 2. Die „Vereinbarung“ bezieht sich insgesamt auf alle Bestimmungen, Bedingungen, Hinweise, die in diesem Dokument enthalten sind oder auf die in diesem Dokument verwiesen wird (die „Nutzungsbedingungen“ oder die „Bedingungen“), sowie auf alle anderen Betriebsregeln, Richtlinien (einschließlich der GitHub Datenschutzerklärung, verfügbar unter [github.com/site/privacy](https://github.com/site/privacy)) und Verfahren, die wir von Zeit zu Zeit auf der Website veröffentlichen. Die meisten unserer Richtlinien sind unter [docs.github.com/categories/site-policy](/de/site-policy) verfügbar.
-3. „Beta-Vorschauen“ bezeichnet Software, Dienste oder Funktionen, die als Alpha, Beta, Vorschau, Early Access oder Evaluierung gekennzeichnet sind, oder Wörter oder Ausdrücke mit ähnlicher Bedeutung.
+3. „Beta-Vorschau“ bezeichnet Software, Dienste oder Funktionen, die als Alpha, Beta, Vorschau, Early Access oder Evaluierung oder mit Begriffen oder Ausdrücken mit ähnlicher Bedeutung gekennzeichnet sind.
 4. „Inhalt“ bezieht sich auf Inhalte, die über die Website bereitgestellt oder angezeigt werden, einschließlich, aber nicht beschränkt auf Code, Text, Daten, Artikel, Bilder, Fotos, Grafiken, Software, Anwendungen, Pakete, Designs, Funktionen und andere Materialien, die auf der Website verfügbar sind oder anderweitig über den Dienst verfügbar. „Inhalt“ umfasst auch Dienste. „Benutzergenerierte Inhalte“ sind Inhalte, geschrieben oder anderweitig, die von unseren Benutzern erstellt oder hochgeladen wurden. „Ihre Inhalte“ sind Inhalte, die Sie erstellen oder deren Eigentümer Sie sind.
 5. „GitHub“, „wir“ und „uns“ beziehen sich auf GitHub, Inc. sowie unsere verbundenen Unternehmen, Direktoren, Tochtergesellschaften, Auftragnehmer, Lizenzgeber, leitenden Angestellten, Vertreter und Mitarbeiter.
 6. Der „Dienst“ bezieht sich auf die von GitHub bereitgestellten Anwendungen, Software, Produkte und Dienste, einschließlich aller Beta-Vorschauen.
@@ -197,7 +197,7 @@ Sie können zusätzlichen Zugriff auf Ihre privaten Repositories aktivieren. Bei
 
 * Sie können verschiedene GitHub-Dienste oder -Funktionen aktivieren, die zusätzliche Rechte an Ihren Inhalten in privaten Repositories erfordern. Diese Rechte können je nach Dienst oder Funktion variieren, aber GitHub wird Ihre privaten Repository-Inhalte weiterhin vertraulich behandeln. Wenn diese Dienste oder Funktionen zusätzlich zu den Rechten, die wir für die Bereitstellung des GitHub-Dienstes benötigen, Rechte erfordern, werden wir diese Rechte erläutern.
 
-Darüber hinaus können wir [gesetzlich dazu verpflichtet sein](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), den Inhalt Ihrer privaten Repositories offenzulegen.
+Darüber hinaus können wir [gesetzlich verpflichtet](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) sein, Inhalte in Ihren privaten Repositorys offenzulegen.
 
 GitHub informiert über unseren Zugriff auf private Repository-Inhalte, es sei denn es geht um [rechtliche Offenlegung](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), um unseren gesetzlichen Verpflichtungen nachzukommen, oder wenn anderweitig gesetzlich vorgeschrieben, für automatisiertes Scannen oder als Reaktion auf eine Sicherheitsbedrohung oder ein anderes Sicherheitsrisiko.
 
@@ -268,7 +268,7 @@ Als Benutzer der Beta-Vorschau erhalten Sie möglicherweise Zugriff auf speziell
 
 Wir sind stets bemüht, unsere Produkte und Dienstleistungen zu verbessern, und Ihr Feedback als Benutzer der Beta-Vorschau wird uns dabei helfen. Wenn Sie uns Ideen, Know-how, Algorithmen, Code-Beiträge, Vorschläge, Verbesserungsanfragen, Empfehlungen oder sonstiges Feedback zu unseren Produkten oder Dienstleistungen (zusammen „Feedback“) geben, erkennen Sie an und stimmen zu, dass GitHub a gebührenfreie, vollständig bezahlte, weltweite, übertragbare, unterlizenzierbare, unwiderrufliche und unbefristete Lizenz zur Implementierung, Verwendung, Änderung, kommerziellen Nutzung und/oder Integration des Feedbacks in unsere Produkte, Dienstleistungen und Dokumentation.
 
-[K. payment](#k-payment)
+[K. Zahlung](#k-payment)
 ----------
 
 **Kurzfassung:** *Sie sind für alle Gebühren im Zusammenhang mit Ihrer Nutzung von GitHub verantwortlich. Wir sind dafür verantwortlich, Ihnen diese Gebühren klar und genau mitzuteilen und Sie frühzeitig zu informieren, wenn sich diese Preise ändern.*
@@ -412,4 +412,4 @@ Diese Vereinbarung darf nur durch eine schriftliche Änderung geändert werden, 
 
 ### [6. Fragen](#6-questions) ###
 
-Fragen zu den Nutzungsbedingungen? [Setzen Sie sich mit uns in Verbindung.](https://support.github.com/contact?tags=docs-policy)
+Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://support.github.com/contact?tags=docs-policy)

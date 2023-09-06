@@ -1,4 +1,4 @@
-GitHub Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
+GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ GitHub Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
-* [GitHub Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
-* [GitHub Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Websiterichtlinie](/de/site-policy)/
+* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
+* [GitHub-Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
-GitHub Richtlinie zu Geschenken und Unterhaltung
+GitHub-Richtlinie zu Geschenken und Unterhaltung
 ==========
 
 In diesem Artikel
@@ -22,7 +22,7 @@ In diesem Artikel
 * [Konsequenzen](#consequences)
 * [Weitere Informationen](#more-information)
 
-Bei GitHub sind wir uns bewusst, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil des Aufbaus dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, und solche Interaktionen nicht zu nutzen, um uns einen besonderen Vorteil zu schaffen oder einen Geschäftsabschluss zu beeinflussen.
+GitHub erkennt an, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil der Entwicklung dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, einschließlich der Nutzung solcher Interaktionen, um einen besonderen Vorteil zu schaffen oder ein Geschäft zu beeinflussen.
 
 [Unternehmensrichtlinien](#company-policies)
 ----------
@@ -31,28 +31,28 @@ Zur Erinnerung: In unserem Ethikkodex heißt es:
 
 >
 >
-> Sie dürfen zu keinem Zeitpunkt Zahlungen oder andere wertvolle Leistungen an jegliche Personen – einschließlich Personen in Macht- oder Autoritätspositionen, wie z. B. Regierungsbeamte oder bei kommerziellen Transaktionen – vornehmen, versprechen oder veranlassen, um ein Geschäft abzuschließen oder aufrechtzuerhalten oder um sich einen anderen unangemessenen Vorteil für GitHub oder Microsoft zu sichern. Sie dürfen auch keine Bestechungsgelder, Schmiergelder oder andere unzulässige Barzahlungen verlangen oder annehmen. ... [GitHub Mitarbeiter] sind verpflichtet, genaue und faire Aufzeichnungen über alle Transaktionen zu führen, die Ausgaben beinhalten, die im Namen von GitHub getätigt wurden – beispielsweise durch das Aufbewahren von Quittungen und das Bereitstellen genauer Beschreibungen Ihrer Ausgaben – sowie alle anderen Transaktionen, die die Veräußerung oder Übertragung von GitHub Vermögenswerten beinhalten. Solche Maßnahmen werden vom US Foreign Corrupt Practices Act, dem UK Bribery Act of 2010 und den Antikorruptionsgesetzen anderer Rechtsordnungen, in denen GitHub geschäftlich tätig ist, verlangt und sind moralisch verpflichtend.
+> Sie dürfen niemals etwas anderes von Wert zahlen, anbieten, versprechen, versprechen, veranlassen, annehmen oder autorisieren, an irgendjemanden – einschließlich an Personen in einer Macht- oder Autoritätsposition, wie z. B. Regierungsbeamte oder bei kommerziellen Transaktionen – um ein Geschäft zu erhalten oder aufrechtzuerhalten oder um sich einen anderen unangemessenen Vorteil für GitHub oder Microsoft zu sichern. Sie dürfen auch keine Bestechungsgelder, Schmiergelder oder andere unzulässige Barzahlungen erbitten oder annehmen. ... [GitHub Mitarbeiter] sind verpflichtet, genaue und faire Aufzeichnungen über alle Transaktionen zu führen, die Ausgaben beinhalten, die im Namen von GitHub getätigt wurden – beispielsweise durch das Aufbewahren von Quittungen und das Bereitstellen genauer Beschreibungen Ihrer Ausgaben – sowie alle anderen Transaktionen, die die Veräußerung oder Übertragung von GitHub-Vermögenswerten beinhalten. Solche Maßnahmen werden vom US Foreign Corrupt Practices Act, dem Vereinigten Königreich, verlangt Bribery Act of 2010 und Antikorruptionsgesetze anderer Jurisdiktionen, in denen GitHub geschäftlich tätig ist, und sind ebenfalls einfach das Richtige.
 >
 >
 
-Der Ethikkodex von GitHub geht auf bestimmte Szenarien genauer ein, darunter Geschenke, Reisen und Bewirtung, die Abwicklung von Zahlungen, Spenden für wohltätige Zwecke, die Vergabe von Arbeitsplätzen und die Zusammenarbeit mit Vertretern sowie darüber, wer als Regierungsbeamter gilt.
+Der Ethikkodex von GitHub geht auf bestimmte Situationen ein, darunter Geschenke, Reisen und Bewirtung; Erleichterung von Zahlungen; Spenden für wohltätige Zwecke; Arbeitsplätze; und die Zusammenarbeit mit Vertretern sowie darüber, wer als Regierungsbeamter gilt.
 
 Unsere Verhaltensstandards verbieten:
 
 >
 >
-> Bestechung von Regierungsbeamten oder anderen Personen, um sich einen unfairen Vorteil zu verschaffen, und Annahme von Bestechungsgeldern von jeglichen Personen.
+> Bestechung von Regierungsbeamten oder anderen Personen, um sich einen unfairen Vorteil zu verschaffen, und Annahme von Bestechungsgeldern von irgendjemandem.
 >
 >
 
-Sowohl Bargeld und Bargeldäquivalente jeglicher Art, als auch alle anderen Werte dürfen nicht vergeben werden (einschließlich an Beamte, Regierungsbeamte oder Personen in Macht- oder Autoritätspositionen sowie Personen, die in keiner dieser Positionen stehen), um diese Personen zu beeinflussen, oder angenommen werden, um GitHub zu beeinflussen. Solche Aktivitäten sind durch den US Foreign Corrupt Practices Act und die UK Anti-Bribery-Gesetze verboten, welche die Handlungen von GitHub weltweit regeln.
+Das bedeutet, dass nicht nur Bargeld oder Bargeldäquivalente jeglicher Art, sondern auch nichts von Wert an irgendjemanden (einschließlich Beamte, Regierungsbeamte oder Personen in Macht- oder Autoritätspositionen sowie Personen, die in keiner dieser Positionen stehen) gegeben werden sollte privilegierte Positionen), um sie zu beeinflussen, oder jemandem genommen, um GitHub zu beeinflussen. Solche Aktivitäten sind durch den US Foreign Corrupt Practices Act und die UK Anti-Bribery-Gesetze verboten, die beide die Handlungen von GitHub weltweit regeln.
 
 [Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
-Was bedeutet „wertvoll“? Denken Sie daran, dass für Regierungsbeamte keinerlei Geschenke akzeptabel sind (ok, vielleicht Aufkleber). Sie sollten sie immer fragen, was ihre Richtlinien erlauben und verbieten. Aber im Zweifelsfall wenden Sie sich bitte an die Rechtsabteilung, um sicher zu gehen. Zum Beispiel ist es für viele US-Kongressabgeordnete nicht akzeptabel, sich zu einem gemeinsamen Abendessen einladen zu lassen.
+Was bedeutet also „wertvoll“? Denken Sie daran, dass keine Geschenke für Regierungsbeamte akzeptiert werden (ok, vielleicht Aufkleber). Sie sollten sie immer fragen, was ihre Richtlinien erlauben und verbieten. Aber im Zweifelsfall lassen Sie es bitte von der Rechtsabteilung laufen, um sicherzugehen. Zum Beispiel lassen sich viele US-Kongressabgeordnete nicht zum Abendessen ausführen und bezahlen.
 
-Für die einen Kunden oder potenziellen Kunden mögen bestimmte Dinge trivial erscheinen, aber für jemand anderen einen großen Wert haben. Auch wenn es aus Ihrer Sicht zum Beispiel keine große Sache zu sein scheint, die Tochter Ihres Freundes als Praktikantin einzustellen, könnte es für sie von großem Wert sein. Aber wenn sie nicht qualifiziert ist und Sie die Regeln umgehen, um ihr einen Platz zu sichern, ist das nicht angemessen. Wenn die Absicht besteht, unangemessen Einfluss zu nehmen, kann außerdem alles, auch wenn es noch so klein ist, als „wertvoll“ angesehen werden.
+Für andere Kunden oder potenzielle Kunden mögen bestimmte Dinge trivial erscheinen, aber für jemand anderen einen großen Wert haben. Auch wenn es Ihnen zum Beispiel keine große Sache zu sein scheint, die Tochter Ihres Freundes als Praktikantin einzustellen, könnte es für sie von großem Wert sein. Aber wenn sie nicht qualifiziert ist und du an den Fäden ziehst, damit es passiert, dann ist es nicht in Ordnung. Wenn die Absicht darin besteht, unangemessen Einfluss zu nehmen, kann außerdem alles, auch wenn es noch so klein ist, als „wertvoll“ angesehen werden.
 
 🙅 *Hier sind einige andere Beispiele für Dinge, die nicht in Ordnung sind:*
 
@@ -65,34 +65,34 @@ Für die einen Kunden oder potenziellen Kunden mögen bestimmte Dinge trivial er
 
 🙆 *Hier sind einige Dinge, die für Kunden oder potenzielle Kunden für gewöhnlich in Ordnung sind:*
 
-* Werbegeschenke
-* Flug in der Economy Klasse zu GitHub Büros für ein Executive Briefing ✈️
+* Beute
+* Flug in der Economy Class zu GitHub-Büros für Executive Briefings ✈️
 * Tribünentickets für eine Sportveranstaltung ⚾️
 * Ein preiswertes Abendessen in der Stadt 🍽
 * Eine kleine Schachtel Pralinen als Dankeschön zum Jahresende 🍫
 
-Alle oben genannten Punkte gelten auch für die *Annahme* von Bestechungsgeldern. Wenn Ihnen also ein Anbieter oder potenzieller Anbieter etwas „wertvolles“ zuschickt, nehmen Sie es nicht an – oder lassen Sie es zumindest von der Rechtsabteilung überprüfen, bevor Sie es annehmen.
+Alle oben genannten Punkte gelten auch für die *Annahme* von Bestechungsgeldern. Wenn Ihnen also ein Anbieter oder potenzieller Anbieter etwas „Wertvolles“ sendet, nehmen Sie es nicht an – oder lassen Sie es zumindest von der Rechtsabteilung überprüfen, bevor Sie es tun.
 
 [Prozess](#process)
 ----------
 
 Wenn Sie vorhaben, ein informelles Geschenk zu machen oder anzunehmen (das nicht zu unseren Werbeartikeln wie T-Shirts und Aufklebern gehört), befolgen Sie bitte unbedingt das nachstehende Verfahren.
 
-Denken Sie daran, dass die akzeptable Menge variieren kann. Beispielsweise kann es in einigen Ländern als viel Geld angesehen werden, $50 für ein Abendessen auszugeben, in anderen Ländern jedoch eher nicht. Also im Zweifelsfall besser nachfragen!
+Denken Sie daran, dass eine akzeptable Menge variieren kann. Beispielsweise kann es in einigen Ländern als viel Geld angesehen werden, $50 für ein Abendessen auszugeben, in anderen jedoch nicht so viel. Also im Zweifelsfall nachfragen!
 
-1. Im Allgemeinen benötigen Sie für Ausgaben, die $150 übersteigen, (jedes Mal) eine schriftliche Genehmigung der Rechtsabteilung. Und für alle Geschenke, die Sie erhalten, die $150 überschreiten, müssen Sie dies (jedes Mal) der Rechtsabteilung schriftlich melden. (Die Rechtsabteilung prüft nur den Aspekt der Bestechung. Möglicherweise müssen Sie sich aus anderen Gründen noch mit der Finanzabteilung beraten.)
+1. Im Allgemeinen benötigen Sie für Ausgaben, die $150 übersteigen, (jedes Mal) eine schriftliche Genehmigung der Rechtsabteilung. Und für alle Geschenke, die Sie erhalten, die $150 überschreiten, müssen Sie dies (jedes Mal) der Rechtsabteilung schriftlich melden. (Die Rechtsabteilung mischt sich nur in die Frage der Bestechung ein. Möglicherweise müssen Sie sich aus anderen Gründen noch bei Finance erkundigen.)
 
 2. Wenn Sie Ihre Spesenabrechnung zur Erstattung einreichen, gehen Sie bitte wie folgt vor:
 
-   * Geben Sie den Empfänger und den Zweck des Geschenks in den Anmerkungen an und
-   * fügen Sie eine Kopie der schriftlichen Genehmigung (E-Mail) bei
+   * Geben Sie den Empfänger und den Zweck des Geschenks in den Anmerkungen an; und
+   * Fügen Sie eine Kopie der E-Mail-Genehmigung bei
 
 [Konsequenzen](#consequences)
 ----------
 
-Was passiert, wenn Sie die Richtlinie nicht befolgen und GitHub am Ende dafür bezahlt, dass ein potenzieller Kunde und seine Familie in der ersten Klasse nach Japan fliegen und an den Olympischen Spielen in Tokio teilnehmen? Oder wenn Sie einen Koffer voller Geld für einen Regierungsbeamten in einem vorab eingerichteten Schließfach am Bahnhof abgeben?
+Was passiert, wenn Sie die Richtlinie nicht befolgen und GitHub am Ende dafür bezahlt, dass ein potenzieller Kunde und seine Familie in der ersten Klasse nach Japan fliegen und an den Olympischen Spielen in Tokio teilnehmen? Oder wenn Sie einen Euro-Koffer für einen Regierungsbeamten in einem vorab eingerichteten Schließfach am Bahnhof abgeben?
 
-GELDSTRAFEN und GEFÄNGNIS. Und nicht unbedingt nur für GitHub. Es könnte auch passieren, dass Sie selbst eine mehrjährige Gefängnisstrafe erhalten, und es spielt dabei keine Rolle, ob der Kunde nach seiner Reise nach Japan überhaupt eine Bestellung bei GitHub aufgegeben hat oder ob der Regierungsbeamte den Koffer mit Bargeld jemals abgeholt hat. Im Grunde ist es egal, ob Sie tatsächlich *erfolgreich* mit der Bestechung waren. Anders als bei Yoda zählt hier schon der Versuch.
+Geldstrafen und Gefängnis. Auch nicht unbedingt nur für GitHub. Sie könnten selbst ein paar Jahre im Gefängnis verbringen, und es spielt keine Rolle, ob der Kunde nach seiner Reise nach Japan jemals eine Bestellung bei GitHub aufgegeben hat oder ob der Regierungsbeamte sogar den Koffer mit Bargeld abgeholt hat. Im Grunde ist es egal, ob Sie tatsächlich *erfolgreich* mit der Bestechung waren. Ungeachtet Yoda zählt der Versuch.
 
 [Weitere Informationen](#more-information)
 ----------

@@ -6,7 +6,7 @@ Documentação da Política do Site - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)
+* [Política do site](/pt/site-policy)
 
 Documentação da Política do Site
 ==========
@@ -20,14 +20,14 @@ Documentação da Política do Site
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)
   ----------
 
-* [Outras Políticas do Site](/pt/site-policy/other-site-policies)
+* [Outras políticas do site](/pt/site-policy/other-site-policies)
   ----------
 
-* [Políticas de Remoção de Conteúdo](/pt/site-policy/content-removal-policies)
+* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
   ----------
 
 * [Políticas de Segurança](/pt/site-policy/security-policies)
   ----------
 
-* [Políticas da Empresa GitHub](/pt/site-policy/github-company-policies)
+* [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
   ----------

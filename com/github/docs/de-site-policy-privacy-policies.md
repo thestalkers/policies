@@ -6,7 +6,7 @@ Datenschutzrichtlinien - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
 
 Datenschutzrichtlinien
@@ -14,11 +14,11 @@ Datenschutzrichtlinien
 
 * [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement)
 
-* [GitHub Unterauftragsverarbeiter und Cookies](/de/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [GitHub-Subprozessoren und Cookies](/de/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [Datenschutzerklärung für GitHub Codespaces](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-* [GitHub Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 * [Datenschutzerklärung für GitHub Copilot for Business](/de/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
 

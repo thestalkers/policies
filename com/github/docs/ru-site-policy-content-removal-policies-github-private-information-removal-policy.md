@@ -1,4 +1,4 @@
-Политика GitHub по удалению личной информации - Документация по GitHub
+Политика удаления личной информации GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -7,10 +7,10 @@
 [Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
-* [Политика удаления контента](/ru/site-policy/content-removal-policies)/
-* [Политика GitHub по удалению личной информации](/ru/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
+* [Политика удаления личной информации GitHub](/ru/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-Политика GitHub по удалению личной информации
+Политика удаления личной информации GitHub
 ==========
 
 В этой статье

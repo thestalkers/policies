@@ -6,8 +6,8 @@ Divulgación Coordinada de Vulnerabilidades de Seguridad - Documentación de Git
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
-* [Directivas de Seguridad](/es/site-policy/security-policies)/
+* [Política del sitio](/es/site-policy)/
+* [Políticas de seguridad](/es/site-policy/security-policies)/
 * [Divulgación Coordinada de Vulnerabilidades de Seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Divulgación Coordinada de Vulnerabilidades de Seguridad

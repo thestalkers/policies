@@ -14,14 +14,14 @@
 
 * [GitHub и торговый контроль](/ru/site-policy/other-site-policies/github-and-trade-controls)
 
-* [Политика GitHub в отношении умерших пользователей](/ru/site-policy/other-site-policies/github-deceased-user-policy)
+* [Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
 
-* [Политика GitHub в отношении логотипов](/ru/site-policy/other-site-policies/github-logo-policy)
+* [Политика логотипа GitHub](/ru/site-policy/other-site-policies/github-logo-policy)
 
-* [Политика GitHub по удалению по требованию правительства](/ru/site-policy/other-site-policies/github-government-takedown-policy)
+* [Политика GitHub в отношении правительственных запретов](/ru/site-policy/other-site-policies/github-government-takedown-policy)
 
-* [Политика GitHub в отношении имен пользователей](/ru/site-policy/other-site-policies/github-username-policy)
+* [Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
 
 * [Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
-* [Политика восстановления учетной записи GitHub](/ru/site-policy/other-site-policies/github-account-recovery-policy)
+* [Политика восстановления учетных записей GitHub](/ru/site-policy/other-site-policies/github-account-recovery-policy)

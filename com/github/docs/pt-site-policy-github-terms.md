@@ -6,7 +6,7 @@ Termos do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)
 
 Termos do GitHub
@@ -26,18 +26,18 @@ Termos do GitHub
 
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
-* [Contrato de Desenvolvedor Registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
+* [Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
 
-* [Termos de Serviço do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Termos de Serviço do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
 
-* [Contrato de Desenvolvedor do Marketplace do GitHub](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+* [Contrato de desenvolvedor do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
 
-* [Termos do Programa de Pesquisa do GitHub](/pt/site-policy/github-terms/github-research-program-terms)
+* [Termos do Programa de Pesquisa GitHub](/pt/site-policy/github-terms/github-research-program-terms)
 
-* [Termos e Condições de Aplicativos de Software Livre do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-* [Termos do Evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
+* [Termos do evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
 
-* [Código de Conduta de Evento do GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
+* [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
 
 * [Contrato de Uso Educacional do GitHub](/pt/site-policy/github-terms/github-educational-use-agreement)

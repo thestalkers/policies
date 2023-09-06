@@ -6,8 +6,8 @@ GitHub e Controle de Comércio - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
-* [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
+* [Política do site](/pt/site-policy)/
+* [Outras políticas do site](/pt/site-policy/other-site-policies)/
 * [GitHub e Controle de Comércio](/pt/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub e Controle de Comércio

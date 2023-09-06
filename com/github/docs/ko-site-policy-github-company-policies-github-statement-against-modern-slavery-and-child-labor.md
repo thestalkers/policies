@@ -26,7 +26,7 @@
 
 *2018년 성명서*
 
-국제노동기구(ILO)에 따르면 2016년 기준으로 전 세계 [4,000만 명이 현대 노예제의 피해자이고, 1억 5,200만 명의 아동이 미성년 노동에 시달리고 있습니다](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm). [ILO의 보고](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm)에 따르면,
+국제노동기구(ILO)에 따르면 2016년 기준으로 전 세계 [4,000만 명이 현대 노예제의 피해자이고, 1억 5,200만 명의 아동이 미성년 노동에 시달리고 있습니다.](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) [ILO의 보고](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm)에 따르면,
 
 * 현대 노예제 피해자 4명 중 1명은 아동입니다.
 * 강제 노동에서 빠져나오지 못하는 2,490만 명 중 1,600만 명은 가정 노동, 건설 또는 농업 등 민간 부문에서, 480만 명은 강제적 성 착취에, 400만 명은 국가 기관이 부과하는 강제 노동에 착취당하고 있습니다.
@@ -59,7 +59,7 @@ GitHub의 공급망은 컴퓨팅 서비스, 이벤트 기획, 소매 및 판촉 
 
 ### [현대 노예제 및 미성년 노동](#modern-slavery-and-child-labor) ###
 
-**GitHub의 윤리 강령**은 사업 운영에서 현대 노예제(노예 상태, 강제 또는 부역 노동, 인신 매매, 노역 또는 감금되거나 도제 계약되거나 채무를 갚기 위해 일해야 하는 근로자) 또는 미성년 노동을 고의로 이용, 참여, 지지 또는 용인하는 것을 금지합니다. 이 금지 조항을 위반하는 GitHub 직원이나 계약자는 해고되거나 거래 관계가 해지됩니다.
+**\*GitHub의 윤리 강령**은 사업 운영에서 현대 노예제(노예 상태, 강제 또는 부역 노동, 인신 매매, 노역 또는 감금되거나 도제 계약되거나 채무를 갚기 위해 일해야 하는 근로자) 또는 미성년 노동을 고의로 이용, 참여, 지지 또는 용인하는 것을 금지합니다. 이 금지 조항을 위반하는 GitHub 직원이나 계약자는 해고되거나 거래 관계가 해지됩니다.
 
 **GitHub의 행동 규범**은 현대 노예제(노예 상태, 강제 또는 부역 노동, 인신 매매, 노역 또는 감금되거나 도제 계약되거나 채무를 갚기 위해 일해야 하는 근로자) 또는 미성년 노동을 고의로 이용, 참여, 지지 또는 용인하는 것을 비롯하여 안전하지 않고 불법적인 행동을 금지합니다.
 
@@ -67,7 +67,7 @@ GitHub는 [인신 매매 근절에 관한 미국 연방조달규정 22.17](https
 
 또한 GitHub는 FairHotel 프로그램과 파트너십을 맺었습니다. 즉, GitHub는 근로자가 공정한 임금과 적절한 복리 후생을 받으며 직장에서 의견을 낼 수 있는 FairHotel 추천 호텔을 GitHub 직원들이 선택하도록 장려합니다. FairHotel 파트너라는 것은 GitHub가 공정 고용주로서 호텔에 비즈니스를 제공한다는 의미도 됩니다.
 
-앞으로 GitHub는 모든 직원과 계약자 및 채용업체와 고용 소개업체를 포함한 공급업체에 이 성명서를 알릴 것입니다. 또한 GitHub는 모든 GitHub 직원을 위한 현대 노예제와 미성년 노동에 관한 교육을 개발 중입니다. GitHub는 [현대 노예제와 미성년 노동에 반대하는 GitHub 성명서를 공개적으로 게시](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)합니다.
+앞으로 GitHub는 모든 직원과 계약자 및 채용업체와 고용 소개업체를 포함한 공급업체에 이 성명서를 알릴 것입니다. 또한 GitHub는 모든 GitHub 직원을 위한 현대 노예제와 미성년 노동에 관한 교육을 개발 중입니다. GitHub는 [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서를 게시](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)하고 있습니다.
 
 GitHub는 직장 관련 우려 사항 신고에 대한 보복 금지 정책을 두고 있습니다. 이 성명서에 부합하게 GitHub는 직원 및 계약자가 현대 노예제 및 미성년 노동 관련 문제를 보복에 대한 두려움 없이 신고하는 것을 허용합니다.
 
@@ -135,4 +135,4 @@ GitHub는 현대 노예제 및 미성년 노동 관련 법률을 준수하며 �
 
 GitHub는 GitHub 사업 및 공급망을 목표로 모든 직원이 의무적으로 이수해야 하는 현대 노예제 및 미성년 노동 교육을 개발 중입니다. GitHub는 이벤트 지원, 건설, 시설 서비스, 식품 서비스 등 육체 노동이 필요한 서비스를 제공하는 공급업체를 잠재적 위험이 큰 분야로 강조할 것입니다.
 
-**GitHub 이사회는 이 성명서를 승인했습니다. [GitHub의 최고 전략 책임자 및 법률 고문(PDF)이 서명한 이 성명서의 사본을 참조하세요](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
+**GitHub 이사회는 이 성명서를 승인했습니다. [GitHub 최고 전략 책임자와 법률 고문이 서명한 본 성명서 사본(PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf)을 참조하세요.**

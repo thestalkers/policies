@@ -1,4 +1,4 @@
-Política de Logotipo do GitHub - GitHub Docs
+Política de logotipo do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ Política de Logotipo do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
-* [Outras Políticas do Site](/pt/site-policy/other-site-policies)/
-* [Política de Logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
+* [Política do site](/pt/site-policy)/
+* [Outras políticas do site](/pt/site-policy/other-site-policies)/
+* [Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 
-Política de Logotipo do GitHub
+Política de logotipo do GitHub
 ==========
 
 Você pode adicionar logotipos GitHub em seu site ou aplicativo de terceiros em alguns cenários. Para obter mais informações e diretrizes específicas sobre o uso do logotipo, consulte [GitHub página Logotipos e Uso](https://github.com/logos).

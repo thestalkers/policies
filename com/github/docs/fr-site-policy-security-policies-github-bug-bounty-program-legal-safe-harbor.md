@@ -1,4 +1,4 @@
-Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug Bounty de GitHub - Documentation GitHub
+Programme GitHub Bug Bounty Legal Safe Harbor - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug B
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Politiques de Sécurité](/fr/site-policy/security-policies)/
-* [Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug Bounty de GitHub](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug Bounty de GitHub
+Programme GitHub Bug Bounty Legal Safe Harbor
 ==========
 
 Dans cet article
@@ -19,12 +19,12 @@ Dans cet article
 * [Résumé](#summary)
 * [1. Conditions des Principes de la Sphère de sécurité (Safe Harbor)](#1-safe-harbor-terms)
 * [2. Principes de protection des données (Safe Harbor) applicables aux tiers](#2-third-party-safe-harbor)
-* [3. Dérogation limitée aux règlements d’autres sites](#3-limited-waiver-of-other-site-polices)
+* [3. Dérogation limitée aux règlements d'autres sites](#3-dérogation-limitée-aux-règlements-dautres-sites)
 
 [Résumé](#summary)
 ----------
 
-1. Nous voulons que vous coordonniez la divulgation via notre programme de primes Bug Bounty et nous ne voulons pas que les chercheurs aient à craindre des conséquences juridiques alors qu’ils tentent de bonne foi de se conformer à notre règlement relatif à l’attribution de primes. Nous ne pouvons pas engager la responsabilité de tiers, donc ne présumez pas que cette protection s’étend à un tiers. En cas de doute, contactez-nous avant de vous lancer dans une action spécifique *susceptible*, selon vous, de dépasser les limites de notre politique.
+1. Nous voulons que vous coordonniez la divulgation via notre programme de primes Bug Bounty et nous ne voulons pas que les chercheurs aient à craindre des conséquences juridiques alors qu’ils tentent de bonne foi de se conformer à notre règlement relatif à l’attribution de primes. Nous ne pouvons pas engager la responsabilité de tiers, donc ne présumez pas que cette protection s’étend à un tiers. En cas de doute, interrogez-nous avant de vous lancer dans une action spécifique *susceptible*, selon vous, de dépasser les limites de notre politique.
 2. Étant donné que les informations identifiantes et non-identifiantes peuvent exposer un chercheur à des risques, nous limitons le contenu que nous partageons avec des tiers. Nous pouvons transmettre à un tiers concerné des informations de fond non-identifiantes issues de votre signalement, mais uniquement après vous en avoir informé et avoir reçu de ce tiers l’engagement qu’il n’intentera aucune action judiciaire à votre encontre. Nous ne partagerons d’informations identifiantes (nom, adresse e-mail, numéro de téléphone, etc.) avec un tiers que si vous nous en donnez l’autorisation écrite.
 3. Si votre recherche en matière de sécurité dans le cadre du programme Bug Bounty enfreint certaines limitations mentionnées dans les règlements de nos sites, les conditions des Principes de protection des données autorisent une exception limitée.
 
@@ -48,7 +48,7 @@ Veuillez noter que nous ne pouvons pas autoriser les tests hors champ d’applic
 
 Cela dit, en cas d’action légale intentée par un tiers, y compris par les forces de l’ordre, à votre encontre en raison de votre participation au présent programme Bug Bounty, si vous vous êtes suffisamment conformé au Règlement du programme Bug Bounty (autrement dit, si vous n’avez pas commis d’infractions intentionnelles ou de mauvaise foi), nous prendrons les mesures requises pour faire savoir que vos actions ont été menées conformément au présent Règlement. Bien que nous considérions les signalements soumis comme des documents confidentiels et potentiellement privilégiés devant être protégés contre toute divulgation contrainte dans la plupart des circonstances, sachez qu’un tribunal peut, malgré nos objections, nous enjoindre à partager ces informations avec un tiers.
 
-[3. Dérogation limitée aux règlements d’autres sites](#3-limited-waiver-of-other-site-polices)
+[3. Dérogation limitée aux règlements d'autres sites](#3-dérogation-limitée-aux-règlements-dautres-sites)
 ----------
 
-Dans la mesure où vos activités de recherche en lien avec la sécurité sont en contradiction avec certaines limitations imposées par les [règlements de nos sites concernés](/fr/site-policy), mais sont cohérentes avec les conditions de notre programme Bug Bounty, nous dérogeons à ces limitations dans le seul et unique but d’autoriser vos recherches en lien avec la sécurité dans le cadre du présent programme Bug Bounty. Encore une fois, en cas de doute, contactez-nous au préalable !
+Dans la mesure où vos activités de recherche en lien avec la sécurité sont en contradiction avec certaines limitations imposées par les [règlements de nos sites concernés](/fr/site-policy), mais sont cohérentes avec les conditions de notre Bounty Program, nous dérogeons à ces limitations dans le seul et unique but d'autoriser vos recherches en lien avec la sécurité dans le cadre du présent Bounty Program. Encore une fois, en cas de doute, contactez-nous au préalable !

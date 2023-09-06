@@ -6,7 +6,7 @@ Políticas de Privacidade - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)
 
 Políticas de Privacidade
@@ -16,7 +16,7 @@ Políticas de Privacidade
 
 * [Subprocessadores e cookies do GitHub](/pt/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-* [Política de Privacidade de Codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [Declaração de privacidade de codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
 * [Política de Privacidade do Candidato do GitHub](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
 

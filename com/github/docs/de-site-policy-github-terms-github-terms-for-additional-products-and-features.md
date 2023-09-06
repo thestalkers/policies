@@ -6,7 +6,7 @@ GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen - GitHub-Do
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/
 * [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
@@ -31,7 +31,7 @@ In diesem Artikel
 * [Sponsors Programm](#sponsors-program)
 * [SQL Server-Images](#sql-server-images)
 
-Version/Wirksamkeitsdatum: 3. November 2022
+Version/Wirksamkeitsdatum: 5. September 2023
 
 Wenn Sie GitHub verwenden, erhalten Sie möglicherweise Zugriff auf viele zusätzliche Produkte und Funktionen („Zusätzliche Produkte und Funktionen“). Da viele der zusätzlichen Produkte und Funktionen unterschiedliche Funktionen bieten, können zusätzlich zu Ihrer Vereinbarung mit uns (die „Vereinbarung) spezifische Bedingungen für dieses Produkt oder diese Funktion in Kombination mit Ihrer Hauptvereinbarung gelten – die GitHub-Nutzungsbedingungen, die GitHub-Kundenvereinbarung, die GitHub-Vertragsbedingungen für Unternehmen oder ein anderer älterer GitHub-Vertrag bzw. eine Microsoft-Volumenlizenzierung. Nachfolgend haben wir diese Produkte und Funktionen zusammen mit den entsprechenden zusätzlichen Bedingungen aufgelistet, die für Ihre Verwendung gelten.
 
@@ -175,6 +175,10 @@ GitHub Pages unterliegen einigen spezifischen Bandbreiten- und Nutzungsbeschrän
 GitHub Pages darf nicht unter Verstoß gegen die Vereinbarung, die [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) von GitHub oder die in der [Pages-Dokumentation](/de/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages) dargelegten Einschränkungen des GitHub Pages-Dienstes verwendet werden.
 
 Wenn Sie Fragen dazu haben, ob Ihre Nutzung oder beabsichtigte Nutzung in diese Kategorien fällt, wenden Sie sich an den [GitHub-Support](https://support.github.com/contact?tags=docs-policy). GitHub behält sich jederzeit das Recht vor, jede GitHub-Subdomain ohne Haftung zurückzufordern.
+
+*Lernübungen*
+
+Die Verwendung von GitHub-Seiten zum Erstellen einer Kopie einer vorhandenen Website als Lernübung ist nicht untersagt. Allerdings müssen Sie den Code selbst schreiben, die Website darf keine Benutzerdaten sammeln, und die Website muss einen deutlichen Haftungsausschluss enthalten, dass das Projekt nicht mit dem Original verknüpft ist und nur für Lernzwecke erstellt wurde.
 
 [Vorschauen](#previews)
 ----------

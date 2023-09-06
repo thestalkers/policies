@@ -6,7 +6,7 @@ Règles de Bon Usage - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
 
 Règles de Bon Usage
@@ -14,22 +14,22 @@ Règles de Bon Usage
 
 * [Politiques d'utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [Logiciels ou codes malveillants actifs sur GitHub](/fr/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [GitHub Active Malware ou Exploits](/fr/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
-* [Intimidation et harcèlement sur GitHub](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [GitHub Intimidation et Harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-* [Perturber l’expérience des autres utilisateurs sur GitHub](/fr/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub perturbe l'expérience des autres utilisateurs](/fr/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-* [Doxxing et atteinte à la vie privée sur GitHub](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [GitHub Doxxing et invasion de la vie privée](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [Discours haineux et discrimination sur GitHub](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [GitHub Discours de haine et discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [Usurpation d’identité sur GitHub](/fr/site-policy/acceptable-use-policies/github-impersonation)
+* [Usurpation d'identité GitHub](/fr/site-policy/acceptable-use-policies/github-impersonation)
 
-* [Désinformation sur GitHub](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Désinformation et désinformation GitHub](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [Contenu Sexuellement Obscène sur GitHub](/fr/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Contenu sexuellement obscène de GitHub](/fr/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [Menaces de Violence et Contenu de Violence Gratuite sur GitHub](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [GitHub Menaces de violence et contenu gratuitement violent](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [Appel et réintégration sur GitHub](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Appel et rétablissement de GitHub](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

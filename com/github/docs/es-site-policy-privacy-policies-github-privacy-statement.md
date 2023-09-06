@@ -6,7 +6,7 @@ Declaración de privacidad de GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/
 * [Declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
 

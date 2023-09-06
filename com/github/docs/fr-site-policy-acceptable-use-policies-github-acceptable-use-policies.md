@@ -6,7 +6,7 @@ Politiques d'utilisation acceptable de GitHub - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
 * [Politiques d'utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 

@@ -1,4 +1,4 @@
-Hassreden und Diskriminierung auf GitHub - GitHub-Dokumentation
+GitHub Hassreden und Diskriminierung - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
@@ -6,21 +6,21 @@ Hassreden und Diskriminierung auf GitHub - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
 * [Hassreden und Diskriminierung](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-Hassreden und Diskriminierung auf GitHub
+GitHub Hassreden und Diskriminierung
 ==========
 
-GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine Gruppe von Menschen aufgrund ihrer Person schüren oder fördern, einschließlich aufgrund von Alter, Körpergröße, Fähigkeiten, ethnischer Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Staatsangehörigkeit, persönlichem Aussehen, Hautfarbe, Religion, sexueller Identität oder sexueller Orientierung. Dies schließt Folgendes mit ein:
+GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine Gruppe von Menschen aufgrund ihrer Person angreifen oder fördern, einschließlich Alter, Körpergröße, Fähigkeiten, ethnische Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönliches Aussehen, Rasse, Religion, sexuelle Identität oder sexuelle Orientierung. Dies umfasst u. a.:
 
-* Verspotten, Angreifen oder Ausgrenzen einer Person oder Gruppe aufgrund ihrer Überzeugungen oder der oben aufgeführten Eigenschaften
+* Eine Person oder Gruppe aufgrund ihrer Überzeugungen oder der oben aufgeführten Eigenschaften verspotten, angreifen oder ausgrenzen
 * Anzeigen einer eindeutigen Zugehörigkeit oder Identifikation mit bekannten terroristischen oder gewaltbereiten extremistischen Organisationen
 * Unterstützung oder Förderung von Hassgruppen oder auf Hass basierenden Verschwörungstheorien
-* Teilen von Symbolen oder Bildern, die gleichbedeutend mit Hass sind
+* Das Teilen von Symbolen oder Bildern, die gleichbedeutend mit Hass sind
 * Verwendung schädlicher Stereotypen, Beleidigungen oder entmenschlichender Sprache
 * Angriff auf eine Person aufgrund ihres wahrgenommenen Geschlechts
-* Hinterherpfeifen oder die Verwendung zweideutiger oder anzüglicher Sprache und/oder von Symbolen, um Übergriffe oder Hass zu fördern
+* Hundepfeifen; oder die Verwendung verschlüsselter oder anzüglicher Sprache und/oder Symbole, um Missbrauch oder Hass zu fördern
 
-Während GitHub alle Fälle von Übergriffen und Belästigung auf der Plattform ernst nimmt, setzen wir uns besonders dafür ein, auf Hass basierende Übergriffe zu bekämpfen, wenn sie sich überproportional gegen Communitys richten, die in der Vergangenheit von solchen Übergriffen betroffen waren. Unser Ziel ist es, GitHub zu einem Ort zu machen, an dem sich alle Menschen willkommen und sicher fühlen.
+Während GitHub alle Fälle von Missbrauch und Belästigung auf der Plattform ernst nimmt, setzen wir uns besonders dafür ein, auf Hass basierenden Missbrauch zu bekämpfen, wenn er überproportional Communitys betrifft, die in der Vergangenheit von solchem Missbrauch betroffen waren. Unser Ziel ist es, GitHub zu einem Ort zu machen, an dem sich alle Menschen willkommen und sicher fühlen.

@@ -31,7 +31,7 @@ GitHub 附加产品和功能条款
 * [赞助商计划](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
 
-版本生效日期：2022 年 11 月 3 日
+版本生效日期：2023 年 9 月 5 日
 
 当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
@@ -175,6 +175,10 @@ GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于�
 对 GitHub Pages 的使用不得违反协议、GitHub [可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Pages 文档](/zh/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)规定的 GitHub Pages 服务限制。
 
 如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
+
+*学习练习*
+
+允许使用 GitHub Pages 创建现有网站的副本以进行学习练习。 但是，必须自行编写代码，网站不得收集任何用户数据，并且网站必须提供明确的免责声明，表明项目与原始项目无关，且仅用于学习目的。
 
 [预览版](#previews)
 ----------

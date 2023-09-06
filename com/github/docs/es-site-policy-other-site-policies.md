@@ -6,7 +6,7 @@ Otras Directivas del Sitio - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)
 
 Otras Directivas del Sitio
@@ -14,14 +14,14 @@ Otras Directivas del Sitio
 
 * [GitHub y controles comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
 
-* [Directiva de usuarios fallecidos de GitHub](/es/site-policy/other-site-policies/github-deceased-user-policy)
+* [Política de usuarios fallecidos de GitHub](/es/site-policy/other-site-policies/github-deceased-user-policy)
 
-* [Directiva de logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
+* [Política del logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
 
-* [Directiva de eliminación por parte del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
+* [Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 
-* [Directiva de Nombres de Usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
+* [Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
-* [Directrices para las Solicitudes Legales de Datos de Usuarios](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [Directrices para solicitudes legales de datos de usuario](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [Directiva de recuperación de cuentas de GitHub](/es/site-policy/other-site-policies/github-account-recovery-policy)

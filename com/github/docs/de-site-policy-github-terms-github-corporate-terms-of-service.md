@@ -6,7 +6,7 @@ GitHub-Vertragsbedingungen für Unternehmen - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/
 * [GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
 
@@ -26,7 +26,7 @@ In diesem Artikel
 * [G. Zusätzliche Produktbestimmungen von GitHub](#g-github-additional-product-terms)
 * [H. Übertragung von Abonnementlizenzen](#h-subscription-licenses)
 * [I. Verbundene Unternehmen](#i-affiliates)
-* [J. payment](#j-payment)
+* [J. Zahlung](#j-payment)
 * [K. Laufzeit, Kündigung; Aussetzung](#k-term-termination-suspension)
 * [L. Kommunikation mit GitHub](#l-communications-with-github)
 * [M. Beschränkte Garantie; Gewährleistungsausschluss](#m-limited-warranty-disclaimer)
@@ -217,7 +217,7 @@ GitHub Mitarbeiter dürfen nur in den in unserer [Datenschutzerklärung](/de/sit
 
 Der Kunde kann entscheiden, zusätzlichen Zugriff auf seine privaten Repositories zu ermöglichen. Beispielsweise kann der Kunde verschiedene GitHub-Dienste oder -Funktionen aktivieren, die zusätzliche Rechte an Kundeninhalten in privaten Repositories erfordern. Diese Rechte können je nach Dienst oder Funktion variieren, aber GitHub wird Kundeninhalte in den privaten Repositories des Kunden weiterhin als vertrauliche Informationen des Kunden behandeln. Wenn diese Dienste oder Funktionen zusätzlich zu den für die Bereitstellung des Dienstes erforderlichen Rechten erforderlich sind, wird GitHub eine Erläuterung dieser Rechte bereitstellen.
 
-Darüber hinaus können wir [gesetzlich dazu verpflichtet sein](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), den Inhalt Ihrer privaten Repositories offenzulegen.
+Darüber hinaus können wir [gesetzlich verpflichtet](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) sein, Inhalte in Ihren privaten Repositorys offenzulegen.
 
 GitHub informiert über unseren Zugriff auf private Repository-Inhalte, es sei denn es geht um [rechtliche Offenlegung](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), um unseren gesetzlichen Verpflichtungen nachzukommen, oder wenn anderweitig gesetzlich vorgeschrieben, für automatisiertes Scannen oder als Reaktion auf eine Sicherheitsbedrohung oder ein anderes Sicherheitsrisiko.
 
@@ -259,7 +259,7 @@ Abonnementlizenzen werden pro Benutzer gewährt und mehrere Benutzer dürfen nic
 
 Die Verbundenen Unternehmen des Kunden sind berechtigt, die Produkte in Übereinstimmung mit dieser Vereinbarung zu verwenden, solange der Kunde für ihren Zugriff und ihre Nutzung der Produkte voll verantwortlich bleibt.
 
-[J. payment](#j-payment)
+[J. Zahlung](#j-payment)
 ----------
 
 ### [1. Preisgestaltung; Gebühren](#1-pricing-fees) ###
@@ -422,4 +422,4 @@ Jede Partei ist in Bezug auf den Gegenstand dieser Vereinbarung ein unabhängige
 
 ### [10. Fragen](#10-questions) ###
 
-Fragen zu den Nutzungsbedingungen? [Setzen Sie sich mit uns in Verbindung.](https://github.com/contact/)
+Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://github.com/contact/)

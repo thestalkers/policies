@@ -6,7 +6,7 @@ Conditions d'utilisation de la place de marché GitHub - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/
 * [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
 

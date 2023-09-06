@@ -47,13 +47,13 @@ DMCA는 저작권 침해가 의심되는 사용자 생성 콘텐츠를 호스팅
 [DMCA 고지에 관한 요약 설명](#dmca-notices-in-a-nutshell)
 ----------
 
-DMCA는 모든 GitHub 사용자가 알아야 할 단순하고 간단한 두 가지 절차 즉, (i) 저작권자가 콘텐츠 삭제를 요청하기 위한 [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) 절차, (ii) 착오 또는 잘못된 식별로 인해 콘텐츠 게시가 중단된 경우 사용자가 콘텐츠를 다시 활성화하기 위한 [반론 고지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) 절차를 규정합니다.
+DMCA는 모든 GitHub 사용자가 알아야 할 단순하고 간단한 두 가지 절차 즉, (i) 저작권자가 콘텐츠 삭제를 요청하기 위한 [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) 절차차, (ii) 착오 또는 잘못된 식별로 인해 콘텐츠 게시가 중단된 경우 사용자가 콘텐츠를 다시 활성화하기 위한 [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) 절차를 규정합니다.
 
 DMCA [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)은 저작권자가 본인의 저작권을 침해한다고 생각되는 콘텐츠의 게시를 중단할 것을 GitHub에 요청하는 데 사용됩니다. 소프트웨어 디자이너 또는 개발자는 저작권이 있는 콘텐츠를 매일 제작합니다. 다른 사람이 GitHub에서 귀하의 저작권 보호 콘텐츠를 무단으로 사용하는 경우, 귀하는 당사에 DMCA 게시 중단 알림을 전달하여 저작권 침해 콘텐츠를 교체하거나 제거하도록 요청할 수 있습니다.
 
-반면 [반론 고지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 사용하여 착오를 정정할 수 있습니다. 게시 중단 알림을 보내는 사람이 저작권자가 아니거나, 귀하에게 라이선스가 있다는 사실을 미처 알지 못했거나, 게시 중단 알림에서 다른 착오를 범했을 수도 있습니다. GitHub는 대체로 착오가 있었는지 여부를 알 수 없으므로 DMCA 반론 고지를 통해 그러한 착오를 알리고 콘텐츠를 다시 올리도록 요청할 수 있습니다.
+반면 [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 사용하여 착오를 정정할 수 있습니다. 게시 중단 알림을 보내는 사람이 저작권자가 아니거나, 귀하에게 라이선스가 있다는 사실을 미처 알지 못했거나, 게시 중단 알림에서 다른 착오를 범했을 수도 있습니다. GitHub는 대체로 착오가 있었는지 여부를 알 수 없으므로 DMCA 반론 고지를 통해 그러한 착오를 알리고 콘텐츠를 다시 올리도록 요청할 수 있습니다.
 
-DMCA 고지 및 게시 중단 절차는 저작권 침해에 관한 불만 사항에만 적용해야 합니다. 당사의 DMCA 절차를 통해 전달된 알림에서는 저작권이 있는 저작물 또는 침해된 것으로 의심되는 저작물을 식별해야 합니다. [상표권 침해](/ko/site-policy/content-removal-policies/github-trademark-policy) 또는 [민감한 데이터](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)에 관한 불만 사항 등 그 밖의 불만 사항에 대해서는 DMCA 절차를 적용할 수 없습니다. 당사는 이러한 상황에 대해 별도의 절차를 제공합니다.
+DMCA 고지 및 게시 중단 절차는 저작권 침해에 관한 불만 사항에만 적용해야 합니다. 당사의 DMCA 절차를 통해 전달된 알림에서는 저작권이 있는 저작물 또는 침해된 것으로 의심되는 저작물을 식별해야 합니다. [상표권 침해](/ko/site-policy/content-removal-policies/github-trademark-policy) 또는 [민감한 데이터](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)에 관한 불만 사항 등 그 밖의 불만 사항에 대해서는 이 절차를 적용할 수 없습니다. 당사는 이러한 상황에 대해 별도의 절차를 제공합니다.
 
 [A. 이 절차의 운영 방식](#a-how-does-this-actually-work)
 ----------
@@ -80,14 +80,14 @@ DMCA 절차를 구성하는 기본 단계는 다음과 같습니다.
 
 6. **GitHub는 콘텐츠에 대한 액세스를 사용 중지할 수 있습니다.** GitHub가 사용자의 콘텐츠를 사용 중지하는 경우는 다음과 같습니다. (i) (3단계에서 언급한 바와 같이) 저작권자가 사용자의 전체 리포지토리 또는 패키지에 대한 저작권을 주장한 경우, (ii) (4단계에서 언급한 바와 같이) 변경 사항을 적용할 기회가 부여된 후 사용자가 실제로 변경 사항을 적용하지 않은 경우, 또는 (iii) 사용자가 변경 사항을 적용할 기회를 얻은 후 저작권자가 게시 중단 알림을 갱신한 경우. 대신 저작권자가 알림을 *수정*하기로 선택할 경우, 당사는 2단계로 돌아가 수정된 알림이 마치 새 알림인 것처럼 해당 절차를 반복 진행합니다.
 
-7. **사용자가 반론 고지를 보낼 수 있습니다.** 콘텐츠를 사용 중지한 사용자는 선택 가능한 방안에 대해 변호사의 자문을 구하시기 바랍니다. 사용자가 착오 또는 잘못된 식별로 인해 콘텐츠가 사용 중지되었다고 생각하는 경우, [반론 고지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 당사에 전달할 수 있습니다. 원본 알림의 내용과 마찬가지로, 당사는 반론 고지가 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)에 설명된 바와 같이) 충분히 상세하게 작성되었는지 확인합니다. 상세하다면 [공용 리포지토리](https://github.com/github/dmca)에 [알림을 게시](#d-transparency)하고 링크를 전송하여 저작권자에게 알림을 다시 전달합니다.
+7. **사용자가 반론 통지를 보낼 수 있습니다.** 콘텐츠를 사용 중지한 사용자는 선택 가능한 방안에 대해 변호사의 자문을 구하시기 바랍니다. 사용자가 착오 또는 잘못된 식별로 인해 콘텐츠가 사용 중지되었다고 생각하는 경우, [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 당사에 전달할 수 있습니다. 원본 알림의 내용과 마찬가지로, 당사는 반론 통지가 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)에 설명된 바와 같이) 충분히 상세하게 작성되었는지 확인합니다. 상세하다면 [공용 리포지토리](https://github.com/github/dmca)에 [알림을 게시](#d-transparency)하고 링크를 전송하여 저작권자에게 알림을 다시 전달합니다.
 
 8. **저작권자는 소송을 제기할 수 있습니다.** 저작권자가 반론 고지를 받은 후 콘텐츠를 비활성화된 상태로 유지하려는 경우, 사용자가 GitHub의 콘텐츠와 관련된 침해 활동에 참여하는 것을 제한하기 위해 법원 명령을 요구하는 법적 조치를 시작해야 합니다. 다시 말해, 귀하가 고소당할 수 있습니다. 저작권자가 10\~14일 이내에 GitHub에 통지하지 않을 경우, GitHub는 관할 법원에 제출된 유효한 내용의 고소장 사본을 전달하여 사용 중지된 콘텐츠를 다시 사용합니다.
 
 [B. 포크는 어떻습니까? (또는 포크란 무엇입니까?)](#b-what-about-forks-or-whats-a-fork)
 ----------
 
-GitHub의 가장 좋은 기능 중 하나는 사용자가 서로의 리포지토리를 "포크"할 수 있는 기능입니다. 이것은 무엇을 의미합니까? 포크는 본질적으로 사용자가 GitHub의 프로젝트를 자신의 리포지토리에 복사할 수 있다는 것을 의미합니다. 라이선스 또는 법률이 허용하는 한, 사용자는 해당 포크를 변경하여 기본 프로젝트에 다시 푸시하거나 고유한 프로젝트 변형으로 유지할 수 있습니다. 이러한 각 복사본은 원래 리포지토리의 "[GitHub 용어](/ko/get-started/quickstart/github-glossary#fork)"이며, 포크의 "부모"라고도 합니다.
+GitHub의 가장 좋은 기능 중 하나는 사용자가 서로의 리포지토리를 "포크"할 수 있는 기능입니다. 이것은 무엇을 의미합니까? 포크는 본질적으로 사용자가 GitHub의 프로젝트를 자신의 리포지토리에 복사할 수 있다는 것을 의미합니다. 라이선스 또는 법률이 허용하는 한, 사용자는 해당 포크를 변경하여 기본 프로젝트에 다시 푸시하거나 고유한 프로젝트 변형으로 유지할 수 있습니다. 이러한 각 사본은 원본 리포지토리의 "[GitHub 용어](/ko/get-started/quickstart/github-glossary#fork)"이며, 따라서 포크의 "부모"라고도 할 수 있습니다.
 
 GitHub는 부모 리포지토리를 사용 중지할 때 포크를 자동으로 사용 중지하지 *않습니다*. 그 이유는 포크가 다른 사용자에게 속해 있고, 유의미한 방식으로 변경되었을 수도 있으며, 공정 사용 원칙에 따라 보호되는 방식으로 달리 허여되거나 사용될 수 있기 때문입니다. GitHub는 포크에 대한 독립적인 조사를 수행하지 않습니다. 당사는 저작권자가 해당 조사를 수행할 것을 요구하며, 포크도 저작권을 침해하는 것으로 판단된다면 게시 중단 알림에 포크를 명시적으로 포함해야 합니다.
 
@@ -120,7 +120,7 @@ GitHub가 당사의 우회 기술 청구 검토 절차에 따라 DMCA 게시 중
 [E. 투명성](#e-transparency)
 ----------
 
-우리는 투명성이 미덕이라고 생각합니다. 일반 대중은 GitHub에서 어떤 콘텐츠가 제거되고 있으며 그 이유는 무엇인지 알아야 합니다. 사전 정보를 접한 일반 대중은 불투명한 시스템에서 달리 눈에 띄지 않을 수 있는 잠재적인 문제를 인지하고 드러낼 수 있습니다. 당사는 직접 수신한 법적 고지(원본 고지, 반론 고지 또는 철회를 포함)의 수정된 사본을 <https://github.com/github/dmca>에 게시합니다. 당사는 귀하의 개인 연락처 정보를 공개적으로 게시하지 않으며, 알림을 게시하기 전에 개인 정보(URL에 포함된 사용자 이름은 제외)를 제거합니다. 다만 귀하가 특별히 요청하지 않는 한, 당사는 귀하의 고지에서 그 밖의 어떠한 정보도 수정하지 않습니다. 게시된 [고지](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) 및 [반론 고지](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md)가 외형상 어떤 식으로 표시되는지를 보여주는 일부 예제를 소개하면 다음과 같습니다. 콘텐츠를 제거하면 관련 고지와 연결되는 링크를 제 위치에 게시할 것입니다.
+우리는 투명성이 미덕이라고 생각합니다. 일반 대중은 GitHub에서 어떤 콘텐츠가 제거되고 있으며 그 이유는 무엇인지 알아야 합니다. 사전 정보를 접한 일반 대중은 불투명한 시스템에서 달리 눈에 띄지 않을 수 있는 잠재적인 문제를 인지하고 드러낼 수 있습니다. 당사는 직접 수신한 법적 통지(원본 통지, 반론 통지 또는 철회를 포함)의 수정된 사본을 <https://github.com/github/dmca>에 게시합니다. 당사는 귀하의 개인 연락처 정보를 공개적으로 게시하지 않으며, 알림을 게시하기 전에 개인 정보(URL에 포함된 사용자 이름은 제외)를 제거합니다. 다만 귀하가 특별히 요청하지 않는 한, 당사는 귀하의 고지에서 그 밖의 어떠한 정보도 수정하지 않습니다. 게시된 [알림](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) 및 [반론 통지](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md)가 외형상 어떤 식으로 표시되는지를 보여주는 일부 예제를 소개하면 다음과 같습니다. 콘텐츠를 제거하면 관련 고지와 연결되는 링크를 제 위치에 게시할 것입니다.
 
 또한 당사는 수정되지 않은 고지를 공개적으로 게시하지는 않지만 당사가 받은 모든 고지의 수정되지 않은 전체 사본을 그러한 고지에 따른 영향을 받는 관련 권리를 보유한 모든 당사자에게 직접 제공할 수 있습니다.
 
@@ -132,10 +132,10 @@ GitHub의 정책에 의거하여 GitHub 또는 타인의 저작권이나 그 외
 [G. 알림 제출](#g-submitting-notices)
 ----------
 
-알림 또는 반론 고지를 제출할 준비가 된 경우:
+알림 또는 반론 통지를 제출할 준비가 된 경우:
 
-* [DMCA 고지 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
-* [DMCA 반론 고지 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [DMCA 알림 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [DMCA 반론 통지 제출 방법](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 [자세히 알아보기 및 의견 밝히기](#learn-more-and-speak-up)
 ----------

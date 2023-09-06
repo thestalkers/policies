@@ -8,7 +8,7 @@
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [다른 사용자의 환경 중단](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 다른 사용자의 경험을 방해하는 GitHub
 ==========

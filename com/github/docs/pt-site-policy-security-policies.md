@@ -6,12 +6,12 @@ Políticas de Segurança - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Segurança](/pt/site-policy/security-policies)
 
 Políticas de Segurança
 ==========
 
-* [Divulgação Coordenada de Vulnerabilidades de Segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Divulgação coordenada de vulnerabilidades de segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 * [Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

@@ -6,7 +6,7 @@ Termos Adicionais do GitHub Sponsors - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 

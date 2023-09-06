@@ -53,4 +53,4 @@ GitHub 직원 검토자가 최초 결정을 내린 자와 동일인이며 그 �
 [투명성](#transparency)
 ----------
 
-당사는 GitHub [투명성 보고서](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)에서 이의 제기 및 복원 이력을 추적합니다.
+당사는 [투명성 보고서](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)에서 이의 제기 및 복원 이력을 추적합니다.

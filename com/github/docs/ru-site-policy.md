@@ -23,7 +23,7 @@
 * [Другие правила сайта](/ru/site-policy/other-site-policies)
   ----------
 
-* [Политика удаления контента](/ru/site-policy/content-removal-policies)
+* [Политики удаления контента](/ru/site-policy/content-removal-policies)
   ----------
 
 * [Политики безопасности](/ru/site-policy/security-policies)

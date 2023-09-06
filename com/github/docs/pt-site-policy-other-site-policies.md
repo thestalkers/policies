@@ -1,4 +1,4 @@
-Outras Políticas do Site - GitHub Docs
+Outras políticas do site - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,21 +6,21 @@ Outras Políticas do Site - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
-* [Outras Políticas do Site](/pt/site-policy/other-site-policies)
+* [Política do site](/pt/site-policy)/
+* [Outras políticas do site](/pt/site-policy/other-site-policies)
 
-Outras Políticas do Site
+Outras políticas do site
 ==========
 
 * [GitHub e Controle de Comércio](/pt/site-policy/other-site-policies/github-and-trade-controls)
 
-* [Política de Usuário Falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
+* [Política de usuário falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
 
-* [Política de Logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
+* [Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 
-* [Política de Remoção Governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
+* [Política de remoção governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
 
-* [Política de Nome de Usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
+* [Política de nome de usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
 
 * [Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 

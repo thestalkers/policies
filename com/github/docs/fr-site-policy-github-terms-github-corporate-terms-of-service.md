@@ -6,7 +6,7 @@ Conditions d'utilisation de GitHub Corporate - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/
 * [Conditions d'utilisation de GitHub Corporate](/fr/site-policy/github-terms/github-corporate-terms-of-service)
 

@@ -1,4 +1,4 @@
-Engagement GitHub de coopération à la GPL - Documentation GitHub
+Engagement de coopération GitHub GPL - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,36 +6,36 @@ Engagement GitHub de coopération à la GPL - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
-* [Politiques de la société GitHub](/fr/site-policy/github-company-policies)/
-* [Engagement GitHub de coopération à la GPL](/fr/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Politique du site](/fr/site-policy)/
+* [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)/
+* [Engagement de coopération GitHub GPL](/fr/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-Engagement GitHub de coopération à la GPL
+Engagement de coopération GitHub GPL
 ==========
 
-Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à d’autres programmes sous les licences couvertes (faites défiler jusqu’à la fin pour les définitions).
+Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à d'autres programmes sous licences couvertes (faites défiler jusqu'à la fin pour les définitions).
 
-Nous avons basé notre déclaration sur le [modèle](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) pour les entreprises. Consultez le [site de l’engagement de coopération à la GPL](https://gplcc.github.io/gplcc/) pour savoir comment d’autres entreprises, individus et projets peuvent adopter cet engagement.
+Nous avons basé notre déclaration sur le [modèle](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) pour les entreprises. Consultez le [site de l'engagement de coopération à la GPL](https://gplcc.github.io/gplcc/) pour savoir comment d'autres entreprises, individus et projets peuvent adopter cet engagement.
 
 [Notre engagement](#our-commitment)
 ----------
 
-Avant de déposer ou de poursuivre une procédure judiciaire ou une réclamation (autre qu’une Action Défensive) découlant de la résiliation d’une Licence Couverte, GitHub s’engage à étendre à la personne ou à l’entité (« vous ») accusée d’avoir violé la Licence Couverte les dispositions suivantes concernant les recours et la réintégration, tirées de la GPL version 3. Dans les présentes, l’expression « cette Licence » fait référence à la Licence Couverte spécifique qui est appliquée.
+Avant de déposer ou de poursuivre toute procédure judiciaire ou réclamation (autre qu'une action défensive) découlant de la résiliation d'une licence couverte, GitHub s'engage à étendre à la personne ou à l'entité ("vous ») accusée d'avoir enfreint la licence couverte les dispositions suivantes concernant guérison et rétablissement, tiré de la version 3 de la GPL. Tel qu'il est utilisé ici, le terme « cette licence » fait référence à la licence couverte spécifique qui est appliquée.
 
-Toutefois, si vous cessez toute violation de cette Licence, votre licence auprès d’un détenteur de droits d’auteur particulier est rétablie (a) provisoirement, à moins que et jusqu’à ce que le détenteur des droits d’auteur ne résilie explicitement et définitivement votre licence, et (b) définitivement, si le détenteur des droits d’auteur ne vous notifie pas la violation par un moyen raisonnable dans un délai de 60 jours après la cessation.
+Cependant, si vous cessez toute violation de cette licence, votre licence d'un détenteur de droits d'auteur particulier est rétablie (a) provisoirement, à moins que et jusqu'à ce que le détenteur des droits d'auteur résilie explicitement et définitivement votre licence, et (b) de façon permanente, si le détenteur des droits d'auteur échoue pour vous informer de la violation par des moyens raisonnables avant 60 jours après la cessation.
 
-En outre, votre licence auprès d’un détenteur de droits d’auteur particulier est rétablie de manière permanente si le détenteur des droits d’auteur vous informe de la violation par un moyen raisonnable ; si c’est la première fois que vous recevez un avis de violation de cette Licence (pour n’importe quelle œuvre) de la part de ce détenteur de droits d’auteur ; et si vous remédiez à la violation dans les 30 jours suivant votre réception de l’avis.
+De plus, votre licence d'un détenteur de droit d'auteur particulier est rétablie de façon permanente si le détenteur du droit d'auteur vous informe de la violation par des moyens raisonnables, c'est la première fois que vous recevez un avis de violation de cette licence (pour tout travail) de ce détenteur du droit d'auteur, et vous corrigez la violation dans les 30 jours suivant la réception de l'avis.
 
-GitHub entend que le présent Engagement soit irrévocable, contraignant et applicable à l’encontre de GitHub et des cessionnaires ou successeurs des droits d’auteur de GitHub.
+GitHub entend que cet engagement soit irrévocable, contraignant et opposable à GitHub et aux cessionnaires ou successeurs des droits d'auteur de GitHub.
 
-GitHub peut modifier le présent Engagement en publiant une nouvelle édition sur cette page ou à un emplacement ultérieur.
+GitHub peut modifier cet engagement en publiant une nouvelle édition sur cette page ou un emplacement successeur.
 
 Définitions
 
-« Licence Couverte » désigne la Licence Publique Générale GNU, version 2 (GPLv2), la Licence Publique Générale GNU Limitée version 2.1 (LGPLv2.1) ou la Licence Publique Générale pour Bibliothèques GNU version 2 (LGPLv2), toutes telles que publiées par la Free Software Foundation.
+« Licence couverte » désigne la Licence publique générale GNU, version 2 (GPLv2), la Licence publique générale limitée GNU, version 2.1 (LGPLv2.1) ou la Licence publique générale de bibliothèque GNU, version 2 (LGPLv2), toutes telles que publiées par la Fondation du logiciel libre.
 
-« Action Défensive » désigne une procédure judiciaire ou une réclamation que GitHub engage contre vous en réponse à une procédure ou une réclamation antérieure engagée par vous ou votre affilié.
+« Action défensive » désigne une procédure judiciaire ou une réclamation que GitHub intente contre vous en réponse à une procédure ou réclamation antérieure initiée par vous ou votre affilié.
 
 « GitHub » désigne GitHub, Inc. et ses filiales.
 
-Ce document est disponible sous licence Creative Commons Attribution-ShareAlike 4.0 International.
+Ce travail est disponible sous une licence internationale Creative Commons Attribution-ShareAlike 4.0.

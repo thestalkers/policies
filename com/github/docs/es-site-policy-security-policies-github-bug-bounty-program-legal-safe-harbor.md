@@ -1,4 +1,4 @@
-Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub - Documentación de GitHub
+Programa de recompensas por errores de GitHub Puerto seguro legal - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
-* [Directivas de Seguridad](/es/site-policy/security-policies)/
-* [Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Política del sitio](/es/site-policy)/
+* [Políticas de seguridad](/es/site-policy/security-policies)/
+* [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Marco de Seguridad Legal del Programa de Recompensa por la Detección Errores de GitHub
+Programa de recompensas por errores de GitHub Puerto seguro legal
 ==========
 
 En este artículo
@@ -18,13 +18,13 @@ En este artículo
 
 * [Resumen](#summary)
 * [1. Términos de Safe Harbor](#1-safe-harbor-terms)
-* [2. Safe Harbor de terceros.](#2-third-party-safe-harbor)
+* [2. Safe Harbor de terceros](#2-third-party-safe-harbor)
 * [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-polices)
 
 [Resumen](#summary)
 ----------
 
-1. Queremos que coordine la revelación a través de nuestro programa de recompensa por la detección de errores y no queremos que los investigadores teman consecuencias legales por sus iniciativas de buena fe de cumplir nuestra directiva de recompensa por la detección de errores. No podemos vincular a terceros, por lo tanto no se debe suponer que esta protección se extiende a ningún tercero. En caso de duda, pregúntenos antes de participar en cualquier acción específica que piense que *pudiera* salirse de los límites de nuestra directiva.
+1. Queremos que coordine la revelación a través de nuestro programa de recompensa por la detección de errores y no queremos que los investigadores teman consecuencias legales por sus iniciativas de buena fe de cumplir nuestra directiva de recompensa por la detección de errores. No podemos vincular a terceros, por lo tanto no se debe suponer que esta protección se extiende a ningún tercero. En caso de duda, pregúntenos antes de participar en cualquier acción específica que piense que *pudiera* salirse de los límites de nuestra política.
 2. Dado que tanto la información que permite la identificación como la no identificable pueden poner en riesgo a un investigador, limitamos los datos que compartimos con terceros. Podemos proporcionar información sustancial no identificable de su informe a un tercero afectado, pero solo después de notificárselo a usted y de suscribir el compromiso de que el tercero no emprenderá acciones legales contra usted. Solo compartiremos información que permita la identificación (nombre, dirección de correo electrónico, número de teléfono, etc.) con un tercero si nos da su permiso por escrito.
 3. Si su investigación de seguridad como parte del programa de recompensa por la detección de errores infringe determinadas restricciones de las directivas de nuestro sitio, los términos del marco de seguridad permiten una exención limitada.
 
@@ -39,7 +39,7 @@ Cabe esperar, como siempre, que cumpla todas las leyes aplicables y que no alter
 
 Póngase en contacto con nosotros antes de participar en conductas que puedan ser discordantes con esta directiva o que no estén contempladas en ella. Nos reservamos el derecho exclusivo de determinar si una infracción de esta directiva es accidental o de buena fe y el contacto proactivo con nosotros antes de emprender cualquier acción es un factor a tener en cuenta en dicha decisión. En caso de duda, pregúntenos primero.
 
-[2. Safe Harbor de terceros.](#2-third-party-safe-harbor)
+[2. Safe Harbor de terceros](#2-third-party-safe-harbor)
 ----------
 
 Si envía un informe a través de nuestro programa de recompensa por la detección errores que afecte a un servicio de terceros, limitaremos los datos que compartimos con cualquier tercero afectado. Podemos compartir el contenido no identificable de su informe con un tercero afectado, pero solo después de notificarle que tenemos la intención de hacerlo y de obtener el compromiso por escrito del tercero de que no emprenderá acciones legales contra usted ni se pondrá en contacto con las fuerzas del orden a causa de su informe. No compartiremos información de identificación con ningún tercero afectado sin obtener previamente su permiso por escrito para ello.
@@ -51,4 +51,4 @@ Dicho esto, si algún tercero inicia una acción legal, incluida la aplicación 
 [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-polices)
 ----------
 
-En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por la detección de errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.
+En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.

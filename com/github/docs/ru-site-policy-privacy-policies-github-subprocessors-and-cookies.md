@@ -1,4 +1,4 @@
-Дополнительные обработчики GitHub и файлы cookie - Документация по GitHub
+Подпроцессоры GitHub и файлы cookie - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -8,9 +8,9 @@
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики конфиденциальности](/ru/site-policy/privacy-policies)/
-* [Дополнительные обработчики GitHub и файлы cookie](/ru/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [Подпроцессоры GitHub и файлы cookie](/ru/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
-Дополнительные обработчики GitHub и файлы cookie
+Подпроцессоры GitHub и файлы cookie
 ==========
 
 В этой статье

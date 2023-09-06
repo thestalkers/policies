@@ -6,7 +6,7 @@ Documentación de la directiva del sitio - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)
+* [Política del sitio](/es/site-policy)
 
 Documentación de la directiva del sitio
 ==========
@@ -23,11 +23,11 @@ Documentación de la directiva del sitio
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)
   ----------
 
-* [Directivas de Eliminación de Contenido](/es/site-policy/content-removal-policies)
+* [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
   ----------
 
-* [Directivas de Seguridad](/es/site-policy/security-policies)
+* [Políticas de seguridad](/es/site-policy/security-policies)
   ----------
 
-* [Directivas de Empresa de GitHub](/es/site-policy/github-company-policies)
+* [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
   ----------

@@ -1,4 +1,4 @@
-Руководство по подаче уведомления об изъятии контента DMCA - Документация по GitHub
+Руководство по подаче уведомления об удалении DMCA - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -7,10 +7,10 @@
 [Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
-* [Политика удаления контента](/ru/site-policy/content-removal-policies)/
-* [Руководство по подаче уведомления об изъятии контента DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
+* [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Руководство по подаче уведомления об изъятии контента DMCA
+Руководство по подаче уведомления об удалении DMCA
 ==========
 
 В этой статье

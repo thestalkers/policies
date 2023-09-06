@@ -8,7 +8,7 @@ GitHub 혐오 발언 및 차별 금지 방침 - GitHub Docs
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [증오 발언 및 차별](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [혐오 발언 및 차별 금지 방침](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub 혐오 발언 및 차별 금지 방침
 ==========

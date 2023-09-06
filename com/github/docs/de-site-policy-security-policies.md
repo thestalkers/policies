@@ -6,7 +6,7 @@ Sicherheitsrichtlinien - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Sicherheitsrichtlinien](/de/site-policy/security-policies)
 
 Sicherheitsrichtlinien
@@ -14,4 +14,4 @@ Sicherheitsrichtlinien
 
 * [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-* [GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty-Programm Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

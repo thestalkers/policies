@@ -6,7 +6,7 @@ GitHub Marketplace-Nutzungsbedingungen - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/
 * [GitHub Marketplace-Nutzungsbedingungen](/de/site-policy/github-terms/github-marketplace-terms-of-service)
 
@@ -31,7 +31,7 @@ Willkommen auf dem GitHub Marketplace ("Marktplatz")! Wir freuen uns, dass Sie h
 
 Durch die Nutzung von Marketplace stimmen Sie zu, an diese Marketplace-Bedingungen gebunden zu sein.
 
-Wirksamkeitsdatum: 20. November 2020
+Wirksamkeitsdatum: 20. November 2020
 
 [A. Nutzungsbedingungen von GitHub.com](#a-githubcoms-terms-of-service)
 ----------
@@ -66,7 +66,7 @@ Wenn Sie Fragen, Bedenken oder Streitigkeiten bezüglich Ihrer Abrechnung haben,
 [E. Ihre Daten und die Datenschutzrichtlinie von GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
 
-**Datenschutz:** Wenn Sie ein Entwicklerprodukt auswählen oder verwenden, kann GitHub bestimmte Ppersonenbezogene Informationen (wie in der [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) definiert) unabhängig von Ihren Datenschutzeinstellungen mit dem Produktanbieter teilen (falls solche personenbezogenen Informationen von Ihnen erhalten wurden), um Ihnen das Entwicklerprodukt bereitzustellen. Abhängig von den Anforderungen des von Ihnen gewählten Entwicklerprodukts kann GitHub nur Ihren Kontonamen, Ihre ID und Ihre primäre E-Mail-Adresse oder nur den Zugriff auf die Inhalte in Ihren Repositories weitergeben, einschließlich der Möglichkeit, Ihre privaten Daten zu lesen und zu ändern. Sie können den Umfang der vom Entwicklerprodukt angeforderten Berechtigungen anzeigen und diese akzeptieren oder ablehnen, wenn Sie ihm die Autorisierung über OAuth erteilen.
+**Datenschutz:** Wenn Sie ein Entwicklerprodukt auswählen oder verwenden, kann GitHub bestimmte personenbezogene Informationen (wie in der [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) definiert) unabhängig von Ihren Datenschutzeinstellungen mit dem Produktanbieter teilen (falls solche personenbezogenen Informationen von Ihnen erhalten wurden), um Ihnen das Entwicklerprodukt bereitzustellen. Abhängig von den Anforderungen des von Ihnen gewählten Entwicklerprodukts kann GitHub nur Ihren Kontonamen, Ihre ID und Ihre primäre E-Mail-Adresse oder nur den Zugriff auf die Inhalte in Ihren Repositories weitergeben, einschließlich der Möglichkeit, Ihre privaten Daten zu lesen und zu ändern. Sie können den Umfang der vom Entwicklerprodukt angeforderten Berechtigungen anzeigen und diese akzeptieren oder ablehnen, wenn Sie ihm die Autorisierung über OAuth erteilen.
 
 Wenn Sie die Nutzung des Entwicklerprodukts einstellen und den Zugriff über Ihre Kontoeinstellungen widerrufen, kann der Produktanbieter nicht mehr auf Ihr Konto zugreifen. Der Produktanbieter ist dafür verantwortlich, Ihre personenbezogenen Daten innerhalb seines definierten Fensters aus seinen Systemen zu löschen. Bitte wenden Sie sich an den Produktanbieter, um sicherzustellen, dass Ihr Konto ordnungsgemäß gekündigt wurde.
 
@@ -115,4 +115,4 @@ Sie erklären sich damit einverstanden, uns von allen Ansprüchen, Verbindlichke
 
 6. **Lizenz für GitHub-Richtlinien.** Diese Marketplace-Bedingungen sind unter der [Creative Commons Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) lizenziert. Einzelheiten finden Sie in unserem [Repository mit Websiterichtlinien](https://github.com/github/site-policy#license).
 
-7. **Kontaktieren Sie uns.** Fragen zu den Marketplace-Bedingungen? [Setzen Sie sich mit uns in Verbindung.](https://support.github.com/contact?tags=docs-policy)
+7. **Kontaktieren Sie uns.** Fragen zu den Marketplace-Bedingungen? [Kontaktieren Sie uns.](https://support.github.com/contact?tags=docs-policy)

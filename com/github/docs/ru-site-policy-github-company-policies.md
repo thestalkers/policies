@@ -16,6 +16,6 @@
 
 * [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 
-* [GitHub: общедоступная лицензия (GPL), обязательства по сотрудничеству](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [Политика GitHub в отношении подарков и развлечений](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)

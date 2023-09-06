@@ -6,20 +6,20 @@ Richtlinien zum Entfernen von Inhalten - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
 
 Richtlinien zum Entfernen von Inhalten
 ==========
 
-* [Einen Antrag auf Entfernung von Inhalten einreichen](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Einreichen von Anträgen auf Entfernung von Inhalten](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-* [Richtlinie zu DMCA Takedown Notices](/de/site-policy/content-removal-policies/dmca-takedown-policy)
+* [DMCA Takedown-Richtlinie](/de/site-policy/content-removal-policies/dmca-takedown-policy)
 
-* [GitHub Richtlinie zum Entfernen privater Informationen](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-* [GitHub Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
+* [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
 
-* [Anleitung zum Einreichen einer DMCA Counter Notice (Gegendarstellung im Rahmen des DMCA)](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Anleitung zum Einreichen einer DMCA-Gegendarstellung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-* [Anleitung zum Einreichen einer DMCA Takedown Notice (Antrag auf Entfernung von Inhalten im Rahmen des DMCA)](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)

@@ -1,4 +1,4 @@
-GitHub – sexuell obszöne Inhalte - GitHub-Dokumentation
+GitHub Sexuell obszöner Inhalt - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
@@ -6,17 +6,17 @@ GitHub – sexuell obszöne Inhalte - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
 * [Sexuell obszöne Inhalte](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-GitHub – sexuell obszöne Inhalte
+GitHub Sexuell obszöner Inhalt
 ==========
 
-Wir tolerieren keinerlei Inhalte, die mit der sexuellen Ausbeutung oder dem Missbrauch einer anderen Person in Zusammenhang stehen. Dies gilt insbesondere auch für Minderjährige. Wir tolerieren keine sexuellen oder anzüglichen Inhalte, die einzig dem Zweck dienen, eine erotische oder schockierende Reaktion hervorzurufen, insbesondere wenn die Wirkung dieser Inhalte noch verstärkt wird, indem sie in Profilen oder anderen sozialen Kontexten platziert werden. Dies schließt folgendes mit ein:
+Wir tolerieren keine Inhalte, die mit der sexuellen Ausbeutung oder dem Missbrauch einer anderen Person in Zusammenhang stehen, auch wenn Minderjährige betroffen sind. Wir erlauben keine sexuell thematisierten oder anzüglichen Inhalte, die wenig oder keinem anderen Zweck dienen, als eine erotische oder schockierende Reaktion zu erbitten, insbesondere wenn diese Inhalte durch ihre Platzierung in Profilen oder anderen sozialen Kontexten verstärkt werden. Dies umfasst u. a.:
 
 * Pornografische Inhalte
 * Nicht einvernehmliche intime Bilder
-* Grafische Darstellungen sexueller Handlungen, einschließlich Fotos, Videos, Animationen, Zeichnungen, computergenerierte Bilder oder textbasierte Inhalte
+* Grafische Darstellungen sexueller Handlungen, einschließlich Fotografien, Videos, Animationen, Zeichnungen, computergenerierte Bilder oder textbasierte Inhalte
 
-Wir wissen, dass nicht jede Nacktaufnahme bzw. jeder sexuelle Inhalt automatisch obszön ist. Unter bestimmten Umständen sind visuelle und/oder textliche Darstellungen in künstlerischen, pädagogischen, historischen oder journalistischen Kontexten oder in Bezug auf die Interessenvertretung von Opfern zulässig. In einigen Fällen kann das Einfügen eines Haftungsausschlusses hilfreich sein, um den Kontext des Projekts zu kommunizieren. Bitte haben Sie jedoch Verständnis dafür, dass wir den Inhalt gegebenenfalls mit einer Zugangsbeschränkung versehen, indem wir eine Anmeldeoption für den Nutzer integrieren.
+Wir erkennen an, dass nicht alle Nacktheit oder Inhalte im Zusammenhang mit Sexualität obszön sind. Wir können visuelle und/oder textliche Darstellungen in künstlerischen, pädagogischen, historischen oder journalistischen Kontexten oder in Bezug auf die Interessenvertretung von Opfern zulassen. In einigen Fällen kann ein Haftungsausschluss helfen, den Kontext des Projekts zu kommunizieren. Bitte haben Sie jedoch Verständnis dafür, dass wir den Inhalt einschränken können, indem wir den Benutzern die Möglichkeit geben, sich vor dem Ansehen anzumelden.

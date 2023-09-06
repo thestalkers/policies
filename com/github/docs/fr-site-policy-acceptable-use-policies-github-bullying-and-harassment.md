@@ -1,4 +1,4 @@
-Intimidation et harcèlement sur GitHub - Documentation GitHub
+GitHub Intimidation et Harcèlement - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,20 +6,20 @@ Intimidation et harcèlement sur GitHub - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
 * [Intimidation et harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-Intimidation et harcèlement sur GitHub
+GitHub Intimidation et Harcèlement
 ==========
 
-Nous ne tolérons pas le harcèlement, l’intimidation ou les abus de toute sorte, que ce soit directement ou en encourageant autrui à prendre part à ce type de conduite. Cela inclut :
+Nous ne tolérons pas le harcèlement, l'intimidation ou l'abus de quelque nature que ce soit, que ce soit directement ou en encourageant les autres à prendre part à la conduite interdite. Cela inclut :
 
-* Les attaques personnelles ciblées
-* Participer à des activités [perturbatrices](/fr/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) ou les orchestrer d’une manière qui équivaut à un abus
-* Suivre un autre utilisateur sur la plateforme de manière à l’intimider
-* Faire des avances ou des commentaires de nature sexuelle à l’égard d’une autre personne
-* Participer de façon fallacieuse à la conversation d’une manière qui suscite le conflit ou nuit à une discussion sincère
-* Créer des comptes alternatifs dans le but d’échapper aux mesures de modération prises par le personnel ou les utilisateurs de GitHub
+* Attaques personnelles ciblées
+* Participer à des activités [perturbatrices](/fr/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) ou les orchestrer d'une manière qui équivaut à un abus
+* Suivre un autre utilisateur autour de la plate-forme d'une manière qui provoque l'intimidation
+* Faire des avances sexuelles ou des commentaires adressés à une autre personne
+* Participer de manière malhonnête à une conversation d'une manière qui provoque un conflit ou sape une discussion sincère
+* Créer des comptes alternatifs spécifiquement pour échapper aux actions de modération prises par le personnel ou les utilisateurs de GitHub
 
-Sachez que tous les comportements déplacés ne sont pas nécessairement considérés comme du harcèlement. Par exemple, le fait de ne pas être d’accord avec un autre utilisateur ou de rétrograder ses commentaires ne constitue pas un harcèlement sur notre plateforme. En outre, le partage de critiques sur des personnalités ou des projets publics, ou sur des sujets d’intérêt public, ne relève pas nécessairement de la présente politique. Cependant, nous vous encourageons à rester attentif à la manière dont vous interagissez avec les autres utilisateurs et la plateforme, car cette activité peut toujours enfreindre notre restriction sur la perturbation de l’expérience des autres utilisateurs.
+Veuillez noter que tous les comportements importuns ne sont pas nécessairement considérés comme du harcèlement. Par exemple, être en désaccord avec un autre utilisateur ou rejeter ses commentaires peut ne pas atteindre le niveau de harcèlement sur notre plateforme. De plus, le partage de critiques de personnalités ou de projets publics, ou de sujets d'intérêt public, ne relève pas nécessairement de cette politique. Cependant, nous vous encourageons à faire attention à la façon dont vous interagissez avec les autres utilisateurs et la plate-forme, car cette activité peut toujours enfreindre notre restriction sur la perturbation de l'expérience des autres utilisateurs.

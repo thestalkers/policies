@@ -1,4 +1,4 @@
-Politique relative aux Noms d’Utilisateur de GitHub - Documentation GitHub
+Politique de nom d'utilisateur GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,35 +6,35 @@ Politique relative aux Noms d’Utilisateur de GitHub - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
-* [Autres Politiques du Site](/fr/site-policy/other-site-policies)/
-* [Politique relative aux Noms d’Utilisateur de GitHub](/fr/site-policy/other-site-policies/github-username-policy)
+* [Politique du site](/fr/site-policy)/
+* [Autres politiques du site](/fr/site-policy/other-site-policies)/
+* [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
 
-Politique relative aux Noms d’Utilisateur de GitHub
+Politique de nom d'utilisateur GitHub
 ==========
 
 Dans cet article
 ----------
 
-* [Que faire si le nom d’utilisateur que j’ai choisi est déjà pris ?](#what-if-the-username-i-want-is-already-taken)
+* [Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
 * [Politique relative aux marques](#trademark-policy)
-* [Politique en matière de Monopolisation de Noms](#name-squatting-policy)
+* [Politique de squattage de nom](#name-squatting-policy)
 
-Les noms de comptes GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.
+Les noms de compte GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.
 
-[Que faire si le nom d’utilisateur que j’ai choisi est déjà pris ?](#what-if-the-username-i-want-is-already-taken)
+[Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
 ----------
 
-Gardez à l’esprit que toutes les activités sur GitHub ne sont pas visibles publiquement ; les comptes sans activité visible peuvent être en utilisation active.
+Gardez à l'esprit que toutes les activités sur GitHub ne sont pas visibles publiquement ; les comptes sans activité visible peuvent être en cours d'utilisation active.
 
-Si le nom d’utilisateur que vous avez choisi a déjà été revendiqué, envisagez d’autres noms ou des variantes uniques. L’utilisation d’un numéro, d’un trait d’union ou d’une orthographe alternative peut vous aider à identifier un nom d’utilisateur souhaitable encore disponible.
+Si le nom d'utilisateur que vous souhaitez a déjà été revendiqué, envisagez d'autres noms ou des variantes uniques. L'utilisation d'un numéro, d'un trait d'union ou d'une orthographe alternative peut vous aider à identifier un nom d'utilisateur souhaitable encore disponible.
 
 [Politique relative aux marques](#trademark-policy)
 ----------
 
-Si vous pensez que le compte d’une personne viole vos droits en matière de marques commerciales, vous trouverez plus d’informations sur la manière de déposer une plainte pour ce problème sur notre page de la [Politique relative aux Marques](/fr/site-policy/content-removal-policies/github-trademark-policy).
+Si vous pensez que le compte d'une personne viole vos droits en matière de marques commerciales, vous trouverez plus d'informations sur la manière de déposer une plainte pour ce problème sur notre page de la [Politique relative aux Marques commerciales](/fr/site-policy/content-removal-policies/github-trademark-policy).
 
-[Politique en matière de Monopolisation de Noms](#name-squatting-policy)
+[Politique de squattage de nom](#name-squatting-policy)
 ----------
 
-GitHub interdit la monopolisation des noms de comptes, et les noms de comptes ne peuvent être réservés ou conservés de manière inactive pour une utilisation future. Les comptes qui enfreignent cette politique de monopolisation peuvent être supprimés ou renommés sans préavis. Les tentatives de vente, d’achat ou de sollicitation d’autres formes de paiement en échange de noms de comptes sont interdites et peuvent entraîner une suspension définitive du compte concerné.
+GitHub interdit le squattage de noms de compte, et les noms de compte ne peuvent pas être réservés ou détenus de manière inactive pour une utilisation future. Les comptes qui enfreignent cette politique de squattage de nom peuvent être supprimés ou renommés sans préavis. Les tentatives de vente, d'achat ou de sollicitation d'autres formes de paiement en échange de noms de compte sont interdites et peuvent entraîner la suspension permanente du compte.

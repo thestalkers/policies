@@ -7,7 +7,7 @@
 [Site policy](/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
-* [Политика удаления контента](/ru/site-policy/content-removal-policies)/
+* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
 * [Руководство по подаче встречного уведомления DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 Руководство по подаче встречного уведомления DMCA

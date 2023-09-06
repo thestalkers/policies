@@ -8,7 +8,7 @@ GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠 - GitHub Docs
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [폭력 위협 및 무상으로 폭력적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [폭력의 위협 및 불필요하게 폭력적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠
 ==========

@@ -1,4 +1,4 @@
-Directiva de logotipo de GitHub - Documentación de GitHub
+Política del logotipo de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ Directiva de logotipo de GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
-* [Directiva de logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
+* [Política del logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
 
-Directiva de logotipo de GitHub
+Política del logotipo de GitHub
 ==========
 
 Puede añadir logotipos de GitHub a su sitio web o aplicación de terceros en algunas situaciones. Para obtener más información y directrices específicas sobre el uso de logotipos, consulte la [GitHub página de logotipos y uso](https://github.com/logos).

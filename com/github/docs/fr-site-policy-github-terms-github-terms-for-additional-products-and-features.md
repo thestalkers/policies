@@ -6,7 +6,7 @@ Conditions GitHub pour les produits et fonctionnalités supplémentaires - Docum
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/
 * [Conditions GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
@@ -31,7 +31,7 @@ Dans cet article
 * [Programme Sponsors](#sponsors-program)
 * [Images de serveur SQL](#sql-server-images)
 
-Date d’entrée en vigueur de la version : 3 novembre 2022
+Date d'entrée en vigueur de la version : 5 septembre 2023
 
 Lorsque vous utilisez GitHub, vous pouvez avoir accès à de nombreux produits et fonctionnalités supplémentaires ("Produits et fonctionnalités supplémentaires »). Étant donné que de nombreux produits et fonctionnalités supplémentaires offrent des fonctionnalités différentes, votre accord avec nous (l'"accord") comprend les conditions spécifiques de ce produit ou de cette fonctionnalité combinées à votre accord principal : conditions d’utilisation du service de GitHub ou le contrat client de GitHub, ou les conditions de service d'entreprise de GitHub ou un autre contrat de GitHub, ou un contrat de licence en volume Microsoft. Ci-dessous, nous avons répertorié ces produits et fonctionnalités, ainsi que les conditions supplémentaires correspondantes qui s'appliquent à votre utilisation de ceux-ci.
 
@@ -175,6 +175,10 @@ Les pages GitHub sont soumises à certaines limites de bande passante et d'utili
 GitHub Pages ne peut pas être utilisé en violation du Contrat, des [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies) de GitHub ou des limitations du service GitHub Pages énoncées dans la [documentation Pages](/fr/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
 Si vous avez des questions pour savoir si votre utilisation en cours ou prévue entre dans ces catégories, veuillez contacter l’[Assistance GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se réserve le droit à tout moment de récupérer tout sous-domaine GitHub sans responsabilité.
+
+*Exercices pédagogiques*
+
+L’utilisation de pages GitHub pour créer une copie d’un site web existant en tant qu’exercice d’apprentissage n’est pas interdite. Toutefois, vous devez écrire le code vous-même, le site ne doit pas collecter de données utilisateur, et vous devez inclure une clause d'exclusion de responsabilité importante sur le site qui indique que le projet n’est pas associé à l’original et qu’il a été créé uniquement à des fins pédagogiques.
 
 [Previews](#previews)
 ----------

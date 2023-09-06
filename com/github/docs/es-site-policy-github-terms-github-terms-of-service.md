@@ -6,7 +6,7 @@ Términos de Servicio de GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
 * [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service)
 
@@ -20,7 +20,7 @@ En este artículo
 * [Los Términos de servicio de GitHub](#the-github-terms-of-service)
 * [A. Definiciones](#a-definitions)
 * [B. Términos de la cuenta](#b-account-terms)
-* [C. Uso Aceptable](#c-acceptable-use)
+* [C. Uso aceptable](#c-acceptable-use)
 * [D. Contenido Generado por el Usuario](#d-user-generated-content)
 * [E. Repositorios privados](#e-private-repositories)
 * [F. Infracción de derechos de autor y política de DMCA](#f-copyright-infringement-and-dmca-policy)
@@ -75,7 +75,7 @@ Fecha de entrada en vigor: 16 de noviembre de 2020
 
 1. Una "Cuenta" representa su relación legal con GitHub. Una "Cuenta personal" representa la autorización de un Usuario individual para iniciar sesión y utilizar el Servicio y sirve como identidad de Usuario en GitHub. Las "Organizaciones" son espacios de trabajo compartidos que pueden estar asociados con una sola entidad o con uno o más Usuarios donde varios Usuarios pueden colaborar en muchos proyectos a la vez. Una cuenta personal puede ser miembro de cualquier número de organizaciones.
 2. El «Acuerdo» se refiere, de forma colectiva, a todos los términos, condiciones, avisos contenidos o a los que se hace referencia en este documento (los «Términos de Servicio» o los «Términos») y todas las demás normas de funcionamiento, directivas (incluida la Declaración de Privacidad de GitHub que está disponible en [github.com/site/privacy](https://github.com/site/privacy)) y los procedimientos que podemos publicar ocasionalmente en el Sitio Web. La mayoría de las directivas del sitio están disponibles en [docs.github.com/categories/site-policy](/es/site-policy).
-3. "Vistas preliminares beta" significa software, servicios o funciones identificados como alfa, beta, vista previa, acceso anticipado o evaluación, o palabras o frases con significados similares.
+3. «Versiones Preliminares Beta» se refiere al software, los servicios o las características identificadas como alfa, beta, versión preliminar, de acceso anticipado o de evaluación, o mediante palabras o expresiones con significados similares.
 4. "Contenido" se refiere al contenido presentado o mostrado a través del sitio web, incluidos, entre otros, código, texto, datos, artículos, imágenes, fotografías, gráficos, software, aplicaciones, paquetes, diseños, características y otros materiales que están disponibles en el sitio web o disponible de otro modo a través del Servicio. "Contenido" también incluye Servicios. El "Contenido generado por el usuario" es Contenido, escrito o no, creado o cargado por nuestros Usuarios. "Su Contenido" es Contenido que usted crea o posee.
 5. "GitHub", "Nosotros" y "Nos" se refieren a GitHub, Inc., así como a nuestras filiales, directores, subsidiarias, contratistas, otorgantes de licencias, funcionarios, agentes y empleados.
 6. El "Servicio" hace referencia a las aplicaciones, el software, los productos y los servicios proporcionados por GitHub, incluidas las versiones preliminares de Beta.
@@ -124,7 +124,7 @@ Si usted es un Usuario del gobierno de EE. UU. u obtiene acceso al Servicio de 
 
 Si se ha registrado en GitHub Enterprise Cloud, se le aplicará el [Anexo de Enterprise Cloud](/es/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement) y usted acepta sus cláusulas.
 
-[C. Uso Aceptable](#c-acceptable-use)
+[C. Uso aceptable](#c-acceptable-use)
 ----------
 
 **Versión abreviada:** *GitHub aloja una amplia variedad de proyectos colaborativos de todo el mundo, pero esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el servicio, debe cumplir los términos de este apartado, que incluyen algunas restricciones sobre el contenido que puede publicar, su conducta en el servicio y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*

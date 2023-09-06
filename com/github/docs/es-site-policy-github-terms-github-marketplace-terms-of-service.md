@@ -6,7 +6,7 @@ Condiciones de servicio del Mercado GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
 * [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 
@@ -36,7 +36,7 @@ Fecha de entrada en vigor: 20 de noviembre de 2020
 [A. Condiciones de servicio de GitHub.com](#a-githubcoms-terms-of-service)
 ----------
 
-GitHub proporciona Marketplace y se rige por estos Términos de Marketplace combinados con su acuerdo principal con nosotros: los [Términos del servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) o el Acuerdo de cliente de GitHub, o los [Términos de servicio corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service) u otro acuerdo heredado de GitHub o un contrato de licencias por volumen de Microsoft. Si configura los Productos para desarrolladores para que funcionen con una o más cuentas en el sitio web GitHub.com, su uso de los Productos para desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento se definirá en sus Términos de GitHub aplicables.
+Estos Términos y condiciones de las aplicaciones de código abierto de GitHub ("Términos de la aplicación") son un acuerdo legal entre usted (ya sea como individuo o en nombre de una entidad) y GitHub, Inc. con respecto a su uso de las aplicaciones de GitHub, como GitHub Desktop™ y documentación asociada ("Software"). Si configura los Productos para desarrolladores para que funcionen con una o más cuentas en el sitio web GitHub.com, su uso de los Productos para desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento se definirá en sus Términos de GitHub aplicables.
 
 No puede usar un Producto de desarrollador para violar sus Términos de GitHub aplicables. Muchos de estos Productos para desarrolladores se utilizan exclusivamente para realizar tareas automatizadas. Además, múltiples Usuarios pueden dirigir las acciones de un Producto de desarrollador. Sin embargo, si compra y/o configura un Producto de desarrollador en su cuenta, o es propietario de una cuenta con un Producto de desarrollador integrado, será responsable de las acciones del Producto de desarrollador que se realicen en su cuenta o a través de ella.
 

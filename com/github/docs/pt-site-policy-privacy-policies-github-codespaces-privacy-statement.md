@@ -1,4 +1,4 @@
-Política de Privacidade de Codespaces do GitHub - GitHub Docs
+Declaração de privacidade de codespaces do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ Política de Privacidade de Codespaces do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
-* [Política de Privacidade de Codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [Declaração de privacidade de codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-Política de Privacidade de Codespaces do GitHub
+Declaração de privacidade de codespaces do GitHub
 ==========
 
 Data de Início de Vigência: 10 August 2021

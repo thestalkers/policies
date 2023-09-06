@@ -1,4 +1,4 @@
-GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren - GitHub-Dokumentation
+GitHub Bug Bounty-Programm Legal Safe Harbor - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
@@ -6,11 +6,11 @@ GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Sicherheitsrichtlinien](/de/site-policy/security-policies)/
-* [GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty-Programm Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug-Bounty-Programm – Safe-Harbor-Verfahren
+GitHub Bug Bounty-Programm Legal Safe Harbor
 ==========
 
 In diesem Artikel

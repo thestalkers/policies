@@ -6,7 +6,7 @@ Políticas de Uso Aceitável - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
 
 Políticas de Uso Aceitável
@@ -14,22 +14,22 @@ Políticas de Uso Aceitável
 
 * [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-* [Explorações ou Malwares Ativos do GitHub](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+* [Malware ou exploits ativos do GitHub](/pt/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 
 * [Bullying e Assédio no GitHub](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-* [Interrupção da Experiência de Outros Usuários por Parte do GitHub](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [GitHub interrompendo a experiência de outros usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-* [Vazamento por parte do GitHub e Invasão de Privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [GitHub Doxxing e invasão de privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-* [Discriminação e Discurso de Ódio do GitHub](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Discurso de ódio e discriminação do GitHub](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-* [Falsificação de Identidade do GitHub](/pt/site-policy/acceptable-use-policies/github-impersonation)
+* [Representação do GitHub](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
-* [Desinformação e Informações Incorretas do GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Desinformação e desinformação do GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 * [Conteúdo Sexualmente Obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [Ameaças de Violência e Conteúdo Injustificadamente Violento do GitHub](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Ameaças do GitHub de violência e conteúdo violento gratuito](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-* [Recurso e Restabelecimento do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Apelação e restabelecimento do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

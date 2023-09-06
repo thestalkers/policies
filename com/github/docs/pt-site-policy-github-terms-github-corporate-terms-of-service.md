@@ -6,7 +6,7 @@ Termos de serviço corporativos do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/
 * [Termos de serviço corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
 

@@ -6,7 +6,7 @@ Dokumentation zur Websiterichtlinie - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)
+* [Websiterichtlinie](/de/site-policy)
 
 Dokumentation zur Websiterichtlinie
 ==========
@@ -29,5 +29,5 @@ Dokumentation zur Websiterichtlinie
 * [Sicherheitsrichtlinien](/de/site-policy/security-policies)
   ----------
 
-* [GitHub Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
   ----------

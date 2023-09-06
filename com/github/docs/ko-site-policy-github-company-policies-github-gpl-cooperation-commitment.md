@@ -15,7 +15,7 @@ GitHub GPL 협력 약정
 
 이 약정은 Git, Linux 커널 및 그 외 적용 라이선스에 따른 프로그램에 대한 GitHub 기여와 관련이 있습니다(정의를 보려면 끝까지 스크롤할 것).
 
-당사는 회사를 위한 [템플릿](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)을 기반으로 방침을 마련했습니다. 다른 회사, 개인 및 프로젝트가 이 약정을 채택하는 방법에 대해서는 [GPL 협력 약정 사이트](https://gplcc.github.io/gplcc/)를 참조하십시오.
+당사는 회사를 위한 [템플릿](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)을 기반으로 방침을 마련했습니다. 다른 회사, 개인 및 프로젝트가 이 약정을 채택하는 방법에 대해서는 [GPL 협력 약정 사이트](https://gplcc.github.io/gplcc/)를 참조하세요.
 
 [당사의 약정](#our-commitment)
 ----------

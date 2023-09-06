@@ -8,7 +8,7 @@ GitHub 신상 털기 및 프라이버시 침해 - GitHub Docs
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [독싱 및 개인 정보 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [신상 털기 및 프라이버시 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub 신상 털기 및 프라이버시 침해
 ==========

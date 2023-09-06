@@ -6,7 +6,7 @@ GitHub-Datenschutzerklärung - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
+* [Websiterichtlinie](/de/site-policy)/
 * [Datenschutzrichtlinien](/de/site-policy/privacy-policies)/
 * [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement)
 

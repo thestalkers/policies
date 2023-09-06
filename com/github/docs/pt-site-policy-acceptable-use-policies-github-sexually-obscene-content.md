@@ -6,7 +6,7 @@ Conteúdo Sexualmente Obsceno do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
 * [Conteúdo sexualmente obsceno](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 

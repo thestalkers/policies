@@ -1,4 +1,4 @@
-GitHub Unternehmensrichtlinien - GitHub-Dokumentation
+GitHub-Unternehmensrichtlinien - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
@@ -6,16 +6,16 @@ GitHub Unternehmensrichtlinien - GitHub-Dokumentation
 
 [Site policy](/site-policy)
 
-* [Website-Richtlinie](/de/site-policy)/
-* [GitHub Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+* [Websiterichtlinie](/de/site-policy)/
+* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
 
-GitHub Unternehmensrichtlinien
+GitHub-Unternehmensrichtlinien
 ==========
 
-* [GitHub Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-* [GitHub Erklärung zur Bestechungsbekämpfung](/de/site-policy/github-company-policies/github-anti-bribery-statement)
+* [GitHub-Erklärung zur Bestechungsbekämpfung](/de/site-policy/github-company-policies/github-anti-bribery-statement)
 
 * [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-* [GitHub Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [GitHub-Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)

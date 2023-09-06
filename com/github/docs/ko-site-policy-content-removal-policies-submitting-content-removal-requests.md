@@ -29,16 +29,16 @@ GitHub는 귀하의 특정 상황에 적합한 정책을 결정하는 데 도움
 [DMCA 게시 중단 정책](#dmca-takedown-policy)
 ----------
 
-[DMCA 게시 중단 정책은](/ko/site-policy/content-removal-policies/dmca-takedown-policy) 사용자 또는 organization 소유한 저작권을 침해한다고 생각되는 콘텐츠를 보고하는 데 사용할 수 있습니다. 이 정책을 검토했다면 신고를 제출하기 전에 GitHub의 [DMCA 게시 중단 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)도 검토하는 것이 좋습니다.
+[DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)은 귀하 또는 귀하의 조직이 소유한 저작권을 침해한다고 믿는 콘텐츠를 신고하는 데 사용할 수 있습니다. 이 정책을 검토했다면 신고를 제출하기 전에 GitHub의 [DMCA 게시 중단 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)도 검토하는 것이 좋습니다.
 
 [GitHub 상표 정책](#github-trademark-policy)
 ----------
 
-[GitHub 상표 정책은](/ko/site-policy/content-removal-policies/github-trademark-policy) 브랜드 또는 비즈니스 소속에 대해 다른 사람을 오도하거나 혼동할 수 있는 방식으로 회사 또는 비즈니스 이름, 로고 또는 기타 상표 보호 자료를 사용하는 것으로 보이는 콘텐츠를 보고하는 데 사용할 수 있습니다.
+[GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)은 브랜드 또는 사업 제휴와 관련하여 다른 사람을 오도하거나 혼동시킬 수 있는 방식으로 귀하의 회사나 사업체 이름, 로고 또는 기타 상표 등록된 자료를 사용하는 것으로 보이는 콘텐츠를 신고하는 데 사용할 수 있습니다.
 
 [GitHub 개인 정보 제거 정책](#github-private-information-removal-policy)
 ----------
 
-[GitHub 개인 정보 제거 정책은](/ko/site-policy/content-removal-policies/github-private-information-removal-policy) 비공개(기밀이며 보안 위험이 있음)인 데이터를 보고하는 데 사용할 수 있지만 반드시 저작권 또는 상표로 보호되는 것은 아닙니다.
+[GitHub 비공개 정보 제거 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)은 비공개(기밀이며 보안 위험이 있음)이지만 저작권이나 상표로 반드시 보호되지는 않는 데이터를 신고하는 데 사용할 수 있습니다.
 
-인도의 사용자는 [GitHub의 불만 담당자에게 문의할](https://support.github.com/contact/india-grievance-officer) 수 있습니다.
+인도의 사용자는 [GitHub 불만 책임자](https://support.github.com/contact/india-grievance-officer)에게 문의할 수 있습니다.

@@ -14,4 +14,4 @@
 
 * [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-* [Программа вознаграждения за обнаружение ошибок и безопасная гавань GitHub](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

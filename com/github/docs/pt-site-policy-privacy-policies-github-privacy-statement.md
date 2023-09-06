@@ -6,7 +6,7 @@ Política de Privacidade do GitHub - GitHub Docs
 
 [Site policy](/site-policy)
 
-* [Política do Site](/pt/site-policy)/
+* [Política do site](/pt/site-policy)/
 * [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
 * [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement)
 

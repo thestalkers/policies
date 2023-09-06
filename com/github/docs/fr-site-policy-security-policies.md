@@ -6,7 +6,7 @@ Politiques de Sécurité - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Politiques de Sécurité](/fr/site-policy/security-policies)
 
 Politiques de Sécurité
@@ -14,4 +14,4 @@ Politiques de Sécurité
 
 * [Divulgation coordonnée des vulnérabilités de sécurité](/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-* [Principes de la Sphère de sécurité (Safe Harbor) du programme de primes Bug Bounty de GitHub](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)

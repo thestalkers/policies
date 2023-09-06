@@ -6,7 +6,7 @@ Conditions Générales d’Utilisation de GitHub - Documentation GitHub
 
 [Site policy](/site-policy)
 
-* [Politique du Site](/fr/site-policy)/
+* [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/
 * [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
 
@@ -75,7 +75,7 @@ Date d’entrée en vigueur : 16 novembre 2020
 
 1. Un « compte » représente votre relation juridique avec GitHub. Un « compte personnel » représente l'autorisation d'un utilisateur individuel à se connecter et à utiliser le service et sert d'identité d'utilisateur sur GitHub. Les « Organisations » sont des espaces de travail partagés qui peuvent être associés à une seule entité ou à un ou plusieurs Utilisateurs où plusieurs Utilisateurs peuvent collaborer sur plusieurs projets à la fois. Un compte personnel peut être membre de n'importe quel nombre d'organisations.
 2. « Accord » désigne, collectivement, l’ensemble des dispositions, conditions, avis contenus ou référencés dans le présent document (les « Conditions Générales d’Utilisation » ou les « Conditions ») et toutes les autres règles de fonctionnement, politiques (y compris la Déclaration de Confidentialité GitHub, disponibles à l’adresse [github.com/site/privacy](https://github.com/site/privacy)) et procédures que nous pouvons publier de temps à autre sur le Site Web. La plupart des stratégies de notre site sont disponibles à l’adresse [docs.github.com/categories/site-policy](/fr/site-policy).
-3. « Aperçus bêta » désigne les logiciels, services ou fonctionnalités identifiés comme alpha, bêta, aperçu, accès anticipé ou évaluation, ou des mots ou expressions ayant des significations similaires.
+3. « Versions Bêta Préliminaires » désigne les logiciels, services ou fonctionnalités identifiés comme alpha, bêta, en version préliminaire, à accès anticipé ou en cours d’évaluation, ou des mots ou des expressions ayant des significations similaires.
 4. « Contenu » désigne le contenu présenté ou affiché sur le site Web, y compris, sans s'y limiter, le code, le texte, les données, les articles, les images, les photographies, les graphiques, les logiciels, les applications, les packages, les conceptions, les fonctionnalités et tout autre matériel disponible sur le site Web ou autrement disponible via le Service. « Contenu » inclut également les Services. Le « contenu généré par l'utilisateur » est un contenu, écrit ou autre, créé ou téléchargé par nos utilisateurs. « Votre contenu » est un contenu que vous créez ou possédez.
 5. « GitHub », « Nous » et « Nous » font référence à GitHub, Inc., ainsi qu'à nos sociétés affiliées, administrateurs, filiales, sous-traitants, concédants de licence, dirigeants, agents et employés.
 6. Le « Service » fait référence aux applications, logiciels, produits et services fournis par GitHub, y compris les aperçus bêta.
