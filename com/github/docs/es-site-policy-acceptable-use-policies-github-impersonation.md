@@ -1,4 +1,4 @@
-Suplantación en GitHub - Documentación de GitHub
+Suplantación de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,21 +6,21 @@ Suplantación en GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Suplantación](/es/site-policy/acceptable-use-policies/github-impersonation)
 
-Suplantación en GitHub
+Suplantación de GitHub
 ==========
 
-No puede falsear su identidad ni su asociación con otra persona u organización. Esto incluye hacer cualquiera de las siguientes cosas de una manera que confunda o engañe a otros:
+No puede tergiversar su identidad o su asociación con otra persona u organización. Esto incluye hacer cualquiera de las siguientes cosas de una manera que induzca a error o engañe a otros:
 
-* copiar el avatar de otro usuario u otra información de perfil personal;
-* publicar contenido con la dirección de correo electrónico de otro usuario;
-* usar un nombre de usuario, nombre de organización u otro nombre engañosamente similar;
+* Copiar el avatar de otro usuario u otra información de perfil personal
+* Publicar contenido bajo la dirección de correo electrónico de otro usuario
+* Usar un nombre de usuario, nombre de organización u otro espacio de nombres engañosamente similar
 * Acceso a una cuenta u organización con el token o las credenciales de otro usuario
-* hacerse pasar por otra persona u organización.
+* De lo contrario, haciéndose pasar por otra persona u organización.
 
-La suplantación de identidad es una manera de acoso y la infracción de esta directiva puede dar lugar a la pérdida de acceso a su cuenta.
+La suplantación de identidad es una forma de acoso y la violación de esta política puede dar lugar a la pérdida de acceso a su cuenta.
 
-Tenga en cuenta que tener un nombre de usuario similar a otro no tiene porqué ser una suplantación de identidad. GitHub tendrá en cuenta el contexto. Por ejemplo, como en los casos que implican reclamaciones de [información falsa o desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), generalmente permitimos la parodia y la sátira que esté en línea con nuestras [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+Tenga en cuenta que tener un nombre de usuario similar a otro no es necesariamente una suplantación de identidad. GitHub tendrá en cuenta el contexto. Por ejemplo, como en los casos que implican reclamaciones de [información falsa o desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), generalmente permitimos la parodia y la sátira que esté en línea con nuestras [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies).

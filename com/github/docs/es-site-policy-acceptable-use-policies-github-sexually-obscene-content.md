@@ -1,4 +1,4 @@
-Contenido Sexualmente Obsceno en GitHub - Documentación de GitHub
+Contenido sexualmente obsceno de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
@@ -6,17 +6,17 @@ Contenido Sexualmente Obsceno en GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Contenido Sexualmente Obsceno](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-Contenido Sexualmente Obsceno en GitHub
+Contenido sexualmente obsceno de GitHub
 ==========
 
-No toleramos los contenidos relacionados con la explotación o el abuso sexual de otra persona, incluido el caso de que haya menores involucrados. No permitimos contenidos de temática sexual o sugerente que no tengan otra finalidad que no sea la de solicitar una respuesta erótica o provocativa, en particular cuando dicho contenido se ve amplificado por su colocación en perfiles u otros contextos sociales. Esto incluye:
+No toleramos el contenido asociado con la explotación o el abuso sexual de otra persona, incluso cuando se trata de menores. No permitimos contenido sugerente o de temática sexual que tenga poco o ningún propósito que no sea el de solicitar una respuesta erótica o impactante, particularmente cuando ese contenido se amplifica por su ubicación en perfiles u otros contextos sociales. Esto incluye:
 
 * Contenido pornográfico
 * Imágenes íntimas no consentidas
-* Descripciones gráficas de actos sexuales, incluidas fotografías, vídeos, animaciones, dibujos, imágenes generadas por ordenador o contenidos de texto
+* Representaciones gráficas de actos sexuales, incluidas fotografías, videos, animaciones, dibujos, imágenes generadas por computadora o contenido basado en texto
 
-Reconocemos que no todos los desnudos o contenidos relacionados con la sexualidad son obscenos. Podemos permitir representaciones visuales y/o de texto en contextos artísticos, educativos, históricos o periodísticos, o en relación con la defensa de las víctimas. En algunos casos, un descargo de responsabilidad puede contribuir a transmitir el contexto del proyecto. Sin embargo, entienda que podemos optar por limitar el contenido dando a los usuarios la opción de elegir antes de la visualización.
+Reconocemos que no toda la desnudez o el contenido relacionado con la sexualidad es obsceno. Podemos permitir representaciones visuales y/o textuales en contextos artísticos, educativos, históricos o periodísticos, o en relación con la defensa de las víctimas. En algunos casos, un descargo de responsabilidad puede ayudar a comunicar el contexto del proyecto. Sin embargo, comprenda que podemos optar por limitar el contenido dando a los usuarios la opción de participar antes de verlo.

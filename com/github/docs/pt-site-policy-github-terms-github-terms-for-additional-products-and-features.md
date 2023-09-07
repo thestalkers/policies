@@ -26,12 +26,12 @@ Neste artigo
 * [Importador do GitHub Enterprise](#github-enterprise-importer)
 * [npm](#npm)
 * [Pacotes](#packages)
-* [Pages](#pages)
+* [Páginas](#pages)
 * [Visualizações](#previews)
 * [Programa Sponsors](#sponsors-program)
 * [Imagens do SQL Server](#sql-server-images)
 
-Data de início de vigência da versão: 3 de novembro de 2022
+Data de início de vigência da versão: 5 de setembro de 2023
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -159,7 +159,7 @@ Npm é um serviço de hospedagem de pacotes de software que permite hospedar seu
 
 O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usar pacotes como dependências em seus projetos. Os pacotes do GitHub são cobrados com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso da largura de banda do Packages é limitado pelas [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-[Pages](#pages)
+[Páginas](#pages)
 ----------
 
 Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas principalmente como uma vitrine para projetos pessoais e organizacionais.
@@ -175,6 +175,10 @@ O GitHub Pages está sujeito a alguns limites de uso e largura de banda específ
 O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
 Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
+
+*Exercícios educacionais*
+
+Usar o GitHub Pages para criar uma cópia de um site existente como um exercício de aprendizagem não é proibido. No entanto, você deve escrever o código, o site não deve coletar qualquer dado do usuário e você deve incluir um aviso de isenção de responsabilidade destacado no site indicando que o projeto não está associado ao original e foi criado apenas para fins educacionais.
 
 [Visualizações](#previews)
 ----------

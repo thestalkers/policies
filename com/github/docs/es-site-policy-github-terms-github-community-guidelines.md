@@ -6,7 +6,7 @@ Pautas de la Comunidad de GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/
 * [Pautas de la Comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines)
 

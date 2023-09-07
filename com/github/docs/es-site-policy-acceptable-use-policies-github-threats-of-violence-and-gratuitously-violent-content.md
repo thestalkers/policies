@@ -6,7 +6,7 @@ Amenazas de Violencia y Contenido Violento Gratuito en GitHub - Documentación d
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
 * [Amenazas de Violencia y Contenido Violento Gratuito](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 

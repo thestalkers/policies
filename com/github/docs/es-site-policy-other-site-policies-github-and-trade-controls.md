@@ -6,7 +6,7 @@ GitHub y controles comerciales - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
 * [GitHub y controles comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
 

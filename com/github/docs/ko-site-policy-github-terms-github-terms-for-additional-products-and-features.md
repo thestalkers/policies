@@ -26,12 +26,12 @@ GitHub 추가 제품 및 기능 약관
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 * [npm](#npm)
 * [패키지](#packages)
-* [Pages](#pages)
+* [페이지](#pages)
 * [미리 보기](#previews)
 * [Sponsors 프로그램](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
 
-버전 발효일: 2022년 11월 3일
+버전 발효일: 2023년 9월 5일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -159,7 +159,7 @@ npm은 소프트웨어 패키지를 비공개 또는 공개적으로 호스트�
 
 GitHub Packages는 소프트웨어 패키지를 비공개 또는 공개적으로 호스트하고 프로젝트에서 패키지를 종속성으로 사용할 수 있도록 해 주는 소프트웨어 패키지 호스팅 서비스입니다. GitHub Packages는 사용량 기준으로 청구됩니다. [Packages 설명서](/ko/packages/learn-github-packages/introduction-to-github-packages)에는 대역폭 및 스토리지 양(계정 요금제에 따라 다름) 등의 세부 정보와 Packages 사용량을 모니터링하는 방법과 사용량 한도를 설정하는 방법이 포함되어 있습니다. Packages 대역폭 사용량은 [GitHub 사용량 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)에 의해 제한됩니다.
 
-[Pages](#pages)
+[페이지](#pages)
 ----------
 
 각 계정에는 [GitHub Pages 정적 호스팅 서비스](/ko/pages/getting-started-with-github-pages/about-github-pages)에 대한 액세스 권한이 제공됩니다. GitHub Pages는 정적 웹 페이지를 호스트하도록 되어 있지만 주로 개인 프로젝트와 조직 프로젝트 소개에 사용됩니다.
@@ -175,6 +175,10 @@ GitHub Pages에는 일부 특정 대역폭 및 사용량 한도가 적용되며,
 GitHub Pages는 계약, GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) 또는 [Pages 설명서](/ko/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)에 명시된 GitHub Pages 서비스 제한을 위반하여 사용할 수 없습니다.
 
 사용 또는 의도한 사용이 이러한 범주에 속하는지 여부에 대한 질문이 있는 경우, [GitHub 지원](https://support.github.com/contact?tags=docs-policy)에 문의하시기 바랍니다. GitHub는 언제든지 책임을 지지 않고 GitHub 하위 도메인을 회수할 수 있는 권리를 보유합니다.
+
+*교육 연습*
+
+GitHub Pages를 사용하여 학습 연습으로 기존 웹 사이트의 복사본을 만드는 것은 금지되지 않습니다. 그러나 코드는 직접 작성해야 하며, 사이트에서 사용자 데이터를 수집해서는 안 되며, 프로젝트가 원본과 관련이 없으며 교육 목적으로만 만들어졌음을 나타내는 눈에 띄는 고지 사항을 사이트에 포함해야 합니다.
 
 [미리 보기](#previews)
 ----------

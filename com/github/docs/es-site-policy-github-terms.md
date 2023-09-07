@@ -6,7 +6,7 @@ Términos de GitHub - Documentación de GitHub
 
 [Site policy](/site-policy)
 
-* [Directiva del Sitio](/es/site-policy)/
+* [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)
 
 Términos de GitHub
@@ -14,7 +14,7 @@ Términos de GitHub
 
 * [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service)
 
-* [Términos de Servicio Corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
+* [Condiciones de servicio corporativas de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
 
 * [Términos de GitHub para productos y funciones adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
@@ -26,18 +26,18 @@ Términos de GitHub
 
 * [Términos Adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
 
-* [Acuerdo de Desarrollador Registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
+* [Acuerdo de desarrollador registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
 
 * [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 
-* [Acuerdo de Desarrollador de GitHub Marketplace](/es/site-policy/github-terms/github-marketplace-developer-agreement)
+* [Acuerdo para desarrolladores del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-developer-agreement)
 
-* [Términos del Programa de Investigación de GitHub](/es/site-policy/github-terms/github-research-program-terms)
+* [Términos del programa de investigación de GitHub](/es/site-policy/github-terms/github-research-program-terms)
 
-* [Términos y Condiciones de las Aplicaciones de Código Abierto de GitHub](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Términos y condiciones de las aplicaciones de código abierto de GitHub](/es/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-* [Términos del Evento de GitHub](/es/site-policy/github-terms/github-event-terms)
+* [Términos del evento de GitHub](/es/site-policy/github-terms/github-event-terms)
 
-* [Código de Conducta de Eventos de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)
+* [Código de conducta de eventos de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)
 
 * [Acuerdo de uso educativo de GitHub](/es/site-policy/github-terms/github-educational-use-agreement)
