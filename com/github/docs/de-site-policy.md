@@ -11,23 +11,23 @@ Dokumentation zur Websiterichtlinie - GitHub-Dokumentation
 Dokumentation zur Websiterichtlinie
 ==========
 
-* [GitHub-Bedingungen](/de/site-policy/github-terms)
-  ----------
+[GitHub-Bedingungen](/de/site-policy/github-terms)
+----------
 
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-  ----------
+[Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+----------
 
-* [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
-  ----------
+[Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+----------
 
-* [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-  ----------
+[Andere Website-Richtlinien](/de/site-policy/other-site-policies)
+----------
 
-* [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-  ----------
+[Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+----------
 
-* [Sicherheitsrichtlinien](/de/site-policy/security-policies)
-  ----------
+[Sicherheitsrichtlinien](/de/site-policy/security-policies)
+----------
 
-* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-  ----------
+[GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+----------

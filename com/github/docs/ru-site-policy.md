@@ -11,23 +11,23 @@
 Документация по политике сайта
 ==========
 
-* [Условия GitHub](/ru/site-policy/github-terms)
-  ----------
+[Условия GitHub](/ru/site-policy/github-terms)
+----------
 
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-  ----------
+[Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+----------
 
-* [Политики конфиденциальности](/ru/site-policy/privacy-policies)
-  ----------
+[Политики конфиденциальности](/ru/site-policy/privacy-policies)
+----------
 
-* [Другие правила сайта](/ru/site-policy/other-site-policies)
-  ----------
+[Другие правила сайта](/ru/site-policy/other-site-policies)
+----------
 
-* [Политики удаления контента](/ru/site-policy/content-removal-policies)
-  ----------
+[Политики удаления контента](/ru/site-policy/content-removal-policies)
+----------
 
-* [Политики безопасности](/ru/site-policy/security-policies)
-  ----------
+[Политики безопасности](/ru/site-policy/security-policies)
+----------
 
-* [Политика компании GitHub](/ru/site-policy/github-company-policies)
-  ----------
+[Политика компании GitHub](/ru/site-policy/github-company-policies)
+----------

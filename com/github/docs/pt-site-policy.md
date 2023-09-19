@@ -11,23 +11,23 @@ Documentação da Política do Site - GitHub Docs
 Documentação da Política do Site
 ==========
 
-* [Termos do GitHub](/pt/site-policy/github-terms)
-  ----------
+[Termos do GitHub](/pt/site-policy/github-terms)
+----------
 
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-  ----------
+[Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+----------
 
-* [Políticas de Privacidade](/pt/site-policy/privacy-policies)
-  ----------
+[Políticas de Privacidade](/pt/site-policy/privacy-policies)
+----------
 
-* [Outras políticas do site](/pt/site-policy/other-site-policies)
-  ----------
+[Outras políticas do site](/pt/site-policy/other-site-policies)
+----------
 
-* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-  ----------
+[Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
+----------
 
-* [Políticas de Segurança](/pt/site-policy/security-policies)
-  ----------
+[Políticas de Segurança](/pt/site-policy/security-policies)
+----------
 
-* [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
-  ----------
+[Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
+----------
