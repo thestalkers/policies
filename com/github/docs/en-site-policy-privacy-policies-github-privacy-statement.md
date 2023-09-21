@@ -283,7 +283,7 @@ The table below provides additional information about how we use different types
 
 #### [What are your cookie choices and controls?](#what-are-your-cookie-choices-and-controls) ####
 
- You have several options to disable non-essential cookies:
+You have several options to disable non-essential cookies:
 
 1. **Specifically on GitHub Enterprise Marketing Pages**
 

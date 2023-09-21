@@ -283,7 +283,7 @@ A tabela abaixo fornece informações adicionais sobre como usamos diferentes ti
 
 #### [Quais são suas opções de cookie e controles?](#what-are-your-cookie-choices-and-controls) ####
 
- Você tem várias opções para desabilitar cookies não essenciais:
+Você tem várias opções para desabilitar cookies não essenciais:
 
 1. **Especialmente em Páginas de Marketing Corporativo do GitHub**
 

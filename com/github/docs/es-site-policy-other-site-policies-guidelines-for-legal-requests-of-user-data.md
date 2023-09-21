@@ -93,41 +93,29 @@ Aquí hay una lista no exhaustiva de los tipos de datos que mantenemos sobre usu
   Todos los perfiles públicos de usuario muestran:
 
   * Nombre de usuario
-
   * Los repositorios que el usuario ha destacado
-
   * Los otros usuarios de GitHub que el usuario sigue
-
   * Los usuarios que los siguen
 
-    Opcionalmente, un usuario también puede optar por compartir públicamente la siguiente información:
+  Opcionalmente, un usuario también puede optar por compartir públicamente la siguiente información:
 
   * Su verdadero nombre
-
   * Un avatar
-
   * Una empresa afiliada
-
   * Su ubicación
-
   * Una dirección de correo electrónico pública
-
   * Su página web personal
-
   * Organizaciones a las que pertenece el usuario (*dependiendo de las preferencias de las organizaciones o de los usuarios*)
 
 * []()**Datos de cuentas privadas**: GitHub también recopila y mantiene determinada información privada sobre los usuarios de la forma en que se describe en nuestra [Directiva de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement).
   Esto puede incluir:
 
   * Direcciones de correo electrónico privadas
-
   * Detalles del pago
-
   * Registros de acceso de seguridad
-
   * Datos sobre interacciones con repositorios privados
 
-    Para hacerse una idea del tipo de información de cuentas privadas que recopila GitHub, puede visitar su [panel personal](https://github.com/dashboard) y navegar por los apartados de la barra de menús de la izquierda.
+  Para hacerse una idea del tipo de información de cuentas privadas que recopila GitHub, puede visitar su [panel personal](https://github.com/dashboard) y navegar por los apartados de la barra de menús de la izquierda.
 
 * []()**Datos de cuentas de organizaciones**: en GitHub, la información sobre las organizaciones, sus usuarios administrativos y los repositorios está disponible públicamente.
   Los perfiles de organización se pueden encontrar en una URL como `https://github.com/organization`.
@@ -135,21 +123,15 @@ Aquí hay una lista no exhaustiva de los tipos de datos que mantenemos sobre usu
   Todos los perfiles públicos de la organización muestran:
 
   * El nombre de la organización
-
   * Los repositorios que han protagonizado los propietarios
-
   * Todos los usuarios de GitHub que son propietarios de la organización
 
-    Opcionalmente, los usuarios administrativos también pueden optar por compartir públicamente la siguiente información:
+  Opcionalmente, los usuarios administrativos también pueden optar por compartir públicamente la siguiente información:
 
   * Un avatar
-
   * Una empresa afiliada
-
   * Su ubicación
-
   * Miembros Directos y Equipos
-
   * Colaboradores
 
 * []()**Datos de repositorios públicos**: GitHub alberga millones de proyectos de software de código abierto públicos.

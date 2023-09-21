@@ -84,7 +84,7 @@ Dans certains pays, les Candidats peuvent avoir certains droits en vertu des loi
 
 Cela inclut les droits de demander l'accès ou de corriger vos informations, de demander que vos informations soient supprimées, ou de s'opposer à ou d'empêcher GitHub de les utiliser à certaines fins.
 
-Vous pouvez faire une demande à cet effet en écrivant à l'adresse [privacy@github.com.](mailto:privacy@github.com.) Nous répondrons à toutes les demandes conformément aux lois applicables en matière de protection des données.
+Vous pouvez faire une demande à cet effet en écrivant à l'adresse [privacy@github.com](mailto:privacy@github.com). Nous répondrons à toutes les demandes conformément aux lois applicables en matière de protection des données.
 
 [Combien de temps conservons-nous vos informations personnelles de candidat ?](#how-long-do-we-retain-your-candidate-personal-information)
 ----------

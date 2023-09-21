@@ -283,7 +283,7 @@ GitHub 服务将 Cookie 及类似技术用于各种目的，包括存储您的�
 
 #### [您的 Cookie 选项和控制有哪些？](#what-are-your-cookie-choices-and-controls) ####
 
- 您有几个选项可禁用非必要的 Cookie：
+您有几个选项可禁用非必要的 Cookie：
 
 1. **专用于 GitHub 企业营销页面**
 

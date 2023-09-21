@@ -93,63 +93,45 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
   Tous les profils publics d'utilisateurs affichent :
 
   * Nom d'utilisateur
-
   * Les référentiels que l'utilisateur a marqués d'une étoile
-
   * Les autres utilisateurs GitHub que l'utilisateur suit
-
   * Les utilisateurs qui les suivent
 
-    Facultativement, un utilisateur peut également choisir de partager publiquement les informations suivantes :
+  Facultativement, un utilisateur peut également choisir de partager publiquement les informations suivantes :
 
   * Leur vrai nom
-
   * Un avatar
-
   * Une société affiliée
-
   * Leur emplacement
-
   * Une adresse e-mail publique
-
   * Leur page web personnelle
-
   * Les organisations auxquelles l'utilisateur est membre (*selon les préférences de l'organisation ou de l'utilisateur*)
 
 * []()**Données de compte privé** : GitHub collecte et conserve également certaines informations privées sur les utilisateurs, comme indiqué dans notre [Politique de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement).
   Cela peut inclure :
 
   * Adresses e-mail privées
-
   * Détails de paiement
-
   * Journaux d'accès de sécurité
-
   * Données sur les interactions avec les référentiels privés
 
-    Pour avoir une idée du type d'informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
+  Pour avoir une idée du type d'informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
 
-* []() **Données de compte d'organisation** : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
+* []()\*\* Données de compte d'organisation\*\* : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
   Les profils d'organisation sont disponibles en utilisant une URL, par exemple `https://github.com/organization`.
   Les profils d'organisations publiques peuvent également inclure des informations supplémentaires que les propriétaires ont choisi de partager publiquement.
   Tous les profils publics d'organisation affichent :
 
   * Le nom de l’organisation
-
   * Les référentiels que les propriétaires ont mis en vedette
-
   * Tous les utilisateurs de GitHub qui sont propriétaires de l'organisation
 
-    Facultativement, les utilisateurs administratifs peuvent également choisir de partager publiquement les informations suivantes :
+  Facultativement, les utilisateurs administratifs peuvent également choisir de partager publiquement les informations suivantes :
 
   * Un avatar
-
   * Une société affiliée
-
   * Leur emplacement
-
   * Membres directs et équipes
-
   * Collaborateurs
 
 * []()**Données de référentiel public** : GitHub héberge des millions de projets logiciels publics, open source.

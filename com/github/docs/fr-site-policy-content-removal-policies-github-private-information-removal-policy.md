@@ -71,13 +71,13 @@ Le « risque de sécurité » fait référence à une situation impliquant une
 
 4. **L'utilisateur notifie GitHub des modifications.** Si l'utilisateur choisit d'apporter les modifications spécifiées, il doit nous en informer dans le délai imparti. S'ils ne le font pas, nous désactiverons le référentiel. Si l'utilisateur nous informe qu'il a apporté des modifications, nous vérifierons que les modifications ont été apportées et informerons le plaignant.
 
-   OU
+OU
 
-5. **L'utilisateur peut contester la demande.** Si un utilisateur estime que le contenu en question n'est pas une information privée soumise à la présente politique, il peut le contester. S'ils le font, nous laisserons généralement au plaignant le soin de contacter l'utilisateur et de régler les choses directement avec lui, dans des limites raisonnables.
+1. **L'utilisateur peut contester la demande.** Si un utilisateur estime que le contenu en question n'est pas une information privée soumise à la présente politique, il peut le contester. S'ils le font, nous laisserons généralement au plaignant le soin de contacter l'utilisateur et de régler les choses directement avec lui, dans des limites raisonnables.
 
-6. **Le plaignant vérifie les modifications apportées**. Si l'utilisateur apporte des modifications, le plaignant doit les examiner. Si les modifications sont insuffisantes, le plaignant doit fournir à GitHub des détails expliquant pourquoi. GitHub peut désactiver le référentiel ou donner à l'utilisateur une chance supplémentaire d'apporter les modifications.
+2. **Le plaignant vérifie les modifications apportées**. Si l'utilisateur apporte des modifications, le plaignant doit les examiner. Si les modifications sont insuffisantes, le plaignant doit fournir à GitHub des détails expliquant pourquoi. GitHub peut désactiver le référentiel ou donner à l'utilisateur une chance supplémentaire d'apporter les modifications.
 
-7. **L'utilisateur peut demander une fenêtre supplémentaire pour apporter des modifications.** Si l'utilisateur a raté l'occasion de supprimer les informations privées spécifiées dans l'avis, nous pouvons lui accorder une fenêtre supplémentaire d'environ 1 jour ouvrable, sur demande, pour effectuer ces modifications. Dans ce cas, GitHub informera le plaignant.
+3. **L'utilisateur peut demander une fenêtre supplémentaire pour apporter des modifications.** Si l'utilisateur a raté l'occasion de supprimer les informations privées spécifiées dans l'avis, nous pouvons lui accorder une fenêtre supplémentaire d'environ 1 jour ouvrable, sur demande, pour effectuer ces modifications. Dans ce cas, GitHub informera le plaignant.
 
 ### [Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#quen-est-il-des-fourches-ou-quest-ce-quune-fourchette) ###
 

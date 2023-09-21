@@ -283,7 +283,7 @@ Le tableau ci-dessous fournit des informations supplémentaires sur la manière 
 
 #### [Quels sont vos choix et contrôles en matière de cookies ?](#what-are-your-cookie-choices-and-controls) ####
 
- Vous disposez de plusieurs options pour désactiver les cookies non essentiels :
+Vous disposez de plusieurs options pour désactiver les cookies non essentiels :
 
 1. **Spécifiquement sur les Pages Marketing GitHub Enterprise**
 

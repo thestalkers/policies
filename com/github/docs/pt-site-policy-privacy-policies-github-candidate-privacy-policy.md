@@ -84,7 +84,7 @@ Em alguns locais, os Candidatos podem ter certos direitos sob as leis de privaci
 
 Isso inclui os direitos de solicitar acesso ou corrigir suas informações, solicitar que suas informações sejam excluídas ou se opor ou restringir o GitHub de usá-las para determinados fins.
 
-Você pode fazer uma solicitação para isso entrando em contato com [privacy@github.com.](mailto:privacy@github.com.) Responderemos a todas as solicitações de acordo com as leis de proteção de dados aplicáveis.
+Você pode fazer uma solicitação para isso entrando em contato com [privacy@github.com](mailto:privacy@github.com). Responderemos a todas as solicitações de acordo com as leis de proteção de dados aplicáveis.
 
 [Por quanto tempo retemos suas Informações Pessoais de Candidato?](#how-long-do-we-retain-your-candidate-personal-information)
 ----------

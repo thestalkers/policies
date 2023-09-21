@@ -283,7 +283,7 @@ Die folgende Tabelle enthält zusätzliche Informationen dazu, wie wir verschied
 
 #### [Welche Optionen haben Sie in Bezug auf Cookies und was können Sie steuern?](#what-are-your-cookie-choices-and-controls) ####
 
- Sie haben verschiedene Optionen, um nicht erforderliche Cookies zu deaktivieren:
+Sie haben verschiedene Optionen, um nicht erforderliche Cookies zu deaktivieren:
 
 1. **Speziell auf GitHub-Seiten für Unternehmensmarketing**
 
@@ -349,7 +349,7 @@ Vereinigte Staaten
 
 ### [Streitbeilegungsverfahren](#dispute-resolution-process) ###
 
-In dem unwahrscheinlichen Fall, dass es zwischen Ihnen und GitHub zu Streitigkeiten bezüglich unseres Umgangs mit Ihren personenbezogenen Daten kommt, senden Sie bitte eine E-Mail mit dem Betreff „Privacy Concerns“ direkt an [privacy@github.com.](mailto:privacy@github.com.) Wir werden umgehend antworten und unser Bestes tun, um die Streitigkeit beizulegen.
+In dem unwahrscheinlichen Fall, dass es zwischen Ihnen und GitHub zu Streitigkeiten bezüglich unseres Umgangs mit Ihren personenbezogenen Daten kommt, senden Sie bitte eine E-Mail mit dem Betreff „Privacy Concerns“ direkt an [privacy@github.com](mailto:privacy@github.com). Wir werden umgehend antworten und unser Bestes tun, um die Streitigkeit beizulegen.
 Darüber hinaus haben Sie möglicherweise das Recht, eine Beschwerde bei Ihrer örtlichen Datenschutzbehörde oder Aufsichtsbehörde einzureichen.
 
 [Änderungen an unserer Datenschutzerklärung](#changes-to-our-privacy-statement)

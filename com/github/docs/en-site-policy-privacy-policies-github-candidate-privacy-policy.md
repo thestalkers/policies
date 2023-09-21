@@ -84,7 +84,7 @@ In some locations, Candidates may have certain rights under applicable local pri
 
 This includes the rights to request access or correct your information, request that your information be deleted, or object to or restrict GitHub from using it for certain purposes.
 
-You can make a request to do so by contacting [privacy@github.com.](mailto:privacy@github.com.) We will respond to all requests in accordance with applicable data protection laws.
+You can make a request to do so by contacting [privacy@github.com](mailto:privacy@github.com). We will respond to all requests in accordance with applicable data protection laws.
 
 [How long do we retain your Candidate Personal Information?](#how-long-do-we-retain-your-candidate-personal-information)
 ----------

@@ -54,7 +54,7 @@ Entonces, ¿qué significa "de valor"? Tenga en cuenta que no se aceptan obsequi
 
 En cuanto a otros clientes o clientes potenciales, ciertas cosas pueden parecer triviales pero tienen un gran valor para otra persona. Por ejemplo, aunque a usted no le parezca un gran problema contratar a la hija de su amigo como pasante, podría ser de gran valor para ellos. Pero si ella no está calificada y mueves los hilos para que suceda, entonces no está bien. Además, si la intención es influir indebidamente, cualquier cosa, por pequeña que sea, puede considerarse "de valor".
 
-🙅*A continuación, se enumeran otras cosas que no se consideran adecuadas:*
+🙅\_A continuación, se enumeran otras cosas que no se consideran adecuadas:\_
 
 * Pasaje aéreo en primera clase a las oficinas de GitHub para sesiones informativas ejecutivas ✈️+🍾
 * Visitas a bodegas 🍷

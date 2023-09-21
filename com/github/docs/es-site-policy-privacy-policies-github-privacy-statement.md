@@ -283,7 +283,7 @@ En la tabla siguiente se ofrece información adicional sobre la forma en que usa
 
 #### [Controles y opciones para las cookies](#what-are-your-cookie-choices-and-controls) ####
 
- Tiene varias opciones para deshabilitar las cookies no esenciales:
+Tiene varias opciones para deshabilitar las cookies no esenciales:
 
 1. **En las páginas de marketing empresarial de GitHub en particular**
 
