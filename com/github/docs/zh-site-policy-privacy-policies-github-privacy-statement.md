@@ -229,7 +229,7 @@ GitHub 隐私声明
 
 ### [数据可携带性](#data-portability) ###
 
-作为 GitHub 用户，您可以随时携带您的数据。 例如，您可以[将您的存储库复制到您的桌面设备](/zh/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)，或者使用我们的[数据携带工具](https://developer.github.com/changes/2018-05-24-user-migration-api/)从我们这里下载您的信息。
+作为 GitHub 用户，您可以随时携带您的数据。 例如，您可以[将您的存储库复制到您的桌面设备](/zh/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)，或者使用我们的[数据携带工具](https://developer.github.com/changes/2018-05-24-user-migration-api/)从我们这里下载您的信息。
 
 ### [通信偏好](#communication-preferences) ###
 

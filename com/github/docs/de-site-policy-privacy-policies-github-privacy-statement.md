@@ -21,13 +21,13 @@ In diesem Artikel
 * [GitHub-Datenschutzerklärung](#github-privacy-statement)
 * [Wer ist für die Verarbeitung Ihrer Informationen zuständig?](#who-is-responsible-for-the-processing-of-your-information)
 * [Handlungen von GitHub in Ihrem Namen](#github-acting-on-your-behalf)
-* [Welche Informationen GitHub sammelt](#what-information-github-collects)
+* [Welche Informationen GitHub erhebt](#what-information-github-collects)
 * [Wie GitHub Ihre Informationen verwendet](#how-github-uses-your-information)
-* [Wie wir die von uns erfassten Informationen weitergeben](#how-we-share-the-information-we-collect)
+* [Wie wir die von uns erhobenen Informationen weitergeben](#how-we-share-the-information-we-collect)
 * [Ihre Optionen hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten](#your-choices-regarding-our-processing-of-your-personal-data)
 * [Unsere Verwendung von Cookies und Trackingtechnologien](#our-use-of-cookies-and-tracking-technologies)
 * [Aufbewahrung personenbezogener Daten](#retention-of-personal-data)
-* [Wie GitHub Ihre Informationen sichert](#how-github-secures-your-information)
+* [Wie GitHub Ihre Informationen schützt](#how-github-secures-your-information)
 * [Änderungen an unserer Datenschutzerklärung](#changes-to-our-privacy-statement)
 * [Lizenz](#license)
 * [GitHub kontaktieren](#contacting-github)
@@ -82,7 +82,7 @@ Diese Datenschutzerklärung gilt nicht für personenbezogene Daten, die wir als 
 
 In einigen Fällen handelt GitHub in Bezug auf die personenbezogenen Daten, die wir in Verbindung mit unserem Dienst erheben und verarbeiten, lediglich in Ihrem Namen (z. B. in Bezug auf die personenbezogenen Daten, die von den Mitwirkenden eines Repositorys zu diesem Repository hinzugefügt werden). In solchen Fällen verarbeitet GitHub die Daten nur, um den Dienst bereitzustellen, zu schützen und zu verbessern. Bitte beachten Sie, dass Anfragen von Mitwirkenden hinsichtlich der Entfernung personenbezogener Daten gemäß unserer [Richtlinie zum Entfernen privater Informationen](/de/site-policy/content-removal-policies/github-private-information-removal-policy) in der Regel eine Benachrichtigung des Repository-Eigentümers sowie dessen Eingreifen erfordern.
 
-[Welche Informationen GitHub sammelt](#what-information-github-collects)
+[Welche Informationen GitHub erhebt](#what-information-github-collects)
 ----------
 
 Welche personenbezogenen Daten wir erheben, hängt davon ab, wie Sie mit uns interagieren, welche Dienste Sie nutzen und welche Entscheidungen Sie treffen. Wir erheben Informationen über Sie aus verschiedenen Quellen und auf unterschiedliche Weise, wenn Sie unseren Dienst nutzen. Dies umfasst Informationen, die Sie direkt angeben, automatisch erhobene Informationen, Datenquellen von Dritten sowie Daten, die wir von anderen Daten ableiten oder auf deren Grundlage generieren.
@@ -161,7 +161,7 @@ Wir können Ihre Daten verwenden, um unseren Dienst bereitzustellen, zu pflegen,
 
 Wir kombinieren erhobene Daten aus verschiedenen Quellen für diese Zwecke und um Ihnen ein nahtloseres, konsistenteres und stärker personalisiertes Erlebnis zu bieten.
 
-[Wie wir die von uns erfassten Informationen weitergeben](#how-we-share-the-information-we-collect)
+[Wie wir die von uns erhobenen Informationen weitergeben](#how-we-share-the-information-we-collect)
 ----------
 
 Wir geben personenbezogene Daten wie im Folgenden beschrieben weiter, unter anderem mit Ihrer Einwilligung oder wenn die Weitergabe erforderlich ist, um Ihre Transaktionen abzuwickeln oder die von Ihnen angeforderten oder autorisierten Dienste bereitzustellen. Darüber hinaus können wir jede der oben beschriebenen Kategorien personenbezogener Daten für folgende geschäftliche Zwecke an die im Folgenden beschriebenen Arten von Dritten weitergeben:
@@ -229,7 +229,7 @@ Außerdem gilt: Wenn Sie auf bestimmte personenbezogene Daten, über die wir ver
 
 ### [Datenportabilität](#data-portability) ###
 
-Als GitHub-Nutzer können Sie Ihre Daten immer mitnehmen. Sie können beispielsweise [Ihre Repositorys auf Ihren Desktop klonen](/de/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) oder unsere [Tools zur Datenübertragbarkeit](https://developer.github.com/changes/2018-05-24-user-migration-api/) verwenden, um Informationen herunterzuladen, die wir zu Ihrer Person gespeichert haben.
+Als GitHub-Nutzer können Sie Ihre Daten immer mitnehmen. Sie können beispielsweise [Ihre Repositorys auf Ihren Desktop klonen](/de/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) oder unsere [Tools zur Datenübertragbarkeit](https://developer.github.com/changes/2018-05-24-user-migration-api/) verwenden, um Informationen herunterzuladen, die wir zu Ihrer Person gespeichert haben.
 
 ### [Kommunikationseinstellungen](#communication-preferences) ###
 
@@ -310,7 +310,7 @@ Die Einstellungen sind je nach verwendetem Browser unterschiedlich. Wenn Sie üb
 
 Wir bewahren personenbezogene Daten so lange auf, wie dies für die Bereitstellung der von Ihnen angeforderten Dienste und die Abwicklung der von Ihnen angeforderten Transaktionen, für die Erfüllung unserer gesetzlichen Pflichten, für die Beilegung von Streitigkeiten, für die Durchsetzung unserer Vereinbarungen und für andere legitime und gesetzmäßige geschäftliche Zwecke erforderlich ist. Da diese Anforderungen für verschiedene Datentypen im Kontext verschiedener Dienste unterschiedlich sein können, können die tatsächlichen Aufbewahrungszeiträume abhängig von Kriterien wie Benutzererwartungen oder -zustimmung, Vertraulichkeit der Daten, Verfügbarkeit automatischer Kontrollen, die Benutzern das Löschen von Daten ermöglichen, und unseren gesetzlichen oder vertraglichen Pflichten erheblich variieren. Beispielsweise können Ihre personenbezogenen Daten aus Sicherheitsgründen länger aufbewahrt werden, wenn dies erforderlich und gesetzlich zulässig ist.
 
-[Wie GitHub Ihre Informationen sichert](#how-github-secures-your-information)
+[Wie GitHub Ihre Informationen schützt](#how-github-secures-your-information)
 ----------
 
 GitHub ergreift angemessene Maßnahmen, um Ihre personenbezogenen Daten vor unbefugtem Zugriff sowie vor Änderung oder Zerstörung zu schützen, die Richtigkeit der Daten zu wahren und die angemessene Nutzung Ihrer personenbezogenen Daten zu gewährleisten. Unterstützen Sie uns beim Schutz personenbezogener Daten, indem Sie ein sicheres Kennwort verwenden, es niemals an andere weitergeben und nicht das gleiche Kennwort für andere Websites oder Konten nutzen.

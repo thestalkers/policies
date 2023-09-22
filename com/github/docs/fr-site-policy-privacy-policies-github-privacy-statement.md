@@ -21,14 +21,14 @@ Dans cet article
 * [Déclaration de confidentialité GitHub](#github-privacy-statement)
 * [Qui est responsable du traitement de vos informations ?](#who-is-responsible-for-the-processing-of-your-information)
 * [Action de GitHub en votre nom](#github-acting-on-your-behalf)
-* [Quelles informations GitHub collecte](#what-information-github-collects)
-* [Comment GitHub utilise vos informations](#how-github-uses-your-information)
-* [Comment nous partageons les informations que nous collectons](#how-we-share-the-information-we-collect)
+* [Quelles sont les informations recueillies par GitHub ?](#what-information-github-collects)
+* [Comment GitHub utilise-t-elle vos informations ?](#how-github-uses-your-information)
+* [Comment partageons-nous les informations que nous recueillons ?](#how-we-share-the-information-we-collect)
 * [Vos choix concernant le traitement de vos données personnelles](#your-choices-regarding-our-processing-of-your-personal-data)
 * [Notre utilisation des cookies et des technologies de suivi](#our-use-of-cookies-and-tracking-technologies)
 * [Rétention des données personnelles](#retention-of-personal-data)
-* [Comment GitHub sécurise vos informations](#how-github-secures-your-information)
-* [Modifications de notre Déclaration de Confidentialité](#changes-to-our-privacy-statement)
+* [Comment GitHub sécurise vos informations ?](#how-github-secures-your-information)
+* [Modifications de notre Déclaration de confidentialité](#changes-to-our-privacy-statement)
 * [Licence](#license)
 * [Contacter GitHub](#contacting-github)
 * [Traductions](#translations)
@@ -82,7 +82,7 @@ La présente déclaration de confidentialité ne s’applique pas aux données p
 
 Dans certains cas, GitHub agit uniquement en votre nom pour les données personnelles que nous recueillons et traitons dans le cadre de notre Service (par exemple, pour les données personnelles ajoutées à un référentiel par les contributeurs de ce référentiel). Dans ce cas, GitHub ne traitera les données que dans le but de fournir, de protéger et d’améliorer le Service. Veuillez noter que, sous réserve de notre [Politique de suppression des informations privées](/fr/site-policy/content-removal-policies/github-private-information-removal-policy), les demandes des contributeurs visant à supprimer des données personnelles nécessitent généralement une notification au propriétaire du référentiel et une action de sa part.
 
-[Quelles informations GitHub collecte](#what-information-github-collects)
+[Quelles sont les informations recueillies par GitHub ?](#what-information-github-collects)
 ----------
 
 Les données personnelles que nous recueillons dépendent de la manière dont vous interagissez avec nous, des services que vous utilisez et des choix que vous faites. Nous recueillons des informations vous concernant à partir de différentes sources et de diverses manières lorsque vous utilisez notre service, notamment les informations que vous fournissez directement, les informations recueillies automatiquement, les sources de données tierces et les données que nous déduisons ou générons à partir d’autres données.
@@ -145,7 +145,7 @@ Sources disponibles publiquement. Nous pouvons également obtenir des informatio
 
 Lorsque vous êtes invité à fournir des données personnelles, vous pouvez refuser. Vous pouvez également utiliser les contrôles du navigateur web ou du système d’exploitation pour empêcher certains types de collecte de données automatique. Cependant, si vous choisissez de ne pas fournir ou de ne pas autoriser les informations nécessaires à certains services ou fonctionnalités, ces services ou fonctionnalités peuvent ne pas être disponibles ou entièrement fonctionnels.
 
-[Comment GitHub utilise vos informations](#how-github-uses-your-information)
+[Comment GitHub utilise-t-elle vos informations ?](#how-github-uses-your-information)
 ----------
 
 Nous pouvons utiliser vos informations pour fournir, administrer, analyser, gérer et exploiter notre Service. Par exemple, nous utilisons vos informations aux fins suivantes :
@@ -161,7 +161,7 @@ Nous pouvons utiliser vos informations pour fournir, administrer, analyser, gér
 
 Nous combinons les données que nous recueillons à partir de différentes sources à ces fins et pour vous offrir une expérience plus transparente, cohérente et personnalisée.
 
-[Comment nous partageons les informations que nous collectons](#how-we-share-the-information-we-collect)
+[Comment partageons-nous les informations que nous recueillons ?](#how-we-share-the-information-we-collect)
 ----------
 
 Nous partageons les données personnelles comme décrit ci-dessous, avec votre consentement ou si nécessaire pour mener à bien vos transactions ou fournir les services que vous avez demandés ou autorisés. En outre, nous pouvons partager chacune des catégories de vos données personnelles décrites ci-dessus avec les types de tiers décrits ci-dessous aux fins commerciales suivantes :
@@ -229,7 +229,7 @@ En outre, si vous n’êtes pas en mesure d’accéder à certaines données per
 
 ### [Portabilité des données](#data-portability) ###
 
-En tant qu'utilisateur GitHub, vous pouvez toujours emporter vos données avec vous. Vous pouvez par exemple [cloner vos dépôts sur votre bureau](/fr/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) ou vous pouvez utiliser nos [outils de Portabilité des Données](https://developer.github.com/changes/2018-05-24-user-migration-api/) pour télécharger les informations que nous avons sur vous.
+En tant qu'utilisateur GitHub, vous pouvez toujours emporter vos données avec vous. Vous pouvez par exemple [cloner vos dépôts sur votre bureau](/fr/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop) ou vous pouvez utiliser nos [outils de Portabilité des Données](https://developer.github.com/changes/2018-05-24-user-migration-api/) pour télécharger les informations que nous avons sur vous.
 
 ### [Préférences de communication](#communication-preferences) ###
 
@@ -310,7 +310,7 @@ Ces choix sont spécifiques au navigateur que vous utilisez. Si vous accédez à
 
 Nous conservons les données personnelles aussi longtemps que nécessaire pour fournir les services et réaliser les transactions que vous avez demandées, pour nous conformer à nos obligations légales, pour résoudre les litiges, pour faire respecter nos accords et pour d’autres objectifs commerciaux légitimes et légaux. Étant donné que ces besoins peuvent varier pour des types de données différents dans le contexte de services différents, les périodes de rétention réelles peuvent varier de manière significative en fonction de critères tels que les attentes ou le consentement de l’utilisateur, la sensibilité des données, la disponibilité de contrôles automatisés permettant aux utilisateurs de supprimer des données, et nos obligations légales ou contractuelles. Par exemple, nous pouvons conserver vos données personnelles pendant des périodes plus longues, si nécessaire, sous réserve de la réglementation applicable, à des fins de sécurité.
 
-[Comment GitHub sécurise vos informations](#how-github-secures-your-information)
+[Comment GitHub sécurise vos informations ?](#how-github-secures-your-information)
 ----------
 
 GitHub prend les mesures raisonnables nécessaires pour protéger vos données personnelles contre tout accès, toute altération ou toute destruction non autorisé, pour maintenir l’exactitude des données et assurer l’utilisation appropriée de vos données personnelles. Pour nous aider à protéger les données personnelles, nous vous demandons d’utiliser un mot de passe fort et de ne jamais partager votre mot de passe avec quiconque ou d’utiliser le même mot de passe avec d’autres sites ou comptes.
@@ -352,7 +352,7 @@ San Francisco, Californie 94107
 Dans le cas peu probable où un litige se produit entre vous et GitHub concernant notre gestion de vos données personnelles, veuillez nous envoyer un e-mail directement à l’adresse (privacy [arobase] github [point] com) avec l’objet « Privacy Concerns » (Préoccupations au sujet de la confidentialité). Nous répondrons rapidement et ferons de notre mieux pour résoudre le litige.
 En outre, vous avez le droit de déposer une plainte auprès de votre agence locale de protection des données ou de confidentialité ou d’une autorité de contrôle.
 
-[Modifications de notre Déclaration de Confidentialité](#changes-to-our-privacy-statement)
+[Modifications de notre Déclaration de confidentialité](#changes-to-our-privacy-statement)
 ----------
 
 GitHub peut modifier cette Déclaration de confidentialité de temps à autre pour diverses raisons, notamment pour se conformer aux nouvelles lois et réglementations, pour couvrir les nouvelles fonctionnalités et pour accroître la transparence. Nous informerons les utilisateurs des modifications importantes apportées à la présente Déclaration de Confidentialité par l’intermédiaire de notre Site Web au moins 30 jours avant l’entrée en vigueur de la modification en publiant un avis sur notre page d’accueil ou en envoyant un e-mail à l’adresse e-mail principale indiquée dans votre compte GitHub. Nous mettrons également à jour notre [référentiel sur les stratégies du site](https://github.com/github/site-policy/), qui suit toutes les modifications apportées à la présente stratégie. Pour toute autre modification de la présente Déclaration de Confidentialité, nous encourageons les utilisateurs à surveiller ou à consulter fréquemment le référentiel sur les stratégies du site. Pour savoir comment surveiller un référentiel, consultez « [Configuration des notifications](/fr/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) ».

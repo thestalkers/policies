@@ -18,7 +18,7 @@ GitHub のプライバシー ステートメント|プライバシーに関す�
 
 * [要約](#the-short-version)
 * [概要](#summary)
-* [GitHub のプライバシーに関する声明](#github-privacy-statement)
+* [GitHub のプライバシー ステートメント|プライバシーに関する声明](#github-privacy-statement)
 * [お客様の情報の処理に責任者は?](#who-is-responsible-for-the-processing-of-your-information)
 * [お客様の代理で活動する GitHub](#github-acting-on-your-behalf)
 * [GitHub が収集する情報について](#what-information-github-collects)
@@ -67,7 +67,7 @@ GitHub のプライバシー ステートメント|プライバシーに関す�
 |                       [GitHub への問い合わせ](#contacting-github)                       |                                                                                                                                                                                              当社のプライバシーに関する声明についてご質問がございましたら、お気軽にお問い合わせください。                                                                                                                                                                                              |
 |                               [翻訳](#translations)                                |                                                                                                                                                                                                   弊社は、プライバシーに関する声明の一部の翻訳へのリンクを提供しています。                                                                                                                                                                                                   |
 
-[GitHub のプライバシーに関する声明](#github-privacy-statement)
+[GitHub のプライバシー ステートメント|プライバシーに関する声明](#github-privacy-statement)
 ----------
 
 [お客様の情報の処理に責任者は?](#who-is-responsible-for-the-processing-of-your-information)
@@ -229,7 +229,7 @@ GitHub が[第三者](/ja/site-policy/privacy-policies/github-privacy-statement#
 
 ### [データの可搬性](#data-portability) ###
 
-お客様は GitHub ユーザーとして、いつでもデータを取り出すことができます。 たとえば、[デスクトップにリポジトリを複製](/ja/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)したり、弊社の[データ可搬性ツール](https://developer.github.com/changes/2018-05-24-user-migration-api/)を使用して、弊社がお客様に関して保持している情報をダウンロードしたりすることができます。
+お客様は GitHub ユーザーとして、いつでもデータを取り出すことができます。 たとえば、[デスクトップにリポジトリを複製](/ja/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)したり、弊社の[データ可搬性ツール](https://developer.github.com/changes/2018-05-24-user-migration-api/)を使用して、弊社がお客様に関して保持している情報をダウンロードしたりすることができます。
 
 ### [通信設定](#communication-preferences) ###
 
