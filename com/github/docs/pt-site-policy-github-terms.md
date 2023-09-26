@@ -18,7 +18,7 @@ Termos do GitHub
 
 * [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-* [Diretrizes da Comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+* [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 
 * [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 

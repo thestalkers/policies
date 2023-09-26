@@ -39,7 +39,7 @@ L'objectif principal de la communauté GitHub est de collaborer sur des projets 
 
 * **Soyez respectueux** : travailler dans un environnement collaboratif signifie que des désaccords peuvent survenir. Mais n'oubliez pas de critiquer les idées, pas les gens. Partagez des critiques réfléchies et constructives et soyez courtois envers ceux avec qui vous interagissez. Si vous ne pouvez pas vous engager avec respect, envisagez de prendre du recul ou d'utiliser certains de nos outils de modération pour désamorcer une situation tendue.
 
-* **Faites preuve d’empathie** : GitHub est une communauté mondiale composée de personnes issues d’horizons et de points de vue très divers, dont beaucoup peuvent ne pas être les vôtres. Essayez de vous mettre à la place des autres et de comprendre leurs sentiments avant de vous adresser à eux. Faites de votre mieux pour aider à faire de GitHub une communauté où les autres se sentent en sécurité pour apporter des contributions, participer à des discussions et partager différentes idées.
+* **Faites preuve d'empathie** : GitHub est une communauté mondiale composée de personnes issues d'horizons et de points de vue très divers, dont beaucoup peuvent ne pas être les vôtres. Essayez de vous mettre à la place des autres et de comprendre leurs sentiments avant de vous adresser à eux. Faites de votre mieux pour aider à faire de GitHub une communauté où les autres se sentent en sécurité pour apporter des contributions, participer à des discussions et partager différentes idées.
 
 [Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
 ----------
