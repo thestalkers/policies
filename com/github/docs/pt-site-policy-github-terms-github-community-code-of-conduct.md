@@ -19,9 +19,9 @@ Neste artigo
 * [Visão geral e propósito](#overview-and-purpose)
 * [Juramento](#pledge)
 * [Padrões](#standards)
-* [Imposição](#enforcement)
-* [Entrando em contato com a equipe do GitHub](#contacting-github-staff)
-* [Noticias legais](#legal-notices)
+* [Imposição](#reasonable-use-of-ai-generated-content)
+* [Entrando em contato com a equipe do GitHub](#our-responsibilities)
+* [Noticias legais](#contacting-github-staff)
 
 [Visão geral e propósito](#overview-and-purpose)
 ----------
@@ -98,16 +98,16 @@ As [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github
 
 * **Violação dos Termos de Serviço.** Se a sua conta GitHub.com for identificada em violação dos [Termos de serviço](/pt/site-policy/github-terms/github-terms-of-service) teremos que encerrá-la.
 
-[Imposição](#enforcement)
+[Imposição](#reasonable-use-of-ai-generated-content)
 ----------
 
-### [*O que os participantes da Comunidade do GitHub podem fazer*](#what-github-community-participants-can-do) ###
+### [*O que os participantes da Comunidade do GitHub podem fazer*](#enforcement) ###
 
 * **Se você vir um problema, denuncie.** Os moderadores têm autoridade especial; eles são responsáveis por esta Comunidade do GitHub. Mas você também é. Com sua ajuda, os moderadores podem ser facilitadores da comunidade, não apenas fiscais ou policiais.
 
   Quando você vir um mau comportamento, não responda. Incentiva o mau comportamento reconhecendo-o, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para o GitHub. Para mais informações, consulte "[Denunciar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)".
 
-### [Nossas responsabilidades](#our-responsibilities) ###
+### [Nossas responsabilidades](#what-github-community-participants-can-do) ###
 
 Há uma variedade de ações que podemos tomar em resposta a comportamento ou conteúdo inadequado. Geralmente depende das circunstâncias exatas de um caso particular. Reconhecemos que às vezes as pessoas podem dizer ou fazer coisas impróprias por vários motivos. Talvez eles não tenham percebido como suas palavras seriam percebidas. Ou talvez eles apenas deixem suas emoções tirar o melhor deles. Claro, às vezes, há pessoas que querem apenas enviar spam ou causar problemas.
 
@@ -122,20 +122,20 @@ As ações que podemos tomar em resposta a uma denúncia ou denúncia de abuso i
 
 Os moderadores da Comunidade do GitHub que não seguem nem aplicam o Código de Conduta de boa-fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança da Comunidade do GitHub.
 
-[Entrando em contato com a equipe do GitHub](#contacting-github-staff)
+[Entrando em contato com a equipe do GitHub](#our-responsibilities)
 ----------
 
 Se, por qualquer motivo, você quiser entrar em contato com a equipe do GitHub, os gerentes da comunidade, administradores ou moderadores da Comunidade do GitHub em particular, você poderá usar nosso [Formulário de contato de suporte](https://support.github.com/contact?tags=docs-community-support). Entrar em contato com qualquer membro da equipe do GitHub por meio de menções ou pings não solicitados, por outros canais que não a própria Comunidade do GitHub ou pelo formulário de contato de suporte, é algo totalmente desencorajado e pode ser considerado uma violação de nossa proibição contra assédio.
 
 Vamos trabalhar juntos para manter a Comunidade do GitHub um lugar no qual as pessoas se sintam seguras para participar, tendo respeito por elas e pelo tempo dedicado.
 
-[Noticias legais](#legal-notices)
+[Noticias legais](#contacting-github-staff)
 ----------
 
 Sim, o juridiquês é chato, mas devemos nos proteger – e, por extensão, você e seus dados – contra pessoas hostis. Nós temos [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service), que incluem as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e a [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement) descrevendo seu (e nosso) comportamento e direitos relacionados a conteúdo, privacidade e leis. Para usar este serviço, você deve concordar em cumprir os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service), [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e a [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
 
 Este Código de Conduta não modifica os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) — o que inclui as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) — e não pretende ser uma lista completa. O GitHub mantém total discrição segundo os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) para remover ou restringir quaisquer conteúdos ou contas por atividades que violem essas políticas, inclusive porque é ilícito, ofensivo, ameaçador, calunioso, difamatório, pornográfico, obsceno ou censurável ou viola a propriedade intelectual de qualquer parte ou dos nossos Termos de Serviço. Este Código de Conduta descreve quando exerceremos essa discrição.
 
-### [Retenção e exclusão de dados](#data-retention-and-deletion-of-data) ###
+### [Retenção e exclusão de dados](#legal-notices) ###
 
 Se você é um usuário do GitHub, você pode acessar, atualizar, alterar ou excluir suas informações básicas de perfil do usuário [editando seu perfil do usuário](https://github.com/settings/profile) ou entrando em contato com o [Suporte do GitHub](https://support.github.com/contact). Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver disputas e fazer cumprir nossos acordos, mas, salvo os requisitos legais, excluiremos seu perfil completo (dentro do razoável) dentro de 90 dias da sua solicitação. Para mais informações, confira a [Política de privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).

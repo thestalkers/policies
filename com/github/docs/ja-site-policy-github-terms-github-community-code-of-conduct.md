@@ -19,9 +19,9 @@ GitHub コミュニティの行動規範
 * [概要および目的](#overview-and-purpose)
 * [誓約](#pledge)
 * [標準](#standards)
-* [実施](#enforcement)
-* [GitHub スタッフへの連絡](#contacting-github-staff)
-* [法定通知](#legal-notices)
+* [実施](#reasonable-use-of-ai-generated-content)
+* [GitHub スタッフへの連絡](#our-responsibilities)
+* [法定通知](#contacting-github-staff)
 
 [概要および目的](#overview-and-purpose)
 ----------
@@ -98,16 +98,16 @@ GitHub の[利用規約](/ja/site-policy/github-terms/github-terms-of-service)�
 
 * **サービス条件への違反。** お客様の GitHub.com アカウントが[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)に違反していることが確認された場合、当社ではお客様のアカウントを閉鎖する必要があります。
 
-[実施](#enforcement)
+[実施](#reasonable-use-of-ai-generated-content)
 ----------
 
-### [GitHub コミュニティ参加者ができること\_\_](#what-github-community-participants-can-do) ###
+### [GitHub コミュニティ参加者ができること\_\_](#enforcement) ###
 
 * **問題を見つけた場合は、報告してください。** モデレーターは特別な権限を持ち、この GitHub コミュニティに対して責任があります。 しかし、あなたもコミュニティに責任を負っているのです。 あなたの助けがあってこそ、モデレーターは守衛や警察のように振る舞うだけでなく、コミュニティの進行役を努めることができます。
 
   悪意のある書き込みを見ても、返信しないでください。 その存在を認識することで、悪い振る舞いが促され、あなたを疲弊させ、みんなの時間を無駄にします。 混乱をもたらすユーザーまたは混乱をもたらすコンテンツを GitHub に報告できます。 詳しくは、「[悪用あるいはスパムをレポートする](/ja/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)」を参照してください。
 
-### [私たちの責任](#our-responsibilities) ###
+### [私たちの責任](#what-github-community-participants-can-do) ###
 
 不適切な行動やコンテンツの報告に対して当社が講じる措置はさまざまです。 通常、事態の正確な状況次第で決まります。 当社では、人はさまざまな理由で不適切な発言や行動をしてしまうことがあると認識しています。 自分の言葉がどのように受け取られるのかをわかっていなかったという場合もあるでしょう。 また、つい感情的になってしまったという場合もあるでしょう。 もちろん、単に迷惑メールをばらまいたり、トラブルを引き起こすことを目的とする人がいることも事実です。
 
@@ -122,20 +122,20 @@ GitHub の[利用規約](/ja/site-policy/github-terms/github-terms-of-service)�
 
 行動規範を誠実に遵守もしくは施行しない GitHub コミュニティ モデレーターは、GitHub コミュニティの幹部である他のメンバーによる裁定により、一時的または永久的な処分を受ける可能性があります。
 
-[GitHub スタッフへの連絡](#contacting-github-staff)
+[GitHub スタッフへの連絡](#our-responsibilities)
 ----------
 
 何らかの理由で、GitHub スタッフ、コミュニティ管理者、管理者、または GitHub コミュニティのモデレーターにプライベートで連絡したい場合は、[サポート連絡フォーム](https://support.github.com/contact?tags=docs-community-support)を使用できます。 一方的なメンションや ping を介して、または GitHub コミュニティ自体もしくはサポート連絡フォーム以外の手段で GitHub スタッフのメンバーに連絡することは極力お控えください。そうした行為は、ハラスメント禁止に対する違反と見なされる場合があります。
 
 お互いの存在と時間を尊重することにより、GitHub コミュニティを安心して参加できる場に保つよう協力しましょう。
 
-[法定通知](#legal-notices)
+[法定通知](#contacting-github-staff)
 ----------
 
 法律的な言葉は退屈なものですが、私たちは自分自身、その延長として皆さんやそのデータを、敵意ある人々から守る必要があります。 当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)には、[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)と、コンテンツ、プライバシー、および法律に関連するお客様 (と当社) の行動と権利が記載された[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)が含まれています。 このサービスを使用するには、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)、[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)、および[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に従うことに同意しなければなりません。
 
 この行動規範は、当社の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service) (当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)を含む) を変更するものではなく、また包括的なリストであることを意図したものではありません。 GitHub は、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)に基づいて、非合法、攻撃的、脅迫的、中傷、名誉毀損、ポルノ、わいせつ、その他不快なもの、他者の知的財産権や当社のサービス条件に違反するものであるなどの理由から、これらの規約に反する行為に対してあらゆるコンテンツまたはアカウントの削除または制限を実施できる、完全な裁量を保持します。 本行動規範は、かかる裁量を行使する場合について説明しています。
 
-### [データの保持と削除](#data-retention-and-deletion-of-data) ###
+### [データの保持と削除](#legal-notices) ###
 
 お客様が GitHub ユーザーである場合は、[ユーザー プロファイルを編集する](https://github.com/settings/profile)か、[GitHub サポート](https://support.github.com/contact)に連絡することによって、基本的なユーザー プロファイル情報へのアクセス、更新、変更、または削除を行うことができます。 当社は、当社の法的義務の遵守、紛争の解決、および当社の契約の履行のために、必要に応じてお客様の情報を保持して使用しますが、法的要件がない限り、当社はお客様の要求から 90 日以内にお客様のプロファイル全体を妥当な範囲で削除します。 詳細については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)を参照してください。

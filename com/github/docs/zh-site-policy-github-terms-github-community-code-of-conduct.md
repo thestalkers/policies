@@ -19,9 +19,9 @@ GitHub 社区行为准则
 * [概述和宗旨](#overview-and-purpose)
 * [承诺](#pledge)
 * [标准](#standards)
-* [执行](#enforcement)
-* [联系 GitHub 工作人员](#contacting-github-staff)
-* [法律声明](#legal-notices)
+* [执行](#reasonable-use-of-ai-generated-content)
+* [联系 GitHub 工作人员](#our-responsibilities)
+* [法律声明](#contacting-github-staff)
 
 [概述和宗旨](#overview-and-purpose)
 ----------
@@ -98,16 +98,16 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 * **违反服务条款。** 如果您的 GitHub.com 帐户被发现违反[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，我们将不得不关闭您的帐户。
 
-[执行](#enforcement)
+[执行](#reasonable-use-of-ai-generated-content)
 ----------
 
-### [GitHub 社区参与者可以做什么](#what-github-community-participants-can-do) ###
+### [GitHub 社区参与者可以做什么](#enforcement) ###
 
 * **发现问题请举报。** 版主拥有特殊权限；他们对本 GitHub 社区负责。 但这也是你们的责任。 在您的帮助下，版主可以成为社区的推动者，而不仅仅是“门卫”或“警察”。
 
   发现不良行为时，请勿回复。 回复会增加不良行为的存在感，浪费您的精力，也浪费大家的时间。 您可以向 GitHub 报告不良用户或不良内容。 有关详细信息，请参阅“[举报滥用或垃圾邮件](/zh/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)”。
 
-### [我们的职责](#our-responsibilities) ###
+### [我们的职责](#what-github-community-participants-can-do) ###
 
 针对不当行为或内容，我们可能会采取各种措施。 它通常取决于特定案例的确切情况。 我们知道，有时人们可能会出于各种原因而去说或去做一些不适当的事情。 也许他们并未意识到自己的言论会被如何解读。 或者他们只是想让自己的情绪得到宣泄。 当然，有时候，有些人只是想散发垃圾信息或存心捣乱。
 
@@ -122,20 +122,20 @@ GitHub 的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github
 
 GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 GitHub 社区其他领导成员决定的临时或永久性处罚。
 
-[联系 GitHub 工作人员](#contacting-github-staff)
+[联系 GitHub 工作人员](#our-responsibilities)
 ----------
 
 如果出于任何原因要私下联系 GitHub 社区的 GitHub 工作人员、社区管理员或版主，您可以使用我们的[支持联系表](https://support.github.com/contact?tags=docs-community-support)。 强烈建议不要通过未经请求的提及或 ping 或者通过 GitHub 社区或支持联系表以外的渠道联系任何 GitHub 工作人员，否则可能被视为违反我们禁止骚扰的规定。
 
 让我们共同努力，互相尊重并珍惜每个人的时间，使 GitHub 社区成为一个人们可以安心参与的环境。
 
-[法律声明](#legal-notices)
+[法律声明](#contacting-github-staff)
 ----------
 
 确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)（包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
 
 本行为准则不修改我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service) - 包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)），也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/zh/site-policy/github-terms/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
 
-### [数据保留和数据删除](#data-retention-and-deletion-of-data) ###
+### [数据保留和数据删除](#legal-notices) ###
 
 如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
