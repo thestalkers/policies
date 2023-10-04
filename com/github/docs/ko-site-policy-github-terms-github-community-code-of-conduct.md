@@ -19,9 +19,9 @@ GitHub 커뮤니티 준수 사항
 * [개요와 목적](#overview-and-purpose)
 * [서약](#pledge)
 * [표준](#standards)
-* [계약 이행](#reasonable-use-of-ai-generated-content)
-* [GitHub 직원에게 연락](#our-responsibilities)
-* [법적 고지 사항](#contacting-github-staff)
+* [계약 이행](#enforcement)
+* [GitHub 직원에게 연락](#contacting-github-staff)
+* [법적 고지 사항](#legal-notices)
 
 [개요와 목적](#overview-and-purpose)
 ----------
@@ -98,16 +98,30 @@ GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-servic
 
 * **서비스 약관 위반.** 귀하의 GitHub.com 계정이 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 위반하는 것으로 확인되면 GitHub는 귀하의 계정도 폐쇄해야 합니다.
 
-[계약 이행](#reasonable-use-of-ai-generated-content)
+### [*AI에서 생성한 콘텐츠의 합리적인 사용*](#reasonable-use-of-ai-generated-content) ###
+
+GitHub는 새로운 기술을 이용한 실험을 반기며, 특히 [GitHub Copilot](https://github.com/features/copilot)을 환영합니다. 그러나 모든 새로운 기술과 마찬가지로, 많은 사람이 생성형 AI 도구를 가장 효과적으로 사용하기 위해 여전히 적응해나가는 중입니다. 다음에서는 커뮤니티의 질문에 답변하기 위해 생성형 AI를 사용하는 경우 따라야 할 중요한 지침을 소개합니다.
+
+* 모든 게시물에 대해 개인적으로 책임을 져야 합니다.
+* 콘텐츠를 게시하기 전에 읽고 수정합니다. 사용자 고유의 음성을 사용합니다.
+* 개발자로서 전문 지식을 활용하여 유효하고 합리적인 답변인지 확인합니다.
+* AI에서 생성한 콘텐츠를 그대로 게시하여 평판을 부풀리거나 제품 전문가라는 잘못된 인상을 주지 않도록 합니다.
+* AI 도구는 종종 기술 지원 엔지니어와 같이 신뢰할 수 있는 톤으로 답변합니다. 이 신뢰할 수 있는 톤이 GitHub의 공식 응답을 받고 있는 것으로 [다른 사용자가 오해](/ko/site-policy/acceptable-use-policies/github-impersonation)하지 않도록 주의하세요.
+
+또한 이전 섹션([강력한 커뮤니티를 유지하기 위한 모범 사례](/ko/site-policy/github-terms/github-community-code-of-conduct#best-practices-for-maintaining-a-strong-community))에 나열된 모든 지침도 여기에 적용됩니다.
+
+커뮤니티는 사용자가 진실된 평판을 통해 신뢰를 구축하기 위해 존재합니다. 이러한 지침을 준수하지 않으면 경우에 따라 준수 사항을 위반할 수 있습니다. 자세한 내용은 아래 [계약 이행 섹션](#enforcement)을 참조하세요.
+
+[계약 이행](#enforcement)
 ----------
 
-### [*GitHub 커뮤니티 참가자가 할 수 있는 일*](#enforcement) ###
+### [*GitHub 커뮤니티 참가자가 할 수 있는 일*](#what-github-community-participants-can-do) ###
 
 * **문제가 보인다면 신고하세요.** 중재자에게는 특별한 권한이 있으며 이 GitHub 커뮤니티에 대한 책임이 있습니다. 물론 귀하도 마찬가지입니다. 귀하의 도움으로 중재자는 관리인이나 경찰뿐만 아니라 커뮤니티 진행자가 될 수도 있습니다.
 
   부정 행위가 보인다면 응하지 마십시오. 그렇지 않으면 부정 행위를 인정함으로써 오히려 이를 부추기고 에너지를 소진하며 모든 사람의 시간을 낭비하는 셈이 됩니다. 공격적인 사용자나 콘텐츠는 GitHub에 신고할 수 있습니다 자세한 내용은 "[남용 또는 스팸 보고](/ko/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"을 참조하세요.
 
-### [GitHub의 책임](#what-github-community-participants-can-do) ###
+### [GitHub의 책임](#our-responsibilities) ###
 
 GitHub는 부적절한 행위나 콘텐츠에 대해 다양한 조치를 취할 수 있습니다. 그 조치는 대체로 특정 사례의 정확한 상황에 따라 달라집니다. 우리는 때때로 사람들이 여러 가지 이유로 부적절한 것을 말하거나 부적절한 행동을 할 수 있다는 사실을 알고 있습니다. 아마도 그들은 자신이 내뱉은 말이 어떻게 받아들여질지 몰랐을 겁니다. 아니면 감정을 주체하지 못할 수도 있겠죠. 물론 때로는 단순히 스팸을 보내거나 문제를 일으키고 싶은 사람들이 있습니다.
 
@@ -122,20 +136,20 @@ GitHub는 부적절한 행위나 콘텐츠에 대해 다양한 조치를 취할 
 
 준수 사항을 신의에 따라 성실하게 준수하거나 이행하지 않는 GitHub 커뮤니티 중재자는 GitHub 커뮤니티 리더십의 다른 구성원이 결정한 대로 일시적 또는 영구적인 영향을 받을 수 있습니다.
 
-[GitHub 직원에게 연락](#our-responsibilities)
+[GitHub 직원에게 연락](#contacting-github-staff)
 ----------
 
 어떤 이유로든 GitHub 커뮤니티의 GitHub 직원, 커뮤니티 매니저, 관리자 또는 중재자에게 비공개로 연락하려면 [지원 문의 양식](https://support.github.com/contact?tags=docs-community-support)을 사용하시기 바랍니다. 원치 않는 멘션이나 핑, GitHub 커뮤니티 자체가 아닌 다른 채널, 또는 지원 문의 양식을 통해 GitHub 직원에게 연락하는 것은 결코 권장하지 않으며 GitHub의 괴롭힘 금지 규정을 위반하는 것으로 간주될 수 있습니다.
 
 GitHub 커뮤니티를 사람들이 자신과 시간을 존중하여 안심하고 참여할 수 있는 곳으로 유지하기 위해 함께 노력합시다.
 
-[법적 고지 사항](#contacting-github-staff)
+[법적 고지 사항](#legal-notices)
 ----------
 
 난해한 법률 용어는 지루하지만 GitHub는 불친절한 사람들로부터 우리 자신을 보호해야 하며, 더 나아가 귀하 자신과 귀하의 데이터를 보호해야 합니다. GitHub는 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 명시하고 있으며 여기에는 당사의 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)과 함께, 콘텐츠, 개인정보보호 및 법률과 관련된 귀하(및 당사)의 행동과 권리를 설명하는 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)도 포함됩니다. 이 서비스를 이용하려면 GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service), [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)과 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 각각 동의해야 합니다.
 
 이 준수 사항은 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)을 포함해 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 수정하지 않으며, 전체 목록을 제시한 것이 아닙니다. [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)에 따라 GitHub는 불법, 모욕, 위협, 비방, 명예 훼손, 포르노, 외설에 해당하거나, 그 밖의 불쾌감을 주거나, 당사자의 지적 재산권이나 서비스 약관을 위반하는 등 이러한 정책을 위반하는 활동에 대해 콘텐츠 또는 계정을 제거하거나 제한할 수 있는 전적인 재량권이 있습니다. 이 준수 사항은 GitHub가 그러한 재량권을 언제 행사하는지 설명합니다.
 
-### [데이터의 보존 및 삭제](#legal-notices) ###
+### [데이터의 보존 및 삭제](#data-retention-and-deletion-of-data) ###
 
 귀하가 이미 GitHub 사용자라면 [사용자 프로필을 편집](https://github.com/settings/profile)하거나 [GitHub 지원](https://support.github.com/contact)에 문의하여 귀하의 기본 사용자 프로필 정보에 액세스하고 동 정보를 업데이트, 변경 또는 삭제할 수 있습니다. GitHub는 당사의 법적 의무를 준수하고 분쟁을 해결하며 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유하고 사용할 것이며, 다만 법적 요구 사항을 제외하면 귀하의 요청 후 90일 이내에 귀하의 전체 프로필을 (합당한 범위 내에서) 삭제할 것입니다. 자세한 내용은 “[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)”을 참조하세요.
