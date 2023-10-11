@@ -374,7 +374,7 @@ GitHub 可能会出于各种原因不时更改本隐私声明，包括为了遵�
 
 ### [法语](#french) ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf)
 
 ### [其他翻译版本](#other-translations) ###
 

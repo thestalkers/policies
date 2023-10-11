@@ -22,7 +22,7 @@ GitHub 약관
 
 * [GitHub 커뮤니티 준수 사항](/ko/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Copilot Pre-release License Terms](/ko/site-policy/github-terms/github-copilot-pre-release-license-terms)
+* [GitHub Copilot 시험판 사용 조건](/ko/site-policy/github-terms/github-copilot-pre-release-license-terms)
 
 * [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 
