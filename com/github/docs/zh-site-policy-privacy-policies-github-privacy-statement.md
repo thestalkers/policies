@@ -28,12 +28,12 @@ GitHub 隐私声明
 * [我们对 Cookie 和跟踪技术的使用](#our-use-of-cookies-and-tracking-technologies)
 * [个人数据的保留](#retention-of-personal-data)
 * [GitHub 如何保护您的信息](#how-github-secures-your-information)
-* [隐私声明更改](#changes-to-our-privacy-statement)
-* [许可](#license)
-* [联系 GitHub](#contacting-github)
-* [翻译版本](#translations)
-* [欧洲数据保护权利声明](#european-data-protection-rights-notice)
-* [美国州数据隐私](#us-state-data-privacy)
+* [隐私声明更改](#dispute-resolution-process)
+* [许可](#government-enforcement)
+* [联系 GitHub](#changes-to-our-privacy-statement)
+* [翻译版本](#license)
+* [欧洲数据保护权利声明](#french)
+* [美国州数据隐私](#other-translations)
 
 生效日期：2022 年 12 月 15 日
 
@@ -332,7 +332,7 @@ GitHub 可能会在您所在的地区、美国以及 GitHub 或其关联公司�
 
 我们将个人数据从欧盟、英国和瑞士传输到其他国家/地区，其中一些国家/地区尚未达到欧盟委员会确定的数据保护水平。 例如，这些国家/地区的法律可能无法保证您享有相同的权利，或者可能没有能够处理您的投诉的隐私监督机构。 当我们进行此类传输时，我们会使用合同等各种法律机制（例如欧盟委员会根据委员会执行决定 2021/914 发布的标准合同条款），在数据传输中帮助保障您的权利和保护您的数据。 您可以使用下面标题为“联系 GitHub”的部分中提供的联系方式索取标准合同条款的副本。
 
-### [如何联系我们](#how-to-contact-us) ###
+### [如何联系我们](#data-privacy-framework-dpf) ###
 
 如果您对隐私有疑问或对 GitHub 处理您的个人数据的方式有疑虑，请立即告知我们。 我们希望能够帮助到您。 您可以通过填写[隐私联系表](https://support.github.com/contact/privacy)来联系我们。 我们会及时答复。
 
@@ -347,40 +347,40 @@ United States
 
 [隐私联系表](https://support.github.com/contact/privacy)
 
-### [争议解决流程](#dispute-resolution-process) ###
+### [争议解决流程](#how-to-contact-us) ###
 
 尽管这种情况极少发生，但如果您与 GitHub 就我们处理您的个人数据的方式产生争议，请直接发送电子邮件至 ([privacy@github.com](mailto:privacy@github.com))，并在主题行中标明“隐私问题”。 我们会及时答复，并将尽最大努力解决争议。
 此外，您可能有权向当地数据保护、隐私机构或监管机构提出投诉。
 
-[隐私声明更改](#changes-to-our-privacy-statement)
+[隐私声明更改](#dispute-resolution-process)
 ----------
 
 GitHub 可能会出于各种原因不时更改本隐私声明，包括为了遵守新的法律和法规、涵盖新特性和功能以及提高透明度。 如果本隐私声明出现重大变更，我们将在变更生效前至少 30 天在我们的网站上发布通知（具体方式是在网站主页上发布公告），或者发送电子邮件至在您的 GitHub 帐户中指定的主要电子邮件地址。 我们还会更新我们的[站点政策存储库](https://github.com/github/site-policy/)，该存储库将记录本政策的所有更改。 有关本隐私声明的其他更改，我们建议用户关注或经常查看我们的站点政策存储库。 若要了解如何监视存储库，请参阅“[配置通知](/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)”。
 
-[许可](#license)
+[许可](#government-enforcement)
 ----------
 
 本隐私声明根据本[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)获得许可。 有关更多信息，请参阅我们的 [站点政策存储库](https://github.com/github/site-policy#license)。
 
-[联系 GitHub](#contacting-github)
+[联系 GitHub](#changes-to-our-privacy-statement)
 ----------
 
 有关我们的隐私声明或信息实践的问题，请转至我们的[隐私联系表](https://support.github.com/contact/privacy)。
 
-[翻译版本](#translations)
+[翻译版本](#license)
 ----------
 
 以下是本文档其他语言的翻译版本。 如果其中任何版本与英语版本之间存在任何冲突、不确定或明显的不一致，以本英语版本为准。
 
-### [法语](#french) ###
+### [法语](#contacting-github) ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf)
 
-### [其他翻译版本](#other-translations) ###
+### [其他翻译版本](#translations) ###
 
 如需获取本声明的其他语言翻译版本，请访问 [https://docs.github.com/](/zh)，并在下拉菜单中选择位于“English”（英语）下方的某种语言。
 
-[欧洲数据保护权利声明](#european-data-protection-rights-notice)
+[欧洲数据保护权利声明](#french)
 ----------
 
 如果您在欧洲经济区，我们会根据适用法律处理您的个人数据，并且有关您的个人数据的处理受欧盟数据保护法的约束，而您对该数据拥有某些权利：
@@ -391,7 +391,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 我们依赖不同的合法依据来收集和处理关于您的个人数据，例如在您同意和/或在必要时提供您使用的服务、运营我们的业务、履行我们的合同和法律义务、保护我们系统和我们客户的安全或满足其他合法利益。
 
-[美国州数据隐私](#us-state-data-privacy)
+[美国州数据隐私](#other-translations)
 ----------
 
 如果您是美国居民，我们会根据适用的美国州数据隐私法（包括《加州消费者隐私法》[CCPA]）处理您的个人数据。 我们隐私声明的这一部分包含 CCPA 和其他美国州数据隐私法要求的信息，是对我们的隐私声明的补充。
@@ -418,7 +418,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，[请提交隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/request)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
 
-### [我们对个人信息的处理](#our-handling-of-personal-information) ###
+### [我们对个人信息的处理](#european-data-protection-rights-notice) ###
 
 下表包含我们收集的个人信息的类别、处理个人信息的目的以及与之共享个人信息的第三方接收人的类别的相关信息。 如需了解完整详细信息，请参阅 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)，其中包括每个类别所含数据的说明。
 

@@ -28,12 +28,12 @@ Dans cet article
 * [Notre utilisation des cookies et des technologies de suivi](#our-use-of-cookies-and-tracking-technologies)
 * [Rétention des données personnelles](#retention-of-personal-data)
 * [Comment GitHub sécurise vos informations ?](#how-github-secures-your-information)
-* [Modifications de notre Déclaration de confidentialité](#changes-to-our-privacy-statement)
-* [Licence](#license)
-* [Contacter GitHub](#contacting-github)
-* [Traductions](#translations)
-* [Notification concernant les droits de l’UE en matière de protection des données](#european-data-protection-rights-notice)
-* [Confidentialité des données dans les États des États-Unis](#us-state-data-privacy)
+* [Modifications de notre Déclaration de confidentialité](#dispute-resolution-process)
+* [Licence](#government-enforcement)
+* [Contacter GitHub](#changes-to-our-privacy-statement)
+* [Traductions](#license)
+* [Notification concernant les droits de l’UE en matière de protection des données](#french)
+* [Confidentialité des données dans les États des États-Unis](#other-translations)
 
 Date d’entrée en vigueur : 15 décembre 2022
 
@@ -332,7 +332,7 @@ GitHub se réserve le droit de stocker et traiter vos données personnelles dans
 
 Nous transférons des données personnelles issues de l’Union européenne, du Royaume-Uni et de Suisse vers d’autres pays, dont certains n’ont pas encore été reconnus par la Commission européenne comme offrant un niveau de protection adéquat des données. Par exemple, leurs lois peuvent ne pas vous garantir les mêmes droits, ou il est possible qu’il n’y ait pas d’autorité de contrôle en matière de protection des données personnelles capable de traiter vos plaintes. Lorsque nous procédons à de tels transferts, nous utilisons divers mécanismes juridiques, y compris des contrats, tels que les clauses contractuelles types publiées par la Commission européenne en vertu de la décision d’exécution 2021/914 de la Commission, pour protéger vos droits et permettre à ces protections de transiter avec vos données. Vous pouvez demander une copie des Clauses Contractuelles Types en utilisant les coordonnées fournies dans la section intitulée « Contacter GitHub » ci-dessous.
 
-### [Comment nous contacter](#how-to-contact-us) ###
+### [Comment nous contacter](#data-privacy-framework-dpf) ###
 
 Si vous avez une demande concernant la confidentialité ou des doutes sur la manière dont GitHub traite vos données personnelles, n’hésitez pas à nous en faire part immédiatement. Nous voulons aider. Vous pouvez nous contacter en remplissant le [formulaire de contact pour la confidentialité](https://support.github.com/contact/privacy). Nous vous répondrons rapidement.
 
@@ -347,40 +347,40 @@ San Francisco, Californie 94107
 
 [Formulaire de contact sur la confidentialité](https://support.github.com/contact/privacy)
 
-### [Processus de règlement des différends](#dispute-resolution-process) ###
+### [Processus de règlement des différends](#how-to-contact-us) ###
 
 Dans le cas peu probable où un litige se produit entre vous et GitHub concernant notre gestion de vos données personnelles, veuillez nous envoyer un e-mail directement à l’adresse (privacy [arobase] github [point] com) avec l’objet « Privacy Concerns » (Préoccupations au sujet de la confidentialité). Nous répondrons rapidement et ferons de notre mieux pour résoudre le litige.
 En outre, vous avez le droit de déposer une plainte auprès de votre agence locale de protection des données ou de confidentialité ou d’une autorité de contrôle.
 
-[Modifications de notre Déclaration de confidentialité](#changes-to-our-privacy-statement)
+[Modifications de notre Déclaration de confidentialité](#dispute-resolution-process)
 ----------
 
 GitHub peut modifier cette Déclaration de confidentialité de temps à autre pour diverses raisons, notamment pour se conformer aux nouvelles lois et réglementations, pour couvrir les nouvelles fonctionnalités et pour accroître la transparence. Nous informerons les utilisateurs des modifications importantes apportées à la présente Déclaration de Confidentialité par l’intermédiaire de notre Site Web au moins 30 jours avant l’entrée en vigueur de la modification en publiant un avis sur notre page d’accueil ou en envoyant un e-mail à l’adresse e-mail principale indiquée dans votre compte GitHub. Nous mettrons également à jour notre [référentiel sur les stratégies du site](https://github.com/github/site-policy/), qui suit toutes les modifications apportées à la présente stratégie. Pour toute autre modification de la présente Déclaration de Confidentialité, nous encourageons les utilisateurs à surveiller ou à consulter fréquemment le référentiel sur les stratégies du site. Pour savoir comment surveiller un référentiel, consultez « [Configuration des notifications](/fr/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository) ».
 
-[Licence](#license)
+[Licence](#government-enforcement)
 ----------
 
 La présente Déclaration de Confidentialité est régie par la licence [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
-[Contacter GitHub](#contacting-github)
+[Contacter GitHub](#changes-to-our-privacy-statement)
 ----------
 
 Les questions concernant la Déclaration de Confidentialité ou les pratiques d’information de GitHub doivent être adressées à notre [formulaire de contact pour la confidentialité](https://support.github.com/contact/privacy).
 
-[Traductions](#translations)
+[Traductions](#license)
 ----------
 
 Vous trouverez ci-dessous les traductions de ce document dans d'autres langues. En cas de conflit, d'incertitude ou d'incohérence apparente entre l'une de ces versions et la version anglaise, cette version anglaise fait foi.
 
-### [Français](#french) ###
+### [Français](#contacting-github) ###
 
 Cliquez ici pour obtenir la version française : [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf)
 
-### [Autres traductions](#other-translations) ###
+### [Autres traductions](#translations) ###
 
 Pour les traductions de cette déclaration dans d’autres langues, rendez-vous sur [https://docs.github.com/](/fr) et sélectionnez une langue dans le menu déroulant sous « English ».
 
-[Notification concernant les droits de l’UE en matière de protection des données](#european-data-protection-rights-notice)
+[Notification concernant les droits de l’UE en matière de protection des données](#french)
 ----------
 
 Si vous résidez dans l’Espace économique européen, nous traitons vos données personnelles conformément aux réglementations applicables, et le traitement des données personnelles vous concernant est soumis à la législation de l’Union européenne sur la protection des données. Vous disposez par ailleurs de certains droits en ce qui concerne ces données :
@@ -391,7 +391,7 @@ Pour effectuer de telles demandes, veuillez utiliser les informations de contact
 
 Nous nous appuyons sur différentes bases légales pour collecter et traiter les données personnelles vous concernant, par exemple, avec votre consentement et/ou si nécessaire pour fournir les services que vous utilisez, exploiter notre entreprise, respecter nos obligations contractuelles et légales, protéger la sécurité de nos systèmes et de nos clients, ou remplir d’autres intérêts légitimes.
 
-[Confidentialité des données dans les États des États-Unis](#us-state-data-privacy)
+[Confidentialité des données dans les États des États-Unis](#other-translations)
 ----------
 
 Si vous êtes un résident des États-Unis, nous traitons vos données personnelles conformément aux réglementations applicables en matière de confidentialité des données dans les différents États des États-Unis, y compris la loi californienne sur la protection de la vie privée des consommateurs (CCPA, California Consumer Privacy Act). Cette section de notre Déclaration de confidentialité contient des informations requises par la réglementation CCPA et d’autres lois sur la confidentialité des données au sein des États des États-Unis et complète notre Déclaration de confidentialité.
@@ -418,7 +418,7 @@ En outre, en vertu de l’Article 1798.83 du code civil de Californie, égaleme
 
 Les résidents de Californie âgés de moins de 18 ans qui sont des utilisateurs enregistrés de sites, de services ou d’applications en ligne ont le droit, en vertu de la section 22581 du Code des affaires et des professions de Californie, de supprimer, ou de demander et d’obtenir la suppression du contenu ou des informations qu’ils ont publiés. Pour supprimer un contenu ou des informations que vous avez publiés, [veuillez soumettre une demande de suppression d’informations privées](https://support.github.com/contact/private-information). Sinon, pour nous demander de supprimer ce contenu ou ces informations, veuillez envoyer à l’[Assistance GitHub](https://support.github.com/request) une description détaillée du contenu ou des informations spécifiques que vous souhaitez faire supprimer. Sachez que votre demande ne garantit pas le retrait complet ou exhaustif du contenu ou des informations mis en ligne et que la loi peut ne pas autoriser ou exiger le retrait dans certaines circonstances. Si vous avez des questions concernant nos pratiques en matière de confidentialité à l’égard des résidents de Californie, veuillez nous contacter via notre [formulaire de contact](https://support.github.com/request?tags=docs-policy).
 
-### [Notre traitement des informations personnelles](#our-handling-of-personal-information) ###
+### [Notre traitement des informations personnelles](#european-data-protection-rights-notice) ###
 
 Le tableau ci-dessous contient des informations sur les catégories d’informations personnelles que nous recueillons, nos objectifs de traitement et les catégories de destinataires tiers avec lesquels nous partageons les informations personnelles. Pour plus d’informations, y compris une description des données incluses dans chaque catégorie, consultez la [Déclaration de confidentialité de GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
 

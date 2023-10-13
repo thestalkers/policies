@@ -28,12 +28,12 @@ GitHub のプライバシー ステートメント|プライバシーに関す�
 * [弊社による Cookie の使用とトラッキング技術](#our-use-of-cookies-and-tracking-technologies)
 * [個人データの保持](#retention-of-personal-data)
 * [GitHub のお客様情報の保護方法](#how-github-secures-your-information)
-* [プライバシーに関する声明の変更](#changes-to-our-privacy-statement)
-* [ライセンス](#license)
-* [GitHub への問い合わせ](#contacting-github)
-* [翻訳](#translations)
-* [欧州のデータ保護の権利に関する通知](#european-data-protection-rights-notice)
-* [米国州のデータのプライバシー](#us-state-data-privacy)
+* [プライバシーに関する声明の変更](#dispute-resolution-process)
+* [ライセンス](#government-enforcement)
+* [GitHub への問い合わせ](#changes-to-our-privacy-statement)
+* [翻訳](#license)
+* [欧州のデータ保護の権利に関する通知](#french)
+* [米国州のデータのプライバシー](#other-translations)
 
 発効日: 2022 年 12 月 15 日
 
@@ -332,7 +332,7 @@ GitHub は、お住まいの地域、米国、および GitHub またはその�
 
 弊社では、個人データを欧州連合、英国、およびスイスから他の国に転送しますが、その中には、データ保護のレベルが適正であると欧州委員会で認められていない国もあります。 たとえば、そのような国の法律では同じ権利が保障されていない場合や、苦情を処理できるようなプライバシー監督機関が存在しない場合があります。 弊社はこのような転送を行う場合、お客様の権利を保護し、これらの保護をお客様のデータと共に移動できるように、Commission Implementing Decision 2021/914 に基づいて欧州委員会が発行した標準契約条項などの契約を含むさまざまな法的メカニズムを使用します。 標準契約条項のコピーは、下記の「GitHub への問い合わせ」のセクションに記載されている連絡先を使って要求することができます。
 
-### [お問い合わせ](#how-to-contact-us) ###
+### [お問い合わせ](#data-privacy-framework-dpf) ###
 
 GitHub によるお客様の個人データの取り扱い方法について懸念がある場合は、弊社に直ちにお知らせください。 弊社が対応いたします。 弊社にお問い合わせの際は、[プライバシー連絡フォーム](https://support.github.com/contact/privacy)に記入してください。 速やかに対応いたします。
 
@@ -347,40 +347,40 @@ San Francisco, CA 94107
 
 [プライバシーに関するお問い合わせフォーム](https://support.github.com/contact/privacy)
 
-### [紛争解決プロセス](#dispute-resolution-process) ###
+### [紛争解決プロセス](#how-to-contact-us) ###
 
 お客様の個人データの取り扱いに関してお客様と GitHub の間で万が一紛争が発生した場合、当社 ([privacy@github.com](mailto:privacy@github.com)) に直接メールでお問い合わせください。件名は「プライバシーに関する問題」です。 弊社は速やかに対応し、紛争の解決に最善を尽くします。
 さらに、お客様は、お客様の地域のデータ保護機関、またはプライバシー機関あるいは監督当局に苦情を申し立てる権利を有する可能性があります。
 
-[プライバシーに関する声明の変更](#changes-to-our-privacy-statement)
+[プライバシーに関する声明の変更](#dispute-resolution-process)
 ----------
 
 GitHub は、新しい法律や規制への準拠、新機能の説明、透明性の向上など、さまざまな理由で本プライバシーに関する声明を随時変更する場合があります。 本プライバシーに関する声明の重大な変更については、変更が有効になる 30 日前までに、弊社ホーム ページ上に通知を掲載するか、お客様の GitHub アカウントで指定されたプライマリ メール アドレスにメールを送信することにより、通知します。 弊社は、本ポリシーへのあらゆる変更点を追跡する、[サイト ポリシー リポジトリ](https://github.com/github/site-policy/)も更新します。 本プライバシーに関する声明のその他の変更については、サイト ポリシー リポジトリを参照するか、頻繁に確認することをお勧めします。 レジストリを確認する方法については、「[通知を設定する](/ja/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)」を参照してください。
 
-[ライセンス](#license)
+[ライセンス](#government-enforcement)
 ----------
 
 本プライバシーに関する声明は、本[クリエイティブ コモンズ ゼロ ライセンス](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンスされています。 詳細については、[サイト ポリシー リポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
-[GitHub への問い合わせ](#contacting-github)
+[GitHub への問い合わせ](#changes-to-our-privacy-statement)
 ----------
 
 GitHub のプライバシーに関する声明や情報処理規定に関する質問については、[プライバシー連絡フォーム](https://support.github.com/contact/privacy)に直接連絡してください。
 
-[翻訳](#translations)
+[翻訳](#license)
 ----------
 
 このドキュメントは、次の他の言語に翻訳されています。 これらのバージョンと英語版の間で矛盾、不明瞭さ、明らかな不一致が生じた場合は、本英語版が優先して適用されます。
 
-### [フランス語](#french) ###
+### [フランス語](#contacting-github) ###
 
 GitHub のプライバシーに関する声明 (PDF) のフランス語版は、[こちら](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)をクリックしてください。
 
-### [他の翻訳](#other-translations) ###
+### [他の翻訳](#translations) ###
 
 本声明の他の言語への翻訳については、[https://docs.github.com/](/ja) にアクセスし、[English] の下にあるドロップダウン メニューから言語を選択してください。
 
-[欧州のデータ保護の権利に関する通知](#european-data-protection-rights-notice)
+[欧州のデータ保護の権利に関する通知](#french)
 ----------
 
 お客様が欧州経済地域内にいる場合、弊社は適用される法令に従ってお客様の個人データを処理し、お客様に関する個人データの処理は欧州連合のデータ保護法の対象となり、お客様はそのデータに関して一定の権利を有します。
@@ -391,7 +391,7 @@ GitHub のプライバシーに関する声明 (PDF) のフランス語版は、
 
 弊社は、お客様の個人データの収集や処理に際してさまざまな法的根拠に依拠します。たとえば、お客様の同意を得ること、および/または、お客様が利用するサービスの提供、当社の事業の運営、契約上および法律上の義務の充足、当社のシステムおよびお客様のセキュリティの保護、その他の正当な利益の履行に必要であることなどです。
 
-[米国州のデータのプライバシー](#us-state-data-privacy)
+[米国州のデータのプライバシー](#other-translations)
 ----------
 
 お客様が米国在住の場合、弊社は、カリフォルニア州消費者プライバシー法 (CCPA) など、適用されるデータのプライバシーに関する米国州法に従って、お客様の個人データを処理します。 プライバシーに関する声明のこのセクションには、CCPA およびその他のデータのプライバシーに関する米国州法と弊社のプライバシーに関する声明の補遺で定められている情報が含まれます。
@@ -418,7 +418,7 @@ GitHub アカウントをお持ちの場合は、提供されているツール�
 
 オンライン サイト、サービス、アプリケーションの登録ユーザーである 18 歳未満のカリフォルニア州住民は、カリフォルニア州ビジネス・プロフェッションコード 22581 に基づき、公開したコンテンツまたは情報を削除する、または削除を要求し獲得する権利を有します。 お客様が公開したコンテンツまたは情報を削除するには、[個人情報削除要求](https://support.github.com/contact/private-information)を提出してください。 または、そのようなコンテンツや情報の削除を要求するために、[GitHub サポート](https://support.github.com/request)宛に削除を希望するコンテンツや情報の詳細を送信してください。 お客様の要求は、オンラインに投稿されたコンテンツや情報の完全または包括的な削除を保証するものではなく、特定の状況下では法律が削除を許可または要求しない場合があることをご承知おきください。 カリフォルニアにお住まいの方に関する弊社のプライバシーへの取り組みについてご質問がある場合は、[連絡フォーム](https://support.github.com/request?tags=docs-policy)よりご連絡ください。
 
-### [弊社の個人情報の取り扱い](#our-handling-of-personal-information) ###
+### [弊社の個人情報の取り扱い](#european-data-protection-rights-notice) ###
 
 次の表には、弊社が収集する個人情報のカテゴリ、当社の処理の目的、および弊社が個人情報を共有する第三者受信者のカテゴリに関する情報が含まれています。 各カテゴリに含まれるデータの説明など、詳細については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)を参照してください。
 

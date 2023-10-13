@@ -28,12 +28,12 @@ GitHub 개인정보취급방침
 * [당사의 쿠키 사용 및 추적 기술](#our-use-of-cookies-and-tracking-technologies)
 * [개인 데이터의 보관](#retention-of-personal-data)
 * [GitHub가 귀하의 정보를 보호하는 방법](#how-github-secures-your-information)
-* [GitHub 개인정보처리방침 변경 사항](#changes-to-our-privacy-statement)
-* [사용권](#license)
-* [GitHub에 문의](#contacting-github)
-* [번역](#translations)
-* [유럽 데이터 보호 권한 공지](#european-data-protection-rights-notice)
-* [미국 주 데이터 개인 정보](#us-state-data-privacy)
+* [GitHub 개인정보처리방침 변경 사항](#dispute-resolution-process)
+* [사용권](#government-enforcement)
+* [GitHub에 문의](#changes-to-our-privacy-statement)
+* [번역](#license)
+* [유럽 데이터 보호 권한 공지](#french)
+* [미국 주 데이터 개인 정보](#other-translations)
 
 발효일: 2022년 12월 15일
 
@@ -332,7 +332,7 @@ GitHub는 귀하의 지역, 미국 및 GitHub 또는 해당 계열사, 자회사
 
 우리는 유럽 연합, 영국 및 스위스에서 다른 국가로 개인 데이터를 전송하며, 그 중 일부는 아직 유럽 위원회에 의해 적절한 수준의 데이터 보호를 받도록 결정되지 않았습니다. 예를 들어, 해당 법률은 귀하에게 동일한 권리를 보장하지 않을 수도 있고, 불만 사항을 해결할 수 있는 개인 정보 보호 감독 기관이 없을 수도 있습니다. Microsoft는 이러한 양도에 관여할 때 귀하의 권리를 보호하고 이러한 보호가 귀하의 데이터와 함께 여행할 수 있도록 하기 위해 2021/914 위원회 구현 위원회에 의해 게시된 표준 계약 조항과 같은 계약을 포함한 다양한 법적 메커니즘을 사용합니다. 아래 “GitHub에 문의하기” 섹션에 제시된 세부 정보를 사용하여 표준 계약 조항의 사본을 요청할 수 있습니다.
 
-### [문의 방법](#how-to-contact-us) ###
+### [문의 방법](#data-privacy-framework-dpf) ###
 
 GitHub가 개인 데이터를 처리하는 방식에 대한 개인 정보 조회 또는 우려가 있는 경우 즉시 알려주세요. GitHub는 여러분에게 필요한 도움을 드리고 싶습니다. [개인 정보 보호 문의 양식](https://support.github.com/contact/privacy)을 작성하여 문의하시면 됩니다. 즉시 응답할 것입니다.
 
@@ -357,40 +357,40 @@ CC: GitHub BV, Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands
 
 [개인 정보 연락처 양식](https://support.github.com/contact/privacy)
 
-### [분쟁 해결 절차](#dispute-resolution-process) ###
+### [분쟁 해결 절차](#how-to-contact-us) ###
 
 귀하의 개인 데이터 처리와 관련하여 귀하와 GitHub 간에 분쟁이 발생하는 경우 "개인 정보 보호 문제"라는 제목으로 (개인 정보 보호 [at] github [dot] com)에 직접 이메일을 보내주세요. 우리는 신속하게 대응하고 분쟁을 resolve 위해 최선을 다할 것입니다.
 또한 귀하는 현지 데이터 보호 또는 개인 정보 보호 기관 또는 감독 기관에 불만을 제기할 권리가 있습니다.
 
-[GitHub 개인정보처리방침 변경 사항](#changes-to-our-privacy-statement)
+[GitHub 개인정보처리방침 변경 사항](#dispute-resolution-process)
 ----------
 
 GitHub는 새로운 법률 및 규정을 준수하고, 새로운 기능과 기능을 다루고, 투명성을 높이는 등 다양한 이유로 이 개인정보처리방침을 수시로 변경할 수 있습니다. Microsoft는 홈페이지에 알림을 게시하거나 GitHub 계정에 지정된 기본 메일 주소 전자 메일을 전송하여 변경이 적용되기 최소 30일 전에 웹 사이트를 통해 본 개인정보처리방침에 대한 중대한 변경 사항을 통지합니다. 또한 당사는 이 방침의 모든 변경 사항을 추적하는 당사의 [사이트 정책 리포지토리](https://github.com/github/site-policy/)도 업데이트할 것입니다. 이 개인정보취급방침에 대한 그 밖의 변경 사항을 알고 싶다면 GitHub 사이트 정책 리포지토리를 주시하거나 자주 확인하시기 바랍니다. 리포지토리를 watch 방법을 알아보려면 "[알림 구성](/ko/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository).
 
-[사용권](#license)
+[사용권](#government-enforcement)
 ----------
 
 본 개인정보취급방침은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하세요.
 
-[GitHub에 문의](#contacting-github)
+[GitHub에 문의](#changes-to-our-privacy-statement)
 ----------
 
 GitHub의 개인정보취급방침 또는 정보 관례에 관한 궁금한 사항은 당사의 [개인 정보 보호 문의 양식](https://support.github.com/contact/privacy)으로 문의하시기 바랍니다.
 
-[번역](#translations)
+[번역](#license)
 ----------
 
 본 문서를 다른 언어로 번역한 자료는 아래와 같습니다. 이러한 번역본과 영문 원본 간에 내용상의 상충, 불확실성 또는 명백한 불일치가 있는 경우, 이 영문 원본이 우선합니다.
 
-### [프랑스어/French](#french) ###
+### [프랑스어/French](#contacting-github) ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
-### [기타 번역본](#other-translations) ###
+### [기타 번역본](#translations) ###
 
 본 방침을 다른 언어로 번역한 자료를 확인하려면 [https://docs.github.com/](/ko)을 방문하여 "영어" 아래의 드롭다운 메뉴에서 해당 언어를 선택하세요.
 
-[유럽 데이터 보호 권한 공지](#european-data-protection-rights-notice)
+[유럽 데이터 보호 권한 공지](#french)
 ----------
 
 귀하가 유럽 경제 지역에 있는 경우, 당사는 관련 법률에 따라 귀하의 개인 데이터를 처리하며, 귀하에 대한 개인 데이터의 처리는 유럽 연합 데이터 보호법의 적용을 받으며, 귀하는 해당 데이터에 대한 특정 권리를 가집니다.
@@ -401,7 +401,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 당사는 귀하에 관한 개인 데이터의 수집 및 처리를 위해 다양한 법적 근거에 의존합니다. 예를 들어, 귀하의 동의 얻기 및/또는 귀하가 사용하는 서비스 제공, 당사의 비즈니스 운영, 당사의 계약 및 법적 의무 충족, 당사의 시스템 및 고객의 보안 보호 또는 기타 정당한 이익 실현 등을 위해 필요하다는 근거입니다.
 
-[미국 주 데이터 개인 정보](#us-state-data-privacy)
+[미국 주 데이터 개인 정보](#other-translations)
 ----------
 
 귀하가 미국 거주자인 경우, 당사는 캘리포니아 소비자 개인 정보 보호법(CCPA)을 비롯한 해당 미국 주 데이터 개인 정보 보호법에 따라 귀하의 개인 데이터를 처리합니다. 개인정보처리방침의 이 섹션에는 CCPA 및 기타 미국 주 데이터 개인 정보 보호법에서 요구하는 정보가 포함되어 있으며 개인정보처리방침을 보완합니다.
@@ -428,7 +428,7 @@ GitHub 계정이 있는 경우 제공된 도구를 통해 권한을 행사해야
 
 온라인 사이트, 서비스, 또는 애플리케이션에 등록된 18세 미만의 캘리포니아 거주자는 캘리포니아 업무/직업규범 섹션 22581에 따라 자신이 공개적으로 게시한 콘텐츠 또는 정보를 제거하거나 제거를 요청하여 획득할 권리가 있습니다. 공개적으로 게시한 콘텐츠 또는 정보를 제거하려면 [개인 정보 제거 요청을](https://support.github.com/contact/private-information) 제출하세요. 또는 해당 콘텐츠 또는 정보를 당사가 제거하도록 요청하기 위해 삭제하려는 구체적인 콘텐츠 또는 정보의 자세한 설명을 [GitHub 지원](https://support.github.com/request)으로 보내주시기 바랍니다. 귀하의 요청에도 온라인에 게시된 콘텐츠 또는 정보의 완전하거나 포괄적인 삭제가 보장되지는 않으며 특정 상황에서는 법률에서 제거를 허용 또는 요구하지 않을 수도 있음을 유의하시기 바랍니다. 캘리포니아 거주자와 관련한 당사의 개인정보 보호 관행에 질문이 있는 경우 당사의 [문의 양식](https://support.github.com/request?tags=docs-policy)을 통해 문의하시기 바랍니다.
 
-### [GitHub의 개인 정보 취급](#our-handling-of-personal-information) ###
+### [GitHub의 개인 정보 취급](#european-data-protection-rights-notice) ###
 
 아래 표에는 수집한 개인 정보의 범주, 처리 목적 및 개인 정보를 공유하는 타사 수신자의 범주에 대한 정보가 포함되어 있습니다. 각 범주에 포함된 데이터에 대한 설명을 포함하여 자세한 내용은 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement) 을 참조하세요.
 

@@ -28,12 +28,12 @@ In diesem Artikel
 * [Unsere Verwendung von Cookies und Trackingtechnologien](#our-use-of-cookies-and-tracking-technologies)
 * [Aufbewahrung personenbezogener Daten](#retention-of-personal-data)
 * [Wie GitHub Ihre Informationen schützt](#how-github-secures-your-information)
-* [Änderungen an unserer Datenschutzerklärung](#changes-to-our-privacy-statement)
-* [Lizenz](#license)
-* [GitHub kontaktieren](#contacting-github)
-* [Übersetzungen](#translations)
-* [Hinweis zu europäischen Datenschutzrechten](#european-data-protection-rights-notice)
-* [Datenschutz der US-Bundesstaaten](#us-state-data-privacy)
+* [Änderungen an unserer Datenschutzerklärung](#dispute-resolution-process)
+* [Lizenz](#government-enforcement)
+* [GitHub kontaktieren](#changes-to-our-privacy-statement)
+* [Übersetzungen](#license)
+* [Hinweis zu europäischen Datenschutzrechten](#french)
+* [Datenschutz der US-Bundesstaaten](#other-translations)
 
 Wirksamkeitsdatum: 15. Dezember 2022
 
@@ -332,7 +332,7 @@ GitHub kann Ihre personenbezogenen Daten in Ihrer Region, in den USA und in jede
 
 Wir übertragen personenbezogene Daten aus der Europäischen Union, dem Vereinigten Königreich und der Schweiz in andere Länder, von denen einige von der Europäischen Kommission noch nicht als Länder mit angemessenem Datenschutz eingestuft wurden. So kann es beispielsweise sein, dass die dort geltenden Gesetze Ihnen nicht die gleichen Rechte garantieren oder dass es dort keine Datenschutzaufsichtsbehörde gibt, die Ihre Beschwerden bearbeiten kann Wenn wir an solchen Übertragungen beteiligt sind, verwenden wir eine Vielzahl von rechtlichen Mechanismen, um Ihre Rechte zu schützen und diesen Schutz bei der Übertragung Ihrer Daten zu gewährleisten. Dazu zählen auch Verträge wie beispielsweise die von der Europäischen Kommission unter dem Durchführungsbeschluss 2021/914 veröffentlichten Standardvertragsklauseln. Eine Kopie der Standardvertragsklauseln kann über die Kontaktdetails angefordert werden, die weiter unten im Abschnitt „GitHub kontaktieren” angegeben sind.
 
-### [Kontaktinformationen](#how-to-contact-us) ###
+### [Kontaktinformationen](#data-privacy-framework-dpf) ###
 
 Falls Sie Fragen zum Datenschutz oder Bedenken hinsichtlich der Art und Weise haben, wie GitHub mit Ihren personenbezogenen Daten umgeht, teilen Sie uns dies bitte umgehend mit. Wir wollen helfen. Sie können uns kontaktieren, indem Sie das [Datenschutz-Kontaktformular](https://support.github.com/contact/privacy) ausfüllen. Wir werden umgehend antworten.
 
@@ -347,40 +347,40 @@ Vereinigte Staaten
 
 [Kontaktformular für Fragen zum Datenschutz](https://support.github.com/contact/privacy)
 
-### [Streitbeilegungsverfahren](#dispute-resolution-process) ###
+### [Streitbeilegungsverfahren](#how-to-contact-us) ###
 
 In dem unwahrscheinlichen Fall, dass es zwischen Ihnen und GitHub zu Streitigkeiten bezüglich unseres Umgangs mit Ihren personenbezogenen Daten kommt, senden Sie bitte eine E-Mail mit dem Betreff „Privacy Concerns“ direkt an [privacy@github.com](mailto:privacy@github.com). Wir werden umgehend antworten und unser Bestes tun, um die Streitigkeit beizulegen.
 Darüber hinaus haben Sie möglicherweise das Recht, eine Beschwerde bei Ihrer örtlichen Datenschutzbehörde oder Aufsichtsbehörde einzureichen.
 
-[Änderungen an unserer Datenschutzerklärung](#changes-to-our-privacy-statement)
+[Änderungen an unserer Datenschutzerklärung](#dispute-resolution-process)
 ----------
 
 GitHub kann diese Datenschutzerklärung aus verschiedenen Gründen von Zeit zu Zeit ändern, etwa zur Einhaltung neuer Gesetze und Vorschriften, zur Einbeziehung neuer Features und Funktionen sowie zum Verbessern der Transparenz. Wir informieren Sie mindestens 30 Tage vor dem Inkrafttreten durch einen Hinweis auf unserer Homepage oder durch eine E-Mail an die in Ihrem GitHub-Konto angegebene primäre E-Mail-Adresse über wesentliche Änderungen an dieser Datenschutzerklärung. Wir werden auch unser [Site-Policy Repository](https://github.com/github/site-policy/) aktualisieren, das alle Änderungen an dieser Richtlinie verfolgt. Für andere Änderungen an dieser Datenschutzerklärung empfehlen wir den Benutzern, unser Site-Policy Repository zu beobachten oder regelmäßig aufzurufen. Informationen zum Beobachten eines Repositorys finden Sie unter [Benachrichtigungen konfigurieren](/de/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository).
 
-[Lizenz](#license)
+[Lizenz](#government-enforcement)
 ----------
 
 Diese Datenschutzerklärung ist unter dieser [Creative Commons Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) lizenziert. Einzelheiten finden Sie in unserem [Repository mit Websiterichtlinien](https://github.com/github/site-policy#license).
 
-[GitHub kontaktieren](#contacting-github)
+[GitHub kontaktieren](#changes-to-our-privacy-statement)
 ----------
 
 Fragen bezüglich der Datenschutzerklärung oder Informationspraktiken von GitHub sollten mit unserem [Kontaktformular Datenschutz](https://support.github.com/contact/privacy) an unsere gerichtet werden.
 
-[Übersetzungen](#translations)
+[Übersetzungen](#license)
 ----------
 
 Nachfolgend finden Sie Übersetzungen dieses Dokuments in andere Sprachen. Im Falle von Konflikten, Unsicherheiten oder offensichtlichen Widersprüchen zwischen einer dieser Versionen und der englischen Version ist diese englische Version die maßgebliche Version.
 
-### [Französisch](#french) ###
+### [Französisch](#contacting-github) ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf)
 
-### [Andere Übersetzungen](#other-translations) ###
+### [Andere Übersetzungen](#translations) ###
 
 Für Übersetzungen dieser Erklärung in andere Sprachen besuchen Sie bitte [https://docs.github.com/](/de) und wählen Sie eine Sprache aus dem Dropdownmenü unter „English” aus.
 
-[Hinweis zu europäischen Datenschutzrechten](#european-data-protection-rights-notice)
+[Hinweis zu europäischen Datenschutzrechten](#french)
 ----------
 
 Wenn Sie sich im Europäischen Wirtschaftsraum befinden, wir Ihre personenbezogenen Daten in Übereinstimmung mit dem anwendbaren Recht verarbeiten und die Verarbeitung der Sie betreffenden personenbezogenen Daten dem Datenschutzrecht der Europäischen Union unterliegt, haben Sie bestimmte Rechte in Bezug auf diese Daten:
@@ -391,7 +391,7 @@ Verwenden Sie für derartige Anfragen die Kontaktinformationen am Ende dieser Er
 
 Unsere Erhebung und Verarbeitung personenbezogener Daten über Sie basiert auf verschiedenen Rechtsgrundlagen. Sie wird beispielsweise mit Ihrer Einwilligung und/oder in dem Umfang durchgeführt, der notwendig ist, um die von Ihnen genutzten Dienste bereitzustellen, unseren Geschäftsbetrieb zu ermöglichen, unsere vertraglichen und gesetzlichen Pflichten zu erfüllen, die Sicherheit unserer Systeme und Kunden zu gewährleisten oder andere berechtigte Interessen zu erfüllen.
 
-[Datenschutz der US-Bundesstaaten](#us-state-data-privacy)
+[Datenschutz der US-Bundesstaaten](#other-translations)
 ----------
 
 Wenn Sie in den USA ansässig sind, verarbeiten wir Ihre personenbezogenen Daten in Übereinstimmung mit den anwendbaren Datenschutzgesetzen der US-Bundesstaaten, einschließlich des Kalifornischen Datenschutzgesetzes (California Consumer Privacy Act, CCPA). Dieser Abschnitt unserer Datenschutzerklärung enthält Informationen, die gemäß dem CCPA und anderen Datenschutzgesetzen der US-Bundesstaaten erforderlich sind, und ergänzt unsere Datenschutzerklärung.
@@ -418,7 +418,7 @@ Darüber hinaus können Einwohner Kaliforniens, die einem Unternehmen, mit dem e
 
 Einwohner Kaliforniens unter 18 Jahren, die registrierte Benutzer von Websites, Diensten oder Anwendungen sind, haben gemäß Absatz 22581 des California Business and Professions Code das Recht, von ihnen veröffentlichte Inhalte oder Informationen zu entfernen oder deren Entfernung zu verlangen und zu erwirken. Wenn Sie von Ihnen veröffentlichte Inhalte oder Informationen entfernen möchten, [reichen Sie einen Antrag auf Entfernung privater Informationen ein](https://support.github.com/contact/private-information). Falls derartige Inhalte oder Informationen durch uns entfernt werden sollen, senden Sie eine ausführliche Beschreibung der spezifischen Inhalte oder Informationen, die Sie entfernen lassen möchten, an den [GitHub-Support](https://support.github.com/request). Beachten Sie, dass Ihre Anfrage keine vollständige oder umfassende Entfernung von online veröffentlichten Inhalten oder Informationen garantiert und dass die Entfernung unter bestimmten Umständen gesetzlich nicht zulässig ist oder verlangt wird. Wenn Sie Fragen zu unseren Datenschutzpraktiken in Bezug auf Einwohnern Kaliforniens haben, können Sie sich über unser [Kontaktformular](https://support.github.com/request?tags=docs-policy) mit uns in Verbindung setzen.
 
-### [Unser Umgang mit personenbezogenen Daten](#our-handling-of-personal-information) ###
+### [Unser Umgang mit personenbezogenen Daten](#european-data-protection-rights-notice) ###
 
 Die folgende Tabelle enthält Informationen zu den Kategorien personenbezogener Daten, die wir erheben, den Zwecken unserer Verarbeitung und den Kategorien von Drittempfängern, an die wir die personenbezogenen Daten weitergeben. Ausführliche Informationen, einschließlich einer Beschreibung der in jeder Kategorie enthaltenen Daten, finden Sie in der [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
 
