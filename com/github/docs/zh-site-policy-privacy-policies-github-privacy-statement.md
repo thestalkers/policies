@@ -28,14 +28,16 @@ GitHub 隐私声明
 * [我们对 Cookie 和跟踪技术的使用](#our-use-of-cookies-and-tracking-technologies)
 * [个人数据的保留](#retention-of-personal-data)
 * [GitHub 如何保护您的信息](#how-github-secures-your-information)
-* [隐私声明更改](#dispute-resolution-process)
-* [许可](#government-enforcement)
-* [联系 GitHub](#changes-to-our-privacy-statement)
-* [翻译版本](#license)
-* [欧洲数据保护权利声明](#french)
-* [美国州数据隐私](#other-translations)
+* [数据隐私框架 (DPF)](#data-privacy-framework-dpf)
+* [政府强制措施](#government-enforcement)
+* [隐私声明更改](#changes-to-our-privacy-statement)
+* [许可](#license)
+* [联系 GitHub](#contacting-github)
+* [翻译版本](#translations)
+* [欧洲数据保护权利声明](#european-data-protection-rights-notice)
+* [美国州数据隐私](#us-state-data-privacy)
 
-生效日期：2022 年 12 月 15 日
+生效日期：2023 年 10 月 10 日
 
 感谢您将您的源代码、项目和个人数据交托给 GitHub Inc. 或 GitHub B.V. （“GitHub”、“我们”或“我们的”）。 本隐私声明解释了我们在收集、使用和披露您的数据方面的做法，包括我们收集和处理的与我们的网站以及 GitHub 提供的任何应用程序、软件、产品和服务（包括任何 Beta 预览版，统称为“服务”）相关的任何个人数据。
 
@@ -168,7 +170,7 @@ GitHub 隐私声明
 
 ### [公开信息](#public-information) ###
 
-您可以选择通过我们的服务提供的选项来公开显示和共享您的姓名和/或用户名以及某些其他信息，例如您的个人资料、人口统计数据、内容和文件或地理位置数据。 如果您不希望公开您的电子邮件地址，即使在公共存储库中发布评论时也不公开，[您可以在您的用户个人资料中将您的电子邮件地址设置调整为不公开](https://github.com/settings/emails)。 您还应该[更新本地 Git 配置以使用私密电子邮件地址](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)。 有关详细信息，请参阅“[设置提交电子邮件地址](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)”。
+您可以选择通过我们的服务提供的选项来公开显示和共享您的姓名和/或用户名以及某些其他信息，例如您的个人资料、人口统计数据、内容和文件或地理位置数据。 如果您不希望公开您的电子邮件地址，即使在公共存储库中发布评论时也不公开，[您可以在您的用户个人资料中将您的电子邮件地址设置调整为不公开](https://github.com/settings/emails)。 您还应该[更新本地 Git 配置以使用私密电子邮件地址](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)。
 
 请注意，如果您希望编译 GitHub 数据，则必须遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)中关于信息使用和隐私的规定，并且您只能将您收集的任何面向公众开放的信息用于我们的用户允许的用途。 例如，如果 GitHub 用户将电子邮件地址设为面向公众开放以用于识别和归属的目的，则请勿使用该电子邮件地址向用户发送未经请求的电子邮件或将用户个人信息出售给招聘者、猎头和招聘网站等，或发送商业广告。 我们希望您采取合理的措施保护您从 GitHub 收集的信息，并及时回应来自 GitHub 或 GitHub 用户的投诉、删除请求和“请勿联系”请求。
 
@@ -191,6 +193,8 @@ GitHub 隐私声明
 ### [关联公司](#affiliates) ###
 
 我们在以下情况下允许跨我们的子公司、关联公司和相关公司访问个人数据，例如：我们共享通用数据系统、关联公司代表我们提供服务或需要访问以运营和提供服务。
+
+GitHub 负责处理根据数据隐私框架 (DPF) 原则接收的个人信息，随后会传输给代表 GitHub 的第三方代理。 根据 DPF 原则，如果 GitHub 的代理以不符合 DPF 原则的方式处理此类个人信息，GitHub 仍应承担责任，除非 GitHub 证明其不对造成损害的事件负责。
 
 ### [针对安全目的](#for-security-purposes) ###
 
@@ -328,11 +332,16 @@ GitHub 采取合理和必要的措施，以保护您的个人数据不会遭受�
 
 ### [跨境数据传输](#cross-border-data-transfers) ###
 
+[数据隐私框架 (DPF)](#data-privacy-framework-dpf)
+----------
+
+GitHub 符合美国商务部制定的欧盟-美国数据隐私框架（欧盟-美国 DPF）、对欧盟-美国 DPF 的英国扩展以及瑞士-美国数据隐私框架（瑞士-美国 DPF）。 GitHub 已向美国商务部认证，在根据欧盟-美国 DPF 处理从欧盟接收的个人数据，以及根据对欧盟-美国 DPF 的英国扩展处理从英国（和直布罗陀）接收的个人数据时，遵守欧盟-美国数据隐私框架原则（欧盟-美国 DPF 原则）。 GitHub 已向美国商务部认证，在根据瑞士-美国 DPF 处理从瑞士接收的个人数据时，遵守瑞士-美国数据隐私框架原则（瑞士-美国 DPF 原则）。 如果本隐私策略的条款与欧盟-美国 DPF 原则和/或瑞士-美国 DPF 原则之间有任何冲突，应以原则为准。 要了解有关数据隐私框架 (DPF) 计划的更多信息和查看我们的认证，请访问 [https://www.dataprivacyframework.gov/。](https://www.dataprivacyframework.gov/%E3%80%82)
+
 GitHub 可能会在您所在的地区、美国以及 GitHub 或其关联公司、子公司或服务提供商运营设施所在的任何其他国家/地区存储和处理您的个人数据。
 
-我们将个人数据从欧盟、英国和瑞士传输到其他国家/地区，其中一些国家/地区尚未达到欧盟委员会确定的数据保护水平。 例如，这些国家/地区的法律可能无法保证您享有相同的权利，或者可能没有能够处理您的投诉的隐私监督机构。 当我们进行此类传输时，我们会使用合同等各种法律机制（例如欧盟委员会根据委员会执行决定 2021/914 发布的标准合同条款），在数据传输中帮助保障您的权利和保护您的数据。 您可以使用下面标题为“联系 GitHub”的部分中提供的联系方式索取标准合同条款的副本。
+我们将个人数据从欧盟、英国和瑞士传输到其他国家/地区，其中一些国家/地区尚未达到欧盟委员会确定的数据保护水平。 例如，这些国家/地区的法律可能无法保证您享有相同的权利，或者可能没有能够处理您的投诉的隐私监督机构。 当我们进行此类传输时，我们会使用合同等各种法律机制（例如欧盟委员会根据委员会执行决定 2021/914 发布的标准合同条款），在数据传输中帮助保障您的权利和保护您的数据。 若要详细了解欧盟委员会关于在 Microsoft 处理个人数据的国家/地区保护个人数据的充足性的决定，请参阅[欧盟委员会网站](https://commission.europa.eu/index)上的这篇文章。 您可以在 GitHub 客户协议网站上在“GitHub 数据保护协议”[](https://github.com/customer-terms/github-data-protection-agreement)下查看标准合同条款的副本。
 
-### [如何联系我们](#data-privacy-framework-dpf) ###
+### [如何联系我们](#how-to-contact-us) ###
 
 如果您对隐私有疑问或对 GitHub 处理您的个人数据的方式有疑虑，请立即告知我们。 我们希望能够帮助到您。 您可以通过填写[隐私联系表](https://support.github.com/contact/privacy)来联系我们。 我们会及时答复。
 
@@ -347,40 +356,50 @@ United States
 
 [隐私联系表](https://support.github.com/contact/privacy)
 
-### [争议解决流程](#how-to-contact-us) ###
+### [争议解决流程](#dispute-resolution-process) ###
 
 尽管这种情况极少发生，但如果您与 GitHub 就我们处理您的个人数据的方式产生争议，请直接发送电子邮件至 ([privacy@github.com](mailto:privacy@github.com))，并在主题行中标明“隐私问题”。 我们会及时答复，并将尽最大努力解决争议。
+
 此外，您可能有权向当地数据保护、隐私机构或监管机构提出投诉。
 
-[隐私声明更改](#dispute-resolution-process)
+根据欧盟-美国 DPF、对欧盟-美国 DPF 的英国扩展和瑞士-美国 DPF，GitHub 承诺将有关我们处理根据欧盟-美国 DPF、对欧盟-美国 DPF 的英国扩展和瑞士-美国 DPF接收的个人数据的未决投诉提交到国际争议解决中心，这是一家位于美国、欧盟、英国和/或瑞士（如适用）的替代争议解决提供商。 如果您没有收到我们对您的 DPF 原则相关投诉的及时确认，或者如果我们对您的 DPF 原则相关投诉的处理没有令您满意，请访问 [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) 了解更多信息或提出投诉。 国际争议解决中心的服务免费提供。
+
+在某些情况下，个人有可能对任何其他 DPF 机制未解决的关于 DPF 合规性的投诉援引有约束力的仲裁。 有关其他信息，请访问[数据隐私框架网站](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2)。
+
+[政府强制措施](#government-enforcement)
+----------
+
+GitHub 受联邦贸易委员会 (FTC) 的调查和强制措施权的约束。 根据《联邦贸易委员会法》第 5 条（15 U.S.C. 第 45 条），一个组织未能遵守执行 DPF 原则的承诺，可能会被联邦贸易委员会指责为欺骗。 联邦贸易委员会有权通过行政命令或寻求法院命令来禁止这种虚假陈述。
+
+[隐私声明更改](#changes-to-our-privacy-statement)
 ----------
 
 GitHub 可能会出于各种原因不时更改本隐私声明，包括为了遵守新的法律和法规、涵盖新特性和功能以及提高透明度。 如果本隐私声明出现重大变更，我们将在变更生效前至少 30 天在我们的网站上发布通知（具体方式是在网站主页上发布公告），或者发送电子邮件至在您的 GitHub 帐户中指定的主要电子邮件地址。 我们还会更新我们的[站点政策存储库](https://github.com/github/site-policy/)，该存储库将记录本政策的所有更改。 有关本隐私声明的其他更改，我们建议用户关注或经常查看我们的站点政策存储库。 若要了解如何监视存储库，请参阅“[配置通知](/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications#configuring-your-watch-settings-for-an-individual-repository)”。
 
-[许可](#government-enforcement)
+[许可](#license)
 ----------
 
 本隐私声明根据本[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)获得许可。 有关更多信息，请参阅我们的 [站点政策存储库](https://github.com/github/site-policy#license)。
 
-[联系 GitHub](#changes-to-our-privacy-statement)
+[联系 GitHub](#contacting-github)
 ----------
 
 有关我们的隐私声明或信息实践的问题，请转至我们的[隐私联系表](https://support.github.com/contact/privacy)。
 
-[翻译版本](#license)
+[翻译版本](#translations)
 ----------
 
 以下是本文档其他语言的翻译版本。 如果其中任何版本与英语版本之间存在任何冲突、不确定或明显的不一致，以本英语版本为准。
 
-### [法语](#contacting-github) ###
+### [法语](#french) ###
 
 Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf)
 
-### [其他翻译版本](#translations) ###
+### [其他翻译版本](#other-translations) ###
 
 如需获取本声明的其他语言翻译版本，请访问 [https://docs.github.com/](/zh)，并在下拉菜单中选择位于“English”（英语）下方的某种语言。
 
-[欧洲数据保护权利声明](#french)
+[欧洲数据保护权利声明](#european-data-protection-rights-notice)
 ----------
 
 如果您在欧洲经济区，我们会根据适用法律处理您的个人数据，并且有关您的个人数据的处理受欧盟数据保护法的约束，而您对该数据拥有某些权利：
@@ -391,7 +410,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 我们依赖不同的合法依据来收集和处理关于您的个人数据，例如在您同意和/或在必要时提供您使用的服务、运营我们的业务、履行我们的合同和法律义务、保护我们系统和我们客户的安全或满足其他合法利益。
 
-[美国州数据隐私](#other-translations)
+[美国州数据隐私](#us-state-data-privacy)
 ----------
 
 如果您是美国居民，我们会根据适用的美国州数据隐私法（包括《加州消费者隐私法》[CCPA]）处理您的个人数据。 我们隐私声明的这一部分包含 CCPA 和其他美国州数据隐私法要求的信息，是对我们的隐私声明的补充。
@@ -418,7 +437,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，[请提交隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/request)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
 
-### [我们对个人信息的处理](#european-data-protection-rights-notice) ###
+### [我们对个人信息的处理](#our-handling-of-personal-information) ###
 
 下表包含我们收集的个人信息的类别、处理个人信息的目的以及与之共享个人信息的第三方接收人的类别的相关信息。 如需了解完整详细信息，请参阅 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)，其中包括每个类别所含数据的说明。
 
@@ -451,12 +470,10 @@ GitHub 会征求您的同意来收集和处理您的敏感数据，或按照您�
 * 开展活动以验证或维护 GitHub 拥有或控制的服务或设备的质量或安全性，或对其进行改进、升级或增强；以及
 * 根据适用法律开展任何其他活动。
 
-上表包含每类个人数据的主要来源、处理目的和接收人。 我们根据我们隐私声明的“[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)”部分中列出的目的使用上述个人信息类别，例如履行我们的法律义务、改进我们的内部运营和开展调查。 我们还会出于商业或合规目的披露上面列出的个人信息类别。 有关其他详细信息，请参阅我们隐私声明的“[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)”部分。
+上表包含每类个人数据的主要来源、处理目的和接收人。 我们根据我们隐私声明的“[GitHub 如何使用您的信息](https://docs.github.com/en/github/site-policy/github-privacy-statement#how-github-uses-your-information)”部分中列出的目的使用上述个人信息类别，例如履行我们的法律义务、改进我们的内部运营和开展调查。 我们还会出于商业或合规目的披露上面列出的个人信息类别。 有关更多详细信息，请参阅我们隐私声明的“[我们如何共享我们收集的信息](https://docs.github.com/en/github/site-policy/github-privacy-statement#how-we-share-the-information-we-collect)”部分。
 
 **无法识别数据**。 在某些情况下，GitHub 可能会处理称为“无法识别数据”(NPI) 状态下的数据或处理去标识化数据。 在我们不执行其他步骤就无法将数据关联到可能与之相关的个人时，数据就处于这种状态。 在这些情况下，除非适用法律允许，否则我们将保留此类处于 NPI 状态下的信息，并且不会尝试重新识别与 NPI 数据相关的个人。
 
-**出于业务或商业目的披露个人数据**。 如“我们如何共享我们收集的信息”部分所述，我们会出于各种业务和商业目的与第三方共享个人数据。 我们共享个人数据的主要业务和商业目的对应上表中列出的处理目的。 我们还会出于商业目的披露上面列出的个人信息类别。 有关其他详细信息，请参阅我们隐私声明的“[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)”部分。
+**出于业务或商业目的披露个人数据**。 如“我们如何共享我们收集的信息”部分所述，我们会出于各种业务和商业目的与第三方共享个人数据。 我们共享个人数据的主要业务和商业目的对应上表中列出的处理目的。 我们还会出于商业目的披露上面列出的个人信息类别。 有关更多详细信息，请参阅我们隐私声明的“[我们如何共享我们收集的信息](https://docs.github.com/en/github/site-policy/github-privacy-statement#how-we-share-the-information-we-collect)”部分。
 
 **控制个人数据收集的各方**。 在某些情况下，我们可能会允许第三方控制对您个人数据的收集。 例如，在我们的企业营销页面上，广告商可能会通过其 Cookie 控制其收集的信息。
-
-我们根据我们隐私声明的“[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#how-github-uses-your-information)”部分中列出的目的使用上述个人信息类别。 我们还会出于商业目的披露上面列出的个人信息类别。 有关其他详细信息，请参阅我们隐私声明的“[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#how-we-share-the-information-we-collect)”部分。

@@ -16,4 +16,4 @@ Políticas de seguridad
 
 * [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-* [GitHub SIRT description RFC 2350](/es/site-policy/security-policies/github-sirt-description-rfc-2350)
+* [Descripción de SIRT de GitHub RFC 2350](/es/site-policy/security-policies/github-sirt-description-rfc-2350)
