@@ -139,7 +139,7 @@ GitHub Community moderators who do not follow or enforce the Code of Conduct in 
 [Contacting GitHub Staff](#contacting-github-staff)
 ----------
 
-If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of GitHub Community privately, you can use our [Support contact form](https://support.github.com/contact?tags=docs-community-support). Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than GitHub Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
+If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of GitHub Community privately, you can contact GitHub Support through the [GitHub Support portal](https://support.github.com/). Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than GitHub Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.
 
@@ -152,4 +152,4 @@ This Code of Conduct does not modify our [Terms of Service](/en/site-policy/gith
 
 ### [Data Retention and Deletion of Data](#data-retention-and-deletion-of-data) ###
 
-If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement).
+If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting GitHub Support through the [GitHub Support portal](https://support.github.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement).

@@ -291,4 +291,4 @@ GitHub will promptly respond to requests that are issued via U.S. court by way o
 [Questions](#questions)
 ----------
 
-Do you have other questions, comments or suggestions? Please contact [GitHub Support](https://support.github.com/contact?tags=docs-generic).
+Do you have other questions, comments or suggestions? Please contact us through the [GitHub Support portal](https://support.github.com).

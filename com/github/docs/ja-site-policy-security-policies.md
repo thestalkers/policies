@@ -16,4 +16,4 @@
 
 * [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-* [GitHub SIRT description RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
+* [GitHub SIRT の説明 RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
