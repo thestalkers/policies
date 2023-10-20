@@ -221,11 +221,11 @@ GitHub 负责处理根据数据隐私框架 (DPF) 原则接收的个人信息，
 
 我们提供有关我们收集的关于您的个人数据的选择。 您所做的选择将不适用于与您帐户下的组织相关联的任何个人数据。
 
-访问、更正和删除。 如果您是 GitHub 用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或者联系 [GitHub 支持](https://support.github.com/contact)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)来访问、更新、更改或删除您的基本用户个人资料信息。 您可以通过限制您的个人资料中的信息、及时更新您的信息、更改 Cookie 首选项或者联系 [GitHub 支持](https://support.github.com/contact)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)来控制我们能够收集您的哪些信息。
+访问、更正和删除。 如果您是 GitHub 用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或者通过 [GitHub 支持门户](https://support.github.com/)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)联系我们，来访问、更新、更改或删除您的基本用户个人资料信息。 您可以通过限制您的个人资料中的信息、及时更新您的信息、更改 Cookie 首选项或者通过 [GitHub 支持门户](https://support.github.com/)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)联系我们，来控制我们能够收集您的哪些信息。
 
 我们会按照本隐私声明中的说明保留和使用您的信息，但除非法律要求，否则我们将在您提出请求后的 90 天内删除您的完整个人资料。 帐户删除后，某些数据（例如，在其他用户的存储库中提交的内容及在其他人的问题中发表的评论）将保留。 但是，我们会通过将您的个人数据（包括您的用户名和电子邮件地址）与幽灵用户相关联的方式，从问题、拉取请求和评论的作者字段中删除该等信息或对其进行去标识化处理。 也就是说，您通过 Git 提交设置提供的电子邮件地址将始终与您在 Git 系统中的提交相关联。 如果您选择将您的电子邮件地址设为不公开，则您还应该更新您的 Git 提交设置。 我们无法更改或删除 Git 提交历史记录中的数据，因为 Git 软件设计为保留记录，但我们允许您控制您在该记录中可以放入哪些信息。
 
-如果 GitHub 处理您的个人资料信息以外的个人数据，例如 GitHub 从[第三方](/zh/site-policy/privacy-policies/github-privacy-statement#information-we-collect-from-third-parties)收到的关于您的信息，那么您可以根据适用法律访问、更新、更改、删除、反对或限制处理您的个人数据，方法是联系 [GitHub 支持](https://support.github.com/contact)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)。
+如果 GitHub 处理您个人资料信息以外的个人数据，例如 GitHub 从[第三方](/zh/site-policy/privacy-policies/github-privacy-statement#information-we-collect-from-third-parties)收到的关于您的信息，那么您可以根据适用法律访问、更新、更改、删除、反对或限制处理您的个人数据，方法是通过 [GitHub 支持门户](https://support.github.com/)或 [GitHub 高级支持](https://enterprise.githubsupport.com/hc/en-us)联系我们。
 
 您可以通过[个人资料设置](https://github.com/settings/profile)调整您的帐户上关于您的个人数据在专用或公共存储库中的显示或与社区功能（如 GitHub 源、GitHub 赞助商和 GitHub 探索）相关的个人数据处理的设置。
 
@@ -429,13 +429,13 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 如果您有 GitHub 帐户，您必须通过提供的工具行使您的权利，这要求您登录到您的 GitHub 帐户。 如果您在登录后有其他请求或问题，可以通过[如何联系我们](#how-to-contact-us)部分中的地址联系 GitHub，也可通过我们的 Web 表单与我们联系。
 
-如果您没有帐户，您可以按照上述方式联系我们来行使您的权利。 在接受您的请求之前，我们可能会要求您提供其他信息来验证您的请求。 要基于这些权利提交请求，也可通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
+如果您没有帐户，您可以按照上述方式联系我们来行使您的权利。 在接受您的请求之前，我们可能会要求您提供其他信息来验证您的请求。 若要根据这些权利提交申请，也可以通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 
 您可以选择停止出于定向行为广告目的“共享”信息，并通过选择[管理 Cookie 首选项](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages)来选择有关 GitHub 企业营销页面的其他隐私选项。 如果您行使隐私权，您有权不接受歧视性待遇。 我们不会因您行使隐私权而歧视您。
 
 此外，根据《加州民法典》第 1798.83 条（也称为《反客户信息披露法》），向与个人建立业务关系的企业提供个人信息以用于个人或家庭目的的加州居民（“加州客户”）可能会要求提供有关企业是否出于第三方直接营销目的向任何第三方披露个人信息的信息。 请注意，我们不会出于本法所定义的任何第三方的直接营销目的向任何第三方披露个人信息。 加州客户可以通过发送电子邮件至 [privacy@github.com](mailto:privacy@github.com) 请求提供有关我们遵守该法律的情况的更多信息。 请注意，企业必须每年对每位加州客户的一项请求作出回应，并且可能不需要对通过指定电子邮件地址以外的其他方式提出的请求作出回应。
 
-属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，[请提交隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/request)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过我们的[联系表](https://support.github.com/request?tags=docs-policy)与我们联系。
+属于线上网站、服务或应用程序注册用户的 18 岁以下加州居民有权根据《加州商业及职业法典》第 22581 条删除或请求删除他们公开发布的内容或信息。 要删除您公开发布的内容或信息，[请提交隐私信息删除请求](https://support.github.com/contact/private-information)。 或者，要请求我们删除此类内容或信息，请将您希望删除的特定内容或信息的详细说明发送给 [GitHub 支持](https://support.github.com/)。 请注意，您的请求并不保证完全或全面删除在线发布的内容或信息，并且在某些情况下法律可能不允许或不要求删除。 如果您对我们针对加州居民的隐私做法有任何疑问，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 
 ### [我们对个人信息的处理](#our-handling-of-personal-information) ###
 

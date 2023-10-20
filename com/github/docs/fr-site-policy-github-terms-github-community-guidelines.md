@@ -44,7 +44,7 @@ L'objectif principal de la communauté GitHub est de collaborer sur des projets 
 [Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
 ----------
 
-Bien que certains désaccords puissent être résolus par une communication directe et respectueuse entre les membres de la communauté, nous comprenons que ce n'est pas toujours le cas. Nous encourageons notre communauté à [nous faire savoir](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) lorsqu’elle pense qu’un contenu ou une activité qu’elle a rencontré enfreint nos politiques. Cependant, si vous rencontrez quelque chose ou quelqu'un sur le site que vous trouvez répréhensible, voici quelques façons dont GitHub vous permet d'agir :
+Bien que certains désaccords puissent être résolus par une communication directe et respectueuse entre les membres de la communauté, nous comprenons que ce n'est pas toujours le cas. Nous encourageons notre communauté à contacter le support GitHub via le [portail de support GitHub](https://support.github.com/) lorsqu'elle croit que le contenu ou l'activité qu'elle a rencontré enfreint nos stratégies. Cependant, si vous rencontrez quelque chose ou quelqu'un sur le site que vous trouvez répréhensible, voici quelques façons dont GitHub vous permet d'agir :
 
 * **Communiquez les attentes**. Les responsables peuvent définir des recommandations spécifiques à la communauté pour aider les utilisateurs à comprendre comment interagir avec leurs projets, par exemple, dans un fichier README d’un dépôt, un [fichier CONTRIBUTING](/fr/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) ou un [code de conduite dédié](/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). Vous trouverez des informations supplémentaires sur la création de communautés sur la page [Communautés](/fr/communities).
 
@@ -56,7 +56,7 @@ Bien que certains désaccords puissent être résolus par une communication dire
 
 * **Limitez les interactions**. Si votre projet public fait l’objet d’une attention indésirable, d’une attaque de trolls, de spam ou autre, vous avez la possibilité de définir des [limites d’interaction temporaires](/fr/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) pour empêcher certains utilisateurs d’interagir avec votre dépôt. Vous pouvez même fixer des [limites de révision du code](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) pour garantir la qualité des contributions à vos projets.
 
-Bien que nous ayons à cœur de permettre aux responsables de modérer leurs propres projets, n’hésitez pas à nous contacter à si vous avez besoin d’une aide supplémentaire pour faire face à une situation particulière.
+Bien que nous ayons à cœur de permettre aux responsables de modérer leurs propres projets, veuillez contacter nous via le [portail de support GitHub](https://support.github.com) si vous avez besoin d'une aide supplémentaire pour faire face à une situation.
 
 [Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
 ----------
