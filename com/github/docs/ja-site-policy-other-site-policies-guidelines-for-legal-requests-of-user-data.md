@@ -273,4 +273,4 @@ GitHub は、刑事共助条約 (「MLAT」) または嘱託書を通じて米�
 [質問](#questions)
 ----------
 
-その他の質問、意見、提案がありますか? [GitHub Support](https://support.github.com/contact?tags=docs-generic) にお問い合わせください。
+その他の質問、意見、提案がありますか? [GitHub サポート](https://support.github.com) にお問い合わせください。

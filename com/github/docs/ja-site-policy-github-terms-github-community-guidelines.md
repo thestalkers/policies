@@ -56,7 +56,7 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 * **やり取りを制限する** - パブリック プロジェクトが不要な注目を集めたり、トロールされたり、スパムされたりした場合、[やり取りの一時的な制限](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)を設定して、特定のユーザーがリポジトリとやり取りできないようにすることができます。 [コード レビューの制限](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)を設定して、プロジェクトへの質の高い貢献を保証することもできます。
 
-当社では、管理者が自分のプロジェクトをモデレートできるようにすることに積極的に取り組んでいますが、状況に対処するために追加のサポートが必要な場合は、[GitHub Support](https://support.github.com/contact?tags=docs-generic) にご連絡ください。
+当社では、管理者が自分のプロジェクトをモデレートできるようにすることに積極的に取り組んでいますが、状況に対処するために追加のサポートが必要な場合は、[GitHub サポート](https://support.github.com) にご連絡ください。
 
 [何ものかが GitHub のポリシーに違反した場合](#what-happens-if-someone-violates-githubs-policies)
 ----------

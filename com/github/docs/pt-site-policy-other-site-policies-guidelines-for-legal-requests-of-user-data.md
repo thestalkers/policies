@@ -273,4 +273,4 @@ O GitHub responderá prontamente às solicitações emitidas por meio de um trib
 [Dúvidas](#questions)
 ----------
 
-Você tem outras perguntas, comentários ou sugestões? Entre em contato pelo [Suporte do GitHub](https://support.github.com/contact?tags=docs-generic).
+Você tem outras perguntas, comentários ou sugestões? Entre em contato pelo conosco por meio do [Portal de suporte do GitHub](https://support.github.com).
