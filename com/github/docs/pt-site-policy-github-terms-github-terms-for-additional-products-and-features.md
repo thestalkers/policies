@@ -174,7 +174,7 @@ O GitHub Pages está sujeito a alguns limites de uso e largura de banda específ
 
 O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
-Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
+Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
 
 *Exercícios educacionais*
 

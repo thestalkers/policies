@@ -83,4 +83,4 @@ GitHub は通知の有無にかかわらず、いつでも、随時、本サー�
 
 6. GitHub へのライセンスのポリシー。 本アプリケーション条件は、この[クリエイティブ コモンズ ゼロ ライセンス](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンスされています。 詳細については、[サイト ポリシー リポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
-7. お問い合わせください。 サービス使用条件についてご質問はありますか? [お問い合わせください](https://support.github.com/contact?tags=docs-policy)。
+7. お問い合わせください。 サービス使用条件についてご質問はありますか? [GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。

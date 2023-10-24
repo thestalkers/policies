@@ -43,7 +43,7 @@ Quando recebemos denúncias de violações da política de marcas registradas de
 [Como faço para denunciar uma violação da política de marca registrada?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Os titulares de marcas registradas podem denunciar possíveis violações da política de marca registrada ao GitHub por meio do nosso [formulário de contato](https://support.github.com/contact?tags=docs-trademark). Envie solicitações relacionadas a marcas registradas usando o endereço de e-mail de sua empresa e inclua todas as informações solicitadas abaixo para ajudar a agilizar nossa resposta. Certifique-se também de nos descrever claramente por que a conta pode causar confusão com sua marca ou como a conta pode diluir ou manchar sua marca.
+Os titulares de marcas registradas podem denunciar possíveis violações da política de marca registrada ao GitHub por meio do [Suporte do GitHub](https://support.github.com/). Use o formulário de contato e envie solicitações relacionadas a marcas registradas usando o endereço de e-mail de sua empresa e inclua todas as informações solicitadas abaixo para ajudar a agilizar nossa resposta. Certifique-se também de nos descrever claramente por que a conta pode causar confusão com sua marca ou como a conta pode diluir ou manchar sua marca.
 
 [Quais informações são necessárias ao relatar violações da política de marcas registradas?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
@@ -72,7 +72,7 @@ Para investigar violações da política de marcas registradas, forneça todas a
 
 * Além disso, inclua a seguinte declaração: “Juro, sob pena de perjúrio, que as informações nesta notificação são precisas e que sou o proprietário da marca registrada, ou estou autorizado a agir em nome do proprietário, de um direito exclusivo que supostamente foi infringido”.
 
-* Inclua sua assinatura física ou eletrônica.
+* Incluir sua assinatura física ou eletrônica.
 
 * Observação: É necessário um número de registro de marca federal ou internacional. Se o nome que você informar **não** for uma marca registrada (por exemplo, uma agência governamental ou organização sem fins lucrativos), informe:
 

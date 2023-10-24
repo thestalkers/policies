@@ -32,7 +32,7 @@ Dans cet article
 * [L. Annulation et résiliation](#l-cancellation-and-termination)
 * [m. Communication avec GitHub](#m-communications-with-github)
 * [N. Exclusion de garantie](#n-disclaimer-of-warranties)
-* [O. Limitation de responsabilité](#o-limitation-of-liability)
+* [O. Limitation de responsabilité.](#o-limitation-of-liability)
 * [P. Libération et indemnisation](#p-release-and-indemnification)
 * [Q. Modifications des présentes Conditions](#q-changes-to-these-terms)
 * [R. Dispositions diverses](#r-miscellaneous)
@@ -114,7 +114,7 @@ Vous êtes responsable de la sécurité de votre compte pendant que vous utilise
 
 * Vous êtes responsable de tout le contenu publié et de l'activité qui se produit sous votre compte (même lorsque le contenu est publié par d'autres personnes qui ont des comptes sous votre compte).
 * Vous êtes responsable du maintien de la sécurité de votre Compte et de votre mot de passe. GitHub ne peut pas et ne sera pas responsable de toute perte ou dommage résultant de votre non-respect de cette obligation de sécurité.
-* Vous devez rapidement [notifier GitHub](https://support.github.com/contact?tags=docs-policy) si vous avez connaissance d’une utilisation ou d’un accès non autorisé à notre Service par l’intermédiaire de votre Compte, y compris toute utilisation non autorisée de votre mot de passe ou de votre Compte.
+* Vous devez informer rapidement GitHub en nous contactant via le [portail de support GitHub](https://support.github.com/) si vous avez connaissance d'une utilisation ou d'un accès non autorisé à notre Service par le biais de votre Compte, y compris toute utilisation non autorisée de votre mot de passe ou de votre Compte.
 
 ### [5. Conditions Supplémentaires](#5-additional-terms) ###
 
@@ -298,7 +298,7 @@ En acceptant ces Conditions, vous nous autorisez à débiter votre carte de cré
 
 ### [5. Responsabilité du paiement](#5-responsibility-for-payment) ###
 
-Vous êtes responsable de tous les frais, y compris les taxes, associés à votre utilisation du Service. En utilisant le Service, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre utilisation du Service. Si vous contestez le paiement, contactez l’[Assistance GitHub](https://support.github.com/contact?tags=docs-policy). Vous êtes responsable de nous fournir un moyen de paiement valide pour les Comptes payants. Les comptes gratuits ne sont pas tenus de fournir des informations de paiement.
+Vous êtes responsable de tous les frais, y compris les taxes, associés à votre utilisation du Service. En utilisant le Service, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre utilisation du Service. Si vous contestez le paiement, contactez le [portail de support GitHub](https://support.github.com/). Vous êtes responsable de nous fournir un moyen de paiement valide pour les Comptes payants. Les comptes gratuits ne sont pas tenus de fournir des informations de paiement.
 
 [L. Annulation et résiliation](#l-cancellation-and-termination)
 ----------
@@ -351,7 +351,7 @@ GitHub fournit le site Web et le service « tels quels » et « tels que disp
 
 GitHub ne garantit pas que le Service répondra à vos exigences ; que le Service sera ininterrompu, rapide, sécurisé ou sans erreur ; que les informations fournies via le Service sont exactes, fiables ou correctes ; que tout défaut ou erreur sera corrigé ; que le Service sera disponible à tout moment ou en tout lieu ; ou que le Service est exempt de virus ou d'autres composants nuisibles. Vous assumez l'entière responsabilité et le risque de perte résultant de votre téléchargement et/ou de l'utilisation de fichiers, d'informations, de contenus ou d'autres éléments obtenus à partir du Service.
 
-[O. Limitation de responsabilité](#o-limitation-of-liability)
+[O. Limitation de responsabilité.](#o-limitation-of-liability)
 ----------
 
 **Version courte :** *Nous ne serons pas responsables des dommages ou des pertes résultant de votre utilisation ou de votre incapacité à utiliser le service ou de tout autre problème en vertu des présentes. Veuillez lire attentivement cette section ; elle limite nos obligations envers vous.*
@@ -412,4 +412,4 @@ Le présent Accord ne peut être modifié que par un amendement écrit signé pa
 
 ### [6. Questions](#6-questions) ###
 
-Des questions sur les conditions d'utilisation ? [Contactez-nous](https://support.github.com/contact?tags=docs-policy).
+Des questions sur les conditions d'utilisation ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).

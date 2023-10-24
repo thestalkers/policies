@@ -25,8 +25,8 @@ En este artículo
 * [Copiloto de GitHub](#github-copilot)
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
 * [npm](#npm)
-* [Packages](#packages)
-* [Paginas](#pages)
+* [Paquetes](#packages)
+* [Páginas](#pages)
 * [Versiones Preliminares](#previews)
 * [Programa de Patrocinadores](#sponsors-program)
 * [Imágenes de servidor SQL](#sql-server-images)
@@ -154,12 +154,12 @@ Importer es un marco para exportar datos de otras fuentes para importarlos a la 
 
 Npm es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. Npm es el registro de registro para el ecosistema de JavaScript. El registro público de npm es de uso gratuito, pero a los clientes se les factura si desean publicar paquetes privados o administrar paquetes privados mediante equipos. La [documentación de npm](https://docs.npmjs.com/) incluye datos sobre la limitación de los tipos de cuentas y cómo administrar [paquetes privados](https://docs.npmjs.com/about-private-packages) y [organizaciones](https://docs.npmjs.com/organizations). El uso aceptable del registro de npm se describe en los [términos del código abierto](https://www.npmjs.com/policies/open-source-terms). Hay términos complementarios para los planes [solo](https://www.npmjs.com/policies/solo-plan) y [org](https://www.npmjs.com/policies/orgs-plan) de npm. Los [Términos de Uso](https://www.npmjs.com/policies/terms) de npm se aplican a su uso de npm.
 
-[Packages](#packages)
+[Paquetes](#packages)
 ----------
 
 GitHub Packages es un servicio de alojamiento de paquetes de software que le permite alojar sus paquetes de software de forma privada o pública y utilizar paquetes como dependencias en sus proyectos. Los paquetes de GitHub se facturan según el uso. La [documentación de Packages](/es/packages/learn-github-packages/introduction-to-github-packages) incluye datos, como el ancho de banda y las cantidades de almacenamiento (según el plan de su Cuenta), y cómo supervisar el uso de Packages y establecer límites de uso. El uso del ancho de banda de Packages está limitado por las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-[Paginas](#pages)
+[Páginas](#pages)
 ----------
 
 Cada Cuenta incluye acceso al [Servicio de hospedaje estático de GitHub Pages](/es/pages/getting-started-with-github-pages/about-github-pages). Las páginas de GitHub están destinadas a alojar páginas web estáticas, pero principalmente como escaparate para proyectos personales y organizacionales.
@@ -174,7 +174,7 @@ Las Páginas de GitHub están sujetas a algunos límites de uso y ancho de banda
 
 GitHub Pages no se puede utilizar de ninguna forma que incumpla el Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Pages que se establecen en la [documentación de Pages](/es/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
-Si tiene dudas sobre si el uso actual o previsto se incluye en estas categorías, póngase en contacto con el [Servicio de Soporte de GitHub](https://support.github.com/contact?tags=docs-policy). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin responsabilidad.
+Si tiene dudas sobre si el uso actual o previsto se incluye en estas categorías, póngase en contacto con el [Portal de soporte técnico de GitHub](https://support.github.com/). GitHub se reserva el derecho en todo momento de reclamar cualquier subdominio de GitHub sin responsabilidad.
 
 *Ejercicios educativos*
 

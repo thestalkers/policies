@@ -83,4 +83,4 @@ GitHub behält sich das Recht vor, den Dienst (oder Teile davon) jederzeit und v
 
 6. Lizenz für GitHub-Richtlinien. Diese Anwendungsbedingungen sind unter der [Creative Commons Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) lizenziert. Einzelheiten finden Sie in unserem [Repository mit Websiterichtlinien](https://github.com/github/site-policy#license).
 
-7. Kontaktieren Sie uns. Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://support.github.com/contact?tags=docs-policy)
+7. Kontaktieren Sie uns. Fragen zu den Nutzungsbedingungen? Kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/).

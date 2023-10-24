@@ -43,7 +43,7 @@ GitHub 商标政策
 [如何举报违反商标政策的行为？](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-注册商标持有人可通过我们的[联系表](https://support.github.com/contact?tags=docs-trademark)向 GitHub 举报可能违反商标政策的行为。 请使用您的公司电子邮件地址提交与商标相关的请求，并在邮件中提供下文要求的所有信息，以帮助加快我们的回应速度。 此外，请务必向我们清楚地说明，为什么该帐户可能会与您的标志产生混淆，或者该帐户可能会如何削弱或损害您的标志。
+注册商标持有人可通过 [GitHub 支持](https://support.github.com/)向 GitHub 举报可能违反商标政策的行为。 请使用联系表单来提交商标相关的请求，在表单中填写贵公司电子邮件地址以及下方要求的所有信息，以便我们能更快地回复您。 此外，请务必向我们清楚地说明，为什么该帐户可能会与您的标志产生混淆，或者该帐户可能会如何削弱或损害您的标志。
 
 [举报违反商标政策的行为时需要提供哪些信息？](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------

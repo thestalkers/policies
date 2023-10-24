@@ -114,7 +114,7 @@ GitHub 服务条款
 
 * 您对在您的帐户下发布的所有内容和活动负责（包括拥有帐户的其他人在您的帐户下发布的内容）。
 * 你负责维护你的帐户和密码的安全性。 GitHub 不能也不会对您未能遵守此安全保护义务而造成的任何损失或损害承担责任。
-* 如果您知晓了通过您的帐户发生任何未经授权的服务使用或访问，包括未经授权使用您的密码或帐户，请立即[通知 GitHub](https://support.github.com/contact?tags=docs-policy)。
+* 如果您获悉存在通过您的帐户对服务进行未授权的使用或访问（包括未经授权使用您的密码或帐户）时，请通过 [GitHub 支持门户](https://support.github.com/)联系我们，以便立即通知 GitHub。
 
 ### [5.附加条款](#5-additional-terms) ###
 
@@ -298,7 +298,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### [5.付款责任](#5-responsibility-for-payment) ###
 
-您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。 如有争议，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
+您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。 如有争议，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
 
 [L. 取消和终止](#l-cancellation-and-termination)
 ----------
@@ -412,4 +412,4 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 ### [6.问题](#6-questions) ###
 
-对服务条款有疑问？ [联系我们](https://support.github.com/contact?tags=docs-policy)。
+对服务条款有疑问？ 通过 [GitHub 支持门户](https://support.github.com/)联系我们。

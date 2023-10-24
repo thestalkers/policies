@@ -61,7 +61,7 @@ Marketplace を使用するには、13 歳以上 (米国に居住している場
 
 **請求スケジュール、払戻なし。** 支払いスケジュールは、GitHub アカウントの作成時に選択した支払いスケジュール (無料、月払い、年払いなど) によって決まります。 月払いまたは年払いプランの場合、Marketplace での購入はそれぞれ月単位または年単位で事前に請求され、払戻はできません。 サービスの一部月分の払戻やクレジット、ダウングレードの払戻、または未使用の月の払戻はありません。ただし、サービスは有料の請求期間の間、アクティブなままになります。 開発者製品サービスを解約する場合は、画面上部のグローバル ナビゲーション バーの [設定] に移動します。
 
-請求に関して質問、懸念、または異議がある場合は、[GitHub サポート](https://support.github.com/contact?tags=docs-policy)までお問い合わせください。
+請求に関して質問、懸念、または異議がある場合は、[GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。
 
 [E. お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ GitHub は、法的またはポリシー上の理由により、当社のサー�
 
 6. **GitHub へのライセンスのポリシー。** 本 Marketplace 条件は、この[クリエイティブ コモンズ ゼロ ライセンス](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンスされています。 詳細については、[サイト ポリシー リポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
-7. **お問い合わせください。** 「Marketplace 条件」についてご質問はありますか? [お問い合わせください](https://support.github.com/contact?tags=docs-policy)。
+7. **お問い合わせください。** 「Marketplace 条件」についてご質問はありますか? [GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。

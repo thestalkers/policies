@@ -15,7 +15,7 @@ GitHub の死亡ユーザー ポリシー
 
 GitHub ユーザーが死亡した場合、当社は、権限を与えられた人と協力してそのアカウントのコンテンツをどうするかを判断します。
 
-死亡したユーザーの近親者、[事前指定された後継者](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)、または権限を与えられたその他の人 (コラボレーターやビジネス パートナーが含まれる可能性があります) が故人のアカウントに関する要求を行う場合は、<https://support.github.com/contact> で当社にご連絡ください。 メッセージに以下の情報を記入してください。
+死亡したユーザーの近親者、[事前指定された後継者](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)、または権限を与えられたその他の人 (コラボレーターやビジネス パートナーが含まれる可能性があります) が故人のアカウントに関する要求を行う場合は、[GitHub Support ポータル](https://support.github.com/)を通じて当社にご連絡ください。 ポータルで **[お問い合わせ]** をクリックし、メッセージに次の情報を入力してください。
 
 * 名前
 * 連絡先情報

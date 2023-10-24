@@ -32,7 +32,7 @@ Neste artigo
 * [L. Cancelamento e Rescisão.](#l-cancellation-and-termination)
 * [m. Comunicações com o GitHub](#m-communications-with-github)
 * [N. Isenção de garantias](#n-disclaimer-of-warranties)
-* [O. Limitação de Responsabilidade](#o-limitation-of-liability)
+* [O. Limitação de responsabilidade.](#o-limitation-of-liability)
 * [P. Liberação e Indenização](#p-release-and-indemnification)
 * [P. Alterações nestes Termos](#q-changes-to-these-terms)
 * [R. Disposições Gerais](#r-miscellaneous)
@@ -114,7 +114,7 @@ Você é responsável por manter sua Conta segura enquanto usa nosso Serviço. O
 
 * Você é responsável por todo o conteúdo postado e atividade que ocorra em sua Conta (mesmo quando o conteúdo for postado por outras pessoas que tenham Contas em sua Conta).
 * Você é responsável por manter a segurança de sua Conta e senha. O GitHub não pode e não será responsável por qualquer perda ou dano resultante do descumprimento desta obrigação de segurança.
-* Você [notificará o GitHub](https://support.github.com/contact?tags=docs-policy) imediatamente se tomar conhecimento de qualquer uso ou acesso não autorizado ao nosso Serviço por meio de sua Conta, inclusive qualquer uso não autorizado de sua senha ou Conta.
+* Você notificará prontamente o GitHub entrando em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/) se tomar conhecimento de qualquer uso ou acesso não autorizado ao nosso Serviço por meio de sua Conta, inclusive qualquer uso não autorizado de sua senha ou Conta.
 
 ### [5. Termos Adicionais](#5-additional-terms) ###
 
@@ -298,7 +298,7 @@ Ao concordar com estes Termos, você está nos dando permissão para cobrar em s
 
 ### [5. Responsabilidade pelo Pagamento](#5-responsibility-for-payment) ###
 
-Você é responsável por todas as taxas, incluindo impostos, associadas ao uso do Serviço. Ao usar o Serviço, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação ao uso do Serviço. Em caso de desacordo, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy). Você é responsável por nos fornecer um meio de pagamento válido para Contas pagas. As contas gratuitas não são obrigadas a fornecer informações de pagamento.
+Você é responsável por todas as taxas, incluindo impostos, associadas ao uso do Serviço. Ao usar o Serviço, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação ao uso do Serviço. Em caso de desacordo, entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). Você é responsável por nos fornecer um meio de pagamento válido para Contas pagas. As contas gratuitas não são obrigadas a fornecer informações de pagamento.
 
 [L. Cancelamento e Rescisão.](#l-cancellation-and-termination)
 ----------
@@ -351,7 +351,7 @@ O GitHub fornece o Site e o Serviço "como estão" e "conforme disponíveis", se
 
 O GitHub não garante que o Serviço atenderá aos seus requisitos; que o Serviço será ininterrupto, oportuno, seguro ou livre de erros; que as informações fornecidas através do Serviço são precisas, confiáveis ou corretas; que quaisquer defeitos ou erros serão corrigidos; que o Serviço estará disponível em qualquer horário ou local específico; ou que o Serviço está livre de vírus ou outros componentes prejudiciais. Você assume total responsabilidade e risco de perda resultante do download e/ou uso de arquivos, informações, conteúdo ou outro material obtido do Serviço.
 
-[O. Limitação de Responsabilidade](#o-limitation-of-liability)
+[O. Limitação de responsabilidade.](#o-limitation-of-liability)
 ----------
 
 **Versão curta:** *não seremos responsáveis por danos nem perdas decorrentes do uso ou da incapacidade de usar o serviço ou de outra forma decorrentes deste contrato. Leia atentamente esta seção; ela limita nossas obrigações perante você.*
@@ -412,4 +412,4 @@ Este Contrato só pode ser modificado por um aditamento por escrito assinado por
 
 ### [6. Dúvidas](#6-questions) ###
 
-Dúvidas sobre os Termos de Serviço? [Entre em contato conosco](https://support.github.com/contact?tags=docs-policy).
+Dúvidas sobre os Termos de Serviço? Entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/).

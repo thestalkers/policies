@@ -61,7 +61,7 @@ Tous les paiements pour les produits développés passeront par GitHub. Les cond
 
 **Calendrier de Facturation ; Aucun Remboursement.** Votre calendrier de paiement est déterminé par le calendrier de paiement que vous avez choisi lors de la création de votre compte GitHub (par exemple, gratuit, mensuel, annuel). Pour les plans de paiement mensuels ou annuels, les achats sur la Marketplace sont facturés à l'avance sur une base mensuelle ou annuelle respectivement et ne sont pas remboursables. Il n'y aura aucun remboursement ou crédit pour des mois de service partiels, des remboursements de rétrogradation ou des remboursements pour des mois non utilisés ; cependant, le service restera actif pendant toute la durée de la période de facturation payée. Si vous souhaitez annuler les services du produit de développeur, vous pouvez le faire en accédant à vos paramètres dans la barre de navigation globale en haut de l'écran.
 
-Si vous avez une question, un problème ou un litige concernant votre facturation, veuillez contacter l’[Assistance GitHub](https://support.github.com/contact?tags=docs-policy).
+Si vous avez une question, un problème ou un litige concernant votre facturation, veuillez nous contacter via le [portail de support GitHub](https://support.github.com/)
 
 [E. Vos données et la politique de confidentialité de GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ Vous acceptez de nous indemniser, de nous défendre et de nous dégager de toute
 
 6. **Stratégies en matière de licences accordées à GitHub.** Les présentes Conditions de Marketplace sont régies par la présente [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
-7. **Contactez-nous.** Des questions sur les conditions de la place de marché ? [Contactez-nous](https://support.github.com/contact?tags=docs-policy).
+7. **Contactez-nous.** Des questions sur les conditions de la place de marché ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).

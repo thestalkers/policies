@@ -15,7 +15,7 @@ GitHub-Richtlinie für verstorbene Benutzer
 
 Falls ein GitHub-Benutzer stirbt, können wir mit einer autorisierten Person zusammenarbeiten, um festzustellen, was mit dem Inhalt des Kontos passiert.
 
-Wenn Sie Angehöriger, ein [vorab bestimmter Nachfolger](/de/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) oder eine andere autorisierte Person (einschließlich eines Mitarbeiters oder Geschäftspartners) eines verstorbenen Benutzers sind, der bzw. die eine Anfrage bezüglich des Kontos der verstorbenen Person stellen möchte, können Sie sich unter <https://support.github.com/contact> an uns wenden. Bitte geben Sie in Ihrer Nachricht folgende Informationen an:
+Wenn Sie Angehöriger, ein [vorab bestimmter Nachfolger](/de/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) oder eine andere autorisierte Person (einschließlich eines Mitarbeiters oder Geschäftspartners) eines verstorbenen Benutzers sind, der bzw. die eine Anfrage bezüglich des Kontos der verstorbenen Person stellen möchte, können Sie sich über das [GitHub-Support-Portal](https://support.github.com/) an uns wenden. Klicken Sie im Portal auf **Kontaktieren Sie uns**, und geben Sie die folgenden Informationen in Ihrer Nachricht an:
 
 * Name
 * Kontaktinformationen

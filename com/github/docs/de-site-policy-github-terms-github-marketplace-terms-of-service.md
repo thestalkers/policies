@@ -61,7 +61,7 @@ Alle Zahlungen für Entwicklerprodukte erfolgen über GitHub. Die Bedingungen Ih
 
 **Abrechnungsplan; Keine Rückerstattung.** Ihr Zahlungsplan wird durch den Zahlungsplan bestimmt, den Sie bei der Erstellung Ihres GitHub-Kontos gewählt haben (z. B. kostenlos, monatlich, jährlich). Bei monatlichen oder jährlichen Zahlungsplänen werden Marketplace-Käufe monatlich bzw. jährlich im Voraus in Rechnung gestellt und sind nicht erstattungsfähig. Es gibt keine Rückerstattungen oder Gutschriften für angebrochene Servicemonate, Downgrade-Rückerstattungen oder Rückerstattungen für ungenutzte Monate; Der Dienst bleibt jedoch für die Dauer des bezahlten Abrechnungszeitraums aktiv. Wenn Sie die Entwicklerproduktdienste kündigen möchten, können Sie dies tun, indem Sie Ihre Einstellungen in der globalen Navigationsleiste oben auf dem Bildschirm aufrufen.
 
-Wenn Sie Fragen, Bedenken oder Streitigkeiten bezüglich Ihrer Abrechnung haben, wenden Sie sich bitte an [GitHub Support](https://support.github.com/contact?tags=docs-policy).
+Wenn Sie Fragen, Bedenken oder Streitigkeiten bezüglich Ihrer Abrechnung haben, kontaktieren Sie uns bitte über das [GitHub Support-Portal](https://support.github.com/).
 
 [E. Ihre Daten und die Datenschutzrichtlinie von GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ Sie erklären sich damit einverstanden, uns von allen Ansprüchen, Verbindlichke
 
 6. **Lizenz für GitHub-Richtlinien.** Diese Marketplace-Bedingungen sind unter der [Creative Commons Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) lizenziert. Einzelheiten finden Sie in unserem [Repository mit Websiterichtlinien](https://github.com/github/site-policy#license).
 
-7. **Kontaktieren Sie uns.** Fragen zu den Marketplace-Bedingungen? [Kontaktieren Sie uns.](https://support.github.com/contact?tags=docs-policy)
+7. **Kontaktieren Sie uns.** Fragen zu den Marketplace-Bedingungen? Kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/).

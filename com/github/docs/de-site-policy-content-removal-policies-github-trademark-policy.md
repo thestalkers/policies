@@ -43,7 +43,7 @@ Wenn wir Meldungen über Verstöße gegen Markenrichtlinien von Inhabern von bun
 [Wie melde ich einen Verstoß gegen die Markenrichtlinie?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Inhaber von eingetragenen Marken können mögliche Verstöße gegen die Markenrichtlinie über unser [Kontaktformular](https://support.github.com/contact?tags=docs-trademark) an GitHub melden. Bitte reichen Sie markenbezogene Anfragen unter Verwendung Ihrer Firmen-E-Mail-Adresse ein und geben Sie alle unten angeforderten Informationen an, um unsere Antwort zu beschleunigen. Stellen Sie außerdem sicher, dass Sie uns klar beschreiben, warum das Konto zu Verwechslungen mit Ihrer Marke führen kann oder wie das Konto Ihre Marke verwässern oder trüben kann.
+Inhaber von eingetragenen Marken können GitHub über den [GitHub-Support](https://support.github.com/) mögliche Verstöße gegen die Markenrichtlinien melden. Bitte verwenden Sie das Kontaktformular und übermitteln Sie markenbezogene Anfragen unter Verwendung Ihrer Firmen-E-Mail-Adresse ein und geben Sie alle unten angeforderten Informationen an, um unsere Antwort zu beschleunigen. Stellen Sie außerdem sicher, dass Sie uns klar beschreiben, warum das Konto zu Verwechslungen mit Ihrer Marke führen kann oder wie das Konto Ihre Marke verwässern oder trüben kann.
 
 [Welche Informationen sind erforderlich, wenn Verstöße gegen die Markenrichtlinie gemeldet werden?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
@@ -72,7 +72,7 @@ Um Verstöße gegen Markenrichtlinien zu untersuchen, geben Sie bitte alle folge
 
 * Fügen Sie außerdem bitte folgende Erklärung ein: „Ich erkläre, dass die Informationen in dieser Mitteilung richtig sind, und ich erkläre ferner an Eides statt, dass ich befugt bin, im Namen des Inhabers des exklusiven und mutmaßlich verletzten Rechts aufzutreten.”
 
-* Fügen Sie Ihre physische oder elektronische Unterschrift hinzu.
+* Setzen Sie Ihre physische oder elektronische Unterschrift darunter.
 
 * Hinweis: Es ist eine bundesstaatliche oder internationale Markenregistrierungsnummer erforderlich. Wenn der Name, den Sie melden, **keine** eingetragene Marke ist (sondern z. B. eine Regierungsbehörde oder eine gemeinnützige Organisation), teilen Sie uns bitte Folgendes mit:
 

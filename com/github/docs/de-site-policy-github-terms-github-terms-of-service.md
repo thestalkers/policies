@@ -114,7 +114,7 @@ Sie sind dafür verantwortlich, Ihr Konto sicher zu halten, während Sie unseren
 
 * Sie sind für alle unter Ihrem Konto geposteten Inhalte und Aktivitäten verantwortlich (selbst wenn Inhalte von anderen gepostet werden, die Konten unter Ihrem Konto haben).
 * Für die Wahrung der Sicherheit Ihres Kontos und Ihres Kennworts tragen Sie die Verantwortung. GitHub kann und wird nicht für Verluste oder Schäden haftbar gemacht, die durch Ihre Nichteinhaltung dieser Sicherheitsverpflichtung entstehen.
-* Sie werden [GitHub umgehend benachrichtigen](https://support.github.com/contact?tags=docs-policy), wenn Sie Kenntnis von einer unbefugten Nutzung oder einem unbefugten Zugriff auf unseren Dienst über Ihr Konto erhalten, einschließlich einer unbefugten Nutzung Ihres Kennworts oder Kontos.
+* Sie werden GitHub unverzüglich über das [GitHub-Support-Portal](https://support.github.com/) benachrichtigen, wenn Sie Kenntnis von einer unbefugten Nutzung oder einem unbefugten Zugriff auf unseren Dienst über Ihr Konto erhalten, einschließlich einer unbefugten Nutzung Ihres Kennworts oder Kontos.
 
 ### [5. Zusätzliche Geschäftsbedingungen](#5-additional-terms) ###
 
@@ -298,7 +298,7 @@ Indem Sie diesen Bedingungen zustimmen, erteilen Sie uns die Erlaubnis, Ihre hin
 
 ### [5. Verantwortung für die Zahlung](#5-responsibility-for-payment) ###
 
-Sie sind für alle Gebühren, einschließlich Steuern, im Zusammenhang mit Ihrer Nutzung des Dienstes verantwortlich. Durch die Nutzung des Dienstes erklären Sie sich damit einverstanden, GitHub alle Gebühren zu zahlen, die im Zusammenhang mit Ihrer Nutzung des Dienstes entstehen. Wenn Sie die Angelegenheit anfechten, wenden Sie sich an den [GitHub Support](https://support.github.com/contact?tags=docs-policy). Sie sind dafür verantwortlich, uns ein gültiges Zahlungsmittel für bezahlte Konten bereitzustellen. Kostenlose Konten müssen keine Zahlungsinformationen angeben.
+Sie sind für alle Gebühren, einschließlich Steuern, im Zusammenhang mit Ihrer Nutzung des Dienstes verantwortlich. Durch die Nutzung des Dienstes erklären Sie sich damit einverstanden, GitHub alle Gebühren zu zahlen, die im Zusammenhang mit Ihrer Nutzung des Dienstes entstehen. Wenn Sie die Angelegenheit anfechten, kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/). Sie sind dafür verantwortlich, uns ein gültiges Zahlungsmittel für bezahlte Konten bereitzustellen. Kostenlose Konten müssen keine Zahlungsinformationen angeben.
 
 [L. Auflösung und Kündigung](#l-cancellation-and-termination)
 ----------
@@ -412,4 +412,4 @@ Diese Vereinbarung darf nur durch eine schriftliche Änderung geändert werden, 
 
 ### [6. Fragen](#6-questions) ###
 
-Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://support.github.com/contact?tags=docs-policy)
+Fragen zu den Nutzungsbedingungen? Kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/).

@@ -36,7 +36,7 @@ Fecha de entrada en vigor: 20 de noviembre de 2020
 [A. Condiciones de servicio de GitHub.com](#a-githubcoms-terms-of-service)
 ----------
 
-Estos Términos y condiciones de las aplicaciones de código abierto de GitHub ("Términos de la aplicación") son un acuerdo legal entre usted (ya sea como individuo o en nombre de una entidad) y GitHub, Inc. con respecto a su uso de las aplicaciones de GitHub, como GitHub Desktop™ y documentación asociada ("Software"). Si configura los Productos para desarrolladores para que funcionen con una o más cuentas en el sitio web GitHub.com, su uso de los Productos para desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento se definirá en sus Términos de GitHub aplicables.
+GitHub proporciona Marketplace y se rige por estos Términos de Marketplace combinados con su acuerdo principal con nosotros: los [Términos del servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) o el Acuerdo de cliente de GitHub, o los [Términos de servicio corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service) u otro acuerdo heredado de GitHub o un contrato de licencias por volumen de Microsoft. Si configura los Productos para desarrolladores para que funcionen con una o más cuentas en el sitio web GitHub.com, su uso de los Productos para desarrolladores también se regirá por los Términos de GitHub aplicables. Cualquier término en mayúscula que no esté definido en este documento se definirá en sus Términos de GitHub aplicables.
 
 No puede usar un Producto de desarrollador para violar sus Términos de GitHub aplicables. Muchos de estos Productos para desarrolladores se utilizan exclusivamente para realizar tareas automatizadas. Además, múltiples Usuarios pueden dirigir las acciones de un Producto de desarrollador. Sin embargo, si compra y/o configura un Producto de desarrollador en su cuenta, o es propietario de una cuenta con un Producto de desarrollador integrado, será responsable de las acciones del Producto de desarrollador que se realicen en su cuenta o a través de ella.
 
@@ -61,7 +61,7 @@ Todos los pagos de los Productos para desarrolladores se realizarán a través d
 
 **Calendario de Pagos; No se Realizan Reembolsos.** Su cronograma de pago está determinado por el cronograma de pago que eligió cuando creó su cuenta de GitHub (por ejemplo, gratis, mensual, anual). Para los planes de pago mensuales o anuales, las compras en Marketplace se facturan por adelantado en forma mensual o anual, respectivamente, y no son reembolsables. No habrá reembolsos ni créditos por meses parciales de servicio, reembolsos por reducción de categoría o reembolsos por meses no utilizados; sin embargo, el servicio permanecerá activo durante el período de facturación pagado. Si desea cancelar los servicios del Producto de desarrollador, puede hacerlo accediendo a su Configuración en la barra de navegación global en la parte superior de la pantalla.
 
-Si tiene alguna pregunta, duda o desacuerdo con respecto a su facturación, póngase en contacto con el [Soporte Técnico de GitHub](https://support.github.com/contact?tags=docs-policy).
+Si tiene alguna pregunta, duda o desacuerdo con respecto a su facturación, póngase en contacto con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).
 
 [E. Sus datos y la política de privacidad de GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ Usted acepta indemnizarnos, defendernos y eximirnos de toda responsabilidad fren
 
 6. **Directivas de Concesión de Licencias a GitHub.** Los Términos de Marketplace se otorgan bajo esta [Licencia Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más información, consulte nuestro [repositorio de directivas del sitio](https://github.com/github/site-policy#license).
 
-7. **Contáctenos.** ¿Preguntas sobre los Términos del Mercado? [Contáctenos](https://support.github.com/contact?tags=docs-policy).
+7. **Contáctenos.** ¿Preguntas sobre los Términos del Mercado? Contacte con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).

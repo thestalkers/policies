@@ -15,7 +15,7 @@
 
 В случае смерти пользователя GitHub мы можем работать с уполномоченным лицом, чтобы определить, что произойдет с содержимым учетной записи.
 
-Если вы являетесь ближайшим родственником, [предварительно назначенным наследником](/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) или другим уполномоченным лицом (например, коллегой или бизнес-партнером) умершего пользователя и хотите отправить запрос, связанный с учетной записью умершего пользователя, вы можете связаться с нами на странице <https://support.github.com/contact>. В сообщении укажите следующую информацию:
+Если вы являетесь ближайшим родственником, [предварительно назначенным наследником](/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) или другим уполномоченным лицом (например, коллегой или бизнес-партнером) умершего пользователя и хотите отправить запрос, связанный с учетной записью умершего пользователя, вы можете связаться с нами через [Портал поддержки GitHub](https://support.github.com/). Нажмите кнопку **Связаться с нами** на портале и укажите в сообщении следующие сведения:
 
 * Наименование
 * Контактные сведения

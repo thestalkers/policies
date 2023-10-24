@@ -43,7 +43,7 @@ Lorsque nous recevons des rapports de non-respect des règles en matière de mar
 [Comment puis-je signaler une violation de la politique relative aux marques ?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Les détenteurs de marques déposées peuvent signaler à GitHub d'éventuelles violations de la politique relative aux marques en utilisant notre [formulaire de contact](https://support.github.com/contact?tags=docs-trademark). Veuillez soumettre les demandes relatives aux marques en utilisant l'adresse e-mail de votre entreprise et inclure toutes les informations demandées ci-dessous pour nous aider à accélérer notre réponse. Assurez-vous également de nous décrire clairement pourquoi le compte peut prêter à confusion avec votre marque ou comment le compte peut diluer ou ternir votre marque.
+Les détenteurs de marques commerciales peuvent signaler à GitHub d'éventuelles violations de la politique relative aux marques commerciales en utilisant notre [GitHub Support](https://support.github.com/). Veuillez utiliser le formulaire de contact et soumettre vos demandes relatives aux marques commerciales en utilisant l'adresse e-mail de votre entreprise et en incluant toutes les informations demandées ci-dessous afin d'accélérer notre réponse. Assurez-vous également de nous décrire clairement pourquoi le compte peut prêter à confusion avec votre marque ou comment le compte peut diluer ou ternir votre marque.
 
 [Quelles informations sont requises lors du signalement de violations de la politique en matière de marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
@@ -72,7 +72,7 @@ Afin d'enquêter sur les cas de non-respect des règles relatives aux marques, v
 
 * Ajoutez également la déclaration suivante : « Je jure, sous peine de parjure, que les informations contenues dans cette notification sont exactes et que je suis le propriétaire de la marque commerciale, ou que je suis autorisé à agir au nom du propriétaire, d'un droit exclusif qui aurait été violé ».
 
-* Incluez votre signature physique ou électronique.
+* Ajoutez votre signature physique ou électronique.
 
 * Remarque : vous devez fournir un numéro d'enregistrement de marque commerciale fédéral ou international. Si le nom que vous déclarez n'est **pas** une marque commerciale (par exemple, un organisme gouvernemental ou à but non lucratif), veuillez nous en informer :
 

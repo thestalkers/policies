@@ -61,7 +61,7 @@ Todos os pagamentos para produtos do desenvolvedor passarão pelo GitHub. Os ter
 
 **Cronograma de Cobrança; Sem Reembolsos.** Seu cronograma de pagamento é determinado pelo cronograma de pagamento que você escolheu quando criou sua conta do GitHub (por exemplo, gratuito, mensal, anual). Para planos de pagamento mensal ou anual, as compras do Marketplace são cobradas antecipadamente mensalmente ou anualmente, respectivamente, e não são reembolsáveis. Não haverá reembolsos ou créditos por meses parciais de serviço, reembolsos de downgrade ou reembolsos por meses não utilizados; no entanto, o serviço permanecerá ativo durante o período de cobrança pago. Se você deseja cancelar os serviços do Produto do Desenvolvedor, pode fazê-lo acessando suas Configurações na barra de navegação global na parte superior da tela.
 
-Se você tiver alguma dúvida, preocupação ou controvérsia em relação à cobrança, entre em contato com o [Suporte do GitHub](https://support.github.com/contact?tags=docs-policy).
+Se você tiver alguma dúvida, preocupação ou controvérsia em relação à cobrança, entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/).
 
 [E. Seus dados e a política de privacidade do GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ Você concorda em nos indenizar, nos defender e nos isentar de todas e quaisquer
 
 6. **Políticas de Licença do GitHub.** Estes Termos do Marketplace são licenciados segundo esta [Licença Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obter detalhes, consulte o [repositório de políticas do site](https://github.com/github/site-policy#license).
 
-7. **Entre em contato conosco.** Dúvidas sobre os Termos do Marketplace? [Entre em contato conosco](https://support.github.com/contact?tags=docs-policy).
+7. **Entre em contato conosco.** Dúvidas sobre os Termos do Marketplace? Entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/).

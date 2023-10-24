@@ -61,7 +61,7 @@ Marketplace 由 GitHub 提供，受 Marketplace 条款以及您与我们签订�
 
 **计费计划；无退款。** 您的付款计划由您在创建 GitHub 帐户时选择的付款计划而定（例如，免费、按月付款、按年付款）。 对于按月付款或按年付款计划，将每个月或每年提前开具 Marketplace 交易账单，并且不予退款。 不提供针对部分服务月份的退款或抵扣、降级退款或未使用月份退款，但服务将在整个已付费的账单期间始终有效。 如需取消开发人员产品服务，您可以前往屏幕底部全局导航栏中的“设置”中执行此操作。
 
-如果您对账单有疑问、顾虑或争议，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。
+如果您对账单有疑问、顾虑或争议，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 
 [E. 您的数据和 GitHub 隐私政策](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ GitHub.com 可能会不时通过远程服务器（由 GitHub 或第三方托管�
 
 6. **GitHub 政策的许可。** 这些 Marketplace 条款根据本[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)获得许可。 有关更多信息，请参阅我们的[站点政策存储库](https://github.com/github/site-policy#license)。
 
-7. **联系我们。** 对 Marketplace 条款有疑问？ [联系我们](https://support.github.com/contact?tags=docs-policy)。
+7. **联系我们。** 对 Marketplace 条款有疑问？ 通过 [GitHub 支持门户](https://support.github.com/)联系我们。

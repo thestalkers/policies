@@ -83,4 +83,4 @@ GitHub se réserve le droit, à tout moment et de temps à autre, de modifier ou
 
 6. Stratégies en matière de licences accordées à GitHub. Les présentes Conditions générales relatives aux Applications sont régies par la présente [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
-7. Contactez-nous. Des questions sur les conditions d'utilisation ? [Contactez-nous](https://support.github.com/contact?tags=docs-policy).
+7. Contactez-nous. Des questions sur les conditions d'utilisation ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).

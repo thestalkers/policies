@@ -174,7 +174,7 @@ GitHub Pages 受某些特定带宽和使用限制的约束，可能不适用于�
 
 对 GitHub Pages 的使用不得违反协议、GitHub [可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Pages 文档](/zh/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)规定的 GitHub Pages 服务限制。
 
-如果您对用途或预期用途是否归入这些类别有疑问，请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-policy)。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
+如果您对用途或预期用途是否归入这些类别有疑问，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。 GitHub 保留随时收回任何 GitHub 子域而不承担任何责任的权利。
 
 *学习练习*
 

@@ -83,4 +83,4 @@ GitHub se reserva el derecho en cualquier momento y de vez en cuando de modifica
 
 6. Directivas de Concesión de Licencias a GitHub. La licencia de estos Términos de Aplicaciones se otorga bajo esta [Licencia Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más información, consulte nuestro [repositorio de directivas del sitio](https://github.com/github/site-policy#license).
 
-7. Contáctenos. ¿Preguntas sobre los Términos de servicio? [Contáctenos](https://support.github.com/contact?tags=docs-policy).
+7. Contáctenos. ¿Preguntas sobre los Términos de servicio? Contacte con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).
