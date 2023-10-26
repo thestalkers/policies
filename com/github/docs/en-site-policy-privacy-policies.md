@@ -14,6 +14,8 @@ Privacy Policies
 
 * [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement)
 
+* [GitHub Subprocessors](/en/site-policy/privacy-policies/github-subprocessors)
+
 * [GitHub Subprocessors and Cookies](/en/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 * [GitHub Codespaces Privacy Statement](/en/site-policy/privacy-policies/github-codespaces-privacy-statement)

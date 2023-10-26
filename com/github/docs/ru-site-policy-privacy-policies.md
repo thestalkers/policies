@@ -14,6 +14,8 @@
 
 * [Заявление о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-privacy-statement)
 
+* [GitHub Subprocessors](/ru/site-policy/privacy-policies/github-subprocessors)
+
 * [Подпроцессоры GitHub и файлы cookie](/ru/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 * [Заявление о конфиденциальности GitHub Codespaces](/ru/site-policy/privacy-policies/github-codespaces-privacy-statement)

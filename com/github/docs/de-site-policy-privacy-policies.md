@@ -14,6 +14,8 @@ Datenschutzrichtlinien
 
 * [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement)
 
+* [GitHub Subprocessors](/de/site-policy/privacy-policies/github-subprocessors)
+
 * [GitHub-Subprozessoren und Cookies](/de/site-policy/privacy-policies/github-subprocessors-and-cookies)
 
 * [GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
