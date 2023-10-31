@@ -14,9 +14,9 @@
 
 * [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)
 
-* [GitHub Subprocessors](/zh/site-policy/privacy-policies/github-subprocessors)
+* [GitHub 次级处理者](/zh/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub 次级处理者和 Cookie](/zh/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [GitHub Cookies](/zh/site-policy/privacy-policies/github-cookies)
 
 * [GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
 

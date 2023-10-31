@@ -14,9 +14,9 @@
 
 * [GitHub のプライバシー ステートメント|プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)
 
-* [GitHub Subprocessors](/ja/site-policy/privacy-policies/github-subprocessors)
+* [GitHub の下請処理者](/ja/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub の下請処理者と Cookie](/ja/site-policy/privacy-policies/github-subprocessors-and-cookies)
+* [GitHub Cookies](/ja/site-policy/privacy-policies/github-cookies)
 
 * [GitHub Codespaces プライバシーに関する声明](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
