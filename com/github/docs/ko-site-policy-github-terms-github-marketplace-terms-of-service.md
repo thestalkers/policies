@@ -61,7 +61,7 @@ Marketplace를 사용하려면 만 13세 이상인 자(미국에 거주하는 �
 
 **청구 일정표, 환불 없음.** 대금 지급 일정은 GitHub 계정을 만들 때 선택한 대금 지급 일정(예: 임의, 월간, 연간)에 따라 결정됩니다. 월별 또는 연간 대금 지급 계획의 경우, Marketplace 구매 건들은 각각 월별 또는 연간 기준으로 미리 청구되며 구매 대금은 환불되지 않습니다. 일부 서비스 기간(개월), 다운그레이드 환불 또는 사용하지 않은 기간(개월)에 대한 환불에 대해서는 환불 또는 크레딧이 제공되지 않습니다. 그러나 서비스는 유료 청구 기간 동안 활성 상태로 유지됩니다. 개발자 제품 서비스를 취소하려면 화면 상단의 전역 탐색 모음에서 설정으로 이동하여 취소할 수 있습니다.
 
-청구와 관련하여 궁금한 점이나 우려되는 사항 또는 분쟁이 있을 경우, [GitHub 지원](https://support.github.com/contact?tags=docs-policy)에 문의하시기 바랍니다.
+청구와 관련하여 궁금한 점이나 우려되는 사항 또는 분쟁이 있을 경우, [GitHub 지원](https://support.github.com/)에 문의하시기 바랍니다.
 
 [E. 귀하의 데이터와 GitHub 개인 정보 보호정책](#e-your-data-and-githubs-privacy-policy)
 ----------
@@ -115,4 +115,4 @@ GitHub는 통지 여부에 관계없이 Marketplace(또는 그 일부)를 일시
 
 6. **GitHub 정책에 대한 라이선스.** 본 Marketplace 약관은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
 
-7. **문의하기.** Marketplace 약관에 관하여 궁금한 점이 있습니까? [문의하기](https://support.github.com/contact?tags=docs-policy).
+7. **문의하기.** Marketplace 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.

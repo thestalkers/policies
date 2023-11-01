@@ -139,7 +139,7 @@ GitHub는 부적절한 행위나 콘텐츠에 대해 다양한 조치를 취할 
 [GitHub 직원에게 연락](#contacting-github-staff)
 ----------
 
-어떤 이유로든 GitHub 커뮤니티의 GitHub 직원, 커뮤니티 매니저, 관리자 또는 중재자에게 비공개로 연락하려면 [지원 문의 양식](https://support.github.com/contact?tags=docs-community-support)을 사용하시기 바랍니다. 원치 않는 멘션이나 핑, GitHub 커뮤니티 자체가 아닌 다른 채널, 또는 지원 문의 양식을 통해 GitHub 직원에게 연락하는 것은 결코 권장하지 않으며 GitHub의 괴롭힘 금지 규정을 위반하는 것으로 간주될 수 있습니다.
+어떤 이유로든 GitHub 커뮤니티의 GitHub 직원, 커뮤니티 매니저, 관리자 또는 중재자에게 비공개로 연락하려면 [GitHub 지원 포털](https://support.github.com/)을 통해 GitHub 지원에 문의하시기 바랍니다. 원치 않는 멘션이나 핑, GitHub 커뮤니티 자체가 아닌 다른 채널, 또는 지원 문의 양식을 통해 GitHub 직원에게 연락하는 것은 결코 권장하지 않으며 GitHub의 괴롭힘 금지 규정을 위반하는 것으로 간주될 수 있습니다.
 
 GitHub 커뮤니티를 사람들이 자신과 시간을 존중하여 안심하고 참여할 수 있는 곳으로 유지하기 위해 함께 노력합시다.
 
@@ -152,4 +152,4 @@ GitHub 커뮤니티를 사람들이 자신과 시간을 존중하여 안심하�
 
 ### [데이터의 보존 및 삭제](#data-retention-and-deletion-of-data) ###
 
-귀하가 이미 GitHub 사용자라면 [사용자 프로필을 편집](https://github.com/settings/profile)하거나 [GitHub 지원](https://support.github.com/contact)에 문의하여 귀하의 기본 사용자 프로필 정보에 액세스하고 동 정보를 업데이트, 변경 또는 삭제할 수 있습니다. GitHub는 당사의 법적 의무를 준수하고 분쟁을 해결하며 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유하고 사용할 것이며, 다만 법적 요구 사항을 제외하면 귀하의 요청 후 90일 이내에 귀하의 전체 프로필을 (합당한 범위 내에서) 삭제할 것입니다. 자세한 내용은 “[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)”을 참조하세요.
+귀하가 이미 GitHub 사용자라면 [사용자 프로필을 편집](https://github.com/settings/profile)하거나 [GitHub 지원](https://support.github.com/)에 문의하여 귀하의 기본 사용자 프로필 정보에 액세스하고 동 정보를 업데이트, 변경 또는 삭제할 수 있습니다. GitHub는 당사의 법적 의무를 준수하고 분쟁을 해결하며 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유하고 사용할 것이며, 다만 법적 요구 사항을 제외하면 귀하의 요청 후 90일 이내에 귀하의 전체 프로필을 (합당한 범위 내에서) 삭제할 것입니다. 자세한 내용은 “[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)”을 참조하세요.

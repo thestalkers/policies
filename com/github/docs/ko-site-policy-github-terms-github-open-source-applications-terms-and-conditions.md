@@ -28,7 +28,7 @@ GitHub 오픈 소스 애플리케이션 계약조건
 [GitHub에 연결](#connecting-to-github)
 ----------
 
-GitHub.com 웹 사이트 또는 GitHub Enterprise Server 또는 GitHub AE 배포에서 하나 이상의 계정으로 작동하도록 소프트웨어를 구성하는 경우 소프트웨어 사용은 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 GitHub Enterprise Server 또는 GitHub AE("GitHub 약관")의 배포에 적용되는 사용권 계약에 의해 관리됩니다.
+하나 또는 둘 이상의 GitHub.com 웹 사이트 계정이나 GitHub Enterprise Server 또는 GitHut AE 배포와 함께 작동하도록 소프트웨어를 구성하는 경우, 소프트웨어 사용에는 귀하의 GitHub Enterprise Server 또는 GitHut AE 배포에 적용되는 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 라이선스 계약("GitHub 약관")도 적용됩니다.
 
 귀하의 해당 GitHub 약관을 위반하는 소프트웨어의 사용도 본 애플리케이션 약관을 위반한 것으로 간주됩니다.
 
@@ -37,7 +37,7 @@ GitHub.com 웹 사이트 또는 GitHub Enterprise Server 또는 GitHub AE 배포
 
 소프트웨어에 대한 오픈 소스 라이선스는 소프트웨어에 포함된 "오픈 소스 표시" 설명서에 포함되어 있습니다. 해당 설명서에는 적용 가능한 모든 오픈 소스 라이선스의 사본도 포함되어 있습니다.
 
-오픈 소스 구성 요소에 적용되는 라이선스의 약정 조건에서 GitHub가 소프트웨어와 관련하여 소스 코드 제공을 제안해야 하는 경우, 본 약관에 따라 그러한 제안을 진행하며 귀하는 GitHub에 연락하여 이를 실행할 수 있습니다(연락처: <https://github.com/contact>
+오픈 소스 구성 요소에 적용되는 라이선스의 약정 조건에서 GitHub가 소프트웨어와 관련하여 소스 코드 제공을 제안해야 하는 경우, 본 약관에 따라 그러한 제안을 진행하며 귀하는 GitHub에 연락하여 이를 실행할 수 있습니다(연락처: <https://github.com/contact>).
 
 GitHub와 별도의 서면 합의를 하지 않는 한, 귀하와 GitHub의 계약에는 항상 본 애플리케이션 약관이 최소한의 조건으로 포함됩니다. 소프트웨어의 소스 코드에 대한 오픈 소스 소프트웨어 라이선스는 별도의 서면 계약을 구성합니다. 오픈 소스 소프트웨어 라이선스가 본 애플리케이션 약관을 명시적으로 대체하는 한, 오픈 소스 라이선스는 소프트웨어 또는 소프트웨어에 포함된 특정 구성 요소의 사용에 대한 GitHub와의 계약에 적용됩니다.
 
@@ -46,7 +46,7 @@ GitHub와 별도의 서면 합의를 하지 않는 한, 귀하와 GitHub의 계�
 
 소프트웨어에 포함된 라이선스 허여는 소프트웨어 로고 디자인을 포함하는 GitHub의 상표에 대한 것이 아닙니다. GitHub는 모든 GitHub 상표에 귀속되는 모든 상표 및 저작권을 보유합니다. 예를 들어, GitHub의 로고는 "logos" 폴더의 파일 제목에 "logo"가 포함된 양식화된 디자인을 포함합니다.
 
-GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 GitHub 로고 및/또는 스타일화된 이름은 GitHub의 상표입니다. 귀하는 GitHub의 사전 서면 허가 없이 어떤 방식으로든 이러한 상표를 표시하거나 사용하지 않는다는 데 동의합니다. 단, GitHub의 로고 및 사용 정책( [https://github.com/logos)에서](https://github.com/logos)%EC%97%90%EC%84%9C) 그러한 표시 또는 사용을 허용하는 경우는 예외로 합니다.
+GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 GitHub 로고 및/또는 양식화된 이름은 GitHub의 상표입니다. 귀하는 GitHub의 로고 및 사용 정책([https://github.com/logos)에서](https://github.com/logos)%EC%97%90%EC%84%9C) 허용하는 경우를 제외하고 GitHub의 사전 서면 허가 없이 어떤 방식으로든 이러한 상표를 표시하거나 사용하지 않는다는 데 동의합니다.
 
 [개인 정보 보호](#privacy)
 ----------
@@ -81,6 +81,6 @@ GitHub는 통지 여부에 관계없이 서비스(또는 그 일부)를 일시�
 
 5. 수정 금지, 완전 합의. 이 애플리케이션 약관은 GitHub의 수권 대리인이 서명한 서면 수정안 또는 GitHub의 약관 수정본 게시를 통해서만 수정할 수 있습니다. 본 애플리케이션 약관은 적용 가능한 오픈 소스 라이선스 및 고지 사항 그리고 GitHub 개인정보취급방침과 함께 귀하와 GitHub 간에 체결한 계약의 완전하고 배타적인 문서에 해당합니다. 본 애플리케이션 약관은 본 약관의 주제와 관련하여 귀하와 GitHub 간의 모든 제안이나 사전 구두 또는 서면 합의 및 그 밖의 모든 전언보다 우선합니다.
 
-6. GitHub 정책에 대한 라이선스. 본 애플리케이션 약관은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하세요.
+6. GitHub 정책에 대한 라이선스. 본 애플리케이션 약관은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
 
-7. 문의하기. 서비스 약관에 관하여 궁금한 점이 있습니까? [지금 문의하십시오](https://support.github.com/contact?tags=docs-policy).
+7. 문의하기. 서비스 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.

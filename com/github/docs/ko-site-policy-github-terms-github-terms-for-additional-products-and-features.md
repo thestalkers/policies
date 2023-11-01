@@ -174,7 +174,7 @@ GitHub Pages에는 일부 특정 대역폭 및 사용량 한도가 적용되며,
 
 GitHub Pages는 계약, GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) 또는 [Pages 설명서](/ko/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages)에 명시된 GitHub Pages 서비스 제한을 위반하여 사용할 수 없습니다.
 
-사용 또는 의도한 사용이 이러한 범주에 속하는지 여부에 대한 질문이 있는 경우, [GitHub 지원](https://support.github.com/contact?tags=docs-policy)에 문의하시기 바랍니다. GitHub는 언제든지 책임을 지지 않고 GitHub 하위 도메인을 회수할 수 있는 권리를 보유합니다.
+사용 또는 의도한 사용이 이러한 범주에 속하는지 여부에 대한 질문이 있는 경우, [GitHub 지원](https://support.github.com/)에 문의하시기 바랍니다. GitHub는 언제든지 책임을 지지 않고 GitHub 하위 도메인을 회수할 수 있는 권리를 보유합니다.
 
 *교육 연습*
 

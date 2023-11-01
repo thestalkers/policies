@@ -47,7 +47,7 @@ GitHub 개인 정보 제거 정책
 * 귀하 또는 귀하의 조직의 저작권을 침해할 수 있는 콘텐츠 제거 요청. GitHub의 저작권 관련 문제 처리 방법에 대한 질문이 있거나 잠재적 침해 콘텐츠를 신고하려는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하세요. 개인 정보 제거 프로세스는 일반적으로 전체 파일이나 리포지토리가 아니라 해당 파일의 특정 개인 정보만 제거하기 위한 것입니다. 파일 전체가 개인 정보로 채워진 경우도 있을 수 있지만 그러한 파일을 제거해야 할 보안 위험을 정당화해야 하며, 이 경우 요청 처리에 필요한 시간이 늘어날 수 있습니다.
 * 상표 분쟁. GitHub의 상표 관련 문제 처리 방법에 대한 질문이 있거나 귀하의 조직의 상표 또는 서비스 마크가 포함된 콘텐츠를 신고하려는 경우 [상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)을 참조하세요.
 * 개인 정보 불만 사항. GitHub에 있는 귀하의 개인 정보에 액세스하거나 전송, 변경 또는 삭제하려면 [GitHub 개인 정보 보호 문의 양식](https://github.com/contact/privacy)을 통해 문의하세요.
-* GitHub [커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)이 적용되는 콘텐츠(예: 맬웨어 또는 범용 도구). 커뮤니티 가이드라인에 대한 질문이 있거나 GitHub의 콘텐츠가 GitHub 가이드라인을 위반할 수 있다고 믿는 경우, [보고서 내용](https://github.com/contact/report-content)을(를) 사용하여 문의하실 수 있습니다.
+* GitHub [커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)이 적용되는 콘텐츠(예: 맬웨어 또는 범용 도구). 커뮤니티 가이드라인에 대한 질문이 있거나 GitHub의 콘텐츠가 GitHub 가이드라인을 위반할 수 있다고 믿는 경우, 을(를) 사용하여 문의하실 수 있습니다.
 
 [유의 사항](#things-to-know)
 ----------
