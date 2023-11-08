@@ -22,6 +22,6 @@ Politiques de Confidentialité
 
 * [Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [Déclaration de confidentialité de GitHub Copilot for Business](/fr/site-policy/privacy-policies/github-copilot-for-business-privacy-statement)
+* [GitHub Copilot Business Privacy Statement](/fr/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [Conditions d'utilisation du service GitHub Octernships](/fr/site-policy/privacy-policies/github-octernships-terms-of-service)
