@@ -2,9 +2,9 @@ Divulgation coordonnée des vulnérabilités de sécurité - Documentation GitHu
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de Sécurité](/fr/site-policy/security-policies)/

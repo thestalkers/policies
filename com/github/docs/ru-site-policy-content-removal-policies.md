@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/ru)
+[Home](/ru)
 
-[Site policy](/site-policy)
+[Site policy](/ru/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики удаления контента](/ru/site-policy/content-removal-policies)

@@ -2,9 +2,9 @@ GitHub-Richtlinie für verstorbene Benutzer - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/

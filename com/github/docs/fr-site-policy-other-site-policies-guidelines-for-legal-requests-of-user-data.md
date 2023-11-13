@@ -2,9 +2,9 @@ Lignes directrices pour les demandes légales de données utilisateur - Document
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Autres politiques du site](/fr/site-policy/other-site-policies)/

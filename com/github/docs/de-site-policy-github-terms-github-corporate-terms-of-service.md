@@ -2,9 +2,9 @@ GitHub-Vertragsbedingungen für Unternehmen - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/
@@ -27,16 +27,16 @@ In diesem Artikel
 * [H. Übertragung von Abonnementlizenzen](#h-subscription-licenses)
 * [I. Verbundene Unternehmen](#i-affiliates)
 * [J. Zahlung](#j-payment)
-* [K. Laufzeit, Kündigung; Aussetzung](#k-term-termination-suspension)
-* [L. Kommunikation mit GitHub](#l-communications-with-github)
-* [M. Beschränkte Garantie; Gewährleistungsausschluss](#m-limited-warranty-disclaimer)
-* [N. Haftungsbeschränkungen](#n-limitations-of-liability)
-* [O. Verteidigung gegen Ansprüche; Freistellung](#o-defense-of-claims-release)
-* [P. Vertraulichkeit](#p-confidentiality)
-* [Q. Professional Services](#q-professional-services)
-* [R. Änderungen des Dienstes oder der Bedingungen](#r-changes-to-the-service-or-terms)
-* [S. Support](#s-support)
-* [T. Sonstiges](#t-miscellaneous)
+* [K. Laufzeit, Kündigung; Aussetzung](#1-term)
+* [L. Kommunikation mit GitHub](#1-electronic-communication-required)
+* [M. Beschränkte Garantie; Gewährleistungsausschluss](#n-limitations-of-liability)
+* [N. Haftungsbeschränkungen](#o-defense-of-claims-release)
+* [O. Verteidigung gegen Ansprüche; Freistellung](#1-by-github)
+* [P. Vertraulichkeit](#q-expert-services)
+* [Q. Professional Services](#r-changes-to-the-service-or-terms)
+* [R. Änderungen des Dienstes oder der Bedingungen](#s-support)
+* [S. Support](#t-miscellaneous)
+* [T. Sonstiges](#1-governing-law)
 
 **Hinweis:** Die GitHub-Vertragsbedingungen für Unternehmen wurden am 30. November 2021 eingestellt und werden nicht mehr für neue Kunden verwendet. Die nachstehenden Bedingungen gelten *nur* für die GitHub-Kunden mit ausgeführten Vereinbarungen, die explizit auf die Vertragsbedingungen für Unternehmen verweisen. Alle anderen Geschäfts- oder Einrichtungskunden werden an die Bedingungen des GitHub-Kundenvertrags weitergeleitet, die unter [github.com/customer-terms](https://github.com/customer-terms) verfügbar sind.
 
@@ -272,30 +272,30 @@ Die Verbundenen Unternehmen des Kunden sind berechtigt, die Produkte in Überein
 
 Der Kunde kann zusätzliche Abonnementlizenzen im Rahmen dieser Vereinbarung erhalten, indem er eine Anfrage über den Service oder über sein Vertriebsteam stellt. Wenn der Kunde die zusätzlichen Abonnementlizenzen erwirbt, muss der Kunde die dann aktuell geltenden Gebühren dafür bezahlen, anteilig für den Restbetrag der anwendbaren Abonnementlaufzeit. Bei Verlängerung der Abonnementlizenzen des Kunden für eine weitere Abonnementlaufzeit stellt GitHub alle Abonnementlizenzen auf einmal jährlich in Rechnung, sofern in einem Bestellformular nichts anderes angegeben ist.
 
-### [3. Professional Services-Guthaben.](#3-professional-services-credits) ###
+### [3. Professional Services-Guthaben.](#3-authorization) ###
 
 Wenn der Kunde Guthaben für professionelle Dienstleistungen verwendet, um für professionelle Dienstleistungen zu bezahlen, werden die entsprechenden Guthaben für professionelle Dienstleistungen nach Erhalt einer SOW vom Guthaben für professionelle Dienstleistungen des Kunden abgezogen. Der Kunde ist dafür verantwortlich sicherzustellen, dass seine an GitHub ausgestellte Bestellung für die Professional Services die in der SOW festgelegten Preise widerspiegelt. Wenn es einen Unterschied zwischen den in der SOW aufgeführten Preisen und den in der Bestellung des Kunden aufgeführten Preisen gibt, gelten die Preise in der SOW. Die Parteien vereinbaren, dass SOWs, die über Professional Services Credits zu zahlen sind, nicht von einer der Parteien unterzeichnet werden müssen, um gültig und durchsetzbar zu sein. Alle Professional Services-Guthaben müssen innerhalb der im Bestellformular angegebenen Zeit verwendet werden. Andernfalls werden sie automatisch und endgültig storniert. Der Kunde darf Professional Services Credits nicht für Reise- und Übernachtungskosten verwenden, die separat in Rechnung gestellt werden müssen.
 
-### [4. Autorisierung](#4-authorization) ###
+### [4. Autorisierung](#k-term-termination-suspension) ###
 
 Der Kunde autorisiert GitHub, die hinterlegte Kreditkarte, das PayPal-Konto oder andere genehmigte Zahlungsmethoden für Gebühren zu belasten.
 
-[K. Laufzeit, Kündigung; Aussetzung](#k-term-termination-suspension)
+[K. Laufzeit, Kündigung; Aussetzung](#1-term)
 ----------
 
-### [1. Laufzeit](#1-term) ###
+### [1. Laufzeit](#2-termination-for-convenience-account-cancellation) ###
 
 Diese Vereinbarung beginnt am Datum des Inkrafttretens und bleibt in Kraft, bis sie von einer Partei gemäß diesem Abschnitt K gekündigt wird.
 
-### [2. Kündigung nach Belieben; Kontoauflösung](#2-termination-for-convenience-account-cancellation) ###
+### [2. Kündigung nach Belieben; Kontoauflösung](#3-termination-for-material-breach) ###
 
 Jede Partei kann ein Bestellformular (falls zutreffend) oder diese Vereinbarung ohne Angabe von Gründen mit einer Frist von mindestens dreißig (30) Tagen schriftlich kündigen. Wenn der Kunde ein Bestellformular oder eine Vereinbarung kündigt, liegt es in der Verantwortung des Kunden, sein Konto bei GitHub ordnungsgemäß zu kündigen, indem er in der globalen Navigationsleiste oben auf dem Bildschirm zu den Einstellungen geht. GitHub kann Konten nicht als Antwort auf eine E-Mail- oder Telefonanfrage kündigen.
 
-### [3. Kündigung aufgrund wesentlicher Verletzung](#3-termination-for-material-breach) ###
+### [3. Kündigung aufgrund wesentlicher Verletzung](#4-effect-of-termination) ###
 
 Jede Partei kann diese Vereinbarung mit sofortiger Wirkung kündigen, wenn die andere Partei gegen eine wesentliche Verpflichtung aus dieser Vereinbarung verstößt und die Verletzung nicht innerhalb von dreißig (30) Tagen nach Erhalt der Benachrichtigung behebt. GitHub kann diese Vereinbarung kündigen, wenn das Konto des Kunden für mehr als 90 Tage gesperrt wurde.
 
-### [4. Wirkung von Kündigung](#4-effect-of-termination) ###
+### [4. Wirkung von Kündigung](#5-suspension) ###
 
 * *Bestellformulare.* Nach Beendigung dieser Vereinbarung darf der Kunde keine zusätzlichen Bestellformulare (falls zutreffend) ausführen; diese Vereinbarung bleibt jedoch für den Rest aller aktiven Bestellformulare in Kraft. Wenn ein Bestellformular endet oder abläuft, gilt für dieses Bestellformular Folgendes: (i) die Laufzeit endet sofort; (ii) alle Abonnementlizenzen im Bestellformular enden automatisch, und der Kunde hat nicht mehr das Recht, den Dienst zu nutzen; (iii) wenn Gebühren vor der Kündigung geschuldet waren, muss der Kunde diese Gebühren unverzüglich zahlen; (iv) jede Partei wird alle Vertraulichen Informationen, die der anderen gehören, unverzüglich zurückgeben (oder, wenn die andere Partei dies verlangt, vernichten), soweit dies durch den Dienst gestattet ist. Ungeachtet des Vorstehenden wird GitHub angemessene Anstrengungen unternehmen, um dem Kunden auf Anfrage eine Kopie seiner rechtmäßigen, nicht verletzenden Kontoinhalte zur Verfügung zu stellen; vorausgesetzt, dass der Kunde diese Anfrage innerhalb von 90 Tagen nach Beendigung, Aussetzung oder Herabstufung stellt.
 
@@ -303,26 +303,26 @@ Jede Partei kann diese Vereinbarung mit sofortiger Wirkung kündigen, wenn die a
 
 * GitHub löscht keine Inhalte, die der Kunde zu den Repositories externer Benutzer beigetragen hat oder die externe Benutzer gegabelt haben.
 
-### [5. Aussetzung](#5-suspension) ###
+### [5. Aussetzung](#6-survival) ###
 
 GitHub hat das Recht, den Zugriff auf den gesamten oder einen Teil des Dienstes, einschließlich des Entfernens von Inhalten, jederzeit wegen Verstoßes gegen diese Vereinbarung oder zum Schutz der Integrität, Funktionsfähigkeit und Sicherheit des Dienstes mit sofortiger Wirkung, mit oder ohne Vorankündigung auszusetzen. Sofern nicht gesetzlich oder gerichtlich verboten oder um unmittelbaren Schaden für den Dienst oder Dritte zu verhindern, stellt GitHub bei oder vor einer solchen Aussetzung normalerweise eine Benachrichtigung in Form eines Banners oder einer E-Mail bereit. GitHub wird nach eigenem Ermessen und in gutem Glauben jede Aussetzung nach Bedarf anpassen, um die Integrität, Funktionsfähigkeit und Sicherheit des Dienstes zu wahren.
 
-### [6. Fortgeltung](#6-survival) ###
+### [6. Fortgeltung](#l-communications-with-github) ###
 
 Alle Bestimmungen dieser Vereinbarung, die ihrer Natur nach die Beendigung überdauern sollten, bleiben auch nach der Beendigung bestehen, einschließlich, aber nicht beschränkt auf Eigentumsbestimmungen, Gewährleistungsausschlüsse, Entschädigung und Haftungsbeschränkungen.
 
-[L. Kommunikation mit GitHub](#l-communications-with-github)
+[L. Kommunikation mit GitHub](#1-electronic-communication-required)
 ----------
 
-### [1. Elektronische Kommunikation erforderlich](#1-electronic-communication-required) ###
+### [1. Elektronische Kommunikation erforderlich](#2-legal-notice-to-github-must-be-in-writing) ###
 
 Für Vertragszwecke stimmt der Kunde (1) zu, Mitteilungen in elektronischer Form über die von ihm angegebene E-Mail-Adresse oder über den Dienst zu erhalten; und (2) stimmt zu, dass alle Nutzungsbedingungen, Vereinbarungen, Mitteilungen, Offenlegungen und andere Mitteilungen, die GitHub elektronisch bereitstellt, alle gesetzlichen Anforderungen erfüllen, die diese Mitteilungen erfüllen würden, wenn sie auf Papier wären. Dieser Abschnitt berührt nicht die unverzichtbaren Rechte des Kunden.
 
-### [2. Rechtliche Hinweise an GitHub müssen schriftlich erfolgen](#2-legal-notice-to-github-must-be-in-writing) ###
+### [2. Rechtliche Hinweise an GitHub müssen schriftlich erfolgen](#m-limited-warranty-disclaimer) ###
 
 Mitteilungen, die per E-Mail oder über das Nachrichtensystem des GitHub-Supports erfolgen, stellen keine rechtliche Mitteilung an GitHub dar, wenn eine Mitteilung an GitHub vertraglich oder durch Gesetze oder Vorschriften erforderlich ist. Rechtliche Hinweise an GitHub bedürfen der Schriftform und müssen dem [gesetzlichen Vertreter von GitHub zugestellt werden](/de/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
-[M. Beschränkte Garantie; Gewährleistungsausschluss](#m-limited-warranty-disclaimer)
+[M. Beschränkte Garantie; Gewährleistungsausschluss](#n-limitations-of-liability)
 ----------
 
 *Allgemeine Garantie*. Jede Partei erklärt und garantiert der anderen, dass sie die rechtliche Befugnis und Befugnis hat, diese Vereinbarung abzuschließen, und dass diese Vereinbarung und jedes Bestellformular und jede SOW von einem Mitarbeiter oder Vertreter dieser Partei mit der erforderlichen Befugnis eingegangen wird, diese zu binden Vertragspartei der Bedingungen dieser Vereinbarung.
@@ -333,7 +333,7 @@ Mitteilungen, die per E-Mail oder über das Nachrichtensystem des GitHub-Support
 
 *Gewährleistungsausschluss für Beta-Vorschauen.* Der Kunde kann Beta-Vorschauen nach eigenem Ermessen verwenden. Beta-Vorschauen werden möglicherweise nicht unterstützt und können jederzeit ohne Vorankündigung geändert werden. Beta-Vorschauen sind möglicherweise nicht so zuverlässig oder verfügbar wie der Dienst. Beta-Vorschauen unterliegen nicht denselben Sicherheitsmaßnahmen und Prüfungen, denen der Dienst unterzogen wurde und wird. GitHub übernimmt keine Haftung für oder im Zusammenhang mit Beta-Vorschauen. **Der Kunde verwendet Beta-Vorschauen auf eigenes Risiko.**
 
-[N. Haftungsbeschränkungen](#n-limitations-of-liability)
+[N. Haftungsbeschränkungen](#o-defense-of-claims-release)
 ----------
 
 ***Indirekte Schäden.* Soweit nach geltendem Recht zulässig, haftet keine der Parteien gegenüber der anderen Partei oder Dritten für indirekte, besondere, zufällige, Straf- oder Folgeschäden (einschließlich entgangener Gewinne, Einnahmen oder Daten) oder für die Kosten für die Beschaffung von Ersatzprodukten, die sich aus oder im Zusammenhang mit dieser Vereinbarung ergeben, wie auch immer verursacht, unabhängig davon, ob sich diese Haftung aus einem Anspruch aus Vertrag, Gewährleistung, unerlaubter Handlung (einschließlich Fahrlässigkeit), verschuldensunabhängiger Haftung oder anderweitig ergibt und ob oder nicht eine Partei auf die Möglichkeit solcher Schäden hingewiesen wurde.**
@@ -342,84 +342,84 @@ Mitteilungen, die per E-Mail oder über das Nachrichtensystem des GitHub-Support
 
 ***Ausschlüsse.* Die in diesem Abschnitt N dargelegten Ausschlüsse und Beschränkungen gelten nicht für die Haftung, die sich aus (1) einer Verletzung der Vertraulichkeitsverpflichtungen einer Partei in Abschnitt P (mit Ausnahme jeglicher Haftung im Zusammenhang mit Inhalten (mit Ausnahme von GitHub Inhalten), die Gegenstand der vorstehenden Beschränkungen und Ausschlüsse bleiben) oder (2) den Verteidigungspflichten einer Partei in Abschnitt O ergibt.**
 
-[O. Verteidigung gegen Ansprüche; Freistellung](#o-defense-of-claims-release)
+[O. Verteidigung gegen Ansprüche; Freistellung](#1-by-github)
 ----------
 
 Die Parteien verteidigen einander gegen die in diesem Abschnitt O beschriebenen Forderungen Dritter im beschriebenen Umfang und zahlen die Summe eines resultierenden rechtskräftigen Urteils oder genehmigten Vergleichs, vorausgesetzt, die verteidigende Partei wird über den Anspruch umgehend schriftlich informiert und ist berechtigt, die Verteidigung zu übernehmen und einen etwaigen Vergleich herbeizuführen. Die verteidigte Partei muss der verteidigenden Partei alle angeforderten Hilfestellungen, Informationen und Vollmachten zur Verfügung stellen. Die verteidigende Partei wird der anderen Partei angemessene Auslagen erstatten, die ihr bei der Bereitstellung von Unterstützung entstehen, und ohne die vorherige schriftliche Zustimmung der anderen Partei keine Vergleiche fällen oder Zugeständnisse in Bezug auf eine Forderung eines Dritten machen, um nicht unangemessen zu sein zurückgehalten oder verzögert. In diesem Abschnitt O sind die einzigen Abhilfen und die gesamte Haftung bezüglich derartiger Ansprüche beschrieben.
 
-### [1. Von GitHub](#1-by-github) ###
+### [1. Von GitHub](#2-by-customer) ###
 
 GitHub verteidigt den Kunden gegen alle Ansprüche, die von einem nicht verbundenen Dritten geltend gemacht werden, soweit darin behauptet wird, dass die autorisierte Nutzung des Dienstes durch den Kunden ein Urheberrecht, ein Patent oder eine Marke verletzt oder ein Geschäftsgeheimnis eines nicht verbundenen Dritten missbraucht. Wenn GitHub die Regulierung eines solchen Anspruchs zu wirtschaftlich vertretbaren Bedingungen nicht möglich ist, kann GitHub nach eigener Wahl entweder: (a) den Dienst modifizieren, reparieren oder ersetzen (falls zutreffend); oder (b) das Abonnement des Kunden kündigen und alle vorausbezahlten, nicht verwendeten Abonnementgebühren zurückerstatten. GitHub ist gemäß diesem Abschnitt O.1 nicht für solche Ansprüche verpflichtet, die sich ergeben aus: i) der Änderung des Dienstes oder der Kombination, dem Betrieb oder der Nutzung des Dienstes mit Ausrüstung, Geräten, Software, Systemen oder Daten, die nicht ausdrücklich durch diese Vereinbarung (einschließlich der Dokumentation) genehmigt wurden; (ii) dem Versäumnis des Kunden, die Nutzung des Dienstes einzustellen, nachdem er eine entsprechende Benachrichtigung erhalten hat; (iii) Verpflichtungen des Kunden gemäß Abschnitt O.2; (iv) Produkten oder Diensten (einschließlich der Nutzung des Dienstes), die von GitHub kostenlos bereitgestellt werden; oder (v) dem Zugriff auf oder der Nutzung von Beta-Vorschauen. Für die Zwecke der Verpflichtung von GitHub gemäß diesem Abschnitt O.1 enthält der Dienst Open-Source-Komponenten, die von GitHub darin integriert wurden.
 
-### [2. Des Kunden](#2-by-customer) ###
+### [2. Des Kunden](#3-disputes-with-other-users) ###
 
 Der Kunde verteidigt GitHub gegen alle Ansprüche, die von einem nicht verbundenen Dritten erhoben werden, die sich aus Folgendem ergeben: (i) Kundeninhalten, die der Kunde in den Dienst hochlädt; (ii) dem Verstoß des Kunden gegen diese Vereinbarung, einschließlich Verstoß des Kunden gegen die Vertraulichkeit oder Verstoß gegen Abschnitt C; oder (iii) Ausrüstung, Geräten, Software, Systemen oder Daten von Dritten, die der Kunde mit dem Dienst kombiniert, betreibt oder verwendet.
 
-### [3. Streitigkeiten mit anderen Benutzern](#3-disputes-with-other-users) ###
+### [3. Streitigkeiten mit anderen Benutzern](#p-confidentiality) ###
 
 Wenn der Kunde einen Streit mit einem oder mehreren Benutzern hat, stellt der Kunde GitHub von allen Ansprüchen, Forderungen und Schäden (tatsächliche und Folgeschäden) jeder Art und Natur, bekannt und unbekannt, frei, die sich aus oder in irgendeiner Weise im Zusammenhang mit solchen Streitigkeiten ergeben.
 
-[P. Vertraulichkeit](#p-confidentiality)
+[P. Vertraulichkeit](#q-expert-services)
 ----------
 
 Keine der Parteien wird die vertraulichen Informationen der anderen Partei verwenden, es sei denn, dies ist gemäß dieser Vereinbarung gestattet. Jede Partei verpflichtet sich, die vertraulichen Informationen der anderen Partei vertraulich zu behandeln und zu schützen, indem sie mindestens das gleiche Maß an Sorgfalt anwendet, das sie für ihre eigenen Informationen ähnlicher Art anwendet, aber in jedem Fall mindestens ein angemessenes Maß an Sorgfalt. Jede Partei erklärt sich damit einverstanden, alle angemessenen Vorkehrungen zu treffen, um eine unbefugte Offenlegung der vertraulichen Informationen der anderen Partei zu verhindern, einschließlich, aber nicht beschränkt auf die Offenlegung dieser vertraulichen Informationen nur gegenüber ihren Vertretern, die (i) diese Informationen kennen müssen, (ii) Parteien sind zu entsprechenden Vereinbarungen, die ausreichen, um diesem Abschnitt P zu entsprechen, und (iii) über die in diesem Abschnitt P festgelegten Nutzungs- und Offenlegungsbeschränkungen informiert sind. Jede Partei ist für alle Handlungen und Unterlassungen ihrer Vertreter verantwortlich. Die vorstehenden Verpflichtungen hindern keine der Parteien daran, Vertrauliche Informationen der anderen Partei gemäß der Anordnung oder Anforderung eines Gerichts, einer Verwaltungsbehörde oder einer anderen Regierungsbehörde offenzulegen, *vorausgesetzt*, dass die Partei, die zu einer solchen Offenlegung verpflichtet ist, die andere Partei angemessen benachrichtigt, damit diese Partei diese Anordnung oder Anforderung anfechten kann, es sei denn, eine solche Mitteilung ist gesetzlich verboten. Die in diesem Abschnitt P dargelegten Einschränkungen gelten auch nach Beendigung oder Ablauf dieser Vereinbarung.
 
-[Q. Professional Services](#q-professional-services)
+[Q. Professional Services](#r-changes-to-the-service-or-terms)
 ----------
 
 Auf Anfrage des Kunden nach Professional Services stellt GitHub eine SOW bereit, in der diese Professional Services aufgeführt sind. GitHub erbringt die in jeder SOW beschriebenen Professional Services. GitHub kontrolliert die Art und Weise und Mittel, mit denen die Professional Services erbracht werden, und behält sich das Recht vor, das zugewiesene Personal zu bestimmen. GitHub kann Dritte zur Erbringung der Professional Services einsetzen, vorausgesetzt, dass GitHub für deren Handlungen und Unterlassungen verantwortlich bleibt. Der Kunde erkennt an und stimmt zu, dass GitHub alle Rechte, Titel und Interessen an allem behält, was in Verbindung mit der Erbringung der Professional Services verwendet oder entwickelt wird, einschließlich Software, Tools, Spezifikationen, Ideen, Konzepte, Erfindungen, Prozesse, Techniken und Know-how. Soweit GitHub dem Kunden während der Erbringung der professionellen Dienstleistungen etwas liefert, gewährt GitHub dem Kunden eine nicht ausschließliche, nicht übertragbare, weltweite, gebührenfreie, zeitlich begrenzte Lizenz zur Nutzung dieser Leistungen während der Laufzeit dieser Vereinbarung, ausschließlich in Verbindung mit der Nutzung des Dienstes durch den Kunden.
 
-[R. Änderungen des Dienstes oder der Bedingungen](#r-changes-to-the-service-or-terms)
+[R. Änderungen des Dienstes oder der Bedingungen](#s-support)
 ----------
 
 GitHub behält sich das Recht vor, diese Vereinbarung nach eigenem Ermessen jederzeit zu ändern und wird diese Vereinbarung im Falle solcher Änderungen aktualisieren. GitHub benachrichtigt den Kunden mindestens 30 Tage vor dem Inkrafttreten der Änderung über wesentliche Änderungen an dieser Vereinbarung, indem es im Dienst eine Mitteilung veröffentlicht oder eine E-Mail an die primäre E-Mail-Adresse sendet, die in Ihrem GitHub Konto angegeben ist. Die fortgesetzte Nutzung des Dienstes durch den Kunden nach diesen 30 Tagen stellt eine Zustimmung zu diesen Überarbeitungen dieser Vereinbarung dar. Bei allen anderen Änderungen gilt die fortgesetzte Nutzung des Dienstes durch den Kunden als Zustimmung zu unseren Überarbeitungen dieser Vereinbarung. Der Kunde kann alle Änderungen an dieser Vereinbarung in unserem Repository für die [Website-Richtlinie](https://github.com/github/site-policy) einsehen.
 
 GitHub ändert den Dienst durch Updates und Hinzufügen neuer Funktionen. Ungeachtet des Vorstehenden behält sich GitHub das Recht vor, den Dienst (oder einen Teil davon) jederzeit mit oder ohne Vorankündigung vorübergehend oder dauerhaft zu ändern oder einzustellen.
 
-[S. Support](#s-support)
+[S. Support](#t-miscellaneous)
 ----------
 
 GitHub stellt standardmäßigen technischen Support für den Dienst ohne zusätzliche Kosten vierundzwanzig (24) Stunden pro Tag, fünf (5) Tage pro Woche bereit, ausgenommen Wochenenden und nationale US-Feiertage. Standard-Support wird nur über webbasiertes Ticketing über den GitHub-Support angeboten, und Support-Anfragen müssen von einem Benutzer initiiert werden, mit dem das Support-Team von GitHub interagieren kann. GitHub kann für den Dienst Premium-Support (vorbehaltlich der Bedingungen für [GitHub Premium-Support für Enterprise Cloud](/de/support/learning-about-github-support/about-github-premium-support)) oder dedizierten technischen Support auf der Support-Ebene, zu den Gebühren und der Abonnementlaufzeit bereitstellen, die in einem Bestellformular oder einer Leistungsbeschreibung angegeben sind.
 
-[T. Sonstiges](#t-miscellaneous)
+[T. Sonstiges](#1-governing-law)
 ----------
 
-### [1. Anwendbares Recht](#1-governing-law) ###
+### [1. Anwendbares Recht](#2-feedback) ###
 
 Wenn sich der Hauptsitz des Kunden in Nord- und Südamerika befindet, unterliegt diese Vereinbarung den Gesetzen des US-Bundesstaates Kalifornien und wird in Übereinstimmung mit diesen ausgelegt, ohne dass die Grundsätze des Kollisionsrechts wirksam werden, alle rechtlichen Schritte oder Verfahren, die sich aus dieser Vereinbarung ergeben ausschließlich vor den Bundes- oder Staatsgerichten im Northern District of California verhandelt werden, und die Parteien stimmen hiermit der persönlichen Gerichtsbarkeit und dem dortigen Gerichtsstand zu. Wenn sich der Hauptsitz des Kunden außerhalb Amerikas befindet, unterliegt diese Vereinbarung den Gesetzen von Irland, alle Klagen oder Verfahren, die sich aus dieser Vereinbarung ergeben, werden ausschließlich vor den Gerichten in Dublin vorgebracht, und die Parteien stimmen hiermit der persönlichen Gerichtsbarkeit und dem Gerichtsstand zu darin. Die Parteien vereinbaren ausdrücklich, dass das Übereinkommen der Vereinten Nationen über Verträge über den internationalen Warenkauf und der Uniform Computer Information Transactions Act auf diese Vereinbarung keine Anwendung finden. Ungeachtet gegenteiliger Bestimmungen im Vorstehenden kann GitHub bei jedem Gericht mit angemessener Zuständigkeit einen Anspruch auf billigkeitsrechtlichen Rechtsschutz geltend machen.
 
-### [2. Feedback](#2-feedback) ###
+### [2. Feedback](#3-non-assignability) ###
 
 Der Kunde kann GitHub Feedback zu den Produkten geben. Feedback ist freiwillig und stellt keine vertraulichen Informationen des Kunden dar, auch wenn es als solche gekennzeichnet ist. GitHub kann dieses Feedback vollständig ausüben und nutzen, um (i) den Betrieb, die Funktionalität und die Nutzung der bestehenden und zukünftigen Produktangebote von GitHub zu verbessern und diese Angebote zu kommerzialisieren; und (ii) um aggregierte Statistiken über die Qualität der Produkte zu veröffentlichen, vorausgesetzt, dass keine Daten in einer solchen Veröffentlichung verwendet werden, um den Kunden, seine Mitarbeiter oder den proprietären Softwarecode des Kunden speziell zu identifizieren.
 
-### [3. Nichtübertragbarkeit](#3-non-assignability) ###
+### [3. Nichtübertragbarkeit](#4-waiver) ###
 
 Keine Partei darf diese Vereinbarung ganz oder teilweise ohne die vorherige schriftliche Zustimmung der anderen Partei abtreten oder anderweitig übertragen, wobei diese Zustimmung nicht unangemessen verweigert werden darf, und jeder Versuch, dies zu tun, ist null und nichtig, mit der Ausnahme, dass GitHub diese Vereinbarung in seiner Gesamtheit, nach Mitteilung an die andere Partei, aber ohne Zustimmung der anderen Partei, im Zusammenhang mit einer Fusion, einem Erwerb, einer Unternehmensumstrukturierung oder einem Verkauf aller oder im Wesentlichen aller Geschäfte oder Vermögenswerte der übertragenden Partei, abtreten kann.
 
-### [4. Verzicht](#4-waiver) ###
+### [4. Verzicht](#5-severability) ###
 
 Auf die Verpflichtungen einer Partei aus diesem Vertrag kann nur in schriftlicher Form verzichtet werden, die von einem bevollmächtigten Vertreter der anderen Partei unterzeichnet wurde. Kein Versäumnis oder keine Verspätung durch eine Partei dieser Vereinbarung bei der Ausübung eines Rechts aus dieser Vereinbarung gilt als Verzicht darauf, noch schließt eine einzelne oder teilweise Ausübung davon eine andere oder weitere Ausübung davon oder die Ausübung eines Rechts aus dieser Vereinbarung nach Gesetz oder Billigkeit aus.
 
-### [5. Salvatorische Klausel](#5-severability) ###
+### [5. Salvatorische Klausel](#6-amendments-complete-agreement-order-of-precedence) ###
 
 Wenn eine Bestimmung dieser Vereinbarung von einem zuständigen Gericht als rechtswidrig, ungültig oder nicht durchsetzbar erachtet wird, ändern oder reformieren die Parteien diese Vereinbarung, um dieser Bestimmung so viel Wirkung wie möglich zu verleihen. Jede Bestimmung, die auf diese Weise nicht geändert oder reformiert werden kann, gilt als gelöscht und die verbleibenden Bestimmungen dieser Vereinbarung bleiben in vollem Umfang in Kraft und wirksam.
 
-### [6. Änderungen; Vollständige Vereinbarung; Rangfolge](#6-amendments-complete-agreement-order-of-precedence) ###
+### [6. Änderungen; Vollständige Vereinbarung; Rangfolge](#7-publicity) ###
 
 Diese Vereinbarung darf nur durch eine schriftliche Änderung geändert werden, die von einem autorisierten Vertreter von GitHub unterzeichnet wurde, oder indem GitHub eine überarbeitete Version gemäß Abschnitt R veröffentlicht. Diese Vereinbarung stellt die vollständige und ausschließliche Vereinbarung zwischen den Parteien dar. Diese Vereinbarung ersetzt alle mündlichen oder schriftlichen Vorschläge oder vorherigen Vereinbarungen sowie alle anderen Mitteilungen zwischen den Parteien in Bezug auf den Gegenstand dieser Bedingungen, einschließlich aller Vertraulichkeits- oder Geheimhaltungsvereinbarungen. Im Falle eines Konflikts zwischen den Bedingungen dieser Vereinbarung und einem Bestellformular oder SOW haben die Bedingungen des Bestellformulars oder SOW nur in Bezug auf dieses Bestellformular oder SOW Vorrang.
 
-### [7. Publicity](#7-publicity) ###
+### [7. Publicity](#8-force-majeure) ###
 
 Wenn der Kunde den Namen seines Unternehmens oder seiner Organisation auf seinem Konto öffentlich anzeigt oder anderweitig seine Marken oder Logos auf seiner Profilseite öffentlich anzeigt, gestattet der Kunde GitHub, den Namen seines Unternehmens oder seiner Organisation zu verwenden, um den Kunden in Werbematerialien als GitHub-Kunden zu identifizieren. Der Kunde kann diese Erlaubnis widerrufen, indem er seinen Firmen- oder Organisationsnamen vor der öffentlichen Anzeige verbirgt und GitHub schriftlich benachrichtigt, den Namen seiner Organisation nicht mehr in Werbematerialien zu verwenden. GitHub ist jedoch nicht verpflichtet, eine frühere Nutzung oder Verteilung der Werbematerialien zu entfernen oder zurückzurufen.
 
-### [8. Höhere Gewalt](#8-force-majeure) ###
+### [8. Höhere Gewalt](#9-independent-contractors) ###
 
 GitHub wird von der Haftung befreit, soweit es aus außergewöhnlichen Gründen, die sich seiner angemessenen Kontrolle entziehen, einschließlich höherer Gewalt, Naturkatastrophen, Streiks, Aussperrungen, Unruhen, Kriegshandlungen, Epidemien oder Strom-, Telekommunikations- oder Netzwerkausfälle.
 
-### [9. Unabhängige Vertragspartner](#9-independent-contractors) ###
+### [9. Unabhängige Vertragspartner](#10-questions) ###
 
 Jede Partei ist in Bezug auf den Gegenstand dieser Vereinbarung ein unabhängiger Auftragnehmer. Nichts in dieser Vereinbarung wird in irgendeiner Weise so ausgelegt oder ausgelegt, dass es eine rechtliche Vereinigung, Partnerschaft, ein Joint Venture, ein Beschäftigungs-, Vertretungs-, Treuhand- oder ein anderes ähnliches Verhältnis zwischen den Parteien begründet, und keine der Parteien kann die andere vertraglich binden.
 
-### [10. Fragen](#10-questions) ###
+### [10. Fragen](#10-fragen) ###
 
 Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://github.com/contact/)

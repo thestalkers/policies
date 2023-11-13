@@ -2,9 +2,9 @@ GitHub Doxxing et invasion de la vie privée - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/

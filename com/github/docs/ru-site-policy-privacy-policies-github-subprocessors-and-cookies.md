@@ -2,9 +2,9 @@ GitHub Cookies - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/ru)
+[Home](/ru)
 
-[Site policy](/site-policy)
+[Site policy](/ru/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики конфиденциальности](/ru/site-policy/privacy-policies)/

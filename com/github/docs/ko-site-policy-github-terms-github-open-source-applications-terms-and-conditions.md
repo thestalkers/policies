@@ -2,9 +2,9 @@ GitHub 오픈 소스 애플리케이션 계약조건 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 약관](/ko/site-policy/github-terms)/

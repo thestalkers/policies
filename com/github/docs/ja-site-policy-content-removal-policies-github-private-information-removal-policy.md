@@ -2,9 +2,9 @@ GitHub の個人情報削除ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ja)
+[Home](/ja)
 
-[Site policy](/site-policy)
+[Site policy](/ja/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/

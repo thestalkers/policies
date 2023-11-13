@@ -2,9 +2,9 @@ GitHub での憎悪の言葉と差別 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ja)
+[Home](/ja)
 
-[Site policy](/site-policy)
+[Site policy](/ja/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [利用規約](/ja/site-policy/acceptable-use-policies)/

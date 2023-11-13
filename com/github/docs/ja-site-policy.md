@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/ja)
+[Home](/ja)
 
-[Site policy](/site-policy)
+[Site policy](/ja/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)
 

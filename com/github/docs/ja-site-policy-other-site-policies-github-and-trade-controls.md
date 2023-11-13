@@ -2,9 +2,9 @@ GitHub と貿易管理 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ja)
+[Home](/ja)
 
-[Site policy](/site-policy)
+[Site policy](/ja/site-policy)
 
 * [サイト ポリシー](/ja/site-policy)/
 * [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/

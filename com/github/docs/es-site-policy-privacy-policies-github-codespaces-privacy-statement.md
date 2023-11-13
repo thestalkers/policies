@@ -2,9 +2,9 @@ Declaración de privacidad de los espacios de código de GitHub - Documentación
 
 [Skip to main content](#main-content)
 
-[All products](/es)
+[Home](/es)
 
-[Site policy](/site-policy)
+[Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/

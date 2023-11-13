@@ -2,9 +2,9 @@ Bedingungen für GitHub-Events - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/

@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/ru)
+[Home](/ru)
 
-[Site policy](/site-policy)
+[Site policy](/ru/site-policy)
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики конфиденциальности](/ru/site-policy/privacy-policies)
@@ -22,6 +22,6 @@
 
 * [Политика конфиденциальности кандидата GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business Privacy Statement](/ru/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+* [Заявление о конфиденциальности GitHub Copilot для бизнеса](/ru/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [Условия предоставления услуг GitHub Octernships](/ru/site-policy/privacy-policies/github-octernships-terms-of-service)

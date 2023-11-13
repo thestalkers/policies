@@ -2,9 +2,9 @@ GitHub 上的欺凌和骚扰 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[All products](/zh)
+[Home](/zh)
 
-[Site policy](/site-policy)
+[Site policy](/zh/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)/

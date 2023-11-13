@@ -2,9 +2,9 @@ GitHub-Unternehmensrichtlinien - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)

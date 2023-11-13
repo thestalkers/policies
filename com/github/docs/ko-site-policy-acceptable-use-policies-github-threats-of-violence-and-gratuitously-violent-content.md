@@ -2,9 +2,9 @@ GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/

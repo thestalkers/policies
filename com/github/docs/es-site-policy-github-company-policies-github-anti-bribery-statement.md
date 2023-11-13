@@ -2,9 +2,9 @@ Declaración contra el soborno de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/es)
+[Home](/es)
 
-[Site policy](/site-policy)
+[Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)/

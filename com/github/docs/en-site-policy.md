@@ -2,9 +2,9 @@ Site policy documentation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/en)
+[Home](/en)
 
-[Site policy](/site-policy)
+[Site policy](/en/site-policy)
 
 * [Site policy](/en/site-policy)
 

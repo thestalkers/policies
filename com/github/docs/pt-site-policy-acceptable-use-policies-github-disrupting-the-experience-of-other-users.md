@@ -2,9 +2,9 @@ GitHub interrompendo a experiência de outros usuários - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/pt)
+[Home](/pt)
 
-[Site policy](/site-policy)
+[Site policy](/pt/site-policy)
 
 * [Política do site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/

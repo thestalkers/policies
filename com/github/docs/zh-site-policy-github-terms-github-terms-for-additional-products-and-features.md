@@ -2,9 +2,9 @@ GitHub 附加产品和功能条款 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[All products](/zh)
+[Home](/zh)
 
-[Site policy](/site-policy)
+[Site policy](/zh/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/

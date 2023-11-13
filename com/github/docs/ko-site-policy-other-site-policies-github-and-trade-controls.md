@@ -2,9 +2,9 @@ GitHub와 무역 통제 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [다른 사이트 정책](/ko/site-policy/other-site-policies)/

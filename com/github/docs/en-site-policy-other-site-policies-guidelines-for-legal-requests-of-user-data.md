@@ -2,9 +2,9 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/en)
+[Home](/en)
 
-[Site policy](/site-policy)
+[Site policy](/en/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [Other Site Policies](/en/site-policy/other-site-policies)/

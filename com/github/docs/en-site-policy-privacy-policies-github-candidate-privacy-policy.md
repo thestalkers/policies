@@ -2,9 +2,9 @@ GitHub Candidate Privacy Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/en)
+[Home](/en)
 
-[Site policy](/site-policy)
+[Site policy](/en/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [Privacy Policies](/en/site-policy/privacy-policies)/

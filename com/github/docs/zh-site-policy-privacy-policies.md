@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/zh)
+[Home](/zh)
 
-[Site policy](/site-policy)
+[Site policy](/zh/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [隐私政策](/zh/site-policy/privacy-policies)
@@ -22,6 +22,6 @@
 
 * [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business Privacy Statement](/zh/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+* [GitHub Copilot Business 隐私声明](/zh/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [GitHub Octernships 服务条款](/zh/site-policy/privacy-policies/github-octernships-terms-of-service)

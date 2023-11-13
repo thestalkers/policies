@@ -2,9 +2,9 @@ Guide de soumission d'un avis de contestation DMCA - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)/

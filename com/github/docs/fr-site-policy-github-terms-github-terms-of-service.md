@@ -2,9 +2,9 @@ Conditions Générales d’Utilisation de GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/

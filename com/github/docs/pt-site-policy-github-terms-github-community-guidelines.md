@@ -2,9 +2,9 @@ Diretrizes da comunidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/pt)
+[Home](/pt)
 
-[Site policy](/site-policy)
+[Site policy](/pt/site-policy)
 
 * [Política do site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/

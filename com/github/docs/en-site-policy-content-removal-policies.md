@@ -2,9 +2,9 @@ Content Removal Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/en)
+[Home](/en)
 
-[Site policy](/site-policy)
+[Site policy](/en/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [Content Removal Policies](/en/site-policy/content-removal-policies)

@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/zh)
+[Home](/zh)
 
-[Site policy](/site-policy)
+[Site policy](/zh/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [内容删除政策](/zh/site-policy/content-removal-policies)

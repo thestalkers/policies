@@ -2,9 +2,9 @@ Politiques de Confidentialité - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[All products](/fr)
+[Home](/fr)
 
-[Site policy](/site-policy)
+[Site policy](/fr/site-policy)
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de Confidentialité](/fr/site-policy/privacy-policies)
@@ -22,6 +22,6 @@ Politiques de Confidentialité
 
 * [Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business Privacy Statement](/fr/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+* [Déclaration de confidentialité de GitHub Copilot Business](/fr/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [Conditions d'utilisation du service GitHub Octernships](/fr/site-policy/privacy-policies/github-octernships-terms-of-service)

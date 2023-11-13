@@ -2,9 +2,9 @@
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [개인정보보호정책](/ko/site-policy/privacy-policies)
@@ -22,6 +22,6 @@
 
 * [GitHub 지원자 개인정보보호정책](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business Privacy Statement](/ko/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+* [GitHub Copilot Business 개인정보처리방침](/ko/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [GitHub Octernships 서비스 약관](/ko/site-policy/privacy-policies/github-octernships-terms-of-service)

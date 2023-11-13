@@ -2,9 +2,9 @@ GitHub Bug 赏金计划法律安全港 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[All products](/zh)
+[Home](/zh)
 
-[Site policy](/site-policy)
+[Site policy](/zh/site-policy)
 
 * [站点政策](/zh/site-policy)/
 * [安全政策](/zh/site-policy/security-policies)/

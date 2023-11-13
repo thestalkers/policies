@@ -2,9 +2,9 @@ GitHub 개인 정보 제거 정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/

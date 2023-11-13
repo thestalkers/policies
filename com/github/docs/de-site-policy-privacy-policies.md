@@ -2,9 +2,9 @@ Datenschutzrichtlinien - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
@@ -22,6 +22,6 @@ Datenschutzrichtlinien
 
 * [GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business Privacy Statement](/de/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+* [Datenschutzerklärung für GitHub Copilot Business](/de/site-policy/privacy-policies/github-copilot-business-privacy-statement)
 
 * [Vertragsbedingungen für GitHub Octernships](/de/site-policy/privacy-policies/github-octernships-terms-of-service)

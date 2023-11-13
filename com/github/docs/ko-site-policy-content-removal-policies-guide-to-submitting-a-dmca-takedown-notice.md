@@ -2,9 +2,9 @@ DMCA 게시 중단 통지 제출 가이드 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/

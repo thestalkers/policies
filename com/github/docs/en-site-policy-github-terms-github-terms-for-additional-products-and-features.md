@@ -2,9 +2,9 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/en)
+[Home](/en)
 
-[Site policy](/site-policy)
+[Site policy](/en/site-policy)
 
 * [Site policy](/en/site-policy)/
 * [GitHub Terms](/en/site-policy/github-terms)/

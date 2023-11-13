@@ -2,9 +2,9 @@ GitHub 이의 제기 및 복원 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[All products](/ko)
+[Home](/ko)
 
-[Site policy](/site-policy)
+[Site policy](/ko/site-policy)
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/

@@ -2,9 +2,9 @@ GitHub stört die Erfahrung anderer Benutzer - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[All products](/de)
+[Home](/de)
 
-[Site policy](/site-policy)
+[Site policy](/de/site-policy)
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
