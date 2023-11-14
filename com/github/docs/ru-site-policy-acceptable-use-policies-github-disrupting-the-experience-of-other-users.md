@@ -2,7 +2,7 @@ GitHub мешает работе других пользователей - До�
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[HOME](/ru)
 
 [Site policy](/ru/site-policy)
 
