@@ -43,7 +43,7 @@ Lorsque nous recevons des rapports de non-respect des règles en matière de mar
 [Comment puis-je signaler une violation de la politique relative aux marques ?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Les détenteurs de marques commerciales peuvent signaler à GitHub d'éventuelles violations de la politique relative aux marques commerciales en utilisant notre [GitHub Support](https://support.github.com/). Veuillez utiliser le formulaire de contact et soumettre vos demandes relatives aux marques commerciales en utilisant l'adresse e-mail de votre entreprise et en incluant toutes les informations demandées ci-dessous afin d'accélérer notre réponse. Assurez-vous également de nous décrire clairement pourquoi le compte peut prêter à confusion avec votre marque ou comment le compte peut diluer ou ternir votre marque.
+Les détenteurs de marques commerciales déposées peuvent signaler à GitHub d'éventuelles violations de la politique relative aux marques commerciales en utilisant la section [Soumettre un rapport de violation de la politique des marques commerciales](https://support.github.com/contact/trademark-policy). Veuillez utiliser le formulaire de contact et soumettre vos demandes relatives aux marques commerciales en utilisant l'adresse e-mail de votre entreprise et en incluant toutes les informations demandées ci-dessous afin d'accélérer notre réponse. Assurez-vous également de nous décrire clairement pourquoi le compte peut prêter à confusion avec votre marque ou comment le compte peut diluer ou ternir votre marque.
 
 [Quelles informations sont requises lors du signalement de violations de la politique en matière de marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------

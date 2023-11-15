@@ -2,7 +2,7 @@ GitHub 赞助商附加条款 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 

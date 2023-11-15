@@ -2,7 +2,7 @@ GitHub 上的暴力威胁和无端暴力内容 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 

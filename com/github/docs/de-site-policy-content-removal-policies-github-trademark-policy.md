@@ -43,7 +43,7 @@ Wenn wir Meldungen über Verstöße gegen Markenrichtlinien von Inhabern von bun
 [Wie melde ich einen Verstoß gegen die Markenrichtlinie?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Inhaber von eingetragenen Marken können GitHub über den [GitHub-Support](https://support.github.com/) mögliche Verstöße gegen die Markenrichtlinien melden. Bitte verwenden Sie das Kontaktformular und übermitteln Sie markenbezogene Anfragen unter Verwendung Ihrer Firmen-E-Mail-Adresse ein und geben Sie alle unten angeforderten Informationen an, um unsere Antwort zu beschleunigen. Stellen Sie außerdem sicher, dass Sie uns klar beschreiben, warum das Konto zu Verwechslungen mit Ihrer Marke führen kann oder wie das Konto Ihre Marke verwässern oder trüben kann.
+Inhaber von eingetragenen Marken können GitHub mögliche Verstöße gegen die Markenrichtlinie über [„Bericht über einen Verstoß gegen die Markenrichtlinie“ einreichen](https://support.github.com/contact/trademark-policy). Bitte verwenden Sie das Kontaktformular und übermitteln Sie markenbezogene Anfragen unter Verwendung Ihrer Firmen-E-Mail-Adresse ein und geben Sie alle unten angeforderten Informationen an, um unsere Antwort zu beschleunigen. Stellen Sie außerdem sicher, dass Sie uns klar beschreiben, warum das Konto zu Verwechslungen mit Ihrer Marke führen kann oder wie das Konto Ihre Marke verwässern oder trüben kann.
 
 [Welche Informationen sind erforderlich, wenn Verstöße gegen die Markenrichtlinie gemeldet werden?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
