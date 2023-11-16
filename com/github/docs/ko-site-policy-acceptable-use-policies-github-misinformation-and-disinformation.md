@@ -2,7 +2,7 @@ GitHub 잘못된 정보 및 허위 정보 방침 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

@@ -2,7 +2,7 @@ Términos de GitHub para productos y funciones adicionales - Documentación de G
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Página principal](/es)
 
 [Site policy](/es/site-policy)
 

@@ -2,7 +2,7 @@ GitHub 신상 털기 및 프라이버시 침해 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

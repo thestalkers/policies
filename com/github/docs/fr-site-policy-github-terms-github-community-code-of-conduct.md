@@ -2,7 +2,7 @@ Code de Conduite de la Communauté GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Origine](/fr)
 
 [Site policy](/fr/site-policy)
 

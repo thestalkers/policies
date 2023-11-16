@@ -2,7 +2,7 @@ Directrices para solicitudes legales de datos de usuario - Documentación de Git
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Página principal](/es)
 
 [Site policy](/es/site-policy)
 

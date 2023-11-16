@@ -2,7 +2,7 @@ Conditions GitHub pour les produits et fonctionnalités supplémentaires - Docum
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Origine](/fr)
 
 [Site policy](/fr/site-policy)
 

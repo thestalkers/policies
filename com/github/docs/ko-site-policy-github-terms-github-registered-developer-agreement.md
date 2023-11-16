@@ -2,7 +2,7 @@ GitHub 등록 개발자 계약 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

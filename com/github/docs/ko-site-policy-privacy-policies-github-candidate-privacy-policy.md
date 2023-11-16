@@ -2,7 +2,7 @@ GitHub 지원자 개인정보보호정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

@@ -2,7 +2,7 @@ GitHub 개인정보취급방침 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

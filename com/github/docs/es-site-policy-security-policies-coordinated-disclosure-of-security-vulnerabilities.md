@@ -2,7 +2,7 @@ Divulgación Coordinada de Vulnerabilidades de Seguridad - Documentación de Git
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Página principal](/es)
 
 [Site policy](/es/site-policy)
 

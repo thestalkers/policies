@@ -2,7 +2,7 @@ GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHub Doc
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

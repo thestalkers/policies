@@ -2,7 +2,7 @@ GitHub 외설적 콘텐츠 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

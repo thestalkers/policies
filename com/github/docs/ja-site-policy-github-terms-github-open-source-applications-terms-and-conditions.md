@@ -2,7 +2,7 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub D
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

@@ -2,7 +2,7 @@ GitHub 가장 행위 금지 방침 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

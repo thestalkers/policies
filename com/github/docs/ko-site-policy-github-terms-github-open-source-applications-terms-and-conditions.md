@@ -2,7 +2,7 @@ GitHub 오픈 소스 애플리케이션 계약조건 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

@@ -2,7 +2,7 @@ GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub 
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

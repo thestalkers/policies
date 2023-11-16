@@ -2,7 +2,7 @@ GitHub ロゴのポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

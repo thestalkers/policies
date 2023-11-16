@@ -2,7 +2,7 @@ GitHub の登録開発者契約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

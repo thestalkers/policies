@@ -2,7 +2,7 @@ Termos de serviço corporativos do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
@@ -27,16 +27,16 @@ Neste artigo
 * [H. Licenças de Assinatura](#h-subscription-licenses)
 * [I. Afiliadas](#i-affiliates)
 * [J. Pagamento](#j-payment)
-* [K. Vigência; Rescisão; Suspensão](#1-term)
-* [L. Comunicações com o GitHub](#1-electronic-communication-required)
-* [m. Garantia Limitada; Isenção de Responsabilidade](#n-limitations-of-liability)
-* [N. Limitações de Responsabilidade](#o-defense-of-claims-release)
-* [O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#1-by-github)
-* [P. Confidencialidade](#q-expert-services)
-* [P. Serviços Profissionais](#r-changes-to-the-service-or-terms)
-* [R. Alterações no Serviço ou Termos](#s-support)
-* [S. Suporte](#t-miscellaneous)
-* [T. Disposições Gerais](#1-governing-law)
+* [K. Vigência; Rescisão; Suspensão](#k-term-termination-suspension)
+* [L. Comunicações com o GitHub](#l-communications-with-github)
+* [m. Garantia Limitada; Isenção de Responsabilidade](#m-limited-warranty-disclaimer)
+* [N. Limitações de Responsabilidade](#n-limitations-of-liability)
+* [O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#o-defense-of-claims-release)
+* [P. Confidencialidade](#p-confidentiality)
+* [P. Serviços de Especialistas](#q-expert-services)
+* [R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
+* [S. Suporte](#s-support)
+* [T. Disposições Gerais](#t-miscellaneous)
 
 **Observação:** os Termos de Serviço Corporativos do GitHub foram preteridos desde 30 de novembro de 2021 e não são mais usados para novos clientes. Os termos abaixo se aplicam *apenas* aos clientes do GitHub com contratos assinados que fazem referência explícita aos Termos de Serviço Corporativos. Todos os outros clientes de empresas ou instituições são direcionados para os termos do Contrato de Cliente do GitHub, disponíveis em [github.com/customer-terms](https://github.com/customer-terms).
 
@@ -50,7 +50,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 * O Serviço;
 * Quaisquer Pré-visualizações Beta;
 * Qualquer Suporte relacionado; e
-* Quaisquer Serviços Profissionais relacionados.
+* Serviços de Especialistas relacionados.
 
 [R. Definições](#a-definitions)
 ----------
@@ -83,7 +83,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Comentários”** são quaisquer ideias, know-how, algoritmos, contribuições de código, sugestões, solicitações de aprimoramento, recomendações ou qualquer outro feedback sobre produtos ou serviços do GitHub.
 
-**“Taxas”** são as taxas que o Cliente deve pagar ao GitHub para (i) usar os Produtos durante a Vigência aplicável ou (ii) receber Serviços Profissionais, pois tais taxas estão refletidas em um Formulário de Pedido ou SOW.
+**“Taxas”** são as taxas que o Cliente deve pagar ao GitHub para (i) usar os Produtos durante a Vigência aplicável ou (ii) receber Serviços de Especialistas, pois tais taxas estão refletidas em um Formulário de Pedido ou SOW.
 
 **“Fork”** significa copiar o Conteúdo de um repositório para outro repositório.
 
@@ -99,9 +99,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Repositório Privado”** significa um repositório que permite a um Usuário controlar o acesso ao Conteúdo.
 
-**“Serviços Profissionais”** referem-se a treinamento, consultoria ou serviços de implementação que o GitHub fornece ao Cliente de acordo com uma SOW assinada mutuamente. Os Serviços Profissionais não incluem Suporte.
-
-**“Créditos de Serviços Profissionais”** são o método de pagamento antecipado para a compra de Serviços Profissionais (exceto despesas de viagem e hospedagem) que o Cliente pode usar por um período de 12 (doze) meses (salvo indicação em contrário em um Formulário de Pedido) para Serviços Profissionais. Os Créditos de Serviços Profissionais que não forem usados ao final de doze (12) meses após a data de compra (ou conforme indicado em um Formulário de Pedido) serão automaticamente cancelados e não são reembolsáveis.
+**“Serviços de Especialistas”** referem-se a treinamento, consultoria ou serviços de implementação que o GitHub fornece ao Cliente de acordo com uma SOW assinada mutuamente. Os Serviços de Especialistas não incluem suporte.
 
 **“Repositório Público”** significa um repositório cujo Conteúdo é visível para Todos os Usuários.
 
@@ -111,7 +109,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Serviço”** refere-se ao serviço hospedado do GitHub e qualquer Documentação aplicável.
 
-**“SOW”** é uma declaração de trabalho assinada mutuamente, detalhando os Serviços Profissionais que o GitHub executará, quaisquer Taxas relacionadas e as obrigações relacionadas de cada parte.
+**“SOW”** é uma declaração de trabalho assinada mutuamente, detalhando os Serviços de Especialistas que o GitHub executará, quaisquer Taxas relacionadas e as obrigações relacionadas de cada parte.
 
 **“Licença de Assinatura”** é a licença atribuída a cada Usuário para instalar, operar, acessar e usar o Serviço em nome do Cliente. O Cliente pode atribuir apenas uma Licença de Assinatura por Usuário em suas Organizações. Para maior clareza, uma vez que o Cliente atribui uma Licença de Assinatura a um Usuário, o Cliente está proibido de bifurcar a Licença de Assinatura para que um Usuário possa usar uma Licença de Assinatura em uma Organização enquanto outro Usuário usa a mesma Licença de Assinatura em outra Organização.
 
@@ -190,7 +188,7 @@ O Cliente concede ao GitHub o direito de armazenar, arquivar, analisar e exibir 
 ### [4. Outorga de Licença para Usuários Externos](#4-license-grant-to-external-users) ###
 
 Qualquer Conteúdo que o Cliente publique publicamente, incluindo questões, comentários e contribuições para repositórios de Usuários Externos, pode ser visto por outros. Ao configurar seus repositórios para serem visualizados publicamente, o Cliente concorda em permitir que Usuários Externos visualizem e bifurquem os repositórios do Cliente.
-Se o Cliente definir suas páginas e repositórios para serem visualizados publicamente, o Cliente concederá aos Usuários Externos uma licença mundial não exclusiva para usar, exibir e executar o Conteúdo do Cliente por meio do Serviço e reproduzir o Conteúdo do Cliente apenas no Serviço, conforme permitido por meio da funcionalidade fornecida pelo GitHub (por exemplo, através de Bifurcação). O Cliente pode conceder direitos adicionais ao Conteúdo do Cliente se o Cliente adotar uma licença. Se o Cliente estiver fazendo upload de Conteúdo do Cliente que ele não criou ou possui, o Cliente é responsável por garantir que o Conteúdo do Cliente carregado seja licenciado sob termos que concedam essas permissões a Usuários Externos
+Se o Cliente definir suas páginas e repositórios para serem visualizados publicamente, o Cliente concederá aos Usuários Externos uma licença mundial não exclusiva para usar, exibir e executar o Conteúdo do Cliente por meio do Serviço e reproduzir o Conteúdo do Cliente apenas no Serviço, conforme permitido por meio da funcionalidade fornecida pelo GitHub (por exemplo, através de Bifurcação). O Cliente poderá conceder direitos adicionais ao Conteúdo do cliente se adotar uma licença. Se o Cliente estiver fazendo upload de Conteúdo do Cliente que ele não criou ou possui, o Cliente é responsável por garantir que o Conteúdo do Cliente carregado seja licenciado sob termos que concedam essas permissões a Usuários Externos
 
 ### [5. Contribuições Segundo a Licença de Repositório](#5-contributions-under-repository-license) ###
 
@@ -272,30 +270,26 @@ As Afiliadas do Cliente estão autorizadas a usar os Produtos de acordo com este
 
 O Cliente pode obter Licenças de Assinatura adicionais sob este Contrato enviando uma solicitação por meio do Serviço ou por meio de sua equipe de vendas. Se o Cliente adquirir as Licenças de Assinatura adicionais, o Cliente deverá pagar as Taxas atualmente aplicáveis para elas, rateadas pelo saldo do Prazo de Assinatura aplicável. Após a renovação das Licenças de Assinatura do Cliente para outro Período de Assinatura, o GitHub faturará todas as Licenças de Assinatura de uma só vez anualmente, a menos que especificado de outra forma em um Formulário de Pedido.
 
-### [3. Créditos de Serviços Profissionais.](#3-authorization) ###
-
-Se o Cliente usar Créditos de Serviços Profissionais para pagar por Serviços Profissionais, após o recebimento de uma SOW pelo Cliente, os Créditos de Serviços Profissionais aplicáveis serão deduzidos do saldo de Créditos de Serviços Profissionais do Cliente. O Cliente é responsável por garantir que seu pedido de compra emitido ao GitHub para os Serviços Profissionais reflita o preço estabelecido na SOW. Se houver alguma diferença no preço listado na SOW e no preço listado no pedido de compra do Cliente, o preço na SOW prevalecerá. As Partes concordam que as SOWs pagáveis por meio de Créditos de Serviços Profissionais não precisam ser assinadas por nenhuma das Partes para serem válidas e executáveis. Todos os Créditos de Serviços Profissionais devem ser usados dentro do prazo estabelecido no Formulário de Pedido ou serão cancelados automaticamente e não são reembolsáveis. O Cliente não pode aplicar Créditos de Serviços Profissionais para despesas de viagem e hospedagem, que devem ser faturadas separadamente.
-
-### [4. Autorização.](#k-term-termination-suspension) ###
+### [3. Autorização](#3-authorization) ###
 
 O Cliente autoriza o GitHub a cobrar as Taxas no cartão de crédito cadastrado, na conta do PayPal ou em outros métodos de pagamento aprovados.
 
-[K. Vigência; Rescisão; Suspensão](#1-term)
+[K. Vigência; Rescisão; Suspensão](#k-term-termination-suspension)
 ----------
 
-### [1. Vigência](#2-termination-for-convenience-account-cancellation) ###
+### [1. Vigência](#1-term) ###
 
 Este Contrato começa na Data de Vigência e continuará em vigor até ser rescindido por uma Parte de acordo com esta Seção K.
 
-### [2. Rescisão por Conveniência; Cancelamento de Conta](#3-termination-for-material-breach) ###
+### [2. Rescisão por Conveniência; Cancelamento de Conta](#2-termination-for-convenience-account-cancellation) ###
 
 Qualquer uma das Partes pode rescindir um Formulário de Pedido (se aplicável) ou este Contrato, sem justa causa, mediante aviso prévio por escrito de pelo menos 30 (trinta) dias. Se o Cliente optar por rescindir um Formulário de Pedido ou Contrato, é responsabilidade do Cliente cancelar adequadamente sua conta no GitHub acessando Configurações na barra de navegação global na parte superior da tela. O GitHub não pode cancelar contas em resposta a uma solicitação por e-mail ou telefone.
 
-### [3. Rescisão por Violação de Cláusulas Fundamentais](#4-effect-of-termination) ###
+### [3. Rescisão por Violação de Cláusulas Fundamentais](#3-termination-for-material-breach) ###
 
 Qualquer uma das Partes pode rescindir este Contrato imediatamente mediante notificação se a outra Parte violar uma obrigação material sob este Contrato e não sanar a violação dentro de trinta (30) dias a partir da data de recebimento da notificação. O GitHub pode rescindir este Contrato se a Conta do Cliente tiver sido suspensa por mais de 90 dias.
 
-### [4. Efeitos da Rescisão ou Término](#5-suspension) ###
+### [4. Efeitos da Rescisão ou Término](#4-effect-of-termination) ###
 
 * *Formulários de Pedidos.* Após a rescisão deste Contrato, o Cliente não poderá executar Formulários de Pedido adicionais (se aplicável); no entanto, este Contrato permanecerá em vigor pelo restante de quaisquer Formulários de Pedidos ativos. Quando um Formulário de Pedido termina ou expira, em relação a esse Formulário de Pedido: (i) a Vigência terminará imediatamente; (ii) quaisquer Licenças de Assinatura no Formulário de Pedido terminarão automaticamente, e o Cliente não terá mais o direito de usar o Serviço; (iii) se quaisquer Taxas forem devidas antes da rescisão, o Cliente deverá pagar essas Taxas imediatamente; (iv) cada Parte devolverá imediatamente (ou, se a outra parte solicitar, destruirá) todas as Informações Confidenciais pertencentes à outra, na medida permitida pelo Serviço. Não obstante o acima exposto, o GitHub fará um esforço razoável para fornecer ao Cliente uma cópia de seu Conteúdo de conta legal e não infrator mediante solicitação; desde que o Cliente faça essa solicitação dentro de 90 dias após a rescisão, suspensão ou downgrade.
 
@@ -303,37 +297,37 @@ Qualquer uma das Partes pode rescindir este Contrato imediatamente mediante noti
 
 * O GitHub não excluirá o Conteúdo que o Cliente tenha contribuído para os repositórios de Usuários Externos ou que os Usuários Externos tenham bifurcado.
 
-### [5. Suspensão](#6-survival) ###
+### [5. Suspensão](#5-suspension) ###
 
 O GitHub tem o direito de suspender o acesso a todo ou parte do Serviço, incluindo a remoção de Conteúdo, a qualquer momento por violação deste Contrato ou para proteger a integridade, operabilidade e segurança do Serviço, com efeito imediato, com ou sem aviso prévio. A menos que seja proibido por lei ou processo legal ou para evitar danos iminentes ao Serviço ou a terceiros, o GitHub normalmente fornece um aviso na forma de um banner ou e-mail em ou antes de tal suspensão. O GitHub, a seu critério e de boa fé, adaptará qualquer suspensão conforme necessário para preservar a integridade, operabilidade e segurança do Serviço.
 
-### [6. Subsistência](#l-communications-with-github) ###
+### [6. Subsistência](#6-survival) ###
 
 Todas as disposições deste Contrato que, por sua natureza, devem sobreviver à rescisão sobreviverão à rescisão, incluindo, sem limitação, disposições de propriedade, isenções de garantia, indenização e limitações de responsabilidade.
 
-[L. Comunicações com o GitHub](#1-electronic-communication-required)
+[L. Comunicações com o GitHub](#l-communications-with-github)
 ----------
 
-### [1. Comunicação Eletrônica Obrigatória](#2-legal-notice-to-github-must-be-in-writing) ###
+### [1. Comunicação Eletrônica Obrigatória](#1-electronic-communication-required) ###
 
 Para fins contratuais, o Cliente (1) consente em receber comunicações em formato eletrônico através do endereço de e-mail que enviou ou através do Serviço; e (2) concorda que todos os Termos de Serviço, contratos, avisos, divulgações e outras comunicações que o GitHub fornece eletronicamente atendem a qualquer requisito legal que essas comunicações atenderiam se estivessem em papel. Esta seção não afeta os direitos irrenunciáveis do Cliente.
 
-### [2. A notificação legal para o GitHub deve ser por escrito](#m-limited-warranty-disclaimer) ###
+### [2. A notificação legal para o GitHub deve ser por escrito](#2-legal-notice-to-github-must-be-in-writing) ###
 
 As comunicações feitas por e-mail ou sistema de mensagens do GitHub Support não constituirão notificação legal ao GitHub em qualquer situação em que a notificação ao GitHub seja exigida por contrato ou qualquer lei ou regulamento. A notificação legal para o GitHub deve ser por escrito e [entregue ao agente legal do GitHub](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
-[m. Garantia Limitada; Isenção de Responsabilidade](#n-limitations-of-liability)
+[m. Garantia Limitada; Isenção de Responsabilidade](#m-limited-warranty-disclaimer)
 ----------
 
 *Garantia Geral*. Cada Parte representa e garante à outra que tem o poder legal e autoridade para celebrar este Contrato, e que este Contrato e cada Formulário de Pedido e SOW são celebrados por um funcionário ou agente de tal Parte com toda a autoridade necessária para vincular tal Parte dos termos e condições deste Contrato.
 
-*Garantia dos Serviços Profissionais.* Salvo disposição em contrário em uma SOW, o GitHub garante que quaisquer Serviços Profissionais executados sob este Contrato serão executados de maneira profissional e profissional por pessoal devidamente qualificado. A única obrigação do GitHub e o único recurso do Cliente para uma violação desta garantia será, a critério e às custas do GitHub: (i) reexecutar prontamente quaisquer Serviços Profissionais que não atendam a esta garantia ou, (ii) se a violação não puder ser sanada, rescindir a SOW e reembolsar as Taxas pré-pagas não usadas.
+*Garantia de Serviços de Especialistas.* Salvo disposição em contrário em uma SOW, o GitHub garante que quaisquer Serviços de Especialistas executados sob este Contrato serão executados de maneira profissional e profissional por pessoal devidamente qualificado. A única obrigação do GitHub e o único recurso do Cliente para uma violação desta garantia será, a critério e às custas do GitHub: (i) reexecutar prontamente quaisquer Serviços de Especialistas que não atendam a esta garantia ou, (ii) se a violação não puder ser sanada, rescindir a SOW e reembolsar as Taxas pré-pagas não usadas.
 
 *Isenção de Responsabilidade do Serviço.* O GitHub fornece o serviço **“NO ESTADO EM QUE SE ENCONTRA”** e **“MEDIANTE DISPONIBILIDADE”** sem garantia de nenhuma natureza. Sem limitar isso, o GitHub se isenta expressamente de todas as garantias, sejam expressas, implícitas ou estatutárias, em relação ao Serviço, incluindo, sem limitação, qualquer garantia de comercialização, adequação a uma finalidade específica, título, segurança, precisão e não violação. O GitHub não garante que o Serviço atenderá aos requisitos do Cliente; que o Serviço será ininterrupto, oportuno, seguro ou livre de erros; que as informações fornecidas através do Serviço são precisas, confiáveis ou corretas; que quaisquer defeitos ou erros serão corrigidos; que o Serviço estará disponível em qualquer horário ou local específico; ou que o Serviço está livre de vírus ou outros componentes prejudiciais. O GitHub não será responsável por qualquer risco de perda resultante do download e/ou uso do Cliente de arquivos, informações, Conteúdo ou outro material obtido do Serviço.
 
 *Isenção de Responsabilidade de Visualizações Beta.* O Cliente pode optar por usar as Pré-visualizações Beta a seu exclusivo critério. As Pré-visualizações Beta podem não ser suportadas e podem ser alteradas a qualquer momento sem aviso prévio. As Pré-visualizações Beta podem não ser tão confiáveis ou disponíveis quanto o Serviço. As Pré-visualizações Beta não estão sujeitas às mesmas medidas de segurança e auditoria às quais o Serviço esteve e está sujeito. O GitHub não terá nenhuma responsabilidade decorrente ou em conexão com as Beta Previews. **O Cliente usa as Visualizações Beta por sua conta e risco.**
 
-[N. Limitações de Responsabilidade](#o-defense-of-claims-release)
+[N. Limitações de Responsabilidade](#n-limitations-of-liability)
 ----------
 
 ***Danos Indiretos.* Na extensão máxima permitida pela lei aplicável, em hipótese alguma qualquer das partes será responsável perante a outra ou qualquer terceiro por quaisquer danos indiretos, especiais, incidentais, punitivos ou consequenciais (inclusive por lucros cessantes, perda de receita ou dados) nem pelo custo de obtenção de produtos substitutos decorrentes ou relacionados a este Contrato, independentemente da causa e de tal responsabilidade decorrer de qualquer requerimento judicial ou extrajudicial baseado em contrato, garantia, ato ilícito extracontratual (incluindo negligência), responsabilidade objetiva ou de outra forma e se uma parte foi avisada ou não da possibilidade de tais danos.**
@@ -342,84 +336,84 @@ As comunicações feitas por e-mail ou sistema de mensagens do GitHub Support n�
 
 ***Exclusões.* As exclusões e limitações estabelecidas nesta Seção N não se aplicarão à responsabilidade decorrente de (1) violação de uma Parte de suas obrigações de confidencialidade previstas na Seção P (exceto por toda responsabilidade relacionada ao Conteúdo (excluindo o Conteúdo do GitHub), que permanecerá sujeita às limitações e exclusões acima) ou (2) obrigações de defesa de uma Parte na Seção O.**
 
-[O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#1-by-github)
+[O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#o-defense-of-claims-release)
 ----------
 
 As Partes defenderão a outra contra requerimentos judiciais ou extrajudiciais de terceiros, na medida estabelecida na Seção O, e pagarão o valor de qualquer decisão judicial desfavorável transitada em julgado resultante ou acordo aprovado, mas somente se a Parte acusada for prontamente notificada por escrito sobre o requerimento e tenha o direito de controlar a defesa e eventual acordo. A Parte que está sendo defendida deverá fornecer à Parte acusada toda a assistência, as informações e o poder solicitados. A Parte defensora reembolsará a outra Parte pelas despesas razoáveis incorridas na prestação de assistência e não fará acordos ou quaisquer admissões em relação a uma reclamação de terceiros sem o consentimento prévio por escrito da outra Parte, para não ser injustificadamente retido ou atrasado. A Seção O descreve as medidas exclusivas e a responsabilidade integral das Partes em relação a esses requerimentos judiciais ou extrajudiciais.
 
-### [1. Pelo GitHub](#2-by-customer) ###
+### [1. Pelo GitHub](#1-by-github) ###
 
 O GitHub defenderá o Cliente contra qualquer reclamação apresentada por um terceiro não afiliado na medida em que alegue que o uso autorizado do Serviço pelo Cliente infringe direitos autorais, patente ou marca registrada ou se apropria indevidamente de um segredo comercial de um terceiro não afiliado. Se o GitHub for incapaz de resolver um requerimento judicial ou extrajudicial dessa natureza de acordo com termos comercialmente razoáveis, ele poderá, a seu critério: (a) modificar, reparar ou substituir o Serviço (conforme aplicável); ou (b) encerrar a assinatura do Cliente e reembolsar quaisquer taxas de assinatura pré-pagas e não usadas. O GitHub não terá nenhuma obrigação segundo a Seção O.1 por qualquer requerimento judicial ou extrajudicial decorrente de: (i) modificação do Serviço, ou combinação, operação ou uso do Serviço com equipamentos, dispositivos, softwares, sistemas ou dados, exceto conforme expressamente autorizado por este Contrato (incluindo a Documentação); (ii) o Cliente não parar de usar o Serviço após receber uma notificação para fazê-lo; (iii) obrigações do Cliente nos termos da Seção O.2; (iv) produtos ou serviços (incluindo o uso do Serviço) fornecidos pelo GitHub gratuitamente; ou (v) acesso ou uso de Visualizações Beta. Para fins de obrigação do GitHub sob esta Seção O.1, o Serviço inclui componentes de código aberto incorporados pelo GitHub nele.
 
-### [2. Pelo Cliente](#3-disputes-with-other-users) ###
+### [2. Pelo Cliente](#2-by-customer) ###
 
 O Cliente defenderá o GitHub contra qualquer requerimento judicial ou extrajudicial apresentado por um terceiro não afiliado decorrente de: (i) Conteúdo do Cliente que o Cliente carrega no Serviço; (ii) violação deste Contrato por parte do Cliente, incluindo violação de confidencialidade pelo Cliente ou violação da Seção C; ou (iii) qualquer equipamento, dispositivo, software, sistema ou dados da marca de terceiros que o Cliente combine, opere ou use com o Serviço.
 
-### [3. Controvérsias com Outros Usuários](#p-confidentiality) ###
+### [3. Controvérsias com Outros Usuários](#3-disputes-with-other-users) ###
 
 Se o Cliente tiver uma disputa com um ou mais Usuários, o Cliente isentará o GitHub de todas as reivindicações, demandas e danos (reais e consequentes) de qualquer tipo e natureza, conhecidos e desconhecidos, decorrentes ou de alguma forma relacionados a tais disputas.
 
-[P. Confidencialidade](#q-expert-services)
+[P. Confidencialidade](#p-confidentiality)
 ----------
 
 Nenhuma das Partes usará as Informações Confidenciais da outra Parte, exceto conforme permitido neste Contrato. Cada Parte concorda em manter em sigilo e proteger as Informações Confidenciais da outra Parte usando pelo menos o mesmo grau de cuidado que usa para suas próprias informações de natureza semelhante, mas em qualquer caso pelo menos um grau razoável de cuidado. Cada Parte concorda em tomar todas as precauções razoáveis para evitar qualquer divulgação não autorizada das Informações Confidenciais da outra Parte, incluindo, sem limitação, a divulgação de tais Informações Confidenciais apenas a seus Representantes que (i) tenham necessidade de conhecer tais informações, (ii) sejam partes a acordos apropriados suficientes para cumprir esta Seção P, e (iii) sejam informados das restrições de uso e divulgação estabelecidas nesta Seção P. Cada Parte é responsável por todos os atos e omissões de seus Representantes. As obrigações anteriores não restringirão nenhuma das Partes de divulgar Informações Confidenciais da outra Parte de acordo com a ordem ou exigência de um tribunal, agência administrativa ou outro órgão governamental, *desde que* a Parte obrigada a fazer tal divulgação dê uma notificação razoável à outra Parte para permitir que tal Parte conteste tal ordem ou exigência, a menos que tal notificação seja proibida por lei. As restrições estabelecidas nesta Seção P sobreviverão à rescisão ou expiração deste Contrato.
 
-[P. Serviços Profissionais](#r-changes-to-the-service-or-terms)
+[P. Serviços de Especialistas](#q-expert-services)
 ----------
 
-Mediante solicitação de Serviços Profissionais do Cliente, o GitHub fornecerá uma SOW detalhando tais Serviços Profissionais. O GitHub executará os Serviços Profissionais descritos em cada SOW. O GitHub controlará a maneira e os meios pelos quais os Serviços Profissionais são executados e se reserva o direito de determinar o pessoal designado. O GitHub pode usar terceiros para realizar os Serviços Profissionais, desde que o GitHub permaneça responsável por seus atos e omissões. O Cliente reconhece e concorda que o GitHub retém todos os direitos, títulos e interesses em qualquer coisa usada ou desenvolvida em conexão com a execução dos Serviços Profissionais, incluindo software, ferramentas, especificações, ideias, conceitos, invenções, processos, técnicas e know-how. Na medida em que o GitHub entrega qualquer coisa ao Cliente durante a execução dos Serviços Profissionais, o GitHub concede ao Cliente uma licença não exclusiva, intransferível, mundial, isenta de royalties e de prazo limitado para usar esses produtos durante a vigência deste Contrato, exclusivamente em em conjunto com o uso do Serviço pelo Cliente.
+Mediante solicitação de Serviços de Especialistas do Cliente, o GitHub fornecerá uma SOW detalhando tais Serviços de Especialistas. O GitHub executará os Serviços de Especialistas descritos em cada SOW. O GitHub controlará a maneira e os meios pelos quais os Serviços de Especialistas são executados e reserva para si o direito de determinar o pessoal designado. O GitHub pode usar terceiros para realizar os Serviços de Especialistas, desde que o GitHub permaneça responsável por seus atos e omissões. O Cliente reconhece e concorda que o GitHub retém todos os direitos, títulos e interesses em qualquer coisa usada ou desenvolvida em conexão com a execução dos Serviços de Especialistas, incluindo software, ferramentas, especificações, ideias, conceitos, invenções, processos, técnicas e know-how. Na medida em que o GitHub entrega qualquer coisa ao Cliente durante a execução dos Serviços de Especialistas, o GitHub concede ao Cliente uma licença não exclusiva, intransferível, mundial, isenta de royalties e de prazo limitado para usar esses produtos durante a vigência deste Contrato, exclusivamente em conjunto com o uso do Serviço pelo Cliente.
 
-[R. Alterações no Serviço ou Termos](#s-support)
+[R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
 ----------
 
 O GitHub reserva-se o direito, a seu exclusivo critério, de alterar este Contrato a qualquer momento e atualizará este Contrato no caso de tais alterações. O GitHub notificará o Cliente sobre alterações materiais neste Contrato, como aumentos de preços, pelo menos 30 dias antes da alteração entrar em vigor, publicando um aviso no Serviço ou enviando um e-mail para o endereço de e-mail principal especificado em sua conta do GitHub. O uso continuado do Serviço pelo Cliente após esses 30 dias constitui concordância com essas revisões deste Contrato. Para quaisquer outras modificações, o uso continuado do Serviço pelo Cliente constitui concordância com nossas revisões deste Contrato. O Cliente pode visualizar todas as alterações feitas neste Contrato no repositório de [Política do Site](https://github.com/github/site-policy).
 
 O GitHub altera o serviço por meio de atualizações e adição de novos recursos. Não obstante o acima exposto, o GitHub reserva-se o direito de, a qualquer momento, modificar ou descontinuar, temporária ou permanentemente, o Serviço (ou qualquer parte dele) com ou sem aviso prévio.
 
-[S. Suporte](#t-miscellaneous)
+[S. Suporte](#s-support)
 ----------
 
 O GitHub fornecerá suporte técnico padrão para o Serviço sem custo adicional vinte e quatro (24) horas por dia, cinco (5) dias por semana, excluindo fins de semana e feriados nacionais dos EUA. O suporte padrão é oferecido apenas por meio de tickets baseados na web por meio do suporte do GitHub, e as solicitações de suporte devem ser iniciadas de um usuário com o qual a equipe de suporte do GitHub pode interagir. O GitHub pode fornecer Suporte premium (sujeito aos termos de [Suporte Premium do GitHub para Enterprise Cloud](/pt/support/learning-about-github-support/about-github-premium-support)) ou Suporte técnico dedicado para o Serviço no nível de Suporte, Taxas e Vigência de Assinatura especificados em um Formulário de Pedido ou SOW.
 
-[T. Disposições Gerais](#1-governing-law)
+[T. Disposições Gerais](#t-miscellaneous)
 ----------
 
-### [1. Lei Aplicável](#2-feedback) ###
+### [1. Lei Aplicável](#1-governing-law) ###
 
 Se o escritório principal do Cliente estiver nas Américas, este Contrato será regido e interpretado de acordo com as leis do Estado da Califórnia, sem dar efeito aos princípios de conflito de leis, qualquer ação legal ou processo decorrente deste Contrato será trazidos exclusivamente aos tribunais federais ou estaduais localizados no Distrito Norte da Califórnia, e as Partes concordam com a jurisdição pessoal e o local. Se o escritório principal do Cliente estiver fora das Américas, este Contrato será regido pelas leis da Irlanda, qualquer ação legal ou processo decorrente deste Contrato será ajuizado exclusivamente nos tribunais localizados em Dublin, e as Partes consentem com a jurisdição e foro pessoais lá no. As Partes concordam expressamente que a Convenção das Nações Unidas sobre Contratos para a Venda Internacional de Mercadorias e a Lei Uniforme de Transações de Informações por Computador não se aplicarão a este Contrato. Não obstante qualquer disposição em contrário no acima exposto, o GitHub pode apresentar um pedido de reparação equitativa em qualquer tribunal com jurisdição adequada.
 
-### [2. Feedback](#3-non-assignability) ###
+### [2. Feedback](#2-feedback) ###
 
 O Cliente pode fornecer Feedback ao GitHub sobre os Produtos. O feedback é voluntário e não é uma Informação Confidencial do Cliente, mesmo que designado como tal. O GitHub pode exercer e explorar totalmente esse Feedback com a finalidade de (i) melhorar a operação, funcionalidade e uso das ofertas de produtos existentes e futuras do GitHub e comercializar tais ofertas; e (ii) publicar estatísticas agregadas sobre a qualidade dos Produtos, desde que nenhum dado em tal publicação seja usado para identificar especificamente o Cliente, seus funcionários ou o código de software proprietário do Cliente.
 
-### [3. Impossibilidade de Cessão](#4-waiver) ###
+### [3. Impossibilidade de Cessão](#3-non-assignability) ###
 
 Nenhuma das Partes pode ceder ou transferir este Contrato, no todo ou em parte, sem o consentimento prévio por escrito da outra Parte, tal consentimento não deve ser retido injustificadamente, e qualquer tentativa de fazê-lo será nula e sem efeito, exceto que o GitHub pode atribuir este Contrato em sua totalidade, mediante notificação à outra parte, mas sem o consentimento da outra Parte, em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todos os negócios ou ativos da parte cedente.
 
-### [4. Renúncia](#5-severability) ###
+### [4. Renúncia](#4-waiver) ###
 
 As obrigações de uma Parte sob este Contrato só podem ser renunciadas por escrito e assinado por um representante autorizado da outra Parte. Nenhuma falha ou atraso por uma Parte deste Contrato no exercício de qualquer direito aqui contido funcionará como uma renúncia do mesmo, nem qualquer exercício único ou parcial impedirá qualquer outro ou posterior exercício ou o exercício de qualquer direito nos termos da lei ou da equidade.
 
-### [5. Independência das cláusulas](#6-amendments-complete-agreement-order-of-precedence) ###
+### [5. Independência das cláusulas](#5-severability) ###
 
 Se qualquer disposição deste Contrato for considerada ilegal, inválida ou inexequível por um tribunal de jurisdição competente, as Partes modificarão ou reformarão este Contrato para dar o máximo de efeito possível a essa disposição. Qualquer disposição que não possa ser modificada ou reformada dessa forma será considerada excluída e as demais disposições deste Contrato continuarão em pleno vigor e efeito.
 
-### [6. Alterações; Acordo Integral; Ordem de Precedência](#7-publicity) ###
+### [6. Alterações; Acordo Integral; Ordem de Precedência](#6-amendments-complete-agreement-order-of-precedence) ###
 
 Este Contrato só pode ser modificado por uma emenda por escrito assinada por um representante autorizado do GitHub ou pelo GitHub publicando uma versão revisada de acordo com a Seção R. Este Contrato representa o acordo completo e exclusivo entre as Partes. Este Contrato substitui qualquer proposta ou contrato prévio, oral ou escrito, e quaisquer outras comunicações entre as Partes relacionadas ao objeto destes termos, incluindo quaisquer contratos de confidencialidade ou não divulgação. No caso de qualquer conflito entre os termos deste Contrato e qualquer Formulário de Pedido ou SOW, os termos do Formulário de Pedido ou SOW prevalecerão apenas em relação a esse Formulário de Pedido ou SOW.
 
-### [7. Publicidade](#8-force-majeure) ###
+### [7. Publicidade](#7-publicity) ###
 
 Se o Cliente exibir publicamente o nome de sua empresa ou organização em sua conta ou exibir publicamente suas marcas registradas ou logotipos em sua página de perfil, o Cliente permitirá que o GitHub use o nome de sua empresa ou organização para identificar o Cliente como um cliente do GitHub em materiais promocionais. O cliente pode revogar essa permissão ocultando o nome de sua empresa ou organização da exibição pública e notificando o GitHub por escrito para parar de usar o nome de sua organização em materiais promocionais. No entanto, o GitHub não terá obrigação de remover ou cancelar qualquer uso ou distribuição anterior dos materiais promocionais.
 
-### [8. Força maior](#9-independent-contractors) ###
+### [8. Força maior](#8-force-majeure) ###
 
 O GitHub será isento de responsabilidade na medida em que não puder cumprir qualquer obrigação sob este Contrato devido a causas extraordinárias além de seu controle razoável, incluindo casos fortuitos, desastres naturais, greves, bloqueios, tumultos, atos de guerra, epidemias ou falhas de energia, telecomunicações ou rede.
 
-### [9. Prestadores de Serviços Independentes](#10-questions) ###
+### [9. Prestadores de Serviços Independentes](#9-independent-contractors) ###
 
 Cada Parte é um contratante independente com relação ao objeto deste Contrato. Nada contido neste Contrato será considerado ou interpretado de qualquer forma para criar uma associação legal, parceria, joint venture, emprego, agência, fiduciário ou outro relacionamento semelhante entre as Partes, e nenhuma das Partes pode vincular a outra contratualmente.
 
-### [10. Dúvidas](#10-dúvidas) ###
+### [10. Dúvidas](#10-questions) ###
 
 Dúvidas sobre os Termos de Serviço? [Entre em contato conosco](https://github.com/contact/).

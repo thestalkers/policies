@@ -2,7 +2,7 @@ GitHub 커뮤니티 지침 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

@@ -2,7 +2,7 @@ GitHub 혐오 발언 및 차별 금지 방침 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

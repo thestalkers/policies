@@ -2,7 +2,7 @@ GitHub 이의 제기 및 복원 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

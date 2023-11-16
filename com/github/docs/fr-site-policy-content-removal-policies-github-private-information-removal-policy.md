@@ -2,7 +2,7 @@ Politique de suppression des informations privées de GitHub - Documentation Git
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Origine](/fr)
 
 [Site policy](/fr/site-policy)
 

@@ -2,7 +2,7 @@ GitHub での憎悪の言葉と差別 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

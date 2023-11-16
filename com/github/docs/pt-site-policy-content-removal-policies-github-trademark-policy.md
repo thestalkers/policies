@@ -2,7 +2,7 @@ Política de marca registrada do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
@@ -43,7 +43,7 @@ Quando recebemos denúncias de violações da política de marcas registradas de
 [Como faço para denunciar uma violação da política de marca registrada?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Os titulares de marcas registradas podem denunciar possíveis violações da política de marca registrada ao GitHub por meio do [Suporte do GitHub](https://support.github.com/). Use o formulário de contato e envie solicitações relacionadas a marcas registradas usando o endereço de e-mail de sua empresa e inclua todas as informações solicitadas abaixo para ajudar a agilizar nossa resposta. Certifique-se também de nos descrever claramente por que a conta pode causar confusão com sua marca ou como a conta pode diluir ou manchar sua marca.
+Os titulares de marcas registradas podem denunciar possíveis violações da política de marca registrada ao GitHub por meio de [Enviar Relatório de Violação da Política de Marcas Registradas](https://support.github.com/contact/trademark-policy). Use o formulário de contato e envie solicitações relacionadas a marcas registradas usando o endereço de e-mail de sua empresa e inclua todas as informações solicitadas abaixo para ajudar a agilizar nossa resposta. Certifique-se também de nos descrever claramente por que a conta pode causar confusão com sua marca ou como a conta pode diluir ou manchar sua marca.
 
 [Quais informações são necessárias ao relatar violações da política de marcas registradas?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------

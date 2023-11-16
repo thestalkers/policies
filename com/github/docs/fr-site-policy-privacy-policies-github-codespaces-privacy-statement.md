@@ -2,7 +2,7 @@ Déclaration de confidentialité GitHub Codespaces - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Origine](/fr)
 
 [Site policy](/fr/site-policy)
 

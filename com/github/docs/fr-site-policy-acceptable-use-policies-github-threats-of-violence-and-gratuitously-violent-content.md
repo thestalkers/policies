@@ -2,7 +2,7 @@ GitHub Menaces de violence et contenu gratuitement violent - Documentation GitHu
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Origine](/fr)
 
 [Site policy](/fr/site-policy)
 

@@ -2,7 +2,7 @@ GitHub コミュニティの行動規範 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[Home キー](/ja)
 
 [Site policy](/ja/site-policy)
 

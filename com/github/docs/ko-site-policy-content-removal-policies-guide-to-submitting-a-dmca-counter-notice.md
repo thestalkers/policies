@@ -2,7 +2,7 @@ DMCA 반론 통지 제출 가이드 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

@@ -2,7 +2,7 @@ GitHub GPL 협력 약정 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 

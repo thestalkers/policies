@@ -2,7 +2,7 @@ Amenazas de Violencia y Contenido Violento Gratuito en GitHub - Documentación d
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Página principal](/es)
 
 [Site policy](/es/site-policy)
 

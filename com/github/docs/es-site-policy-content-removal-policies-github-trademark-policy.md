@@ -2,7 +2,7 @@ Política de marcas registradas de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Página principal](/es)
 
 [Site policy](/es/site-policy)
 
@@ -43,7 +43,7 @@ Cuando recibimos informes de violaciones de la política de marcas comerciales d
 [¿Cómo denuncio una infracción de la política de marcas comerciales?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Los titulares de marcas comerciales registradas pueden denunciar posibles infracciones de la directiva de marcas comerciales a GitHub a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-trademark). Envíe solicitudes relacionadas con marcas registradas utilizando la dirección de correo electrónico de su empresa e incluya toda la información solicitada a continuación para ayudar a acelerar nuestra respuesta. También asegúrese de describirnos claramente por qué la cuenta puede causar confusión con su marca o cómo la cuenta puede diluir o empañar su marca.
+Los titulares de marcas registradas pueden denunciar posibles infracciones de la directiva de marcas comerciales a GitHub mediante [Enviar un informe de infracción de la directiva de marcas comerciales](https://support.github.com/contact/trademark-policy). Por favor, use el formulario de contacto y envíe solicitudes relacionadas con marcas registradas utilizando la dirección de correo electrónico de su empresa e incluya toda la información solicitada a continuación para ayudar a acelerar nuestra respuesta. También asegúrese de describirnos claramente por qué la cuenta puede causar confusión con su marca o cómo la cuenta puede diluir o empañar su marca.
 
 [¿Qué información se requiere al denunciar infracciones de la política de marcas comerciales?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
@@ -72,7 +72,7 @@ Para investigar las infracciones de la política de marcas comerciales, proporci
 
 * Incluya también la siguiente declaración: «Juro, bajo pena de perjurio, que la información contenida en esta notificación es exacta y que soy el propietario de la marca comercial o estoy autorizado para actuar en nombre del propietario de un derecho exclusivo que supuestamente se infringe».
 
-* Incluye tu firma física o electrónica.
+* Incluya su firma física o electrónica.
 
 * Nota: Se requiere un número de registro de marca comercial federal o internacional. Si el nombre que está denunciando **no** es una marca registrada (p. ej., un organismo gubernamental u organización sin ánimo de lucro), facilítenos:
 
