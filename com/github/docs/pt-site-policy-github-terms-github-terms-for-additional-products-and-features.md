@@ -2,7 +2,7 @@ Termos do GitHub para produtos e recursos adicionais - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 

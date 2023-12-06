@@ -2,7 +2,7 @@ GitHub Doxxing e invasão de privacidade - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 

@@ -2,7 +2,7 @@ Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 

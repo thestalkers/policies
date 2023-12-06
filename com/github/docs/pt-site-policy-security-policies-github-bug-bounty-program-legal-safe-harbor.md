@@ -2,7 +2,7 @@ Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub -
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 

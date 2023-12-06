@@ -2,7 +2,7 @@ Termos do Programa de Pesquisa GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 

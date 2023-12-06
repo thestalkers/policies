@@ -2,7 +2,7 @@ Declaração do GitHub contra a escravidão moderna e o trabalho infantil - GitH
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
