@@ -352,7 +352,7 @@ GitHub может хранить и обрабатывать личные све
 GitHub, Inc.
 88 Colin P. Kelly Jr. St.
 San Francisco, CA 94107
-Соединенные Штаты
+United States (США)
 
 [Форма контакта по вопросам конфиденциальности](https://support.github.com/contact/privacy)
 
