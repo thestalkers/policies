@@ -224,7 +224,7 @@ GitHub will provide notice regarding our access to private repository content, u
 
 ### [1. GitHub's Rights to Content](#1-githubs-rights-to-content) ###
 
-The look and feel of the Service is copyright © GitHub, Inc. All rights reserved. Customer may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from GitHub.
+The look and feel of the Service is copyright © GitHub, Inc. All rights reserved. Customer may not duplicate, copy, or reuse any portion of the HTML/CSS, JavaScript, or visual design elements or concepts without express written permission from GitHub.
 
 ### [2. GitHub Trademarks and Logos](#2-github-trademarks-and-logos) ###
 
