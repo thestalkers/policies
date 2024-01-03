@@ -2,7 +2,7 @@ GitHub の現代奴隷制と児童労働に反対する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

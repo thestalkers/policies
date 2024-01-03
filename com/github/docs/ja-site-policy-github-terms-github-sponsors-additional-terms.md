@@ -2,7 +2,7 @@ GitHub スポンサーの追加条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

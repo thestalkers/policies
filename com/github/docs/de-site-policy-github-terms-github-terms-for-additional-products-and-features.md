@@ -2,7 +2,7 @@ GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen - GitHub-Do
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

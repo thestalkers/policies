@@ -2,7 +2,7 @@ GitHub-Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

@@ -2,7 +2,7 @@ Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

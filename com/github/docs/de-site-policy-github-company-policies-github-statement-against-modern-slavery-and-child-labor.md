@@ -2,7 +2,7 @@ GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentatio
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

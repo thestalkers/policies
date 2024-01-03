@@ -2,7 +2,7 @@ GitHub の贈答品および接待に関するポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

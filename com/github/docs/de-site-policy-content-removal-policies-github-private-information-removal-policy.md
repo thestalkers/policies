@@ -2,7 +2,7 @@ Richtlinie zum Entfernen privater Informationen von GitHub - GitHub-Dokumentatio
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

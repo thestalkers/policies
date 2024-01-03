@@ -2,7 +2,7 @@ GitHub 応募者プライバシー ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

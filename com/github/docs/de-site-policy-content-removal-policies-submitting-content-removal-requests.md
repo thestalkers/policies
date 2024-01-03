@@ -2,7 +2,7 @@ Einreichen von Anträgen auf Entfernung von Inhalten - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

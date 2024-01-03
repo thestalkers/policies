@@ -2,7 +2,7 @@ GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten - GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

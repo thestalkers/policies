@@ -2,7 +2,7 @@ GitHub イベントの行動規範 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

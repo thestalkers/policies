@@ -2,7 +2,7 @@ Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen - GitHub-Do
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 

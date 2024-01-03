@@ -2,7 +2,7 @@ GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

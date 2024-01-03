@@ -2,7 +2,7 @@ GitHub のユーザー名ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

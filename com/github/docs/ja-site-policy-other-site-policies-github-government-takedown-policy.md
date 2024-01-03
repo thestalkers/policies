@@ -2,7 +2,7 @@ GitHub の行政機関による削除のポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 

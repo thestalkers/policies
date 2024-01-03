@@ -2,7 +2,7 @@ GitHub の異議申し立ておよび復活 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home キー](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
