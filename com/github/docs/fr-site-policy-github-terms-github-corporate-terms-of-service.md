@@ -224,7 +224,7 @@ GitHub fournira un avis concernant notre accès au contenu des dépôts privés,
 
 ### [1. Droits de GitHub sur le Contenu](#1-githubs-rights-to-content) ###
 
-L'aspect et la convivialité du Service sont protégés par copyright © GitHub, Inc. Tous droits réservés. Le client ne peut dupliquer, copier ou réutiliser aucune partie des éléments ou concepts de conception HTML/CSS, Javascript ou visuels sans l'autorisation écrite expresse de GitHub.
+L'aspect et la convivialité du Service sont protégés par copyright © GitHub, Inc. Tous droits réservés. Le client ne peut dupliquer, copier ou réutiliser aucune partie des éléments ou concepts de conception HTML/CSS, JavaScript ou visuels sans l’autorisation écrite expresse de GitHub.
 
 ### [2. Marques commerciale et Logos de GitHub](#2-github-trademarks-and-logos) ###
 

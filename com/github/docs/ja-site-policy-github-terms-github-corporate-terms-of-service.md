@@ -224,7 +224,7 @@ GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-pri
 
 ### [1.コンテンツに対する GitHub の権利](#1-githubs-rights-to-content) ###
 
-本サービスの外観および操作性は次のとおりです: Copyright © GitHub, Inc. All rights reserved. お客様は、GitHub からの書面による明示的な許可なしに、HTML/CSS、Javascript、あるいはビジュアル デザイン要素または概念のいかなる部分も複製、コピー、または再利用することはできません。
+本サービスの外観および操作性は次のとおりです: Copyright © GitHub, Inc. All rights reserved. お客様は、GitHub からの書面による明示的な許可なしに、HTML/CSS、JavaScript、あるいはビジュアル デザイン要素または概念のいかなる部分も複製、コピー、または再利用することはできません。
 
 ### [2.GitHub の商標およびロゴ](#2-github-trademarks-and-logos) ###
 

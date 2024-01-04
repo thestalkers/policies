@@ -215,7 +215,7 @@ GitHub는 이 정책의 [반복 침해자](/ko/site-policy/content-removal-polic
 
 ### [1. 콘텐츠에 대한 GitHub의 권한](#1-githubs-rights-to-content) ###
 
-GitHub와 GitHub의 사용권 허가자, 공급업체, 대리인 및/또는 GitHub의 콘텐츠 공급자는 웹 사이트 및 서비스와 관련된 모든 종류의 지적 재산권을 보유합니다. 본 계약에 따라 또는 법률에 의해 명시적으로 귀하에게 부여되지 않은 모든 권리는 GitHub가 보유합니다. 웹 사이트와 서비스의 룩 앤드 필은 GitHub, Inc. 저작권으로 보호되며 무단 복제는 금지됩니다. GitHub의 명시적인 서면 허가 없이 HTML/CSS, Javascript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
+GitHub와 GitHub의 사용권 허가자, 공급업체, 대리인 및/또는 GitHub의 콘텐츠 공급자는 웹 사이트 및 서비스와 관련된 모든 종류의 지적 재산권을 보유합니다. 본 계약에 따라 또는 법률에 의해 명시적으로 귀하에게 부여되지 않은 모든 권리는 GitHub가 보유합니다. 웹 사이트와 서비스의 룩 앤드 필은 GitHub, Inc. 저작권으로 보호되며 무단 복제는 금지됩니다. GitHub의 명시적인 서면 허가 없이 HTML/CSS, JavaScript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
 
 ### [2. GitHub 상표 및 로고](#2-github-trademarks-and-logos) ###
 

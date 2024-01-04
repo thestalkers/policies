@@ -224,7 +224,7 @@ GitHub informiert über unseren Zugriff auf private Repository-Inhalte, es sei d
 
 ### [1. Rechte von GitHub an Inhalten](#1-githubs-rights-to-content) ###
 
-Das Erscheinungsbild des Dienstes ist urheberrechtlich geschützt © GitHub, Inc. Alle Rechte vorbehalten. Der Kunde darf ohne ausdrückliche schriftliche Genehmigung von GitHub keinen Teil der HTML/CSS-, Javascript- oder visuellen Designelemente oder -konzepte duplizieren, kopieren oder wiederverwenden.
+Das Erscheinungsbild des Dienstes ist urheberrechtlich geschützt © GitHub, Inc. Alle Rechte vorbehalten. Der Kunde darf ohne ausdrückliche schriftliche Genehmigung von GitHub keinen Teil der HTML/CSS-, JavaScript- oder visuellen Designelemente oder -konzepte duplizieren, kopieren oder wiederverwenden.
 
 ### [2. Marken und Logos von GitHub](#2-github-trademarks-and-logos) ###
 

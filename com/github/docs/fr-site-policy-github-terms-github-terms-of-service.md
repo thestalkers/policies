@@ -215,7 +215,7 @@ Nous résilierons les Comptes des [contrevenants répétés](/fr/site-policy/con
 
 ### [1. Droits de GitHub sur le Contenu](#1-githubs-rights-to-content) ###
 
-GitHub et nos concédants de licence, vendeurs, agents et/ou nos fournisseurs de contenu conservent la propriété de tous les droits de propriété intellectuelle de toute nature liés au site Web et au service. Nous nous réservons tous les droits qui ne vous êtes pas expressément accordés en vertu du présent Accord ou par la loi. L'aspect et la convivialité du site Web et du service sont protégés par le droit d'auteur © GitHub, Inc. Tous droits réservés. Vous ne pouvez pas dupliquer, copier ou réutiliser toute partie des éléments ou concepts de conception HTML/CSS, Javascript ou visuels sans l'autorisation écrite expresse de GitHub.
+GitHub et nos concédants de licence, vendeurs, agents et/ou nos fournisseurs de contenu conservent la propriété de tous les droits de propriété intellectuelle de toute nature liés au site Web et au service. Nous nous réservons tous les droits qui ne vous êtes pas expressément accordés en vertu du présent Accord ou par la loi. L'aspect et la convivialité du site Web et du service sont protégés par le droit d'auteur © GitHub, Inc. Tous droits réservés. Vous ne pouvez pas dupliquer, copier ou réutiliser toute partie des éléments ou concepts de conception HTML/CSS, JavaScript ou visuels sans l’autorisation écrite expresse de GitHub.
 
 ### [2. Marques commerciale et Logos de GitHub](#2-github-trademarks-and-logos) ###
 

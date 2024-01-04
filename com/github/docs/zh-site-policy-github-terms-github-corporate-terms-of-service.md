@@ -224,7 +224,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-poli
 
 ### [1.GitHub 对内容的权利](#1-githubs-rights-to-content) ###
 
-服务的外观和风格版权归 © GitHub, Inc. 所有。保留所有权利。 未经 GitHub 明确的书面许可，客户不得复印、复制或重复利用 HTML/CSS、Javascript 或视觉设计元素或概念的任何部分。
+服务的外观和风格版权归 © GitHub, Inc. 所有。保留所有权利。 未经 GitHub 明确的书面许可，客户不得复印、复制或重复利用 HTML/CSS、JavaScript 或视觉设计元素或概念的任何部分。
 
 ### [2.GitHub 商标和徽标](#2-github-trademarks-and-logos) ###
 

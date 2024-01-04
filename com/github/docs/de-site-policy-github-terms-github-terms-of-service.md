@@ -215,7 +215,7 @@ Wir werden die Konten von [Wiederholungstätern](/de/site-policy/content-removal
 
 ### [1. Rechte von GitHub an Inhalten](#1-githubs-rights-to-content) ###
 
-GitHub und unsere Lizenzgeber, Verkäufer, Vertreter und/oder unsere Inhaltsanbieter behalten das Eigentum an allen geistigen Eigentumsrechten jeglicher Art in Bezug auf die Website und den Dienst. Wir behalten uns alle Rechte vor, die Ihnen nicht ausdrücklich im Rahmen dieser Vereinbarung oder gesetzlich gewährt werden. Das Erscheinungsbild der Website und des Dienstes ist urheberrechtlich geschützt © GitHub, Inc. Alle Rechte vorbehalten. Ohne die ausdrückliche schriftliche Genehmigung von GitHub dürfen Sie keinen Teil der HTML/CSS-, Javascript- oder visuellen Designelemente oder -konzepte duplizieren, kopieren oder wiederverwenden.
+GitHub und unsere Lizenzgeber, Verkäufer, Vertreter und/oder unsere Inhaltsanbieter behalten das Eigentum an allen geistigen Eigentumsrechten jeglicher Art in Bezug auf die Website und den Dienst. Wir behalten uns alle Rechte vor, die Ihnen nicht ausdrücklich im Rahmen dieser Vereinbarung oder gesetzlich gewährt werden. Das Erscheinungsbild der Website und des Dienstes ist urheberrechtlich geschützt © GitHub, Inc. Alle Rechte vorbehalten. Ohne die ausdrückliche schriftliche Genehmigung von GitHub dürfen Sie keinen Teil der HTML/CSS-, JavaScript- oder visuellen Designelemente oder -konzepte duplizieren, kopieren oder wiederverwenden.
 
 ### [2. Marken und Logos von GitHub](#2-github-trademarks-and-logos) ###
 

@@ -224,7 +224,7 @@ GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-privacy-sta
 
 ### [1. 콘텐츠에 대한 GitHub의 권한](#1-githubs-rights-to-content) ###
 
-서비스의 룩 앤드 필은 copyright © GitHub, Inc. All rights reserved.로 표시됩니다. 고객은 GitHub의 명시적인 서면 허가 없이 HTML/CSS, Javascript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
+서비스의 룩 앤드 필은 copyright © GitHub, Inc. All rights reserved.로 표시됩니다. 고객은 GitHub의 명시적인 서면 허가 없이 HTML/CSS, JavaScript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
 
 ### [2. GitHub 상표 및 로고](#2-github-trademarks-and-logos) ###
 

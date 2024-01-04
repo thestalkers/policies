@@ -224,7 +224,7 @@ O GitHub fornecerá uma notificação sobre nosso acesso ao conteúdo do reposit
 
 ### [1. Direitos do GitHub ao Conteúdo](#1-githubs-rights-to-content) ###
 
-A aparência do Serviço é copyright © GitHub, Inc. Todos os direitos reservados. O Cliente não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, Javascript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
+A aparência do Serviço é copyright © GitHub, Inc. Todos os direitos reservados. O Cliente não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, JavaScript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
 
 ### [2. Marcas e Logotipos do GitHub](#2-github-trademarks-and-logos) ###
 

@@ -215,7 +215,7 @@ Encerraremos as contas de [infratores reincidentes](/pt/site-policy/content-remo
 
 ### [1. Direitos do GitHub ao Conteúdo](#1-githubs-rights-to-content) ###
 
-O GitHub e nossos licenciadores, fornecedores, agentes e/ou nossos provedores de conteúdo mantêm a propriedade de todos os direitos de propriedade intelectual de qualquer tipo relacionados ao Site e ao Serviço. Reservamos todos os direitos que não são expressamente concedidos a você sob este Contrato ou por lei. A aparência do site e do serviço é copyright © GitHub, Inc. Todos os direitos reservados. Você não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, Javascript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
+O GitHub e nossos licenciadores, fornecedores, agentes e/ou nossos provedores de conteúdo mantêm a propriedade de todos os direitos de propriedade intelectual de qualquer tipo relacionados ao Site e ao Serviço. Reservamos todos os direitos que não são expressamente concedidos a você sob este Contrato ou por lei. A aparência do site e do serviço é copyright © GitHub, Inc. Todos os direitos reservados. Você não pode duplicar, copiar ou reutilizar qualquer parte do HTML/CSS, JavaScript ou elementos ou conceitos de design visual sem permissão expressa por escrito do GitHub.
 
 ### [2. Marcas e Logotipos do GitHub](#2-github-trademarks-and-logos) ###
 

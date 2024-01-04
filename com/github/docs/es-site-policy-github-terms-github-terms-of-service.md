@@ -215,7 +215,7 @@ Cancelaremos las Cuentas de los [infractores reincidentes](/es/site-policy/conte
 
 ### [1. Derechos de GitHub sobre el Contenido](#1-githubs-rights-to-content) ###
 
-GitHub y nuestros licenciantes, proveedores, agentes y/o nuestros proveedores de contenido conservan la propiedad de todos los derechos de propiedad intelectual de cualquier tipo relacionados con el Sitio web y el Servicio. Nos reservamos todos los derechos que no se le otorgan expresamente en virtud de este Acuerdo o por ley. La apariencia del sitio web y el servicio tiene derechos de autor © GitHub, Inc. Todos los derechos reservados. No puede duplicar, copiar ni reutilizar ninguna parte de HTML/CSS, Javascript o elementos o conceptos de diseño visual sin el permiso expreso por escrito de GitHub.
+GitHub y nuestros licenciantes, proveedores, agentes y/o nuestros proveedores de contenido conservan la propiedad de todos los derechos de propiedad intelectual de cualquier tipo relacionados con el Sitio web y el Servicio. Nos reservamos todos los derechos que no se le otorgan expresamente en virtud de este Acuerdo o por ley. La apariencia del sitio web y el servicio tiene derechos de autor © GitHub, Inc. Todos los derechos reservados. No puede duplicar, copiar ni reutilizar ninguna parte de HTML/CSS, JavaScript o elementos o conceptos de diseño visual sin el permiso expreso por escrito de GitHub.
 
 ### [2. Marcas Comerciales y Logotipos de GitHub](#2-github-trademarks-and-logos) ###
 
