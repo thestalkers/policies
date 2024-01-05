@@ -1,4 +1,4 @@
-GitHub Cookies - Documentación de GitHub
+Cookies de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
@@ -8,13 +8,13 @@ GitHub Cookies - Documentación de GitHub
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/
-* [GitHub Cookies](/es/site-policy/privacy-policies/github-cookies)
+* [Cookies de GitHub](/es/site-policy/privacy-policies/github-cookies)
 
-GitHub Cookies
+Cookies de GitHub
 ==========
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/es/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
+GitHub utiliza cookies para proporcionar y proteger nuestros sitios web, así como para analizar el uso de nuestros sitios web, a fin de ofrecerle una excelente experiencia de usuario. Eche un vistazo a nuestra [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) si desea obtener más información sobre las cookies y sobre cómo y por qué las usamos.
 
-You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
+Puede consultar la lista actualizada de cookies en GitHub y suscribirse para recibir actualizaciones de la misma en <https://github.com/privacy/cookies>.
 
-If you have questions or concerns about a new subprocessor, please contact us via [Formulario de contacto de privacidad](https://github.com/contact/privacy).
+Si tiene preguntas o dudas sobre un nuevo subencargado, póngase en contacto con nosotros a través de [Formulario de contacto de privacidad](https://github.com/contact/privacy).

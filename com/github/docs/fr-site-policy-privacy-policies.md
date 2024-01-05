@@ -16,7 +16,7 @@ Politiques de Confidentialité
 
 * [Sous-processeurs GitHub](/fr/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub Cookies](/fr/site-policy/privacy-policies/github-cookies)
+* [Cookies sur GitHub](/fr/site-policy/privacy-policies/github-cookies)
 
 * [Déclaration de confidentialité GitHub Codespaces](/fr/site-policy/privacy-policies/github-codespaces-privacy-statement)
 

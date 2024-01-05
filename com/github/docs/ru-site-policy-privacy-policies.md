@@ -16,7 +16,7 @@
 
 * [Дополнительные обработчики данных GitHub](/ru/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub Cookies](/ru/site-policy/privacy-policies/github-cookies)
+* [Cookie-файлы GitHub](/ru/site-policy/privacy-policies/github-cookies)
 
 * [Заявление о конфиденциальности GitHub Codespaces](/ru/site-policy/privacy-policies/github-codespaces-privacy-statement)
 

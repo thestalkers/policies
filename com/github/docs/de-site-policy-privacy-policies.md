@@ -16,7 +16,7 @@ Datenschutzrichtlinien
 
 * [GitHub Unterauftragsverarbeiter](/de/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub Cookies](/de/site-policy/privacy-policies/github-cookies)
+* [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
 
 * [GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
 

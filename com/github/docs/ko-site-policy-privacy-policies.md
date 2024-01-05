@@ -16,7 +16,7 @@
 
 * [GitHub 보조 처리자](/ko/site-policy/privacy-policies/github-subprocessors)
 
-* [GitHub Cookies](/ko/site-policy/privacy-policies/github-cookies)
+* [GitHub 쿠키](/ko/site-policy/privacy-policies/github-cookies)
 
 * [GitHub Codespaces 개인정보취급방침](/ko/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
