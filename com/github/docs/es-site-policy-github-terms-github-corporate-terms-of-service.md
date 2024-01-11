@@ -368,7 +368,7 @@ Cuando el Cliente solicite Servicios Expert, GitHub proporcionará una SOW que d
 
 GitHub se reserva el derecho, a su exclusivo criterio, de modificar este Acuerdo en cualquier momento y actualizará este Acuerdo en caso de que se produzcan tales modificaciones. GitHub notificará al Cliente sobre cambios importantes en este Acuerdo, como aumentos de precios, al menos 30 días antes de que el cambio entre en vigencia mediante la publicación de un aviso en el Servicio o el envío de un correo electrónico a la dirección de correo electrónico principal especificada en su cuenta de GitHub. El uso continuado del Servicio por parte del Cliente después de esos 30 días constituye la aceptación de dichas revisiones de este Acuerdo. Para cualquier otra modificación, el uso continuado del Servicio por parte del Cliente constituye la aceptación de nuestras revisiones de este Acuerdo. El Cliente puede consultar todos los cambios de este Acuerdo en la [directiva del sitio de GitHub](https://github.com/github/site-policy).
 
-GitHub cambia el Servicio a través de Actualizaciones y la adición de nuevas funciones. Sin perjuicio de lo anterior, GitHub se reserva el derecho en cualquier momento de modificar o interrumpir, temporal o permanentemente, el Servicio (o cualquier parte del mismo) con o sin previo aviso.
+GitHub cambia el Servicio a través de Actualizaciones y la adición de nuevas funciones. Sin perjuicio de lo anterior, GitHub se reserva el derecho en cualquier momento de modificar o interrumpir, temporal o permanentemente, el Servicio (o cualquier parte de este) con o sin previo aviso.
 
 [S. Soporte Técnico.](#s-support)
 ----------

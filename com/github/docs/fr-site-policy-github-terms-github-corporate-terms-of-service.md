@@ -368,7 +368,7 @@ Aucune des parties n'utilisera les informations confidentielles de l'autre parti
 
 GitHub se réserve le droit, à sa seule discrétion, de modifier le présent Contrat à tout moment et mettra à jour le présent Contrat en cas de telles modifications. GitHub informera le Client des modifications importantes apportées au présent Contrat, telles que les augmentations de prix, au moins 30 jours avant l'entrée en vigueur de la modification en publiant un avis sur le Service ou en envoyant un e-mail à l'adresse e-mail principale spécifiée dans votre compte GitHub. L'utilisation continue du Service par le Client après ces 30 jours constitue un accord avec ces révisions du présent Contrat. Pour toute autre modification, l'utilisation continue du Service par le Client constitue un accord avec nos révisions du présent Contrat. Le Client peut consulter toutes les modifications apportées au présent Accord dans notre référentiel [Stratégie du Site](https://github.com/github/site-policy).
 
-GitHub modifie le Service via des mises à jour et l'ajout de nouvelles fonctionnalités. Nonobstant ce qui précède, GitHub se réserve le droit à tout moment de modifier ou d'interrompre, temporairement ou définitivement, le Service (ou toute partie de celui-ci) avec ou sans préavis.
+GitHub modifie le Service via des mises à jour et l'ajout de nouvelles fonctionnalités. Nonobstant ce qui précède, GitHub se réserve le droit à tout moment de modifier ou d’interrompre, temporairement ou définitivement, le Service (ou toute partie de celui-ci) avec ou sans préavis.
 
 [S. Assistance technique](#s-support)
 ----------
