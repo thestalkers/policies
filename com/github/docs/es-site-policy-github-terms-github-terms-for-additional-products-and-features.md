@@ -43,8 +43,6 @@ Al usar los Productos y funciones adicionales, también acepta los Términos de 
 
 * Los usuarios del **Servidor de GitHub Enterprise** podrían tener acceso a los siguientes productos y características adicionales: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages y SQL Server Images.
 
-* **GitHub AE** podrían tener acceso a los siguientes Productos y Características Adicionales: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages y Pages.
-
 [Comportamiento](#actions)
 ----------
 
@@ -81,7 +79,7 @@ Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualiza
 
 GitHub pone a disposición de los clientes funciones de seguridad adicionales con una licencia de seguridad avanzada. Estas características incluyen escaneo de códigos, escaneo de secretos y revisión de dependencias. En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
 
-Advanced Security tiene licencia sobre la base de "Unique Committer". Un "Unique Committer" es un usuario con licencia de GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server o GitHub AE, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de Usuario de seguridad avanzada de GitHub para cada uno de tus Confirmadores únicos. Solo puede usar GitHub Advanced Security en bases de código desarrolladas por usted o para usted. Para los usuarios de GitHub Enterprise Cloud, algunas funciones de Seguridad avanzada también requieren el uso de GitHub Actions.
+Advanced Security tiene licencia sobre la base de "Unique Committer". Un "Unique Committer" es un usuario con licencia de GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de Usuario de seguridad avanzada de GitHub para cada uno de tus Confirmadores únicos. Solo puede usar GitHub Advanced Security en bases de código desarrolladas por usted o para usted. Para los usuarios de GitHub Enterprise Cloud, algunas funciones de Seguridad avanzada también requieren el uso de GitHub Actions.
 
 Para el examen de secretos con GitHub Advanced Security, al participar en comprobaciones automáticas de validez de los patrones de asociados, los tokens de terceros expuestos se pueden compartir con el asociado correspondiente, con el fin de proporcionarle más información sobre la validez del token. No todos los asociados tienen su sede en Estados Unidos. La [documentación](/es/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns) sobre patrones de examen de secretos proporciona más detalles sobre qué asociados admiten la comprobación de validez.
 
@@ -125,7 +123,7 @@ Si ofrece un producto o servicio que haga competencia a cualquier producto o ser
 [Conectar](#connect)
 ----------
 
-Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server o GitHub AE y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server o GitHub AE. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos bajo los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
+Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos bajo los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
 [Copiloto de GitHub](#github-copilot)
 ----------

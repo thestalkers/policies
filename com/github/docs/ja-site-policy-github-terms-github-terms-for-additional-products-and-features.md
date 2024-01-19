@@ -16,7 +16,7 @@
 この記事の内容
 ----------
 
-* [Actions](#actions)
+* [アクション](#actions)
 * [Advanced Security](#advanced-security)
 * [Advisory Database](#advisory-database)
 * [Codespaces](#codespaces)
@@ -43,9 +43,7 @@ GitHub を利用する際、数多くの追加製品や機能 (以下「追加�
 
 * **GitHub Enterprise Server** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、Pages、および SQL Server Images の追加の製品および機能にアクセスできます。
 
-* **GitHub AE** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、および Pages の追加の製品および機能にアクセスできます。
-
-[Actions](#actions)
+[アクション](#actions)
 ----------
 
 GitHub Actions を使用すると、カスタム ソフトウェア開発ライフサイクル ワークフローを GitHub リポジトリに直接作成することができます。 Actions は使用量ベースで請求されます。 [Actions のドキュメント](/ja/actions)には、コンピューティング量とストレージ量 (アカウント プランによって異なります)、Actions の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。
@@ -81,7 +79,7 @@ Actions および Actions 製品またはサービスの要素は、「契約」
 
 GitHub では、Advanced Security ライセンスの下で顧客が追加のセキュリティ機能を利用できるようにしています。 これらの機能には、コード スキャン、シークレット スキャン、依存関係のレビューなどがあります。 詳細については、[Advanced Security のドキュメント](/ja/get-started/learning-about-github/about-github-advanced-security)を参照してください。
 
-Advanced Security は、「一意のコミッター」ごとにライセンスされます。 「一意のコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server、または GitHub AE のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様は、一意のコミッターごとに 1 つの GitHub Advanced Security User ライセンスを取得しなければなりません。 GitHub Advanced Security は、お客様によって、またはお客様のために開発されたコードベースでのみ使用できます。 GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能では GitHub Actions の使用も必要です。
+Advanced Security は、「一意のコミッター」ごとにライセンスされます。 「一意のコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、または GitHub Enterprise Server のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様は、一意のコミッターごとに 1 つの GitHub Advanced Security User ライセンスを取得しなければなりません。 GitHub Advanced Security は、お客様によって、またはお客様のために開発されたコードベースでのみ使用できます。 GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能では GitHub Actions の使用も必要です。
 
 GitHub Advanced Security を使用したシークレット スキャンの場合、パートナー パターンの自動有効性チェックをオプトインすると、公開された第三者のトークンが関連するパートナーと共有され、トークンの有効性に関する詳細情報が提供される場合があります。 すべてのパートナーが米国に拠点を置いているわけではありません。 [シークレット スキャン パターンのドキュメント](/ja/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)には、有効性チェックをサポートするパートナーの詳細が記載されています。
 
@@ -125,7 +123,7 @@ GitHub の製品またはサービスと競合する製品またはサービス�
 [Connect](#connect)
 ----------
 
-GitHub Connect を使用すると、GitHub Enterprise Server または GitHub AE デプロイと、GitHub.com 上の GitHub Enterprise Cloud の組織またはエンタープライズ アカウントとの間で特定の機能やデータを共有できます。 GitHub Connect を有効にするには、GitHub Enterprise Cloud または GitHub.com に少なくとも 1 つのアカウントと、GitHub Enterprise Server または GitHub AE の 1 つのライセンス デプロイを持っていなければなりません。 Connect を介した GitHub Enterprise Cloud または GitHub.com の使用には、お客様が GitHub Enterprise Cloud または GitHub.com のライセンスを供与する条件が適用されます。 個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)」が適用されます。
+GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、GitHub.com 上の GitHub Enterprise Cloud の組織または Enterprise アカウントとの間で特定の機能やデータを共有できます。 GitHub Connect を有効にするには、GitHub Enterprise Cloud または GitHub.com に少なくとも 1 つのアカウントと、GitHub Enterprise Server の 1 つのライセンス デプロイを持っていなければなりません。 Connect を介した GitHub Enterprise Cloud または GitHub.com の使用には、お客様が GitHub Enterprise Cloud または GitHub.com のライセンスを供与する条件が適用されます。 個人データの使用には、「[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)」が適用されます。
 
 [GitHub Copilot](#github-copilot)
 ----------

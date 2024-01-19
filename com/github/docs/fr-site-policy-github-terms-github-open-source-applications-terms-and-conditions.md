@@ -28,7 +28,7 @@ Les présentes conditions générales des applications open source GitHub (« c
 [Connexion à GitHub](#connecting-to-github)
 ----------
 
-Si vous configurez le Logiciel pour qu'il fonctionne avec un ou plusieurs comptes sur le site web GitHub.com ou avec un déploiement de GitHub Enterprise Server ou GitHub AE, votre utilisation du Logiciel sera également régie par les Conditions d'utilisation du service du site web GitHub.com et/ou le contrat de licence applicable à votre déploiement de GitHub Enterprise Server ou de GitHub AE (« Conditions GitHub »).
+Si vous configurez le Logiciel pour qu'il fonctionne avec un ou plusieurs comptes sur le site web GitHub.com ou avec un déploiement de GitHub Enterprise Server, votre utilisation du Logiciel sera également régie par les Conditions d'utilisation du service du site web GitHub.com et/ou le contrat de licence applicable à votre déploiement de GitHub Enterprise Server (« Conditions GitHub »).
 
 Toute utilisation du Logiciel qui enfreint vos Conditions GitHub applicables constituera également une violation des présentes Conditions d'application.
 

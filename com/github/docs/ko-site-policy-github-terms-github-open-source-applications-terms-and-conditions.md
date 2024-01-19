@@ -28,7 +28,7 @@ GitHub 오픈 소스 애플리케이션 계약조건
 [GitHub에 연결](#connecting-to-github)
 ----------
 
-하나 또는 둘 이상의 GitHub.com 웹 사이트 계정이나 GitHub Enterprise Server 또는 GitHut AE 배포와 함께 작동하도록 소프트웨어를 구성하는 경우, 소프트웨어 사용에는 귀하의 GitHub Enterprise Server 또는 GitHut AE 배포에 적용되는 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 라이선스 계약("GitHub 약관")도 적용됩니다.
+하나 또는 둘 이상의 GitHub.com 웹 사이트 계정이나 GitHub Enterprise Server 배포와 함께 작동하도록 소프트웨어를 구성하는 경우, 소프트웨어 사용에는 귀하의 GitHub Enterprise Server 배포에 적용되는 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 라이선스 계약("GitHub 약관")도 적용됩니다.
 
 귀하의 해당 GitHub 약관을 위반하는 소프트웨어의 사용도 본 애플리케이션 약관을 위반한 것으로 간주됩니다.
 

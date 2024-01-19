@@ -28,7 +28,7 @@ Estos Términos y condiciones de las aplicaciones de código abierto de GitHub (
 [Conexión a GitHub](#connecting-to-github)
 ----------
 
-Si configura el Software para que funcione con una o varias cuentas en el sitio web GitHub.com o con una implementación de GitHub Enterprise Server o GitHub AE, el uso del Software también se regirá por los Términos del servicio del sitio web GitHub.com aplicables y/o el acuerdo de licencia correspondiente a su implementación de GitHub Enterprise Server o GitHub AE («Términos de GitHub»).
+Si configura el Software para que funcione con una o varias cuentas en el sitio web GitHub.com o con una implementación de GitHub Enterprise Server, el uso del Software también se regirá por los Términos del servicio del sitio web GitHub.com aplicables y/o el acuerdo de licencia correspondiente a su implementación de GitHub Enterprise Server («Términos de GitHub»).
 
 Cualquier uso del Software que viole sus Términos de GitHub aplicables también será una violación de estos Términos de la aplicación.
 

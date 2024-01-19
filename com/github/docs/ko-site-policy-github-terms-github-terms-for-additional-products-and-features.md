@@ -43,8 +43,6 @@ GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 
 
 * **GitHub Enterprise Server** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages, SQL Server Images.
 
-* **GitHub AE** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages.
-
 [Actions](#actions)
 ----------
 
@@ -81,7 +79,7 @@ GitHub는 이러한 제한 사항 위반과 GitHub Actions 악용을 방지하�
 
 GitHub는 Advanced Security 라이선스에 따라 고객에게 추가 보안 기능을 제공합니다. 이러한 기능에는 코드 검사, 비밀 검사, 종속성 검토가 포함됩니다. [고급 보안 설명서](/ko/get-started/learning-about-github/about-github-advanced-security)에서 자세한 정보를 제공합니다.
 
-Advanced Security는 "고유 커미터" 기준으로 라이선스가 부여됩니다. "고유 커미터"란 지난 90일 안에 GitHub Advanced Security 기능이 활성화된 리포지토리에 커밋한 GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server 또는 GitHub AE의 라이선스가 허여된 사용자입니다. 귀하의 각 고유 커미터마다 GitHub Advanced Security 사용자 라이선스를 획득해야 합니다. GitHub Advanced Security는 귀하가 개발하거나 귀하를 위해 개발된 코드베이스에서만 사용할 수 있습니다. GitHub Enterprise Cloud 사용자의 경우 일부 Advanced Security 기능에는 GitHub Actions 사용도 필요합니다.
+Advanced Security는 "고유 커미터" 기준으로 라이선스가 부여됩니다. "고유 커미터"란 지난 90일 안에 GitHub Advanced Security 기능이 활성화된 리포지토리에 커밋한 GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server의 라이선스가 허여된 사용자입니다. 귀하의 각 고유 커미터마다 GitHub Advanced Security 사용자 라이선스를 획득해야 합니다. GitHub Advanced Security는 귀하가 개발하거나 귀하를 위해 개발된 코드베이스에서만 사용할 수 있습니다. GitHub Enterprise Cloud 사용자의 경우 일부 Advanced Security 기능에는 GitHub Actions 사용도 필요합니다.
 
 GitHub Advanced Security를 사용한 비밀 검사의 경우 파트너 패턴에 대한 자동 유효성 검사를 옵트인할 때 토큰의 유효성에 대한 자세한 정보를 제공하기 위해 노출된 제3자 토큰을 관련 파트너와 공유할 수 있습니다. 모든 파트너가 미국에 본사를 두고 있는 것은 아닙니다. [비밀 검사 패턴 설명서](/ko/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)는 유효성 검사를 지원하는 파트너에 대한 자세한 정보를 제공합니다.
 
@@ -125,7 +123,7 @@ GitHub 제품 또는 서비스에 경쟁력 있는 제품 또는 서비스를 �
 [Connect](#connect)
 ----------
 
-GitHub Connect를 사용하면 GitHub Enterprise Server 또는 GitHub AE 배포와 GitHub Enterprise Cloud 조직 또는 GitHub.com의 기업 계정 간에 특정 기능과 데이터를 공유할 수 있습니다. GitHub Connect를 사용하도록 설정하려면 GitHub Enterprise Cloud 또는 GitHub.com의 계정 하나(1) 이상과 라이선스가 허여된 GitHub Enterprise Server 또는 GitHub AE 배포 하나(1) 이상이 있어야 합니다. Connect를 통한 GitHub Enterprise Cloud 도는 GitHub.com 사용에는 귀하가 GitHub Enterprise Cloud 또는 GitHub.com에 라이선스를 허여하는 약관이 적용됩니다. 개인 데이터 사용에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)이 적용됩니다.
+GitHub Connect를 사용하면 GitHub Enterprise Server 배포와 GitHub Enterprise Cloud 조직 또는 GitHub.com의 기업 계정 간에 특정 기능과 데이터를 공유할 수 있습니다. GitHub Connect를 사용하도록 설정하려면 GitHub Enterprise Cloud 또는 GitHub.com의 계정 하나(1) 이상과 라이선스가 허여된 GitHub Enterprise Server 배포 하나(1) 이상이 있어야 합니다. Connect를 통한 GitHub Enterprise Cloud 도는 GitHub.com 사용에는 귀하가 GitHub Enterprise Cloud 또는 GitHub.com에 라이선스를 허여하는 약관이 적용됩니다. 개인 데이터 사용에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)이 적용됩니다.
 
 [GitHub Copilot](#github-copilot)
 ----------

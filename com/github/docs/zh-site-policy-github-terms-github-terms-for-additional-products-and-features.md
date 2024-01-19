@@ -43,8 +43,6 @@ GitHub 附加产品和功能条款
 
 * GitHub Enterprise Server 用户可以访问以下附加产品和功能：Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、Pages 和 SQL Server Images。
 
-* **GitHub AE** 用户可以访问以下附加产品和功能：Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages 和 Pages。
-
 [Actions](#actions)
 ----------
 
@@ -81,7 +79,7 @@ GitHub Actions 使你能够直接在 GitHub 存储库中创建自定义软件开
 
 GitHub 根据 Advanced Security 许可证向客户提供额外的安全功能。 这些功能包括代码扫描、秘密扫描和依赖项审查。 [Advanced Security 文档](/zh/get-started/learning-about-github/about-github-advanced-security)提供更多详细信息。
 
-Advanced Security 基于“唯一提交者”获得许可。 “唯一提交者”是 GitHub Enterprise、GitHub Enterprise Cloud、GitHub Enterprise Server 或 GitHub AE 的许可用户，他们在过去 90 天内在激活了 GitHub Advanced Security 功能的任何存储库中进行过提交。 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能对由您开发或为您开发的代码库使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些 Advanced Security 功能还需要使用 GitHub Actions。
+Advanced Security 基于“唯一提交者”获得许可。 “唯一提交者”是指过去 90 天内在激活了 GitHub Advanced Security 功能的任何存储库中进行过提交的 GitHub Enterprise、GitHub Enterprise Cloud 或 GitHub Enterprise Server 许可用户。 您必须为每个唯一提交者获取 GitHub Advanced Security 用户许可。 您只能对由您开发或为您开发的代码库使用 GitHub Advanced Security。 对于 GitHub Enterprise Cloud 用户，一些 Advanced Security 功能还需要使用 GitHub Actions。
 
 若要使用 GitHub Advanced Security 进行机密扫描，如果选择自动验证合作伙伴模式，可能会与相关合作伙伴共享公开的第三方令牌，以便提供有关令牌有效性的详细信息。 并非所有合作伙伴都位于美国。 [机密扫描模式文档](/zh/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)提供了更多详细信息，介绍哪些合作伙伴支持有效性检查。
 
@@ -125,7 +123,7 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 [连接](#connect)
 ----------
 
-使用 GitHub Connect，您可以在 GitHub Enterprise Server 或 GitHub AE 部署与您的 GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间共享特定功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 或 GitHub AE 部署。 您通过 Connect 对 GitHub Enterprise Cloud 或 GitHub.com 的使用受您许可 GitHub Enterprise Cloud 或 GitHub.com 所依据的条款管理。 对个人数据的使用受 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)管理。
+使用 GitHub Connect，您可以在 GitHub Enterprise Server 部署与您的 GitHub Enterprise Cloud 组织或 GitHub.com 上的企业帐户之间共享特定功能和数据。 要启用 GitHub Connect，您必须在 GitHub Enterprise Cloud 或 GitHub.com 上至少有一 (1) 个帐户，以及一 (1) 个许可的 GitHub Enterprise Server 部署。 您通过 Connect 对 GitHub Enterprise Cloud 或 GitHub.com 的使用受您许可 GitHub Enterprise Cloud 或 GitHub.com 所依据的条款管理。 对个人数据的使用受 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)管理。
 
 [GitHub Copilot](#github-copilot)
 ----------
