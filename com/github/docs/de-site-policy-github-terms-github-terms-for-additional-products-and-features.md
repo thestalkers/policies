@@ -21,7 +21,7 @@ In diesem Artikel
 * [Beratungsdatenbank](#advisory-database)
 * [Codespaces](#codespaces)
 * [Wettbewerbsbenchmarking](#competitive-benchmarking)
-* [Connect](#connect)
+* [Verbinden](#connect)
 * [GitHub Copilot](#github-copilot)
 * [GitHub Enterprise Importer](#github-enterprise-importer)
 * [npm](#npm)
@@ -42,8 +42,6 @@ Durch die Nutzung der zusätzlichen Produkte und Funktionen stimmen Sie auch den
 * Benutzer von **GitHub Enterprise Cloud** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages und Pages.
 
 * Benutzer von **GitHub Enterprise Server** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages und SQL Server Images.
-
-* **GitHub AE** Benutzer haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages und Pages.
 
 [Aktionen](#actions)
 ----------
@@ -81,7 +79,7 @@ Wenn Sie selbst gehostete Runner verwenden, haben Sie die Möglichkeit, automati
 
 GitHub stellt Kunden zusätzliche Sicherheitsfunktionen im Rahmen einer Advanced Security-Lizenz zur Verfügung. Zu diesen Funktionen gehören Code-Scanning, Secret-Scanning und Abhängigkeitsprüfung. Die [Dokumentation über erweiterte Sicherheit](/de/get-started/learning-about-github/about-github-advanced-security) liefert weitere Einzelheiten.
 
-Advanced Security wird auf „Unique Committer“-Basis lizenziert. Ein „Individueller Software-Entwickler“ ist ein lizenzierter Benutzer von GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server oder GitHub AE, der in den letzten 90 Tagen eine Codeübergabe an ein beliebiges Repository mit aktivierter GitHub Advanced Security-Funktionalität vorgenommen hat. Sie müssen für jeden Ihrer Unique Committer eine GitHub Advanced Security User-Lizenz erwerben. Sie dürfen GitHub Advanced Security nur auf Codebasen verwenden, die von Ihnen oder für Sie entwickelt wurden. Für GitHub Enterprise Cloud-Benutzer erfordern einige erweiterte Sicherheitsfunktionen auch die Verwendung von GitHub-Aktionen.
+Advanced Security wird auf „Unique Committer“-Basis lizenziert. Ein „Individueller Software-Entwickler“ ist ein lizenzierter Benutzer von GitHub Enterprise, GitHub Enterprise Cloud oder GitHub Enterprise Server, der in den letzten 90 Tagen eine Codeübergabe an ein beliebiges Repository mit aktivierter GitHub Advanced Security-Funktionalität vorgenommen hat. Sie müssen für jeden Ihrer Unique Committer eine GitHub Advanced Security User-Lizenz erwerben. Sie dürfen GitHub Advanced Security nur auf Codebasen verwenden, die von Ihnen oder für Sie entwickelt wurden. Für GitHub Enterprise Cloud-Benutzer erfordern einige erweiterte Sicherheitsfunktionen auch die Verwendung von GitHub-Aktionen.
 
 Wenn Sie sich für die geheime Überprüfung mit GitHub Advanced Security für automatische Gültigkeitsprüfungen für Partnermuster anmelden, können verfügbar gemachte Drittanbietertoken für den relevanten Partner freigegeben werden, um Ihnen weitere Informationen zur Gültigkeit des Tokens bereitzustellen. Nicht alle Partner sind in den USA ansässig. In der [Dokumentation zu Mustern für die Identifizierung von Geheimnissen](/de/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns) finden Sie weitere Details dazu, welche Partner die Gültigkeitsprüfung unterstützen.
 
@@ -122,10 +120,10 @@ Die allgemein verfügbare Version von Codespaces ist derzeit nicht für Kunden d
 
 Wenn Sie ein Produkt oder einen Dienst anbieten, das bzw. der im Wettbewerb zu einem GitHub-Produkt oder -Dienst steht, stimmen Sie mit Ihrer Verwendung dieses GitHub-Produkts oder -Dienstes zu, auf jegliche Einschränkungen in Bezug auf GitHub bei der Verwendung im Wettbewerb und bei Benchmarktests in den Bestimmungen, die für das bzw. den konkurrierende(n) Produkt oder Dienst gelten, zu verzichten. Wenn Sie nicht beabsichtigen, auf solche Einschränkungen in Ihren Nutzungsbedingungen zu verzichten, dürfen Sie dieses GitHub-Produkt bzw. diesen GitHub-Dienst nicht verwenden.
 
-[Connect](#connect)
+[Verbinden](#connect)
 ----------
 
-Mit GitHub Connect können Sie bestimmte Features und Daten zwischen Ihrer GitHub Enterprise Server- oder GitHub AE-Bereitstellung und Ihrer GitHub Enterprise Cloud-Organisation oder Ihrem Unternehmenskonto auf GitHub.com teilen. Zum Aktivieren von GitHub Connect müssen Sie über mindestens ein (1) Konto auf GitHub Enterprise Cloud oder GitHub.com und eine (1) lizenzierte Bereitstellung von GitHub Enterprise Server oder GitHub AE verfügen. Ihre Nutzung von GitHub Enterprise Cloud oder GitHub.com über Connect unterliegt den Bedingungen, unter denen Sie GitHub Enterprise Cloud oder GitHub.com lizenzieren. Die Nutzung personenbezogener Daten unterliegt der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
+Mit GitHub Connect können Sie bestimmte Features und Daten zwischen Ihrer GitHub Enterprise Server-Bereitstellung und Ihrer GitHub Enterprise Cloud-Organisation oder Ihrem Unternehmenskonto auf GitHub.com teilen. Zum Aktivieren von GitHub Connect müssen Sie über mindestens ein (1) Konto auf GitHub Enterprise Cloud oder GitHub.com und eine (1) lizenzierte Bereitstellung von GitHub Enterprise Server verfügen. Ihre Nutzung von GitHub Enterprise Cloud oder GitHub.com über Connect unterliegt den Bedingungen, unter denen Sie GitHub Enterprise Cloud oder GitHub.com lizenzieren. Die Nutzung personenbezogener Daten unterliegt der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
 
 [GitHub Copilot](#github-copilot)
 ----------

@@ -28,7 +28,7 @@ Diese Allgemeinen Geschäftsbedingungen für GitHub-Open-Source-Anwendungen („
 [Verbindung zu GitHub herstellen](#connecting-to-github)
 ----------
 
-Wenn Sie die Software so konfigurieren, dass sie mit einem oder mehreren Konten auf der Website GitHub.com oder mit einer Bereitstellung von GitHub Enterprise Server oder GitHub AE funktioniert, unterliegt Ihre Nutzung der Software auch den geltenden Vertragsbedingungen der Website GitHub.com und/oder der geltenden Lizenzvereinbarung für Ihre Bereitstellung von GitHub Enterprise Server oder GitHub AE („GitHub-Bedingungen”).
+Wenn Sie die Software so konfigurieren, dass sie mit einem oder mehreren Konten auf der Website GitHub.com oder mit einer Bereitstellung von GitHub Enterprise Server funktioniert, unterliegt Ihre Nutzung der Software auch den geltenden Vertragsbedingungen der Website GitHub.com und/oder der geltenden Lizenzvereinbarung für Ihre Bereitstellung von GitHub Enterprise Server („GitHub-Bedingungen”).
 
 Jegliche Nutzung der Software, die gegen Ihre geltenden GitHub-Bedingungen verstößt, stellt auch einen Verstoß gegen diese Anwendungsbedingungen dar.
 
