@@ -75,7 +75,7 @@ GitHub compartirá su Información personal del candidato con aquellos que tenga
 3. Para cumplir con nuestras obligaciones legales, reglamentos o contratos, o para responder a una orden judicial, proceso administrativo o judicial (como una citación, una auditoría gubernamental o una orden de allanamiento) o, en respuesta a solicitudes legales de las autoridades públicas (como la seguridad nacional o cumplimiento de la ley);
 4. Según sea necesario para establecer, ejercer o defenderse de litigios potenciales o pendientes;
 5. Cuando sea necesario para proteger GitHub, sus intereses vitales (como la seguridad y la protección) o los de otra persona; o
-6. Con su consentimiento (como para contactar a sus árbitros). Es su responsabilidad obtener el consentimiento de los árbitros antes de proporcionar su información personal a GitHub.
+6. Con su consentimiento (como para contactar a sus referencias). Es su responsabilidad obtener el consentimiento de las referencias antes de proporcionar su información personal a GitHub.
 
 [Sus derechos sobre la información personal de su candidato](#your-rights-to-your-candidate-personal-information)
 ----------
