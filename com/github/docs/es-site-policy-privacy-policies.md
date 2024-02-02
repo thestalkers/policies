@@ -12,7 +12,7 @@ Directivas de Privacidad - Documentación de GitHub
 Directivas de Privacidad
 ==========
 
-* [Declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub General Privacy Statement](/es/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [Subprocesadores de GitHub](/es/site-policy/privacy-policies/github-subprocessors)
 

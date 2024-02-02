@@ -12,7 +12,7 @@
 隐私政策
 ==========
 
-* [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub General Privacy Statement](/zh/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [GitHub 次级处理者](/zh/site-policy/privacy-policies/github-subprocessors)
 

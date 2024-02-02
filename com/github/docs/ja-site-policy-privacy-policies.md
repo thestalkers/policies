@@ -12,7 +12,7 @@
 プライバシー ポリシー
 ==========
 
-* [GitHub のプライバシー ステートメント|プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub General Privacy Statement](/ja/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [GitHub の下請処理者](/ja/site-policy/privacy-policies/github-subprocessors)
 

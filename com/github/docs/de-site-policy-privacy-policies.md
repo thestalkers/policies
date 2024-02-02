@@ -12,7 +12,7 @@ Datenschutzrichtlinien - GitHub-Dokumentation
 Datenschutzrichtlinien
 ==========
 
-* [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub General Privacy Statement](/de/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [GitHub Unterauftragsverarbeiter](/de/site-policy/privacy-policies/github-subprocessors)
 

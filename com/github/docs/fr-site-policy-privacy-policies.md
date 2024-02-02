@@ -12,7 +12,7 @@ Politiques de Confidentialité - Documentation GitHub
 Politiques de Confidentialité
 ==========
 
-* [Déclaration de confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement)
+* [GitHub General Privacy Statement](/fr/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [Sous-processeurs GitHub](/fr/site-policy/privacy-policies/github-subprocessors)
 
