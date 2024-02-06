@@ -50,7 +50,7 @@ sites:
       - https://docs.github.com/de/site-policy/privacy-policies
       - https://docs.github.com/de/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/de/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/de/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/de/site-policy/security-policies
       - https://docs.github.com/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -104,7 +104,7 @@ sites:
       - https://docs.github.com/en/site-policy/privacy-policies
       - https://docs.github.com/en/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/en/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/en/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/en/site-policy/security-policies
       - https://docs.github.com/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -158,7 +158,7 @@ sites:
       - https://docs.github.com/es/site-policy/privacy-policies
       - https://docs.github.com/es/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/es/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/es/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/es/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/es/site-policy/security-policies
       - https://docs.github.com/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -212,7 +212,7 @@ sites:
       - https://docs.github.com/fr/site-policy/privacy-policies
       - https://docs.github.com/fr/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/fr/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/fr/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/fr/site-policy/security-policies
       - https://docs.github.com/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -266,7 +266,7 @@ sites:
       - https://docs.github.com/ja/site-policy/privacy-policies
       - https://docs.github.com/ja/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/ja/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/ja/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/ja/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/ja/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/ja/site-policy/security-policies
       - https://docs.github.com/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -320,7 +320,7 @@ sites:
       - https://docs.github.com/ko/site-policy/privacy-policies
       - https://docs.github.com/ko/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/ko/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/ko/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/ko/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/ko/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/ko/site-policy/security-policies
       - https://docs.github.com/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -374,7 +374,7 @@ sites:
       - https://docs.github.com/pt/site-policy/privacy-policies
       - https://docs.github.com/pt/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/pt/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/pt/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/pt/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/pt/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/pt/site-policy/security-policies
       - https://docs.github.com/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -428,7 +428,7 @@ sites:
       - https://docs.github.com/ru/site-policy/privacy-policies
       - https://docs.github.com/ru/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/ru/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/ru/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/ru/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/ru/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/ru/site-policy/security-policies
       - https://docs.github.com/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
@@ -482,7 +482,7 @@ sites:
       - https://docs.github.com/zh/site-policy/privacy-policies
       - https://docs.github.com/zh/site-policy/privacy-policies/github-candidate-privacy-policy
       - https://docs.github.com/zh/site-policy/privacy-policies/github-codespaces-privacy-statement
-      - https://docs.github.com/zh/site-policy/privacy-policies/github-privacy-statement
+      - https://docs.github.com/zh/site-policy/privacy-policies/github-general-privacy-statement
       - https://docs.github.com/zh/site-policy/privacy-policies/github-cookies
       - https://docs.github.com/zh/site-policy/security-policies
       - https://docs.github.com/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities
