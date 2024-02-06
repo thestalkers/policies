@@ -60,16 +60,16 @@
 GitHub では、[Git バージョン管理システム](https://git-scm.com/video/what-is-version-control)を使用して、何百万ものデータ リポジトリをホストしています。
 GitHub 上のリポジトリ (公開または非公開の可能性があります) は、ソフトウェア開発プロジェクトのために最も一般的に使用されていますが、多くの場合、これらのリポジトリを使用して、あらゆる種類のコンテンツの作業も行われています。
 
-* [**ユーザー**](/ja/get-started/quickstart/github-glossary#user) — 当社のシステムにおいて、ユーザーは個人の GitHub アカウントを意味します。
+* [**ユーザー**](/ja/get-started/learning-about-github/github-glossary#user) — 当社のシステムにおいて、ユーザーは個人の GitHub アカウントを意味します。
   各ユーザーには個人プロファイルがあり、複数のリポジトリを所有できます。
   ユーザーは組織を作ったり、組織への参加を招待されたり、別のユーザーのリポジトリでコラボレーションしたりすることができます。
 
-* [**コラボレーター**](/ja/get-started/quickstart/github-glossary#collaborator) — コラボレーターとは、リポジトリ所有者によって投稿に招待されたユーザーであり、リポジトリに対する読み取りおよび書き込みアクセス権を持ちます。
+* [**コラボレーター**](/ja/get-started/learning-about-github/github-glossary#collaborator) — コラボレーターとは、リポジトリ所有者によって投稿に招待されたユーザーであり、リポジトリに対する読み取りおよび書き込みアクセス権を持ちます。
 
-* [**組織**](/ja/get-started/quickstart/github-glossary#organization) — 組織とは、企業やプロジェクトなどの一般に実際の組織に似た 2 人以上のユーザーのグループです。
+* [**組織**](/ja/get-started/learning-about-github/github-glossary#organization) — 組織とは、企業やプロジェクトなどの一般に実際の組織に似た 2 人以上のユーザーのグループです。
   組織はユーザーによって管理され、リポジトリとユーザーのチームの両方を含めることができます。
 
-* [**リポジトリ**](/ja/get-started/quickstart/github-glossary#repository) — リポジトリとは、GitHub の最も基本的な要素の 1 つです。
+* [**リポジトリ**](/ja/get-started/learning-about-github/github-glossary#repository) — リポジトリとは、GitHub の最も基本的な要素の 1 つです。
   これらは、プロジェクトのフォルダーと考えると、わかりやすいでしょう。
   リポジトリにはプロジェクト ファイルのすべて (ドキュメントを含む) が含まれており、各ファイルの改訂履歴が保存されます。
   リポジトリには、複数のコラボレーターがいる可能性があり、その管理者の裁量でリポジトリを公開するかどうかを決定できます。

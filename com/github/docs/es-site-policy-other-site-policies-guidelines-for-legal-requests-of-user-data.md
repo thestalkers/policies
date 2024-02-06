@@ -60,16 +60,16 @@ Antes de pedirnos que divulguemos datos, puede ser útil comprender cómo se imp
 GitHub aloja millones de repositorios de datos con el [sistema de control de versiones Git](https://git-scm.com/video/what-is-version-control).
 Los repositorios en GitHub, que pueden ser públicos o privados, se usan más comúnmente para proyectos de desarrollo de software, pero también se usan a menudo para trabajar en contenido de todo tipo.
 
-* [**Usuarios**](/es/get-started/quickstart/github-glossary#user): los usuarios están representados en nuestro sistema como cuentas personales de GitHub.
+* [**Usuarios**](/es/get-started/learning-about-github/github-glossary#user): los usuarios están representados en nuestro sistema como cuentas personales de GitHub.
   Cada usuario tiene un perfil personal y puede poseer varios repositorios.
   Los usuarios pueden crear o ser invitados a unirse a organizaciones o colaborar en el repositorio de otro usuario.
 
-* [**Colaboradores**](/es/get-started/quickstart/github-glossary#collaborator): un colaborador es un usuario con acceso de lectura y escritura a un repositorio al que el propietario le ha invitado a colaborar.
+* [**Colaboradores**](/es/get-started/learning-about-github/github-glossary#collaborator): un colaborador es un usuario con acceso de lectura y escritura a un repositorio al que el propietario le ha invitado a colaborar.
 
-* [**Organizaciones**](/es/get-started/quickstart/github-glossary#organization): las organizaciones son un grupo de dos o más usuarios que normalmente reflejan organizaciones del mundo real, como negocios o proyectos.
+* [**Organizaciones**](/es/get-started/learning-about-github/github-glossary#organization): las organizaciones son un grupo de dos o más usuarios que normalmente reflejan organizaciones del mundo real, como negocios o proyectos.
   Son administrados por usuarios y pueden contener tanto repositorios como equipos de usuarios.
 
-* [**Repositorios**](/es/get-started/quickstart/github-glossary#repository): un repositorio es uno de los elementos más básicos de GitHub.
+* [**Repositorios**](/es/get-started/learning-about-github/github-glossary#repository): un repositorio es uno de los elementos más básicos de GitHub.
   Pueden ser más fáciles de imaginar como la carpeta de un proyecto.
   Un repositorio contiene todos los archivos del proyecto (incluida la documentación) y almacena el historial de revisión de cada archivo.
   Los repositorios pueden tener múltiples colaboradores y, a discreción de sus administradores, pueden ser visibles públicamente o no.

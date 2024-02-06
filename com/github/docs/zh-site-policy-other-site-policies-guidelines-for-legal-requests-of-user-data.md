@@ -60,16 +60,16 @@
 GitHub 使用 [Git 版本控制系统](https://git-scm.com/video/what-is-version-control)托管数百万个数据存储库。
 GitHub 上的公共存储库或私有存储库最常用于软件开发项目，但也常用于托管各种类型的内容。
 
-* [**用户**](/zh/get-started/quickstart/github-glossary#user) - 用户在我们的系统中以个人 GitHub 帐户的形式呈现。
+* [**用户**](/zh/get-started/learning-about-github/github-glossary#user) - 用户在我们的系统中以个人 GitHub 帐户的形式呈现。
   每个用户都有自己的个人资料，可以拥有多个存储库。
   用户可以创建或受邀加入组织，也可以在其他用户的存储库上进行协作。
 
-* [**协作者**](/zh/get-started/quickstart/github-glossary#collaborator) - 协作者是受存储库所有者邀请提供贡献的用户，有权读取和写入存储库。
+* [**协作者**](/zh/get-started/learning-about-github/github-glossary#collaborator) - 协作者是受存储库所有者邀请提供贡献的用户，有权读取和写入存储库。
 
-* [**组织**](/zh/get-started/quickstart/github-glossary#organization) - 组织是由两个或以上用户组成的组，通常对应实际的组织，如企业或项目。
+* [**组织**](/zh/get-started/learning-about-github/github-glossary#organization) - 组织是由两个或以上用户组成的组，通常对应实际的组织，如企业或项目。
   组织由用户管理，可以包含存储库和用户小组。
 
-* [**存储库**](/zh/get-started/quickstart/github-glossary#repository) - 存储库是最基本的 GitHub 元素之一。
+* [**存储库**](/zh/get-started/learning-about-github/github-glossary#repository) - 存储库是最基本的 GitHub 元素之一。
   最简单的方式是将它们想象为项目的文件夹。
   存储库包含所有项目文件（包括文档），并存储每个文件的修订历史记录。
   存储库可以有多个协作者，并由管理员自行决定是否可以公开查看。

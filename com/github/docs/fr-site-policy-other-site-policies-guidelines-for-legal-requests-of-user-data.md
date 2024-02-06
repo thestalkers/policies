@@ -60,16 +60,16 @@ Avant de nous demander de divulguer des données, il peut être utile de compren
 GitHub héberge des millions de référentiels de données utilisant le [système de gestion de versions Git](https://git-scm.com/video/what-is-version-control).
 Les référentiels sur GitHub, qui peuvent être publics ou privés, sont le plus souvent utilisés pour les projets de développement de logiciels, mais sont également souvent utilisés pour travailler sur des contenus de toutes sortes.
 
-* [**Utilisateurs**](/fr/get-started/quickstart/github-glossary#user) : les utilisateurs sont représentés dans notre système en tant que comptes GitHub personnels.
+* [**Utilisateurs**](/fr/get-started/learning-about-github/github-glossary#user) : les utilisateurs sont représentés dans notre système en tant que comptes GitHub personnels.
   Chaque utilisateur a un profil personnel et peut posséder plusieurs référentiels.
   Les utilisateurs peuvent créer ou être invités à rejoindre des organisations ou à collaborer sur le référentiel d'un autre utilisateur.
 
-* [**Collaborateurs**](/fr/get-started/quickstart/github-glossary#collaborator) : un collaborateur est un utilisateur ayant un accès en lecture et écriture à un référentiel qui a été invité à contribuer par le propriétaire du référentiel.
+* [**Collaborateurs**](/fr/get-started/learning-about-github/github-glossary#collaborator) : un collaborateur est un utilisateur ayant un accès en lecture et écriture à un référentiel qui a été invité à contribuer par le propriétaire du référentiel.
 
-* [**Organisations**](/fr/get-started/quickstart/github-glossary#organization) : les organisations sont un groupe de deux utilisateurs ou plus qui reflètent généralement des organisations du monde réel, comme des entreprises ou des projets.
+* [**Organisations**](/fr/get-started/learning-about-github/github-glossary#organization) : les organisations sont un groupe de deux utilisateurs ou plus qui reflètent généralement des organisations du monde réel, comme des entreprises ou des projets.
   Ils sont administrés par les utilisateurs et peuvent contenir à la fois des référentiels et des équipes d'utilisateurs.
 
-* [**Référentiel**](/fr/get-started/quickstart/github-glossary#repository) : un référentiel est l'un des éléments GitHub les plus basiques.
+* [**Référentiel**](/fr/get-started/learning-about-github/github-glossary#repository) : un référentiel est l'un des éléments GitHub les plus basiques.
   Ils peuvent être plus faciles à imaginer en tant que dossier de projet.
   Un référentiel contient tous les fichiers du projet (y compris la documentation) et stocke l'historique des révisions de chaque fichier.
   Les référentiels peuvent avoir plusieurs collaborateurs et, à la discrétion de ses administrateurs, peuvent être accessibles au public ou non.

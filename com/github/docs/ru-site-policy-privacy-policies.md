@@ -12,7 +12,7 @@
 Политики конфиденциальности
 ==========
 
-* [GitHub General Privacy Statement](/ru/site-policy/privacy-policies/github-general-privacy-statement)
+* [Общие заявления о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [Дополнительные обработчики данных GitHub](/ru/site-policy/privacy-policies/github-subprocessors)
 

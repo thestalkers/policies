@@ -75,7 +75,7 @@ GitHub wird Ihre personenbezogenen Kandidatendaten an diejenigen weitergeben, di
 3. Um unseren gesetzlichen Verpflichtungen, Vorschriften oder Verträgen nachzukommen oder um auf eine gerichtliche Anordnung, ein Verwaltungs- oder Gerichtsverfahren (wie eine Vorladung, eine staatliche Prüfung oder einen Durchsuchungsbefehl) zu reagieren oder als Reaktion auf rechtmäßige Anfragen von Behörden (wie die nationale Sicherheit oder Strafverfolgung);
 4. Soweit erforderlich, um potenzielle oder anhängige Rechtsstreitigkeiten zu begründen, auszuüben oder sich gegen sie zu verteidigen;
 5. Soweit erforderlich, um GitHub, Ihre lebenswichtigen Interessen (wie Sicherheit) oder die einer anderen Person zu schützen; oder
-6. Mit Ihrer Zustimmung (um Ihre Referenzen zu kontaktieren). Es liegt in Ihrer Verantwortung, die Zustimmung von Referenzen einzuholen, bevor Sie ihre persönlichen Daten an GitHub weitergeben.
+6. Mit Ihrer Zustimmung (um Ihre Referenzen zu kontaktieren). Es liegt in Ihrer Verantwortung, die Zustimmung von Referenzen einzuholen, bevor Sie deren persönlichen Daten an GitHub weitergeben.
 
 [Ihre Rechte an Ihren personenbezogenen Kandidatendaten](#your-rights-to-your-candidate-personal-information)
 ----------
