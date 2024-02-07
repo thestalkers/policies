@@ -60,16 +60,16 @@ GitHub에 데이터 공개를 요청하기 전에 GitHub 시스템의 구현 방
 GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-version-control)을 사용하여 수많은 데이터 리포지토리를 호스트합니다.
 공용 또는 개인 리포지토리일 수 있는 GitHub의 리포지토리는 소프트웨어 개발 프로젝트에 가장 흔히 사용되지만 온갖 종류의 콘텐츠 작업에도 자주 사용됩니다.
 
-* [**사용자**](/ko/get-started/quickstart/github-glossary#user) - GitHub 시스템에서 사용자는 개인 GitHub 계정으로 대표됩니다.
+* [**사용자**](/ko/get-started/learning-about-github/github-glossary#user) - GitHub 시스템에서 사용자는 개인 GitHub 계정으로 대표됩니다.
   각 사용자는 개인 프로필이 있으며, 여러 리포지토리를 소유할 수 있습니다.
   사용자는 조직을 만들거나 조직에 가입하거나 다른 사용자의 리포지토리에서 협업하도록 초대될 수 있습니다.
 
-* [**협력자**](/ko/get-started/quickstart/github-glossary#collaborator) - 협력자는 리포지토리 소유자가 기여하도록 초대받은 리포지토리에 대한 읽기 및 쓰기 권한을 가진 사용자입니다.
+* [**협력자**](/ko/get-started/learning-about-github/github-glossary#collaborator) - 협력자는 리포지토리 소유자가 기여하도록 초대받은 리포지토리에 대한 읽기 및 쓰기 권한을 가진 사용자입니다.
 
-* [**조직**](/ko/get-started/quickstart/github-glossary#organization) - 조직은 둘 이상의 사용자로 구성된 그룹으로서 일반적으로 비즈니스 또는 프로젝트 같은 실제 조직을 반영합니다.
+* [**조직**](/ko/get-started/learning-about-github/github-glossary#organization) - 조직은 둘 이상의 사용자로 구성된 그룹으로서 일반적으로 비즈니스 또는 프로젝트 같은 실제 조직을 반영합니다.
   조직은 사용자가 관리하며, 리포지토리와 사용자 팀을 모두 포함할 수 있습니다.
 
-* [**리포지토리**](/ko/get-started/quickstart/github-glossary#repository) - 리포지토리는 GitHub의 가장 기본적인 요소입니다.
+* [**리포지토리**](/ko/get-started/learning-about-github/github-glossary#repository) - 리포지토리는 GitHub의 가장 기본적인 요소입니다.
   프로젝트의 폴더라고 생각하면 가장 쉬울 수 있습니다.
   리포지토리에는 문서를 포함한 모든 프로젝트 파일이 포함되며, 각 파일의 수정 기록이 저장됩니다.
   리포지토리에는 여러 협업이 있을 수 있으며, 관리자의 재량에 따라 공개적으로 볼 수 있거나 없을 수 있습니다.

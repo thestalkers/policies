@@ -12,7 +12,7 @@ Políticas de Privacidade - GitHub Docs
 Políticas de Privacidade
 ==========
 
-* [GitHub General Privacy Statement](/pt/site-policy/privacy-policies/github-general-privacy-statement)
+* [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [Subprocessadores do GitHub](/pt/site-policy/privacy-policies/github-subprocessors)
 
