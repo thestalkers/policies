@@ -2,7 +2,7 @@ GitHub perturbe l'expérience des autres utilisateurs - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Origine](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 

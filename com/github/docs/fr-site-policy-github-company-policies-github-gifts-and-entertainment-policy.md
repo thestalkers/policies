@@ -2,7 +2,7 @@ Politique relative aux cadeaux et aux divertissements de GitHub - Documentation 
 
 [Skip to main content](#main-content)
 
-[Origine](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 

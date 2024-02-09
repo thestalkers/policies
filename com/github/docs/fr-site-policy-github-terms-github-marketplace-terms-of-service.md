@@ -2,7 +2,7 @@ Conditions d'utilisation de la place de marché GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Origine](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 

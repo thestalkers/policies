@@ -2,7 +2,7 @@ Lignes directrices pour les demandes légales de données utilisateur - Document
 
 [Skip to main content](#main-content)
 
-[Origine](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
