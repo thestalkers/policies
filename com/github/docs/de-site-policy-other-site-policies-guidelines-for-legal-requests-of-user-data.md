@@ -273,4 +273,4 @@ GitHub wird unverzüglich auf Ersuchen reagieren, die über ein US-Gericht im We
 [Fragen](#questions)
 ----------
 
-Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Wenden Sie sich an [GitHub-Support](https://support.github.com/contact?tags=docs-generic).
+Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Wenden Sie sich an uns über das [GitHub-Support-Portal](https://support.github.com).

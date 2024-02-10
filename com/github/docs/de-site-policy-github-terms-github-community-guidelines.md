@@ -56,7 +56,7 @@ Während einige Meinungsverschiedenheiten durch direkte, respektvolle Kommunikat
 
 * **Interaktionen einschränken**. Wenn Ihr öffentliches Projekt unerwünschte Aufmerksamkeit erregt, getrollt, gespammt oder anderweitig gestört wird, haben Sie die Möglichkeit, [vorübergehende Interaktionsgrenzen](/de/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) festzulegen, um bestimmte Nutzer daran zu hindern, mit Ihrem Repository zu interagieren. Sie können sogar [Code-Review-Grenzen](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) festzulegen, um qualitativ hochwertige Beiträge zu Ihren Projekten zu gewährleisten.
 
-Obwohl wir uns leidenschaftlich dafür einsetzen, Betreuern die Möglichkeit zu geben, ihre eigenen Projekte zu moderieren, kontaktieren Sie uns bitte unter [Missbrauch melden](https://github.com/contact/report-abuse), wenn Sie zusätzliche Unterstützung bei der Bewältigung einer Situation benötigen.
+Obwohl wir uns leidenschaftlich dafür einsetzen, Betreuern die Möglichkeit zu geben, ihre eigenen Projekte zu moderieren, kontaktieren Sie uns bitte unter , wenn Sie zusätzliche Unterstützung bei der Bewältigung einer Situation benötigen.
 
 [Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt?](#what-happens-if-someone-violates-githubs-policies)
 ----------
