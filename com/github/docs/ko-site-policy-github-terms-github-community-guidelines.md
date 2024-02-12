@@ -56,7 +56,7 @@ GitHub 커뮤니티의 주요 목적은 소프트웨어 프로젝트의 협업�
 
 * **상호 작용 제한** - 귀하의 공개 프로젝트가 원치 않는 관심을 받고 있거나 트롤링을 당하거나 스팸 메일을 받는 경우, 특정 사용자가 귀하의 리포지토리와 상호 작용하지 못하도록 귀하의 선택에 따라 [임시 상호 작용 제한](/ko/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)을 설정할 수 있습니다. [코드 검토 한도](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)를 설정하여 프로젝트의 품질 기여도를 보장할 수도 있습니다.
 
-당사는 관리자가 각자 프로젝트를 관리하도록 최선을 다하고 있지만, 상황을 처리하면서 추가 지원이 필요하면 우리에게 [GitHub 지원 포털](https://support.github.com)을 통하여로 연락하기 바랍니다.
+당사는 관리자가 각자 프로젝트를 관리하도록 최선을 다하고 있지만, 상황을 처리하면서 추가 지원이 필요하면 [GitHub 지원 포털](https://support.github.com) 사용로 연락하기 바랍니다.
 
 [누군가 GitHub의 정책을 위반하면 어떻게 되나요?](#what-happens-if-someone-violates-githubs-policies)
 ----------

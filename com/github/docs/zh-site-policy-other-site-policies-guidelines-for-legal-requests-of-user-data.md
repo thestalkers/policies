@@ -16,227 +16,245 @@
 本文内容
 ----------
 
-* [关于这些准则](#about-these-guidelines)
-* [GitHub 术语](#github-terminology)
-* [GitHub.com 上的用户数据](#user-data-on-githubcom)
-* [我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
-* [非公开信息的披露](#disclosure-of-non-public-information)
-* [费用补偿](#cost-reimbursement)
-* [数据保留](#data-preservation)
-* [提交请求](#submitting-requests)
-* [外国执法部门的请求](#requests-from-foreign-law-enforcement)
-* [问题](#questions)
+* [About these guidelines](#about-these-guidelines)
+* [GitHub terminology](#github-terminology)
+* [User data on GitHub.com](#user-data-on-githubcom)
+* [We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
+* [Disclosure of non-public information](#disclosure-of-non-public-information)
+* [Cost reimbursement](#cost-reimbursement)
+* [Data preservation](#data-preservation)
+* [Submitting requests](#submitting-requests)
+* [Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
+* [Questions](#questions)
 
-您是否是一名执法官员，所开展的调查可能涉及到 GitHub 上托管的用户内容？
-或者您是一位非常注重隐私的人士，希望了解我们在哪些情况下与执法机构分享哪些信息。
-无论您是哪种身份，都应参阅本文内容。
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
+Either way, you're on the right page.
 
-在这些准则中，我们提供了一些背景信息，包括 GitHub 是什么、我们拥有的数据类型以及我们会在哪些情况下披露私人用户信息。
-在深入说明之前，您需要了解一些重要的详细信息：
+In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+Before we get into the details, however, here are a few important details you may want to know:
 
-* 如果有任何对于用户帐户信息的请求，我们将[**通知受影响用户**](#we-will-notify-any-affected-account-owners)，除非法律或法庭命令禁止此类通知。
-* 如果没有[有效的法庭命令或搜查令](#with-a-court-order-or-a-search-warrant)，我们不会披露**位置跟踪数据**，如 IP 地址日志。
-* 如果没有有效的[搜查令](#only-with-a-search-warrant)，我们不会披露任何**私人用户内容**，包括私有存储库内容。
+* We will [**notify affected users**](#we-will-notify-any-affected-account-owners) about any requests for their account information, unless prohibited from doing so by law or court order.
+* We will not disclose **location-tracking data**, such as IP address logs, without a [valid court order or search warrant](#with-a-court-order-or-a-search-warrant).
+* We will not disclose any **private user content**, including the contents of private repositories, without a valid [search warrant](#only-with-a-search-warrant).
 
-[关于这些准则](#about-these-guidelines)
+[About these guidelines](#about-these-guidelines)
 ----------
 
-我们的用户信任我们，将他们的软件项目和代码交由我们托管，这些通常是他们最重要的业务或个人资产。
-保持这种信任对我们来说至关重要，因此我们必须确保用户数据的安全、可靠和私密。
+Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
+Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.
 
-虽然我们绝大多数用户使用 GitHub 服务来建立新业务、构建新技术并总体改善人类生活，但我们也认识到，在我们遍及全球的数百万用户中，难免会有几个害群之马。
-在这种情况下，我们希望帮助执法部门履行其保护公众的法定职责。
+While the overwhelming majority of our users use GitHub's services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
+In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.
 
-通过为执法人员提供准则，我们希望在常有利益冲突的用户隐私与司法之间取得平衡。
-我们希望这些准则有助于明确对双方的期望，并提高 GitHub 内部流程的透明度。
-我们的用户应当知道，我们重视他们的私人信息，并竭尽所能保护这些信息。
-这至少意味着只有在符合适当法律要求的情况下，我们才会向第三方披露数据。
-同样，我们也希望培养专业执法人员对 GitHub 系统的了解，以便他们更高效地定制他们的数据请求，并且仅针对他们开展调查所需的信息提出请求。
+By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub's internal processes.
+Our users should know that we value their private information and that we do what we can to protect it.
+At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
+By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
-[GitHub 术语](#github-terminology)
+[GitHub terminology](#github-terminology)
 ----------
 
-在要求我们披露数据之前，了解我们的系统的实施方式会很有用。
-GitHub 使用 [Git 版本控制系统](https://git-scm.com/video/what-is-version-control)托管数百万个数据存储库。
-GitHub 上的公共存储库或私有存储库最常用于软件开发项目，但也常用于托管各种类型的内容。
+Before asking us to disclose data, it may be useful to understand how our system is implemented.
+GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
+Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-* [**用户**](/zh/get-started/learning-about-github/github-glossary#user) - 用户在我们的系统中以个人 GitHub 帐户的形式呈现。
-  每个用户都有自己的个人资料，可以拥有多个存储库。
-  用户可以创建或受邀加入组织，也可以在其他用户的存储库上进行协作。
+* [**Users**](/en/get-started/learning-about-github/github-glossary#user) —
+  Users are represented in our system as personal GitHub accounts.
+  Each user has a personal profile, and can own multiple repositories.
+  Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-* [**协作者**](/zh/get-started/learning-about-github/github-glossary#collaborator) - 协作者是受存储库所有者邀请提供贡献的用户，有权读取和写入存储库。
+* [**Collaborators**](/en/get-started/learning-about-github/github-glossary#collaborator) —
+  A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
-* [**组织**](/zh/get-started/learning-about-github/github-glossary#organization) - 组织是由两个或以上用户组成的组，通常对应实际的组织，如企业或项目。
-  组织由用户管理，可以包含存储库和用户小组。
+* [**Organizations**](/en/get-started/learning-about-github/github-glossary#organization) —
+  Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
+  They are administered by users and can contain both repositories and teams of users.
 
-* [**存储库**](/zh/get-started/learning-about-github/github-glossary#repository) - 存储库是最基本的 GitHub 元素之一。
-  最简单的方式是将它们想象为项目的文件夹。
-  存储库包含所有项目文件（包括文档），并存储每个文件的修订历史记录。
-  存储库可以有多个协作者，并由管理员自行决定是否可以公开查看。
+* [**Repositories**](/en/get-started/learning-about-github/github-glossary#repository) —
+  A repository is one of the most basic GitHub elements.
+  They may be easiest to imagine as a project's folder.
+  A repository contains all of the project files (including documentation), and stores each file's revision history.
+  Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-* [**页面**](/zh/pages/getting-started-with-github-pages/about-github-pages) - GitHub 页面是由 GitHub 免费托管的公共网页，用户可以轻松地通过存储在其存储库中的代码发布这些网页。
-  如果用户或组织有一个 GitHub 页面，该页面通常位于`https://username.github.io`这样的 URL 上，或其网页可能已映射到其自定义域名。
+* [**Pages**](/en/pages/getting-started-with-github-pages/about-github-pages) —
+  GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
+  If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-* [**Gist**](/zh/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) - Gist 是源代码或其他文本的片段，用户可用来存储想法或与朋友共享。
-  像普通的 GitHub 存储库一样，Gist 也是通过 Git 创建的，所以它们会自动设置版本、可复刻、可下载。
-  Gist 可以是公共的，也可以是秘密的（只能通过已知 URL 访问）。 公共 Gist 无法转换成秘密 Gist。
+* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) —
+  Gists are snippets of source code or other text that users can use to store ideas or share with friends.
+  Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+  Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
-[GitHub.com 上的用户数据](#user-data-on-githubcom)
+[User data on GitHub.com](#user-data-on-githubcom)
 ----------
 
-以下是我们维护的 GitHub 上用户和项目数据类型的非详尽清单。
+Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
 
-* []()**公共帐户数据** - GitHub 上有各种关于用户及其存储库的公开信息。
-  用户配置文件位于`https://github.com/username`这样的 URL 上。
-  用户配置文件显示有关用户在 GitHub.com 上创建帐户的时间及其在 GitHub.com 上的公共活动和社交互动的信息。
-  公共用户配置文件还可以包括用户可能已经选择公开分享的其他信息。
-  所有用户公共配置文件均显示：
+* []()**Public account data** —
+  There is a variety of information publicly available on GitHub about users and their repositories.
+  User profiles can be found at a URL such as `https://github.com/username`.
+  User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+  Public user profiles can also include additional information that a user may have chosen to share publicly.
+  All user public profiles display:
 
-  * 用户名
+  * Username
 
-  * 用户已加星标的存储库
+  * The repositories that the user has starred
 
-  * 用户关注的其他 GitHub 用户
+  * The other GitHub users the user follows
 
-  * 关注他们的用户
+  * The users that follow them
 
-    （可选）用户也可以选择公开分享以下信息：
+    Optionally, a user may also choose to share the following information publicly:
 
-  * 他们的真实姓名
+  * Their real name
 
-  * 头像
+  * An avatar
 
-  * 关联公司
+  * An affiliated company
 
-  * 他们的位置
+  * Their location
 
-  * 公共电子邮件地址
+  * A public email address
 
-  * 他们的个人网页
+  * Their personal web page
 
-  * 用户所属的组织（*取决于组织或用户偏好*）
+  * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-* []()**私人帐户数据** - GitHub 也收集和维护我们的[隐私政策](/zh/site-policy/privacy-policies/github-privacy-statement)中概述的有关用户的特定私人信息。
-  这可能包括：
+* []()**Private account data** —
+  GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
+  This may include:
 
-  * 私人电子邮件地址
+  * Private email addresses
 
-  * 付款详细信息
+  * Payment details
 
-  * 安全访问日志
+  * Security access logs
 
-  * 有关与私有存储库的交互的数据
+  * Data about interactions with private repositories
 
-    要了解 GitHub 收集的私人帐户信息类型，可以访问您的 [个人仪表板](https://github.com/dashboard) 并浏览左侧菜单栏中的部分。
+    To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
-* []()**组织帐户数据** - 有关组织及其管理用户和存储库的信息公开发布在 GitHub 上。
-  组织配置文件位于`https://github.com/organization`这样的 URL 上。
-  组织公共配置文件还可以包括所有者可能已经选择公开分享的其他信息。
-  所有组织公共配置文件均显示：
+* []()**Organization account data** —
+  Information about organizations, their administrative users and repositories is publicly available on GitHub.
+  Organization profiles can be found at a URL such as `https://github.com/organization`.
+  Public organization profiles can also include additional information that the owners have chosen to share publicly.
+  All organization public profiles display:
 
-  * 组织名称
+  * The organization name
 
-  * 所有者已加星标的存储库
+  * The repositories that the owners have starred
 
-  * 身为组织所有者的所有 GitHub 用户
+  * All GitHub users that are owners of the organization
 
-    （可选）管理用户也可以选择公开分享以下信息：
+    Optionally, administrative users may also choose to share the following information publicly:
 
-  * 头像
+  * An avatar
 
-  * 关联公司
+  * An affiliated company
 
-  * 他们的位置
+  * Their location
 
-  * 直接成员和团队
+  * Direct Members and Teams
 
-  * 协作者
+  * Collaborators
 
-* []()**公共存储库数据** - GitHub 上具有几百万个公共的开源软件项目。
-  您可以浏览几乎任何公共存储库（例如 [GitHub Docs](https://github.com/github/docs)），以了解 GitHub 收集和维护的存储库相关信息。
-  这可能包括：
+* []()**Public repository data** —
+  GitHub is home to millions of public, open-source software projects.
+  You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
+  This can include:
 
-  * 代码本身
-  * 代码的先前版本
-  * 项目的稳定版本
-  * 有关协作者、贡献者和存储库成员的信息
-  * Git 操作日志，如提交、分支、推送、拉取、复刻和克隆
-  * 与 Git 操作相关的对话，例如对拉取请求或提交的评论
-  * 项目文档，例如议题和 Wiki 页面
-  * 显示对项目的贡献和贡献者网络的统计数据和图表
+  * The code itself
+  * Previous versions of the code
+  * Stable release versions of the project
+  * Information about collaborators, contributors and repository members
+  * Logs of Git operations such as commits, branching, pushing, pulling, forking and cloning
+  * Conversations related to Git operations such as comments on pull requests or commits
+  * Project documentation such as Issues and Wiki pages
+  * Statistics and graphs showing contributions to the project and the network of contributors
 
-* []()**私有存储库数据** - GitHub 对私有存储库收集和维护的数据类型与公共存储库相同，不同的是，只有特别邀请的用户才可访问私有存储库数据。
+* []()**Private repository data** —
+  GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
 
-* []()**其他数据** - 此外，GitHub 还收集分析数据，如页面访问和用户偶尔自愿提供的信息（例如与我们支持团队的通信、调查信息和/或站点注册）。
+* []()**Other data** —
+  Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
-[我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
+[We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
 ----------
 
-根据我们的政策，我们将通知用户有关其帐户或存储库的任何待处理请求，除非法律或法庭命令禁止此类通知。 在披露用户信息之前，我们将作出合理的努力通知任何受影响的帐户所有者，包括向他们经验证的电子邮件地址发送邮件，向他们提供传票、法庭命令或逮捕令的副本等，以便他们有机会根据自己的意愿对法律程序提出质疑。 在（极少的）紧急情况下，如果我们确定有必要延迟通知以防止死亡或严重伤害或者开展持续调查，我们可能延迟通知。
+It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm or due to an ongoing investigation.
 
-[非公开信息的披露](#disclosure-of-non-public-information)
+[Disclosure of non-public information](#disclosure-of-non-public-information)
 ----------
 
-根据我们的政策，仅当用户同意或在收到有效传票、民事调查要求、法庭命令、搜查令或其他类似有效法律程序时，才会披露与民事或刑事调查有关的非公开用户信息。 在某些紧急情况（参阅下文）下，我们也可能分享有限的信息，但仅与情况的性质相对应，超出此范围则需要法律程序。
-GitHub 保留对任何非公开信息的请求提出异议的权利。
-如果 GitHub 同意应合法请求提供非公开信息，我们将对请求的信息进行合理搜寻。
-以下是我们会同意提供的信息类型，具体取决于提供给我们的法律程序的类型：
+It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
+GitHub reserves the right to object to any requests for non-public information.
+Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
-* []()**经用户同意** - GitHub 将应请求直接向用户（若为组织帐户，则为组织所有者）或指定的第三方（GitHub 确信用户已验证第三方身份并得到用户书面同意）提供私人帐户信息。
+* []()**With user consent** —
+  GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
 
-* []()**有传票** - 如果收到与官方刑事或民事调查相关的有效传票、民事调查要求或类似法律程序，我们可以提供特定的非公开帐户信息，其中可能包括：
+* []()**With a subpoena** —
+  If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
 
-  * 与帐户关联的名称
-  * 与帐户关联的电子邮件地址
-  * 计费信息
-  * 注册日期和终止日期
-  * 帐户注册时的 IP 地址、日期和时间
-  * 用于在指定时间或与调查有关的事件中访问帐户的 IP 地址
+  * Name(s) associated with the account
+  * Email address(es) associated with the account
+  * Billing information
+  * Registration date and termination date
+  * IP address, date, and time at the time of account registration
+  * IP address(es) used to access the account at a specified time or event relevant to the investigation
 
-若为组织帐户，我们可以提供帐户所有者的姓名和电子邮件地址，以及创建组织帐户时的日期和 IP 地址。 我们不会生成关于组织帐户的其他成员或贡献者（如果有）的任何信息，或者关于识别的帐户所有者的任何其他信息，除非收到这些特定用户的后续请求。
+In the case of organization accounts, we can provide the name(s) and email address(es) of the account owner(s) as well as the date and IP address at the time of creation of the organization account. We will not produce information about other members or contributors, if any, to the organization account or any additional information regarding the identified account owner(s) without a follow-up request for those specific users.
 
-请注意，可用的信息因具体情况而异。 用户可以选择性地提供其中一些信息。 在其他情况下，我们可能没有收集或保留信息。
+Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
-* []()**有法庭命令\_或\_ 搜查令** - 我们不会披露帐户访问日志，除非收到以下指令的要求：(i) 根据 18 U.S.C. 第 2703(d) 节签发的法庭命令，有具体而明确的事实表明，有合理的理由相信所要求的信息与正在进行的刑事调查有关；或 (ii) 根据《美国联邦刑事诉讼程序》所规定的程序或同等的州搜查程序所签发的搜查令，并有合理理由。
-  除了上述非公开帐户信息之外，我们会根据法庭命令或搜查令提供帐户访问日志，其中可能包括：
+* []()**With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either
+  (i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
+  (ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
+  In addition to the non-public account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
 
-  * 显示用户在一段时间内的动态的任何日志
-  * 帐户或私有存储库设置（例如，哪些用户拥有特定权限等）
-  * 用户或 IP 特定分析数据，如浏览历史记录
-  * 帐户创建以外或指定时间和日期的安全访问日志
+  * Any logs which would reveal a user's movements over a period of time
+  * Account or private repository settings (for example, which users have certain permissions, etc.)
+  * User- or IP-specific analytic data such as browsing history
+  * Security access logs other than account creation or for a specific time and date
 
-* []()**仅有搜查令** - 我们不会披露任何帐户的私人内容，除非根据《美国联邦刑事诉讼程序》或同等的州搜查程序签发的搜查令要求披露，并有合理理由。
-  除了上述非公开帐户信息和帐户访问日志之外，我们还将根据搜查令提供私人帐户内容，其中可能包括：
+* []()**Only with a search warrant** —
+  We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
+  In addition to the non-public account information and account access logs mentioned above, we will also provide private account contents in response to a search warrant, which may include:
 
-  * 秘密 Gist 的内容
-  * 私有存储库中的源代码或其他内容
-  * 私有存储库的贡献和协作记录
-  * 私有存储库中的通信或文档（例如议题或 Wiki）
-  * 任何用于身份验证或加密的安全密钥
+  * Contents of secret Gists
+  * Source code or other content in private repositories
+  * Contribution and collaboration records for private repositories
+  * Communications or documentation (such as Issues or Wikis) in private repositories
+  * Any security keys used for authentication or encryption
 
-* []()**在紧急情况下** - 如果我们在某些紧急情况（我们认为有必要披露信息以防止涉及人员死亡或严重人身伤害危险的紧急情况）下收到要求提供信息的请求，我们可能会披露我们认为对执法部门处理紧急情况必要的有限信息。 对于超出此范围的任何信息，如上所述，我们需要传票、搜查令或法庭命令才会披露。 例如，我们不会在没有搜查令的情况下披露私有存储库的内容。 在披露信息之前，我们会确认请求来自执法机构、机构发出了概述紧急情况的正式通知，以及所请求的信息将如何有助于处理紧急情况。
+* []()**Under exigent circumstances** —
+  If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
-[费用补偿](#cost-reimbursement)
+[Cost reimbursement](#cost-reimbursement)
 ----------
 
-根据州和联邦法律，GitHub 可以要求补偿与遵守有效法律要求（如传票、法庭命令或搜查令）相关的费用。 我们只收取部分费用，这些补偿只包括我们为遵守法律命令而实际发生的一部分费用。
+Under state and federal law, GitHub can seek reimbursement for costs associated with compliance with a valid legal demand, such as a subpoena, court order or search warrant. We only charge to recover some costs, and these reimbursements cover only a portion of the costs we actually incur to comply with legal orders.
 
-虽然我们在紧急情况下不收费，但除非法律另有要求，否则我们将根据以下安排要求补偿为满足所有其他法律要求而产生的费用：
+While we do not charge in emergency situations or in other exigent circumstances, we seek reimbursement for all other legal requests in accordance with the following schedule, unless otherwise required by law:
 
-* 最多 25 个标识符的初始搜索：免费
-* 最多 5 个帐户的订阅者信息/数据制作：免费
-* 为 5 个以上帐户制作订阅者信息/数据：每个帐户 20 美元
-* 二次搜索：每次搜索 10 美元
+* Initial search of up to 25 identifiers: Free
+* Production of subscriber information/data for up to 5 accounts: Free
+* Production of subscriber information/data for more than 5 accounts: $20 per account
+* Secondary searches: $10 per search
 
-[数据保留](#data-preservation)
+[Data preservation](#data-preservation)
 ----------
 
-在美国执法部门发出与正式刑事调查相关的正式要求后，以及签发法庭命令或其他程序之前，我们将采取措施将帐户记录保留达 90 天。
+We will take steps to preserve account records for up to 90 days upon formal request from U.S. law enforcement in connection with official criminal investigations, and pending the issuance of a court order or other process.
 
-[提交请求](#submitting-requests)
+[Submitting requests](#submitting-requests)
 ----------
 
-请将请求发送到：
+Please serve requests to:
 
 ```
 GitHub, Inc.
@@ -246,31 +264,31 @@ Sacramento, CA 95833-3505
 
 ```
 
-抄送件可通过电子邮件发送至 [legal-support@github.com](mailto:legal-support@github.com)
+Courtesy copies may be emailed to [legal-support@github.com](mailto:legal-support@github.com)
 
-请尽可能具体描述请求并缩小请求范围，包含以下信息：
+Please make your requests as specific and narrow as possible, including the following information:
 
-* 关于发出信息请求的机构的完整信息
-* 负责官员的姓名和证章/ID
-* 正式电子邮件地址和联系电话号码
-* 相关的用户、组织、存储库名称
-* 相关的任何页面、Gist 或文件的 URL
-* 您需要的记录类型描述
+* Full information about authority issuing the request for information
+* The name and badge/ID of the responsible agent
+* An official email address and contact phone number
+* The user, organization, repository name(s) of interest
+* The URLs of any pages, gists or files of interest
+* The description of the types of records you need
 
-请给我们至少两周时间审查您的请求。
+Please allow at least two weeks for us to be able to look into your request.
 
-### [加州众议会 1242 号法案通告](#california-assembly-bill-1242-notice) ###
+### [California Assembly Bill 1242 Notice](#california-assembly-bill-1242-notice) ###
 
-通过向 GitHub 提交法律程序，您证明该法律程序不涉及违反任何造成对在加州合法的堕胎相关行为负责的法律。
+By submitting legal process to GitHub, you attest that the legal process does not relate to the violation of any law that creates liability for abortion-related conduct that is lawful in California.
 
-[外国执法部门的请求](#requests-from-foreign-law-enforcement)
+[Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
 ----------
 
-作为一家设在加利福尼亚的美国公司，GitHub 无需根据外国机构签发的法律程序向外国政府提供数据。
-希望向 GitHub 索取信息的外国执法官员应与美国司法部刑事司国际事务办公室联系。
-GitHub 将迅速答复美国法院通过司法互助条约（“MLAT）或委托调查书发出的请求。
+As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
+GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
 
-[问题](#questions)
+[Questions](#questions)
 ----------
 
-您是否有其他问题、评论或建议？ 请联系 [GitHub 支持](https://support.github.com/contact?tags=docs-generic)。
+Do you have other questions, comments or suggestions? Please contact us through the [GitHub Support portal](https://support.github.com).

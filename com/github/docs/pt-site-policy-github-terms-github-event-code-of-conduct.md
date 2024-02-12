@@ -17,18 +17,19 @@ Neste artigo
 ----------
 
 * [Código de Conduta](#code-of-conduct)
+* [Como relatar um incidente](#reporting-an-incident)
 * [Crédito](#credit)
-
-Os eventos do GitHub são eventos da comunidade destinados a networking e colaboração na comunidade de tecnologia.
-
-Valorizamos a participação de cada membro e queremos que todos os participantes tenham uma experiência agradável e gratificante. Assim, espera-se que todos os participantes demonstrem respeito e cortesia para com outros participantes em todos os eventos realizados no espaço GitHub.
-
-Para deixar claro o que é esperado, todos os participantes, palestrantes, expositores, organizadores e voluntários em qualquer evento no espaço GitHub devem estar em conformidade com o seguinte Código de Conduta. Os organizadores aplicarão este código durante todo o evento.
 
 [Código de Conduta](#code-of-conduct)
 ----------
 
-O GitHub se dedica a fornecer uma experiência de evento positiva e livre de assédio para todos, independentemente de idade, gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, etnia, raça, religião, nacionalidade ou nível de experiência. Não toleramos qualquer forma de assédio aos participantes do evento, nem toleramos qualquer comportamento que possa razoavelmente levar outro participante do evento a se sentir inseguro, inseguro ou temeroso por seu bem-estar físico ou emocional. Toda comunicação deve ser apropriada para um público profissional, incluindo pessoas de diversas origens.
+Ao participar de um evento do GitHub, incluindo qualquer um dos eventos ou atividades organizadas pelo GitHub em associação com o evento do GitHub (coletivamente o "Evento"), você declara que leu, entendeu e concorda com o seguinte Código de Conduta do Evento do GitHub (doravante denominado "Código de Conduta"). Este Código de Conduta aplica-se a todos os participantes, palestrantes, expositores, patrocinadores, organizadores, equipe e voluntários (coletivamente "Participantes do Evento") no Evento.
+
+O GitHub valoriza a participação de todos os Participantes do Evento e tem como objetivo criar um evento em que todos os Participantes do Evento tenham uma experiência agradável e gratificante. Dessa forma, espera-se que todos os Participantes do Evento demonstrem respeito e cortesia para com os outros Participantes do Evento durante todo o Evento.
+
+O GitHub se dedica a fornecer uma experiência positiva e livre de assédio para todos, independentemente de idade, gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, etnia, raça, religião, nacionalidade ou nível de experiência.
+
+Não toleramos qualquer forma de assédio aos participantes do evento, nem toleramos qualquer comportamento que possa razoavelmente levar um participante do evento a se sentir inseguro, inseguro ou temeroso por seu bem-estar físico ou emocional. Toda comunicação e comportamento devem ser apropriados para um ambiente profissional que inclua pessoas de diferentes origens.
 
 Exemplos de comportamento encorajado que contribui para um ambiente positivo incluem:
 
@@ -36,29 +37,32 @@ Exemplos de comportamento encorajado que contribui para um ambiente positivo inc
 * Ser respeitoso com diferentes pontos de vista e experiências
 * Aceitar críticas construtivas com elegância
 * Foco no que é melhor para todos no evento
-* Demonstrando empatia para com os outros participantes
+* Demonstrar empatia com os outros e com os participantes do evento
 
-O comportamento inaceitável inclui:
+O comportamento inaceitável inclui, mas não se limita a:
 
-* O uso de linguagem ou imagens sexualizadas, ou contato físico inadequado, atenção sexual ou avanços
-* Trolling, comentários insultuosos ou depreciativos, ataques pessoais ou políticos, ou interrupção sustentada de conversas ou outros eventos
-* Intimidação deliberada, perseguição, seguir ou assediar fotografia ou gravação
+* O uso de linguagem ou imagens sexualizadas
+* Contato físico inadequado, atenção ou avanços sexuais
+* Comentários ou comportamentos de trollagem, insulto ou depreciativos
+* Ataques pessoais ou políticos contra os participantes do evento
+* Interrupção contínua de palestras ou quaisquer outros eventos ou atividades organizadas pelo GitHub em associação com o Evento
+* Intimidação, perseguição, acompanhamento ou assédio aos Participantes do Evento
+* Fotografar ou gravar os participantes do evento sem seu consentimento
 * Assédio de qualquer tipo, mesmo que de forma jocosa ou irônica
 * Outra conduta que possa ser razoavelmente considerada inadequada em um ambiente profissional
 
-Seja gentil com os outros. Não insulte ou menospreze outros participantes. Comporte-se profissionalmente. Lembre-se que assédio e piadas sexistas, racistas ou excludentes não são apropriadas neste evento.
-
-Cada convidado do evento é inteiramente responsável por suas próprias ações.
+Cada Participante do Evento é inteiramente responsável por suas próprias ações.
 
 Obrigado por ajudar a tornar este um espaço acolhedor e amigável para todos.
 
-### [Como relatar um incidente](#reporting-an-incident) ###
+[Como relatar um incidente](#reporting-an-incident)
+----------
 
-Se você estiver sendo assediado, perceber que outra pessoa está sendo assediada ou se tiver outras preocupações, entre em contato com o organizador por email ([events@github.com](mailto:events@github.com)) ou telefone/texto (+1 415 842 2837), ou fale com outro funcionário do GitHub ou um agente de segurança.
+Se estiver sendo assediado, se perceber que outra pessoa está sendo assediada, se tiver qualquer outra preocupação ou se acreditar que um Participante do Evento não está agindo em conformidade com este Código de Conduta, fale diretamente com um oficial de segurança do local ou com um funcionário do GitHub para obter ajuda urgente ou envie-nos um e-mail para [events@github.com](mailto:events@github.com) para questões não urgentes. Em situações de risco de vida, disque 911 imediatamente.
 
-O GitHubbers terá prazer em ajudar os participantes a entrar em contato com a segurança ou a aplicação da lei local, escoltar para a segurança ou ajudar aqueles que sofrem assédio a se sentirem seguros durante a conferência. Valorizamos sua presença.
+Os funcionários do GitHub ficarão felizes em ajudar os Participantes do Evento a entrar em contato com a segurança ou com as autoridades policiais locais, escoltá-los para um local seguro ou, de outra forma, ajudar as pessoas que sofrerem assédio a se sentirem seguras durante o Evento.
 
 [Crédito](#credit)
 ----------
 
-Partes deste Código de Conduta são baseadas no [exemplo de política antiassédio](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) do wiki Geek Feminism, criado pela Ada Initiative e por outros voluntários, sob uma licença da Creative Commons Zero.
+Partes deste Código de Conduta são baseadas no exemplo de política antiassédio do wiki Geek Feminism, criado pela Ada Initiative e por outros voluntários, sob uma licença da Creative Commons Zero.
