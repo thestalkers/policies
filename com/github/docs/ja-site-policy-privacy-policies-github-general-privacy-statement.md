@@ -167,7 +167,7 @@ GitHub は、GDPR に準拠して個人データを処理し、各処理アク�
 [国際データ転送](#international-data-transfers)
 ----------
 
-GitHub は、ローカル リージョン、米国、および GitHub、その関連会社、子会社、またはサブプロセッサーが操作を行っているその他の国など、さまざまな場所に個人データを格納および処理します。 弊社では、欧州連合、イギリス、スイスから、欧州委員会が適切なレベルのデータ保護を行っていると認めていない国に対して個人データを転送します。 弊社はこのような転送を行う場合、お客様の権利を保護し、これらの保護をお客様のデータと共に移動できるように、[Commission Implementing Decision 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj) に基づいて欧州委員会が発行した標準契約条項に通常依存します。 GitHub が個人データを処理する国における、個人データの保護の適切性に関する欧州委員会の決定の詳細については、「[欧州委員会の Web サイト](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)」上の当記事を参照してください。
+GitHub は、ローカル リージョン、米国、および GitHub、その関連会社、子会社、またはサブプロセッサーが操作を行っているその他の国など、さまざまな場所に個人データを格納および処理します。 弊社では、欧州連合、イギリス、スイスから、欧州委員会が適切なレベルのデータ保護を行っていると認めていない国に対して個人データを転送します。 弊社はこのような転送を行う場合、お客様の権利を保護し、これらの保護をお客様のデータと共に移動できるように、[Commission Implementing Decision 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj) に基づいて欧州委員会が発行した標準契約条項に通常依存します。 GitHub が個人データを処理する国における、個人データの保護の適切性に関する欧州委員会の決定の詳細については、「[欧州委員会の Web サイト](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)」上の当記事を参照してください。
 
 [データ プライバシー フレームワーク (DPF)](#data-privacy-framework-dpf)
 ----------

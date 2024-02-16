@@ -167,7 +167,7 @@ GitHub 根据 GDPR 处理个人数据，确保每一次处理活动都有法律�
 [国际数据传输](#international-data-transfers)
 ----------
 
-GitHub 在世界各地多个位置存储和处理个人数据，包括您所在的当地区域、美国，以及 GitHub、其关联公司、子公司或子处理方开展运营活动所在的其他国家和地区。 我们将个人数据从欧盟、英国和瑞士传输到尚未达到欧盟委员会确定的数据保护水平的国家/地区。 当我们进行此类传输时，我们一般依赖欧盟委员会根据[委员会执行决定 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj) 发布的标准合同条款，在数据传输中帮助保障您的权利和保护您的数据。 若要详细了解欧盟委员会关于在 GitHub 处理个人数据的国家/地区保护个人数据的充足性的决定，请参阅[欧盟委员会网站](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)上的这篇文章。
+GitHub 在世界各地多个位置存储和处理个人数据，包括您所在的当地区域、美国，以及 GitHub、其关联公司、子公司或子处理方开展运营活动所在的其他国家和地区。 我们将个人数据从欧盟、英国和瑞士传输到尚未达到欧盟委员会确定的数据保护水平的国家/地区。 当我们进行此类传输时，我们一般依赖欧盟委员会根据[委员会执行决定 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj) 发布的标准合同条款，在数据传输中帮助保障您的权利和保护您的数据。 若要详细了解欧盟委员会关于在 GitHub 处理个人数据的国家/地区保护个人数据的充足性的决定，请参阅[欧盟委员会网站](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)上的这篇文章。
 
 [数据隐私框架 (DPF)](#data-privacy-framework-dpf)
 ----------
