@@ -12,7 +12,7 @@
 개인정보보호정책
 ==========
 
-* [GitHub General Privacy Statement](/ko/site-policy/privacy-policies/github-general-privacy-statement)
+* [GitHub 일반 개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)
 
 * [GitHub 보조 처리자](/ko/site-policy/privacy-policies/github-subprocessors)
 
