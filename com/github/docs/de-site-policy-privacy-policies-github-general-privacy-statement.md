@@ -226,7 +226,7 @@ Nachfolgend finden Sie Übersetzungen dieses Dokuments in andere Sprachen. Im Fa
 
 ### [Französisch](#french) ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](https://docs.github.com/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf).
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf).
 
 ### [Andere Übersetzungen](#other-translations) ###
 

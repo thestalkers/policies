@@ -226,7 +226,7 @@ GitHub は、このプライバシー ステートメントを定期的に改訂
 
 ### [フランス語](#french) ###
 
-[GitHub のプライバシーに関する声明 (PDF)](https://docs.github.com/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf) のフランス語版は、こちらをクリックしてください。
+[GitHub のプライバシーに関する声明 (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf) のフランス語版は、こちらをクリックしてください。
 
 ### [他の翻訳](#other-translations) ###
 
