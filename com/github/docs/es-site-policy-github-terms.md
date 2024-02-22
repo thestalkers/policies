@@ -22,7 +22,7 @@ Términos de GitHub
 
 * [Código de conducta de la comunidad de GitHub](/es/site-policy/github-terms/github-community-code-of-conduct)
 
-* [Términos de licencia de la versión preliminar de GitHub Copilot](/es/site-policy/github-terms/github-copilot-pre-release-license-terms)
+* [GitHub Pre-release License Terms](/es/site-policy/github-terms/github-pre-release-license-terms)
 
 * [Términos Adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
 

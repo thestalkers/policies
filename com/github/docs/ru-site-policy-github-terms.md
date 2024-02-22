@@ -22,7 +22,7 @@
 
 * [Правила поведения в сообществе GitHub](/ru/site-policy/github-terms/github-community-code-of-conduct)
 
-* [Условия лицензии GitHub Copilot Pre-release](/ru/site-policy/github-terms/github-copilot-pre-release-license-terms)
+* [GitHub Pre-release License Terms](/ru/site-policy/github-terms/github-pre-release-license-terms)
 
 * [Дополнительные условия спонсорства GitHub](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 
