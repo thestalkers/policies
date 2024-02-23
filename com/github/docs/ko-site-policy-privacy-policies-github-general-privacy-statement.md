@@ -224,7 +224,7 @@ GitHub는 이 개인정보처리방침을 주기적으로 수정할 수 있습�
 
 ### [프랑스어/French](#french) ###
 
-Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub(PDF)](https://docs.github.com/assets/images/help/site-policy/github-privacy-statement(07.22.20)(FR).pdf).
+Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub(PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf).
 
 ### [기타 번역본](#other-translations) ###
 
