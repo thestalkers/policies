@@ -22,7 +22,7 @@ GitHub 条款
 
 * [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Pre-release License Terms](/zh/site-policy/github-terms/github-pre-release-license-terms)
+* [GitHub 预发行许可条款](/zh/site-policy/github-terms/github-pre-release-license-terms)
 
 * [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 

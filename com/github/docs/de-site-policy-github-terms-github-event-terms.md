@@ -17,66 +17,81 @@ In diesem Artikel
 ----------
 
 * [1. Grundvoraussetzungen für die Teilnahme – umfasst den Verhaltenskodex für Veranstaltungen](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-* [2. Bilder](#2-pictures-and-videos)
-* [3. Risiko, Haftung und Schadenersatz](#3-information-sharing)
-* [4. Kündigung](#indemnity)
-* [5. Rechtswahl und Gerichtsstand](#5-termination)
-* [6. Verschiedenes](#6-choice-of-law-and-venue)
+* [2. Bilder und Videos](#2-pictures-and-videos)
+* [3. Informationsaustausch](#3-information-sharing)
+* [4. Risiko, Haftung und Schadenersatz](#4-risk-liability-and-indemnity)
+* [5. Kündigung](#5-termination)
+* [6. Rechtswahl und Gerichtsstand](#6-choice-of-law-and-venue)
+* [7. Verschiedenes](#7-miscellaneous-terms)
 
-Indem Sie sich zu einer GitHub-Veranstaltung anmelden oder daran teilnehmen, einschließlich aller von GitHub in Verbindung mit der GitHub-Veranstaltung organisierten Veranstaltungen oder Aktivitäten (zusammen die „Veranstaltung“), signalisieren Sie, dass Sie die folgende Veranstaltung gelesen und verstanden haben und ihr zustimmen Geschäftsbedingungen.
+Durch RSVP'ing an oder die Teilnahme an einer GitHub-Veranstaltung, einschließlich der von GitHub in Verbindung mit der Veranstaltung organisierten Veranstaltungen oder Aktivitäten (zusammenfassend als „Veranstaltung“ bezeichnet), erklären Sie, dass Sie die folgenden Bedingungen für GitHub-Veranstaltungen (im Folgenden „Veranstaltungsbedingugnen“) gelesen und verstanden haben und ihnen zustimmen.
 
 [1. Grundvoraussetzungen für die Teilnahme – umfasst den Verhaltenskodex für Veranstaltungen](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 ----------
 
 Um an der Veranstaltung teilzunehmen, erklären Sie Folgendes:
 
-* Sie haben die erforderliche Vollmacht und Befugnis, diese Veranstaltungsbedingungen einzugehen
+* Sie haben die erforderliche Kapazität und Befugnis, diese Veranstaltungsbedingungen einzugehen;
+* Sie haben diese Veranstaltungsbedingungen und die [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) gelesen und verstanden;
+* Sie erklären sich damit einverstanden, die [Verhaltensregeln](/de/site-policy/github-terms/github-event-code-of-conduct) der Veranstaltung zu befolgen; und
+* Wenn Alkohol bei der Veranstaltung serviert wird, sind Sie mindestens 21 Jahre alt oder über das gesetzliche Trinkalter an dem Ort, an dem die Veranstaltung stattfindet.
 
-* Sie haben diese Veranstaltungsbedingungen sowie die [GitHub.com Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) gelesen
+Wenn Sie aufgefordert werden, Verhalten, das als belästigend oder verboten eingestuft wird, zu beenden, müssen Sie unverzüglich Folge leisten. Wenn Sie gegen den [Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct) oder diese Veranstaltungsbedingungen verstoßen, können die Veranstalter alle Maßnahmen ergreifen, die sie nach eigenem Ermessen für angemessen halten, einschließlich Verwarnung oder Ausschluss von der Veranstaltung ohne Anspruch auf Rückerstattung. Sie müssen jederzeit den Anweisungen oder Vorgaben der Veranstaltungsorganisatoren folgen.
 
-* Sie verpflichten sich, sich an den [Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct) zu halten, der darauf abzielt, allen eine belästigungsfreie Erfahrung zu ermöglichen
-
-* Wenn bei einer GitHub-Veranstaltung Alkohol ausgeschenkt wird, versichern Sie, dass Sie mindestens 21 Jahre alt sind oder anderweitig das gesetzliche Mindestalter für Alkoholkonsum in Ihrer Gerichtsbarkeit überschritten haben.
-
-Von Teilnehmern, die aufgefordert werden, Belästigungen oder andere verbotene Verhaltensweisen zu unterlassen, wird erwartet, dass sie dies unverzüglich tun. Wenn ein Teilnehmer ein Verhalten an den Tag legt, das gegen den [Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct) oder diese Bedingungen verstößt, können die Veranstalter alle Maßnahmen ergreifen, die sie für angemessen halten, einschließlich der Verwarnung der Person oder des Ausschlusses von der Veranstaltung oder der Konferenz ohne Anspruch auf Rückerstattung.
-
-[2. Bilder](#2-pictures-and-videos)
+[2. Bilder und Videos](#2-pictures-and-videos)
 ----------
 
-GitHub oder seine Partner machen manchmal Fotos und Videos bei GitHub-Veranstaltungen. Durch die Teilnahme oder Teilnahme an der Veranstaltung erklären Sie sich damit einverstanden, dass Sie auf einigen dieser Fotos und Videos zu sehen sind, und autorisieren GitHub, diese zu verwenden. Auf der anderen Seite, wenn Sie Fotos oder Videos von Teilnehmern der Veranstaltung machen und uns diese zur Verfügung stellen, autorisieren Sie uns, diese auf die gleiche Weise zu verwenden, und erklären, dass die Teilnehmer, die auf Ihren Fotos und Videos erscheinen, ebenfalls zugestimmt haben solche Verwendung.
+GitHub und seine Partner, Vertreter oder Auftragnehmer machen manchmal Fotos und Videos bei der Veranstaltung. Durch die Teilnahme oder Teilnahme an der Veranstaltung erklären Sie sich damit einverstanden, dass Sie auf einigen dieser Fotos und Videos zu sehen sind, und autorisieren GitHub, diese bei einer Veranstaltung zu verwenden.
 
-[3. Risiko, Haftung und Schadenersatz](#3-information-sharing)
+Wenn Sie darüber hinaus Fotos oder Videos bei der Veranstaltung machen und GitHub diese zur Verfügung stellen, autorisieren Sie uns, diese auf die gleiche Weise zu verwenden, und erklären, dass die Personen, die auf Ihren Fotos und Videos erscheinen, zugestimmt haben solche Verwendung.
+
+[3. Informationsaustausch](#3-information-sharing)
 ----------
 
-### [Risikoübernahme](#4-risk-liability-and-indemnity) ###
+Veranstaltungssponsoren, Aussteller und andere Dritte können Ihre persönlichen oder sonstigen Informationen direkt an ihren Ausstellungsständen, Hilfsveranstaltungen oder Präsentationen abfragen. Die Bereitstellung von Informationen für sie ist freiwillig und optional, und Sie sollten ihre Datenschutzrichtlinien überprüfen, um zu bestimmen, wie sie Ihre persönlichen Informationen behandeln und ob Sie mit dieser Behandlung einverstanden sind.
 
-Obwohl wir versuchen, bei der Veranstaltung eine sichere Umgebung zu schaffen, passieren Unfälle oder andere schlimme Dinge, selbst guten Menschen. Wir bitten Sie, Ihren Teil dazu beizutragen, die Möglichkeit zu begrenzen, dass Sie sich bei der Veranstaltung verletzen könnten.
+Wenn Sie während der Veranstaltung Ihre Daten an einen Sponsor, Aussteller oder Dritte Folgendermaßen übermitteln, einschließlich, aber nicht beschränkt auf (1) RSVPing oder Teilnahme an einer Sitzung oder einem Programm, die von einem anderen Drittanbieter als GitHub gehostet wird, (2) Vorzeigen Ihrer Badge zum Scannen auf einem Ausstellerstand oder einer Breakout-Sitzung, (3) Anfrage, ob ein Sponsor Sie über seine virtuelle Seite auf githubuniverse.com kontaktieren kann oder (4) die Teilnahme an einer Verlosung, Gewinnspielen oder Werbeveranstaltungen, die von anderen Drittanbietern als GitHub durchgeführt werden, verstehen und stimmen Sie zu, dass Ihre Daten an eine Nicht-GitHub-Entität übermittelt werden und GitHub keine Verantwortung dafür übernimmt, wie dieses Unternehmen Ihre personenbezogenen Daten verwendet oder verarbeitet. Sie sollten ihre Datenschutzrichtlinien überprüfen, um zu prüfen, wie sie Ihre personenbezogenen Daten behandeln und ob Sie mit dieser Behandlung einverstanden sind.
 
-Sie erklären sich damit einverstanden, die Risiken, die mit allen Aktivitäten verbunden sind, an denen Sie teilnehmen möchten, sorgfältig abzuwägen und angemessene Vorsichtsmaßnahmen zu treffen, bevor Sie sich entscheiden, an einer GitHub-Veranstaltung teilzunehmen oder daran teilzunehmen. Beispielsweise sollten Sie sicherstellen, dass Sie bei guter körperlicher Gesundheit sind, bevor Sie sich bei einer GitHub-Veranstaltung körperlich betätigen, und Sie sollten angesichts der Risiken, die mit betrunkenem Fahren und der Teilnahme an Aktivitäten verbunden sind, immer verantwortungsvoll trinken, während Ihr Urteilsvermögen beeinträchtigt ist. Es ist immer gut, sich daran zu erinnern, dass andere Veranstaltungsgäste möglicherweise weniger verantwortlich sind als Sie und selbst trotz ihrer besten Absichten ein zusätzliches Risiko für Sie darstellen können.
+Veranstaltungssponsoren und Aussteller sind verpflichtet, die Datenschutzanforderungen von GitHub und alle anwendbaren Gesetze einzuhalten, einschließlich des Schutzes personenbezogener Daten vor unbefugter Nutzung, Zugriff oder Offenlegung.
 
-Kurz gesagt, Sie verstehen, dass Ihre Anwesenheit und Teilnahme an einer GitHub-Veranstaltung freiwillig ist, und Sie stimmen zu, die Verantwortung für daraus resultierende Verletzungen im größtmöglichen Umfang zu übernehmen, der nach geltendem Recht zulässig ist.
-
-Ebenso stimmen Sie zu, dass GitHub nicht für Verletzungen oder Unfälle verantwortlich ist, die Sie bei Veranstaltungen erleiden, die GitHub nicht organisiert oder kontrolliert.
-
-### [Haftungsfreistellung](#assumption-of-risk) ###
-
-Sie (für sich selbst, Ihre Erben, persönlichen Vertreter oder Abtretungsempfänger und alle anderen, die in Ihrem Namen einen Anspruch geltend machen könnten) geben hiermit frei, verzichten darauf, entlasten und verpflichten sich, GitHub und seine jeweiligen Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Partner, Aktionäre, Mitglieder, Vertreter, Mitarbeiter, Verkäufer, Sponsoren und Freiwillige von allen Ansprüchen, Forderungen, Klagegründen, Schäden, Verlusten oder Ausgaben (einschließlich Gerichtskosten und angemessenen Anwaltsgebühren), die sich daraus ergeben können, resultieren aus oder beziehen sich in irgendeiner Weise auf Ihre Teilnahme an der Veranstaltung oder einer damit verbundenen Veranstaltung, außer natürlich bei grober Fahrlässigkeit oder vorsätzlichem Fehlverhalten unsererseits.
-
-### [Schadenersatz](#release-of-liability) ###
-
-Aus dem gleichen Grund erklären Sie sich damit einverstanden, GitHub, seine Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Mitarbeiter, Vertreter und Vertreter schadlos zu halten, einschließlich Kosten, Verbindlichkeiten und Anwaltskosten, von allen Ansprüchen oder Forderungen Dritter, die fällig sind zu, im Zusammenhang mit oder in Verbindung mit Ihrer Teilnahme oder Ihrem Verhalten bei der Veranstaltung oder einer damit verbundenen Veranstaltung.
-
-[4. Kündigung](#indemnity)
+[4. Risiko, Haftung und Schadenersatz](#4-risk-liability-and-indemnity)
 ----------
 
-Wir hoffen zwar, dass dies nicht erforderlich sein wird, aber GitHub kann Ihnen die Teilnahme an einer GitHub-Veranstaltung jederzeit untersagen, wenn Sie sich nicht an diese Veranstaltungsbedingungen und den [Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct) sowie die [GitHub.com-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) halten, oder auch aus einem beliebigen anderen Grund und ohne Angabe von Gründen, ohne Vorankündigung oder Haftung jeglicher Art. Abschnitt 3 (Risiko, Haftung und Freistellung) gilt auch nach einer Kündigung.
+### [Risikoübernahme](#assumption-of-risk) ###
 
-[5. Rechtswahl und Gerichtsstand](#5-termination)
+Obwohl wir versuchen, eine sichere Umgebung bei der Veranstaltung zu schaffen, können wir 100% Sicherheit für Teilnehmer nicht garantieren. Bitte tragen Sie Ihren Teil bei, um die Wahrscheinlichkeit zu verringern, dass sie bei der Veranstaltung verletzt werden.
+
+Sie erklären sich damit einverstanden, die Risiken, die mit allen Aktivitäten verbunden sind, an denen Sie bei einer Veranstaltung teilnehmen möchten, sorgfältig abzuwägen und angemessene Vorsichtsmaßnahmen zu treffen, bevor Sie sich entscheiden, an der Veranstaltung teilzunehmen oder daran teilzunehmen. Sie sind für Ihre eigenen Handlungen und alle daraus resultierenden Folgen verantwortlich. Sie erklären sich damit einverstanden, die Verantwortung für Ihre Handlungen und Ihre Teilnahme im gesetzlich zulässigen Umfang zu übernehmen. GitHub ist nicht für Verletzungen oder Unfälle verantwortlich, die Sie bei der Veranstaltung erleiden können.
+
+### [Haftungsfreistellung](#release-of-liability) ###
+
+Sie (für sich selbst, Ihre Erben, persönlichen Vertreter oder Abtretungsempfänger und alle anderen, die in Ihrem Namen einen Anspruch geltend machen könnten) geben hiermit frei, verzichten darauf, entlasten und verpflichten sich, GitHub und seine Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Partner, Aktionäre, Mitglieder, Vertreter, Mitarbeiter, Verkäufer, Sponsoren und Freiwillige von allen Ansprüchen, Forderungen, Klagegründen, Schäden, Verlusten oder Ausgaben (einschließlich Gerichtskosten und angemessenen Anwaltsgebühren), die sich daraus ergeben können, resultieren aus oder beziehen sich in irgendeiner Weise auf Ihre Teilnahme an der Veranstaltung unsererseits. Dies gilt nicht, wenn GitHub grob fahrlässig handelt oder sich an vorsätzlichem Fehlverhalten beteiligt.
+
+### [Schadenersatz](#indemnity) ###
+
+Sie erklären sich damit einverstanden, GitHub, seine Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, leitenden Angestellten, Direktoren, Mitarbeiter, Vertreter und Vertreter schadlos zu halten, einschließlich Kosten, Verbindlichkeiten und Anwaltskosten, von allen Ansprüchen oder Forderungen Dritter, die fällig sind zu, im Zusammenhang mit oder in Verbindung mit Ihrer Teilnahme oder Ihrem Verhalten bei der Veranstaltung.
+
+[5. Kündigung](#5-termination)
+----------
+
+GitHub behält sich das Recht vor, Ihre Erlaubnis zur Teilnahme an der Veranstaltung zu widerrufen oder Ihre Teilnahme an der Veranstaltung aus irgendeinem oder keinem Grund ohne vorherige Ankündigung oder Haftung jeglicher Art zu verbieten oder einzuschränken. Der gesamte Abschnitt 4 dieser Veranstaltungsbedingungen gilt weiterhin, wenn Ihre Teilnahme an der Veranstaltung beendet wird.
+
+[6. Rechtswahl und Gerichtsstand](#6-choice-of-law-and-venue)
 ----------
 
 Diese Veranstaltungsbedingungen sowie alle Ansprüche, Klagegründe oder Streitigkeiten, die zwischen Ihnen und GitHub entstehen könnten (ein „Anspruch“), unterliegen kalifornischem Recht, ohne Rücksicht auf Kollisionsnormen. FÜR JEGLICHE ANSPRÜCHE, DIE VON DEN PARTEIEN ERHOBEN WERDEN, ERKLÄREN SIE SICH DAMIT EINVERSTANDEN, DIE PERSÖNLICHE UND AUSSCHLIESSLICHE GERICHTSBARKEIT UND DER AUSSCHLIESSLICHE GERICHTSSTAND DER STAATS- UND BUNDESGERICHTE IN SAN FRANCISCO COUNTY, KALIFORNIEN, ZU UNTERSTELLEN UND ZUSTIMMEN.
 
-[6. Verschiedenes](#6-choice-of-law-and-venue)
+[7. Verschiedenes](#7-miscellaneous-terms)
 ----------
 
-Sie stimmen zu, dass Sie sich nicht als Mitarbeiter, Vertreter oder Vertreter von GitHub ausgeben werden (es sei denn, Sie sind tatsächlich bei GitHub beschäftigt). Wir behalten uns das Recht vor, die Veranstaltung oder eine damit verbundene Veranstaltung jederzeit aus beliebigem Grund und ohne Haftung oder Schadensersatz abzusagen. Falls GitHub ein Recht oder eine Bestimmung aus diesen Bedingungen nicht ausübt bzw. nicht durchsetzt, stellt dies keinen Verzicht auf das betreffende Recht bzw. die betreffende Bestimmung dar. Sollte sich herausstellen, dass eine Bestimmung dieser Bedingungen nicht durchsetzbar oder ungültig ist, wird diese Bestimmung auf das erforderliche Mindestmaß beschränkt oder aufgehoben, damit die Veranstaltungsbedingungen ansonsten in vollem Umfang in Kraft und wirksam und durchsetzbar bleiben.
+Sie stimmen zu, dass Sie sich nicht als Mitarbeiter, Vertreter oder Vertreter von GitHub ausgeben werden (es sei denn, Sie sind tatsächlich bei GitHub beschäftigt).
+
+Wir behalten uns das Recht vor, die Veranstaltung oder eine damit verbundene Veranstaltung jederzeit aus beliebigem Grund und ohne Haftung oder Schadensersatz abzusagen.
+
+Falls GitHub ein Recht oder eine Bestimmung aus diesen Bedingungen nicht ausübt bzw. nicht durchsetzt, stellt dies keinen Verzicht auf das betreffende Recht bzw. die betreffende Bestimmung dar. Sollte sich herausstellen, dass eine Bestimmung dieser Bedingungen nicht durchsetzbar oder ungültig ist, wird diese Bestimmung auf das erforderliche Mindestmaß beschränkt oder aufgehoben, damit die Veranstaltungsbedingungen ansonsten in vollem Umfang in Kraft und wirksam und durchsetzbar bleiben.
+
+Die Ansichten, die von einem Ereignisteilnehmer, Sprecher, Aussteller oder Sponsor ausgedrückt werden, entsprechen nicht unbedingt den Ansichten von GitHub. Alle Teilnehmer, Referenten, Aussteller und Sponsoren sind allein für den Inhalt aller Präsentationen und sonstigen Materialien verantwortlich, die bei der Veranstaltung verwendet werden.
+
+GitHub behält sich das Recht vor, diese Veranstaltungsbedingungen nach eigenem Ermessen und ohne vorherige Ankündigung zu aktualisieren. Diese Veranstaltungsbedingungen gelten für alle Veranstaltungsteilnehmer (Teilnehmer, Redner, Sponsoren, Aussteller, Mitarbeiter und Crew). Es wird Ihnen empfohlen, diese Veranstaltungsbedingungen regelmäßig zu überprüfen.
+
+Diese Veranstaltungsbedingungen wurden am 7. Februar 2024 zuletzt aktualisiert.

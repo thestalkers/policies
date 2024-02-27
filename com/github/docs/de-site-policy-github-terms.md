@@ -22,7 +22,7 @@ GitHub-Bedingungen
 
 * [Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Pre-release License Terms](/de/site-policy/github-terms/github-pre-release-license-terms)
+* [Lizenzbestimmungen für die Vorabversion von GitHub](/de/site-policy/github-terms/github-pre-release-license-terms)
 
 * [GitHub Sponsors – Zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
 

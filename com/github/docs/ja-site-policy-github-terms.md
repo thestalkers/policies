@@ -22,7 +22,7 @@ GitHub 条件
 
 * [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Pre-release License Terms](/ja/site-policy/github-terms/github-pre-release-license-terms)
+* [GitHub プレリリース ライセンス条項](/ja/site-policy/github-terms/github-pre-release-license-terms)
 
 * [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
