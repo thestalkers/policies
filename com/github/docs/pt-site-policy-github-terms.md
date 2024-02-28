@@ -22,7 +22,7 @@ Termos do GitHub
 
 * [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
 
-* [GitHub Pre-release License Terms](/pt/site-policy/github-terms/github-pre-release-license-terms)
+* [Termos de licença de pré-lançamento do GitHub](/pt/site-policy/github-terms/github-pre-release-license-terms)
 
 * [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
