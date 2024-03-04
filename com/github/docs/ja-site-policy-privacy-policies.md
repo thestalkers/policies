@@ -22,6 +22,4 @@
 
 * [GitHub 応募者プライバシー ポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [GitHub Copilot Business のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-copilot-business-privacy-statement)
-
 * [GitHub Octernships のサービス使用条件](/ja/site-policy/privacy-policies/github-octernships-terms-of-service)

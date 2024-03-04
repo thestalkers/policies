@@ -22,6 +22,4 @@
 
 * [Политика конфиденциальности кандидата GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [Заявление о конфиденциальности GitHub Copilot для бизнеса](/ru/site-policy/privacy-policies/github-copilot-business-privacy-statement)
-
 * [Условия предоставления услуг GitHub Octernships](/ru/site-policy/privacy-policies/github-octernships-terms-of-service)

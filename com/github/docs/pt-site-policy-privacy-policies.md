@@ -22,6 +22,4 @@ Políticas de Privacidade
 
 * [Política de Privacidade do Candidato do GitHub](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-* [Política de Privacidade do GitHub Copilot Business](/pt/site-policy/privacy-policies/github-copilot-business-privacy-statement)
-
 * [Termos de Serviço do GitHub Octernships](/pt/site-policy/privacy-policies/github-octernships-terms-of-service)
