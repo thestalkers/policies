@@ -151,4 +151,4 @@ GitHub が回避技術の申し立て見直しプロセスの下で DMCA の削�
 * [Opportunities for Copyright Reform](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
 * [フェアユース条項とデジタル千年著作権法：DMCAの下でインターネット上においてフェアユースは存在しますか?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
-GitHub は、これらの記事の見解を必ずしも支持しているわけではありません。 必要と思われる変更を検索するために、詳細を知り、独自の意見を形成し、選んだ代表者に連絡することができるリンクがあります (例、[U.S. Congress](https://www.govtrack.us/congress/members) または [E.U.Parliament](https://www.europarl.europa.eu/meps/en/home))。
+GitHub は、これらの記事の見解を必ずしも支持しているわけではありません。 必要と思われる変更を検索するために、詳細を知り、独自の意見を形成し、選んだ代表者に連絡することができるリンクがあります (例: [U.S. Congress](https://www.govtrack.us/congress/members) または [E.U.Parliament](https://www.europarl.europa.eu/meps/en/home))。

@@ -151,4 +151,4 @@ GitHub 的政策是，在适当的情况下，自行决定禁用和终止可能�
 * [版权改革的机遇](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
 * [合理使用原则与《千禧年数字著作权法案》：受到 DMCA 约束的 Internet 中是否存在合理使用？](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) （圣克拉拉法律评论）
 
-GitHub 不一定赞同这些文章中的任何观点。 我们提供链接的目的是鼓励您了解更多信息，形成您自己的观点，然后联系您选举的代表（例如[美国国会](https://www.govtrack.us/congress/members)或[欧盟议会](https://www.europarl.europa.eu/meps/en/home)的官员），以求实现您认为应该进行的任何更改。
+GitHub 不一定赞同这些文章中的任何观点。 我们提供这些链接的目的是鼓励您了解更多信息，形成您自己的观点，然后联系您选举的代表（例如[美国国会](https://www.govtrack.us/congress/members)或[欧盟议会](https://www.europarl.europa.eu/meps/en/home)议员），以求实现您认为应该实施的的任何更改。
