@@ -54,7 +54,7 @@ GitHub Enterprise Server no puede venderse, exportarse o reexportarse a ningún 
 
 GitHub Copilot es un producto comercial destinado al público general que tiene asignado el número de clasificación de control de exportaciones (ECCN, Export Control Classification Number) 5D992.c y puede exportarse a la mayoría de los destinos sin necesidad de licencia (NLR, No License Required).
 
-GitHub Copilot no puede venderse, exportarse ni reexportarse a ningún país que figure en el grupo de países E:1 del suplemento n.º 1 de la parte 740 de las Regulaciones de Administración de Exportaciones (EAR) o a las siguientes regiones de Ucrania: Crimea y las áreas separatistas de Donetsk y Lugansk, sin autorización. Los países enumerados actualmente incluyen Cuba, Irán, Corea del Norte, Siria, Rusia y Bielorrusia, pero esta lista está sujeta a cambios.
+GitHub Copilot no puede venderse, exportarse ni reexportarse sin autorización a ningún destino sometido a embargo ni a ninguno de los países que figuran en el grupo de países E:1 del suplemento n.º 1 de la parte 740 de EAR. Estos destinos incluyen actualmente Cuba, Irán, Corea del Norte, Siria, Rusia, Belarús, y las siguientes regiones de Ucrania: Crimea/Sevastopol y las regiones separatistas de Donetsk y Luhansk. Esta lista está sujeta a cambios.
 
 [Preguntas más frecuentes](#frequently-asked-questions)
 ----------

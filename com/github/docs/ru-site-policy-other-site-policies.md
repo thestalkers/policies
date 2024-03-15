@@ -12,7 +12,7 @@
 Другие правила сайта
 ==========
 
-* [GitHub и торговый контроль](/ru/site-policy/other-site-policies/github-and-trade-controls)
+* [GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls)
 
 * [Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
 
