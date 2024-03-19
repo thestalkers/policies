@@ -12,7 +12,7 @@ Autres politiques du site - Documentation GitHub
 Autres politiques du site
 ==========
 
-* [GitHub et les contrôles des échanges commerciaux](/fr/site-policy/other-site-policies/github-and-trade-controls)
+* [GitHub et contrôles commerciaux](/fr/site-policy/other-site-policies/github-and-trade-controls)
 
 * [Politique des utilisateurs décédés de GitHub](/fr/site-policy/other-site-policies/github-deceased-user-policy)
 
