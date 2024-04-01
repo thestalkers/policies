@@ -31,7 +31,7 @@ En este artículo
 * [Programa de Patrocinadores](#sponsors-program)
 * [Imágenes de servidor SQL](#sql-server-images)
 
-Fecha de vigencia de la versión: 5 de septiembre de 2023
+Fecha de entrada en vigor de la versión: 21 de marzo de 2024
 
 Cuando usa GitHub, es posible que tenga acceso a muchos productos y funciones adicionales ("Productos y funciones adicionales"). Dado que muchos de los Productos y Funciones Adicionales ofrecen diferentes funcionalidades, su Contrato con nosotros (el «Acuerdo») incluye los términos específicos de ese producto o función combinados con su acuerdo principal: los Términos de servicio de GitHub o el Acuerdo de cliente de GitHub, o los Términos de servicio corporativos de GitHub u otro acuerdo heredado de GitHub, o un contrato de licencias por volumen de Microsoft. A continuación, enumeramos esos productos y características, junto con los términos adicionales correspondientes que se aplican a su uso de ellos.
 
@@ -128,19 +128,19 @@ Con GitHub Connect, puede compartir determinadas características y datos entre 
 [Copiloto de GitHub](#github-copilot)
 ----------
 
-Para utilizar Copiloto de GitHub, es necesario instalar una extensión en un entorno de desarrollo integrado (IDE) o un editor. El código que escriba mediante la extensión Copiloto de GitHub en un IDE o editor ("**su código**") no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com.
+Para las empresas GitHub Copilot y los usuarios de empresa Copilot, el uso de GitHub Copilot se rige por los [Términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-El código, las funciones y otras salidas que devuelve Copiloto de GitHub se llaman "**sugerencias**". GitHub no reclama ningún derecho sobre las sugerencias, y usted conserva la propiedad y la responsabilidad sobre su código, incluidas las sugerencias que incluya en su código.
+Para usar GitHub Copilot en el editor de código, debe instalar la extensión de GitHub Copilot en ese editor. Para usar GitHub Copilot en la CLI (interfaz de la línea de comandos), debe instalar la extensión de CLI de GitHub Copilot. Para usar el chat de GitHub Copilot en GitHub Mobile, debe instalar la aplicación GitHub Mobile. El código que escriba mediante GitHub Copilot ("**su código**") no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com.
+
+El código, las funciones y otras salidas que devuelve Copiloto de GitHub se llaman "**sugerencias**". GitHub no posee sugerencias. Conserva la propiedad de su código y conserva la responsabilidad de las sugerencias que incluya en su código.
 
 *Uso aceptable*
 
-Su código está sujeto a las [directivas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies). Por ejemplo, no puede solicitar a Copiloto de GitHub contenidos ilegales o prohibidos por las directivas de uso aceptable de GitHub.com.
+Su uso de GitHub Copilot está sujeto a las [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) de GitHub. Por ejemplo, no puede solicitar a Copiloto de GitHub contenidos ilegales o prohibidos por las directivas de uso aceptable de GitHub.com.
 
 *Datos*
 
-Copiloto de GitHub (i) puede, en función de su configuración de telemetría preferida, recopilar fragmentos de su código, y (ii) recopilará información de uso adicional a través del IDE o editor vinculados a su cuenta. Esto puede incluir datos personales, como se indica en la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement). Puede obtener más información sobre la recopilación y el uso de los datos de Copiloto de GitHub en las [preguntas frecuentes](https://github.com/features/copilot#faq-privacy-copilot-for-individuals).
-
-Para los usuarios de GitHub Copilot for Business, el uso de GitHub Copilot se rige por los [términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+GitHub Copilot (i) puede, en función de la configuración y del servicio de GitHub Copilot que use, recopilar fragmentos de código de su código y (ii) recopilar información de uso adicional a través del servicio GitHub Copilot que use vinculado a su cuenta. Esto puede incluir datos personales, como se indica en la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement). Puede obtener más información sobre la recopilación y el uso de los datos de GitHub Copilot en el [Centro de confianza de GitHub Copilot](https://resources.github.com/copilot-trust-center/).
 
 [Importador de GitHub Enterprise](#github-enterprise-importer)
 ----------

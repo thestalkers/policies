@@ -31,7 +31,7 @@ GitHub 추가 제품 및 기능 약관
 * [Sponsors 프로그램](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
 
-버전 발효일: 2023년 9월 5일
+버전 발효일: 2024년 3월 21일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -128,19 +128,19 @@ GitHub Connect를 사용하면 GitHub Enterprise Server 배포와 GitHub Enterpr
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot을 사용하려면 IDE(통합 개발 환경) 또는 편집기에 대한 확장을 설치해야 합니다. IDE 또는 편집기에서 GitHub Copilot 확장을 사용하여 작성하는 코드("**코드**")는 GitHub.com에 업로드할 때까지 계약에 따라 "콘텐츠"가 아닙니다.
+GitHub Copilot Business 및 Copilot Enterprise 사용자의 경우 GitHub Copilot의 사용에 [GitHub Copilot 제품 관련 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)이 적용됩니다.
 
-GitHub Copilot에서 반환하는 코드, 함수 및 기타 출력을 "**제안**"이라고 합니다. GitHub는 제안에 대해 어떠한 권한도 주장하지 않으며, 귀하는 코드에 포함된 제안을 포함하여 코드에 대한 소유권과 책임을 보유합니다.
+코드 편집기에서 GitHub Copilot를 사용하려면 해당 편집기에서 GitHub Copilot 확장을 설치해야 합니다. CLI(명령줄 인터페이스)에서 GitHub Copilot을 사용하려면 GitHub Copilot CLI 확장을 설치해야 합니다. GitHub Mobile에서 GitHub Copilot Chat을 사용하려면 GitHub Mobile 애플리케이션을 설치해야 합니다. GitHub Copilot을 사용하여 작성하는 코드("**코드**")는 GitHub.com에 업로드할 때까지 계약에 따라 "콘텐츠"가 아닙니다.
+
+GitHub Copilot에서 반환하는 코드, 함수 및 기타 출력을 "**제안**"이라고 합니다. GitHub에는 제안이 없습니다. 코드의 소유권을 보유하고 코드에 포함된 제안에 대한 책임을 유지합니다.
 
 *사용 제한*
 
-코드에는 GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)이 적용됩니다. 예를 들어, 불법이거나 GitHub.com GitHub 사용 제한 정책에 의해 금지된 콘텐츠가 포함된 GitHub Copilot을 표시하지 않을 수 있습니다.
+GitHub Copilot 사용에는 GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)이 적용됩니다. 예를 들어, 불법이거나 GitHub.com GitHub 사용 제한 정책에 의해 금지된 콘텐츠가 포함된 GitHub Copilot을 표시하지 않을 수 있습니다.
 
 *데이터*
 
-GitHub Copilot은 (i) 선호하는 원격 분석 설정에 따라 코드 조각을 수집하고 (ii) 계정에 연결된 IDE 또는 편집기를 통해 추가 사용량 정보를 수집할 수 있습니다. 여기에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 참조되는 개인 데이터가 포함될 수 있습니다. [GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals)에서 GitHub Copilot 데이터의 수집 및 사용에 대해 자세히 알아볼 수 있습니다.
-
-GitHub Copilot for Business 사용자의 경우 GitHub Copilot의 사용에 [GitHub Copilot 제품 관련 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)이 적용됩니다.
+GitHub Copilot는 (i) 사용자 설정 및 사용하는 GitHub Copilot 서비스에 따라 코드 조각을 수집하고 (ii) 계정에 연결된 GitHub Copilot 서비스를 통해 추가 사용 정보를 수집할 수 있습니다. 여기에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 참조되는 개인 데이터가 포함될 수 있습니다. [GitHub Copilot 보안 센터](https://resources.github.com/copilot-trust-center/)에서 GitHub Copilot 데이터의 수집 및 사용에 대해 자세히 알아볼 수 있습니다.
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------

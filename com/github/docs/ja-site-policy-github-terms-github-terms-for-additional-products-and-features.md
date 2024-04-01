@@ -31,7 +31,7 @@
 * [Sponsors プログラム](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
 
-バージョンの有効日: 2023 年 9 月 5 日
+バージョン発効日: 2024 年 3 月 21 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -128,19 +128,19 @@ GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、G
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot を利用するには、統合開発環境 (IDE) またはエディターに拡張情報をインストールする必要があります。 IDE またはエディターで GitHub Copilot 拡張機能を使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
+GitHub Copilot Business ユーザーおよび Copilot エンタープライズ ユーザーの場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
 
-GitHub Copilot からお客様に返されるコード、関数およびその他のアウトプットは、「**Suggestions**」と呼ばれます。 GitHubは、Suggestions に関するいかなる権利も主張しません。お客様は、お客様のコードに含まれる Suggestions を含む、お客様のコードの所有権と責任を保持します。
+コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 GitHub Copilot 使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
+
+GitHub Copilot からお客様に返されるコード、関数およびその他のアウトプットは、「**Suggestions**」と呼ばれます。 GitHub は提案を所有していません。 お客様は、コードの所有権を保持し、コードに含める提案に対する責任を負います。
 
 *許可される使用*
 
-お客様のコードには、GitHub [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)が適用されます。 例えば、GitHub.com 上の GitHub 利用規約で違法または禁止されているコンテンツを GitHub Copilot に促すことはできません。
+GitHub Copilot の使用は、GitHub [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)が適用されます。 例えば、GitHub.com 上の GitHub 利用規約で違法または禁止されているコンテンツを GitHub Copilot に促すことはできません。
 
 *データ*
 
-GitHub Copilot は、(i) お客様が希望する利用統計情報設定に応じて、お客様のコードのスニペットを収集する場合があり、(ii) お客様のアカウントに関連付けられた IDE またはエディターを通じて追加の使用情報を収集します。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilot FAQ](https://github.com/features/copilot#faq-privacy-copilot-for-individuals) で詳しく説明されています。
-
-GitHub Copilot for Business のユーザーの場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
+GitHub Copilot は、(i) 設定と使用する GitHub Copilot Service に応じて、コードのスニペットを収集し、(ii) アカウントに関連付けられている使用する GitHub Copilot Service を通じて追加の使用状況に関する情報を収集する場合があります。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilotトラスト センター](https://resources.github.com/copilot-trust-center/) で詳しく説明されています。
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------
