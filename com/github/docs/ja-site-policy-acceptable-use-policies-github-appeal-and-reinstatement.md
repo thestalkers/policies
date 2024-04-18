@@ -19,7 +19,7 @@ GitHub の異議申し立ておよび復活
 * [異議申し立ておよび復活](#appeal-and-reinstatement)
 * [異議申し立ておよび復活とはどのようなものですか?](#what-are-appeals-and-reinstatements)
 * [処理のしくみ](#how-this-works)
-* [透明性](#transparency)
+* [透明性](#reinstatements)
 
 [異議申し立ておよび復活](#appeal-and-reinstatement)
 ----------
@@ -50,7 +50,7 @@ GitHub のスタッフは、フォームに記載された情報を審査し、�
 
 GitHub スタッフの審査担当者と同一人物が最初の判断を下し、当該スタッフ メンバーが最初の結論が正しいと考える (これにより異議申し立てが却下される可能性がある) 場合は、GitHub スタッフの別のメンバーが独自に異議申し立てを審査します。 すべての合法的な異議申し立ては最終決定が回答されます。
 
-[透明性](#transparency)
+[透明性](#reinstatements)
 ----------
 
 当社は、異議申し立ておよび復活を [透明性レポート](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)で追跡します。

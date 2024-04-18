@@ -19,7 +19,7 @@ In diesem Artikel
 * [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
 * [Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
 * [So funktioniert's](#so-funktionierts)
-* [Transparenz](#transparency)
+* [Transparenz](#reinstatements)
 
 [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
 ----------
@@ -50,7 +50,7 @@ Alle legitimen Wiedereinsetzungsanfragen werden zunächst von GitHub-Mitarbeiter
 
 Wenn der Staff Reviewer von GitHub dieselbe Person ist, die die anfängliche Entscheidung getroffen hat, und dieser Mitarbeiter der Ansicht ist, dass ihre anfängliche Schlussfolgerung richtig war (und daher geneigt wäre, den Einspruch abzulehnen), wird ein anderer Mitarbeiter von GitHub den Einspruch unabhängig prüfen. Alle berechtigten Einsprüche werden mit einer endgültigen Entscheidung beantwortet.
 
-[Transparenz](#transparency)
+[Transparenz](#reinstatements)
 ----------
 
 Wir verfolgen Einsprüche und Wiederherstellungen in unseren [Transparenzberichten](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

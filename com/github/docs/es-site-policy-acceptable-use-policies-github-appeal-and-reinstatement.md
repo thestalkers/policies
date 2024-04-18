@@ -19,7 +19,7 @@ En este artículo
 * [Apelación y Restablecimiento](#appeal-and-reinstatement)
 * [¿Qué son las apelaciones y reintegros?](#what-are-appeals-and-reinstatements)
 * [Como funciona esto](#how-this-works)
-* [Transparencia](#transparency)
+* [Transparencia](#reinstatements)
 
 [Apelación y Restablecimiento](#appeal-and-reinstatement)
 ----------
@@ -50,7 +50,7 @@ Todas las solicitudes legítimas de restablecimiento serán revisadas inicialmen
 
 Si el revisor del personal de GitHub es la misma persona que tomó la determinación inicial y ese miembro del personal cree que su conclusión inicial fue correcta (y, por lo tanto, se inclinaría a denegar la apelación), otro miembro del personal de GitHub revisará la apelación de forma independiente. Todas las apelaciones legítimas serán contestadas con una decisión final.
 
-[Transparencia](#transparency)
+[Transparencia](#reinstatements)
 ----------
 
 Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuestros [informes de transparencia](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).

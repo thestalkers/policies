@@ -19,7 +19,7 @@ GitHub 이의 제기 및 복원
 * [이의 제기 및 복원](#appeal-and-reinstatement)
 * [이의 제기 및 복원이란 무엇인가요?](#what-are-appeals-and-reinstatements)
 * [운영 방식](#how-this-works)
-* [투명성](#transparency)
+* [투명성](#reinstatements)
 
 [이의 제기 및 복원](#appeal-and-reinstatement)
 ----------
@@ -50,7 +50,7 @@ GitHub 직원은 동 요청서 양식에 기재된 정보를 검토하여 복원
 
 GitHub 직원 검토자가 최초 결정을 내린 자와 동일인이며 그 직원이 볼 때 처음의 결론이 옳았다고 판단하는 경우(또한 이에 근거하여 이의를 거부하려는 경향을 보이는 경우) GitHub 직원 중 다른 구성원이 독립적으로 이의 사항을 검토하게 됩니다. 모든 합법적 이의 제기에 대해서는 최종 결정으로 대응합니다.
 
-[투명성](#transparency)
+[투명성](#reinstatements)
 ----------
 
 당사는 [투명성 보고서](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)에서 이의 제기 및 복원 이력을 추적합니다.

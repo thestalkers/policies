@@ -19,7 +19,7 @@ Dans cet article
 * [Appel et rétablissement](#appeal-and-reinstatement)
 * [Que sont les appels et les réintégrations ?](#what-are-appeals-and-reinstatements)
 * [Fonctionnement du processus](#how-this-works)
-* [Transparence](#transparency)
+* [Transparence](#reinstatements)
 
 [Appel et rétablissement](#appeal-and-reinstatement)
 ----------
@@ -50,7 +50,7 @@ Toutes les demandes de réintégration légitimes seront examinées initialement
 
 Si l'examinateur du personnel de GitHub est la même personne qui a pris la décision initiale et que ce membre du personnel estime que sa conclusion initiale était correcte (et serait donc enclin à rejeter l'appel), un autre membre du personnel de GitHub examinera l'appel de manière indépendante. Tous les appels légitimes seront répondus par une décision finale.
 
-[Transparence](#transparency)
+[Transparence](#reinstatements)
 ----------
 
 Nous suivons les appels et les réintégrations dans nos [rapports de transparence](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
