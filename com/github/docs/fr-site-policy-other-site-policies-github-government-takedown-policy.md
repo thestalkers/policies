@@ -67,3 +67,5 @@ Dans certains cas, GitHub reçoit des rapports de responsables gouvernementaux f
 ----------
 
 En plus d'afficher les avis de retrait gouvernementaux dans notre référentiel `github/gov-takedowns`, nous en rendons compte dans notre rapport sur la transparence. Nous suivons et signalons également dans notre rapport de transparence les retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub.
+
+{"resolvedServerColorMode":"day"}

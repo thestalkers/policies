@@ -97,3 +97,5 @@ Wenn Sie für eine Stelle bei GitHub eingestellt werden, speichern wir die währ
 ----------
 
 Wir können diese GitHub-Datenschutzrichtlinie für Kandidaten gelegentlich aktualisieren. Wenn wir Änderungen an dieser Seite vornehmen, aktualisieren wir das Datum der „letzten Aktualisierung“.
+
+{"resolvedServerColorMode":"day"}

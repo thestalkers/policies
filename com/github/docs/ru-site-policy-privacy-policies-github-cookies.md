@@ -18,3 +18,5 @@ GitHub uses cookies to provide and secure our websites, as well as to analyze th
 You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
 
 If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
+
+{"resolvedServerColorMode":"day"}

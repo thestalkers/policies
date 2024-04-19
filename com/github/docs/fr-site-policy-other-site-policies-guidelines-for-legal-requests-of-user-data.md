@@ -274,3 +274,5 @@ GitHub répondra rapidement aux demandes émises par l'intermédiaire d'un tribu
 ----------
 
 Avez-vous d'autres questions, commentaires ou suggestions ? Veuillez contacter .
+
+{"resolvedServerColorMode":"day"}

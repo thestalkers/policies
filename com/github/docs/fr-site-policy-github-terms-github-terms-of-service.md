@@ -413,3 +413,5 @@ Le présent Accord ne peut être modifié que par un amendement écrit signé pa
 ### [6. Questions](#6-questions) ###
 
 Des questions sur les conditions d'utilisation ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

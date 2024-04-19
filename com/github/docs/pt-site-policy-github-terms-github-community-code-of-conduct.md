@@ -153,3 +153,5 @@ Este Código de Conduta não modifica os [Termos de Serviço](/pt/site-policy/gi
 ### [Retenção e exclusão de dados](#data-retention-and-deletion-of-data) ###
 
 Se é um usuário do GitHub, você pode acessar, atualizar, alterar ou excluir suas informações básicas de perfil do usuário [editando seu perfil do usuário](https://github.com/settings/profile) ou entrando em contato com o suporte do GitHub por meio do [Portal de suporte do GitHub](https://support.github.com/). Reteremos e usaremos suas informações conforme necessário para cumprir nossas obrigações legais, resolver disputas e fazer cumprir nossos acordos, mas, salvo os requisitos legais, excluiremos seu perfil completo (dentro do razoável) dentro de 90 dias da sua solicitação. Para mais informações, confira a [Política de privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
+
+{"resolvedServerColorMode":"day"}

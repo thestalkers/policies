@@ -88,3 +88,5 @@ Si votre contenu ou votre compte a été désactivé ou restreint et que vous so
 Les présentes Recommandations de la communauté sont placées dans le domaine public afin que chacun puisse les utiliser, les réutiliser ou encore les adapter, selon les modalités de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Il ne s’agit là que de recommandations ; elles ne modifient pas nos [Conditions d’utilisation du service](/fr/site-policy/github-terms/github-terms-of-service) et ne sont pas destinées à constituer une liste exhaustive. En vertu de ces conditions, GitHub conserve toute latitude pour supprimer tout contenu ou résilier tout compte en cas d’activité violant nos [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies). Ces lignes directrices décrivent quand nous exercerons ce pouvoir discrétionnaire.
+
+{"resolvedServerColorMode":"day"}

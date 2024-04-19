@@ -81,3 +81,5 @@ GitHub는 연방 또는 국제 상표 등록 보유자로부터 상표 정책 �
   * 주소
   * 전화 번호
   * 이메일(회사 도메인의 이메일이어야 합니다)
+
+{"resolvedServerColorMode":"day"}

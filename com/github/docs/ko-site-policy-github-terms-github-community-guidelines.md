@@ -88,3 +88,5 @@ GitHub 커뮤니티의 주요 목적은 소프트웨어 프로젝트의 협업�
 GitHub는 이 커뮤니티 지침을 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/)의 제반 조건에 따라 누구나 사용, 재사용, 개정할 수 있도록 공개 도메인에 할애합니다.
 
 이는 지침에 불과하고 GitHub의 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)을 수정하지 않으며 전체 목록 중 일부만 제시한 것입니다. 이러한 조건에 따라 GitHub는 당사의 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)을 위반하는 활동에 대해 콘텐츠를 제거하거나 계정을 해지할 수 있는 완전한 재량권을 갖습니다. 이들 지침은 GitHub가 그러한 재량권을 언제 행사하는지 설명합니다.
+
+{"resolvedServerColorMode":"day"}

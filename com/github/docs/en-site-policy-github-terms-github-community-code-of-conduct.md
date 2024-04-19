@@ -153,3 +153,5 @@ This Code of Conduct does not modify our [Terms of Service](/en/site-policy/gith
 ### [Data Retention and Deletion of Data](#data-retention-and-deletion-of-data) ###
 
 If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting GitHub Support through the [GitHub Support portal](https://support.github.com/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement).
+
+{"resolvedServerColorMode":"day"}

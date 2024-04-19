@@ -28,3 +28,5 @@ Se você for o parente mais próximo, um [sucessor pré-designado](/pt/account-a
 Assim que recebermos sua solicitação, poderemos acompanhar uma solicitação de informações adicionais, como uma cópia de sua identificação com foto, cópia da certidão de óbito e documentação confirmando que você está autorizado a agir em relação à conta do usuário falecido, para verificar se estamos devidamente autorizados a processar sua solicitação.
 
 Observe que as informações fornecidas em sua solicitação são coletadas de acordo com nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement) e reteremos as informações apenas conforme necessário para cumprir nossas obrigações legais e resolver controvérsias.
+
+{"resolvedServerColorMode":"day"}

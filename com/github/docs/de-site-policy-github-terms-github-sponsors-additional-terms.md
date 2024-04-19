@@ -252,3 +252,5 @@ Die Parteien sind unabhängige Vertragspartner. Keine der Parteien ist Arbeitgeb
 ### [7.5. Werbung.](#75-publicity) ###
 
 Unter Umständen geben wir eine Pressemitteilung oder andere öffentliche Mitteilungen im Zusammenhang mit Ihrer Teilnahme am Programm heraus.
+
+{"resolvedServerColorMode":"day"}

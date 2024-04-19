@@ -252,3 +252,5 @@ GitHub 拟遵守 GitHub 根据自己的判断合理确定适用于此类付款�
 ### [7.5. 公开。](#75-publicity) ###
 
 我们可以发布与您参与计划相关的新闻稿或其他公开通讯。
+
+{"resolvedServerColorMode":"day"}

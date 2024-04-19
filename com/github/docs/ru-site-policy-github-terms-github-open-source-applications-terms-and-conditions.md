@@ -84,3 +84,5 @@ GitHub оставляет за собой право в любое время и
 6. Лицензия на политики GitHub. Эти Условия применения регулируются в соответствии с этой [лицензией Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Дополнительные сведения см. в нашем [репозитории политики сайта](https://github.com/github/site-policy#license).
 
 7. Связаться с нами. Есть вопросы об Условиях обслуживания? Свяжитесь с нами через [Портал поддержки GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

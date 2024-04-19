@@ -66,3 +66,5 @@ GitHub 직원은 이벤트 참가자가 보안 기관 또는 지역 사법 기�
 ----------
 
 이 준수 사항의 일부는 Creative Commons Zero 라이선스에 따라 Ada Initiative 및 그 외 자원봉사자들이 만든 Geek Feminism 위키의 괴롭힘 방지 정책 예를 근거로 합니다.
+
+{"resolvedServerColorMode":"day"}

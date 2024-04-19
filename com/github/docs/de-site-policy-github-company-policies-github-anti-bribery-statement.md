@@ -85,3 +85,5 @@ Während sich der US-FCPA auf Interaktionen mit Regierungsbeamten konzentriert, 
 
 * Die standardmäßigen **Wiederverkaufsvereinbarungen mit Channel-Partnern** enthalten verbindliche Antikorruptionsklauseln. In Zukunft verlangt GitHub von unseren Vertriebspartnern, sich zur Einhaltung dieser Anti-Korruptions-Erklärung zu verpflichten.
 * Künftig verlangen die **Anbieterverträge** von GitHub nun eine Verpflichtung zur Einhaltung des Verhaltenskodex für Lieferanten von Microsoft oder dieser Erklärung zur Bestechungsbekämpfung.
+
+{"resolvedServerColorMode":"day"}

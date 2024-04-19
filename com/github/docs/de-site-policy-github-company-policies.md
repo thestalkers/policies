@@ -19,3 +19,5 @@ GitHub-Unternehmensrichtlinien
 * [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [GitHub-Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+{"resolvedServerColorMode":"day"}

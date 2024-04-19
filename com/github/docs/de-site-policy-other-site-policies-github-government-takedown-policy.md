@@ -67,3 +67,5 @@ In einigen Fällen erhält GitHub Berichte von Regierungsbeamten über Verstöß
 ----------
 
 Zusätzlich zur Veröffentlichung von Anträgen auf Entfernung durch Regierungen in unserem `github/gov-takedowns` Repository, berichten wir über diese Fälle auch in unserem Transparenzbericht. Wir verfolgen und melden in unserem Transparenzbericht auch behördliche Deaktivierungen aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub.
+
+{"resolvedServerColorMode":"day"}

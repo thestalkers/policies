@@ -19,3 +19,5 @@ GitHub 회사 정책
 * [GitHub GPL 협력 약정](/ko/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+{"resolvedServerColorMode":"day"}

@@ -18,3 +18,5 @@ GitHub utiliza cookies para proporcionar y proteger nuestros sitios web, así co
 Puede consultar la lista actualizada de cookies en GitHub y suscribirse para recibir actualizaciones de la misma en <https://github.com/privacy/cookies>.
 
 Si tiene preguntas o dudas sobre un nuevo subencargado, póngase en contacto con nosotros a través de [Formulario de contacto de privacidad](https://github.com/contact/privacy).
+
+{"resolvedServerColorMode":"day"}

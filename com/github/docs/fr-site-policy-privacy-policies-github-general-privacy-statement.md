@@ -357,3 +357,5 @@ Si vous vivez au Colorado, au Connecticut ou en Virginie, vous avez des droits s
 ### [Nevada](#nevada) ###
 
 Nous ne vendons pas vos informations couvertes, telles que définies au chapitre 603A des lois révisées du Nevada. Si vous avez encore des questions concernant vos informations couvertes ou tout autre élément de notre déclaration de confidentialité, veuillez envoyer un e-mail à privacy[at]github[dot]com.
+
+{"resolvedServerColorMode":"day"}

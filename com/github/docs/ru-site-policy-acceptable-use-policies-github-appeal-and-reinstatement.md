@@ -54,3 +54,5 @@
 ----------
 
 Мы отслеживаем апелляции и восстановления в наших [отчетах о прозрачности](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

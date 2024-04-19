@@ -152,3 +152,5 @@ Não presumimos ter todas as respostas. Mas se você estiver curioso, aqui estã
 * [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Revisão de Direito de Santa Clara)
 
 O GitHub não endossa necessariamente nenhum dos pontos de vista desses artigos. Fornecemos os links para incentivar você a saber mais, formar suas próprias opiniões e, em seguida, entrar em contato com seus representantes eleitos (p. ex., no [Congresso dos EUA](https://www.govtrack.us/congress/members) ou [Parlamento da UE](https://www.europarl.europa.eu/meps/en/home)) para solicitar as mudanças que você acha que devem ser feitas.
+
+{"resolvedServerColorMode":"day"}

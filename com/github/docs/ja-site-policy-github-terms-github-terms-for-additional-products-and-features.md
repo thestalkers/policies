@@ -192,3 +192,5 @@ GitHub Sponsors により、開発者コミュニティは、日々活用して�
 ----------
 
 お客様は、Linux ファイル用の Microsoft SQL Server Standard Edition コンテナー イメージ (以下「SQL Server Images」といいます) をダウンロードできます。 お客様の本ソフトウェアの使用権が終了した場合は、SQL Server Images をアンインストールしなければなりません。 また、Microsoft Corporation は、随時 SQL Server Images を無効にすることができます。
+
+{"resolvedServerColorMode":"day"}

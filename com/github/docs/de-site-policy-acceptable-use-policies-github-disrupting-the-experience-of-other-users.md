@@ -27,3 +27,5 @@ Wir gestatten kein Verhalten, das die Erfahrung anderer Benutzer erheblich oder 
 Während wir Betreuer ermutigen, ihre eigenen Projekte auf individueller Basis zu moderieren, können GitHub-Mitarbeiter weitere restriktive Maßnahmen gegen Konten ergreifen, die sich an solchen Verhaltensweisen beteiligen.
 
 Bitte beachten Sie, dass das oben genannte Verhalten auch gegen andere Beschränkungen in unseren [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) verstoßen kann. Je nach Art und Schwere der Aktivität kann es beispielsweise bis auf das Niveau von [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment) reichen.
+
+{"resolvedServerColorMode":"day"}

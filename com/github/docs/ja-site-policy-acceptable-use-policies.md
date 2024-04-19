@@ -33,3 +33,5 @@
 * [GitHub の暴力の脅威と根拠のない暴力的コンテンツ](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

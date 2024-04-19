@@ -24,3 +24,5 @@ GitHub でのなりすまし
 なりすましは一種の嫌がらせであり、本ポリシーの違反となるため、アカウントにアクセスできなくなる場合があります。
 
 他のユーザー名に似たユーザー名が、必ずしもなりすましとは限りません。 GitHub は状況を考慮します。 たとえば、[誤報または偽情報](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)の申し立てに関する場合と同様に、一般に[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に従うパロディおよび風刺は容認されます。
+
+{"resolvedServerColorMode":"day"}

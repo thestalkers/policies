@@ -17,3 +17,5 @@ Politiques de Sécurité
 * [Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 * [Description GitHub SIRT RFC 2350](/fr/site-policy/security-policies/github-sirt-description-rfc-2350)
+
+{"resolvedServerColorMode":"day"}

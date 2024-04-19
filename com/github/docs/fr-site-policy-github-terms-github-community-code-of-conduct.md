@@ -153,3 +153,5 @@ Le présent Code de Conduite ne modifie pas nos [Conditions d'utilisation du ser
 ### [Conservation et suppression des données](#data-retention-and-deletion-of-data) ###
 
 Si vous êtes un utilisateur de GitHub, vous pouvez accéder aux informations de base de votre profil d'utilisateur, les mettre à jour, les modifier ou les supprimer en [modifiant votre profil d'utilisateur](https://github.com/settings/profile) ou en contactant le service d'assistance de GitHub via le [portail de support GitHub](https://support.github.com/). Nous conserverons et utiliserons vos informations si nécessaire pour nous conformer à nos obligations légales, résoudre les litiges et faire respecter nos accords, mais à moins d'exigences légales, nous supprimerons votre profil complet (dans des limites raisonnables) dans les 90 jours suivant votre demande. Pour en savoir plus, référez-vous à la [déclaration de confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
+
+{"resolvedServerColorMode":"day"}

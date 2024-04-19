@@ -111,3 +111,5 @@ Vous pouvez soumettre votre demande de retrait d'informations privées en utilis
 ----------
 
 Si vous avez reçu de notre part une demande de retrait d'informations privées, vous pouvez la contester en répondant à notre courrier électronique et en nous indiquant, de manière aussi détaillée que possible, pourquoi vous pensez que le contenu en question n'est pas une information privée soumise à la présente Politique.
+
+{"resolvedServerColorMode":"day"}

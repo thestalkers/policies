@@ -42,3 +42,5 @@ Die [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-tr
 Die [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy) kann verwendet werden, um Daten zu melden, die privat sind (vertraulich sind und ein Sicherheitsrisiko darstellen), die jedoch nicht unbedingt urheberrechtlich oder markenrechtlich geschützt sind.
 
 Benutzer in Indien können sich an den [Grievance Officer von GitHub](https://support.github.com/contact/india-grievance-officer) wenden.
+
+{"resolvedServerColorMode":"day"}

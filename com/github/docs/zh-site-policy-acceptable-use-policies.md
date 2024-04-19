@@ -33,3 +33,5 @@
 * [GitHub 上的暴力威胁和无端暴力内容](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

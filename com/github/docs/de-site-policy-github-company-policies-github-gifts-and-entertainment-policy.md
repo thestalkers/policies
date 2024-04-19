@@ -98,3 +98,5 @@ Geldstrafen und Gefängnis. Auch nicht unbedingt nur für GitHub. Sie könnten s
 ----------
 
 Weitere Informationen und Hintergründe zu Regeln, Durchsetzung und Strafen finden Sie beim US-Justizministerium: Der [Ressourcenleitfaden zum US Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) ist eine hervorragende Ressource.
+
+{"resolvedServerColorMode":"day"}

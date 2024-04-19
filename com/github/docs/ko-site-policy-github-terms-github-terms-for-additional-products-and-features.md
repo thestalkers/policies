@@ -192,3 +192,5 @@ GitHub Sponsors를 통해 개발자 커뮤니티는 개발자 커뮤니티가 �
 ----------
 
 Linux용 Microsoft SQL Server Standard Edtion 컨테이너 이미지 파일("SQL Server Images")을 다운로드할 수 있습니다. SQL Server Images를 사용할 수 있는 권리가 종료되면 해당 소프트웨어를 제거해야 합니다. Microsoft Corporation은 언제든지 SQL Server Images를 사용 중지할 수 있습니다.
+
+{"resolvedServerColorMode":"day"}

@@ -153,3 +153,5 @@ Interpretaremos nossas políticas e resolveremos disputas em favor da proteção
 **Imposição.** O GitHub tem o livre arbítrio para [tomar uma atitude](/pt/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) em resposta a uma violação dessas políticas, incluindo suspensão de conta, [encerramento da conta](/pt/site-policy/github-terms/github-terms-of-service#3-github-may-terminate) ou [remoção](/pt/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content) de conteúdo. Consulte também as [Diretrizes da Comunidade](/pt/site-policy/github-terms/github-community-guidelines) para ver as ações que você pode tomar se algo ou alguém o ofender.
 
 **Restabelecimento e recurso.** Se o conteúdo ou a conta foi desativado ou restrito e você busca o restabelecimento ou deseja contestar, consulte a [Página de Recurso e Reposição](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) para obter informações sobre o processo e use o [Formulário de Recurso e Restabelecimento](https://support.github.com/contact/reinstatement) para enviar uma solicitação.
+
+{"resolvedServerColorMode":"day"}

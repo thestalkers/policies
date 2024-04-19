@@ -116,3 +116,5 @@ Sie erklären sich damit einverstanden, uns von allen Ansprüchen, Verbindlichke
 6. **Lizenz für GitHub-Richtlinien.** Diese Marketplace-Bedingungen sind unter der [Creative Commons Zero-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/) lizenziert. Einzelheiten finden Sie in unserem [Repository mit Websiterichtlinien](https://github.com/github/site-policy#license).
 
 7. **Kontaktieren Sie uns.** Fragen zu den Marketplace-Bedingungen? Kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

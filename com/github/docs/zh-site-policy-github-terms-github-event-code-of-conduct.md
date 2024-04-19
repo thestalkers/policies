@@ -66,3 +66,5 @@ GitHub 员工乐于帮助活动参与者联系安全部门或当地执法机构�
 ----------
 
 本行为准则的部分内容基于 Geek Feminism wiki 的典型反骚扰政策，这些政策由 Ada Initiative 和其他志愿者在知识共享零许可原则下编制。
+
+{"resolvedServerColorMode":"day"}

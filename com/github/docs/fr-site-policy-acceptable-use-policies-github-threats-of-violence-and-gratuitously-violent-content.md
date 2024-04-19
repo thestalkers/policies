@@ -20,3 +20,5 @@ Vous ne pouvez pas utiliser GitHub pour organiser, promouvoir, encourager, menac
 * Encourager une autre personne à s'automutiler
 
 Nous n'autorisons pas la publication de contenu violent sans discrimination ou d'une manière difficile à éviter pour les autres utilisateurs, comme un avatar de profil ou un commentaire sur un problème. Cependant, nous comprenons qu'il peut y avoir des raisons légitimes de publier du contenu violent, par exemple à des fins éducatives ou documentaires, des œuvres créatives ou des représentations d'événements historiques. Dans ces cas, un avertissement clair ou une clause de non-responsabilité peut aider les utilisateurs à prendre une décision éclairée quant à savoir s'ils souhaitent ou non interagir avec un tel contenu. Néanmoins, GitHub peut décider de limiter la visibilité de ce contenu à ceux qui choisissent de s'y inscrire.
+
+{"resolvedServerColorMode":"day"}

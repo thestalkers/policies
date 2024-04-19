@@ -66,3 +66,5 @@ GitHub employees will be happy to help Event Participants contact security or lo
 ----------
 
 Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
+
+{"resolvedServerColorMode":"day"}

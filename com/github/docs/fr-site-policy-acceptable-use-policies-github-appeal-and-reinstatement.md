@@ -54,3 +54,5 @@ Si l'examinateur du personnel de GitHub est la même personne qui a pris la déc
 ----------
 
 Nous suivons les appels et les réintégrations dans nos [rapports de transparence](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

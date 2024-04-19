@@ -30,3 +30,5 @@ Nous pouvons considérer d'autres informations, telles que des photos ou des vid
 GitHub prendra en compte le contexte ainsi que si le contenu signalé est accessible au public ailleurs. Veuillez noter, cependant, que si le partage d'un contenu accessible au public ne constitue pas une violation de cette politique, si l'information est partagée dans l'intention de harceler ou d'inciter d'autres comportements abusifs, celui-ci peut violer notre interdiction [d'intimidation et de harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 Pour en savoir plus ou pour savoir comment signaler une violation, consultez notre [Politique de retrait des informations privées](/fr/site-policy/content-removal-policies/github-private-information-removal-policy) et nos instructions pour [Signaler un abus](/fr/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+
+{"resolvedServerColorMode":"day"}

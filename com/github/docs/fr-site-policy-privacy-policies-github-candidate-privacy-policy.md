@@ -97,3 +97,5 @@ Si vous êtes embauché pour un poste chez GitHub, nous conserverons les informa
 ----------
 
 Nous pouvons occasionnellement mettre à jour cette politique de confidentialité des candidats GitHub. Lorsque nous apporterons des modifications à cette page, nous mettrons à jour la date de « dernière mise à jour ».
+
+{"resolvedServerColorMode":"day"}

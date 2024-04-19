@@ -95,3 +95,5 @@ The views expressed by any event attendee, speaker, exhibitor, or sponsor are no
 GitHub reserves the right to update these Event Terms in its sole discretion and without prior notice. These Event Terms apply to all event participants (attendees, speakers, sponsors, exhibitors, staff, and crew). You are advised to review these Event Terms periodically.
 
 These Event Terms were last updated on February 7th 2024.
+
+{"resolvedServerColorMode":"day"}

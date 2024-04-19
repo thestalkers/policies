@@ -192,3 +192,5 @@ GitHub Pages не предназначен и не может использов
 ----------
 
 Вы можете загрузить образ контейнера Microsoft SQL Server Standard Edition для файлов Linux ("Образы SQL Server"). Вы должны удалить Образы SQL Server после прекращения права на использование Программного обеспечения. Корпорация Microsoft может отключить Образы SQL Server в любой момент времени.
+
+{"resolvedServerColorMode":"day"}

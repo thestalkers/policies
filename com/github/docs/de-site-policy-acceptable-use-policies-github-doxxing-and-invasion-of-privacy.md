@@ -30,3 +30,5 @@ Wir können andere Informationen wie Fotos oder Videos, die ohne Zustimmung der 
 GitHub berücksichtigt den Kontext und ob die gemeldeten Inhalte anderweitig öffentlich verfügbar sind. Bitte beachten Sie jedoch, dass das Teilen von öffentlich zugänglichen Inhalten zwar keinen Verstoß gegen diese Richtlinie darstellt, aber wenn die Informationen mit der Absicht weitergegeben werden, jemanden zu belästigen oder zu anderem missbräuchlichem Verhalten anzustiften, kann dies gegen unser Verbot von [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment) verstoßen.
 
 Weitere Informationen oder Informationen zum Melden eines Verstoßes finden Sie in unserer [Richtlinie zum Entfernen privater Informationen](/de/site-policy/content-removal-policies/github-private-information-removal-policy) und unseren Anweisungen zum [Melden von Missbrauch](/de/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+
+{"resolvedServerColorMode":"day"}

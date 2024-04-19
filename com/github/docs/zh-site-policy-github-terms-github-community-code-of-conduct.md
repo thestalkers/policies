@@ -153,3 +153,5 @@ GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 
 ### [数据保留和数据删除](#data-retention-and-deletion-of-data) ###
 
 如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
+
+{"resolvedServerColorMode":"day"}

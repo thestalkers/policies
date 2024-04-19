@@ -88,3 +88,5 @@ Se o conteúdo ou a conta foi desativado ou restrito e você busca o restabeleci
 Dedicamos estas Diretrizes da Comunidade ao domínio público para qualquer pessoa usar, reutilizar, adaptar ou o que for, segundo os termos de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas são apenas diretrizes; elas não modificam os [Termos de Serviço](/pt/site-policy/github-terms/github-terms-of-service) e não têm a pretensão de ser uma lista completa. Segundo esses termos, o GitHub mantém o livre arbítrio para remover qualquer conteúdo ou encerrar qualquer conta por atividade que viole as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). Estas diretrizes descrevem quando exerceremos essa discrição.
+
+{"resolvedServerColorMode":"day"}

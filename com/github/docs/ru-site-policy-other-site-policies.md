@@ -25,3 +25,5 @@
 * [Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [Политика восстановления учетных записей GitHub](/ru/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

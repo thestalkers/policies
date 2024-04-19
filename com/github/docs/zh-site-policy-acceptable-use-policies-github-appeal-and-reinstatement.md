@@ -54,3 +54,5 @@ GitHub 工作人员将审查表单中提供的信息，以确定是否有足够�
 ----------
 
 我们在[透明度报告](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)中跟踪申诉和恢复。
+
+{"resolvedServerColorMode":"day"}

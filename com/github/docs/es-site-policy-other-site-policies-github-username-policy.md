@@ -38,3 +38,5 @@ Si cree que la cuenta de alguien está infringiendo sus derechos de marca comerc
 ----------
 
 GitHub prohíbe la usurpación de nombres de cuenta, y los nombres de cuenta no pueden reservarse ni mantenerse inactivamente para uso futuro. Las cuentas que infrinjan esta política de usurpación de nombres pueden eliminarse o cambiarse de nombre sin previo aviso. Los intentos de vender, comprar o solicitar otras formas de pago a cambio de nombres de cuenta están prohibidos y pueden resultar en la suspensión permanente de la cuenta.
+
+{"resolvedServerColorMode":"day"}

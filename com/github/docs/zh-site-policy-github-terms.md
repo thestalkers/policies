@@ -41,3 +41,5 @@ GitHub 条款
 * [GitHub 活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)
 
 * [GitHub 教育使用协议](/zh/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

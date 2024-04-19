@@ -136,3 +136,5 @@ Las instrucciones de adquisición de GitHub para los empleados que realizan comp
 GitHub está desarrollando capacitación sobre esclavitud moderna y trabajo infantil que será obligatoria para todos los empleados, con miras al negocio y la cadena de suministro de GitHub. GitHub enfatizará a los proveedores que brindan servicios que involucran trabajo manual, como soporte de eventos, construcción, servicios de instalaciones y servicios de alimentos, como áreas de mayor riesgo potencial.
 
 **La Junta directiva de GitHub aprobó esta declaración. Consulte una [copia de esta declaración firmada por el Consejo general y el responsable de estrategias de GitHub (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
+
+{"resolvedServerColorMode":"day"}

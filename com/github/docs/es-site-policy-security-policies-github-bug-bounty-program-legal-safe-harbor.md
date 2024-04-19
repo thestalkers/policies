@@ -52,3 +52,5 @@ Dicho esto, si algún tercero inicia una acción legal, incluida la aplicación 
 ----------
 
 En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.
+
+{"resolvedServerColorMode":"day"}

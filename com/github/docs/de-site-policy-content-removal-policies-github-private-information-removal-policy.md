@@ -111,3 +111,5 @@ Sie können Ihren Antrag zum Entfernen privater Informationen über unser [Konta
 ----------
 
 Wenn Sie von uns eine Aufforderung zur Entfernung privater Informationen erhalten haben, können Sie diese anfechten, indem Sie auf unsere E-Mail antworten und uns – so detailliert wie möglich – mitteilen, warum Sie der Meinung sind, dass es sich bei den betreffenden Inhalten nicht um private Informationen handelt, die dieser Richtlinie unterliegen.
+
+{"resolvedServerColorMode":"day"}

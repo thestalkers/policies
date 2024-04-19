@@ -27,3 +27,5 @@
 당사는 유지 관리자가 개별적으로 자신의 프로젝트를 조정할 것을 권장하지만 GitHub 직원은 이러한 유형의 행동에 관여하는 계정에 대해 추가적인 제한 조치를 취할 수 있습니다.
 
 상기의 행위는 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)의 기타 제한 사항을 위반할 수도 있습니다. 예를 들어, 활동의 성격과 경중에 따라 [괴롭힘 및 희롱](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment) 수준까지 올라갈 수 있습니다.
+
+{"resolvedServerColorMode":"day"}

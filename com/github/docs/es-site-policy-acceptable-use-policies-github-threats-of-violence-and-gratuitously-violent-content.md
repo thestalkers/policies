@@ -20,3 +20,5 @@ Queda prohibido usar GitHub para organizar, promover, alentar, amenazar o incita
 * animar a otra persona a que se autolesione.
 
 No permitimos que se publique contenido violento de manera indiscriminada o de una manera que sea difícil de evitar para otros usuarios, como en un avatar del perfil o en un comentario sobre un problema. Sin embargo, entendemos que puede haber razones legítimas para publicar contenido violento como, por ejemplo, con fines educativos o documentales, trabajos creativos o representaciones de acontecimientos históricos. En esos casos, utilice una advertencia clara o un descargo de responsabilidad para ayudar a los usuarios a tomar una decisión informada sobre si desean o no interactuar con dicho contenido. Aun así, GitHub puede decidir limitar la visibilidad de dicho contenido a aquellos que decidan hacerlo.
+
+{"resolvedServerColorMode":"day"}

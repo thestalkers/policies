@@ -23,3 +23,5 @@
 * [GitHub 応募者プライバシー ポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 * [GitHub Octernships のサービス使用条件](/ja/site-policy/privacy-policies/github-octernships-terms-of-service)
+
+{"resolvedServerColorMode":"day"}

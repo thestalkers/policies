@@ -39,3 +39,5 @@ GitHub는 이 페이지 또는 후속 위치에 새 버전을 게시하여 이 �
 'GitHub'란 GitHub, Inc.와 그 자회사를 의미합니다.
 
 이 저작물은 Creative Commons Attribution-ShareAlike 4.0 International 라이선스에 따라 제공됩니다.
+
+{"resolvedServerColorMode":"day"}

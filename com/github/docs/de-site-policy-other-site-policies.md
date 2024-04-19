@@ -25,3 +25,5 @@ Andere Website-Richtlinien
 * [Richtlinien für rechtliche Anfragen von Benutzerdaten](/de/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [Wiederherstellungsrichtlinie für GitHub-Konten](/de/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

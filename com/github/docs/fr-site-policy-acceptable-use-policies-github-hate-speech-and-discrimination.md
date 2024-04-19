@@ -24,3 +24,5 @@ GitHub ne tolère pas les discours qui attaquent ou encouragent la haine envers 
 * Sifflement de chien ; ou utiliser un langage et/ou des symboles codés ou suggestifs pour promouvoir l'abus ou la haine
 
 Bien que GitHub prenne au sérieux tous les cas d'abus et de harcèlement sur la plate-forme, nous nous engageons particulièrement à lutter contre les abus motivés par la haine lorsqu'ils affectent de manière disproportionnée les communautés qui ont toujours été ciblées par de tels abus. Notre objectif est de faire de GitHub un endroit où tous les individus se sentent les bienvenus et en sécurité.
+
+{"resolvedServerColorMode":"day"}

@@ -98,3 +98,5 @@ MULTAS E CADEIA. Não necessariamente apenas para o GitHub. Você pode passar al
 ----------
 
 Para obter mais informações e contexto sobre regras, imposição e multas, o Departamento de Justiça dos EUA [Guia de Recursos da U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) é um excelente recurso.
+
+{"resolvedServerColorMode":"day"}

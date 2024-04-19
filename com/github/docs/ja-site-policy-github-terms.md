@@ -41,3 +41,5 @@ GitHub 条件
 * [GitHub イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
 
 * [GitHub 教育目的利用契約](/ja/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

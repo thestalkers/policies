@@ -324,3 +324,5 @@ Sur demande, le développeur mettra à disposition sa déclaration de confidenti
 **A1-8. Responsabilité en matière de traitement des données**
 
 * a. Responsabilité directe. Le Développeur sera responsable envers GitHub des dommages réels causés par toute violation du présent Addendum sous réserve des conditions de la Section 8, Limitation de responsabilité du Contrat de Développeur Marketplace.
+
+{"resolvedServerColorMode":"day"}

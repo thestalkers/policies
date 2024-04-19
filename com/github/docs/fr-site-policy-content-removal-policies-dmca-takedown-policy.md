@@ -152,3 +152,5 @@ Nous ne prétendons pas avoir toutes les réponses. Mais si vous êtes curieux, 
 * [La doctrine de l'usage loyal et la loi sur le droit d'auteur du millénaire numérique : Existe-t-il un usage loyal sur internet conformément à ladite loi ?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Revue de droit de Santa Clara)
 
 GitHub n'approuve pas nécessairement les points de vue de ces articles. Nous fournissons ces liens pour vous encourager à en savoir plus, à vous forger votre propre opinion, puis à contacter votre ou vos représentants élus (par exemple, au [Congrès américain](https://www.govtrack.us/congress/members) ou au [Parlement européen](https://www.europarl.europa.eu/meps/en/home)) pour demander les changements que vous jugez nécessaires.
+
+{"resolvedServerColorMode":"day"}

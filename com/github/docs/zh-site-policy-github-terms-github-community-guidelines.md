@@ -88,3 +88,5 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 我们将这些社区指导方针专用于公共领域，让所有人都可以根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整等等。
 
 这些只是指导方针；不影响我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，也不打算作为完整的清单。 根据这些条款，GitHub 可全权决定删除任何内容或终止任何违反我们[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的活动帐户。 这些指导方针说明了我们何时行使该自由裁量权。
+
+{"resolvedServerColorMode":"day"}

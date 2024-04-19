@@ -136,3 +136,5 @@ Les instructions d'approvisionnement de GitHub aux employés effectuant des acha
 GitHub développe une formation moderne sur l'esclavage et le travail des enfants qui sera obligatoire pour tous les employés, en vue des activités et de la chaîne d'approvisionnement de GitHub. GitHub mettra l'accent sur les fournisseurs fournissant des services impliquant du travail manuel, tels que l'assistance aux événements, la construction, les services d'installations et les services de restauration, en tant que domaines de risque potentiel plus élevé.
 
 **Le conseil d'administration de GitHub a approuvé cette déclaration. Consultez une [copie de cette déclaration signée par le directeur de la stratégie et le conseiller juridique général de GitHub (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
+
+{"resolvedServerColorMode":"day"}

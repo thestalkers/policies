@@ -326,3 +326,5 @@ Auf Anfrage stellt der Entwickler seine Datenschutzerklärung, Datenschutzrichtl
 **A1-8. Haftung für die Datenverarbeitung**
 
 * a. Direkte Haftung. Der Entwickler haftet gegenüber GitHub für tatsächliche Schäden, die durch einen Verstoß gegen diesen Nachtrag verursacht wurden, vorbehaltlich der Bedingungen in Abschnitt 8, Haftungsbeschränkung der Marketplace-Entwicklervereinbarung.
+
+{"resolvedServerColorMode":"day"}

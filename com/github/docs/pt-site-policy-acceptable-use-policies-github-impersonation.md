@@ -24,3 +24,5 @@ Você não pode deturpar sua identidade ou sua associação com outra pessoa ou 
 A falsificação de identidade é uma forma de assédio e a violação desta política pode levar à perda de acesso à sua conta.
 
 Observe que ter um nome de usuário semelhante a outro não é necessariamente falsificação de identidade. O GitHub levará o contexto em consideração. Por exemplo, como nos casos que envolvem requerimentos judiciais ou extrajudiciais de [informações incorretas ou desinformação](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), geralmente permitimos paródias e sátiras que estejam de acordo com as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+
+{"resolvedServerColorMode":"day"}

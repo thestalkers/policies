@@ -30,3 +30,5 @@ Podemos considerar outras informações, como fotos ou vídeos que foram feitos 
 O GitHub levará em consideração o contexto, bem como se o conteúdo relatado está disponível publicamente em outro lugar. Observe, no entanto, que, embora o compartilhamento de conteúdo disponível publicamente possa não ser uma violação desta política, se as informações forem compartilhadas com a intenção de assediar ou incitar outro comportamento abusivo, ele poderá violar nossa proibição de [bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 Para obter mais informações ou saber como denunciar uma violação, consulte a [Política de Remoção de Informações Privadas](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) e nossas instruções para [Denunciar Abuso](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+
+{"resolvedServerColorMode":"day"}

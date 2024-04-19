@@ -417,3 +417,5 @@ GitHub освобождается от ответственности в той 
 ### [10. Вопросы](#10-questions) ###
 
 Есть вопросы об Условиях обслуживания? [Связаться с нами](https://github.com/contact/).
+
+{"resolvedServerColorMode":"day"}

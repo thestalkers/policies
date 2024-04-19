@@ -92,3 +92,5 @@ If any part of this Agreement is held invalid or unenforceable, that portion of 
 ### [4. Amendments; Complete Agreement](#4-amendments-complete-agreement) ###
 
 This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub. This Agreement, together with the Generally Applicable Terms and the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+
+{"resolvedServerColorMode":"day"}

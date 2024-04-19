@@ -25,3 +25,5 @@
 * [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [GitHub 계정 복구 정책](/ko/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

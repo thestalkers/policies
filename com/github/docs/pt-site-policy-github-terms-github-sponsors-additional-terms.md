@@ -252,3 +252,5 @@ As partes são prestadoras de serviços. Nenhuma parte será um empregador, func
 ### [7.5. Publicidade.](#75-publicity) ###
 
 Podemos emitir um comunicado à imprensa ou outra comunicação pública relacionada à sua participação no Programa.
+
+{"resolvedServerColorMode":"day"}

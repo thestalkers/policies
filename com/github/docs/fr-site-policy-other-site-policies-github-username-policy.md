@@ -38,3 +38,5 @@ Si vous pensez que le compte d'une personne viole vos droits en matière de marq
 ----------
 
 GitHub interdit le squattage de noms de compte, et les noms de compte ne peuvent pas être réservés ou détenus de manière inactive pour une utilisation future. Les comptes qui enfreignent cette politique de squattage de nom peuvent être supprimés ou renommés sans préavis. Les tentatives de vente, d'achat ou de sollicitation d'autres formes de paiement en échange de noms de compte sont interdites et peuvent entraîner la suspension permanente du compte.
+
+{"resolvedServerColorMode":"day"}

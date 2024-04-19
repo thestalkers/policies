@@ -97,3 +97,5 @@ If you are hired for a position at GitHub, we will retain the information provid
 ----------
 
 We may occasionally update this GitHub Candidate Privacy Policy. When we do make changes to this page, we will update the "last updated" date.
+
+{"resolvedServerColorMode":"day"}

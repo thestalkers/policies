@@ -19,3 +19,5 @@ GitHub の会社ポリシー
 * [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+{"resolvedServerColorMode":"day"}

@@ -192,3 +192,5 @@ GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、�
 ----------
 
 您可以下载适用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server Images”）。 当您对该软件的使用权利终止时，您必须卸载 SQL Server Images。 Microsoft Corporation 可随时禁用 SQL Server Images。
+
+{"resolvedServerColorMode":"day"}

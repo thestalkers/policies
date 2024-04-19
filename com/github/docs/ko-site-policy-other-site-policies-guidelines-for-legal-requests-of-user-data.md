@@ -274,3 +274,5 @@ GitHub는 상호 사법 공조 조약("MLAT") 또는 협조 공문을 거쳐 미
 ----------
 
 다른 질문, 의견 또는 제안이 있으십니까? [GitHub 지원 포털](https://support.github.com) 사용에 문의하세요.
+
+{"resolvedServerColorMode":"day"}

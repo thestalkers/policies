@@ -413,3 +413,5 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 ### [6. Questions](#6-questions) ###
 
 Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

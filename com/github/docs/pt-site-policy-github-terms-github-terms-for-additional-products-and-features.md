@@ -192,3 +192,5 @@ Os patrocinadores do GitHub permitem que a comunidade de desenvolvedores apoie f
 ----------
 
 Você pode baixar a imagem de contêiner do Microsoft SQL Server Standard Edition para arquivos Linux ("Imagens do SQL Server"). É necessário desinstalar as Imagens do SQL Server quando terminar seu direito de usar o Software. A Microsoft Corporation pode desativar as Imagens do SQL Server a qualquer momento.
+
+{"resolvedServerColorMode":"day"}

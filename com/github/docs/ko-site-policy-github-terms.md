@@ -41,3 +41,5 @@ GitHub 약관
 * [GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
 
 * [GitHub 교육 사용 규약](/ko/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

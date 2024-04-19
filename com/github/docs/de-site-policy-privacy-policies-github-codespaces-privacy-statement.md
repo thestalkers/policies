@@ -25,3 +25,5 @@ Aktivitäten auf github.dev unterliegen den [GitHub-Bedingungen für Beta-Vorsch
 GitHub Codespaces und github.dev ermöglichen die Verwendung von Visual Studio Code im Webbrowser. Bei Verwendung von VS Code im Webbrowser werden standardmäßig gewisse Telemetriedaten erhoben. Ausführliche Informationen hierzu finden Sie auf der [Website zu VS Code](https://code.visualstudio.com/docs/getstarted/telemetry). Benutzer können sich von Telemetrie abmelden, indem sie im Menü oben links zu „File \> Preferences \> Settings“ (Datei \> Einstellungen \> Einstellungen) navigieren.
 
 Wenn sich ein Benutzer dafür entscheidet, die Telemetrieerfassung in VS Code abzulehnen, während er sich wie beschrieben in einem Codespace befindet, wird die Einstellung zum Deaktivieren von Telemetrie für alle zukünftigen Websitzungen in GitHub Codespaces und github.dev hinweg synchronisiert.
+
+{"resolvedServerColorMode":"day"}

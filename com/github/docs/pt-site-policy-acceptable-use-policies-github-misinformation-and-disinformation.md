@@ -21,3 +21,5 @@ Você não pode postar conteúdo que apresente uma visão distorcida da realidad
 * Alegações infundadas que podem promover ódio ou assédio direcionado a grupos específicos de pessoas
 
 Incentivamos a participação ativa na expressão de ideias, perspectivas e experiências e podemos não estar em posição de contestar relatos ou observações pessoais. Geralmente permitimos paródias e sátiras que estejam de acordo com nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e consideramos que o contexto é importante na forma como a informação é recebida e compreendida. Ao analisar o conteúdo sob esta política, o GitHub considerará o impacto de vários fatores que podem ajudar a orientar o espectador, como se o conteúdo foi fornecido com isenções de responsabilidade claras, citações a fontes confiáveis ou inclui outros detalhes que esclarecem a precisão do informações que estão sendo compartilhadas.
+
+{"resolvedServerColorMode":"day"}

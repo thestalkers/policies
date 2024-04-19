@@ -67,3 +67,5 @@ En algunos casos, GitHub recibe informes de funcionarios gubernamentales sobre v
 ----------
 
 Además de publicar avisos gubernamentales de eliminación en nuestro repositorio `github/gov-takedowns`, informamos sobre ellos en nuestro informe de transparencia. También rastreamos e informamos en nuestro informe de transparencia sobre eliminaciones gubernamentales basadas en violaciones de los Términos de servicio de GitHub.
+
+{"resolvedServerColorMode":"day"}

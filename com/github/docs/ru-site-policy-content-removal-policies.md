@@ -23,3 +23,5 @@
 * [Руководство по подаче встречного уведомления DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 * [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+
+{"resolvedServerColorMode":"day"}

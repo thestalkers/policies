@@ -152,3 +152,5 @@ GitHub의 정책에 의거하여 GitHub 또는 타인의 저작권이나 그 외
 * [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?(공정 사용 원칙 및 디지털 밀레니엄 저작권법(DMCA): DMCA에 의거해 인터넷상에 공정 사용이 존재하나요?)](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
 GitHub는 상기에 열거한 글들의 논점을 반드시 지지하지는 않습니다. 당사는 귀하가 생각할 때 이행해야 할 모든 변경 사항을 요청하기 위해 자세한 정보를 알아보고 나만의 의견을 형성한 다음, 선출된 대의원에게 연락을 취할 것을 독려하는 링크를 제공합니다(예: [미국 연방의회](https://www.govtrack.us/congress/members) 또는 [EU 의회](https://www.europarl.europa.eu/meps/en/home)).
+
+{"resolvedServerColorMode":"day"}

@@ -41,3 +41,5 @@ Termos do GitHub
 * [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
 
 * [Contrato de Uso Educacional do GitHub](/pt/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

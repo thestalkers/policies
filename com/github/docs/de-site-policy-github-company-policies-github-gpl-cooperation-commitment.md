@@ -39,3 +39,5 @@ Definitionen
 „GitHub“ bezeichnet GitHub, Inc. und seine Tochtergesellschaften.
 
 Dieses Werk ist unter einer Creative Commons Attribution-ShareAlike 4.0 International-Lizenz verfügbar.
+
+{"resolvedServerColorMode":"day"}

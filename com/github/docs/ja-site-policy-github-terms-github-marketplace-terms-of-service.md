@@ -116,3 +116,5 @@ GitHub は、法的またはポリシー上の理由により、当社のサー�
 6. **GitHub へのライセンスのポリシー。** 本 Marketplace 条件は、この[クリエイティブ コモンズ ゼロ ライセンス](https://creativecommons.org/publicdomain/zero/1.0/)の下でライセンスされています。 詳細については、[サイト ポリシー リポジトリ](https://github.com/github/site-policy#license)を参照してください。
 
 7. **お問い合わせください。** 「Marketplace 条件」についてご質問はありますか? [GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。
+
+{"resolvedServerColorMode":"day"}

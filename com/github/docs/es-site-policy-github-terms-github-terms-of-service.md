@@ -413,3 +413,5 @@ Este Acuerdo solo se puede modificar mediante una enmienda por escrito firmada p
 ### [6. Preguntas](#6-questions) ###
 
 ¿Preguntas sobre los Términos de servicio? Contacte con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

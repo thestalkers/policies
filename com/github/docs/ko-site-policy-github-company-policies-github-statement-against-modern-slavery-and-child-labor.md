@@ -136,3 +136,5 @@ GitHub는 현대 노예제 및 미성년 노동 관련 법률을 준수하며 �
 GitHub는 GitHub 사업 및 공급망을 목표로 모든 직원이 의무적으로 이수해야 하는 현대 노예제 및 미성년 노동 교육을 개발 중입니다. GitHub는 이벤트 지원, 건설, 시설 서비스, 식품 서비스 등 육체 노동이 필요한 서비스를 제공하는 공급업체를 잠재적 위험이 큰 분야로 강조할 것입니다.
 
 **GitHub 이사회는 이 성명서를 승인했습니다. [GitHub 최고 전략 책임자와 법률 고문이 서명한 본 성명서 사본(PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf)을 참조하세요.**
+
+{"resolvedServerColorMode":"day"}

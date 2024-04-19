@@ -25,3 +25,5 @@
 * [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [GitHub アカウント回復ポリシー](/ja/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

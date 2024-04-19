@@ -41,3 +41,5 @@ GitHub-Bedingungen
 * [GitHub-Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
 
 * [GitHub-Vereinbarung zur Nutzung für Bildungszwecke](/de/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

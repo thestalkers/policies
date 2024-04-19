@@ -153,3 +153,5 @@ GitHub の[利用規約](/ja/site-policy/github-terms/github-terms-of-service)�
 ### [データの保持と削除](#data-retention-and-deletion-of-data) ###
 
 お客様が GitHub ユーザーである場合は、[ユーザー プロファイルを編集する](https://github.com/settings/profile)か、[GitHub Support ポータル](https://support.github.com/)を通じて GitHub Support に連絡することによって、基本的なユーザー プロファイル情報へのアクセス、更新、変更、または削除を行うことができます。 当社は、当社の法的義務の遵守、紛争の解決、および当社の契約の履行のために、必要に応じてお客様の情報を保持して使用しますが、法的要件がない限り、当社はお客様の要求から 90 日以内にお客様のプロファイル全体を妥当な範囲で削除します。 詳細については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)を参照してください。
+
+{"resolvedServerColorMode":"day"}

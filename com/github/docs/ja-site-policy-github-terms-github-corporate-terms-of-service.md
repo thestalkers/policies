@@ -417,3 +417,5 @@ GitHub は、天災、自然災害、ストライキ、ロックアウト、暴�
 ### [10.お問い合わせ](#10-questions) ###
 
 サービス使用条件についてご質問はありますか? [お問い合わせください](https://github.com/contact/)。
+
+{"resolvedServerColorMode":"day"}

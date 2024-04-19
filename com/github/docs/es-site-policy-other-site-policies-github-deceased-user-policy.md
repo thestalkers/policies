@@ -28,3 +28,5 @@ Si usted es un pariente cercano, un [sucesor previamente designado](/es/account-
 Una vez que hayamos recibido su solicitud, podemos realizar un seguimiento con una solicitud de información adicional, como una copia de su identificación con foto, una copia del certificado de defunción y documentación que confirme que está autorizado para actuar en relación con la cuenta del usuario fallecido, para verificar que estamos debidamente autorizados para procesar su solicitud.
 
 Tenga en cuenta que la información que proporciona en su solicitud se recopila de acuerdo con nuestra [Declaración de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement) y conservaremos la información solo según sea necesario para cumplir nuestras obligaciones legales y resolver litigios.
+
+{"resolvedServerColorMode":"day"}

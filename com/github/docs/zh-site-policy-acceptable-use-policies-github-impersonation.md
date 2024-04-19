@@ -24,3 +24,5 @@
 冒充是一种骚扰形式，违反此政策可能会导致无法访问您的帐户。
 
 请注意，用户名与其他人的用户名相似并不一定是冒充。 GitHub 将考虑背景信息。 例如，在涉及[错误信息或虚假信息](/zh/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)主张的情况下，我们通常允许符合我们[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的模仿和讽刺。
+
+{"resolvedServerColorMode":"day"}

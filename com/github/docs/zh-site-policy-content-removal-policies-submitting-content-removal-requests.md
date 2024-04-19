@@ -42,3 +42,5 @@
 [GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)可用于举报私人（机密并且会造成安全风险）的数据，但这些数据不一定受版权或商标保护。
 
 印度用户可[联系 GitHub 的申诉官](https://support.github.com/contact/india-grievance-officer)。
+
+{"resolvedServerColorMode":"day"}

@@ -152,3 +152,5 @@ No pretendemos tener todas las respuestas. Pero si tiene curiosidad, aquí hay a
 * [La doctrina del uso razonable y la Ley de derechos de autor del milenio digital: ¿Existe el uso legítimo en Internet según la DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Revisión de la Ley de Santa Clara)
 
 GitHub no respalda necesariamente ninguno de los puntos de vista de esos artículos. Proporcionamos los enlaces para alentarlo a obtener más información, formarse sus propias opiniones y, después, ponerse en contacto con sus representantes electos (por ejemplo, en el [Congreso de los EE. UU.](https://www.govtrack.us/congress/members) o en el [Parlamento de la UE](https://www.europarl.europa.eu/meps/en/home)), para solicitar que se introduzcan aquellos cambios que considere oportunos.
+
+{"resolvedServerColorMode":"day"}

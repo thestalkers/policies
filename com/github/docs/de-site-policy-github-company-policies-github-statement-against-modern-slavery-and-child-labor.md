@@ -136,3 +136,5 @@ Die Beschaffungsanweisungen von GitHub für Mitarbeiter, die Einkäufe im Untern
 GitHub entwickelt Schulungen zu moderner Sklaverei und Kinderarbeit, die für alle Mitarbeiter im Hinblick auf das Geschäft und die Lieferkette von GitHub obligatorisch sein werden. GitHub wird Lieferanten hervorheben, die Dienstleistungen erbringen, die manuelle Arbeit beinhalten, wie z.
 
 **Der Vorstand von GitHub hat dieser Erklärung zugestimmt. [Hier](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf) können Sie sich eine Kopie dieser Erklärung (PDF) ansehen, die vom Chief Strategy Officer und General Counsel von GitHub unterzeichnet wurde.**
+
+{"resolvedServerColorMode":"day"}

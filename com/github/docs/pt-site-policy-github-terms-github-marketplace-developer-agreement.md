@@ -324,3 +324,5 @@ Mediante solicitação, o Desenvolvedor disponibilizará sua Declaração de Pri
 **A1-8. Responsabilidade pelo Processamento de Dados**
 
 * a. Responsabilidade Direta. O desenvolvedor será responsável perante o GitHub por danos reais causados por qualquer violação deste Adendo sujeito aos termos da Seção 8, Limitação de responsabilidade do Contrato de desenvolvedor do Marketplace.
+
+{"resolvedServerColorMode":"day"}

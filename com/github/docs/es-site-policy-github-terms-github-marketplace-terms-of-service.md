@@ -116,3 +116,5 @@ Usted acepta indemnizarnos, defendernos y eximirnos de toda responsabilidad fren
 6. **Directivas de Concesión de Licencias a GitHub.** Los Términos de Marketplace se otorgan bajo esta [Licencia Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Para obtener más información, consulte nuestro [repositorio de directivas del sitio](https://github.com/github/site-policy#license).
 
 7. **Contáctenos.** ¿Preguntas sobre los Términos del Mercado? Contacte con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

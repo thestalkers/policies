@@ -98,3 +98,5 @@ GitHub の倫理規定は、贈答品、旅行、および接待を含む特定�
 ----------
 
 規則、履行、および罰則に関する詳細および文脈については、米国司法省の [米国海外腐敗行為防止法のリソース ガイド](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) を参照してください。
+
+{"resolvedServerColorMode":"day"}

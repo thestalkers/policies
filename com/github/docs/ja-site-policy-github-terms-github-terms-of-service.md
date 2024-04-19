@@ -413,3 +413,5 @@ GitHub は、お客様の同意の有無にかかわらず、いつでも、セ�
 ### [6.お問い合わせ](#6-questions) ###
 
 サービス使用条件についてご質問はありますか? [GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。
+
+{"resolvedServerColorMode":"day"}

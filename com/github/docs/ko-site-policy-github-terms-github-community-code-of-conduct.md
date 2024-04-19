@@ -153,3 +153,5 @@ GitHub 커뮤니티를 사람들이 자신과 시간을 존중하여 안심하�
 ### [데이터의 보존 및 삭제](#data-retention-and-deletion-of-data) ###
 
 귀하가 이미 GitHub 사용자라면 [사용자 프로필을 편집](https://github.com/settings/profile)하거나 [GitHub 지원](https://support.github.com/)에 문의하여 귀하의 기본 사용자 프로필 정보에 액세스하고 동 정보를 업데이트, 변경 또는 삭제할 수 있습니다. GitHub는 당사의 법적 의무를 준수하고 분쟁을 해결하며 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유하고 사용할 것이며, 다만 법적 요구 사항을 제외하면 귀하의 요청 후 90일 이내에 귀하의 전체 프로필을 (합당한 범위 내에서) 삭제할 것입니다. 자세한 내용은 “[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)”을 참조하세요.
+
+{"resolvedServerColorMode":"day"}

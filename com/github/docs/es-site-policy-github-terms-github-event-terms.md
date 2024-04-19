@@ -95,3 +95,5 @@ Los puntos de vista expresados por cualquier asistente de eventos, orador, expos
 GitHub se reserva el derecho de actualizar estos Términos del Evento a su entera discreción y sin previo aviso. Estos Términos del Evento se aplican a todos los participantes del evento (asistentes, oradores, patrocinadores, expositores, personal y equipo). Se recomienda revisar estos Términos del Evento periódicamente.
 
 Estos Términos del Evento se actualizaron por última vez el 7 de febrero de 2024.
+
+{"resolvedServerColorMode":"day"}

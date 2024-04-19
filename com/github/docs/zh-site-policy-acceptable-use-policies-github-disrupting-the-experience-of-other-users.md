@@ -27,3 +27,5 @@
 虽然我们鼓励维护人员根据个别情况调整自己的项目，但 GitHub 员工可能会对从事此类行为的帐户采取进一步的限制措施。
 
 请注意，上述行为也可能违反我们[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)中的其他限制。 例如，根据活动的性质和严重程度，它可能会上升到[欺凌和骚扰](/zh/site-policy/acceptable-use-policies/github-bullying-and-harassment)的程度。
+
+{"resolvedServerColorMode":"day"}

@@ -153,3 +153,5 @@ GitHub 可接受使用政策
 **强制。** GitHub 保留完全酌情权，可针对违反这些政策的行为[采取行动](/zh/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)，包括帐户暂停、帐户[终止](/zh/site-policy/github-terms/github-terms-of-service#3-github-may-terminate)或[删除内容](/zh/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content)。 另请参阅我们的[社区准则](/zh/site-policy/github-terms/github-community-guidelines)，了解当有人冒犯您时您可以采取的措施。
 
 **恢复和申诉。** 如果您的内容或帐户已被禁用或限制，而您希望恢复或提出申诉，请参阅我们的[申诉和恢复页面](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)，了解流程信息，并使用我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)提交申请。
+
+{"resolvedServerColorMode":"day"}

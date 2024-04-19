@@ -21,3 +21,5 @@ Nous voulons garder GitHub sûr pour tout le monde. Si vous avez découvert une 
 Comme plusieurs autres grandes sociétés de logiciels, GitHub offre une prime de bogue pour mieux interagir avec les chercheurs en sécurité. L'idée est simple : les hackers et les chercheurs en sécurité (comme vous) trouvent et signalent les vulnérabilités grâce à notre processus de divulgation coordonné. Ensuite, pour reconnaître l'effort important que ces chercheurs déploient souvent lors de la chasse aux bogues, nous les récompensons avec de l'argent sonnant et trébuchant.
 
 Référez-vous au site [GitHub Bug Bounty](https://bounty.github.com) pour en savoir plus sur les primes et passez en revue les conditions complètes de notre [Politique de sécurité du programme Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) et bonne chasse !
+
+{"resolvedServerColorMode":"day"}

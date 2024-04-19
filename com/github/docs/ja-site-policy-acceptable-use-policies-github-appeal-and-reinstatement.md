@@ -54,3 +54,5 @@ GitHub スタッフの審査担当者と同一人物が最初の判断を下し�
 ----------
 
 当社は、異議申し立ておよび復活を [透明性レポート](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements)で追跡します。
+
+{"resolvedServerColorMode":"day"}

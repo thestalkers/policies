@@ -31,3 +31,5 @@
 
 [GitHub 회사 정책](/ko/site-policy/github-company-policies)
 ----------
+
+{"resolvedServerColorMode":"day"}

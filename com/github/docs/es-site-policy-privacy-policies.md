@@ -23,3 +23,5 @@ Directivas de Privacidad
 * [Política de privacidad de candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 * [Términos del servicio de Octernships de GitHub](/es/site-policy/privacy-policies/github-octernships-terms-of-service)
+
+{"resolvedServerColorMode":"day"}

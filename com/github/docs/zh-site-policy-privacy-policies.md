@@ -23,3 +23,5 @@
 * [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 * [GitHub Octernships 服务条款](/zh/site-policy/privacy-policies/github-octernships-terms-of-service)
+
+{"resolvedServerColorMode":"day"}

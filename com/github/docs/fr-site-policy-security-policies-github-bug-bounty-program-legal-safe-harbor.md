@@ -52,3 +52,5 @@ Cela dit, en cas d’action légale intentée par un tiers, y compris par les fo
 ----------
 
 Dans la mesure où vos activités de recherche en lien avec la sécurité sont en contradiction avec certaines limitations imposées par les [règlements de nos sites concernés](/fr/site-policy), mais sont cohérentes avec les conditions de notre Bounty Program, nous dérogeons à ces limitations dans le seul et unique but d'autoriser vos recherches en lien avec la sécurité dans le cadre du présent Bounty Program. Encore une fois, en cas de doute, contactez-nous au préalable !
+
+{"resolvedServerColorMode":"day"}

@@ -88,3 +88,5 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 本コミュニティ ガイドラインは、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) の条件に基づいて、誰でも使用、再利用、改作、その他あらゆることが可能になるようにパブリック ドメインになっています。
 
 これらはあくまでもガイドラインであり、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)を変更するものや、完全なリストであることを意図したものではありません。 これらの条件に基づき、GitHub は、当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に違反するアクティビティのコンテンツを削除したり、アカウントを終了させる完全な裁量権を保持します。 本ガイドラインは、かかる裁量を行使する場合について説明しています。
+
+{"resolvedServerColorMode":"day"}

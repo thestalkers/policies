@@ -25,3 +25,5 @@
 * [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [GitHub 帐户恢复政策](/zh/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

@@ -52,3 +52,5 @@ Wenn ein Dritter, einschließlich der Strafverfolgungsbehörden, aufgrund Ihrer 
 ----------
 
 Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren [jeweiligen Standortrichtlinien](/de/site-policy) unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen. Wie oben gilt: Fragen Sie im Zweifelsfall nach!
+
+{"resolvedServerColorMode":"day"}

@@ -31,3 +31,5 @@
 
 [Политика компании GitHub](/ru/site-policy/github-company-policies)
 ----------
+
+{"resolvedServerColorMode":"day"}

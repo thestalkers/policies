@@ -417,3 +417,5 @@ Jede Partei ist in Bezug auf den Gegenstand dieser Vereinbarung ein unabhängige
 ### [10. Fragen](#10-questions) ###
 
 Fragen zu den Nutzungsbedingungen? [Kontaktieren Sie uns.](https://github.com/contact/)
+
+{"resolvedServerColorMode":"day"}

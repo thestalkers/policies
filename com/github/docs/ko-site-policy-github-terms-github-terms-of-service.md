@@ -413,3 +413,5 @@ GitHub는 귀하의 동의 여부에 관계없이 언제든지 섹션 D.4의 라
 ### [6. 질문](#6-questions) ###
 
 서비스 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.
+
+{"resolvedServerColorMode":"day"}

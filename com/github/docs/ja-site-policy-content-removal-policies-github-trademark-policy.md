@@ -81,3 +81,5 @@ GitHub の商標ポリシー
   * 住所
   * 電話番号
   * 電子メール (会社のドメインからのものが必要)
+
+{"resolvedServerColorMode":"day"}

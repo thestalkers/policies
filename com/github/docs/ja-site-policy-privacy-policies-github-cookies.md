@@ -18,3 +18,5 @@ GitHub は、Web サイトを提供および保護し、Web サイトの利用�
 <https://github.com/privacy/cookies> で、GitHub の最新の Cookie 一覧を確認し、Cookie 一覧の更新情報を受け取るために登録できます。
 
 新しいサブプロセッサーについてご質問やご不明な点がある場合は、[プライバシーに関する連絡フォーム](https://github.com/contact/privacy) までお問い合わせください。
+
+{"resolvedServerColorMode":"day"}

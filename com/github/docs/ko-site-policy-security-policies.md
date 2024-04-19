@@ -17,3 +17,5 @@
 * [GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 * [GitHub SIRT 설명 RFC 2350](/ko/site-policy/security-policies/github-sirt-description-rfc-2350)
+
+{"resolvedServerColorMode":"day"}

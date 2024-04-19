@@ -152,3 +152,5 @@ Wir maßen uns nicht an, alle Antworten zu haben. Aber wenn Sie neugierig sind, 
 * [Der Grundsatz der angemessenen Verwendung und der Digital Millennium Copyright Act: Gibt es im Internet eine angemessene Verwendung im Rahmen des DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
 GitHub unterstützt nicht unbedingt einen der Standpunkte in diesen Artikeln. Wir stellen die Links zur Verfügung, um Sie dazu zu ermutigen, sich zu informieren, sich eine eigene Meinung zu bilden und dann mit Ihren gewählten Vertretern in Kontakt zu treten (z. B. im [US Kongress](https://www.govtrack.us/congress/members) oder dem [EU- Parlament](https://www.europarl.europa.eu/meps/en/home)), um Änderungen anzustoßen, die Ihrer Meinung nach erforderlich sind.
+
+{"resolvedServerColorMode":"day"}

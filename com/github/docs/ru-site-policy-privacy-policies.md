@@ -23,3 +23,5 @@
 * [Политика конфиденциальности кандидата GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 * [Условия предоставления услуг GitHub Octernships](/ru/site-policy/privacy-policies/github-octernships-terms-of-service)
+
+{"resolvedServerColorMode":"day"}

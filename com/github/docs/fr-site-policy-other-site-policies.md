@@ -25,3 +25,5 @@ Autres politiques du site
 * [Lignes directrices pour les demandes légales de données utilisateur](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 * [Stratégie de récupération de compte GitHub](/fr/site-policy/other-site-policies/github-account-recovery-policy)
+
+{"resolvedServerColorMode":"day"}

@@ -81,3 +81,5 @@ Para investigar las infracciones de la política de marcas comerciales, proporci
   * Dirección
   * Teléfono
   * Correo electrónico (debe ser del dominio de la empresa)
+
+{"resolvedServerColorMode":"day"}

@@ -39,3 +39,5 @@ GitHub может изменить это обязательство, опубл
 «GitHub» означает GitHub, Inc. и ее дочерние компании.
 
 Эта работа доступна под лицензией Creative Commons Attribution-ShareAlike 4.0 International.
+
+{"resolvedServerColorMode":"day"}

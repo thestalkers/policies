@@ -92,3 +92,5 @@ Se qualquer parte deste Contrato for considerada inválida ou inexequível, essa
 ### [5. Aditamentos; Acordo Integral](#4-amendments-complete-agreement) ###
 
 Este Contrato só pode ser modificado por um aditamento escrito assinado por um representante autorizado do GitHub. Este Contrato, juntamente com os Termos Geralmente Aplicáveis e a Declaração de Privacidade do GitHub, representam a declaração completa e exclusiva do contrato entre você e nós. Este Contrato substitui qualquer proposta ou contrato anterior, oral ou escrito, e quaisquer outras comunicações entre você e o GitHub relacionadas ao assunto destes termos, incluindo quaisquer contratos de confidencialidade ou não divulgação.
+
+{"resolvedServerColorMode":"day"}

@@ -85,3 +85,5 @@ Mientras que la FCPA de EE. UU. se centra en las interacciones con los funcionar
 
 * Los **acuerdos de reventa con socios de canal** de GitHub incluyen cláusulas anticorrupción obligatorias. En el futuro, GitHub ahora requiere que nuestros socios de canal se comprometan a cumplir con esta declaración anticorrupción.
 * Además, a partir de ahora, en los **contratos de proveedores** de GitHub se exige un compromiso de cumplimiento del Código de conducta del proveedor de Microsoft o de esta Declaración anticorrupción.
+
+{"resolvedServerColorMode":"day"}

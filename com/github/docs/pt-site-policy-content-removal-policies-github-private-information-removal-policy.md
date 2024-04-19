@@ -111,3 +111,5 @@ Você pode enviar sua solicitação para remover informações privadas por meio
 ----------
 
 Se você recebeu uma solicitação de remoção de informação privada enviada por nós, poderá contestá-la respondendo ao nosso email e nos informando — com o máximo de detalhes possível — por que você acha que o conteúdo em questão não é uma informação privada sujeita a esta Política.
+
+{"resolvedServerColorMode":"day"}

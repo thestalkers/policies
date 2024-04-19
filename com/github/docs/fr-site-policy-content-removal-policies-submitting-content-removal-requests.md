@@ -42,3 +42,5 @@ La [Politique de GitHub relative aux marques commerciales](/fr/site-policy/conte
 La [Politique de retrait des informations privées de GitHub](/fr/site-policy/content-removal-policies/github-private-information-removal-policy) peut être utilisée pour signaler des données privées (confidentielles et présentant un risque de sécurité), mais qui ne sont pas nécessairement protégées par des droits d'auteur ou des marques commerciales.
 
 Les utilisateurs en Inde peuvent [contacter le responsable des griefs de GitHub](https://support.github.com/contact/india-grievance-officer).
+
+{"resolvedServerColorMode":"day"}

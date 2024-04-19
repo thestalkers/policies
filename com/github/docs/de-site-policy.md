@@ -31,3 +31,5 @@ Dokumentation zur Websiterichtlinie
 
 [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
 ----------
+
+{"resolvedServerColorMode":"day"}

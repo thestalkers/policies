@@ -30,3 +30,5 @@ Podemos considerar otra información, como fotos o videos que se tomaron o distr
 GitHub tendrá en cuenta el contexto y si el contenido informado está disponible públicamente en otro lugar. Tenga en cuenta, sin embargo, que aunque compartir contenido disponible públicamente puede no ser una vulneración de esta directiva, si la información se comparte con la intención de acosar o incitar a otro comportamiento abusivo, puede infringir nuestra prohibición de [acoso y agresión](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 Para obtener más información o para saber cómo denunciar una infracción, consulte nuestra [Directiva de eliminación de información privada](/es/site-policy/content-removal-policies/github-private-information-removal-policy) y nuestras instrucciones para [denunciar casos de abuso](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+
+{"resolvedServerColorMode":"day"}

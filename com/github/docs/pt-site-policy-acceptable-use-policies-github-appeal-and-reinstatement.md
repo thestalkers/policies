@@ -54,3 +54,5 @@ Se o revisor da equipe do GitHub for a mesma pessoa que fez a determinação ini
 ----------
 
 Acompanhamos os recursos e restabelecimentos em [relatórios de transparência](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

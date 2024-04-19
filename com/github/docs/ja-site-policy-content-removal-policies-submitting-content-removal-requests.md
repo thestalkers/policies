@@ -42,3 +42,5 @@ GitHub からコンテンツを削除するよう要求する場合は、報告�
 [GitHub 個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)は、個人的 (機密性が高く、セキュリティ リスクをもたらす) で、必ずしも著作権または商標によって保護されていないデータの報告に使用できます。
 
 インドのユーザーは、[GitHub の苦情処理担当者に問い合わせる](https://support.github.com/contact/india-grievance-officer)ことができます。
+
+{"resolvedServerColorMode":"day"}

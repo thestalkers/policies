@@ -85,3 +85,5 @@ Alors que le US FCPA se concentre sur les interactions avec les représentants d
 
 * Les accords de **revente standard de GitHub avec les Partenaires de Distribution** incluent des clauses anticorruption obligatoires. À l'avenir, GitHub exige désormais de nos partenaires de distribution qu'ils s'engagent à se conformer à cette déclaration anticorruption.
 * À l'avenir, les **contrats fournisseurs** de GitHub exigeront désormais un engagement à respecter le Code de Conduite des Fournisseurs de Microsoft ou la présente Déclaration anticorruption.
+
+{"resolvedServerColorMode":"day"}

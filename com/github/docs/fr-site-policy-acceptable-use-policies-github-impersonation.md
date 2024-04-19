@@ -24,3 +24,5 @@ Vous ne pouvez pas déformer votre identité ou votre association avec une autre
 L'usurpation d'identité est une forme de harcèlement et la violation de cette politique peut entraîner la perte de l'accès à votre compte.
 
 Veuillez noter qu'avoir un nom d'utilisateur similaire à un autre n'est pas nécessairement une usurpation d'identité. GitHub tiendra compte du contexte. Par exemple, comme dans les cas impliquant des réclamations de [désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), nous autorisons généralement la parodie et la satire qui sont conformes à nos [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+
+{"resolvedServerColorMode":"day"}

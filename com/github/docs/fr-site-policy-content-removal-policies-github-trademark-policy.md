@@ -81,3 +81,5 @@ Afin d'enquêter sur les cas de non-respect des règles relatives aux marques, v
   * Adresse
   * Téléphone
   * E-mail (doit provenir du domaine de l'entreprise)
+
+{"resolvedServerColorMode":"day"}

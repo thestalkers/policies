@@ -95,3 +95,5 @@ Les vues exprimées par tout participant à l’événement, intervenant, exposa
 GitHub se réserve le droit de mettre à jour ces conditions d’événement à sa seule discrétion et sans préavis. Ces conditions d’événement s’appliquent à tous les participants à l’événement (personnes présentes, intervenants, commanditaires, exposants, personnel et équipage). Vous êtes invité à consulter régulièrement ces conditions d’événement.
 
 Ces conditions d’événement ont été mises à jour pour la dernière fois le 7 février 2024.
+
+{"resolvedServerColorMode":"day"}

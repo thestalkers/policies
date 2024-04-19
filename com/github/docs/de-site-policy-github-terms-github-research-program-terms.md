@@ -92,3 +92,5 @@ Wenn ein Teil dieser Vereinbarung ungültig oder nicht durchsetzbar ist, wird di
 ### [5. Änderungen; Vollständige Vereinbarung](#4-amendments-complete-agreement) ###
 
 Diese Vereinbarung kann nur durch eine schriftliche Zusatzvereinbarung geändert werden, die von einem bevollmächtigten Vertreter von GitHub unterzeichnet wird. Diese Vereinbarung stellt zusammen mit den allgemein geltenden Bedingungen und der GitHub-Datenschutzerklärung die vollständige und ausschließliche Erklärung der Vereinbarung zwischen Ihnen und uns dar. Diese Vereinbarung ersetzt alle mündlichen oder schriftlichen Vorschläge oder vorherigen Vereinbarungen sowie alle anderen Mitteilungen zwischen Ihnen und GitHub in Bezug auf den Gegenstand dieser Bedingungen, einschließlich aller Vertraulichkeits- oder Geheimhaltungsvereinbarungen.
+
+{"resolvedServerColorMode":"day"}

@@ -41,3 +41,5 @@
 * [Правила поведения на мероприятиях GitHub](/ru/site-policy/github-terms/github-event-code-of-conduct)
 
 * [Соглашение об использовании GitHub в образовательных целях](/ru/site-policy/github-terms/github-educational-use-agreement)
+
+{"resolvedServerColorMode":"day"}

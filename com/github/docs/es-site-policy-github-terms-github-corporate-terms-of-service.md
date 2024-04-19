@@ -417,3 +417,5 @@ Cada Parte es un contratista independiente con respecto al objeto de este Acuerd
 ### [10. Preguntas](#10-questions) ###
 
 ¿Preguntas sobre los Términos de servicio? [Contáctenos](https://github.com/contact/).
+
+{"resolvedServerColorMode":"day"}

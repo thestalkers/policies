@@ -126,3 +126,5 @@ Este Acuerdo es un acuerdo legal entre usted ("usted") y GitHub, Inc. ("GitHub",
 21. **Acuerdo completo**
 
    Este Acuerdo, los TOS y los Términos del programa contienen el acuerdo completo de las partes con respecto a su objeto y reemplazan todas las comunicaciones, representaciones, entendimientos y acuerdos anteriores, ya sean escritos u orales. Los términos o condiciones de cualquiera de sus órdenes de compra, reconocimientos u otros documentos que nos envíe en relación con este Acuerdo serán nulos y sin efecto.
+
+{"resolvedServerColorMode":"day"}

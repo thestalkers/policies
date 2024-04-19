@@ -98,3 +98,5 @@ MULTAS y CÁRCEL. Tampoco necesariamente solo para GitHub. Es posible que usted 
 ----------
 
 Para obtener más información y contexto sobre reglas, aplicación y sanciones, la [Guía de recursos de la Ley de prácticas corruptas en el extranjero de EE. UU.](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) del Departamento de Justicia de EE. UU. es un recurso excelente.
+
+{"resolvedServerColorMode":"day"}

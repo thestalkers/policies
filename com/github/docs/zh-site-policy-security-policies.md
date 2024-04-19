@@ -17,3 +17,5 @@
 * [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 * [GitHub SIRT 说明 RFC 2350](/zh/site-policy/security-policies/github-sirt-description-rfc-2350)
+
+{"resolvedServerColorMode":"day"}

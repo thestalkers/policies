@@ -18,3 +18,5 @@ GitHub 使用 Cookie 提供和保护我们的网站，以及分析我们网站�
 您可以在 <https://github.com/privacy/cookies> 查看最新的 GitHub 上的 Cookie 列表并注册接收 Cookie 列表更新。
 
 如果对新的分处理者有疑问或顾虑，请通过 [隐私联系人表](https://github.com/contact/privacy) 与我们联系。
+
+{"resolvedServerColorMode":"day"}

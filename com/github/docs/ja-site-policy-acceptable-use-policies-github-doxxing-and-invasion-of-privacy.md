@@ -30,3 +30,5 @@ GitHub でのドキシングとプライバシーの侵害
 GitHub は、前後の状況だけでなく報告されたコンテンツが他の場所で公開されているかどうかも考慮します。 ただし、公表されたコンテンツの共有がこのポリシーの違反には当たらないものの、情報が他の虐待的行為を助長または扇動する意図で共有されている場合は、[いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)に対する当社の禁止事項に違反します。
 
 詳細、または違反の報告方法については、当社の [プライバシー情報の削除に関するポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)および[不正使用の報告](/ja/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)の手順を参照してください。
+
+{"resolvedServerColorMode":"day"}

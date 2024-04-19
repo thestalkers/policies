@@ -95,3 +95,5 @@ Die Ansichten, die von einem Ereignisteilnehmer, Sprecher, Aussteller oder Spons
 GitHub behält sich das Recht vor, diese Veranstaltungsbedingungen nach eigenem Ermessen und ohne vorherige Ankündigung zu aktualisieren. Diese Veranstaltungsbedingungen gelten für alle Veranstaltungsteilnehmer (Teilnehmer, Redner, Sponsoren, Aussteller, Mitarbeiter und Crew). Es wird Ihnen empfohlen, diese Veranstaltungsbedingungen regelmäßig zu überprüfen.
 
 Diese Veranstaltungsbedingungen wurden am 7. Februar 2024 zuletzt aktualisiert.
+
+{"resolvedServerColorMode":"day"}

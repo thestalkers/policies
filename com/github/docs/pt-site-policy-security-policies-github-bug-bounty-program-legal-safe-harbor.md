@@ -52,3 +52,5 @@ Dito isso, se ações legais forem movidas por um terceiro, incluindo autoridade
 ----------
 
 Na medida em que suas atividades de pesquisa de segurança forem inconsistentes com determinadas restrições em nossas [políticas locais relevantes](/pt/site-policy), mas forem consistentes com nosso programa por recompensas por bugs, renunciaremos a essas restrições para a finalidade exclusiva e limitada de autorizar sua pesquisa de segurança de acordo com este programa de recompensas por bugs. Conforme mencionado acima, em caso de dúvida, pergunte primeiro.
+
+{"resolvedServerColorMode":"day"}

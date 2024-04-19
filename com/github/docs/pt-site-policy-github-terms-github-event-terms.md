@@ -95,3 +95,5 @@ As opiniões expressas por qualquer participante do evento, palestrante, exposit
 O GitHub reserva-se o direito de atualizar estes Termos do Evento a seu exclusivo critério e sem aviso prévio. Estes Termos do Evento se aplicam a todos os participantes do evento (participantes, palestrantes, patrocinadores, expositores, funcionários e equipe). Você é aconselhado a revisar estes Termos do Evento periodicamente.
 
 Estes Termos do Evento foram atualizados pela última vez em 7 de fevereiro de 2024.
+
+{"resolvedServerColorMode":"day"}

@@ -33,3 +33,5 @@ Richtlinien zur akzeptablen Nutzung
 * [GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

@@ -274,3 +274,5 @@ O GitHub responderá prontamente às solicitações emitidas por meio de um trib
 ----------
 
 Você tem outras perguntas, comentários ou sugestões? Entre em contato pelo conosco por meio do [Portal de suporte do GitHub](https://support.github.com).
+
+{"resolvedServerColorMode":"day"}

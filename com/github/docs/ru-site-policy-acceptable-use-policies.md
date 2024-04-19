@@ -33,3 +33,5 @@
 * [Угрозы насилия и неоправданно жестокое содержимое на GitHub](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

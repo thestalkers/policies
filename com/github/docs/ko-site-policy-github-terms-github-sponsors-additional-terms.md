@@ -252,3 +252,5 @@ GitHub는 귀하가 본 추가 약관 또는 계약을 어떤 식으로든 위�
 ### [7.5. 공개.](#75-publicity) ###
 
 GitHub는 귀하의 프로그램 참가와 관련하여 보도 자료를 내거나 기타 홍보 활동을 할 수 있습니다.
+
+{"resolvedServerColorMode":"day"}

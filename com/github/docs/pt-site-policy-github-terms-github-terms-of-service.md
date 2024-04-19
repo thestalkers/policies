@@ -413,3 +413,5 @@ Este Contrato só pode ser modificado por um aditamento por escrito assinado por
 ### [6. Dúvidas](#6-questions) ###
 
 Dúvidas sobre os Termos de Serviço? Entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

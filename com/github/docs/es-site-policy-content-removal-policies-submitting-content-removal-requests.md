@@ -42,3 +42,5 @@ La [directiva de marcas comerciales de GitHub](/es/site-policy/content-removal-p
 La [directiva de eliminación de información privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy) se puede usar para denunciar datos que son privados (confidenciales y que presentan un riesgo de seguridad), pero que no están necesariamente protegidos por derechos de autor o marcas comerciales.
 
 Los usuarios de la India pueden [ponerse en contacto con el oficial de quejas de GitHub](https://support.github.com/contact/india-grievance-officer).
+
+{"resolvedServerColorMode":"day"}

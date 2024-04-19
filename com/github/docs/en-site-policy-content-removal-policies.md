@@ -23,3 +23,5 @@ Content Removal Policies
 * [Guide to Submitting a DMCA Counter Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 * [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+
+{"resolvedServerColorMode":"day"}

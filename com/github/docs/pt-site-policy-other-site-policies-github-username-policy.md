@@ -38,3 +38,5 @@ Se você acredita que a conta de alguém está violando seus direitos de marca r
 ----------
 
 O GitHub proíbe o squatting de nomes de contas e os nomes de contas não podem ser reservados ou mantidos inativos para uso futuro. As contas que violam esta política de usurpação de nomes podem ser removidas ou renomeadas sem aviso prévio. Tentativas de vender, comprar ou solicitar outras formas de pagamento em troca de nomes de contas são proibidas e podem resultar na suspensão permanente da conta.
+
+{"resolvedServerColorMode":"day"}

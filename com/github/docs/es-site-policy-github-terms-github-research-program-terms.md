@@ -92,3 +92,5 @@ Si alguna parte de este Acuerdo se considera inválida o inaplicable, esa parte 
 ### [4. Enmiendas; Acuerdo completo](#4-amendments-complete-agreement) ###
 
 Este Acuerdo solo podrá modificarse mediante una enmienda por escrito firmada por un representante autorizado de GitHub. Este Acuerdo, junto con los Términos de aplicación general y la Declaración de privacidad de GitHub, representan la declaración completa y exclusiva del acuerdo entre usted y nosotros. Este Acuerdo reemplaza cualquier propuesta o acuerdo anterior oral o escrito, y cualquier otra comunicación entre usted y GitHub relacionada con el tema de estos términos, incluidos los acuerdos de confidencialidad o no divulgación.
+
+{"resolvedServerColorMode":"day"}

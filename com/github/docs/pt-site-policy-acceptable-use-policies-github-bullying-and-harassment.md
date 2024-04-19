@@ -23,3 +23,5 @@ Não toleramos assédio, intimidação ou abuso de qualquer tipo, seja diretamen
 * Criação de contas alternativas especificamente para evitar ações de moderação tomadas pela equipe ou usuários do GitHub
 
 Observe que nem toda conduta indesejada é necessariamente considerada assédio. Por exemplo, discordar de outro usuário ou rejeitar seus comentários pode não atingir o nível de assédio em nossa plataforma. Além disso, compartilhar críticas a figuras públicas ou projetos, ou temas de interesse público, não necessariamente se enquadra nesta política. No entanto, recomendamos que você esteja atento ao modo como se envolve com outros usuários e a plataforma, pois essa atividade ainda pode violar nossa restrição de interromper a experiência de outros usuários.
+
+{"resolvedServerColorMode":"day"}

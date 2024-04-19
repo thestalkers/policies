@@ -66,3 +66,5 @@ Os funcionários do GitHub ficarão felizes em ajudar os Participantes do Evento
 ----------
 
 Partes deste Código de Conduta são baseadas no exemplo de política antiassédio do wiki Geek Feminism, criado pela Ada Initiative e por outros voluntários, sob uma licença da Creative Commons Zero.
+
+{"resolvedServerColorMode":"day"}

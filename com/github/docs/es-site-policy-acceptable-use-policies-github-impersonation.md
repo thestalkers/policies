@@ -24,3 +24,5 @@ No puede tergiversar su identidad o su asociación con otra persona u organizaci
 La suplantación de identidad es una forma de acoso y la violación de esta política puede dar lugar a la pérdida de acceso a su cuenta.
 
 Tenga en cuenta que tener un nombre de usuario similar a otro no es necesariamente una suplantación de identidad. GitHub tendrá en cuenta el contexto. Por ejemplo, como en los casos que implican reclamaciones de [información falsa o desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), generalmente permitimos la parodia y la sátira que esté en línea con nuestras [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+
+{"resolvedServerColorMode":"day"}

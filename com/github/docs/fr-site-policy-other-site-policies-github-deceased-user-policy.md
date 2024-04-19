@@ -28,3 +28,5 @@ Si vous êtes un parent proche, un [successeur prédésigné](/fr/account-and-pr
 Une fois que nous avons reçu votre demande, nous pouvons effectuer un suivi avec une demande d'informations supplémentaires, telles qu'une copie de votre pièce d'identité avec photo, une copie du certificat de décès et des documents confirmant que vous êtes autorisé à agir en relation avec le compte de l'utilisateur décédé, afin de vérifier que nous sommes dûment habilités à traiter votre demande.
 
 Veuillez noter que les informations que vous fournissez dans votre demande sont collectées conformément à notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement), et que nous ne conserverons ces informations que dans la mesure nécessaire pour nous conformer à nos obligations légales et résoudre les litiges.
+
+{"resolvedServerColorMode":"day"}

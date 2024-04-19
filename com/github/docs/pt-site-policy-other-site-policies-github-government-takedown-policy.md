@@ -67,3 +67,5 @@ Em alguns casos, o GitHub recebe relatórios de funcionários do governo sobre v
 ----------
 
 Além de postar notificações de remoção governamental no nosso repositório `github/gov-takedowns`, informamos sobre eles em nosso relatório de transparência. Também rastreamos e informamos em nosso relatório de transparência sobre remoções governamentais com base em violações dos Termos de Serviço do GitHub.
+
+{"resolvedServerColorMode":"day"}

@@ -116,3 +116,5 @@ GitHub는 통지 여부에 관계없이 Marketplace(또는 그 일부)를 일시
 6. **GitHub 정책에 대한 라이선스.** 본 Marketplace 약관은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
 
 7. **문의하기.** Marketplace 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.
+
+{"resolvedServerColorMode":"day"}

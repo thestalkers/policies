@@ -24,3 +24,5 @@ GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine 
 * Hundepfeifen; oder die Verwendung verschlüsselter oder anzüglicher Sprache und/oder Symbole, um Missbrauch oder Hass zu fördern
 
 Während GitHub alle Fälle von Missbrauch und Belästigung auf der Plattform ernst nimmt, setzen wir uns besonders dafür ein, auf Hass basierenden Missbrauch zu bekämpfen, wenn er überproportional Communitys betrifft, die in der Vergangenheit von solchem Missbrauch betroffen waren. Unser Ziel ist es, GitHub zu einem Ort zu machen, an dem sich alle Menschen willkommen und sicher fühlen.
+
+{"resolvedServerColorMode":"day"}

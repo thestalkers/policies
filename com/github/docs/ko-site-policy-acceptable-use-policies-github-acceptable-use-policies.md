@@ -153,3 +153,5 @@ GitHub 사용 제한 정책
 **규약.** GitHub은 계정 중지, 계정 [해지](/ko/site-policy/github-terms/github-terms-of-service#3-github-may-terminate) 또는 콘텐츠의 [제거](/ko/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content)를 포함해 이러한 정책의 위반에 대응하여 [조치를 이행](/ko/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)할 수 있는 전적인 재량권이 있습니다. 또한 불쾌감을 주는 대상이나 사람이 있을 경우에 취할 수 있는 제반 조치에 대해서는 [커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)을 참조하십시오.
 
 **복원 및 이의 제기.** 귀하의 콘텐츠 또는 계정이 사용 중지되거나 제한되었으며 복원을 요청하거나 이의를 제기하려면 당사의 [이의 제기 및 복원 페이지](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)를 참조하여 자세한 절차를 알아보고 [이의 제기 및 복원 요청서 양식](https://support.github.com/contact/reinstatement)을 사용하여 요청을 제기하십시오.
+
+{"resolvedServerColorMode":"day"}

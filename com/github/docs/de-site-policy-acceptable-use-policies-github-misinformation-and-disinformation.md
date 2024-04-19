@@ -21,3 +21,5 @@ Sie dürfen keine Inhalte veröffentlichen, die ein verzerrtes Bild der Realitä
 * Unbegründete Behauptungen, die Hass oder gezielte Belästigung bestimmter Personengruppen fördern könnten
 
 Wir fördern die aktive Teilnahme am Ausdruck von Ideen, Perspektiven und Erfahrungen und sind möglicherweise nicht in der Lage, persönliche Berichte oder Beobachtungen zu bestreiten. Wir erlauben grundsätzlich Parodien und Satire, die unseren [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) entsprechen, und wir halten den Kontext für wichtig, wenn es darum geht, wie Informationen aufgenommen und verstanden werden. Bei der Überprüfung von Inhalten gemäß dieser Richtlinie berücksichtigt GitHub die Auswirkungen verschiedener Faktoren, die bei der Orientierung des Betrachters hilfreich sein können, z Informationen geteilt werden.
+
+{"resolvedServerColorMode":"day"}

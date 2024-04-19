@@ -111,3 +111,5 @@ Puede enviar su solicitud para eliminar información privada a través de nuestr
 ----------
 
 Si ha recibido una solicitud de eliminación de información privada por nuestra parte, puede impugnarla respondiendo a nuestro correo electrónico y haciéndonos saber, con el máximo detalle posible, por qué cree que el contenido en cuestión no es información privada sujeta a esta Directiva.
+
+{"resolvedServerColorMode":"day"}

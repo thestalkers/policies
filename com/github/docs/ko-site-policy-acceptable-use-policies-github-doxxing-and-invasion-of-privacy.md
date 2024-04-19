@@ -30,3 +30,5 @@ GitHub 신상 털기 및 프라이버시 침해
 GitHub는 보고된 콘텐츠가 다른 곳에서 공개적으로 사용 가능한지 여부는 물론, 컨텍스트도 고려합니다. 그러나 공개적으로 사용 가능한 콘텐츠를 공유하는 것은 이 정책의 위반으로 간주될 수 없으며, 타인을 괴롭히거나 그 외 모욕 행위를 조장할 의도로 정보를 공유하는 경우 이는 [괴롭힘 및 희롱](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)에 대한 당사의 금지 규정을 위반할 수 있습니다.
 
 자세한 내용 또는 위반 사항을 보고하는 방법을 알아보려면 [개인 정보 제거 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy) 및 [학대 사례 신고](/ko/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) 지침을 참조하세요.
+
+{"resolvedServerColorMode":"day"}

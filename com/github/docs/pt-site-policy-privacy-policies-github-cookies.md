@@ -18,3 +18,5 @@ O GitHub usa cookies para fornecer e proteger nossos sites, bem como para analis
 Você pode ver a lista atual de cookies no GitHub e se inscrever para receber atualizações sobre ela em <https://github.com/privacy/cookies>.
 
 Se tiver dúvidas ou preocupações sobre um novo subprocessador, entre em contato conosco por meio de [Formulário de contato de privacidade](https://github.com/contact/privacy).
+
+{"resolvedServerColorMode":"day"}

@@ -38,3 +38,5 @@ Wenn Sie der Auffassung sind, dass das Konto einer anderen Person Ihre Markenrec
 ----------
 
 GitHub verbietet das Squatting von Kontonamen, und Kontonamen dürfen nicht für die zukünftige Verwendung reserviert oder inaktiv gehalten werden. Konten, die gegen diese Namesquatting-Richtlinie verstoßen, können ohne Vorankündigung entfernt oder umbenannt werden. Versuche, im Austausch für Kontonamen zu verkaufen, zu kaufen oder andere Zahlungsformen zu erbitten, sind verboten und können zu einer dauerhaften Sperrung des Kontos führen.
+
+{"resolvedServerColorMode":"day"}

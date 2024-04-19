@@ -324,3 +324,5 @@ GitHub 可以：阻止该上架产品在 Marketplace 上展示；从 Marketplace
 **A1-8.数据处理责任**
 
 * a. 直接赔偿责任。 开发人员应根据 Marketplace 开发人员协议第 8 节“责任限制”中的条款，赔偿因其任何违反本附录的行为对 GitHub 造成的实际损害。
+
+{"resolvedServerColorMode":"day"}

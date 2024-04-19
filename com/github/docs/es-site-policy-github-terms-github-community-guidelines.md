@@ -88,3 +88,5 @@ Si su contenido o su cuenta se han deshabilitado o restringido y desea restablec
 Dedicamos estas Pautas de la Comunidad de GitHub al dominio público para que cualquiera las pueda usar, reutilizar, adaptar o realizar cualquier otra acción con ellas, en virtud de la licencia [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Estas son solo unas pautas, que no modifican los [Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) ni pretenden ser una lista exhaustiva. En virtud de esos términos, GitHub conserva la plena discreción para eliminar cualquier contenido o resolver cualquier cuenta si incurren en cualquier actividad que infrinja las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies). Estas pautas describen cuándo ejerceremos esa discreción.
+
+{"resolvedServerColorMode":"day"}

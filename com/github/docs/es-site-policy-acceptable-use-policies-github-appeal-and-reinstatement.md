@@ -54,3 +54,5 @@ Si el revisor del personal de GitHub es la misma persona que tomó la determinac
 ----------
 
 Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuestros [informes de transparencia](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

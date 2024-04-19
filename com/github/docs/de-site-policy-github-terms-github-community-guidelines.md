@@ -88,3 +88,5 @@ Wenn Ihre Inhalte oder Ihr Konto deaktiviert oder eingeschränkt wurden und Sie 
 Wir stellen diese Community-Richtlinien der Allgemeinheit zur Verfügung, damit jeder sie unter den Bedingungen von [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) verwenden, wiederverwenden, anpassen kann usw.
 
 Dies sind lediglich Richtlinien; sie stellen keine Änderung unserer [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) dar und sind nicht als vollständige Liste zu verstehen. Im Rahmen dieser Bedingungen behält sich GitHub vor, bei Aktivitäten, die gegen unsere [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) verstoßen, nach eigenem Ermessen Inhalte zu entfernen oder Konten zu kündigen. Diese Richtlinien beschreiben, wann wir von diesem Ermessen Gebrauch machen.
+
+{"resolvedServerColorMode":"day"}

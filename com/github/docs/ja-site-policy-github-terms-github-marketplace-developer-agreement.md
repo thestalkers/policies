@@ -324,3 +324,5 @@ GitHub は、Marketplace の運営および改善のため、Marketplace およ�
 **A1-8. データ処理の責任**
 
 * a. 直接責任。 開発者は、Marketplace 開発者契約の第 8 条「責任の制限」の条項に従い、本追加契約の違反により生じた実際の損害について GitHub に責任を負うものとします。
+
+{"resolvedServerColorMode":"day"}

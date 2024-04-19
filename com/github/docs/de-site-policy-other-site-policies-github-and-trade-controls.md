@@ -123,3 +123,5 @@ Gemäß der Lizenz, die wir von OFAC erhalten haben, stellen wir alle Cloud-Dien
 
 Sowohl kostenlose als auch kostenpflichtige GitHub-Cloud-Dienste stehen Entwicklern in Kuba allgemein zur Verfügung.
 Specially Designated Nationals (SDNs), andere nach US-amerikanischem und anderem geltendem Recht abgelehnte oder blockierte Parteien und bestimmte Regierungsbeamte können unabhängig von ihrem Standort vom Zugriff auf oder der Nutzung von GitHub ausgeschlossen werden. Darüber hinaus dürfen Benutzer GitHub.com nicht für oder im Namen solcher Parteien verwenden, im Allgemeinen einschließlich der Regierungen sanktionierter Länder.
+
+{"resolvedServerColorMode":"day"}

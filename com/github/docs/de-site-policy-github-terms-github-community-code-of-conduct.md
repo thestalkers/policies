@@ -153,3 +153,5 @@ Durch diesen Verhaltenskodex werden unsere [Nutzungsbedingungen](/de/site-policy
 ### [Aufbewahrung und Löschung von Daten](#data-retention-and-deletion-of-data) ###
 
 Wenn Sie GitHub-Benutzer sind, können Sie auf Ihre grundlegenden Benutzerprofilinformationen zugreifen, sie aktualisieren, ändern oder löschen, indem Sie Ihr [Benutzerprofil bearbeiten](https://github.com/settings/profile) oder den GitHub-Support über das [GitHub-Support-Portal](https://support.github.com/) kontaktieren. Wir speichern und verwenden Ihre Informationen nach Bedarf, um unseren gesetzlichen Verpflichtungen nachzukommen, Streitigkeiten beizulegen und unsere Vereinbarungen durchzusetzen, aber sofern keine gesetzlichen Anforderungen bestehen, werden wir Ihr vollständiges Profil (innerhalb des angemessenen Rahmens) innerhalb von 90 Tagen nach Ihrer Anfrage löschen. Weitere Informationen finden Sie in der [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
+
+{"resolvedServerColorMode":"day"}

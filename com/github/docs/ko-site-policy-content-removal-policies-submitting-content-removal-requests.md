@@ -42,3 +42,5 @@ GitHub는 귀하의 특정 상황에 적합한 정책을 결정하는 데 도움
 [GitHub 비공개 정보 제거 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)은 비공개(기밀이며 보안 위험이 있음)이지만 저작권이나 상표로 반드시 보호되지는 않는 데이터를 신고하는 데 사용할 수 있습니다.
 
 인도의 사용자는 [GitHub 불만 책임자](https://support.github.com/contact/india-grievance-officer)에게 문의할 수 있습니다.
+
+{"resolvedServerColorMode":"day"}

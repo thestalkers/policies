@@ -292,3 +292,5 @@ GitHub will promptly respond to requests that are issued via U.S. court by way o
 ----------
 
 Do you have other questions, comments or suggestions? Please contact us through the [GitHub Support portal](https://support.github.com).
+
+{"resolvedServerColorMode":"day"}

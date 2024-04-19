@@ -31,3 +31,5 @@
 
 [GitHub 公司政策](/zh/site-policy/github-company-policies)
 ----------
+
+{"resolvedServerColorMode":"day"}

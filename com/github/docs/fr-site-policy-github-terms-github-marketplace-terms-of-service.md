@@ -116,3 +116,5 @@ Vous acceptez de nous indemniser, de nous défendre et de nous dégager de toute
 6. **Stratégies en matière de licences accordées à GitHub.** Les présentes Conditions de Marketplace sont régies par la présente [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
 7. **Contactez-nous.** Des questions sur les conditions de la place de marché ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

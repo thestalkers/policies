@@ -42,3 +42,5 @@ The [GitHub Trademark Policy](/en/site-policy/content-removal-policies/github-tr
 The [GitHub Private Information Removal Policy](/en/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
 
 Users in India can [contact GitHub's Grievance Officer](https://support.github.com/contact/india-grievance-officer).
+
+{"resolvedServerColorMode":"day"}

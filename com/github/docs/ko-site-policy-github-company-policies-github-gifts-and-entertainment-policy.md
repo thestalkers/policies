@@ -98,3 +98,5 @@ GitHub의 윤리 강령에서 금지하는 행위들은 다음과 같습니다.
 ----------
 
 미국 법무부의 [미국 해외부패방지법에 관한 리소스 가이드](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)는 규칙, 시행 및 처벌에 관한 자세한 내용과 배경을 소개하는 훌륭한 참고 자료입니다.
+
+{"resolvedServerColorMode":"day"}

@@ -413,3 +413,5 @@ Diese Vereinbarung darf nur durch eine schriftliche Änderung geändert werden, 
 ### [6. Fragen](#6-questions) ###
 
 Fragen zu den Nutzungsbedingungen? Kontaktieren Sie uns über das [GitHub-Support-Portal](https://support.github.com/).
+
+{"resolvedServerColorMode":"day"}

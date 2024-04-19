@@ -28,3 +28,5 @@ GitHub 已故用户政策
 在收到您的申请后，我们可能继续要求提供其他信息，例如您带照片的证件副本、死亡证明副本以及确认您有权对已故用户帐户采取行动的文件，以验证我们是否获得处理您的申请的适当授权。
 
 请注意，对您在申请中提供的信息的收集以我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)为依据，我们只保留履行我们的法律义务和解决争议所需要的信息。
+
+{"resolvedServerColorMode":"day"}

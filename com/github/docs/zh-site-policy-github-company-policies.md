@@ -19,3 +19,5 @@ GitHub 公司政策
 * [GitHub GPL 合作承诺](/zh/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 * [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+{"resolvedServerColorMode":"day"}

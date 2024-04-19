@@ -54,3 +54,5 @@ Wenn der Staff Reviewer von GitHub dieselbe Person ist, die die anfängliche Ent
 ----------
 
 Wir verfolgen Einsprüche und Wiederherstellungen in unseren [Transparenzberichten](https://github.blog/2022-01-27-2021-transparency-report/#Appeals_and_other_reinstatements).
+
+{"resolvedServerColorMode":"day"}

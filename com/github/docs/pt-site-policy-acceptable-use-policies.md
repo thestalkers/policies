@@ -33,3 +33,5 @@ Políticas de Uso Aceitável
 * [Ameaças do GitHub de violência e conteúdo violento gratuito](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [Apelação e restabelecimento do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

@@ -33,3 +33,5 @@ Règles de Bon Usage
 * [GitHub Menaces de violence et contenu gratuitement violent](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [Appel et rétablissement de GitHub](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+{"resolvedServerColorMode":"day"}

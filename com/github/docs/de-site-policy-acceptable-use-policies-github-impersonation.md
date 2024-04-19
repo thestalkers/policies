@@ -24,3 +24,5 @@ Sie dürfen Ihre Identität oder Ihre Verbindung zu einer anderen Person oder Or
 Identitätsdiebstahl ist eine Form der Belästigung und ein Verstoß gegen diese Richtlinie kann zum Verlust des Zugriffs auf Ihr Konto führen.
 
 Bitte beachten Sie, dass ein Benutzername, der einem anderen ähnlich ist, nicht unbedingt ein Identitätsdiebstahl ist. GitHub berücksichtigt den Kontext. In Fällen, in denen Ansprüche von [Falschinformation oder Desinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation) geltend gemacht werden, erlauben wir beispielsweise im Allgemeinen Parodie und Satire, die mit unseren [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) übereinstimmen.
+
+{"resolvedServerColorMode":"day"}

@@ -42,3 +42,5 @@ A [Política de marcas registradas do GitHub](/pt/site-policy/content-removal-po
 A [Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) pode ser usada para denunciar dados privados (confidenciais e que representam um risco de segurança), mas que não são necessariamente protegidos por direitos autorais ou marcas.
 
 Usuários na Índia podem [entrar em contato com o Oficial de Reclamações do GitHub](https://support.github.com/contact/india-grievance-officer).
+
+{"resolvedServerColorMode":"day"}

@@ -66,3 +66,5 @@ Los empleados de GitHub estarán encantados de ayudar a los participantes del ev
 ----------
 
 Algunas partes de este Código de Conducta se basan en el ejemplo de directiva contra el acoso de la wiki Geek Feminism, creada por Ada Initiative y otros voluntarios, bajo una licencia Creative Commons Zero.
+
+{"resolvedServerColorMode":"day"}

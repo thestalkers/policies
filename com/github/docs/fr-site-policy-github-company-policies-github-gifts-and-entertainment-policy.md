@@ -98,3 +98,5 @@ AMENDES et PRISON. Pas nécessairement uniquement pour GitHub non plus. Vous pou
 ----------
 
 Pour plus d'informations et de contexte sur les règles, la mise en œuvre des principes de protection des informations personnelles et les sanctions, le [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) constitue une excellente ressource.
+
+{"resolvedServerColorMode":"day"}

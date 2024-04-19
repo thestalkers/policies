@@ -23,3 +23,5 @@ No toleramos el acoso, la intimidación o el abuso de ningún tipo, ya sea direc
 * Crear cuentas alternativas específicamente para evadir la acción de moderación tomada por el personal o los usuarios de GitHub
 
 Tenga en cuenta que no todas las conductas no deseadas se consideran necesariamente acoso. Por ejemplo, no estar de acuerdo con otro usuario o rechazar sus comentarios puede no alcanzar el nivel de acoso en nuestra plataforma. Además, compartir críticas de figuras o proyectos públicos, o temas de interés público, no necesariamente se incluye en esta política. Sin embargo, lo alentamos a que tenga en cuenta cómo interactúa con otros usuarios y la plataforma, ya que esta actividad aún puede violar nuestra restricción sobre la interrupción de la experiencia de otros usuarios.
+
+{"resolvedServerColorMode":"day"}

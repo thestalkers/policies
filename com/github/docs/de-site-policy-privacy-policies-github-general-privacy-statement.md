@@ -357,3 +357,5 @@ Wenn Sie in Colorado, Connecticut oder Virginia leben, haben Sie einige zusätzl
 ### [Nevada](#nevada) ###
 
 Wir verkaufen Ihre erfassten Daten nicht, wie in Kapitel 603A der Nevada Revised Statutes definiert. Wenn Sie noch Fragen zu Ihren betroffenen Daten oder zu anderen Punkten in unserer Datenschutzerklärung haben, senden Sie bitte eine E-Mail an [privacy@github.com](mailto:privacy@github.com).
+
+{"resolvedServerColorMode":"day"}
