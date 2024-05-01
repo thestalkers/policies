@@ -34,7 +34,7 @@ GitHub の現代奴隷制と児童労働に反対する声明
 
 GitHub は、現代の奴隷制と児童労働が存在し続けていることを強く非難し、現代の奴隷制も児童労働も当社のサプライ チェーンや当社の事業で発生しないようにするという責任を真剣に受け止めています。 (本声明における「現代奴隷制」とは、奴隷制、強制または意思に反した労働、人身売買、隷属、および拘禁、年季奉公、拘束された労働者のことを指します。 「児童労働」とは、16 歳未満、また軽労働では 14 歳未満による労働を指します。ただし、児童の就学を妨げる期間や児童の健康や幸福を妨げる条件に限定されないことを前提とします)。
 
-[英国現代奴隷法](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)に従い、また、[ILO 強制労働条約 2014 年議定書](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029)、[労働における基本的原則及び権利に関する ILO 宣言](https://www.ilo.org/declaration/lang--en/index.html)、および[国連の持続可能な開発目標ターゲット 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms) に沿って、この 2018 年の現代奴隷制と児童労働に反対する声明 (以下「声明」といいます) は、GitHub がビジネスまたはサプライ チェーンで現代奴隷制と児童労働が発生するのを防ぐために講じた措置を説明しています。
+[英国現代奴隷法](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)に従い、また、[ILO 強制労働条約 2014 年議定書](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029)、[労働における基本的原則及び権利に関する ILO 宣言](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work)、および[国連の持続可能な開発目標ターゲット 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms) に沿って、この 2018 年の現代奴隷制と児童労働に反対する声明 (以下「声明」といいます) は、GitHub がビジネスまたはサプライ チェーンで現代奴隷制と児童労働が発生するのを防ぐために講じた措置を説明しています。
 
 [GitHub の構造、ビジネス、サプライ チェーン](#githubs-structure-business-and-supply-chains)
 ----------

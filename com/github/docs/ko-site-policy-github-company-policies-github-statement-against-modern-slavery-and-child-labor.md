@@ -34,7 +34,7 @@
 
 GitHub는 현대 노예제와 미성년 노동이 존재하고 지속되는 것을 개탄하며, GitHub의 공급망이나 사업 어디에서도 현대 노예제와 미성년 노동이 이루어지지 않도록 할 책임을 진지하게 받아들입니다. (이 성명서의 "현대 노예제"란 노예 상태, 강제 또는 부역 노동, 인신 매매, 노역 및 감금되거나 도제 계약되거나 채무를 갚기 위해 일해야 하는 근로자를 말합니다. "미성년 노동"이란 16세 미만인 자가 수행하는 노동(가벼운 노동의 경우 14세 미만)을 말합니다. 단, 아동의 학교 교육에 지장을 주는 기간으로 국한되지 않으며, 아동의 건강 또는 행복에 지장을 주는 조건으로 국한되지 않습니다.)
 
-[영국 현대판노예방지법](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)에 따라, 또한 [강제 노동 협약에 대한 2014년 ILO 의정서](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [작업장에서의 기본 원칙과 권리에 관한 ILO 선언](https://www.ilo.org/declaration/lang--en/index.html), [UN 지속 가능 발전 목표 내 목표 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms)에 맞춰 현대 노예제 및 미성년 노동에 반대하는 이 2018년 성명서("성명서")에서는 현대 노예제와 미성년 노동이 GitHub의 사업 또는 공급망에서 발생하는 것을 방지하기 위해 GitHub가 취한 조치를 설명합니다.
+[영국 현대판노예방지법](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)에 따라, 또한 [강제 노동 협약에 대한 2014년 ILO 의정서](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [작업장에서의 기본 원칙과 권리에 관한 ILO 선언](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work), [UN 지속 가능 발전 목표 내 목표 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms)에 맞춰 현대 노예제 및 미성년 노동에 반대하는 이 2018년 성명서("성명서")에서는 현대 노예제와 미성년 노동이 GitHub의 사업 또는 공급망에서 발생하는 것을 방지하기 위해 GitHub가 취한 조치를 설명합니다.
 
 [GitHub의 구조, 사업, 공급망](#githubs-structure-business-and-supply-chains)
 ----------

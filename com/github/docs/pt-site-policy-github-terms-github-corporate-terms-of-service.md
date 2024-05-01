@@ -33,7 +33,7 @@ Neste artigo
 * [N. Limitações de Responsabilidade](#n-limitations-of-liability)
 * [O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#o-defense-of-claims-release)
 * [P. Confidencialidade](#p-confidentiality)
-* [P. Serviços de Especialistas](#q-expert-services)
+* [P. Serviços de Especialistas](#q-professional-services)
 * [R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
 * [S. Suporte](#s-support)
 * [T. Disposições Gerais](#t-miscellaneous)
@@ -358,7 +358,7 @@ Se o Cliente tiver uma disputa com um ou mais Usuários, o Cliente isentará o G
 
 Nenhuma das Partes usará as Informações Confidenciais da outra Parte, exceto conforme permitido neste Contrato. Cada Parte concorda em manter em sigilo e proteger as Informações Confidenciais da outra Parte usando pelo menos o mesmo grau de cuidado que usa para suas próprias informações de natureza semelhante, mas em qualquer caso pelo menos um grau razoável de cuidado. Cada Parte concorda em tomar todas as precauções razoáveis para evitar qualquer divulgação não autorizada das Informações Confidenciais da outra Parte, incluindo, sem limitação, a divulgação de tais Informações Confidenciais apenas a seus Representantes que (i) tenham necessidade de conhecer tais informações, (ii) sejam partes a acordos apropriados suficientes para cumprir esta Seção P, e (iii) sejam informados das restrições de uso e divulgação estabelecidas nesta Seção P. Cada Parte é responsável por todos os atos e omissões de seus Representantes. As obrigações anteriores não restringirão nenhuma das Partes de divulgar Informações Confidenciais da outra Parte de acordo com a ordem ou exigência de um tribunal, agência administrativa ou outro órgão governamental, *desde que* a Parte obrigada a fazer tal divulgação dê uma notificação razoável à outra Parte para permitir que tal Parte conteste tal ordem ou exigência, a menos que tal notificação seja proibida por lei. As restrições estabelecidas nesta Seção P sobreviverão à rescisão ou expiração deste Contrato.
 
-[P. Serviços de Especialistas](#q-expert-services)
+[P. Serviços de Especialistas](#q-professional-services)
 ----------
 
 Mediante solicitação de Serviços de Especialistas do Cliente, o GitHub fornecerá uma SOW detalhando tais Serviços de Especialistas. O GitHub executará os Serviços de Especialistas descritos em cada SOW. O GitHub controlará a maneira e os meios pelos quais os Serviços de Especialistas são executados e reserva para si o direito de determinar o pessoal designado. O GitHub pode usar terceiros para realizar os Serviços de Especialistas, desde que o GitHub permaneça responsável por seus atos e omissões. O Cliente reconhece e concorda que o GitHub retém todos os direitos, títulos e interesses em qualquer coisa usada ou desenvolvida em conexão com a execução dos Serviços de Especialistas, incluindo software, ferramentas, especificações, ideias, conceitos, invenções, processos, técnicas e know-how. Na medida em que o GitHub entrega qualquer coisa ao Cliente durante a execução dos Serviços de Especialistas, o GitHub concede ao Cliente uma licença não exclusiva, intransferível, mundial, isenta de royalties e de prazo limitado para usar esses produtos durante a vigência deste Contrato, exclusivamente em conjunto com o uso do Serviço pelo Cliente.

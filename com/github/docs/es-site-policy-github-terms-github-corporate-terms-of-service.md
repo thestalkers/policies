@@ -33,7 +33,7 @@ En este artículo
 * [N. Limitación de Responsabilidad](#n-limitations-of-liability)
 * [O. Defensa frente a Reclamaciones; Exoneración](#o-defense-of-claims-release)
 * [P. Confidencialidad](#p-confidentiality)
-* [Q. Servicios Expert](#q-expert-services)
+* [Q. Servicios Expert](#q-professional-services)
 * [R. Cambios en el Servicio o los Términos](#r-changes-to-the-service-or-terms)
 * [S. Soporte Técnico.](#s-support)
 * [T. Disposiciones adicionales](#t-miscellaneous)
@@ -358,7 +358,7 @@ Si el Cliente tiene una disputa con uno o más Usuarios, el Cliente libera a Git
 
 Ninguna de las Partes utilizará la Información Confidencial de la otra Parte, excepto según lo permita este Acuerdo. Cada Parte acuerda mantener en confidencialidad y proteger la Información Confidencial de la otra Parte utilizando al menos el mismo grado de atención que utiliza para su propia información de naturaleza similar, pero en cualquier caso al menos con un grado de atención razonable. Cada Parte acuerda tomar todas las precauciones razonables para evitar cualquier divulgación no autorizada de la Información confidencial de la otra Parte, incluida, entre otras, la divulgación de dicha Información confidencial solo a sus Representantes que (i) tienen la necesidad de conocer dicha información, (ii) son partes a acuerdos apropiados suficientes para cumplir con esta Sección P, y (iii) están informados de las restricciones de uso y divulgación establecidas en esta Sección P. Cada Parte es responsable de todos los actos y omisiones de sus Representantes. Las obligaciones anteriores no impedirán que ninguna de las Partes revele Información Confidencial de la otra Parte de conformidad con una orden o un requerimiento de un tribunal, juzgado, organismo administrativo u otro organismo público, *siempre y cuando* la Parte a la que se le exija tal revelación se lo notifique en términos razonables la otra Parte para permitirla impugnar la orden o el requerimiento en cuestión, a menos que dicha notificación esté prohibida por ley. Las restricciones establecidas en esta Sección P sobrevivirán a la terminación o vencimiento de este Acuerdo.
 
-[Q. Servicios Expert](#q-expert-services)
+[Q. Servicios Expert](#q-professional-services)
 ----------
 
 Cuando el Cliente solicite Servicios Expert, GitHub proporcionará una SOW que detallará dichos Servicios Expert. GitHub realizará los Servicios Expert descritos en cada SOW. GitHub controlará la forma y los medios de realización de los Servicios Expert y se reserva el derecho de determinar el personal asignado. GitHub puede utilizar a terceros para realizar los Servicios Expert, siempre que GitHub siga siendo responsable de sus actos y omisiones. El Cliente reconoce y acepta que GitHub retiene todos los derechos, títulos e intereses sobre todo lo que se use o desarrolle en relación con la prestación de los Servicios Expert, incluido el software, las herramientas, las especificaciones, las ideas, los conceptos, las invenciones, los procesos, las técnicas y los conocimientos. En la medida en que GitHub entregue algo al Cliente mientras presta los Servicios Expert, GitHub otorga al Cliente una licencia no exclusiva, intransferible, mundial, libre de regalías y de duración limitada para usar esos entregables durante la vigencia de este Acuerdo, únicamente en junto con el uso del Servicio por parte del Cliente.

@@ -34,7 +34,7 @@ GitHub 反对现代奴役制和童工制的声明
 
 GitHub 强烈谴责现代奴役制和童工制的存在和持续，并严格履行自己的职责，确保在其供应链或业务经营的任何部分均不存在现代奴隶或童工。 （在本声明中，“现代奴役制”涵盖奴役、强迫或强制劳动、人口贩卖、劳役，以及囚禁、契约或抵债劳工。 “童工”是指 16 岁以下儿童从事工作，或 14 岁以下儿童从事轻型工作，但不保护孩子的上学时间，也不顾及孩子的健康或福祉。）
 
-依照[《英国现代奴隶法案》](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)，以及 [ILO 强迫劳动公约 2014 年议定书](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029)、[ILO 关于工作中基本原则和权利的宣言](https://www.ilo.org/declaration/lang--en/index.html) 以及 [联合国可持续发展目标 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms)，本 2018 年反对现代奴役制和童工制的声明（以下简称“声明”）阐述了 GitHub 采取了哪些措施避免在其业务经营或供应链中存在现代奴隶和童工。
+依照[《英国现代奴隶法案》](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted)，以及 [ILO 强迫劳动公约 2014 年议定书](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029)、[ILO 关于工作中基本原则和权利的宣言](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work) 以及 [联合国可持续发展目标 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms)，本 2018 年反对现代奴役制和童工制的声明（以下简称“声明”）阐述了 GitHub 采取了哪些措施避免在其业务经营或供应链中存在现代奴隶和童工。
 
 [GitHub 的结构、业务和供应链](#githubs-structure-business-and-supply-chains)
 ----------

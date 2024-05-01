@@ -33,7 +33,7 @@ Dans cet article
 * [N. Limitations de responsabilité](#n-limitations-of-liability)
 * [O. Défense contre les réclamations ; Décharge](#o-defense-of-claims-release)
 * [P. Confidentialité](#p-confidentiality)
-* [Q. Services d’Experts](#q-expert-services)
+* [Q. Services d’Experts](#q-professional-services)
 * [R. Modifications du service ou des conditions](#r-changes-to-the-service-or-terms)
 * [S. Assistance technique](#s-support)
 * [T. Dispositions diverses](#t-miscellaneous)
@@ -358,7 +358,7 @@ Si le Client a un litige avec un ou plusieurs Utilisateurs, le Client libère Gi
 
 Aucune des parties n'utilisera les informations confidentielles de l'autre partie, sauf dans la mesure permise par le présent accord. Chaque Partie s'engage à maintenir confidentielles et à protéger les Informations Confidentielles de l'autre Partie en utilisant au moins le même degré de soin qu'elle utilise pour ses propres informations de nature similaire, mais en tout état de cause au moins un degré de soin raisonnable. Chaque Partie s'engage à prendre toutes les précautions raisonnables pour empêcher toute divulgation non autorisée des Informations confidentielles de l'autre Partie, y compris, sans s'y limiter, la divulgation de ces Informations confidentielles uniquement à ses Représentants qui (i) ont besoin de connaître ces informations, (ii) sont des parties à des accords appropriés suffisants pour se conformer à la présente section P, et (iii) sont informés des restrictions d'utilisation et de divulgation énoncées dans la présente section P. Chaque partie est responsable de tous les actes et omissions de ses représentants. Les obligations précédentes n’empêcheront pas l’une ou l’autre des Parties de divulguer des Informations Confidentielles de l’autre Partie conformément à l’ordonnance ou à l’exigence d’un tribunal, d’une agence administrative ou d’un autre organisme gouvernemental, *à condition* que la Partie tenue de procéder à une telle divulgation donne un préavis raisonnable à l’autre Partie pour lui permettre de contester cette ordonnance ou cette exigence, sauf si ce préavis est interdit par la loi. Les restrictions énoncées dans la présente Section P resteront en vigueur au-delà de la résiliation ou de l’expiration du présent Accord.
 
-[Q. Services d’Experts](#q-expert-services)
+[Q. Services d’Experts](#q-professional-services)
 ----------
 
 À la demande du Client pour des Services d’Experts, GitHub fournira un SOW détaillant ces Services d’Experts. GitHub exécutera les services d’Experts décrits dans chaque SOW. GitHub contrôlera la manière et les moyens par lesquels les Services d’Experts sont exécutés et se réserve le droit de déterminer le personnel affecté. GitHub peut faire appel à des tiers pour exécuter les Services d’Experts, à condition que GitHub reste responsable de leurs actes et omissions. Le Client reconnaît et accepte que GitHub conserve tous les droits, titres et intérêts sur tout ce qui est utilisé ou développé dans le cadre de l'exécution des Services d’Experts, y compris les logiciels, outils, spécifications, idées, concepts, inventions, processus, techniques et savoir-faire. Dans la mesure où GitHub livre quoi que ce soit au Client lors de l'exécution des Services d’Experts, GitHub accorde au Client une licence non exclusive, non transférable, mondiale, libre de droits et à durée limitée pour utiliser ces livrables pendant la durée du présent Contrat, uniquement dans le cadre de l'utilisation du Service par le Client.
