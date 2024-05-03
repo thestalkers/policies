@@ -33,7 +33,7 @@ Neste artigo
 * [N. Limitações de Responsabilidade](#n-limitations-of-liability)
 * [O. Defesa em Requerimentos Judiciais ou Extrajudiciais; Quitação](#o-defense-of-claims-release)
 * [P. Confidencialidade](#p-confidentiality)
-* [P. Serviços de Especialistas](#q-professional-services)
+* [P. Serviços Profissionais](#q-professional-services)
 * [R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
 * [S. Suporte](#s-support)
 * [T. Disposições Gerais](#t-miscellaneous)
@@ -50,7 +50,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 * O Serviço;
 * Quaisquer Pré-visualizações Beta;
 * Qualquer Suporte relacionado; e
-* Serviços de Especialistas relacionados.
+* Quaisquer Serviços Profissionais relacionados.
 
 [R. Definições](#a-definitions)
 ----------
@@ -83,7 +83,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Comentários”** são quaisquer ideias, know-how, algoritmos, contribuições de código, sugestões, solicitações de aprimoramento, recomendações ou qualquer outro feedback sobre produtos ou serviços do GitHub.
 
-**“Taxas”** são as taxas que o Cliente deve pagar ao GitHub para (i) usar os Produtos durante a Vigência aplicável ou (ii) receber Serviços de Especialistas, pois tais taxas estão refletidas em um Formulário de Pedido ou SOW.
+**“Taxas”** são as taxas que o Cliente deve pagar ao GitHub para (i) usar os Produtos durante a Vigência aplicável ou (ii) receber Serviços Profissionais, pois tais taxas estão refletidas em um Formulário de Pedido ou SOW.
 
 **“Fork”** significa copiar o Conteúdo de um repositório para outro repositório.
 
@@ -99,7 +99,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Repositório Privado”** significa um repositório que permite a um Usuário controlar o acesso ao Conteúdo.
 
-**“Serviços de Especialistas”** referem-se a treinamento, consultoria ou serviços de implementação que o GitHub fornece ao Cliente de acordo com uma SOW assinada mutuamente. Os Serviços de Especialistas não incluem suporte.
+**“Serviços Profissionais”** referem-se a treinamento, consultoria ou serviços de implementação que o GitHub fornece ao Cliente de acordo com uma SOW assinada mutuamente. Os Serviços Profissionais não incluem Suporte.
 
 **“Repositório Público”** significa um repositório cujo Conteúdo é visível para Todos os Usuários.
 
@@ -109,7 +109,7 @@ Este Contrato se aplica às seguintes ofertas do GitHub, conforme definido abaix
 
 **“Serviço”** refere-se ao serviço hospedado do GitHub e qualquer Documentação aplicável.
 
-**“SOW”** é uma declaração de trabalho assinada mutuamente, detalhando os Serviços de Especialistas que o GitHub executará, quaisquer Taxas relacionadas e as obrigações relacionadas de cada parte.
+**“SOW”** é uma declaração de trabalho assinada mutuamente, detalhando os Serviços Profissionais que o GitHub executará, quaisquer Taxas relacionadas e as obrigações relacionadas de cada parte.
 
 **“Licença de Assinatura”** é a licença atribuída a cada Usuário para instalar, operar, acessar e usar o Serviço em nome do Cliente. O Cliente pode atribuir apenas uma Licença de Assinatura por Usuário em suas Organizações. Para maior clareza, uma vez que o Cliente atribui uma Licença de Assinatura a um Usuário, o Cliente está proibido de bifurcar a Licença de Assinatura para que um Usuário possa usar uma Licença de Assinatura em uma Organização enquanto outro Usuário usa a mesma Licença de Assinatura em outra Organização.
 
@@ -321,7 +321,7 @@ As comunicações feitas por e-mail ou sistema de mensagens do GitHub Support n�
 
 *Garantia Geral*. Cada Parte representa e garante à outra que tem o poder legal e autoridade para celebrar este Contrato, e que este Contrato e cada Formulário de Pedido e SOW são celebrados por um funcionário ou agente de tal Parte com toda a autoridade necessária para vincular tal Parte dos termos e condições deste Contrato.
 
-*Garantia de Serviços de Especialistas.* Salvo disposição em contrário em uma SOW, o GitHub garante que quaisquer Serviços de Especialistas executados sob este Contrato serão executados de maneira profissional e profissional por pessoal devidamente qualificado. A única obrigação do GitHub e o único recurso do Cliente para uma violação desta garantia será, a critério e às custas do GitHub: (i) reexecutar prontamente quaisquer Serviços de Especialistas que não atendam a esta garantia ou, (ii) se a violação não puder ser sanada, rescindir a SOW e reembolsar as Taxas pré-pagas não usadas.
+*Garantia dos Serviços Profissionais.* Salvo disposição em contrário em uma SOW, o GitHub garante que quaisquer Serviços Profissionais executados sob este Contrato serão executados de maneira profissional e profissional por pessoal devidamente qualificado. A única obrigação do GitHub e o único recurso do Cliente para uma violação desta garantia será, a critério e às custas do GitHub: (i) reexecutar prontamente quaisquer Serviços Profissionais que não atendam a esta garantia ou, (ii) se a violação não puder ser sanada, rescindir a SOW e reembolsar as Taxas pré-pagas não usadas.
 
 *Isenção de Responsabilidade do Serviço.* O GitHub fornece o serviço **“NO ESTADO EM QUE SE ENCONTRA”** e **“MEDIANTE DISPONIBILIDADE”** sem garantia de nenhuma natureza. Sem limitar isso, o GitHub se isenta expressamente de todas as garantias, sejam expressas, implícitas ou estatutárias, em relação ao Serviço, incluindo, sem limitação, qualquer garantia de comercialização, adequação a uma finalidade específica, título, segurança, precisão e não violação. O GitHub não garante que o Serviço atenderá aos requisitos do Cliente; que o Serviço será ininterrupto, oportuno, seguro ou livre de erros; que as informações fornecidas através do Serviço são precisas, confiáveis ou corretas; que quaisquer defeitos ou erros serão corrigidos; que o Serviço estará disponível em qualquer horário ou local específico; ou que o Serviço está livre de vírus ou outros componentes prejudiciais. O GitHub não será responsável por qualquer risco de perda resultante do download e/ou uso do Cliente de arquivos, informações, Conteúdo ou outro material obtido do Serviço.
 
@@ -358,10 +358,10 @@ Se o Cliente tiver uma disputa com um ou mais Usuários, o Cliente isentará o G
 
 Nenhuma das Partes usará as Informações Confidenciais da outra Parte, exceto conforme permitido neste Contrato. Cada Parte concorda em manter em sigilo e proteger as Informações Confidenciais da outra Parte usando pelo menos o mesmo grau de cuidado que usa para suas próprias informações de natureza semelhante, mas em qualquer caso pelo menos um grau razoável de cuidado. Cada Parte concorda em tomar todas as precauções razoáveis para evitar qualquer divulgação não autorizada das Informações Confidenciais da outra Parte, incluindo, sem limitação, a divulgação de tais Informações Confidenciais apenas a seus Representantes que (i) tenham necessidade de conhecer tais informações, (ii) sejam partes a acordos apropriados suficientes para cumprir esta Seção P, e (iii) sejam informados das restrições de uso e divulgação estabelecidas nesta Seção P. Cada Parte é responsável por todos os atos e omissões de seus Representantes. As obrigações anteriores não restringirão nenhuma das Partes de divulgar Informações Confidenciais da outra Parte de acordo com a ordem ou exigência de um tribunal, agência administrativa ou outro órgão governamental, *desde que* a Parte obrigada a fazer tal divulgação dê uma notificação razoável à outra Parte para permitir que tal Parte conteste tal ordem ou exigência, a menos que tal notificação seja proibida por lei. As restrições estabelecidas nesta Seção P sobreviverão à rescisão ou expiração deste Contrato.
 
-[P. Serviços de Especialistas](#q-professional-services)
+[P. Serviços Profissionais](#q-professional-services)
 ----------
 
-Mediante solicitação de Serviços de Especialistas do Cliente, o GitHub fornecerá uma SOW detalhando tais Serviços de Especialistas. O GitHub executará os Serviços de Especialistas descritos em cada SOW. O GitHub controlará a maneira e os meios pelos quais os Serviços de Especialistas são executados e reserva para si o direito de determinar o pessoal designado. O GitHub pode usar terceiros para realizar os Serviços de Especialistas, desde que o GitHub permaneça responsável por seus atos e omissões. O Cliente reconhece e concorda que o GitHub retém todos os direitos, títulos e interesses em qualquer coisa usada ou desenvolvida em conexão com a execução dos Serviços de Especialistas, incluindo software, ferramentas, especificações, ideias, conceitos, invenções, processos, técnicas e know-how. Na medida em que o GitHub entrega qualquer coisa ao Cliente durante a execução dos Serviços de Especialistas, o GitHub concede ao Cliente uma licença não exclusiva, intransferível, mundial, isenta de royalties e de prazo limitado para usar esses produtos durante a vigência deste Contrato, exclusivamente em conjunto com o uso do Serviço pelo Cliente.
+Mediante solicitação de Serviços Profissionais do Cliente, o GitHub fornecerá uma SOW detalhando tais Serviços Profissionais. O GitHub executará os Serviços Profissionais descritos em cada SOW. O GitHub controlará a maneira e os meios pelos quais os Serviços Profissionais são executados e reserva para si o direito de determinar o pessoal designado. O GitHub pode usar terceiros para realizar os Serviços Profissionais, desde que o GitHub permaneça responsável por seus atos e omissões. O Cliente reconhece e concorda que o GitHub retém todos os direitos, títulos e interesses em qualquer coisa usada ou desenvolvida em conexão com a execução dos Serviços Profissionais, incluindo software, ferramentas, especificações, ideias, conceitos, invenções, processos, técnicas e know-how. Na medida em que o GitHub entrega qualquer coisa ao Cliente durante a execução dos Serviços Profissionais, o GitHub concede ao Cliente uma licença não exclusiva, intransferível, mundial, isenta de royalties e de prazo limitado para usar esses produtos durante a vigência deste Contrato, exclusivamente em em conjunto com o uso do Serviço pelo Cliente.
 
 [R. Alterações no Serviço ou Termos](#r-changes-to-the-service-or-terms)
 ----------

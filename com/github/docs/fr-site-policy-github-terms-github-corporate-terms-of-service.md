@@ -33,7 +33,7 @@ Dans cet article
 * [N. Limitations de responsabilité](#n-limitations-of-liability)
 * [O. Défense contre les réclamations ; Décharge](#o-defense-of-claims-release)
 * [P. Confidentialité](#p-confidentiality)
-* [Q. Services d’Experts](#q-professional-services)
+* [Q. Services Professionnels](#q-professional-services)
 * [R. Modifications du service ou des conditions](#r-changes-to-the-service-or-terms)
 * [S. Assistance technique](#s-support)
 * [T. Dispositions diverses](#t-miscellaneous)
@@ -50,7 +50,7 @@ Le présent Accord s’applique aux offres suivantes de GitHub, telles que défi
 * le Service ;
 * Tous les aperçus bêta ;
 * Toute assistance connexe ;
-* Tous les services d’experts associés.
+* Tous les services professionnels connexes.
 
 [A. Définitions](#a-definitions)
 ----------
@@ -83,7 +83,7 @@ Le présent Accord s’applique aux offres suivantes de GitHub, telles que défi
 
 **« Commentaires »** désigne les idées, le savoir-faire, les algorithmes, les contributions au code, les suggestions, les demandes d’amélioration, les recommandations ou tout autre commentaire sur les produits ou services de GitHub.
 
-**« Frais »** désigne les frais que le Client est tenu de payer à GitHub pour (i) utiliser les Produits pendant la Durée applicable ou (ii) recevoir des Services d’experts, dans la mesure où ces frais sont indiqués sur un Bon de Commande ou un SOW.
+**« Frais »** désigne les frais que le Client est tenu de payer à GitHub pour (i) utiliser les Produits pendant la Durée applicable ou (ii) recevoir des Services Professionnels, tels que ces frais sont indiqués sur un Bon de Commande ou un Énoncé de Travaux.
 
 **« Dupliquer (fork) »** signifie copier le contenu d’un dépôt dans un autre dépôt.
 
@@ -99,7 +99,7 @@ Le présent Accord s’applique aux offres suivantes de GitHub, telles que défi
 
 **« Dépôt Privé »** désigne un dépôt qui permet à un Utilisateur de contrôler l’accès au Contenu.
 
-**« Services d’experts »** désigne les services de formation, de conseil ou d’implémentation que GitHub fournit au Client conformément à un SOW mutuellement exécuté. Les services d’experts n’incluent pas de support.
+**« Services Professionnels »** désigne les services de formation, de conseil ou d’implémentation que GitHub fournit au Client conformément à un Énoncé de Travaux mutuellement exécuté. Les services professionnels n'incluent pas le support.
 
 **« Référentiel Public »** désigne un dépôt dont le Contenu est visible par Tous les Utilisateurs.
 
@@ -109,7 +109,7 @@ Le présent Accord s’applique aux offres suivantes de GitHub, telles que défi
 
 **« Service »** désigne le service hébergé de GitHub et toute Documentation applicable.
 
-**« SOW »** désigne un énoncé des travaux mutuellement exécuté détaillant les Services d’Experts que GitHub exécutera, les Frais connexes et les obligations connexes de chaque partie.
+**« SOW »** désigne un énoncé des travaux mutuellement exécuté détaillant les Services Professionnels que GitHub exécutera, les Frais connexes et les obligations connexes de chaque partie.
 
 **« Licence d’Abonnement »** désigne la licence attribuée à chaque utilisateur pour installer, exploiter, accéder au Service et l’utiliser au nom du Client. Le Client ne peut attribuer qu'une seule Licence d'abonnement par Utilisateur dans l'ensemble de ses Organisations. Pour plus de clarté, une fois que le Client a attribué une Licence d'abonnement à un Utilisateur, il est interdit au Client de bifurquer la Licence d'abonnement afin qu'un Utilisateur puisse utiliser une Licence d'abonnement sur une Organisation tandis qu'un autre Utilisateur utilise la même Licence d'abonnement sur une autre Organisation.
 
@@ -321,7 +321,7 @@ Les communications effectuées par e-mail ou par le système de messagerie de Gi
 
 *Garantie générale*. Chaque partie déclare et garantit à l'autre qu'elle a le pouvoir légal et l'autorité de conclure le présent accord, et que le présent accord et chaque bon de commande et énoncé de travail sont conclus par un employé ou un agent de cette partie avec toute l'autorité nécessaire pour lier ce Partie aux termes et conditions du présent accord.
 
-*Garantie des Services d’Experts.* Sauf indication contraire dans un SOW, GitHub garantit que tous les Services d’Experts exécutés dans le cadre du présent Contrat seront exécutés de manière professionnelle et adéquate par du personnel dûment qualifié. La seule obligation de GitHub, et le seul recours du Client, pour une violation de cette garantie sera, au choix et aux frais de GitHub, soit : (i) de réexécuter rapidement tous les Services d’Experts qui ne satisfont pas à cette garantie ou (ii) si la violation ne peut être corrigée, de résilier le SOW et de rembourser les Frais pour les services prépayés non utilisés.
+*Garantie des Services Professionnels.* Sauf indication contraire dans un SOW, GitHub garantit que tous les services professionnels exécutés dans le cadre du présent accord seront exécutés de manière professionnelle et professionnelle par du personnel dûment qualifié. La seule obligation de GitHub, et le seul recours du Client, pour une violation de cette garantie sera, au choix et aux frais de GitHub, soit : (i) de réexécuter rapidement tous les Services Professionnels qui ne satisfont pas à cette garantie ou (ii) si la violation ne peut être corrigée, de résilier l’Énoncé de Travaux et de rembourser les Frais pour les services prépayés non utilisés.
 
 *Clause d'exclusion de responsabilité du service.* GitHub fournit le Service **« EN L’ÉTAT »** et **« TEL QUE DISPONIBLE »** sans garantie d’aucune sorte. Sans limiter cela, GitHub décline expressément toute garantie, expresse, implicite ou statutaire, concernant le Service, y compris, sans s'y limiter, toute garantie de qualité marchande, d'adéquation à un usage particulier, de titre, de sécurité, d'exactitude et d'absence de contrefaçon. GitHub ne garantit pas que le Service répondra aux exigences du Client ; que le Service sera ininterrompu, rapide, sécurisé ou sans erreur ; que les informations fournies via le Service sont exactes, fiables ou correctes ; que tout défaut ou erreur sera corrigé ; que le Service sera disponible à tout moment ou en tout lieu ; ou que le Service est exempt de virus ou d'autres composants nuisibles. GitHub ne sera pas responsable de tout risque de perte résultant du téléchargement et/ou de l'utilisation par le Client de fichiers, informations, Contenu ou autre matériel obtenu à partir du Service.
 
@@ -358,10 +358,10 @@ Si le Client a un litige avec un ou plusieurs Utilisateurs, le Client libère Gi
 
 Aucune des parties n'utilisera les informations confidentielles de l'autre partie, sauf dans la mesure permise par le présent accord. Chaque Partie s'engage à maintenir confidentielles et à protéger les Informations Confidentielles de l'autre Partie en utilisant au moins le même degré de soin qu'elle utilise pour ses propres informations de nature similaire, mais en tout état de cause au moins un degré de soin raisonnable. Chaque Partie s'engage à prendre toutes les précautions raisonnables pour empêcher toute divulgation non autorisée des Informations confidentielles de l'autre Partie, y compris, sans s'y limiter, la divulgation de ces Informations confidentielles uniquement à ses Représentants qui (i) ont besoin de connaître ces informations, (ii) sont des parties à des accords appropriés suffisants pour se conformer à la présente section P, et (iii) sont informés des restrictions d'utilisation et de divulgation énoncées dans la présente section P. Chaque partie est responsable de tous les actes et omissions de ses représentants. Les obligations précédentes n’empêcheront pas l’une ou l’autre des Parties de divulguer des Informations Confidentielles de l’autre Partie conformément à l’ordonnance ou à l’exigence d’un tribunal, d’une agence administrative ou d’un autre organisme gouvernemental, *à condition* que la Partie tenue de procéder à une telle divulgation donne un préavis raisonnable à l’autre Partie pour lui permettre de contester cette ordonnance ou cette exigence, sauf si ce préavis est interdit par la loi. Les restrictions énoncées dans la présente Section P resteront en vigueur au-delà de la résiliation ou de l’expiration du présent Accord.
 
-[Q. Services d’Experts](#q-professional-services)
+[Q. Services Professionnels](#q-professional-services)
 ----------
 
-À la demande du Client pour des Services d’Experts, GitHub fournira un SOW détaillant ces Services d’Experts. GitHub exécutera les services d’Experts décrits dans chaque SOW. GitHub contrôlera la manière et les moyens par lesquels les Services d’Experts sont exécutés et se réserve le droit de déterminer le personnel affecté. GitHub peut faire appel à des tiers pour exécuter les Services d’Experts, à condition que GitHub reste responsable de leurs actes et omissions. Le Client reconnaît et accepte que GitHub conserve tous les droits, titres et intérêts sur tout ce qui est utilisé ou développé dans le cadre de l'exécution des Services d’Experts, y compris les logiciels, outils, spécifications, idées, concepts, inventions, processus, techniques et savoir-faire. Dans la mesure où GitHub livre quoi que ce soit au Client lors de l'exécution des Services d’Experts, GitHub accorde au Client une licence non exclusive, non transférable, mondiale, libre de droits et à durée limitée pour utiliser ces livrables pendant la durée du présent Contrat, uniquement dans le cadre de l'utilisation du Service par le Client.
+À la demande du Client pour des Services professionnels, GitHub fournira un SOW détaillant ces Services professionnels. GitHub exécutera les services professionnels décrits dans chaque SOW. GitHub contrôlera la manière et les moyens par lesquels les Services Professionnels sont exécutés et se réserve le droit de déterminer le personnel affecté. GitHub peut faire appel à des tiers pour exécuter les Services professionnels, à condition que GitHub reste responsable de leurs actes et omissions. Le Client reconnaît et accepte que GitHub conserve tous les droits, titres et intérêts sur tout ce qui est utilisé ou développé dans le cadre de l'exécution des Services professionnels, y compris les logiciels, outils, spécifications, idées, concepts, inventions, processus, techniques et savoir-faire. Dans la mesure où GitHub livre quoi que ce soit au Client lors de l'exécution des Services professionnels, GitHub accorde au Client une licence non exclusive, non transférable, mondiale, libre de droits et à durée limitée pour utiliser ces livrables pendant la durée du présent Contrat, uniquement dans conjointement avec l'utilisation du Service par le Client.
 
 [R. Modifications du service ou des conditions](#r-changes-to-the-service-or-terms)
 ----------
