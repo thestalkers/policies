@@ -33,7 +33,7 @@ In diesem Artikel
 * [N. Haftungsbeschränkungen](#n-limitations-of-liability)
 * [O. Verteidigung gegen Ansprüche; Freistellung](#o-defense-of-claims-release)
 * [P. Vertraulichkeit](#p-confidentiality)
-* [Q. Experten-Dienstleistungen](#q-professional-services)
+* [Q. Professional Services](#q-professional-services)
 * [R. Änderungen des Dienstes oder der Bedingungen](#r-changes-to-the-service-or-terms)
 * [S. Support](#s-support)
 * [T. Sonstiges](#t-miscellaneous)
@@ -50,7 +50,7 @@ Diese Vereinbarung gilt für die folgenden GitHub-Angebote, wie unten näher def
 * Den Dienst;
 * Alle Beta-Vorschauen;
 * Jeglichen damit verbundenen Support; und
-* Alle verwandten Experten-Dienstleistungen.
+* Alle damit verbundenen Professional Services.
 
 [A. Definitionen](#a-definitions)
 ----------
@@ -83,7 +83,7 @@ Diese Vereinbarung gilt für die folgenden GitHub-Angebote, wie unten näher def
 
 **„Feedback“** bezeichnet alle Ideen, Know-how, Algorithmen, Codebeiträge, Vorschläge, Verbesserungswünsche, Empfehlungen oder sonstiges Feedback zu Produkten oder Diensten von GitHub.
 
-**„Gebühren“** bezeichnet die Gebühren, die der Kunde an GitHub zahlen muss, um (i) die Produkte während der jeweiligen Laufzeit zu nutzen oder (ii) Experten-Dienstleistungen zu erhalten, wie auf einem Bestellformular oder in einer Leistungsbeschreibung angegeben.
+**„Gebühren“** bezeichnet die Gebühren, die der Kunde an GitHub zahlen muss, um (i) die Produkte während der jeweiligen Laufzeit zu nutzen oder (ii) Professional Services zu erhalten, wie auf einem Bestellformular oder in einer Leistungsbeschreibung angegeben.
 
 **„Forken“ oder „Abspalten“** bedeutet, den Inhalt eines Repositories in ein anderes Repository zu kopieren.
 
@@ -99,7 +99,7 @@ Diese Vereinbarung gilt für die folgenden GitHub-Angebote, wie unten näher def
 
 **„Privates Repository“** bezeichnet ein Repository, das es einem Benutzer ermöglicht, den Zugriff auf Inhalte zu kontrollieren.
 
-**„Experten-Dienstleistungen“** bezeichnet Schulungs-, Beratungs- oder Implementierungsdienste, die GitHub dem Kunden gemäß einer gemeinsam unterzeichneten Leistungsbeschreibung bereitstellt. Experten-Dienstleistungen enthalten keinen Support.
+**„Professional Services“** bezeichnet Schulungs-, Beratungs- oder Implementierungsdienste, die GitHub dem Kunden gemäß einer gemeinsam unterzeichneten Leistungsbeschreibung bereitstellt. In Professional Services ist kein Support enthalten.
 
 **„Öffentliches Repository“** bezeichnet ein Repository, dessen Inhalt für alle Benutzer sichtbar ist.
 
@@ -109,7 +109,7 @@ Diese Vereinbarung gilt für die folgenden GitHub-Angebote, wie unten näher def
 
 **„Dienst“** bezeichnet den gehosteten Dienst von GitHub und jegliche anwendbare Dokumentation.
 
-**„Leistungsbeschreibung“ oder „SOW“** bezeichnet eine gemeinsam unterzeichnete Leistungsbeschreibung, in der die von GitHub zu erbringenden Experten-Dienstleistungen alle damit verbundenen Gebühren und die damit verbundenen Verpflichtungen jeder Partei aufgeführt sind.
+**„Leistungsbeschreibung“ oder „SOW“** bezeichnet eine gemeinsam unterzeichnete Leistungsbeschreibung, in der die von GitHub zu erbringenden Professional Services alle damit verbundenen Gebühren und die damit verbundenen Verpflichtungen jeder Partei aufgeführt sind.
 
 **„Abonnementlizenz“** bezeichnet die jedem Benutzer zugewiesene Lizenz zum Installieren, Betreiben, Zugreifen und Verwenden des Dienstes im Namen des Kunden. Der Kunde darf nur eine Abonnementlizenz pro Benutzer in seinen Organisationen zuweisen. Zur Klarstellung: Sobald der Kunde einem Benutzer eine Abonnementlizenz zuweist, ist es dem Kunden untersagt, die Abonnementlizenz aufzuteilen, sodass ein Benutzer eine Abonnementlizenz für eine Organisation verwenden kann, während ein anderer Benutzer dieselbe Abonnementlizenz für eine andere Organisation verwendet.
 
@@ -321,7 +321,7 @@ Mitteilungen, die per E-Mail oder über das Nachrichtensystem des GitHub-Support
 
 *Allgemeine Garantie*. Jede Partei erklärt und garantiert der anderen, dass sie die rechtliche Befugnis und Befugnis hat, diese Vereinbarung abzuschließen, und dass diese Vereinbarung und jedes Bestellformular und jede SOW von einem Mitarbeiter oder Vertreter dieser Partei mit der erforderlichen Befugnis eingegangen wird, diese zu binden Vertragspartei der Bedingungen dieser Vereinbarung.
 
-*Experten-Dienstleistungen – Garantie* Sofern in einer SOW nicht anders angegeben, garantiert GitHub, dass alle im Rahmen dieser Vereinbarung erbrachten Experten-Dienstleistungen auf professionelle und fachmännische Weise von entsprechend qualifiziertem Personal ausgeführt werden. Die einzige Verpflichtung von GitHub und das einzige Rechtsmittel des Kunden bei einer Verletzung dieser Garantie besteht nach Wahl und auf Kosten von GitHub darin, entweder: (i) Experten-Dienstleistungen, die diese Garantie nicht erfüllen, unverzüglich erneut zu erbringen oder, (ii) wenn der Verstoß nicht behoben werden kann, die Leistungsbeschreibung zu kündigen und die nicht genutzten vorausbezahlten Gebühren zurückzuerstatten.
+*Garantie für Professional Services.* Sofern in einer SOW nicht anders angegeben, garantiert GitHub, dass alle im Rahmen dieser Vereinbarung erbrachten professionellen Dienstleistungen auf professionelle und fachmännische Weise von entsprechend qualifiziertem Personal ausgeführt werden. Die einzige Verpflichtung von GitHub und das einzige Rechtsmittel des Kunden bei einer Verletzung dieser Garantie besteht nach Wahl und auf Kosten von GitHub darin, entweder: (i) alle Professional Services, die diese Garantie nicht erfüllen, unverzüglich erneut zu erbringen oder, (ii) wenn der Verstoß nicht behoben werden kann, die Leistungsbeschreibung zu kündigen und die nicht genutzten vorausbezahlten Gebühren zurückzuerstatten.
 
 *Gewährleistungsausschluss für den Dienst.* GitHub stellt den Dienst **„WIE BESEHEN“** und **„WIE VERFÜGBAR“** ohne Gewährleistung jeglicher Art zur Verfügung. Ohne dies einzuschränken, lehnt GitHub ausdrücklich alle Gewährleistungen, ob ausdrücklich, stillschweigend oder gesetzlich, in Bezug auf den Dienst ab, einschließlich, aber nicht beschränkt auf Gewährleistung der Marktgängigkeit, Eignung für einen bestimmten Zweck, Titel, Sicherheit, Genauigkeit und Nichtverletzung. GitHub garantiert nicht, dass der Dienst die Anforderungen des Kunden erfüllt; dass der Dienst ununterbrochen, zeitnah, sicher oder fehlerfrei ist; dass die über den Dienst bereitgestellten Informationen genau, zuverlässig oder korrekt sind; dass Mängel oder Fehler behoben werden; dass der Dienst zu einer bestimmten Zeit oder an einem bestimmten Ort verfügbar ist; oder dass der Dienst frei von Viren oder anderen schädlichen Komponenten ist. GitHub ist nicht verantwortlich für Verlustrisiken, die sich aus dem Herunterladen und/oder der Verwendung von Dateien, Informationen, Inhalten oder anderem Material, das vom Dienst bezogen wird, durch den Kunden ergeben.
 
@@ -358,10 +358,10 @@ Wenn der Kunde einen Streit mit einem oder mehreren Benutzern hat, stellt der Ku
 
 Keine der Parteien wird die vertraulichen Informationen der anderen Partei verwenden, es sei denn, dies ist gemäß dieser Vereinbarung gestattet. Jede Partei verpflichtet sich, die vertraulichen Informationen der anderen Partei vertraulich zu behandeln und zu schützen, indem sie mindestens das gleiche Maß an Sorgfalt anwendet, das sie für ihre eigenen Informationen ähnlicher Art anwendet, aber in jedem Fall mindestens ein angemessenes Maß an Sorgfalt. Jede Partei erklärt sich damit einverstanden, alle angemessenen Vorkehrungen zu treffen, um eine unbefugte Offenlegung der vertraulichen Informationen der anderen Partei zu verhindern, einschließlich, aber nicht beschränkt auf die Offenlegung dieser vertraulichen Informationen nur gegenüber ihren Vertretern, die (i) diese Informationen kennen müssen, (ii) Parteien sind zu entsprechenden Vereinbarungen, die ausreichen, um diesem Abschnitt P zu entsprechen, und (iii) über die in diesem Abschnitt P festgelegten Nutzungs- und Offenlegungsbeschränkungen informiert sind. Jede Partei ist für alle Handlungen und Unterlassungen ihrer Vertreter verantwortlich. Die vorstehenden Verpflichtungen hindern keine der Parteien daran, Vertrauliche Informationen der anderen Partei gemäß der Anordnung oder Anforderung eines Gerichts, einer Verwaltungsbehörde oder einer anderen Regierungsbehörde offenzulegen, *vorausgesetzt*, dass die Partei, die zu einer solchen Offenlegung verpflichtet ist, die andere Partei angemessen benachrichtigt, damit diese Partei diese Anordnung oder Anforderung anfechten kann, es sei denn, eine solche Mitteilung ist gesetzlich verboten. Die in diesem Abschnitt P dargelegten Einschränkungen gelten auch nach Beendigung oder Ablauf dieser Vereinbarung.
 
-[Q. Experten-Dienstleistungen](#q-professional-services)
+[Q. Professional Services](#q-professional-services)
 ----------
 
-Auf Anfrage des Kunden nach Experten-Dienstleistungen stellt GitHub eine SOW bereit, in der diese Experten-Dienstleistungen aufgeführt sind. GitHub erbringt die in jeder SOW beschriebenen Experten-Dienstleistungen. GitHub kontrolliert die Art und Weise und Mittel, mit denen die Experten-Dienstleistungen erbracht werden, und behält sich das Recht vor, das zugewiesene Personal zu bestimmen. GitHub kann Dritte zur Erbringung der Experten-Dienstleistungen einsetzen, vorausgesetzt, dass GitHub für deren Handlungen und Unterlassungen verantwortlich bleibt. Der Kunde erkennt an und stimmt zu, dass GitHub alle Rechte, Titel und Interessen an allem behält, was in Verbindung mit der Erbringung der Experten-Dienstleistungen verwendet oder entwickelt wird, einschließlich Software, Tools, Spezifikationen, Ideen, Konzepte, Erfindungen, Prozesse, Techniken und Know-how. Soweit GitHub dem Kunden während der Erbringung der Experten-Dienstleistungen etwas liefert, gewährt GitHub dem Kunden eine nicht ausschließliche, nicht übertragbare, weltweite, gebührenfreie, zeitlich begrenzte Lizenz zur Nutzung dieser Leistungen während der Laufzeit dieser Vereinbarung, ausschließlich in Verbindung mit der Nutzung des Dienstes durch den Kunden.
+Auf Anfrage des Kunden nach Professional Services stellt GitHub eine SOW bereit, in der diese Professional Services aufgeführt sind. GitHub erbringt die in jeder SOW beschriebenen Professional Services. GitHub kontrolliert die Art und Weise und Mittel, mit denen die Professional Services erbracht werden, und behält sich das Recht vor, das zugewiesene Personal zu bestimmen. GitHub kann Dritte zur Erbringung der Professional Services einsetzen, vorausgesetzt, dass GitHub für deren Handlungen und Unterlassungen verantwortlich bleibt. Der Kunde erkennt an und stimmt zu, dass GitHub alle Rechte, Titel und Interessen an allem behält, was in Verbindung mit der Erbringung der Professional Services verwendet oder entwickelt wird, einschließlich Software, Tools, Spezifikationen, Ideen, Konzepte, Erfindungen, Prozesse, Techniken und Know-how. Soweit GitHub dem Kunden während der Erbringung der professionellen Dienstleistungen etwas liefert, gewährt GitHub dem Kunden eine nicht ausschließliche, nicht übertragbare, weltweite, gebührenfreie, zeitlich begrenzte Lizenz zur Nutzung dieser Leistungen während der Laufzeit dieser Vereinbarung, ausschließlich in Verbindung mit der Nutzung des Dienstes durch den Kunden.
 
 [R. Änderungen des Dienstes oder der Bedingungen](#r-changes-to-the-service-or-terms)
 ----------
