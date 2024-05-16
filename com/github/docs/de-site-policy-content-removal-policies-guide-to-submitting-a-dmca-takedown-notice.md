@@ -58,7 +58,7 @@ Diese Liste ist nicht vollständig, weshalb es beim Umgang mit Code doppelt wich
 
 ***Ihre Beschwerde wird veröffentlicht.*** Wie in unserer [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency) dargelegt, veröffentlichen wir alle vollständigen und durchsetzbaren Takedown Notices, nachdem wir jegliche personenbezogenen Daten unkenntlich gemacht haben, unter <https://github.com/github/dmca>.
 
-***GitHub tritt nicht als Richter auf.***GitHub übt in diesem Prozess wenig Ermessensspielraum aus, außer zu bestimmen, ob die Mitteilungen die Mindestanforderungen des DMCA erfüllen. Es ist Sache der Parteien (und ihrer Anwälte), die Begründetheit ihrer Ansprüche zu beurteilen, wobei zu beachten ist, dass Mitteilungen unter Strafe des Meineids erfolgen müssen.
+***GitHub tritt nicht als Richter auf.*** GitHub übt in diesem Prozess wenig Ermessensspielraum aus, außer zu bestimmen, ob die Mitteilungen die Mindestanforderungen des DMCA erfüllen. Es ist Sache der Parteien (und ihrer Anwälte), die Begründetheit ihrer Ansprüche zu beurteilen, wobei zu beachten ist, dass Mitteilungen unter Strafe des Meineids erfolgen müssen.
 
 [Ihre Beschwerde muss...](#your-complaint-must-)
 ----------

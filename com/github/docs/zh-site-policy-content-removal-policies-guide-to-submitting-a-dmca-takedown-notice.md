@@ -58,7 +58,7 @@ DMCA 下架通知提交指南
 
 ***您的投诉将被公布。*** 如我们的 [DMCA 删除政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)所述，在删除个人信息后，我们将在 <https://github.com/github/dmca> 上发布所有完整、可诉的下架通知。
 
-***GitHub 不是法官。***除了确定通知是否符合 DMCA 的最低要求外，GitHub 在此过程中几乎不行使酌处权。 当事方（及其律师）应负责评估其投诉的合理性，并注意，此类通知受伪证处罚条款约束。
+***GitHub 不是法官。*** 除了确定通知是否符合 DMCA 的最低要求外，GitHub 在此过程中几乎不行使酌处权。 当事方（及其律师）应负责评估其投诉的合理性，并注意，此类通知受伪证处罚条款约束。
 
 [您的投诉必须...](#your-complaint-must-)
 ----------

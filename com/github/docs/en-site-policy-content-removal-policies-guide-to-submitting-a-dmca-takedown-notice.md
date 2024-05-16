@@ -58,7 +58,7 @@ This list isn't exhaustive, which is why speaking to a legal professional about 
 
 ***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/github/dmca>.
 
-***GitHub Isn't The Judge.***GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
+***GitHub Isn't The Judge.*** GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
 [Your Complaint Must ...](#your-complaint-must-)
 ----------

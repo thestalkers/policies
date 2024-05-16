@@ -58,7 +58,7 @@ Esta lista não é exaustiva, e é por isso que falar com um profissional juríd
 
 ***Sua reclamação será publicada.*** Conforme observado em nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), depois de editar as informações pessoais, publicamos todas as notificações de remoção completas e acionáveis em <https://github.com/github/dmca>.
 
-***O GitHub não é o juiz.***O GitHub exerce pouca discrição no processo além de determinar se os avisos atendem aos requisitos mínimos da DMCA. Cabe às partes (e seus advogados) avaliar o mérito de suas reivindicações, lembrando que as notificações devem ser feitas sob pena de perjúrio.
+***O GitHub não é o juiz.*** O GitHub exerce pouca discrição no processo além de determinar se os avisos atendem aos requisitos mínimos da DMCA. Cabe às partes (e seus advogados) avaliar o mérito de suas reivindicações, lembrando que as notificações devem ser feitas sob pena de perjúrio.
 
 [Sua reclamação deve...](#your-complaint-must-)
 ----------
