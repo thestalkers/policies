@@ -58,7 +58,7 @@ Cette liste n'est pas exhaustive, c'est pourquoi parler à un professionnel du d
 
 ***Votre plainte sera publiée.*** Comme indiqué dans notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), après avoir biffé les informations personnelles, nous publions toutes les informations préalables en matière de retrait complètes et exploitables à l'adresse <https://github.com/github/dmca>.
 
-***GitHub n'est pas le juge.***GitHub exerce peu de pouvoir discrétionnaire dans le processus autre que de déterminer si les avis répondent aux exigences minimales du DMCA. Il appartient aux parties (et à leurs avocats) d'apprécier le bien-fondé de leurs prétentions, sachant que les dénonciations doivent être faites sous peine de parjure.
+***GitHub n'est pas le juge.*** GitHub exerce peu de pouvoir discrétionnaire dans le processus autre que de déterminer si les avis répondent aux exigences minimales du DMCA. Il appartient aux parties (et à leurs avocats) d'apprécier le bien-fondé de leurs prétentions, sachant que les dénonciations doivent être faites sous peine de parjure.
 
 [Votre plainte doit...](#your-complaint-must-)
 ----------
