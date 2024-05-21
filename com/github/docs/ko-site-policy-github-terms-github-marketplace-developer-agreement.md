@@ -21,7 +21,7 @@ GitHub Marketplace 개발자 계약
 * [3. 제한과 책임](#3restrictions-and-responsibilities)
 * [4. 게시 중단](#4takedowns)
 * [5. 진술, 보증 및 서약](#5representations-warranties-and-covenants)
-* [6. 가격 책정 및 지불 조건](#6pricing-and-payment-terms)
+* [6. 가격 책정 및 지불 조건](#6paid-applications-or-products)
 * [7. 소유권](#7ownership)
 * [8. 책임의 제한](#8limitation-of-liability)
 * [9. 면책 조항](#9indemnification)
@@ -187,7 +187,7 @@ GitHub는 Marketplace에 목록이 제공되는 것을 방지할 수 있으며, 
 
 **5.4** 보증의 부인 모든 서버 및 네트워크 구성 요소를 포함해 Marketplace 및 GitHub API의 모든 측면은 법률이 최대한 허용하는 범위 내에서 어떠한 종류의 보증 없이 "있는 그대로" 그리고 "사용 가능한 상태로" 제공됩니다. 그리고 GitHub는 상업성, 소유권, 특정 목적에 대한 적합성 및 비침해성에 대한 묵시적 보증을 포함하되 이에 국한하지 않는 명시적 또는 묵시적인 모든 보증을 명시적으로 부인합니다. 개발자는 Marketplace 또는 GitHub API가 중단되지 않고 시의적절하며 안전하고 오류가 없으며 (소프트웨어, 하드웨어, 컴퓨터 시스템 또는 네트워크를 방해하거나 사용하지 않도록 설정하거나 손상시키도록 특별히 설계된 컴퓨터 코드 또는 그 밖의 기술로 알려진) 바이러스, 맬웨어 또는 웜이 없음을 GitHub가 보증하지 않으며, 개발자가 GitHub를 출처로 하거나 Marketplace 또는 GitHub API를 통해 얻은 정보 또는 조언은 본 약관에 명시적으로 언급되지 않은 보증의 근거가 될 수 없음을 인정합니다. GitHub는 Marketplace 외부에서 개발자 제품의 무단 사용에 대해 책임을 지지 않으며 어떠한 책임도 명시적으로 부인합니다.
 
-[6. 가격 책정 및 지불 조건](#6pricing-and-payment-terms)
+[6. 가격 책정 및 지불 조건](#6paid-applications-or-products)
 ----------
 
 **6.1** GitHub는 Marketplace를 통해 최종 사용자가 구매한 개발자 제품의 등록 판매자가 됩니다.

@@ -21,7 +21,7 @@ GitHub Marketplace 开发人员协议
 * [3.限制和责任](#3restrictions-and-responsibilities)
 * [4.下架](#4takedowns)
 * [5.声明、保证和承诺](#5representations-warranties-and-covenants)
-* [6.定价和付款条款](#6pricing-and-payment-terms)
+* [6.定价和付款条款](#6paid-applications-or-products)
 * [7.所有权](#7ownership)
 * [8. 责任限制](#8limitation-of-liability)
 * [9.赔偿](#9indemnification)
@@ -176,7 +176,7 @@ GitHub 可以：阻止该上架产品在 Marketplace 上展示；从 Marketplace
 
 5.4 免责声明。 MARKETPLACE 和 GITHUB API 的所有方面，包括所有服务器和网络组件，均“按原样”和“现有”原则提供，在法律允许的最大范围内不提供任何形式的保证，并且 GITHUB 明确否认任何明示或暗示的保证，包括但不限于对适销性、所有权、适合特定用途和不侵权的任何暗示保证。 开发人员确认，GITHUB 不保证 MARKETPLACE 或 GITHUB API 不中断、及时、安全、无错误或没有病毒、恶意软件或蠕虫（也称为专门设计为破坏、瘫痪或损害您的软件、硬件、计算机系统或网络的计算机代码或其他技术），并且开发人员从 GITHUB、MARKETPLACE 或 GITHUB API 获取的任何信息或建议均不构成任何保证，除非在这些条款中有明确说明。 对于未经授权使用 MARKETPLACE 外部的任何开发人员产品，GITHUB 概不负责，并且特别声明不承担任何义务。
 
-[6.定价和付款条款](#6pricing-and-payment-terms)
+[6.定价和付款条款](#6paid-applications-or-products)
 ----------
 
 **6.1** GitHub 是最终用户通过 Marketplace 购买开发人员产品的在册商户。

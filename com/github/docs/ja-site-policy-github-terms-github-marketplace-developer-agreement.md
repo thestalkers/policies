@@ -21,7 +21,7 @@ GitHub Marketplace 開発者契約
 * [3.制限事項と責任](#3restrictions-and-responsibilities)
 * [4.削除](#4takedowns)
 * [5.表明、保証、および誓約](#5representations-warranties-and-covenants)
-* [6.価格および支払条件](#6pricing-and-payment-terms)
+* [6.価格および支払条件](#6paid-applications-or-products)
 * [7.所有権](#7ownership)
 * [8.責任制限](#8limitation-of-liability)
 * [9.補償](#9indemnification)
@@ -176,7 +176,7 @@ GitHub は、独自の裁量により、リスティングを Marketplace で入
 
 **5.4** 保証の免責。 すべてのサーバーおよびネットワーク コンポーメントを含め、Marketplace および GitHub API 全般は「現状有姿」かつ「「提供可能な状態で」提供され、法令により認められる最大限の範囲において、いかなる保証もしないものとします。また、GitHub は、商品性、権原、特定の目的への適合性、および何らかの違反のないことに対する黙示の保証をを含むがそれらに限定されない、明示か暗黙かを問わず、いかなる保証も明示的に否認します。 開発者は、Marketplace または GitHub API が中断されないこと、適時に提供されること、安全であること、エラーがないこと、ウイルス、マルウェア、またはワーム (ソフトウェア、ハードウェア、コンピューター システム、またはネットワークを破壊、無効化、または危害を加えることを特に目的としたコンピューター コードやその他の技術のこと) が存在しないことを GitHub が保証しないこと、ならびに開発者が GitHub からまたは Marketplace もしくは GitHub API を通じて得るいかなる情報や助言も、本条件に明示されていない保証を与えるものではないことを認めるものとします。 GitHub は、Marketplace 外における開発者製品のあらゆる不正使用に対して責任を負わず、またあらゆる責任を明示的に否認します。
 
-[6.価格および支払条件](#6pricing-and-payment-terms)
+[6.価格および支払条件](#6paid-applications-or-products)
 ----------
 
 **6.1** GitHub は、エンド ユーザーが Marketplace 経由で購入した開発者製品について、最終販売責任を負う商業者となります。
