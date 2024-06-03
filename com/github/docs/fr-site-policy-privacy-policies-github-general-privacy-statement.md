@@ -1,4 +1,4 @@
-Déclaration de confidentialité générale gitHub - Documentation GitHub
+Déclaration de confidentialité générale GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -8,9 +8,9 @@ Déclaration de confidentialité générale gitHub - Documentation GitHub
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de Confidentialité](/fr/site-policy/privacy-policies)/
-* [Déclaration de confidentialité générale gitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement)
+* [Déclaration de confidentialité générale GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement)
 
-Déclaration de confidentialité générale gitHub
+Déclaration de confidentialité générale GitHub
 ==========
 
 Dans cet article
@@ -243,7 +243,7 @@ Concernant les Pages Marketing Entreprises, nous pouvons également utiliser des
 
 Nos e-mails envoyés aux utilisateurs peuvent contenir une balise pixel, qui est une petite image claire qui peut nous indiquer si vous avez ouvert un e-mail et quelle est votre adresse IP. Nous utilisons cette balise pixel pour rendre nos communications par e-mail plus efficaces et pour nous assurer que nous ne vous envoyons pas de courrier indésirable.
 
-La durée de conservation d’un cookie sur votre navigateur ou votre appareil varie selon qu’il s’agit d’un cookie « persistant » ou de « session ». Les cookies de session ne resteront sur votre appareil que jusqu’à ce que vous quittiez le navigateur. Les cookies persistants restent jusqu’à leur expiration ou leur suppression. Le délai d’expiration ou la période de rétention applicable aux cookies persistants dépend de l’objectif de la collecte des cookies et de l’outil utilisé. Vous pouvez éventuellement supprimer les données des cookies. Pour plus d’informations, consultez « [Déclaration de confidentialité générale gitHub](/fr/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls) ».
+La durée de conservation d’un cookie sur votre navigateur ou votre appareil varie selon qu’il s’agit d’un cookie « persistant » ou de « session ». Les cookies de session ne resteront sur votre appareil que jusqu’à ce que vous quittiez le navigateur. Les cookies persistants restent jusqu’à leur expiration ou leur suppression. Le délai d’expiration ou la période de rétention applicable aux cookies persistants dépend de l’objectif de la collecte des cookies et de l’outil utilisé. Vous pouvez éventuellement supprimer les données des cookies. Pour plus d’informations, consultez « [Déclaration de confidentialité générale GitHub](/fr/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls) ».
 
 #### [Présentation des cookies et des technologies similaires](#what-are-cookies-and-similar-technologies) ####
 
