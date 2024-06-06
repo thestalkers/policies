@@ -2,12 +2,12 @@ Política del logotipo de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
-* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
+* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
 * [Política del logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
 
 Política del logotipo de GitHub

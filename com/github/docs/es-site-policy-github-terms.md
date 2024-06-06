@@ -2,7 +2,7 @@ Términos de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
@@ -24,7 +24,7 @@ Términos de GitHub
 
 * [Términos de licencia de la versión preliminar de GitHub](/es/site-policy/github-terms/github-pre-release-license-terms)
 
-* [Términos Adicionales de los Patrocinadores de GitHub](/es/site-policy/github-terms/github-sponsors-additional-terms)
+* [Patrocinadores de GitHub Términos adicionales](/es/site-policy/github-terms/github-sponsors-additional-terms)
 
 * [Acuerdo de desarrollador registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
 

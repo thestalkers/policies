@@ -24,7 +24,7 @@ GitHub-Bedingungen
 
 * [Lizenzbestimmungen für die Vorabversion von GitHub](/de/site-policy/github-terms/github-pre-release-license-terms)
 
-* [GitHub Sponsors – Zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
+* [GitHub sponsert zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
 
 * [Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
 

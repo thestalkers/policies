@@ -71,7 +71,7 @@ O GitHub reserva-se o direito de, a qualquer momento e de tempos em tempos, modi
 [Miscelânea](#miscellanea)
 ----------
 
-1. Impossibilidade de Renúncia. O não exercício ou aplicação por parte do GitHub de qualquer direito ou cláusula destes Termos do Aplicativo não constituirá renúncia desse direito ou cláusula.
+1. Impossibilidade de renúncia. O não exercício ou aplicação por parte do GitHub de qualquer direito ou cláusula destes Termos do Aplicativo não constituirá renúncia desse direito ou cláusula.
 
 2. Acordo integral. Estes Termos do Aplicativo, juntamente com quaisquer Avisos de Privacidade aplicáveis, constituem o acordo integral entre você e o GitHub e regem o uso do Software, substituindo quaisquer acordos anteriores entre você e o GitHub (incluindo, mas não limitado a, quaisquer versões anteriores dos Termos do Aplicativo ).
 

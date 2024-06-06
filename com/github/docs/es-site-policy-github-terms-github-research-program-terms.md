@@ -2,7 +2,7 @@ Términos del programa de investigación de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
@@ -22,7 +22,7 @@ En este artículo
 * [D. Privacidad](#d-privacy)
 * [E. Términos de Servicios y de Software de GitHub](#e-github-services-and-software-terms)
 * [F. Renuncia de Garantías](#f-disclaimer-of-warranties)
-* [G. Limitación de Responsabilidad](#g-limitation-of-liability)
+* [G. Limitación de responsabilidad](#g-limitation-of-liability)
 * [H. Disposiciones adicionales](#h-miscellaneous)
 
 ¡Bienvenido al Programa de investigación de GitHub (el "Programa")! Para participar, necesitaremos que acepte un conjunto especial de términos, el Acuerdo del programa de investigación de GitHub ("Acuerdo").
@@ -67,7 +67,7 @@ Si se requiere acceso a los servicios o al software de GitHub para participar en
 
 Toda la Información confidencial y otros materiales que reciba a través del Programa se proporcionan "tal cual" y sin garantía de ningún tipo. Sin limitar esto, renunciamos expresamente a todas las garantías, ya sean expresas, implícitas o legales, con respecto al Programa, incluidas, entre otras, cualquier garantía de comerciabilidad, idoneidad para un propósito particular, título, seguridad, precisión y no infracción.
 
-[G. Limitación de Responsabilidad](#g-limitation-of-liability)
+[G. Limitación de responsabilidad](#g-limitation-of-liability)
 ----------
 
 Salvo que lo prohíba la ley, usted comprende y acepta que no seremos responsables ante usted ni ante terceros por ninguna pérdida de ganancias, uso, fondo de comercio o datos, ni por ningún daño incidental, indirecto, especial, consecuente o ejemplar.

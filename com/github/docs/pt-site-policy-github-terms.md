@@ -24,7 +24,7 @@ Termos do GitHub
 
 * [Termos de licença de pré-lançamento do GitHub](/pt/site-policy/github-terms/github-pre-release-license-terms)
 
-* [Termos Adicionais do GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+* [Termos adicionais dos patrocinadores do GitHub](/pt/site-policy/github-terms/github-sponsors-additional-terms)
 
 * [Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
 

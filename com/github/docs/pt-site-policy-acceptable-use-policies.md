@@ -28,7 +28,7 @@ Políticas de Uso Aceitável
 
 * [Desinformação e desinformação do GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-* [Conteúdo Sexualmente Obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Conteúdo sexualmente obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 * [Ameaças do GitHub de violência e conteúdo violento gratuito](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 

@@ -2,12 +2,12 @@ Política de eliminación del gobierno de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
-* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
+* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
 * [Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 
 Política de eliminación del gobierno de GitHub

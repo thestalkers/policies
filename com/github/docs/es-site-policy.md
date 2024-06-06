@@ -2,7 +2,7 @@ Documentación de la directiva del sitio - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
@@ -20,7 +20,7 @@ Documentación de la directiva del sitio
 [Directivas de Privacidad](/es/site-policy/privacy-policies)
 ----------
 
-[Otras Directivas del Sitio](/es/site-policy/other-site-policies)
+[Otras políticas del sitio](/es/site-policy/other-site-policies)
 ----------
 
 [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)

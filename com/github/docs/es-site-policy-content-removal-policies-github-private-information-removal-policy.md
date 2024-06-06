@@ -2,7 +2,7 @@ Política de eliminación de información privada de GitHub - Documentación de 
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

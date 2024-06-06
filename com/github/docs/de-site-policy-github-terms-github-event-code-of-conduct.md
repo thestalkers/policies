@@ -18,7 +18,7 @@ In diesem Artikel
 
 * [Verhaltenskodex](#code-of-conduct)
 * [Einen Vorfall melden](#reporting-an-incident)
-* [Mitwirkende](#credit)
+* [Kredit](#credit)
 
 [Verhaltenskodex](#code-of-conduct)
 ----------
@@ -62,7 +62,7 @@ Wenn Sie belästigt werden, bemerken, dass eine andere Person belästigt wird, a
 
 GitHub-Mitarbeiter helfen den Veranstaltungsteilnehmern gerne dabei, den Sicherheitsdienst oder die örtlichen Strafverfolgungsbehörden zu kontaktieren, und werden diejenigen, die Belästigungen ausgesetzt sind, schützen oder auf andere Weise unterstützen, damit sie sich für die Dauer der Veranstaltung sicher fühlen.
 
-[Mitwirkende](#credit)
+[Kredit](#credit)
 ----------
 
 Teile dieses Verhaltenskodex basieren auf der Vorlage example anti-harassment policy aus dem Geek Feminism Wiki, erstellt von der Ada Initiative und anderen Ehrenamtlichen unter einer Creative Commons Zero Lizenz.

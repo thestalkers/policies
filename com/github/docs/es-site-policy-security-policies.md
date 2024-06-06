@@ -2,7 +2,7 @@ Políticas de seguridad - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
@@ -12,7 +12,7 @@ Políticas de seguridad - Documentación de GitHub
 Políticas de seguridad
 ==========
 
-* [Divulgación Coordinada de Vulnerabilidades de Seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Divulgación coordinada de vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 * [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 

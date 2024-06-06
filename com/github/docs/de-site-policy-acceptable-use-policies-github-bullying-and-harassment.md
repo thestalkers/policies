@@ -13,7 +13,7 @@ GitHub Mobbing und Belästigung - GitHub-Dokumentation
 GitHub Mobbing und Belästigung
 ==========
 
-Wir tolerieren keinerlei Belästigung, Mobbing oder Missbrauch, sei es direkt oder durch Ermutigung anderer, sich an den verbotenen Verhaltensweisen zu beteiligen. Dies umfasst u. a.:
+Wir tolerieren keinerlei Belästigung, Mobbing oder Missbrauch, sei es direkt oder durch Ermutigung anderer, sich an den verbotenen Verhaltensweisen zu beteiligen. Dies umfasst:
 
 * Gezielte persönliche Angriffe
 * Anhäufen oder Orchestrieren [störender](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) Aktivitäten in einer Weise, die Missbrauch gleichkommt

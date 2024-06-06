@@ -24,7 +24,7 @@ Termes GitHub
 
 * [GitHub – Termes du Contrat de licence de la préversion](/fr/site-policy/github-terms/github-pre-release-license-terms)
 
-* [Conditions Supplémentaires de GitHub Sponsors](/fr/site-policy/github-terms/github-sponsors-additional-terms)
+* [Conditions supplémentaires des sponsors GitHub](/fr/site-policy/github-terms/github-sponsors-additional-terms)
 
 * [Contrat de développeur enregistré GitHub](/fr/site-policy/github-terms/github-registered-developer-agreement)
 

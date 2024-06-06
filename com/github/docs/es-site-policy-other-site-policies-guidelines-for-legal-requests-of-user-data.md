@@ -2,12 +2,12 @@ Directrices para solicitudes legales de datos de usuario - Documentación de Git
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
-* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
+* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
 * [Directrices para solicitudes legales de datos de usuario](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 Directrices para solicitudes legales de datos de usuario

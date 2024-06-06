@@ -2,7 +2,7 @@ Directivas de Uso Aceptable - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
@@ -30,7 +30,7 @@ Directivas de Uso Aceptable
 
 * [Contenido sexualmente obsceno de GitHub](/es/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-* [Amenazas de Violencia y Contenido Violento Gratuito en GitHub](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [GitHub Amenazas de violencia y contenido violento gratuito](/es/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 * [Apelación y restablecimiento de GitHub](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 

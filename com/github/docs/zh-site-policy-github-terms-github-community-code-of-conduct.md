@@ -139,7 +139,7 @@ GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 
 [联系 GitHub 工作人员](#contacting-github-staff)
 ----------
 
-如果出于任何原因要私下联系 GitHub 社区的 GitHub 工作人员、社区管理员或版主，您可以使用我们的[支持联系表](https://support.github.com/contact?tags=docs-community-support)。 强烈建议不要通过未经请求的提及或 ping 或者通过 GitHub 社区或支持联系表以外的渠道联系任何 GitHub 工作人员，否则可能被视为违反我们禁止骚扰的规定。
+如果出于任何原因要私下联系 GitHub 工作人员、社区管理员、管理员，或是 GitHub 社区的版主，您可以通过 [GitHub 支持门户](https://support.github.com/)联系 GitHub 支持人员。 强烈建议不要通过未经请求的提及或 ping 或者通过 GitHub 社区或支持联系表以外的渠道联系任何 GitHub 工作人员，否则可能被视为违反我们禁止骚扰的规定。
 
 让我们共同努力，互相尊重并珍惜每个人的时间，使 GitHub 社区成为一个人们可以安心参与的环境。
 
@@ -152,6 +152,6 @@ GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 
 
 ### [数据保留和数据删除](#data-retention-and-deletion-of-data) ###
 
-如果您是 GitHub 的用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或联系 [GitHub 支持](https://support.github.com/contact)来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
+如果您是 GitHub 用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或是通过 [GitHub 支持门户](https://support.github.com/)联系我们，来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
 
 {"resolvedServerColorMode":"day"}

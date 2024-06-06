@@ -22,7 +22,7 @@ Dans cet article
 * [D. Confidentialité](#d-privacy)
 * [E. Conditions relatives aux Services et Logiciels GitHub](#e-github-services-and-software-terms)
 * [F. Exclusion de garantie](#f-disclaimer-of-warranties)
-* [G. Limitation de responsabilité](#g-limitation-of-liability)
+* [G. Limitation de responsabilité.](#g-limitation-of-liability)
 * [H. Dispositions diverses](#h-miscellaneous)
 
 Bienvenue dans le programme de recherche GitHub (le « Programme ») ! Pour participer, nous aurons besoin que vous acceptiez un ensemble spécial de conditions, l'accord du programme de recherche GitHub ("Accord »).
@@ -67,7 +67,7 @@ Si l'accès aux services ou aux logiciels de GitHub est requis pour participer �
 
 Toutes les informations confidentielles et autres éléments que vous recevez via le programme sont fournis « tels quels » et sans garantie d'aucune sorte. Sans limiter cela, nous déclinons expressément toutes les garanties, qu'elles soient expresses, implicites ou statutaires, concernant le programme, y compris, sans s'y limiter, toute garantie de qualité marchande, d'adéquation à un usage particulier, de titre, de sécurité, d'exactitude et d'absence de contrefaçon.
 
-[G. Limitation de responsabilité](#g-limitation-of-liability)
+[G. Limitation de responsabilité.](#g-limitation-of-liability)
 ----------
 
 Sauf si la loi l'interdit, vous comprenez et acceptez que nous ne serons pas responsables envers vous ou un tiers pour toute perte de profits, d'utilisation, de clientèle ou de données, ou pour tout dommage accessoire, indirect, spécial, consécutif ou exemplaire.

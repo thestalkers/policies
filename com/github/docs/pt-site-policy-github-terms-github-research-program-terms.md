@@ -22,7 +22,7 @@ Neste artigo
 * [D. Privacidade](#d-privacy)
 * [E. Termos de Serviços e Software do GitHub](#e-github-services-and-software-terms)
 * [F. Isenção de garantias](#f-disclaimer-of-warranties)
-* [G. Limitação de Responsabilidade](#g-limitation-of-liability)
+* [G. Limitação de responsabilidade.](#g-limitation-of-liability)
 * [H. Disposições Gerais](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub ("Contrato").
@@ -67,7 +67,7 @@ Se o acesso aos serviços ou software do GitHub for necessário para participar 
 
 Todas as Informações Confidenciais e outros materiais que você recebe por meio do Programa são fornecidos "no estado em que se encontram" e sem garantia de qualquer tipo. Sem limitar isso, renunciamos expressamente a todas as garantias, sejam expressas, implícitas ou estatutárias, em relação ao Programa, incluindo, sem limitação, qualquer garantia de comercialização, adequação a uma finalidade específica, título, segurança, precisão e não violação.
 
-[G. Limitação de Responsabilidade](#g-limitation-of-liability)
+[G. Limitação de responsabilidade.](#g-limitation-of-liability)
 ----------
 
 Exceto quando proibido por lei, você entende e concorda que não seremos responsáveis perante você ou terceiros por qualquer perda de lucros, uso, boa vontade ou dados, ou por quaisquer danos incidentais, indiretos, especiais, consequenciais ou exemplares.

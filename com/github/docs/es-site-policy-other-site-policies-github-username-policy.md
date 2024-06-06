@@ -2,12 +2,12 @@ Política de nombre de usuario de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Página principal](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
 * [Política del sitio](/es/site-policy)/
-* [Otras Directivas del Sitio](/es/site-policy/other-site-policies)/
+* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
 * [Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
 Política de nombre de usuario de GitHub
