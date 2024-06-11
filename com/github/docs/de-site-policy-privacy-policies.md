@@ -12,16 +12,22 @@ Datenschutzrichtlinien - GitHub-Dokumentation
 Datenschutzrichtlinien
 ==========
 
-* [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement)
+[Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement)
+----------
 
-* [GitHub Unterauftragsverarbeiter](/de/site-policy/privacy-policies/github-subprocessors)
+[GitHub Unterauftragsverarbeiter](/de/site-policy/privacy-policies/github-subprocessors)
+----------
 
-* [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
+[GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
+----------
 
-* [GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
+----------
 
-* [GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+----------
 
-* [Vertragsbedingungen für GitHub Octernships](/de/site-policy/privacy-policies/github-octernships-terms-of-service)
+[Vertragsbedingungen für GitHub Octernships](/de/site-policy/privacy-policies/github-octernships-terms-of-service)
+----------
 
 {"resolvedServerColorMode":"day"}

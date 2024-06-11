@@ -12,12 +12,16 @@ Políticas da empresa do GitHub - GitHub Docs
 Políticas da empresa do GitHub
 ==========
 
-* [Declaração do GitHub contra a escravidão moderna e o trabalho infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[Declaração do GitHub contra a escravidão moderna e o trabalho infantil](/pt/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+----------
 
-* [Declaração antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
+[Declaração antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
+----------
 
-* [Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+[Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+----------
 
-* [Política de presentes e entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[Política de presentes e entretenimento do GitHub](/pt/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+----------
 
 {"resolvedServerColorMode":"day"}

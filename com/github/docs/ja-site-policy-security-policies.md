@@ -12,10 +12,13 @@
 セキュリティ ポリシー
 ==========
 
-* [セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+----------
 
-* [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+----------
 
-* [GitHub SIRT の説明 RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
+[GitHub SIRT の説明 RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
+----------
 
 {"resolvedServerColorMode":"day"}

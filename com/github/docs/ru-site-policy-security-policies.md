@@ -12,10 +12,13 @@
 Политики безопасности
 ==========
 
-* [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+----------
 
-* [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+----------
 
-* [Описание GitHub SIRT RFC 2350](/ru/site-policy/security-policies/github-sirt-description-rfc-2350)
+[Описание GitHub SIRT RFC 2350](/ru/site-policy/security-policies/github-sirt-description-rfc-2350)
+----------
 
 {"resolvedServerColorMode":"day"}

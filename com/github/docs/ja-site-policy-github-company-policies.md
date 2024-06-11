@@ -12,12 +12,16 @@ GitHub の会社ポリシー - GitHub Docs
 GitHub の会社ポリシー
 ==========
 
-* [GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+----------
 
-* [GitHub の腐敗防止に関する声明](/ja/site-policy/github-company-policies/github-anti-bribery-statement)
+[GitHub の腐敗防止に関する声明](/ja/site-policy/github-company-policies/github-anti-bribery-statement)
+----------
 
-* [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+[GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+----------
 
-* [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+----------
 
 {"resolvedServerColorMode":"day"}

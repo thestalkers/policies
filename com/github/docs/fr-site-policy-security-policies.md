@@ -12,10 +12,13 @@ Politiques de Sécurité - Documentation GitHub
 Politiques de Sécurité
 ==========
 
-* [Divulgation coordonnée des vulnérabilités de sécurité](/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[Divulgation coordonnée des vulnérabilités de sécurité](/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+----------
 
-* [Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+----------
 
-* [Description GitHub SIRT RFC 2350](/fr/site-policy/security-policies/github-sirt-description-rfc-2350)
+[Description GitHub SIRT RFC 2350](/fr/site-policy/security-policies/github-sirt-description-rfc-2350)
+----------
 
 {"resolvedServerColorMode":"day"}

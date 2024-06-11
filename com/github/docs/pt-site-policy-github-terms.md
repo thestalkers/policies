@@ -12,34 +12,49 @@ Termos do GitHub - GitHub Docs
 Termos do GitHub
 ==========
 
-* [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+[Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+----------
 
-* [Termos de serviço corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
+[Termos de serviço corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
+----------
 
-* [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+----------
 
-* [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+[Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+----------
 
-* [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
+[Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
+----------
 
-* [Termos de licença de pré-lançamento do GitHub](/pt/site-policy/github-terms/github-pre-release-license-terms)
+[Termos de licença de pré-lançamento do GitHub](/pt/site-policy/github-terms/github-pre-release-license-terms)
+----------
 
-* [Termos adicionais dos patrocinadores do GitHub](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+[Termos adicionais dos patrocinadores do GitHub](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+----------
 
-* [Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
+[Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
+----------
 
-* [Termos de Serviço do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
+[Termos de Serviço do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-terms-of-service)
+----------
 
-* [Contrato de desenvolvedor do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+[Contrato de desenvolvedor do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+----------
 
-* [Termos do Programa de Pesquisa GitHub](/pt/site-policy/github-terms/github-research-program-terms)
+[Termos do Programa de Pesquisa GitHub](/pt/site-policy/github-terms/github-research-program-terms)
+----------
 
-* [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+----------
 
-* [Termos do evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
+[Termos do evento do GitHub](/pt/site-policy/github-terms/github-event-terms)
+----------
 
-* [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
+[Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
+----------
 
-* [Contrato de Uso Educacional do GitHub](/pt/site-policy/github-terms/github-educational-use-agreement)
+[Contrato de Uso Educacional do GitHub](/pt/site-policy/github-terms/github-educational-use-agreement)
+----------
 
 {"resolvedServerColorMode":"day"}

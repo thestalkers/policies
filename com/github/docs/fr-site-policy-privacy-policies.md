@@ -12,16 +12,22 @@ Politiques de Confidentialité - Documentation GitHub
 Politiques de Confidentialité
 ==========
 
-* [Déclaration de confidentialité générale GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement)
+[Déclaration de confidentialité générale GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement)
+----------
 
-* [Sous-processeurs GitHub](/fr/site-policy/privacy-policies/github-subprocessors)
+[Sous-processeurs GitHub](/fr/site-policy/privacy-policies/github-subprocessors)
+----------
 
-* [Cookies sur GitHub](/fr/site-policy/privacy-policies/github-cookies)
+[Cookies sur GitHub](/fr/site-policy/privacy-policies/github-cookies)
+----------
 
-* [Déclaration de confidentialité GitHub Codespaces](/fr/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[Déclaration de confidentialité GitHub Codespaces](/fr/site-policy/privacy-policies/github-codespaces-privacy-statement)
+----------
 
-* [Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
+[Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
+----------
 
-* [Conditions d'utilisation du service GitHub Octernships](/fr/site-policy/privacy-policies/github-octernships-terms-of-service)
+[Conditions d'utilisation du service GitHub Octernships](/fr/site-policy/privacy-policies/github-octernships-terms-of-service)
+----------
 
 {"resolvedServerColorMode":"day"}
