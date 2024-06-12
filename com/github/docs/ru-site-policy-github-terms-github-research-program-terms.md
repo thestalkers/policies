@@ -16,81 +16,81 @@
 В этой статье
 ----------
 
-* [A. Your Feedback](#a-your-feedback)
-* [B. Confidentiality](#b-confidentiality)
-* [C. Reservation of Rights](#c-reservation-of-rights)
-* [D. Privacy](#d-privacy)
-* [E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
-* [F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
-* [G. Limitation of Liability](#g-limitation-of-liability)
-* [H. Miscellaneous](#h-miscellaneous)
+* [А. Ваша обратная связь](#a-your-feedback)
+* [B. Конфиденциальность](#b-confidentiality)
+* [C. Сохранение прав](#c-reservation-of-rights)
+* [D. Конфиденциальность](#d-privacy)
+* [Е. Условия предоставления услуг и программного обеспечения GitHub](#e-github-services-and-software-terms)
+* [F. Отказ от предоставления гарантий](#f-disclaimer-of-warranties)
+* [G. Ограничение ответственности](#g-limitation-of-liability)
+* [H. Прочие условия](#h-miscellaneous)
 
-Welcome to the GitHub Research Program (the "Program")! To participate, we’ll need you to agree to a special set of terms, the GitHub Research Program Agreement (“Agreement”).
+Добро пожаловать в исследовательскую программу GitHub («Программу»)! Чтобы принять участие, нам нужно, чтобы вы согласились со специальным набором условий — Соглашением о программе исследований GitHub («Соглашение»).
 
-This Agreement is a legal agreement between you (“you”, "your") and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully – you can only be a Program participant if you accept all the terms of this Agreement. By participating in the Program in any way – for example, by accessing information about GitHub products or services that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement.
+Настоящее Соглашение является юридическим соглашением между вами («вы», «ваш») и GitHub, Inc. («GitHub», «мы» или «нас»). Обязательно внимательно прочитайте настоящее Соглашение – вы можете стать участником Программы только в том случае, если примете все условия настоящего Соглашения. Участвуя в Программе любым способом — например, получая доступ к информации о продуктах или услугах GitHub, которые еще не доступны широкой публике, — вы соглашаетесь соблюдать все условия настоящего Соглашения.
 
-[A. Your Feedback](#a-your-feedback)
+[А. Ваша обратная связь](#a-your-feedback)
 ----------
 
-We’re always trying to improve our products and services, and your feedback as a Program participant will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services through the Program (collectively, “Feedback”), then we need the legal rights to use and analyze that information for those purposes. In legalese, that means you grant GitHub a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
+Мы всегда стараемся улучшить наши продукты и услуги, и ваши отзывы как участника Программы помогут нам в этом. Если вы решите предоставить нам какие-либо идеи, ноу-хау, алгоритмы, дополнения к коду, предложения, запросы на усовершенствование, рекомендации или любые другие отзывы о наших продуктах или услугах через Программу (совместно именуемые «Обратная связь»), то нам необходимы законные права. использовать и анализировать эту информацию для этих целей. В юридическом смысле это означает, что вы предоставляете GitHub безвозмездную, полностью оплаченную, всемирную, передаваемую, сублицензируемую, безотзывную и бессрочную лицензию на внедрение, использование, модификацию, коммерческое использование и/или включение Обратной связи в наши продукты, услуги и документацию.
 
-[B. Confidentiality](#b-confidentiality)
+[B. Конфиденциальность](#b-confidentiality)
 ----------
 
-GitHub may provide you with access to special information that isn’t available to the rest of the world for the purpose of providing feedback to us through the Program (the "Purpose"). Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
+GitHub может предоставить вам доступ к специальной информации, недоступной для остального мира, с целью предоставления нам обратной связи через Программу («Назначение»). Из-за конфиденциального характера этой информации для нас важно убедиться, что вы держите эту информацию в секрете.
 
-You agree that any non-public information we share with you or that you may have access to as a Program participant will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the Purpose stated above, and not for any other purpose. You should use the same degree of care as you would with your confidential information but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party.
+Вы соглашаетесь с тем, что любая непубличная информация, которой мы делимся с вами или к которой вы можете иметь доступ как участник Программы, будет считаться конфиденциальной информацией GitHub (совместно именуемой «Конфиденциальная информация»), независимо от того, помечена ли она или идентифицирована как таковая. Вы соглашаетесь использовать такую Конфиденциальную информацию только в целях, указанных выше, и ни в каких других целях. Для предотвращения несанкционированного использования, раскрытия, публикации или распространения нашей Конфиденциальной информации вы должны соблюдать ту же степень осторожности, что и в отношении своей конфиденциальной информации, но не менее чем разумные меры предосторожности. Вы обязуетесь не разглашать, не публиковать и не распространять какую-либо Конфиденциальную информацию третьим лицам.
 
-You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
+Вы понимаете, что несанкционированное раскрытие или использование нашей Конфиденциальной информации может нанести нам непоправимый ущерб и значительный ущерб, который нам может быть трудно оценить количественно. Соответственно, вы соглашаетесь с тем, что мы будем иметь право добиваться немедленного судебного запрета, чтобы обеспечить соблюдение вами данного Соглашения, в дополнение к любым другим правам и средствам правовой защиты, которыми мы можем располагать. Если в соответствии с законом, нормативными актами или действующим обязательным постановлением суда компетентной юрисдикции вы должны раскрыть нашу Конфиденциальную информацию, вы можете это сделать, но только в том случае, если вы уведомите нас об этом и сделаете все возможное, чтобы ограничить такое раскрытие и добиться конфиденциального, защитного режима такой информации.
 
-The obligations in this Section 2 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
+Обязательства, предусмотренные настоящим разделом 2, не распространяются на информацию, которая, подтвержденным данным: (i) была общедоступной до того, как мы раскрыли ее вам; (ii) стала общедоступной после того, как мы раскрыли ее вам, без каких-либо действий или бездействия с вашей стороны, со стороны ваших сотрудников или подрядчиков; (iii) была известна вам до того, как мы раскрыли ее вам; (iv) была раскрыта вам третьим лицом, которое не имело в отношении нее никаких обязательств по соблюдению конфиденциальности; (v) была разработана вами самостоятельно без нарушения каких-либо обязательств по соблюдению конфиденциальности перед нами или третьим лицом; или (vi) была раскрыта вами с нашего письменного разрешения, подписанного одним из наших уполномоченных представителей.
 
-[C. Reservation of Rights](#c-reservation-of-rights)
+[C. Сохранение прав](#c-reservation-of-rights)
 ----------
 
-All Confidential Information remains the sole and exclusive property of GitHub. Neither party acquires any intellectual property rights under this Agreement, unless expressly specified herein.
+Вся Конфиденциальная информация остается исключительной собственностью GitHub. Ни одна из сторон не приобретает никаких прав на интеллектуальную собственность по настоящему Соглашению, если иное прямо не указано в нем.
 
-[D. Privacy](#d-privacy)
+[D. Конфиденциальность](#d-privacy)
 ----------
 
-By participating in this Program, you consent to our use of your personal information for research purposes, and not for any other purposes. As part of the Program, we may use your personal information to contact you, or retain your information, to contact you at a later date. Personal information does not include aggregated, non-personally identifying information. We may use aggregated or other non-personally identifying information collected through the program to operate, analyze, and improve our products and services.
+Участвуя в этой Программе, вы даете согласие на использование нами вашей личной информации в исследовательских целях, а не в каких-либо других целях. В рамках Программы мы можем использовать вашу личную информацию, чтобы связаться с вами, или сохранить вашу информацию, чтобы связаться с вами позднее. Личная информация не включает обобщенную, не идентифицирующую личность информацию. Мы можем использовать обобщенную или другую информацию, не идентифицирующую личность, собранную в рамках программы, для работы, анализа и улучшения наших продуктов и услуг.
 
-You can withdraw your consent at any time, and request access to or the deletion of the personal information that we hold about you. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement) or contact us through our [Privacy contact form](https://github.com/contact/privacy).
+Вы можете отозвать свое согласие в любое время и запросить доступ или удаление личной информации, которую мы храним о вас. Для получения дополнительной информации о том, как вы можете получить доступ, обновить, изменить или удалить личные сведения, которые GitHub собирает в рамках Программы, см. [Заявление о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-privacy-statement) или свяжитесь с нами через [Форма](https://github.com/contact/privacy) контакта конфиденциальности.
 
-[E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
+[Е. Условия предоставления услуг и программного обеспечения GitHub](#e-github-services-and-software-terms)
 ----------
 
-If access to GitHub's services or software are required to participate in certain Program studies or activities, then the applicable services or software agreement will apply to your use of those products (the "Generally Applicable Terms"). In the event of a direct conflict between this Agreement and the Generally Applicable Terms, your Generally Applicable Terms will control, except with respect to any use of Confidential Information (as defined below), in which case this Agreement will control.
+Если доступ к услугам или программному обеспечению GitHub необходим для участия в определенных исследованиях или мероприятиях Программы, то к использованию вами этих продуктов будет применяться применимое соглашение об услугах или программном обеспечении («Общеприменимые условия»). В случае прямого противоречия между настоящим Соглашением и Общеприменимыми условиями ваши Общеприменимые условия будут иметь преимущественную силу, за исключением любого использования Конфиденциальной информации (как определено ниже), и в этом случае настоящее Соглашение будет иметь преимущественную силу.
 
-[F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
+[F. Отказ от предоставления гарантий](#f-disclaimer-of-warranties)
 ----------
 
-All Confidential Information and other materials you receive through the Program are provided “as is” and without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Program including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
+Вся Конфиденциальная информация и другие материалы, которые вы получаете в рамках Программы, предоставляются «как есть» и без каких-либо гарантий. Не ограничиваясь этим, мы прямо отказываемся от всех гарантий, явных, подразумеваемых или предусмотренных законом, в отношении Программы, включая, помимо прочего, любые гарантии товарного состояния, пригодности для определенной цели, правового титула, безопасности, точности и ненарушения прав.
 
-[G. Limitation of Liability](#g-limitation-of-liability)
+[G. Ограничение ответственности](#g-limitation-of-liability)
 ----------
 
-Except as prohibited by law, you understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages.
+За исключением случаев, запрещенных законом, вы понимаете и соглашаетесь с тем, что мы не несем ответственности перед вами или любой третьей стороной за потерю прибыли, использования, деловой репутации или данных, а также за любые случайные, косвенные, специальные, последующие или образцовые убытки.
 
-Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
+Наша ответственность ограничена независимо от того, были ли мы проинформированы о возможности таких убытков, и даже если средство правовой защиты, изложенное в настоящем Соглашении, не достигло своей основной цели. Мы не несем ответственности за любой сбой или задержку по причинам, находящимся вне нашего разумного контроля.
 
-[H. Miscellaneous](#h-miscellaneous)
+[H. Прочие условия](#h-miscellaneous)
 ----------
 
-### [1. Governing Law](#1-governing-law) ###
+### [1. Регулирующее законодательство](#1-governing-law) ###
 
-Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
+За исключением случаев, когда регулирующее законодательство предусматривает иное, настоящее Соглашение между вами и GitHub, а также любой доступ или использование Веб-сайта или Услуг регулируются федеральными законами Соединенных Штатов Америки и законами штата Калифорния без учета положений коллизионного права. Вы и GitHub соглашаетесь подчиняться исключительной юрисдикции и месту проведения судов, расположенных в городе и округе Сан-Франциско, штат Калифорния.
 
-### [2. Non-Assignability](#2-non-assignability) ###
+### [2. Неотчуждаемость](#2-non-assignability) ###
 
-GitHub may assign or delegate this Agreement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section A. You may not assign or delegate any rights or obligations under this Agreement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+GitHub может уступать или делегировать настоящее Соглашение, полностью или частично, любому физическому или юридическому лицу в любое время с Вашего согласия или без него, включая предоставление лицензии в разделе А. Вы не можете уступать или делегировать какие-либо права или обязательства по настоящему Соглашению без нашего предварительного письменного согласия, и любая несанкционированная уступка или делегирование Вами прав и обязательств является недействительной.
 
-### [3. Severability, No Waiver, and Survival](#3-severability-no-waiver-and-survival) ###
+### [3. Делимость, отказ от прав и сохранение в силе](#3-severability-no-waiver-and-survival) ###
 
-If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
+Если какая-либо часть настоящего Соглашения будет признана недействительной или не имеющей исковой силы, эта часть Соглашения будет толковаться как отражающая первоначальные намерения сторон. Остальные положения сохраняют свою юридическую силу. Любая неспособность со стороны GitHub обеспечить соблюдение какого-либо положения настоящего Соглашения не будет считаться отказом от нашего права на обеспечение соблюдения такого положения. Наши права по настоящему Соглашению остаются в силе после прекращения действия настоящего Соглашения.
 
-### [4. Amendments; Complete Agreement](#4-amendments-complete-agreement) ###
+### [4. Поправки; Полное соглашение](#4-amendments-complete-agreement) ###
 
-This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub. This Agreement, together with the Generally Applicable Terms and the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
+Настоящее Соглашение может быть изменено только посредством дополнения в письменной форме, подписанного уполномоченным представителем GitHub. Настоящее Соглашение вместе с Общеприменимыми условиями и Заявлением о конфиденциальности GitHub представляет собой полное и исключительное заявление о соглашении между вами и нами. Настоящее Соглашение заменяет любое предложение или предварительное устное или письменное соглашение, а также любые другие сообщения между вами и GitHub, касающиеся предмета настоящих условий, включая любые соглашения о конфиденциальности или неразглашении.
 
 {"resolvedServerColorMode":"day"}

@@ -13,10 +13,10 @@ GitHub 쿠키 - GitHub Docs
 GitHub 쿠키
 ==========
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
+GitHub는 훌륭한 사용자 환경을 제공하기 위하여 GitHub 웹 사이트를 제공 및 보호하고 GitHub 웹 사이트의 사용 현황을 분석하는 데 쿠키를 사용합니다. 쿠키에 대한 자세한 내용과 쿠키를 사용하는 방법 및 이유에 대한 자세한 내용을 보려면 [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking)을 살펴보세요.
 
-You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
+<https://github.com/privacy/cookies>에서 GitHub의 현재 쿠키 목록을 보고, 쿠키 목록 업데이트를 받기 위해 가입할 수 있습니다.
 
-If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
+새 하위 프로세서에 대한 질문이나 문제가 있는 경우 [개인 정보 연락처 양식](https://github.com/contact/privacy)(으)로 문의하세요.
 
 {"resolvedServerColorMode":"day"}

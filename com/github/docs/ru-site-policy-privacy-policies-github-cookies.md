@@ -13,10 +13,10 @@ Cookie-файлы GitHub - Документация по GitHub
 Cookie-файлы GitHub
 ==========
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
+GitHub использует файлы cookie для предоставления и защиты наших веб-сайтов, а также для анализа использования наших веб-сайтов, чтобы обеспечить вам удобство использования. Ознакомьтесь с нашим [Заявлением о конфиденциальности](/ru/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking), если вы хотите получить дополнительные сведения о файлах cookie и о том, как и почему мы используем их.
 
-You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
+Вы можете просмотреть текущий список файлов cookie на сайте GitHub и зарегистрироваться для получения обновлений списка файлов cookie.<https://github.com/privacy/cookies>
 
-If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
+Если у вас есть вопросы или проблемы с новым дополнительным обработчиком данных, обратитесь к нам, используя [Форма](https://github.com/contact/privacy) контакта конфиденциальности.
 
 {"resolvedServerColorMode":"day"}
