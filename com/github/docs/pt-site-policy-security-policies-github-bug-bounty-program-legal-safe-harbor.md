@@ -1,4 +1,4 @@
-Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -8,9 +8,9 @@ Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub -
 
 * [Política do site](/pt/site-policy)/
 * [Políticas de Segurança](/pt/site-policy/security-policies)/
-* [Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [GitHub Bug Bounty Program Legal Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Safe Harbor (Porto Seguro) Legal do Programa de Recompensas por Bugs do GitHub
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
 Neste artigo

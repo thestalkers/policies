@@ -19,7 +19,7 @@ Neste artigo
 * [Mantendo uma comunidade forte](#maintaining-a-strong-community)
 * [E se algo ou alguém te ofender?](#what-if-something-or-someone-offends-you)
 * [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
-* [Apelação e Reintegração](#appeal-and-reinstatement)
+* [Contestação e reintegração](#appeal-and-reinstatement)
 * [Noticias legais](#legal-notices)
 
 Milhões de desenvolvedores em todo o mundo hospedam milhões de projetos – tanto de código aberto quanto fechado – no GitHub. Temos a sorte de poder desempenhar um papel em permitir a colaboração em toda a comunidade de desenvolvedores todos os dias, o que é uma responsabilidade que não tomamos de ânimo leve. Juntos, todos nós temos a empolgante oportunidade de fazer desta uma comunidade da qual podemos nos orgulhar.
@@ -44,7 +44,7 @@ O objetivo principal da comunidade GitHub é colaborar em projetos de software. 
 [E se algo ou alguém te ofender?](#what-if-something-or-someone-offends-you)
 ----------
 
-Embora algumas divergências possam ser resolvidas com comunicação direta e respeitosa entre os membros da comunidade, entendemos que nem sempre é o caso. Incentivamos nossa comunidade a [nos informar](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified) quando se acreditar que o conteúdo ou a atividade identificado viola nossas políticas. No entanto, se você encontrar algo ou alguém no site que considere censurável, aqui estão algumas maneiras pelas quais o GitHub permite que você tome medidas:
+Embora algumas divergências possam ser resolvidas com comunicação direta e respeitosa entre os membros da comunidade, entendemos que nem sempre é o caso. Incentivamos nossa comunidade a entrar em contato com o Suporte do GitHub por meio do [Portal de suporte do GitHub](https://support.github.com/) quando acreditar que o conteúdo ou a atividade que encontraram viole nossas políticas. No entanto, se você encontrar algo ou alguém no site que considere censurável, aqui estão algumas maneiras pelas quais o GitHub permite que você tome medidas:
 
 * **Comunique as expectativas** – Os mantenedores podem definir diretrizes específicas da comunidade para ajudar os usuários a entender como interagir com seus projetos, por exemplo, no README de um repositório, [arquivo CONTRIBUTING](/pt/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), ou [código de conduta específico](/pt/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). Você pode encontrar informações adicionais sobre como construir comunidades na página [Comunidades](/pt/communities).
 
@@ -56,7 +56,7 @@ Embora algumas divergências possam ser resolvidas com comunicação direta e re
 
 * **Limite as interações** – Se o seu projeto público estiver recebendo atenção indesejada, sendo trollado, sendo enviado como spam ou de outra forma, você terá a opção de configurar [limites de interação temporária](/pt/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) para impedir que determinados usuários interajam com o repositório. Você pode até definir [limites de revisão de código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para garantir contribuições de qualidade em seus projetos.
 
-Embora sejamos apaixonados por capacitar os mantenedores a moderar seus próprios projetos, entre em contato conosco para se você precisar de suporte adicional para lidar com uma situação.
+Embora sejamos entusiastas da ideia de capacitar os mantenedores a moderar seus próprios projetos, entre em contato com conosco por meio do [Portal de suporte do GitHub](https://support.github.com) se precisar de suporte adicional para lidar com uma situação.
 
 [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
 ----------
@@ -77,7 +77,7 @@ Nos casos em que decidimos que a ação de moderação é necessária, estas sã
 * Ocultar uma conta de usuário ou organização da exibição pública
 * Suspensão de uma conta de usuário ou organização
 
-[Apelação e Reintegração](#appeal-and-reinstatement)
+[Contestação e reintegração](#appeal-and-reinstatement)
 ----------
 
 Se o conteúdo ou a conta foi desativado ou restrito e você busca o restabelecimento ou deseja contestar, consulte a [Página de Recurso e Reposição](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) para obter informações sobre o processo e use o [Formulário de Recurso e Restabelecimento](https://support.github.com/contact/reinstatement) para enviar uma solicitação.
