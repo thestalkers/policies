@@ -27,7 +27,4 @@
 [GitHub 지원자 개인정보보호정책](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
-[GitHub Octernships 서비스 약관](/ko/site-policy/privacy-policies/github-octernships-terms-of-service)
-----------
-
 {"resolvedServerColorMode":"day"}

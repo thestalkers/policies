@@ -27,7 +27,4 @@ Politiques de Confidentialité
 [Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
-[Conditions d'utilisation du service GitHub Octernships](/fr/site-policy/privacy-policies/github-octernships-terms-of-service)
-----------
-
 {"resolvedServerColorMode":"day"}

@@ -27,7 +27,4 @@ Privacy Policies
 [GitHub Candidate Privacy Policy](/en/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
-[GitHub Octernships Terms of Service](/en/site-policy/privacy-policies/github-octernships-terms-of-service)
-----------
-
 {"resolvedServerColorMode":"day"}

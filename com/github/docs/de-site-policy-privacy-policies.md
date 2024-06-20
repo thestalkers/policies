@@ -27,7 +27,4 @@ Datenschutzrichtlinien
 [GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
-[Vertragsbedingungen für GitHub Octernships](/de/site-policy/privacy-policies/github-octernships-terms-of-service)
-----------
-
 {"resolvedServerColorMode":"day"}
