@@ -19,7 +19,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 1. **Les Conditions d'Utilisation de GitHub.com s'appliqueront**
 
-   Vous devez avoir un compte sur GitHub.com pour participer au Programme. En cliquant sur « J'accepte » au bas du présent Accord, vous acceptez également d'être lié par les [Conditions d'utilisation du service](/fr/site-policy/github-terms/github-terms-of-service) de GitHub.com (les « CGU »). En cas de conflit direct entre le présent Contrat et les CGU, le présent Contrat prévaudra ; sinon, les deux accords s'appliqueront à vous simultanément.
+   Vous devez avoir un compte sur GitHub.com pour participer au Programme. En cliquant sur « J'accepte » au bas du présent Accord, vous acceptez également d'être lié par les [Conditions d'utilisation du service](/fr/site-policy/github-terms/github-terms-of-service) de GitHub.com (les « CGU »). En cas de conflit direct entre le présent Contrat et les conditions d’utilisation du service, le présent Contrat prévaudra ; sinon, les deux accords s'appliqueront à vous simultanément.
 
 2. **Conditions du Programme**
 

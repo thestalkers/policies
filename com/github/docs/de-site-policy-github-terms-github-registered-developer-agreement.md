@@ -19,7 +19,7 @@ Diese Vereinbarung ist eine rechtsgültige Vereinbarung zwischen Ihnen („Sie�
 
 1. **Es gelten die Nutzungsbedingungen von GitHub.com**
 
-   Sie müssen ein Konto bei GitHub.com haben, um am Programm teilnehmen zu können. Indem Sie unten in dieser Vereinbarung auf „Ich stimme zu“ klicken, stimmen Sie auch zu, an die [Vertragsbedingungen](/de/site-policy/github-terms/github-terms-of-service) von GitHub.com gebunden zu sein. Im Falle eines direkten Konflikts zwischen dieser Vereinbarung und den TOS hat diese Vereinbarung Vorrang; andernfalls gelten beide Vereinbarungen gleichzeitig für Sie.
+   Sie müssen ein Konto bei GitHub.com haben, um am Programm teilnehmen zu können. Indem Sie unten in dieser Vereinbarung auf „Ich stimme zu“ klicken, stimmen Sie auch zu, an die [Vertragsbedingungen](/de/site-policy/github-terms/github-terms-of-service) von GitHub.com gebunden zu sein. Im Falle eines direkten Konflikts zwischen dieser Vereinbarung und den Vertragsbedingungen hat diese Vereinbarung Vorrang; andernfalls gelten beide Vereinbarungen gleichzeitig für Sie.
 
 2. **Programmbestimmungen**
 
