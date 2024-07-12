@@ -19,7 +19,7 @@ GitHub Bug 赏金计划法律安全港
 * [概述](#summary)
 * [1.安全港条款](#1-safe-harbor-terms)
 * [2.第三方安全港](#2-third-party-safe-harbor)
-* [3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
+* [3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-policies)
 
 [概述](#summary)
 ----------
@@ -48,7 +48,7 @@ GitHub Bug 赏金计划法律安全港
 
 即便如此，如果由于您参与此 Bug 赏金计划，第三方对您发起法律行动（包括执法），而您完全符合我们的 Bug 赏金政策（即没有故意或恶意的违规行为），我们将采取措施，让第三方知道您的行动是依照本政策进行的。 虽然我们认为提交的报告是机密文件和可能的特殊文件，而且在大多数情况下会被保护以免于被迫披露，但请注意，法院可以不顾我们的反对，命令我们与第三方共享信息。
 
-[3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-polices)
+[3.其他站点政策的有限豁免](#3-limited-waiver-of-other-site-policies)
 ----------
 
 如果您的安全研究活动不符合我们[相关站点政策](/zh/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！
