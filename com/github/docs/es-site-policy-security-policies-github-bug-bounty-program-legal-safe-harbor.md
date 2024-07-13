@@ -19,7 +19,7 @@ En este artículo
 * [Resumen](#summary)
 * [1. Términos de Safe Harbor](#1-safe-harbor-terms)
 * [2. Safe Harbor de terceros](#2-third-party-safe-harbor)
-* [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-polices)
+* [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-policies)
 
 [Resumen](#summary)
 ----------
@@ -48,7 +48,7 @@ Tenga en cuenta que no podemos autorizar pruebas fuera del ámbito en nombre de 
 
 Dicho esto, si algún tercero inicia una acción legal, incluida la aplicación de la ley, contra usted debido a su participación en este programa de recompensa por la detección de errores y usted ha cumplido suficientemente nuestra directiva de recompensa por la detección de errores (es decir, no se han producido infracciones intencionadas o de mala fe), tomaremos medidas para hacer saber que sus acciones se llevaron a cabo de conformidad con esta directiva. Aunque consideramos que los informes presentados son documentos confidenciales y potencialmente privilegiados, así como protegidos contra una revelación obligatoria en la mayoría de las circunstancias, por favor tenga en cuenta que un tribunal podría, a pesar de nuestras objeciones, ordenarnos compartir la información con un tercero.
 
-[3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-polices)
+[3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-policies)
 ----------
 
 En la medida en que sus actividades de investigación de seguridad sean incoherentes con determinadas restricciones de las [directivas pertinentes del sitio](/es/site-policy), pero sean coherentes con los términos de nuestro programa de recompensa por errores, renunciamos a dichas restricciones con el único y limitado propósito de permitir su investigación de seguridad en virtud de este programa de recompensa por la detección de errores. Al igual que en el caso anterior, en caso de duda, pregúntenos primero.

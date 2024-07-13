@@ -19,7 +19,7 @@ In diesem Artikel
 * [Zusammenfassung](#summary)
 * [1. Safe-Harbor-Bedingungen](#1-safe-harbor-terms)
 * [2. Safe-Harbor-Verfahren in Bezug auf Dritte](#2-third-party-safe-harbor)
-* [3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-polices)
+* [3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-policies)
 
 [Zusammenfassung](#summary)
 ----------
@@ -48,7 +48,7 @@ Bitte beachten Sie, dass wir keine außerplanmäßigen Tests im Namen Dritter zu
 
 Wenn ein Dritter, einschließlich der Strafverfolgungsbehörden, aufgrund Ihrer Teilnahme an diesem Bug-Bounty-Programm rechtliche Schritte gegen Sie einleitet, Sie unsere Bug-Bounty-Richtlinie jedoch ausreichend befolgt haben (d. h. keine vorsätzlichen oder böswilligen Verstöße begangen haben), so werden wir Schritte unternehmen, um bekanntzumachen, dass Ihre Handlungen in Übereinstimmung mit dieser Richtlinie durchgeführt wurden. Obwohl wir die eingereichten Berichte sowohl als vertrauliche als auch als potenziell rechtlich geschützte Dokumente betrachten, die in den meisten Fällen vor einer erzwungenen Offenlegung geschützt sind, beachten Sie bitte, dass ein Gericht uns trotz unserer Einwände anweisen könnte, Daten an Dritte weiterzugeben.
 
-[3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-polices)
+[3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-policies)
 ----------
 
 Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren [jeweiligen Standortrichtlinien](/de/site-policy) unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen. Wie oben gilt: Fragen Sie im Zweifelsfall nach!
