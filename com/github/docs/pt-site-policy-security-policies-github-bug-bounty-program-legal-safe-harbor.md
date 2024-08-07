@@ -19,7 +19,7 @@ Neste artigo
 * [Resumo](#summary)
 * [1. Termos do Safe Harbor (Porto Seguro)](#1-safe-harbor-terms)
 * [2. Safe Harbor (Porto Seguro) de Terceiros](#2-third-party-safe-harbor)
-* [3. Renúncia limitada de outras políticas do site](#3-limited-waiver-of-other-site-policies)
+* [3. Renúncia Limitada de Outras Políticas Locais](#3-limited-waiver-of-other-site-policies)
 
 [Resumo](#summary)
 ----------
@@ -48,7 +48,7 @@ Não podemos autorizar testes fora do escopo em nome de terceiros, e esses teste
 
 Dito isso, se ações legais forem movidas por um terceiro, incluindo autoridades policiais, contra você devido à sua participação neste programa de prêmios por bugs e você tiver cumprido de forma suficiente nossa política de prêmios por bugs (isto é, não tiver cometido violações intencionais ou de má-fé), tomaremos medidas para divulgar que suas ações foram realizadas em conformidade com esta política. Embora consideremos os relatórios enviados documentos confidenciais, possivelmente privilegiados e protegidos contra a divulgação forçada na maioria das circunstâncias, saiba que um tribunal pode, a despeito de nossas objeções, nos obrigar a compartilhar informações com um terceiro.
 
-[3. Renúncia limitada de outras políticas do site](#3-limited-waiver-of-other-site-policies)
+[3. Renúncia Limitada de Outras Políticas Locais](#3-limited-waiver-of-other-site-policies)
 ----------
 
 Na medida em que suas atividades de pesquisa de segurança forem inconsistentes com determinadas restrições em nossas [políticas locais relevantes](/pt/site-policy), mas forem consistentes com nosso programa por recompensas por bugs, renunciaremos a essas restrições para a finalidade exclusiva e limitada de autorizar sua pesquisa de segurança de acordo com este programa de recompensas por bugs. Conforme mencionado acima, em caso de dúvida, pergunte primeiro.

@@ -30,8 +30,9 @@
 * [プレビュー](#previews)
 * [Sponsors プログラム](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
+* [GitHub モデル](#github-models)
 
-バージョン発効日: 2024 年 3 月 21 日
+バージョン発効日: 2024 年 8 月 1 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -48,7 +49,7 @@ GitHub を利用する際、数多くの追加製品や機能 (以下「追加�
 
 GitHub Actions を使用すると、カスタム ソフトウェア開発ライフサイクル ワークフローを GitHub リポジトリに直接作成することができます。 Actions は使用量ベースで請求されます。 [Actions のドキュメント](/ja/actions)には、コンピューティング量とストレージ量 (アカウント プランによって異なります)、Actions の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。
 
-Actions および Actions 製品またはサービスの要素は、「契約」、「[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)」、または [Actions ドキュメント](/ja/actions/learn-github-actions/usage-limits-billing-and-administration) に規定されている GitHub Actions サービスの制限に違反して使用することはできません。 さらに、Action が自己ホスト型のランナーを使用しているかどうかに関係なく、Action は次の目的には使用しないでください。
+Actions および Actions 製品またはサービスの要素は、「契約」、「[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)」、または [Actions ドキュメント](/ja/actions/learn-github-actions/usage-limits-billing-and-administration)に規定されている GitHub Actions サービスの制限に違反して使用することはできません。 さらに、Action が自己ホスト型のランナーを使用しているかどうかに関係なく、Action は次の目的には使用しないでください。
 
 * クリプトマイニング、
 * サービス、デバイス、データ、アカウント、またはネットワーク ([GitHub バグ報奨金プログラム](https://bounty.github.com)によって承認されたものを除く) に対する中断、取得、または不正アクセスの試み、
@@ -192,5 +193,12 @@ GitHub Sponsors により、開発者コミュニティは、日々活用して�
 ----------
 
 お客様は、Linux ファイル用の Microsoft SQL Server Standard Edition コンテナー イメージ (以下「SQL Server Images」といいます) をダウンロードできます。 お客様の本ソフトウェアの使用権が終了した場合は、SQL Server Images をアンインストールしなければなりません。 また、Microsoft Corporation は、随時 SQL Server Images を無効にすることができます。
+
+[GitHub モデル](#github-models)
+----------
+
+GitHub モデルは、GitHub.com で人工知能モデルを学習、試用、テストできる機能です。 GitHub モデルには、[GitHub Marketplace](https://github.com/marketplace) 経由でアクセスできます。 GitHub モデルの詳細については、「[AI モデルを使用したプロトタイプ作成](/ja/github-models/prototyping-with-ai-models)」に関するページを参照してください。
+
+この機能の使用は、モデルとモデル ライセンスをホストしている会社の条件に従います。
 
 {"resolvedServerColorMode":"day"}

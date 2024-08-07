@@ -30,8 +30,9 @@ GitHub 附加产品和功能条款
 * [预览版](#previews)
 * [赞助商计划](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
+* [GitHub 模型](#github-models)
 
-版本生效日期：2024 年 3 月 21 日
+版本生效日期：2024 年 8 月 1 日
 
 当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
@@ -48,13 +49,13 @@ GitHub 附加产品和功能条款
 
 GitHub Actions 使你能够直接在 GitHub 存储库中创建自定义软件开发生命周期工作流程。 Actions 按使用情况计费。 [Actions 文档](/zh/actions)包含详细信息，包括计算和存储量（取决于您的帐户计划）以及如何监控您的 Actions 分钟使用情况和设置使用限制。
 
-对 Actions 以及任何 Action 产品或服务元素的使用不得违反协议、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Actions 文档](/zh/actions/learn-github-actions/usage-limits-billing-and-administration)规定的 GitHub Actions 服务限制。 此外，无论操作是否使用自托管运行器，Actions 都不应用于：
+对 Actions 以及任何 Actions 产品或服务元素的使用不得违反协议、[GitHub 可接受的使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)或 [Actions 文档](/zh/actions/learn-github-actions/usage-limits-billing-and-administration)规定的 GitHub Actions 服务限制。 此外，无论操作是否使用自托管运行器，Actions 都不应用于：
 
 * 加密货币挖矿；
 * 破坏、获取或试图未经授权而访问任何服务、设备、数据、帐户或网络（[GitHub Bug 赏金计划](https://bounty.github.com)授权的除外）；
 * 出于商业目的提供独立或集成的应用程序或服务，其中提供 Actions 产品或服务或者 Actions 产品或服务的任何元素；
-* 给我们的服务器带来负担且这种负担与提供给用户的权益不成比例的活动（例如，不要将 Actions 用作内容交付网络或作为无服务器应用程序的一部分，但低权益、低负担的操作可能没有问题）；
-* 与软件项目（与使用 GitHub Actions 的存储库关联）的生产、测试、部署或发布无关的任何其他活动（如使用 GitHub 托管的运行器）。
+* 给我们的服务器带来负担且这种负担与提供给用户的权益不成比例的活动（例如，不要将 Actions 用作内容分发网络或作为无服务器应用程序的一部分，但低权益、低负担的操作可能没有问题）；
+* 与软件项目（与使用 GitHub Actions 的存储库关联）的生产、测试、部署或发布无关的任何其他活动（如果使用 GitHub 托管的运行器）。
 
 为防止违反这些限制和滥用 GitHub Actions，GitHub 可能会监视您对 GitHub Actions 的使用。 滥用 GitHub Actions 可能会导致作业终止、限制您使用 GitHub Actions 的能力、禁用为了以违反这些条款的方式运行 Actions 而创建的存储库，或者在某些情况下，暂停或终止您的 GitHub 帐户。
 
@@ -106,7 +107,7 @@ GitHub Codespaces 使您能够直接从浏览器中使用 GitHub 存储库中的
 * 加密货币挖矿；
 * 使用我们的服务器破坏、获取或试图未经授权而访问任何服务、设备、数据、帐户或网络（GitHub Bug 赏金计划授权的除外）；
 * 出于商业目的提供独立或集成的应用程序或服务，其中提供 Codespaces 或者 Codespaces 的任何元素；
-* 给我们的服务器带来负担且这种负担与提供给用户的权益不成比例的活动（例如，不要将 Codespaces 用作内容交付网络、作为无服务器应用程序的一部分或托管任何类型的面向生产的应用程序）；
+* 给我们的服务器带来负担且这种负担与提供给用户的权益不成比例的活动（例如，不要将 Codespaces 用作内容分发网络、作为无服务器应用程序的一部分或托管任何类型的面向生产的应用程序）；
 * 与软件项目（与启动 GitHub Codespaces 的存储库关联）的开发或测试无关的任何其他活动。
 
 为防止违反这些限制和滥用 GitHub Codespaces，GitHub 可能会监视您对 GitHub Codespaces 的使用。 滥用 GitHub Codespaces 可能会导致终止您对 Codespaces 的访问、限制您使用 GitHub Codespaces 的能力，或禁用为了以违反这些条款的方式运行 Codespaces 而创建的存储库。
@@ -155,7 +156,7 @@ npm 是一种软件包托管服务，允许您以私有方式或公开方式托�
 [服务包](#packages)
 ----------
 
-GitHub Packages 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 GitHub Packages 按使用情况计费。 [Packages 文档](/zh/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages 带宽使用受 [GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的限制。
+GitHub Packages 是一种软件包托管服务，允许您以私有方式或公开方式托管软件包，并将软件包用作项目中的依赖项。 GitHub Packages 按使用情况计费。 [Packages 文档](/zh/packages/learn-github-packages/introduction-to-github-packages)包含详细信息，包括带宽和存储量（取决于您的帐户计划）以及如何监控您的 Packages 使用和设置使用限制。 Packages Bandwidth 使用情况受 [GitHub 可接受的使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的限制。
 
 [Pages](#pages)
 ----------
@@ -192,5 +193,12 @@ GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、�
 ----------
 
 您可以下载适用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server Images”）。 当您对该软件的使用权利终止时，您必须卸载 SQL Server Images。 Microsoft Corporation 可随时禁用 SQL Server Images。
+
+[GitHub 模型](#github-models)
+----------
+
+GitHub 模型是一项功能，可用于在 GitHub.com 上学习、试用和测试人工智能模型。 可以通过 [GitHub Marketplace](https://github.com/marketplace) 访问 GitHub 模型。 通过访问 [AI 模型的原型制作](/zh/github-models/prototyping-with-ai-models)，详细了解 GitHub 模型。
+
+此功能的使用受托管模型和模型许可证的公司条款的约束。
 
 {"resolvedServerColorMode":"day"}

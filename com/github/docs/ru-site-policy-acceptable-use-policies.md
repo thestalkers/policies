@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-[HOME](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
@@ -30,7 +30,7 @@
 [Разжигание ненависти и дискриминация на GitHub](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 ----------
 
-[Олицетворение GitHub](/ru/site-policy/acceptable-use-policies/github-impersonation)
+[Имперсонация GitHub](/ru/site-policy/acceptable-use-policies/github-impersonation)
 ----------
 
 [Неправильная информация и дезинформация GitHub](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)

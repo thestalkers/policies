@@ -48,7 +48,7 @@ En utilisant les produits et fonctionnalités supplémentaires, vous acceptez é
 
 GitHub Actions vous permet de créer des workflows de cycle de vie de développement de logiciels personnalisés directement dans votre référentiel GitHub. Les actions sont facturées à l'utilisation. La [documentation Actions](/fr/actions) contient des détails, notamment les quantités de calcul et de stockage (en fonction du forfait de votre Compte), ainsi que la manière de surveiller l’utilisation de vos minutes d’Actions et de définir des limites d’utilisation.
 
-Actions et tout élément du produit ou service Actions ne peuvent être utilisés en violation du Contrat, des [Règles de Bon Usage de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)) ou des limitations du service GitHub Actions énoncées dans la [documentation Actions](/fr/actions/learn-github-actions/usage-limits-billing-and-administration). De plus, qu'une action utilise ou non des runners auto-hébergés, les actions ne doivent pas être utilisées pour :
+Actions et tout élément du produit ou service Actions ne peuvent être utilisés en violation du Contrat, des [Règles de Bon Usage de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies), ou des limitations du service GitHub Actions énoncées dans la [documentation Actions](/fr/actions/learn-github-actions/usage-limits-billing-and-administration). De plus, qu'une action utilise ou non des runners auto-hébergés, les actions ne doivent pas être utilisées pour :
 
 * cryptominage ;
 * perturber, obtenir ou tenter d’obtenir un accès non autorisé à un service, un dispositif, des données, un compte ou un réseau (autres que ceux autorisés par le [programme GitHub Bug Bounty](https://bounty.github.com)) ;

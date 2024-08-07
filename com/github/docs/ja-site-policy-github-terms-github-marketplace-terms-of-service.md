@@ -16,45 +16,45 @@ GitHub Marketplace サービス使用条件
 この記事の内容
 ----------
 
-* [A. GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
-* [B. 使用要件](#b-use-requirements)
-* [C. 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
-* [D. 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
-* [E. お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
-* [F. 開発者製品に対する権利](#f-rights-to-developer-products)
-* [G. 開発者製品の更新](#g-updates-to-developer-products)
-* [H. 開発者製品のブロック](#h-developer-product-blocking)
-* [I. 免責事項、責任制限、免責および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
-* [J. 雑則](#j-miscellanea)
+* [A。 GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
+* [B。 使用要件](#b-use-requirements)
+* [C。 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
+* [D。 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
+* [E。 お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
+* [F。 開発者製品に対する権利](#f-rights-to-developer-products)
+* [G。 開発者製品の更新](#g-updates-to-developer-products)
+* [H。 開発者製品のブロック](#h-developer-product-blocking)
+* [I。 免責事項、責任制限、免責および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+* [J。 雑則](#j-miscellanea)
 
-GitHub Marketplace (以下「Marketplace」といいます) へようこそ! ご利用いただきありがとうございます。 GitHub Marketplace にアクセスまたは使用する前に、本サービス条件 (以下「Marketplace 条件」といいます) をよくお読みください。 GitHub Marketplace は、お客様の GitHub.com アカウントで使用できる開発者向けアプリまたはアクション (以下「開発者製品」といいます) を (無料または有料で) 選択できるプラットフォームです。 GitHub, Inc. (以下「GitHub」、「当社」といいます) によって提供されますが、開発者製品は、GitHub または第三者のソフトウェア プロバイダーによって開発および保守される場合があります。 開発者製品の選択または使用は、本 Marketplace 条件および適用される料金の対象となり、その開発者製品の第三者ライセンサー(以下「製品プロバイダー」といいます)が提供する追加条件に同意することが必要になる場合があります。
+GitHub Marketplace (以下「Marketplace」といいます) へようこそ! ご利用いただきありがとうございます。 GitHub Marketplace にアクセスまたは使用する前に、本サービス条件 (以下「Marketplace 条件」といいます) をよくお読みください。 GitHub Marketplace は、お客様の GitHub.com アカウントで使用できる開発者向けアプリまたはアクション (以下「開発者製品」といいます) を (無料または有料で) 選択できるプラットフォームです。 GitHub, Inc. (以下「GitHub」、「当社」といいます) によって提供されますが、開発者製品は、GitHub または第三者のソフトウェア プロバイダーによって開発および保守される場合があります。 開発者製品の選択または使用は、本 Marketplace 条件および適用される料金の対象となり、その開発者製品の第三者ライセンサー(以下「製品プロバイダー」といいます)が提供する追加条件に同意することが必要になる場合があります。 GitHub モデルの使用には、[追加の本製品と機能に関する GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)が適用されます。
 
 Marketplace を使用することにより、お客様は本 Marketplace 条件に拘束されることに同意するものとします。
 
-発効日: 2020 年 11 月 20 日
+発効日:2024 年 8 月 1 日
 
-[A. GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
+[A。 GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
 ----------
 
 Marketplace は GitHub によって提供され、これらの Marketplace の使用条件と、 [GitHub サービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)または GitHub 顧客契約、 [GitHub 企業利用規約](/ja/site-policy/github-terms/github-corporate-terms-of-service) 、その他の従来の GitHub 契約、または Microsoft ボリューム ライセンス契約と組み合わせて管理されます。 GitHub.com の Web サイト上の 1 つ以上のアカウントで動作するように開発者製品を設定する場合、開発者製品の使用には、該当する GitHub 条件も適用されます。 本書で定義されていない用語は、該当する GitHub 条件で定義されます。
 
 開発者製品を使用して、該当する GitHub 条件に違反することはできません。 これらの開発者製品の多くは、自動化されたタスクを実行するためだけに使用されます。 さらに、複数のユーザーが開発者製品のアクションを指示することができます。 ただし、お客様がご自身のアカウントで開発者製品を購入または設定した場合、またはお客様が統合された開発者製品を含むアカウントのオーナーである場合、お客様は、お客様のアカウント上またはお客様のアカウントを通じて実行される開発者製品のアクションについて責任を負うものとします。
 
-[B. 使用要件](#b-use-requirements)
+[B。 使用要件](#b-use-requirements)
 ----------
 
 Marketplace を使用するには、13 歳以上 (米国に居住している場合。別の国に居住している場合は、お客様の国の最低年齢法を遵守していなければなりません) で、有効な GitHub アカウントを保有し、適用される「GitHub 条件」および「Marketplace 条件」に同意していなければなりません。
 
 会社、組織、またはその他の法人を代表して本 Marketplace 条件に同意する場合、お客様は、その法人、その関連会社、および代表して Marketplace にアクセスするすべてのユーザーを本 Marketplace 条件に拘束する権限を有することを表明するものとします。 お客様が権限を有していない場合、お客様は本 Marketplace 条件に同意してはならず、Marketplace サービスを利用することはできません。
 
-[C. 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
+[C。 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
 ----------
 
 開発者製品をインストールまたは購入する場合、お客様は開発者製品を GitHub から購入することになり、関連する支払いを GitHub に直接行う必要があります。 ただし、お客様は、GitHub からではなく、製品プロバイダーからその開発者製品へのアクセスおよび使用権を受け取ります (ただし、GitHub が所有する開発者製品でない場合)。 製品プロバイダーは、提供する開発者製品、その中のコンテンツ、およびその開発者製品またはお客様によるその開発者製品の使用に関連してお客様またはその他の当事者が有する可能性のある申し立てについて、単独で責任を負います。
 
 当社は、その開発者製品に関するお客様と製品プロバイダーとの間の契約の当事者ではありません。 当社は、その開発者製品、その中のコンテンツ、またはお客様またはその他の当事者が当該開発者製品またはお客様によるその開発者製品の使用に関連して有する可能性のある申し立てについて責任を負いません。 ただし、当社は、各開発者製品について、お客様と製品プロバイダーとの間の契約の第三者受益者であり、当社は、第三者受益者としてお客様に対してその契約を履行する権利を有します (さらに、その権利を受諾したものと見なされます)。
 
-[D. 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
+[D。 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
 ----------
 
 開発者製品に対するすべての支払いは、GitHub を経由します。 お客様の支払いおよび料金の条件は、[セクション K. 支払い](/ja/site-policy/github-terms/github-terms-of-service#k-payment)、または該当する GitHub 条件の類似のセクションに準拠します。 Marketplace を使用することにより、お客様は、開発者製品の購入に関連して発生した料金を GitHub に支払うことに同意するものとします。 各購入は、お客様と GitHub、およびお客様と製品プロバイダーとの間の電子契約です。 お客様は、開発者製品の購入に対して有効な支払い方法を当社に提供する責任があります。 無料の開発者製品のみを購入する場合は、支払情報を提供する必要はありません。
@@ -63,7 +63,7 @@ Marketplace を使用するには、13 歳以上 (米国に居住している場
 
 請求に関して質問、懸念、または異議がある場合は、[GitHub Support ポータル](https://support.github.com/)を通じてお問い合わせください。
 
-[E. お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
+[E。 お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
 ----------
 
 **プライバシー。** 開発者製品を選択または使用する場合、GitHub は、お客様のプライバシー設定にかかわらず、開発者製品をお客様に提供するために、特定の「個人情報」([GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に定義) を製品プロバイダー(かかる個人情報がお客様から受領された場合)と共有することがあります。 お客様が選択した開発者製品の要件に応じて、GitHub はお客様のアカウント名、ID、およびプライマリ電子メール アドレスのごく一部、またはお客様の個人データの読み取りおよび変更機能を含む、お客様のリポジトリ内のコンテンツへのアクセスと共有することができます。 OAuth を使用して承認を付与すると、開発者製品が要求しているアクセス許可の範囲を表示し、それらを承諾または拒否できます。
@@ -72,22 +72,22 @@ Marketplace を使用するには、13 歳以上 (米国に居住している場
 
 **データ セキュリティとプライバシーの免責事項。** お客様が開発者製品を選択または使用する場合、開発者製品のセキュリティおよびお客様の「個人情報」(存在する場合) を含むお客様のデータの保管は、製品プロバイダーの責任となります。 お客様は、開発者製品の選択または使用に関するセキュリティおよびプライバシーに関する考慮事項について、お客様自身のセキュリティおよびプライバシーのリスクおよび法令遵守に関する考慮事項について理解する責任があります。
 
-[F. 開発者製品に対する権利](#f-rights-to-developer-products)
+[F。 開発者製品に対する権利](#f-rights-to-developer-products)
 ----------
 
 開発者製品を使用するためにお客様に付与された権利は、お客様個人のものであり、お客様のエンド ユーザーなどの第三者に譲渡することはできません。 開発者製品を第三者に提供または再販する権利は、製品プロバイダーによって直接付与されなければなりません。
 
-[G. 開発者製品の更新](#g-updates-to-developer-products)
+[G。 開発者製品の更新](#g-updates-to-developer-products)
 ----------
 
 GitHub.com は、バグ修正や拡張機能を含むがこれに限定されない、開発者製品の利用可能な更新について、(GitHub または第三者がホストする) リモート サーバーに随時確認することができます。 お客様は、かかる更新が、お客様にさらなる通知を行うことなく、自動的に要求、ダウンロード、およびインストールされることに同意するものとします。
 
-[H. 開発者製品のブロック](#h-developer-product-blocking)
+[H。 開発者製品のブロック](#h-developer-product-blocking)
 ----------
 
 GitHub は、法的またはポリシー上の理由により、当社のサーバーから開発者製品をブロックしたり、その機能を無効にしたりすることができます。 開発者製品をブロックまたは無効にする必要が生じた場合、当社は製品プロバイダーと連携して影響を受けるユーザーに通知します。
 
-[I. 免責事項、責任制限、免責および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+[I。 免責事項、責任制限、免責および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 ----------
 
 **免責** Marketplace および Marketplace を通じて入手した開発者製品の使用は、お客様ご自身の責任において行われるものとします。 明示的に述べられている場合を除き、GitHub は Marketplace および開発者製品を「現状有姿」および「提供可能な状態で」提供します。 GitHub は、Marketplace および開発者製品を通じて利用可能な特定の機能、それらの信頼性、可用性、またはお客様のニーズを満たす能力を含むがこれに限定されない、Marketplace および開発者製品に関するいかなる保証または約束も行わず、暗示もしません。
@@ -100,7 +100,7 @@ GitHub は、法的またはポリシー上の理由により、当社のサー�
 
 お客様は、GitHub が次のことを行うことを条件として、お客様による Marketplace の使用から生じるあらゆる申し立て、責任、および費用 (弁護士費用を含む) から、当社を補償し、当社を弁護し、当社を無害に保つことに同意するものとします。これには本 Marketplace 条件に対する違反が含まれますが、それに限定されません。(1) 申し立て、要求、訴訟、または手続きについて速やかに書面による通知を行うこと、(2) 申し立て、要求、訴訟、または手続きの防御および和解について一切の決定権をお客様に付与すること (ただし、和解によって GitHub のすべての責任が無条件に解放されない限り、申し立て、要求、訴訟、または手続きを解決することはできない場合)、および (3) お客様の費用負担により、すべての合理的な支援をお客様に提供すること。
 
-[J. 雑則](#j-miscellanea)
+[J。 雑則](#j-miscellanea)
 ----------
 
 1. **準拠法。** お客様は、本 Marketplace 条件およびお客様による開発者製品の使用がカリフォルニア州法に準拠し、開発者製品に関連する紛争は、カリフォルニア州サンフランシスコまたはその近郊に所在する裁判管轄地を有する裁判所に提起されなければならないことに同意するものとします。

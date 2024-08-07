@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-[HOME](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
@@ -30,7 +30,7 @@
 [Условия лицензии GitHub Pre-release](/ru/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[Дополнительные условия спонсорства GitHub](/ru/site-policy/github-terms/github-sponsors-additional-terms)
+[Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
 [Договор с зарегистрированным разработчиком GitHub](/ru/site-policy/github-terms/github-registered-developer-agreement)

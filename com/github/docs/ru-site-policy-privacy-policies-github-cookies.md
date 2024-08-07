@@ -2,7 +2,7 @@ Cookie-файлы GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[HOME](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 

@@ -30,8 +30,9 @@ In diesem Artikel
 * [Vorschauen](#previews)
 * [Sponsors Programm](#sponsors-program)
 * [SQL Server-Images](#sql-server-images)
+* [GitHub-Modelle](#github-models)
 
-Version/Wirksamkeitsdatum: 21. März 2024
+Version/Wirksamkeitsdatum: 1. August 2024
 
 Wenn Sie GitHub verwenden, erhalten Sie möglicherweise Zugriff auf viele zusätzliche Produkte und Funktionen („Zusätzliche Produkte und Funktionen“). Da viele der zusätzlichen Produkte und Funktionen unterschiedliche Funktionen bieten, können zusätzlich zu Ihrer Vereinbarung mit uns (die „Vereinbarung) spezifische Bedingungen für dieses Produkt oder diese Funktion in Kombination mit Ihrer Hauptvereinbarung gelten – die GitHub-Nutzungsbedingungen, die GitHub-Kundenvereinbarung, die GitHub-Vertragsbedingungen für Unternehmen oder ein anderer älterer GitHub-Vertrag bzw. eine Microsoft-Volumenlizenzierung. Nachfolgend haben wir diese Produkte und Funktionen zusammen mit den entsprechenden zusätzlichen Bedingungen aufgelistet, die für Ihre Verwendung gelten.
 
@@ -106,7 +107,7 @@ Mit GitHub Codespaces können Sie Code direkt in Ihrem Browser entwickeln, indem
 * Krypto-Mining;
 * Die Nutzung unserer Server für Unterbrechungen oder um sich unbefugten Zugriff auf Dienste, Geräte, Daten, Konten oder Netzwerke zu verschaffen oder dies zu versuchen (mit Ausnahme derjenigen, die vom GitHub Bug Bounty-Programm autorisiert sind);
 * Die Bereitstellung einer eigenständigen oder integrierten Anwendung oder Dienstleistung, die Codespaces oder Elemente von Codespaces für kommerzielle Zwecke anbietet;
-* Aktivitäten, die unsere Server belasten, wenn diese Belastung in keinem Verhältnis zu den Vorteilen steht, die den Benutzern geboten werden (z. B. werden Codespaces nicht als Netzwerk zur Bereitstellung von Inhalten, als Teil einer serverlosen Anwendung oder zum Hosten jeglicher Art von Produktionsanwendungen verwendet); oder
+* Aktivitäten, die unsere Server belasten, wenn diese Belastung in keinem Verhältnis zu den Vorteilen steht, die den Benutzern geboten werden (z. B. werden Codespaces nicht als Netzwerk zur Bereitstellung von Inhalten, als Teil einer serverlosen Anwendung oder zum Hosten jeglicher Art von Produktionsanwendungen verwendet); oder
 * Jede andere Aktivität, die nichts mit der Entwicklung oder dem Testen des Softwareprojekts im Zusammenhang mit dem Repository zu tun hat, in dem GitHub Codespaces initiiert wird.
 
 Um Verstöße gegen diese Einschränkungen und den Missbrauch von GitHub-Codespaces zu verhindern, kann GitHub Ihre Nutzung von GitHub-Codespaces überwachen. Der Missbrauch von GitHub-Codespaces kann zur Beendigung Ihres Zugriffs auf Codespaces, zu Einschränkungen Ihrer Möglichkeiten zur Nutzung von GitHub-Codespaces oder zur Deaktivierung von Repositories führen, die erstellt wurden, um Codespaces auf eine Weise auszuführen, die gegen diese Bedingungen verstößt.
@@ -192,5 +193,12 @@ GitHub-Sponsoren ermöglichen es der Entwickler-Community, direkt auf GitHub die
 ----------
 
 Sie können Microsoft SQL Server Standard Edition-Container-Image für Linux-Dateien („SQL Server-Images“) herunterladen. Sie müssen die SQL Server-Images deinstallieren, wenn Ihre Berechtigung zur Nutzung der Software endet. Die Microsoft Corporation kann SQL Server-Images jederzeit deaktivieren.
+
+[GitHub-Modelle](#github-models)
+----------
+
+GitHub-Modelle ist ein Feature, mit dem Sie Modelle der künstlichen Intelligenz auf GitHub.com lernen, ausprobieren und testen können. Sie können auf GitHub-Modelle über den [GitHub Marketplace](https://github.com/marketplace) zugreifen. Erfahren Sie mehr über GitHub-Modelle, indem Sie [Prototypen mit KI-Modellen](/de/github-models/prototyping-with-ai-models) besuchen.
+
+Ihre Verwendung dieses Features unterliegt den Bedingungen des Unternehmens, das das Modell und die Modelllizenz hosten.
 
 {"resolvedServerColorMode":"day"}

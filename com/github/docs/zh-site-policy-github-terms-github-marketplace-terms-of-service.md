@@ -27,11 +27,11 @@ GitHub Marketplace 服务条款
 * [I. 免责声明；责任限制；免除和赔偿](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 * [J. 其他](#j-miscellanea)
 
-欢迎使用 GitHub Marketplace（以下简称“Marketplace”）！ 我们很高兴在这里遇到你。 在访问或使用 GitHub Marketplace 之前，请仔细阅读以下服务条款（以下简称“Marketplace 条款”）。 GitHub Marketplace 是一个平台，供您选择可通过您的 GitHub.com 帐户使用的开发人员应用或操作（免费或付费）（以下简称“开发人员产品”）。 尽管开发人员产品由 GitHub, Inc.（以下简称“GitHub”或“我们”）提供，但 GitHub 或第三方软件提供商都可以开发和维护开发人员产品。 您对开发人员产品的选择或使用受这些 Marketplace 条款的约束，并可能需要支付适当的费用，而且您可能需要同意开发人员产品的第三方许可方（以下简称“产品提供商”）提出的额外条款。
+欢迎使用 GitHub Marketplace（以下简称“Marketplace”）！ 我们很高兴在这里遇到你。 在访问或使用 GitHub Marketplace 之前，请仔细阅读以下服务条款（以下简称“Marketplace 条款”）。 GitHub Marketplace 是一个平台，供您选择可通过您的 GitHub.com 帐户使用的开发人员应用或操作（免费或付费）（以下简称“开发人员产品”）。 尽管开发人员产品由 GitHub, Inc.（以下简称“GitHub”或“我们”）提供，但 GitHub 或第三方软件提供商都可以开发和维护开发人员产品。 您对开发人员产品的选择或使用受这些 Marketplace 条款的约束，并可能需要支付适当的费用，而且您可能需要同意开发人员产品的第三方许可方（以下简称“产品提供商”）提出的额外条款。 GitHub 模型的使用受[其他产品和功能的 GitHub 条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)的约束。
 
 通过使用 Marketplace，您同意受这些 Marketplace 条款的约束。
 
-生效日期：2020 年 11 月 20 日
+生效日期：2024 年 8 月 1 日
 
 [A. GitHub.com 服务条款](#a-githubcoms-terms-of-service)
 ----------

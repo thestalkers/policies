@@ -2,7 +2,7 @@ GitHub Doxxing и вторжение в частную жизнь - Докуме
 
 [Skip to main content](#main-content)
 
-[HOME](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
