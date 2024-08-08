@@ -30,8 +30,9 @@ En este artículo
 * [Versiones Preliminares](#previews)
 * [Programa de Patrocinadores](#sponsors-program)
 * [Imágenes de servidor SQL](#sql-server-images)
+* [Modelos de GitHub](#github-models)
 
-Fecha de entrada en vigor de la versión: 21 de marzo de 2024
+Fecha de entrada en vigor de la versión: 1 de agosto de 2024
 
 Cuando usa GitHub, es posible que tenga acceso a muchos productos y funciones adicionales ("Productos y funciones adicionales"). Dado que muchos de los Productos y Funciones Adicionales ofrecen diferentes funcionalidades, su Contrato con nosotros (el «Acuerdo») incluye los términos específicos de ese producto o función combinados con su acuerdo principal: los Términos de servicio de GitHub o el Acuerdo de cliente de GitHub, o los Términos de servicio corporativos de GitHub u otro acuerdo heredado de GitHub, o un contrato de licencias por volumen de Microsoft. A continuación, enumeramos esos productos y características, junto con los términos adicionales correspondientes que se aplican a su uso de ellos.
 
@@ -50,11 +51,11 @@ GitHub Actions le permite crear flujos de trabajo de ciclo de vida de desarrollo
 
 No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Actions establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Además, independientemente de si una acción utiliza ejecutores autohospedados, las acciones no deben usarse para:
 
-* criptominería;
-* interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, dato, cuenta o red (que no sean los autorizados en el [Programa de Recompensas por la Detección de Errores de GitHub](https://bounty.github.com));
+* Criptominería;
+* Interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, dato, cuenta o red (que no sean los autorizados en el [Programa de Recompensas por la Detección de Errores de GitHub](https://bounty.github.com));
 * La provisión de una aplicación o servicio independiente o integrado que ofrezca el producto o servicio de Acciones, o cualquier elemento del producto o servicio de Acciones, con fines comerciales;
-* Cualquier actividad que suponga una carga para nuestros servidores, cuando esa carga sea desproporcionada con respecto a los beneficios proporcionados a los usuarios (por ejemplo, no use Acciones como una red de entrega de contenido o como parte de una aplicación sin servidor, pero una Acción de bajo beneficio podría ser ok si también es de baja carga); o
-* Si usa corredores alojados en GitHub, cualquier otra actividad no relacionada con la producción, prueba, implementación o publicación del proyecto de software asociado con el repositorio donde se usan las Acciones de GitHub.
+* Cualquier actividad que suponga una carga para nuestros servidores, cuando esa carga sea desproporcionada con respecto a los beneficios proporcionados a los usuarios (por ejemplo, no uses Acciones como una red de entrega de contenido o como parte de una aplicación sin servidor, pero una Acción de bajo beneficio podría estar bien si también es de baja carga); o
+* Si usas ejecutores alojados en GitHub, cualquier otra actividad no relacionada con la producción, prueba, implementación o publicación del proyecto de software asociado con el repositorio donde se usan las Acciones de GitHub.
 
 Para evitar violaciones de estas limitaciones y el abuso de las Acciones de GitHub, GitHub puede monitorear su uso de las Acciones de GitHub. El uso indebido de las Acciones de GitHub puede resultar en la terminación de trabajos, restricciones en su capacidad para usar Acciones de GitHub, la desactivación de repositorios creados para ejecutar Acciones de una manera que viole estos Términos o, en algunos casos, la suspensión o terminación de su cuenta de GitHub.
 
@@ -103,10 +104,10 @@ La licencia de GitHub Advisory Database se concede bajo la [licencia de Creative
 
 GitHub Codespaces le permite desarrollar código directamente desde su navegador usando el código dentro de su repositorio de GitHub. Codespaces y cualquier elemento del servicio de Codespaces no se pueden usar en violación del Acuerdo o las Políticas de uso aceptable. Además, Codespaces no debe usarse para:
 
-* criptominería;
-* Usar nuestros servidores para interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, datos, cuenta o red (que no sean los autorizados por el programa GitHub Bug Bounty);
+* Criptominería;
+* Usar nuestros servidores para interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, datos, cuenta o red (que no sean los autorizados por el programa de recompensas por errores de GitHub);
 * La provisión de una aplicación o servicio independiente o integrado que ofrezca Codespaces o cualquier elemento de Codespaces con fines comerciales;
-* Cualquier actividad que suponga una carga para nuestros servidores, cuando esa carga sea desproporcionada con respecto a los beneficios proporcionados a los usuarios (por ejemplo, no use Codespaces como una red de entrega de contenido, como parte de una aplicación sin servidor o para alojar cualquier tipo de producción -frente a la aplicación); o
+* Cualquier actividad que suponga una carga para nuestros servidores, cuando esa carga sea desproporcionada con respecto a los beneficios proporcionados a los usuarios (por ejemplo, no uses Codespaces como una red de entrega de contenido, como parte de una aplicación sin servidor o para alojar cualquier tipo de producción frente a la aplicación); o
 * Cualquier otra actividad no relacionada con el desarrollo o prueba del proyecto de software asociado con el repositorio donde se inicia GitHub Codespaces.
 
 Para evitar violaciones de estas limitaciones y el abuso de los espacios de código de GitHub, GitHub puede monitorear su uso de los espacios de código de GitHub. El uso indebido de GitHub Codespaces puede resultar en la terminación de su acceso a Codespaces, restricciones en su capacidad para usar GitHub Codespaces o la desactivación de repositorios creados para ejecutar Codespaces de una manera que viole estos Términos.
@@ -192,5 +193,12 @@ Los patrocinadores de GitHub permiten a la comunidad de desarrolladores apoyar f
 ----------
 
 Puede descargar la imagen de contenedor de Microsoft SQL Server Standard Edition para archivos de Linux ("Imágenes de SQL Server"). Deberá desinstalar las Imágenes de SQL Server cuando finalice su derecho a utilizar el Software. Microsoft Corporation puede deshabilitar las imágenes de SQL Server en cualquier momento.
+
+[Modelos de GitHub](#github-models)
+----------
+
+Modelos de GitHub es una característica que permite aprender, probar y probar modelos de inteligencia artificial en GitHub.com. Puedes acceder a los modelos de GitHub a través del [Marketplace de GitHub](https://github.com/marketplace). Para más información sobre los modelos de GitHub, visita [Creación de prototipos con modelos de IA](/es/github-models/prototyping-with-ai-models).
+
+El uso de esta característica está sujeto a los términos de la empresa que hospeda el modelo y la licencia del modelo.
 
 {"resolvedServerColorMode":"day"}

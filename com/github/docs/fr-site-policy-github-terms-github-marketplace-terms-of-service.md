@@ -27,11 +27,11 @@ Dans cet article
 * [I. Avertissement ; limitation de responsabilité ; libération et indemnisation](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 * [J. Divers](#j-miscellanea)
 
-Bienvenue sur GitHub Marketplace ("Marketplace ») ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement ces conditions d'utilisation ("Conditions du marché ») avant d'accéder ou d'utiliser GitHub Marketplace. GitHub Marketplace est une plate-forme qui vous permet de sélectionner des applications ou des actions de développeur (gratuites ou payantes) pouvant être utilisées avec votre compte GitHub.com ("Produits de développement »). Bien qu'offerts par GitHub, Inc. ("GitHub », « nous », « nous »), les Produits développés peuvent être développés et maintenus par GitHub ou par des fournisseurs de logiciels tiers. Votre sélection ou votre utilisation des produits développés est soumise aux présentes conditions du marché et à tous les frais applicables, et peut nécessiter que vous acceptiez des conditions supplémentaires fournies par le concédant de licence tiers de ce produit développé (le « fournisseur de produit »).
+Bienvenue sur GitHub Marketplace ("Marketplace ») ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement ces conditions d'utilisation ("Conditions du marché ») avant d'accéder ou d'utiliser GitHub Marketplace. GitHub Marketplace est une plate-forme qui vous permet de sélectionner des applications ou des actions de développeur (gratuites ou payantes) pouvant être utilisées avec votre compte GitHub.com ("Produits de développement »). Bien qu'offerts par GitHub, Inc. ("GitHub », « nous », « nous »), les Produits développés peuvent être développés et maintenus par GitHub ou par des fournisseurs de logiciels tiers. Votre sélection ou votre utilisation des produits développés est soumise aux présentes conditions du marché et à tous les frais applicables, et peut nécessiter que vous acceptiez des conditions supplémentaires fournies par le concédant de licence tiers de ce produit développé (le « fournisseur de produit »). Votre utilisation de GitHub Models est soumise aux [conditions de GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
 En utilisant Marketplace, vous acceptez d'être lié par les présentes Conditions de Marketplace.
 
-Date d'entrée en vigueur : 20 novembre 2020
+Date d’entrée en vigueur : 1er août 2024
 
 [A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
 ----------

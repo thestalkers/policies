@@ -30,8 +30,9 @@ GitHub 추가 제품 및 기능 약관
 * [미리 보기](#previews)
 * [Sponsors 프로그램](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
+* [GitHub Models](#github-models)
 
-버전 발효일: 2024년 3월 21일
+버전 발효일: 2024년 8월 1일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -50,7 +51,7 @@ GitHub Actions를 통해 GitHub 리포지토리에서 직접 사용자 지정 �
 
 Actions와 Actions 제품 또는 서비스의 모든 요소는 계약, [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) 또는 [Actions 설명서](/ko/actions/learn-github-actions/usage-limits-billing-and-administration)에 명시된 GitHub Actions 서비스 제한을 위반하여 사용할 수 없습니다. 또한 Actions가 자체 호스트된 실행기를 사용 중인지 여부에 상관없이 Actions를 다음에 사용해서는 안 됩니다.
 
-* 암호 화폐 채굴
+* Cryptomining
 * [GitHub 버그 장려금 프로그램](https://bounty.github.com)이 허가하는 것을 제외한 서비스, 장치, 데이터, 계정 또는 네트워크 교란, 무단 액세스 획득 또는 획득 시도
 * 상업적 목적으로 Actions 제품이나 서비스 또는 Actions 제품이나 서비스의 요소를 제공하는 독립 실행형 또는 통합된 응용 프로그램 또는 서비스 프로비전
 * 사용자에게 제공되는 혜택에 비해 지나치게 큰 부담을 GitHub 서버에 주는 활동(예를 들어 Actions를 콘텐츠 전송 네트워크 또는 서버리스 응용 프로그램의 일부로 사용해서는 안 되지만 혜택이 적고 부담도 적다면 무방합니다) 또는
@@ -103,7 +104,7 @@ GitHub Advisory Database는 [Creative Commons Attribution 4.0 라이선스](http
 
 GitHub Codespaces를 통해 GitHub 리포지토리 내의 코드를 사용하여 브라우저에서 직접 코드를 개발할 수 있습니다. Codespaces 및 Codespaces 서비스의 모든 요소는 계약 또는 사용 제한 정책을 위반하여 사용할 수 없습니다. 또한 Codespaces를 다음에 사용해서는 안 됩니다.
 
-* 암호 화폐 채굴
+* Cryptomining
 * GitHub 서버를 사용하여 GitHub Bug Bounty 프로그램이 허가하는 것을 제외한 서비스, 장치, 데이터, 계정 또는 네트워크 교란 또는 무단 액세스 획득 또는 획득 시도
 * 상업적 목적으로 Codespaces 또는 Codespaces의 요소를 제공하는 독립 실행형 또는 통합된 응용 프로그램 또는 서비스 프로비전
 * 사용자에게 제공되는 혜택에 비해 지나치게 큰 부담을 GitHub 서버에 주는 활동(예를 들어 Codespaces를 콘텐츠 전송 네트워크로, 서버리스 응용 프로그램의 일부로 또는 프로덕션 응용 프로그램을 호스트하는 데 사용해서는 안 됩니다) 또는
@@ -192,5 +193,12 @@ GitHub Sponsors를 통해 개발자 커뮤니티는 개발자 커뮤니티가 �
 ----------
 
 Linux용 Microsoft SQL Server Standard Edtion 컨테이너 이미지 파일("SQL Server Images")을 다운로드할 수 있습니다. SQL Server Images를 사용할 수 있는 권리가 종료되면 해당 소프트웨어를 제거해야 합니다. Microsoft Corporation은 언제든지 SQL Server Images를 사용 중지할 수 있습니다.
+
+[GitHub Models](#github-models)
+----------
+
+GitHub 모델은 GitHub.com 인공 지능 모델을 학습, 시도 및 테스트할 수 있는 기능입니다. [GitHub Marketplace](https://github.com/marketplace)를 통해 GitHub 모델에 액세스할 수 있습니다. [I 모델을 사용한 프로토타입 작성](/ko/github-models/prototyping-with-ai-models)을 방문하여 GitHub 모델에 대해 자세히 알아보세요.
+
+이 기능을 사용하는 경우 모델을 호스팅하는 회사의 조건과 모델 라이선스가 적용됩니다.
 
 {"resolvedServerColorMode":"day"}

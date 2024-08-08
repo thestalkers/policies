@@ -30,8 +30,9 @@ Neste artigo
 * [Visualizações](#previews)
 * [Programa Sponsors](#sponsors-program)
 * [Imagens do SQL Server](#sql-server-images)
+* [GitHub Models](#github-models)
 
-Data de início de vigência da versão: 21 de março de 2024
+Data de início de vigência da versão: 1º de agosto de 2024
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -48,13 +49,13 @@ Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos 
 
 O GitHub Actions permite que você crie fluxos de trabalho de ciclo de vida de desenvolvimento de software personalizados diretamente em seu repositório do GitHub. As ações são cobradas com base no uso. A [documentação das Ações](/pt/actions) inclui detalhes, entre eles, quantidades de computação e armazenamento (dependendo de seu plano de conta) e como monitorar o uso de minutos das Ações, além de definir limites de uso.
 
-As Ações e os elementos do produto ou do serviço Ações não podem ser usados em violação do Contrato, das [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem das limitações do serviço GitHub Actions estabelecidas na [documentação das Ações](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Além disso, independentemente de uma ação estar usando corredores auto-hospedados, as ações não devem ser usadas para:
+As Ações e quaisquer elementos do produto ou serviço das Ações não podem ser usados em violação do Contrato, das [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem dos limites do serviço GitHub Actions estabelecidos na [documentação das Ações](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Além disso, independentemente de uma ação estar usando corredores auto-hospedados, as ações não devem ser usadas para:
 
-* criptomineração;
-* interromper, obter ou tentar obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo [Programa de Recompensas por Bugs do GitHub](https://bounty.github.com));
-* O fornecimento de um aplicativo ou serviço autônomo ou integrado que ofereça o produto ou serviço Actions, ou quaisquer elementos do produto ou serviço Actions, para fins comerciais;
-* Qualquer atividade que sobrecarrega nossos servidores, onde essa carga é desproporcional aos benefícios fornecidos aos usuários (por exemplo, não use Ações como uma rede de entrega de conteúdo ou como parte de um aplicativo sem servidor, mas uma Ação de baixo benefício pode ser ok se também for de baixa carga); ou
-* Se estiver usando executores hospedados no GitHub, qualquer outra atividade não relacionada à produção, teste, implantação ou publicação do projeto de software associado ao repositório onde as ações do GitHub são usadas.
+* Mineração de criptomoedas;
+* Interromper, tentar obter ou obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo [Programa de Recompensas por Bugs do GitHub](https://bounty.github.com));
+* A provisão de uma aplicação ou serviço independente/integrado, ou a oferta de serviço de um produto, serviço ou quaisquer elementos das Ações para fins comerciais;
+* Qualquer atividade que sobrecarregue nossos servidores desproporcionalmente quando comparada aos benefícios oferecidos aos usuários. Por exemplo, não use Ações como uma Rede de Distribuição de Conteúdo ou como parte de uma aplicação sem servidor. Por outro lado, em uma Ação de baixo benefício, pode ser aceitável se sua carga também for baixa; ou
+* Se estiver usando executores hospedados no GitHub, qualquer outra atividade não relacionada a produção, teste, implantação ou publicação do projeto de software associado ao repositório onde o GitHub Actions é usado.
 
 Para evitar violações dessas limitações e abuso do GitHub Actions, o GitHub pode monitorar seu uso do GitHub Actions. O uso indevido do GitHub Actions pode resultar no encerramento de trabalhos, restrições na sua capacidade de usar GitHub Actions, desativação de repositórios criados para executar Actions de uma forma que viole estes Termos ou, em alguns casos, suspensão ou encerramento de sua conta do GitHub.
 
@@ -103,10 +104,10 @@ O GitHub Advisory Database é licenciado de acordo com a [Licença Creative Comm
 
 O GitHub Codespaces permite desenvolver código diretamente de seu navegador usando o código em seu repositório GitHub. Codespaces e quaisquer elementos do serviço Codespaces não podem ser usados em violação do Contrato ou das Políticas de Uso Aceitável. Além disso, os Codespaces não devem ser usados para:
 
-* criptomineração;
-* Usar nossos servidores para interromper, obter ou tentar obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto aqueles autorizados pelo programa GitHub Bug Bounty);
-* O fornecimento de um aplicativo ou serviço independente ou integrado que ofereça Codespaces ou quaisquer elementos de Codespaces para fins comerciais;
-* Qualquer atividade que sobrecarrega nossos servidores, onde essa carga é desproporcional aos benefícios fornecidos aos usuários (por exemplo, não use Codespaces como uma rede de entrega de conteúdo, como parte de um aplicativo sem servidor ou para hospedar qualquer tipo de produção -aplicação de face); ou
+* Mineração de criptomoedas;
+* Usar nossos servidores para prejudicar, obter ou tentar obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo Programa de Recompensas por Bugs do GitHub);
+* A provisão de uma aplicação ou serviço independente/integrado, ou oferta de serviço do Codespaces ou quaisquer um de seus elementos para fins comerciais;
+* Qualquer atividade que sobrecarregue nossos servidores desproporcionalmente quando comparada aos benefícios oferecidos aos usuários. Por exemplo, não use Codespaces como uma Rede de Distribuição de Conteúdo, como parte de um aplicativo sem servidor ou para hospedar qualquer tipo de aplicação voltada à produção; ou
 * Qualquer outra atividade não relacionada ao desenvolvimento ou teste do projeto de software associado ao repositório onde o GitHub Codespaces é iniciado.
 
 Para evitar violações dessas limitações e abuso de Codespaces do GitHub, o GitHub pode monitorar seu uso de Codespaces do GitHub. O uso indevido dos Codespaces do GitHub pode resultar no encerramento do seu acesso aos Codespaces, restrições na sua capacidade de usar os Codespaces do GitHub ou na desativação de repositórios criados para executar Codespaces de uma forma que viole estes Termos.
@@ -155,7 +156,7 @@ Npm é um serviço de hospedagem de pacotes de software que permite hospedar seu
 [Pacotes](#packages)
 ----------
 
-O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usar pacotes como dependências em seus projetos. Os pacotes do GitHub são cobrados com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso da largura de banda do Packages é limitado pelas [Políticas de Uso Aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usar pacotes como dependências em seus projetos. Os pacotes do GitHub são cobrados com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso de bandwidth dos pacotes é limitado pelas [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 [Páginas](#pages)
 ----------
@@ -192,5 +193,12 @@ Os patrocinadores do GitHub permitem que a comunidade de desenvolvedores apoie f
 ----------
 
 Você pode baixar a imagem de contêiner do Microsoft SQL Server Standard Edition para arquivos Linux ("Imagens do SQL Server"). É necessário desinstalar as Imagens do SQL Server quando terminar seu direito de usar o Software. A Microsoft Corporation pode desativar as Imagens do SQL Server a qualquer momento.
+
+[GitHub Models](#github-models)
+----------
+
+O GitHub Models é um recurso que permite que você aprenda, experimente e teste modelos de inteligência artificial no GitHub.com. Você pode acessar o GitHub Models por meio do [GitHub Marketplace](https://github.com/marketplace). Saiba mais sobre o GitHub Models visitando [Prototipagem com modelos de IA](/pt/github-models/prototyping-with-ai-models).
+
+Seu uso desse recurso está sujeito aos termos da empresa que hospeda o modelo e à licença do modelo.
 
 {"resolvedServerColorMode":"day"}

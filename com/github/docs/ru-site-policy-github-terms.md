@@ -36,7 +36,7 @@
 [Договор с зарегистрированным разработчиком GitHub](/ru/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[Условия использования торговой площадки GitHub](/ru/site-policy/github-terms/github-marketplace-terms-of-service)
+[Условия предоставления услуг GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
 [Соглашение с разработчиком GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-developer-agreement)

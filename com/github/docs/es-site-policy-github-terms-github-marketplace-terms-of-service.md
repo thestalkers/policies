@@ -27,11 +27,11 @@ En este artículo
 * [I. Descargo de responsabilidad; Limitación de responsabilidad; Liberación e Indemnización](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 * [J. Otras disposiciones](#j-miscellanea)
 
-¡Bienvenido a GitHub Marketplace ("Marketplace")! Estamos felices de que estés aquí. Lea estos Términos de servicio ("Términos de Marketplace") detenidamente antes de acceder o usar GitHub Marketplace. GitHub Marketplace es una plataforma que le permite seleccionar aplicaciones o acciones de desarrollador (gratis o con cargo) que se pueden usar con su cuenta GitHub.com ("Productos de desarrollador"). Aunque los ofrece GitHub, Inc. ("GitHub", "nosotros"), los Productos de desarrollador pueden ser desarrollados y mantenidos por GitHub o por proveedores de software de terceros. Su selección o uso de los Productos de desarrollador está sujeto a estos Términos de Marketplace y a cualquier tarifa aplicable, y puede requerir que acepte términos adicionales proporcionados por el tercero que otorga la licencia de ese Producto de desarrollador (el "Proveedor de productos").
+¡Bienvenido a GitHub Marketplace ("Marketplace")! Estamos felices de que estés aquí. Lea estos Términos de servicio ("Términos de Marketplace") detenidamente antes de acceder o usar GitHub Marketplace. GitHub Marketplace es una plataforma que le permite seleccionar aplicaciones o acciones de desarrollador (gratis o con cargo) que se pueden usar con su cuenta GitHub.com ("Productos de desarrollador"). Aunque los ofrece GitHub, Inc. ("GitHub", "nosotros"), los Productos de desarrollador pueden ser desarrollados y mantenidos por GitHub o por proveedores de software de terceros. Su selección o uso de los Productos de desarrollador está sujeto a estos Términos de Marketplace y a cualquier tarifa aplicable, y puede requerir que acepte términos adicionales proporcionados por el tercero que otorga la licencia de ese Producto de desarrollador (el "Proveedor de productos"). El uso de modelos de GitHub está sujeto a los [términos de GitHub para productos y características adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
 Al usar Marketplace, usted acepta estar sujeto a estos Términos de Marketplace.
 
-Fecha de entrada en vigor: 20 de noviembre de 2020
+Fecha de entrada en vigor: 1 de agosto de 2024
 
 [A. Condiciones de servicio de GitHub.com](#a-githubcoms-terms-of-service)
 ----------
