@@ -82,7 +82,7 @@ GitHub では、Advanced Security ライセンスの下で顧客が追加のセ�
 
 Advanced Security は、「一意のコミッター」ごとにライセンスされます。 「一意のコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、または GitHub Enterprise Server のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様は、一意のコミッターごとに 1 つの GitHub Advanced Security User ライセンスを取得しなければなりません。 GitHub Advanced Security は、お客様によって、またはお客様のために開発されたコードベースでのみ使用できます。 GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能では GitHub Actions の使用も必要です。
 
-GitHub Advanced Security を使用したシークレット スキャンの場合、パートナー パターンの自動有効性チェックをオプトインすると、公開された第三者のトークンが関連するパートナーと共有され、トークンの有効性に関する詳細情報が提供される場合があります。 すべてのパートナーが米国に拠点を置いているわけではありません。 [シークレット スキャン パターンのドキュメント](/ja/enterprise-cloud@latest/code-security/secret-scanning/secret-scanning-patterns)には、有効性チェックをサポートするパートナーの詳細が記載されています。
+GitHub Advanced Security を使用したシークレット スキャンの場合、パートナー パターンの自動有効性チェックをオプトインすると、公開された第三者のトークンが関連するパートナーと共有され、トークンの有効性に関する詳細情報が提供される場合があります。 すべてのパートナーが米国に拠点を置いているわけではありません。 [シークレット スキャン パターンのドキュメント](/ja/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)には、有効性チェックをサポートするパートナーの詳細が記載されています。
 
 [Advisory Database](#advisory-database)
 ----------
