@@ -1,4 +1,4 @@
-Desinformação e desinformação do GitHub - GitHub Docs
+Informação falsa e desinformação no GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
@@ -8,12 +8,12 @@ Desinformação e desinformação do GitHub - GitHub Docs
 
 * [Política do site](/pt/site-policy)/
 * [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Desinformação e informações incorretas](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Informação falsa e desinformação](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-Desinformação e desinformação do GitHub
+Informação falsa e desinformação no GitHub
 ==========
 
-Você não pode postar conteúdo que apresente uma visão distorcida da realidade, seja imprecisa ou falsa (desinformação) ou intencionalmente enganosa (desinformação), onde tal conteúdo possa resultar em danos ao público ou interferir em oportunidades justas e iguais para que todos participem de uma sociedade livre e aberta. Isso pode incluir:
+Você não pode postar conteúdo que apresente uma visão distorcida da realidade, seja imprecisa ou falsa ou intencionalmente enganosa (desinformação), onde tal conteúdo possa resultar em danos ao público ou interferir em oportunidades justas e iguais para que todos participem de uma sociedade livre e aberta. Isso pode incluir:
 
 * Alegações médicas imprecisas ou sem respaldo científico que ponham em risco a saúde ou a segurança pública
 * Mídia manipulada, seja de áudio ou visual, suscetível de induzir ao erro ou enganar de forma que possa prejudicar o interesse público

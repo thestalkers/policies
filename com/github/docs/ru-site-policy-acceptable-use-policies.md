@@ -33,7 +33,7 @@
 [Имперсонация GitHub](/ru/site-policy/acceptable-use-policies/github-impersonation)
 ----------
 
-[Неправильная информация и дезинформация GitHub](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+[Неправильная информация и дезинформация на GitHub](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 ----------
 
 [Содержимое сексуального непристойного содержания на GitHub](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)

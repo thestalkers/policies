@@ -33,7 +33,7 @@ Políticas de Uso Aceitável
 [Representação do GitHub](/pt/site-policy/acceptable-use-policies/github-impersonation)
 ----------
 
-[Desinformação e desinformação do GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+[Informação falsa e desinformação no GitHub](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 ----------
 
 [Conteúdo sexualmente obsceno do GitHub](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
