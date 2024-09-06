@@ -57,4 +57,7 @@ GitHub 条款
 [GitHub 教育使用协议](/zh/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
+[GitHub Copilot Extension Developer Policy](/zh/site-policy/github-terms/github-copilot-extension-developer-policy)
+----------
+
 {"resolvedServerColorMode":"day"}

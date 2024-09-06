@@ -57,4 +57,7 @@ Términos de GitHub
 [Acuerdo de uso educativo de GitHub](/es/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
+[GitHub Copilot Extension Developer Policy](/es/site-policy/github-terms/github-copilot-extension-developer-policy)
+----------
+
 {"resolvedServerColorMode":"day"}

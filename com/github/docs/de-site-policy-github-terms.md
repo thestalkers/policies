@@ -57,4 +57,7 @@ GitHub-Bedingungen
 [GitHub-Vereinbarung zur Nutzung für Bildungszwecke](/de/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
+[GitHub Copilot Extension Developer Policy](/de/site-policy/github-terms/github-copilot-extension-developer-policy)
+----------
+
 {"resolvedServerColorMode":"day"}
