@@ -57,7 +57,7 @@ GitHub 약관
 [GitHub 교육 사용 규약](/ko/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[GitHub Copilot Extension Developer Policy](/ko/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot 확장 개발자 정책](/ko/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}
