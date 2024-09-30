@@ -32,7 +32,7 @@
 * [SQL Server Images](#sql-server-images)
 * [GitHub モデル](#github-models)
 
-バージョン発効日: 2024 年 8 月 1 日
+バージョンの有効日: 2024 年 9 月 9 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -129,9 +129,11 @@ GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、G
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot Business ユーザーおよび Copilot エンタープライズ ユーザーの場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
+GitHub Copilot Business および Copilot エンタープライズライセンスのライセンス所有者の場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
 
-コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 GitHub Copilot 使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
+GitHub Copilot の個々のライセンス所有者の場合、GitHub Copilot の使用は次の条件によって管理されます: コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 GitHub.com で GitHub Copilot を使用するには、GitHub.com にアクセスする必要があります。 GitHub Copilot 使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
+
+GitHub Copilot 拡張機能 (拡張機能) を使用して GitHub Copilot をカスタマイズする場合、拡張機能の利用規約とプライバシー ポリシーが適用される場合があります。
 
 GitHub Copilot からお客様に返されるコード、関数およびその他のアウトプットは、「**Suggestions**」と呼ばれます。 GitHub は提案を所有していません。 お客様は、コードの所有権を保持し、コードに含める提案に対する責任を負います。
 

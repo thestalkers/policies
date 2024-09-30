@@ -32,7 +32,7 @@ GitHub 附加产品和功能条款
 * [SQL Server Images](#sql-server-images)
 * [GitHub 模型](#github-models)
 
-版本生效日期：2024 年 8 月 1 日
+版本生效日期：2024 年 9 月 9 日
 
 当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
@@ -129,9 +129,11 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot Business 和 Copilot Enterprise 用户对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
+GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
 
-要在代码编辑器中使用 GitHub Copilot，则需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 根据协议，你使用 GitHub Copilot（以下称为“**你的代码**”）编写的代码在你将其上传到 GitHub.com 前不是“内容”。
+对于 GitHub Copilot 个人许可证持有者，对 GitHub Copilot 的使用受以下条款的约束：若要在代码编辑器中使用 GitHub Copilot，需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 若要在 GitHub.com 上使用 GitHub Copilot，必须有权访问 GitHub.com。 根据协议，你使用 GitHub Copilot（以下称为“**你的代码**”）编写的代码在你将其上传到 GitHub.com 前不是“内容”。
+
+如果使用 GitHub Copilot 扩展（扩展）自定义 GitHub Copilot，则使用可能会受到该扩展的使用条款和隐私策略的约束。
 
 GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”。 GitHub 不对建议主张任何权利， 你对你的代码（包括你的代码中包含的建议）具有所有权和责任。
 
