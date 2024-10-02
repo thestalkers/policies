@@ -32,7 +32,7 @@ Neste artigo
 * [Imagens do SQL Server](#sql-server-images)
 * [GitHub Models](#github-models)
 
-Data de início de vigência da versão: 1º de agosto de 2024
+Data de início de vigência da versão: 9 de setembro de 2024
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -129,9 +129,11 @@ Com o GitHub Connect, você pode compartilhar determinados recursos e dados entr
 [GitHub Copilot](#github-copilot)
 ----------
 
-Para os usuários do GitHub Copilot Business e Copilot Enterprise, o uso das ferramentas está sujeito aos [Termos específicos do produto do GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Para os usuários de licenças do GitHub Copilot Business e Copilot Enterprise, o uso do GitHub Copilot está sujeito aos [Termos específicos do produto do GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-Para usar o GitHub Copilot em seu editor de código, você precisa instalar a extensão GitHub Copilot no editor. Para usar o GitHub Copilot na CLI (Interface de linha de comando), você precisa instalar a extensão GitHub Copilot CLI. Para usar o GitHub Copilot Chat na versão móvel do GitHub, você precisa instalar o aplicativo móvel do GitHub. O código que você escreve usando o GitHub Copilot (“**Seu Código**”) não é considerado “Conteúdo” segundo o Contrato até seja feito seu upload no GitHub.com.
+Para os usuários de licenças do GitHub Copilot Individual, o uso do GitHub Copilot é regido pelos seguintes termos: Para usar o GitHub Copilot no editor de código, você precisa instalar a extensão do GitHub Copilot nesse editor. Para usar o GitHub Copilot na CLI (Interface de linha de comando), você precisa instalar a extensão GitHub Copilot CLI. Para usar o GitHub Copilot Chat na versão móvel do GitHub, você precisa instalar o aplicativo móvel do GitHub. Para usar o GitHub Copilot no GitHub.com, você deve acessar GitHub.com. O código que você escreve usando o GitHub Copilot (“**Seu Código**”) não é considerado “Conteúdo” segundo o Contrato até seja feito seu upload no GitHub.com.
+
+Se você personalizar o GitHub Copilot usando uma Extensão do GitHub Copilot (Extensão), seu uso poderá estar sujeito aos termos de uso e à política de privacidade da Extensão.
 
 O código, as funções e outros resultados retornados para você pelo GitHub Copilot são chamados “**Sugestões**.” O GitHub não controla os Sugeridos. Você detém a propriedade de Seu Código, bem como a responsabilidade pelos “Sugeridos” incluídos no Seu Código.
 
