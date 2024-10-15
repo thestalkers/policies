@@ -67,7 +67,7 @@ GitHub respecte les lois interdisant la traite des êtres humains et le travail 
 
 En outre, GitHub a établi un partenariat avec le programme FairHotel, ce qui signifie que GitHub encourage ses employés à choisir des hôtels approuvés par FairHotel, où les travailleurs bénéficient de salaires équitables, d'avantages sociaux adéquats et d'une voix au travail. Être un partenaire FairHotel signifie également que GitHub fournit des affaires aux hôtels en tant qu'employeur équitable.
 
-À l'avenir, GitHub communiquera cette déclaration à tous les employés, sous-traitants et fournisseurs, y compris les recruteurs et les agences de placement. De plus, GitHub développe une formation pour tous les employés de GitHub sur l'esclavage moderne et le travail des enfants. GitHub [publie sa Déclaration contre l'Esclavage moderne et le Travail des Enfants](/fr/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor).
+À l'avenir, GitHub communiquera cette déclaration à tous les employés, sous-traitants et fournisseurs, y compris les recruteurs et les agences de placement. De plus, GitHub développe une formation pour tous les employés de GitHub sur l'esclavage moderne et le travail des enfants. GitHub publie sa Déclaration contre l'Esclavage moderne et le Travail des Enfants.
 
 GitHub a une politique de non-représailles pour signaler les problèmes liés au lieu de travail. Conformément à cette déclaration, GitHub permet aux employés et aux sous-traitants de signaler des problèmes concernant l'esclavage moderne et le travail des enfants sans crainte de représailles.
 

@@ -67,7 +67,7 @@ GitHub는 [인신 매매 근절에 관한 미국 연방조달규정 22.17](https
 
 또한 GitHub는 FairHotel 프로그램과 파트너십을 맺었습니다. 즉, GitHub는 근로자가 공정한 임금과 적절한 복리 후생을 받으며 직장에서 의견을 낼 수 있는 FairHotel 추천 호텔을 GitHub 직원들이 선택하도록 장려합니다. FairHotel 파트너라는 것은 GitHub가 공정 고용주로서 호텔에 비즈니스를 제공한다는 의미도 됩니다.
 
-앞으로 GitHub는 모든 직원과 계약자 및 채용업체와 고용 소개업체를 포함한 공급업체에 이 성명서를 알릴 것입니다. 또한 GitHub는 모든 GitHub 직원을 위한 현대 노예제와 미성년 노동에 관한 교육을 개발 중입니다. GitHub는 [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서를 게시](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)하고 있습니다.
+앞으로 GitHub는 모든 직원과 계약자 및 채용업체와 고용 소개업체를 포함한 공급업체에 이 성명서를 알릴 것입니다. 또한 GitHub는 모든 GitHub 직원을 위한 현대 노예제와 미성년 노동에 관한 교육을 개발 중입니다. GitHub는 현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서를 게시하고 있습니다.
 
 GitHub는 직장 관련 우려 사항 신고에 대한 보복 금지 정책을 두고 있습니다. 이 성명서에 부합하게 GitHub는 직원 및 계약자가 현대 노예제 및 미성년 노동 관련 문제를 보복에 대한 두려움 없이 신고하는 것을 허용합니다.
 

@@ -67,7 +67,7 @@ GitHub 在其开展经营的司法辖区遵守关于禁止人口贩卖和童工�
 
 此外，GitHub 与 FairHotel 计划建立了合作伙伴关系，这意味着 GitHub 鼓励员工选择 FairHotel 认可的酒店。这些酒店的员工享有公平的工资、充分的福利，以及对工作的发言权。 成为 FairHotel 合作伙伴也意味着 GitHub 作为公平的雇主向酒店提供业务。
 
-以后，GitHub 将会向所有雇员、合同工和供应商（包括招聘者和招聘中介）传达本声明。 而且，GitHub 还将为所有 GitHub 员工提供关于现代奴役制和童工制的培训。 GitHub [公开发布其反对现代奴役制和童工制的声明](/zh/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)。
+以后，GitHub 将会向所有雇员、合同工和供应商（包括招聘者和招聘中介）传达本声明。 而且，GitHub 还将为所有 GitHub 员工提供关于现代奴役制和童工制的培训。 GitHub 公开发布其反对现代奴役制和童工制的声明。
 
 GitHub 实行禁止对举报工作场所相关问题的人员实施报复的政策。 根据本声明，GitHub 允许雇员和合同工举报有关现代奴役制和童工制的问题，无需害怕遭到报复。
 

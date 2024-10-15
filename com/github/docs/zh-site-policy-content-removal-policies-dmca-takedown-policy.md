@@ -70,7 +70,7 @@ DMCA 框架有点像在课堂上传纸条。 版权所有者向 GitHub 提交对
    >
    >
 
-2. **版权所有者发送通知。** 进行调查后，版权所有者编写[下架通知](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)并将其发送到 GitHub。 如果根据法律要求，该下架通知足够详细（如[操作指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)中所述），我们会[发布通知](#d-transparency)至我们的[公共存储库](https://github.com/github/dmca)，并将链接传送给受影响的用户。
+2. **版权所有者发送通知。** 进行调查后，版权所有者编写[下架通知](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)并将其发送到 GitHub。 如果根据法律要求，该下架通知足够详细（如[操作指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)中所述），我们会[发布通知](#e-transparency)至我们的[公共存储库](https://github.com/github/dmca)，并将链接传送给受影响的用户。
 
 3. **GitHub 要求用户进行更改。** 如果通知指出存储库或包的整个内容都侵权，我们将跳到步骤 6 并迅速禁用整个存储库或包。 否则，由于 GitHub 无法禁止访问存储库中的特定文件，我们将联系创建该存储库的用户，给他们 1 个工作日左右的时间来删除或修改通知中指定的内容。 如果我们给用户进行更改的机会，我们会通知版权所有者。 由于包是不可变的，即使一个包只有一部分内容侵权，GitHub 也将需要禁用整个包，但我们允许在删除侵权部分后恢复。
 
@@ -80,7 +80,7 @@ DMCA 框架有点像在课堂上传纸条。 版权所有者向 GitHub 提交对
 
 6. **GitHub 可能禁止访问内容。** 在以下情况下，GitHub 将禁用用户内容：(i) 版权所有者声称对用户整个存储库或包的内容都拥有版权（如步骤 3 所述）；(ii) 用户在获得更改机会后没有进行任何更改（如步骤 4 所述）；或 (iii) 版权所有者在用户有机会进行更改后重申了下架通知。 如果版权所有者选择\_修改\_通知，我们将回到步骤 2，将修改的通知当作新通知来重复这个流程。
 
-7. **用户可发送抗辩通知。** 我们鼓励用户在其内容被禁用后就其选择权咨询律师。 如果用户认为其内容是由于错误或错误指认而被禁用，他们可以向我们发送[抗辩通知](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)。 与原通知一样，我们将确保抗辩通知足够详细（如[操作指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)中所述）。 如果满足要求，我们会将其[发布](#d-transparency)到[公共存储库](https://github.com/github/dmca)，然后向版权所有者发送链接以传达该通知。
+7. **用户可发送抗辩通知。** 我们鼓励用户在其内容被禁用后就其选择权咨询律师。 如果用户认为其内容是由于错误或错误指认而被禁用，他们可以向我们发送[抗辩通知](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)。 与原通知一样，我们将确保抗辩通知足够详细（如[操作指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)中所述）。 如果满足要求，我们会将其[发布](#e-transparency)到[公共存储库](https://github.com/github/dmca)，然后向版权所有者发送链接以传达该通知。
 
 8. **版权所有者可提出法律诉讼。** 如果版权所有者在收到抗辩通知后，希望继续禁用内容，则他们需要发起法律诉讼，寻求通过法院命令制止用户从事与 GitHub 上的内容相关的侵权活动。 也就是说，用户可能会被起诉。 如果版权所有者在 10-14 天内没有向 GitHub 发出通知（发送向主管法院提交的有效法律投诉的副本），GitHub 将重新启用被禁用的内容。
 

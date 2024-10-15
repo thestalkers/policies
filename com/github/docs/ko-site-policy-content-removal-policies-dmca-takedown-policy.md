@@ -70,7 +70,7 @@ DMCA 절차를 구성하는 기본 단계는 다음과 같습니다.
    >
    >
 
-2. **저작권자가 알림을 전달합니다.** 조사를 진행한 후 저작권자는 [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)을 작성하여 GitHub에 전달합니다. 게시 중단 알림의 세부 내용이 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)에 설명된 바와 같은) 법정 요건에 따라 충분히 설명되었다고 가정하면서 당사는 [공용 리포지토리](https://github.com/github/dmca)에 [알림 게시](#d-transparency)를 수행한 후 영향을 받는 사용자에게 링크를 전달합니다.
+2. **저작권자가 알림을 전달합니다.** 조사를 진행한 후 저작권자는 [게시 중단 알림](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)을 작성하여 GitHub에 전달합니다. 게시 중단 알림의 세부 내용이 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)에 설명된 바와 같은) 법정 요건에 따라 충분히 설명되었다고 가정하면서 당사는 [공용 리포지토리](https://github.com/github/dmca)에 [알림 게시](#e-transparency)를 수행한 후 영향을 받는 사용자에게 링크를 전달합니다.
 
 3. **GitHub가 사용자에게 변경을 요청합니다.** 해당 알림에서 리포지토리의 전체 콘텐츠 또는 패키지가 저작권을 침해한다는 혐의를 제기하는 경우, 6단계로 건너뛰고 전체 리포지토리 또는 패키지를 신속하게 사용 중지합니다. 그렇지 않으면 GitHub가 리포지토리 내 특정 파일에 대한 액세스를 사용 중지할 수 없으므로 당사는 리포지토리를 만든 사용자에게 연락하여 알림에 명시된 콘텐츠를 삭제하거나 수정할 수 있도록 대략 1영업일의 시간을 할애합니다. 당사는 콘텐츠를 변경할 기회를 사용자에게 부여할 때 이를 저작권자에게 알립니다. 패키지는 변경할 수 없으므로, 패키지의 일부만 저작권을 침해하는 경우 GitHub는 전체 패키지를 사용 중지해야 하지만 일단 저작권을 침해하는 부분이 제거되면 복원을 허용합니다.
 
@@ -80,7 +80,7 @@ DMCA 절차를 구성하는 기본 단계는 다음과 같습니다.
 
 6. **GitHub는 콘텐츠에 대한 액세스를 사용 중지할 수 있습니다.** GitHub가 사용자의 콘텐츠를 사용 중지하는 경우는 다음과 같습니다. (i) (3단계에서 언급한 바와 같이) 저작권자가 사용자의 전체 리포지토리 또는 패키지에 대한 저작권을 주장한 경우, (ii) (4단계에서 언급한 바와 같이) 변경 사항을 적용할 기회가 부여된 후 사용자가 실제로 변경 사항을 적용하지 않은 경우, 또는 (iii) 사용자가 변경 사항을 적용할 기회를 얻은 후 저작권자가 게시 중단 알림을 갱신한 경우. 대신 저작권자가 알림을 \_수정\_하기로 선택할 경우, 당사는 2단계로 돌아가 수정된 알림이 마치 새 알림인 것처럼 해당 절차를 반복 진행합니다.
 
-7. **사용자가 반론 통지를 보낼 수 있습니다.** 콘텐츠를 사용 중지한 사용자는 선택 가능한 방안에 대해 변호사의 자문을 구하시기 바랍니다. 사용자가 착오 또는 잘못된 식별로 인해 콘텐츠가 사용 중지되었다고 생각하는 경우, [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 당사에 전달할 수 있습니다. 원본 알림의 내용과 마찬가지로, 당사는 반론 통지가 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)에 설명된 바와 같이) 충분히 상세하게 작성되었는지 확인합니다. 상세하다면 [공용 리포지토리](https://github.com/github/dmca)에 [알림을 게시](#d-transparency)하고 링크를 전송하여 저작권자에게 알림을 다시 전달합니다.
+7. **사용자가 반론 통지를 보낼 수 있습니다.** 콘텐츠를 사용 중지한 사용자는 선택 가능한 방안에 대해 변호사의 자문을 구하시기 바랍니다. 사용자가 착오 또는 잘못된 식별로 인해 콘텐츠가 사용 중지되었다고 생각하는 경우, [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 당사에 전달할 수 있습니다. 원본 알림의 내용과 마찬가지로, 당사는 반론 통지가 ([방법 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)에 설명된 바와 같이) 충분히 상세하게 작성되었는지 확인합니다. 상세하다면 [공용 리포지토리](https://github.com/github/dmca)에 [알림을 게시](#e-transparency)하고 링크를 전송하여 저작권자에게 알림을 다시 전달합니다.
 
 8. **저작권자는 소송을 제기할 수 있습니다.** 저작권자가 반론 고지를 받은 후 콘텐츠를 비활성화된 상태로 유지하려는 경우, 사용자가 GitHub의 콘텐츠와 관련된 침해 활동에 참여하는 것을 제한하기 위해 법원 명령을 요구하는 법적 조치를 시작해야 합니다. 다시 말해, 귀하가 고소당할 수 있습니다. 저작권자가 10\~14일 이내에 GitHub에 통지하지 않을 경우, GitHub는 관할 법원에 제출된 유효한 내용의 고소장 사본을 전달하여 사용 중지된 콘텐츠를 다시 사용합니다.
 

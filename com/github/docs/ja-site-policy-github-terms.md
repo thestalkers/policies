@@ -57,7 +57,7 @@ GitHub 条件
 [GitHub 教育目的利用契約](/ja/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[GitHub Copilot Extension Developer Policy](/ja/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot 拡張機能の開発者ポリシー](/ja/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}
