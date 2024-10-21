@@ -115,18 +115,18 @@ GitHub hält sich an Gesetze in Bezug auf moderne Sklaverei und Kinderarbeit und
 
 In Zukunft fordert GitHub nun von seinen Lieferanten, diese Erklärung sowie Gesetze in Bezug auf moderne Sklaverei und Kinderarbeit einzuhalten. GitHub verlangt nun auch von seinen Lieferanten:
 
-* Moderne Sklaverei oder Kinderarbeit nicht anwenden, daran teilnehmen, sie unterstützen oder tolerieren
-* Keine irreführenden oder betrügerischen Rekrutierungs- oder Einstellungspraktiken für Mitarbeiter oder Vertragsarbeiter anwenden
-* Keine Rekrutierungs- oder Einstellungsgebühren von Mitarbeitern oder Vertragsarbeitern verlangen
-* Pass, Führerschein oder andere Identitätsdokumente nicht zerstören, verbergen, beschlagnahmen oder anderweitig den Zugang eines Mitarbeiters oder Vertragsarbeiters verweigern;
-* Uns erlauben, unsere Vereinbarungen mit ihnen für jede Verletzung ihrer Verpflichtungen in Bezug auf moderne Sklaverei oder Kinderarbeit zu kündigen; und
-* Alle Schäden zu beseitigen, die Arbeitnehmern entstehen, die einer Form moderner Sklaverei oder Kinderarbeit ausgesetzt sind, sofern dies gesetzlich vorgeschrieben ist.
+* Moderne Sklaverei oder Kinderarbeit nicht anwenden, daran teilnehmen, sie unterstützen oder tolerieren.
+* Keine irreführenden oder betrügerischen Rekrutierungs- oder Einstellungspraktiken für Mitarbeiter oder Vertragsarbeiter anwenden.
+* Keine Rekrutierungs- oder Einstellungsgebühren von Mitarbeitern oder Vertragsarbeitern verlangen.
+* Pass, Führerschein oder andere Identitätsdokumente nicht zerstören, verbergen, beschlagnahmen oder anderweitig den Zugang eines Mitarbeiters oder Vertragsarbeiters verweigern.
+* Uns erlauben, unsere Vereinbarungen mit ihnen für jede Verletzung ihrer Verpflichtungen in Bezug auf moderne Sklaverei oder Kinderarbeit zu kündigen und
+* Entschädigung von Arbeitnehmern, die nachweislich einer Form von moderner Sklaverei oder Kinderarbeit ausgesetzt sind, sofern dies gesetzlich vorgeschrieben ist.
 
 Darüber hinaus ermutigt GitHub seine Lieferanten nachdrücklich dazu:
 
-* Durchführung von Due-Diligence-Prozessen gegen moderne Sklaverei und Kinderarbeit, einschließlich Risikobewertungen, für ihre Lieferanten;
-* Schritte unternehmen, um identifizierte Risiken anzugehen; und
-* Gegenüber ihren Lieferanten eine ähnliche antimoderne Sklaverei- und Kinderarbeitssprache verwenden.
+* Durchführung von Due-Diligence-Prozessen für moderne Sklaverei und Kinderarbeit, einschließlich Risikobewertungen, für ihre Lieferanten;
+* Schritte unternehmen, um identifizierte Risiken anzugehen und
+* Verwendung einer ähnlicher Sprache gegen moderne Sklaverei und Kinderarbeit gegenüber ihren Lieferanten.
 
 Die Beschaffungsanweisungen von GitHub für Mitarbeiter, die Einkäufe im Unternehmen tätigen, enthalten jetzt einen Verweis auf die Anforderung an Lieferanten, den Verhaltenskodex für Lieferanten von Microsoft oder diese Erklärung einzuhalten.
 

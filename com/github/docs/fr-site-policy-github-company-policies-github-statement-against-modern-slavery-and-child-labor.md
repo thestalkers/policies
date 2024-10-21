@@ -115,18 +115,18 @@ GitHub respecte et continuera de respecter les lois relatives à l'esclavage mod
 
 À l'avenir, GitHub exige désormais de ses fournisseurs qu'ils se conforment à cette déclaration, ainsi qu'aux lois relatives à l'esclavage moderne et au travail des enfants. Désormais, GitHub demande également à ses fournisseurs de :
 
-* Ne pas utiliser, participer, soutenir ou tolérer l'esclavage moderne ou le travail des enfants
-* Ne pas utiliser de pratiques de recrutement ou d'engagement trompeuses ou frauduleuses pour les employés ou les contractuels
-* Ne pas facturer aux employés ou aux contractuels des frais de recrutement ou d'engagement
-* Ne pas détruire, dissimuler, confisquer ou refuser d'une autre manière l'accès d'un employé ou d'un contractuel à son passeport, son permis de conduire ou tout autre document d'identité ;
-* Nous permettre de résilier nos accords avec eux pour toute violation de ses obligations liées à l'esclavage moderne ou au travail des enfants ;
-* Réparer tout préjudice causé à tout travailleur soumis à une forme quelconque d'esclavage moderne ou de travail des enfants, si la loi l'exige.
+* ne pas utiliser, participer, soutenir ou tolérer l'esclavage moderne ou le travail des enfants ;
+* ne pas utiliser de pratiques de recrutement ou d'engagement trompeuses ou frauduleuses pour les employés ou les contractuels ;
+* ne pas facturer aux employés ou aux contractuels des frais de recrutement ou d'engagement ;
+* ne pas détruire, dissimuler, confisquer ou refuser d'une autre manière l'accès d'un employé ou d'un contractuel à son passeport, son permis de conduire ou tout autre document d'identité ;
+* nous permettre de résilier nos accords avec eux pour toute violation de ses obligations liées à l'esclavage moderne ou au travail des enfants ; et
+* réparer tout préjudice causé à tout travailleur soumis à une forme quelconque d'esclavage moderne ou de travail des enfants, si la loi l'exige.
 
 De plus, GitHub encourage fortement ses fournisseurs à :
 
-* Mener des processus de diligence raisonnable contre l'esclavage moderne et le travail des enfants, y compris des évaluations des risques, pour leurs fournisseurs ;
-* Prendre des mesures pour traiter les risques identifiés ;
-* Utilisent un langage similaire contre l'esclavage moderne et le travail des enfants avec leurs fournisseurs.
+* mener des processus de diligence raisonnable contre l'esclavage moderne et le travail des enfants, y compris des évaluations des risques, pour leurs fournisseurs ;
+* prendre des mesures pour traiter les risques identifiés ; et
+* utiliser un langage similaire contre l'esclavage moderne et le travail des enfants avec leurs fournisseurs.
 
 Les instructions d'approvisionnement de GitHub aux employés effectuant des achats de l'entreprise incluent désormais une référence à l'obligation pour les fournisseurs de se conformer au Code de conduite des fournisseurs de Microsoft ou à la présente Déclaration.
 

@@ -115,10 +115,10 @@ GitHub cumple y seguirá cumpliendo con las leyes relacionadas con la esclavitud
 
 En el futuro, GitHub ahora requiere que sus proveedores cumplan con esta Declaración, así como con las leyes relacionadas con la esclavitud moderna y el trabajo infantil. GitHub ahora también requiere que sus proveedores:
 
-* No usar, participar, apoyar o tolerar la esclavitud moderna o el trabajo infantil
-* No utilizar prácticas de contratación o contratación engañosas o fraudulentas para los empleados o trabajadores contratados
-* No cobrar a los empleados ni a los trabajadores contratados tarifas de contratación o contratación
-* No destruya, oculte, confisque ni niegue de otro modo el acceso de un empleado o trabajador contratado al pasaporte, licencia de conducir u otros documentos de identidad;
+* No usar, participar, apoyar ni tolerar la esclavitud moderna o el trabajo infantil
+* No utilizar prácticas de contratación o compromiso engañosas o fraudulentas para los empleados o trabajadores contratados
+* No cobrar a los empleados ni a los trabajadores contratados tarifas de contratación o compromiso
+* No destruya, oculte, confisque ni niegue de otro modo el acceso de un empleado o trabajador contratado al pasaporte, permiso de conducir u otros documentos de identidad;
 * Permitirnos rescindir nuestros acuerdos con ellos por cualquier violación de sus obligaciones relacionadas con la esclavitud moderna o el trabajo infantil; y
 * Remediar cualquier daño causado a cualquier trabajador que se encuentre sujeto a cualquier forma de esclavitud moderna o trabajo infantil, si así lo exige la ley.
 

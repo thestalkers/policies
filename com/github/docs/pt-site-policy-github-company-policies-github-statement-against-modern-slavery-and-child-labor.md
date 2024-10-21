@@ -115,18 +115,18 @@ O GitHub cumpre e continuará a cumprir as leis relacionadas à escravidão mode
 
 No futuro, o GitHub agora exige que seus fornecedores cumpram esta Declaração, bem como as leis relacionadas à escravidão moderna e trabalho infantil. O GitHub agora também exige que seus fornecedores:
 
-* Não usar, participar, apoiar ou tolerar escravidão moderna ou trabalho infantil
-* Não usar práticas enganosas ou fraudulentas de recrutamento ou contratação para funcionários ou trabalhadores contratados
-* Não cobrar de funcionários ou contratados taxas de recrutamento ou contratação
-* Não destruir, ocultar, confiscar ou de outra forma negar o acesso de um funcionário ou de qualquer trabalhador contratado ao passaporte, carteira de motorista ou outros documentos de identidade;
-* permitir-nos rescindir nossos contratos com eles por qualquer violação de suas obrigações relacionadas à escravidão moderna ou trabalho infantil; e
-* Remediar quaisquer danos causados a qualquer trabalhador que esteja submetido a qualquer forma de escravidão moderna ou trabalho infantil, se exigido por lei.
+* Não usem, participem, apoiem ou tolerem escravidão moderna ou trabalho infantil
+* Não usem práticas enganosas ou fraudulentas de recrutamento ou contratação para funcionários ou trabalhadores contratados
+* Não cobrem de funcionários ou contratados taxas de recrutamento ou contratação
+* Não destruam, ocultem, confisquem ou de outra forma neguem o acesso de um funcionário ou de qualquer trabalhador contratado ao passaporte, carteira de motorista ou outros documentos de identidade;
+* Nos autorizem a rescindir nossos contratos com eles por qualquer violação de suas obrigações relacionadas à escravidão moderna ou trabalho infantil; e
+* Remediem quaisquer danos causados a qualquer trabalhador que esteja submetido a qualquer forma de escravidão moderna ou trabalho infantil, se exigido por lei.
 
 Além disso, o GitHub incentiva fortemente seus fornecedores a:
 
-* Conduzir processos de due diligence anti-escravidão moderna e trabalho infantil, incluindo avaliações de risco, para seus fornecedores;
-* Tomar medidas para lidar com os riscos identificados; e
-* Usam linguagem anti-escravidão e trabalho infantil semelhantes com seus fornecedores.
+* Conduzir processos de due diligence contra escravidão moderna e trabalho infantil, incluindo avaliações de risco, para seus fornecedores;
+* Empregar medidas para lidar com os riscos identificados; e
+* Usar linguagem de combate à escravidão e ao trabalho infantil semelhantes com seus fornecedores.
 
 As instruções de aquisição do GitHub para funcionários que fazem compras da empresa agora incluem uma referência à exigência de que os fornecedores cumpram o Código de Conduta do Fornecedor da Microsoft ou esta Declaração.
 
