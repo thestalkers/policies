@@ -131,7 +131,7 @@ GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、G
 
 GitHub Copilot Business および Copilot エンタープライズライセンスのライセンス所有者の場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
 
-GitHub Copilot の個々のライセンス所有者の場合、GitHub Copilot の使用は次の条件によって管理されます: コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 GitHub.com で GitHub Copilot を使用するには、GitHub.com にアクセスする必要があります。 GitHub Copilot 使って書いたコード (「**お客様のコード**」) は、GitHub.com にアップロードするまで、本契約上の「コンテンツ」ではありません。
+GitHub Copilot の個々のライセンス所有者の場合、GitHub Copilot の使用は次の条件によって管理されます: コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 Web サイトで GitHub Copilot を使用するには、Web サイトにアクセスする必要があります。 お客様が GitHub Copilot を使用して記述したコード (以下「**お客様のコード**」といいます) は、お客様が GitHub.com にアップロードするまで、本契約に基づく「コンテンツ」ではありません。
 
 GitHub Copilot 拡張機能 (拡張機能) を使用して GitHub Copilot をカスタマイズする場合、拡張機能の利用規約とプライバシー ポリシーが適用される場合があります。
 

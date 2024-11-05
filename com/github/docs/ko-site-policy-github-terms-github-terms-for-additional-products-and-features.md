@@ -131,7 +131,7 @@ GitHub Connect를 사용하면 GitHub Enterprise Server 배포와 GitHub Enterpr
 
 GitHub Copilot Business 및 Copilot Enterprise 라이선스 소유자의 경우 GitHub Copilot의 사용에 [GitHub Copilot 제품 관련 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)이 적용됩니다.
 
-GitHub Copilot 라이선스 개인 소유자의 경우 GitHub Copilot 사용은 다음 약관에 따라 관리됩니다. 코드 편집기에서 GitHub Copilot을 사용하려면 해당 편집기에 GitHub Copilot 확장을 설치해야 합니다. CLI(명령줄 인터페이스)에서 GitHub Copilot을 사용하려면 GitHub Copilot CLI 확장을 설치해야 합니다. GitHub Mobile에서 GitHub Copilot Chat을 사용하려면 GitHub Mobile 애플리케이션을 설치해야 합니다. GitHub.com GitHub Copilot을 사용하려면 GitHub.com에 액세스해야 합니다. GitHub Copilot을 사용하여 작성하는 코드("**코드**")는 GitHub.com에 업로드할 때까지 계약에 따라 "콘텐츠"가 아닙니다.
+GitHub Copilot 라이선스 개인 소유자의 경우 GitHub Copilot 사용은 다음 약관에 따라 관리됩니다. 코드 편집기에서 GitHub Copilot을 사용하려면 해당 편집기에 GitHub Copilot 확장을 설치해야 합니다. CLI(명령줄 인터페이스)에서 GitHub Copilot을 사용하려면 GitHub Copilot CLI 확장을 설치해야 합니다. GitHub Mobile에서 GitHub Copilot Chat을 사용하려면 GitHub Mobile 애플리케이션을 설치해야 합니다. 웹 사이트에서 GitHub Copilot을 사용하려면 웹 사이트에 액세스해야 합니다. GitHub Copilot을 사용하여 작성하는 코드(“**코드**”)는 GitHub.com에 업로드할 때까지 계약에 따라 “콘텐츠”가 아닙니다.
 
 GitHub Copilot 확장(확장)을 사용하여 GitHub Copilot을 사용자 지정하는 경우 확장의 사용 약관 및 개인정보처리방침이 적용될 수 있습니다.
 

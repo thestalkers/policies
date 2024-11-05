@@ -131,7 +131,7 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 
 GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
 
-对于 GitHub Copilot 个人许可证持有者，对 GitHub Copilot 的使用受以下条款的约束：若要在代码编辑器中使用 GitHub Copilot，需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 若要在 GitHub.com 上使用 GitHub Copilot，必须有权访问 GitHub.com。 根据协议，你使用 GitHub Copilot（以下称为“**你的代码**”）编写的代码在你将其上传到 GitHub.com 前不是“内容”。
+对于 GitHub Copilot 个人许可证持有者，对 GitHub Copilot 的使用受以下条款的约束：若要在代码编辑器中使用 GitHub Copilot，需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 若要在网站上使用 GitHub Copilot，则必须访问该网站。 对于您使用 GitHub Copilot 编写的代码（以下称为“**您的代码**”），在将其上传到 GitHub.com 之前，该代码并非本协议下的“内容”。
 
 如果使用 GitHub Copilot 扩展（扩展）自定义 GitHub Copilot，则使用可能会受到该扩展的使用条款和隐私策略的约束。
 
