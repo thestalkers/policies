@@ -22,7 +22,7 @@ En este artículo
 * [Espacios de código](#codespaces)
 * [Puntos de referencia competitivos](#competitive-benchmarking)
 * [Conectar](#connect)
-* [Copiloto de GitHub](#github-copilot)
+* [GitHub Copilot](#github-copilot)
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
 * [npm](#npm)
 * [Paquetes](#packages)
@@ -126,20 +126,20 @@ Si ofrece un producto o servicio que haga competencia a cualquier producto o ser
 
 Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos bajo los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
 
-[Copiloto de GitHub](#github-copilot)
+[GitHub Copilot](#github-copilot)
 ----------
 
 Para las empresas GitHub Copilot y los titulares de licencia de empresa Copilot, el uso de GitHub Copilot se rige por los [Términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-Para los titulares de licencias individuales de GitHub Copilot, el uso de GitHub Copilot se rige por los siguientes términos: Para usar GitHub Copilot en el editor de código, debe instalar la extensión de GitHub Copilot en ese editor. Para usar GitHub Copilot en la CLI (interfaz de la línea de comandos), debe instalar la extensión de CLI de GitHub Copilot. Para usar el chat de GitHub Copilot en GitHub Mobile, debe instalar la aplicación GitHub Mobile. Para usar GitHub Copilot en GitHub.com, debe acceder a GitHub.com. El código que escriba mediante GitHub Copilot ("**su código**") no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com.
+Para los titulares de licencias individuales de GitHub Copilot, el uso de GitHub Copilot se rige por los siguientes términos: Para usar GitHub Copilot en el editor de código, debe instalar la extensión de GitHub Copilot en ese editor. Para usar GitHub Copilot en la CLI (interfaz de la línea de comandos), debe instalar la extensión de CLI de GitHub Copilot. Para usar el chat de GitHub Copilot en GitHub Mobile, debe instalar la aplicación GitHub Mobile. Para usar GitHub Copilot en el sitio web, debe acceder al sitio web. El código que escriba mediante GitHub Copilot (“**su código**”) no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com.
 
 Si personaliza GitHub Copilot mediante una extensión de GitHub Copilot (extensión), el uso puede estar sujeto a los términos de uso y la directiva de privacidad de la extensión.
 
-El código, las funciones y otras salidas que devuelve Copiloto de GitHub se llaman "**sugerencias**". GitHub no posee sugerencias. Conserva la propiedad de su código y conserva la responsabilidad de las sugerencias que incluya en su código.
+El código, las funciones y otras salidas que devuelve GitHub Copilot se llaman "**sugerencias**". GitHub no posee sugerencias. Conserva la propiedad de su código y conserva la responsabilidad de las sugerencias que incluya en su código.
 
 *Uso aceptable*
 
-Su uso de GitHub Copilot está sujeto a las [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) de GitHub. Por ejemplo, no puede solicitar a Copiloto de GitHub contenidos ilegales o prohibidos por las directivas de uso aceptable de GitHub.com.
+Su uso de GitHub Copilot está sujeto a las [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) de GitHub. Por ejemplo, no puede solicitar a GitHub Copilot contenidos ilegales o prohibidos por las directivas de uso aceptable de GitHub.com.
 
 *Datos*
 
