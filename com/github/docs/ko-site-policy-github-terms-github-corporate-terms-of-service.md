@@ -17,7 +17,7 @@ GitHub 기업 서비스 약관
 ----------
 
 * [GitHub 기업 서비스 약관](#github-corporate-terms-of-service)
-* [A. 정의](#a-definitions)
+* [A. 용어 정의](#a-definitions)
 * [B. 계정 약관](#b-account-terms)
 * [C. 법률 준수, 사용 제한, 개인 정보 보호](#c-compliance-with-laws-acceptable-use-privacy)
 * [D. 콘텐츠 책임, 소유권, 라이선스 권리](#d-content-responsibility-ownership-license-rights)
@@ -38,7 +38,9 @@ GitHub 기업 서비스 약관
 * [S. 지원](#s-support)
 * [T. 기타](#t-miscellaneous)
 
-**참고:** GitHub 기업 서비스 약관은 2021년 11월 30일부터 사용 중지되었으며 더 이상 새 고객에게 사용되지 않습니다. 아래 약관은 기업 서비스 약관을 명시적으로 참조하는 실행된 계약을 가진 GitHub 고객에게\_만\_ 적용됩니다. 다른 모든 비즈니스 또는 기관 고객은 [github.com/customer-terms](https://github.com/customer-terms)에서 제공되는 GitHub 고객 계약 약관으로 이동됩니다.
+Note
+
+GitHub 기업 서비스 약관은 2021년 11월 30일부터 사용 중지되었으며 더 이상 새 고객에게 사용되지 않습니다. 아래 약관은 기업 서비스 약관을 명시적으로 참조하는 실행된 계약을 가진 GitHub 고객에게\_만\_ 적용됩니다. 다른 모든 비즈니스 또는 기관 고객은 [github.com/customer-terms](https://github.com/customer-terms)에서 제공되는 GitHub 고객 계약 약관으로 이동됩니다.
 
 [GitHub 기업 서비스 약관](#github-corporate-terms-of-service)
 ----------
@@ -52,7 +54,7 @@ GitHub 기업 서비스 약관
 * 관련된 모든 지원
 * 관련된 모든 전문 서비스
 
-[A. 정의](#a-definitions)
+[A. 용어 정의](#a-definitions)
 ----------
 
 **"계열사"** 란 당사자에게 직간접적으로 경영권을 행사하거나 당사자의 경영권하에 있거나 당사자와 공동으로 경영권을 행사하는 모든 법인을 의미하며, 여기서 "경영권"이란 50% 이상의 소유권을 갖거나 법인의 경영진을 지휘할 권한을 보유함을 의미합니다.
