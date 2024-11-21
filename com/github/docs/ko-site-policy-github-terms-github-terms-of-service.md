@@ -18,7 +18,7 @@ GitHub 서비스 약관
 
 * [요약](#summary)
 * [GitHub 서비스 약관](#the-github-terms-of-service)
-* [A. 정의](#a-definitions)
+* [A. 용어 정의](#a-definitions)
 * [B. 계정 약관](#b-account-terms)
 * [C. 사용 제한](#c-acceptable-use)
 * [D. 사용자 생성 콘텐츠](#d-user-generated-content)
@@ -68,7 +68,7 @@ GitHub를 이용해 주셔서 감사합니다. 여러분을 뵙게 되어 매우
 
 발효일: 2020년 11월 16일
 
-[A. 정의](#a-definitions)
+[A. 용어 정의](#a-definitions)
 ----------
 
 **짧은 버전:** *이러한 기본적 용어는 계약 전체에서 사용되며, 특정한 의미를 갖습니다. 각 용어를 사용할 때 그 의미를 알아야 합니다. 이에 관한 테스트는 없지만 여전히 유용한 정보입니다.*

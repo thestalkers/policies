@@ -13,7 +13,7 @@ GitHub Hassreden und Diskriminierung - GitHub-Dokumentation
 GitHub Hassreden und Diskriminierung
 ==========
 
-GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine Gruppe von Menschen aufgrund ihrer Person angreifen oder fördern, einschließlich Alter, Körpergröße, Fähigkeiten, ethnische Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönliches Aussehen, Rasse, Religion, sexuelle Identität oder sexuelle Orientierung. Dies umfasst:
+GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine Gruppe von Menschen aufgrund ihrer Person angreifen oder fördern, einschließlich Alter, Körpergröße, Fähigkeiten, ethnische Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönliches Aussehen, Rasse, Religion, sexuelle Identität oder sexuelle Orientierung. Dies schließt Folgendes ein:
 
 * Eine Person oder Gruppe aufgrund ihrer Überzeugungen oder der oben aufgeführten Eigenschaften verspotten, angreifen oder ausgrenzen
 * Anzeigen einer eindeutigen Zugehörigkeit oder Identifikation mit bekannten terroristischen oder gewaltbereiten extremistischen Organisationen

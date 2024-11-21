@@ -13,7 +13,7 @@ Contrat de développeur enregistré GitHub - Documentation GitHub
 Contrat de développeur enregistré GitHub
 ==========
 
-GitHub a la chance d'avoir de nombreux développeurs qui s'intègrent à notre plateforme. Nous pensons que c'est génial, et nous voulons rendre cette expérience encore meilleure. Le programme pour développeurs de GitHub (le « programme ») nous aide à nous connecter avec vous, à partager des informations avec vous et à soutenir vos efforts créatifs mieux que jamais. La relation spéciale entre GitHub et la communauté des développeurs que le Programme crée nécessite un ensemble de conditions particulières. Bienvenue dans le Contrat de développeur enregistré ("Contrat »).
+GitHub a la chance d'avoir de nombreux développeurs qui s'intègrent à notre plateforme. Nous pensons que c’est génial, et nous voulons rendre cette expérience encore meilleure. Le programme pour développeurs de GitHub (le « programme ») nous aide à nous connecter avec vous, à partager des informations avec vous et à soutenir vos efforts créatifs mieux que jamais. La relation spéciale entre GitHub et la communauté des développeurs que le Programme crée nécessite un ensemble de conditions particulières. Bienvenue dans le Contrat de développeur enregistré ("Contrat »).
 
 Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. ("GitHub », « nous » ou « nous »). Assurez-vous de lire attentivement cet accord - il régit votre participation au programme, et nous ne sommes disposés à vous laisser participer au programme que si vous acceptez tous les termes de cet accord. En cliquant sur « J'accepte » ci-dessous, ou en participant au programme de quelque manière que ce soit - par exemple, en accédant à des informations sur les produits ou fonctionnalités GitHub qui ne sont pas encore disponibles au grand public - vous acceptez d'être lié par tous les termes du présent Accord. SI VOUS CONCLUEZ CET ACCORD AU NOM D'UNE ENTREPRISE OU D'UNE AUTRE ENTITÉ MORALE, VOUS DÉCLAREZ QUE VOUS AVEZ L'AUTORITÉ LÉGALE POUR LIER L'ENTITÉ À CET ACCORD, AUQUEL CAS « VOUS » DÉSIGNERA L'ENTITÉ QUE VOUS REPRÉSENTEZ. SI VOUS N'AVEZ PAS UNE TELLE AUTORITÉ, OU SI VOUS N'ACCEPTEZ PAS LES TERMES ET CONDITIONS DE CET ACCORD, VOUS DEVEZ SÉLECTIONNER LE BOUTON « ANNULER » ET VOUS NE POURREZ PAS PARTICIPER AU PROGRAMME. SI VOUS ÊTES UNE ENTREPRISE OU UNE AUTRE ENTITÉ MORALE, VOUS DÉCLAREZ QUE LA PERSONNE QUI CLIQUE SUR « J'ACCEPTE » A L'AUTORITÉ DE VOUS LIER À CET ACCORD.
 
@@ -43,7 +43,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 6. **Marketing et publicité**
 
-   Le marketing et la publicité de vos intégrations avec GitHub sont précieux pour nous deux. Nous voulons être sûrs que cela se passe de la bonne manière, c'est pourquoi nous avons inclus un certain langage ici pour aider à clarifier certaines choses à faire et à ne pas faire.
+   Le marketing et la publicité de vos intégrations avec GitHub sont précieux pour nous deux. Nous voulons être sûrs que cela se passe de la bonne manière, c’est pourquoi nous avons inclus un certain langage ici pour aider à clarifier certaines choses à faire et à ne pas faire.
 
    Vous acceptez de ne faire aucune déclaration, garantie ou approbation à qui que ce soit au nom de GitHub (y compris, entre autres, tout produit ou service GitHub). À moins que nous ne disions spécifiquement que c'est acceptable dans les conditions du programme, vous vous engagez à ne pas déclarer ou impliquer que nous avons développé, approuvé, révisé ou autrement approuvé l'un de vos produits.
 
@@ -51,7 +51,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
    Nous voulons parler de vous et de votre participation au Programme. Pour nous aider à le faire, vous nous accordez une licence limitée, révocable, mondiale, non exclusive et non transférable pour utiliser vos marques de commerce, marques de service et logos (collectivement, les « marques de partenaire ») dans nos supports marketing, uniquement pour dans le but de promouvoir le programme et de faire connaître votre participation à celui-ci.
 
-   À l'exception de ce qui est stipulé dans le présent Contrat et les CGU, rien dans le présent Contrat ne sera réputé accorder à une partie un droit, un titre ou un intérêt dans ou sur les Marques de l'autre partie. Que ce soit pendant ou après la durée du présent Accord, vous acceptez de ne pas : (i) contester ou aider des tiers à contester les Marques GitHub, ou notre enregistrement ou l'application des Marques GitHub ; (ii) tenter d'adopter, d'utiliser, de demander ou d'enregistrer des marques commerciales, marques de service, logos, URL, noms de domaine Internet ou symboles similaires aux Marques GitHub au point de prêter à confusion ; ou (iii) faire des déclarations négatives, fausses ou dénigrantes (qu'elles soient écrites ou orales) à un tiers à notre sujet, à propos de nos produits ou services.
+   À l’exception de ce qui est stipulé dans le présent accord et les conditions d’utilisation du service, rien dans le présent accord ne sera réputé accorder à une partie un droit, un titre ou un intérêt dans ou sur les Marques de l’autre partie. Que ce soit pendant ou après la durée du présent Accord, vous acceptez de ne pas : (i) contester ou aider des tiers à contester les Marques GitHub, ou notre enregistrement ou l'application des Marques GitHub ; (ii) tenter d'adopter, d'utiliser, de demander ou d'enregistrer des marques commerciales, marques de service, logos, URL, noms de domaine Internet ou symboles similaires aux Marques GitHub au point de prêter à confusion ; ou (iii) faire des déclarations négatives, fausses ou dénigrantes (qu'elles soient écrites ou orales) à un tiers à notre sujet, à propos de nos produits ou services.
 
 7. **Confidentialité ; Documents préalables à la publication**
 
@@ -93,7 +93,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 13. **Contrôle des exportations**
 
-   Vous n'êtes pas autorisé à exporter ou à réexporter l'une de nos informations confidentielles, sauf dans la mesure autorisée par la loi des États-Unis et les lois de la juridiction dans laquelle les informations confidentielles ont été obtenues. En particulier, vous n'êtes pas autorisé à exporter ou à réexporter nos informations confidentielles vers des pays sous embargo des États-Unis, à toute personne figurant sur la liste des ressortissants spécialement désignés du département du Trésor des États-Unis ou à toute personne figurant sur la liste des personnes ou entités refusées par le département du commerce des États-Unis. Lister. En rejoignant le programme ou en recevant l'une de nos informations confidentielles, vous déclarez et garantissez que vous n'êtes pas situé dans un tel pays ou sur une telle liste.
+   Vous n'êtes pas autorisé à exporter ou à réexporter l'une de nos informations confidentielles, sauf dans la mesure autorisée par la loi des États-Unis et les lois de la juridiction dans laquelle les informations confidentielles ont été obtenues. En particulier, vous n’êtes pas autorisé à exporter ou à réexporter nos Informations Confidentielles vers des pays soumis à un embargo américain, vers toute personne figurant sur la liste des Ressortissants Spécialement Désignés du département du Trésor américain, ou vers toute personne figurant sur la liste des Personnes ou Entités Refusées du département du Commerce américain. En rejoignant le programme ou en recevant l'une de nos informations confidentielles, vous déclarez et garantissez que vous n'êtes pas situé dans un tel pays ou sur une telle liste.
 
 14. **Droits de propriété**
 
@@ -101,7 +101,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 15. **Utilisateurs gouvernementaux**
 
-   Si vous êtes une entité gouvernementale, cette section s'applique à vous. Certaines de nos informations confidentielles peuvent être considérées comme des « éléments commerciaux », tel que ce terme est défini dans 48 CFR paragraphe 2.101, consistant en un « Logiciel Commercial » et une « Documentation de Logiciel Commercial », tels que ces termes sont utilisés dans la norme 48 C.F.R. §12.212 ou 48 CFR paragraphe 227.7202, selon le cas. Conformément à la norme 48 C.F.R. §12.212 ou 48 CFR §227.7202-1 à 227.7202-4, selon le cas, le logiciel informatique commercial et la documentation du logiciel informatique commercial sont concédés sous licence aux utilisateurs finaux du gouvernement américain (a) uniquement en tant qu'éléments commerciaux et (b) avec uniquement les droits accordés à tous les autres utilisateurs finaux conformément aux présentes conditions générales. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
+   Si vous êtes une entité gouvernementale, cette section s’applique à vous. Certaines de nos informations confidentielles peuvent être considérées comme des « éléments commerciaux », tel que ce terme est défini dans 48 CFR paragraphe 2.101, consistant en un « Logiciel Commercial » et une « Documentation de Logiciel Commercial », tels que ces termes sont utilisés dans la norme 48 C.F.R. §12.212 ou 48 CFR paragraphe 227.7202, selon le cas. Conformément à la norme 48 C.F.R. §12.212 ou 48 CFR §227.7202-1 à 227.7202-4, selon le cas, le logiciel informatique commercial et la documentation du logiciel informatique commercial sont concédés sous licence aux utilisateurs finaux du gouvernement américain (a) uniquement en tant qu’éléments commerciaux et (b) avec uniquement les droits accordés à tous les autres utilisateurs finaux conformément aux présentes conditions générales. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
 
 16. **Développement indépendant**
 
@@ -113,19 +113,19 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 18. **Prestataires indépendants**
 
-   Les parties au présent accord sont des entrepreneurs indépendants. Aucun de nous ne sera considéré comme un employé, un agent, un partenaire, un franchiseur, un franchisé ou un représentant légal de l'autre à quelque fin que ce soit et aucun de nous n'aura le droit, le pouvoir ou l'autorité de créer une obligation ou une responsabilité au nom de l'autre. .
+   Les parties au présent accord sont des entrepreneurs indépendants. Aucun de nous ne sera considéré comme un employé, un agent, un partenaire, un franchiseur, un franchisé ou un représentant légal de l’autre à quelque fin que ce soit et aucun de nous n’aura le droit, le pouvoir ou l’autorité de créer une obligation ou une responsabilité au nom de l’autre. .
 
 19. **Affectation**
 
-   Vous n'êtes pas autorisé à céder ou à transférer le présent accord, ou l'un de vos droits en vertu de celui-ci, en tout ou en partie, par effet de la loi ou autrement, sans notre consentement écrit préalable.
+   Vous n’êtes pas autorisé à céder ou à transférer le présent accord, ou l’un de vos droits en vertu de celui-ci, en tout ou en partie, par effet de la loi ou autrement, sans notre consentement écrit préalable.
 
 20. **Droit et juridiction applicables**
 
-   Le présent Accord sera interprété conformément aux lois de l’État de Californie, sans tenir compte des principes de conflit de lois. Tous les litiges découlant du présent accord seront soumis à la juridiction exclusive des tribunaux d'État et fédéraux situés dans le comté de San Francisco, en Californie, et chacun de nous consent par la présente à la compétence personnelle de celui-ci.
+   Le présent Accord sera interprété conformément aux lois de l’État de Californie, sans tenir compte des principes de conflit de lois. Tous les litiges découlant du présent accord seront soumis à la juridiction exclusive des tribunaux d’État et fédéraux situés dans le comté de San Francisco, en Californie, et chacun de nous consent par la présente à la compétence personnelle de celui-ci.
 
 21. **Avenants; Renonciations ; Aucun tiers bénéficiaire**
 
-   Le présent Contrat ne peut être modifié que par un écrit signé par les deux parties. Toute renonciation aux dispositions du présent accord ou aux droits ou recours d'une partie en vertu du présent accord doit être faite par écrit pour être effective. Si un terme, une condition ou une disposition du présent accord est jugé invalide ou inapplicable, les autres termes continueront d'être valides et exécutoires dans toute la mesure permise par la loi. Nous convenons chacun expressément qu'il n'y a pas de tiers bénéficiaires du présent accord.
+   Le présent Contrat ne peut être modifié que par un écrit signé par les deux parties. Toute renonciation aux dispositions du présent accord ou aux droits ou recours d’une partie en vertu du présent accord doit être faite par écrit pour être effective. Si un terme, une condition ou une disposition du présent accord est jugé invalide ou inapplicable, les autres termes continueront d’être valides et exécutoires dans toute la mesure permise par la loi. Nous convenons chacun expressément qu’il n’y a pas de tiers bénéficiaires du présent accord.
 
 22. **Intégralité des accords**
 
