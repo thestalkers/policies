@@ -33,7 +33,7 @@ GitHub Marketplace 开发人员协议
 * [15.通知](#15-notice)
 * [16.管辖法律](#16-governing-law)
 * [17.出口限制](#17-export-restrictions)
-* [18.使用数据](#18--usage-data)
+* [18.使用数据](#18-usage-data)
 * [19. 预发布访问](#19-pre-release-access)
 
 **参与 GitHub 的 Marketplace 计划必须遵守这些条款和条件（以下简称“协议”）。注册参与 Marketplace 计划或单击下面的“I Accept”（我接受），即表示你确认自己理解本协议，并接受其所有条款和条件。如果你代表公司或其他法律实体签订本协议，则表示你拥有让该实体受本协议约束的法律权限，在这种情况下，“你”即表示你所代表的实体。**
@@ -232,7 +232,7 @@ GitHub 通知可通过电子邮件发送至 [legal@support.github.com](mailto:le
 
 通过 Marketplace 分销的开发人员产品可能受美国或其他国家或地区的出口管制或限制。 开发人员同意遵守所有适用的美国和国际出口法律和法规。 这些法律可能包括对目的地、内容和/或最终用户的限制。
 
-[18.使用数据](#18--usage-data)
+[18.使用数据](#18-usage-data)
 ----------
 
 为了运营和改善 Marketplace，GitHub 可能会从 Marketplace 或 GitHub API 或者 GitHub 为用户存储先前已购或已下载产品的任何地方收集使用数据。 使用数据将按照 GitHub 当时有效的隐私声明进行维护。 GitHub 可自行决定将有限的使用数据提供给开发人员使用。

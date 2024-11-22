@@ -33,7 +33,7 @@ En este artículo
 * [15. NOTIFICACIONES](#15-notice)
 * [16. LEGISLACIÓN APLICABLE](#16-governing-law)
 * [17. RESTRICCIONES EN MATERIA DE EXPORTACIÓN](#17-export-restrictions)
-* [18. DATOS DE USO](#18--usage-data)
+* [18. DATOS DE USO](#18-usage-data)
 * [19. ACCESO PREVIO AL LANZAMIENTO](#19-pre-release-access)
 
 **Estos términos y condiciones (el "Acuerdo") rigen su participación en el Marketplace de GitHub. Al inscribirse para participar en el Marketplace o al hacer clic en "Acepto" a continuación, está confirmando que entiende este acuerdo y que acepta todos sus términos y condiciones. Si acepta este acuerdo en nombre de una empresa u otra entidad jurídica, usted declara que tiene la autoridad legal para vincular a la entidad a este acuerdo, en cuyo caso "Usted" significará la entidad que representa.**
@@ -235,7 +235,7 @@ El presente Contrato se regirá e interpretará de acuerdo con las leyes del Est
 
 Los Productos del programador distribuidos a través del Marketplace pueden estar sujetos a controles o restricciones a la exportación por parte de los Estados Unidos u otros países o territorios. El desarrollador se compromete a cumplir con todas las leyes y reglamentos estadounidenses e internacionales aplicables a la exportación. Estas leyes pueden incluir restricciones sobre los destinos, el contenido y / o Usuarios Finales.
 
-[18. DATOS DE USO](#18--usage-data)
+[18. DATOS DE USO](#18-usage-data)
 ----------
 
 Con el fin de operar y mejorar Marketplace, GitHub puede recopilar Datos de Uso de Marketplace o una API de GitHub o en cualquier lugar donde los Productos de desarrollador previamente comprados o descargados se almacenan en nombre de los Usuarios Finales por GitHub. Los Datos de Uso se mantendrán de acuerdo con la Declaración de Privacidad de GitHub vigente en ese momento. Los Datos de uso limitados pueden estar disponibles para que los use el Desarrollador a discreción exclusiva de GitHub.

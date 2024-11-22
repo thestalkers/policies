@@ -60,29 +60,29 @@ Before asking us to disclose data, it may be useful to understand how our system
 GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
 Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-* [**Users**](/en/get-started/learning-about-github/github-glossary#user) —
+* [**Users**](/en/get-started/learning-about-github/github-glossary#user):
   Users are represented in our system as personal GitHub accounts.
   Each user has a personal profile, and can own multiple repositories.
   Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-* [**Collaborators**](/en/get-started/learning-about-github/github-glossary#collaborator) —
+* [**Collaborators**](/en/get-started/learning-about-github/github-glossary#collaborator):
   A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
-* [**Organizations**](/en/get-started/learning-about-github/github-glossary#organization) —
+* [**Organizations**](/en/get-started/learning-about-github/github-glossary#organization):
   Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
   They are administered by users and can contain both repositories and teams of users.
 
-* [**Repositories**](/en/get-started/learning-about-github/github-glossary#repository) —
+* [**Repositories**](/en/get-started/learning-about-github/github-glossary#repository):
   A repository is one of the most basic GitHub elements.
   They may be easiest to imagine as a project's folder.
   A repository contains all of the project files (including documentation), and stores each file's revision history.
   Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-* [**Pages**](/en/pages/getting-started-with-github-pages/about-github-pages) —
+* [**Pages**](/en/pages/getting-started-with-github-pages/about-github-pages):
   GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
   If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) —
+* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists):
   Gists are snippets of source code or other text that users can use to store ideas or share with friends.
   Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
   Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
@@ -92,7 +92,7 @@ Repositories on GitHub—which may be public or private—are most commonly used
 
 Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
 
-* []()**Public account data** —
+* []()**Public account data**:
   There is a variety of information publicly available on GitHub about users and their repositories.
   User profiles can be found at a URL such as `https://github.com/username`.
   User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
@@ -123,7 +123,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-* []()**Private account data** —
+* []()**Private account data**:
   GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
   This may include:
 
@@ -137,7 +137,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
     To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
-* []()**Organization account data** —
+* []()**Organization account data**:
   Information about organizations, their administrative users and repositories is publicly available on GitHub.
   Organization profiles can be found at a URL such as `https://github.com/organization`.
   Public organization profiles can also include additional information that the owners have chosen to share publicly.
@@ -161,7 +161,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Collaborators
 
-* []()**Public repository data** —
+* []()**Public repository data**:
   GitHub is home to millions of public, open-source software projects.
   You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
   This can include:
@@ -175,10 +175,10 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
   * Project documentation such as Issues and Wiki pages
   * Statistics and graphs showing contributions to the project and the network of contributors
 
-* []()**Private repository data** —
+* []()**Private repository data**:
   GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
 
-* []()**Other data** —
+* []()**Other data**:
   Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
 [We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
@@ -194,10 +194,10 @@ GitHub reserves the right to object to any requests for non-public information.
 Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
-* []()**With user consent** —
+* []()**With user consent**:
   GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
 
-* []()**With a subpoena** —
+* []()**With a subpoena**:
   If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
 
   * Name(s) associated with the account
@@ -211,7 +211,7 @@ In the case of organization accounts, we can provide the name(s) and email addre
 
 Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
-* []()**With a court order *or* a search warrant** — We will not disclose account access logs unless compelled to do so by either
+* []()**With a court order *or* a search warrant**: We will not disclose account access logs unless compelled to do so by either
   (i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
   (ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
   In addition to the non-public account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
@@ -221,7 +221,7 @@ Please note that the information available will vary from case to case. Some of 
   * User- or IP-specific analytic data such as browsing history
   * Security access logs other than account creation or for a specific time and date
 
-* []()**Only with a search warrant** —
+* []()**Only with a search warrant**:
   We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
   In addition to the non-public account information and account access logs mentioned above, we will also provide private account contents in response to a search warrant, which may include:
 
@@ -231,7 +231,7 @@ Please note that the information available will vary from case to case. Some of 
   * Communications or documentation (such as Issues or Wikis) in private repositories
   * Any security keys used for authentication or encryption
 
-* []()**Under exigent circumstances** —
+* []()**Under exigent circumstances**:
   If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
 [Cost reimbursement](#cost-reimbursement)

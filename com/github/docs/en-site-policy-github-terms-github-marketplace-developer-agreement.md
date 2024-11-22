@@ -33,7 +33,7 @@ In this article
 * [15. NOTICE](#15-notice)
 * [16. GOVERNING LAW](#16-governing-law)
 * [17. EXPORT RESTRICTIONS](#17-export-restrictions)
-* [18. USAGE DATA](#18--usage-data)
+* [18. USAGE DATA](#18-usage-data)
 * [19. PRE-RELEASE ACCESS](#19-pre-release-access)
 
 **These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
@@ -232,7 +232,7 @@ This Agreement will be governed by and construed in accordance with the laws of 
 
 Developer Products distributed via Marketplace may be subject to export controls or restrictions by the United States or other countries or territories. Developer agrees to comply with all applicable US and international export laws and regulations. These laws may include restrictions on destinations, content and/or End Users.
 
-[18. USAGE DATA](#18--usage-data)
+[18. USAGE DATA](#18-usage-data)
 ----------
 
 In order to operate and improve Marketplace, GitHub may collect Usage Data from Marketplace or a GitHub API or anywhere previously purchased or downloaded Developer Products are stored on behalf of End Users by GitHub. The Usage Data will be maintained in accordance with GitHub’s then in effect Privacy Statement. Limited Usage Data may be available for use by Developer in GitHub’s sole discretion.

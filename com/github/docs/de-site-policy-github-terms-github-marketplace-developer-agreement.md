@@ -33,7 +33,7 @@ In diesem Artikel
 * [15. MITTEILUNGEN](#15-notice)
 * [16. ANWENDBARES RECHT](#16-governing-law)
 * [17. AUSFUHRBESCHRÄNKUNGEN](#17-export-restrictions)
-* [18. NUTZUNGSDATEN](#18--usage-data)
+* [18. NUTZUNGSDATEN](#18-usage-data)
 * [19. VORABVERSIONSZUGRIFF](#19-pre-release-access)
 
 **Diese Geschäftsbedingungen (die „Vereinbarung“) regeln Ihre Teilnahme am Marketplace-Programm von GitHub. Indem Sie sich für die Teilnahme am Marketplace anmelden oder unten auf „Ich akzeptiere“ klicken, bestätigen Sie, dass Sie diese Vereinbarung verstanden haben und alle darin enthaltenen Bestimmungen und Bedingungen akzeptieren. Wenn Sie diese Vereinbarung im Namen eines Unternehmens oder einer anderen juristischen Person abschließen, versichern Sie, dass Sie rechtlich befugt sind, die juristische Person an diese Vereinbarung zu binden; in diesem Fall bedeutet „Sie“ die juristische Person, die Sie vertreten.**
@@ -232,7 +232,7 @@ Diese Vereinbarung unterliegt den Gesetzen des Staates Kalifornien und den Bunde
 
 Entwicklerprodukte, die über den Marketplace vertrieben werden, können Exportkontrollen oder -beschränkungen der Vereinigten Staaten oder anderer Länder oder Gebiete unterliegen. Der Entwickler erklärt sich mit der Einhaltung aller anwendbaren US- und internationalen Ausfuhrgesetze und -vorschriften einverstanden. Diese Gesetze können Beschränkungen für Ziele, Inhalte und/oder Endbenutzer enthalten.
 
-[18. NUTZUNGSDATEN](#18--usage-data)
+[18. NUTZUNGSDATEN](#18-usage-data)
 ----------
 
 Um den Marktplatz zu betreiben und zu verbessern, kann GitHub Nutzungsdaten vom Marktplatz oder einer GitHub-API oder überall dort sammeln, wo zuvor gekaufte oder heruntergeladene Entwicklerprodukte im Auftrag von Endbenutzern von GitHub gespeichert werden. Die Nutzungsdaten werden in Übereinstimmung mit den dann geltenden Datenschutzerklärung von GitHub verwaltet. Begrenzte Nutzungsdaten können nach alleinigem Ermessen von GitHub zur Verwendung durch den Entwickler verfügbar sein.
