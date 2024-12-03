@@ -26,7 +26,7 @@
 
 *2018년 성명서*
 
-국제노동기구(ILO)에 따르면 2016년 기준으로 전 세계 [4,000만 명이 현대 노예제의 피해자이고, 1억 5,200만 명의 아동이 미성년 노동에 시달리고 있습니다.](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) [ILO의 보고](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm)에 따르면,
+국제노동기구(ILO)에 따르면 2016년 기준으로 전 세계 [4,000만 명이 현대 노예제의 피해자이고, 1억 5,200만 명의 아동이 미성년 노동에 시달리고 있습니다.](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) [ILO의 보고](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons)에 따르면,
 
 * 현대 노예제 피해자 4명 중 1명은 아동입니다.
 * 강제 노동에서 빠져나오지 못하는 2,490만 명 중 1,600만 명은 가정 노동, 건설 또는 농업 등 민간 부문에서, 480만 명은 강제적 성 착취에, 400만 명은 국가 기관이 부과하는 강제 노동에 착취당하고 있습니다.

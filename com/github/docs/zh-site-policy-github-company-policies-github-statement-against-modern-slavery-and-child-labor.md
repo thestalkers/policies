@@ -26,7 +26,7 @@ GitHub 反对现代奴役制和童工制的声明
 
 *2018 年声明*
 
-根据国际劳工组织 (ILO) 公布的数据，2016 年，全球有 [4,000 万人成为现代奴隶的受害者，1.52 亿儿童沦为童工](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm)。 根据 [ILO 报告](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm)：
+根据国际劳工组织 (ILO) 公布的数据，2016 年，全球有 [4,000 万人成为现代奴隶的受害者，1.52 亿儿童沦为童工](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm)。 根据 [ILO 报告](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons)：
 
 * 现代奴役制的受害者中有四分之一是儿童。
 * 在 2,490 万从事强迫劳动的受害者中，有 1,600 万人被私营部门剥削，例如家政、施工或农业领域，有 480 万人遭受性剥削，有 400 万人被国家相关部门要求从事强迫劳动。

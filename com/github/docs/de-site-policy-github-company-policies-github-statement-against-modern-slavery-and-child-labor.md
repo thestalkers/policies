@@ -26,7 +26,7 @@ In diesem Artikel
 
 *2018 Erklärung*
 
-Nach Angaben der Internationalen Arbeitsorganisation (ILO) waren 2016 weltweit [40 Millionen Menschen Opfer moderner Sklaverei, und 152 Millionen Kinder waren Kinderarbeit ausgesetzt](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm). Laut der [ILO](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm):
+Nach Angaben der Internationalen Arbeitsorganisation (ILO) waren 2016 weltweit [40 Millionen Menschen Opfer moderner Sklaverei, und 152 Millionen Kinder waren Kinderarbeit ausgesetzt](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm). Laut der [ILO](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons):
 
 * 1 von 4 Opfern moderner Sklaverei sind Kinder.
 * Von den 24,9 Millionen Menschen, die in Zwangsarbeit gefangen sind, werden 16 Millionen Menschen im privaten Sektor wie Hausarbeit, Bau oder Landwirtschaft ausgebeutet; 4,8 Millionen Menschen in erzwungener sexueller Ausbeutung und 4 Millionen Menschen in Zwangsarbeit durch staatliche Behörden.

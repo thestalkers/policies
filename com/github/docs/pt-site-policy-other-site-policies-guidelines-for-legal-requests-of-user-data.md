@@ -64,9 +64,9 @@ Os repositórios no GitHub — que podem ser públicos ou privados — são mais
   Cada usuário tem um perfil pessoal e pode possuir vários repositórios.
   Os usuários podem criar ou ser convidados a ingressar em organizações ou colaborar no repositório de outro usuário.
 
-* [**Colaboradores**](/pt/get-started/learning-about-github/github-glossary#collaborator) – um colaborador é um usuário com acesso de leitura e gravação a um repositório que foi convidado a contribuir pelo proprietário do repositório.
+* [**Colaboradores**](/pt/get-started/learning-about-github/github-glossary#collaborator): um colaborador é um usuário com acesso de leitura e gravação a um repositório que foi convidado a contribuir pelo proprietário do repositório.
 
-* [**Organizações**](/pt/get-started/learning-about-github/github-glossary#organization): organizações são um grupo de dois ou mais usuários que normalmente espelham organizações do mundo real, como negócios ou projetos.
+* [**Organizações**](/pt/get-started/learning-about-github/github-glossary#organization): organizações são um grupo de dois ou mais usuários que normalmente espelham organizações do mundo real, como empresas ou projetos.
   Eles são administrados por usuários e podem conter repositórios e equipes de usuários.
 
 * [**Repositórios**](/pt/get-started/learning-about-github/github-glossary#repository): um repositório é um dos elementos mais básicos do GitHub.
@@ -74,10 +74,10 @@ Os repositórios no GitHub — que podem ser públicos ou privados — são mais
   Um repositório contém todos os arquivos do projeto (incluindo documentação) e armazena o histórico de revisão de cada arquivo.
   Os repositórios podem ter vários colaboradores e, a critério de seus administradores, podem ser visualizados publicamente ou não.
 
-* [**Páginas**](/pt/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
+* [**Pages**](/pt/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
   Se um usuário ou uma organização tiver uma GitHub Page, ela geralmente poderá ser encontrada em um URL, como `https://username.github.io` ou eles podem ter a página da Web mapeada para seu próprio nome de domínio personalizado.
 
-* [**Gists**](/pt/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
+* [**Gists**](/pt/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
   Como os repositórios regulares do GitHub, os Gists são criados com o Git, portanto, são automaticamente versionados, bifurcados e baixáveis.
   Os Gists podem ser públicos ou secretos (acessíveis apenas por meio de uma URL conhecida). Gists públicos não podem ser convertidos em Gists secretos.
 
@@ -214,7 +214,7 @@ Observe que as informações disponíveis variam de caso para caso. Algumas das 
   * Comunicações ou documentação (como Issues ou Wikis) em repositórios privados
   * Quaisquer chaves de segurança usadas para autenticação ou criptografia
 
-* []() **Em circunstâncias prementes**: se recebermos uma solicitação de informações em determinadas circunstâncias prementes (onde acreditamos que a divulgação é necessária para evitar uma emergência envolvendo perigo de morte ou lesão física grave a uma pessoa), poderemos divulgar informações limitadas que consideramos necessárias para permitir a aplicação da lei a fim de atender à emergência. Para qualquer informação além disso, exigimos uma intimação, mandado de busca ou ordem judicial, conforme descrito acima. Por exemplo, não divulgaremos conteúdos de repositórios privados sem um mandado de busca. Antes de divulgar as informações, confirmamos que a solicitação veio de uma agência de aplicação da lei, uma autoridade enviou um aviso oficial resumindo a emergência e como as informações solicitadas ajudarão a lidar com a emergência.
+* []() **Em circunstâncias prementes**: se recebermos uma solicitação de informações em determinadas circunstâncias prementes (em que acreditamos que a divulgação é necessária para evitar uma emergência envolvendo perigo de morte ou lesão física grave a uma pessoa), poderemos divulgar informações limitadas que consideramos necessárias para permitir a aplicação da lei a fim de atender à emergência. Para qualquer informação além disso, exigimos uma intimação, mandado de busca ou ordem judicial, conforme descrito acima. Por exemplo, não divulgaremos conteúdos de repositórios privados sem um mandado de busca. Antes de divulgar as informações, confirmamos que a solicitação veio de uma agência de aplicação da lei, uma autoridade enviou um aviso oficial resumindo a emergência e como as informações solicitadas ajudarão a lidar com a emergência.
 
 [Reembolso de custos](#cost-reimbursement)
 ----------

@@ -116,7 +116,7 @@ Aquí hay una lista no exhaustiva de los tipos de datos que mantenemos sobre usu
 
   * Organizaciones a las que pertenece el usuario (*dependiendo de las preferencias de las organizaciones o de los usuarios*)
 
-* []() **Datos de cuentas privadas**: GitHub también recopila y mantiene determinada información privada sobre los usuarios de la forma en que se describe en nuestra [Directiva de Privacidad](/es/site-policy/privacy-policies/github-privacy-statement).
+* []() **Datos de cuentas privadas**: GitHub también recopila y mantiene determinada información privada sobre los usuarios de la forma en que se describe en nuestra [directiva de privacidad](/es/site-policy/privacy-policies/github-privacy-statement).
   Esto puede incluir:
 
   * Direcciones de correo electrónico privadas
@@ -182,7 +182,7 @@ GitHub se reserva el derecho de oponerse a cualquier solicitud de información n
 Cuando GitHub acepte producir información no pública en respuesta a una solicitud legal, realizaremos una búsqueda razonable de la información solicitada.
 Estos son los tipos de información que aceptaremos producir, según el tipo de proceso legal que recibamos:
 
-* []() \*\*\*\*: GitHub proporciona información de cuentas privadas, si se solicita, directamente al usuario (o a un propietario, en el caso de que sea una cuenta de organización) o a un tercero designado con el consentimiento por escrito del usuario una vez que GitHub concluya que el usuario ha verificado su identidad.
+* []() **Con consentimiento del usuario**: GitHub proporciona información de cuentas privadas, si se solicita, directamente al usuario (o a un propietario, en el caso de que sea una cuenta de organización) o a un tercero designado con el consentimiento por escrito del usuario una vez que GitHub concluya que el usuario ha verificado su identidad.
 
 * []() **Con una citación**: si se presenta una citación válida, una demanda de investigación civil o un procedimiento legal similar en relación con una investigación penal o civil oficial, podemos proporcionar determinada información de las cuentas no públicas, que podría incluir:
 

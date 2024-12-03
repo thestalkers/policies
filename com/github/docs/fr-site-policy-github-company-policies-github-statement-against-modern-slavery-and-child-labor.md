@@ -26,7 +26,7 @@ Dans cet article
 
 *Déclaration 2018*
 
-Selon l'Organisation internationale du travail (OIT), [40 millions de personnes ont été victimes d'esclavage moderne et 152 millions d'enfants ont été soumis au travail](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) dans le monde en 2016. Selon les [rapports de l'OIT](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm) :
+Selon l'Organisation internationale du travail (OIT), [40 millions de personnes ont été victimes d'esclavage moderne et 152 millions d'enfants ont été soumis au travail](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) dans le monde en 2016. Selon les [rapports de l'OIT](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons) :
 
 * 1 victime sur 4 de l'esclavage moderne est un enfant.
 * Sur les 24,9 millions de personnes piégées dans le travail forcé, 16 millions de personnes sont exploitées dans le secteur privé comme le travail domestique, la construction ou l'agriculture ; 4,8 millions de personnes victimes d'exploitation sexuelle forcée et 4 millions de personnes soumises au travail forcé imposé par les autorités de l'État.

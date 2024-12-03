@@ -26,7 +26,7 @@ GitHub の現代奴隷制と児童労働に反対する声明
 
 *2018 年の声明*
 
-国際労働機関 (ILO) によると、2016 年には世界中で [4,000 万人が現代奴隷制の犠牲となっており、1 億 5,200 万人の子どもが児童労働の対象となっています](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm)。 [ILO は次のように報告しています](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm)。
+国際労働機関 (ILO) によると、2016 年には世界中で [4,000 万人が現代奴隷制の犠牲となっており、1 億 5,200 万人の子どもが児童労働の対象となっています](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm)。 [ILO は次のように報告しています](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons)。
 
 * 現代奴隷制の犠牲者の 4 人に 1 人は子どもです。
 * 2,490 万人の強制労働従事者のうち、家事労働、建設業、農業などの民間部門における搾取被害者は 1,600 万人、性的搾取被害者は 480 万人、また国家機関に強制されて労働に従事している人は 400 万人です。

@@ -26,7 +26,7 @@ Neste artigo
 
 *Declaração de 2018*
 
-Segundo a Organização Internacional do Trabalho (OIT), [40 milhões de pessoas foram vítimas de escravidão moderna e 152 milhões de crianças foram submetidas ao trabalho infantil](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) no mundo todo em 2016. Segundo os [Relatórios da OIT](https://www.ilo.org/global/topics/forced-labour/lang--en/index.htm):
+Segundo a Organização Internacional do Trabalho (OIT), [40 milhões de pessoas foram vítimas de escravidão moderna e 152 milhões de crianças foram submetidas ao trabalho infantil](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) no mundo todo em 2016. Segundo os [Relatórios da OIT](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons):
 
 * 1 em cada 4 vítimas da escravidão moderna são crianças.
 * Das 24,9 milhões de pessoas presas ao trabalho forçado, 16 milhões de pessoas são exploradas no setor privado, como trabalho doméstico, construção ou agricultura; 4,8 milhões de pessoas em exploração sexual forçada e 4 milhões de pessoas em trabalho forçado imposto pelas autoridades estatais.

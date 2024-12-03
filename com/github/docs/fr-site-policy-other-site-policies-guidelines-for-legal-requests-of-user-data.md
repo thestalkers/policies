@@ -129,7 +129,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
     Pour avoir une idée du type d'informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
 
-* []() \*\* Données de compte d'organisation\*\* : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
+* []() **Données de compte d'organisation** : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
   Les profils d'organisation sont disponibles en utilisant une URL, par exemple `https://github.com/organization`.
   Les profils d'organisations publiques peuvent également inclure des informations supplémentaires que les propriétaires ont choisi de partager publiquement.
   Tous les profils publics d'organisation affichent :
@@ -165,7 +165,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
   * Documentation du projet telle que les pages Problèmes et Wiki
   * Statistiques et graphiques montrant les contributions au projet et le réseau de contributeurs
 
-* []() **Données de référentiel privé** : GitHub collecte et conserve le même type de données pour les dépôts privés que celles visibles pour les dépôts publics, sauf que seuls les utilisateurs spécifiquement invités peuvent accéder aux Données de référentiel privé.
+* []() **Données de référentiel privé** : GitHub collecte et conserve le même type de données pour les dépôts privés que celles visibles pour les dépôts publics, sauf que seuls les utilisateurs spécifiquement invités peuvent accéder aux données de référentiel privé.
 
 * []() **Autres données** : en outre, GitHub collecte des données d'analyse telles que les visites de pages et les informations fournies occasionnellement par nos utilisateurs (comme les communications avec notre équipe de support, les informations d'enquête et/ou les inscriptions au site).
 

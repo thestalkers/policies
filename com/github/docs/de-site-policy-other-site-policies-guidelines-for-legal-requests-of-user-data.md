@@ -60,24 +60,24 @@ Bevor Sie uns bitten, Daten offenzulegen, kann es hilfreich sein, zu verstehen, 
 GitHub hostet Millionen von Datenrepositories mit dem [Git-Versionskontrollsystem](https://git-scm.com/video/what-is-version-control).
 Repositories auf GitHub – die öffentlich oder privat sein können – werden am häufigsten für Softwareentwicklungsprojekte verwendet, werden aber auch oft verwendet, um an Inhalten aller Art zu arbeiten.
 
-* [**Benutzer**](/de/get-started/learning-about-github/github-glossary#user) – Benutzer werden in unserem System als persönliche GitHub-Konten dargestellt.
+* [**Benutzer**](/de/get-started/learning-about-github/github-glossary#user): Benutzer werden in unserem System als persönliche GitHub-Konten dargestellt.
   Jeder Benutzer hat ein persönliches Profil und kann mehrere Repositories besitzen.
   Benutzer können Organisationen erstellen oder dazu eingeladen werden, ihnen beizutreten oder am Repository eines anderen Benutzers mitzuarbeiten.
 
-* [**Mitarbeiter**](/de/get-started/learning-about-github/github-glossary#collaborator) – Ein Mitarbeiter ist ein Benutzer mit Lese- und Schreibzugriff auf ein Repository, der vom Eigentümer des Repository eingeladen wurde, Beiträge zu leisten.
+* [**Mitarbeiter**](/de/get-started/learning-about-github/github-glossary#collaborator): Ein Mitarbeiter ist ein Benutzer mit Lese- und Schreibzugriff auf ein Repository, der vom Eigentümer des Repository eingeladen wurde, Beiträge zu leisten.
 
-* [**Organisationen**](/de/get-started/learning-about-github/github-glossary#organization) – Organisationen sind eine Gruppe von zwei oder mehr Benutzern, die in der Regel reale Organisationen wie Unternehmen oder Projekte widerspiegeln.
+* [**Organisationen**](/de/get-started/learning-about-github/github-glossary#organization): Organisationen sind eine Gruppe von zwei oder mehr Benutzern, die in der Regel reale Organisationen wie Unternehmen oder Projekte widerspiegeln.
   Sie werden von Benutzern verwaltet und können sowohl Repositories als auch Teams von Benutzern enthalten.
 
-* [**Aufbewahrungsorte**](/de/get-started/learning-about-github/github-glossary#repository) – Ein Repository ist eines der grundlegendsten GitHub-Elemente.
+* [**Repositorys**](/de/get-started/learning-about-github/github-glossary#repository): Ein Repository ist eines der grundlegendsten GitHub-Elemente.
   Sie können sich am einfachsten als Ordner eines Projekts vorstellen.
   Ein Repository enthält alle Projektdateien (einschließlich Dokumentation) und speichert den Revisionsverlauf jeder Datei.
   Repositories können mehrere Mitarbeiter haben und können nach Ermessen ihrer Administratoren öffentlich einsehbar sein oder nicht.
 
-* [**Pages**](/de/pages/getting-started-with-github-pages/about-github-pages) – GitHub Pages sind öffentliche Webseiten, die kostenlos von GitHub gehostet werden und die die Benutzer einfach über Code veröffentlichen können, welcher in ihren Repositories gespeichert ist.
+* [**Pages**](/de/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages sind öffentliche Webseiten, die kostenlos von GitHub gehostet werden und die die Benutzer einfach über Code veröffentlichen können, welcher in ihren Repositorys gespeichert ist.
   Wenn ein Benutzer oder eine Organisation eine GitHub Page hat, kann sie normalerweise unter einer URL wie z. B. `https://username.github.io` gefunden werden, oder die Webseite wurde dem eigenen benutzerdefinierten Domänennamen des Benutzers bzw. der Organisation zugeordnet.
 
-* [**Gists**](/de/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) – Gists sind Ausschnitte aus Quellcode oder anderem Text, die Benutzer verwenden können, um Ideen zu speichern oder mit Freunden zu teilen.
+* [**Gists**](/de/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gists sind Ausschnitte aus Quellcode oder anderem Text, die Benutzer verwenden können, um Ideen zu speichern oder mit Freunden zu teilen.
   Wie normale GitHub-Repositories werden Gists mit Git erstellt, sodass sie automatisch versioniert, verzweigt und heruntergeladen werden können.
   Gists können entweder öffentlich oder geheim sein (nur über eine bekannte URL zugänglich). Öffentliche Gists können nicht in geheime Gists umgewandelt werden.
 
@@ -86,7 +86,7 @@ Repositories auf GitHub – die öffentlich oder privat sein können – werden 
 
 Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benutzer und Projekte auf GitHub pflegen.
 
-* []() **Öffentliche Kontodaten** – Auf GitHub ist eine Vielzahl von Informationen über Benutzer und ihre Repositories öffentlich verfügbar.
+* []() **Öffentliche Kontodaten**: Auf GitHub ist eine Vielzahl von Informationen über Benutzer und ihre Repositorys öffentlich verfügbar.
   Benutzerprofile finden Sie unter einer URL wie z. B. `https://github.com/username`.
   Benutzerprofile zeigen Informationen darüber an, wann der Benutzer sein Konto erstellt hat, sowie seine öffentlichen Aktivitäten auf GitHub.com und soziale Interaktionen.
   Öffentliche Benutzerprofile können auch zusätzliche Informationen enthalten, die ein Benutzer möglicherweise öffentlich geteilt hat.
@@ -116,7 +116,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
   * Organisationen, bei denen der Benutzer Mitglied ist (*abhängig von den Einstellungen der Organisation oder des Benutzers*)
 
-* []() **Private Kontodaten** – GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unseren [Datenschutz-Bestimmungen](/de/site-policy/privacy-policies/github-privacy-statement) beschrieben.
+* []() **Private Kontodaten**: GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) beschrieben.
   Dies kann beinhalten:
 
   * Private E-Mail-Adressen
@@ -129,7 +129,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
     Um sich ein Bild von der Art der privaten Kontoinformationen zu machen, die GitHub erhebt, können Sie Ihr [Persönliches Dashboard](https://github.com/dashboard) aufrufen und durch die Abschnitte auf der linken Menüleiste navigieren.
 
-* []() **Kontodaten von Organisationen** – Informationen über Organisationen, ihre administrativen Benutzer und Repositories sind auf GitHub öffentlich zugänglich.
+* []() **Kontodaten von Organisationen**: Informationen über Organisationen, ihre administrativen Benutzer und Repositorys sind auf GitHub öffentlich zugänglich.
   Organisationsprofile finden Sie unter einer URL wie z. B. `https://github.com/organization`.
   Öffentliche Organisationsprofile können auch zusätzliche Informationen enthalten, die die Eigentümer öffentlich teilen möchten.
   Alle öffentlichen Profile der Organisation werden angezeigt:
@@ -152,7 +152,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
   * Mitarbeiter
 
-* []() **Öffentliche Repository-Daten** – GitHub vereint Millionen von öffentlichen Open-Source-Softwareprojekten.
+* []() **Öffentliche Repositorydaten**: GitHub vereint Millionen von öffentlichen Open-Source-Softwareprojekten.
   Sie können fast jedes öffentliche Repository durchsuchen (z. B. die [GitHub-Dokumentationen](https://github.com/github/docs)), um ein Gefühl für die Informationen zu bekommen, die GitHub über Repositorys erhebt und verwaltet.
   Dies kann beinhalten:
 
@@ -165,9 +165,9 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
   * Projektdokumentation wie Issues und Wiki-Seiten
   * Statistiken und Grafiken, die die Beiträge zum Projekt und zum Netzwerk der Mitwirkenden zeigen
 
-* []() **Private Repository-Daten** – GitHub erhebt und verwaltet für private Repositories dieselbe Art von Daten wie für öffentliche Repositories, mit der Ausnahme, dass nur speziell eingeladene Benutzer auf die Daten privater Repositories zugreifen können.
+* []() **Private Repositorydaten**:GitHub erhebt und verwaltet für private Repositorys dieselbe Art von Daten wie für öffentliche Repositorys, mit der Ausnahme, dass nur speziell eingeladene Benutzer auf die Daten privater Repositorys zugreifen können.
 
-* []() **Andere Daten** – Darüber hinaus erhebt GitHub Analysedaten wie Seitenbesuche und Informationen, die gelegentlich freiwillig von unseren Benutzern bereitgestellt werden (z. B. Kommunikation mit unserem Support-Team, Umfrageinformationen und/oder Website-Registrierungen).
+* []() **Andere Daten**: Darüber hinaus erhebt GitHub Analysedaten wie Seitenbesuche und Informationen, die gelegentlich freiwillig von unseren Benutzern bereitgestellt werden (z. B. Kommunikation mit unserem Supportteam, Umfrageinformationen und/oder Website-Registrierungen).
 
 [Wir werden alle betroffenen Kontoinhaber benachrichtigen](#we-will-notify-any-affected-account-owners)
 ----------
@@ -182,9 +182,9 @@ GitHub behält sich das Recht vor, Anfragen nach nicht öffentlichen Information
 Wenn GitHub zustimmt, nicht-öffentliche Informationen als Antwort auf eine rechtmäßige Anfrage bereitzustellen, werden wir eine angemessene Suche nach den angeforderten Informationen durchführen.
 Hier sind die Arten von Informationen, zu deren Herausgabe wir uns bereit erklären, abhängig von der Art des Rechtsverfahrens, das uns zugestellt wird:
 
-* []() **Mit Zustimmung des Benutzers** – GitHub gibt private Kontoinformationen auf Anfrage direkt an den Benutzer (oder einen Besitzer, falls es sich um ein Organisationskonto handelt oder mit schriftlicher Zustimmung des Benutzers an einen benannten Dritten weiter, sobald GitHub sicher ist, dass der Benutzer seine Identität überprüft hat.
+* []() **Mit Zustimmung des Benutzers**: GitHub gibt private Kontoinformationen auf Anfrage direkt an den Benutzer (oder einen Besitzer, falls es sich um ein Organisationskonto handelt) oder mit schriftlicher Zustimmung des Benutzers an einen benannten Dritten weiter, sobald GitHub sicher ist, dass der Benutzer seine Identität überprüft hat.
 
-* []() **Mit Vorladung** – Wenn uns eine gültige Vorladung, ein zivilrechtliches Ermittlungsverfahren oder ein ähnliches Gerichtsverfahren im Zusammenhang mit einer offiziellen straf- oder zivilrechtlichen Untersuchung zugestellt wird, können wir bestimmte nicht öffentliche Kontoinformationen bereitstellen, darunter:
+* []() **Mit Vorladung**: Wenn uns eine gültige Vorladung, ein zivilrechtliches Ermittlungsverfahren oder ein ähnliches Gerichtsverfahren im Zusammenhang mit einer offiziellen straf- oder zivilrechtlichen Untersuchung zugestellt wird, können wir bestimmte nicht öffentliche Kontoinformationen bereitstellen, darunter:
 
   * Mit dem Konto verknüpfte Namen
   * Mit dem Konto verknüpfte E-Mail-Adresse(n).
@@ -197,7 +197,7 @@ Bei Organisationskonten können wir die Namen und E-Mail-Adressen der Kontoinhab
 
 Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variieren. Einige der Informationen können vom Benutzer optional angegeben werden. In anderen Fällen haben wir die Informationen möglicherweise nicht erfasst oder gespeichert.
 
-* []() **Mit Gerichtsbeschluss \_oder \_Durchsuchungsbefehl** – Wir legen Kontozugriffsprotokolle nur dann offen, wenn wir dazu gezwungen werden entweder (i) durch einen Gerichtsbeschluss, der gemäß 18 U.S.C. Abschnitt 2703(d) augestellt wurde, bei Vorliegen spezifischer und artikulierbarer Tatsachen, die zeigen, dass es begründeten Anlass zu der Annahme gibt, dass die angeforderten Informationen für eine laufende strafrechtliche Untersuchung relevant und wesentlich sind; oder (ii) einen Durchsuchungsbefehl, der gemäß den in der Bundesstrafprozessordnung beschriebenen Verfahren oder gleichwertigen staatlichen Haftbefehlsverfahren ausgestellt wurde, wenn ein wahrscheinlicher Grund nachgewiesen wird.
+* []() **Mit Gerichtsbeschluss *oder* Durchsuchungsbefehl**: Wir legen Kontozugriffsprotokolle nur dann offen, wenn wir dazu gezwungen werden entweder (i) durch einen Gerichtsbeschluss, der gemäß 18 U.S.C. Abschnitt 2703(d) augestellt wurde, bei Vorliegen spezifischer und artikulierbarer Tatsachen, die zeigen, dass es begründeten Anlass zu der Annahme gibt, dass die angeforderten Informationen für eine laufende strafrechtliche Untersuchung relevant und wesentlich sind; oder (ii) einen Durchsuchungsbefehl, der gemäß den in der Bundesstrafprozessordnung beschriebenen Verfahren oder gleichwertigen staatlichen Haftbefehlsverfahren ausgestellt wurde, wenn ein wahrscheinlicher Grund nachgewiesen wird.
   Zusätzlich zu den oben aufgeführten nicht öffentlichen Kontoinformationen können wir Kontozugriffsprotokolle als Reaktion auf einen Gerichtsbeschluss oder einen Durchsuchungsbefehl bereitstellen, die Folgendes beinhalten können:
 
   * Alle Protokolle, die die Bewegungen eines Benutzers über einen bestimmten Zeitraum hinweg offenbaren würden
@@ -205,7 +205,7 @@ Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variier
   * Benutzer- oder IP-spezifische Analysedaten wie der Browserverlauf
   * Andere Sicherheitszugriffsprotokolle als die Kontoerstellung oder für eine bestimmte Zeit und ein bestimmtes Datum
 
-* []() **Nur mit Durchsuchungsbefehl** – Wir legen die privaten Inhalte eines Kontos nur dann offen, wenn wir durch einen Durchsuchungsbefehl dazu gezwungen sind, der gemäß den in den Federal Rules of Criminal Procedure beschriebenen Verfahren oder gleichwertigen staatlichen Durchsuchungsbefehlsverfahren bei Vorliegen eines hinreichenden Verdachts ausgestellt wurde.
+* []() **Nur mit Durchsuchungsbefehl**: Wir legen die privaten Inhalte eines Kontos nur dann offen, wenn wir durch einen Durchsuchungsbefehl dazu gezwungen sind, der gemäß den in den Federal Rules of Criminal Procedure beschriebenen Verfahren oder gleichwertigen staatlichen Durchsuchungsbefehlsverfahren bei Vorliegen eines hinreichenden Verdachts ausgestellt wurde.
   Zusätzlich zu den oben erwähnten nicht öffentlichen Kontoinformationen und Kontozugriffsprotokollen werden wir als Reaktion auf einen Durchsuchungsbefehl auch private Kontoinhalte bereitstellen, die Folgendes umfassen können:
 
   * Inhalt geheimer Gists
@@ -214,7 +214,7 @@ Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variier
   * Mitteilungen oder Dokumentation (z. B. Ausgaben oder Wikis) in privaten Repositories
   * Alle Sicherheitsschlüssel, die für die Authentifizierung oder Verschlüsselung verwendet werden
 
-* []() \*\* Unter dringenden Umständen\*\* – Wenn wir eine Anfrage nach Informationen unter bestimmten dringenden Umständen erhalten (wenn wir glauben, dass die Offenlegung notwendig ist, um einen Notfall zu verhindern, bei dem die Gefahr des Todes oder einer schweren körperlichen Verletzung einer Person besteht), können wir begrenzte Informationen offenlegen, die wir als notwendig erachten, um den Strafverfolgungsbehörden die Bewältigung des Notfalls zu ermöglichen. Für darüber hinausgehende Informationen benötigen wir eine Vorladung, einen Durchsuchungsbefehl oder einen Gerichtsbeschluss, wie oben beschrieben. Beispielsweise geben wir Inhalte privater Repositories nicht ohne Durchsuchungsbefehl preis. Bevor wir Informationen offenlegen, bestätigen wir, dass die Anfrage von einer Strafverfolgungsbehörde stammt, eine Behörde eine offizielle Mitteilung verschickt hat, in der der Notfall zusammengefasst ist, und wie die angeforderten Informationen zur Bewältigung des Notfalls beitragen werden.
+* []() **Unter dringenden Umständen**: Wenn wir eine Anfrage nach Informationen unter bestimmten dringenden Umständen erhalten (wenn wir glauben, dass die Offenlegung notwendig ist, um einen Notfall zu verhindern, bei dem die Gefahr des Todes oder einer schweren körperlichen Verletzung einer Person besteht), können wir begrenzte Informationen offenlegen, die wir als notwendig erachten, um den Strafverfolgungsbehörden die Bewältigung des Notfalls zu ermöglichen. Für darüber hinausgehende Informationen benötigen wir eine Vorladung, einen Durchsuchungsbefehl oder einen Gerichtsbeschluss, wie oben beschrieben. Beispielsweise geben wir Inhalte privater Repositories nicht ohne Durchsuchungsbefehl preis. Bevor wir Informationen offenlegen, bestätigen wir, dass die Anfrage von einer Strafverfolgungsbehörde stammt, eine Behörde eine offizielle Mitteilung verschickt hat, in der der Notfall zusammengefasst ist, und wie die angeforderten Informationen zur Bewältigung des Notfalls beitragen werden.
 
 [Kostenerstattung](#cost-reimbursement)
 ----------
