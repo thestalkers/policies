@@ -1,32 +1,32 @@
-GitHub 已故用户政策 - GitHub 文档
+GitHub Deceased User Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [其他站点政策](/zh/site-policy/other-site-policies)/
-* [GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
+* [Site policy](/zh/site-policy)/
+* [Other Site Policies](/zh/site-policy/other-site-policies)/
+* [GitHub Deceased User Policy](/zh/site-policy/other-site-policies/github-deceased-user-policy)
 
-GitHub 已故用户政策
+GitHub Deceased User Policy
 ==========
 
-如果 GitHub 用户亡故，我们可以与授权的个人合作确定如何处理相关帐户的内容。
+In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 
-如果您是已故用户的近亲、[预先指定的继承人](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)或其他授权个人（可能包括合作者或业务合作伙伴），并想提出关于其帐户的申请，可以通过 [GitHub 支持门户](https://support.github.com/)联系我们。 在门户中，单击“联系我们\*\*\*\*”，并在申请中提供以下信息：
+If you are next of kin, a [pre-designated successor](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:
 
-* 姓名
-* 联系信息
-* 已故帐户持有人姓名
-* 已故帐户持有人的 GitHub 用户名
-* 您与已故帐户持有人的关系（请说明您是否被指定为 GitHub.com 上的帐户继承人）
-* 如果被指定为帐户继承人，则请提供您的 GitHub 帐户的用户名
-* 您希望什么样的操作得到执行（例如转移公共存储库、取消帐户计费）
+* Name
+* Contact Information
+* Name of the deceased account holder
+* GitHub username of the deceased account holder
+* Your relationship to the deceased account holder (please include whether you have been designated as the account successor on GitHub.com)
+* If designated as account successor, the username of your GitHub account
+* What action you are seeking (e.g. transfer public repositories, cancel billing on account)
 
-在收到您的申请后，我们可能继续要求提供其他信息，例如您带照片的证件副本、死亡证明副本以及确认您有权对已故用户帐户采取行动的文件，以验证我们是否获得处理您的申请的适当授权。
+Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request.
 
-请注意，对您在申请中提供的信息的收集以我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)为依据，我们只保留履行我们的法律义务和解决争议所需要的信息。
+Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
 
 {"resolvedServerColorMode":"day"}

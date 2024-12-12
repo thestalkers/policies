@@ -1,417 +1,417 @@
-GitHub 서비스 약관 - GitHub Docs
+GitHub Terms of Service - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)
+* [Site policy](/ko/site-policy)/
+* [GitHub Terms](/ko/site-policy/github-terms)/
+* [GitHub Terms of Service](/ko/site-policy/github-terms/github-terms-of-service)
 
-GitHub 서비스 약관
+GitHub Terms of Service
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [요약](#summary)
-* [GitHub 서비스 약관](#the-github-terms-of-service)
-* [A. 용어 정의](#a-definitions)
-* [B. 계정 약관](#b-account-terms)
-* [C. 사용 제한](#c-acceptable-use)
-* [D. 사용자 생성 콘텐츠](#d-user-generated-content)
-* [E. 개인 리포지토리](#e-private-repositories)
-* [F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
-* [G. 지적 재산권 고지](#g-intellectual-property-notice)
-* [H. API 약관](#h-api-terms)
-* [I. GitHub 추가 제품 약관](#i-github-additional-product-terms)
-* [J. 베타 미리 보기](#j-beta-previews)
-* [k. 지급](#k-payment)
-* [L. 취소 및 해지](#l-cancellation-and-termination)
-* [M. GitHub와의 통신](#m-communications-with-github)
-* [N. 보증의 부인](#n-disclaimer-of-warranties)
-* [O. 책임의 제한](#o-limitation-of-liability)
-* [P. 면제 및 면책](#p-release-and-indemnification)
-* [Q. 본 약관의 변경](#q-changes-to-these-terms)
-* [R. 기타](#r-miscellaneous)
+* [Summary](#summary)
+* [The GitHub Terms of Service](#the-github-terms-of-service)
+* [A. Definitions](#a-definitions)
+* [B. Account Terms](#b-account-terms)
+* [C. Acceptable Use](#c-acceptable-use)
+* [D. User-Generated Content](#d-user-generated-content)
+* [E. Private Repositories](#e-private-repositories)
+* [F. Copyright Infringement and DMCA Policy](#f-copyright-infringement-and-dmca-policy)
+* [G. Intellectual Property Notice](#g-intellectual-property-notice)
+* [H. API Terms](#h-api-terms)
+* [I. GitHub Additional Product Terms](#i-github-additional-product-terms)
+* [J. Beta Previews](#j-beta-previews)
+* [K. Payment](#k-payment)
+* [L. Cancellation and Termination](#l-cancellation-and-termination)
+* [M. Communications with GitHub](#m-communications-with-github)
+* [N. Disclaimer of Warranties](#n-disclaimer-of-warranties)
+* [O. Limitation of Liability](#o-limitation-of-liability)
+* [P. Release and Indemnification](#p-release-and-indemnification)
+* [Q. Changes to These Terms](#q-changes-to-these-terms)
+* [R. Miscellaneous](#r-miscellaneous)
 
-GitHub를 이용해 주셔서 감사합니다. 여러분을 뵙게 되어 매우 기쁩니다. GitHub에 액세스하거나 GitHub를 이용하기 전에 본 서비스 계약 약관을 꼼꼼하게 읽으시기 바랍니다. GitHub와 GitHub 사용자 간의 매우 중요한 계약이므로 최대한 명확히 하기 위해 노력했습니다. 편의상 구속력이 없는 짧은 요약 형태로 약관을 소개한 다음 전체 법적 약관이 나옵니다.
+Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.
 
-[요약](#summary)
+[Summary](#summary)
 ----------
 
-|                             섹션                              |                                                       여기서 확인할 수 있는 내용은 무엇인가요?                                                        |
-|-------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|                   [A. 정의](#a-definitions)                   |                               본 계약을 이해하는 데 도움이 되도록 정의된 몇 가지 기본적 용어입니다. 명확한 설명이 필요할 경우 이 섹션을 다시 참조하십시오.                               |
-|                [B. 계정 약관](#b-account-terms)                 |                                                이것은 GitHub에 계정이 있어야 한다는 기본적인 요구 사항입니다.                                                |
-|                [C. 사용 제한](#c-acceptable-use)                |                                                이것은 GitHub 계정을 사용할 때 따라야 하는 기본적 규칙입니다.                                                |
-|         [D. 사용자 생성 콘텐츠](#d-user-generated-content)          |          귀하가 GitHub에 게시하는 콘텐츠는 귀하의 소유입니다. 하지만 귀하에게는 그에 관한 일부 책임이 있으며, GitHub는 서비스를 제공할 수 있도록 GitHub에 일부 권리를 부여해 줄 것을 요청합니다.          |
-|          [E. 프라이빗 리포지토리](#e-private-repositories)           |                                       이 섹션에서는 귀하가 개인 리포지토리에 게시하는 콘텐츠를 GitHub가 어떻게 처리하는지 설명합니다.                                       |
-|[F. 저작권 및 DMCA 정책](#f-copyright-infringement-and-dmca-policy)|                             이 섹션에서는 GitHub에서 누군가 귀하의 저작권을 침해하고 있다고 생각하는 경우 GitHub가 어떻게 대응하는지에 대해 설명합니다.                              |
-|       [G. 지적 재산 고지](#g-intellectual-property-notice)        |                                              이 섹션에서는 웹 사이트 및 서비스에 대한 GitHub의 권리를 설명합니다.                                              |
-|                  [H. API 약관](#h-api-terms)                  |                                          개발 또는 데이터 수집 등을 위해 GitHub의 API를 사용하는 것과 관련된 규칙입니다.                                          |
-|      [I. 추가 제품 약관](#i-github-additional-product-terms)      |                                                GitHub의 기능 및 제품에 대한 몇 가지 특정 규칙이 있습니다.                                                 |
-|               [J. 베타 미리 보기](#j-beta-previews)               |                                               아직 개발 중인 GitHub의 기능에 적용되는 몇 가지 추가 약관입니다.                                               |
-|                     [K. 결제](#k-payment)                     |                                             결제는 귀하의 책임입니다. GitHub는 정확한 청구에 대한 책임이 있습니다.                                              |
-|        [L. 취소 및 해지](#l-cancellation-and-termination)        |                                                  귀하는 언제든지 본 계약을 취소하고 계정을 닫을 수 있습니다.                                                  |
-|       [M. GitHub와의 통신](#m-communications-with-github)       |                                 GitHub는 이메일 및 기타 전자적 수단만을 사용하여 GitHub 사용자와 연락합니다. 전화 지원은 제공하지 않습니다.                                  |
-|          [N. 보증의 부인](#n-disclaimer-of-warranties)           |          GitHub는 GitHub의 서비스를 있는 그대로 제공하며, 이 서비스에 대한 어떠한 약속이나 보증도 하지 않습니다. **이 섹션을 꼼꼼히 읽으시기 바랍니다. 무엇을 예상해야 하는지 이해해야 합니다.**           |
-|           [O. 책임의 제한](#o-limitation-of-liability)           |GitHub는 본 계약에 따른 서비스 사용 또는 사용 불능으로 인해 발생하거나 기타 방식으로 발생하는 손해나 손실에 대해 책임이 없습니다. **이 섹션을 꼼꼼히 읽으시기 바랍니다. 이 섹션은 귀하에 대한 GitHub의 의무를 제한합니다.**|
-|        [P. 면제 및 면책](#p-release-and-indemnification)         |                                                  귀하의 서비스 사용에 대한 책임은 전적으로 귀하에게 있습니다.                                                  |
-|         [Q. 서비스 약관의 변경](#q-changes-to-these-terms)          |                                            GitHub는 본 계약을 수정할 수 있지만 중대한 변경은 30일 전에 통지합니다.                                             |
-|                  [R. 기타](#r-miscellaneous)                  |                                              GitHub의 법 선택을 비롯한 법적 세부 사항은 이 섹션을 참조하십시오.                                               |
+|                                Section                                |                                                                                               What can you find there?                                                                                               |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                   [A. Definitions](#a-definitions)                    |                                          Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification.                                           |
+|                 [B. Account Terms](#b-account-terms)                  |                                                                           These are the basic requirements of having an Account on GitHub.                                                                           |
+|                [C. Acceptable Use](#c-acceptable-use)                 |                                                                      These are the basic rules you must follow when using your GitHub Account.                                                                       |
+|        [D. User-Generated Content](#d-user-generated-content)         |                       You own the content you post on GitHub. However, you have some responsibilities regarding it, and we ask you to grant us some rights so we can provide services to you.                        |
+|          [E. Private Repositories](#e-private-repositories)           |                                                               This section talks about how GitHub will treat content you post in private repositories.                                                               |
+|[F. Copyright & DMCA Policy](#f-copyright-infringement-and-dmca-policy)|                                                   This section talks about how GitHub will respond if you believe someone is infringing your copyrights on GitHub.                                                   |
+|  [G. Intellectual Property Notice](#g-intellectual-property-notice)   |                                                                              This describes GitHub's rights in the website and service.                                                                              |
+|                     [H. API Terms](#h-api-terms)                      |                                                    These are the rules for using GitHub's APIs, whether you are using the API for development or data collection.                                                    |
+|   [I. Additional Product Terms](#i-github-additional-product-terms)   |                                                                           We have a few specific rules for GitHub's features and products.                                                                           |
+|                 [J. Beta Previews](#j-beta-previews)                  |                                                        These are some of the additional terms that apply to GitHub's features that are still in development.                                                         |
+|                       [K. Payment](#k-payment)                        |                                                                   You are responsible for payment. We are responsible for billing you accurately.                                                                    |
+|  [L. Cancellation and Termination](#l-cancellation-and-termination)   |                                                                          You may cancel this agreement and close your Account at any time.                                                                           |
+|    [M. Communications with GitHub](#m-communications-with-github)     |                                                    We only use email and other electronic means to stay in touch with our users. We do not provide phone support.                                                    |
+|      [N. Disclaimer of Warranties](#n-disclaimer-of-warranties)       |                        We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.**                         |
+|       [O. Limitation of Liability](#o-limitation-of-liability)        |We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.**|
+|   [P. Release and Indemnification](#p-release-and-indemnification)    |                                                                                You are fully responsible for your use of the service.                                                                                |
+|   [Q. Changes to these Terms of Service](#q-changes-to-these-terms)   |                                                               We may modify this agreement, but we will give you 30 days' notice of material changes.                                                                |
+|                 [R. Miscellaneous](#r-miscellaneous)                  |                                                                        Please see this section for legal details including our choice of law.                                                                        |
 
-[GitHub 서비스 약관](#the-github-terms-of-service)
+[The GitHub Terms of Service](#the-github-terms-of-service)
 ----------
 
-발효일: 2020년 11월 16일
+Effective date: November 16, 2020
 
-[A. 용어 정의](#a-definitions)
+[A. Definitions](#a-definitions)
 ----------
 
-**짧은 버전:** *이러한 기본적 용어는 계약 전체에서 사용되며, 특정한 의미를 갖습니다. 각 용어를 사용할 때 그 의미를 알아야 합니다. 이에 관한 테스트는 없지만 여전히 유용한 정보입니다.*
+**Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
 
-1. "계정"은 귀하와 GitHub의 법적 관계를 나타냅니다. "개인 계정"은 서비스에 로그인하고 서비스를 사용할 수 있는 개인 사용자의 권한을 나타내며, GitHub에서 사용자의 ID 역할을 합니다. "조직"은 여러 사용자가 동시에 여러 프로젝트에서 협업할 수 있고 단일 기관 또는 한 명 이상의 사용자와 연결될 수 있는 공유 작업 공간입니다. 개인 계정이 구성원이 될 수 있는 조직의 수에는 제한이 없습니다.
-2. "계약"은 이 문서("서비스 약관" 또는 "약관")와 GitHub가 수시로 웹 사이트에 게시할 수 있는 그 밖의 모든 운영 규칙, 정책([github.com/site/privacy](https://github.com/site/privacy)에서 볼 수 있는 GitHub 개인정보처리방침 포함), 절차에 포함되거나 언급된 모든 약관, 조건, 고지를 통칭합니다. GitHub의 사이트 정책 대부분은 [docs.github.com/categories/site-policy](/ko/site-policy)에서 확인할 수 있습니다.
-3. "베타 미리 보기"란 알파, 베타, 미리 보기, 사전 체험판, 평가판 또는 유사한 의미의 단어나 문구로 명시된 소프트웨어, 서비스 또는 기능을 의미합니다.
-4. "콘텐츠"란 웹 사이트를 통해 게재되거나 표시되는 콘텐츠를 말하며, 코드, 텍스트, 데이터, 기사, 이미지, 사진, 그래픽, 소프트웨어, 응용 프로그램, 패키지, 디자인, 기능 및 웹 사이트를 통해 제공되거나 그 밖의 방법으로 서비스를 통해 제공되는 기타 자료를 포함하되 이에 국한되지 않습니다. "콘텐츠"에는 서비스도 포함됩니다. "사용자 생성 콘텐츠"는 GitHub 사용자가 작성하거나 기타 생성 또는 업로드한 콘텐츠입니다. "귀하의 콘텐츠"는 귀하가 만들거나 소유한 콘텐츠입니다.
-5. "GitHub", "우리", "당사"는 GitHub, Inc.와 GitHub 계열사, 이사, 자회사, 계약자, 사용 허가자, 임원, 대리인, 직원을 말합니다.
-6. "서비스"란 베타 미리 보기를 포함하여 GitHub가 제공하는 응용 프로그램, 소프트웨어, 제품, 서비스를 말합니다.
-7. "사용자", "귀하", "귀하의"는 웹 사이트 또는 서비스를 방문했거나 사용 중이거나, 계정의 일부에 액세스하거나 이를 사용하거나, 기능을 수행하는 과정에서 계정의 사용을 지시하는 개인, 회사 또는 조직을 말합니다. 사용자는 만 13세 이상이어야 합니다. 비즈니스 계정 또는 정부 계정에는 특별한 약관이 적용될 수 있습니다([섹션 B(5): 추가 조건](#5-additional-terms) 참조).
-8. "웹 사이트"란 [github.com](https://github.com/)에 있는 GitHub의 웹 사이트와 GitHub가 이 웹 사이트에서 또는 이 웹 사이트를 통해 제공하는 모든 콘텐츠, 서비스, 제품을 말합니다. [education.github.com](https://education.github.com/)과 [pages.github.com](https://pages.github.com/) 등 GitHub가 소유한 github.com의 하위 도메인도 가리킵니다. 이 약관은 [githubuniverse.com](https://githubuniverse.com/) 같은 GitHub의 컨퍼런스 웹 사이트와 [electronjs.org](https://www.electronjs.org/) 같은 제품 웹 사이트에도 적용됩니다. 경우에 따라 GitHub가 소유한 웹 사이트에서 다른 서비스 약관이나 추가 서비스 약관을 규정할 수 있습니다. 이러한 추가 약관이 본 계약과 충돌하는 경우, 보다 구체적인 약관이 관련 페이지 또는 서비스에 적용됩니다.
+1. An "Account" represents your legal relationship with GitHub. A “Personal Account” represents an individual User’s authorization to log in to and use the Service and serves as a User’s identity on GitHub. “Organizations” are shared workspaces that may be associated with a single entity or with one or more Users where multiple Users can collaborate across many projects at once. A Personal Account can be a member of any number of Organizations.
+2. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the GitHub Privacy Statement, available at [github.com/site/privacy](https://github.com/site/privacy)) and procedures that we may publish from time to time on the Website. Most of our site policies are available at [docs.github.com/categories/site-policy](/ko/site-policy).
+3. "Beta Previews" mean software, services, or features identified as alpha, beta, preview, early access, or evaluation, or words or phrases with similar meanings.
+4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
+5. “GitHub,” “We,” and “Us” refer to GitHub, Inc., as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
+6. The “Service” refers to the applications, software, products, and services provided by GitHub, including any Beta Previews.
+7. “The User,” “You,” and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age. Special terms may apply for business or government Accounts (See [Section B(5): Additional Terms](#5-additional-terms)).
+8. The “Website” refers to GitHub’s website located at [github.com](https://github.com/), and all content, services, and products provided by GitHub at or through the Website. It also refers to GitHub-owned subdomains of github.com, such as [education.github.com](https://education.github.com/) and [pages.github.com](https://pages.github.com/). These Terms also govern GitHub’s conference websites, such as [githubuniverse.com](https://githubuniverse.com/), and product websites, such as [electronjs.org](https://www.electronjs.org/). Occasionally, websites owned by GitHub may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 
-[B. 계정 약관](#b-account-terms)
+[B. Account Terms](#b-account-terms)
 ----------
 
-**짧은 버전:** *개인 계정과 조직은 관리 제어가 서로 다릅니다. 계정은 사람이 만들어야 하고, 만 13세 이상이어야 하며, 유효한 이메일 주소를 제공해야 하고, 둘 이상의 무료 계정을 가질 수 없습니다. 귀하의 계정 및 계정에 로그인하거나 계정을 사용하는 동안 발생하는 일은 오직 귀하의 책임입니다. 계정을 안전하게 유지하는 것은 귀하의 책임입니다.*
+**Short version:** *Personal Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone are responsible for your Account and anything that happens while you are signed in to or using your Account. You are responsible for keeping your Account secure.*
 
-### [1. 계정 제어](#1-account-controls) ###
+### [1. Account Controls](#1-account-controls) ###
 
-* 사용자. 본 약관에 따라 귀하는 귀하의 개인 계정과 그 안의 콘텐츠에 대한 최종적 관리 권한을 보유합니다.
+* Users. Subject to these Terms, you retain ultimate administrative control over your Personal Account and the Content within it.
 
-* 조직. 본 약관에 따라 만들어진 조직의 "소유자"에게는 해당 조직과 그 안의 콘텐츠에 대한 최종적 관리 권한이 있습니다. 소유자는 서비스 내에서 조직의 데이터 및 프로젝트에 대한 사용자 액세스를 관리할 수 있습니다. 조직에는 여러 소유자가 있을 수 있지만 조직의 소유자로 지정된 개인 계정이 하나 이상 있어야 합니다. 귀하가 본 약관에 따른 조직의 소유자인 경우, GitHub는 해당 조직에서 또는 해당 조직을 통해 수행되는 행동의 책임이 귀하에게 있다고 간주합니다.
+* Organizations. The "owner" of an Organization that was created under these Terms has ultimate administrative control over that Organization and the Content within it. Within the Service, an owner can manage User access to the Organization’s data and projects. An Organization may have multiple owners, but there must be at least one Personal Account designated as an owner of an Organization. If you are the owner of an Organization under these Terms, we consider you responsible for the actions that are performed on or through that Organization.
 
-### [2. 필요한 정보](#2-required-information) ###
+### [2. Required Information](#2-required-information) ###
 
-가입 프로세스를 완료하려면 유효한 이메일 주소를 제공해야 합니다. 귀하가 법인을 대신하여 본 약관을 수락하거나(이 경우 해당 법인에 대한 추가 정보 필요) [유료 계정](#k-payment)을 선택(이 경우 과금을 위해 추가 정보 필요)하지 않는 한 본명 등 요청되는 그 밖의 정보는 선택 사항입니다.
+You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a [paid Account](#k-payment), in which case additional information will be necessary for billing purposes.
 
-### [3. 계정 요구 사항](#3-account-requirements) ###
+### [3. Account Requirements](#3-account-requirements) ###
 
-GitHub의 서비스에는 개인 계정에 대한 몇 가지 간단한 규칙이 있습니다.
+We have a few simple rules for Personal Accounts on GitHub's Service.
 
-* 계정을 만들려면 사람이어야 합니다. "봇" 또는 자동 방법에 의해 등록된 계정은 허용되지 않습니다. GitHub는 컴퓨터 계정을 허용합니다.
-* 컴퓨터 계정이란 계정을 대신하여 약관을 수락하고, 유효한 이메일 주소를 제공하며, 그 작업에 대한 책임이 있는 개인이 설정한 계정입니다. 컴퓨터 계정은 자동화된 작업을 수행하는 데만 사용됩니다. 여러 사용자가 컴퓨터 계정의 작업을 지시할 수 있지만 컴퓨터의 작업에 대한 최종적인 책임은 해당 계정의 소유자에게 있습니다. 무료 개인 계정 외에 하나의 무료 컴퓨터 계정만 유지할 수 있습니다.
-* 한 명의 자연인 또는 법인은 하나의 무료 계정만 유지할 수 있습니다(컴퓨터 계정 하나도 제어하기로 선택해도 무방하지만 컴퓨터 실행에만 사용할 수 있습니다).
-* 만 13세 이상이어야 합니다. 뛰어난 어린 코더들이 프로그래밍을 배우면서 신이 나는 것을 보면 정말 기쁘지만 GitHub는 미국 법률을 준수해야 합니다. GitHub의 서비스는 만 13세 미만 아동을 대상으로 하지 않으며, GitHub는 GitHub 서비스에서 만 13세 미만의 사용자를 허용하지 않습니다. GitHub는 사용자가 만 13세 미만의 어린이임을 인지하면 [그 사용자의 계정을 즉시 종료](#l-cancellation-and-termination)합니다. 미국 이외의 국가에 거주하는 경우 해당 국가의 최저 연령 기준이 이보다 높을 수 있습니다. 이 경우 귀하는 해당 국가의 법률을 준수할 책임이 있습니다.
-* 로그인은 한 명만 사용할 수 있습니다. 즉, 단일 로그인을 여러 사람이 공유해서는 안 됩니다. 유료 조직은 구독에서 허용되는 수만큼의 개인 계정에 대한 액세스만 제공할 수 있습니다.
-* 미국 또는 기타 관련 관할권의 수출 통제 또는 제재법을 위반하여 GitHub를 사용해서는 안 됩니다. [특별 지정 제재 대상(SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx)이거나 이를 위해 일하거나 미국 정부 기관이 시행하는 비슷한 차단 또는 거부 당사자 금지가 적용되는 자는 GitHub를 이용할 수 없습니다. GitHub는 특정 제재 대상 국가나 영토의 자가 미국 정부 허가에 따라 특정 GitHub 서비스에 액세스하는 것을 허용할 수 있습니다. 자세한 내용은 [수출 통제 정책](/ko/site-policy/other-site-policies/github-and-trade-controls)을 참조하십시오.
+* You must be a human to create an Account. Accounts registered by "bots" or other automated methods are not permitted. We do permit machine accounts:
+* A machine account is an Account set up by an individual human who accepts the Terms on behalf of the Account, provides a valid email address, and is responsible for its actions. A machine account is used exclusively for performing automated tasks. Multiple users may direct the actions of a machine account, but the owner of the Account is ultimately responsible for the machine's actions. You may maintain no more than one free machine account in addition to your free Personal Account.
+* One person or legal entity may maintain no more than one free Account (if you choose to control a machine account as well, that's fine, but it can only be used for running a machine).
+* You must be age 13 or older. While we are thrilled to see brilliant young coders get excited by learning to program, we must comply with United States law. GitHub does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#l-cancellation-and-termination). If you are a resident of a country outside the United States, your country’s minimum age may be older; in such a case, you are responsible for complying with your country’s laws.
+* Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid Organization may only provide access to as many Personal Accounts as your subscription allows.
+* You may not use GitHub in violation of export control or sanctions laws of the United States or any other applicable jurisdiction. You may not use GitHub if you are or are working on behalf of a [Specially Designated National (SDN)](https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) or a person subject to similar blocking or denied party prohibitions administered by a U.S. government agency. GitHub may allow persons in certain sanctioned countries or territories to access certain GitHub services pursuant to U.S. government authorizations. For more information, please see our [Export Controls policy](/ko/site-policy/other-site-policies/github-and-trade-controls).
 
-### [4. 계정 보안](#4-account-security) ###
+### [4. Account Security](#4-account-security) ###
 
-GitHub 서비스를 사용하는 동안 계정을 안전하게 유지하는 것은 귀하의 책임입니다. GitHub는 계정 보안 유지에 도움이 되도록 2단계 인증과 같은 도구를 제공하지만 계정의 콘텐츠와 보안은 귀하의 책임입니다.
+You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you.
 
-* 귀하가 게시하는 모든 콘텐츠와 귀하의 계정에서 발생하는 활동에 대한 책임은 귀하에게 있습니다(귀하의 계정 아래 계정이 있는 다른 사람이 콘텐츠를 게시하는 경우에도).
-* 계정과 암호의 보안을 유지하는 것은 귀하의 책임입니다. 이 보안 의무를 준수하지 않아서 발생하는 손실이나 손해에 대해 GitHub는 책임을 질 수 없으며 지지 않습니다.
-* 암호 또는 계정 무단 사용을 포함하여 귀하의 계정을 통한 GitHub 서비스의 무단 사용이나 무단 액세스를 알게 되는 경우 지체 없이 [GitHub에 통지](https://support.github.com/)해야 합니다.
+* You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).
+* You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+* You will promptly notify GitHub by contacting us through the [GitHub Support portal](https://support.github.com/) if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
 
-### [5. 추가 조건](#5-additional-terms) ###
+### [5. Additional Terms](#5-additional-terms) ###
 
-일부 상황에서는 GitHub 사용에 제3자의 약관이 적용될 수 있습니다. 예를 들어 자체 약관이나 라이선스 계약이 있는 GitHub에 있는 조직의 구성원인 경우, GitHub와 통합되는 응용 프로그램을 다운로드하거나 GitHub를 사용하여 다른 서비스에 인증할 수 있습니다. 본 약관은 귀하와 GitHub 간의 완전 합의이며, 다른 당사자와 귀하의 관계에는 해당 당사자의 약관이 적용됩니다.
+In some situations, third parties' terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may use GitHub to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
-정부 사용자이거나 그 밖에 정부 자격으로 GitHub 서비스에 액세스하거나 GitHub 서비스를 사용하는 경우, 이 [GitHub 서비스 약관에 대한 정부 수정](/ko/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)이 적용되며, 귀하는 해당 조항에 동의합니다.
+If you are a government User or otherwise accessing or using any GitHub Service in a government capacity, this [Government Amendment to GitHub Terms of Service](/ko/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users) applies to you, and you agree to its provisions.
 
-GitHub Enterprise Cloud에 가입한 경우, [Enterprise Cloud 부칙](/ko/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement)이 적용되며, 귀하는 해당 조항에 동의합니다.
+If you have signed up for GitHub Enterprise Cloud, the [Enterprise Cloud Addendum](/ko/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement) applies to you, and you agree to its provisions.
 
-[C. 사용 제한](#c-acceptable-use)
+[C. Acceptable Use](#c-acceptable-use)
 ----------
 
-**짧은 버전:** *GitHub는 전 세계의 다양한 협업 프로젝트를 호스트하며, 이 협업은 사용자들이 신의에 따라 성실하게 협력할 수 있어야만 가능합니다. 귀하는 서비스를 사용하는 동안 이 섹션의 약관에 따라야 하며, 여기에는 게시할 수 있는 콘텐츠와 서비스에서의 행동에 대한 일부 제한과 기타 제한이 포함됩니다. 간단히 말해 서로에게 모범이 되어야 합니다.*
+**Short version:** *GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this section, which include some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.*
 
-웹 사이트 및 서비스 사용은 저작권법 또는 상표법, 수출 통제 또는 제재법 또는 관할지의 기타 법률을 포함한 모든 관련 법률을 위반해서는 안 됩니다. 귀하는 법률 및 관련 규정을 준수하여 서비스를 사용할 책임이 있습니다.
+Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control or sanctions laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
-귀하는 어떠한 경우에도 GitHub의 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) 또는 [커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)을 위반하지 않기로 동의합니다.
+You agree that you will not under any circumstances violate our [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) or [Community Guidelines](/ko/site-policy/github-terms/github-community-guidelines).
 
-[D. 사용자 생성 콘텐츠](#d-user-generated-content)
+[D. User-Generated Content](#d-user-generated-content)
 ----------
 
-**짧은 버전:** *귀하가 만드는 콘텐츠는 귀하의 소유이지만 귀하가 게시하는 콘텐츠를 GitHub가 표시하고 공유할 수 있도록 이에 대한 일부 권한을 GitHub에 허용합니다. 귀하의 콘텐츠에 대한 제어권과 책임은 여전히 귀하에게 있으며, 귀하가 GitHub에 부여하는 권한은 GitHub가 서비스를 제공하는 데 필요한 권한으로 제한됩니다. GitHub는 필요한 경우 콘텐츠를 제거하거나 계정을 폐쇄할 권한이 있습니다.*
+**Short version:** *You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close Accounts if we need to.*
 
-### [1. 사용자 생성 콘텐츠에 대한 책임](#1-responsibility-for-user-generated-content) ###
+### [1. Responsibility for User-Generated Content](#1-responsibility-for-user-generated-content) ###
 
-귀하는 서비스를 사용하는 동안 사용자 생성 콘텐츠를 만들고 업로드할 수 있습니다. 콘텐츠 형식에 관계없이 귀하가 서비스를 통해 게시, 업로드, 링크하거나 기타 방식으로 제공하는 모든 사용자 생성 콘텐츠의 콘텐츠와 그로 인해 발생하는 피해에 대한 책임은 전적으로 귀하에게 있습니다. GitHub는 귀하의 사용자 생성 콘텐츠의 공개 표시 또는 오용에 대해 책임을 지지 않습니다.
+You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
 
-### [2. GitHub가 콘텐츠 제거 가능](#2-github-may-remove-content) ###
+### [2. GitHub May Remove Content](#2-github-may-remove-content) ###
 
-GitHub는 재량에 따라 법률이나 [GitHub 약관 또는 정책](/ko/site-policy)을 위반하는 사용자 생성 콘텐츠를 거부하거나 제거할 권한이 있습니다. GitHub Mobile에 표시되는 사용자 생성 콘텐츠에는 모바일 앱 스토어의 추가 약관이 적용될 수 있습니다.
+We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or [GitHub terms or policies](/ko/site-policy). User-Generated Content displayed on GitHub Mobile may be subject to mobile app stores' additional terms.
 
-### [3. 콘텐츠 소유권, 게시물에 대한 권한 및 라이선스 허여](#3-ownership-of-content-right-to-post-and-license-grants) ###
+### [3. Ownership of Content, Right to Post, and License Grants](#3-ownership-of-content-right-to-post-and-license-grants) ###
 
-귀하의 콘텐츠의 소유권과 책임은 귀하에게 있습니다. 직접 만들지 않았거나 권리를 소유하지 않은 콘텐츠를 게시하는 경우, 귀하는 귀하가 게시하는 콘텐츠에 대한 책임이 귀하에게 있으며, 귀하가 게시할 권리가 있는 콘텐츠만 제출하며, 귀하가 게시하는 콘텐츠와 관련된 제3자 라이선스를 완전히 준수하기로 동의합니다.
+You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you have the right to post; and that you will fully comply with any third party licenses relating to Content you post.
 
-귀하는 귀하의 콘텐츠의 소유권과 책임을 보유하기 때문에 섹션 D.4~~D.7에 나열된 일부 법적 권한을 GitHub와 다른 GitHub 사용자에게 부여해야 합니다. 이 라이선스 허여는 귀하의 콘텐츠에 적용됩니다. GitHub 서비스 실행에 필요한 권한을 GitHub에 부여하는 라이선스가 함께 제공되는 콘텐츠를 업로드하는 경우, 추가 라이선스는 필요하지 않습니다. 귀하는 섹션 D.4~~D.7에서 부여되는 권리에 대해 어떠한 지불도 받지 않는다는 것을 이해합니다. 귀하가 GitHub에 허여하는 라이선스는 다른 사용자가 귀하의 콘텐츠를 포크하지 않는 한 귀하가 GitHub 서버에서 귀하의 콘텐츠를 제거할 때 종료됩니다.
+Because you retain ownership of and responsibility for Your Content, we need you to grant us — and other GitHub Users — certain legal permissions, listed in Sections D.4 — D.7. These license grants apply to Your Content. If you upload Content that already comes with a license granting GitHub the permissions we need to run our Service, no additional license is required. You understand that you will not receive any payment for any of the rights granted in Sections D.4 — D.7. The licenses you grant to us will end when you remove Your Content from our servers, unless other Users have forked it.
 
-### [4. GitHub에 대한 라이선스 허여](#4-license-grant-to-us) ###
+### [4. License Grant to Us](#4-license-grant-to-us) ###
 
-GitHub는 귀하의 콘텐츠를 호스트, 게시, 공유하는 등의 작업을 수행하기 위해 법적 권리가 필요합니다. 귀하는 시간 경과에 따른 서비스 개선을 포함하여 서비스 제공에 필요할 경우 귀하의 콘텐츠를 저장, 보관, 구문 분석 및 표시하고 부수적인 사본을 만들 수 있는 권한을 GitHub와 GitHub의 법적 승계인에게 부여합니다. 이 라이선스에는 이를 GitHub의 데이터베이스에 복사하고 백업 만들기 등의 작업을 할 수 있는 권리, 귀하 및 다른 사용자에게 표시할 수 있는 권리, 검색 인덱스로 구문 분석하거나 GitHub 서버에서 기타 방법으로 분석할 수 있는 권리, 다른 사용자와 공유할 수 있는 권리, 콘텐츠가 음악 또는 비디오 등인 경우 공연할 수 있는 권리가 포함됩니다.
+We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the Service, including improving the Service over time. This license includes the right to do things like copy it to our database and make backups; show it to you and other users; parse it into a search index or otherwise analyze it on our servers; share it with other users; and perform it, in case Your Content is something like music or video.
 
-이 라이선스는 귀하의 콘텐츠를 판매할 수 있는 권리를 GitHub에 부여하지 않습니다. 또한 이 라이선스는 GitHub의 서비스 제공 범위 밖에서 귀하의 콘텐츠를 다른 방법으로 배포하거나 사용할 수 있는 권한을 GitHub에 부여하지 않습니다. 단, 귀하의 콘텐츠를 보관할 수 있는 권한의 일환으로 GitHub는 GitHub 파트너가 [GitHub Arctic Code Vault 및 GitHub Archive Program](https://archiveprogram.github.com/)과 관련하여 공용 리포지토리에 귀하의 콘텐츠를 저장하고 보관하는 것을 허용할 수 있습니다.
+This license does not grant GitHub the right to sell Your Content. It also does not grant GitHub the right to otherwise distribute or use Your Content outside of our provision of the Service, except that as part of the right to archive Your Content, GitHub may permit our partners to store and archive Your Content in public repositories in connection with the [GitHub Arctic Code Vault and GitHub Archive Program](https://archiveprogram.github.com/).
 
-### [5. 다른 사용자에 대한 라이선스 허여](#5-license-grant-to-other-users) ###
+### [5. License Grant to Other Users](#5-license-grant-to-other-users) ###
 
-다른 사용자의 리포지토리에 대한 이슈, 의견, 기여 등을 포함해 귀하가 공개적으로 게시하는 모든 사용자 생성 콘텐츠는 다른 사람이 볼 수 있습니다. 귀하의 리포지토리를 공개적으로 볼 수 있도록 설정하면 다른 사용자가 귀하의 리포지토리를 보고 "포크"할 수 있게 허용하는 데 동의하는 것입니다(즉, 다른 사용자들이 귀하의 리포지토리의 콘텐츠의 자체 복사본을 자신이 제어하는 리포지토리에 만들 수 있습니다).
+Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and "fork" your repositories (this means that others may make their own copies of Content from your repositories in repositories they control).
 
-귀하의 페이지와 리포지토리를 공개적으로 볼 수 있도록 설정하는 경우, 귀하는 GitHub의 서비스를 통해 귀하의 콘텐츠를 사용, 표시, 실행하고 GitHub의 기능(예: 포크)을 통해 허용된 대로 GitHub에서만 귀하의 콘텐츠를 복제할 수 있는 비독점적인 전 세계적 라이선스를 각 GitHub 사용자에게 허여합니다. [라이선스를 채택](/ko/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository)하는 경우 추가 권한을 부여할 수 있습니다. 귀하가 만들지 않았거나 소유하지 않은 콘텐츠를 업로드하는 경우, 귀하는 업로드하는 콘텐츠가 다른 GitHub 사용자에게 이러한 권한을 부여하는 약관에 따라 라이선스가 허여되었는지 확인할 책임이 있습니다.
+If you set your pages and repositories to be viewed publicly, you grant each User of GitHub a nonexclusive, worldwide license to use, display, and perform Your Content through the GitHub Service and to reproduce Your Content solely on GitHub as permitted through GitHub's functionality (for example, through forking). You may grant further rights if you [adopt a license](/ko/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository#including-an-open-source-license-in-your-repository). If you are uploading Content you did not create or own, you are responsible for ensuring that the Content you upload is licensed under terms that grant these permissions to other GitHub Users.
 
-### [6. 리포지토리 라이선스에 따른 기여](#6-contributions-under-repository-license) ###
+### [6. Contributions Under Repository License](#6-contributions-under-repository-license) ###
 
-귀하는 라이선스 고지가 포함된 콘텐츠를 리포지토리에 추가할 때마다 동일한 약관에 따라 해당 콘텐츠에 라이선스를 허여하며, 이러한 약관에 따라 해당 콘텐츠에 라이선스를 허여할 권리가 있다는 데 동의합니다. 기여자 라이선스 계약 등 다른 약관에 따라 해당 콘텐츠에 라이선스를 허여하는 별도의 계약이 있는 경우, 해당 계약이 우선합니다.
+Whenever you add Content to a repository containing notice of a license, you license that Content under the same terms, and you agree that you have the right to license that Content under those terms. If you have a separate agreement to license that Content under different terms, such as a contributor license agreement, that agreement will supersede.
 
-이미 그렇게 하고 있지 않습니까? 맞습니다. 이것은 오픈 소스 커뮤니티에서 표준으로 널리 인정되고 있으며, 일반적으로 "인바운드=아웃바운드"라는 약칭으로 불립니다. 단지 명확히 하는 것입니다.
+Isn't this just how it works already? Yep. This is widely accepted as the norm in the open-source community; it's commonly referred to by the shorthand "inbound=outbound". We're just making it explicit.
 
-### [7. 저작인격권](#7-moral-rights) ###
+### [7. Moral Rights](#7-moral-rights) ###
 
-귀하는 무결성 및 저작권 표시의 권리를 포함하여 서비스의 일부에 업로드, 게시 또는 제출하는 귀하의 콘텐츠에 대한 모든 저작인격권을 보유합니다. 그러나 귀하는 GitHub가 섹션 D.4에서 부여된 권리를 합리적으로 행사하고 다른 목적으로 행사하지 않도록 하기 위해 이러한 권리를 포기하고 GitHub를 상대로 이러한 권리를 주장하지 않는 데 동의합니다.
+You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to reasonably exercise the rights granted in Section D.4, but not otherwise.
 
-관련 법률에 의해 본 계약을 집행할 수 없는 경우, 귀하는 GitHub가 저작자 표시 없이 귀하의 콘텐츠를 사용하고 웹 사이트 렌더링 및 서비스 제공에 필요하다면 귀하의 콘텐츠를 합리적으로 수정하는 데 필요한 권리를 GitHub에 부여합니다.
+To the extent this agreement is not enforceable by applicable law, you grant GitHub the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
-[E. 개인 리포지토리](#e-private-repositories)
+[E. Private Repositories](#e-private-repositories)
 ----------
 
-**짧은 버전:** *GitHub는 프라이빗 리포지토리의 콘텐츠를 기밀로 취급하며, GitHub 개인정보처리방침에 설명된 대로 보안 목적으로, 리포지토리 소유자의 지원 문제를 돕기 위해, 서비스 무결성을 유지하기 위해, GitHub의 법적 의무를 준수하기 위해, 콘텐츠가 법률을 위반한다고 믿는 경우 또는 동의가 있는 경우에만 콘텐츠에 액세스합니다.*
+**Short version:** *We treat the content of private repositories as confidential, and we only access it as described in our Privacy Statement—for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the Service, to comply with our legal obligations, if we have reason to believe the contents are in violation of the law, or with your consent.*
 
-### [1. 프라이빗 리포지토리의 제어](#1-control-of-private-repositories) ###
+### [1. Control of Private Repositories](#1-control-of-private-repositories) ###
 
-일부 계정에는 사용자가 콘텐츠에 대한 액세스를 제어할 수 있는 개인 리포지토리가 있을 수 있습니다.
+Some Accounts may have private repositories, which allow the User to control access to Content.
 
-### [2. 프라이빗 리포지토리의 비밀 유지](#2-confidentiality-of-private-repositories) ###
+### [2. Confidentiality of Private Repositories](#2-confidentiality-of-private-repositories) ###
 
-GitHub는 개인 리포지토리의 콘텐츠가 귀하에게 기밀이라고 간주합니다. GitHub는 비슷한 성격의 GitHub 자체 비밀 정보를 보호하는 데 사용하는 것과 동일한 방법으로 어떠한 경우에도 합리적인 수준 이상의 관심을 기울여 무단 사용, 액세스 또는 공개로부터 개인 리포지토리의 콘텐츠를 보호합니다.
+GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own confidential information of a similar nature and in no event with less than a reasonable degree of care.
 
-### [3. 액세스](#3-access) ###
+### [3. Access](#3-access) ###
 
-GitHub 직원은 당사의 [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement#repository-contents)에 설명된 상황에서만 프라이빗 리포지토리의 콘텐츠에 액세스할 수 있습니다.
+GitHub personnel may only access the content of your private repositories in the situations described in our [Privacy Statement](/ko/site-policy/privacy-policies/github-privacy-statement#repository-contents).
 
-귀하는 개인 리포지토리에 대한 추가 액세스를 활성화하기로 선택할 수 있습니다. 예:
+You may choose to enable additional access to your private repositories. For example:
 
-* 귀하는 개인 리포지토리에 있는 귀하의 콘텐츠에 대한 추가 권리가 필요한 다양한 GitHub 서비스 또는 기능을 활성화할 수 있습니다. 이러한 권리는 서비스 또는 기능에 따라 다를 수 있지만 GitHub는 개인 리포지토리 콘텐츠를 계속 기밀로 간주합니다. 이러한 서비스 또는 기능에 GitHub서비스를 제공하는 데 필요한 권리 외의 권리가 필요한 경우, GitHub는 그러한 권리에 대한 설명을 제공합니다.
+* You may enable various GitHub services or features that require additional rights to Your Content in private repositories. These rights may vary depending on the service or feature, but GitHub will continue to treat your private repository Content as confidential. If those services or features require rights in addition to those we need to provide the GitHub Service, we will provide an explanation of those rights.
 
-또한 GitHub는 [법률의 강제적 구속력에 의해](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) 프라이빗 리포지토리의 콘텐츠를 공개해야 할 수도 있습니다.
+Additionally, we may be [compelled by law](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) to disclose the contents of your private repositories.
 
-GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
+GitHub will provide notice regarding our access to private repository content, unless [for legal disclosure](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), to comply with our legal obligations, or where otherwise bound by requirements under law, for automated scanning, or if in response to a security threat or other risk to security.
 
-[F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
+[F. Copyright Infringement and DMCA Policy](#f-copyright-infringement-and-dmca-policy)
 ----------
 
-GitHub 웹 사이트의 콘텐츠가 귀하의 저작권을 위반한다고 생각하는 경우, GitHub의 [디지털 밀레니엄 저작권법 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)에 따라 문의하십시오. 저작권 소유자이고 GitHub에 있는 콘텐츠가 권한을 침해한다고 생각하는 경우, [GitHub 간편 DMCA 양식](https://github.com/contact/dmca)을 통해 또는 [copyright@github.com](mailto:copyright@github.com)에 이메일을 보내 문의하십시오. 허위이거나 사소한 게시 중단 통지를 보내는 경우 법적 결과가 따를 수 있습니다. 게시 중단 요청을 보내기 전에 공정한 사용 및 사용 허가된 사용 같은 합법적 사용을 고려해야 합니다.
+If you believe that content on our website violates your copyright, please contact us in accordance with our [Digital Millennium Copyright Act Policy](/ko/site-policy/content-removal-policies/dmca-takedown-policy). If you are a copyright owner and you believe that content on GitHub violates your rights, please contact us via [our convenient DMCA form](https://github.com/contact/dmca) or by emailing [copyright@github.com](mailto:copyright@github.com). There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
-GitHub는 이 정책의 [반복 침해자](/ko/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement)의 계정을 해지할 것입니다.
+We will terminate the Accounts of [repeat infringers](/ko/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement) of this policy.
 
-[G. 지적 재산권 고지](#g-intellectual-property-notice)
+[G. Intellectual Property Notice](#g-intellectual-property-notice)
 ----------
 
-**짧은 버전:** *GitHub 서비스와 모든 GitHub 콘텐츠는 GitHub의 소유입니다. GitHub는 GitHub의 콘텐츠를 사용할 수 있도록 GitHub 콘텐츠에 대한 특정 권한을 귀하에게 부여하지만 귀하는 GitHub의 콘텐츠를 GitHub가 허용한 방법으로만 사용할 수 있습니다.*
+**Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
-### [1. 콘텐츠에 대한 GitHub의 권한](#1-githubs-rights-to-content) ###
+### [1. GitHub's Rights to Content](#1-githubs-rights-to-content) ###
 
-GitHub와 GitHub의 사용권 허가자, 공급업체, 대리인 및/또는 GitHub의 콘텐츠 공급자는 웹 사이트 및 서비스와 관련된 모든 종류의 지적 재산권을 보유합니다. 본 계약에 따라 또는 법률에 의해 명시적으로 귀하에게 부여되지 않은 모든 권리는 GitHub가 보유합니다. 웹 사이트와 서비스의 룩 앤드 필은 GitHub, Inc. 저작권으로 보호되며 무단 복제는 금지됩니다. GitHub의 명시적인 서면 허가 없이 HTML/CSS, JavaScript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
+GitHub and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © GitHub, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, JavaScript, or visual design elements or concepts without express written permission from GitHub.
 
-### [2. GitHub 상표 및 로고](#2-github-trademarks-and-logos) ###
+### [2. GitHub Trademarks and Logos](#2-github-trademarks-and-logos) ###
 
-GitHub의 상표를 사용하려는 경우, GitHub의 로고 페이지([https://github.com/logos)에](https://github.com/logos)%EC%97%90) 있는 지침을 포함한 모든 상표 지침을 따라야 합니다.
+If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: <https://github.com/logos>.
 
-### [3. GitHub 정책에 대한 라이선스](#3-license-to-github-policies) ###
+### [3. License to GitHub Policies](#3-license-to-github-policies) ###
 
-본 계약은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
+This Agreement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
-[H. API 약관](#h-api-terms)
+[H. API Terms](#h-api-terms)
 ----------
 
-**짧은 버전:** *귀하는 본 서비스 약관 외에 GitHub에 액세스하는 제3자 제품을 통한 API(Applicaiton Provider Interface) 사용을 포함하여 GitHub의 API를 사용할 때 본 섹션 H에 동의합니다.*
+**Short version:** *You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub.*
 
-API를 악용하거나 API를 통해 GitHub에 지나치게 빈번한 요청을 할 경우 API에 대한 계정의 액세스가 일시적 또는 영구적으로 정지될 수 있습니다. GitHub는 재량에 따라 API의 악용 또는 지나친 사용을 판단합니다. GitHub는 정지 전에 이메일을 통해 경고하려 합리적으로 시도합니다.
+Abuse or excessively frequent requests to GitHub via the API may result in the temporary or permanent suspension of your Account's access to the API. GitHub, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
 
-GitHub의 비율 제한을 초과하여 API 토큰을 공유해서는 안 됩니다.
+You may not share API tokens to exceed GitHub's rate limitations.
 
-GitHub 사용자의 개인 정보를 채용업체, 헤드헌터, 취업 게시판 등에 판매할 목적을 포함한 스팸 메일 발송 목적으로 API를 사용하여 GitHub에서 데이터 또는 콘텐츠를 다운로드하면 안 됩니다.
+You may not use the API to download data or Content from GitHub for spamming purposes, including for the purposes of selling GitHub users' personal information, such as to recruiters, headhunters, and job boards.
 
-모든 GitHub API 사용에는 본 서비스 약관과 [GitHub 개인정보처리방침](https://github.com/site/privacy)이 적용됩니다.
+All use of the GitHub API is subject to these Terms of Service and the [GitHub Privacy Statement](https://github.com/site/privacy).
 
-GitHub는 높은 처리량의 액세스 또는 GitHub의 서비스가 재판매되는 액세스가 필요한 사용자에게 GitHub API에 대한 구독 기반 액세스를 제공할 수 있습니다.
+GitHub may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of GitHub's Service.
 
-[I. GitHub 추가 제품 약관](#i-github-additional-product-terms)
+[I. GitHub Additional Product Terms](#i-github-additional-product-terms)
 ----------
 
-**짧은 버전:** *귀하는 GitHub의 다양한 기능 및 제품의 특정 계약조건에 따라야 하며, 본 계약에 동의할 때 추가 계약조건에 동의합니다.*
+**Short version:** *You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement.*
 
-일부 서비스 기능에는 GitHub 추가 제품 약관에 명시된 대로 해당 기능 또는 제품에 관련된 추가 약관이 적용될 수 있습니다. 이러한 기능에 액세스하거나 이 기능을 사용함으로써 귀하는 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)에도 동의하게 됩니다.
+Some Service features may be subject to additional terms specific to that feature or product as set forth in the GitHub Additional Product Terms. By accessing or using the Services, you also agree to the [GitHub Additional Product Terms](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-[J. 베타 미리 보기](#j-beta-previews)
+[J. Beta Previews](#j-beta-previews)
 ----------
 
-**짧은 버전:** *베타 미리 보기는 지원되지 않거나 언제든지 변경될 수 있습니다. 귀하는 이러한 프로그램을 통해 프로그램이 비공개인 동안 기밀로 유지해야 하는 비밀 정보를 받게 될 수 있습니다. 베타 미리 보기를 개선할 수 있도록 피드백을 보내 주시기 바랍니다.*
+**Short version:** *Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta Previews better.*
 
-### [1. 변경 가능](#1-subject-to-change) ###
+### [1. Subject to Change](#1-subject-to-change) ###
 
-베타 미리 보기는 지원되지 않을 수 있으며 통지 없이 언제든지 변경할 수 있습니다. 또한 베타 미리 보기에는 서비스에 적용되었고 현재 적용되는 것과 동일한 보안 조치 및 감사가 적용되지 않습니다. **베타 미리 보기를 사용하면 본인의 위험 부담하에 사용하는 것입니다.**
+Beta Previews may not be supported and may be changed at any time without notice. In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. **By using a Beta Preview, you use it at your own risk.**
 
-### [2. 비밀 유지](#2-confidentiality) ###
+### [2. Confidentiality](#2-confidentiality) ###
 
-베타 미리 보기의 사용자로서 귀하는 공개되지 않은 특별한 정보에 액세스하게 될 수 있습니다. 이 정보의 민감한 성격 때문에 귀하가 해당 정보를 비밀로 유지하는 것이 GitHub에게는 중요합니다.
+As a user of Beta Previews, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
-**비밀 유지 의무.** 귀하는 비공개 베타 미리 보기에 대한 정보와 같이 GitHub가 제공하는 공개되지 않은 베타 미리 보기 정보는 기밀로 표시 또는 명시되어 있는지 여부에 상관없이 GitHub의 비밀 정보("비밀 정보"로 통칭)로 간주된다는 데 동의합니다. 귀하는 베타 미리 보기를 테스트 및 평가하는 명시적 목적("목적")으로만 이러한 비밀 정보를 사용하고 다른 어떤 목적으로도 사용하지 않기로 동의합니다. 귀하는 귀하 자신의 비밀 정보에 기울이는 것과 동일한 정도의 주의를 기울여 GitHub 비밀 정보의 무단 사용, 공개, 공표 또는 유포를 방지하기 위한 합리적인 예방 조치를 취해야 합니다. 귀하는 GitHub가 달리 공개를 금지 또는 제한하지 않는 경우에도 제3자에게 어떤 비밀 정보도 공개, 공표 또는 유포하지 않기로 약속합니다(예를 들어 귀하는 GitHub가 조직한 비공개 베타 미리 보기 기능에 관한 그룹 토론에 포함될 수 있습니다).
+**Confidentiality Obligations.** You agree that any non-public Beta Preview information we give you, such as information about a private Beta Preview, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the express purpose of testing and evaluating the Beta Preview (the “Purpose”), and not for any other purpose. You should use the same degree of care as you would with your own confidential information, but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party, unless we don’t otherwise prohibit or restrict such disclosure (for example, you might be part of a GitHub-organized group discussion about a private Beta Preview feature).
 
-**예외.** 다음 정보는 비밀 정보에 포함되지 않습니다. (a) 또는 귀하의 작위 또는 부작위를 통하지 않고 본 계약의 위반 없이 일반에 공개되거나(예를 들어 비공개 베타 미리 보기가 공개 베타 미리 보기가 되는 경우), (b) GitHub가 귀하에게 공개하기 전에 귀하가 알고 있거나, (c) GitHub 또는 제3자에 대한 비밀 유지 의무 위반 없이 귀하가 독자적으로 개발했거나, (d) GitHub의 허가를 받아 공개된 정보. 법률에 따라 비밀 정보를 공개해야 하는 경우, 법률이 금지하지 않는 한 이의 제기를 할 수 있도록 합리적인 사전 서면 통지를 GitHub에 제공했다면 본 계약 약관 위반이 아닙니다.
+**Exceptions.** Confidential Information will not include information that is: (a) or becomes publicly available without breach of this Agreement through no act or inaction on your part (such as when a private Beta Preview becomes a public Beta Preview); (b) known to you before we disclose it to you; (c) independently developed by you without breach of any confidentiality obligation to us or any third party; or (d) disclosed with permission from GitHub. You will not violate the terms of this Agreement if you are required to disclose Confidential Information pursuant to operation of law, provided GitHub has been given reasonable advance written notice to object, unless prohibited by law.
 
-### [3. 피드백](#3-feedback) ###
+### [3. Feedback](#3-feedback) ###
 
-GitHub는 항상 제품과 서비스를 개선하려 노력하고 있으며, 베타 미리 보기 사용자의 피드백은 이런 노력에 도움이 됩니다. GitHub 제품 또는 서비스에 대한 아이디어, 노하우, 알고리즘, 코드 기여, 제안, 개선 요청, 추천 또는 그 밖의 피드백("피드백"으로 통칭)을 GitHub에 제공하기로 선택하는 경우, 귀하는 GitHub에게 피드백을 구현, 사용, 수정, 상업적 이용 및/또는 GitHub 제품, 서비스, 설명서에 통합할 수 있는 로열티 없고, 대금이 완불되고, 전 세계적이고, 양도 가능하고, 재라이선싱 가능하고, 철회 불가능한 영구 라이선스가 있음을 인정하고 동의하는 것입니다.
+We’re always trying to improve of products and services, and your feedback as a Beta Preview user will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services (collectively, “Feedback”), you acknowledge and agree that GitHub will have a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
-[k. 지급](#k-payment)
+[K. Payment](#k-payment)
 ----------
 
-**짧은 버전:** *귀하의 GitHub 사용과 관련된 요금은 귀하의 책임입니다. GitHub는 이러한 요금을 명확하고 정확하게 귀하에게 전달하고, 이러한 가격이 변경되는 경우 충분히 일찍 알릴 책임이 있습니다.*
+**Short version:** *You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.*
 
-### [1. 가격 책정](#1-pricing) ###
+### [1. Pricing](#1-pricing) ###
 
-GitHub의 가격 책정 및 지급 조건은 [github.com/pricing](https://github.com/pricing)에서 확인할 수 있습니다. 구독 가격에 동의하는 경우, 결제 기간 동안 계속 해당 가격이 적용됩니다. 그러나 결제 기간이 끝나면 가격이 변경될 수 있습니다.
+Our pricing and payment terms are available at [github.com/pricing](https://github.com/pricing). If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
 
-### [2. 업그레이드, 다운그레이드, 변경](#2-upgrades-downgrades-and-changes) ###
+### [2. Upgrades, Downgrades, and Changes](#2-upgrades-downgrades-and-changes) ###
 
-* 무료 요금제에서 유료 요금제로 업그레이드하는 경우, 즉시 청구됩니다.
-* 월간 요금제에서 연간 요금제로 변경하는 경우, GitHub는 다음 달 청구일에 전체 연도 요금을 청구합니다.
-* 상위 수준의 서비스로 업그레이드하는 경우, 업그레이드된 요금제로 즉시 청구됩니다.
-* [요금제 옵션을 선택](https://github.com/pricing)하거나 [청구 설정](https://github.com/settings/billing)에서 언제든지 서비스 수준을 변경할 수 있습니다. 계정을 다운로드하기로 선택하는 경우, 계정의 콘텐츠에 대한 액세스, 기능 또는 용량을 상실할 수 있습니다. 해당 콘텐츠의 복사본을 얻는 방법에 대한 자세한 내용은 [취소](#l-cancellation-and-termination) 섹션을 참조하십시오.
+* We will immediately bill you when you upgrade from the free plan to any paying plan.
+* If you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date.
+* If you upgrade to a higher level of service, we will bill you for the upgraded plan immediately.
+* You may change your level of service at any time by [choosing a plan option](https://github.com/pricing) or going into your [Billing settings](https://github.com/settings/billing). If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account. Please see our section on [Cancellation](#l-cancellation-and-termination) for information on getting a copy of that Content.
 
-### [3. 청구 일정표, 환불 없음](#3-billing-schedule-no-refunds) ###
+### [3. Billing Schedule; No Refunds](#3-billing-schedule-no-refunds) ###
 
-**요금제 기반 결제** 월간 또는 연간 결제 요금제의 경우, 각각 월 또는 연 기준으로 서비스 요금이 청구되며, 환불되지 않습니다. 서비스를 부분적으로 사용한 달에 대한 환불이나 크레딧, 다운그레이드 환불 또는 개방형 계정과 함께 사용되지 않은 달에 대한 환불은 없습니다. 다만 서비스는 유료 청구 기간 동안 활성 상태로 유지됩니다. 모두를 똑같이 대우하기 위해 예외는 없습니다.
+**Payment Based on Plan** For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused with an open Account; however, the service will remain active for the length of the paid billing period. In order to treat everyone equally, no exceptions will be made.
 
-**사용량 기준 결제** 일부 서비스 기능은 사용량에 따라 과금됩니다. 이러한 서비스 기능의 한정된 수량은 추가 비용 없이 제한된 기간 동안 귀하의 요금에 포함될 수 있습니다. 요금에 포함된 수량을 초과하여 유료 서비스 기능을 사용하기로 선택한 경우, 이전 달의 실제 사용량을 기준으로 해당 서비스 기능에 대한 비용을 지불합니다. 이러한 구매에 대한 월 결제는 정기적으로 연체되어 청구됩니다. [자세한 내용은 GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)을 참조하십시오.
+**Payment Based on Usage** Some Service features are billed based on your usage. A limited quantity of these Service features may be included in your plan for a limited term without additional charge. If you choose to use paid Service features beyond the quantity included in your plan, you pay for those Service features based on your actual usage in the preceding month. Monthly payment for these purchases will be charged on a periodic basis in arrears. See [GitHub Additional Product Terms for Details](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-**청구서 발행** 청구서가 발행된 사용자의 경우, 사용자는 어떠한 종류의 공제 또는 상계 없이 미국 달러로 요금을 전액 선불하는 데 동의합니다. 사용자는 GitHub 청구일로부터 30일 이내에 요금을 지불해야 합니다. 본 계약에 따라 지불할 금액은 본 계약에 달리 명시된 경우를 제외하면 환불되지 않습니다. 사용자가 요금을 제때 지불하지 않을 경우, GitHub는 법률 또는 형평법상 그 밖의 모든 조치를 취하는 것 외에도 (i) 연체 미지불금에 대해 월 1.0% 이율 또는 법정 허용 최고 이율 중 낮은 이율을 기준으로 이자를 청구하고 모든 회수 비용을 청구할 권리가 있으며 (ii) 해당 주문서 양식을 해지할 권리가 있습니다. 사용자는 본 계약과 관련하여 부과되거나 납부해야 할 모든 세금, 요금, 관세 및 정부 과세액(GitHub의 순수입에 근거하여 부과되는 제세공과금은 제외)에 대해 전적인 책임을 집니다.
+**Invoicing** For invoiced Users, User agrees to pay the fees in full, up front without deduction or setoff of any kind, in U.S. Dollars. User must pay the fees within thirty (30) days of the GitHub invoice date. Amounts payable under this Agreement are non-refundable, except as otherwise provided in this Agreement. If User fails to pay any fees on time, GitHub reserves the right, in addition to taking any other action at law or equity, to (i) charge interest on past due amounts at 1.0% per month or the highest interest rate allowed by law, whichever is less, and to charge all expenses of recovery, and (ii) terminate the applicable order form. User is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
-### [4. 권한 부여](#4-authorization) ###
+### [4. Authorization](#4-authorization) ###
 
-본 약관에 동의함으로써 귀하는 귀하의 등록된 신용 카드, PayPal 계정 또는 GitHub에 허가한 그 밖의 승인된 요금 결제 수단에 청구할 수 있는 권한을 GitHub에 부여합니다.
+By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.
 
-### [5. 결제에 대한 책임](#5-responsibility-for-payment) ###
+### [5. Responsibility for Payment](#5-responsibility-for-payment) ###
 
-귀하의 서비스 사용과 관련된 세금을 포함한 모든 요금은 귀하의 책임입니다. 서비스를 사용함으로써 귀하는 귀하의 서비스 사용과 관련하여 발생하는 모든 요금을 GitHub에 지불하는 데 동의합니다. 이 문제에 대해 이의를 제기하는 경우 [GitHub 지원](https://support.github.com/)에 문의하십시오. 귀하는 유료 계정의 유효한 결제 수단을 GitHub에 제공할 책임이 있습니다. 무료 계정은 결제 정보를 제공할 필요가 없습니다.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact us through the [GitHub Support portal](https://support.github.com/). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
 
-[L. 취소 및 해지](#l-cancellation-and-termination)
+[L. Cancellation and Termination](#l-cancellation-and-termination)
 ----------
 
-**짧은 버전:** *귀하는 언제든지 귀하의 계정을 폐쇄할 수 있습니다. 그 경우, GitHub는 귀하의 정보를 책임지고 처리합니다.*
+**Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly.*
 
-### [1. 계정 취소](#1-account-cancellation) ###
+### [1. Account Cancellation](#1-account-cancellation) ###
 
-귀하의 GitHub 계정을 적절히 취소하는 것은 귀하의 책임입니다. 화면 위쪽의 글로벌 탐색 모음으로 이동하여 [언제든지 계정을 취소](/ko/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)할 수 있습니다. 계정 화면은 간단하고 질문이 없는 취소 링크를 제공합니다. GitHub는 이메일 또는 전화 요청에 응하여 계정을 취소할 수 없습니다.
+It is your responsibility to properly cancel your Account with GitHub. You can [cancel your Account at any time](/ko/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
 
-### [2. 취소 시](#2-upon-cancellation) ###
+### [2. Upon Cancellation](#2-upon-cancellation) ###
 
-GitHub는 법적 의무를 준수하고 분쟁을 해결하며 GitHub의 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유 및 사용하지만 법적 요구 사항이 없다면 취소 또는 해지 후 90일 이내에 귀하의 전체 프로필과 해당 리포지토리의 콘텐츠를 삭제합니다. 단, 일부 정보는 암호화된 백업에 남아 있을 수 있습니다. 귀하의 계정이 취소되면 이 정보는 복구할 수 없습니다.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90 days of cancellation or termination (though some information may remain in encrypted backups). This information cannot be recovered once your Account is canceled.
 
-GitHub는 귀하가 외부 사용자의 리포지토리에 제공했거나 외부 사용자가 포크한 콘텐츠를 삭제하지 않습니다.
+We will not delete Content that you have contributed to other Users' repositories or that other Users have forked.
 
-GitHub는 요청 시 계정 취소, 해지 또는 다운그레이드 후 계정 소유자에게 합법적이고 비침해적인 계정 콘텐츠의 사본을 제공하기 위해 합당한 노력을 기울입니다. 이 요청은 취소, 해지 또는 다운그레이드 후 90일 이내에 해야 합니다.
+Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade.
 
-### [3. GitHub의 종료 권한](#3-github-may-terminate) ###
+### [3. GitHub May Terminate](#3-github-may-terminate) ###
 
-GitHub는 언제든지 사유 불문하고 통지 여부에 상관없이 웹 사이트 전체 또는 일부에 대한 귀하의 액세스를 정지 또는 종료할 수 있으며, 그 효력은 즉시 발생합니다. GitHub는 언제든지 이유에 관계없이 누구에게나 서비스를 거부할 권리가 있습니다.
+GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any time.
 
-### [4. 존속](#4-survival) ###
+### [4. Survival](#4-survival) ###
 
-소유권 조항, 보증 부인, 면책 및 책임의 제한을 포함하되 이에 국한되지 않으며 본질상 해지 후에도 존속해야 하는 본 계약의 모든 조항은 해지 *후에도* 존속합니다.
+All provisions of this Agreement which, by their nature, should survive termination *will* survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
-[M. GitHub와의 통신](#m-communications-with-github)
+[M. Communications with GitHub](#m-communications-with-github)
 ----------
 
-**짧은 버전:** *GitHub는 이메일 및 기타 전자적 수단을 사용하여 GitHub 사용자와 연락합니다.*
+**Short version:** *We use email and other electronic means to stay in touch with our users.*
 
-### [1. 전자 통신 필요](#1-electronic-communication-required) ###
+### [1. Electronic Communication Required](#1-electronic-communication-required) ###
 
-계약 목적상 귀하는 (1) 제출한 이메일 주소 또는 서비스를 통해 전자적 양식으로 GitHub로부터의 통신을 수신하는 데 동의하고, (2) GitHub가 전자적으로 제공하는 모든 서비스 약관, 계약, 통지, 공개 및 그 밖의 통신이 서류 양식일 때와 마찬가지로 모든 법적 요구 사항을 충족한다는 데 동의합니다. 이 조항은 귀하의 포기 불가능한 권리에 영향을 미치지 않습니다.
+For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
 
-### [2. GitHub에 대한 법적 고지는 서면으로 이루어져야 함](#2-legal-notice-to-github-must-be-in-writing) ###
+### [2. Legal Notice to GitHub Must Be in Writing](#2-legal-notice-to-github-must-be-in-writing) ###
 
-이메일 또는 GitHub 지원의 메시징 시스템을 통한 통신은 계약이나 법규에 따라 GitHub에 대한 통지가 필요한 어떠한 상황에서도 GitHub 또는 그 임원, 직원, 대리인 또는 대표자에 대한 법적 고지에 해당하지 않습니다. GitHub에 대한 법적 고지는 서면으로 이루어져야 하며 [GitHub의 법률 대리인에게 제공](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests)해야 합니다.
+Communications made through email or GitHub Support's messaging system will not constitute legal notice to GitHub or any of its officers, employees, agents or representatives in any situation where notice to GitHub is required by contract or any law or regulation. Legal notice to GitHub must be in writing and [served on GitHub's legal agent](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
-### [3. 전화 지원 없음](#3-no-phone-support) ###
+### [3. No Phone Support](#3-no-phone-support) ###
 
-GitHub는 이메일, 서비스 내 통신, 전자 메시지를 통해서만 지원을 제공합니다. 전화 지원은 제공하지 않습니다.
+GitHub only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
-[N. 보증의 부인](#n-disclaimer-of-warranties)
+[N. Disclaimer of Warranties](#n-disclaimer-of-warranties)
 ----------
 
-**짧은 버전:** *GitHub는 GitHub의 서비스를 있는 그대로 제공하며, 이 서비스에 대한 어떠한 약속이나 보증도 하지 않습니다. 이 섹션을 꼼꼼히 읽으시기 바랍니다. 무엇을 예상해야 하는지 이해해야 합니다.*
+**Short version:** *We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.*
 
-GitHub는 웹 사이트와 서비스를 어떠한 종류의 보증도 없이 "있는 그대로", "사용할 수 있는 상태로" 제공합니다. 이러한 요건을 제한하지 않고 GitHub는 상업성, 특정 목적에 대한 적합성, 소유권, 보안, 정확성 및 비침해성에 대한 보증을 포함하되 이에 국한되지 않는 웹 사이트 및 서비스에 관한 명시적, 묵시적 또는 법적인 모든 보증을 명시적으로 부인합니다.
+GitHub provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
-GitHub는 서비스가 귀하의 요구 사항을 충족한다는 점, 서비스가 중단되지 않고 제때 제공되며 안전하거나 오류가 없을 것이라는 점, 서비스를 통해 제공되는 정보가 정확하거나 신뢰할 수 있거나 정확하다는 점, 모든 결함이나 오류는 수정될 것이라는 점, 서비스가 특정 시간 또는 장소에서 제공될 것이라는 점, 또는 서비스에 바이러스 또는 그 외 유해한 구성 요소가 없다는 점 등을 보증하지 않습니다. 귀하는 서비스에서 얻는 파일, 정보, 콘텐츠 또는 기타 자료의 다운로드 또는 사용에 대한 모든 책임과 그로 인해 발생하는 손실 위험을 부담합니다.
+GitHub does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
-[O. 책임의 제한](#o-limitation-of-liability)
+[O. Limitation of Liability](#o-limitation-of-liability)
 ----------
 
-**짧은 버전:** *GitHub는 본 계약에 따른 서비스 사용 또는 사용 불능으로 인해 발생하거나 기타 방식으로 발생하는 손해나 손실에 대해 책임이 없습니다. 이 섹션을 꼼꼼히 읽으시기 바랍니다. 이 섹션은 귀하에 대한 GitHub의 의무를 제한합니다.*
+**Short version:** *We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.*
 
-귀하는 GitHub가 다음과 같은 이유로 발생하는 귀하 또는 제3자의 이익, 사용, 영업권 또는 데이터의 상실 또는 부수적, 간접적, 특별, 결과적, 징벌적 손해에 대해 책임을 지지 않음을 이해하고 이에 동의합니다.
+You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
-* 귀하의 사용자 생성 콘텐츠의 사용, 공개 또는 표시
-* 귀하의 서비스 사용 또는 사용 불능
-* 서비스의 수정, 가격 변경, 정지 또는 중지
-* 서비스 전반 또는 서비스를 제공하는 소프트웨어 또는 시스템
-* 귀하의 전송 또는 데이터에 대한 무단 액세스 또는 변경
-* 서비스에서의 제3자의 진술 또는 행동
-* 귀하의 서비스 사용을 통해 입력하거나 수신하는 그 밖의 모든 사용자 상호 작용 또는
-* 서비스와 관련된 그 밖의 모든 문제
+* the use, disclosure, or display of your User-Generated Content;
+* your use or inability to use the Service;
+* any modification, price change, suspension or discontinuance of the Service;
+* the Service generally or the software or systems that make the Service available;
+* unauthorized access to or alterations of your transmissions or data;
+* statements or conduct of any third party on the Service;
+* any other user interactions that you input or receive through your use of the Service; or
+* any other matter relating to the Service.
 
-GitHub의 법적 책임은 GitHub가 이러한 손해의 가능성을 통지받았는지 여부에 관계없이, 또한 본 계약에 명시된 구제 수단이 그 본질적 목적을 달성하지 못했음이 판명되더라도 제한됩니다. GitHub는 GitHub의 합리적인 통제를 벗어난 문제로 인한 장애 또는 지연에 대해 책임이 없습니다.
+Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-[P. 면제 및 면책](#p-release-and-indemnification)
+[P. Release and Indemnification](#p-release-and-indemnification)
 ----------
 
-**짧은 버전:** *귀하의 서비스 사용에 대한 책임은 귀하에게 있습니다. 귀하가 다른 사람에게 피해를 입히거나 다른 사람과 분쟁이 발생하는 경우, GitHub는 관여하지 않습니다.*
+**Short version:** *You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.*
 
-귀하가 한 명 이상의 사용자와 분쟁이 있는 경우, 귀하는 그러한 분쟁으로 인해 발생하거나 어떤 식으로든 이와 관련이 있는 모든 종류 및 성격의 알려지거나 알려지지 않은 모든 청구, 요구 및 손해(실제 손해 및 결과적 손해)로부터 GitHub를 면책하는 데 동의합니다.
+If you have a dispute with one or more Users, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
-귀하는 본 계약 위반을 포함하되 이에 국한하지 않고 귀하의 웹 사이트 및 서비스 사용으로 인해 발생하는 변호사 수임료를 포함한 모든 청구, 책임 및 비용으로부터 GitHub를 면책하고 방어하며 책임을 면제하는 데 동의합니다. 단, GitHub는 (1) 청구, 요구, 소송 또는 소송 절차에 대한 서면 통지를 즉시 귀하에게 전달하고, (2) 청구, 요구, 소송 또는 소송 절차의 방어 및 합의에 대한 전적인 통제 권한을 귀하에게 부여하며(단, 합의로 GitHub의 모든 책임이 무조건 면제되지 않는 한 귀하는 어떠한 청구, 요구, 소송 또는 소송 절차도 합의할 수 없습니다), (3) 귀하의 비용 부담으로 합리적인 모든 지원을 귀하에게 제공합니다.
+You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
-[Q. 본 약관의 변경](#q-changes-to-these-terms)
+[Q. Changes to These Terms](#q-changes-to-these-terms)
 ----------
 
-**짧은 버전:** *GitHub는 GitHub 사용자에게 중요한 약관 변경을 알리려 하지만 일부 변경은 그렇게 중요하지 않습니다. 가령 오탈자를 수정할 때마다 번거롭게 알리고 싶지 않습니다. 따라서 GitHub는 언제든지 본 계약을 수정할 수 있지만 중요한 변경은 사용자에게 알려 변경에 적응할 시간을 제공합니다.*
+**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any material changes and give you time to adjust to them.*
 
-GitHub는 재량에 따라 언제든지 본 서비스 약관을 수정할 수 있는 권리를 보유하며, 그러한 수정 사항이 있는 경우 본 서비스 약관을 업데이트합니다. GitHub는 변경의 효력이 발생하기 적어도 30일 전까지 웹 사이트에 공지를 게시하거나 GitHub 계정에 지정된 기본 이메일 주소로 이메일을 전송하여 가격 인상 등 본 계약의 중대한 변경 사항을 GitHub 사용자에게 통지합니다. 30일의 사전 통지 기한이 경과한 후에도 고객이 서비스를 계속 이용하면 본 계약의 수정안에 동의하는 것으로 간주됩니다. 그 외 모든 계약 변경의 경우, 웹 사이트를 계속 이용하면 본 서비스 약관의 수정안에 동의하는 것으로 간주됩니다. 본 약관의 모든 변경은 GitHub [사이트 정책](https://github.com/github/site-policy) 리포지토리에서 볼 수 있습니다.
+We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price increases, at least 30 days prior to the change taking effect by posting a notice on our Website or sending email to the primary email address specified in your GitHub account. Customer's continued use of the Service after those 30 days constitutes agreement to those revisions of this Agreement. For any other modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Site Policy](https://github.com/github/site-policy) repository.
 
-GitHub는 통지 여부에 관계없이 언제든지 수시로 웹 사이트(또는 그 일부)를 수정하거나 일시적 또는 영구적으로 중단할 수 있는 권리를 보유합니다.
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Website (or any part of it) with or without notice.
 
-[R. 기타](#r-miscellaneous)
+[R. Miscellaneous](#r-miscellaneous)
 ----------
 
-### [1. 준거법](#1-governing-law) ###
+### [1. Governing Law](#1-governing-law) ###
 
-관련 법률이 달리 규정하는 경우를 제외하고 귀하와 GitHub 간의 본 계약과 웹 사이트 또는 서비스 액세스 또는 사용에는 국제 사법 조항에 대한 고려 없이 미국의 연방 법률과 캘리포니아 주의 법률이 적용됩니다. 귀하와 GitHub는 캘리포니아 주 샌프란시스코 시 및 카운티에 위치한 법원의 전속 관할과 재판지에 따를 것에 동의합니다.
+Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
-### [2. 양도 금지](#2-non-assignability) ###
+### [2. Non-Assignability](#2-non-assignability) ###
 
-GitHub는 귀하의 동의 여부에 관계없이 언제든지 섹션 D.4의 라이선스 허여를 포함하여 본 서비스 약관 및/또는 [GitHub 개인정보처리방침](https://github.com/site/privacy)의 전체 또는 일부를 개인이나 단체에 양도하거나 위임할 수 있습니다. 귀하는 GitHub의 사전 서면 동의 없이 서비스 약관 또는 개인정보취급방침에 따른 권리 또는 의무를 양도하거나 위임할 수 없으며, 귀하에 의한 무단 양도 및 위임은 효력이 없습니다.
+GitHub may assign or delegate these Terms of Service and/or the [GitHub Privacy Statement](https://github.com/site/privacy), in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or delegate any rights or obligations under the Terms of Service or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
-### [3. 섹션 제목 및 요약](#3-section-headings-and-summaries) ###
+### [3. Section Headings and Summaries](#3-section-headings-and-summaries) ###
 
-본 계약 전체에서 각 섹션에는 다음과 같은 계약조건의 제목과 짧은 요약이 포함됩니다. 이들 섹션 제목과 짧은 요약은 법적 구속력이 없습니다.
+Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.
 
-### [4. 조항의 독립성, 권한 불포기, 존속](#4-severability-no-waiver-and-survival) ###
+### [4. Severability, No Waiver, and Survival](#4-severability-no-waiver-and-survival) ###
 
-본 계약의 일부가 무효이거나 집행 불가능한 것으로 판결되더라도 계약의 해당 부분은 당사자들의 원래 의도를 반영하는 것으로 해석됩니다. 나머지 부분은 완전한 효력을 유지합니다. GitHub가 본 계약의 조항을 이행하지 않는 경우 이는 해당 조항을 집행할 GitHub의 권리의 포기로 간주되지 않습니다. 본 계약에 따른 GitHub의 권리는 본 계약의 종료 후에도 존속합니다.
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
-### [5. 수정, 완전 합의](#5-amendments-complete-agreement) ###
+### [5. Amendments; Complete Agreement](#5-amendments-complete-agreement) ###
 
-본 계약은 GitHub의 수권 대리인이 서명한 계약서 수정안에 의해서만 수정되거나 GitHub가 [섹션 Q. 본 약관의 변경](#q-changes-to-these-terms)에 따라 개정본을 게시함으로써 수정할 수 있습니다. 본 서비스 약관은 GitHub 개인정보취급방침과 함께 귀하와 GitHub 사이에 체결된 계약의 완전하고 배타적인 문서에 해당합니다. 본 계약은 기밀 또는 비공개 계약을 포함하여 본 약관의 주제와 관련된 귀하와 GitHub 간의 모든 제안이나 사전 구두 또는 서면 합의 및 기타 모든 전언을 대체합니다.
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with [Section Q. Changes to These Terms](#q-changes-to-these-terms). These Terms of Service, together with the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
-### [6. 질문](#6-questions) ###
+### [6. Questions](#6-questions) ###
 
-서비스 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.
+Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
 
 {"resolvedServerColorMode":"day"}

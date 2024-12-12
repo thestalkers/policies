@@ -1,42 +1,42 @@
-GitHub 사용자 이름 정책 - GitHub Docs
+GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
-* [GitHub 사용자 이름 정책](/ko/site-policy/other-site-policies/github-username-policy)
+* [Site policy](/ko/site-policy)/
+* [Other Site Policies](/ko/site-policy/other-site-policies)/
+* [GitHub Username Policy](/ko/site-policy/other-site-policies/github-username-policy)
 
-GitHub 사용자 이름 정책
+GitHub Username Policy
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [원하는 사용자 이름이 이미 사용 중인 이름이라면 어떻게 해야 합니까?](#what-if-the-username-i-want-is-already-taken)
-* [상표 정책](#trademark-policy)
-* [이름 무단 점유 정책](#name-squatting-policy)
+* [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
+* [Trademark Policy](#trademark-policy)
+* [Name Squatting Policy](#name-squatting-policy)
 
-GitHub 계정 이름은 선착순으로 사용할 수 있으며, 즉각적인 활성 사용을 위한 것입니다.
+GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 
-[원하는 사용자 이름이 이미 사용 중인 이름이라면 어떻게 해야 합니까?](#what-if-the-username-i-want-is-already-taken)
+[What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
 ----------
 
-GitHub에서의 모든 활동이 공개적으로 표시되는 것은 아니라는 점을 명심하십시오. 가시적 활동이 없는 계정도 활성 사용 상태일 수 있습니다.
+Keep in mind that not all activity on GitHub is publicly visible; accounts with no visible activity may be in active use.
 
-원하는 사용자 이름이 이미 사용 중인 이름이라면 다른 이름이나 독특한 변형을 고려해 보십시오. 숫자, 하이픈 또는 다른 철자를 사용하면 아직 사용 가능한 원하는 사용자 이름을 파악하는 데 도움이 될 수 있습니다.
+If the username you want has already been claimed, consider other names or unique variations. Using a number, hyphen, or an alternative spelling might help you identify a desirable username that's still available.
 
-[상표 정책](#trademark-policy)
+[Trademark Policy](#trademark-policy)
 ----------
 
-다른 사람의 계정이 귀하의 상표권을 침해한다고 생각되는 경우 [상표권 정책](/ko/site-policy/content-removal-policies/github-trademark-policy) 페이지에서 상표 관련 불만을 제기하는 방법에 대한 자세한 정보를 찾을 수 있습니다.
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/ko/site-policy/content-removal-policies/github-trademark-policy) page.
 
-[이름 무단 점유 정책](#name-squatting-policy)
+[Name Squatting Policy](#name-squatting-policy)
 ----------
 
-GitHub는 계정 이름 무단 점유를 금지하며, 장래 사용을 위해 계정 이름을 예약하거나 비활성 상태로 보유할 수 없습니다. 이 이름 무단 점유 정책을 위반하는 계정은 통지 없이 제거되거나 이름이 변경될 수 있습니다. 계정 이름 판매 또는 구입을 시도하거나 계정 이름의 대가로 그 밖의 지불 형식을 권유하는 행위는 금지되며, 계정이 영구 정지될 수 있습니다.
+GitHub prohibits account name squatting, and account names may not be reserved or inactively held for future use. Accounts violating this name squatting policy may be removed or renamed without notice. Attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited and may result in permanent account suspension.
 
 {"resolvedServerColorMode":"day"}

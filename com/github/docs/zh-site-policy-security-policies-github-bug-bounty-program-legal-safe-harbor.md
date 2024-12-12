@@ -1,56 +1,56 @@
-GitHub Bug 赏金计划法律安全港 - GitHub 文档
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [安全政策](/zh/site-policy/security-policies)/
-* [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Site policy](/zh/site-policy)/
+* [Security Policies](/zh/site-policy/security-policies)/
+* [GitHub Bug Bounty Program Legal Safe Harbor](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug 赏金计划法律安全港
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-本文内容
+In this article
 ----------
 
-* [概述](#summary)
-* [1.安全港条款](#1-safe-harbor-terms)
-* [2.第三方安全港](#2-third-party-safe-harbor)
-* [3.其他网站政策的有限豁免](#3-limited-waiver-of-other-site-policies)
+* [Summary](#summary)
+* [1. Safe Harbor Terms](#1-safe-harbor-terms)
+* [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+* [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 
-[概述](#summary)
+[Summary](#summary)
 ----------
 
-1. 我们希望您通过我们的 Bug 赏金计划协调披露，与此同时，我们不希望研究人员因为他们善意地试图遵守我们的 Bug 赏金政策而担心法律后果。 我们不能约束任何第三方，所以不要认为这种保护将延伸到任何第三方。 如有疑问，请在采取任何您认为\_可能\_超出我们政策范围的具体行动之前咨询我们。
-2. 由于识别信息和非识别信息都可能使研究人员面临风险，我们限制了与第三方共享的信息。 我们可能向受影响的第三方提供来自您的报告的非识别的实质性信息，但前提是向您发送通知并收到第三方不会对您采取法律行动的承诺。 如果您给予书面许可，我们将仅与第三方共享识别信息（姓名、电子邮件地址、电话号码等）。
-3. 如果您在 Bug 赏金计划下进行的安全研究违反了我们站点政策中的某些限制条款，安全港条款允许有限的豁免。
+1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think *might* go outside the bounds of our policy.
+2. Because both identifying and non-identifying information can put a researcher at risk, we limit what we share with third parties. We may provide non-identifying substantive information from your report to an affected third party, but only after notifying you and receiving a commitment that the third party will not pursue legal action against you. We will only share identifying information (name, email address, phone number, etc.) with a third party if you give your written permission.
+3. If your security research as part of the bug bounty program violates certain restrictions in our site policies, the safe harbor terms permit a limited exemption.
 
-[1.安全港条款](#1-safe-harbor-terms)
+[1. Safe Harbor Terms](#1-safe-harbor-terms)
 ----------
 
-为鼓励研究和协调一致的安全漏洞披露，我们不会采取民事或刑事行动，也不会因对本政策的意外或善意违反而通知执法部门。 我们认为，根据《计算机欺诈与滥用法案》、DMCA 和其他适用的计算机使用法律（如《加州刑法典》第 502(c) 条），根据本政策开展的安全研究和漏洞披露活动应获得“授权”。 我们放弃由于您规避我们用于保护本 Bug 赏金计划范围内的应用程序的技术措施而对您执行任何潜在的 DMCA 索赔。
+To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this bug bounty program's scope.
 
-请理解，如果您的安全研究涉及第三方（非我方）的网络、系统、信息、应用程序、产品或服务，我们无法约束该第三方，他们可能会采取法律行动或发出执法通知。 我们不能也不会以其他实体的名义授权安全研究，也不能以任何方式提供保护、赔偿或以其他方式保护您免受由您的行为引发的任何第三方行为。
+Please understand that if your security research involves the networks, systems, information, applications, products, or services of a third party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way offer to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-我们期望您一如既往地遵守适用于您的所有法律，并且不要破坏或泄露任何超出本 Bug 赏金计划许可范围的数据。
+You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
 
-在从事可能不符合本政策或本政策未涉及的行为之前，请与我们联系。 我们保留自行决定违反本政策的行为是偶然还是出于善意的权利，在采取任何行动之前主动联系我们是影响该决定的一个重要因素。 如有疑问，请事先联系我们！
+Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
-[2.第三方安全港](#2-third-party-safe-harbor)
+[2. Third Party Safe Harbor](#2-third-party-safe-harbor)
 ----------
 
-如果您通过我们的 Bug 赏金计划提交了影响第三方服务的报告，我们将限制与任何受影响的第三方共享的内容。 我们可能与受影响的第三方分享您的报告中的非识别内容，但前提是我们通知您我们打算这样做并获得第三方的书面承诺，承诺他们不会对您采取法律行动或就您的报告主动与执法部门联系。 未经您的书面许可，我们不会与任何受影响的第三方共享您的识别信息。
+If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
 
-请注意，我们不能以第三方的名义授权范围外的测试，此类测试超出了我们的政策范围。 请参阅第三方的 Bug 赏金政策（如果他们有），或者在对第三方或他们的服务进行任何测试之前，直接或通过法律代表与第三方联系。 这不是，也不应该被理解为，我们保护、赔偿您或以其他方式保护您免受由您的行为引发的任何第三方行为的任何协议。
+Please note that we cannot authorize out-of-scope testing in the name of third parties, and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-即便如此，如果由于您参与此 Bug 赏金计划，第三方对您发起法律行动（包括执法），而您完全符合我们的 Bug 赏金政策（即没有故意或恶意的违规行为），我们将采取措施，让第三方知道您的行动是依照本政策进行的。 虽然我们认为提交的报告是机密文件和可能的特殊文件，而且在大多数情况下会被保护以免于被迫披露，但请注意，法院可以不顾我们的反对，命令我们与第三方共享信息。
+That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy. While we consider submitted reports both confidential and potentially privileged documents, and protected from compelled disclosure in most circumstances, please be aware that a court could, despite our objections, order us to share information with a third party.
 
-[3.其他网站政策的有限豁免](#3-limited-waiver-of-other-site-policies)
+[3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 ----------
 
-如果您的安全研究活动不符合我们[相关站点政策](/zh/site-policy)中的某些限制条款，但符合我们的 Bug 赏金计划的条款，我们将放弃这些限制，以允许您在此 Bug 赏金计划下进行安全研究。 同上所述，如有疑问，请事先联系我们！
+To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/zh/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
 
 {"resolvedServerColorMode":"day"}

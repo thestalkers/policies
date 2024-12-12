@@ -1,43 +1,43 @@
-Обязательство сотрудничества с GitHub GPL - Документация по GitHub
+GitHub GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика компании GitHub](/ru/site-policy/github-company-policies)/
-* [Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Site policy](/ru/site-policy)/
+* [GitHub Company Policies](/ru/site-policy/github-company-policies)/
+* [GitHub GPL Cooperation Commitment](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-Обязательство сотрудничества с GitHub GPL
+GitHub GPL Cooperation Commitment
 ==========
 
-Это обязательство относится к вкладу GitHub в Git, ядро Linux и другие программы под защищенными лицензиями (прокрутите до конца определения).
+This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 
-Наше заявление сделано на базе [шаблона для компаний](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md). См. [Сайт обязательств по сотрудничеству GPL](https://gplcc.github.io/gplcc/), чтобы узнать, как другие компании, отдельные лица и проекты могут принять это обязательство.
+We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
 
-[Наше обязательство](#our-commitment)
+[Our Commitment](#our-commitment)
 ----------
 
-Перед подачей или продолжением судебного разбирательства или иска (кроме Защитных действий), возникающих в связи с прекращением действия Защищенной лицензии, GitHub обязуется распространить на физическое или юридическое лицо («вы»), обвиняемое в нарушении Защищенной лицензии, следующие положения, касающиеся лечение и восстановление, взятые из GPL версии 3. Используемый здесь термин «настоящая Лицензия» относится к конкретной Покрытой лицензии, принудительно применяемой.
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
-Однако, если вы прекратите все нарушения настоящей Лицензии, ваша лицензия от конкретного правообладателя будет восстановлена (а) временно, если и до тех пор, пока правообладатель явно и окончательно не прекратит действие вашей лицензии, и (б) навсегда, если правообладатель не уведомить вас о нарушении любым разумным способом до 60 дней после прекращения.
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
 
-Кроме того, ваша лицензия от определенного правообладателя восстанавливается на постоянной основе, если правообладатель уведомляет вас о нарушении каким-либо разумным образом, вы впервые получили уведомление о нарушении этой Лицензии (для любой работы) от этого правообладателя, и вы устраните нарушение в течение 30 дней после получения уведомления.
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
 
-GitHub предполагает, что это Обязательство будет безотзывным, обязательным и подлежащим исполнению в отношении GitHub и правопреемников или правопреемников авторских прав GitHub.
+GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
 
-GitHub может изменить это обязательство, опубликовав новую редакцию на этой странице или в другом месте.
+GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
 
-Определения
+Definitions
 
-«Покрываемая лицензия» означает Стандартную общественную лицензию GNU версии 2 (GPLv2), Стандартную общественную лицензию ограниченного использования GNU версии 2.1 (LGPLv2.1) или Стандартную общественную лицензию GNU для библиотек версии 2 (LGPLv2), опубликованные Фонд свободного программного обеспечения.
+‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-«Защитное действие» означает судебное разбирательство или претензию, которую GitHub предъявляет вам в ответ на предыдущую судебную процедуру или претензию, инициированную вами или вашим аффилированным лицом.
+‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
-«GitHub» означает GitHub, Inc. и ее дочерние компании.
+‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
-Эта работа доступна под лицензией Creative Commons Attribution-ShareAlike 4.0 International.
+This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
 
 {"resolvedServerColorMode":"day"}

@@ -1,30 +1,30 @@
-Políticas de Privacidade - GitHub Docs
+Privacy Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Privacidade](/pt/site-policy/privacy-policies)
+* [Site policy](/pt/site-policy)/
+* [Privacy Policies](/pt/site-policy/privacy-policies)
 
-Políticas de Privacidade
+Privacy Policies
 ==========
 
-[Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement)
+[GitHub General Privacy Statement](/pt/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
-[Subprocessadores do GitHub](/pt/site-policy/privacy-policies/github-subprocessors)
+[GitHub Subprocessors](/pt/site-policy/privacy-policies/github-subprocessors)
 ----------
 
-[Cookies do GitHub](/pt/site-policy/privacy-policies/github-cookies)
+[GitHub Cookies](/pt/site-policy/privacy-policies/github-cookies)
 ----------
 
-[Declaração de privacidade de codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[GitHub Codespaces Privacy Statement](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[Política de Privacidade do Candidato do GitHub](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub Candidate Privacy Policy](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

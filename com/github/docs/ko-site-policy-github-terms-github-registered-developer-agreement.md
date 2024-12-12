@@ -1,134 +1,134 @@
-GitHub 등록 개발자 계약 - GitHub Docs
+GitHub Registered Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub 등록 개발자 계약](/ko/site-policy/github-terms/github-registered-developer-agreement)
+* [Site policy](/ko/site-policy)/
+* [GitHub Terms](/ko/site-policy/github-terms)/
+* [GitHub Registered Developer Agreement](/ko/site-policy/github-terms/github-registered-developer-agreement)
 
-GitHub 등록 개발자 계약
+GitHub Registered Developer Agreement
 ==========
 
-GitHub 플랫폼에 수많은 개발자가 통합되는 것은 GitHub의 행운입니다. GitHub는 이것이 대단하다고 생각하며, 이 환경을 더욱 개선하고 싶습니다. GitHub의 개발자 프로그램("프로그램")은 개발자 여러분과 연결되고 정보를 공유하고 여러분의 창의적인 노력을 그 어느 때보다 잘 지원하는 데 도움이 됩니다. GitHub와 프로그램이 만드는 개발자 커뮤니티 사이의 특별한 관계에는 특별한 약관이 필요합니다. 등록 개발자 계약("계약")에 오신 것을 환영합니다.
+GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better. GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 
-이 계약은 귀하("귀하")와 GitHub, Inc.("GitHub" 또는 "당사") 간의 법적 계약서입니다. 이 계약을 꼼꼼히 읽으시기 바랍니다. 이 계약은 귀하의 프로그램 참가에 적용되며, GitHub는 귀하가 이 계약의 모든 조건을 수락하는 경우에만 프로그램 참가를 허용하고자 합니다. 아래의 "동의"를 클릭하거나 어떤 방법으로든(예를 들어 일반 대중에게 아직 제공되지 않은 GitHub 제품이나 기능에 대한 정보에 액세스하여) 프로그램에 참가하면 이 계약의 모든 조건에 구속되기로 동의하는 것입니다. 회사 또는 기타 법인을 대신하여 본 계약을 체결하는 경우, 귀하는 해당 법인이 본 계약에 구속되도록 할 법적 권한이 있음을 진술하며, 이 경우 "귀하"는 귀하가 대표하는 법인을 의미합니다. 이러한 권한이 없거나 이 계약의 조건에 동의하지 않는 경우 "취소" 단추를 선택해야 하며, 프로그램에 참가할 수 없습니다. 귀하가 회사 또는 기타 법인인 경우, 귀하는 "동의"를 클릭한 사람이 귀하를 이 계약에 구속되도록 할 권한이 있음을 진술합니다.
+This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully - it governs your participation in the Program, and we’re only willing to let you participate in the Program if you accept all the terms of this Agreement. By clicking “I Agree” below, or by participating in the Program in any way – for example, by accessing information about GitHub products or features that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement. IF YOU’RE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE "YOU" WILL MEAN THE ENTITY YOU REPRESENT. IF YOU DON’T HAVE SUCH AUTHORITY, OR IF YOU DON’T AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST SELECT THE "CANCEL" BUTTON AND YOU MAY NOT PARTICIPATE IN THE PROGRAM. IF YOU’RE A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT THE PERSON CLICKING “I AGREE” HAS THE AUTHORITY TO BIND YOU TO THIS AGREEMENT.
 
-1. **GitHub.com의 사용 약관이 적용됨**
+1. **GitHub.com’s Terms of Use Will Apply**
 
-   프로그램에 참가하려면 GitHub.com에 계정이 있어야 합니다. 이 페이지 아래쪽의 "동의"를 클릭하면 GitHub.com [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)(“TOS”)에도 구속되기로 동의하는 것입니다. 본 계약과 TOS가 충돌하는 경우 본 계약이 적용되며, 그렇지 않은 경우 두 계약이 동시에 적용됩니다.
+   You need to have an account on GitHub.com in order to participate in the Program. By clicking “I Agree” at the bottom of this Agreement, you are also agreeing to be bound by the GitHub.com [Terms of Service](/ko/site-policy/github-terms/github-terms-of-service) (the “TOS”). In the event of a direct conflict between this Agreement and the TOS, this Agreement will control; otherwise, both agreements will apply to you concurrently.
 
-2. **프로그램 약관**
+2. **Program Terms**
 
-   GitHub는 [프로그램 혜택 및 지침](/ko/get-started/exploring-integrations/github-developer-program)(“프로그램 개요”)을 게시합니다. 예상할 수 있듯이 프로그램 개요는 수시로 바뀝니다. 이 변경 내용은 프로그램 참가자로서 귀하에게 적용되므로 변경 내용을 알려면 주기적으로 프로그램 개요를 검토할 것을 권장합니다. GitHub는 다양한 이유로 프로그램 또는 GitHub가 제공하는 혜택 일부를 변경, 일시 중단 또는 중지해야 할 수 있습니다. 귀하는 9조에 명시된 경우를 제외하고 GitHub가 귀하에 대한 책임 없이 이렇게 할 수 있음에 동의합니다.
+   We post the [Program’s benefits and guidelines](/ko/get-started/exploring-integrations/github-developer-program) (the “Program Overview”). As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 9.
 
-3. **API 라이선스**
+3. **API License**
 
-   귀하가 TOS, 본 계약, 프로그램 약관을 계속 준수하는 한 GitHub는 본 계약 기간 동안 귀하의 제품 및 서비스와 GitHub의 제품 및 서비스 간 상호 운용성 및 통합의 개발, 시연, 테스트, 지원 목적에 한해GitHub의 API([TOS](/ko/site-policy/github-terms/github-terms-of-service)에 정의)에 액세스하고 사용할 수 있는 제한적이고 전 세계적이며 비독점적이고 양도 불가능한 라이선스를 귀하에게 부여합니다.
+   So long as you remain compliant with the TOS, this Agreement, and the Program Terms, we grant You a limited, worldwide, non-exclusive, non-transferable license during the term of this Agreement to access and use our API (as defined in the [TOS](/ko/site-policy/github-terms/github-terms-of-service)) solely for the purpose of developing, demonstrating, testing and supporting interoperability and integrations between your products and services and our products and services.
 
-   귀하는 GitHub의 API를 악용하지 않기로 약속합니다. 무엇보다도 이는 GitHub의 API를 수정, 게시, 판매, 임대, 라이선싱, 유통 또는 재라이선싱하거나, GitHub의 API를 디컴파일, 디스어셈블, 리버스 엔지니어링하거나 기타 방식으로 GitHub API에서 소스 코드를 추출하려 시도하거나, GitHub의 API를 복제, 수정하거나 GitHub의 API에서 2차 저작물을 만들거나, GitHub의 API를 사용하여 제3자에게 서비스 뷰로, 애플리케이션 호스팅 또는 처리 서비스를 제공하거나, GitHub의 API를 귀하의 제품 또는 서비스와 통합 또는 기타 방식으로 결합하거나, GitHub의 API를 불법 활동 참여, 지원 또는 허용에 사용하지 않을 것이며, 다른 자가 그렇게 하도록 허가 또는 허락하지 않을 것임을 뜻합니다.
+   You promise not to do bad things with our API. Among other things, this means you won’t – and won’t allow or permit others to – modify, publish, sell, lease, license, distribute, or sublicense our API; decompile, disassemble, reverse engineer, or otherwise attempt to derive source code from our API; reproduce, modify or create derivative works from our API; use our API to provide service bureau, application hosting, or processing services to third parties; incorporate or otherwise combine or integrate our API with any of your products or services; or use our API to engage in, support, or enable any kind of illegal activity.
 
-   GitHub는 통지 여부에 관계없이 언제든지 API(또는 그 일부)에 대한 귀하의 액세스를 일시적 또는 영구적으로 수정하거나 중단할 수 있는 권리를 보유합니다. API 사용이 당시의 API와 호환되도록 할 책임은 오로지 귀하에게 있습니다. 본 계약 또는 TOS에서 명시적으로 부여한 권리 외에 GitHub는 GitHub의 API나 그 밖의 GitHub 제품 또는 서비스에 대한 어떠한 권리나 라이선스도 귀하에게 부여하지 않습니다.
+   We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the API (or any part of it) with or without notice. It’s your sole responsibility to ensure that your use of the API is compatible with the then-current API. Other than the rights we expressly give you in this Agreement or the TOS, We don’t grant you any rights or licenses to our API, or to any other GitHub products or services.
 
-4. **계정 권한 부여 서비스**
+4. **Account Authorization Services**
 
-   프로그램의 일부로 GitHub는 GitHub 플랫폼과 통합할 수 있는 애플리케이션을 만드는 기본 목적을 위해 [OAuth 2.0](/ko/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps)과 같은 계정 권한 부여 서비스를 제공할 수 있습니다. 이러한 계정 권한 부여 서비스는 애플리케이션 또는 서비스에 대한 유일한 ID 공급자로 사용되지 않습니다. GitHub는 다음의 경우 계정 권한 부여 서비스를 사용하여 모든 애플리케이션에 대한 액세스를 일시 중단할 수 있는 권한을 보유합니다. (i) 다른 애플리케이션에 비해 불균형한 양의 리소스를 사용하고 있습니다(예: 애플리케이션이 사용자가 여러 또는 “일회용” GitHub 계정을 만들도록 유도하는 경우). (ii) 애플리케이션이 플랫폼에서 호스트된 경우 [GitHub의 사용 제한 정책을 위반](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)합니다. (iii) GitHub에서 스팸 또는 인증이 없는 활동을 용이하게 하거나 장려합니다(예: 계정 생성에 대한 보상 약속). (iv) GitHub와의 스폰서쉽, 보증 또는 제휴를 제안하는 방식으로 자체 또는 해당 로그인 페이지를 표시합니다. 또는 (v) 수행하는 작업을 잘못 표현하거나 모호하게 만듭니다(예: 애플리케이션이 이 작업을 명시적으로 공개하지 않고 사용자를 대신하여 리포지토리에 별표를 표시하는 것과 같은 작업을 수행하는 경우).
+   As part of the Program, GitHub may offer Account Authorization Services, such as [OAuth 2.0](/ko/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps), for the primary purpose of creating applications that can integrate with the GitHub platform. Such Account Authorization Services are not intended to be used as the sole identity provider for your application or service. GitHub reserves the right to suspend access to any application using its Account Authorization Services that: (i) is consuming a disproportionate amount of resources compared to other applications (for example, if your application is inducing users to create multiple or “throw-away” GitHub accounts); (ii) would be in violation of [GitHub’s Acceptable Use Policies](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) if the application was hosted on our platform; (iii) facilitates or incentivizes any spammy or inauthentic activity on GitHub (for example, promising rewards for account creation); (iv) presents itself or its login page in a manner that suggests sponsorship, endorsement, or affiliation with GitHub; or (v) misrepresents or obscures what it does (for example, if an application takes any actions, like starring repositories, on behalf of a user without this action being explicitly disclosed).
 
-5. **귀하의 제품, 서비스, 통합**
+5. **Your Products, Services, and Integrations**
 
-   귀하의 제품, 서비스, 통합(귀하의 "제품"으로 통칭)은 귀하의 책임입니다. 다시 말해 귀하의 제품의 모든 측면을 개발, 운영, 유지 관리하고, 귀하의 제품에 사용되는 모든 자료가 귀하의 제품이 사용되는 모든 관할권에서 합법적이고 불법 활동을 조장하지 않도록 하며, 귀하의 제품과 함께 사용, 포함, 통합 또는 배포하는 제3자 소프트웨어를 사용 및/또는 배포하는 데 필요한 모든 권리 또는 라이선스를 획득하고, 최종 사용자 고객이 GitHub의 API 또는 GitHub의 다른 제품 및 서비스와 연계하여 운영할 때 자체적으로 운영할 경우에 귀하가 받는 것과 동일한 높은 품질의 기술 지원을 최종 사용자 고객에게 제공하는 것은 오직 귀하의 책임입니다.
+   Your products, services, and integrations (collectively, your “Products”) are your responsibility. That means that you’re solely responsible for developing, operating, and maintaining all aspects of your Products; ensuring that all materials used with or in your Products are legal in all the jurisdictions where your Products are used, and don’t promote illegal activities; obtaining any rights or licenses necessary to use and/or distribute any third-party software that you use, include, integrate, or distribute with your Products; and providing your end user customers with the same high-quality technical support for your Products when they operate in conjunction with our API or any other of our products and services as you do when they operate on their own.
 
-6. **마케팅 및 홍보**
+6. **Marketing and Publicity**
 
-   귀하와 GitHub의 통합을 마케팅 및 홍보하는 것은 GitHub와 귀하에게 모두 중요합니다. GitHub는 이것이 올바른 방법으로 이루어지기를 바라므로 몇 가지 기본적인 "해야 할 일"과 "하지 말아야 할 일"을 명확히 하는 데 도움이 되는 일부 문구를 포함했습니다.
+   Marketing and publicizing your integrations with GitHub is valuable to both of us. We want to be sure that happens in the right way, so we’ve included some language here to help clarify some basic “dos” and “don’ts”.
 
-   귀하는 GitHub(특히 모든 GitHub 제품 또는 서비스를 포함)를 대신하여 누구에게도 어떤 진술, 보증, 보장 또는 추천도 하지 않기로 동의합니다. 프로그램 약관에서 명시적으로 허용하지 않는 한 귀하는 GitHub가 귀하의 제품을 개발, 추천, 검토 또는 기타 방식으로 승인했다고 명시하거나 암시하지 않기로 약속합니다.
+   You agree that you won’t make any representations, warranties, guarantees or endorsements to anyone on behalf of GitHub (including, among other things, any GitHub products or services). Unless we specifically say it’s okay in the Program Terms, you promise not to state or imply that we have developed, endorsed, reviewed or otherwise approved of any of your Products.
 
-   귀하의 제품과 관련하여 GitHub 제품이나 서비스를 홍보 또는 광고하기로 결정하는 경우, 본 계약, 프로그램 약관, TOS, GitHub [상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy), 기타 모든 관련 GitHub 정책의 조건을 준수해야 합니다. 본 계약 및 TOS 계약조건의 적용 하에 본 계약 기간 동안 GitHub는 귀하에게 귀하의 프로그램 구성원 자격 홍보 목적에 한해 GitHub [상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)과 프로그램 약관에 명시된 바에 따라 GitHub의 상표, 서비스 마크, 로고("GitHub 마크"로 통칭)를 사용할 수 있는 제한적이고, 철회 가능하고, 전 세계적이고, 비독점적이고, 양도 불가능한 라이선스를 부여합니다.
+   If you decide to promote or publicize any of our products or services in connection with your Products, you’ll need to make sure that you abide by the terms of this Agreement, the Program Terms, the TOS, our [trademark policy](/ko/site-policy/content-removal-policies/github-trademark-policy), and any other applicable GitHub policies. Subject to the terms and conditions of this Agreement and the TOS, and during the term of this Agreement, we grant you a limited, revocable, worldwide, non-exclusive, non-transferable license to use our trademarks, service marks, and logos (collectively, the “GitHub Marks”) in accordance with our [trademark policy](/ko/site-policy/content-removal-policies/github-trademark-policy) and as specified in the Program Terms, solely for the purpose of publicizing your membership in the Program.
 
-   GitHub는 귀하와 귀하의 프로그램 참가에 대해 세상에 알리고 싶습니다. 귀하는 GitHub가 이렇게 하는 데 도움이 되도록 프로그램 홍보와 귀하의 참가를 알릴 목적에 한해 GitHub의 마케팅 자료에서 귀하의 상표, 서비스 마크, 로고("파트너 마크"로 통칭)를 사용할 수 있는 제한적이고, 철회 가능하고, 전 세계적이고, 비독점적이고, 양도 불가능한 라이선스를 GitHub에 부여합니다.
+   We want to tell the world about you, and your participation in the Program. To help us do that, you grant us a limited, revocable, worldwide, non-exclusive, non-transferable license to use your trademarks, service marks, and logos (collectively, the “Partner Marks”) in our marketing materials, solely for the purpose of promoting the Program and publicizing your participation in it.
 
-   본 계약과 TOS에 명시된 경우를 제외하고 본 계약의 어떤 조항도 일방 당사자에게 상대방의 마크에 대한 권리, 소유권, 이권을 부여하는 것으로 간주되지 않습니다. 귀하는 본 계약 기간 도중이나 이후에 다음 행위를 하지 않기로 동의합니다. (i) GitHub 마크 또는 GitHub의 GitHub 마크 등록이나 집행에 이의를 제기하거나 다른 자의 이의 제기를 돕거나 (ii) GitHub 마크와 혼동할 정도로 비슷한 상표, 서비스 마크, 로고, URL, 인터넷 도메인 이름 또는 표상을 채택, 사용, 신청 또는 등록하려 시도하거나 (iii) GitHub, GitHub 제품 또는 GitHub 서비스에 대해 제3자에게 부정적이거나 허위이거나 폄하하는 진술을 하는 행위.
+   Except as set forth in this Agreement and the TOS, nothing in this Agreement will be deemed to grant to one party any right, title or interest in or to the other party’s Marks. You agree not to, whether during or after the term of this Agreement: (i) challenge or assist others in challenging the GitHub Marks, or our registration or enforcement of the GitHub Marks; (ii) attempt to adopt, use, apply for, or register any trademark, service mark, logo, URL, Internet domain name, or symbol that is confusingly similar to the GitHub Marks; or (iii) make any negative, false, or disparaging statements (whether written or oral) to any third-party about us, our products, or our services.
 
-7. **비밀 유지, 시험판 자료**
+7. **Confidentiality; Pre-Release Materials**
 
-   프로그램에 등록된 개발자로서 귀하는 공개되지 않은 특별한 정보에 액세스하게 될 수 있습니다. 이 정보의 민감한 성격 때문에 귀하가 해당 정보를 비밀로 유지하는 것이 GitHub에게는 중요합니다.
+   As a registered developer in the Program, you may get access to special information not available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
-   귀하는 GitHub가 제공하거나 프로그램의 일환으로 액세스할 수 있는 비공개 정보는 기밀로 표시 또는 명시되어 있는지 여부에 상관없이 GitHub의 비밀 정보("비밀 정보"로 통칭)로 간주된다는 데 동의합니다. 귀하는 프로그램 참가자로서의 권한이 부여된 목적("목적")으로만 이러한 비밀 정보를 사용하고 다른 어떤 목적으로도 사용하지 않기로 동의합니다. 귀하는 GitHub의 비밀 정보의 무단 사용, 공개 또는 유포를 방지하기 위한 합리적인 예방 조치를 취해야 합니다. 귀하는 귀하의 직원 및 계약자 외의 제3자에게 비밀 정보를 공개, 공표 또는 유포하지 않으며, 귀하의 직원 및 계약자에게 공개할 때는 다음 경우에 한하기로 약속합니다. (i) 직원 및 계약자가 목적을 위해 비밀 정보를 알아야 하고, (ii) 귀하가 비밀 정보의 기밀성을 직원 및 계약자에게 알리고, (iii) 귀하는 이러한 직원 및 계약자의 작위 및 부작위에 대한 책임을 여전히 지며, (iv) GitHub는 이러한 공개를 그 밖의 방식으로 금지 또는 제한하지 않는 경우.
+   You agree that any non-public information we give you, or that you may have access to as part of the Program, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for your authorized purposes as a participant in the Program (the “Purpose”), and not for any other purpose. You should take reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third-party other than your employees and contractors, and then only to the extent that: (i) they need to know the Confidential Information for the Purpose; (ii) you make them aware of the confidential nature of the Confidential Information; (iii) you remain responsible for the acts and omissions of such employees and contractors; and (iv) we don’t otherwise prohibit or restrict such disclosure.
 
-   귀하는 GitHub 비밀 정보의 무단 공개 또는 사용이 회복 불가능한 피해와 GitHub가 정량화하기 어려울 수 있는 심각한 피해를 초래할 수 있다는 것을 이해합니다. 따라서 귀하는 GitHub가 가질 수 있는 그 밖의 권리와 구제 수단 외에 귀하가 본 계약을 준수하도록 하기 위해 즉시 금지 명령을 구할 권리가 GitHub에 있다는 데 동의합니다. 귀하가 법률, 규정 또는 관할 법원의 유효하고 구속력 있는 명령에 따라 GitHub의 비밀 정보를 공개해야 하는 경우 공개할 수 있지만 사전에 GitHub에 통지하고 이러한 공개를 제한하고 이러한 정보가 기밀로 취급되어 보호되도록 최선을 다해야 합니다.
+   You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
 
-   본 7조의 의무는 귀하가 다음을 입증할 수 있는 정보에는 적용되지 않습니다. (i) GitHub가 귀하에게 공개하기 전에 일반적으로 대중에 공개되었거나, (ii) GitHub가 귀하에게 공개하기 전에 귀하 또는 귀하의 직원 또는 계약자의 작위 또는 부작위를 통하지 않고 일반적으로 대중에 공개되었거나, (iii) GitHub가 귀하에게 공개하기 전에 귀하가 알고 있었거나, (iv) 해당 정보와 관련한 비밀 유지 의무가 없는 제3자가 귀하에게 공개했거나, (v) GitHub 또는 제3자에 대한 비밀 유지 의무를 위반하지 않고 귀하가 독자적으로 개발했거나, (vi) 권한이 부여된 GitHub 대표자 중 한 명이 서명한 서면으로 공개할 수 있는 권한을 GitHub가 귀하에게 부여한 정보.
+   The obligations in this Section 7 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third-party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third-party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
 
-   GitHub가 동영상 또는 기타 콘텐츠 형식이 포함될 수 있는 시험판 소프트웨어 또는 관련 설명서 또는 자료("시험판 자료")를 귀하에게 제공하는 경우, 귀하의 본 계약 및 TOS 계약조건 준수를 조건으로 GitHub는 시험판 자료의 설계 목적인 시스템 또는 프로그램과 조합하여 작동하도록 설계된 제품 또는 서비스 테스트 및/또는 개발을 지원할 목적에 한해 시험판 자료를 사용할 수 있는 비독점적이고 양도 불가능하며 철회 가능한 권리와 라이선스를 귀하에게 부여합니다. 시험판 자료에 별도의 라이선스 계약이 있는 경우, 귀하는 별도의 라이선스 계약이 (본 계약 또는 TOS에 포함된 추가 제한 조항에 더해) 적용된다는 데 동의합니다. 귀하는 시험판 자료를 디컴파일, 리버스 엔지니어링하거나 그 밖의 방법으로 사람이 인식 가능한 형식으로 환원하지 않기로 동의하며, 시험판 자료의 전체 또는 일부를 수정, 네트워크화, 임차, 임대, 전송, 판매 또는 대여하지 않기로 약속합니다. 귀하는 GitHub가 시험판 자료를 귀하에게 제공하거나, 시험판 자료의 업데이트, 개선 또는 수정을 귀하에게 제공하거나, 현재 또는 장래에 GitHub가 GitHub 제품 및 서비스에 하는 변경을 귀하에게 알릴 의무가 없음을 이해합니다.
+   If We give you any pre-release software or related documentation or materials, which may include videos or other forms of content (“Pre-release Materials”), then subject to your compliance with the terms and conditions of this Agreement and the TOS, we hereby grant you a nonexclusive, nontransferable, revocable right and license to use the Pre-release Materials solely to support your testing and/or development of products or services that are designed to operate in combination with the systems or programs for which the Pre-release Materials are designed. If the Pre-release Materials are accompanied by a separate license agreement, you agree that the separate license agreement (in addition to any more restrictive provisions contained in this Agreement or the TOS) will apply. You agree not to decompile, reverse engineer, disassemble, or otherwise reduce the Pre-release Materials to a human-perceivable form, and you promise not to modify, network, rent, lease, transmit, sell, or loan the Pre-release Materials, in whole or in part. You understand that we’re under no obligation to provide any Pre-release Materials to you, to provide you with updates, enhancements, or corrections to the Pre-release Materials, or to notify you of changes that we make to our products and services, now or in the future.
 
-8. **요금 및 결제**
+8. **Fees and Payment**
 
-   프로그램 참가에 따른 요금이 있을 수 있습니다. 수시로 업데이트되는 프로그램 약관에서 이러한 요금에 대해 알려드리겠습니다("프로그램 요금"). 이전에 GitHub에 결제 정보를 제공한 경우, 귀하는 GitHub가 본 계약의 일환으로 동일한 신용 카드 또는 PayPal 계정에 청구할 수 있음에 동의합니다. 그렇지 않은 경우, 유효한 결제 정보와 기타 지원 정보를 GitHub에 제공해야 합니다. 9조에 달리 명시적으로 규정한 경우를 제외하고 귀하가 프로그램을 위해 GitHub에 지불하는 금액은 환불되지 않습니다. 1조에 따라 본 계약을 해지하지 않는 한 귀하는 내년의 모든 프로그램 요금을 충당하기 위해 첫 번째 결제일로부터 1년이 되는 날짜에 GitHub가 귀하의 결제 계정에 자동 청구하는 것을 허용합니다. 모든 요금은 미국 달러화로 결제해야 하며, 과세 기관이 부과하는 모든 세금, 부담금 또는 관세는 제외됩니다(GitHub의 수입에 근거한 세금을 제외하고 모든 제세 공과금은 귀하의 책임입니다).
+   There may be fees associated with participating in the Program. We’ll tell you what those fees are in the Program Terms, as we update them from time to time (the “Program Fees”). If you gave us your payment information before, you agree that we can charge the same credit card or PayPal account as part of this Agreement. Otherwise, you’ll need to give us a valid payment account, and other supporting information. Except as otherwise expressly provided in Section 9, any payments you make to us for the Program are non-refundable. You give us permission to automatically charge your payment account on the anniversary of your first payment date to cover all of the coming year’s Program Fees, unless you terminate this Agreement first according to Section 1. All fees are due in U.S. Dollars, and are exclusive of all taxes, levies, or duties imposed by taxing authorities (you’re responsible for all of those, except for taxes based on our income).
 
-9. **기간 및 해지**
+9. **Term and Termination**
 
-   본 계약은 귀하가 "동의"를 클릭하는 날짜에 시작하여 1년 동안 계속됩니다. 일방 당사자가 현재 기간이 만료되기 최소 30일 전까지 서면으로 본 계약의 해지 의사를 통지하거나 9조에 따라 일방 당사자가 그보다 일찍 해지하지 않는 한 본 계약은 1년 연속 자동으로 갱신됩니다.
+   This Agreement begins on the date you click “Agree”, and continues for a period of one (1) year. This Agreement will automatically renew for successive one-year terms unless either party gives written notice at least thirty (30) days before the current term expires that it wants to terminate, or one of us terminates it earlier in accordance with this Section 9.
 
-   귀하 또는 GitHub는 원인 없이 사유 불문하고 상대방에게 30일 전에 서면으로 통지하여 본 계약을 해지할 수 있습니다. GitHub가 귀하의 본 계약, 프로그램 약관 또는 TOS 위반 이외의 사유로 본 계약을 해지하거나 귀하의 프로그램 액세스를 중단하는 경우, GitHub는 귀하의 유일한 구제 수단이자 이러한 해지에 대한 GitHub의 유일한 의무로서 본 계약의 현재 기간에 대해 귀하가 지불한 프로그램 요금에 비례하는 금액을 귀하에게 환불합니다. 귀하가 본 계약, 프로그램 약관 또는 TOS를 위반하는 경우, 본 계약은 통지 요건 없이 즉시 해지됩니다.
+   Either you or GitHub may terminate this Agreement for any reason, without cause, upon thirty (30) days prior written notice to the other. If we terminate this Agreement or discontinue your access to the Program for any reason other than your breach of this Agreement, the Program Terms, or the TOS, we will, as your sole remedy and our sole obligation for such termination, refund you the pro rata portion of the Program Fees you paid us for the current term of this Agreement. This Agreement will terminate immediately, without the requirement of notice, if you breach any term of this Agreement, the Program Terms, or the TOS.
 
-   본 계약의 1, 2, 3조(2항 및 3항)와 4, 5, 6조(2항 및 마지막 항), 7, 8조 및 10\~22조의 권리 및 의무는 본 계약의 해지 또는 만료 후에도 존속합니다. 본 계약의 해지 또는 만료 시 본 계약에서 GitHub가 귀하에게 부여한 모든 권리와 라이선스는 즉시 소멸하며, 귀하는 소유하거나 통제하는 GitHub의 모든 비밀 정보와 사본(전자 사본을 포함)을 반환(또는 GitHub의 요청 시 파기)하고, 이러한 요구 사항을 준수했음을 서면으로 증명합니다.
+   The rights and obligations in Sections 1, 2, 3 (second and third paragraphs), 4, 5, 6 (second and last paragraphs), 7, 8, and 10 through 22 of this Agreement will survive the termination or expiration of this Agreement. Upon termination or expiration of this Agreement all of the rights and licenses we granted you in this Agreement will immediately cease to exist, you will return (or, at our request, destroy) all of our Confidential Information and any copies (including electronic copies) which are in your possession or control, and you will certify in writing that you’ve complied with these requirements.
 
-10. **보증 및 부인**
+10. **Warranties and Disclaimers**
 
-   귀하는 GitHub에 다음을 보증합니다. (i) 본 계약을 작성하고 그 의무를 이행할 권한이 있고, (ii) 항상 GitHub의 제품 및 서비스와 GitHub의 명성, 신용, 평판에 유리하게 반영되는 방식으로 사업을 수행하며, (iii) GitHub 또는 GitHub의 제품 및 서비스에 관한 허위이거나 오도하는 진술 또는 표명을 하지 않고, (iv) GitHub(GitHub의 제품 또는 서비스를 포함하되 이에 국한되지 않음)를 위하여 의무 또는 책임을 맡거나 다른 자에게 진술, 보증, 보장 또는 추천하지 않으며, (v) GitHub가 귀하의 제품을 개발, 추천 또는 기타 방식으로 승인했다고 명시 또는 암시하지 않습니다.
+   You warrant to us that you: (i) have the authority to execute this Agreement and to perform its obligations; (ii) will conduct business in a manner that reflects favorably at all times on GitHub’s products and services and our good name, goodwill and reputation; (iii) will make no false or misleading statements or representations regarding GitHub or our products and services; (iv) will not take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on our behalf (including, without limitation, any of our products or services); and (v) will not state or imply that We have developed, endorsed, reviewed or otherwise approved of any of your Products.
 
-   프로그램 및 GitHub가 귀하에게 제공하는 API 및 비밀 정보(시험판 자료를 포함하되 이에 국한되지 않음)는 명시적이거나 묵시적인 어떠한 종류의 보증도 없이 "있는 그대로" 제공됩니다. GitHub는 구체적으로 상업성, 특정 목적에의 적합성, 비침해성에 대한 모든 묵시적 보증 또는 조건을 부인합니다. GitHub는 GitHub가 귀하에게 제공하는 서비스 또는 제품이 귀하 또는 귀하의 최종 사용자의 요구 사항을 충족한다고 보증하지 않습니다.
+   THE PROGRAM, THE API AND ANY CONFIDENTIAL INFORMATION WE GIVE YOU (INCLUDING, WITHOUT LIMITATION, THE PRE-RELEASE MATERIALS) ARE PROVIDED “AS IS”, AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE SPECIFICALLY DISCLAIM ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT ANY SERVICES OR PRODUCTS WE MAKE AVAILABLE TO YOU WILL MEET YOUR OR YOUR END USERS’ REQUIREMENTS.
 
-11. **면책**
+11. **Indemnity**
 
-   GitHub는 프로그램의 일환으로 여러 유용한 시험판 자료를 귀하에게 제공하며, 이러한 자료를 GitHub에 해가 되도록 부적절하게 사용할 수 있는 방법이 있습니다. 이 점을 명심하고, 또한 GitHub가 귀하의 프로그램 참가 방법을 제어할 수 없기 때문에, 귀하는 귀하의 프로그램 참가, 귀하의 API, GitHub 비밀 정보 또는 기타 GitHub 제품 및 서비스 사용, 귀하의 과실 또는 고의적 위법 행위, 귀하의 제품 또는 GitHub API 또는 비밀 정보를 사용하여 귀하가 개발, 설계, 홍보 또는 배포하는 통합, GitHub 또는 GitHub 제품이나 서비스와 관련한 귀하의 허위 표시 또는 귀하의 본 계약 위반으로 발생할 수 있는 모든 청구에 대해 GitHub를 면책하고 방어하며 책임을 면제하기로 동의합니다.
+   We’re giving you lots of useful pre-release stuff as part of the Program, and there are ways that you could use that stuff improperly that could cause us harm. With that in mind, and since we can’t control the ways that you participate in the Program, you agree that you will indemnify, defend and hold us harmless from and against any and all claims which may arise under or out of your participation in the Program; your use of the API, our Confidential Information, or any other GitHub products and services; your negligence or intentional misconduct; your Products, or any integrations you develop, design, promote or distribute using our API or any Confidential Information; any misrepresentations you make with respect to us, or our products or services; or your violation of any part of this Agreement.
 
-12. **책임의 제한**
+12. **Limitation of Liability**
 
-   GitHub는 어떤 경우에도 원인을 불문하고 어떠한 책임 이론에 따르건 상관없이, 계약 또는 불법 행위(생산물 책임, 무과실 책임, 과실을 포함하되 이에 국한되지 않음)에 의하건, 또는 그 밖의 이론에 따르건 관계없이 데이터 상실, 이익 상실 또는 대체 제품 또는 서비스의 조달 비용을 포함하되 이에 국한되지 않는 간접, 특별, 부수적, 결과적 또는 징벌적 또는 징계적 손해에 대해 귀하나 제3자에게 책임을 지지 않으며, 이러한 손해의 가능성을 알았거나 알았어야 하는 경우에도 마찬가지입니다. 원인을 불문하고 계약 또는 불법 행위 등 행위의 형식에 관계없이 본 계약에 기인하거나 관련하여 발생하는 GitHub의 법적 책임 총액은 어떠한 경우에도 (I) 귀하가 본 계약에 따라 GitHub에 지불한 금액 또는 (II) 500달러 중 큰 금액을 초과할 수 없습니다. 전술한 제한은 본 계약에 명시된 제한적 구제의 본질적 목적을 달성하지 못하는 경우에도 적용됩니다.
+   IN NO EVENT WILL WE BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST DATA, LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION PRODUCTS LIABILITY, STRICT LIABILITY AND NEGLIGENCE), OR ANY OTHER THEORY, AND WHETHER OR NOT WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL OUR AGGREGATE LIABILITY TO YOU ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT OR IN TORT, EXCEED THE GREATER OF (I) AMOUNTS YOU ACTUALLY PAID US UNDER THIS AGREEMENT; OR (II) FIVE HUNDRED DOLLARS ($500). THE FOREGOING LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY STATED IN THIS AGREEMENT.
 
-13. **수출 통제**
+13. **Export Control**
 
-   GitHub 비밀 정보는 미국 법률과 GitHub 비밀 정보를 획득한 관할권의 법률이 허가하는 경우를 제외하고 수출 또는 재수출할 수 없습니다. 특히 미국 수출 통제 대상 국가, 미국 재무부의 특별 지정 제재 대상국 목록에 등재된 자 또는 미국 상무부 거래 부적격자 목록 또는 부적격 법인 목록에 등재된 자에게 GitHub의 비밀 정보를 수출 또는 재수출할 수 없습니다. 프로그램에 가입하거나 GitHub 비밀 정보를 받음으로써 귀하는 이러한 국가에 위치하거나 이러한 목록에 올라 있지 않음을 진술하고 보증하는 것입니다.
+   You aren’t allowed to export or re-export any of our Confidential Information, except as authorized by United States law and the laws of the jurisdiction in which the Confidential Information was obtained. In particular, you aren’t allowed to export or re-export our Confidential Information into any U.S. embargoed countries, to anyone on the U.S. Treasury Department's list of Specially Designated Nationals, or to anyone on the U.S. Department of Commerce Denied Person's List or Entity List. By joining the Program or receiving any of our Confidential Information, you represent and warrant that you are not located in any such country or on any such list.
 
-14. **소유권**
+14. **Proprietary Rights**
 
-   귀하는 GitHub와 그 사용 허가자가 API, 시험판 자료, 기타 모든 GitHub 제품 및 서비스, 그 구성 및 조합과 관련된 모든 정보 및 데이터, 전술한 내용의 모든 수정 및 2차 저작물에 대한 권리, 소유권, 이권을 소유함에 동의합니다. 귀하는 API, 시험판 자료 또는 기타 GitHub 제품 및 서비스에 GitHub가 부착하거나 포함하는 저작권 상표권 또는 기타 재산권 고지를 제거하거나 수정하거나 가리지 않기로 동의합니다.
+   You agree that GitHub and its licensors own all right, title and interest in and to the API, the Pre-release Materials, and all other GitHub products and services; all information and data relating to their configurations and combinations; and all modifications to and derivative works of any of the foregoing. You agree not to remove, alter, cover or obfuscate any copyright or other proprietary rights notices we place on or embed in the API, the Pre-release Materials, or any other GitHub products and services.
 
-15. **정부 사용자**
+15. **Government Users**
 
-   귀하가 정부 기관인 경우 본 조가 적용됩니다. GitHub의 특정 비밀 정보는 해당하는 바에 따라 48 C.F.R. §12.212 또는 48 C.F.R. §227.7202에 사용된 용어와 같은 "상용 컴퓨터 소프트웨어"와 "상용 컴퓨터 소프트웨어 설명서"로 구성되고, 48 C.F.R. §2.101에 용어가 정의된 "상용 품목"으로 간주될 수 있습니다. 48 C.F.R. §12.212 또는 48 C.F.R. §227.7202-1\~227.7202-4에 따라 상용 컴퓨터 소프트웨어 및 상용 컴퓨터 소프트웨어 설명서는 미국 정부 최종 사용자에게 (a) 상용 품목으로만, (b) 본 계약조건에 따라 다른 모든 최종 사용자에게 부여되는 권리만 포함하여 라이선스가 허여됩니다. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
+   If you are a Government entity, this Section applies to you. Certain of our Confidential Information may be considered “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
 
-16. **독자적 개발**
+16. **Independent Development**
 
-   본 계약의 어떤 조항도 귀하의 제품과 경쟁할 수 있는 제품, 소프트웨어 또는 기술을 개발, 획득, 사용 허가, 마케팅, 홍보 또는 배포할 GitHub의 권리를 손상하지 않습니다.
+   Nothing in this Agreement will impair our right to develop, acquire, license, market, promote or distribute products, software or technologies that may compete with your Products.
 
-17. **피드백**
+17. **Feedback**
 
-   GitHub는 항상 개선하려 노력하며, 여러분의 피드백은 이런 노력에 도움이 됩니다. 프로그램 또는 GitHub 제품이나 서비스에 대한 피드백, 제안 또는 추천("피드백"으로 통칭)을 GitHub에 제공하기로 선택하는 경우, GitHub가 해당 피드백을 원하는 방식으로 제한 없이(물론 관련 특허 또는 저작권에 따라) 자유롭게 사용할 수 있음을 인정하고 동의하는 것입니다.
+   We’re always trying to improve, and your feedback will help us do that. If you choose to give us feedback, suggestions or recommendations for the Program or for our products or services (collectively, “Feedback”), you acknowledge and agree that we’re free to use that Feedback in any way we want, without restriction (subject to any applicable patents or copyrights, of course).
 
-18. **독립적 계약자**
+18. **Independent Contractors**
 
-   본 계약의 당사자는 독립적 계약자입니다. 어느 당사자도 목적을 막론하고 상대방의 직원, 대리인, 파트너, 가맹업자 또는 법적 대표로 간주되지 않으며, 어느 당사자도 상대방을 대신하여 의무 또는 책임을 생성할 수 있는 권리 또는 권한을 갖지 않습니다.
+   The parties to this Agreement are independent contractors. Neither of us will be deemed to be an employee, agent, partner, franchisor, franchisee or legal representative of the other for any purpose and neither of us will have any right, power or authority to create any obligation or responsibility on behalf of the other.
 
-19. **양도**
+19. **Assignment**
 
-   귀하는 GitHub의 사전 서면 동의 없이 법 집행 또는 기타 다른 방법으로 본 계약 또는 본 계약에 따른 권리의 전부 또는 일부를 양도 또는 이전할 수 없습니다.
+   You aren’t allowed to assign or transfer this Agreement, or any of your rights under it, in whole or in part, by operation of law or otherwise, without our prior written consent.
 
-20. **준거법 및 재판지**
+20. **Governing Law and Venue**
 
-   본 계약은 국제 사법 원칙을 고려하지 않고 캘리포니아 주 법률에 따라 해석됩니다. 본 계약에서 발생하는 모든 분쟁에는 캘리포니아 주 샌프란시스코 카운티 주 및 연방 법원의 전속 관할이 적용되며, 당사자 각자는 이곳의 인적 관할에 동의합니다.
+   This Agreement will be interpreted and construed in accordance with the laws of the State of California, without regard to conflict of law principles. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California, and each of us hereby consents to personal jurisdiction there.
 
-21. **수정계약, 권리 포기, 제3자 수혜자 없음**
+21. **Amendments; Waivers; No Third-Party Beneficiaries**
 
-   본 계약은 양 당사자가 서명한 서면에 의한 경우를 제외하고 변경될 수 없습니다. 본 계약의 조항 또는 일방 당사자의 권리 또는 본 계약에 따른 구제 수단의 포기는 서면이어야 효과가 발생합니다. 본 계약의 조건 또는 조항이 무효 또는 집행 불능으로 판결되는 경우에도 나머지 조건은 계속 유효하며 법률이 허용하는 최대 한도까지 집행 가능합니다. 각 당사자는 본 계약의 제3자 수혜자가 없음에 명시적으로 동의합니다.
+   This Agreement may not be changed, except by a writing signed by both parties. Any waiver of the provisions of this Agreement or of a party's rights or remedies under this Agreement must be in writing to be effective. If any term, condition, or provision in this Agreement is found to be invalid or unenforceable, the remaining terms will continue to be valid and enforceable to the fullest extent permitted by law. We each expressly agree that there are no third-party beneficiaries to this Agreement.
 
-22. **전면 합의**
+22. **Entire Agreement**
 
-   본 계약, TOS, 프로그램 약관은 본 계약의 주제에 관한 당사자들 간의 완전 합의를 포함하며, 서면 또는 구두에 상관없이 이전의 모든 통신, 진술, 양해, 합의를 대체합니다. 귀하의 구매 주문서, 주문 확인서 또는 귀하가 본 계약과 관련하여 GitHub에 보내는 기타 문서의 조건 또는 약관은 무효이며 효력이 없습니다.
+   This Agreement, the TOS, and the Program Terms contain the entire agreement of the parties with respect to its subject matter and supersede all prior communications, representations, understandings and agreements, whether written or oral. The terms or conditions of any of your purchase orders, acknowledgements, or other documents that you send us in connection with this Agreement will be null and void, and of no effect.
 
 {"resolvedServerColorMode":"day"}

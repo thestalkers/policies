@@ -1,20 +1,20 @@
-GitHub-Logo-Richtlinie - GitHub-Dokumentation
+GitHub Logo Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/
-* [GitHub-Logo-Richtlinie](/de/site-policy/other-site-policies/github-logo-policy)
+* [Site policy](/de/site-policy)/
+* [Other Site Policies](/de/site-policy/other-site-policies)/
+* [GitHub Logo Policy](/de/site-policy/other-site-policies/github-logo-policy)
 
-GitHub-Logo-Richtlinie
+GitHub Logo Policy
 ==========
 
-Sie können GitHub-Logos auf Ihrer Website oder in einigen Anwendungen von Drittanbietern hinzufügen. Weitere Informationen und spezifische Richtlinien zur Verwendung von Logos finden Sie auf der Seite [GitHub-Logos und Verwendung](https://github.com/logos).
+You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
 
-Sie können Octocat auch als Ihren persönlichen Avatar oder auf Ihrer Website verwenden, um auf Ihr GitHub-Konto zu verlinken, aber nicht als Logo für Ihr Unternehmen oder ein Produkt, das Sie entwickeln. GitHub hat eine umfangreiche Sammlung von Octocats im [Octodex](https://octodex.github.com/). Weitere Informationen zur Verwendung der Octocats aus dem Octodex finden Sie unter [Octodex FAQ](https://octodex.github.com/faq/).
+You can also use an octocat as your personal avatar or on your website to link to your GitHub account, but not for your company or a product you're building. GitHub has an extensive collection of octocats in the [Octodex](https://octodex.github.com/). For more information on using the octocats from the Octodex, see the [Octodex FAQ](https://octodex.github.com/faq/).
 
 {"resolvedServerColorMode":"day"}

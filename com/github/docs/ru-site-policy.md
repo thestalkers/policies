@@ -1,35 +1,35 @@
-Документация по политике сайта - Документация по GitHub
+Site policy documentation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)
+* [Site policy](/ru/site-policy)
 
-Документация по политике сайта
+Site policy documentation
 ==========
 
-[Условия GitHub](/ru/site-policy/github-terms)
+[GitHub Terms](/ru/site-policy/github-terms)
 ----------
 
-[Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+[Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)
 ----------
 
-[Политики конфиденциальности](/ru/site-policy/privacy-policies)
+[Privacy Policies](/ru/site-policy/privacy-policies)
 ----------
 
-[Другие правила сайта](/ru/site-policy/other-site-policies)
+[Other Site Policies](/ru/site-policy/other-site-policies)
 ----------
 
-[Политики удаления контента](/ru/site-policy/content-removal-policies)
+[Content Removal Policies](/ru/site-policy/content-removal-policies)
 ----------
 
-[Политики безопасности](/ru/site-policy/security-policies)
+[Security Policies](/ru/site-policy/security-policies)
 ----------
 
-[Политика компании GitHub](/ru/site-policy/github-company-policies)
+[GitHub Company Policies](/ru/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

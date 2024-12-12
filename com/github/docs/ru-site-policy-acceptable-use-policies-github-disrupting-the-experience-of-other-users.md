@@ -1,31 +1,31 @@
-GitHub мешает работе других пользователей - Документация по GitHub
+GitHub Disrupting the Experience of Other Users - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Помехи работе других пользователей](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [Site policy](/ru/site-policy)/
+* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
+* [Disrupting the Experience of Other Users](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-GitHub мешает работе других пользователей
+GitHub Disrupting the Experience of Other Users
 ==========
 
-Быть частью сообщества означает осознавать, как ваше поведение влияет на других, и участвовать в осмысленном и продуктивном взаимодействии с людьми и платформой, на которую они полагаются.
+Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on.
 
-Мы не допускаем поведения, которое существенно или постоянно мешает работе других пользователей. Сюда входит следующее:
+We do not allow behavior that significantly or continually disrupts the experience of other users. This includes:
 
-* Размещение комментариев не по теме
-* Открытие пустых или бессмысленных задач или запросов на включение
-* Запуск и/или подписка на учетные записи или репозитории в большом объеме за короткий период времени
-* Создание бессмысленных или неуместных обзоров кода
-* Взаимодействие с функциями платформы таким образом, что это приводит к чрезмерным уведомлениям других пользователей.
-* Использование любой другой функции платформы таким образом, который создает сбои
+* Posting off-topic comments
+* Opening empty or meaningless issues or pull requests
+* Starring and/or following accounts or repositories in large volume in a short period of time
+* Creating nonsensical or irrelevant code reviews
+* Engaging with platform features in a way that causes excessive notifications for other users
+* Using any other platform feature in a way that creates disruption
 
-Хотя мы призываем сопровождающих модерировать свои собственные проекты на индивидуальной основе, персонал GitHub может принять дополнительные ограничительные меры в отношении учетных записей, которые ведут себя подобным образом.
+While we encourage maintainers to moderate their own projects on an individual basis, GitHub staff may take further restrictive action against accounts that are engaging in these types of behaviors.
 
-Обратите внимание, что вышеуказанное поведение может также нарушать другие ограничения в нашей [Политике допустимого использования](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies). Например, в зависимости от характера и тяжести деятельности она может повышаться до уровня [издевательства и домогательства](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment).
+Please note that the above conduct may also violate other restrictions in our [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, depending on the nature and severity of the activity, it may rise to the level of [bullying and harassment](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 {"resolvedServerColorMode":"day"}

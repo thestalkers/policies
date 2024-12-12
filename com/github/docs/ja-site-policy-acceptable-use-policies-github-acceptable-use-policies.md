@@ -1,157 +1,157 @@
-GitHub 利用規約 - GitHub Docs
+GitHub Acceptable Use Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Site policy](/ja/site-policy)/
+* [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies)/
+* [GitHub Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-GitHub 利用規約
+GitHub Acceptable Use Policies
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [1.法令の遵守](#1-compliance-with-laws-and-regulations)
-* [2.ユーザーの安全性](#2-user-safety)
-* [3.知的財産権、真正性、および個人情報](#3-intellectual-property-authenticity-and-private-information)
-* [4.GitHub における迷惑メールおよび不正なアクティビティ](#4-spam-and-inauthentic-activity-on-github)
-* [5.サイトのアクセスと安全性](#5-site-access-and-safety)
-* [6.サービス利用の制限](#6-services-usage-limits)
-* [7.情報使用の制限](#7-information-usage-restrictions)
-* [8.プライバシー](#8-privacy)
-* [9.過剰な帯域の使用](#9-excessive-bandwidth-use)
-* [10. GitHub での広告](#10-advertising-on-github)
-* [11.ユーザーの保護](#11-user-protection)
+* [1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
+* [2. User Safety](#2-user-safety)
+* [3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
+* [4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
+* [5. Site Access and Safety](#5-site-access-and-safety)
+* [6. Services Usage Limits](#6-services-usage-limits)
+* [7. Information Usage Restrictions](#7-information-usage-restrictions)
+* [8. Privacy](#8-privacy)
+* [9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
+* [10. Advertising on GitHub](#10-advertising-on-github)
+* [11. User Protection](#11-user-protection)
 
-**要約:** *当社は、世界各国からの参加のあるさまざまな共同プロジェクトをホストしており、そのコラボレーションは、ユーザーが誠実に協力できた場合にのみ成立します。お客様は、本サービスを使用する場合、ユーザーの安全、知的財産権、プライバシー、真正性、およびその他の制限に関する、GitHub のコンテンツおよび行為についての制限を含む、当社の利用規約を遵守しなければなりません。要約すれば、お互いのことを思いやりましょう、ということです。*
+**Short version:** *We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other.*
 
-使用される大文字の用語のうち、これらの許容可能な使用ポリシーで定義されていないものには、[GitHub サービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)または GitHub 顧客契約、[GitHub 企業利用規約](/ja/site-policy/github-terms/github-corporate-terms-of-service)、その他の GitHub の一般契約、または Microsoft ボリューム ライセンス契約という、お客様との主な契約で割り当てられた意味があります。 企業向け一般サービス使用条件が適用されるお客様については、「あなた」は「お客様」または「ユーザー」を指します。 「私たち」または「当社」は、「GitHub」を指します。
+Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in your main agreement with us — the [GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) or GitHub Customer Agreement, or the [GitHub Corporate Terms of Service](/ja/site-policy/github-terms/github-corporate-terms-of-service) or other legacy GitHub contract, or a Microsoft volume licensing agreement. For customers subject to the legacy Corporate Terms of Service, "you" and "your" refer to "Customer" or "Users". "We", "us", and "our" refer to "GitHub".
 
-[1.法令の遵守](#1-compliance-with-laws-and-regulations)
+[1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
 ----------
 
-お客様は、本サービスを利用するにあたり、すべての適用法、規制、および当社の定めるすべての利用規約を遵守する責任を負います。 これらのポリシーは随時更新される可能性があり、以下に示します。
+You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below.
 
-[2.ユーザーの安全性](#2-user-safety)
+[2. User Safety](#2-user-safety)
 ----------
 
-GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
+We do not allow content or activity on GitHub that:
 
-* 非合法、または非合法行為を促進するもの、
+* is unlawful or promotes unlawful activities;
 
-* [性的にわいせつであるもの](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)、または性的な利用または乱用に関連するもの (未成年を含む)、
+* is [sexually obscene](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content) or relates to sexual exploitation or abuse, including of minors;
 
-* 中傷、名誉毀損、または詐欺的なもの、
+* is libelous, defamatory, or fraudulent;
 
-* 個人やグループを[差別または罵倒するもの](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)、
+* is [discriminatory or abusive](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination) toward any individual or group;
 
-* [虚偽、不正確、または意図的に欺瞞的な情報](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)、および公益 (健康、安全、選挙の整合性、市民参加を含む) に悪影響を及ぼす可能性があるもの、
+* is [false, inaccurate, or intentionally deceptive information](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation) and likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
 
-* 当社の従業員、役員、および代理人、または他のユーザーを含む、他の個人またはグループに対する[嫌がらせまたは罵倒](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)、
+* [harasses or abuses](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment) another individual or group, including our employees, officers, and agents, or other users;
 
-* 個人またはグループに対する[脅迫または暴力の誘発](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content) (特にその人格に基づくもの)、
+* [threatens or incites violence](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content) toward any individual or group, especially on the basis of who they are;
 
-* [根拠のない表現または暴力の美化](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content) (暴力の映像を含む)、または、
+* [gratuitously depicts or glorifies violence](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content), including violent images; or
 
-* 主題からずれているもの、または著しくまたは反復的に[他のユーザーのエクスペリエンスを妨害する](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)方法でのプラットフォーム機能とのやり取り。
+* is off-topic, or interacts with platform features in a way that significantly or repeatedly [disrupts the experience of other users](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users).
 
-[3.知的財産権、真正性、および個人情報](#3-intellectual-property-authenticity-and-private-information)
+[3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
 ----------
 
-GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
+We do not allow content or activity on GitHub that:
 
-* 他者の財産権 (特許、商標、営業秘密、著作権、肖像権、またはその他の権利を含む) を侵害するもの、
+* infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right;
 
-* 無許可の製品ライセンス キー、無許可の製品ライセンス キーを生成するためのソフトウェア、または製品ライセンス キーの確認を免れるためのソフトウェアを不法に共有するもの (無料ライセンスの試行期間以後の延長を含む)、
+* unlawfully shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period;
 
-* 当社の従業員または担当者を含む、[個人もしくは法人になりすますもの](/ja/site-policy/acceptable-use-policies/github-impersonation) (GitHub との虚偽の関連付け、または自分の身元またはサイトの目的の詐欺的な不当表示によるものを含む)、
+* [impersonates any person or entity](/ja/site-policy/acceptable-use-policies/github-impersonation), including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
 
-* [第三者のプライバシーを侵害するもの](/ja/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) (同意なしに他者の個人的な情報を投稿することなど)。
+* [violates the privacy of any third party](/ja/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy), such as by posting another person's personal information without consent.
 
-[4.GitHub における迷惑メールおよび不正なアクティビティ](#4-spam-and-inauthentic-activity-on-github)
+[4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
 ----------
 
-GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
+We do not allow content or activity on GitHub that is:
 
-* 次のような、自動化された過度の一括アクティビティ、および組織的な不正なアクティビティ
-  * 迷惑メール送信
-  * 暗号通貨マイニング、
+* automated excessive bulk activity and coordinated inauthentic activity, such as
+  * spamming
+  * cryptocurrency mining;
 
-* GitHub の条件およびポリシーで禁止されている、プロモーションおよび広告のための一括配布、
-* 偽のアカウント、自動化された不正なアクティビティなどの、不正なやり取り、
-* 自動化された星マーク付け、フォローなどの、ランキング乱用、
-* 不正なアクティビティの拡散を目的とする、2 次市場への参加の作成、
-* 他のプラットフォームでの不正使用の伝播のための、プラットフォームとしての GitHub の使用、
-* フィッシングまたはフィッシングの試み、
-* 自動化手段を介して当社のサーバーに不当な負荷を与えるため、または、Get-Rich-Quick スキームなど、当社のサーバーを介して任意の形態の未承認の広告または勧誘文を送るために、任意の形態の自動化された過度の一括アクティビティに当社のサーバーを使用するもの、
-* 暗号通貨のエアドロップ、トークン、クレジット、ギフト、またはその他の景品などの報酬によってインセンティブを与える (または報酬を使用して真正ではないエンゲージメントでインセンティブを与える) もの。
+* bulk distribution of promotions and advertising prohibited by GitHub terms and policies;
+* inauthentic interactions, such as fake accounts and automated inauthentic activity;
+* rank abuse, such as automated starring or following;
+* creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity;
+* using GitHub as a platform for propagating abuse on other platforms;
+* phishing or attempted phishing; or
+* using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
+* incentivized by (or incentivizes inauthentic engagement with) rewards such as cryptocurrency airdrops, tokens, credits, gifts or other give-aways.
 
-[5.サイトのアクセスと安全性](#5-site-access-and-safety)
+[5. Site Access and Safety](#5-site-access-and-safety)
 ----------
 
-GitHub においては、次のようなコンテンツまたはアクティビティを禁じます。
+We do not allow content or activity on GitHub that:
 
-* 不正使用が発生する前に黙示的にも明示的にもデュアルユース目的であることを示さず、当社プラットフォームを悪意ある実行ファイルを配信したり、サービス拒否攻撃を組織したり、コマンド アンド コントロール サーバーを管理したりといった攻撃インフラストラクチャとして使用するなど、技術的な危害を及ぼす[非合法な能動的攻撃やマルウェア キャンペーン](/ja/site-policy/acceptable-use-policies/github-active-malware-or-exploits)を直接的に支援するもの、
-* サービス、デバイス、データ、アカウント、またはネットワークに対する妨害もしくは妨害の試み、または未承認のアクセス権取得もしくは取得の試みのために、当社のサーバーを使用するもの。 [GitHub Bug Bounty プログラム](https://bounty.github.com)などのバグ報奨金プログラムで許可されている活動は「承認されていない」とは見なされませんが、バグ報奨金プログラムでその活動が承認されている組織のみが影響を受けるようにしなければならないことに注意してください。
+* directly supports [unlawful active attack or malware campaigns](/ja/site-policy/acceptable-use-policies/github-active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
+* uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized,” but must only affect the organization whose bug bounty program authorized the activity.
 
-[6.サービス利用の制限](#6-services-usage-limits)
+[6. Services Usage Limits](#6-services-usage-limits)
 ----------
 
-当社が書面により明示的に許可する場合を除き、本サービスのいずれか一部、本サービスの使用、または本サービスへのアクセスを複製、複写、コピー、販売、再販売、または不正利用してはなりません。
+You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
 
-[7.情報使用の制限](#7-information-usage-restrictions)
+[7. Information Usage Restrictions](#7-information-usage-restrictions)
 ----------
 
-スクレイピング、API を通じた収集、その他のいずれの手段においてであれ、お客様は当社のサービスから取得した情報を、以下の理由で使用することができます。
+You may use information from our Service for the following reasons, regardless of whether the information was scraped, collected through our API, or obtained otherwise:
 
-* リサーチャーは、リサーチ成果の発表が[オープン アクセス](https://en.wikipedia.org/wiki/Open_access)となる場合にのみ、公開されている非個人情報を本サービスからリサーチ目的で使用できます。
-* アーキビストは、本サービスの公開情報を保存の目的で利用できます。
+* Researchers may use public, non-personal information from the Service for research purposes, only if any publications resulting from that research are [open access](https://en.wikipedia.org/wiki/Open_access).
+* Archivists may use public information from the Service for archival purposes.
 
-スクレイピングとは、ボットやウェブクローラーなどの自動的な処理により、当社のサービスから情報を抽出することを指します。 スクレイピングは、API を介した情報の収集を指すものではありません。 当社の API 規約については、[サービス使用条件](/ja/site-policy/github-terms/github-terms-of-service#h-api-terms)のセクション H を参照してください。
+Scraping refers to extracting information from our Service via an automated process, such as a bot or webcrawler. Scraping does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](/ja/site-policy/github-terms/github-terms-of-service#h-api-terms) for our API Terms.
 
-ユーザーに対して未承諾メールを送信する、人事採用担当者、ヘッドハンター、求人掲示板などに個人情報を販売するといった目的を含め、迷惑メール送信目的で本サービスから取得 (スクレイピング、API を介した情報収集、その他の手段による取得) した情報を利用することはできません。
+You may not use information from the Service (whether scraped, collected through our API, or obtained otherwise) for spamming purposes, including for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards.
 
-本サービスから収集したデータの利用は、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に従わなければなりません。
+Your use of information from the Service must comply with the [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement).
 
-[8.プライバシー](#8-privacy)
+[8. Privacy](#8-privacy)
 ----------
 
-個人情報の不正使用は禁じられています。
+Misuse of personal information is prohibited.
 
-本サービスからデータを収集するあらゆる個人、法人、またはサービスは、特に個人情報の収集に関して、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に従わなければなりません。 本サービスから何らかの個人情報を収集する場合、お客様はユーザーが承認した目的においてのみ個人情報を利用することに同意するものとします。 お客様は、本サービスから収集した、あらゆる個人情報を合理的に保護することに同意するものとし、当社やその他ユーザーからの苦情、削除要求、および「連絡拒否」要求に速やかに対応するものとします。
+Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
 
-[9.過剰な帯域の使用](#9-excessive-bandwidth-use)
+[9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
 ----------
 
-本サービスの帯域制限は、利用する機能によって異なります。 帯域の利用が、同等の機能の他のユーザーと比較して過剰であると当社が判断した場合、帯域の消費を抑えられるまで、当社はお客様の「アカウント」を停止するか、ファイルのホスティングを抑制するなどをしてアクティビティを制限する権利を留保します。 また当社は、当社のインフラストラクチャに過度の負荷をかけていると判断するリポジトリを、事前通知を行った後に削除する権利を留保します。 リポジトリのオブジェクト ストレージの許可される使用に関するガイダンスについては、「[GitHub での大きいファイルについて](/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github)」を参照してください。 特定機能の帯域制限に関する詳しい情報については、[GitHub の追加の製品使用条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)を参照してください。
+The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. We also reserve the right—after providing advance notice—to delete repositories that we determine to be placing undue strain on our infrastructure. For guidance on acceptable use of object storage in repositories, refer to "[About large files on GitHub](/ja/repositories/working-with-files/managing-large-files/about-large-files-on-github)". For more details on specific features' bandwidth limitations, see the [GitHub Additional Product Terms](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-[10. GitHub での広告](#10-advertising-on-github)
+[10. Advertising on GitHub](#10-advertising-on-github)
 ----------
 
-**要約:** *基本的に、当社は GitHub の広告としての利用を禁止していません。しかし、GitHub が迷惑メールの温床にならないよう、当社はユーザーが特定の制限に従うことを期待します。そのような事態は誰も望まないからです。*
+**Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
 
-当社は、お客様が支持者の名前またはロゴをアカウントに掲載することによって自身のコンテンツのプロモーションを行いたい場合があることを理解していますが、アカウント内またはアカウントを通して本サービスへと投稿されるコンテンツの主な目的が広告またはプロモーション活動であってはなりません。 これには、Pages、Packages、リポジトリ、および本サービスのその他一切の部分内か、またはこれを通じて投稿されるコンテンツが含まれます。 お客様のアカウントに関連する README ドキュメントまたはプロジェクト説明セクションに、静止画像、リンク、広告文を記載することはできますが、それは GitHub でホストしているプロジェクトに関連するものでなければなりません。 収益目的または過度の一括コンテンツをイシューに投稿するなど、他のユーザーのアカウントで広告を行うことはできません。
+While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. This includes Content posted in or through Pages, Packages, repositories, and all other parts of the Service. You may include static images, links, and promotional text in the README documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitHub. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
 
-法的に、または当社の[サービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)または[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)で禁じられているコンテンツまたはアクティビティのプロモーションまたは配布を行うことはできません。これには、プロモーションに関する、自動化された過度の一括アクティビティ (迷惑メール送信など)、Get-Rich-Quick スキーム、および不当表示または詐欺が含まれます。
+You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) or [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
 
-アカウントに何らかの販売促進資料を投稿することを決めた場合、お客様はすべての適用される法令従う責任を単独で負うものとします。この法令には、「推奨・証言に関する米国連邦取引委員会のガイドライン」が含まれますが、それに限定されません。 当社は、GitHub の何らかの規約またはポリシーに違反すると当社が独自に裁量した、一切の販売促進資料または広告を削除する権利を留保します。
+If you decide to post any promotional materials in your Account, you are solely responsible for complying with all applicable laws and regulations, including without limitation the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials. We reserve the right to remove any promotional materials or advertisements that, in our sole discretion, violate any GitHub terms or policies.
 
-[11.ユーザーの保護](#11-user-protection)
+[11. User Protection](#11-user-protection)
 ----------
 
-そ他のユーザーを著しく害する行動をしてはなりません。
+You must not engage in activity that significantly harms other users.
 
-当社は、当社のポリシーを解釈し、ユーザー全体を保護するために紛争を解決します。
+We will interpret our policies and resolve disputes in favor of protecting users as a whole.
 
 ---
 
-**強制執行。** GitHub は、アカウントの停止、アカウントの[終了](/ja/site-policy/github-terms/github-terms-of-service#3-github-may-terminate)、コンテンツの[削除](/ja/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content)など、これらのポリシーの違反に対応するために[措置を講じる](/ja/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)完全な裁量権を保持します。 また、何かまたは何ものかがお客様の感情を害した場合の措置については、[コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)をご覧ください。
+**Enforcement.** GitHub retains full discretion to [take action](/ja/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/ja/site-policy/github-terms/github-terms-of-service#3-github-may-terminate), or [removal](/ja/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content) of content. Please also see our [Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines) for actions you can take if something or someone offends you.
 
-**復活および異議申し立て。** コンテンツまたはアカウントが無効化または制限されており、お客様が復活を求めている場合、または異議申し立てを希望する場合は、[異議申し立ておよび復活ページ](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を参照してプロセスに関する情報を確認し、[異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)を使用して要求を送信してください。
+**Reinstatement and appeal.** If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
 
 {"resolvedServerColorMode":"day"}

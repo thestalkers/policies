@@ -1,89 +1,89 @@
-Заявление GitHub о борьбе со взяточничеством - Документация по GitHub
+GitHub Anti-Bribery Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика компании GitHub](/ru/site-policy/github-company-policies)/
-* [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
+* [Site policy](/ru/site-policy)/
+* [GitHub Company Policies](/ru/site-policy/github-company-policies)/
+* [GitHub Anti-Bribery Statement](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 
-Заявление GitHub о борьбе со взяточничеством
+GitHub Anti-Bribery Statement
 ==========
 
-В этой статье
+In this article
 ----------
 
-* [Политика GitHub, запрещающая взяточничество](#github-policies-prohibiting-bribery)
-* [Обучение для наших сотрудников](#training-for-our-employees)
-* [Привлечение наших партнеров](#engaging-our-partners)
+* [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
+* [Training for our employees](#training-for-our-employees)
+* [Engaging our Partners](#engaging-our-partners)
 
-GitHub поддерживает нашу приверженность этическим методам ведения бизнеса, в том числе запрещая взяточничество и коррупцию. Как объясняет [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption), есть следующие аспекты негативного влияния коррупции на общество:
+GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
 
-* **политический**, создающий серьезное препятствие для демократии и верховенства права
-* **экономический**, истощающий национальное богатство
-* **социальный**, подрывающий доверие людей к политическому обществу, институтам и лидерам
-* **экологический**, способствующий несоблюдению экологических законов и правил.
+* **political**, by posing a major obstacle to democracy and the rule of law
+* **economic**, by depleting national wealth
+* **social**, by undermining people’s trust in political society, institutions, and leaders
+* **environmental**, by facilitating non-enforcement of environmental laws and regulations.
 
-[По данным Всемирного банка](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) на 2017 год, предприятия и лица платят примерно 1,5 трлн. долларов взяток ежегодно.
+According to the [World Bank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
 
-[Политика GitHub, запрещающая взяточничество](#github-policies-prohibiting-bribery)
+[GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
 ----------
 
-GitHub четко формулирует наши обязательства по борьбе со взяточничеством в ряде политик компании. Как часть семейства Microsoft, GitHub также придерживается антикоррупционной политики Microsoft, которая распространяется на всех сотрудников и подрядчиков GitHub, в дополнение к политикам, описанным здесь.
+GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
 
-**Моральный кодекс** GitHub запрещает сотрудникам и подрядчикам участвовать или способствовать взяточничеству или коррупции, а также устанавливает требования к ведению учета:
-
->
->
-> Вы никогда не должны платить, предлагать оплату, обещать заплатить, побуждать, принимать или разрешать выплату чего-либо ценного кому бы то ни было, в том числе лицам, занимающим властные или служебные позиции, например государственным служащим, или в коммерческих сделках — для получения или сохранения бизнеса или получения каких-либо других неправомерных преимуществ для GitHub или Microsoft. Вы также не должны выпрашивать или принимать взятки, откаты или любые другие неправомерные платежи наличными. … [Сотрудники GitHub] обязаны вести точный и достоверный учет всех транзакций, связанных с любыми расходами, сделанными от имени GitHub, например, сохраняя квитанции и предоставляя точное описание своих расходов, или любых других транзакций, связанных с отчуждением или передачей активов GitHub. Такие действия требуются в соответствии с Законом США о противодействии коррупции за рубежом, Законом Великобритании о борьбе со взяточничеством 2010 года и антикоррупционными законами других юрисдикций, в которых GitHub ведет бизнес, а также на основании правильности действий.
->
->
-
-Этический кодекс GitHub подробно описывает действия в определенных ситуациях, включая подарки, путешествия и развлечения; содействие платежам; благотворительные пожертвования; работу; работу с представителями, а также то, кто считается государственным служащим.
-
-Стандарты поведения GitHub запрещают:
+GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
 
 >
 >
-> Подкуп государственных чиновников или других лиц с целью получения несправедливого преимущества, а также получение взяток от кого бы то ни было.
+> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
 >
 >
 
-**Политика в отношении подарков и развлечений** GitHub объясняет, что взяточничество не допускается в связи с поездками или развлечениями, и приводит примеры, иллюстрирующие неправомерное поведение. Политика описывает надлежащие и ненадлежащие подарки, расходы на поездки и представительские расходы; корпоративные процессы вручения подарков директорами, должностными лицами, сотрудниками и агентами GitHub, а также требования к ведению учета, штрафы; и сообщения о нарушениях. Он включает четкие денежные пороги для подарков, а также ежегодные ограничения с некоторыми исключениями для подарков, одобренных соответствующим руководством. Политика понятна и легко доступна для сотрудников и подрядчиков GitHub.
+GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
 
-[Обучение для наших сотрудников](#training-for-our-employees)
+GitHub's Standards of Conduct prohibit:
+
+>
+>
+> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+>
+>
+
+GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permitted in connection with travel or entertainment, and provides examples to illustrate improper conduct. The policy describes proper and improper gifts, travel, and entertainment expenses; company processes for gift-giving by GitHub’s directors, officers, employees, and agents and requirements for record-keeping, penalties; and reporting of violations. It includes clear monetary thresholds for gifts along with annual limitations, with limited exceptions for gifts approved by appropriate management. The policy is clear and easily accessible to GitHub employees and contractors.
+
+[Training for our employees](#training-for-our-employees)
 ----------
 
-Сотрудники GitHub обязаны пройти обучение по вопросам коррупции, включая взяточничество. Мы также проводим дополнительное обучение для особенно важных людей и команд, таких как наш отдел продаж. На тренинге объясняются соответствующие элементы Закона США о борьбе с коррупцией за рубежом и Великобритании. о борьбе со взяточничеством 2010 года. Например,
+GitHub employees are required to participate in training on corruption, including bribery. We also provide additional training for particularly relevant people and teams, such as our sales team. The training explains relevant elements of the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010. For example,
 
-* определение и структурные последствия коррупции
-* кто застрахован, в том числе
-  * государственные служащие или другие лица, наделенные властью
-  * третьи лица
+* definition and structural effects of corruption
+* who is covered, including
+  * public officials or others in a position of power
+  * third parties
 
-* какой вид деятельности охватывается, в том числе
-  * деньги, подарки, путешествия и развлечения
-  * платежи за упрощение формальностей
-  * благотворительные взносы и спонсорство
+* what kind of activity is covered, including
+  * cash, gifts, travel, and entertainment
+  * facilitation payments
+  * charitable contributions and sponsorship
 
-* с какой целью, в том числе
-  * намерение
-  * неправомерное преимущество или влияние
+* for what purpose, including
+  * intent
+  * improper advantage or influence
 
-* комплексная проверка и красные флажки
-* требования к ведению учета
+* due diligence and red flags
+* record-keeping requirements
 
-Кроме того, обучение охватывает внутреннюю политику GitHub, связанную с борьбой с коррупцией и взяточничеством, в том числе нашу политику отказа от ответных мер (информаторов).
+In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
 
-В то время как FCPA США ориентировано на взаимодействие с государственными чиновниками, Великобритания Закон о взяточничестве шире и распространяется на взяточничество любого человека, независимо от того, является ли он государственным служащим. Оба закона могут распространяться на действия GitHub в других частях земного шара. Политика GitHub запрещает давать взятки кому бы то ни было в любой точке мира.
+While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
 
-[Привлечение наших партнеров](#engaging-our-partners)
+[Engaging our Partners](#engaging-our-partners)
 ----------
 
-* Стандарт **соглашений о перепродаже с торговыми партнерами** GitHub включает обязательные антикоррупционные положения. В дальнейшем GitHub теперь требует от наших торговых партнеров соблюдения этого Заявления о борьбе с коррупцией.
-* Забегая вперед, GitHub в **контрактах с поставщиками** теперь должно содержаться обязательство соблюдать Кодекс поведения поставщиков Microsoft или настоящее Заявление о борьбе с коррупцией.
+* GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
+* Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
 
 {"resolvedServerColorMode":"day"}

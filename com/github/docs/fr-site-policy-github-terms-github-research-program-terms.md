@@ -1,96 +1,96 @@
-Conditions du programme de recherche GitHub - Documentation GitHub
+GitHub Research Program Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Conditions du programme de recherche GitHub](/fr/site-policy/github-terms/github-research-program-terms)
+* [Site policy](/fr/site-policy)/
+* [GitHub Terms](/fr/site-policy/github-terms)/
+* [GitHub Research Program Terms](/fr/site-policy/github-terms/github-research-program-terms)
 
-Conditions du programme de recherche GitHub
+GitHub Research Program Terms
 ==========
 
-Dans cet article
+In this article
 ----------
 
-* [A. Vos Commentaires](#a-your-feedback)
-* [B. Confidentialité](#b-confidentiality)
-* [C. Droits réservés](#c-reservation-of-rights)
-* [D. Confidentialité](#d-privacy)
-* [E. Conditions relatives aux Services et Logiciels GitHub](#e-github-services-and-software-terms)
-* [F. Exclusion de garantie](#f-disclaimer-of-warranties)
-* [G. Limitation de responsabilité.](#g-limitation-of-liability)
-* [H. Dispositions diverses](#h-miscellaneous)
+* [A. Your Feedback](#a-your-feedback)
+* [B. Confidentiality](#b-confidentiality)
+* [C. Reservation of Rights](#c-reservation-of-rights)
+* [D. Privacy](#d-privacy)
+* [E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
+* [F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
+* [G. Limitation of Liability](#g-limitation-of-liability)
+* [H. Miscellaneous](#h-miscellaneous)
 
-Bienvenue dans le programme de recherche GitHub (le « Programme ») ! Pour participer, nous aurons besoin que vous acceptiez un ensemble spécial de conditions, l'accord du programme de recherche GitHub ("Accord »).
+Welcome to the GitHub Research Program (the "Program")! To participate, we’ll need you to agree to a special set of terms, the GitHub Research Program Agreement (“Agreement”).
 
-Cet Accord est un accord légal entre vous ("vous », « votre ») et GitHub, Inc. ("GitHub », « nous » ou « nous »). Assurez-vous de lire attentivement cet accord - vous ne pouvez être un participant au programme que si vous acceptez tous les termes de cet accord. En participant au programme de quelque manière que ce soit - par exemple, en accédant à des informations sur les produits ou services GitHub qui ne sont pas encore disponibles au grand public - vous acceptez d'être lié par tous les termes du présent accord.
+This Agreement is a legal agreement between you (“you”, "your") and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully – you can only be a Program participant if you accept all the terms of this Agreement. By participating in the Program in any way – for example, by accessing information about GitHub products or services that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement.
 
-[A. Vos Commentaires](#a-your-feedback)
+[A. Your Feedback](#a-your-feedback)
 ----------
 
-Nous essayons toujours d'améliorer nos produits et services, et vos commentaires en tant que participant au programme nous aideront à le faire. Si vous choisissez de nous donner des idées, du savoir-faire, des algorithmes, des contributions de code, des suggestions, des demandes d'amélioration, des recommandations ou tout autre commentaire sur nos produits ou services via le programme (collectivement, « Commentaires »), nous avons besoin des droits légaux d'utiliser et d'analyser ces informations à ces fins. En jargon juridique, cela signifie que vous accordez à GitHub une licence gratuite, entièrement payée, mondiale, transférable, sous-licenciable, irrévocable et perpétuelle pour mettre en œuvre, utiliser, modifier, exploiter commercialement et/ou incorporer les commentaires dans nos produits, services., et documentation.
+We’re always trying to improve our products and services, and your feedback as a Program participant will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services through the Program (collectively, “Feedback”), then we need the legal rights to use and analyze that information for those purposes. In legalese, that means you grant GitHub a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
-[B. Confidentialité](#b-confidentiality)
+[B. Confidentiality](#b-confidentiality)
 ----------
 
-GitHub peut vous donner accès à des informations spéciales qui ne sont pas disponibles dans le reste du monde dans le but de nous faire part de vos commentaires via le programme (l'"Objectif »). En raison de la nature sensible de ces informations, il est important pour nous de veiller à ce que vous gardiez ces informations secrètes.
+GitHub may provide you with access to special information that isn’t available to the rest of the world for the purpose of providing feedback to us through the Program (the "Purpose"). Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
-Vous acceptez que toute information non publique que nous partageons avec vous ou à laquelle vous pourriez avoir accès en tant que participant au Programme sera considérée comme une information confidentielle de GitHub (collectivement, les « Informations confidentielles »), qu'elles soient marquées ou identifiées comme telles. Vous acceptez de n'utiliser ces informations confidentielles qu'aux fins indiquées ci-dessus, et à aucune autre fin. Vous devez utiliser le même degré de soin que vous le feriez avec vos informations confidentielles, mais pas moins que des précautions raisonnables pour empêcher toute utilisation, divulgation, publication ou diffusion non autorisée de nos informations confidentielles. Vous vous engagez à ne pas divulguer, publier ou diffuser des informations confidentielles à des tiers.
+You agree that any non-public information we share with you or that you may have access to as a Program participant will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the Purpose stated above, and not for any other purpose. You should use the same degree of care as you would with your confidential information but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party.
 
-Vous comprenez que la divulgation ou l'utilisation non autorisée de nos informations confidentielles pourrait nous causer un préjudice irréparable et un préjudice important qui pourrait être difficile à quantifier pour nous. En conséquence, vous acceptez que nous ayons le droit de demander une injonction immédiate pour nous assurer que vous respectez le présent accord, en plus de tous les autres droits et recours dont nous pourrions disposer. Si vous êtes tenu par la loi, la réglementation ou une ordonnance exécutoire valide d'un tribunal compétent de divulguer nos informations confidentielles, vous pouvez le faire, mais uniquement si vous nous en informez au préalable et faites de votre mieux pour limiter cette divulgation et pour demander un traitement confidentiel et protecteur de ces informations.
+You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
 
-Les obligations de la présente Section 2 ne s'appliquent pas aux informations dont vous pouvez prouver : (i) qu'elles étaient généralement disponibles au public avant que nous ne vous les divulguions ; (ii) qu'elles étaient devenues généralement disponibles au public après que nous vous les avions divulguées, sans action ou inaction de votre part, ou de la part de vos employés ou fournisseurs ; (iii) que vous en aviez connaissance avant que nous ne vous les divulguions ; (iv) qu'elles vous ont été divulguées par un tiers, qui n'avait aucune obligation de confidentialité à son égard ; (v) qu'elles ont été déduites de manière indépendante par vous sans violation d'aucune obligation de confidentialité envers nous ou un tiers ; ou (vi) que nous vous avons autorisé à les divulguer, dans un document écrit signé par l'un de nos représentants autorisés.
+The obligations in this Section 2 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
 
-[C. Droits réservés](#c-reservation-of-rights)
+[C. Reservation of Rights](#c-reservation-of-rights)
 ----------
 
-Toutes les informations confidentielles restent la propriété unique et exclusive de GitHub. Aucune des parties n'acquiert de droits de propriété intellectuelle en vertu du présent accord, sauf indication expresse dans les présentes.
+All Confidential Information remains the sole and exclusive property of GitHub. Neither party acquires any intellectual property rights under this Agreement, unless expressly specified herein.
 
-[D. Confidentialité](#d-privacy)
+[D. Privacy](#d-privacy)
 ----------
 
-En participant à ce programme, vous consentez à ce que nous utilisions vos informations personnelles à des fins de recherche, et non à d'autres fins. Dans le cadre du programme, nous pouvons utiliser vos informations personnelles pour vous contacter, ou conserver vos informations, pour vous contacter ultérieurement. Les informations personnelles n'incluent pas les informations agrégées et non personnellement identifiables. Nous pouvons utiliser des informations agrégées ou d'autres informations d'identification non personnelles collectées via le programme pour exploiter, analyser et améliorer nos produits et services.
+By participating in this Program, you consent to our use of your personal information for research purposes, and not for any other purposes. As part of the Program, we may use your personal information to contact you, or retain your information, to contact you at a later date. Personal information does not include aggregated, non-personally identifying information. We may use aggregated or other non-personally identifying information collected through the program to operate, analyze, and improve our products and services.
 
-Vous pouvez retirer votre consentement à tout moment et demander l'accès ou la suppression des informations personnelles que nous détenons à votre sujet. Pour plus d'informations sur la manière dont vous pouvez accéder, mettre à jour, modifier ou supprimer les informations personnelles que GitHub collecte par le biais du Programme, veuillez consulter la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement) ou nous contacter en utilisant notre [Formulaire de contact relatif à la confidentialité](https://github.com/contact/privacy).
+You can withdraw your consent at any time, and request access to or the deletion of the personal information that we hold about you. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement) or contact us through our [Privacy contact form](https://github.com/contact/privacy).
 
-[E. Conditions relatives aux Services et Logiciels GitHub](#e-github-services-and-software-terms)
+[E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
 ----------
 
-Si l'accès aux services ou aux logiciels de GitHub est requis pour participer à certaines études ou activités du Programme, alors les services ou le contrat de logiciel applicables s'appliqueront à votre utilisation de ces produits (les « Conditions généralement applicables »). En cas de conflit direct entre le présent Contrat et les Conditions générales d'application, vos Conditions générales d'application prévaudront, sauf en ce qui concerne toute utilisation d'Informations confidentielles (telles que définies ci-dessous), auquel cas le présent Contrat prévaudra.
+If access to GitHub's services or software are required to participate in certain Program studies or activities, then the applicable services or software agreement will apply to your use of those products (the "Generally Applicable Terms"). In the event of a direct conflict between this Agreement and the Generally Applicable Terms, your Generally Applicable Terms will control, except with respect to any use of Confidential Information (as defined below), in which case this Agreement will control.
 
-[F. Exclusion de garantie](#f-disclaimer-of-warranties)
+[F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
 ----------
 
-Toutes les informations confidentielles et autres éléments que vous recevez via le programme sont fournis « tels quels » et sans garantie d'aucune sorte. Sans limiter cela, nous déclinons expressément toutes les garanties, qu'elles soient expresses, implicites ou statutaires, concernant le programme, y compris, sans s'y limiter, toute garantie de qualité marchande, d'adéquation à un usage particulier, de titre, de sécurité, d'exactitude et d'absence de contrefaçon.
+All Confidential Information and other materials you receive through the Program are provided “as is” and without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Program including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
-[G. Limitation de responsabilité.](#g-limitation-of-liability)
+[G. Limitation of Liability](#g-limitation-of-liability)
 ----------
 
-Sauf si la loi l'interdit, vous comprenez et acceptez que nous ne serons pas responsables envers vous ou un tiers pour toute perte de profits, d'utilisation, de clientèle ou de données, ou pour tout dommage accessoire, indirect, spécial, consécutif ou exemplaire.
+Except as prohibited by law, you understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages.
 
-Notre responsabilité est limitée, que nous ayons été informés ou non de la possibilité de tels dommages, et même s'il s'avère qu'un recours prévu dans le présent Contrat n'a pas atteint son objectif essentiel. Nous n'aurons aucune responsabilité pour tout échec ou retard dû à des questions indépendantes de notre volonté raisonnable.
+Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-[H. Dispositions diverses](#h-miscellaneous)
+[H. Miscellaneous](#h-miscellaneous)
 ----------
 
-### [1. Droit applicable](#1-governing-law) ###
+### [1. Governing Law](#1-governing-law) ###
 
-Sauf dans la mesure où la loi applicable en dispose autrement, le présent accord entre vous et GitHub et tout accès ou utilisation du site Web ou du service sont régis par les lois fédérales des États-Unis d'Amérique et les lois de l'État de Californie, sans égard aux dispositions relatives aux conflits de lois. Vous et GitHub acceptez de vous soumettre à la juridiction et au lieu exclusifs des tribunaux situés dans la ville et le comté de San Francisco, en Californie.
+Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
-### [2. Incessibilité](#2-non-assignability) ###
+### [2. Non-Assignability](#2-non-assignability) ###
 
-GitHub peut céder ou déléguer le présent Accord, en tout ou en partie, à toute personne ou entité à tout moment avec ou sans votre consentement, y compris l'octroi de licence dans la Section A. Vous ne pouvez céder ou déléguer aucun droit ou obligation en vertu du présent Accord sans notre consentement écrit préalable, et toute cession et délégation non autorisées de votre part sont nulles.
+GitHub may assign or delegate this Agreement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section A. You may not assign or delegate any rights or obligations under this Agreement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
-### [3. Divisibilité, Absence de renonciation et Maintien en vigueur des Clauses](#3-severability-no-waiver-and-survival) ###
+### [3. Severability, No Waiver, and Survival](#3-severability-no-waiver-and-survival) ###
 
-Si une partie de cet accord est jugée invalide ou inapplicable, cette partie de l'accord sera interprétée pour refléter l'intention initiale des parties. Les parties restantes resteront en vigueur et de plein effet. Tout manquement de la part de GitHub à appliquer une disposition du présent Accord ne sera pas considéré comme une renonciation à notre droit d'appliquer cette disposition. Nos droits en vertu du présent Accord survivront à toute résiliation du présent Accord.
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
-### [4. Avenants ; Intégralité de l'Accord](#4-avenants-intégralité-de-laccord) ###
+### [4. Amendments; Complete Agreement](#4-amendments-complete-agreement) ###
 
-Le présent Accord ne peut être modifié que par un document écrit signé par un représentant autorisé de GitHub. Le présent accord, ainsi que les conditions généralement applicables et la déclaration de confidentialité de GitHub, représentent la déclaration complète et exclusive de l'accord entre vous et nous. Le présent Accord remplace toute proposition ou accord préalable oral ou écrit, et toute autre communication entre vous et GitHub concernant l'objet de ces conditions, y compris tout accord de confidentialité ou de non-divulgation.
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub. This Agreement, together with the Generally Applicable Terms and the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 {"resolvedServerColorMode":"day"}

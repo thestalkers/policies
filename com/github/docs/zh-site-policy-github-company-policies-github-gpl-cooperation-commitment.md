@@ -1,43 +1,43 @@
-GitHub GPL 合作承诺 - GitHub 文档
+GitHub GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 公司政策](/zh/site-policy/github-company-policies)/
-* [GitHub GPL 合作承诺](/zh/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Site policy](/zh/site-policy)/
+* [GitHub Company Policies](/zh/site-policy/github-company-policies)/
+* [GitHub GPL Cooperation Commitment](/zh/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-GitHub GPL 合作承诺
+GitHub GPL Cooperation Commitment
 ==========
 
-本承诺适用于 GitHub 对 Git、Linux 内核以及涵盖许可（具体定义请滚动到最后的定义部分）下其他程序的贡献。
+This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 
-我们的声明基于公司[模板](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)。 有关其他公司、个人和项目如何采用本承诺，请参阅 [GPL 合作承诺网站](https://gplcc.github.io/gplcc/)。
+We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
 
-[我们的承诺](#our-commitment)
+[Our Commitment](#our-commitment)
 ----------
 
-在提交或继续起诉因涵盖许可的终止而引起的任何法律程序或索赔（反诉除外）之前，GitHub 将对被指控违反涵盖许可的个人或实体（“您”）的承诺扩展到以下补救和恢复条款（取自 GPL 第 3 版）。 本文使用的术语“本许可”是指正在执行的特定涵盖许可。
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
-但是，如果您停止所有违反本许可的行为，则将恢复特定版权持有者对您的许可，恢复情形有以下两种：(a) 临时恢复（除非且直到版权持有者明确并最终终止您的许可）；(b) 永久恢复（暂停后 60 天内，版权持有者没有通过某种合理方式向您发送违规情况通知）。
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
 
-此外，如果特定版权持有者通过某种合理方式向您发送了违规情况通知，但这是您第一次收到该版权持有者关于您违反本许可（针对任何作品）的通知，并且您在收到通知后 30 天内纠正了违规，则将永久恢复该版权持有者对您的许可。
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
 
-GitHub 希望本承诺不可撤销，并且对 GitHub 和 GitHub 版权的受让人或继承人具有约束力和可执行性。
+GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
 
-GitHub 可能会通过在此页面或后续位置发布新版本来修改本承诺。
+GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
 
-定义
+Definitions
 
-“涵盖许可”是指 GNU General Public License 第 2 版 (GPLv2)、GNU Lesser General Public License 第 2.1 版 (LGPLv2.1) 或 GNU Library General Public License 第 2 版 (LGPLv2)，均由 Free Software Foundation 发布。
+‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-“反诉”是指 GitHub 为反击您或您的附属公司先前提起的程序或索赔，而对您提起的法律程序或索赔。
+‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
-“GitHub”是指 GitHub, Inc. 及其子公司。
+‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
-本内容在 Creative Commons Attribution-Share Alike 4.0 International 许可下提供。
+This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
 
 {"resolvedServerColorMode":"day"}

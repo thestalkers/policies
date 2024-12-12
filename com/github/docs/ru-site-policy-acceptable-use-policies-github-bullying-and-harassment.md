@@ -1,27 +1,27 @@
-Издевательства и домогательства на GitHub - Документация по GitHub
+GitHub Bullying and Harassment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Издевательства и домогательства](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+* [Site policy](/ru/site-policy)/
+* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
+* [Bullying and Harassment](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-Издевательства и домогательства на GitHub
+GitHub Bullying and Harassment
 ==========
 
-Мы не приемлем домогательств, издевательств или оскорблений любого рода, будь то напрямую или путем поощрения других к участию в запрещенных действиях. Сюда входит следующее:
+We do not tolerate harassment, bullying, or abuse of any kind, whether directly or by encouraging others to take part in the prohibited conduct. This includes:
 
-* Целенаправленные личные нападки
-* Наращивание или организация [деструктивной](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) деятельности, что равносильно злоупотреблению
-* Следование за другим пользователем по платформе таким образом, что это приводит к запугиванию
-* Делать сексуальные домогательства или комментарии, направленные на другого человека
-* Неискреннее участие в разговоре таким образом, что провоцирует конфликт или подрывает искреннюю дискуссию.
-* Создание альтернативных учетных записей специально для того, чтобы избежать модерации со стороны персонала или пользователей GitHub.
+* Targeted personal attacks
+* Piling on to or orchestrating [disruptive](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) activity in a way that amounts to abuse
+* Following another user around the platform in a manner that causes intimidation
+* Making sexual advances or comments directed at another individual
+* Disingenuously participating in conversation in a way that instigates conflict or undermines sincere discussion
+* Creating alternative accounts specifically to evade moderation action taken by GitHub staff or users
 
-Обратите внимание, что не всякое нежелательное поведение обязательно считается домогательством. Например, несогласие с другим пользователем или голосование против его комментариев не может рассматриваться как оскорбление на нашей платформе. Кроме того, распространение критики общественных деятелей или проектов или тем, представляющих общественный интерес, не обязательно подпадает под действие этой политики. Тем не менее, мы рекомендуем вам внимательно относиться к тому, как вы взаимодействуете с другими пользователями и платформой, так как эта деятельность может по-прежнему нарушать наше ограничение на нарушение работы других пользователей.
+Please note, not all unwelcome conduct is necessarily considered harassment. For example, disagreeing with another user or downvoting their comments may not rise to the level of harassment on our platform. In addition, sharing criticism of public figures or projects, or topics of public interest, does not necessarily fall under this policy. However, we encourage you to be mindful in how you engage with other users and the platform, as this activity may still violate our restriction on disrupting the experience of other users.
 
 {"resolvedServerColorMode":"day"}

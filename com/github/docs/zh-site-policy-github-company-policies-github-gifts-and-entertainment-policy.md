@@ -1,102 +1,102 @@
-GitHub 礼品和招待政策 - GitHub 文档
+GitHub Gifts and Entertainment Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 公司政策](/zh/site-policy/github-company-policies)/
-* [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Site policy](/zh/site-policy)/
+* [GitHub Company Policies](/zh/site-policy/github-company-policies)/
+* [GitHub Gifts and Entertainment Policy](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
-GitHub 礼品和招待政策
+GitHub Gifts and Entertainment Policy
 ==========
 
-本文内容
+In this article
 ----------
 
-* [公司政策](#company-policies)
-* [可接受和不可接受礼物的示例](#examples-of-acceptable-and-unacceptable-gifts)
-* [流程](#process)
-* [后果](#consequences)
-* [更多信息](#more-information)
+* [Company policies](#company-policies)
+* [Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
+* [Process](#process)
+* [Consequences](#consequences)
+* [More information](#more-information)
 
-GitHub 意识到，我们的业务建立在正当和透明的关系之上。 虽然非正式的互动和礼品交换可能是培养这种关系的一部分，甚至可能在某些国家/地区被视为惯例，但我们必须确保遵守反贿赂法律。 我们在按道德行事方面负有法律义务，包括不利用上述互动来实现特殊优势或影响交易。
+GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
 
-[公司政策](#company-policies)
+[Company policies](#company-policies)
 ----------
 
-特此提醒，我们的道德准则规定：
+As a reminder, our Code of Ethics states:
 
 >
 >
-> 不得为了帮助 GitHub 或微软获取或保持业务或任何其他不正当优势，向任何人（包括身居权力或权限职位的任何人，例如政府官员或商业交易决策者）支付、提议支付、承诺支付、诱使、接受或授权支付现金或任何其他有价物。 也不得索取或接受贿赂、回扣或任何其他不当现金支付。 ...[GitHub 员工]对于以下交易必须保留准确和公允的记录：涉及代表 GitHub 支出任何费用的所有交易，例如保留收据并准确说明您的费用支出；或者涉及处置或转让 GitHub 资产的任何其他交易。 美国《反海外腐败法》、英国 2010 年《反贿赂法》 以及 GitHub 开展业务所在其他司法管辖区的反贿赂法律均要求采取此类措施，这也是正确行事的原则。
+> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
 >
 >
 
-GitHub 的道德准则详细说明了某些情况，包括礼品、旅游和招待；疏通费；慈善捐赠；职位；与代表合作；以及谁被视为政府官员。
+GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
 
-我们的行为标准禁止：
+Our Standards of Conduct prohibit:
 
 >
 >
-> 贿赂政府官员或其他个人以获取不正当优势，也不得收受任何人的贿赂。
+> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
 >
 >
 
-这意味着不仅不得向任何人（包括公务员、政府官员或身居权力或权限职位的任何人，以及不在这些特权职位的人）提供现金、任何形式的现金等价物或任何有价之物，以达到影响他们的目的，也不得向任何人收受这些贿赂以影响 GitHub。 美国《反海外腐败法》和英国《反贿赂法》均禁止此类活动，这两个法律均在全球范围内管辖 GitHub 的行为。
+That means not only no cash or cash equivalent of any kind, but nothing of value, should be given to anyone (including civil servants, government officials, or anyone in a position of power or authority, as well as people not in any of those privileged positions) in order to influence them or taken from anyone to influence GitHub. Such activity is prohibited by the U.S. Foreign Corrupt Practices Act and UK Anti-Bribery laws, both of which govern GitHub’s actions globally.
 
-[可接受和不可接受礼物的示例](#examples-of-acceptable-and-unacceptable-gifts)
+[Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
-那么，“有价值”是什么意思呢？ 请记住，对政府官员而言，任何礼物都是不可接受的（好吧，送贴纸或许可以）。 请务必先问清楚，他们的政策允许和禁止什么。 如果仍有疑问，请咨询法务部进行确认。 例如，许多美国国会议员不会让您请他们吃饭。
+So what does “of value” mean? Keep in mind that no gifts are acceptable for government officials (ok, maybe stickers). You should always ask them what their policies permit and prohibit. But if in doubt, please run it by Legal to make sure. For example, many U.S. congresspeople will not let you take them out for dinner and pay.
 
-至于其他客户或潜在客户，某些事情看似微不足道，但可能对其他人有很大价值。 例如，让您朋友的女儿被聘为实习生，对您来说可能不是什么大事，但对他们而言却具有巨大价值。 如果她不符合资格，但您通过幕后牵线促成此事，那就是违规操作。 此外，如果意图是产生不正当影响，则任何事物，无论价值多小，都可视为“有价值”。
+As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In addition, if the intention is to improperly influence, anything, however small, might be considered "of value."
 
-🙅 以下是其他一些不可提供的馈赠或帮助：
+🙅 *Here are some other things that aren't ok:*
 
-* 前往 GitHub 办事处参加行政简报会的头等舱机票 ✈️+🍾
-* 酒庄旅游 🍷
-* 推荐朋友的孩子入读著名私立学校 🎓
-* 迪士尼 👸、世界杯 🥅、奥运会 🏅 门票
-* 著名球星签名的足球 ⚽️
-* 对慈善事业的捐助
+* First class airfare to GitHub offices for Executive Briefings ✈️+🍾
+* Winery tours 🍷
+* Recommending a friend’s kid to a prestigious private school for admission 🎓
+* Tickets to Disneyland 👸, the World Cup 🥅, the Olympics 🏅
+* A futbol ⚽️ autographed by a famous player
+* A contribution to a charity
 
-🙆\_以下是一些可提供给客户或潜在客户的馈赠或帮助：\_
+🙆 *Here is some stuff that is actually ok for customers or prospective customers:*
 
-* 促销礼品
-* 提供前往 GitHub 办事处参加行政简报会的经济舱机票 ✈️
-* 体育赛事的露天门票 ⚾️
-* 当地的一顿价格合理的晚餐 🍽
-* 赠送一小盒巧克力作为年终谢礼 🍫
+* Swag
+* Economy class airfare to GitHub offices for Executive Briefings ✈️
+* Bleacher-type tickets to a sporting event ⚾️
+* A reasonably priced dinner in town 🍽
+* A small box of chocolates as an end of year thank you 🍫
 
-上述所有规定也适用于\_收受\_贿赂。 如果有供应商或潜在供应商向您赠送“有价值”之物，不要接受 — 或者至少咨询法务部后再做决定。
+All of the above applies to *taking* bribes too. So if a vendor or prospective vendor sends you something “of value,” don’t accept it—or at least run it by Legal before you do.
 
-[流程](#process)
+[Process](#process)
 ----------
 
-如果您打算提供或接受一份非正式礼物（不是 T 恤和贴纸等促销礼品），请确保遵循以下流程。
+If you are planning to provide or accept an informal gift (that is not one of our promotional items like t-shirts and sticker swag), please make sure to follow the process below.
 
-请记住，可接受数额可能有所不同。 例如，在有些国家/地区，一顿晚餐花费 50 美元可能被视为一笔大数目，但在其他国家/地区并非如此。 因此，如有疑问，先咨询！
+Keep in mind that what's an acceptable amount can vary. For example, spending $50 on dinner might be considered a lot of money in some countries but not as much in others. So, when in doubt, ask!
 
-1. 一般来说，对于任何超过 150 美元的费用，您需要得到法务部的书面批准（每次）。 如果收到超过 150 美元的任何礼物，您需要向法务部书面报告（每次）。 （法务部只权衡贿赂问题。 其他问题可能还需要咨询财务部。）
+1. Generally speaking, for any expenses exceeding $150, you'll need approval (each time) from Legal in writing. And for any gifts you receive exceeding $150, you'll need to report that (each time) to Legal in writing. (Legal is just weighing in on the bribery question. You might still need to check with Finance for other reasons.)
 
-2. 提交费用报表进行报销时，请：
+2. When you submit your expense report for reimbursement, please:
 
-   * 在备注中注明接收者和礼物目的；以及
-   * 随附批准电子邮件的副本
+   * Indicate the recipient and the purpose of the gift in the notes; and
+   * Include a copy of the email approval
 
-[后果](#consequences)
+[Consequences](#consequences)
 ----------
 
-如果您不遵守政策，导致 GitHub 为某个潜在客户及其家人支付了飞往日本的头等舱机票和观看东京奥运会的费用，会有什么后果？ 或者如果您在事先安排好的火车站储物柜中为某个政府官员放了一箱欧元，会有什么后果？
+What happens if you don’t follow the policy and GitHub ends up paying for a prospective customer and his family to fly first class to Japan and attend the Tokyo Olympics? Or if you drop off a suitcase of Euros for a government official in a pre-arranged train station locker?
 
-罚款和入狱。 遭受处罚的不一定只有 GitHub。 您自己可能会面临几年牢狱之灾，这无关乎该客户在日本之旅后是否向 GitHub 提交了订单或者该政府官员是否拿走了那箱现金。 基本上，与您是否实际\_完成\_行贿没关系。 不论结果，只要尝试就是违法。
+FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend a few years in jail, yourself, and it won’t matter if the customer ever submitted an order to GitHub after their trip to Japan or if the government official even picked up the suitcase of cash. Basically, it doesn’t matter whether you actually *made* a bribe. Yoda notwithstanding, it’s the trying that counts.
 
-[更多信息](#more-information)
+[More information](#more-information)
 ----------
 
-如需了解有关规则、执行和处罚的更多信息和相关背景，美国司法部的[美国《反海外腐败法》资源指南](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf)将是一个不错的资源。
+For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
 
 {"resolvedServerColorMode":"day"}

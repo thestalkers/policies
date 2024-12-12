@@ -1,46 +1,46 @@
-コンテンツ削除要求の提出 - GitHub Docs
+Submitting content removal requests - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Site policy](/ja/site-policy)/
+* [Content Removal Policies](/ja/site-policy/content-removal-policies)/
+* [Submitting content removal requests](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-コンテンツ削除要求の提出
+Submitting content removal requests
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [DMCA 削除ポリシー](#dmca-takedown-policy)
-* [GitHub の商標ポリシー](#github-trademark-policy)
-* [GitHub の個人情報削除ポリシー](#github-private-information-removal-policy)
+* [DMCA Takedown Policy](#dmca-takedown-policy)
+* [GitHub Trademark Policy](#github-trademark-policy)
+* [GitHub Private Information Removal Policy](#github-private-information-removal-policy)
 
-当社は、著作権のあるコンテンツ、商標登録されたコンテンツ、または個人的なコンテンツが、偶然または故意に GitHub で (場合によってはお客様が所有していないリポジトリに) 公開される場合があることを理解しています。 こうしたコンテンツの性質はさまざまであり、適用法も異なるため、各カテゴリには独自の明確な報告要件があり、これは当社のポリシーに記載されています。
+We understand that copyrighted, trademarked, or private content may get published on GitHub – either accidentally or on purpose – sometimes in repositories that you do not own. Because the nature of this content varies, and because of different applicable laws, each category has its own, distinct reporting requirements outlined in our policies.
 
-GitHub からコンテンツを削除するよう要求する場合は、報告書を提出する前に、これらの各ポリシーとそれぞれの報告要件を十分に理解してください。 当社が受け取った報告書に不備がある場合は、お客様に説明や修正を求める必要があり、お客様は報告内容を修正して再提出する必要があります。
+If you'd like to request that content be removed from GitHub, please take some time to acquaint yourself with each of these policies and their respective reporting requirements before submitting a report. If we receive an incomplete report, we'll need to ask for clarifications or revisions and you’ll need to re-submit a revised report.
 
-当社は、特定の状況に対してどのポリシーが該当するかをお客様が判断するためのサポートはできませんのでご注意ください。 以下のポリシーを確認しても、コンテンツを著作権、商標、または個人情報のいずれの問題として報告すべきかが不明な場合は、独立した法律顧問に相談することをお勧めします。
+Please note that we're not able to help you determine which policy is appropriate for your specific situation. If you’ve reviewed the policies below and still have questions about whether or not content should be reported as copyright, trademark, or private information, we recommend consulting with independent legal counsel.
 
-[DMCA 削除ポリシー](#dmca-takedown-policy)
+[DMCA Takedown Policy](#dmca-takedown-policy)
 ----------
 
-[DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)は、お客様またはお客様の組織が所有する著作権を侵害していると思われるコンテンツの報告に使用できます。 このポリシーを確認したら、報告書を提出する前に [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)もご確認ください。
+The [DMCA Takedown Policy](/ja/site-policy/content-removal-policies/dmca-takedown-policy) can be used to report content that you believe infringes a copyright owned by you or your organization. Once you have reviewed the policy, you may also want to review our [Guide to Submitting a DMCA Takedown Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) before submitting a report.
 
-[GitHub の商標ポリシー](#github-trademark-policy)
+[GitHub Trademark Policy](#github-trademark-policy)
 ----------
 
-[GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)は、お客様の会社名、商号、ロゴ、またはその他の商標で保護されたマテリアルを、ブランドや企業系列について他人を誤解させたり混乱させたりするおそれのある方法で使用していると思われるコンテンツの報告に使用できます。
+The [GitHub Trademark Policy](/ja/site-policy/content-removal-policies/github-trademark-policy) can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
 
-[GitHub の個人情報削除ポリシー](#github-private-information-removal-policy)
+[GitHub Private Information Removal Policy](#github-private-information-removal-policy)
 ----------
 
-[GitHub 個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)は、個人的 (機密性が高く、セキュリティ リスクをもたらす) で、必ずしも著作権または商標によって保護されていないデータの報告に使用できます。
+The [GitHub Private Information Removal Policy](/ja/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
 
-インドのユーザーは、[GitHub の苦情処理担当者に問い合わせる](https://support.github.com/contact/india-grievance-officer)ことができます。
+Users in India can [contact GitHub's Grievance Officer](https://support.github.com/contact/india-grievance-officer).
 
 {"resolvedServerColorMode":"day"}

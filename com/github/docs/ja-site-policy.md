@@ -1,35 +1,35 @@
-サイト ポリシーのドキュメント - GitHub Docs
+Site policy documentation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)
+* [Site policy](/ja/site-policy)
 
-サイト ポリシーのドキュメント
+Site policy documentation
 ==========
 
-[GitHub 条件](/ja/site-policy/github-terms)
+[GitHub Terms](/ja/site-policy/github-terms)
 ----------
 
-[利用規約](/ja/site-policy/acceptable-use-policies)
+[Acceptable Use Policies](/ja/site-policy/acceptable-use-policies)
 ----------
 
-[プライバシー ポリシー](/ja/site-policy/privacy-policies)
+[Privacy Policies](/ja/site-policy/privacy-policies)
 ----------
 
-[その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+[Other Site Policies](/ja/site-policy/other-site-policies)
 ----------
 
-[コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+[Content Removal Policies](/ja/site-policy/content-removal-policies)
 ----------
 
-[セキュリティ ポリシー](/ja/site-policy/security-policies)
+[Security Policies](/ja/site-policy/security-policies)
 ----------
 
-[GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
+[GitHub Company Policies](/ja/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

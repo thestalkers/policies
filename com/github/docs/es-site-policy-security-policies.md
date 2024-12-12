@@ -1,24 +1,24 @@
-Políticas de seguridad - Documentación de GitHub
+Security Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de seguridad](/es/site-policy/security-policies)
+* [Site policy](/es/site-policy)/
+* [Security Policies](/es/site-policy/security-policies)
 
-Políticas de seguridad
+Security Policies
 ==========
 
-[Divulgación coordinada de vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[Coordinated Disclosure of Security Vulnerabilities](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 ----------
 
-[Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[GitHub Bug Bounty Program Legal Safe Harbor](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 ----------
 
-[Descripción de SIRT de GitHub RFC 2350](/es/site-policy/security-policies/github-sirt-description-rfc-2350)
+[GitHub SIRT description RFC 2350](/es/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
 
 {"resolvedServerColorMode":"day"}

@@ -1,30 +1,30 @@
-GitHub の誤報と偽情報 - GitHub Docs
+GitHub Misinformation and Disinformation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [誤報と偽情報](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Site policy](/ja/site-policy)/
+* [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies)/
+* [Misinformation and Disinformation](/ja/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-GitHub の誤報と偽情報
+GitHub Misinformation and Disinformation
 ==========
 
-不正確であるか虚偽 (誤報) であるか、故意に欺瞞的 (偽情報) であるかにかかわらず、現実の歪曲された見方を提示するコンテンツを投稿してはなりません。そのようなコンテンツは、一般に害を及ぼすか、自由で開かれた社会に参加するすべての人の公平で平等な機会を妨げる可能性があります。 これには以下が含まれます。
+You may not post content that presents a distorted view of reality, whether it is inaccurate or false (misinformation) or is intentionally deceptive (disinformation), where such content is likely to result in harm to the public or to interfere with fair and equal opportunities for all to take part in a free and open society. This may include:
 
-* 公衆の健康または安全を危険にさらす不正確または科学的に裏付けのない医学的主張
-* 音声または映像にかかわらず、公共の利益を害するおそれのある方法で誤解を招いたり欺いたりする可能性のある、操作されたメディア
-* 個人の市民活動への参加を妨げる可能性のある虚偽または誤解を招くコンテンツ
-* 特定のグループの人々に対する憎悪や標的を絞った嫌がらせを助長する可能性のある根拠のない主張
+* Inaccurate or scientifically unsupported medical claims that endanger public health or safety
+* Manipulated media, whether audio or visual, likely to mislead or deceive in a way that may harm the public interest
+* False or misleading content likely to interfere with an individual's ability to participate in civic activities
+* Unsubstantiated claims that could promote hate or targeted harassment of specific groups of people
 
-当社は、アイデア、視点、経験の表現への積極的な参加を奨励しており、個人的な説明や観察に異議を唱える立場にないかもしれません。 当社は通常、[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に沿ったパロディや風刺を容認しており、情報の受け取り方や理解の方法において コンテキストが重要であると考えています。 この規定に基づいてコンテンツをレビューする場合、GitHub は、コンテンツに明確な免責事項、信頼できる情報源への引用、または共有されている情報の正確性を明確にするその他の詳細が含まれているかどうかなど、閲覧者の案内に役立つさまざまな要因の影響を考慮します。
+We encourage active participation in the expression of ideas, perspectives, and experiences and may not be in a position to dispute personal accounts or observations. We generally allow parody and satire that is in line with our [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies), and we consider context to be important in how information is received and understood. When reviewing content under this policy, GitHub will consider the impact of various factors that may help to orient the viewer, such as whether the content has been provided with clear disclaimers, citations to credible sources, or includes other details that clarify the accuracy of the information being shared.
 
-[合成と操作されたメディア ツール](#synthetic--manipulated-media-tools)
+[Synthetic & Manipulated Media Tools](#synthetic--manipulated-media-tools)
 ----------
 
-GitHub では、非合意的な親密な画像の作成に合成または操作されたメディアを使用したり、このポリシーの下で誤報や情報漏えいを構成するコンテンツを作成するために、どのような方法でも設計、奨励、促進、サポート、または提案を行うプロジェクトは許可されません。
+GitHub does not allow any projects that are designed for, encourage, promote, support, or suggest in any way the use of synthetic or manipulated media for the creation of non-consensual intimate imagery or any content that would constitute misinformation or disinformation under this policy.
 
 {"resolvedServerColorMode":"day"}

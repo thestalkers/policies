@@ -1,25 +1,25 @@
-조정된 보안 취약점 공개 - GitHub Docs
+Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [보안 정책](/ko/site-policy/security-policies)/
-* [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Site policy](/ko/site-policy)/
+* [Security Policies](/ko/site-policy/security-policies)/
+* [Coordinated Disclosure of Security Vulnerabilities](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-조정된 보안 취약점 공개
+Coordinated Disclosure of Security Vulnerabilities
 ==========
 
-당사는 모두에게 안전한 GitHub를 유지하고자 합니다. GitHub에서 보안 취약점을 발견한 경우, 이를 조정된 방식으로 공개해주시면 고맙겠습니다.
+We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
 
-[보상금 프로그램](#bounty-program)
+[Bounty Program](#bounty-program)
 ----------
 
-GitHub는 다른 여러 대형 소프트웨어 업체들과 마찬가지로 보안 연구원과 더 잘 협력할 수 있도록 보안 취약점 보상금을 제공합니다. 개념은 간단합니다. 해커 및 (여러분과 같은) 보안 연구원은 조정된 공개 과정을 통해 취약점을 찾고 보고합니다. 그런 다음, 버그를 추적하는 보안 연구원의 공로를 인정하기 위해 일정 현금 보상을 지급합니다.
+Like several other large software companies, GitHub provides a bug bounty to better engage with security researchers. The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our coordinated disclosure process. Then, to recognize the significant effort that these researchers often put forth when hunting down bugs, we reward them with some cold hard cash.
 
-보상금에 관한 자세한 내용은 [GitHub 보안 취약점 보상금](https://bounty.github.com) 사이트를 확인하고, 당사의 포괄적인 [법률 세이버 하버 정책](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) 조건도 검토하세요. 즐거운 시간 되시길 바랍니다!
+Check out the [GitHub Bug Bounty](https://bounty.github.com) site for bounty details, review our comprehensive [Legal Safe Harbor Policy](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) terms as well, and happy hunting!
 
 {"resolvedServerColorMode":"day"}

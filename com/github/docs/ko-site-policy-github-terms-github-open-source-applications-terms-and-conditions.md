@@ -1,88 +1,88 @@
-GitHub 오픈 소스 애플리케이션 계약조건 - GitHub Docs
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub 오픈 소스 애플리케이션 계약조건](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Site policy](/ko/site-policy)/
+* [GitHub Terms](/ko/site-policy/github-terms)/
+* [GitHub Open Source Applications Terms and Conditions](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub 오픈 소스 애플리케이션 계약조건
+GitHub Open Source Applications Terms and Conditions
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [GitHub에 연결](#connecting-to-github)
-* [오픈 소스 라이선스 및 표시](#open-source-licenses-and-notices)
-* [GitHub의 로고](#githubs-logos)
-* [개인 정보 보호](#privacy)
-* [추가 서비스](#additional-services)
-* [기타](#miscellanea)
+* [Connecting to GitHub](#connecting-to-github)
+* [Open Source Licenses and Notices](#open-source-licenses-and-notices)
+* [GitHub's Logos](#githubs-logos)
+* [Privacy](#privacy)
+* [Additional Services](#additional-services)
+* [Miscellanea](#miscellanea)
 
-이 GitHub 오픈 소스 애플리케이션 계약조건("애플리케이션 약관")은 GitHub Desktop™ 및 관련 설명서("소프트웨어") 등 귀하의 GitHub 애플리케이션 사용과 관련하여 귀하(개인 또는 단체를 대표하는 자)와 GitHub, Inc. 간의 법적 계약서입니다. 본 애플리케이션 약관은 소프트웨어의 실행 코드 버전에 적용됩니다. 소프트웨어의 소스 코드는 오픈 소스 소프트웨어 라이선스 계약에 따라 별도로 제공되며 무료입니다. 본 애플리케이션 약관의 모든 조건에 동의하지 않는다면 소프트웨어를 다운로드, 설치, 사용 또는 복사하지 마십시오.
+These GitHub Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
-[GitHub에 연결](#connecting-to-github)
+[Connecting to GitHub](#connecting-to-github)
 ----------
 
-하나 또는 둘 이상의 GitHub.com 웹 사이트 계정이나 GitHub Enterprise Server 배포와 함께 작동하도록 소프트웨어를 구성하는 경우, 소프트웨어 사용에는 귀하의 GitHub Enterprise Server 배포에 적용되는 해당 GitHub.com 웹 사이트 서비스 약관 및/또는 라이선스 계약("GitHub 약관")도 적용됩니다.
+If you configure the Software to work with one or more accounts on the GitHub.com website or with a deployment of GitHub Enterprise Server, your use of the Software will also be governed by your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your deployment of GitHub Enterprise Server ("GitHub Terms").
 
-귀하의 해당 GitHub 약관을 위반하는 소프트웨어의 사용도 본 애플리케이션 약관을 위반한 것으로 간주됩니다.
+Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.
 
-[오픈 소스 라이선스 및 표시](#open-source-licenses-and-notices)
+[Open Source Licenses and Notices](#open-source-licenses-and-notices)
 ----------
 
-소프트웨어에 대한 오픈 소스 라이선스는 소프트웨어에 포함된 "오픈 소스 표시" 설명서에 포함되어 있습니다. 해당 설명서에는 적용 가능한 모든 오픈 소스 라이선스의 사본도 포함되어 있습니다.
+The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
 
-오픈 소스 구성 요소에 적용되는 라이선스의 약정 조건에서 GitHub가 소프트웨어와 관련하여 소스 코드 제공을 제안해야 하는 경우, 본 약관에 따라 그러한 제안을 진행하며 귀하는 GitHub에 연락하여 이를 실행할 수 있습니다(연락처: <https://github.com/contact>).
+To the extent the terms of the licenses applicable to open source components require GitHub to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting GitHub: <https://github.com/contact>
 
-GitHub와 별도의 서면 합의를 하지 않는 한, 귀하와 GitHub의 계약에는 항상 본 애플리케이션 약관이 최소한의 조건으로 포함됩니다. 소프트웨어의 소스 코드에 대한 오픈 소스 소프트웨어 라이선스는 별도의 서면 계약을 구성합니다. 오픈 소스 소프트웨어 라이선스가 본 애플리케이션 약관을 명시적으로 대체하는 한, 오픈 소스 라이선스는 소프트웨어 또는 소프트웨어에 포함된 특정 구성 요소의 사용에 대한 GitHub와의 계약에 적용됩니다.
+Unless otherwise agreed to in writing with GitHub, your agreement with GitHub will always include, at a minimum, these Application Terms. Open source software licenses for the Software's source code constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Application Terms, the open source licenses govern your agreement with GitHub for the use of the Software or specific included components of the Software.
 
-[GitHub의 로고](#githubs-logos)
+[GitHub's Logos](#githubs-logos)
 ----------
 
-소프트웨어에 포함된 라이선스 허여는 소프트웨어 로고 디자인을 포함하는 GitHub의 상표에 대한 것이 아닙니다. GitHub는 모든 GitHub 상표에 귀속되는 모든 상표 및 저작권을 보유합니다. 예를 들어, GitHub의 로고는 "logos" 폴더의 파일 제목에 "logo"가 포함된 양식화된 디자인을 포함합니다.
+The license grant included with the Software is not for GitHub's trademarks, which include the Software logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks. GitHub's logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
 
-GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 GitHub 로고 및/또는 양식화된 이름은 GitHub의 상표입니다. 귀하는 GitHub의 로고 및 사용 정책([https://github.com/logos)에서](https://github.com/logos)%EC%97%90%EC%84%9C) 허용하는 경우를 제외하고 GitHub의 사전 서면 허가 없이 어떤 방식으로든 이러한 상표를 표시하거나 사용하지 않는다는 데 동의합니다.
+The names GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, the Octocat, and related GitHub logos and/or stylized names are trademarks of GitHub. You agree not to display or use these trademarks in any manner without GitHub's prior, written permission, except as allowed by GitHub's Logos and Usage Policy: <https://github.com/logos>.
 
-[개인 정보 보호](#privacy)
+[Privacy](#privacy)
 ----------
 
-소프트웨어는 개인 정보를 수집할 수 있습니다. 귀하는 설정 패널에서 소프트웨어가 수집하는 정보를 통제할 수 있습니다. 소프트웨어가 GitHub를 대신하여 개인 정보를 수집하는 경우, GitHub는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 따라 해당 정보를 처리합니다.
+The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on GitHub's behalf, GitHub will process that information in accordance with the [GitHub Privacy Statement](/ko/site-policy/privacy-policies/github-privacy-statement).
 
-[추가 서비스](#additional-services)
+[Additional Services](#additional-services)
 ----------
 
-**자동 업데이트 서비스**
+**Auto-Update Services**
 
-소프트웨어에는 자동 업데이트 서비스(이하 "서비스")가 포함될 수 있습니다. 서비스 이용을 선택하거나 서비스를 자동으로 사용하도록 설정하는 소프트웨어를 다운로드하는 경우, GitHub는 새 버전을 사용할 수 있을 때 소프트웨어를 자동으로 업데이트합니다.
+The Software may include an auto-update service ("Service"). If you choose to use the Service or you download Software that automatically enables the Service, GitHub will automatically update the Software when a new version is available.
 
-**책임의 부인 및 제한**
+**Disclaimers and Limitations of Liability**
 
-서비스는 "있는 그대로" 제공되며 명시적 또는 묵시적 보증은 제공되지 않습니다. 귀하의 서비스 이용에 따른 위험은 전적으로 귀하가 감수합니다. GitHub는 (i) 서비스가 귀하의 특정 요구 사항을 충족할 것이라는 점, (ii) 서비스가 특정 플랫폼과 완전히 호환된다는 점, (iii) 서비스 이용은 중단되지 않고 제때 가능하며 안전하며 오류가 없을 것이라는 점, (iv) 서비스 이용으로 얻을 수 있는 결과는 정확하거나 신뢰할 수 있다는 점, (v) 서비스를 통해 귀하가 구매하거나 획득한 제품, 서비스, 정보 또는 기타 자료의 품질이 귀하의 기대치를 충족할 것이라는 점, 또는 (vi) 서비스의 오류가 수정될 것이라는 점 등을 보증하지 않습니다.
+THE SERVICE IS PROVIDED ON AN "AS IS" BASIS, AND NO WARRANTY, EITHER EXPRESS OR IMPLIED, IS GIVEN. YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. GitHub does not warrant that (i) the Service will meet your specific requirements; (ii) the Service is fully compatible with any particular platform; (iii) your use of the Service will be uninterrupted, timely, secure, or error-free; (iv) the results that may be obtained from the use of the Service will be accurate or reliable; (v) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations; or (vi) any errors in the Service will be corrected.
 
-귀하는 GitHub가 다음을 포함하여 서비스와 관련된 수익 손실, 영업권 손실, 사용 손실, 데이터 손실 또는 그 외 무형적 손실에 대한 손해 배상을 포함하되 이에 국한하지 않는 직접적, 간접적, 우발적, 특수적, 결과적 또는 징계적 손해(심지어 그러한 손해가 발생할 가능성을 GitHub가 미리 알게 된 경우에도 해당)에 대해 어떠한 책임도 지지 않는다는 점을 명시적으로 이해하고 이에 동의합니다. (i) 서비스를 이용 또는 이용할 수 없음, (ii) 구매 또는 획득한 상품, 데이터, 정보 또는 서비스, 수신된 메시지, 또는 서비스를 통해/서비스로부터 체결된 거래로 인해 발생하는 대체 상품 및 서비스의 조달 비용, (iii) 귀하의 전송 또는 데이터에 대한 무단 액세스 또는 변경, (iv) 서비스에 관한 제3자의 진술 또는 행위, 또는 (v) 서비스와 관련된 그 밖의 모든 문제.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT GITHUB SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GITHUB HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RELATED TO THE SERVICE, including, for example: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third-party on the Service; (v) or any other matter relating to the Service.
 
-GitHub는 통지 여부에 관계없이 서비스(또는 그 일부)를 일시적 또는 영구적으로 수정하거나 중단할 수 있는 권리를 언제든지 수시로 보유합니다. GitHub는 서비스의 가격 변경, 일시 중지 또는 중단에 대해 귀하 또는 제3자에게 어떠한 책임도 지지 않습니다.
+GitHub reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. GitHub shall not be liable to you or to any third-party for any price change, suspension or discontinuance of the Service.
 
-[기타](#miscellanea)
+[Miscellanea](#miscellanea)
 ----------
 
-1. 권리 포기 없음. GitHub가 이 애플리케이션 약관의 모든 권한 또는 조항을 행사하거나 이행하지 못하는 경우, 이는 해당 권한 또는 조항에 대한 권리 포기로 볼 수 없습니다.
+1. No Waiver. The failure of GitHub to exercise or enforce any right or provision of these Application Terms shall not constitute a waiver of such right or provision.
 
-2. 전면 합의. 본 애플리케이션 약관은 적용 가능한 개인정보보호 고지와 함께 귀하와 GitHub 간의 완전 합의를 구성하며 귀하와 GitHub 간에 체결한 이전 계약(애플리케이션 약관의 이전 버전을 포함하되 이에 국한하지 않음)보다 우선하여 귀하의 소프트웨어 사용에 적용됩니다.
+2. Entire Agreement. These Application Terms, together with any applicable Privacy Notices, constitutes the entire agreement between you and GitHub and governs your use of the Software, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Application Terms).
 
-3. 준거법. 귀하는 본 애플리케이션 약관 및 소프트웨어의 사용이 캘리포니아주 법률의 적용 대상에 속하며 소프트웨어와 관련된 모든 분쟁은 미국 캘리포니아주 샌프란시스코 또는 그 부근에 위치한 관할 법원에 제기해야 한다는 데 동의합니다.
+3. Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
 
-4. 제3자 패키지. 소프트웨어는 소프트웨어의 기능을 수정, 추가, 제거 또는 변경할 수 있는 제3자 "패키지"를 지원합니다. 이러한 패키지는 본 애플리케이션 약관이 적용되지 않으며 해당 특정 패키지의 사용에 적용되는 자체 라이선스를 포함할 수 있습니다.
+4. Third-Party Packages. The Software supports third-party "Packages" which may modify, add, remove, or alter the functionality of the Software. These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.
 
-5. 수정 금지, 완전 합의. 이 애플리케이션 약관은 GitHub의 수권 대리인이 서명한 서면 수정안 또는 GitHub의 약관 수정본 게시를 통해서만 수정할 수 있습니다. 본 애플리케이션 약관은 적용 가능한 오픈 소스 라이선스 및 고지 사항 그리고 GitHub 개인정보취급방침과 함께 귀하와 GitHub 간에 체결한 계약의 완전하고 배타적인 문서에 해당합니다. 본 애플리케이션 약관은 본 약관의 주제와 관련하여 귀하와 GitHub 간의 모든 제안이나 사전 구두 또는 서면 합의 및 그 밖의 모든 전언보다 우선합니다.
+5. No Modifications; Complete Agreement. These Application Terms may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version. These Application Terms, together with any applicable Open Source Licenses and Notices and GitHub's Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. These Application Terms supersede any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms.
 
-6. GitHub 정책에 대한 라이선스. 본 애플리케이션 약관은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
+6. License to GitHub Policies. These Application Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
-7. 문의하기. 서비스 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.
+7. Contact Us. Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
 
 {"resolvedServerColorMode":"day"}

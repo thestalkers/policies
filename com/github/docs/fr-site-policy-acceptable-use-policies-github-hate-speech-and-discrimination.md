@@ -1,28 +1,28 @@
-GitHub Discours de haine et discrimination - Documentation GitHub
+GitHub Hate Speech and Discrimination - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Discours de haine et discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Site policy](/fr/site-policy)/
+* [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies)/
+* [Hate Speech and Discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-GitHub Discours de haine et discrimination
+GitHub Hate Speech and Discrimination
 ==========
 
-GitHub ne tolère pas les discours qui attaquent ou encouragent la haine envers un individu ou un groupe de personnes sur la base de qui ils sont, y compris l'âge, la taille, la capacité, l'origine ethnique, l'identité et l'expression de genre, le niveau d'expérience, la nationalité, l'apparence personnelle, la race, la religion, l'identité sexuelle ou l'orientation sexuelle. Cela inclut :
+GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
 
-* Se moquer, attaquer ou exclure une personne ou un groupe en raison de ses croyances ou des caractéristiques énumérées ci-dessus
-* Afficher une affiliation ou une identification claire avec des organisations terroristes ou extrémistes violentes connues
-* Soutenir ou promouvoir des groupes haineux ou des théories du complot fondées sur la haine
-* Partager des symboles ou des images synonymes de haine
-* Utiliser des stéréotypes nuisibles, des insultes ou un discours déshumanisant
-* Attaquer un individu en fonction de son sexe perçu
-* Sifflement de chien ; ou utiliser un langage et/ou des symboles codés ou suggestifs pour promouvoir l'abus ou la haine
+* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
+* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
+* Supporting or promoting hate groups or hate-based conspiracy theories
+* Sharing symbols or images synonymous with hate
+* Using harmful stereotypes, slurs, or dehumanizing speech
+* Attacking an individual based on their perceived gender
+* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
 
-Bien que GitHub prenne au sérieux tous les cas d'abus et de harcèlement sur la plate-forme, nous nous engageons particulièrement à lutter contre les abus motivés par la haine lorsqu'ils affectent de manière disproportionnée les communautés qui ont toujours été ciblées par de tels abus. Notre objectif est de faire de GitHub un endroit où tous les individus se sentent les bienvenus et en sécurité.
+While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
 
 {"resolvedServerColorMode":"day"}

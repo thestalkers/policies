@@ -1,99 +1,99 @@
-GitHub イベント条件 - GitHub Docs
+GitHub Event Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
+* [Site policy](/ja/site-policy)/
+* [GitHub Terms](/ja/site-policy/github-terms)/
+* [GitHub Event Terms](/ja/site-policy/github-terms/github-event-terms)
 
-GitHub イベント条件
+GitHub Event Terms
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [1.基本的な出席要件 - イベントの行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-* [2. 画像とビデオ](#2-pictures-and-videos)
-* [3. 情報の共有](#3-information-sharing)
-* [4 .リスク、責任、免責](#4-risk-liability-and-indemnity)
-* [5. 契約終了](#5-termination)
-* [6. 法および裁判地の選択](#6-choice-of-law-and-venue)
-* [7. その他の条件](#7-miscellaneous-terms)
+* [1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+* [2. Pictures and videos](#2-pictures-and-videos)
+* [3. Information sharing](#3-information-sharing)
+* [4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
+* [5. Termination](#5-termination)
+* [6. Choice of law and venue](#6-choice-of-law-and-venue)
+* [7. Miscellaneous terms](#7-miscellaneous-terms)
 
-GitHub イベントに関連して GitHub が開催するすべてのイベントまたはアクティビティ(総称して「イベント」という)を含む GitHub イベントに返事または参加することにより、お客様は次の GitHub イベントの条件(以下、「イベント条件」)を読み、理解し、同意を示したものとします。
+By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Terms (hereinafter “Event Terms”).
 
-[1.基本的な出席要件 - イベントの行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+[1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 ----------
 
-イベントに参加するには、以下を表明するものとします。
+In order to participate in the Event, you represent that
 
-* このイベント条件を受諾するために必須の権能および権限を有していること
-* このイベント条件および [[AUTOTITLE]](/ja/site-policy/github-terms/github-terms-of-service) を読み、理解したこと
-* [[イベント行動規範]](/ja/site-policy/github-terms/github-event-code-of-conduct)に従うことに同意すること。さらに、
-* イベントでアルコールが提供されている場合、21歳以上であるか、イベントが開催されている場所で法的に飲酒が認められた年齢以上であること。
+* You have the requisite capacity and authority to enter into these Event Terms;
+* You have read and understood these Event Terms and the [GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service);
+* You agree to abide by the [Event Code of Conduct](/ja/site-policy/github-terms/github-event-code-of-conduct); and
+* If alcohol is being served at the Event, you are at least 21 years old or over the legal drinking age at the location where the Event is being held.
 
-嫌がらせまたは禁止行為を止めるよう求められた場合は、直ちに従う必要があります。 参加者が[[イベント行動規範]](/ja/site-policy/github-terms/github-event-code-of-conduct)またはこのイベント条件に違反した場合、イベント主催者は、違反者に警告したりイベントから払い戻しを行わずに退去させるなど、適切と判断する措置を講じる場合があります。 イベント開催者の指示や案内につねに従う必要があります。
+If asked to stop behavior deemed harassing or prohibited, you must comply immediately. If you violate the [Event Code of Conduct](/ja/site-policy/github-terms/github-event-code-of-conduct) or these Event Terms, the Event organizers may take any action they deem appropriate in their discretion, including warnings or expulsion from the Event with no refund. You must at all times obey the instructions or directions of the Event organizers.
 
-[2. 画像とビデオ](#2-pictures-and-videos)
+[2. Pictures and videos](#2-pictures-and-videos)
 ----------
 
-GitHub およびそのパートナー、代理業者、請負業者はイベントで写真やビデオを撮影することがあります。 イベントに参加または出席することにより、お客様はこのような写真やビデオの一部に表示される場合があることに同意し、GitHub がこれをイベント中や後に使用することを許可するものとします。
+GitHub and its partners, agents, or contractors sometimes take photos and videos at the Event. By participating or attending the Event, you agree that you may appear in some of these photos and videos, and you authorize GitHub's use of them during and after the Event.
 
-さらに、お客様がイベントで写真またはビデオを撮影して GitHub に提供した場合、当社が同じ方法で使用することを許可し、写真またはビデオに表示される個人がそのような使用にも同意していることを表明するものとします。
+Additionally, if you take any photos or videos at the Event and provide them to GitHub, you authorize us to use them in the same fashion, and represent that the individuals that appear in your photos and videos have consented to such use.
 
-[3. 情報の共有](#3-information-sharing)
+[3. Information sharing](#3-information-sharing)
 ----------
 
-イベントスポンサー、出展者、その他の第三者は、展示ブース、補助イベント、プレゼンテーションでお客様の個人情報またはその他の情報を直接要求する場合があります。 情報の提供は任意かつ選択可能であり、プライバシー ポリシーを確認のうえ、個人情報の取り扱い方法、ならびにその取り扱いに不満があるかどうかを判断する必要があります。
+Event sponsors, exhibitors, and other third parties may directly request your personal or other information at their exhibit booths, auxiliary events, or presentations. Providing any information to them is voluntary and optional, and you should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
 
-イベント中に、(1) GitHub 以外の第三者が主催するセッションまたはプログラムへの返事または出席、(2) 出展社ブースまたはブレイクアウト セッションでスキャンするためにバッジの提示、(3) スポンサーが githubuniverse.com の仮想ページを介してお客様に連絡することの要求、(4) GitHub 以外の第三者が行う抽選、懸賞、プロモーション イベントの参加を含め(ただし、その限りではない)、お客様が情報をスポンサー、出展者、第三者に提示した場合、GitHub 以外のエンティティに情報が移動され、GitHub は当該会社がお客様の個人情報をどのように使用または処理するかについて一切の責任を負わないことを理解し、同意するものとします。 当該会社のプライバシー ポリシーを確認し、個人情報の取り扱い方法、ならびにその取り扱いに不満がないかどうかを判断する必要があります。
+If during the event you provide your information to a sponsor, exhibitor, or third party, including but not limited to (1) RSVPing or attending a session or program hosted by a third party other than GitHub, (2) presenting your badge for scanning at an exhibitor booth or breakout session, (3) requesting that a sponsor contact you via their virtual page on githubuniverse.com, or (4) entering a raffle, sweepstakes, or promotional event put on by third party other than GitHub, you understand and agree that your information will go to a non-GitHub entity and GitHub takes no responsibility for how that company uses or processes your personal information. You should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
 
-イベント スポンサーおよび出展者は、GitHub のプライバシー要件、ならびに個人データを不正使用、アクセス、開示から保護することを含む、適用されるすべての法令を遵守する必要があります。
+Event sponsors and exhibitors are required to comply with GitHub’s privacy requirements and all applicable law including protecting Personal Data from unauthorized use, access or disclosure.
 
-[4 .リスク、責任、免責](#4-risk-liability-and-indemnity)
+[4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
 ----------
 
-### [リスクの引き受け](#assumption-of-risk) ###
+### [Assumption of risk](#assumption-of-risk) ###
 
-イベントで安全な環境を作るために最善の努力をしますが、参加者の安全を100%保証することはできません。 イベントで負傷する恐れを減らすため、お客様の貢献もよろしくお願いします。
+Although we try to create a safe environment at the Event, we cannot guarantee 100% safety for participants. Please do your part to help reduce your chance of being injured at the Event.
 
-お客様は、イベントに参加されるすべての活動にリスクが内在することを慎重に考慮し、イベントへの参加または出席を選択する前に合理的な保護措置を講じることに同意するものとします。 お客様は、ご自身の行動とそれに伴うすべての結果に対して一切の責任を負うものとします。 お客様は、法律で認められる最大限の範囲にて、ご自身の行動と出席に対する責任を負うことに同意するものとします。 GitHub は、イベントで起こり得るいかなる負傷や事故に対して一切の責任を負いません。
+You agree to carefully consider the risks inherent in any activities you choose to take part in at the Event and to take reasonable precautions before you choose to attend or participate at the Event. You are responsible for your own actions and any resulting consequences. You agree to assume responsibility for your actions and your attendance to the fullest extent permitted by law. GitHub is not responsible for any injuries or accidents that you might sustain at the Event.
 
-### [責任の免除](#release-of-liability) ###
+### [Release of liability](#release-of-liability) ###
 
-お客様(お客様自身、ご相続人、個人代理人、譲受人、お客様に代わって申し立てを行う他の方)は、GitHub およびその親会社、子会社、関連会社、役員、取締役、パートナー、株主、会員、代理業者、従業員、ベンダー、スポンサー、ボランティアに対し、イベントの出席に起因、伴う、関連するすべての申し立て、要求、請求権、訴因、損害、損失、費用(訴訟費用および合理的な弁護士費用を含む)を解除、放免、免除し、GitHub を告訴しないことを約束するものとします。 この通知は、GitHub に重大な過失があるか、意図的な不正行為に関与している場合、適用されません。
+You (for yourself, your heirs, personal representatives, or assigns, and anyone else who could make a claim on your behalf) hereby release, waive, discharge and covenant not to sue GitHub and its parent companies, subsidiaries, affiliates, officers, directors, partners, shareholders, members, agents, employees, vendors, sponsors, and volunteers from any and all claims, demands, causes of action, damages, losses, or expenses (including court costs and reasonable attorneys' fees) which may arise out of, result from, or relate in any way to your attendance at the Event. This release will not apply if GitHub is grossly negligent or engages in willful misconduct.
 
-### [補償](#indemnity) ###
+### [Indemnity](#indemnity) ###
 
-お客様は、GitHub、その親会社、子会社、関連会社、役員、取締役、従業員、代理業者、代表者に対し、イベントの出席または行為に起因、関連、関係するいかなる第三者の申し立てまたは要求(経費、責任、訴訟費用を含む)から免責して保護することに同意するものとします。
+You agree to indemnify and hold GitHub, its parents, subsidiaries, affiliates, officers, directors, employees, agents, and representatives harmless, including costs, liabilities, and legal fees, from any claim or demand made by any third party due to, related to, or connected with your attendance or conduct at the Event.
 
-[5. 契約終了](#5-termination)
+[5. Termination](#5-termination)
 ----------
 
-GitHub は、いかなる理由を問わず、いかなる通知義務や責任を負うことなく、イベントに参加する許可を取り消したり、イベントへの参加を禁止または制限したりする権利を留保します。 イベントの参加が終了した場合、このイベント条件の第 4 条の全体が引き続き適用されます。
+GitHub reserves the right to revoke your permission to attend the Event or to otherwise prohibit or limit your attendance at the Event for any or no reason, without notice or liability of any kind. The entirety of Section 4 of these Event Terms will continue to apply if your participation at the Event is terminated.
 
-[6. 法および裁判地の選択](#6-choice-of-law-and-venue)
+[6. Choice of law and venue](#6-choice-of-law-and-venue)
 ----------
 
-抵触法の規定にかかわらず、カリフォルニア州法が、本イベント条件、および申し立て、お客様と GitHub の間で生じる訴因または紛争 (以下「申し立て」といいます) に適用されます。 いずれかの当事者が提起する任意の申し立てに関して、お客様は、カリフォルニア州サンフランシスコ郡の連邦裁判所および州裁判所専属管轄権に従うものとし、これらの裁判所の専属管轄権に同意するものとします。
+California law will govern these Event Terms, as well as any claim, cause of action or dispute that might arise between you and GitHub (a "Claim"), without regard to conflict of law provisions. FOR ANY CLAIM BROUGHT BY EITHER PARTY, YOU AGREE TO SUBMIT AND CONSENT TO THE PERSONAL AND EXCLUSIVE JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE STATE AND FEDERAL COURTS LOCATED WITHIN SAN FRANCISCO COUNTY, CALIFORNIA.
 
-[7. その他の条件](#7-miscellaneous-terms)
+[7. Miscellaneous terms](#7-miscellaneous-terms)
 ----------
 
-お客様は、お客様が GitHub の従業員、代表者、または代理人であると表明しないことに同意するものとします (実際に GitHub によって雇用されている場合は除きます)。
+You agree that you will not represent yourself as an employee, representative, or agent of GitHub (unless, of course, you are actually employed by GitHub).
 
-当社は、理由にかかわらず、責任も他の権利に影響を与えることもなく、イベントまたは関連する行事を随時キャンセルする権利を有します。
+We reserve the right to cancel the Event or any related event at any time, for any reason, and without liability or prejudice.
 
-GitHub において本条件の権利または規定を行使または実施できない場合でも、当該権利または規定を放棄するものとは見なされません。 本条件のいずれかの条項が裁判所により履行不能または無効と判断された場合であっても、当該条項は、イベント条件が有効かつ履行可能となるために必要な最小限度まで制限または除外されるものとします。
+Any failure by GitHub to exercise or enforce any right or provision of these terms does not constitute a waiver of such right or provision. If any provision of these terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Event Terms shall otherwise remain in full force and effect and enforceable.
 
-いかなるイベント出席者、講演者、出展者、スポンサーによって表現される意見は、GitHub によるものとは限りません。 すべての出席者、講演者、出展者、スポンサーは、すべてのプレゼンテーションの内容およびイベントで使用されるその他の資料に対してすべての責任を負うものとします。
+The views expressed by any event attendee, speaker, exhibitor, or sponsor are not necessarily those of GitHub. All attendees, speakers, exhibitors, and sponsors are solely responsible for the content of all presentations and any other material used at the Event.
 
-GitHub は、独自の裁量で予告なくこのイベント規約を更新する権利を留保します。 このイベント条件は、すべてのイベント参加者(出席者、講演者、スポンサー、出展者、スタッフ、関係者 に適用されます。 このイベント条件を定期的に確認することをお勧めします。
+GitHub reserves the right to update these Event Terms in its sole discretion and without prior notice. These Event Terms apply to all event participants (attendees, speakers, sponsors, exhibitors, staff, and crew). You are advised to review these Event Terms periodically.
 
-このイベント条件は、2024 年 2 月 7 日に最終更新されました。
+These Event Terms were last updated on February 7th 2024.
 
 {"resolvedServerColorMode":"day"}

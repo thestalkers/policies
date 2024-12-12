@@ -1,30 +1,30 @@
-개인정보보호정책 - GitHub Docs
+Privacy Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [개인정보보호정책](/ko/site-policy/privacy-policies)
+* [Site policy](/ko/site-policy)/
+* [Privacy Policies](/ko/site-policy/privacy-policies)
 
-개인정보보호정책
+Privacy Policies
 ==========
 
-[GitHub 일반 개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)
+[GitHub General Privacy Statement](/ko/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
-[GitHub 보조 처리자](/ko/site-policy/privacy-policies/github-subprocessors)
+[GitHub Subprocessors](/ko/site-policy/privacy-policies/github-subprocessors)
 ----------
 
-[GitHub 쿠키](/ko/site-policy/privacy-policies/github-cookies)
+[GitHub Cookies](/ko/site-policy/privacy-policies/github-cookies)
 ----------
 
-[GitHub Codespaces 개인정보취급방침](/ko/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[GitHub Codespaces Privacy Statement](/ko/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[GitHub 지원자 개인정보보호정책](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub Candidate Privacy Policy](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

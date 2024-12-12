@@ -1,361 +1,361 @@
-GitHub 赞助商附加条款 - GitHub 文档
+GitHub Sponsors Additional Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
+* [Site policy](/zh/site-policy)/
+* [GitHub Terms](/zh/site-policy/github-terms)/
+* [GitHub Sponsors Additional Terms](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub 赞助商附加条款
+GitHub Sponsors Additional Terms
 ==========
 
-本文内容
+In this article
 ----------
 
-* [1. 定义。](#1-definitions)
-* [1. 可接受的使用方式。](#1-acceptable-use)
-* [2. 受赞助开发人员的义务。](#2-sponsored-developer-obligations)
-* [3. 财务条款。](#3-financial-terms)
-* [4. 声明与保证；责任限制；赔偿。](#4-representations-and-warranties-limitation-of-liability-indemnification)
-* [5. 期限与终止。](#5-term-and-termination)
-* [1. 赞助商计划。](#1-sponsors-program)
-* [2. 付款。](#2-payment)
-* [3. 期限与终止。](#3-term-and-termination)
-* [4. 免责声明；责任限制。](#4-disclaimer-limitation-of-liability)
-* [A. 保密性。](#a-confidentiality)
-* [B. 公开性。](#b-publicity)
-* [C. 通知。](#c-notices)
-* [D. 管辖法律。](#d-governing-law)
-* [E. 分配。](#e-assignment)
-* [F. 可分割性。](#f-severability)
-* [G. 完整协议。](#g-entire-agreement)
-* [H. 条款的变更。](#h-changes-to-the-terms)
+* [1. Definitions.](#1-definitions)
+* [1. Acceptable Use.](#1-acceptable-use)
+* [2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
+* [3. Financial Terms.](#3-financial-terms)
+* [4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+* [5. Term and Termination.](#5-term-and-termination)
+* [1. Sponsors Program.](#1-sponsors-program)
+* [2. Payment.](#2-payment)
+* [3. Term and Termination.](#3-term-and-termination)
+* [4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
+* [A. Confidentiality.](#a-confidentiality)
+* [B. Publicity.](#b-publicity)
+* [C. Notices.](#c-notices)
+* [D. Governing Law.](#d-governing-law)
+* [E. Assignment.](#e-assignment)
+* [F. Severability.](#f-severability)
+* [G. Entire Agreement.](#g-entire-agreement)
+* [H. Changes to the Terms.](#h-changes-to-the-terms)
 
-你参与 GitHub 赞助商计划（简称“计划”）须遵守 [GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)（简称“协议”）或与 GitHub 签订的其他协议（例如 GitHub 客户一般条款、GitHub 公司服务条款或其他协议），以及以下附加条款（简称“附加条款”）。 任何使用 GitHub 赞助商计划但违反协议的行为也将构成对本附加条款的违反。 下文中使用但未定义的任何术语与协议中的含义相同。 针对 GitHub 赞助商计划的本附加条款描述 GitHub 与您（即“受赞助开发人员”）之间就计划而言的关系。 附加条款自您接受这些条款之日起生效（以下简称“生效日期”）。
+Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/zh/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").
 
-本协议的目的是：1) 规定赞助商参与 GitHub 赞助商计划（简称“计划”）的条款：和 2) 规定受赞助开发人员参与该计划的条款。 该计划允许赞助商确定 GitHub 上容纳的某些开放源代码项目（简称“项目”），并承诺对这些项目进行投资，以进一步推动项目的发展。
+The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projects ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development.
 
-[1. 定义。](#1-definitions)
+[1. Definitions.](#1-definitions)
 ----------
 
-“**机密信息**”是指任何一方根据本协议以任何形式向另一方披露、指定为机密或接收方知道或理应知道、在围绕披露的情况和信息的性质下对披露方保密的所有非公开信息。 机密信息不包括以下任何信息：(i) 并非接收方的过错而为公众所知的信息；(ii) 接收方在不受保密限制的情况下，从披露方以外的有权披露之来源正当了解的信息；(iii) 经披露方正式授权人员签署的书面文件之批准，可以不受限制进行披露的信息；或 (iv) 接收方在没有访问或使用披露方机密信息的情况下独立开发的信息。
+"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information.
 
-“**GitHub 政策**”是指 GitHub 的所有当时有效的政策和程序，包括 [GitHub 社区准则](/zh/site-policy/github-terms/github-community-guidelines)，受赞助开发人员必须按照计划中的说明遵守。
+"**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines).
 
-“**赞助商**”是指通过您的受赞助开发人员帐户向您购买订阅或向您支付赞助的用户。
+"**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
 
-“**受赞助开发人员**”是指根据本计划开发内容，并在参与本计划期间收到受赞助开发人员付款的个人或实体。
+“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program.
 
-“**受赞助开发人员帐户**”是指您通过计划建立的帐户，用于接收赞助商付款。
+"**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
 
-“**受赞助开发人员内容**”是指您提交给 GitHub、与计划相关的所有内容，包括用户生成的内容和您的内容；您的品牌名称、商标、服务标志、商号、徽标或原产地标记（以下简称“**受赞助开发人员标志**”）；以及与您的受赞助开发人员帐户相关的数据。
+"**Sponsored Developer Content**" means all content you submit to GitHub in connection with the Program, including User-Generated Content and Your Content; your brand names, trademarks, service marks, trade names, logos, or indicia of origin ("**Sponsored Developer Marks**"); and data associated with your Sponsored Developer Account.
 
-“**赞助**”是指通过计划和服务支付给您的款项。
+"**Sponsorship**" means a payment paid to you through the Program and the Service.
 
-“**订阅**”是指经常性或一次性的赞助，旨在换取您向赞助商提供的商品、服务或其他优惠。
+"**Subscription**" means a recurring or one-time Sponsorship in exchange for goods, services, or other offers you provide to Sponsors.
 
-“**受赞助开发人员付款**”是指 GitHub 通过赞助和订阅获得、支付到受赞助开发人员帐户中每月付款总额的百分之百 (100%) 净额，加上任何适用的匹配资金，以及通过受赞助开发人员选择使用的盈利方案获得的其他收益（如适用），减去任何折扣、税款、费用、GitHub 未收取或已退还或退款的金额、欠任何第三方的计划相关款项（与受赞助开发人员帐户有关），以及第 4 节中列出的其他除外情况。
+"**Sponsored Developer Payment**" means the net of one hundred percent (100%) of GitHub's gross monthly payments received from Sponsorships and Subscriptions to Sponsored Developer Accounts, plus any applicable Matching Funds, and other proceeds from monetization options that the Sponsored Developer elects to use, as applicable, less any discounts, taxes, fees, amounts that GitHub did not collect or which were refunded or charged back, amounts owed to any third-party in connection with the Program with respect to a Sponsored Developer Account, and other Exclusions as outlined in Section 4.
 
-**“USD**”指美元。
+"**USD**" means United States Dollar.
 
-[受赞助开发人员条款](#受赞助开发人员条款)
+[Terms For Sponsored Developer](#terms-for-sponsored-developer)
 ==========
 
-[1. 可接受的使用方式。](#1-acceptable-use)
+[1. Acceptable Use.](#1-acceptable-use)
 ----------
 
-### [1.1. GitHub 赞助商计划](#11-github-sponsors-program) ###
+### [1.1. GitHub Sponsors Program](#11-github-sponsors-program) ###
 
-为了参与计划，您必须遵守所在国家/地区的最低年龄法律（例如，如果您居住在美国，则必须至少年满 13 岁），拥有有效的 GitHub 帐户，并已同意协议中的[“可接受的使用”一节](/zh/site-policy/github-terms/github-terms-of-service#c-acceptable-use)和适用的 GitHub 政策，以及这些 GitHub 赞助商附加条款。
+In order to participate in the Program, you must comply with your country's minimum age laws (for example, you must be at least 13 years of age if you live in the United States), have a valid GitHub account, and have agreed to the [Acceptable Use section](/zh/site-policy/github-terms/github-terms-of-service#c-acceptable-use) in the Agreement and applicable GitHub Policies, and these GitHub Sponsors Additional Terms.
 
-如果您已超过 13 岁但未满 18 岁，您可以给予和接收赞助商资金，前提是我们的付款处理机构 Stripe 可以向您的法定监护人收集验证信息。
+If you are over the age of 13 but are under 18, you can give and receive Sponsor funds, provided that Stripe, our payment processor, can collect verification information from your legal guardian.
 
-在任何情况下，您都不得允许涉及以下方面的付款或资金筹集：
+You will not under any circumstances allow payments or raise funds involving:
 
-* 欺诈、勒索赎金、侵犯知识产权或其他非法目的；
+* Fraud, ransom, violations of intellectual property, or other illegal purposes;
 
-* 与你筹集资金或请求赞助的原因有关的虚假陈述或欺骗；
+* Misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
 
-* 购买或出售 ICO、实用代币或其他类型的加密货币；
+* The purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
 
-* 购买或出售证券、股权或其他类型的投资要约；
+* The purchase or sale of securities, equity, or other types of investment offers;
 
-* 出售个人信息，或在违反任何法律的情况下处理个人信息；
+* The sale of personal information, or the processing of personal information in violation of any laws;
 
-* 彩票、抽奖、赌博、传销、谋私交易、“快速致富计划”、欺诈性营销计划、“捐赠换捐赠”计划，或任何企图操纵 GitHub 或第三方系统或服务的行为；以及，
+* Lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
 
-* 与根据基于适用法律的美国及其他经济制裁不被允许的国家、地区、政府、个人或实体一起进行、在其中进行或涉及这些国家、地区、政府、个人或实体的活动。
+* Activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
 
-### [1.2. GitHub 赞助商匹配资金](#12-github-sponsors-matching-fund) ###
+### [1.2. GitHub Sponsors Matching Fund](#12-github-sponsors-matching-fund) ###
 
-GitHub 赞助商匹配资金旨在鼓励加入到开放源代码软件 (OSS) 生态系统之中的社区为拥有受赞助开发人员帐户的合格个人提供可持续的资金。 对于在 2020 年 1 月 1 日之前申请加入计划的所有个人，都将审核其是否有资格获得匹配资金，但并非所有符合条件的个人受赞助开发人员帐户都会获得匹配。 组织不能参与 GitHub 赞助商匹配资金，此外，组织提供给符合条件的受赞助开发人员账户的赞助将不会被匹配。 更多规则，请参阅下文。
+The GitHub Sponsors Matching Fund aims to encourage the community that participates in the Open Source Software (OSS) ecosystem to contribute sustainable funding to qualifying individuals with Sponsored Developer Accounts. All individuals who applied to the Program before January 1, 2020, will be reviewed for eligibility for the Matching Fund, but not all eligible individual Sponsored Developer Accounts will receive matching. Organizations cannot participate in the GitHub Sponsors Matching Fund, and Sponsorship from an organization to a qualifying Sponsored Developer Account will not be matched. See below for additional rules.
 
-#### [1.2.1. 匹配资金条款。](#121-matching-fund-terms) ####
+#### [1.2.1. Matching Fund Terms.](#121-matching-fund-terms) ####
 
-获得 GitHub 赞助商匹配资金的资格将根据具体情况进行评估，并受到以下限制：
+Eligibility for the GitHub Sponsors Matching Fund is evaluated on a case-by-case basis and is subject to the following limitations:
 
-* 您必须拥有 GitHub 帐户，以个人身份获准加入计划，并积极为 OSS 做出贡献。 请注意，GitHub 不允许运营多个免费个人帐户的行为。 因此，匹配仅适用于个人，且跨多个帐户的匹配不会获得批准。
+* You must have a GitHub account, be accepted into the Program as an individual, and be actively contributing to OSS. Please note, GitHub does not allow operating more than one free personal account. As such, matching is available on an individual basis and will not be approved across multiple accounts.
 
-* 根据我们的全权决定，您对 GitHub 和您的受赞助开发人员帐户的使用必须符合 GitHub 赞助商使命，拓展更多的机会来为支持 [GitHub 社区准则](/zh/site-policy/github-terms/github-community-guidelines)的开放源代码做出贡献。
+* Your use of GitHub and your Sponsored Developer Account must be, based on our determination, in our sole discretion, in accordance with the GitHub Sponsors mission to expand the opportunities to contribute to open source that upholds the [GitHub Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines).
 
-* 如果赞助来自具有已发布 GitHub 赞助商个人资料的用户或组织帐户，则您无法获得接收此类赞助的匹配。
+* You cannot receive matching for any sponsorship that originates from a user or organization account with a published GitHub Sponsors profile.
 
-* GitHub 有权出于任何理由扣留或撤销匹配资金款项，并阻止任何用户参与 GitHub 赞助商匹配资金，包括但不限于发布 GitHub 认为具有冒犯性或在其他方面令人反感的内容或项目。
+* GitHub reserves the right to withhold or rescind Matching Fund money and block any user from participation in the GitHub Sponsors Matching Fund for any reason, including but not limited to posting content or projects that GitHub determines are offensive or otherwise objectionable.
 
-#### [1.2.2. 匹配期。](#122-matching-period) ####
+#### [1.2.2. Matching Period.](#122-matching-period) ####
 
-在 GitHub 接受个人受赞助开发人员帐户加入 GitHub 赞助商计划后，匹配期即开始。 对于每个有资格获得 GitHub 赞助商匹配资金的个人受赞助开发人员帐户，GitHub 可在受赞助开发人员帐户加入计划的前 12 个月内匹配总额最高 5,000 美元的社区赞助。 不得以任何理由延长匹配期。 在匹配期内，GitHub 不会收取任何费用，因此，受赞助开发人员将获得 100% 的赞助。 今后，我们可能会收取象征性的处理费用。
+The matching period begins after GitHub accepts an individual Sponsored Developer Account into GitHub Sponsors. For each individual Sponsored Developer Account eligible for the GitHub Sponsors Matching Fund, GitHub can match community sponsorship up to $5,000 USD total during the Sponsored Developer Account's first 12 months in the Program. The matching period cannot be extended for any reason. During the matching period, GitHub will not charge any fees, so 100% of sponsorships will go to the sponsored developer. In the future, we may charge a nominal processing fee.
 
-* 如果赞助或赞助订阅出于任何原因停止，相关匹配也将停止。 在受赞助开发人员付款日期之前退还给赞助商的资金不符合匹配条件。
+* If a Sponsorship or Sponsoring Subscription stops for any reason, the associated matching will stop as well. Funds that are charged back to the Sponsor before the Sponsored Developer Payment date are not eligible for matching.
 
-* 如果您退出 GitHub 赞助商计划，后来又重新加入，则您的两段参与期之间的间隔可能会计入您的匹配期，或者您的匹配期可能会过期。
+* If you leave GitHub Sponsors and rejoin later, the gap between your participation periods may count toward your matching period or your matching period may expire.
 
-* 如果 GitHub 发现潜在的违反政策行为，则在支付匹配期内授予的任何匹配资金之前，GitHub 可能会禁用支付，直至完成调查，如果发现提供给受赞助开发人员的匹配资金违反本政策，则匹配资金可能会被撤销。
+* If GitHub discovers a potential policy violation, prior to payment of any matching funds granted during the matching period, GitHub may disable payouts until an investigation has been completed, and matched funds contributed to the sponsored developer may be revoked if they are found to be in violation of this policy.
 
-* GitHub 可能会与 GitHub Sponsors 申请者或参与者联系，获取关于其赞助资料或活动的更多信息，以便确定赞助或匹配资格，或者在调查潜在条款违规行为时采取此行动。
+* GitHub may contact GitHub Sponsors applicants or participants for additional information regarding their sponsorship profile or activity to determine eligibility for sponsorship or matching, or as part of investigating potential terms violations.
 
-[2. 受赞助开发人员的义务。](#2-sponsored-developer-obligations)
+[2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
 ----------
 
-### [2.1. 通则。](#21-general) ###
+### [2.1. General.](#21-general) ###
 
-您将：(A) 创建受赞助开发人员帐户；(B) 通过计划和服务提供受赞助开发人员内容；并且 (C) 遵守所有 GitHub 政策。 您将全权负责支持、开发和维护受赞助开发人员帐户和受赞助开发人员内容以及关于它们的任何投诉。
+You will: (A) create a Sponsored Developer Account; (B) make Sponsored Developer Content available via the Program and Service; and, (C) comply with all GitHub Policies. You will be solely responsible for support, development, and maintenance of your Sponsored Developer Account and Sponsored Developer Content, and any complaints about them.
 
-### [2.2. 注册。](#22-registration) ###
+### [2.2. Registration.](#22-registration) ###
 
-如果您选择申请加入计划，则只有在完成注册过程并由 GitHub 准许加入计划后，您才有可能加入计划。 此外，您可能需要在 GitHub 选择的付款服务提供商（例如 Stripe）处注册帐户，才能访问和使用计划的某些功能。 您必须使用您的真实身份进行注册，并且您同意根据计划注册表的要求，提供并维护关于您本人的真实、准确、最新且完整的信息。 注册数据及关于您的某些其他信息受我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)以及我们的付款处理机构提供的任何隐私声明的约束。 GitHub 有权拒绝准许对计划的加入。
+If you choose to apply for the Program, entry into the Program is contingent upon your completion of the registration process and acceptance into the Program by GitHub. In addition, you may be required to register with the payment service provider(s) selected by GitHub (such as Stripe) in order to access and use certain features of the Program. You must register with your true identity, and you agree to provide and maintain true, accurate, current and complete information about yourself as requested by the Program's registration form. Registration data and certain other information about you are governed by our [Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement), as well as any privacy statement provided by our payment processor. GitHub reserves the right to refuse acceptance into the Program.
 
-### [2.3. 内容盈利。](#23-content-monetization) ###
+### [2.3. Content Monetization.](#23-content-monetization) ###
 
-通过计划和服务，GitHub 可能会为您提供各种通过您的受赞助开发人员内容盈利的方案。 某些方案可能需要您更新受赞助开发人员帐户中的某些设置。 此外，计划为每种盈利方案提供支持的方式可能会有所不同。 如果您通过更改适用设置来使用这些方案中的一个（或多个），则您同意适用于该方案的条款。 某些盈利方案可能需要您向 GitHub 或其服务提供商提供额外的信息，或接受额外的 GitHub 条款或第三方条款。
+Through the Program and Service, GitHub may provide you various options to monetize your Sponsored Developer Content. Some options may require you to update certain settings in your Sponsored Developer Account. In addition, the ways in which the Program supports each monetization option may vary. If you utilize one (or more) of these options by changing the applicable settings, then you agree to the terms that apply to that option. Some monetization options may require you to provide additional information to GitHub or its service providers, or to accept additional GitHub terms or third-party terms.
 
-#### [2.3.1. 订阅。](#231-subscriptions) ####
+#### [2.3.1. Subscriptions.](#231-subscriptions) ####
 
-通过计划，您可以提供订阅。 如果您选择提供订阅，则 GitHub 将按照第 4 节中的规定向您支付订阅赞助。 您有责任根据本附加条款及适用的 GitHub 政策确定所提供订阅的性质、内容和功能。
+The Program provides you with the capability to offer Subscriptions. If you choose to offer Subscriptions, then GitHub will pay you the Subscription Sponsorship as provided in Section 4. You are responsible for determining the nature, content, and capabilities of your Subscription offer, subject to these Additional Terms and applicable GitHub Policies.
 
-#### [2.3.2. 其他赞助。](#232-other-sponsorships) ####
+#### [2.3.2. Other Sponsorships.](#232-other-sponsorships) ####
 
-通过计划或服务，您或许可以获得来自其他用户的捐赠或其他类型的直接赞助，而无需提供订阅。 但是，由于 GitHub 并不履行这些类型的赞助，您必须在第三方付款服务提供商（例如 Stripe）处建立一个商家帐户，并遵守该服务提供商的商家帐户条款、条件和隐私政策。 向您提供的任何金额（无论是捐赠还是其他方式的款项）都将直接支付到您的商家帐户，且不包含在任何受赞助开发人员付款中。 您同意，您不会向 GitHub 提出任何与捐赠有关的索赔或要求其采取补救措施，并且与捐赠有关的任何争议仅发生在您与第三方付款服务提供商之间。 您有责任遵守任何第三方付款服务提供商的协议、政策以及可能适用的法律或法规。 GitHub 可能会选择向您提供有关您获得的捐赠金额的信息或报告，以方便您查看。
+The Program or Service may provide you with the ability to accept a donation or other type of direct Sponsorship from another User without a Subscription offer. However, because GitHub does not fulfill those types of Sponsorships, you must establish a merchant account with a third-party payment service provider (such as Stripe) and be subject to that service provider's merchant account terms, conditions, and privacy policies. Any amounts contributed to you, donation or otherwise, will be paid directly to your merchant account and not included in any Sponsored Developer Payments. You agree that you will not have any claim or remedy against GitHub relating to donations and any disputes relating to a donation are solely between you and the third-party payment service provider. You are responsible for compliance with any third-party payment service provider's agreements, policies, and laws or regulations that may apply. GitHub may elect to provide you with information or a report on the amount of donations made to you for your convenience.
 
-#### [2.3.3. 广告。](#233-advertising) ####
+#### [2.3.3. Advertising.](#233-advertising) ####
 
-虽然我们了解，您可能希望通过在您的帐户中发布赞助商的名称或徽标来对他们进行宣传，但您的受赞助开发人员内容的主要重点不应是广告或宣传营销。 此外，如果[协议](/zh/site-policy/github-terms/github-terms-of-service)或 GitHub 的社区准则禁止签订任何广告协议来推广任何产品或品牌，则您不得从事此类活动。 如果您决定在您的受赞助开发人员内容中放置任何广告或促销材料，您应全权负责遵守所有适用的法律和法规，包括美国联邦贸易委员会的《背书和推荐指南》。
+While we understand that you may want to promote your Sponsors by posting their names or logos in your account, the primary focus of your Sponsored Developer Content should not be advertising or promotional marketing. In addition, you may not enter into any advertising agreement to promote any product or brand if doing so would be prohibited by the [Agreement](/zh/site-policy/github-terms/github-terms-of-service) or GitHub's Community Guidelines. If you decide to host any advertising or promotional materials in your Sponsored Developer Content, you are solely responsible for complying with all applicable laws and regulations, including the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials.
 
-[3. 财务条款。](#3-financial-terms)
+[3. Financial Terms.](#3-financial-terms)
 ----------
 
-### [3.1. 付款。](#31-payment) ###
+### [3.1. Payment.](#31-payment) ###
 
-GitHub 将根据本节（第 3 节）向你支付受赞助开发人员付款，前提是你履行第 2 节中的受赞助开发人员义务，且不违反本附加条款。 如果您未能在任何指定月份履行这些义务，我们可以自行决定扣留当月的受赞助开发人员付款。 如果在期限内，你两 (2) 个月或更长时间（连续或非连续）未能履行或维持受赞助开发人员义务，则 GitHub 可以按照第 5 节的规定终止本附加条款。
+GitHub will pay you the Sponsored Developer Payment in accordance with this Section 3, so long as you meet the Sponsored Developer Obligations in Section 2 and are not in violation of these Additional Terms. If you fail to meet these obligations for any given month, we may at our sole discretion withhold the Sponsored Developer Payment for that month. If you fail to meet or maintain the Sponsored Developer Obligations for two (2) or more months during the Term (consecutively or non-consecutively), then GitHub may terminate these Additional Terms as provided in Section 5.
 
-### [3.2. 受赞助开发人员付款除外情形。](#32-sponsored-developer-payment-exclusions) ###
+### [3.2. Sponsored Developer Payment Exclusions.](#32-sponsored-developer-payment-exclusions) ###
 
-以下金额不包括在受赞助开发人员付款中，或者可由 GitHub 在适用情况下扣留。
+The following amounts are not included in Sponsored Developer Payments, or may be withheld by GitHub, as applicable.
 
-#### [3.2.1. 受赞助开发人员费用。](#321-sponsored-developer-expenses) ####
+#### [3.2.1. Sponsored Developer Expenses.](#321-sponsored-developer-expenses) ####
 
-您将承担因履行本附加条款而产生的所有费用。 我们不会为您报销或预付任何费用。
+You will bear all expenses you incur in connection with your performance under these Additional Terms. We will not reimburse or advance you for any expenses.
 
-#### [3.2.2. 税款。](#322-taxes) ####
+#### [3.2.2. Taxes.](#322-taxes) ####
 
-GitHub 拟遵守 GitHub 根据自己的判断合理确定适用于此类付款的所有适用税务信息申报和预扣税法。 如果必须对 GitHub 支付给您的任何金额预扣税款，或者从根据适用法律需要进行税务信息申报的金额中预扣税款，GitHub 将从应付给您的金额里扣除此类税款，并将其支付给相应的税收机构，也会根据需要取得并为您提供根据适用法律要求预扣的任何此类税款的正式收据。 GitHub 将采取合理的措施，在适用法律允许的范围内尽可能减少此类税款，并且各方将根据适用所得税法或条约，合理地与另一方展开合作，以获得最低税率或取消此类税款。 这包括您向 GitHub 提供适用法律要求的适当信息，例如 IRS 表单 W-8、W-9 或其他信息，以争取预扣税豁免。 如果适用，您也有责任遵守任何第三方付款处理机构关于预扣税和申报的条款和条件。 此外，GitHub 有权暂停向您的帐户付款，直至您向 GitHub 提供适用法律要求的适当文档或信息，以便 GitHub 确定适用于本附加条款或协议项下付款的任何适用预扣税或申报义务。
+GitHub intends to comply with all applicable tax information reporting and tax withholding laws that GitHub reasonably determines in its judgment apply to these payments. If taxes are required to be withheld on any amounts to be paid by GitHub to you or from amounts which are subject to tax information reporting under applicable laws, GitHub will deduct such taxes from the amount owed and pay them to the appropriate taxing authority and, as required, will secure and deliver to you an official receipt for any such taxes withheld as required under applicable laws. GitHub will use reasonable efforts to minimize such taxes to the extent permissible under applicable law, and each party will reasonably cooperate with the other to obtain the lowest tax rates or elimination of such taxes pursuant to the applicable income tax laws or treaties. This includes you providing to GitHub adequate information required under applicable laws, such as IRS Forms W-8, W-9, or other information to establish exemptions from withholding. You will also be responsible for complying with any third-party payment processor’s terms and conditions regarding tax withholding and reporting, if applicable. Furthermore, GitHub reserves the right to suspend payments to your account until you provide GitHub with adequate documentation or information required under applicable laws for GitHub to determine any applicable tax withholding or reporting obligations that apply to the payments under these Additional Terms or Agreement.
 
-#### [3.2.3. 因违规而扣留受赞助开发人员付款。](#323-withholding-of-sponsored-developer-payment-for-breach) ####
+#### [3.2.3. Withholding of Sponsored Developer Payment for Breach.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
 
-如果受赞助开发人员违反或涉嫌违反本附加条款或协议，GitHub 有权根据本附加条款或以其他方式扣留受赞助开发人员付款，直至 GitHub 对其进行合理调查。 如果 GitHub 自行确定受赞助开发人员违反本附加条款或协议，GitHub 可以永久扣留应支付给该受赞助开发人员的任何款项。
+In the event of a Sponsored Developer's breach, or suspected breach, of these Additional Terms or the Agreement, GitHub reserves the right to withhold payment to the Sponsored Developer under these Additional Terms or otherwise, pending GitHub's reasonable investigation of the same. If GitHub determines, in its sole discretion, that a Sponsored Developer is in breach of these Additional Terms or the Agreement, GitHub may permanently withhold any amounts due to the Sponsored Developer.
 
-### [3.3. 付款时间。](#33-payment-timing) ###
+### [3.3. Payment Timing.](#33-payment-timing) ###
 
-在期限内，对于在指定月份收到的所有受赞助开发人员付款，GitHub 将在该月结束后的 30 天内汇给您，具体取决于以下可变因素。 付款通过 Stripe Connect、ACH 转帐或电汇发送到您在申请 GitHub 赞助商时提供的银行帐户。 对于因您或银行提供的信息不准确或不完整，或者银行未能在您的帐户中入帐导致的任何受赞助开发人员付款延迟或使用不当，我们概不负责。
+During the term, GitHub will remit to you all Sponsored Developer Payments received in a given month within 30 days after the close of that month, subject to the variables below. Payouts are sent through Stripe Connect, ACH transfer, or wire transfer to the bank account you provided when you applied for GitHub Sponsors. We are not responsible for delay or misapplication of any Sponsored Developer Payment because of incorrect or incomplete information supplied by you or a bank, or for failure of a bank to credit your account.
 
-* 首次付款时，GitHub 将在首次赞助启动 60 天后汇给您全额的受赞助开发人员款额，具体取决于以下可变因素。 此考察期适用于所有受赞助开发人员帐户，有助于确保该计划的完整性。 此后的付款将按照本节规定，在该月结束后的 30 天内汇出。
+* For first payments, GitHub will remit to you all Sponsored Developer Payments 60 days after the first sponsorship is initiated, subject to the variables below. This probation period is applied to all Sponsored Developer Accounts and helps insure the integrity of the program. Payments thereafter will be remitted within 30 days of the close of that month, in accordance with this section.
 
-* 如果您通过 Stripe Connect 接收付款，您将在每月 22 日收到自上次付款以来累积余额的款项，无论余额是多少。 付款起始日期因国家/地区而异，并且由于公共节假日、周末及其他因素，每个月都可能发生变化。 若付款是跨境付款，则最低付款金额可能适用。 有关详细信息，请参阅 Stripe 文档中的[接收付款](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts)。
+* If you are paid through Stripe Connect, you will receive payouts on the 22nd of the month for the balance accrued since the last payout, regardless of the amount of the balance. Payout initiation dates vary by country, and can change from month to month due to public holidays, weekends, and other factors. When the payout is a cross-border payout, a minimum payout amount may apply. For more information, see [Receiving payouts](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts) in the Stripe documentation.
 
-* 如果您通过 ACH 转帐或电汇接收付款，您将在每月的第三个周四收到付款。 GitHub 会在您的余额达到 100 美元的任何一个月向您发放付款。 来自 GitHub 赞助商匹配资金的捐款不计入此阈值。 如果您的月底余额低于 100 美元，则余额将进行累积，直至下一次您的月底余额高于阈值为止。 如果您退出 GitHub 赞助商，即使余额低于 100 美元，GitHub 也会发放剩余余额的款项。
+* If you are paid through ACH transfer or wire transfer, you will receive payouts on the third Thursday of the month. GitHub will issue a payout to you for any month that your balance reaches $100 USD. Contributions from the GitHub Sponsors Matching Fund do not count towards this threshold. If your balance is below $100 at the end of the month, the balance will accrue until the next time your balance is above the threshold at the end of the month. If you leave GitHub Sponsors, GitHub will issue a payout for your remaining balance even if the balance is below $100.
 
-* 终止后，在我们确认本附加条款已终止的日历月结束后的大约 90 天内，我们会将所有收到且未支付的受赞助开发人员付款汇给您。
+* After termination, we will remit to you all Sponsored Developer Payments received and unpaid within approximately 90 days after the end of the calendar month in which we recognize that these Additional Terms have been terminated.
 
-### [3.4. 付款方式。](#34-payment-method) ###
+### [3.4. Payment Method.](#34-payment-method) ###
 
-我们将通过 ACH/SEPA 或电汇将受赞助开发人员付款汇至您指定的帐户，具体取决于我们当时有效的付款政策中提供的阈值、方法和时间表，我们可能会不时更新这些政策。 付款方式和阈值可能因国家/地区和您提供的帐户信息而异。 我们可以自行决定，将受赞助开发人员付款与可能应付给您的任何其他付款合并。
+We will remit Sponsored Developer Payments by ACH/SEPA or wire to an account that you specify subject to the thresholds, methods and timeframes provided in our then-current payment policies, which we may update from time to time. The payment method and threshold may vary depending on the country and account information you provide. We may, at our sole discretion, combine the Sponsored Developer Payment with any other payments that may be owed to you.
 
-### [3.5. 货币。](#35-currency) ###
+### [3.5. Currency.](#35-currency) ###
 
-所有提及的货币均为美元。 如果您在美国境外，我们可能会按照我们当时有效的汇率将美元兑换成在您提供的地址流通的当地货币进行付款。
+All references to currency are to USD. If you are outside of the United States, we may convert USD to the local currency of your address for payment, using our then-current conversion rates.
 
-### [3.6. 退款要求。](#36-refund-requirements) ###
+### [3.6. Refund Requirements.](#36-refund-requirements) ###
 
-如果要向您的赞助商进行任何退款，您将负责指定相关条款和条件。 在任何情况下，GitHub 均不负责为退款提供任何支持，GitHub 也不负责支付任何退款。
+You will be responsible for specifying the terms and conditions regarding any refunds, if any, to your Sponsors. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
 
-### [3.7. 要求的付款信息。](#37-requested-payment-information) ###
+### [3.7. Requested Payment Information.](#37-requested-payment-information) ###
 
-为了向您付款，您必须向我们提供我们所要求的完整且准确的财务、税务和银行信息（例如，通过帐户创建或设置或其他方式）。 我们将通过任何通信方式，就所需信息发生的变化通知您。 如果您未能准确提供（或准确维护）此类信息，(a) 我们可以从您的受赞助开发人员付款中扣除任何相关的银行费用，并且 (b) 我们可以终止本附加条款，且您可能会丧失 GitHub 应支付给您的任何款项。
+To pay you, you must provide us with complete and accurate financial, tax, and banking information that we request (for example, by means of account creation or setup, or otherwise). We will notify you, by any means of communication, of changes to what information is required. If you fail to accurately provide (or accurately maintain) such information, (a) we can deduct from your Sponsored Developer Payment any related bank fees, and (b) we can terminate these Additional Terms and you may forfeit any amounts owed to you by GitHub.
 
 ### [3.8. Stripe Connect](#38-stripe-connect) ###
 
-如果您通过 Stripe Connect 接收付款，则以下附加条款适用于您对 GitHub 赞助商的使用：
+If you are paid through Stripe Connect, the following additional terms apply to your usage of GitHub Sponsors:
 
-**完整服务协议**
+**Full service agreement**
 
-*适用于在澳大利亚、奥地利、比利时、加拿大、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、中国香港特别行政区、爱尔兰、意大利、日本、拉脱维亚、立陶宛、卢森堡、荷兰、新西兰、挪威、波兰、葡萄牙、斯洛伐克、斯洛文尼亚、西班牙、瑞典、瑞士、英国、美国注册的受赞助开发人员帐户。*
+*Applies to Sponsored Developer Accounts registered in Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, United States.*
 
-面向 GitHub 赞助商计划中的受赞助开发人员帐户的付款处理服务由 Stripe 提供，并受 [Stripe 关联帐户协议](https://stripe.com/connect-account/legal/full)约束，该协议包括 [Stripe 服务条款](https://stripe.com/legal)（统称为“Stripe 服务协议”）。 同意这些条款或继续以 GitHub 赞助商计划中的受赞助开发人员帐户的形式运营，即表示您同意遵守 Stripe 服务协议，而 Stripe 可能会不时修改该协议。 作为 GitHub 通过 Stripe 启用付款处理服务的条件，您同意向 GitHub 提供有关您和您的业务的准确且完整的信息，并且您授权 GitHub 共享这些信息以及与您使用 Stripe 提供的付款处理服务相关的交易信息。
+Payment processing services for Sponsored Developer Accounts on GitHub Sponsors are provided by Stripe and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal/full), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a Sponsored Developer Account on GitHub Sponsors, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of GitHub enabling payment processing services through Stripe, you agree to provide GitHub accurate and complete information about you and your business, and you authorize GitHub to share it and transaction information related to your use of the payment processing services provided by Stripe.
 
-**收款人服务协议**
+**Recipient service agreement**
 
-*适用于所有其他国家/地区的受赞助开发人员帐户。*
+*Applies to Sponsored Developer Accounts in all other countries.*
 
-我们使用 Stripe 向受赞助开发人员帐户付款。 [Stripe 收款人协议](https://stripe.com/connect-account/legal/recipient)适用于您对此类付款的接收。 要接收来自 GitHub 赞助商的付款，您必须向我们提供有关您和您的业务的准确且完整的信息，并且您授权我们共享这些信息以及与通过 Stripe 向您付款相关的交易信息。
+We use Stripe to make payouts to Sponsored Developer Accounts. The [Stripe Recipient Agreement](https://stripe.com/connect-account/legal/recipient) applies to your receipt of such payouts. To receive payouts from GitHub Sponsors, you must provide us accurate and complete information about you and your business, and you authorize us to share it and transaction information related to your payout with Stripe.
 
-[4. 声明与保证；责任限制；赔偿。](#4-representations-and-warranties-limitation-of-liability-indemnification)
+[4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [4.1. 主体：受赞助开发人员。](#41-by-sponsored-developer) ###
+### [4.1. By Sponsored Developer.](#41-by-sponsored-developer) ###
 
-受赞助开发人员声明并保证：
+Sponsored Developer represents and warrants that:
 
-* 你有权签订并全面履行本附加条款；
+* You have the authority to enter into and fully perform these Additional Terms;
 
-* 你对本附加条款的执行和履行不会违反你与任何第三方之间的任何其他协议或义务；
+* Your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
 
-* 受赞助开发人员内容不会侵犯、违反或盗用任何第三方权利，包括任何版权、商标、专利、商业秘密、著作人身权、隐私权、公开权或任何其他知识产权；
+* Sponsored Developer Content does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property;
 
-* 你将遵守所有法律和法规，并且你的受赞助开发人员内容不违法，也不会违反任何法律或法规。
+* You will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
 
-### [4.2. 保证免责声明；责任限制；赔偿。](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
+### [4.2. Disclaimer of Warranties; Limitation of Liability; Indemnification.](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
-您明确同意，协议的 O（保证免责声明）、P（责任限制）和 Q（让渡和赔偿）部分适用于本附加条款。
+YOU EXPLICITLY AGREE THAT SECTIONS O (DISCLAIMER OF WARRANTIES), P (LIMITATION OF LIABILITY), AND Q (RELEASE AND INDEMNIFICATION) OF THE AGREEMENT APPLY TO THESE ADDITIONAL TERMS.
 
-[5. 期限与终止。](#5-term-and-termination)
+[5. Term and Termination.](#5-term-and-termination)
 ----------
 
-### [5.1. 期限。](#51-term) ###
+### [5.1. Term.](#51-term) ###
 
-本附加条款自生效日期开始，并在您参与计划期间一直有效。
+These Additional Terms commence on the Effective Date and remain in effect as long as you participate in the Program.
 
-### [5.2. 暂停。](#52-suspension) ###
+### [5.2. Suspension.](#52-suspension) ###
 
-如果您以任何方式违反本附加条款或协议，或者如果您被列入限制贸易名单，或者位于或通常居住于受到美国海外资产管理办公室 (OFAC) 所执行的全面制裁的国家或地区，GitHub 可能会立即暂停您的受赞助开发人员帐户。 未能纠正或解决暂停原因可能会导致您的受赞助开发人员帐户的终止。
+GitHub may suspend your Sponsored Developer Account immediately if you violate these Additional Terms or the Agreement in any way, or if you are placed on a restricted trade list or located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC). Failure to correct or cure the cause for suspension may result in the termination of your Sponsored Developer Account.
 
-### [5.3. 终止。](#53-termination) ###
+### [5.3. Termination.](#53-termination) ###
 
-无论是否有理由，任何一方均可在通知或不通知的情况下，随时终止本附加条款和您的受赞助开发人员帐户。 如果您违反本附加条款或协议，我们可能会（但并无义务）为您提供一段时间来纠正违约行为。
+Either party may terminate these Additional Terms and your Sponsored Developer Account at any time with or without cause, with or without notice. If you breach these Additional Terms or the Agreement, we may, but are not obligated to, offer you a period of time to cure the breach.
 
-### [5.4. 终止效力。](#54-effect-of-termination) ###
+### [5.4. Effect of Termination.](#54-effect-of-termination) ###
 
-如果任何一方根据第 5.3 节终止，GitHub 唯一的义务是向受赞助开发人员支付截至终止之日累积的受赞助开发人员付款，除非法律禁止此类付款。
+If either Party terminates under Section 5.3, GitHub’s sole obligation will be to pay Sponsored Developer the amount of the Sponsored Developer Payment accrued up until the date of termination, unless such payments are prohibited by law.
 
-[赞助商条款](#赞助商条款)
+[Terms for Sponsors](#terms-for-sponsors)
 ==========
 
-[1. 赞助商计划。](#1-sponsors-program)
+[1. Sponsors Program.](#1-sponsors-program)
 ----------
 
-### [1.1 说明。](#11-description) ###
+### [1.1 Description.](#11-description) ###
 
-GitHub 将根据赞助商的依赖关系确定可在[探索 GitHub 赞助商](https://github.com/sponsors/explore)进行投资的项目。赞助商应自行决定对项目进行投资，包括赞助哪些项目以及赞助金额。
+GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
 
-### [1.2 发票创建。](#12-invoice-creation) ###
+### [1.2 Invoice creation.](#12-invoice-creation) ###
 
-GitHub 将为赞助商提供创建发票的功能，以便为其帐户余额添加资金，用于投资其选择的项目。
+GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses.
 
-### [1.3 仪表板。](#13-dashboard) ###
+### [1.3 Dashboard.](#13-dashboard) ###
 
-GitHub 将为赞助商提供显示其总赞助金额和余额的仪表板。
+GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance.
 
-### [1.4 反馈。](#14-feedback) ###
+### [1.4 Feedback.](#14-feedback) ###
 
-赞助商可向 GitHub 提供关于计划的反馈。 反馈是自愿提供的，且不属于赞助商机密信息，即使它被指定为机密信息也是如此。 GitHub 可以出于任何目的充分使用和利用这些反馈信息。
+Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose.
 
-[2. 付款。](#2-payment)
+[2. Payment.](#2-payment)
 ----------
 
-### [2.1 付款。](#21-payment) ###
+### [2.1 Payment.](#21-payment) ###
 
-赞助商可以创建发票，将资金添加到其帐户余额，用于投资项目。 GitHub 将在发票创建表单完成后向赞助商开具发票。 赞助商将在 GitHub 发票日期后的三十 (30) 天内全额支付每张发票开具的费用，没有任何形式的扣除或抵销。 每张发票上显示且根据本协议支付的金额均不可退还。
+Sponsor may create an invoice to add funds to their account balance for the purpose of investing in Projects. GitHub will issue an invoice to Sponsor upon completion of the invoice creation form. Sponsor will pay the Fees set forth in each invoice in full, without deduction or set-off of any kind, within thirty (30) days of the GitHub invoice date. Amounts reflected on each Invoice and which are payable under this Agreement are non-refundable.
 
-### [2.2 费用。](#22-fees) ###
+### [2.2 Fees.](#22-fees) ###
 
-每笔交易额外收取 3% 的服务费（简称“服务费”）将从赞助商的账户中扣除，以支付与提供该计划相关的 GitHub 管理费用。 如果通过信用卡付款，将额外收取 3% 的手续费。
+An additional service fee (“Service Fee”) of 3% per transaction will be deducted from Sponsor’s account to cover GitHub’s administrative costs associated with offering the Program. If payment is made via credit card, an additional 3% fee will be applied.
 
-### [2.3 税款。](#23-taxes) ###
+### [2.3 Taxes.](#23-taxes) ###
 
-赞助商自行负责本协议造成或与之相关的所有税款、费用、关税和政府评估（基于 GitHub 净收入的税款除外）。
+Sponsor is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
-[3. 期限与终止。](#3-term-and-termination)
+[3. Term and Termination.](#3-term-and-termination)
 ----------
 
-### [3.1 期限。](#31-term) ###
+### [3.1 Term.](#31-term) ###
 
-除非按下述规定提前终止，本协议有效期为一年，从生效日期起算。 除非按本协议规定终止，否则本协议将按年度自动续订。
+This Agreement is effective for a period of one year commencing on the Effective Date, unless terminated earlier, as set forth below. Unless terminated as set forth herein, this Agreement will automatically renew for additional annual terms.
 
-### [3.2 终止。](#32-termination) ###
+### [3.2 Termination.](#32-termination) ###
 
-如果没有待处理的有效发票，任何一方均可提前三十 (30) 天书面通知终止本协议。
+If there is no active invoice pending, either party may terminate this Agreement on thirty (30) days’ prior written notice.
 
-[4. 免责声明；责任限制。](#4-disclaimer-limitation-of-liability)
+[4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
 ----------
 
-### [4.1 免责声明。](#41-disclaimer) ###
+### [4.1 Disclaimer.](#41-disclaimer) ###
 
-GitHub 按“原样”和“可用”的形式提供赞助商计划，且 GitHub 明确声明不提供关于服务的所有明示、默示或法定保证，包括但不限于对适销性、特定用途之适用性、所有权、安全性、准确性或不侵权的任何默示保证。
+GitHub provides the Sponsor Program “AS IS” and “AS AVAILABLE,” and GitHub expressly disclaims all warranties, whether express, implied or statutory, regarding the Service, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, title, security, accuracy or non-infringement.
 
-### [4.2 责任限制。](#42-limitation-of-liability) ###
+### [4.2 Limitation of Liability.](#42-limitation-of-liability) ###
 
-#### [4.2.1 排除间接损害。](#421-exclusion-of-indirect-damages) ####
+#### [4.2.1 Exclusion of Indirect Damages.](#421-exclusion-of-indirect-damages) ####
 
-在适用法律允许的最大范围内，对于本协议造成或与之相关的任何间接、特殊、偶发性、惩罚性或后果性损害（包括利润和收入损失或数据丢失），或者对于获取替代产品的费用，在任何情况下，任一方均无需对另一方或任何第三方承担责任，无论损害是何原因造成，也不管该等责任是否源自基于合同、保证、侵权（包括过失）、严格责任或其他的任何索赔，以及一方是否已被告知存在此类损害的可能。
+To the maximum extent permitted by applicable law, in no event will either party be liable to the other party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.
 
-#### [4.2.2 全部责任限制。](#422-limitation-of-total-liability) ####
+#### [4.2.2 Limitation of Total Liability.](#422-limitation-of-total-liability) ####
 
-在适用法律允许的最大范围内，在任何情况下，任何一方在本协议下源自所有诉因和所有责任理论的全部累计责任均不得超过针对该责任发起索赔之前的 12 个月内，赞助商实际支付给 GitHub 的费用。
+To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Sponsor has actually paid to GitHub during the twelve month period immediately preceding the event triggering potential liability.
 
-[一般计划条款（适用于赞助商和受赞助开发人员）](#一般计划条款适用于赞助商和受赞助开发人员)
+[General Program Terms (apply to both Sponsors and Sponsored Developers)](#general-program-terms-apply-to-both-sponsors-and-sponsored-developers)
 ==========
 
-[A. 保密性。](#a-confidentiality)
+[A. Confidentiality.](#a-confidentiality)
 ----------
 
-本协议的条款和条件属于双方的机密信息。 除本协议允许的情况外，任何一方均不得使用另一方根据本协议提供的机密信息。 各方同意至少参照在保护自身类似性质信息时的谨慎程度来保护对方的机密信息，但在任何情况下至少应采取合理的谨慎程度。 每一方都将采用所有合理的预防措施防止未经授权披露对方的机密信息，并且仅向符合以下条件的员工、高管、董事、代理、独立签约方、顾问以及法律和财务顾问（以下统称“**代表**”）披露此类机密信息：(i) 需要知道此类信息，(ii) 是足以符合本节规定的适当协议的当事方，以及 (iii) 已被告知本节规定的使用和披露限制。 每一方均应对其代表的所有行为和疏漏负责。 上述义务不限制接收方根据法院、行政机关或其他政府机构的命令或要求披露另一方的机密信息，前提是接收方须向披露方发出合理通知，以使披露方能够对此类命令或要求提出异议，法律禁止该等通知的情形除外。
+The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement. Each party agrees to maintain in confidence and protect the other party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each party will take all reasonable precautions to prevent any unauthorized disclosure of the other party's Confidential Information and will only disclose such Confidential Information to its employees, officers, directors, agents, independent contractors, consultants, and legal and financial advisors (“**representatives**”) who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section, and (iii) are informed of the restrictions on use and disclosure set forth in this Section. Each party is responsible for all acts and omissions of its representatives. The foregoing obligations will not restrict the receiving party from disclosing the other party’s Confidential Information pursuant to an order or requirement of a court, administrative agency, or other governmental body, provided that the receiving party gives reasonable notice to the disclosing party to enable such party to contest such order or requirement, unless such notice is prohibited by law.
 
-[B. 公开性。](#b-publicity)
+[B. Publicity.](#b-publicity)
 ----------
 
-GitHub 可能会发布与赞助商（经赞助商许可）或赞助开发人员参与本计划相关的新闻稿、博客文章、社交媒体文章和/或其他公开通讯。 除此类使用需要外，GitHub 无权根据本协议使用或提及该赞助商的标识、名称或姓名，或对其享有权益。
+GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor’s (with Sponsor’s permission) or Sponsored Developer’s participation in the Program. Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor’s logo, name or names under this Agreement.
 
-[C. 通知。](#c-notices)
+[C. Notices.](#c-notices)
 ----------
 
-根据本协议的通知或通信将以书面形式（电子邮件即可）发送给相应账户中指定的个人。 如果通过电子邮件发送通知，在发送后的一 (1) 个工作日视为收到；通过挂号信发送的通知，在发送后的三 (3) 个工作日视为收到。
+Notices or communications under this Agreement will be made in writing (email to suffice) to the individual identified on the applicable account. Notices will be deemed received one (1) business day after delivery, if sent by email, and three (3) business days after delivery, if sent via registered mail.
 
-[D. 管辖法律。](#d-governing-law)
+[D. Governing Law.](#d-governing-law)
 ----------
 
-本协议将受加利福尼亚州法律管辖并据以解释，不适用任何冲突法原则，根据本协议提出的任何法律诉讼或法律程序只能在北加利福尼亚北区的联邦或州法院进行。
+This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California.
 
-[E. 分配。](#e-assignment)
+[E. Assignment.](#e-assignment)
 ----------
 
-未经另一方事先书面同意（不得无理拒绝或延迟），任何一方不得转让或以其他方式转移本协议的全部或部分内容，任何试图这样做的行为都是无效的。
+Neither party may assign or otherwise transfer this Agreement, in whole or in part, without the other party's prior written consent (not to be unreasonably withheld or delayed), and any attempt to do so will be null and void.
 
-[F. 可分割性。](#f-severability)
+[F. Severability.](#f-severability)
 ----------
 
-如果有管辖权的法院认为本协议的任何条款不可执行，双方将修改本协议，以使此类条款生效，其余条款将仍具有完全效力。
+If any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable, the parties will modify this Agreement to give effect to such provision and the remaining provisions will continue in full force and effect.
 
-[G. 完整协议。](#g-entire-agreement)
+[G. Entire Agreement.](#g-entire-agreement)
 ----------
 
-本协议构成双方关于其主题事项的完整协议，并取代双方之间关于该主题事项的所有之前或同期的书面或口头谅解和协议。 本协议只能在由双方签署且引用本协议的书面文件中进行修订。
+This Agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, between the parties, regarding such subject matter. This Agreement may only be amended by a writing signed by both parties that references this Agreement.
 
-[H. 条款的变更。](#h-changes-to-the-terms)
+[H. Changes to the Terms.](#h-changes-to-the-terms)
 ----------
 
-我们保留在任何时候自行决定修改这些附加条款的权利。 我们将在变更生效前至少 30 天，通过在我们的网站上发布通知，就本附加条款的重大变更（例如价格变更）通知您。 您继续参与计划，即表示同意我们对本附加条款的修订。 您可以在我们的站点政策存储库中查看这些条款的所有变更。
+We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our Site Policy repository.
 
 {"resolvedServerColorMode":"day"}

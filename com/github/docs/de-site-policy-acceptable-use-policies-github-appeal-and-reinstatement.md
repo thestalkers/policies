@@ -1,75 +1,75 @@
-GitHub-Einspruch und Wiedereinsetzung - GitHub-Dokumentation
+GitHub Appeal and Reinstatement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Site policy](/de/site-policy)/
+* [Acceptable Use Policies](/de/site-policy/acceptable-use-policies)/
+* [GitHub Appeal and Reinstatement](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub-Einspruch und Wiedereinsetzung
+GitHub Appeal and Reinstatement
 ==========
 
-In diesem Artikel
+In this article
 ----------
 
-* [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
-* [Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
-* [So funktioniert's](#so-funktionierts)
-* [Transparenz](#transparency)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+* [How this works](#how-this-works)
+* [Transparency](#transparency)
 
-[Berufung und Wiedereinstellung](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-Während die meisten Interaktionen zwischen Einzelpersonen in der GitHub-Community unter unsere Richtlinien zur akzeptablen Nutzung und die Community-Richtlinien fallen, kommt es gelegentlich zu Verstößen gegen diese Richtlinien. Wenn dies der Fall ist, müssen GitHub-Mitarbeiter möglicherweise Durchsetzungsmaßnahmen ergreifen, um die Verstöße zu beheben. Wir verstehen jedoch, dass manchmal Fehler gemacht werden. In einigen Fällen kann es eine Grundlage geben, eine von GitHub-Mitarbeitern ergriffene Moderationsmaßnahme rückgängig zu machen (oder auch nicht). Um sicherzustellen, dass unsere Richtlinien und Ergebnisse gleichmäßig angewendet werden, stellt GitHub einen internen Beschwerdeprozess bereit, bei dem Benutzer Anträge auf Wiedereinsetzung einreichen oder zusätzliche Informationen bereitstellen können, um eine Moderationsentscheidung anzufechten.
+While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
 
-[Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
+[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
 ----------
 
-Sowohl Einsprüche als auch Wiedereinsetzungen können in Bezug auf Entscheidungen auftreten, die den Zugriff auf Inhalte oder ein Konto deaktivieren oder einschränken, einschließlich Entscheidungen für Folgendes:
+Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
 
-* Entfernen und Deaktivieren des Zugriffs oder Einschränken der Sichtbarkeit von Inhalten
-* Anhalten oder Beenden des Zugriffs auf ein Konto
-* Ganz oder teilweise Anhalten oder Beenden des Zugriffs auf den Dienst
-* Anhalten, Beenden oder anderweitigs Einschränken der Möglichkeit zum Monetarisieren von Inhalten
+* Remove, disable access to, or restrict visibility of content
+* Suspend or terminate access to an account
+* Suspend or terminate access to the service, in whole or in part
+* Suspend, terminate or otherwise restrict the ability to monetize content
 
-Eine „Wiedereinsetzung“ ist, wenn ein Benutzer den Zugriff auf sein Konto oder seine Inhalte wiedererlangen möchte und bereit ist, alle erforderlichen Änderungen vorzunehmen, um den Verstoß zu beheben. Er verpflichtet sich, in Zukunft nicht mehr gegen unsere Bedingungen zu verstoßen.
+A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
 
-Ein Einspruch liegt vor, wenn ein Benutzer bestreitet, dass ein Verstoß stattgefunden hat, und zusätzliche Informationen bereitstellen kann, um zu zeigen, dass eine andere Entscheidung hätte getroffen werden müssen.
+An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
 
-[So funktioniert's](#so-funktionierts)
+[How this works](#how-this-works)
 ----------
 
-Wenn Sie eine Wiedereinsetzung beantragen oder gegen eine Durchsetzungsmaßnahme Einspruch einlegen möchten, füllen Sie bitte unser [Einspruchs- und Wiedereinsetzungsformular](https://support.github.com/contact/reinstatement) aus. Sie können eine Moderationsentscheidung für bis zu sechs Monate nach der Entscheidung einlegen. GitHub kann nach eigenem Ermessen alle Rechtsmittel ablehnen, die mehr als sechs Monate nach der Entscheidung eingereicht wurden.
+If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
 
-Die Mitarbeiter von GitHub prüfen die im Formular bereitgestellten Informationen, um festzustellen, ob ausreichende Informationen vorliegen, um eine Wiedereinsetzung oder die Gewährung eines Einspruchs zu rechtfertigen.
+GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
 
-### [Wiedereinsetzungen](#reinstatements) ###
+### [Reinstatements](#reinstatements) ###
 
-Wenn ein Benutzer zustimmen kann, sich in Zukunft an unsere Richtlinien zur akzeptablen Nutzung zu halten, und die erforderlichen Änderungen vorgenommen hat, um die Verstöße zu beheben, können wir je nach den Umständen und der Schwere des ursprünglichen Verstoßes entscheiden, sein Konto oder seine Inhalte wiederherzustellen.
+Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
 
-Alle legitimen Wiedereinsetzungsanfragen werden zunächst von GitHub-Mitarbeitern geprüft und mit einer Entscheidung beantwortet.
+All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
 
-### [Einsprüche](#appeals) ###
+### [Appeals](#appeals) ###
 
-Wenn ein Benutzer versucht, eine Entscheidung anzufechten, kann er das Formular verwenden, um seine Grundlage für die Anfechtung der Entscheidung zu erläutern und zusätzliche Informationen bezüglich des mutmaßlichen Verstoßes bereitzustellen, von denen er glaubt, dass sie zu einer anderen Entscheidung hätten führen sollen.
+Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
 
-Wenn die bereitgestellten Informationen zeigen, dass eine andere Schlussfolgerung hätte gezogen werden müssen, können wir möglicherweise einem Einspruch stattgeben. GitHub wird seine Entscheidung umkehren oder ändern, wenn die Beschwerde ausreichende Gründe für uns enthält, festzustellen, dass (i) unsere Entscheidung, zu handeln oder nicht zu handeln, falsch war; (ii) dass der Inhalt oder das Verhalten nicht illegal und nicht mit unseren Bedingungen unvereinbar war; oder (iii), dass der Inhalt oder das Verhalten einen geringeren Aktionsschweregrad als die getroffene Maßnahme darstellt.
+If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
 
-Alle Entscheidungen über Rechtsmittel werden von Menschen und nicht durch automatisierte Mittel getroffen. Wenn der Staff Reviewer von GitHub auf dem Einspruch dieselbe Person ist, die die anfängliche Entscheidung getroffen hat, und dieser Mitarbeiter der Ansicht ist, dass ihre anfängliche Schlussfolgerung richtig war (und daher geneigt wäre, den Einspruch abzulehnen), wird ein anderer Mitarbeiter von GitHub den Einspruch unabhängig prüfen.
+All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
 
-Alle berechtigten Einsprüche werden mit einer endgültigen Entscheidung beantwortet.
+All legitimate Appeals will be answered with a final decision.
 
-[Transparenz](#transparency)
+[Transparency](#transparency)
 ----------
 
-Wir verfolgen Einsprüche und Wiedereinsetzungen in unserem [Transparenz-Center](https://transparencycenter.github.com/appeals/).
+We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
 
-### [Gesetzliche Rechte](#legal-rights) ###
+### [Legal Rights](#legal-rights) ###
 
-Wenn Sie der Meinung sind, dass eine endgültige Entscheidung über Rechtsmittel immer noch falsch ist, können Sie unter bestimmten Umständen zusätzliche Rechte haben, die Entscheidung nach Ihrem lokalen Recht überprüfen zu lassen. Wenn Sie sich beispielsweise in der Europäischen Union befinden, kann es möglich sein, im Rahmen des [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1) auf einen außergerichtlichen Streitbeilegungsprozess zuzugreifen.
+If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

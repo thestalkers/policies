@@ -1,42 +1,42 @@
-Политика имени пользователя GitHub - Документация по GitHub
+GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Другие правила сайта](/ru/site-policy/other-site-policies)/
-* [Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
+* [Site policy](/ru/site-policy)/
+* [Other Site Policies](/ru/site-policy/other-site-policies)/
+* [GitHub Username Policy](/ru/site-policy/other-site-policies/github-username-policy)
 
-Политика имени пользователя GitHub
+GitHub Username Policy
 ==========
 
-В этой статье
+In this article
 ----------
 
-* [Что делать, если нужное мне имя пользователя уже занято?](#what-if-the-username-i-want-is-already-taken)
-* [Политика в отношении товарных знаков](#trademark-policy)
-* [Политика сквоттинга имен](#name-squatting-policy)
+* [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
+* [Trademark Policy](#trademark-policy)
+* [Name Squatting Policy](#name-squatting-policy)
 
-Имена учетных записей GitHub доступны в порядке очереди и предназначены для немедленного и активного использования.
+GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 
-[Что делать, если нужное мне имя пользователя уже занято?](#what-if-the-username-i-want-is-already-taken)
+[What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
 ----------
 
-Имейте в виду, что не все действия на GitHub видны всем; учетные записи без видимой активности могут активно использоваться.
+Keep in mind that not all activity on GitHub is publicly visible; accounts with no visible activity may be in active use.
 
-Если нужное вам имя пользователя уже было заявлено, рассмотрите другие имена или уникальные варианты. Использование числа, дефиса или альтернативного написания может помочь вам определить желаемое имя пользователя, которое все еще доступно.
+If the username you want has already been claimed, consider other names or unique variations. Using a number, hyphen, or an alternative spelling might help you identify a desirable username that's still available.
 
-[Политика в отношении товарных знаков](#trademark-policy)
+[Trademark Policy](#trademark-policy)
 ----------
 
-Если вы считаете, что чья-то учетная запись нарушает ваши права на товарный знак, вы можете найти дополнительную информацию о подаче жалобы на товарный знак на странице с нашей [Политикой в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy).
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/ru/site-policy/content-removal-policies/github-trademark-policy) page.
 
-[Политика сквоттинга имен](#name-squatting-policy)
+[Name Squatting Policy](#name-squatting-policy)
 ----------
 
-GitHub запрещает сквотирование имен учетных записей, и имена учетных записей не могут быть зарезервированы или неактивно сохранены для использования в будущем. Учетные записи, нарушающие эту политику сквоттинга имен, могут быть удалены или переименованы без предварительного уведомления. Попытки продать, купить или запросить другие формы оплаты в обмен на имена учетных записей запрещены и могут привести к бессрочной блокировке учетной записи.
+GitHub prohibits account name squatting, and account names may not be reserved or inactively held for future use. Accounts violating this name squatting policy may be removed or renamed without notice. Attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited and may result in permanent account suspension.
 
 {"resolvedServerColorMode":"day"}

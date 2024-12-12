@@ -1,31 +1,31 @@
-다른 사용자의 경험을 방해하는 GitHub - GitHub Docs
+GitHub Disrupting the Experience of Other Users - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [Site policy](/ko/site-policy)/
+* [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies)/
+* [Disrupting the Experience of Other Users](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-다른 사용자의 경험을 방해하는 GitHub
+GitHub Disrupting the Experience of Other Users
 ==========
 
-커뮤니티의 일원이 된다는 것은 귀하의 행동이 다른 사람들에게 어떻게 영향을 미치는지 인식하고 사람들은 물론, 그들이 의존하는 플랫폼과 의미 있고 생산적인 상호 작용에 참여하는 것을 포함합니다.
+Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on.
 
-우리는 다른 사용자의 경험을 유의미하게 또는 지속적으로 방해하는 행동을 허용하지 않습니다. 여기에는
+We do not allow behavior that significantly or continually disrupts the experience of other users. This includes:
 
-* 주제에서 벗어난 댓글 게시
-* 비어 있거나 의미 없는 이슈 또는 끌어오기 요청 열기
-* 단기간 내 대량의 계정 또는 리포지토리에 별표 표시 및/또는 팔로우
-* 무의미하거나 관련 없는 코드 검토 작성
-* 다른 사용자에게 과도한 알림을 유발하는 방식으로 플랫폼 기능에 관여
-* 서비스 중단을 유발하는 방식으로 다른 플랫폼 기능을 사용
+* Posting off-topic comments
+* Opening empty or meaningless issues or pull requests
+* Starring and/or following accounts or repositories in large volume in a short period of time
+* Creating nonsensical or irrelevant code reviews
+* Engaging with platform features in a way that causes excessive notifications for other users
+* Using any other platform feature in a way that creates disruption
 
-당사는 유지 관리자가 개별적으로 자신의 프로젝트를 조정할 것을 권장하지만 GitHub 직원은 이러한 유형의 행동에 관여하는 계정에 대해 추가적인 제한 조치를 취할 수 있습니다.
+While we encourage maintainers to moderate their own projects on an individual basis, GitHub staff may take further restrictive action against accounts that are engaging in these types of behaviors.
 
-상기의 행위는 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)의 기타 제한 사항을 위반할 수도 있습니다. 예를 들어, 활동의 성격과 경중에 따라 [괴롭힘 및 희롱](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment) 수준까지 올라갈 수 있습니다.
+Please note that the above conduct may also violate other restrictions in our [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, depending on the nature and severity of the activity, it may rise to the level of [bullying and harassment](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 {"resolvedServerColorMode":"day"}

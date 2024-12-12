@@ -1,102 +1,102 @@
-GitHub の贈答品および接待に関するポリシー - GitHub Docs
+GitHub Gifts and Entertainment Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
-* [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Site policy](/ja/site-policy)/
+* [GitHub Company Policies](/ja/site-policy/github-company-policies)/
+* [GitHub Gifts and Entertainment Policy](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
-GitHub の贈答品および接待に関するポリシー
+GitHub Gifts and Entertainment Policy
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [会社のポリシー](#company-policies)
-* [贈答品を容認できる場合と容認できない場合の例](#examples-of-acceptable-and-unacceptable-gifts)
-* [プロセス](#process)
-* [結果](#consequences)
-* [詳細情報](#more-information)
+* [Company policies](#company-policies)
+* [Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
+* [Process](#process)
+* [Consequences](#consequences)
+* [More information](#more-information)
 
-GitHub は、当社のビジネスは建設的で透明性のある関係の上に築かれていると認識しています。 贈答品の非公式なやり取りや交換は、このような関係を発展させるうえで役立ち、一部の国では慣行とさえ見なされていますが、当社は贈収賄禁止法の遵守に努める必要があります。 特別な利益を創出したり取引に影響を与えるためにこのようなやり取りを使用しないことを含め、当社は倫理的に行動する法的責任を負います。
+GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
 
-[会社のポリシー](#company-policies)
+[Company policies](#company-policies)
 ----------
 
-改めて、当社の倫理規定は、以下のように述べています。
+As a reminder, our Code of Ethics states:
 
 >
 >
-> 仕事を得たり継続するために、または GitHub あるいはマイクロソフトへの不適切な利益を確保するために、政府関係者など権力または権限を持つか、商取引の立場にある人など、どのような人に対しても、支払い、支払いの申し出、支払いの約束、価値あるものの勧誘、受け取り、支払いの許可を行ってはなりません。 賄賂、リベート、またのその他の不適切な現金支払いを求めたり受け取ってはなりません。 ...[GitHub の従業員] は、GitHub に代わって請求した費用にかかわるすべての取引、または GitHub の資産の処分あるいは移転にかかわるその他の取引について、領収書を保管したり経費を正確に説明するなどして、正確かつ公正な記録を残すことを義務付けられています。 このような行動は、米国海外腐敗行為防止法、 2010 年の英国贈収賄防止法、および GitHub が営業するその他の法域の腐敗防止法に義務付けられており、そうすることが正しい行動でもあるのです。
+> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
 >
 >
 
-GitHub の倫理規定は、贈答品、旅行、および接待を含む特定の状況、円滑化のための支払い、慈善寄付、仕事、担当者への対応、および政府関係者と見なされる人物について詳細に述べています。
+GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
 
-当社の禁止行動基準:
+Our Standards of Conduct prohibit:
 
 >
 >
-> 不適切な利益を得るために政府関係者またはその他の個人に賄賂を贈ること、また他者から賄賂をもらうこと。
+> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
 >
 >
 
-つまり、現金または現金に相当するものだけでなく、価値あるものを、影響力を与えるために他者 (公務員、政府関係者、権力または権限を持つ地位にある人物、およびこれらの特権的地位にない人物を含む) に与えたり、GitHub に影響力を持つ他者から受け取ったりすることはできません。 かかる活動は米国海外腐敗行為防止法および英国贈収賄防止法によって禁止されており、両方の法令が GitHub の行為に全面的に適用されます。
+That means not only no cash or cash equivalent of any kind, but nothing of value, should be given to anyone (including civil servants, government officials, or anyone in a position of power or authority, as well as people not in any of those privileged positions) in order to influence them or taken from anyone to influence GitHub. Such activity is prohibited by the U.S. Foreign Corrupt Practices Act and UK Anti-Bribery laws, both of which govern GitHub’s actions globally.
 
-[贈答品を容認できる場合と容認できない場合の例](#examples-of-acceptable-and-unacceptable-gifts)
+[Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
-「価値あるもの」とはどのような意味ですか? 政府関係者に対する贈答品は容認されないということを肝に銘じてください (ステッカーを貼り付けるといいかもしれません)。 相手のポリシーで許容されるものと禁止されるものを常に問いただす必要があります。 不明な点がある場合は、法務部門に問い合わせて確認してください。 たとえば、多くの連邦議会議員はディナーに連れて行かれて支払ってもらうようなことはしません。
+So what does “of value” mean? Keep in mind that no gifts are acceptable for government officials (ok, maybe stickers). You should always ask them what their policies permit and prohibit. But if in doubt, please run it by Legal to make sure. For example, many U.S. congresspeople will not let you take them out for dinner and pay.
 
-他の顧客や見込み顧客の場合、取るに足りないと思われることでも別の人にとっては大きな価値があるのです。 たとえば、友人の娘を見習いとして雇ってもらうことは大したことではないように思われる場合でも、非常に大きな価値になることがあるのです。 しかしその資格がなく裏から手を回して実現させた場合は、容認されることではありません。 また、目的が不適切に影響力を行使することであれば、どんなに些細なことでも「価値あるもの」と見なされる可能性があります。
+As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In addition, if the intention is to improperly influence, anything, however small, might be considered "of value."
 
-🙅 *他にも容認されないことがあります:*
+🙅 *Here are some other things that aren't ok:*
 
-* エグゼクティブ ブリーフィング用に GitHub オフィスまでのファースト クラスの航空運賃 ✈️+🍾
-* ワイナリー ツアー 🍷
-* 友人の子供が名門私立学校に入学できるよう推薦すること 🎓
-* ディズニーランドのチケット👸、ワールド カップのチケット 🥅、オリンピックのチケット 🏅
-* 有名プレーヤーのサイン入りフットボール ⚽️
-* 慈善寄付
+* First class airfare to GitHub offices for Executive Briefings ✈️+🍾
+* Winery tours 🍷
+* Recommending a friend’s kid to a prestigious private school for admission 🎓
+* Tickets to Disneyland 👸, the World Cup 🥅, the Olympics 🏅
+* A futbol ⚽️ autographed by a famous player
+* A contribution to a charity
 
-🙆\_顧客または見込み顧客に対して実際に容認されるものもあります\_
+🙆 *Here is some stuff that is actually ok for customers or prospective customers:*
 
-* スワグ
-* エグゼクティブ ブリーフィング用に GitHub オフィスにエコノミー クラスの航空運賃 ✈️
-* スポーツ イベントの外野席チケット ⚾️
-* 街中での手頃な価格のディナー 🍽
-* 年度末のご挨拶としてチョコレートの小箱 🍫
+* Swag
+* Economy class airfare to GitHub offices for Executive Briefings ✈️
+* Bleacher-type tickets to a sporting event ⚾️
+* A reasonably priced dinner in town 🍽
+* A small box of chocolates as an end of year thank you 🍫
 
-上記もすべて賄賂の\_受け取り\_になります。 ベンダーまたは見込みベンダーから何か「価値あるもの」が届いた場合は、受け取らないでください。あるいは、法務部門に問い合わせて確認してください。
+All of the above applies to *taking* bribes too. So if a vendor or prospective vendor sends you something “of value,” don’t accept it—or at least run it by Legal before you do.
 
-[プロセス](#process)
+[Process](#process)
 ----------
 
-非公式な贈答品 (T シャツやステッカー スワグなど当社の販売促進物品ではありません) を提供したり受け取ろうとしている場合は、必ず以下のプロセスに従ってください。
+If you are planning to provide or accept an informal gift (that is not one of our promotional items like t-shirts and sticker swag), please make sure to follow the process below.
 
-容認される金額は変化するということを覚えておいてください。 たとえば、50 米ドルのディナーを大金であると見なす国もあれば、それほどの金額ではないと見なす国もあります。 不明な点がある場合は、まず当社までお問い合わせください。
+Keep in mind that what's an acceptable amount can vary. For example, spending $50 on dinner might be considered a lot of money in some countries but not as much in others. So, when in doubt, ask!
 
-1. 一般に、150 米ドル以上の経費については、法務部門の書面による承認がその都度必要です。 150 米ドル以上の贈答品の受け取りについては、法務部門の書面による承認がその都度必要です。 (法務部門は贈収賄に関する質問に意見を述べるにすぎません。 その他の理由については財務部門に相談する必要があります。)
+1. Generally speaking, for any expenses exceeding $150, you'll need approval (each time) from Legal in writing. And for any gifts you receive exceeding $150, you'll need to report that (each time) to Legal in writing. (Legal is just weighing in on the bribery question. You might still need to check with Finance for other reasons.)
 
-2. 経費報告書を提出して払い戻しを受け取る場合は、以下のようにしてください。
+2. When you submit your expense report for reimbursement, please:
 
-   * 贈答品の受領者と目的を明記し、
-   * 電子メールの承認所のコピーを添付する
+   * Indicate the recipient and the purpose of the gift in the notes; and
+   * Include a copy of the email approval
 
-[結果](#consequences)
+[Consequences](#consequences)
 ----------
 
-ポリシーに従わず、GitHub が見込み顧客とその家族に対し日本へのファースト クラスの運賃と東京オリンピックの入場料を支払うことになった場合は、どうなりますか? または、手配済みの電車の駅のロッカーに政府関係者のためにユーロの入ったスーツケースを預け入れた場合は?
+What happens if you don’t follow the policy and GitHub ends up paying for a prospective customer and his family to fly first class to Japan and attend the Tokyo Olympics? Or if you drop off a suitcase of Euros for a government official in a pre-arranged train station locker?
 
-罰金と投獄です。 必ずしも GitHub に対してだけではありません。 あなた自身が刑務所で数年過ごすことになるかもしれません。顧客が日本への旅行の後で GitHub に発注したとしても、政府関係者が現金入りのスーツケースを回収したとしても、問題ではありません。 基本的に、あなたが実際に賄賂を\_行った\_かどうかは問題ではありません。 にもかかわらず、最も重要なことは「試みた」ことなのです。
+FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend a few years in jail, yourself, and it won’t matter if the customer ever submitted an order to GitHub after their trip to Japan or if the government official even picked up the suitcase of cash. Basically, it doesn’t matter whether you actually *made* a bribe. Yoda notwithstanding, it’s the trying that counts.
 
-[詳細情報](#more-information)
+[More information](#more-information)
 ----------
 
-規則、履行、および罰則に関する詳細および文脈については、米国司法省の [米国海外腐敗行為防止法のリソース ガイド](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) を参照してください。
+For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
 
 {"resolvedServerColorMode":"day"}

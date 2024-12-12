@@ -1,28 +1,28 @@
-GitHub での憎悪の言葉と差別 - GitHub Docs
+GitHub Hate Speech and Discrimination - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [憎悪の言葉と差別](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Site policy](/ja/site-policy)/
+* [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies)/
+* [Hate Speech and Discrimination](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-GitHub での憎悪の言葉と差別
+GitHub Hate Speech and Discrimination
 ==========
 
-GitHub は、年齢、体格、能力、民族、性同一性、性表現、経験の程度、国籍、容姿、人種、宗教、性アイデンティティ、性的指向などに基づいて、個人またはグループに対して攻撃したり憎悪を助長したりする言葉を容認しません。 これには、次のものが含まれます。
+GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
 
-* 上記の信念や特性に基づいて個人やグループを嘲笑、攻撃、または排除すること
-* 既知のテロリストまたは暴力的な過激派組織との明白な関係やそれらへの帰属意識を誇示すること
-* 憎悪グループまたは憎悪に基づく陰謀論を支持または助長すること
-* 憎悪と同じ意味を持つ記号や画像を共有すること
-* 有害な固定観念、中傷、または非人間的な言葉を使用すること
-* 認識されている性に基づいて個人を攻撃すること
-* 隠語を使うこと、あるいは暴言や憎悪を助長する暗示的または暗号化された言葉や記号を使用すること
+* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
+* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
+* Supporting or promoting hate groups or hate-based conspiracy theories
+* Sharing symbols or images synonymous with hate
+* Using harmful stereotypes, slurs, or dehumanizing speech
+* Attacking an individual based on their perceived gender
+* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
 
-GitHub は、プラットフォーム上の暴言や嫌がらせのすべての事例に真剣に取り組んでおり、特に歴史的にそのような暴言の標的となってきたコミュニティに過大な影響を及ぼす場合に、憎悪に基づく暴言と戦うことに努めています。 GitHub をすべての人が安全で歓迎されていると感じる場所にすることを目指しています。
+While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
 
 {"resolvedServerColorMode":"day"}

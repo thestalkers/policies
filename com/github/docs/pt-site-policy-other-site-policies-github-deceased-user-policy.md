@@ -1,32 +1,32 @@
-Política de usuário falecido do GitHub - GitHub Docs
+GitHub Deceased User Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Política do site](/pt/site-policy)/
-* [Outras políticas do site](/pt/site-policy/other-site-policies)/
-* [Política de usuário falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
+* [Site policy](/pt/site-policy)/
+* [Other Site Policies](/pt/site-policy/other-site-policies)/
+* [GitHub Deceased User Policy](/pt/site-policy/other-site-policies/github-deceased-user-policy)
 
-Política de usuário falecido do GitHub
+GitHub Deceased User Policy
 ==========
 
-No caso de falecimento de um usuário do GitHub, podemos trabalhar com um indivíduo autorizado para determinar o que acontece com o conteúdo da conta.
+In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 
-Se você for o parente mais próximo, um [sucessor pré-designado](/pt/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) ou outro indivíduo autorizado (que pode incluir um colaborador ou parceiro de negócios) de um usuário falecido e gostaria de fazer uma solicitação sobre sua conta, poderá entrar em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). No portal, clique em **Fale conosco** e forneça as seguintes informações em sua mensagem:
+If you are next of kin, a [pre-designated successor](/pt/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:
 
-* Nome
-* Informações do Contato
-* Nome do titular da conta falecido
-* Nome de usuário do GitHub do titular da conta falecido
-* Seu relacionamento com o titular da conta falecido (inclua se você foi designado como o sucessor da conta em GitHub.com)
-* Se designado como sucessor da conta, o nome de usuário da sua conta do GitHub
-* Que ação você está buscando (por exemplo, transferir repositórios públicos, cancelar cobrança por conta)
+* Name
+* Contact Information
+* Name of the deceased account holder
+* GitHub username of the deceased account holder
+* Your relationship to the deceased account holder (please include whether you have been designated as the account successor on GitHub.com)
+* If designated as account successor, the username of your GitHub account
+* What action you are seeking (e.g. transfer public repositories, cancel billing on account)
 
-Assim que recebermos sua solicitação, poderemos acompanhar uma solicitação de informações adicionais, como uma cópia de sua identificação com foto, cópia da certidão de óbito e documentação confirmando que você está autorizado a agir em relação à conta do usuário falecido, para verificar se estamos devidamente autorizados a processar sua solicitação.
+Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request.
 
-Observe que as informações fornecidas em sua solicitação são coletadas de acordo com nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement) e reteremos as informações apenas conforme necessário para cumprir nossas obrigações legais e resolver controvérsias.
+Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
 
 {"resolvedServerColorMode":"day"}

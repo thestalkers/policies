@@ -1,156 +1,156 @@
-Политика удаления DMCA - Документация по GitHub
+DMCA Takedown Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
-* [Политика удаления DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy)
+* [Site policy](/ru/site-policy)/
+* [Content Removal Policies](/ru/site-policy/content-removal-policies)/
+* [DMCA Takedown Policy](/ru/site-policy/content-removal-policies/dmca-takedown-policy)
 
-Политика удаления DMCA
+DMCA Takedown Policy
 ==========
 
-В этой статье
+In this article
 ----------
 
-* [Что такое DMCA?](#what-is-the-dmca)
-* [Уведомления DMCA в двух словах](#dmca-notices-in-a-nutshell)
-* [А. Как это на самом деле работает?](#a-how-does-this-actually-work)
-* [B. Что насчет вилок? (или Что такое вилка?)](#b-what-about-forks-or-whats-a-fork)
-* [C. Как насчет требований об обходе?](#c-what-about-circumvention-claims)
-* [D. Что делать, если я случайно пропустил окно для внесения изменений?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
-* [Е. Прозрачность](#e-transparency)
-* [F. Повторное нарушение](#f-repeated-infringement)
-* [G. Отправка уведомлений](#g-submitting-notices)
-* [Узнайте больше и выскажитесь](#learn-more-and-speak-up)
+* [What Is the DMCA?](#what-is-the-dmca)
+* [DMCA Notices In a Nutshell](#dmca-notices-in-a-nutshell)
+* [A. How Does This Actually Work?](#a-how-does-this-actually-work)
+* [B. What About Forks? (or What's a Fork?)](#b-what-about-forks-or-whats-a-fork)
+* [C. What about Circumvention Claims?](#c-what-about-circumvention-claims)
+* [D. What If I Inadvertently Missed the Window to Make Changes?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+* [E. Transparency](#e-transparency)
+* [F. Repeated Infringement](#f-repeated-infringement)
+* [G. Submitting Notices](#g-submitting-notices)
+* [Learn More and Speak Up](#learn-more-and-speak-up)
 
-Добро пожаловать в руководство GitHub по Закону об авторском праве в цифровую эпоху, широко известному как «DMCA». Эта страница не предназначена для использования в качестве всеобъемлющего учебника по уставу. Однако, если вы получили уведомление об удалении DMCA, касающееся содержимого, которое вы разместили на GitHub, или если вы являетесь правообладателем, желающим опубликовать такое уведомление, мы надеемся, что эта страница поможет немного демистифицировать закон, а также наши политики его соблюдения.
+Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is not meant as a comprehensive primer to the statute. However, if you've received a DMCA takedown notice targeting content you've posted on GitHub or if you're a rights-holder looking to issue such a notice, this page will hopefully help to demystify the law a bit as well as our policies for complying with it.
 
-(Если вы просто хотите отправить уведомление, вы можете перейти к пункту G. «[Подача уведомлений](#g-submitting-notices)».)
+(If you just want to submit a notice, you can skip to "[G. Submitting Notices](#g-submitting-notices).")
 
-Как и во всех юридических вопросах, всегда лучше проконсультироваться с профессионалом по вашим конкретным вопросам или ситуации. Мы настоятельно рекомендуем вам сделать это, прежде чем предпринимать какие-либо действия, которые могут повлиять на ваши права. Это руководство не является юридической консультацией и не должно восприниматься как таковое.
+As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-[Что такое DMCA?](#what-is-the-dmca)
+[What Is the DMCA?](#what-is-the-dmca)
 ----------
 
-Чтобы понять DMCA и некоторые политические линии, которые он рисует, возможно, полезно рассмотреть жизнь до того, как он был принят.
+In order to understand the DMCA and some of the policy lines it draws, it's perhaps helpful to consider life before it was enacted.
 
-DMCA обеспечивает безопасную гавань для поставщиков услуг, которые размещают пользовательское содержимое. Поскольку даже один иск о нарушении авторских прав может повлечь за собой установленный законом ущерб в размере до $150,000, возможность привлечения к ответственности за пользовательское содержимое может быть очень вредной для поставщиков услуг. Учитывая потенциальный ущерб, умноженный на миллионы пользователей, облачные вычисления и сайты с пользовательским содержимым, такие как YouTube, Facebook или GitHub, вероятно, [никогда бы не существовали](https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) без DMCA (или, по крайней мере, без передачи части этих затрат своим пользователям).
+The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).
 
-DMCA решает эту проблему, создавая [безопасную гавань ответственности за авторские права](https://www.copyright.gov/title17/92chap5.html#512) для интернет-провайдеров, размещающих предположительно нарушающее авторские права пользовательское содержимое. По сути, до тех пор, пока поставщик услуг следует правилам уведомления и удаления DMCA, он не будет нести ответственность за нарушение авторских прав на основании пользовательского содержимого. Из-за этого для GitHub важно поддерживать свой статус безопасной гавани DMCA.
+The DMCA addresses this issue by creating a [copyright liability safe harbor](https://www.copyright.gov/title17/92chap5.html#512) for internet service providers hosting allegedly infringing user-generated content. Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this, it is important for GitHub to maintain its DMCA safe-harbor status.
 
-Закон об авторском праве также запрещает [обход технических средств](https://www.copyright.gov/title17/92chap12.html), эффективно контролирующих доступ к произведениям, охраняемым авторским правом.
+The DMCA also prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright.
 
-[Уведомления DMCA в двух словах](#dmca-notices-in-a-nutshell)
+[DMCA Notices In a Nutshell](#dmca-notices-in-a-nutshell)
 ----------
 
-DMCA предоставляет две простые и быстрые процедуры, о которых должны знать все пользователи GitHub: (i) процедура [уведомления об отмене](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) прав владельцев авторских прав с запросом удаления содержимого; и (ii) процедура [встречного уведомления](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) для пользователей, которые хотят повторно включить содержимое после удаления по ошибке или неправильной идентификации.
+The DMCA provides two simple, straightforward procedures that all GitHub users should know about: (i) a [takedown-notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) procedure for copyright holders to request that content be removed; and (ii) a [counter-notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) procedure for users to get content re-enabled when content is taken down by mistake or misidentification.
 
-[Уведомления об удалении](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) в DCMA используются владельцами авторских прав, чтобы попросить GitHub удалить содержимое, которое, по их мнению, нарушает авторские права. Если вы дизайнер или разработчик программного обеспечения, вы каждый день создаете защищенное авторским правом содержимое. Если кто-то другой использует ваше содержимое, защищенное авторским правом, на GitHub несанкционированным образом, вы можете отправить нам уведомление об удалении DMCA с просьбой изменить или удалить содержимое, нарушающее авторские права.
+DMCA [takedown notices](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) are used by copyright owners to ask GitHub to take down content they believe to be infringing. If you are a software designer or developer, you create copyrighted content every day. If someone else is using your copyrighted content in an unauthorized manner on GitHub, you can send us a DMCA takedown notice to request that the infringing content be changed or removed.
 
-С другой стороны, [встречные уведомления](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) можно использовать для исправления ошибок. Возможно, человек, отправляющий уведомление об удалении, не обладает авторскими правами, не знал, что у вас есть лицензия, или допустил какую-либо другую ошибку в своем уведомлении об удалении. Поскольку GitHub обычно не может знать, произошла ли ошибка, встречное уведомление DMCA позволяет вам сообщить нам об этом и попросить, чтобы мы снова разместили содержимое.
+On the other hand, [counter notices](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) can be used to correct mistakes. Maybe the person sending the takedown notice does not hold the copyright or did not realize that you have a license or made some other mistake in their takedown notice. Since GitHub usually cannot know if there has been a mistake, the DMCA counter notice allows you to let us know and ask that we put the content back up.
 
-Уведомление DMCA и процесс удаления следует использовать только для жалоб на нарушение авторских прав. Уведомления, отправляемые в рамках нашего процесса DMCA, должны указывать работу, защищенную авторским правом, или работы, которые предположительно нарушаются. Процесс не может использоваться для других жалоб, таких как жалобы на предполагаемое [нарушение товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy) или [конфиденциальности данных](/ru/site-policy/content-removal-policies/github-private-information-removal-policy); мы предлагаем отдельные процессы для этих ситуаций.
+The DMCA notice and takedown process should be used only for complaints about copyright infringement. Notices sent through our DMCA process must identify copyrighted work or works that are allegedly being infringed. The process cannot be used for other complaints, such as complaints about alleged [trademark infringement](/ru/site-policy/content-removal-policies/github-trademark-policy) or [sensitive data](/ru/site-policy/content-removal-policies/github-private-information-removal-policy); we offer separate processes for those situations.
 
-[А. Как это на самом деле работает?](#a-how-does-this-actually-work)
+[A. How Does This Actually Work?](#a-how-does-this-actually-work)
 ----------
 
-Структура DMCA немного похожа на передачу заметок в классе. Владелец авторских прав передает GitHub жалобу на пользователя. Если он написан правильно, мы передаем жалобу пользователю. Если пользователь оспаривает жалобу, он может передать примечание в ответ. GitHub проявляет мало свободы в процессе, кроме определения того, соответствуют ли уведомления минимальным требованиям DMCA. Стороны (и их адвокаты) должны оценить обоснованность своих требований, имея в виду, что уведомления должны быть сделаны под страхом наказания за лжесвидетельство.
+The DMCA framework is a bit like passing notes in class. The copyright owner hands GitHub a complaint about a user. If it's written correctly, we pass the complaint along to the user. If the user disputes the complaint, they can pass a note back saying so. GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
-Вот основные шаги в этом процессе.
+Here are the basic steps in the process.
 
-1. **Правообладатель проводит расследование.** Владелец авторских прав всегда должен проводить предварительное расследование, чтобы подтвердить (а) что он владеет авторскими правами на оригинальное произведение и (б) что содержимое на GitHub является несанкционированным и нарушает авторские права. Это включает в себя подтверждение того, что использование не защищено как [справедливое использование](https://www.lumendatabase.org/topics/22). Конкретное использование может быть добросовестным, если оно использует только небольшое количество содержимого, защищенного авторским правом, использует это содержимое преобразующим образом, использует его в образовательных целях или сочетает в себе вышеперечисленное. Поскольку код естественным образом подходит для такого использования, каждый вариант использования отличается и должен рассматриваться отдельно.
+1. **Copyright Owner Investigates.** A copyright owner should always conduct an initial investigation to confirm both (a) that they own the copyright to an original work and (b) that the content on GitHub is unauthorized and infringing. This includes confirming that the use is not protected as [fair use](https://www.lumendatabase.org/topics/22). A particular use may be fair if it only uses a small amount of copyrighted content, uses that content in a transformative way, uses it for educational purposes, or some combination of the above. Because code naturally lends itself to such uses, each use case is different and must be considered separately.
 
    >
    >
-   > **Пример:** Сотрудник Acme Web Company находит часть кода компании в репозитории GitHub. Компания Acme Web предоставляет лицензии на свой исходный код нескольким доверенным партнерам. Перед отправкой уведомления об удалении Acme должна просмотреть эти лицензии и свои соглашения, чтобы убедиться, что код на GitHub не авторизован ни в одной из них.
+   > **Example:** An employee of Acme Web Company finds some of the company's code in a GitHub repository. Acme Web Company licenses its source code out to several trusted partners. Before sending in a take-down notice, Acme should review those licenses and its agreements to confirm that the code on GitHub is not authorized under any of them.
    >
    >
 
-2. **Владелец авторских прав отправляет уведомление.** После проведения расследования правообладатель готовит и отправляет [уведомление об удалении](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) на GitHub. Если уведомление об удалении достаточно подробное и соответствует нормативным требованиям (как описано в [руководстве](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)), мы [разместим уведомление](#e-transparency) в нашем [общедоступном репозитории](https://github.com/github/dmca) и передадим ссылку пользователю, которого это касается.
+2. **Copyright Owner Sends A Notice.** After conducting an investigation, a copyright owner prepares and sends a [takedown notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) to GitHub. Assuming the takedown notice is sufficiently detailed according to the statutory requirements (as explained in the [how-to guide](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)), we will [post the notice](#e-transparency) to our [public repository](https://github.com/github/dmca) and pass the link along to the affected user.
 
-3. **GitHub просит пользователя внести изменения.** Если в уведомлении утверждается, что все содержимое репозитория или пакет нарушает авторские права, мы перейдем к шагу 6 и оперативно отключим весь репозиторий или пакет. В противном случае, поскольку GitHub не может отключить доступ к определенным файлам в репозитории, мы свяжемся с пользователем, создавшим репозиторий, и предоставим ему примерно 1 рабочий день для удаления или изменения содержимого, указанного в уведомлении. Мы уведомим владельца авторских прав, если и когда предоставим пользователю возможность внести изменения. Поскольку пакеты неизменяемы, если только часть пакета нарушает авторские права, GitHub потребуется отключить весь пакет, но мы разрешаем восстановление после удаления части, нарушающей авторские права.
+3. **GitHub Asks User to Make Changes.** If the notice alleges that the entire contents of a repository infringe, or a package infringes, we will skip to Step 6 and disable the entire repository or package expeditiously. Otherwise, because GitHub cannot disable access to specific files within a repository, we will contact the user who created the repository and give them approximately 1 business day to delete or modify the content specified in the notice. We'll notify the copyright owner if and when we give the user a chance to make changes. Because packages are immutable, if only part of a package is infringing, GitHub would need to disable the entire package, but we permit reinstatement once the infringing portion is removed.
 
-4. **Пользователь уведомляет GitHub об изменениях.** Если пользователь решит внести указанные изменения, он *должен* сообщить нам об этом в течение примерно 1 рабочего дня. Если они этого не сделают, мы отключим репозиторий (как описано в шаге 6). Если пользователь уведомит нас о внесении изменений, мы проверим, были ли внесены изменения, а затем уведомим владельца авторских прав.
+4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they *must* tell us so within the window of approximately 1 business day. If they don't, we will disable the repository (as described in Step 6). If the user notifies us that they made changes, we will verify that the changes have been made and then notify the copyright owner.
 
-5. **Владелец авторских прав пересматривает или отзывает уведомление.** Если пользователь вносит изменения, владелец авторских прав должен просмотреть их и обновить или пересмотреть свое уведомление об удалении, если изменений недостаточно. GitHub не будет предпринимать никаких дальнейших действий, если владелец авторских прав не свяжется с нами, чтобы обновить исходное уведомление об удалении или отправить исправленное. Если владелец авторских прав удовлетворен изменениями, он может либо официально подать опровержение, либо ничего не предпринимать. GitHub будет интерпретировать молчание более двух недель как подразумеваемый отзыв уведомления об удалении.
+5. **Copyright Owner Revises or Retracts the Notice.** If the user makes changes, the copyright owner must review them and renew or revise their takedown notice if the changes are insufficient. GitHub will not take any further action unless the copyright owner contacts us to either renew the original takedown notice or submit a revised one. If the copyright owner is satisfied with the changes, they may either submit a formal retraction or else do nothing. GitHub will interpret silence longer than two weeks as an implied retraction of the takedown notice.
 
-6. **GitHub может отключить доступ к содержимому.** GitHub отключает содержимое пользователя, если: (i) владелец авторских прав заявил об авторских правах на весь репозиторий или пакет пользователя (как указано на шаге 3); (ii) пользователь не внес никаких изменений после того, как ему была предоставлена возможность сделать это (как указано на шаге 4); или (iii) владелец авторских прав возобновил свое уведомление об удалении после того, как у пользователя была возможность внести изменения. Если правообладатель решит вместо этого *пересмотреть* уведомление, мы вернемся к шагу 2 и повторим процесс, как если бы пересмотренное уведомление было новым уведомлением.
+6. **GitHub May Disable Access to the Content.** GitHub will disable a user's content if: (i) the copyright owner has alleged copyright over the user's entire repository or package (as noted in Step 3); (ii) the user has not made any changes after being given an opportunity to do so (as noted in Step 4); or (iii) the copyright owner has renewed their takedown notice after the user had a chance to make changes. If the copyright owner chooses instead to *revise* the notice, we will go back to Step 2 and repeat the process as if the revised notice were a new notice.
 
-7. **Пользователь может отправить встречное уведомление.** Мы рекомендуем пользователям, у которых отключено содержимое, проконсультироваться с юристом о своих возможностях. Если пользователь считает, что его содержимое было отключено в результате ошибки или неправильной идентификации, он может отправить нам [встречное уведомление](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Как и в случае с первоначальным уведомлением, мы позаботимся о том, чтобы встречное уведомление было достаточно подробным (как поясняется в [руководстве](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)). Если такое уведомление подано, мы [опубликуем](#e-transparency) его в нашем [общедоступном репозитории](https://github.com/github/dmca) и передадим уведомление владельцу авторских прав, отправив ему ссылку.
+7. **User May Send A Counter Notice.** We encourage users who have had content disabled to consult with a lawyer about their options. If a user believes that their content was disabled as a result of a mistake or misidentification, they may send us a [counter notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). As with the original notice, we will make sure that the counter notice is sufficiently detailed (as explained in the [how-to guide](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)). If it is, we will [post it](#e-transparency) to our [public repository](https://github.com/github/dmca) and pass the notice back to the copyright owner by sending them the link.
 
-8. **Владелец авторских прав может подать судебный иск.** Если владелец авторских прав желает оставить содержимое отключенным после получения встречного уведомления, ему необходимо будет возбудить судебный иск с требованием постановления суда, чтобы удержать пользователя от участия в нарушении прав, связанных с содержимым на GitHub. Другими словами, вас могут засудить. Если владелец авторских прав не уведомит GitHub в течение 10-14 дней, отправив копию действительной юридической жалобы, поданной в суд соответствующей юрисдикции, GitHub повторно активирует отключенное содержимое.
+8. **Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on GitHub. In other words, you might get sued. If the copyright owner does not give GitHub notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, GitHub will re-enable the disabled content.
 
-[B. Что насчет вилок? (или Что такое вилка?)](#b-what-about-forks-or-whats-a-fork)
+[B. What About Forks? (or What's a Fork?)](#b-what-about-forks-or-whats-a-fork)
 ----------
 
-Одной из лучших особенностей GitHub является возможность для пользователей «разветвлять» репозитории друг друга. Что это обозначает? По сути, это означает, что пользователи могут сделать копию проекта на GitHub в свои собственные репозитории. В соответствии с лицензией или законом пользователи могут затем вносить изменения в эту вилку, чтобы либо вернуться к основному проекту, либо просто сохранить как свою собственную вариацию проекта. Каждая из этих копий представляет собой «[Глоссарий GitHub](/ru/get-started/learning-about-github/github-glossary#fork)» исходного репозитория, который, в свою очередь, может называться «родительским элементом» вилки.
+One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/ru/get-started/learning-about-github/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
 
-GitHub *не будет* автоматически отключать вилки при отключении родительского репозитория. Это связано с тем, что вилки принадлежат разным пользователям, могут быть существенно изменены и могут лицензироваться или использоваться другим способом, защищенным доктриной добросовестного использования. GitHub не проводит никаких независимых расследований вилок. Мы ожидаем, что владельцы авторских прав проведут это расследование и, если они сочтут, что вилки также нарушают авторские права, прямо включат вилки в свое уведомление об удалении.
+GitHub *will not* automatically disable forks when disabling a parent repository. This is because forks belong to different users, may have been altered in significant ways, and may be licensed or used in a different way that is protected by the fair-use doctrine. GitHub does not conduct any independent investigation into forks. We expect copyright owners to conduct that investigation and, if they believe that the forks are also infringing, expressly include forks in their takedown notice.
 
-В редких случаях вы можете заявить о нарушении авторских прав в полном репозитории, который активно разветвляется. Если на момент отправки уведомления вы определили все существующие ответвления этого репозитория как предположительно нарушающие авторские права, мы обработаем действительный иск против всех ответвлений в этой сети на момент обработки уведомления. Мы бы сделали это, учитывая вероятность того, что все вновь созданные вилки будут содержать одно и то же содержимое. Кроме того, если заявленная сеть, которая содержит содержимое, предположительно нарушающее авторские права, превышает сто (100) репозиториев и, таким образом, будет трудно проверить ее целиком, мы можем рассмотреть возможность отключения всей сети, если вы укажете в своем уведомлении, что «на основании относительно репрезентативного количества вилок, которые я рассмотрел, я считаю, что все или большинство вилок нарушают авторские права в той же степени, что и родительский репозиторий». Ваше заявление под присягой будет относиться к этому заявлению.
+In rare cases, you may be alleging copyright infringement in a full repository that is actively being forked. If at the time that you submitted your notice, you identified all existing forks of that repository as allegedly infringing, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the allegedly infringing content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, "Based on the representative number of forks I have reviewed, I believe that all or most of the forks are infringing to the same extent as the parent repository." Your sworn statement would apply to this statement.
 
-[C. Как насчет требований об обходе?](#c-what-about-circumvention-claims)
+[C. What about Circumvention Claims?](#c-what-about-circumvention-claims)
 ----------
 
-DMCA запрещает [обход технических средств](https://www.copyright.gov/title17/92chap12.html), эффективно контролирующих доступ к произведениям, охраняемым авторским правом. Учитывая, что эти типы претензий часто являются чисто техническими по природе, GitHub требует, чтобы заявители предоставили [подробную информацию об этих претензиях](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), и мы проведем более широкую проверку.
+The DMCA prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. Given that these types of claims are often highly technical in nature, GitHub requires claimants to provide [detailed information about these claims](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), and we undertake a more extensive review.
 
-Заявление об обходе должно включать следующие сведения о технических мерах и способах их обхода обвиняемым проектом. В частности, уведомление для GitHub должно содержать подробные заявления, описывающие:
+A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 
-1. Каковы технические меры;
-2. Как они эффективно контролируют доступ к материалам, защищенным авторским правом; и
-3. Как обвиняемый проект предназначен для обхода их ранее описанных мер технологической защиты.
+1. What the technical measures are;
+2. How they effectively control access to the copyrighted material; and
+3. How the accused project is designed to circumvent their previously described technological protection measures.
 
-GitHub внимательно рассмотрит заявления об обходе, в том числе техническими и юридическими экспертами. В техническом обзоре мы постараемся проверить детали того, как действуют меры технической защиты и как проект предположительно их обходит. В ходе юридической проверки мы будем стремиться к тому, чтобы претензии не выходили за рамки DMCA. В тех случаях, когда мы не можем определить, является ли претензия действительной, мы ошибаемся на стороне разработчика и оставляем содержимое вверху. Если заявитель желает получить дополнительную информацию, мы снова начнем процесс рассмотрения, чтобы оценить пересмотренные претензии.
+GitHub will review circumvention claims closely, including by both technical and legal experts. In the technical review, we will seek to validate the details about the manner in which the technical protection measures operate and the way the project allegedly circumvents them. In the legal review, we will seek to ensure that the claims do not extend beyond the boundaries of the DMCA. In cases where we are unable to determine whether a claim is valid, we will err on the side of the developer, and leave the content up. If the claimant wishes to follow up with additional detail, we would start the review process again to evaluate the revised claims.
 
-Если наши эксперты определят, что претензия является полной, законной и технически законной, мы свяжемся с владельцем репозитория и предоставим ему возможность ответить на претензию или внести изменения в репо, чтобы избежать удаления. Если они не ответят, мы попытаемся снова связаться с владельцем репозитория, прежде чем предпринимать какие-либо дальнейшие действия. Другими словами, мы не будем отключать репозиторий на основании заявлений о технологии обхода безопасности, не пытаясь связаться с владельцем репозитория, чтобы дать ему возможность ответить или внести изменения в первую очередь. Если мы не можем решить проблему, связавшись сначала с владельцем репозитория, мы всегда будем рады рассмотреть ответ от владельца репозитория даже после того, как контент был отключен, если они хотели бы иметь возможность оспорить претензию, представить нам дополнительные факты, или внесите изменения, чтобы восстановить содержимое. Когда нам потребуется отключить содержимое, мы позаботимся о том, чтобы владельцы репозиториев могли экспортировать свои задачи и запросы на извлечение и другие данные репозитория, которые не содержат предполагаемый код обхода, насколько это возможно по закону.
+Where our experts determine that a claim is complete, legal, and technically legitimate, we will contact the repository owner and give them a chance to respond to the claim or make changes to the repo to avoid a takedown. If they do not respond, we will attempt to contact the repository owner again before taking any further steps. In other words, we will not disable a repository based on a claim of circumvention technology without attempting to contact a repository owner to give them a chance to respond or make changes first. If we are unable to resolve the issue by reaching out to the repository owner first, we will always be happy to consider a response from the repository owner even after the content has been disabled if they would like an opportunity to dispute the claim, present us with additional facts, or make changes to have the content restored. When we need to disable content, we will ensure that repository owners can export their issues and pull requests and other repository data that do not contain the alleged circumvention code to the extent legally possible.
 
-Обратите внимание, что наш процесс проверки технологии обхода не распространяется на содержимое, которое в противном случае нарушило бы ограничения нашей Политики допустимого использования в отношении передачи несанкционированных лицензионных ключей продукта, программного обеспечения для создания несанкционированных лицензионных ключей продукта или программного обеспечения для обхода проверок лицензионных ключей продукта. Хотя такие претензии могут также нарушать положения DMCA о технологиях обхода цензуры, они, как правило, являются простыми и не требуют дополнительной технической и юридической проверки. Тем не менее, если претензия не является однозначной, например, в случае джейлбрейка, применяется процесс рассмотрения претензии в отношении технологии обхода защиты.
+Please note, our review process for circumvention technology does not apply to content that would otherwise violate our Acceptable Use Policy restrictions against sharing unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys. Although these types of claims may also violate the DMCA provisions on circumvention technology, these are typically straightforward and do not warrant additional technical and legal review. Nonetheless, where a claim is not straightforward, for example in the case of jailbreaks, the circumvention technology claim review process would apply.
 
-Когда GitHub обрабатывает удаление DMCA в соответствии с нашим процессом рассмотрения претензии по технологии обхода правил, мы предложим владельцу репозитория направление для получения независимой юридической консультации через [Фонд защиты разработчиков GitHub](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) бесплатно для них.
+When GitHub processes a DMCA takedown under our circumvention technology claim review process, we will offer the repository owner a referral to receive independent legal consultation through [GitHub’s Developer Defense Fund](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) at no cost to them.
 
-[D. Что делать, если я случайно пропустил окно для внесения изменений?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+[D. What If I Inadvertently Missed the Window to Make Changes?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 ----------
 
-Мы понимаем, что существует множество веских причин, по которым вы не сможете внести изменения в течение примерно 1 рабочего дня, который мы предоставляем, прежде чем ваш репозиторий будет отключен. Может быть, наше сообщение было помечено как спам, может быть, вы были в отпуске, может быть, вы не проверяете эту учетную запись регулярно, или, может быть, вы просто были заняты. Мы получим это. Если вы сообщите нам, что хотели бы внести изменения, но почему-то упустили первую возможность, мы повторно включим репозиторий еще раз примерно на 1 рабочий день, чтобы вы могли внести изменения. Опять же, вы должны уведомить нас о том, что вы внесли изменения, чтобы репозиторий оставался включенным по истечении этого периода примерно в 1 рабочий день, как указано выше в [Шаге А.4](#a-how-does-this-actually-work). Обратите внимание, что мы предоставим только один дополнительный шанс.
+We recognize that there are many valid reasons that you may not be able to make changes within the window of approximately 1 business day we provide before your repository gets disabled. Maybe our message got flagged as spam, maybe you were on vacation, maybe you don't check that email account regularly, or maybe you were just busy. We get it. If you respond to let us know that you would have liked to make the changes, but somehow missed the first opportunity, we will re-enable the repository one additional time for approximately 1 business day to allow you to make the changes. Again, you must notify us that you have made the changes in order to keep the repository enabled after that window of approximately 1 business day, as noted above in [Step A.4](#a-how-does-this-actually-work). Please note that we will only provide this one additional chance.
 
-[Е. Прозрачность](#e-transparency)
+[E. Transparency](#e-transparency)
 ----------
 
-Мы считаем, что прозрачность является добродетелью. Общественность должна знать, какое содержимое удаляется с GitHub и почему. Информированная общественность может заметить и выявить потенциальные проблемы, которые иначе остались бы незамеченными в непрозрачной системе. Мы публикуем отредактированные копии любых юридических уведомлений, которые мы получаем (включая оригинальные уведомления, встречные уведомления или опровержения) по адресу <https://github.com/github/dmca>. Мы не будем публично публиковать вашу личную контактную информацию; мы удалим личную информацию (за исключением имен пользователей в URL-адресах) перед публикацией уведомлений. Однако мы не будем редактировать никакую другую информацию из вашего уведомления, если вы специально не попросите нас об этом. Ниже приведены некоторые примеры опубликованного [уведомления](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) и [встречного уведомления](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md), чтобы увидеть, как они выглядят. Когда мы удаляем содержимое, мы размещаем на его месте ссылку на соответствующее уведомление.
+We believe that transparency is a virtue. The public should know what content is being removed from GitHub and why. An informed public can notice and surface potential issues that would otherwise go unnoticed in an opaque system. We post redacted copies of any legal notices we receive (including original notices, counter notices or retractions) at <https://github.com/github/dmca>. We will not publicly publish your personal contact information; we will remove personal information (except for usernames in URLs) before publishing notices. We will not, however, redact any other information from your notice unless you specifically ask us to. Here are some examples of a published [notice](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) and [counter notice](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md) for you to see what they look like. When we remove content, we will post a link to the related notice in its place.
 
-Также обратите внимание, что, хотя мы не будем публиковать неотредактированные уведомления, мы можем предоставить полную неотредактированную копию любых уведомлений, которые мы получаем, непосредственно любой стороне, чьи права могут быть затронуты этим.
+Please also note that, although we will not publicly publish unredacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it.
 
-[F. Повторное нарушение](#f-repeated-infringement)
+[F. Repeated Infringement](#f-repeated-infringement)
 ----------
 
-Политика GitHub заключается в том, чтобы при соответствующих обстоятельствах и по собственному усмотрению отключать и удалять учетные записи пользователей, которые могут нарушать авторские права или другие права на интеллектуальную собственность GitHub или других лиц.
+It is the policy of GitHub, in appropriate circumstances and in its sole discretion, to disable and terminate the accounts of users who may infringe upon the copyrights or other intellectual property rights of GitHub or others.
 
-[G. Отправка уведомлений](#g-submitting-notices)
+[G. Submitting Notices](#g-submitting-notices)
 ----------
 
-Если вы готовы подать уведомление или встречное уведомление:
+If you are ready to submit a notice or a counter notice:
 
-* [Отправка уведомления DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
-* [Как отправить встречное уведомление](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [How to Submit a DMCA Notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [How to Submit a DMCA Counter Notice](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-[Узнайте больше и выскажитесь](#learn-more-and-speak-up)
+[Learn More and Speak Up](#learn-more-and-speak-up)
 ----------
 
-Если порыться в Интернете, нетрудно найти комментарии и критику системы авторского права в целом и DMCA в частности. Хотя GitHub признает и ценит важную роль, которую DMCA сыграло в продвижении инноваций в Интернете, мы считаем, что законы об авторском праве, вероятно, могли бы использовать один или два исправления, если не целую новую версию. В программном обеспечении мы постоянно совершенствуем и обновляем наш код. Подумайте о том, как сильно изменились технологии с 1998 года, когда был написан DMCA. Разве не имеет смысла обновить эти законы, которые применяются к программному обеспечению?
+If you poke around the Internet, it is not too hard to find commentary and criticism about the copyright system in general and the DMCA in particular. While GitHub acknowledges and appreciates the important role that the DMCA has played in promoting innovation online, we believe that the copyright laws could probably use a patch or two—if not a whole new release. In software, we are constantly improving and updating our code. Think about how much technology has changed since 1998 when the DMCA was written. Doesn't it just make sense to update these laws that apply to software?
 
-Мы не предполагаем, что у нас есть ответы на все вопросы. Но если вам интересно, вот несколько ссылок на научные статьи и сообщения в блогах, которые мы нашли с мнениями и предложениями по реформе:
+We don't presume to have all the answers. But if you are curious, here are a few links to scholarly articles and blog posts we have found with opinions and proposals for reform:
 
-* [Непредвиденные последствия: двенадцать лет под DMCA](https://www.eff.org/wp/unintended-consequences-under-dmca) (Фонд электронных рубежей)
-* [Уставные убытки в законе об авторских правах: средство правовой защиты от необходимости реформы](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375604) (обзор Уильяма и Мэри Лоу)
-* [Не слишком ли долог срок защиты авторских прав?](https://the1709blog.blogspot.com/2012/11/is-term-of-protection-of-copyright-too.html) (Блог 1709 года)
-* [Если мы собираемся изменить DMCA «Уведомление и удаление», давайте сосредоточимся на том, как часто встречается это злоупотребление](https://www.techdirt.com/articles/20140314/11350426579/if-were-going-to-change-dmcas-notice-takedown-lets-focus-how-widely-its-abused.shtml) (TechDirt)
-* [Возможности для реформы авторских прав](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
-* [Доктрина справедливого использования и Закон США о защите авторских прав: существует ли справедливое использование в Интернете в рамках DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Обзор закона Санта-Клары)
+* [Unintended Consequences: Twelve Years Under the DMCA](https://www.eff.org/wp/unintended-consequences-under-dmca) (Electronic Frontier Foundation)
+* [Statutory Damages in Copyright Law: A Remedy in Need of Reform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375604) (William & Mary Law Review)
+* [Is the Term of Protection of Copyright Too Long?](https://the1709blog.blogspot.com/2012/11/is-term-of-protection-of-copyright-too.html) (The 1709 Blog)
+* [If We're Going to Change DMCA's 'Notice & Takedown,' Let's Focus on How Widely It's Abused](https://www.techdirt.com/articles/20140314/11350426579/if-were-going-to-change-dmcas-notice-takedown-lets-focus-how-widely-its-abused.shtml) (TechDirt)
+* [Opportunities for Copyright Reform](https://www.cato-unbound.org/issues/january-2013/opportunities-copyright-reform) (Cato Unbound)
+* [Fair Use Doctrine and the Digital Millennium Copyright Act: Does Fair Use Exist on the Internet Under the DMCA?](https://digitalcommons.law.scu.edu/lawreview/vol42/iss1/6/) (Santa Clara Law Review)
 
-GitHub не обязательно поддерживает какие-либо точки зрения в этих статьях. Мы предоставляем ссылки, которые позволят вам узнать больше, сформировать собственное мнение, а затем обратиться к избранным представителям (например, в [Конгрессе США](https://www.govtrack.us/congress/members) или [Европейском парламенте](https://www.europarl.europa.eu/meps/en/home)), чтобы предложить любые изменения, которые вы считаете необходимыми.
+GitHub doesn't necessarily endorse any of the viewpoints in those articles. We provide the links to encourage you to learn more, form your own opinions, and then reach out to your elected representative(s) (e.g., in the [U.S. Congress](https://www.govtrack.us/congress/members) or [E.U. Parliament](https://www.europarl.europa.eu/meps/en/home)) to seek whatever changes you think should be made.
 
 {"resolvedServerColorMode":"day"}

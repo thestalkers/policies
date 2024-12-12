@@ -1,75 +1,75 @@
-GitHub 申诉和恢复 - GitHub 文档
+GitHub Appeal and Reinstatement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Site policy](/zh/site-policy)/
+* [Acceptable Use Policies](/zh/site-policy/acceptable-use-policies)/
+* [GitHub Appeal and Reinstatement](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub 申诉和恢复
+GitHub Appeal and Reinstatement
 ==========
 
-本文内容
+In this article
 ----------
 
-* [申诉和恢复](#appeal-and-reinstatement)
-* [什么是申诉和恢复？](#what-are-appeals-and-reinstatements)
-* [运作方式](#how-this-works)
-* [透明度](#transparency)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+* [How this works](#how-this-works)
+* [Transparency](#transparency)
 
-[申诉和恢复](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-虽然 GitHub 社区中个人之间的大部分互动都遵守我们的《可接受使用政策》和《社区指南》，但违反这些政策的行为有时确实会发生。 当发生违规行为时，GitHub 工作人员可能需要采取强制措施来解决。 然而，我们明白，有时我们可能会理解错误。 在某些情况下，可能有依据来撤销 GitHub 工作人员采取（或不采取）的审核措施。 为了确保我们的策略和成果得到公平应用，GitHub 提供了一个内部投诉处理流程，用户可以提交恢复请求或提供其他信息来对审核决定提出申诉。
+While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
 
-[什么是申诉和恢复？](#what-are-appeals-and-reinstatements)
+[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
 ----------
 
-申诉和恢复都可能与禁用或限制对内容或帐户的访问的决定有关，包括是否决定：
+Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
 
-* 移除、禁用对内容的访问权限，或限制内容的可见性
-* 暂停或终止对帐户的访问权限
-* 暂停或终止对整个或部分服务的访问权限
-* 暂停、终止或以其他方式限制内容的盈利能力
+* Remove, disable access to, or restrict visibility of content
+* Suspend or terminate access to an account
+* Suspend or terminate access to the service, in whole or in part
+* Suspend, terminate or otherwise restrict the ability to monetize content
 
-“恢复”是用户希望重新获得对其帐户或内容的访问权限，愿意进行任何必要的更改以解决违规行为，并且同意今后不再违反我们的条款。
+A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
 
-“申诉”是用户对违规行为提出争议，并可以提供其他信息以表明应该做出不同的决定。
+An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
 
-[运作方式](#how-this-works)
+[How this works](#how-this-works)
 ----------
 
-如果您希望寻求恢复或希望对强制执行措施提出申诉，请填写我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)。 你可以在做出决定后的最多六个月内对审核决定提出申诉。 GitHub 可以自行决定是否拒绝考虑在做出决定后超出六个月时间范围所提出的任何申诉。
+If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
 
-GitHub 工作人员将审查表单中提供的信息，以确定是否有足够的信息来保证恢复或批准申诉。
+GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
 
-### [恢复](#reinstatements) ###
+### [Reinstatements](#reinstatements) ###
 
-如果用户同意今后遵守我们的《可接受使用政策》，并已做出必要的更改来解决违规行为，我们可能会根据最初违规行为的情况和严重程度选择恢复其帐户或内容。
+Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
 
-所有合法的恢复请求都将首先由 GitHub 工作人员进行审查，并回复所做决定。
+All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
 
-### [申诉](#appeals) ###
+### [Appeals](#appeals) ###
 
-如果用户想对决定提出异议，可以使用该表单来解释他们质疑决定的依据，并提供与涉嫌违规行为相关且他们认为应该导致不同决定的任何其他信息。
+Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
 
-如果提供的信息表明应该得出不同的结论，我们也许能够批准申诉。 GitHub 将在申诉包含足够理由的情况下撤销或修改其决定，以确定 (i) 我们采取行动或不采取行动的决定是错误的；(ii) 内容或行为不违法，也不违反我们的条款：或者 (iii) 内容或行为值得采取比所采取措施更轻的行动。
+If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
 
-所有关于申诉的决定都是人工做出的，而非由任何自动化手段做出。 如果处理申诉的 GitHub 工作人员审核者是做出初始决定的同一个人，并且该工作人员认为他们的初始结论是正确的（因此倾向于拒绝申诉），则另一名 GitHub 工作人员将独立审查该申诉。
+All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
 
-所有合法申诉都会得到包含最终决定的回复。
+All legitimate Appeals will be answered with a final decision.
 
-[透明度](#transparency)
+[Transparency](#transparency)
 ----------
 
-我们在[透明度中心](https://transparencycenter.github.com/appeals/)中对申诉和恢复进行跟踪。
+We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
 
-### [法律权利](#legal-rights) ###
+### [Legal Rights](#legal-rights) ###
 
-如果你认为对申诉做出的最终决定仍然不正确，在某些情况下，根据当地法律，您可能有其他权利可允许你寻求对该决定的审查。 例如，如果你在欧盟，则有可能根据《数字服务法案》[](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1)进入庭外争议解决程序。
+If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

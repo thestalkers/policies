@@ -1,63 +1,63 @@
-GitHub 条款 - GitHub 文档
+GitHub Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 条款](/zh/site-policy/github-terms)
+* [Site policy](/zh/site-policy)/
+* [GitHub Terms](/zh/site-policy/github-terms)
 
-GitHub 条款
+GitHub Terms
 ==========
 
-[GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)
+[GitHub Terms of Service](/zh/site-policy/github-terms/github-terms-of-service)
 ----------
 
-[GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)
+[GitHub Corporate Terms of Service](/zh/site-policy/github-terms/github-corporate-terms-of-service)
 ----------
 
-[GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[GitHub Terms for Additional Products and Features](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
+[GitHub Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines)
 ----------
 
-[GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
+[GitHub Community Code of Conduct](/zh/site-policy/github-terms/github-community-code-of-conduct)
 ----------
 
-[GitHub 预发行许可条款](/zh/site-policy/github-terms/github-pre-release-license-terms)
+[GitHub Pre-release License Terms](/zh/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
+[GitHub Sponsors Additional Terms](/zh/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
-[GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
+[GitHub Registered Developer Agreement](/zh/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[GitHub Marketplace 服务条款](/zh/site-policy/github-terms/github-marketplace-terms-of-service)
+[GitHub Marketplace Terms of Service](/zh/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
-[GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
+[GitHub Marketplace Developer Agreement](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
 ----------
 
-[GitHub 研究计划条款](/zh/site-policy/github-terms/github-research-program-terms)
+[GitHub Research Program Terms](/zh/site-policy/github-terms/github-research-program-terms)
 ----------
 
-[GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[GitHub Open Source Applications Terms and Conditions](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 ----------
 
-[GitHub 活动条款](/zh/site-policy/github-terms/github-event-terms)
+[GitHub Event Terms](/zh/site-policy/github-terms/github-event-terms)
 ----------
 
-[GitHub 活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)
+[GitHub Event Code of Conduct](/zh/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
-[GitHub 教育使用协议](/zh/site-policy/github-terms/github-educational-use-agreement)
+[GitHub Educational Use Agreement](/zh/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[GitHub Copilot 扩展开发人员策略](/zh/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot Extension Developer Policy](/zh/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

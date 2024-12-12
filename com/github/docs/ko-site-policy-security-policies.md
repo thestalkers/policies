@@ -1,24 +1,24 @@
-보안 정책 - GitHub Docs
+Security Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [보안 정책](/ko/site-policy/security-policies)
+* [Site policy](/ko/site-policy)/
+* [Security Policies](/ko/site-policy/security-policies)
 
-보안 정책
+Security Policies
 ==========
 
-[조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[Coordinated Disclosure of Security Vulnerabilities](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 ----------
 
-[GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[GitHub Bug Bounty Program Legal Safe Harbor](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 ----------
 
-[GitHub SIRT 설명 RFC 2350](/ko/site-policy/security-policies/github-sirt-description-rfc-2350)
+[GitHub SIRT description RFC 2350](/ko/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
 
 {"resolvedServerColorMode":"day"}

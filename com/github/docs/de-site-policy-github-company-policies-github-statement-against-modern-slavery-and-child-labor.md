@@ -1,140 +1,140 @@
-GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentation
+GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
-* [GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+* [Site policy](/de/site-policy)/
+* [GitHub Company Policies](/de/site-policy/github-company-policies)/
+* [GitHub Statement Against Modern Slavery and Child Labor](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
+GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
-In diesem Artikel
+In this article
 ----------
 
-* [Struktur, Geschäft und Lieferketten von GitHub](#githubs-structure-business-and-supply-chains)
-* [Richtlinien in Bezug auf moderne Sklaverei und Kinderarbeit](#policies-in-relation-to-modern-slavery-and-child-labor)
-* [Arbeitsgesetze und -praktiken](#labor-laws-and-practices)
-* [Due-Diligence-Prozesse in Bezug auf moderne Sklaverei und Kinderarbeit in seinen Geschäfts- und Lieferketten](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
-* [Stellen in den Geschäfts- und Lieferketten von GitHub, an denen ein Risiko moderner Sklaverei und Kinderarbeit besteht, und Maßnahmen, die GitHub ergriffen hat, um dieses Risiko zu bewerten und zu bewältigen](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
-* [Wirksamkeit, um sicherzustellen, dass weder moderne Sklaverei noch Kinderarbeit in den Geschäften oder Lieferketten von GitHub vorkommen](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
-* [Training für GitHub-Mitarbeiter zu moderner Sklaverei und Menschenhandel](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+* [GitHub's structure, business, and supply chains](#githubs-structure-business-and-supply-chains)
+* [Policies in relation to modern slavery and child labor](#policies-in-relation-to-modern-slavery-and-child-labor)
+* [Labor laws and practices](#labor-laws-and-practices)
+* [Due diligence processes in relation to modern slavery and child labor in its business and supply chains](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+* [Places in GitHub's business and supply chains where there is a risk of modern slavery and child labor, and steps GitHub has taken to assess and manage that risk](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+* [Effectiveness in ensuring neither modern slavery nor child labor is occurring in GitHub's business or supply chains](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+* [Training for GitHub staff about modern slavery and human trafficking](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
-*2018 Erklärung*
+*2018 statement*
 
-Nach Angaben der Internationalen Arbeitsorganisation (ILO) waren 2016 weltweit [40 Millionen Menschen Opfer moderner Sklaverei, und 152 Millionen Kinder waren Kinderarbeit ausgesetzt](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm). Laut der [ILO](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons):
+According to the International Labour Organization (ILO), [40 million people were victims of modern slavery and 152 million children were subject to child labor](https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_574717/lang--en/index.htm) globally in 2016. As the [ILO reports](https://www.ilo.org/topics-and-sectors/forced-labour-modern-slavery-and-trafficking-persons):
 
-* 1 von 4 Opfern moderner Sklaverei sind Kinder.
-* Von den 24,9 Millionen Menschen, die in Zwangsarbeit gefangen sind, werden 16 Millionen Menschen im privaten Sektor wie Hausarbeit, Bau oder Landwirtschaft ausgebeutet; 4,8 Millionen Menschen in erzwungener sexueller Ausbeutung und 4 Millionen Menschen in Zwangsarbeit durch staatliche Behörden.
-* Frauen und Mädchen sind überproportional von Zwangsarbeit betroffen und machen 99 % der Opfer in der kommerziellen Sexindustrie und 58 % in anderen Sektoren aus.
+* 1 in 4 victims of modern slavery are children.
+* Out of the 24.9 million people trapped in forced labour, 16 million people are exploited in the private sector such as domestic work, construction or agriculture; 4.8 million persons in forced sexual exploitation, and 4 million persons in forced labour imposed by state authorities.
+* Women and girls are disproportionately affected by forced labour, accounting for 99% of victims in the commercial sex industry, and 58% in other sectors.
 
-GitHub bedauert das Vorhandensein und Fortbestehen von moderner Sklaverei und Kinderarbeit und nimmt seine Verantwortung ernst, sicherzustellen, dass weder moderne Sklaverei noch Kinderarbeit in seiner Lieferkette oder in irgendeinem Teil seines Geschäfts stattfindet. („Moderne Sklaverei“ in dieser Erklärung bezieht sich auf Sklaverei, Zwangs- oder Pflichtarbeit, Menschenhandel, Leibeigenschaft und Arbeiter, die inhaftiert, verpflichtet oder gebunden sind. „Kinderarbeit“ bezieht sich auf Arbeiten, die von Personen unter 16 Jahren oder unter 14 Jahren für leichte Arbeiten ausgeführt werden, sofern sie nicht auf Zeiten beschränkt sind, die die Schulbildung des Kindes beeinträchtigen, und nicht unter Bedingungen, die die Gesundheit oder das Wohlbefinden des Kindes beeinträchtigen .)
+GitHub deplores the presence and persistence of modern slavery and child labor, and takes seriously its responsibility to ensure that neither modern slavery nor child labor takes place in its supply chain or in any part of its business. ("Modern slavery" in this statement refers to slavery, forced or compulsory labor, trafficking, servitude, and workers who are imprisoned, indentured, or bonded. "Child labor" refers to work performed by someone under 16 years of age, or under 14 for light work, provided it is not confined to periods that interfere with the child's schooling and not in conditions that interfere with the child's health or well-being.)
 
-Gemäß dem [UK Modern Slavery Act](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted) und in Übereinstimmung mit dem [ILO 2014 Protocol to its Forced Labour Convention](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), der [ILO Declaration on Fundamental Principles and Rights at Work](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work) und dem [United Nations Sustainable Development Goals target 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms), beschreibt diese Erklärung gegen moderne Sklaverei und Kinderarbeit von 2018 („die Erklärung”) die Schritte, die GitHub unternommen hat, um moderne Sklaverei und Kinderarbeit in seinem Geschäft oder seiner Lieferkette zu verhindern.
+In accordance with the [UK Modern Slavery Act](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted), and in alignment with the [ILO 2014 Protocol to its Forced Labour Convention](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), [ILO Declaration on Fundamental Principles and Rights at Work](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work), and [United Nations Sustainable Development Goals target 8.7](https://www.unodc.org/roseap/en/sustainable-development-goals.html#:~:text=Target%208.7%20%2D%20Take%20immediate%20and,labour%20in%20all%20its%20forms), this 2018 Statement Against Modern Slavery and Child Labor ("the Statement") describes the steps GitHub has taken to prevent modern slavery and child labor from occurring in its business or supply chain.
 
-[Struktur, Geschäft und Lieferketten von GitHub](#githubs-structure-business-and-supply-chains)
+[GitHub's structure, business, and supply chains](#githubs-structure-business-and-supply-chains)
 ----------
 
-GitHub ist eine Softwareentwicklungsplattform mit Hauptsitz in San Francisco und Mitarbeitern und Auftragnehmern, die in zahlreichen Ländern tätig sind.
+GitHub is a software development platform with its headquarters in San Francisco, and employees and contractors working in numerous countries.
 
-Alle GitHub-Mitarbeiter und einzelne unabhängige Auftragnehmer sind freiwillig und nach Belieben. GitHub verfügt über eine weitgehend verteilte Belegschaft und ist bestrebt, seinen Mitarbeitern und Auftragnehmern unabhängig vom Standort eine wettbewerbsfähige Vergütung und Leistungen zu bieten. Dies gilt unabhängig davon, ob wir unabhängige Auftragnehmer direkt oder über einen Vermittler beauftragen.
+All GitHub employees and individual independent contractors are voluntary and at-will. GitHub has a largely distributed workforce, and strives to provide competitive compensation and benefits to its employees and contractors regardless of location. This is true whether we hire independent contractors directly or through an intermediary.
 
-GitHub betreibt keine Fertigung oder produziert keine Hardware, noch verwendet GitHub Personalvermittlungsagenturen für die Art von Dienstleistungen, die häufig von Wanderarbeitnehmern erbracht werden. Aufgrund der Art des Geschäfts von GitHub ist es nicht plötzlichen Änderungen der Arbeitsbelastung oder Preisdruck ausgesetzt, was häufig die Nachfrage nach Praktiken antreibt, die das Risiko von Zwangsarbeit in Lieferketten erhöhen, wie z. B. erzwungene Überstunden.
+GitHub does not conduct manufacturing or produce hardware, nor does GitHub use recruitment agencies for the kinds of services often performed by migrant workers. The nature of GitHub's business does not subject it to sudden changes in workload or pricing pressures, which often drive demand for practices that increase the risk of forced labor in supply chains, such as forced overtime.
 
-GitHub bietet Kunden auf der ganzen Welt kostenlose und kostenpflichtige Software sowie webbasierte Software als Service an. Zu den Produkten von GitHub gehören:
+GitHub offers free and paid software and web-based software as a service to customers all over the world. GitHub's products include:
 
-* GitHub.com: webbasierte Zusammenarbeits- und Code-Hosting-Plattform
-* GitHub Enterprise: On-Premise Zusammenarbeits- und Code-Hosting-Software
-* Electron: Framework zum Schreiben von plattformübergreifenden Desktop-Apps
-* GitHub Desktop: Desktop-App für den Zugriff auf GitHub.com und GitHub Enterprise
+* GitHub.com: web-based collaboration and code-hosting platform
+* GitHub Enterprise: on-premises collaboration and code hosting software
+* Electron: framework for writing cross-platform desktop apps
+* GitHub Desktop: desktop app for accessing GitHub.com and GitHub Enterprise
 
-Die Lieferkette von GitHub besteht aus Waren und Dienstleistungen für unsere Produkte und Betriebe, darunter Computerdienste, Veranstaltungsplanung, Kauf von Einzelhandels- und Werbeartikeln, Büromaterial und Leasing von Einrichtungen wie Büroflächen und Rechenzentren.
+GitHub's supply chain consists of goods and services for our products and operations including computing services, event planning, purchase of retail and promotional items, office supplies, and leasing of facilities such as office space and data centers.
 
-[Richtlinien in Bezug auf moderne Sklaverei und Kinderarbeit](#policies-in-relation-to-modern-slavery-and-child-labor)
+[Policies in relation to modern slavery and child labor](#policies-in-relation-to-modern-slavery-and-child-labor)
 ----------
 
-### [Moderne Sklaverei und Kinderarbeit](#modern-slavery-and-child-labor) ###
+### [Modern slavery and child labor](#modern-slavery-and-child-labor) ###
 
-Der **Verhaltenskodex von GitHub** verbietet es, moderne Sklaverei (Sklaverei, Zwangs- oder Pflichtarbeit, Menschenhandel, Leibeigenschaft, Gefangenschaft oder Schuldknechtschaft) oder Kinderarbeit in seiner Geschäftstätigkeit wissentlich anzuwenden, sich daran zu beteiligen, diese zu unterstützen oder zu tolerieren. Jeder Mitarbeiter oder Auftragnehmer von GitHub, der gegen dieses Verbot verstößt, muss mit der Kündigung des Arbeitsverhältnisses oder der Geschäftsbeziehung rechnen.
+**GitHub's Code of Ethics** prohibits knowingly using, participating in, supporting, or tolerating modern slavery (slavery, forced or compulsory labor, trafficking, servitude, or workers who are imprisoned, indentured, or bonded) or child labor in its business operations. Any GitHub employee or contractor who violates this prohibition will be subject to termination of employment or business relationship.
 
-Die **Verhaltensnormen von GitHub** verbieten unsichere und illegale Verhaltensweisen, einschließlich der wissentlichen Nutzung, Beteiligung, Unterstützung oder Duldung moderner Sklaverei (Sklaverei, Zwangs- oder Pflichtarbeit, Menschenhandel, Leibeigenschaft oder Arbeiter, die in Gefangenschaft oder Schuldknechtschaft gehalten werden) oder Kinderarbeit.
+**GitHub's Standards of Conduct** prohibit unsafe and illegal conduct, including knowingly using, participating in, supporting, or tolerating modern slavery (slavery, forced or compulsory labor, trafficking, servitude, or workers who are imprisoned, indentured, or bonded) or child labor.
 
-GitHub hält sich an Gesetze, die Menschenhandel und Kinderarbeit in den Ländern verbieten, in denen das Unternehmen tätig ist, einschließlich der [U.S. Federal Acquisition Regulation 22.17 on combatting human trafficking](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf).
+GitHub complies with laws prohibiting trafficking and child labor in the jurisdictions in which it operates, including [U.S. Federal Acquisition Regulation 22.17 on combatting human trafficking](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf).
 
-Darüber hinaus ist GitHub eine Partnerschaft mit dem FairHotel-Programm eingegangen, was bedeutet, dass GitHub seine Mitarbeiter ermutigt, von FairHotel unterstützte Hotels zu wählen, in denen die Arbeitnehmer faire Löhne, angemessene Leistungen und eine Stimme am Arbeitsplatz erhalten. FairHotel-Partner zu sein bedeutet auch, dass GitHub Hotels als fairer Arbeitgeber Geschäfte macht.
+In addition, GitHub established a partnership with the FairHotel Program, which means GitHub encourages its employees to choose FairHotel endorsed hotels-where workers have fair wages, adequate benefits, and a voice on the job. Being a FairHotel partner also signifies that GitHub provides business to hotels as a fair employer.
 
-In Zukunft wird GitHub diese Erklärung allen Mitarbeitern, Auftragnehmern und Lieferanten, einschließlich Personalvermittlern und Arbeitsagenturen, mitteilen. Darüber hinaus entwickelt GitHub Schulungen für alle GitHub-Mitarbeiter zu moderner Sklaverei und Kinderarbeit. GitHub veröffentlicht seine Erklärung gegen Moderne Sklaverei und Kinderarbeit, sodass sie für jeden einsehbar ist.
+Going forward, GitHub will communicate this Statement to all employees, contractors, and suppliers, including recruiters and employment agencies. In addition, GitHub is developing training for all GitHub employees on modern slavery and child labor. GitHub posts its Statement Against Modern Slavery and Child Labor publicly.
 
-GitHub hat eine Nicht-Vergeltungsrichtlinie für die Meldung arbeitsplatzbezogener Bedenken. In Übereinstimmung mit dieser Erklärung ermöglicht GitHub Mitarbeitern und Auftragnehmern, Probleme in Bezug auf moderne Sklaverei und Kinderarbeit ohne Angst vor Vergeltungsmaßnahmen zu melden.
+GitHub has a non-retaliation policy for reporting workplace-related concerns. Consistent with this Statement, GitHub allows employees and contractors to report issues regarding modern slavery and child labor without fear of retaliation.
 
-[Arbeitsgesetze und -praktiken](#labor-laws-and-practices)
+[Labor laws and practices](#labor-laws-and-practices)
 ----------
 
-Die Arbeitspraktiken von GitHub sind
+GitHub's labor practices are
 
-**fair**:
+**fair:**
 
-* GitHub zahlt seinen Mitarbeitern und Auftragnehmern einen fairen Lohn in Übereinstimmung mit den geltenden gesetzlichen Löhnen
-* GitHub sorgt für menschenwürdige Arbeitsbedingungen
-* GitHub verlangt von Arbeitern nicht, dass sie die Höchststundenanzahl für einen Arbeitstag, die durch die vor Ort und auf nationaler Ebene geltenden Gesetze und Regelungen festgelegt wurde, überschreiten.
-* GitHub bezahlt seine Mitarbeiter und Auftragnehmer zeitnah, mit Unterlagen (z. B. einer Gehaltsabrechnung), die die Grundlage ihrer Bezahlung angeben, und führt Mitarbeiterunterlagen in Übereinstimmung mit lokalen und nationalen Gesetzen
+* GitHub pays its employees and contractors a fair wage, in accordance with applicable legal wages
+* GitHub maintains humane working conditions
+* GitHub does not require workers to exceed the maximum hours of daily labor set by local and national laws or regulations
+* GitHub pays its employees and contractors in a timely manner, with documentation (such as a pay stub) stating the basis on which they are paid, and keeps employee records in accordance with local and national laws
 
-**menschlich und ethisch korrekt**:
+**humane and ethical:**
 
-* GitHub arbeitet ausschließlich mit freiwilliger Arbeit
-* GitHub verbietet Kinderarbeit
-* GitHub toleriert keine körperliche Züchtigung oder Misshandlung.
-* GitHub toleriert keine Belästigung oder rechtswidrige Diskriminierung in der Belegschaft oder am Arbeitsplatz
+* GitHub uses only voluntary labor
+* GitHub prohibits child labor
+* GitHub does not engage in physical discipline or abuse
+* GitHub does not tolerate harassment or unlawful discrimination in the workforce or workplace
 
-**respektvoll**:
+**respectful:**
 
-* GitHub schützt die Rechte seiner Mitarbeiter auf Vereinigungsfreiheit und Kollektivverhandlungen gemäß den gesetzlichen Anforderungen, einschließlich der Veröffentlichung von rechtlichen Hinweisen auf Mitarbeiterrechte gemäß dem National Labour Relations Act
-* GitHub bietet Mitarbeitern Vorteile auf oder über dem Niveau, das in der Branche erwartet wird
-* GitHub ermutigt Mitarbeiter, Beschwerden am Arbeitsplatz zu melden, und toleriert keine Vergeltungsmaßnahmen für die Meldung
+* GitHub protects its employees' rights to freedom of association and collective bargaining in accordance with legal requirements, including to post legal notices of employees' rights under the National Labor Relations Act
+* GitHub provides benefits to employees at or in excess of levels expected in the industry
+* GitHub encourages employees to report any workplace complaint and does not tolerate retaliation for reporting
 
-[Due-Diligence-Prozesse in Bezug auf moderne Sklaverei und Kinderarbeit in seinen Geschäfts- und Lieferketten](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+[Due diligence processes in relation to modern slavery and child labor in its business and supply chains](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 ----------
 
-GitHub bewertet sein Geschäft und seine Lieferkette auf Risiken im Zusammenhang mit moderner Sklaverei und Kinderarbeit. Gestützt auf internes und externes Menschenrechts-Know-how führte GitHub eine funktionsübergreifende Analyse durch (einschließlich Politik, Recht, Beschaffung, Finanzen und Betrieb, insbesondere Personalwesen), um festzustellen, wo Arbeitsdienste in seinem Geschäft und seiner Lieferkette vorhanden sind, und um Potenziale zu identifizieren Risiken im Zusammenhang mit moderner Sklaverei und Kinderarbeit. GitHub priorisiert Bereiche, in denen diese Risiken in Bezug auf Schweregrad, Umfang oder Wahrscheinlichkeit von größerer Bedeutung sein könnten, um eine größere Sorgfaltspflicht, Überwachung und Überprüfung zu erhalten. GitHub prüft weiterhin, wo Risiken auftreten können und wie man sie angeht. Darüber hinaus erhält GitHub jetzt die Zusicherung seiner Lieferanten, dass sie Praktiken anwenden, die mit dieser Erklärung übereinstimmen, einschließlich der Einhaltung von Gesetzen in Bezug auf moderne Sklaverei oder Kinderarbeit.
+GitHub assesses its business and supply chain for risks related to modern slavery and child labor. Drawing on internal and external human rights expertise, GitHub engaged in a cross-functional analysis (including Policy, Legal, Procurement, Finance, and Operations, especially Human Resources) to determine where labor services exist in its business and supply chain and to identify potential risks related to modern slavery and child labor. GitHub prioritizes areas where those risks might be more significant in terms of severity, scale, or probability for greater due diligence, monitoring, and verification. GitHub continues to consider where risks may occur and how to address them. In addition, GitHub now obtains its suppliers' assurance that they have practices consistent with this Statement, including by complying with laws related to modern slavery or child labor.
 
-[Stellen in den Geschäfts- und Lieferketten von GitHub, an denen ein Risiko moderner Sklaverei und Kinderarbeit besteht, und Maßnahmen, die GitHub ergriffen hat, um dieses Risiko zu bewerten und zu bewältigen](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+[Places in GitHub's business and supply chains where there is a risk of modern slavery and child labor, and steps GitHub has taken to assess and manage that risk](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 ----------
 
-GitHub hat keine Lieferanten mit hohem Risiko identifiziert; Moderne Sklaverei oder Kinderarbeit würden jedoch eher bei Lieferanten für Dienstleistungen auftreten, die Handarbeit beinhalten, wie z. B. Veranstaltungsunterstützung, Bau, Einrichtungen und Gastronomie. GitHub wird seine bestehenden Lieferanten prüfen und von solchen in solchen Bereichen mit höherem Risiko verlangen, dass sie bestätigen, dass sie Dienstleistungen im Einklang mit dieser Erklärung erbringen.
+GitHub has not identified any high-risk suppliers; however, modern slavery or child labor would be more likely to occur with suppliers for services involving manual labor, such as event support, construction, facilities services, and food services. GitHub will audit its existing suppliers and require those in such higher risk areas to confirm that they provide services consistent with this Statement.
 
-Obwohl GitHub keine tatsächliche oder angebliche moderne Sklaverei oder Kinderarbeit in seinem Geschäft oder seiner Lieferkette kennt und keine glaubwürdige Grundlage hat, um zu glauben, dass dies der Fall ist, verpflichtet sich GitHub, Abhilfemaßnahmen bereitzustellen, wenn GitHub selbst direkt moderne Sklaverei oder Kinderarbeit verursachen sollte und zur Behebung breiterer Muster der Nichteinhaltung dieser Erklärung, die durch Mängel in den Systemen oder Prozessen von GitHub verursacht werden. Die Abhilfemaßnahmen von GitHub für einzelne Opfer würden Protokolle für angemessene Sofortmaßnahmen zur Beseitigung der modernen Praktiken der Sklaverei und Kinderarbeit sowie Ressourcen für angemessene und angemessene Opferdienste umfassen, die darauf abzielen, den erlittenen Schaden auszugleichen.
+Although GitHub knows of no actual or alleged modern slavery or child labor in its business or supply chain, and has no credible basis to believe it is occurring, GitHub is committed to providing remedies if GitHub itself were to directly cause modern slavery or child labor and to remediation of broader patterns of non-conformance with this Statement caused by deficiencies in GitHub's systems or processes. GitHub's remediation to individual victims would include protocols for appropriate immediate action to eliminate the modern slavery and child labor practices, along with resources for reasonable and appropriate victim services designed to offset the harm experienced.
 
-[Wirksamkeit, um sicherzustellen, dass weder moderne Sklaverei noch Kinderarbeit in den Geschäften oder Lieferketten von GitHub vorkommen](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+[Effectiveness in ensuring neither modern slavery nor child labor is occurring in GitHub's business or supply chains](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 ----------
 
-GitHub hält sich an Gesetze in Bezug auf moderne Sklaverei und Kinderarbeit und wird dies auch weiterhin tun.
+GitHub complies and will continue to comply with laws related to modern slavery and child labor.
 
-In Zukunft fordert GitHub nun von seinen Lieferanten, diese Erklärung sowie Gesetze in Bezug auf moderne Sklaverei und Kinderarbeit einzuhalten. GitHub verlangt nun auch von seinen Lieferanten:
+Going forward, GitHub now requires its suppliers to comply with this Statement, as well as laws related to modern slavery and child labor. GitHub now also requires its suppliers to:
 
-* Moderne Sklaverei oder Kinderarbeit nicht anwenden, daran teilnehmen, sie unterstützen oder tolerieren.
-* Keine irreführenden oder betrügerischen Rekrutierungs- oder Einstellungspraktiken für Mitarbeiter oder Vertragsarbeiter anwenden.
-* Keine Rekrutierungs- oder Einstellungsgebühren von Mitarbeitern oder Vertragsarbeitern verlangen.
-* Pass, Führerschein oder andere Identitätsdokumente nicht zerstören, verbergen, beschlagnahmen oder anderweitig den Zugang eines Mitarbeiters oder Vertragsarbeiters verweigern.
-* Uns erlauben, unsere Vereinbarungen mit ihnen für jede Verletzung ihrer Verpflichtungen in Bezug auf moderne Sklaverei oder Kinderarbeit zu kündigen und
-* Entschädigung von Arbeitnehmern, die nachweislich einer Form von moderner Sklaverei oder Kinderarbeit ausgesetzt sind, sofern dies gesetzlich vorgeschrieben ist.
+* Not use, participate in, support, or tolerate modern slavery or child labor
+* Not use misleading or fraudulent recruitment or engagement practices for employees or contract workers
+* Not charge employees or contract workers recruitment or engagement fees
+* Not destroy, conceal, confiscate, or otherwise deny access by an employee or any contract worker to passport, driver's license, or other identity documents;
+* Allow us to terminate our agreements with them for any violation of its obligations related to modern slavery or child labor; and
+* Remediate any harms caused to any worker found to be subjected to any form of modern slavery or child labor, if required by law.
 
-Darüber hinaus ermutigt GitHub seine Lieferanten nachdrücklich dazu:
+In addition, GitHub strongly encourages its suppliers to:
 
-* Durchführung von Due-Diligence-Prozessen für moderne Sklaverei und Kinderarbeit, einschließlich Risikobewertungen, für ihre Lieferanten;
-* Schritte unternehmen, um identifizierte Risiken anzugehen und
-* Verwendung einer ähnlicher Sprache gegen moderne Sklaverei und Kinderarbeit gegenüber ihren Lieferanten.
+* Conduct anti-modern slavery and child labor due diligence processes, including risk assessments, for their suppliers;
+* Take steps to address risks identified; and
+* Use similar anti-modern slavery and child labor language with their suppliers.
 
-Die Beschaffungsanweisungen von GitHub für Mitarbeiter, die Einkäufe im Unternehmen tätigen, enthalten jetzt einen Verweis auf die Anforderung an Lieferanten, den Verhaltenskodex für Lieferanten von Microsoft oder diese Erklärung einzuhalten.
+GitHub's procurement instructions to employees making company purchases now includes a reference to the requirement for suppliers to comply with Microsoft's Supplier Code of Conduct or this Statement.
 
-[Training für GitHub-Mitarbeiter zu moderner Sklaverei und Menschenhandel](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
+[Training for GitHub staff about modern slavery and human trafficking](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 ----------
 
-GitHub entwickelt Schulungen zu moderner Sklaverei und Kinderarbeit, die für alle Mitarbeiter im Hinblick auf das Geschäft und die Lieferkette von GitHub obligatorisch sein werden. GitHub wird Lieferanten hervorheben, die Dienstleistungen erbringen, die manuelle Arbeit beinhalten, wie z.
+GitHub is developing modern slavery and child labor training that will be mandatory for all employees, with a view to GitHub's business and supply chain. GitHub will emphasize suppliers providing services involving manual labor, such as event support, construction, facilities services, and food services, as areas of greater potential risk.
 
-**Der Vorstand von GitHub hat dieser Erklärung zugestimmt. [Hier](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf) können Sie sich eine Kopie dieser Erklärung (PDF) ansehen, die vom Chief Strategy Officer und General Counsel von GitHub unterzeichnet wurde.**
+**GitHub's Board of Directors approved this Statement. See a [copy of this statement signed by GitHub's Chief Strategy Officer and General Counsel (PDF)](/assets/images/help/site-policy/github-statement-against-modern-slavery-and-child-labor.pdf).**
 
 {"resolvedServerColorMode":"day"}

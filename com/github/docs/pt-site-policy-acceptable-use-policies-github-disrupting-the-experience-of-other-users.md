@@ -1,31 +1,31 @@
-GitHub interrompendo a experiência de outros usuários - GitHub Docs
+GitHub Disrupting the Experience of Other Users - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Interrupção da experiência de outros usuários](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+* [Site policy](/pt/site-policy)/
+* [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies)/
+* [Disrupting the Experience of Other Users](/pt/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-GitHub interrompendo a experiência de outros usuários
+GitHub Disrupting the Experience of Other Users
 ==========
 
-Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e a plataforma em que elas confiam.
+Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on.
 
-Não permitimos comportamentos que interrompam significativa ou continuamente a experiência de outros usuários. Isso inclui:
+We do not allow behavior that significantly or continually disrupts the experience of other users. This includes:
 
-* Postar comentários fora do tópico
-* Abrindo problemas vazios ou sem sentido ou pull requests
-* Marcar e/ou seguir contas ou repositórios em grande volume em um curto período de tempo
-* Criando revisões de código sem sentido ou irrelevantes
-* Envolver-se com os recursos da plataforma de forma que cause notificações excessivas para outros usuários
-* Usar qualquer outro recurso da plataforma de uma maneira que crie disrupção
+* Posting off-topic comments
+* Opening empty or meaningless issues or pull requests
+* Starring and/or following accounts or repositories in large volume in a short period of time
+* Creating nonsensical or irrelevant code reviews
+* Engaging with platform features in a way that causes excessive notifications for other users
+* Using any other platform feature in a way that creates disruption
 
-Embora encorajemos os mantenedores a moderar seus próprios projetos individualmente, a equipe do GitHub pode tomar medidas restritivas adicionais contra contas que estão engajadas nesses tipos de comportamento.
+While we encourage maintainers to moderate their own projects on an individual basis, GitHub staff may take further restrictive action against accounts that are engaging in these types of behaviors.
 
-Observe que a conduta acima também pode violar outras restrições em nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). Por exemplo, dependendo da natureza e gravidade da atividade, pode chegar ao nível de [bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).
+Please note that the above conduct may also violate other restrictions in our [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, depending on the nature and severity of the activity, it may rise to the level of [bullying and harassment](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
 {"resolvedServerColorMode":"day"}

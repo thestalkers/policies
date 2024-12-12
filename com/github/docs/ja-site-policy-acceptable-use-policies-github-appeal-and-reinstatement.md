@@ -1,75 +1,75 @@
-GitHub の異議申し立ておよび復活 - GitHub Docs
+GitHub Appeal and Reinstatement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Site policy](/ja/site-policy)/
+* [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies)/
+* [GitHub Appeal and Reinstatement](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub の異議申し立ておよび復活
+GitHub Appeal and Reinstatement
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [異議申し立ておよび復活](#appeal-and-reinstatement)
-* [異議申し立ておよび復活とはどのようなものですか?](#what-are-appeals-and-reinstatements)
-* [処理のしくみ](#how-this-works)
-* [透明性](#transparency)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+* [How this works](#how-this-works)
+* [Transparency](#transparency)
 
-[異議申し立ておよび復活](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-GitHub のコミュニティの個人間のやり取りの大部分が当社の利用規約およびコミュニティ ガイドラインの範囲内に収まりながらも、これらのポリシーの違反が発生することがあります。 違反行為が発生した場合、違反に対処するために GitHub のスタッフは強制措置を講じることが必要になる場合があります。 ただし、時には間違いを犯す可能性があることを前提としています。 場合によっては、GitHub スタッフによって行われた (または GitHub スタッフによるものではない) モデレーション アクションを取り消す場合があります。 ポリシーの公平性が適用され且つ公平な結果が得られるように、GitHub では、ユーザーがモデレーションの判断に異議を申し立て、復活の要求を提出したり、追加情報を提供したりすることができるように、内部的な苦情処理プロセスの仕組みがあります。
+While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
 
-[異議申し立ておよび復活とはどのようなものですか?](#what-are-appeals-and-reinstatements)
+[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
 ----------
 
-異議申し立てと復活はどちらも、コンテンツまたはアカウントへのアクセスを無効化または制限する決定に関連して発生する場合があります。これには、以下を行うかどうかの決定が含まれます。
+Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
 
-* コンテンツの表示設定を削除、無効化、または制限する
-* アカウントへのアクセスを一時停止または終了する
-* サービスへのアクセスの一時停止または終了 (全体または一部)
-* コンテンツを収益化する機能を一時停止、終了、またはその他の方法で制限する
+* Remove, disable access to, or restrict visibility of content
+* Suspend or terminate access to an account
+* Suspend or terminate access to the service, in whole or in part
+* Suspend, terminate or otherwise restrict the ability to monetize content
 
-“復活”とは、ユーザーがアカウントまたはコンテンツへのアクセスを取り戻すことを望み、違反に対処するために進んで必要な変更を行い、今後は当社の条件に違反しないことに同意する必要があります。
+A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
 
-“異議申し立て”とは、ユーザーが違反が発生したことに反論し、異なる結論を下すべきだったことを示す追加の情報を提供できることです。
+An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
 
-[処理のしくみ](#how-this-works)
+[How this works](#how-this-works)
 ----------
 
-復活を求める場合、または異議申し立てを希望する場合は、[異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)に入力してください。 モデレーションの決定の決定に対しては、決定後最大 6 か月間は異議を申し立てることができます。 GitHub は、その裁量により、決定から 6 か月を超えて提出された異議申し立ての検討を拒否する場合があります。
+If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
 
-GitHub のスタッフは、フォームに記載された情報を審査し、復活または異議申し立ての承諾を許可するための十分な情報があるかどうかを判断します。
+GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
 
-### [復帰](#reinstatements) ###
+### [Reinstatements](#reinstatements) ###
 
-ユーザーが今後利用規約に拘束されることに同意し、違反に対処するために必要な変更を行った場合、当社は、最初の違反の状況と重大度に応じてアカウントまたはコンテンツを復活させることができます。
+Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
 
-すべての合法的な復活の要求は、最初に GitHub スタッフが審査し、決定が回答されます。
+All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
 
-### [異議申し立て](#appeals) ###
+### [Appeals](#appeals) ###
 
-ユーザーが決定に異議申し立てを求める場合、フォームを使用して異議申し立ての根拠を説明し、異なる決定が下されるべきだと信じる、違反の疑いに関する追加情報を提供します。
+Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
 
-提供された情報により異なる決定が下されるべきであることが立証された場合、申し立てが認められる可能性があります。 GitHub は、異議申し立てに以下を判断するのに十分な根拠が含まれている場合、その決定を取り消すか変更します。(i) 当社の行動または非行動の判断が誤りであった。 (ii) コンテンツまたは行為が違法ではなく、当社の規約に違反していない。(iii) 行為のコンテンツや程度から判断すると、もっと軽い処分が適当である。
+If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
 
-異議申し立てに関するすべての決定は、自動化された手段ではなく人間によって行われます。 異議申し立ての GitHub スタッフの審査担当者と同一人物が最初の判断を下し、当該スタッフ メンバーが最初の結論が正しいと考える (これにより異議申し立てが却下される可能性がある) 場合は、GitHub スタッフの別のメンバーが独自に異議申し立てを審査します。
+All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
 
-すべての合法的な異議申し立ては最終決定が回答されます。
+All legitimate Appeals will be answered with a final decision.
 
-[透明性](#transparency)
+[Transparency](#transparency)
 ----------
 
-当社は、異議申し立ておよび復活を [透明性レポート](https://transparencycenter.github.com/appeals/)で追跡します。
+We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
 
-### [法的権利](#legal-rights) ###
+### [Legal Rights](#legal-rights) ###
 
-控訴に対する最終決定が依然として間違っていると思われる場合、特定の状況において、現地法に基づいて決定の再検討を求める追加的な権利が認められる場合があります。 たとえば、 EU 域内にお住まいの場合は、[デジタル サービス法](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1)に基づく法廷外の紛争解決プロセスにアクセスできる可能性があります
+If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

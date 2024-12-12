@@ -1,85 +1,85 @@
-Политика GitHub в отношении товарных знаков - Документация по GitHub
+GitHub Trademark Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
-* [Политика GitHub в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy)
+* [Site policy](/ru/site-policy)/
+* [Content Removal Policies](/ru/site-policy/content-removal-policies)/
+* [GitHub Trademark Policy](/ru/site-policy/content-removal-policies/github-trademark-policy)
 
-Политика GitHub в отношении товарных знаков
+GitHub Trademark Policy
 ==========
 
-В этой статье
+In this article
 ----------
 
-* [Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)
-* [Что не является нарушением политики GitHub в отношении товарных знаков?](#what-is-not-a-github-trademark-policy-violation)
-* [Как GitHub реагирует на сообщения о нарушениях политики в отношении товарных знаков?](#how-does-github-respond-to-reported-trademark-policy-violations)
-* [Как сообщить о нарушении политики в отношении товарных знаков?](#how-do-i-report-a-trademark-policy-violation)
-* [Какая информация требуется при сообщении о нарушениях политики в отношении товарных знаков?](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
+* [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
+* [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
+* [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)
+[What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
 ----------
 
-Использование названия компании или предприятия, логотипа или других материалов, защищенных товарными знаками, таким образом, который может ввести в заблуждение или ввести в заблуждение других в отношении их бренда или деловой принадлежности, может считаться нарушением политики в отношении товарных знаков.
+Using a company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others with regard to its brand or business affiliation may be considered a trademark policy violation.
 
-[Что не является нарушением политики GitHub в отношении товарных знаков?](#what-is-not-a-github-trademark-policy-violation)
+[What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
-Использование чужого товарного знака таким образом, который не имеет ничего общего с продуктом или услугой, для которых товарный знак был предоставлен, не является нарушением политики в отношении товарных знаков. Имена пользователей GitHub доступны в порядке очереди и не могут быть зарезервированы. Учетная запись GitHub с именем пользователя, совпадающим с зарегистрированным товарным знаком, сама по себе не обязательно является нарушением нашей политики в отношении товарных знаков.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. GitHub user names are available on a first come, first served basis and may not be reserved. A GitHub account with a user name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
-[Как GitHub реагирует на сообщения о нарушениях политики в отношении товарных знаков?](#how-does-github-respond-to-reported-trademark-policy-violations)
+[How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
-Когда мы получаем сообщения о нарушениях политики в отношении товарных знаков от владельцев федеральных или международных регистраций товарных знаков, мы проверяем учетную запись и можем предпринять следующие действия:
+When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
 
-* При наличии явного намерения ввести других в заблуждение посредством несанкционированного использования товарного знака GitHub приостановит действие учетной записи и уведомит владельца учетной записи.
-* Когда мы определяем, что учетная запись вводит пользователей в заблуждение, но намеренно не выдает себя за товар или услугу с торговой маркой, мы даем владельцу учетной записи возможность устранить любую возможную путаницу. Мы также можем предоставить имя пользователя для активного использования владельцем товарного знака.
+* When there is a clear intent to mislead others through the unauthorized use of a trademark, GitHub will suspend the account and notify the account holder.
+* When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username for the trademark holder's active use.
 
-[Как сообщить о нарушении политики в отношении товарных знаков?](#how-do-i-report-a-trademark-policy-violation)
+[How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Владельцы зарегистрированных товарных знаков могут сообщать GitHub о возможных нарушениях политики в отношении товарных знаков путем [Подачи отчета о нарушении политики в отношении товарных знаков](https://support.github.com/contact/trademark-policy). Воспользуйтесь контактной формой и отправьте запросы, связанные с товарными знаками, используя адрес электронной почты вашей компании, и включите всю запрашиваемую ниже информацию, чтобы ускорить наш ответ. Также обязательно четко опишите нам, почему учетная запись может вызвать путаницу с вашим знаком или как учетная запись может ослабить или запятнать ваш знак.
+Holders of registered trademarks can report possible trademark policy violations to GitHub via [Submit a Trademark Policy Violation Report](https://support.github.com/contact/trademark-policy). Please use the contact form and submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
-[Какая информация требуется при сообщении о нарушениях политики в отношении товарных знаков?](#what-information-is-required-when-reporting-trademark-policy-violations)
+[What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
-Чтобы расследовать нарушения политики в отношении товарных знаков, предоставьте всю следующую информацию:
+In order to investigate trademark policy violations, please provide all of the following information:
 
-* Имя пользователя зарегистрированной учетной записи
+* Username of the reported account
 
-* Название вашей компании
+* Your company name
 
-* Аккаунт вашей компании на GitHub (если есть)
+* Your company GitHub account (if there is one)
 
-* Вебсайт компании
+* Company website
 
-* Слово, символ и т. д., являющееся вашей торговой маркой.
+* Your trademarked word, symbol, etc.
 
-* Регистрационный номер товарного знака
+* Trademark registration number
 
-* Бюро регистрации товарных знаков (например, USPTO)
+* Trademark registration office (e.g., USPTO)
 
-* Описание путаницы (например, выдача себя за вашу компанию, включая конкретные описания содержимого или поведения)
+* Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 
-* Запрошенное действие (например, удаление нарушающей учетной записи или перенос имени пользователя с торговой маркой в существующую учетную запись компании)
+* Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
 
-* Включите следующее заявление: «Я добросовестно полагаю, что использование товарного знака, описанного выше, не разрешено владельцем товарного знака, его агентом или законом. Я принял во внимание именное и другое добросовестное использование».
+* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
 
-* Кроме того, включите следующее заявление: «Я клянусь под страхом ответственности за предоставление заведомо ложных сведений, что информация в данном уведомлении является точной, а также что я владелец торговой марки или уполномочен действовать от имени владельца исключительного права, которое предполагается нарушенным».
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
 
-* Включите свою физическую или электронную подпись.
+* Include your physical or electronic signature.
 
-* Примечание: требуется федеральный или международный регистрационный номер товарного знака. Если название, о котором вы сообщаете, **не является** зарегистрированной торговой маркой (например, это название государственного учреждения или некоммерческой организации), пожалуйста, сообщите нам:
+* Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
 
-  * Ваше имя и фамилию
-  * должность
-  * Адрес
-  * Телефон
-  * Электронная почта (должна быть из домена компании)
+  * Your first and last name
+  * Title
+  * Address
+  * Phone
+  * Email (must be from company domain)
 
 {"resolvedServerColorMode":"day"}

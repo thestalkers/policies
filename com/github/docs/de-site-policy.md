@@ -1,35 +1,35 @@
-Dokumentation zur Websiterichtlinie - GitHub-Dokumentation
+Site policy documentation - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)
+* [Site policy](/de/site-policy)
 
-Dokumentation zur Websiterichtlinie
+Site policy documentation
 ==========
 
-[GitHub-Bedingungen](/de/site-policy/github-terms)
+[GitHub Terms](/de/site-policy/github-terms)
 ----------
 
-[Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+[Acceptable Use Policies](/de/site-policy/acceptable-use-policies)
 ----------
 
-[Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+[Privacy Policies](/de/site-policy/privacy-policies)
 ----------
 
-[Andere Website-Richtlinien](/de/site-policy/other-site-policies)
+[Other Site Policies](/de/site-policy/other-site-policies)
 ----------
 
-[Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+[Content Removal Policies](/de/site-policy/content-removal-policies)
 ----------
 
-[Sicherheitsrichtlinien](/de/site-policy/security-policies)
+[Security Policies](/de/site-policy/security-policies)
 ----------
 
-[GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+[GitHub Company Policies](/de/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

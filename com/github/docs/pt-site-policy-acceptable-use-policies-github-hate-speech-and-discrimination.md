@@ -1,28 +1,28 @@
-Discurso de ódio e discriminação do GitHub - GitHub Docs
+GitHub Hate Speech and Discrimination - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Discriminação e discurso de ódio](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Site policy](/pt/site-policy)/
+* [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies)/
+* [Hate Speech and Discrimination](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-Discurso de ódio e discriminação do GitHub
+GitHub Hate Speech and Discrimination
 ==========
 
-O GitHub não tolera discursos que ataquem ou promovam ódio contra um indivíduo ou grupo de pessoas com base em quem são, incluindo idade, tamanho corporal, habilidade, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião, identidade sexual ou orientação sexual. Isso inclui:
+GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
 
-* Zombar, atacar ou excluir uma pessoa ou grupo com base em suas crenças ou nas características listadas acima
-* Exibição de afiliação ou identificação clara com organizações terroristas ou extremistas violentas conhecidas
-* Apoiar ou promover grupos de ódio ou teorias da conspiração baseadas no ódio
-* Compartilhar símbolos ou imagens sinônimo de ódio
-* Usar estereótipos prejudiciais, insultos ou discurso desumanizante
-* Atacar um indivíduo com base em seu gênero percebido
-* Cachorro assobiando; ou usando linguagem e/ou símbolos codificados ou sugestivos para promover abuso ou ódio
+* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
+* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
+* Supporting or promoting hate groups or hate-based conspiracy theories
+* Sharing symbols or images synonymous with hate
+* Using harmful stereotypes, slurs, or dehumanizing speech
+* Attacking an individual based on their perceived gender
+* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
 
-Embora o GitHub leve a sério todos os casos de abuso e assédio na plataforma, estamos especialmente comprometidos em combater o abuso baseado em ódio, onde afeta desproporcionalmente as comunidades que historicamente foram alvo de tal abuso. Nosso objetivo é tornar o GitHub um lugar onde todos os indivíduos se sintam bem-vindos e seguros.
+While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
 
 {"resolvedServerColorMode":"day"}

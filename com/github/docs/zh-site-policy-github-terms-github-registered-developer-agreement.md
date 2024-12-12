@@ -1,134 +1,134 @@
-GitHub 注册开发人员协议 - GitHub 文档
+GitHub Registered Developer Agreement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
+* [Site policy](/zh/site-policy)/
+* [GitHub Terms](/zh/site-policy/github-terms)/
+* [GitHub Registered Developer Agreement](/zh/site-policy/github-terms/github-registered-developer-agreement)
 
-GitHub 注册开发人员协议
+GitHub Registered Developer Agreement
 ==========
 
-GitHub 十分幸运，有很多开发人员与我们的平台集成。 我们非常高兴，并希望在此基础上打造更好的体验。 GitHub 的开发人员计划（以下简称“计划”）有助于我们与您建立联系、共享信息，并有助于我们更好地为您的创造性工作提供支持。 该计划将打造 GitHub 与开发人员社区之间的特殊关系，而这种关系需要一组特殊的条款来约束。 欢迎签订注册开发人员协议（以下简称“协议”）。
+GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better. GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 
-本协议是您与 GitHub, Inc.（以下简称“GitHub”或“我们”）之间达成的法律协议。 请务必仔细阅读本协议 - 它将约束您对计划的参与，只有在您接受本协议的所有条款后，我们才能让您参与计划。 单击下面的“我同意”，或以任何方式参与计划（例如，通过访问尚未公开发布的 GitHub 产品或功能相关信息），即表示您同意遵守本协议的所有条款。 如果您代表公司或其他法律实体签订本协议，则您声明您拥有使该实体受本协议约束的法律授权，在这种情况下，“您”是指您所代表的实体。 如果您并无此类授权，或者您不同意本协议的条款和条件，则须选择“取消”按钮，并且您不能参与计划。 如果您是公司或其他法律实体，则您声明单击“我同意”的人员有权约束您遵守本协议。
+This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully - it governs your participation in the Program, and we’re only willing to let you participate in the Program if you accept all the terms of this Agreement. By clicking “I Agree” below, or by participating in the Program in any way – for example, by accessing information about GitHub products or features that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement. IF YOU’RE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE "YOU" WILL MEAN THE ENTITY YOU REPRESENT. IF YOU DON’T HAVE SUCH AUTHORITY, OR IF YOU DON’T AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST SELECT THE "CANCEL" BUTTON AND YOU MAY NOT PARTICIPATE IN THE PROGRAM. IF YOU’RE A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT THE PERSON CLICKING “I AGREE” HAS THE AUTHORITY TO BIND YOU TO THIS AGREEMENT.
 
-1. **GitHub.com 使用条款之适用条件**
+1. **GitHub.com’s Terms of Use Will Apply**
 
-   您需要拥有 GitHub.com 帐户才能参与计划。 单击本协议底部的“我同意”，即表示您同意遵守 GitHub.com [服务条款](/zh/site-policy/github-terms/github-terms-of-service)（以下简称“TOS”）。 如果本协议与 TOS 之间存在直接冲突，应以本协议为准；否则，这两项协议将同时适用于您。
+   You need to have an account on GitHub.com in order to participate in the Program. By clicking “I Agree” at the bottom of this Agreement, you are also agreeing to be bound by the GitHub.com [Terms of Service](/zh/site-policy/github-terms/github-terms-of-service) (the “TOS”). In the event of a direct conflict between this Agreement and the TOS, this Agreement will control; otherwise, both agreements will apply to you concurrently.
 
-2. **计划条款**
+2. **Program Terms**
 
-   我们发布了[计划权益和指南](/zh/get-started/exploring-integrations/github-developer-program)（以下简称“计划概述”）。 可以预见，计划概述会不时更改。 这些更改将适用于计划参与者，因此我们鼓励您定期查看计划概述，以随时了解任何更改。 出于各种原因，我们可能需要更改、暂停或终止计划，或者我们提供的某些权益。 您同意，我们可以在不对您承担任何责任的情况下采取上述行动，除非第 9 节另有规定。
+   We post the [Program’s benefits and guidelines](/zh/get-started/exploring-integrations/github-developer-program) (the “Program Overview”). As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 9.
 
-3. **API 许可**
+3. **API License**
 
-   只要您继续遵守 TOS、本协议和计划条款，我们将在本协议期限内授予您在全球范围内适用的非排他性、不可转让的有限许可，允许您仅出于开发、演示、测试及支持您的产品和服务与我们的产品和服务之间的互操作性和集成之目的，访问和使用我们的 API（如 [TOS](/zh/site-policy/github-terms/github-terms-of-service)) 中所定义）。
+   So long as you remain compliant with the TOS, this Agreement, and the Program Terms, we grant You a limited, worldwide, non-exclusive, non-transferable license during the term of this Agreement to access and use our API (as defined in the [TOS](/zh/site-policy/github-terms/github-terms-of-service)) solely for the purpose of developing, demonstrating, testing and supporting interoperability and integrations between your products and services and our products and services.
 
-   您承诺，不会使用我们的 API 从事不当活动。 这意味着但不仅仅意味着您不会（也不会允许他人）修改、发布、出售、租赁、许可、分发或分许可我们的 API；对我们的 API 进行反向编译、反汇编、反向工程或以其他方式尝试从中获取源代码；从我们的 API 复制、修改或创建衍生作品；使用我们的 API 向第三方提供服务中心、应用程序托管或处理服务；将我们的 API 与您的任何产品或服务合并或以其他方式进行组合或集成；或使用我们的 API 从事、支持或实现任何类型的非法活动。
+   You promise not to do bad things with our API. Among other things, this means you won’t – and won’t allow or permit others to – modify, publish, sell, lease, license, distribute, or sublicense our API; decompile, disassemble, reverse engineer, or otherwise attempt to derive source code from our API; reproduce, modify or create derivative works from our API; use our API to provide service bureau, application hosting, or processing services to third parties; incorporate or otherwise combine or integrate our API with any of your products or services; or use our API to engage in, support, or enable any kind of illegal activity.
 
-   我们有权在通知或不通知的情况下，随时修改或者暂时或永久停止您对 API（或其任何部分）的访问。 您自行负责确保您对 API 的使用与当时的 API 兼容。 除了我们在本协议或 TOS 中明确授予您的权利外，我们不会授予您对我们的 API 或者任何其他 GitHub 产品或服务的任何权利或许可。
+   We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the API (or any part of it) with or without notice. It’s your sole responsibility to ensure that your use of the API is compatible with the then-current API. Other than the rights we expressly give you in this Agreement or the TOS, We don’t grant you any rights or licenses to our API, or to any other GitHub products or services.
 
-4. **帐户授权服务**
+4. **Account Authorization Services**
 
-   作为计划的一部分，GitHub 可能会提供帐户授权服务（如 [OAuth 2.0](/zh/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps)），其主要目的是创建可与 GitHub 平台集成的应用程序。 此类帐户授权服务不是为了被用作应用程序或服务的唯一标识提供者。 GitHub 保留暂停使用其帐户授权服务的任何应用程序访问权限的权利，如果这些应用程序：(i) 与其他应用程序相比消耗的资源量不成比例（例如，如果应用程序诱使用户创建多个或“丢弃”GitHub 帐户）；(ii) 如果应用程序托管在我们的平台上，但违反 [GitHub 的可接受使用策略](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)；(iii) 促进或激励 GitHub 上的任何垃圾邮件或身份验证活动（例如，承诺对帐户创建进行奖励）；(iv) 以暗示与 GitHub 之间有赞助、背书或利益关联的方式呈现应用程序或其登录页；或 (v) 歪曲或掩盖其用途（例如，如果应用程序代表用户执行任何操作（例如对存储库加星标），而不显式地披露此操作）。
+   As part of the Program, GitHub may offer Account Authorization Services, such as [OAuth 2.0](/zh/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps), for the primary purpose of creating applications that can integrate with the GitHub platform. Such Account Authorization Services are not intended to be used as the sole identity provider for your application or service. GitHub reserves the right to suspend access to any application using its Account Authorization Services that: (i) is consuming a disproportionate amount of resources compared to other applications (for example, if your application is inducing users to create multiple or “throw-away” GitHub accounts); (ii) would be in violation of [GitHub’s Acceptable Use Policies](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies) if the application was hosted on our platform; (iii) facilitates or incentivizes any spammy or inauthentic activity on GitHub (for example, promising rewards for account creation); (iv) presents itself or its login page in a manner that suggests sponsorship, endorsement, or affiliation with GitHub; or (v) misrepresents or obscures what it does (for example, if an application takes any actions, like starring repositories, on behalf of a user without this action being explicitly disclosed).
 
-5. **您的产品、服务和集成**
+5. **Your Products, Services, and Integrations**
 
-   您的产品、服务和集成（统称为“产品”）由您承担责任。 这意味着，您自行负责开发、运营和维护您的产品的所有方面；确保在您的产品得到使用的所有管辖权地，与您的产品一起使用或在您的产品中得到使用的所有材料都是合法的，并且不会促进非法活动；获得任何必要的任何权利或许可，以便使用和/或分发您与您的产品一起使用、集成或分发或者包含在您的产品之中的任何第三方软件；当您的最终用户客户配合我们的 API 或我们的任何其他产品和服务运营时，为他们提供与其独立运营时同样高质量的产品技术支持。
+   Your products, services, and integrations (collectively, your “Products”) are your responsibility. That means that you’re solely responsible for developing, operating, and maintaining all aspects of your Products; ensuring that all materials used with or in your Products are legal in all the jurisdictions where your Products are used, and don’t promote illegal activities; obtaining any rights or licenses necessary to use and/or distribute any third-party software that you use, include, integrate, or distribute with your Products; and providing your end user customers with the same high-quality technical support for your Products when they operate in conjunction with our API or any other of our products and services as you do when they operate on their own.
 
-6. **市场营销与宣传**
+6. **Marketing and Publicity**
 
-   营销并宣传您与 GitHub 的集成对我们双方都很有价值。 我们希望确保以正确的方式实现这一点，因此，我们在此处加入了一些说明来帮助澄清基本的注意事项。
+   Marketing and publicizing your integrations with GitHub is valuable to both of us. We want to be sure that happens in the right way, so we’ve included some language here to help clarify some basic “dos” and “don’ts”.
 
-   您同意，您不会代表 GitHub（包括但不限于任何 GitHub 产品或服务）向任何人提供任何声明、保证、保障或认可。 除非我们在计划条款中明确同意，否则您承诺不声明或暗示我们已开发、认可、审查或以其他方式批准您的任何产品。
+   You agree that you won’t make any representations, warranties, guarantees or endorsements to anyone on behalf of GitHub (including, among other things, any GitHub products or services). Unless we specifically say it’s okay in the Program Terms, you promise not to state or imply that we have developed, endorsed, reviewed or otherwise approved of any of your Products.
 
-   如果您决定推广或宣传任何与您的产品相关的我们的产品或服务，您需要确保遵守本协议条款、计划条款、TOS、我们的[商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)，以及任何其他适用的 GitHub 政策。 根据本协议及 TOS 的条款和条件，在本协议期限内，我们将授予您在全球范围内适用的可撤销、非排他性、不可转让的有限许可，允许您仅出于宣传您的计划成员资格之目的，根据我们的[商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)及计划条款中的规定，使用我们的商标、服务标志和徽标（统称为“GitHub 标志”）。
+   If you decide to promote or publicize any of our products or services in connection with your Products, you’ll need to make sure that you abide by the terms of this Agreement, the Program Terms, the TOS, our [trademark policy](/zh/site-policy/content-removal-policies/github-trademark-policy), and any other applicable GitHub policies. Subject to the terms and conditions of this Agreement and the TOS, and during the term of this Agreement, we grant you a limited, revocable, worldwide, non-exclusive, non-transferable license to use our trademarks, service marks, and logos (collectively, the “GitHub Marks”) in accordance with our [trademark policy](/zh/site-policy/content-removal-policies/github-trademark-policy) and as specified in the Program Terms, solely for the purpose of publicizing your membership in the Program.
 
-   我们希望向全世界介绍您以及您参与计划的情况。 为了帮助我们做到这一点，您将授予我们在全球范围内适用的可撤销、非排他性、不可转让的有限许可，允许我们仅出于推广计划及宣传您的参与情况之目的，在我们的营销材料中使用您的商标、服务标志和徽标（统称为“合作伙伴标志”）。
+   We want to tell the world about you, and your participation in the Program. To help us do that, you grant us a limited, revocable, worldwide, non-exclusive, non-transferable license to use your trademarks, service marks, and logos (collectively, the “Partner Marks”) in our marketing materials, solely for the purpose of promoting the Program and publicizing your participation in it.
 
-   除非在本协议和 TOS 中有规定，否则本协议中的任何内容均不得视为向一方授予对另一方标志的任何权利、所有权或利益。 您同意，无论是在本协议有效期内还是期满之后，均不会从事以下活动：(i) 对 GitHub 标志，或者我们对 GitHub 标志的注册或执行提出质疑或协助他人提出质疑； (ii) 尝试采用、使用、申请或注册任何与 GitHub 标志相似且容易造成混淆的商标、服务标志、徽标、URL、Internet 域名或符号；或者 (iii) 向任何第三方就我们、我们的产品或我们的服务做出任何负面、虚假或贬损的声明（无论是以书面还是口头形式）。
+   Except as set forth in this Agreement and the TOS, nothing in this Agreement will be deemed to grant to one party any right, title or interest in or to the other party’s Marks. You agree not to, whether during or after the term of this Agreement: (i) challenge or assist others in challenging the GitHub Marks, or our registration or enforcement of the GitHub Marks; (ii) attempt to adopt, use, apply for, or register any trademark, service mark, logo, URL, Internet domain name, or symbol that is confusingly similar to the GitHub Marks; or (iii) make any negative, false, or disparaging statements (whether written or oral) to any third-party about us, our products, or our services.
 
-7. **保密性；预发布材料**
+7. **Confidentiality; Pre-Release Materials**
 
-   作为计划的注册开发人员，您可以访问世界上的其他人无法访问的特殊信息。 鉴于此类信息的敏感性，确保您对这些信息保密对我们来说很重要。
+   As a registered developer in the Program, you may get access to special information not available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
-   您同意，我们向您提供的任何非公开信息，或者您在计划中可以访问的任何非公开信息，均被视为 GitHub 的机密信息（统称为“机密信息”），无论其是否被标记或标识为此类信息。 您同意，仅将此类机密信息用于您作为计划参与者得到批准的目的（以下简称“目的”），而不会用于任何其他目的。 您应采取合理的预防措施，防止任何未经授权使用、披露、发布或传播我们的机密信息的情况。 您承诺，不会向除您的员工和承包商以外的任何第三方披露、发布或传播任何机密信息。如果需要向您的员工和承包商披露、发布或传播机密信息，也仅限于以下情况：(i) 他们出于上文所述的目的而需要知道机密信息；(ii) 您让他们知晓机密信息的机密性质；(iii) 您对此类员工和承包商的行为和疏忽负有责任；并且 (iv) 我们并不以其他方式禁止或限制此类披露。
+   You agree that any non-public information we give you, or that you may have access to as part of the Program, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for your authorized purposes as a participant in the Program (the “Purpose”), and not for any other purpose. You should take reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third-party other than your employees and contractors, and then only to the extent that: (i) they need to know the Confidential Information for the Purpose; (ii) you make them aware of the confidential nature of the Confidential Information; (iii) you remain responsible for the acts and omissions of such employees and contractors; and (iv) we don’t otherwise prohibit or restrict such disclosure.
 
-   您理解，未经授权披露或使用我们的机密信息可能会对我们造成不可挽回的损失，以及我们可能难以量化的重大伤害。 因此，您同意，除了我们可能拥有的任何其他权利和补救方法外，我们有权立即寻求禁止令救济，以确保您遵守本协议。 如果法律、法规，或者具有合法管辖权的法院所下达的有约束力的有效指令要求您披露我们的机密信息，您可以这样做，但在此之前必须先通知我们，并且尽最大努力限制此类披露，并设法对此类信息进行保密和保护性处理。
+   You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
 
-   如果您可以证明信息符合以下条件，则本节（第 7 节）中的义务不适用于此类信息：(i) 在我们向您披露之前，该信息已对公众普遍公开；(ii) 在我们向您披露之后，但您或您的员工或承包商未采取行动之前，该信息就已经对公众普遍公开；(iii) 在我们向您披露之前，您就已知道该信息；(iv) 该信息由对该信息不承担任何保密义务的第三方向您披露；(v) 该信息由您独立编制，且未违反对我们或对任何第三方的任何保密义务；或者 (vi) 我们以书面形式允许您披露该信息，且该书面材料由我们的授权代表签署。
+   The obligations in this Section 7 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third-party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third-party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
 
-   如果我们向您提供任何预发布软件或相关文档或材料，其中可能包括视频或其他形式的内容（以下简称“预发布材料”），则在您遵守本协议及 TOS 条款和条件的前提下，我们特此授予您非排他性、不可转让、可撤销的权利和许可，允许您使用预发布材料，但仅限于为您测试和/或开发产品或服务提供支持，这些产品或服务设计用于与预发布材料所适用的系统或程序配合运行。 如果预发布材料随附单独的许可协议，则您同意单独的许可协议（除了本协议或 TOS 中包含的任何限制性条款之外）将适用。 您同意不会对预发布材料进行反向编译、反向工程、反汇编或以其他方式将预发布材料简化为人类可感知的形式，并且您承诺不会对全部或部分预发布材料进行修改、联网、出租、租赁、传输、出售或出借。 您理解，我们并无义务向您提供任何预发布材料，为您提供预发布材料的更新、增强或更正，或者就我们现在或将来对产品和服务所做的更改通知您。
+   If We give you any pre-release software or related documentation or materials, which may include videos or other forms of content (“Pre-release Materials”), then subject to your compliance with the terms and conditions of this Agreement and the TOS, we hereby grant you a nonexclusive, nontransferable, revocable right and license to use the Pre-release Materials solely to support your testing and/or development of products or services that are designed to operate in combination with the systems or programs for which the Pre-release Materials are designed. If the Pre-release Materials are accompanied by a separate license agreement, you agree that the separate license agreement (in addition to any more restrictive provisions contained in this Agreement or the TOS) will apply. You agree not to decompile, reverse engineer, disassemble, or otherwise reduce the Pre-release Materials to a human-perceivable form, and you promise not to modify, network, rent, lease, transmit, sell, or loan the Pre-release Materials, in whole or in part. You understand that we’re under no obligation to provide any Pre-release Materials to you, to provide you with updates, enhancements, or corrections to the Pre-release Materials, or to notify you of changes that we make to our products and services, now or in the future.
 
-8. **费用和付款**
+8. **Fees and Payment**
 
-   参与计划可能会产生相关费用。 我们会在不时更新的计划条款中注明包括哪些费用（以下简称“计划费用”）。 如果您之前向我们提供了您的付款信息，则作为本协议的一部分，您同意我们可以从同一信用卡或 PayPal 帐户中收取费用。 否则，您需要向我们提供有效的付款帐户及其他支持信息。 除非第 9 节另有明确规定，否则您就计划向我们支付的任何款项均不可退还。 您允许我们在您首次付款日期的周年日从您的付款帐户中自动扣款，以支付来年的所有计划费用，除非您先根据第 1 条终止本协议。 所有费用均以美元支付，且不包括税收机构征收的所有税款、征费或关税（所有这些费用均由您负责支付，但基于我们的收入的税款除外）。
+   There may be fees associated with participating in the Program. We’ll tell you what those fees are in the Program Terms, as we update them from time to time (the “Program Fees”). If you gave us your payment information before, you agree that we can charge the same credit card or PayPal account as part of this Agreement. Otherwise, you’ll need to give us a valid payment account, and other supporting information. Except as otherwise expressly provided in Section 9, any payments you make to us for the Program are non-refundable. You give us permission to automatically charge your payment account on the anniversary of your first payment date to cover all of the coming year’s Program Fees, unless you terminate this Agreement first according to Section 1. All fees are due in U.S. Dollars, and are exclusive of all taxes, levies, or duties imposed by taxing authorities (you’re responsible for all of those, except for taxes based on our income).
 
-9. **期限与终止**
+9. **Term and Termination**
 
-   本协议自您单击“同意”之日起生效，有效期为一 (1) 年。 除非任何一方在当前有效期期满前至少三十 (30) 天发出书面通知，告知其希望终止，或者其中一方根据本节（第 9 节）提前终止本协议，否则本协议将自动连续续签一年。
+   This Agreement begins on the date you click “Agree”, and continues for a period of one (1) year. This Agreement will automatically renew for successive one-year terms unless either party gives written notice at least thirty (30) days before the current term expires that it wants to terminate, or one of us terminates it earlier in accordance with this Section 9.
 
-   您或 GitHub 均可基于任何理由或无理由终止本协议，但应提前三十 (30) 天向另一方发出书面通知。 如果我们出于您违反本协议、计划条款或 TOS 以外的任何原因终止本协议或停止您对计划的访问，则对于此类终止，作为您的唯一补救措施及我们的唯一义务，我们将按比例退还您在本协议当前有效期内向我们支付的计划费用。 如果您违反本协议、计划条款或 TOS 的任何条款，本协议将立即终止，无需另行通知。
+   Either you or GitHub may terminate this Agreement for any reason, without cause, upon thirty (30) days prior written notice to the other. If we terminate this Agreement or discontinue your access to the Program for any reason other than your breach of this Agreement, the Program Terms, or the TOS, we will, as your sole remedy and our sole obligation for such termination, refund you the pro rata portion of the Program Fees you paid us for the current term of this Agreement. This Agreement will terminate immediately, without the requirement of notice, if you breach any term of this Agreement, the Program Terms, or the TOS.
 
-   本协议第 1、2、3 节（第二段和第三段），第 4、5、6 节（第二和最后一段），第 7、8 和 10 节至第 22 节中的权利和义务在本协议终止或到期后仍然有效。 在本协议终止或到期后，我们在本协议中授予您的所有权利和许可将立即终止，您将归还（或根据我们的要求销毁）您拥有或控制的我们的所有机密信息及任何副本（包括电子副本），并且您将书面证明您已遵守这些要求。
+   The rights and obligations in Sections 1, 2, 3 (second and third paragraphs), 4, 5, 6 (second and last paragraphs), 7, 8, and 10 through 22 of this Agreement will survive the termination or expiration of this Agreement. Upon termination or expiration of this Agreement all of the rights and licenses we granted you in this Agreement will immediately cease to exist, you will return (or, at our request, destroy) all of our Confidential Information and any copies (including electronic copies) which are in your possession or control, and you will certify in writing that you’ve complied with these requirements.
 
-10. **保证和免责声明**
+10. **Warranties and Disclaimers**
 
-   您向我们保证：(i) 您有权签署本协议并履行其义务；(ii) 您将以始终对 GitHub 的产品和服务以及我们的良好名声、商誉和声誉有利的方式开展业务；(iii) 您不会就 GitHub 或我们的产品和服务做出虚假或误导性的声明或陈述；(iv) 您不会代表我们向任何人（包括但不限于我们的任何产品或服务）承担任何义务或责任，或做出任何声明、保证、保障或认可；并且 (v) 您不会声明或暗示我们已开发、认可、审查或以其他方式批准您的任何产品。
+   You warrant to us that you: (i) have the authority to execute this Agreement and to perform its obligations; (ii) will conduct business in a manner that reflects favorably at all times on GitHub’s products and services and our good name, goodwill and reputation; (iii) will make no false or misleading statements or representations regarding GitHub or our products and services; (iv) will not take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on our behalf (including, without limitation, any of our products or services); and (v) will not state or imply that We have developed, endorsed, reviewed or otherwise approved of any of your Products.
 
-   我们提供给您的计划、API 及任何机密信息（包括但不限于预发布材料）均“按原样”提供，不提供任何形式的明示或默示保证。 我们明确声明不提供任何及所有有关适销性、特定用途的适用性及不侵权的默示保证或条件。 我们不保证我们向您提供的任何服务或产品都将满足您或您的最终用户的要求。
+   THE PROGRAM, THE API AND ANY CONFIDENTIAL INFORMATION WE GIVE YOU (INCLUDING, WITHOUT LIMITATION, THE PRE-RELEASE MATERIALS) ARE PROVIDED “AS IS”, AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE SPECIFICALLY DISCLAIM ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT ANY SERVICES OR PRODUCTS WE MAKE AVAILABLE TO YOU WILL MEET YOUR OR YOUR END USERS’ REQUIREMENTS.
 
-11. **赔偿**
+11. **Indemnity**
 
-   作为计划的一部分，我们将为您提供许多有用的预发布内容，但您可能会通过一些方式不当使用这些内容，从而对我们造成损害。 考虑到这一点，并且由于我们无法控制您参与计划的方式，您同意，对出于以下原因而可能产生的任何和所有索赔，您将对我们进行赔偿，为我们辩护，并使我们免受损害：您对计划的参与；您对 API、我们的机密信息或任何其他 GitHub 产品和服务的使用；您的过失或故意不当行为；您的产品，或您使用我们的 API 或任何机密信息开发、设计、推广或分销的任何集成；您对我们或我们的产品或服务做出的任何虚假陈述；或者您对本协议任何部分的违反。
+   We’re giving you lots of useful pre-release stuff as part of the Program, and there are ways that you could use that stuff improperly that could cause us harm. With that in mind, and since we can’t control the ways that you participate in the Program, you agree that you will indemnify, defend and hold us harmless from and against any and all claims which may arise under or out of your participation in the Program; your use of the API, our Confidential Information, or any other GitHub products and services; your negligence or intentional misconduct; your Products, or any integrations you develop, design, promote or distribute using our API or any Confidential Information; any misrepresentations you make with respect to us, or our products or services; or your violation of any part of this Agreement.
 
-12. **责任限制**
+12. **Limitation of Liability**
 
-   在任何情况下，我们均不对您或任何第三方承担任何间接、特殊、附带性、后果性、惩戒性或惩罚性的损害赔偿，包括但不限于有关数据丢失、利润损失或替代商品或服务采购成本的损害赔偿，无论此类损害是由何种原因引起、依据何种责任理论，无论是合同、侵权（包括但不限于产品责任、严格责任和过失），还是任何其他理论，也无论我们是否知道或应该知道此类损害的可能性。 在任何情况下，无论出于什么原因，无论采取何种诉讼形式，也无论是在合同中还是在侵权行为中，我们对于您由本协议引起的或与本协议有关的累积责任，均不超过以下两种金额中的较大值：(I) 您根据本协议实际支付给我们的金额；或 (II) 五百美元 ($500)。 即使本协议中规定的任何有限补救措施未能达到其基本目的，上述限制仍将适用。
+   IN NO EVENT WILL WE BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST DATA, LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION PRODUCTS LIABILITY, STRICT LIABILITY AND NEGLIGENCE), OR ANY OTHER THEORY, AND WHETHER OR NOT WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL OUR AGGREGATE LIABILITY TO YOU ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT OR IN TORT, EXCEED THE GREATER OF (I) AMOUNTS YOU ACTUALLY PAID US UNDER THIS AGREEMENT; OR (II) FIVE HUNDRED DOLLARS ($500). THE FOREGOING LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY STATED IN THIS AGREEMENT.
 
-13. **出口管制**
+13. **Export Control**
 
-   除非美国法律和获取机密信息所在管辖权地的法律授权，否则您不得输出或再输出我们的任何机密信息。 尤其是，您不得向任何美国禁运国家/地区、美国财政部特别指定国民名单上的任何人员，或美国商务部拒绝人员名单或实体名单上的任何人员输出或再输出我们的机密信息。 加入计划或接收我们的任何机密信息，即表示您声明并保证，您不在任何此类国家/地区或任何此类名单中。
+   You aren’t allowed to export or re-export any of our Confidential Information, except as authorized by United States law and the laws of the jurisdiction in which the Confidential Information was obtained. In particular, you aren’t allowed to export or re-export our Confidential Information into any U.S. embargoed countries, to anyone on the U.S. Treasury Department's list of Specially Designated Nationals, or to anyone on the U.S. Department of Commerce Denied Person's List or Entity List. By joining the Program or receiving any of our Confidential Information, you represent and warrant that you are not located in any such country or on any such list.
 
-14. **专有权**
+14. **Proprietary Rights**
 
-   您同意，GitHub 及其许可发放方拥有以下各项的所有权利、所有权和利益：API、预发布材料及所有其他 GitHub 产品和服务；与其配置和组合有关的所有信息和数据；以及对上述任何一项的所有修改和衍生作品。 您同意不会删除、更改、覆盖或遮蔽我们在 API、预发布材料或任何其他 GitHub 产品和服务中放置或嵌入的任何版权或其他专有权声明。
+   You agree that GitHub and its licensors own all right, title and interest in and to the API, the Pre-release Materials, and all other GitHub products and services; all information and data relating to their configurations and combinations; and all modifications to and derivative works of any of the foregoing. You agree not to remove, alter, cover or obfuscate any copyright or other proprietary rights notices we place on or embed in the API, the Pre-release Materials, or any other GitHub products and services.
 
-15. **政府用户**
+15. **Government Users**
 
-   如果您是政府实体，则本节适用于您。 我们的某些机密信息可能被视为“商业项目”（该术语的定义见 48 C.F.R. §2.101），包含“商业计算机软件”和“商业计算机软件文档”（这些术语的定义见 48 C.F.R. §12.212 或 48 C.F.R. §227.7202），视情形而定。 按照 48 C.F.R. §12.212 或 48 C.F.R. §227.7202-1 至 227.7202-4（如适用），可将商业计算机软件和商业计算机软件文档许可给美国政府最终用户，但前提是：(a) 仅作为商业项目进行许可，且 (b) 仅提供按照本协议条款和条件授予所有其他最终用户的权利。 GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
+   If you are a Government entity, this Section applies to you. Certain of our Confidential Information may be considered “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
 
-16. **独立开发**
+16. **Independent Development**
 
-   本协议中的任何内容均不会损害我们开发、获取、许可、营销、推广或分销可能与您的产品产生竞争的产品、软件或技术的权利。
+   Nothing in this Agreement will impair our right to develop, acquire, license, market, promote or distribute products, software or technologies that may compete with your Products.
 
-17. **反馈**
+17. **Feedback**
 
-   我们一直在努力改进，您的反馈将有助于我们做到这一点。 如果您选择就计划或我们的产品或服务向我们提供反馈或建议（统称为“反馈”），则您确认并同意，我们可以通过任何我们想要的方式不受限制地自由使用该反馈（当然，受任何适用的专利或版权约束）。
+   We’re always trying to improve, and your feedback will help us do that. If you choose to give us feedback, suggestions or recommendations for the Program or for our products or services (collectively, “Feedback”), you acknowledge and agree that we’re free to use that Feedback in any way we want, without restriction (subject to any applicable patents or copyrights, of course).
 
-18. **独立签约方**
+18. **Independent Contractors**
 
-   本协议各方为独立签约方。 无论出于任何目的，任何一方均不会被视为另一方的员工、代理、合作伙伴、特许人、特许经营人或法定代表，并且任何一方均无任何权利、权力或授权代表另一方订立任何义务或责任。
+   The parties to this Agreement are independent contractors. Neither of us will be deemed to be an employee, agent, partner, franchisor, franchisee or legal representative of the other for any purpose and neither of us will have any right, power or authority to create any obligation or responsibility on behalf of the other.
 
-19. **转让**
+19. **Assignment**
 
-   未经我们事先书面同意，您不得依现行法律或通过其他方式，全部或部分转让本协议或您在本协议项下的任何权利。
+   You aren’t allowed to assign or transfer this Agreement, or any of your rights under it, in whole or in part, by operation of law or otherwise, without our prior written consent.
 
-20. **管辖法律和审判地**
+20. **Governing Law and Venue**
 
-   本协议将依照加利福尼亚州法律进行解释，而不考虑法律冲突原则。 因本协议引起的所有争议均受位于加利福尼亚州旧金山县的州法院和联邦法院专属管辖，各方在此同意由这些法院行使属人管辖权。
+   This Agreement will be interpreted and construed in accordance with the laws of the State of California, without regard to conflict of law principles. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California, and each of us hereby consents to personal jurisdiction there.
 
-21. **修订；弃权；无第三方受益人**
+21. **Amendments; Waivers; No Third-Party Beneficiaries**
 
-   本协议只能通过双方签署的书面文件进行更改。 对本协议规定或者对一方在本协议项下权利或补救措施的任何弃权均须以书面形式提出，否则无法生效。 如果发现本协议中的任何条款、条件或规定无效或不可执行，则在法律允许的最大范围内，其余条款将继续有效且可执行。 各方明确同意，本协议不存在第三方受益人。
+   This Agreement may not be changed, except by a writing signed by both parties. Any waiver of the provisions of this Agreement or of a party's rights or remedies under this Agreement must be in writing to be effective. If any term, condition, or provision in this Agreement is found to be invalid or unenforceable, the remaining terms will continue to be valid and enforceable to the fullest extent permitted by law. We each expressly agree that there are no third-party beneficiaries to this Agreement.
 
-22. **完整协议**
+22. **Entire Agreement**
 
-   本协议、TOS 和计划条款包含双方就其主题事项达成的完整协议，并取代所有口头形式或书面形式的先前通信、声明、谅解和协议。 您向我们发送的与本协议有关的任何采购订单、确认书或其他文档的条款或条件均将无效，且不具有任何效力。
+   This Agreement, the TOS, and the Program Terms contain the entire agreement of the parties with respect to its subject matter and supersede all prior communications, representations, understandings and agreements, whether written or oral. The terms or conditions of any of your purchase orders, acknowledgements, or other documents that you send us in connection with this Agreement will be null and void, and of no effect.
 
 {"resolvedServerColorMode":"day"}

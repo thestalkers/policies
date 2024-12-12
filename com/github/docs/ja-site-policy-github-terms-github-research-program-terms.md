@@ -1,96 +1,96 @@
-GitHub のリサーチ プログラム条項 - GitHub Docs
+GitHub Research Program Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub のリサーチ プログラム条項](/ja/site-policy/github-terms/github-research-program-terms)
+* [Site policy](/ja/site-policy)/
+* [GitHub Terms](/ja/site-policy/github-terms)/
+* [GitHub Research Program Terms](/ja/site-policy/github-terms/github-research-program-terms)
 
-GitHub のリサーチ プログラム条項
+GitHub Research Program Terms
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [A. お客様からのフィードバック](#a-your-feedback)
-* [B. 秘密保持](#b-confidentiality)
-* [C: 権利の留保](#c-reservation-of-rights)
-* [D. プライバシー](#d-privacy)
-* [E. GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
-* [F. 保証の免責事項](#f-disclaimer-of-warranties)
-* [G. 責任制限](#g-limitation-of-liability)
-* [H. 雑則](#h-miscellaneous)
+* [A. Your Feedback](#a-your-feedback)
+* [B. Confidentiality](#b-confidentiality)
+* [C. Reservation of Rights](#c-reservation-of-rights)
+* [D. Privacy](#d-privacy)
+* [E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
+* [F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
+* [G. Limitation of Liability](#g-limitation-of-liability)
+* [H. Miscellaneous](#h-miscellaneous)
 
-GitHub のリサーチ プログラム (以下「プログラム」といいます) へようこそ。 本プログラムに参加するには、GitHub のリサーチ プログラム契約 (以下「契約」といいます) の特別条項に同意する必要があります。
+Welcome to the GitHub Research Program (the "Program")! To participate, we’ll need you to agree to a special set of terms, the GitHub Research Program Agreement (“Agreement”).
 
-本契約は、お客様 (以下「お客様」または「あなた」といいます) と GitHub, Inc. (以下「GitHub」または「当社」といいます) の間で締結される法的拘束力を持つ契約です。 本契約を注意深くお読みください。本契約のすべての条項に同意した場合に限り、お客様はプログラムに参加できます。 本プログラムに参加することにより、たとえば、一般には提供されていない GitHub 製品またはサービス機能に関する情報の入手など、本プログラムに何らかの方法で参加することによって、お客様は、本契約のすべての条件に拘束されることに同意したことになります。
+This Agreement is a legal agreement between you (“you”, "your") and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully – you can only be a Program participant if you accept all the terms of this Agreement. By participating in the Program in any way – for example, by accessing information about GitHub products or services that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement.
 
-[A. お客様からのフィードバック](#a-your-feedback)
+[A. Your Feedback](#a-your-feedback)
 ----------
 
-当社は常に製品およびサービスの改善に努めており、プログラム参加者であるお客様からのフィードバックは多いに役立ちます。 お客様が、当社製品またはサービスに関するアイデア、ノウハウ、アルゴリズム、コードのコントリビューション、提案、拡張要求、推奨、またはその他のフィードバック (以下総称して「フィードバック」といいます) を本プログラムを通じて当社に提供することを選択した場合、当社は、その情報をそれらの目的のために使用し分析するための法的権利を必要とします。 法律的にいうと、お客様は、フィードバックを当社の製品、サービス、およびドキュメントで実装、使用、変更したり、商業的に活用または組み込んだりするためのロイヤリティフリーで全額払い込み、世界的規模、譲渡可能、サブライセンス可能、取消不可能で永続的なライセンスを GitHub に付与することを意味します。
+We’re always trying to improve our products and services, and your feedback as a Program participant will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations or any other feedback for our products or services through the Program (collectively, “Feedback”), then we need the legal rights to use and analyze that information for those purposes. In legalese, that means you grant GitHub a royalty-free, fully paid-up, worldwide, transferable, sub-licensable, irrevocable and perpetual license to implement, use, modify, commercially exploit and/or incorporate the Feedback into our products, services, and documentation.
 
-[B. 秘密保持](#b-confidentiality)
+[B. Confidentiality](#b-confidentiality)
 ----------
 
-GitHub は、本プログラムを通じてフィードバックを得る目的 (以下「目的」といいます) のため、一般に公開されていない特別な情報へのアクセスをお客様に提供する場合があります。 この情報は機密性が高いため、お客様に情報の機密を保持していただくことが当社にとって重要です。
+GitHub may provide you with access to special information that isn’t available to the rest of the world for the purpose of providing feedback to us through the Program (the "Purpose"). Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
 
-お客様は、当社がお客様と共有する、または本プログラム参加者としてお客様がアクセスできる非公開情報が、そのように表示されているか、またはそのように識別されているかにかかわらず、GitHub の機密情報 (総称して「機密情報」といいます) と見なされることに同意するものとします。 お客様は、上記の目的にのみ当該機密情報を使用し、それ以外の目的には使用しないことに同意するものとします。 お客様は、当社の機密情報の不正使用、開示、公開、配布を防止するため、お客様の機密情報の場合と同程度かそれ以上の合理的な予防策を講じるものとします。 お客様は、機密情報を第三者に開示、公開、または配布しないことを約束するものとします。
+You agree that any non-public information we share with you or that you may have access to as a Program participant will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for the Purpose stated above, and not for any other purpose. You should use the same degree of care as you would with your confidential information but no less than reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third party.
 
-お客様は、当社の機密情報を許可なく開示または使用した場合、当社に回復不能な損害を及ぼし、定量化が困難な重大な傷害を引き起こす可能性があることを理解するものとします。 したがって、本契約に確実に従っていただくため、GitHub が所有するその他の権利および救済措置に加えて即時の差し止め命令による救済を求める権利が当社にあることにお客様は同意するものとします。 法律、規制または管轄裁判所の有効な拘束力のある命令により、当社の機密情報の開示を要求された場合、開示を行う前に当社に通知し、当該開示を可能な限り制限するように努め、かかる情報の機密的、保護的措置を求めた後で開示を行うことができます。
+You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
 
-本第 2 条の義務は、お客様が次の事項を証明できる情報には適用されません。(i) お客様に開示する前に公知であった情報、(ii) お客様、またはお客様の従業員や請負業者の行動や怠慢によらずして、お客様に開示した後に公知になったもの、(iii) 当社がお客様に開示する前にお客様が知っていたもの、(iv) 開示された情報について、機密保持の義務を負わない第三者からお客様に開示されたもの、(v) 当社やいかなる第三者の機密保持の義務にも違反せず、お客様が独自に開発したもの、(vi) 当社の権限のある担当者により、お客様に書面で開示の許可を与えたもの。
+The obligations in this Section 2 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
 
-[C: 権利の留保](#c-reservation-of-rights)
+[C. Reservation of Rights](#c-reservation-of-rights)
 ----------
 
-すべての機密情報は GitHub の唯一かつ排他的な財産です。 本契約に明記されている場合を除き、いずれの当事者も本契約に基づく知的財産権を取得しません。
+All Confidential Information remains the sole and exclusive property of GitHub. Neither party acquires any intellectual property rights under this Agreement, unless expressly specified herein.
 
-[D. プライバシー](#d-privacy)
+[D. Privacy](#d-privacy)
 ----------
 
-本プログラムに参加することにより、お客様は、当社がリサーチ目的にのみお客様の個人情報を使用し、それ以外の目的には使用しないことに同意するものとします。 本プログラムの一環として、当社はお客様への連絡のためにお客様の個人情報を使用し、後日の連絡のためのお客様の情報を保管することができます。 個人情報には、個人を特定できない集計情報は含まれません。 GitHub は、当社の製品およびサービスを運用、分析、改善するためにプログラムを通じて収集された、個人を特定できない集計情報または他の個人を特定できな情報を使用することができます。
+By participating in this Program, you consent to our use of your personal information for research purposes, and not for any other purposes. As part of the Program, we may use your personal information to contact you, or retain your information, to contact you at a later date. Personal information does not include aggregated, non-personally identifying information. We may use aggregated or other non-personally identifying information collected through the program to operate, analyze, and improve our products and services.
 
-お客様は、いつでも同意を撤回したり、当社がお客様に関して保持している個人情報へのアクセスまたは削除を要求したりすることができます。 GitHub が本プログラムを通じて収集する個人情報へのアクセス、更新、変更、削除方法については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)をご覧いただくか、[プライバシーに関する連絡フォーム](https://github.com/contact/privacy)から当社までご連絡ください。
+You can withdraw your consent at any time, and request access to or the deletion of the personal information that we hold about you. For more information about how you can access, update, alter, or delete the personal information GitHub collects through the Program, please see the [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement) or contact us through our [Privacy contact form](https://github.com/contact/privacy).
 
-[E. GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
+[E. GitHub Services and Software Terms](#e-github-services-and-software-terms)
 ----------
 
-プログラムの特定の調査や活動への参加のために GitHub のサービスまたはソフトウェアへのアクセスが必要となった場合、それらの製品の使用には該当するサービスまたはソフトウェア契約が適用されます (以下「一般適用条項」といいます)。 本契約と一般適用条項との間に直接的な矛盾がある場合、一般適用条項が優先されます。ただし、(以下に定義する) 機密情報の使用に関しては、本契約が優先されます。
+If access to GitHub's services or software are required to participate in certain Program studies or activities, then the applicable services or software agreement will apply to your use of those products (the "Generally Applicable Terms"). In the event of a direct conflict between this Agreement and the Generally Applicable Terms, your Generally Applicable Terms will control, except with respect to any use of Confidential Information (as defined below), in which case this Agreement will control.
 
-[F. 保証の免責事項](#f-disclaimer-of-warranties)
+[F. Disclaimer of Warranties](#f-disclaimer-of-warranties)
 ----------
 
-本プログラムを通じてお客様が受け取るすべての機密情報およびその他の資料は「現状有姿」で、いかなる保証もない状態で提供されます。 これを制限することなく、GitHub は、商品性、特定目的への適合性、権原、セキュリティ、正確性、および非侵害性の保証を含むがこれに限定されない、本プログラムに関するすべての保証を、明示的、黙示的、または法令上のいずれかであるこかを問わず、明示的に否認します。
+All Confidential Information and other materials you receive through the Program are provided “as is” and without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Program including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
-[G. 責任制限](#g-limitation-of-liability)
+[G. Limitation of Liability](#g-limitation-of-liability)
 ----------
 
-法律で禁止されている場合を除き、お客様は、利益、使用、のれん、またはデータの喪失、あるいは偶発的、間接的、特別、結果的、懲罰的な損害について、当社がお客様または第三者に対して責任を負わないことを理解し、これに同意するものとします。
+Except as prohibited by law, you understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages.
 
-かかる損害の可能性について通知されているかどうかにかかわらず、本契約に定める救済措置がその本質的な目的を達成できなかった場合であっても、当社の責任は制限されます。 当社は、その合理的な管理の及ばない事由による不履行または遅延に対して責任を負わないものとします。
+Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
-[H. 雑則](#h-miscellaneous)
+[H. Miscellaneous](#h-miscellaneous)
 ----------
 
-### [1.準拠法](#1-governing-law) ###
+### [1. Governing Law](#1-governing-law) ###
 
-適用法が別途規定する場合を除き、お客様と GitHub 間の本契約、および Web サイトあるいは本サービスへのアクセスまたは使用には、抵触法の規定にかかわらず、アメリカ合衆国憲法およびカリフォルニア州法が適用されます。 お客様と GitHub は、カリフォルニア州サンフランシスコ市郡にある裁判所が専属的裁判管轄地および裁判地に提出することに同意するものとします。
+Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of California, without regard to conflict of law provisions. You and GitHub agree to submit to the exclusive jurisdiction and venue of the courts located in the City and County of San Francisco, California.
 
-### [2.譲渡不可](#2-non-assignability) ###
+### [2. Non-Assignability](#2-non-assignability) ###
 
-GitHub は、お客様の同意のあるなしにかかわらず、本契約のすべてまたは一部の条項を第 A 条に定めるライセンス付与を含め随時譲渡または委任することができます。お客様は、当社の書面による事前の合意なく本契約に定める権利または義務を譲渡あるいは委任することはできず、お客様が許可なく行った譲渡および委任は無効となります。
+GitHub may assign or delegate this Agreement, in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section A. You may not assign or delegate any rights or obligations under this Agreement without our prior written consent, and any unauthorized assignment and delegation by you is void.
 
-### [4.可分性、権利の不放棄、および存続](#3-severability-no-waiver-and-survival) ###
+### [3. Severability, No Waiver, and Survival](#3-severability-no-waiver-and-survival) ###
 
-本契約の一部の条項が無効または履行不能と判断された場合、本契約のその部分は、当事者の当初の意図を反映したものと解釈されます。 その他の部分は完全な効力と強制力を保持します。 GitHub が本契約の条項を履行しなかった場合でも、当該条項の履行に対する当社の権利の放棄とは見なされないものとします。 本契約に基づく当社の権利は、本契約の終了後も存続します。
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
-### [5.修正、完全なる合意](#4-amendments-complete-agreement) ###
+### [4. Amendments; Complete Agreement](#4-amendments-complete-agreement) ###
 
-本契約は、GitHub の権限を有する代表者が署名または記名押印した補正書によってのみ修正することができます。 本契約は、一般適用条項および GitHub のプライバシーに関する声明と併せ、お客様と当社の間の合意の完全かつ排他的な声明を表します。 本契約は、口頭または書面による提案または事前の合意、および秘密保持契約を含む、本条件の事項に関連するお客様と GitHub 間のその他のやり取りに優先します。
+This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub. This Agreement, together with the Generally Applicable Terms and the GitHub Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. This Agreement supersedes any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms including any confidentiality or nondisclosure agreements.
 
 {"resolvedServerColorMode":"day"}

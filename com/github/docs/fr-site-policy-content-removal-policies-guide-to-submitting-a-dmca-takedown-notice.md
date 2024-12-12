@@ -1,105 +1,105 @@
-Guide de soumission d'un avis de retrait DMCA - Documentation GitHub
+Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)/
-* [Guide de soumission d'un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+* [Site policy](/fr/site-policy)/
+* [Content Removal Policies](/fr/site-policy/content-removal-policies)/
+* [Guide to Submitting a DMCA Takedown Notice](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Guide de soumission d'un avis de retrait DMCA
+Guide to Submitting a DMCA Takedown Notice
 ==========
 
-Dans cet article
+In this article
 ----------
 
-* [Avant de commencer](#before-you-start)
-* [Votre plainte doit...](#your-complaint-must-)
-* [Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
-* [Comment soumettre votre plainte](#how-to-submit-your-complaint)
+* [Before You Start](#before-you-start)
+* [Your Complaint Must ...](#your-complaint-must-)
+* [Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
+* [How to Submit Your Complaint](#how-to-submit-your-complaint)
 
-Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de retrait DMCA. Si vous avez des questions plus générales sur ce qu'est la DMCA ou sur la manière dont GitHub traite les demandes de retrait dans le cadre de la DMCA, veuillez consulter notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy).
+This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/fr/site-policy/content-removal-policies/dmca-takedown-policy).
 
-En raison du type de contenu hébergé par GitHub (principalement du code logiciel) et de la manière dont ce contenu est géré (avec Git), nous avons besoin que les réclamations soient aussi précises que possible. Ces lignes directrices sont conçues pour rendre le traitement des avis d'infraction alléguée aussi simple que possible. Le formulaire de notification que nous présentons ci-dessous est conforme au formulaire suggéré par la loi DMCA, que l'on peut trouver sur le site officiel de l'U.S. Copyright Office : <https://www.copyright.gov>.
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. These guidelines are designed to make the processing of alleged infringement notices as straightforward as possible. Our form of notice set forth below is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
 
-Comme pour toutes les questions juridiques, il est toujours préférable de consulter un professionnel au sujet de vos questions ou de votre situation spécifique. Nous vous encourageons fortement à le faire avant d'entreprendre toute action qui pourrait avoir un impact sur vos droits. Ce guide n'est pas un avis juridique et ne doit pas être considéré comme tel.
+As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-[Avant de commencer](#before-you-start)
+[Before You Start](#before-you-start)
 ----------
 
-***Dites la vérité.*** La DMCA exige que vous prêtiez serment sur les faits de votre plainte d'atteinte au droit d'auteur *sous peine de parjure*. C'est un crime fédéral de mentir intentionnellement dans une déclaration sous serment. (*Voir* [Code des États-Unis, Titre 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) La présentation de fausses informations peut également entraîner une responsabilité civile, c'est-à-dire que vous pouvez être poursuivi en justice pour des dommages-intérêts. La DMCA [prévoit des dommages-intérêts](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) contre toute personne qui fait sciemment une fausse déclaration sur le caractère illicite d'un élément ou d'une activité.
+***Tell the Truth.*** The DMCA requires that you swear to the facts in your copyright complaint *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability — that is, you could get sued for money damages. The DMCA itself [provides for damages](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations) against any person who knowingly materially misrepresents that material or activity is infringing.
 
-***Mener une enquête.*** Des millions d'utilisateurs et d'organisations se consacrent corps et âme aux projets qu'ils créent et auxquels ils contribuent sur GitHub. Déposer une plainte DMCA contre un tel projet est une allégation légale grave qui entraîne des conséquences réelles pour de vraies personnes. Pour cette raison, nous vous demandons de mener une enquête approfondie et de consulter un avocat avant de soumettre un retrait pour vous assurer que l'utilisation n'est pas réellement autorisée.
+***Investigate.*** Millions of users and organizations pour their hearts and souls into the projects they create and contribute to on GitHub. Filing a DMCA complaint against such a project is a serious legal allegation that carries real consequences for real people. Because of that, we ask that you conduct a thorough investigation and consult with an attorney before submitting a takedown to make sure that the use isn't actually permissible.
 
-***Demandez d'abord gentiment.*** Une excellente première étape avant de nous envoyer un avis de retrait consiste à essayer de contacter directement l'utilisateur. Ils peuvent avoir répertorié les informations de contact sur leur page de profil public ou dans le README du référentiel, ou vous pouvez entrer en contact en ouvrant un problème ou une demande d'extraction sur le référentiel. Ce n'est pas strictement obligatoire, mais c'est classe.
+***Ask Nicely First.*** A great first step before sending us a takedown notice is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README, or you could get in touch by opening an issue or pull request on the repository. This is not strictly required, but it is classy.
 
-***Envoyez une demande appropriée.*** Nous ne pouvons accepter les avis de retrait DMCA que pour les œuvres protégées par le droit d'auteur et qui identifient une œuvre spécifique susceptible d'être protégée par le droit d'auteur. Si vous avez une plainte à formuler concernant un abus de marque commerciale, veuillez consulter notre [Politique relative aux marques commerciales](/fr/site-policy/content-removal-policies/github-trademark-policy). Si vous souhaitez supprimer des données sensibles comme des mots de passe, veuillez consulter notre [politique relative aux données sensibles](/fr/site-policy/content-removal-policies/github-private-information-removal-policy). Si vous avez affaire à de la diffamation ou à d'autres comportements abusifs, veuillez consulter notre [Charte de la Communauté](/fr/site-policy/github-terms/github-community-guidelines).
+***Send In The Correct Request.*** We can only accept DMCA takedown notices for works that are protected by copyright, and that identify a specific copyrightable work. If you have a complaint about trademark abuse, please see our [trademark policy](/fr/site-policy/content-removal-policies/github-trademark-policy). If you wish to remove sensitive data such as passwords, please see our [policy on sensitive data](/fr/site-policy/content-removal-policies/github-private-information-removal-policy). If you are dealing with defamation or other abusive behavior, please see our [Community Guidelines](/fr/site-policy/github-terms/github-community-guidelines).
 
-***Le code est différent des autres contenus publicitaires.*** GitHub est conçu pour la collaboration sur le code logiciel. Cela rend l'identification d'une violation valide du droit d'auteur plus compliquée qu'elle ne le serait autrement pour, par exemple, des photos, de la musique ou des vidéos.
+***Code Is Different From Other Creative Content.*** GitHub is built for collaboration on software code. This makes identifying a valid copyright infringement more complicated than it might otherwise be for, say, photos, music, or videos.
 
-Il existe un certain nombre de raisons pour lesquelles le code est différent des autres contenus créatifs. Par exemple :
+There are a number of reasons why code is different from other creative content. For instance:
 
-* Un référentiel peut inclure des morceaux de code provenant de nombreuses personnes différentes, mais un seul fichier ou même une sous-routine dans un fichier enfreint vos droits d'auteur.
-* Le code mélange fonctionnalité et expression créative, mais le droit d'auteur ne protège que les éléments expressifs, pas les parties fonctionnelles.
-* Il y a souvent des licences à considérer. Ce n'est pas parce qu'un morceau de code a un avis de droit d'auteur qu'il enfreint nécessairement. Il est possible que le code soit utilisé conformément à une licence open source.
-* Une utilisation particulière peut être [équitable](https://www.lumendatabase.org/topics/22) si elle n'utilise qu'une petite quantité de contenu protégé par le droit d'auteur, si elle utilise ce contenu de manière transformatrice, si elle l'utilise à des fins éducatives ou si elle combine ces différents éléments. Étant donné que le code se prête naturellement à de telles utilisations, chaque cas d'utilisation est différent et doit être considéré séparément.
-* Le code peut être accusé d'enfreindre de nombreuses manières différentes, nécessitant des explications détaillées et l'identification des œuvres.
+* A repository may include bits and pieces of code from many different people, but only one file or even a sub-routine within a file infringes your copyrights.
+* Code mixes functionality with creative expression, but copyright only protects the expressive elements, not the parts that are functional.
+* There are often licenses to consider. Just because a piece of code has a copyright notice does not necessarily mean that it is infringing. It is possible that the code is being used in accordance with an open-source license.
+* A particular use may be [fair-use](https://www.lumendatabase.org/topics/22) if it only uses a small amount of copyrighted content, uses that content in a transformative way, uses it for educational purposes, or some combination of the above. Because code naturally lends itself to such uses, each use case is different and must be considered separately.
+* Code may be alleged to infringe in many different ways, requiring detailed explanations and identifications of works.
 
-Cette liste n'est pas exhaustive, c'est pourquoi parler à un professionnel du droit de votre proposition de plainte est doublement important lorsqu'il s'agit de code.
+This list isn't exhaustive, which is why speaking to a legal professional about your proposed complaint is doubly important when dealing with code.
 
-***Absence de bots.*** Vous devriez demander à un professionnel qualifié d'évaluer les faits de chaque avis de retrait que vous envoyez. Si vous sous-traitez vos efforts à un tiers, assurez-vous de savoir comment il fonctionne et assurez-vous qu'il n'utilise pas de robots automatisés pour soumettre des plaintes en masse. Ces réclamations sont souvent invalides et leur traitement entraîne l'abandon inutile de projets !
+***No Bots.*** You should have a trained professional evaluate the facts of every takedown notice you send. If you are outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints are often invalid and processing them results in needlessly taking down projects!
 
-***Les questions concernant le droit d'auteur sont difficiles.*** Il peut être très difficile de déterminer si une œuvre particulière est protégée ou non par le droit d'auteur. Par exemple, les faits (y compris les données) ne sont généralement pas protégés par le droit d'auteur. Les mots et les phrases courtes ne sont généralement pas protégés par le droit d'auteur. Les URL et les noms de domaine ne sont généralement pas protégés par le droit d'auteur. Étant donné que vous ne pouvez utiliser le processus DMCA que pour cibler du contenu protégé par le droit d'auteur, vous devez consulter un avocat si vous avez des questions sur la protection ou non de votre contenu.
+***Matters of Copyright Are Hard.*** It can be very difficult to determine whether or not a particular work is protected by copyright. For example, facts (including data) are generally not copyrightable. Words and short phrases are generally not copyrightable. URLs and domain names are generally not copyrightable. Since you can only use the DMCA process to target content that is protected by copyright, you should speak with a lawyer if you have questions about whether or not your content is protectable.
 
-***Vous pouvez recevoir une information préalable en matière de contestation.*** Tout utilisateur concerné par votre avis de retrait peut décider de soumettre une [information préalable en matière de contestation](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Si tel est le cas, nous réactiverons leur contenu dans un délai de 10 à 14 jours, à moins que vous ne nous informiez que vous avez engagé une action en justice visant à empêcher l'utilisateur de se livrer à une activité de contrefaçon liée au contenu sur GitHub.
+***You May Receive a Counter Notice.*** Any user affected by your takedown notice may decide to submit a [counter notice](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). If they do, we will re-enable their content within 10-14 days unless you notify us that you have initiated a legal action seeking to restrain the user from engaging in infringing activity relating to the content on GitHub.
 
-***Votre plainte sera publiée.*** Comme indiqué dans notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), après avoir biffé les informations personnelles, nous publions toutes les informations préalables en matière de retrait complètes et exploitables à l'adresse <https://github.com/github/dmca>.
+***Your Complaint Will Be Published.*** As noted in our [DMCA Takedown Policy](/fr/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), after redacting personal information, we publish all complete and actionable takedown notices at <https://github.com/github/dmca>.
 
-***GitHub n'est pas le juge.*** GitHub exerce peu de pouvoir discrétionnaire dans le processus autre que de déterminer si les avis répondent aux exigences minimales du DMCA. Il appartient aux parties (et à leurs avocats) d'apprécier le bien-fondé de leurs prétentions, sachant que les dénonciations doivent être faites sous peine de parjure.
+***GitHub Isn't The Judge.*** GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
 
-[Votre plainte doit...](#your-complaint-must-)
+[Your Complaint Must ...](#your-complaint-must-)
 ----------
 
-1. **Ajoutez la déclaration suivante : « J'ai lu et compris le Guide de GitHub pour déposer une information préalable dans le cadre de la DMCA ».** Nous ne refuserons pas de traiter une plainte autrement complète si vous n'incluez pas cette déclaration. Mais nous saurons que vous n'avez pas lu ces directives et nous vous demanderons peut-être de revenir en arrière et de le faire.
+1. **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Notice."** We won't refuse to process an otherwise complete complaint if you don't include this statement. But we'll know that you haven't read these guidelines and may ask you to go back and do so.
 
-2. **Identifiez l'œuvre protégée par le droit d'auteur qui, selon vous, a été violée.** Ces informations sont importantes car elles aident l'utilisateur concerné à évaluer votre réclamation et lui permettent de comparer votre travail au sien. La spécificité de votre identification dépendra de la nature de l'œuvre qui, selon vous, a été enfreinte. Si vous avez publié votre travail, vous pourrez peut-être simplement créer un lien vers une page Web où il se trouve. S'il est exclusif et non publié, vous pouvez le décrire et expliquer qu'il est exclusif. Si vous l'avez enregistré auprès du Copyright Office, vous devez inclure le numéro d'enregistrement. Si vous prétendez que le contenu hébergé est une copie directe et littérale de votre travail, vous pouvez également simplement expliquer ce fait.
+2. **Identify the copyrighted work you believe has been infringed.** This information is important because it helps the affected user evaluate your claim and give them the ability to compare your work to theirs. The specificity of your identification will depend on the nature of the work you believe has been infringed. If you have published your work, you might be able to just link back to a web page where it lives. If it is proprietary and not published, you might describe it and explain that it is proprietary. If you have registered it with the Copyright Office, you should include the registration number. If you are alleging that the hosted content is a direct, literal copy of your work, you can also just explain that fact.
 
-3. **Identifiez l'élément qui, selon vous, enfreint le droit d'auteur énuméré au 2e point ci-dessus.** Il est important d'être le plus précis possible dans votre identification. Cette identification doit être raisonnablement suffisante pour permettre à GitHub de localiser le matériel. Au minimum, cela signifie que vous devez inclure l'URL du matériel qui enfreint prétendument vos droits d'auteur. Si vous alléguez que moins d'un référentiel entier enfreint, identifiez les fichiers spécifiques ou les numéros de ligne dans un fichier qui, selon vous, enfreint. Si vous prétendez que tout le contenu d'une URL enfreint, veuillez également être explicite à ce sujet.
+3. **Identify the material that you allege is infringing the copyrighted work listed in item #2, above.** It is important to be as specific as possible in your identification. This identification needs to be reasonably sufficient to permit GitHub to locate the material. At a minimum, this means that you should include the URL to the material allegedly infringing your copyright. If you allege that less than a whole repository infringes, identify the specific file(s) or line numbers within a file that you allege infringe. If you allege that all of the content at a URL infringes, please be explicit about that as well.
 
-   * Veuillez noter que GitHub ne désactive *pas* automatiquement les [forks](/fr/site-policy/content-removal-policies/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork) lors de la désactivation d'un référentiel parent. Si vous avez enquêté et analysé les forks d'un référentiel et pensez qu'ils enfreignent également, veuillez identifier explicitement chaque fork prétendument en infraction. Veuillez également confirmer que vous avez enquêté sur chaque cas individuel et que vos déclarations sous serment s'appliquent à chaque fourche identifiée. Dans de rares cas, vous pouvez alléguer une violation du droit d'auteur dans un référentiel complet qui est activement bifurqué. Si, au moment où vous avez soumis votre notification, vous avez identifié toutes les fourches existantes de ce référentiel comme étant prétendument en infraction, nous traiterons une réclamation valide contre toutes les fourches de ce réseau au moment où nous traiterons la notification. Nous le ferions étant donné la probabilité que toutes les fourches nouvellement créées contiendraient le même contenu. De plus, si le réseau signalé qui contient le contenu prétendument contrefaisant est plus grand que cent (100) référentiels et serait donc difficile à examiner dans son intégralité, nous pouvons envisager de désactiver l'ensemble du réseau si vous indiquez dans votre avis que, « Basé sur le nombre représentatif de fourches que vous avez examinées, je pense que toutes ou la plupart des fourches enfreignent dans la même mesure que le référentiel parent. » Votre déclaration sous serment s'appliquerait à cette déclaration.
+   * Please note that GitHub will *not* automatically disable [forks](/fr/site-policy/content-removal-policies/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork) when disabling a parent repository. If you have investigated and analyzed the forks of a repository and believe that they are also infringing, please explicitly identify each allegedly infringing fork. Please also confirm that you have investigated each individual case and that your sworn statements apply to each identified fork. In rare cases, you may be alleging copyright infringement in a full repository that is actively being forked. If at the time that you submitted your notice, you identified all existing forks of that repository as allegedly infringing, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the allegedly infringing content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, "Based on the representative number of forks you have reviewed, I believe that all or most of the forks are infringing to the same extent as the parent repository." Your sworn statement would apply to this statement.
 
-4. **Expliquez ce que l'utilisateur concerné doit faire pour remédier à l'infraction.** Encore une fois, la spécificité est importante. Lorsque nous transmettons votre réclamation à l'utilisateur, cela lui indique ce qu'il doit faire pour éviter que le reste de son contenu ne soit désactivé. L'utilisateur doit-il simplement ajouter une déclaration d'attribution ? Doivent-ils supprimer certaines lignes de leur code ou des fichiers entiers ? Bien sûr, nous comprenons que dans certains cas, tout le contenu d'un utilisateur peut être présumé enfreindre et il ne peut rien faire de moins que de tout supprimer. Si tel est le cas, veuillez également le préciser.
+4. **Explain what the affected user would need to do in order to remedy the infringement.** Again, specificity is important. When we pass your complaint along to the user, this will tell them what they need to do in order to avoid having the rest of their content disabled. Does the user just need to add a statement of attribution? Do they need to delete certain lines within their code, or entire files? Of course, we understand that in some cases, all of a user's content may be alleged to infringe and there's nothing they could do short of deleting it all. If that's the case, please make that clear as well.
 
-5. **Fournissez vos coordonnées.** Indiquez votre adresse e-mail, votre nom, votre numéro de téléphone et votre adresse physique.
+5. **Provide your contact information.** Include your email address, name, telephone number and physical address.
 
-6. **Fournissez les coordonnées de l'auteur présumé de l'infraction, le cas échéant.** Habituellement, cela sera satisfait en fournissant le nom d'utilisateur GitHub associé au contenu prétendument en infraction. Mais il peut y avoir des cas où vous avez des connaissances supplémentaires sur le contrefacteur présumé. Si tel est le cas, veuillez partager ces informations avec nous.
+6. **Provide contact information, if you know it, for the alleged infringer.** Usually this will be satisfied by providing the GitHub username associated with the allegedly infringing content. But there may be cases where you have additional knowledge about the alleged infringer. If so, please share that information with us.
 
-7. **Ajoutez la déclaration suivante : « J'ai la conviction de bonne foi que l'utilisation des éléments protégés par le droit d'auteur décrits ci-dessus sur les pages Web en infraction n'est pas autorisée par le titulaire du droit d'auteur, ou son agent, ou par la loi. J'ai pris en compte l'usage équitable ».**
+7. **Include the following statement: "I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law. I have taken fair use into consideration."**
 
-8. **Ajoutez également la déclaration suivante : « Je jure, sous peine de parjure, que les informations contenues dans cette notification sont exactes et que je suis le propriétaire du droit auteur, ou que je suis autorisé à agir au nom du propriétaire, d'un droit exclusif qui aurait été violé ».**
+8. **Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."**
 
-9. **Ajoutez votre signature physique ou électronique.**
+9. **Include your physical or electronic signature.**
 
-[Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
+[Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
 ----------
 
-La Loi sur le droit d'auteur interdit également le contournement des mesures techniques qui contrôlent effectivement l'accès aux œuvres protégées par le droit d'auteur. Si vous pensez qu'un contenu hébergé sur GitHub viole cette interdiction, veuillez nous envoyer un rapport en utilisant notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca). Une allégation de contournement doit inclure les détails suivants sur les mesures techniques en place et la manière dont le projet accusé les contourne. Plus précisément, l'avis à GitHub doit inclure des déclarations détaillées décrivant :
+The Copyright Act also prohibits the circumvention of technological measures that effectively control access to works protected by copyright. If you believe that content hosted on GitHub violates this prohibition, please send us a report through our [Copyright claims form](https://github.com/contact/dmca). A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
 
-1. Quelles sont les mesures techniques ;
-2. Comment ils contrôlent efficacement l'accès au matériel protégé par le droit d'auteur ;
-3. Comment le projet accusé est conçu pour contourner leurs mesures de protection technologiques décrites précédemment.
+1. What the technical measures are;
+2. How they effectively control access to the copyrighted material; and
+3. How the accused project is designed to circumvent their previously described technological protection measures.
 
-[Comment soumettre votre plainte](#how-to-submit-your-complaint)
+[How to Submit Your Complaint](#how-to-submit-your-complaint)
 ----------
 
-Le moyen le plus rapide d'obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca).
+The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
 
-Vous pouvez également envoyer une notification par courrier à [copyright@github.com](mailto:copyright@github.com). Vous pouvez inclure une pièce jointe si vous le souhaitez, mais veuillez également inclure une version en texte brut de votre lettre dans le corps de votre message.
+You can also send an email notification to [copyright@github.com](mailto:copyright@github.com). You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
 
-Si vous devez envoyer votre information préalable par courrier postal, vous pouvez également le faire, mais il nous faudra *substantiellement* plus de temps pour le recevoir et y répondre. Les avis que nous recevons par e-mail en texte brut sont traités beaucoup plus rapidement que les pièces jointes PDF ou le courrier physique. Si vous souhaitez toujours nous envoyer votre avis, notre adresse physique est :
+If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
 
 ```
 GitHub, Inc

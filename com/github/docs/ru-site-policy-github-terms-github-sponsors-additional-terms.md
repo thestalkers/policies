@@ -1,361 +1,361 @@
-Дополнительные условия GitHub Sponsors - Документация по GitHub
+GitHub Sponsors Additional Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Условия GitHub](/ru/site-policy/github-terms)/
-* [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
+* [Site policy](/ru/site-policy)/
+* [GitHub Terms](/ru/site-policy/github-terms)/
+* [GitHub Sponsors Additional Terms](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 
-Дополнительные условия GitHub Sponsors
+GitHub Sponsors Additional Terms
 ==========
 
-В этой статье
+In this article
 ----------
 
-* [1. Определения.](#1-definitions)
-* [1. Допустимое использование.](#1-acceptable-use)
-* [2. Обязательства спонсируемого разработчика.](#2-sponsored-developer-obligations)
-* [3. Финансовые условия.](#3-financial-terms)
-* [4. Заверения и гарантии; Ограничение ответственности; Возмещение ущерба.](#4-representations-and-warranties-limitation-of-liability-indemnification)
-* [5. Срок действия и прекращение действия.](#5-term-and-termination)
-* [1. Спонсорская программа.](#1-sponsors-program)
-* [2. Платежи.](#2-payment)
-* [3. Срок действия и прекращение действия.](#3-term-and-termination)
-* [4. Отказ от ответственности; Ограничение ответственности.](#4-disclaimer-limitation-of-liability)
-* [А. Конфиденциальность.](#a-confidentiality)
-* [B. Публичное использование.](#b-publicity)
-* [C. Уведомления.](#c-notices)
-* [D. Регулирующее законодательство.](#d-governing-law)
-* [Е. Передача прав и обязанностей.](#e-assignment)
-* [F. Независимость положений соглашения.](#f-severability)
-* [G. Полнота соглашения.](#g-entire-agreement)
-* [H. Изменение условий.](#h-changes-to-the-terms)
+* [1. Definitions.](#1-definitions)
+* [1. Acceptable Use.](#1-acceptable-use)
+* [2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
+* [3. Financial Terms.](#3-financial-terms)
+* [4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+* [5. Term and Termination.](#5-term-and-termination)
+* [1. Sponsors Program.](#1-sponsors-program)
+* [2. Payment.](#2-payment)
+* [3. Term and Termination.](#3-term-and-termination)
+* [4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
+* [A. Confidentiality.](#a-confidentiality)
+* [B. Publicity.](#b-publicity)
+* [C. Notices.](#c-notices)
+* [D. Governing Law.](#d-governing-law)
+* [E. Assignment.](#e-assignment)
+* [F. Severability.](#f-severability)
+* [G. Entire Agreement.](#g-entire-agreement)
+* [H. Changes to the Terms.](#h-changes-to-the-terms)
 
-Ваше участие в GitHub Sponsors («Программа») подчиняется [Условиям предоставления услуг GitHub](/ru/site-policy/github-terms/github-terms-of-service) («Соглашение») и иным соглашениям, существующим между вами и GitHub (например, Общим условиям GitHub, Корпоративным условиям обслуживания GitHub и другим), а также следующим дополнительным условиям («Дополнительные условия»). Любое использование GitHub Sponsors, нарушающее Соглашение, также будет являться нарушением настоящих Дополнительных условий. Термины, написанные с заглавной буквы, которые используются в настоящем документе, но не определены ниже, имеют те же значения, что и соответствующие термины в Соглашении. Эти Дополнительные условия GitHub Sponsors описывают отношения между GitHub и вами, «Спонсируемым разработчиком», в рамках Программы. Дополнительные условия вступают в силу с даты их принятия («Дата вступления в силу»).
+Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/ru/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").
 
-Цель настоящего Соглашения состоит в том, чтобы: 1) изложить условия, в соответствии с которыми Спонсоры будут участвовать в GitHub Sponsors («Программа»); и 2) изложить условия, в соответствии с которыми спонсируемые разработчики могут участвовать в Программе. Программа позволяет спонсорам выбрать проекты с открытым кодом («Проекты»), размещенные на сайте GitHub, и инвестировать в дальнейшее развитие этих Проектов.
+The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projects ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development.
 
-[1. Определения.](#1-definitions)
+[1. Definitions.](#1-definitions)
 ----------
 
-«**Конфиденциальная информация**» означает всю непубличную информацию, раскрываемую в соответствии с настоящим Соглашением любой стороной другой стороне в любой форме и обозначенную как конфиденциальная, или в отношении которой получающая сторона знает или предположительно знает, учитывая связанные с раскрытием обстоятельства или характер информации, что она является конфиденциальной для раскрывающей стороны. К Конфиденциальной информации не относится информация, которая (i) была или стала общедоступной не по вине получающей стороны; (ii) была или стала по праву известна получающей стороне без конфиденциальных или имущественных ограничений из источника, отличного от раскрывающей cтороны, который имеет право раскрывать ее; (iii) одобрена раскрывающей cтороной для раскрытия без ограничений в письменном документе, подписанном должным образом уполномоченным должностным лицом или раскрывающей cтороной; (iv) самостоятельно разработана получающей cтороной без доступа или использования Конфиденциальной информации раскрывающей cтороны.
+"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information.
 
-«**Политики Github**» означает все текущие политики и процедуры GitHub, которым должен следовать Спонсируемый разработчик, как указано в Программе, включая [Правила сообщества GitHub](/ru/site-policy/github-terms/github-community-guidelines).
+"**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/ru/site-policy/github-terms/github-community-guidelines).
 
-«**Спонсор**» означает пользователя, который приобрел Подписку у вас или заплатил вам за спонсорство через вашу спонсируемую Учетную запись разработчика.
+"**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
 
-«**Спонсируемый разработчик**» означает физическое или юридическое лицо, которое разрабатывает контент в рамках Программы и получает платежи как спонсируемый разработчик во время участия в Программе.
+“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program.
 
-«**Учетная запись спонсируемого разработчика**» означает учетную запись, которую вы создаете в рамках программы для получения платежей от спонсоров.
+"**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
 
-«**Контент спонсируемого разработчика**» означает весь контент, который вы отправляете на GitHub в связи с программой, включая пользовательский контент и ваш контент; ваши фирменные наименования, товарные знаки, знаки обслуживания, торговые наименования, логотипы или знаки происхождения («**Знаки спонсируемого разработчика**»); и данные, связанные с вашей учетной записью спонсируемого разработчика.
+"**Sponsored Developer Content**" means all content you submit to GitHub in connection with the Program, including User-Generated Content and Your Content; your brand names, trademarks, service marks, trade names, logos, or indicia of origin ("**Sponsored Developer Marks**"); and data associated with your Sponsored Developer Account.
 
-«**Спонсорство**» означает платеж, выплачиваемый вам через программу и сервис.
+"**Sponsorship**" means a payment paid to you through the Program and the Service.
 
-«**Подписка**» означает повторяющееся или единовременное спонсорство в обмен на товары, услуги или другие предложения, которые вы предоставляете спонсорам.
+"**Subscription**" means a recurring or one-time Sponsorship in exchange for goods, services, or other offers you provide to Sponsors.
 
-«**Плата спонсируемому разработчику**» означает за вычетом сто процентов (100%) валовых ежемесячных платежей GitHub, полученных от спонсорства и подписки на спонсируемые учетные записи разработчиков, а также любые применимые компенсационные фонды и другие доходы от вариантов монетизации, которые спонсируемый разработчик решает использовать, в зависимости от обстоятельств, за вычетом любых скидок, налогов, сборов, сумм, которые GitHub не получил или которые были возмещены или списаны обратно, сумм, причитающихся любой третьей стороне в связи с Программой в отношении Спонсируемой учетной записи разработчика, а также других исключений, как указано в Разделе 4.
+"**Sponsored Developer Payment**" means the net of one hundred percent (100%) of GitHub's gross monthly payments received from Sponsorships and Subscriptions to Sponsored Developer Accounts, plus any applicable Matching Funds, and other proceeds from monetization options that the Sponsored Developer elects to use, as applicable, less any discounts, taxes, fees, amounts that GitHub did not collect or which were refunded or charged back, amounts owed to any third-party in connection with the Program with respect to a Sponsored Developer Account, and other Exclusions as outlined in Section 4.
 
-«**USD**» означает «доллар США».
+"**USD**" means United States Dollar.
 
-[Условия для спонсируемого разработчика](#условия-для-спонсируемого-разработчика)
+[Terms For Sponsored Developer](#terms-for-sponsored-developer)
 ==========
 
-[1. Допустимое использование.](#1-acceptable-use)
+[1. Acceptable Use.](#1-acceptable-use)
 ----------
 
-### [1.1. Программа GitHub Sponsors](#11-github-sponsors-program) ###
+### [1.1. GitHub Sponsors Program](#11-github-sponsors-program) ###
 
-Для участия в программе вы должны соблюдать законы о минимальном возрасте в вашей стране (например, вам должно быть не менее 13 лет, если вы живете в США), иметь действующую учетную запись GitHub и согласиться с [Разделом о допустимом использовании](/ru/site-policy/github-terms/github-terms-of-service#c-acceptable-use) в Соглашении и применимых Политиках GitHub, а также в настоящих Дополнительных условиях GitHub Sponsors.
+In order to participate in the Program, you must comply with your country's minimum age laws (for example, you must be at least 13 years of age if you live in the United States), have a valid GitHub account, and have agreed to the [Acceptable Use section](/ru/site-policy/github-terms/github-terms-of-service#c-acceptable-use) in the Agreement and applicable GitHub Policies, and these GitHub Sponsors Additional Terms.
 
-Если вы старше 13 лет, но моложе 18, вы можете передавать и получать средства спонсора при условии, что Stripe, наш платежный процессор, может получить подтверждение вашего законного опекуна.
+If you are over the age of 13 but are under 18, you can give and receive Sponsor funds, provided that Stripe, our payment processor, can collect verification information from your legal guardian.
 
-Вы ни при каких обстоятельствах не разрешаете платежи или сбор средств, связанных со следующим:
+You will not under any circumstances allow payments or raise funds involving:
 
-* мошенничество, выкуп, нарушение прав интеллектуальной собственности или другие незаконные цели;
+* Fraud, ransom, violations of intellectual property, or other illegal purposes;
 
-* введение в заблуждение или обман, связанный с причинами, по которым вы собираете средства или запрашиваете спонсорство;
+* Misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
 
-* покупка или продажа ICO, служебных токенов или других видов криптовалюты;
+* The purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
 
-* покупка или продажа ценных бумаг, акций или других видов инвестиционных предложений;
+* The purchase or sale of securities, equity, or other types of investment offers;
 
-* продажа или обработка персональных данных в нарушение каких-либо законов;
+* The sale of personal information, or the processing of personal information in violation of any laws;
 
-* лотереи, розыгрыши, азартные игры, финансовые пирамиды, сделки с собой, схемы «быстрого обогащения», мошеннические маркетинговые схемы, схемы «пожертвование за пожертвование» или любые попытки обмана систем или служб GitHub или третьих лиц; и
+* Lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
 
-* деятельность, связанная со странами, регионами, правительствами, физическими или юридическими лицами, в них или с их участием, которая не разрешена американскими и другими экономическими санкциями согласно действующему законодательству.
+* Activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
 
 ### [1.2. GitHub Sponsors Matching Fund](#12-github-sponsors-matching-fund) ###
 
-Фонд GitHub Sponsors Matching Fund призван побудить сообщество, участвующее в экосистеме программного обеспечения с открытым исходным кодом (OSS), вносить устойчивое финансирование для соответствующих требованиям разработчиков со спонсируемыми учетными записями. Все лица, подавшие заявку на участие в Программе до 1 января 2020 г., будут проверены на предмет соответствия критериям участия в программе Matching Fund, но не все отвечающие требованиям индивидуальные спонсируемые учетные записи разработчиков получат финансирование. Организации не могут участвовать в GitHub Sponsors Matching Fund, и спонсорство от организации для соответствующей спонсируемой учетной записи разработчика не будет согласовано. Ниже приведены дополнительные правила.
+The GitHub Sponsors Matching Fund aims to encourage the community that participates in the Open Source Software (OSS) ecosystem to contribute sustainable funding to qualifying individuals with Sponsored Developer Accounts. All individuals who applied to the Program before January 1, 2020, will be reviewed for eligibility for the Matching Fund, but not all eligible individual Sponsored Developer Accounts will receive matching. Organizations cannot participate in the GitHub Sponsors Matching Fund, and Sponsorship from an organization to a qualifying Sponsored Developer Account will not be matched. See below for additional rules.
 
-#### [1.2.1. Условия Matching Fund.](#121-matching-fund-terms) ####
+#### [1.2.1. Matching Fund Terms.](#121-matching-fund-terms) ####
 
-Право на участие в GitHub Sponsors Matching Fund оценивается в каждом конкретном случае и имеет следующие ограничения:
+Eligibility for the GitHub Sponsors Matching Fund is evaluated on a case-by-case basis and is subject to the following limitations:
 
-* Вы должны иметь учетную запись GitHub, быть принятым в Программу как физическое лицо и активно участвовать в OSS. Обратите внимание, что GitHub не позволяет использовать более одной бесплатной личной учетной записи. Таким образом, согласование доступно на индивидуальной основе и не будет одобрено для нескольких учетных записей.
+* You must have a GitHub account, be accepted into the Program as an individual, and be actively contributing to OSS. Please note, GitHub does not allow operating more than one free personal account. As such, matching is available on an individual basis and will not be approved across multiple accounts.
 
-* Ваше использование GitHub и вашей спонсируемой учетной записи разработчика должно, исходя из нашего решения, по нашему собственному усмотрению, соответствовать миссии GitHub Sponsors по расширению возможностей для внесения вклада в открытый исходный код, который поддерживает [Правила сообщества GitHub](/ru/site-policy/github-terms/github-community-guidelines).
+* Your use of GitHub and your Sponsored Developer Account must be, based on our determination, in our sole discretion, in accordance with the GitHub Sponsors mission to expand the opportunities to contribute to open source that upholds the [GitHub Community Guidelines](/ru/site-policy/github-terms/github-community-guidelines).
 
-* Вы не можете получить согласование на спонсорское финансирование, которое исходит от учетной записи пользователя или организации с опубликованным профилем GitHub Sponsors.
+* You cannot receive matching for any sponsorship that originates from a user or organization account with a published GitHub Sponsors profile.
 
-* GitHub оставляет за собой право удержать или аннулировать средства Matching Fund и заблокировать любого пользователя в GitHub Sponsors Matching Fund по любой причине, включая, помимо прочего, публикацию контента или проектов, которые GitHub считает оскорбительными или иным образом нежелательными.
+* GitHub reserves the right to withhold or rescind Matching Fund money and block any user from participation in the GitHub Sponsors Matching Fund for any reason, including but not limited to posting content or projects that GitHub determines are offensive or otherwise objectionable.
 
-#### [1.2.2. Период согласования.](#122-matching-period) ####
+#### [1.2.2. Matching Period.](#122-matching-period) ####
 
-Период согласования начинается после того, как GitHub примет отдельную спонсируемую учетную запись разработчика в программу GitHub Sponsors. Для каждой отдельной спонсируемой учетной записи разработчика, имеющей право на участие в GitHub Sponsors Matching Fund, GitHub может предоставить спонсорскую поддержку сообщества на общую сумму до $5000 USD в течение первых 12 месяцев участия спонсируемой учетной записи разработчика в Программе. Период согласования не может быть продлен ни по какой причине. В течение периода сопоставления GitHub не будет взимать комиссию, поэтому 100% спонсорской помощи пойдет спонсируемому разработчику. В будущем мы можем взимать номинальную плату за обработку.
+The matching period begins after GitHub accepts an individual Sponsored Developer Account into GitHub Sponsors. For each individual Sponsored Developer Account eligible for the GitHub Sponsors Matching Fund, GitHub can match community sponsorship up to $5,000 USD total during the Sponsored Developer Account's first 12 months in the Program. The matching period cannot be extended for any reason. During the matching period, GitHub will not charge any fees, so 100% of sponsorships will go to the sponsored developer. In the future, we may charge a nominal processing fee.
 
-* Если спонсорство или спонсорская подписка прекращается по какой-либо причине, период согласования также прекращается. Средства, которые были возвращены Спонсору до даты платежа спонсируемому разработчику, не подлежат спонсорскому финансированию.
+* If a Sponsorship or Sponsoring Subscription stops for any reason, the associated matching will stop as well. Funds that are charged back to the Sponsor before the Sponsored Developer Payment date are not eligible for matching.
 
-* Если вы покинете GitHub Sponsors и присоединитесь позже, промежуток между вашими периодами участия может засчитываться в ваш период согласования, так что ваш период может согласования может истечь.
+* If you leave GitHub Sponsors and rejoin later, the gap between your participation periods may count toward your matching period or your matching period may expire.
 
-* Если GitHub обнаружит потенциальное нарушение политики, до выплаты любых соответствующих средств, предоставленных в течение периода согласования, GitHub может отключить выплаты до тех пор, пока не будет завершено расследование, и соразмерные средства, внесенные спонсируемому разработчику, могут быть отозваны, если будет обнаружено, что они нарушают эту политику.
+* If GitHub discovers a potential policy violation, prior to payment of any matching funds granted during the matching period, GitHub may disable payouts until an investigation has been completed, and matched funds contributed to the sponsored developer may be revoked if they are found to be in violation of this policy.
 
-* GitHub может связываться с заявителями или участниками GitHub Sponsors для получения дополнительной информации об их профилях спонсорства или деятельности и определения права на спонсорство или сопоставление либо в ходе расследования потенциальных нарушений условий.
+* GitHub may contact GitHub Sponsors applicants or participants for additional information regarding their sponsorship profile or activity to determine eligibility for sponsorship or matching, or as part of investigating potential terms violations.
 
-[2. Обязательства спонсируемого разработчика.](#2-sponsored-developer-obligations)
+[2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
 ----------
 
-### [2.1. Общие положения.](#21-general) ###
+### [2.1. General.](#21-general) ###
 
-Вы сможете: (A) создать учетную запись спонсируемого разработчика; (B) предоставлять контент спонсируемого разработчика через Программу и Сервис; и (C) соблюдать все Политики GitHub. Вы будете нести единоличную ответственность за поддержку, разработку и техническое обслуживание вашей учетной записи спонсируемого разработчика и контента спонсируемого разработчика, а также любые жалобы на них.
+You will: (A) create a Sponsored Developer Account; (B) make Sponsored Developer Content available via the Program and Service; and, (C) comply with all GitHub Policies. You will be solely responsible for support, development, and maintenance of your Sponsored Developer Account and Sponsored Developer Content, and any complaints about them.
 
-### [2.2. Регистрация.](#22-registration) ###
+### [2.2. Registration.](#22-registration) ###
 
-Если вы решите подать заявку на участие в Программе, участие в Программе возможно после завершения вами процесса регистрации и принятия в Программу GitHub. Кроме того, возможно, потребуется зарегистрироваться у поставщиков платежных услуг, выбранных GitHub (например, Stripe), чтобы получить доступ к определенным функциям Программы и использовать их. Вы должны зарегистрироваться, указав свои настоящие персональные данные и согласившись предоставлять и поддерживать правдивую, точную, актуальную и полную информацию о себе в регистрационной форме Программы. Регистрационные данные и некоторая другая информация о вас регулируется нашим [Заявлением о конфиденциальности](/ru/site-policy/privacy-policies/github-privacy-statement), а также любым заявлением о конфиденциальности, предоставленным нашим платежным оператором. GitHub оставляет за собой право отказать в принятии в Программу.
+If you choose to apply for the Program, entry into the Program is contingent upon your completion of the registration process and acceptance into the Program by GitHub. In addition, you may be required to register with the payment service provider(s) selected by GitHub (such as Stripe) in order to access and use certain features of the Program. You must register with your true identity, and you agree to provide and maintain true, accurate, current and complete information about yourself as requested by the Program's registration form. Registration data and certain other information about you are governed by our [Privacy Statement](/ru/site-policy/privacy-policies/github-privacy-statement), as well as any privacy statement provided by our payment processor. GitHub reserves the right to refuse acceptance into the Program.
 
-### [2.3. Монетизация контента.](#23-content-monetization) ###
+### [2.3. Content Monetization.](#23-content-monetization) ###
 
-Посредством Программы и Сервиса, GitHub может предоставить вам различные варианты монетизации вашего контента спонсируемого разработчика. Для некоторых параметров может потребоваться обновить определенные настройки в вашей учетной записи спонсируемого разработчика. Кроме того, способы, которыми Программа поддерживает каждый вариант монетизации, могут различаться. Если вы используете один (или несколько) из этих параметров, изменяя соответствующие настройки, вы соглашаетесь с условиями, применимыми к этому параметру. Некоторые варианты монетизации могут потребовать от вас предоставления GitHub или поставщикам услуг дополнительной информации, или принятия дополнительных условий GitHub, или сторонних условий.
+Through the Program and Service, GitHub may provide you various options to monetize your Sponsored Developer Content. Some options may require you to update certain settings in your Sponsored Developer Account. In addition, the ways in which the Program supports each monetization option may vary. If you utilize one (or more) of these options by changing the applicable settings, then you agree to the terms that apply to that option. Some monetization options may require you to provide additional information to GitHub or its service providers, or to accept additional GitHub terms or third-party terms.
 
-#### [2.3.1. Подписки.](#231-subscriptions) ####
+#### [2.3.1. Subscriptions.](#231-subscriptions) ####
 
-Программа предоставляет вам возможность предлагать Подписки. Если вы решите предлагать Подписки, GitHub выплатит вам Спонсорство за подписку, как указано в Разделе 4. Вы несете ответственность за определение характера, содержания и возможностей вашего предложения с Подпиской в соответствии с настоящими Дополнительными условиями и применимыми политиками GitHub.
+The Program provides you with the capability to offer Subscriptions. If you choose to offer Subscriptions, then GitHub will pay you the Subscription Sponsorship as provided in Section 4. You are responsible for determining the nature, content, and capabilities of your Subscription offer, subject to these Additional Terms and applicable GitHub Policies.
 
-#### [2.3.2. Прочее спонсорство.](#232-other-sponsorships) ####
+#### [2.3.2. Other Sponsorships.](#232-other-sponsorships) ####
 
-Программа или Услуга могут предоставить вам возможность принять пожертвование или другой тип прямого спонсорства от другого Пользователя без предложения с Подпиской. Однако, поскольку GitHub не осуществляет эти виды спонсорства, вы должны создать учетную запись продавца у стороннего поставщика платежных услуг (например, Stripe) и соблюдать положения, условия и политику конфиденциальности учетной записи поставщика услуг. Любые суммы, переданные вам в виде пожертвований или иным образом, будут выплачены непосредственно на ваш счет продавца и не будут включены в какие-либо платежи спонсируемому разработчику. Вы соглашаетесь с тем, что у вас не будет никаких претензий или средств правовой защиты против GitHub, связанных с пожертвованиями, и любые споры, связанные с пожертвованием, разрешаются исключительно между вами и сторонним поставщиком платежных услуг. Вы несете ответственность за соблюдение всех соглашений, политик и законов или нормативных актов сторонних поставщиков платежных услуг, которые могут применяться. GitHub может предоставить вам информацию или отчет о сумме пожертвований, сделанных вам для вашего удобства.
+The Program or Service may provide you with the ability to accept a donation or other type of direct Sponsorship from another User without a Subscription offer. However, because GitHub does not fulfill those types of Sponsorships, you must establish a merchant account with a third-party payment service provider (such as Stripe) and be subject to that service provider's merchant account terms, conditions, and privacy policies. Any amounts contributed to you, donation or otherwise, will be paid directly to your merchant account and not included in any Sponsored Developer Payments. You agree that you will not have any claim or remedy against GitHub relating to donations and any disputes relating to a donation are solely between you and the third-party payment service provider. You are responsible for compliance with any third-party payment service provider's agreements, policies, and laws or regulations that may apply. GitHub may elect to provide you with information or a report on the amount of donations made to you for your convenience.
 
-#### [2.3.3. Реклама.](#233-advertising) ####
+#### [2.3.3. Advertising.](#233-advertising) ####
 
-Хотя мы понимаем, что вы можете продвигать своих спонсоров, размещая их имена или логотипы в своей учетной записи, основная цель вашего контента спонсируемого разработчика не должна заключаться в рекламе или рекламном маркетинге. Кроме того, вы не можете заключать какие-либо рекламные соглашения для продвижения какого-либо продукта или торговой марки, если это запрещено [Соглашением](/ru/site-policy/github-terms/github-terms-of-service) или Правилами сообщества GitHub. Если вы решите разместить какие-либо объявления или рекламные материалы в своем контенте спонсируемого разработчика, вы несете единоличную ответственность за соблюдение всех применимых законов и правил, включая Руководство Федеральной торговой комиссии США о заверениях и характеристиках.
+While we understand that you may want to promote your Sponsors by posting their names or logos in your account, the primary focus of your Sponsored Developer Content should not be advertising or promotional marketing. In addition, you may not enter into any advertising agreement to promote any product or brand if doing so would be prohibited by the [Agreement](/ru/site-policy/github-terms/github-terms-of-service) or GitHub's Community Guidelines. If you decide to host any advertising or promotional materials in your Sponsored Developer Content, you are solely responsible for complying with all applicable laws and regulations, including the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials.
 
-[3. Финансовые условия.](#3-financial-terms)
+[3. Financial Terms.](#3-financial-terms)
 ----------
 
-### [3.1. Оплата.](#31-payment) ###
+### [3.1. Payment.](#31-payment) ###
 
-GitHub будет выплачивать платежи спонсируемому разработчику в соответствии с данным Разделом 3, если им выполняются Обязательства спонсируемого разработчика, указанные в Разделе 2, и не нарушаются настоящие Дополнительные условия. Если разработчик не выполняет эти обязательства в каком-либо месяце, мы можем по собственному усмотрению удержать платеж спонсируемому разработчику за этот месяц. Если разработчик не выполняет или перестал выполнять Обязательства спонсируемого разработчика в течение двух (2) или более месяцев в течение Периода (последовательно или непоследовательно), GitHub может прекратить действие этих Дополнительных условий, как указано в Разделе 5.
+GitHub will pay you the Sponsored Developer Payment in accordance with this Section 3, so long as you meet the Sponsored Developer Obligations in Section 2 and are not in violation of these Additional Terms. If you fail to meet these obligations for any given month, we may at our sole discretion withhold the Sponsored Developer Payment for that month. If you fail to meet or maintain the Sponsored Developer Obligations for two (2) or more months during the Term (consecutively or non-consecutively), then GitHub may terminate these Additional Terms as provided in Section 5.
 
-### [3.2. Исключения из платежей спонсируемым разработчикам.](#32-sponsored-developer-payment-exclusions) ###
+### [3.2. Sponsored Developer Payment Exclusions.](#32-sponsored-developer-payment-exclusions) ###
 
-Следующие суммы не включены в платежи спонсируемым разработчикам или могут быть удержаны GitHub, если это применимо.
+The following amounts are not included in Sponsored Developer Payments, or may be withheld by GitHub, as applicable.
 
-#### [3.2.1. Расходы спонсируемых разработчиков.](#321-sponsored-developer-expenses) ####
+#### [3.2.1. Sponsored Developer Expenses.](#321-sponsored-developer-expenses) ####
 
-Вы будете нести все расходы в связи с вашей работой, в соответствии с настоящими Дополнительными условиями. Мы не будем возмещать или авансировать какие-либо расходы.
+You will bear all expenses you incur in connection with your performance under these Additional Terms. We will not reimburse or advance you for any expenses.
 
-#### [3.2.2. Налоги.](#322-taxes) ####
+#### [3.2.2. Taxes.](#322-taxes) ####
 
-GitHub намеревается соблюдать все применимые законы об отчетности по налоговой информации и удержании налогов, которые GitHub имеет основания считать применимыми к этим платежам. Если необходимо удержать налоги с любых сумм, которые GitHub должен выплатить вам, или с сумм, подлежащих налоговой отчетности в соответствии с действующим законодательством, GitHub вычтет такие налоги из причитающейся суммы и уплатит их соответствующему налоговому органу и, по мере необходимости, обеспечит и предоставит вам официальную квитанцию об удержании любых таких налогов в соответствии с требованиями применимого законодательства. GitHub будет прилагать разумные усилия для минимизации таких налогов в степени, допустимой применимым правом, и каждая сторона будет разумно взаимодействовать с другой для получения минимально возможных налоговых ставок или исключения таких налогов в соответствии с применимыми законами и соглашениями о налогообложении доходов. Это включает в себя предоставление вами GitHub адекватной информации, требуемой в соответствии с действующим законодательством, такой как формы IRS W-8, W-9 или другую информацию для установления освобождений от удержания. Вы также будете нести ответственность за соблюдение условий и положений любой сторонней платежной системы в отношении удержания налогов и отчетности, если это применимо. Кроме того, GitHub оставляет за собой право приостановить платежи на вашу учетную запись до тех пор, пока вы не предоставите GitHub соответствующую документацию или информацию, требуемую GitHub в соответствии с действующим законодательством для определения любых применимых обязательств по удержанию налогов или отчетности, которые применяются к платежам в соответствии с настоящими Дополнительными условиями или Соглашением.
+GitHub intends to comply with all applicable tax information reporting and tax withholding laws that GitHub reasonably determines in its judgment apply to these payments. If taxes are required to be withheld on any amounts to be paid by GitHub to you or from amounts which are subject to tax information reporting under applicable laws, GitHub will deduct such taxes from the amount owed and pay them to the appropriate taxing authority and, as required, will secure and deliver to you an official receipt for any such taxes withheld as required under applicable laws. GitHub will use reasonable efforts to minimize such taxes to the extent permissible under applicable law, and each party will reasonably cooperate with the other to obtain the lowest tax rates or elimination of such taxes pursuant to the applicable income tax laws or treaties. This includes you providing to GitHub adequate information required under applicable laws, such as IRS Forms W-8, W-9, or other information to establish exemptions from withholding. You will also be responsible for complying with any third-party payment processor’s terms and conditions regarding tax withholding and reporting, if applicable. Furthermore, GitHub reserves the right to suspend payments to your account until you provide GitHub with adequate documentation or information required under applicable laws for GitHub to determine any applicable tax withholding or reporting obligations that apply to the payments under these Additional Terms or Agreement.
 
-#### [3.2.3. Удержание платежа спонсируемому разработчику за нарушение.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
+#### [3.2.3. Withholding of Sponsored Developer Payment for Breach.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
 
-В случае нарушения или подозрения на нарушение Спонсируемым разработчиком настоящих Дополнительных условий или Соглашения GitHub оставляет за собой право приостановить выплату Спонсируемому разработчику в соответствии с настоящими Дополнительными условиями или иным образом до проведения разумного расследования GitHub. Если GitHub по своему собственному усмотрению определит, что спонсируемый разработчик нарушает настоящие Дополнительные условия или Соглашение, GitHub может навсегда удержать любые суммы, причитающиеся спонсируемому разработчику.
+In the event of a Sponsored Developer's breach, or suspected breach, of these Additional Terms or the Agreement, GitHub reserves the right to withhold payment to the Sponsored Developer under these Additional Terms or otherwise, pending GitHub's reasonable investigation of the same. If GitHub determines, in its sole discretion, that a Sponsored Developer is in breach of these Additional Terms or the Agreement, GitHub may permanently withhold any amounts due to the Sponsored Developer.
 
-### [3.3. Сроки оплаты.](#33-payment-timing) ###
+### [3.3. Payment Timing.](#33-payment-timing) ###
 
-В течение этого периода GitHub будет перечислять спонсируемому разработчику все полученные в данном месяце платежи в течение 30 дней после закрытия этого месяца, с учетом указанных ниже переменных. Выплаты отправляются через Stripe Connect, перевод ACH или банковский перевод на банковский счет, который был указан при подаче заявки на участие в GitHub Sponsors. Мы не несем ответственности за задержку платежей спонсируемому разработчику или их отправку не по назначению из-за получения неправильных или неполных сведений от вас или банка, или в результате отказа банка в переводе средств на ваш счет.
+During the term, GitHub will remit to you all Sponsored Developer Payments received in a given month within 30 days after the close of that month, subject to the variables below. Payouts are sent through Stripe Connect, ACH transfer, or wire transfer to the bank account you provided when you applied for GitHub Sponsors. We are not responsible for delay or misapplication of any Sponsored Developer Payment because of incorrect or incomplete information supplied by you or a bank, or for failure of a bank to credit your account.
 
-* В случае первых платежей GitHub направит все платежи спонсируемым разработчикам через 60 дней после начала спонсорства, при соблюдении переменных ниже. Данный испытательный период применяется ко всем учетным записям спонсируемых разработчиков и помогает обеспечить целостность программы. Более поздние платежи будут переводиться в течение 30 дней после закрытия месяца, в соответствии с данным разделом.
+* For first payments, GitHub will remit to you all Sponsored Developer Payments 60 days after the first sponsorship is initiated, subject to the variables below. This probation period is applied to all Sponsored Developer Accounts and helps insure the integrity of the program. Payments thereafter will be remitted within 30 days of the close of that month, in accordance with this section.
 
-* Если вам платят через Stripe Connect, вы будете получать выплаты 22-го числа месяца за остаток, накопленный с момента последней выплаты, независимо от суммы остатка. Даты начала выплат зависят от страны и могут меняться от месяца к месяцу из-за государственных праздников, выходных и других факторов. Если выплата является международной, к ней может применяться правило минимальной суммы выплат. Дополнительные сведения см. в разделе [Получение выплат](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts) в документации по Stripe.
+* If you are paid through Stripe Connect, you will receive payouts on the 22nd of the month for the balance accrued since the last payout, regardless of the amount of the balance. Payout initiation dates vary by country, and can change from month to month due to public holidays, weekends, and other factors. When the payout is a cross-border payout, a minimum payout amount may apply. For more information, see [Receiving payouts](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts) in the Stripe documentation.
 
-* Если вам платят через перевод ACH или банковский перевод, вы получите выплаты в третий четверг месяца. GitHub отправит выплату за каждый месяц, когда ваш баланс достигнет $100 USD. Взносы из GitHub Sponsors Matching Fund не учитываются в этом пороговом значении. Если ваш баланс ниже $100 в конце месяца, баланс будет накапливаться до тех пор, пока ваш баланс не превысит пороговое значение в конце месяца. Если вы покинете GitHub Sponsors, GitHub произведет выплату вашего оставшегося баланса, даже если баланс ниже $100.
+* If you are paid through ACH transfer or wire transfer, you will receive payouts on the third Thursday of the month. GitHub will issue a payout to you for any month that your balance reaches $100 USD. Contributions from the GitHub Sponsors Matching Fund do not count towards this threshold. If your balance is below $100 at the end of the month, the balance will accrue until the next time your balance is above the threshold at the end of the month. If you leave GitHub Sponsors, GitHub will issue a payout for your remaining balance even if the balance is below $100.
 
-* После прекращения действия мы перечислим все полученные и невыплаченные платежи спонсируемым разработчикам в течение примерно 90 дней после окончания календарного месяца, в котором мы признаем, что действие настоящих Дополнительных условий было прекращено.
+* After termination, we will remit to you all Sponsored Developer Payments received and unpaid within approximately 90 days after the end of the calendar month in which we recognize that these Additional Terms have been terminated.
 
-### [3.4. Метод оплаты.](#34-payment-method) ###
+### [3.4. Payment Method.](#34-payment-method) ###
 
-Мы будем переводить платежи спонсируемому разработчику через ACH/SEPA или на указанную вами учетную запись в соответствии с пороговыми значениями, методами и сроками, указанными в наших действующих на тот момент политиках платежей, которые мы можем время от времени обновлять. Способ оплаты и порог могут различаться в зависимости от страны и информации об учетной записи, которую вы предоставляете. Мы можем, по нашему собственному усмотрению, комбинировать платеж спонсируемому разработчику с любыми другими платежами, которые могут вам причитаться.
+We will remit Sponsored Developer Payments by ACH/SEPA or wire to an account that you specify subject to the thresholds, methods and timeframes provided in our then-current payment policies, which we may update from time to time. The payment method and threshold may vary depending on the country and account information you provide. We may, at our sole discretion, combine the Sponsored Developer Payment with any other payments that may be owed to you.
 
-### [3.5. Валюта.](#35-currency) ###
+### [3.5. Currency.](#35-currency) ###
 
-Все ссылки на валюту относятся к USD (доллару США). Если вы находитесь за пределами США, мы можем конвертировать USD в местную валюту вашего адреса для оплаты, используя наши текущие курсы конвертации.
+All references to currency are to USD. If you are outside of the United States, we may convert USD to the local currency of your address for payment, using our then-current conversion rates.
 
-### [3.6. Требования к возврату.](#36-refund-requirements) ###
+### [3.6. Refund Requirements.](#36-refund-requirements) ###
 
-Вы будете нести ответственность за указание условий возврата денег вашим Спонсорам. Ни при каких обстоятельствах GitHub не несет ответственности за предоставление какой-либо поддержки для возврата денег, а также GitHub не несет ответственности за выплату какого-либо возврата.
+You will be responsible for specifying the terms and conditions regarding any refunds, if any, to your Sponsors. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
 
-### [3.7. Требуемая платежная информация.](#37-requested-payment-information) ###
+### [3.7. Requested Payment Information.](#37-requested-payment-information) ###
 
-Для осуществления платежей вам, вы должны предоставить нам полную и точную финансовую, налоговую и банковскую информацию, которую мы запрашиваем (например, путем создания или настройки учетной записи или иным образом). Мы будем уведомлять вас любыми средствами связи об изменениях в требованиях к информации. Если вы не предоставите (или не будете поддерживать в точности) такую информацию, (а) мы можем вычесть из платежа спонсируемому разработчику любые соответствующие банковские сборы, и (б) мы можем прекратить действие настоящих Дополнительных условий, и вы можете лишиться любых сумм, причитающихся вам от GitHub.
+To pay you, you must provide us with complete and accurate financial, tax, and banking information that we request (for example, by means of account creation or setup, or otherwise). We will notify you, by any means of communication, of changes to what information is required. If you fail to accurately provide (or accurately maintain) such information, (a) we can deduct from your Sponsored Developer Payment any related bank fees, and (b) we can terminate these Additional Terms and you may forfeit any amounts owed to you by GitHub.
 
 ### [3.8. Stripe Connect](#38-stripe-connect) ###
 
-Если вам платят через Stripe Connect, к вашему использованию GitHub Sponsors применяются следующие дополнительные условия:
+If you are paid through Stripe Connect, the following additional terms apply to your usage of GitHub Sponsors:
 
-**Полное соглашение на обслуживание**
+**Full service agreement**
 
-*Применяется к спонсируемым аккаунтам разработчиков, зарегистрированным в Австралии, Австрии, Бельгии, Канаде, Дании, Эстонии, Финляндии, Франции, Германии, Греции, Гонконге, Ирландии, Италии, Японии, Латвии, Литве, Люксембурге, Нидерландах, Новой Зеландии, Норвегии, Польше, Португалии, Словакии, Словении, Испании, Швеции, Швейцарии, Великобритании, США.*
+*Applies to Sponsored Developer Accounts registered in Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, United States.*
 
-Услуги по обработке платежей для учетных записей спонсируемых разработчиков в GitHub Sponsors предоставляются Stripe и регулируются [Соглашением о подключенной учетной записи Stripe](https://stripe.com/connect-account/legal/full), которое включает в себя [Условия предоставления услуг Stripe](https://stripe.com/legal) (совместно именуемые «Соглашение о предоставлении услуг Stripe»). Соглашаясь с этими условиями или продолжая работу в рамках спонсируемой учетной записи разработчика на GitHub Sponsors, вы соглашаетесь соблюдать Соглашение об услугах Stripe, поскольку оно может время от времени изменяться со стороны Stripe. В качестве условия предоставления GitHub услуг по обработке платежей через Stripe вы соглашаетесь предоставить GitHub точную и полную информацию о вас и вашем бизнесе, и вы разрешаете GitHub делиться ею и информацией о транзакциях, связанных с использованием вами услуг по обработке платежей, предоставляемых Stripe.
+Payment processing services for Sponsored Developer Accounts on GitHub Sponsors are provided by Stripe and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal/full), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a Sponsored Developer Account on GitHub Sponsors, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of GitHub enabling payment processing services through Stripe, you agree to provide GitHub accurate and complete information about you and your business, and you authorize GitHub to share it and transaction information related to your use of the payment processing services provided by Stripe.
 
-**Соглашение с получателем услуг**
+**Recipient service agreement**
 
-*Применяется к учетным записям спонсируемых разработчиков во всех других странах.*
+*Applies to Sponsored Developer Accounts in all other countries.*
 
-Мы используем Stripe для выплат на спонсируемые аккаунты разработчиков. [Соглашение получателя Stripe](https://stripe.com/connect-account/legal/recipient) применяется к получению таких выплат. Чтобы получать выплаты от GitHub Sponsors, вы должны предоставить нам точную и полную информацию о вас и вашем бизнесе, и вы разрешаете нам делиться ею и информацией о транзакциях, связанных с вашими выплатами в Stripe.
+We use Stripe to make payouts to Sponsored Developer Accounts. The [Stripe Recipient Agreement](https://stripe.com/connect-account/legal/recipient) applies to your receipt of such payouts. To receive payouts from GitHub Sponsors, you must provide us accurate and complete information about you and your business, and you authorize us to share it and transaction information related to your payout with Stripe.
 
-[4. Заверения и гарантии; Ограничение ответственности; Возмещение ущерба.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+[4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [4.1. Спонсируемый разработчик.](#41-by-sponsored-developer) ###
+### [4.1. By Sponsored Developer.](#41-by-sponsored-developer) ###
 
-Спонсируемый разработчик заявляет и гарантирует, что:
+Sponsored Developer represents and warrants that:
 
-* у вас есть полномочия заключать и полностью выполнять настоящие Дополнительные условия;
+* You have the authority to enter into and fully perform these Additional Terms;
 
-* выполнение вами настоящих Дополнительных условий не будет нарушать какие-либо другие соглашения или обязательства между вами и какой-либо третьей стороной;
+* Your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
 
-* Контент спонсируемого разработчика не нарушает и не присваивает какие-либо права третьих лиц, включая любые авторские права, товарные знаки, патенты, коммерческую тайну, моральные права, право на неприкосновенность частной жизни, право на публичное использование или любую другую интеллектуальную собственность;
+* Sponsored Developer Content does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property;
 
-* вы будете соблюдать все законы и правила, и ваш контент спонсируемого разработчика не является незаконным и не нарушает никаких законов или правил.
+* You will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
 
-### [4.2. Отказ от предоставления гарантий, Ограничение ответственности; Возмещение ущерба.](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
+### [4.2. Disclaimer of Warranties; Limitation of Liability; Indemnification.](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
-ВЫ В ПРЯМОЙ ФОРМЕ СОГЛАШАЕТЕСЬ С ТЕМ, ЧТО РАЗДЕЛЫ «O» (ОТКАЗ ОТ ГАРАНТИЙ), «P» (ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ) И «Q» (ОСВОБОЖДЕНИЕ ОТ ОБЯЗАТЕЛЬСТВ И ВОЗМЕЩЕНИЕ УЩЕРБА) СОГЛАШЕНИЯ ПРИМЕНЯЮТСЯ К ЭТИМ ДОПОЛНИТЕЛЬНЫМ УСЛОВИЯМ.
+YOU EXPLICITLY AGREE THAT SECTIONS O (DISCLAIMER OF WARRANTIES), P (LIMITATION OF LIABILITY), AND Q (RELEASE AND INDEMNIFICATION) OF THE AGREEMENT APPLY TO THESE ADDITIONAL TERMS.
 
-[5. Срок действия и прекращение действия.](#5-term-and-termination)
+[5. Term and Termination.](#5-term-and-termination)
 ----------
 
-### [5.1. Срок действия.](#51-term) ###
+### [5.1. Term.](#51-term) ###
 
-Настоящие Дополнительные условия вступают в силу с Даты вступления в силу и остаются в силе до тех пор, пока вы участвуете в Программе.
+These Additional Terms commence on the Effective Date and remain in effect as long as you participate in the Program.
 
-### [5.2. Приостановка.](#52-suspension) ###
+### [5.2. Suspension.](#52-suspension) ###
 
-GitHub может немедленно приостановить действие вашей спонсируемой учетной записи разработчика, если вы каким-либо образом нарушаете настоящие Дополнительные условия или Соглашение, или если вы внесены в список торговых ограничений, или находитесь (или обычно проживаете) в стране или на территории, на которую распространяются всеобъемлющие санкции, введенные Управлением по контролю иностранных активов (OFAC) США. Неспособность исправить или устранить причину приостановки может привести к прекращению действия вашей спонсируемой учетной записи разработчика.
+GitHub may suspend your Sponsored Developer Account immediately if you violate these Additional Terms or the Agreement in any way, or if you are placed on a restricted trade list or located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC). Failure to correct or cure the cause for suspension may result in the termination of your Sponsored Developer Account.
 
-### [5.3. Прекращение.](#53-termination) ###
+### [5.3. Termination.](#53-termination) ###
 
-Любая из сторон может прекратить действие настоящих Дополнительных условий и вашей Спонсируемой учетной записи разработчика в любое время с указанием причины или без нее, с уведомлением или без такового. Если вы нарушаете настоящие Дополнительные условия или Соглашение, мы можем, но не обязаны, предложить вам период времени для устранения нарушения.
+Either party may terminate these Additional Terms and your Sponsored Developer Account at any time with or without cause, with or without notice. If you breach these Additional Terms or the Agreement, we may, but are not obligated to, offer you a period of time to cure the breach.
 
-### [5.4. Последствия прекращения.](#54-effect-of-termination) ###
+### [5.4. Effect of Termination.](#54-effect-of-termination) ###
 
-Если какая-либо из Сторон прекращает действие в соответствии с Разделом 5.3, единственным обязательством GitHub будет выплата Спонсируемому разработчику суммы платежей, накопленных до даты прекращения, если такие платежи не запрещены законом.
+If either Party terminates under Section 5.3, GitHub’s sole obligation will be to pay Sponsored Developer the amount of the Sponsored Developer Payment accrued up until the date of termination, unless such payments are prohibited by law.
 
-[Условия для спонсоров](#условия-для-спонсоров)
+[Terms for Sponsors](#terms-for-sponsors)
 ==========
 
-[1. Спонсорская программа.](#1-sponsors-program)
+[1. Sponsors Program.](#1-sponsors-program)
 ----------
 
-### [1.1 Описание.](#11-description) ###
+### [1.1 Description.](#11-description) ###
 
-GitHub на основе зависимостей Спонсора определит Проекты, для которых доступны инвестиции, в [Обзоре GitHub Sponsors](https://github.com/sponsors/explore). Спонсор инвестирует в проекты исключительно по своему усмотрению, включая выбор проектов и сумму спонсорства.
+GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
 
-### [1.2 Создание счета-фактуры.](#12-invoice-creation) ###
+### [1.2 Invoice creation.](#12-invoice-creation) ###
 
-GitHub предоставит Спонсору возможность создать счет-фактуру для пополнения баланса своей учетной записи в целях инвестирования в выбранные Проекты.
+GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses.
 
-### [1.3 Информационная панель.](#13-dashboard) ###
+### [1.3 Dashboard.](#13-dashboard) ###
 
-GitHub предоставит спонсору информационную панель, отражающую общую сумму спонсорства и баланс.
+GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance.
 
-### [1.4 Отзывы.](#14-feedback) ###
+### [1.4 Feedback.](#14-feedback) ###
 
-Спонсоры могут предоставлять GitHub отзывы о Программе. Отзывы являются добровольными и не являются Конфиденциальной информацией Спонсора, даже если они обозначены как таковые. GitHub имеет полное право использовать такие отзывы в любых целях.
+Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose.
 
-[2. Платежи.](#2-payment)
+[2. Payment.](#2-payment)
 ----------
 
-### [2.1 Платежи.](#21-payment) ###
+### [2.1 Payment.](#21-payment) ###
 
-Спонсор может создать счет-фактуру, чтобы пополнить баланс своей учетной записи для инвестирования в Проекты. GitHub выставит спонсору счет-фактуру после заполнения формы счета-фактуры. Спонсор должен будет оплатить комиссию, указанную в каждом счете-фактуре, в полном объеме, без вычетов любого вида, в течение тридцати (30) дней с даты выставления счета-фактуры GitHub. Суммы, указываемые в каждом счете-фактуре и оплачиваемые в соответствии с настоящим Соглашением, являются невозмещаемыми.
+Sponsor may create an invoice to add funds to their account balance for the purpose of investing in Projects. GitHub will issue an invoice to Sponsor upon completion of the invoice creation form. Sponsor will pay the Fees set forth in each invoice in full, without deduction or set-off of any kind, within thirty (30) days of the GitHub invoice date. Amounts reflected on each Invoice and which are payable under this Agreement are non-refundable.
 
-### [2.2 Комиссии.](#22-fees) ###
+### [2.2 Fees.](#22-fees) ###
 
-Дополнительная комиссия («Комиссия за обслуживание») в размере 3% за транзакцию будет взиматься с учетной записи спонсора для покрытия административных расходов GitHub, связанных с предложением Программы. При оплате кредитной картой будет взиматься дополнительная комиссия в размере 3%.
+An additional service fee (“Service Fee”) of 3% per transaction will be deducted from Sponsor’s account to cover GitHub’s administrative costs associated with offering the Program. If payment is made via credit card, an additional 3% fee will be applied.
 
-### [2.3 Налоги.](#23-taxes) ###
+### [2.3 Taxes.](#23-taxes) ###
 
-Спонсор несет единоличную ответственность за все налоги, сборы, пошлины и государственные взносы (за исключением налогов на чистый доход GitHub), которые взимаются или подлежат уплате в связи с настоящим Соглашением.
+Sponsor is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
 
-[3. Срок действия и прекращение действия.](#3-term-and-termination)
+[3. Term and Termination.](#3-term-and-termination)
 ----------
 
-### [3.1 Срок действия.](#31-term) ###
+### [3.1 Term.](#31-term) ###
 
-Настоящее Соглашение действует в течение одного года начиная с даты вступления в силу, если не будет прекращено ранее, как указано ниже. Если Соглашение не прекращается, как указано в этом документе, оно автоматически продлевается на периоды длительностью один год.
+This Agreement is effective for a period of one year commencing on the Effective Date, unless terminated earlier, as set forth below. Unless terminated as set forth herein, this Agreement will automatically renew for additional annual terms.
 
-### [3.2 Прекращение действия.](#32-termination) ###
+### [3.2 Termination.](#32-termination) ###
 
-Если нет неоплаченного счета-фактуры, любая сторона может прекратить настоящее Соглашение с письменным уведомлением за тридцать (30) дней до прекращения.
+If there is no active invoice pending, either party may terminate this Agreement on thirty (30) days’ prior written notice.
 
-[4. Отказ от ответственности; Ограничение ответственности.](#4-disclaimer-limitation-of-liability)
+[4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
 ----------
 
-### [4.1 Отказ от ответственности.](#41-disclaimer) ###
+### [4.1 Disclaimer.](#41-disclaimer) ###
 
-GitHub предоставляет Программу «КАК ЕСТЬ» и «ПО МЕРЕ ДОСТУПНОСТИ», и прямо отказывается от всех гарантий, явных, подразумеваемых или установленных законом, в отношении Сервиса, включая, помимо прочего, любые подразумеваемые гарантии товарной пригодности, пригодности для определенной цели, права собственности, безопасности, точности и ненарушения прав.
+GitHub provides the Sponsor Program “AS IS” and “AS AVAILABLE,” and GitHub expressly disclaims all warranties, whether express, implied or statutory, regarding the Service, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, title, security, accuracy or non-infringement.
 
-### [4.2 Ограничение ответственности.](#42-limitation-of-liability) ###
+### [4.2 Limitation of Liability.](#42-limitation-of-liability) ###
 
-#### [4.2.1 Исключение косвенного ущерба.](#421-exclusion-of-indirect-damages) ####
+#### [4.2.1 Exclusion of Indirect Damages.](#421-exclusion-of-indirect-damages) ####
 
-В максимальной степени, разрешенной применимым законодательством, ни одна из сторон ни при каких обстоятельствах не будет нести ответственность перед другой или третьей стороной за любые опосредованные, особые, случайные, штрафные или косвенные убытки (включая упущенные выгоду, доход или данные) или на стоимость приобретения продуктов-заменителей, вытекающие из или в связи с настоящим Соглашением, независимо от того, вызвана ли такая ответственность какой-либо претензией, основанной на договоре, гарантии, гражданском правонарушении (включая небрежность), строгой ответственности или иным образом, и независимо от того, была ли сторона уведомлена о возможности таких убытков.
+To the maximum extent permitted by applicable law, in no event will either party be liable to the other party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.
 
-#### [4.2.2 Ограничение общей ответственности.](#422-limitation-of-total-liability) ####
+#### [4.2.2 Limitation of Total Liability.](#422-limitation-of-total-liability) ####
 
-В максимальной степени, разрешенной применимым законодательством, ни при каких обстоятельствах общая совокупная ответственность любой из сторон по настоящему Соглашению по всем искам и всем теориям ответственности не будет превышать комиссий, фактически уплаченных спонсором в пользу GitHub в течение двенадцати месяцев, предшествующих иску, повлекшему за собой такую ответственность.
+To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Sponsor has actually paid to GitHub during the twelve month period immediately preceding the event triggering potential liability.
 
-[Общие условия Программы (применяются как к Спонсорам, так и к Спонсируемым разработчикам)](#общие-условия-программы-применяются-как-к-спонсорам-так-и-к-спонсируемым-разработчикам)
+[General Program Terms (apply to both Sponsors and Sponsored Developers)](#general-program-terms-apply-to-both-sponsors-and-sponsored-developers)
 ==========
 
-[А. Конфиденциальность.](#a-confidentiality)
+[A. Confidentiality.](#a-confidentiality)
 ----------
 
-Условия настоящего Соглашения являются Конфиденциальной информацией обеих сторон. Ни одна из сторон не будет использовать Конфиденциальную информацию другой стороны, за исключением случаев, разрешенных настоящим Соглашением. Каждая сторона соглашается сохранять конфиденциальность и защищать Конфиденциальную информацию другой стороны, используя как минимум ту же осторожность, что и в отношении своей собственной информации аналогичного характера, и в любом случае обеспечивая разумный уровень защиты. Каждая сторона примет все обоснованные меры предосторожности, чтобы предотвратить несанкционированное раскрытие Конфиденциальной информации другой стороны, и будет раскрывать Конфиденциальную информацию только своим сотрудникам, должностным лицам, агентам, независимым подрядчикам, консультантам, юридическим и финансовым консультантам («**Представители**»), (i) которым необходимо знать эту информацию, (ii) которые являются сторонами соответствующих соглашений, достаточных для соблюдения настоящего Раздела, и (iii) которые уведомляются об обязательствах по нераскрытию информации, введенных настоящим Разделом. Каждая сторона несет ответственность за все действия и упущения своих представителей. Вышеизложенные обязательства не ограничивают получающую сторону в раскрытии Конфиденциальной информации другой стороны по распоряжению или требованию суда, административного органа или другого государственного органа при условии, что получающая сторона уведомит другую сторону за разумное время, чтобы эта сторона могла оспорить такое распоряжение или требование, если только такое уведомление не запрещено законом.
+The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement. Each party agrees to maintain in confidence and protect the other party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each party will take all reasonable precautions to prevent any unauthorized disclosure of the other party's Confidential Information and will only disclose such Confidential Information to its employees, officers, directors, agents, independent contractors, consultants, and legal and financial advisors (“**representatives**”) who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section, and (iii) are informed of the restrictions on use and disclosure set forth in this Section. Each party is responsible for all acts and omissions of its representatives. The foregoing obligations will not restrict the receiving party from disclosing the other party’s Confidential Information pursuant to an order or requirement of a court, administrative agency, or other governmental body, provided that the receiving party gives reasonable notice to the disclosing party to enable such party to contest such order or requirement, unless such notice is prohibited by law.
 
-[B. Публичное использование.](#b-publicity)
+[B. Publicity.](#b-publicity)
 ----------
 
-GitHub может выпускать пресс-релизы, записи в блоге, публикации в социальных сетях и/или иные общедоступные сообщения, касающиеся Спонсора (с разрешения Спонсора) или участия Спонсируемого разработчика в Программе. Иначе как для такого использования, GitHub не вправе использовать или ссылаться на логотип, имя или имена Спонсора, в соответствии с этим Соглашением.
+GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor’s (with Sponsor’s permission) or Sponsored Developer’s participation in the Program. Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor’s logo, name or names under this Agreement.
 
-[C. Уведомления.](#c-notices)
+[C. Notices.](#c-notices)
 ----------
 
-Уведомления и сообщения в соответствии с настоящим Соглашением будут оформляться письменно (достаточно отправки по электронной почте) на имя лица, указанного в соответствующей учетной записи. Уведомления будут считаться полученными в первый (1) рабочий день после доставки, если они отправлены по электронной почте, и на третий (3) рабочий день после доставки, если они отправлены заказным письмом.
+Notices or communications under this Agreement will be made in writing (email to suffice) to the individual identified on the applicable account. Notices will be deemed received one (1) business day after delivery, if sent by email, and three (3) business days after delivery, if sent via registered mail.
 
-[D. Регулирующее законодательство.](#d-governing-law)
+[D. Governing Law.](#d-governing-law)
 ----------
 
-Настоящее Соглашение будет регулироваться и толковаться в соответствии с законами штата Калифорния, без учета принципов коллизионного права; любые судебные иски или разбирательства, возникающие в связи с настоящим Соглашением, будут подаваться исключительно в федеральные суды или суды штата, расположенные в Северном округе Калифорнии.
+This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California.
 
-[Е. Передача прав и обязанностей.](#e-assignment)
+[E. Assignment.](#e-assignment)
 ----------
 
-Ни одна сторона не может передавать права и обязанности по настоящему Соглашению в целом или частично без предварительного письменного согласия другой стороны (в отношении которого не должно быть необоснованного отказа или задержки), и любая попытка сделать это будет признана недействительной.
+Neither party may assign or otherwise transfer this Agreement, in whole or in part, without the other party's prior written consent (not to be unreasonably withheld or delayed), and any attempt to do so will be null and void.
 
-[F. Независимость положений соглашения.](#f-severability)
+[F. Severability.](#f-severability)
 ----------
 
-Если какое-либо положение настоящего Соглашения будет признано компетентным судом неприменимым, стороны изменят настоящее Соглашение в отношении такого положения, в то время как остальные положения останутся в полной силе и действии.
+If any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable, the parties will modify this Agreement to give effect to such provision and the remaining provisions will continue in full force and effect.
 
-[G. Полнота соглашения.](#g-entire-agreement)
+[G. Entire Agreement.](#g-entire-agreement)
 ----------
 
-Настоящее Соглашение представляет собой полное соглашение между сторонами в отношении его предмета и заменяет собой все предшествующие или действующие в настоящее время соглашения и интерпретации, как устные, так и письменные, заключенные между сторонами в отношении предмета Соглашения. Настоящее Соглашение может быть изменено только в письменном виде, с подписями обеих сторон, со ссылкой на настоящее Соглашение.
+This Agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, between the parties, regarding such subject matter. This Agreement may only be amended by a writing signed by both parties that references this Agreement.
 
-[H. Изменение условий.](#h-changes-to-the-terms)
+[H. Changes to the Terms.](#h-changes-to-the-terms)
 ----------
 
-Мы оставляем за собой право по собственному усмотрению вносить изменения в настоящие Дополнительные условия в любое время. Мы уведомим вас о существенных изменениях в настоящих Дополнительных условиях, таких как изменение цен, не менее чем за 30 дней до вступления изменения в силу, разместив уведомление на нашем сайте. Ваше дальнейшее участие в Программе означает согласие с изменениями настоящих Дополнительных условий. Все изменения этих условий можно просмотреть в репозитории политики сайта.
+We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our Site Policy repository.
 
 {"resolvedServerColorMode":"day"}

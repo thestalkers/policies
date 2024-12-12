@@ -1,70 +1,70 @@
-Código de conducta de eventos de GitHub - Documentación de GitHub
+GitHub Event Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
-* [Política del sitio](/es/site-policy)/
-* [Términos de GitHub](/es/site-policy/github-terms)/
-* [Código de conducta de eventos de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)
+* [Site policy](/es/site-policy)/
+* [GitHub Terms](/es/site-policy/github-terms)/
+* [GitHub Event Code of Conduct](/es/site-policy/github-terms/github-event-code-of-conduct)
 
-Código de conducta de eventos de GitHub
+GitHub Event Code of Conduct
 ==========
 
-En este artículo
+In this article
 ----------
 
-* [Código de Conducta](#code-of-conduct)
-* [Informar de un incidente](#reporting-an-incident)
-* [Crédito](#credit)
+* [Code of Conduct](#code-of-conduct)
+* [Reporting an incident](#reporting-an-incident)
+* [Credit](#credit)
 
-[Código de Conducta](#code-of-conduct)
+[Code of Conduct](#code-of-conduct)
 ----------
 
-Al asistir a un evento de GitHub, incluidos cualquiera de los eventos o actividades organizados por GitHub en asociación con el evento de GitHub (colectivamente, el "Evento"), indica que ha leído, comprende y acepta el siguiente Evento de GitHub Código de conducta (en adelante el "Código de conducta"). Este Código de Conducta se aplica a todos los asistentes, oradores, expositores, patrocinadores, organizadores, personal y voluntarios (colectivamente "Participantes del evento") en el Evento.
+By attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Code of Conduct (hereinafter “Code of Conduct”). This Code of Conduct applies to all attendees, speakers, exhibitors, sponsors, organizers, staff, and volunteers (collectively “Event Participants”) at the Event.
 
-GitHub valora la participación de todos los participantes del evento y tiene como objetivo crear un evento en el que todos los participantes del evento tengan una experiencia agradable y satisfactoria. En consecuencia, se espera que todos los participantes del evento muestren respeto y cortesía a otros participantes del evento en todo el evento.
+GitHub values the participation of all Event Participants and aims to create an event where all Event Participants have an enjoyable and fulfilling experience. Accordingly, all Event Participants are expected to show respect and courtesy to other Event Participants throughout the Event.
 
-GitHub se dedica a brindar una experiencia positiva y libre de acoso para todos, independientemente de la edad, el género, la identidad y expresión de género, la orientación sexual, la discapacidad, la apariencia personal, el tamaño del cuerpo, el origen étnico, la raza, la religión, la nacionalidad o el nivel de experiencia.
+GitHub is dedicated to providing a positive and harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience.
 
-No toleramos el acoso de los participantes del evento de ninguna forma, ni toleramos ningún comportamiento que razonablemente haga que otro participante del evento se sienta inseguro o temeroso por su bienestar físico o emocional. Toda la comunicación y comportamiento deben ser apropiados para un entorno profesional que incluya personas de diferentes orígenes.
+We do not tolerate harassment of Event Participants in any form, nor do we tolerate any behavior that would reasonably lead to an Event Participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication and behavior should be appropriate for a professional setting including people of many different backgrounds.
 
-Ejemplos de comportamiento alentado que contribuye a un ambiente positivo incluyen:
+Examples of encouraged behavior that contributes to a positive environment include:
 
-* Usar un lenguaje acogedor e inclusivo
-* Ser respetuoso con los diferentes puntos de vista y experiencias.
-* Aceptar con gracia la crítica constructiva
-* Centrarse en lo que es mejor para todos en el evento
-* Mostrar empatía hacia otros y hacia los participantes del evento
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for everyone at the Event
+* Showing empathy towards others and Event Participants
 
-El comportamiento inaceptable incluye, pero no se limita a:
+Unacceptable behavior includes, but is not limited to:
 
-* El uso de lenguaje o imágenes sexualizados
-* Contacto físico inadecuado, atención sexual o avances
-* Comentarios o comportamiento de trolling, insultantes o despectivos
-* Ataques personales o políticos a los participantes del evento
-* Interrupción sostenida de las conversaciones o cualquier otro evento o actividades organizados por GitHub en asociación con el evento
-* Intimidación, acecho, seguimiento o acoso de participantes del evento
-* Fotografía o grabación de participantes del evento sin su consentimiento
-* Acoso de cualquier tipo, incluso en forma de broma o ironía
-* Conductas que razonablemente podrían considerarse inapropiadas en un entorno profesional
+* The use of sexualized language or imagery
+* Inappropriate physical contact, sexual attention, or advances
+* Trolling, insulting or derogatory comments or behavior
+* Personal or political attacks toward Event Participants
+* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
+* Intimidation, stalking, following, or harassing of Event Participants
+* Photography or recording of Event Participants without their consent
+* Harassment of any kind, even in a joking or ironic manner
+* Conduct which could reasonably be considered inappropriate in a professional setting
 
-Cada participante del evento es enteramente responsable de sus propias acciones.
+Each Event Participant is entirely responsible for their own actions.
 
-Gracias por ayudar a hacer de este un espacio acogedor y amigable para todos.
+Thank you for helping to make this a welcoming, friendly space for all.
 
-[Informar de un incidente](#reporting-an-incident)
+[Reporting an incident](#reporting-an-incident)
 ----------
 
-Si está siendo hostigado, observa que otra persona está siendo acosada, tiene cualquier otra preocupación o cree que un participante del evento no actúa de manera conforme con este Código de conducta, hable directamente con un responsable de seguridad de la ubicación o un empleado de GitHub para obtener ayuda urgente, o envíenos un correo electrónico a [events@github.com](mailto:events@github.com) para problemas no urgentes. Para situaciones que amenazan la vida, marque inmediatamente el 911.
+If you are being harassed, notice that someone else is being harassed, have any other concerns, or if you believe an Event Participant is not acting in a way compliant with this Code of Conduct, please speak directly with a venue security officer or GitHub employee for urgent help, or email us at [events@github.com](mailto:events@github.com) for non-urgent issues. For life threatening situations, please dial 911 immediately.
 
-Los empleados de GitHub estarán encantados de ayudar a los participantes del evento a ponerse en contacto con la seguridad o la policía local, escoltarlos a un lugar seguro o ayudar de cualquier otra forma a las personas que sufran acoso para que se sientan seguras durante el evento.
+GitHub employees will be happy to help Event Participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the Event.
 
-[Crédito](#credit)
+[Credit](#credit)
 ----------
 
-Algunas partes de este Código de Conducta se basan en el ejemplo de directiva contra el acoso de la wiki Geek Feminism, creada por Ada Initiative y otros voluntarios, bajo una licencia Creative Commons Zero.
+Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
 
 {"resolvedServerColorMode":"day"}

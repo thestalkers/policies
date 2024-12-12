@@ -1,115 +1,115 @@
-GitHub の個人情報削除ポリシー - GitHub Docs
+GitHub Private Information Removal Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [Site policy](/ja/site-policy)/
+* [Content Removal Policies](/ja/site-policy/content-removal-policies)/
+* [GitHub Private Information Removal Policy](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-GitHub の個人情報削除ポリシー
+GitHub Private Information Removal Policy
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [個人情報とは?](#what-is-private-information)
-* [知っておいていただきたいこと](#things-to-know)
-* [どのように機能するのですか?](#how-does-this-actually-work)
-* [個人情報削除要求の送信](#sending-a-private-information-removal-request)
-* [要求の提出方法](#how-to-submit-your-request)
-* [争議](#disputes)
+* [What is Private Information?](#what-is-private-information)
+* [Things to Know](#things-to-know)
+* [How Does This Actually Work?](#how-does-this-actually-work)
+* [Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
+* [How to Submit Your Request](#how-to-submit-your-request)
+* [Disputes](#disputes)
 
-当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub のサービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)に違反する高リスク コンテンツに限定して例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除する要求を GitHub が処理するために必要な情報について説明します。
+We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
 
-[個人情報とは?](#what-is-private-information)
+[What is Private Information?](#what-is-private-information)
 ----------
 
-このドキュメントにおいて、「個人情報」とは、(i) 機密を保持する必要があり、*かつ* (ii) 公開されることで特定のまたは標的を絞ったセキュリティ リスクをお客様またはお客様の組織にもたらすコンテンツを指します。
+For the purposes of this document, “private information” refers to content that (i) should have been kept confidential, *and* (ii) whose public availability poses a specific or targeted security risk to you or your organization.
 
-「セキュリティ リスク」とは、肉体的危機への暴露、なりすまし、物理的施設またはネットワーク施設への不正なアクセスの可能性の増大に関連する状況を指します。
+"Security risk" refers to a situation involving exposure to physical danger, identity theft, or increased likelihood of unauthorized access to physical or network facilities.
 
-### [個人情報の削除要求は、次の場合に適しています。](#private-information-removal-requests-are-appropriate-for) ###
+### [Private information removal requests are appropriate for:](#private-information-removal-requests-are-appropriate-for) ###
 
-* アクセス資格情報 (組織のサーバー、ネットワーク、またはドメインにアクセスするための、ユーザー名とパスワード、アクセス トークン、または機密情報を組み合わせたものなど)。
-* 第三者にお客様の代理でアクセスするための AWS トークンおよびその他の同様のアクセス資格情報。 お客様は、このトークンが自分のものでないことを示すことができなければなりません。
-* 組織に特定のセキュリティ リスクをもたらす文書 (ネットワーク図やアーキテクチャなど)。
-* 個人 (社会保障番号や他の政府の識別番号など) に関連し、セキュリティ リスクをもたらす[情報](/ja/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)。
+* Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
+* AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
+* Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization.
+* [Information](/ja/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
 
-### [個人情報の削除要求が "適さない" 場合\_\_](#個人情報の削除要求が-適さない-場合__) ###
+### [Private information removal requests are *not* appropriate for:](#private-information-removal-requests-are-not-appropriate-for) ###
 
-* 内部サーバーの名前、IP アドレス、および URL 自体。 特定のファイルまたはコードの一部でそれらを使用することがセキュリティ上の脅威になることを示す必要があります。
-* GitHub のファイル内で会社の ID、会社名、ブランド、ドメイン名、その他を単に言及している場合。 会社の ID を使用することがその会社のセキュリティ態勢に対する脅威となる理由を明確に示す必要があります。
-* 特定のセキュリティ リスクをもたらすことはないが、それ以外の理由で好ましくないと考えられるファイルやリポジトリ全体。
-* お客様またはお客様の組織の著作権を侵害している可能性のあるコンテンツの削除要求。 著作権関連の問題に対する GitHub の対応方法について質問がある場合、または著作権侵害の可能性があるコンテンツを報告する場合は、[DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)をご覧ください。 一般に個人情報削除プロセスは、ファイルまたはリポジトリ全体を削除することが目的ではなく、ファイル内で個人情報を含んだ特定部分のみが削除の対象となります。 ファイルの内容がすべて個人情報である場合もありますが、このようなファイルを削除するためにはセキュリティ リスクがあることを証明しなければならず、このような場合、要求の処理にかかる時間が長くなる可能性があります。
-* 商標に関する紛争。 商標関連の問題に対する GitHub の対応方法について質問がある場合や、お客様の組織の商標やサービス マークを含んでいるコンテンツを報告する場合は、[商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)をご確認ください。
-* プライバシーに関する苦情。 GitHub 上の個人情報についてアクセス、移転、変更、削除を求める場合は、[プライバシー連絡フォーム](https://github.com/contact/privacy)で連絡ください。
-* マルウェアや汎用ツールなど、当社の [コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)で管理されるコンテンツ。 コミュニティ ガイドラインについて質問がある場合や、GitHub のコンテンツがガイドラインに違反する可能性があると思われる場合は、[GitHub Support ポータル](https://support.github.com/) を通じてコンテンツを当社までご報告ください。
+* Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
+* Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture.
+* Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
+* Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/ja/site-policy/content-removal-policies/dmca-takedown-policy). The private information removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of private information in those files. While there may be cases where files are filled entirely with private information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
+* Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/ja/site-policy/content-removal-policies/github-trademark-policy).
+* Privacy complaints. If you wish to access, transfer, change, or delete your personal information on GitHub, please contact us via [our Privacy contact form](https://github.com/contact/privacy).
+* Content governed by our [Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can contact us through the [GitHub Support portal](https://support.github.com/) to report content.
 
-[知っておいていただきたいこと](#things-to-know)
+[Things to Know](#things-to-know)
 ----------
 
-**まずは丁寧にお願いしてください。** 当社にデータ削除要求を送信する前に、まず、ユーザーに直接連絡することが重要です。 ユーザーの連絡先情報は、そのユーザーの公開プロファイル ページやリポジトリの README または Support ファイルに記載されている場合があります。または、イシューを作成して連絡するか、リポジトリでプル リクエストを発行して連絡することもできます。 これは厳密には必須ではありませんが、印象の良い方法と言えるでしょう。
+**Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by creating an issue or pull request in the repository. This is not strictly required, but it is appreciated.
 
-**ボットを使用しないでください。** 送信するすべての要求の事実を、熟練した専門家に評価してもらう必要があります。 お客様の取り組みを第三者に委託する場合は、第三者が自動ボットを使用して苦情を一括送信しないことを確認してください。 これらの苦情にはセキュリティ上の脅威を及ぼさないデータが含まれていることが多く、十分な説明が含まれていないため、正当な苦情であっても何度も確認が必要となり、結果的に遅延が生じる場合があります。
+**No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints often include data that does not pose any security threats, and they do not include sufficient explanations, requiring additional back-and-forth and resulting in delays, even when the complaint is valid.
 
-**適切な要求を送信してください。** 前述のとおり、当社では、この個人情報削除プロセスを高リスクのコンテンツに限定した例外的なサービスとして提供しています。 このプロセスを使用して、著作権侵害の可能性のあるコンテンツなど、他の種類のコンテンツを削除することはできません。また、個人情報削除要求を処理している間、他の種類の削除要求を処理することはできません。 より迅速なサポートが可能になるよう、個人情報削除要求は、著作権侵害の可能性のあるコンテンツの削除要求とは別に送信してください。 要求が個人情報にのみ関連するものかどうか、または他の法的問題にも関係するものかどうか不明な場合は、弁護士にご相談ください。
+**Send In The Correct Request.** As noted above, we offer this private information removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing private information removal requests. We will be able to help you more quickly if you send in your private information removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only private information or also involves other legal matters, please consult legal counsel.
 
-**処理にかかる時間について。** 個人情報削除要求はできるだけ速やかに処理しますが、処理する要求の量によっては、要求の審査に時間がかかる場合があります。 要求を追加送信したり、複数の連絡先から複数の要求を送信したりした場合、遅延が発生する場合があります。
+**Processing Time.** While we do process private information removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
 
-[どのように機能するのですか?](#how-does-this-actually-work)
+[How Does This Actually Work?](#how-does-this-actually-work)
 ----------
 
-1. **申立人が調査します。** 要求者は、自身で調査を実施し、GitHub に[当社が求める詳細情報](#your-request-must-include)を提供する必要があります。最も重要なのは、そのデータがどのようにしてセキュリティ リスクをもたらすのかについて説明することです。 GitHub は、個人または組織に代わって個人情報を検索したり、初期決定を下したりすることはありません。
+1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about private information on any individual's or organization's behalf.
 
-2. **申立人が個人情報削除要求を送信します。** 調査を実施した後、申立人は個人情報削除要求を用意し、GitHub に[送信](#sending-a-private-information-removal-request)します。 要求がセキュリティ リスクを立証するほど詳細でない場合や、GitHub がデータを特定できない場合、当社は返信して追加情報を求めます。
+2. **Complainant Sends a Private Information Removal Request.** After conducting an investigation, the complainant prepares and [sends a private information removal request](#sending-a-private-information-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
 
-3. **GitHub はユーザーに変更を行うよう要請します。** ほとんどの場合、当社は、リポジトリを作成したユーザーに連絡し、要求で指定された個人情報を削除または変更したり、要求に異議を唱えたりする機会を提供します。
+3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the private information specified in the request or to dispute the claim.
 
-4. **ユーザーは GitHub に変更を通知します。** ユーザーは、指定された変更を行うことを選択した場合は、与えられた期間内にその旨を当社に通知しなければなりません。 ユーザーが通知を行わなかった場合、当社はリポジトリを無効にします。 ユーザーが変更を行ったことを当社に通知した場合、当社は、変更が行われたことを確認して、申立人に通知します。
+4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
 
    OR
 
-5. **ユーザーは要求に異議を唱えることができます。** ユーザーは、問題のコンテンツが本ポリシーの対象となる個人情報ではないと思う場合、異議を唱えることができます。 その場合、通常は申立人に対して、ユーザーに連絡し、ユーザーとの間で問題を合理的な範囲内で直接解決していただくことになります。
+5. **User May Dispute the Request.** If a user believes the content in question is not private information subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
 
-6. **申立人が変更内容を確認します。** ユーザーが変更を加えた場合、申立人はそれを確認する必要があります。 変更が不十分な場合、申立人は GitHub にその理由を説明した詳細情報を提供する必要があります。 GitHub はリポジトリを無効にする場合もあれば、変更を加える機会をもう一度ユーザーに提供する場合もあります。
+6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
 
-7. **ユーザーは変更を加えるための追加猶予期間を要求できます。** ユーザーが通知で指定された個人情報を削除する機会を逃した場合、当社は、変更を行うことができるように、要求に応じて 1 営業日程度の猶予期間をユーザーに提供することがあります。 その場合、GitHub は申立人に通知します。
+7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the private information specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
 
-### [フォークについて教えてください (またはフォークとは何ですか?)](#what-about-forks-or-whats-a-fork) ###
+### [What About Forks? (or What's a Fork?)](#what-about-forks-or-whats-a-fork) ###
 
-GitHub の最も優れた特徴の 1 つはユーザーが別のユーザーのリポジトリに「フォーク」できる機能です。 それは何を意味していますか? 基本的に、ユーザーが GitHub 上のプロジェクトのコピーを自らのリポジトリに作成できるということです。 ライセンスまたは法律により許可されているため、ユーザーはこのフォークに変更を加えて、メイン プロジェクトにプッシュすることも、プロジェクトの独自のバリエーションとして保管することもできます。 このようなコピーはそれぞれが元のリポジトリ (フォークの "親" と呼ばれる場合もあります) の "[GitHub 用語集](/ja/get-started/learning-about-github/github-glossary#fork)" です。
+One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/ja/get-started/learning-about-github/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
 
-GitHub では、親リポジトリを無効にするときに、フォークを自動的に無効にすることはありません。 これは、フォークはさまざまなユーザーに属しており、著しく変更されている可能性があるためです。 GitHub は、フォークの独自調査を実施しません。 この調査は、個人情報削除要求を送信する申立人が実施することが前提となっています。また、フォークにも個人情報が含まれていると思われる場合は、フォークを要求に明示的に記載してください。
+GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending private information removal requests to conduct that investigation and, if they believe that the forks also contain private information, expressly include forks in their request.
 
-お客様が通知を送信し、当該リポジトリの既存のフォークをすべて特定した時点で、当社は、通知を処理するときにネットワーク内のすべてのフォークに対する有効な要求を処理します。 この処理は、新しく作成されたすべてのフォークに同じコンテンツが含まれているという可能性を前提にして行われます。 また、報告のあったコンテンツを含んでいるとされるネットワークが 100 リポジトリを超えており、全体を確認することが困難な場合、当社は、お客様の通知で「確認した然るべき数のフォークに基づき、フォークのすべてまたは大部分が親リポジトリで報告されたコンテンツを含んでいると考えます」と記載されていた場合、ネットワーク全体を無効にすることを検討します。
+If at the time that you submitted your notice, you identified all existing forks of that repository, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the reported content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, based on the representative number of forks you have reviewed, you believe that all or most of the forks contain the content reported in the parent repository.
 
-[個人情報削除要求の送信](#sending-a-private-information-removal-request)
+[Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
 ----------
 
-GitHub がホストするコンテンツの種類 (主にソフトウェア コード) やコンテンツの管理方法 (Git を使用) の性質上、苦情はできるだけ具体的である必要があります。 ユーザーが報告された個人情報を完全に削除したことを確認するため、当社は確認すべき箇所を正確に知る必要があります。
+Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported private information completely, we need to know exactly where to look.
 
-このガイドラインの目的は、個人情報の削除要求の処理をできるだけ簡単にすることです。
+These guidelines are designed to make the processing of requests to remove private information as straightforward as possible.
 
-### [要求には以下を含める必要があります。](#your-request-must-include) ###
+### [Your Request Must Include:](#your-request-must-include) ###
 
-1. 個人情報を含む各ファイルへの動作しているクリック可能なリンク (検索結果、例、スクリーンショットから処理することはできません。)
-2. 個人情報を含む各ファイル内の具体的な行番号。
-3. 特定した各項目が、お客様またはお客様の組織にどのようなセキュリティ リスクをもたらすかについての簡潔な説明。 ***単にデータがセキュリティ リスクをもたらすという記述だけではなく、どのようにもたらされるのかを説明することが重要です。***
-4. セキュリティ リスクに直面している組織の代理人を務めている場合は、その組織に代わって行動する法的権利があるという記述を含めてください。
-5. オプション:要求が特に緊急であるかどうか、およびその理由をお知らせください。 当社は、すべての個人情報削除要求にできるだけ速やかに対応します。 しかし、この要求が、ごく最近の資格情報の露出など、特に時間に依存する場合は、その理由を説明してください。
+1. A working, clickable link to each file containing private information. (Note that we're not able to work from search results, examples, or screenshots.)
+2. Specific line numbers within each file containing the private information.
+3. A brief description of how each item you've identified poses a security risk to you or your organization. ***It is important that you provide an explanation of how the data poses a security risk beyond merely stating that it does.***
+4. If you are a third party acting as an agent for an organization facing a security risk, include a statement that you have a legal right to act on behalf of that organization.
+5. OPTIONAL: Let us know if your request is particularly urgent, and why. We respond to all private information removal requests as quickly as possible. However, if this request is especially time-sensitive, such as a very recent credential exposure, please explain why.
 
-[要求の提出方法](#how-to-submit-your-request)
+[How to Submit Your Request](#how-to-submit-your-request)
 ----------
 
-個人情報削除要求は、[連絡フォーム](https://support.github.com/contact?tags=docs-private-information)で提出できます。 メッセージの本文には要求文をテキスト形式で記述してください。 添付ファイルで要求を送信した場合は、処理に時間がかかることがあります。
+You can submit your request to remove private information via our [contact form](https://support.github.com/contact?tags=docs-private-information). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
 
-[争議](#disputes)
+[Disputes](#disputes)
 ----------
 
-当社から個人情報の削除要求を受け取った場合は、これに異議を唱えることができます。その場合はメールに返信し、問題のコンテンツがこのポリシーの対象となる個人情報ではないと思われる理由を、可能な限り詳細にお知らせください。
+If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.
 
 {"resolvedServerColorMode":"day"}

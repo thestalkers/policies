@@ -1,63 +1,63 @@
-Termes GitHub - Documentation GitHub
+GitHub Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)
+* [Site policy](/fr/site-policy)/
+* [GitHub Terms](/fr/site-policy/github-terms)
 
-Termes GitHub
+GitHub Terms
 ==========
 
-[Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
+[GitHub Terms of Service](/fr/site-policy/github-terms/github-terms-of-service)
 ----------
 
-[Conditions d'utilisation de GitHub Corporate](/fr/site-policy/github-terms/github-corporate-terms-of-service)
+[GitHub Corporate Terms of Service](/fr/site-policy/github-terms/github-corporate-terms-of-service)
 ----------
 
-[Conditions GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[GitHub Terms for Additional Products and Features](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[Directives de la communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)
+[GitHub Community Guidelines](/fr/site-policy/github-terms/github-community-guidelines)
 ----------
 
-[Code de Conduite de la Communauté GitHub](/fr/site-policy/github-terms/github-community-code-of-conduct)
+[GitHub Community Code of Conduct](/fr/site-policy/github-terms/github-community-code-of-conduct)
 ----------
 
-[GitHub – Termes du Contrat de licence de la préversion](/fr/site-policy/github-terms/github-pre-release-license-terms)
+[GitHub Pre-release License Terms](/fr/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[Conditions supplémentaires des sponsors GitHub](/fr/site-policy/github-terms/github-sponsors-additional-terms)
+[GitHub Sponsors Additional Terms](/fr/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
-[Contrat de développeur enregistré GitHub](/fr/site-policy/github-terms/github-registered-developer-agreement)
+[GitHub Registered Developer Agreement](/fr/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
+[GitHub Marketplace Terms of Service](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
-[Contrat de développement de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-developer-agreement)
+[GitHub Marketplace Developer Agreement](/fr/site-policy/github-terms/github-marketplace-developer-agreement)
 ----------
 
-[Conditions du programme de recherche GitHub](/fr/site-policy/github-terms/github-research-program-terms)
+[GitHub Research Program Terms](/fr/site-policy/github-terms/github-research-program-terms)
 ----------
 
-[Termes et conditions des applications open source GitHub](/fr/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[GitHub Open Source Applications Terms and Conditions](/fr/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 ----------
 
-[Conditions de l'événement GitHub](/fr/site-policy/github-terms/github-event-terms)
+[GitHub Event Terms](/fr/site-policy/github-terms/github-event-terms)
 ----------
 
-[Code de conduite des événements GitHub](/fr/site-policy/github-terms/github-event-code-of-conduct)
+[GitHub Event Code of Conduct](/fr/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
-[Accord d'utilisation pédagogique de GitHub](/fr/site-policy/github-terms/github-educational-use-agreement)
+[GitHub Educational Use Agreement](/fr/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[Stratégie de développeur de l’extension GitHub Copilot](/fr/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot Extension Developer Policy](/fr/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

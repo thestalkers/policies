@@ -1,43 +1,43 @@
-GitHub GPL Kooperationsverpflichtung - GitHub-Dokumentation
+GitHub GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
-* [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Site policy](/de/site-policy)/
+* [GitHub Company Policies](/de/site-policy/github-company-policies)/
+* [GitHub GPL Cooperation Commitment](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-GitHub GPL Kooperationsverpflichtung
+GitHub GPL Cooperation Commitment
 ==========
 
-Diese Verpflichtung bezieht sich auf GitHub-Beiträge zu Git, dem Linux-Kernel und anderen Programmen unter abgedeckten Lizenzen (scrollen Sie bis zum Ende für Definitionen).
+This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 
-Wir stützen unsere Erklärung auf die [Vorlage](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) für Unternehmen. Siehe die [Webseite zur GPL-Kooperationsverpflichtung](https://gplcc.github.io/gplcc/) dazu, wie andere Unternehmen, Einzelpersonen und Projekte diese Verpflichtung übernehmen können.
+We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
 
-[Unsere Hingabe](#our-commitment)
+[Our Commitment](#our-commitment)
 ----------
 
-Vor der Einleitung oder Fortsetzung der Verfolgung von Gerichtsverfahren oder Ansprüchen (außer einer Abwehrmaßnahme), die sich aus der Kündigung einer abgedeckten Lizenz ergeben, verpflichtet sich GitHub, der natürlichen oder juristischen Person („Sie“), die beschuldigt wird, die abgedeckte Lizenz verletzt zu haben, die folgenden Bestimmungen zu übermitteln Heilung und Wiederherstellung, entnommen aus GPL Version 3. Wie hier verwendet, bezieht sich der Begriff „diese Lizenz“ auf die spezifische abgedeckte Lizenz, die durchgesetzt wird.
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
-Wenn Sie jedoch jegliche Verletzung dieser Lizenz einstellen, wird Ihre Lizenz von einem bestimmten Urheberrechtsinhaber (a) vorläufig wiederhergestellt, es sei denn und bis der Urheberrechtsinhaber Ihre Lizenz ausdrücklich und endgültig kündigt, und (b) dauerhaft, wenn der Urheberrechtsinhaber versagt um Sie vor Ablauf von 60 Tagen nach Beendigung mit angemessenen Mitteln über die Verletzung zu informieren.
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
 
-Darüber hinaus wird Ihre Lizenz von einem bestimmten Urheberrechtsinhaber dauerhaft wiederhergestellt, wenn der Urheberrechtsinhaber Sie auf angemessene Weise über die Verletzung informiert, dies das erste Mal ist, dass Sie von diesem Urheberrechtsinhaber eine Benachrichtigung über eine Verletzung dieser Lizenz (für ein Werk) erhalten, und Sie den Verstoß innerhalb von 30 Tagen nach Erhalt der Mitteilung beheben.
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
 
-GitHub beabsichtigt, dass diese Verpflichtung unwiderruflich, bindend und durchsetzbar gegenüber GitHub und Zessionaren oder Rechtsnachfolgern von GitHubs Urheberrechten ist.
+GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
 
-GitHub kann diese Verpflichtung ändern, indem es eine neue Ausgabe auf dieser Seite oder einem Nachfolgestandort veröffentlicht.
+GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
 
-Definitionen
+Definitions
 
-„Abgedeckte Lizenz“ bezeichnet die GNU General Public License, Version 2 (GPLv2), die GNU Lesser General Public License, Version 2.1 (LGPLv2.1), oder die GNU Library General Public License, Version 2 (LGPLv2), alle wie veröffentlicht von die Free Software Foundation.
+‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-„Abwehrmaßnahme“ bezeichnet ein Gerichtsverfahren oder einen Anspruch, den GitHub als Reaktion auf ein vorheriges Verfahren oder einen Anspruch, der von Ihnen oder Ihrem verbundenen Unternehmen eingeleitet wurde, gegen Sie erhebt.
+‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
-„GitHub“ bezeichnet GitHub, Inc. und seine Tochtergesellschaften.
+‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
-Dieses Werk ist unter einer Creative Commons Attribution-ShareAlike 4.0 International-Lizenz verfügbar.
+This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
 
 {"resolvedServerColorMode":"day"}

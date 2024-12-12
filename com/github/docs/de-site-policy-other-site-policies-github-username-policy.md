@@ -1,42 +1,42 @@
-GitHub-Richtlinie für Benutzernamen - GitHub-Dokumentation
+GitHub Username Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/
-* [GitHub-Richtlinie für Benutzernamen](/de/site-policy/other-site-policies/github-username-policy)
+* [Site policy](/de/site-policy)/
+* [Other Site Policies](/de/site-policy/other-site-policies)/
+* [GitHub Username Policy](/de/site-policy/other-site-policies/github-username-policy)
 
-GitHub-Richtlinie für Benutzernamen
+GitHub Username Policy
 ==========
 
-In diesem Artikel
+In this article
 ----------
 
-* [Was ist, wenn der gewünschte Benutzername bereits vergeben ist?](#what-if-the-username-i-want-is-already-taken)
-* [Markenrichtlinie](#trademark-policy)
-* [Namensbesetzungsrichtlinie](#name-squatting-policy)
+* [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
+* [Trademark Policy](#trademark-policy)
+* [Name Squatting Policy](#name-squatting-policy)
 
-GitHub-Kontonamen sind nach dem Prinzip „Wer zuerst kommt, mahlt zuerst“ verfügbar und sind für die sofortige und aktive Nutzung vorgesehen.
+GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 
-[Was ist, wenn der gewünschte Benutzername bereits vergeben ist?](#what-if-the-username-i-want-is-already-taken)
+[What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
 ----------
 
-Denken Sie daran, dass nicht alle Aktivitäten auf GitHub öffentlich sichtbar sind; Konten ohne sichtbare Aktivität werden möglicherweise aktiv verwendet.
+Keep in mind that not all activity on GitHub is publicly visible; accounts with no visible activity may be in active use.
 
-Wenn der gewünschte Benutzername bereits beansprucht wurde, ziehen Sie andere Namen oder eindeutige Varianten in Betracht. Wenn Sie Zahlen, Bindestriche oder alternative Schreibweisen einbauen, können Sie möglicherweise einen noch verfügbaren Benutzernamen finden.
+If the username you want has already been claimed, consider other names or unique variations. Using a number, hyphen, or an alternative spelling might help you identify a desirable username that's still available.
 
-[Markenrichtlinie](#trademark-policy)
+[Trademark Policy](#trademark-policy)
 ----------
 
-Wenn Sie der Auffassung sind, dass das Konto einer anderen Person Ihre Markenrechte verletzt, finden Sie weitere Informationen zum Einreichen einer Markenbeschwerde auf der Seite mit unserer [Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy).
+If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/de/site-policy/content-removal-policies/github-trademark-policy) page.
 
-[Namensbesetzungsrichtlinie](#name-squatting-policy)
+[Name Squatting Policy](#name-squatting-policy)
 ----------
 
-GitHub verbietet das Squatting von Kontonamen, und Kontonamen dürfen nicht für die zukünftige Verwendung reserviert oder inaktiv gehalten werden. Konten, die gegen diese Namesquatting-Richtlinie verstoßen, können ohne Vorankündigung entfernt oder umbenannt werden. Versuche, im Austausch für Kontonamen zu verkaufen, zu kaufen oder andere Zahlungsformen zu erbitten, sind verboten und können zu einer dauerhaften Sperrung des Kontos führen.
+GitHub prohibits account name squatting, and account names may not be reserved or inactively held for future use. Accounts violating this name squatting policy may be removed or renamed without notice. Attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited and may result in permanent account suspension.
 
 {"resolvedServerColorMode":"day"}

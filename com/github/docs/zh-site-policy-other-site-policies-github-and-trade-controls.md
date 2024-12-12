@@ -1,127 +1,127 @@
-GitHub 和贸易管制 - GitHub 文档
+GitHub and Trade Controls - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [其他站点政策](/zh/site-policy/other-site-policies)/
-* [GitHub 和贸易管制](/zh/site-policy/other-site-policies/github-and-trade-controls)
+* [Site policy](/zh/site-policy)/
+* [Other Site Policies](/zh/site-policy/other-site-policies)/
+* [GitHub and Trade Controls](/zh/site-policy/other-site-policies/github-and-trade-controls)
 
-GitHub 和贸易管制
+GitHub and Trade Controls
 ==========
 
-本文内容
+In this article
 ----------
 
-* [出口概述](#export-overview)
-* [常见问题解答](#frequently-asked-questions)
+* [Export overview](#export-overview)
+* [Frequently asked questions](#frequently-asked-questions)
 
-GitHub.com、GitHub Enterprise Server 以及您上传至其中任一产品的信息都需遵守贸易管制法规，包括美国出口管理条例（Export Administration Regulations，EAR）。
+GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).
 
-GitHub 的愿景是成为开发人员合作的全球平台，不管开发人员居住在哪里都可参与。 我们认真履行全面研究政府制裁的职责，以确保用户和客户不受法律以外因素的影响。 这包括保持公共存储库服务，其中包括提供开放源码项目并帮助用户访问，以支持受制裁区域开发人员的个人沟通。 这也意味着 GitHub 将提倡受制裁区域的开发人员享有更大的平台访问权，并充分进入全球开源社区。
+GitHub’s vision is to be the global platform for developer collaboration, no matter where developers reside. We take seriously our responsibility to examine government sanctions thoroughly to be certain that users and customers are not impacted beyond what is required by law. This includes keeping public repository services, including those for open source projects, available and accessible to support personal communications involving developers in sanctioned regions. This also means GitHub will advocate for developers in sanctioned regions to enjoy greater access to the platform and full access to the global open source community.
 
-由于我们的积极倡导以及与美国监管机构的通力合作，GitHub 已获得美国财政部外国资产控制办公室 (OFAC) 的许可，允许向伊朗的开发人员恢复我们的云服务。 我们将继续与美国监管机构合作以获得类似的许可证，为叙利亚和克里米亚等其他受制裁地区的开发人员提供协作服务。 我们致力于倡导尽可能广泛的开发人员访问权限，因为我们相信，为受制裁地区的开发人员提供代码协作服务，可以使全球开发人员社区变得更强大，促进人类进步，并支持美国促进言论自由和信息自由流通的一贯外交政策。 有关我们为伊朗开发人员获取的许可的信息，请阅读[博客文章](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran)。
+As a result of our advocacy and hard work with U.S. regulators, GitHub has secured a license from the U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) to restore our cloud services to developers in Iran. And we will continue to work with U.S. regulators to secure similar licenses to offer collaboration services to developers in other sanctioned regions, such as Syria and Crimea. We are committed to advocating for the broadest possible developer access, as we believe offering code collaboration services for developers in sanctioned regions makes the global developer community stronger, advances human progress, and supports the enduring U.S. foreign policy of promoting free speech and the free flow of information. For information about the license we secured for developers in Iran, read [the blog post](https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran).
 
-虽然我们为了方便您而提供了以下信息，但您要最终负责确保对 GitHub 产品和服务的使用符合所有适用法律和法规，包括美国出口管制法律。
+Although we've provided the following information below for your convenience, it is ultimately your responsibility to ensure that your use of GitHub's products and services complies with all applicable laws and regulations, including U.S. export control laws.
 
-[出口概述](#export-overview)
+[Export overview](#export-overview)
 ----------
 
 ### [GitHub.com](#githubcom) ###
 
-根据我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，用户必须按照相关法律访问和使用 GitHub.com，包括美国出口管制和制裁法律。
+Under our [Terms of Service](/zh/site-policy/github-terms/github-terms-of-service), users may only access and use GitHub.com in compliance with applicable law, including U.S. export control and sanctions laws.
 
-用户负责确保他们在 GitHub.com 上开发和分享的内容符合美国出口管制法律，包括 EAR 和美国国际武器贩运条例（International Traffic in Arms Regulations，ITAR）。 [GitHub.com](https://github.com) 上提供的云端托管服务不托管受 ITAR 约束的数据，目前也无法按国家或地区限制存储库访问。 如果寻求就 ITAR 或其他出口管制数据进行合作，我们建议您考虑 [GitHub Enterprise Server](https://enterprise.github.com)，这是 GitHub 的本地服务。
+Users are responsible for ensuring that the content they develop and share on GitHub.com complies with the U.S. export control laws, including the EAR and the U.S. International Traffic in Arms Regulations (ITAR). The cloud-hosted service offering available at [GitHub.com](https://github.com) has not been designed to host data subject to the ITAR and does not currently offer the ability to restrict repository access by country. If you are looking to collaborate on ITAR- or other export-controlled data, we recommend you consider [GitHub Enterprise Server](https://enterprise.github.com), GitHub's on-premises offering.
 
-GitHub 现在获得了 OFAC 的许可，可以为位于或居住在伊朗的开发人员提供云服务。 这包括为个人和组织提供的一切免费和有偿的公共和私人服务。
+GitHub now has a license from OFAC to provide cloud services to developers located or otherwise resident in Iran. This includes all public and private services for individuals and organizations, both free and paid.
 
-GitHub 云服务（包括付费和免费）也向古巴的开发人员普遍开放。
+GitHub cloud services, both free and paid, are also generally available to developers located in Cuba.
 
-特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub.com。 此外，用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。 此外，GitHub.com 不得用于适用出口管制法禁止的目的，包括[《美国联邦法规》第 15 编第 744 部分](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5)中禁止的最终用途。
+Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials, may be restricted from accessing or using GitHub.com. Additionally, users may not use GitHub.com for or on behalf of such parties, generally including the Governments of sanctioned countries. Furthermore, GitHub.com may not be used for purposes prohibited under applicable export control laws, including prohibited end uses described in [15 CFR 744](https://www.ecfr.gov/cgi-bin/text-idx?SID=ad384e1f1e017076f8c0136f322f0a4c&mc=true&node=pt15.2.744&rgn=div5).
 
 ### [GitHub Enterprise Server](#github-enterprise-server) ###
 
-GitHub Enterprise Server 是一种自托管的虚拟设备，可以在客户自己的数据中心或虚拟私有云中运行。 因此，虽然 GitHub Enterprise Server 可用来存储 ITAR 或其他出口管制的信息，但最终用户有责任确保遵守 ITAR 及其他适用的出口管制。
+GitHub Enterprise Server is a self-hosted virtual appliance that can be run within your own datacenter or virtual private cloud. As such, GitHub Enterprise Server can be used to store ITAR- or other export-controlled information, although, end users are nonetheless responsible for ensuring compliance with the ITAR and other applicable export controls.
 
-GitHub Enterprise Server 是一种商业性的大宗市场产品，已分配出口管制分类号码 (ECCN)`5D992.c`，并可能出口到大多数目的地，无需许可证 (NLR)。
+GitHub Enterprise Server is a commercial, mass-market product and has been assigned the Export Control Classification Number (ECCN) of `5D992.c` and may be exported to most destinations with no license required (NLR).
 
-GitHub Enterprise Server 不得出售给、出口或再出口到 EAR 第 740 部分补充协议第 1 号补充协议 E:1 中 列出的任何国家/地区，也不得再出口到乌克兰的以下地区：克里米亚以及顿涅茨克和卢甘斯克的分离主义地区。 列出的国家目前包括古巴、伊朗、朝鲜、叙利亚、俄罗斯和白俄罗斯，但此列表可能会发生变化。
+GitHub Enterprise Server may not be sold to, exported, or re-exported to any country listed in Country Group E:1 in Supplement No. 1 to part 740 of the EAR or to the following regions of Ukraine: Crimea and the separatist areas of Donetsk and Luhansk. The countries listed currently include Cuba, Iran, North Korea, Syria, Russia, and Belarus, but this list is subject to change.
 
 ### [GitHub Copilot](#github-copilot) ###
 
-GitHub Copilot 是一种商业性的大宗市场产品，已分配出口管制分类号码 (ECCN) 5D992.c，并可能出口到大多数目的地，无需许可证 (NLR)。
+GitHub Copilot is a commercial, mass-market product and has been assigned the Export Control Classification Number (ECCN) of 5D992.c and may be exported to most destinations with no license required (NLR).
 
-在未经授权的情况下，GitHub Copilot 不得出售、出口或再出口到任何禁运目的地， 或者 EAR 第 740 部分补充文件第 1 号的国家/地区组 E:1 中的国家/地区。 这些目的地目前包括古巴、伊朗、朝鲜、叙利亚、俄罗斯、白俄罗斯，以及乌克兰的以下地区：克里米亚/塞瓦斯托波尔、顿涅茨克和卢汉斯克的分离主义地区。 此列表可能随时变动。
+GitHub Copilot may not be sold, exported, or re-exported to any embargoed destination or a country listed in Country Group E:1 in Supplement No. 1 to part 740 of the EAR without authorization. These destinations currently include Cuba, Iran, North Korea, Syria, Russia, Belarus, and the following regions of Ukraine: Crimea/Sevastopol and the separatist areas of Donetsk and Luhansk. This list is subject to change.
 
-[常见问题解答](#frequently-asked-questions)
+[Frequently asked questions](#frequently-asked-questions)
 ----------
 
-### [美国政府对哪些国家和地区实行制裁？](#on-which-countries-and-territories-are-us-government-sanctions-applied) ###
+### [On which countries and territories are U.S. government sanctions applied?](#on-which-countries-and-territories-are-us-government-sanctions-applied) ###
 
-克里米亚、顿涅茨克和卢甘斯克的分离主义地区、古巴、伊朗、朝鲜和叙利亚。 但是，就伊朗而言，GitHub 现在已获得美国财政部外国资产控制办公室 (OFAC) 的许可，可为位于该国或居住在该国的开发人员提供云服务。 GitHub 云服务（包括付费和免费）也向古巴的开发人员普遍开放。
+Crimea, the separatist areas of Donetsk and Luhansk, Cuba, Iran, North Korea, and Syria. With respect to Iran, however, GitHub now has a license from the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) to provide cloud services to developers located or otherwise resident in that country. GitHub cloud services, both free and paid, are also generally available to developers located in Cuba.
 
-### [GitHub 如何确保不在受制裁国家及地区生活和/或与受制裁国家及地区有专业联系的民间团体仍然能够访问或申诉？](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
+### [How is GitHub ensuring that folks not living in and/or having professional links to the sanctioned countries and territories still have access or ability to appeal?](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
 
-在极少数情况下，会有帐户无意或错误地受到影响，此时我们有申诉流程来处理这种情况。
+In the rare instance that an account is affected unintentionally or in error, we have an appeal process to address such instances.
 
-如果个别用户或组织所有者认为他们被错误标记，则该用户有机会向 GitHub 提供验证信息，对该标记提出申诉。 如果 GitHub 收到充分的信息，能够核实用户或组织不属于我们未获得许可的美国制裁地区或美国经济制裁限制的地区，则会撤销该标记。 请参阅[个人帐户申诉申请表](https://airtable.com/shrGBcceazKIoz6pY)和[组织帐户申诉申请表](https://airtable.com/shrB2je5RBkqLEt5D)。
+If an individual user or organization owner believes that they have been flagged in error, then that user has the opportunity to appeal the flag by providing verification information to GitHub. If GitHub receives sufficient information to verify that the user or organization is not affiliated with a U.S.-sanctioned jurisdiction for which we do not have a license or otherwise restricted by U.S. economic sanctions, then the flag will be removed. Please see [individual account appeals request form](https://airtable.com/shrGBcceazKIoz6pY) and [organizational account appeals request form](https://airtable.com/shrB2je5RBkqLEt5D).
 
-### [到这些地区旅行是否会受到影响？](#will-traveling-in-these-regions-be-impacted) ###
+### [Will traveling in these regions be impacted?](#will-traveling-in-these-regions-be-impacted) ###
 
-在这些地区旅行可能会影响您的帐户状态，但只要您在离开受制裁地区之后成功提交[个人帐户申诉请求](https://airtable.com/shrGBcceazKIoz6pY)或[组织帐户申诉请求](https://airtable.com/shrB2je5RBkqLEt5D)，便会恢复帐户的可用性。
+Travel in these regions may impact your account status, but availability may be reinstated once you are outside of the sanctioned region and upon submitting a successful [individual account appeals request](https://airtable.com/shrGBcceazKIoz6pY) or an [organizational account appeals request](https://airtable.com/shrB2je5RBkqLEt5D).
 
-### [什么可用？什么不可用？](#what-is-available-and-not-available) ###
+### [What is available and not available?](#what-is-available-and-not-available) ###
 
-GitHub 现在获得了 OFAC 的许可，可以向位于或居住在美国制裁国家 - 伊朗的开发人员提供云服务。 该许可覆盖了面向个人和组织的一切免费和有偿的公共和私人服务。 GitHub 云服务（包括付费和免费）也向古巴的开发人员普遍开放。
+GitHub now has a license from OFAC to provide cloud services to developers located or otherwise resident in the U.S.-sanctioned country of Iran. The license includes all public and private services for individuals and organizations, both free and paid. GitHub cloud services, both free and paid, are also generally available to developers located in Cuba.
 
-GitHub 致力于继续为在叙利亚、克里米亚以及顿涅茨克和卢甘斯克分离主义地区拥有个人和组织帐户的开发人员提供免费的公共存储库服务。 这包括有限制地访问免费服务，例如用于开源项目（和相关公共页面）的公共存储库、公共 Gist 以及分配的免费操作分钟数，但只能用于个人通信，而不得用于商业目的。
+GitHub is committed to continuing to offer free public repository services to developers with individual and organizational accounts in Syria, Crimea, and the separatist areas of Donetsk and Luhansk. This includes limited access to free services, such as public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes, for personal communications only, and not for commercial purposes.
 
-对于这些位于受制裁地区的付费组织帐户，用户对其公共存储库的访问有限，这些存储库已降级为存档的只读存储库。 但是，对于这些位于受制裁地区的免费组织帐户，用户仍然可以完全访问用于开源项目（和相关公共页面）的免费公共存储库、公共 Gist 和分配的免费操作分钟数。
+For paid organizational accounts in these sanctioned regions, users may have limited access to their public repositories, which have been downgraded to archived read-only repositories. For free organizational accounts in these sanctioned regions, however, users will continue to have full access to free public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes.
 
-GitHub 将继续向美国监管机构倡导为叙利亚和克里米亚等受制裁地区的开发人员提供尽可能多的代码协作服务，包括私人存储库。 我们相信，提供这些服务可以促进人类进步和国际交流，并支持美国促进言论自由和信息自由流通的一贯外交政策。
+GitHub will continue advocating with U.S. regulators for the greatest possible access to code collaboration services to developers in sanctioned regions, such as Syria and Crimea, including private repositories. We believe that offering those services advances human progress, international communication, and the enduring U.S. foreign policy of promoting free speech and the free flow of information.
 
-特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub，无论他们位于何处。 用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。
+Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials may be restricted from accessing or using GitHub, wherever located. Users may not use GitHub.com for or on behalf of such parties, generally including the Governments of sanctioned countries.
 
-位于朝鲜或以其他方式居住在朝鲜的开发人员无法使用 GitHub 服务。
+GitHub services are not available to developers located or otherwise resident in North Korea.
 
-### [如何定义这些特定用户？](#how-do-you-define-these-specific-users) ###
+### [How do you define these specific users?](#how-do-you-define-these-specific-users) ###
 
-如果 GitHub 确定用户或客户位于受美国贸易管制限制约束的区域，或用户受到美国经济制裁的限制，则关联帐户需遵守这些法律要求。 为执行这些法律限制而确定用户和客户的位置时，从多个来源进行考虑，包括 IP 地址和付款记录。 国籍和族裔不用于标记适用于制裁限制的用户。
+If GitHub determines that a user or customer is located in a region that is subject to U.S. trade control restrictions for which GitHub does not yet have a license from the U.S. government, or a user is otherwise restricted under U.S. economic sanctions, then the affiliated account will be restricted to comply with those legal requirements. The determination of user and customer location to implement these legal restrictions are derived from a number of sources, including IP addresses and payment history. Nationality and ethnicity are not used to flag users for sanctions restrictions.
 
-### [组织帐户受到何种影响？](#how-are-organization-accounts-impacted) ###
+### [How are organization accounts impacted?](#how-are-organization-accounts-impacted) ###
 
-如果组织位于 GitHub 尚未获得美国政府许可的被制裁地区或国家，或者组织的主要个人或成员显示与被制裁的地区或国家有充分的联系，或者该组织似乎受到美国经济制裁的限制，则该组织帐户和关联的所有者帐户将受到限制。
+If an organization is based out of, or the key individuals or membership of an organization shows sufficient ties to, a sanctioned territory or country for which GitHub does not yet have a license from the U.S. government, or if the organization otherwise appears to be subject to U.S. economic sanctions, then the organization account and the affiliated owner account will be restricted.
 
-该限制将暂停对私有存储库服务和付费服务的访问，例如免费或付费私有存储库、秘密 Gist、付费操作分钟数、赞助商和 GitHub Marketplace 服务的可用性。 对于与此类受制裁地区相关的付费组织帐户，用户对其公共存储库的访问有限，这些存储库已降级为存档的只读存储库。 对于与此类受制裁地区相关的免费组织帐户，用户仍然可以完全访问用于开源项目（和相关公共页面）的免费公共存储库、公共 Gist 和分配的免费操作分钟数。
+The restriction suspends access to private repository services and paid services, such as availability of free or paid private repositories, secret gists, paid Action minutes, Sponsors, and GitHub Marketplace services. For paid organizational accounts associated with such sanctioned regions, users may have limited access to their public repositories, which have been downgraded to archived read-only repositories. For free organizational accounts associated with such sanctioned regions, users will continue to have full access to free public repositories for open source projects (and associated public Pages), public gists, and allotted free Action minutes.
 
-### [是否可将受交易限制的用户私有存储库设为公共？](#can-trade-restricted-users-private-repositories-be-made-public) ###
+### [Can trade-restricted users’ private repositories be made public?](#can-trade-restricted-users-private-repositories-be-made-public) ###
 
-免费的个人帐户用户可以将受限制的私有存储库设为公共，但仅供个人通信使用，而不能用于商业目的。 用户可以通过导航到存储库设置选项卡并单击“make public”（设为公共）按钮来完成此操作。 存储库在设为公共后，用户便可访问公共存储库服务。 此操作无法撤消。
+Free individual account users can make restricted private repositories public, for personal communications only, and not for commercial purposes. Users can do this by navigating to the repository settings tab and clicking the "make public" button. Once the repository is public, users have access to public repositories services. This action cannot be undone.
 
-### [受贸易限制的用户能否访问私有存储库数据（例如下载或删除存储库数据）？](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
+### [Can trade-restricted users access private repository data (e.g. downloading or deletion of repository data)?](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
 
-很遗憾，我们对法律的理解并不能让我们选择允许下载或删除私有存储库内容，除非得到美国政府的批准。 我们将向美国监管机构大力倡议让受贸易限制的用户有权保护其私有存储库的内容。 我们还将提倡向受制裁市场的开发人员提供更多的 GitHub 服务，并进一步强调代码协作在支持全球开发人员个人通信方面的重要性。
+Unfortunately, our understanding of the law does not give us the option to allow downloads or deletion of private repository content, until otherwise authorized by the U.S. government. We will strongly advocate, with U.S. regulators, for the right of trade-restricted users to secure the contents of their private repositories. We will also advocate for more availability of GitHub services for developers in sanctioned markets, and further underscore the importance of code collaboration in supporting personal communications for developers globally.
 
-### [根据 GitHub 从 OFAC 获得的许可，将在伊朗提供哪些类型的帐户？](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
+### [Under the license GitHub has received from OFAC, which types of accounts will be available in Iran?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
 
-我们获得的许可包括为个人和组织提供一切免费和有偿的公共和私人服务。
+The license we have secured includes all public and private services, for individuals and organizations, both free and paid.
 
-例如，伊朗的开发人员可以注册一个免费或专业计划供个人使用，伊朗的大学可设立一个组织帐户以支持学生协作。
+For example, a developer in Iran may sign up for a Free or Pro plan for their individual use, and an Iranian university may set up an organization account to collaborate with students.
 
-特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub。
+Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials may be restricted from accessing or using GitHub.
 
-如果 GitHub 确定个人或组织属于受限制类别（SDN、其他被阻止的当事方或某些政府官员），则他们的帐户将被标记，并且他们将无法使用任何 GitHub 功能。 如果他们认为自己被错误标记，他们有机会使用我们的[个人帐户申诉请求表或组织帐户申诉请求表](https://airtable.com/shrGBcceazKIoz6pY)向 GitHub 提供验证信息，对此类标记提出申诉。 如果 GitHub 收到足够的信息，核实此人不属于受美国经济制裁限制的类别，则会撤销该标记。
+If GitHub determines that an individual or organization falls into a restricted category (SDNs, other blocked parties, or certain government officials), their account will be flagged and they will not be able to use any GitHub features. If they believe that they have been flagged in error, then they have the opportunity to appeal the flag by providing verification information to GitHub using our [individual account appeals request form or organization account appeals request form](https://airtable.com/shrGBcceazKIoz6pY). If GitHub receives sufficient information to verify that the individual is not in a category restricted by U.S. economic sanctions, then the flag will be removed.
 
-### [伊朗 GitHub 用户能否在许可下使用付费服务？](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
+### [Will Iranian GitHub users be able to use paid services under the license?](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
 
-根据我们从 OFAC 获得的许可，我们正在为伊朗用户恢复所有云服务，包括付费服务。 我们接受所有主要的信用卡，但是第三方为我们处理付款，因此付款受付款处理方的条款和条件的约束。 这些第三方可能规定阻止伊朗付款的限制。
+Pursuant to the license we have received from OFAC, we are restoring all cloud services to Iranian users, including paid services. We accept all major credit cards, but third parties process payments for us, so payments are subject to the terms and conditions of our payment processors. Those third parties may include restrictions that block payments from Iran.
 
-### [您能向古巴开发人员说明 GitHub 的可用性吗？](#can-you-clarify-availability-of-github-to-cuban-developers) ###
+### [Can you clarify availability of GitHub to Cuban developers?](#can-you-clarify-availability-of-github-to-cuban-developers) ###
 
-GitHub 云服务（包括付费和免费）向位于古巴的开发人员普遍开放。
-特别指定国民 (SDN)、根据美国和其他适用法律被拒绝或封锁的其他方以及某些政府官员可能会被限制访问或使用 GitHub，无论他们位于何处。 此外，用户不得为通常包括受制裁国政府在内的这类当事方或代表他们使用 GitHub.com。
+GitHub cloud services, both free and paid, are generally available to developers located in Cuba.
+Specially Designated Nationals (SDNs), other denied or blocked parties under U.S. and other applicable law, and certain government officials may be restricted from accessing or using GitHub, wherever located. Additionally, users may not use GitHub.com for or on behalf of such parties, generally including the Governments of sanctioned countries.
 
 {"resolvedServerColorMode":"day"}

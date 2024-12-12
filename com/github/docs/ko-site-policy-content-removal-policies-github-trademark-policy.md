@@ -1,85 +1,85 @@
-GitHub 상표 정책 - GitHub Docs
+GitHub Trademark Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/
-* [GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)
+* [Site policy](/ko/site-policy)/
+* [Content Removal Policies](/ko/site-policy/content-removal-policies)/
+* [GitHub Trademark Policy](/ko/site-policy/content-removal-policies/github-trademark-policy)
 
-GitHub 상표 정책
+GitHub Trademark Policy
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)
-* [GitHub 상표 정책 위반이 아닌 것은 무엇입니까?](#what-is-not-a-github-trademark-policy-violation)
-* [GitHub는 상표 정책 위반 신고에 어떻게 대응합니까?](#how-does-github-respond-to-reported-trademark-policy-violations)
-* [상표 정책 위반을 신고하려면 어떻게 해야 합니까?](#how-do-i-report-a-trademark-policy-violation)
-* [상표 정책 위반을 신고할 때 어떤 정보가 필요합니까?](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
+* [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
+* [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
+* [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)
+[What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
 ----------
 
-회사 또는 사업체 이름, 로고 또는 기타 상표가 보호되는 자료를 브랜드 또는 사업 제휴와 관련하여 다른 사람을 오도하거나 혼동시킬 수 있는 방식으로 사용하는 것은 상표 정책 위반으로 간주될 수 있습니다.
+Using a company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others with regard to its brand or business affiliation may be considered a trademark policy violation.
 
-[GitHub 상표 정책 위반이 아닌 것은 무엇입니까?](#what-is-not-a-github-trademark-policy-violation)
+[What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
-다른 자의 상표를 상표가 부여된 제품 또는 서비스와 무관한 방식으로 사용하는 것은 상표 정책 위반이 아닙니다. GitHub 사용자 이름은 선착순으로 사용할 수 있으며, 예약할 수 없습니다. 등록된 상표와 동일한 사용자 이름을 가진 GitHub 계정은 그 자체로는 반드시 GitHub 상표 정책 위반이라 할 수 없습니다.
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. GitHub user names are available on a first come, first served basis and may not be reserved. A GitHub account with a user name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
-[GitHub는 상표 정책 위반 신고에 어떻게 대응합니까?](#how-does-github-respond-to-reported-trademark-policy-violations)
+[How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
-GitHub는 연방 또는 국제 상표 등록 보유자로부터 상표 정책 위반 신고를 접수하면 계정을 검토하고 다음 조치를 취할 수 있습니다.
+When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
 
-* 상표의 무단 사용을 통해 다른 사람을 오도하려는 명백한 의도가 있는 경우, GitHub는 해당 계정을 정지시키고 계정 보유자에게 알립니다.
-* GitHub는 계정이 사용자를 혼동시키는 것으로 보이지만 상표 등록된 제품 또는 서비스로 가장할 의도가 없다고 판단하는 경우, 잠재적 혼동을 제거할 기회를 계정 보유자에게 제공합니다. 상표 보유자의 활성 사용을 위해 사용자 이름을 해제할 수도 있습니다.
+* When there is a clear intent to mislead others through the unauthorized use of a trademark, GitHub will suspend the account and notify the account holder.
+* When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username for the trademark holder's active use.
 
-[상표 정책 위반을 신고하려면 어떻게 해야 합니까?](#how-do-i-report-a-trademark-policy-violation)
+[How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-등록 상표 보유자는 [상표 정책 위반 신고 제출](https://support.github.com/contact/trademark-policy)을 통해 상표 정책 위반을 GitHub에 신고할 수 있습니다. 상표 관련 요청을 제출할 때는 회사 이메일을 사용하고, 빠르게 답변할 수 있도록 아래에 요청된 정보를 모두 포함해 주십시오. 또한 해당 계정이 왜 귀하의 상표와의 혼동을 유발할 수 있는지 또는 해당 계정이 귀하의 상표를 어떻게 약화 또는 손상시키는지 명확히 설명해 주십시오.
+Holders of registered trademarks can report possible trademark policy violations to GitHub via [Submit a Trademark Policy Violation Report](https://support.github.com/contact/trademark-policy). Please use the contact form and submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
-[상표 정책 위반을 신고할 때 어떤 정보가 필요합니까?](#what-information-is-required-when-reporting-trademark-policy-violations)
+[What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
-상표 정책 위반을 조사할 수 있도록 다음 정보를 모두 포함해 주십시오.
+In order to investigate trademark policy violations, please provide all of the following information:
 
-* 신고된 계정의 사용자 이름
+* Username of the reported account
 
-* 귀사의 회사명
+* Your company name
 
-* 귀사의 GitHub 계정(있는 경우)
+* Your company GitHub account (if there is one)
 
-* 회사 웹 사이트
+* Company website
 
-* 상표 등록된 단어, 상징 등
+* Your trademarked word, symbol, etc.
 
-* 상표 등록 번호
+* Trademark registration number
 
-* 상표 등록 기관(예: USPTO)
+* Trademark registration office (e.g., USPTO)
 
-* 혼동에 대한 설명(예: 구체적인 콘텐츠 또는 행위의 설명을 포함하여 귀사로 가장)
+* Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 
-* 요청하는 조치(예: 위반 계정의 제거 또는 상표 등록된 사용자 이름을 기존 회사 계정으로 이전)
+* Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
 
-* 다음 진술이 포함되어야 합니다. "저는 위에 설명한 상표의 사용이 상표 소유자 또는 그 대리인 또는 법률의 허가를 받지 않았다고 선의로 믿습니다. 저는 기명적 사용 및 기타 공정 사용을 고려했습니다."
+* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
 
-* 다음 진술도 포함되어야 합니다. "저는 이 통지의 정보가 정확하며, 제가 침해를 주장하는 독점적 권리의 상표 소유자이거나 소유자를 대신하여 행위할 권한을 부여받았음을 맹세하며 위증 시 처벌을 받겠습니다."
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
 
-* 물리적 또는 전자 서명을 포함하기.
+* Include your physical or electronic signature.
 
-* 참고: 연방 또는 국제 상표 등록 번호가 필요합니다. 신고하는 이름이 등록 상표가 **아닌** 경우(예: 정부 기관 또는 비영리 단체), 다음을 알려 주세요.
+* Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
 
-  * 귀하의 성명
-  * 직책
-  * 주소
-  * 전화 번호
-  * 이메일(회사 도메인의 이메일이어야 합니다)
+  * Your first and last name
+  * Title
+  * Address
+  * Phone
+  * Email (must be from company domain)
 
 {"resolvedServerColorMode":"day"}

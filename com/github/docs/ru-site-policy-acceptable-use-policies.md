@@ -1,48 +1,48 @@
-Политика допустимого использования - Документация по GitHub
+Acceptable Use Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+* [Site policy](/ru/site-policy)/
+* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)
 
-Политика допустимого использования
+Acceptable Use Policies
 ==========
 
-[Политики допустимого использования GitHub](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+[GitHub Acceptable Use Policies](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 ----------
 
-[Активное вредоносное ПО или эксплойты GitHub](/ru/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+[GitHub Active Malware or Exploits](/ru/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 ----------
 
-[Издевательства и домогательства на GitHub](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+[GitHub Bullying and Harassment](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 ----------
 
-[GitHub мешает работе других пользователей](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+[GitHub Disrupting the Experience of Other Users](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 ----------
 
-[GitHub Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+[GitHub Doxxing and Invasion of Privacy](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 ----------
 
-[Разжигание ненависти и дискриминация на GitHub](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+[GitHub Hate Speech and Discrimination](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 ----------
 
-[Имперсонация GitHub](/ru/site-policy/acceptable-use-policies/github-impersonation)
+[GitHub Impersonation](/ru/site-policy/acceptable-use-policies/github-impersonation)
 ----------
 
-[Неправильная информация и дезинформация на GitHub](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+[GitHub Misinformation and Disinformation](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 ----------
 
-[Содержимое сексуального непристойного содержания на GitHub](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+[GitHub Sexually Obscene Content](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 ----------
 
-[Угрозы насилия и неоправданно жестокое содержимое на GitHub](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+[GitHub Threats of Violence and Gratuitously Violent Content](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+[GitHub Appeal and Reinstatement](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
 
 {"resolvedServerColorMode":"day"}

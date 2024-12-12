@@ -1,56 +1,56 @@
-GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [보안 정책](/ko/site-policy/security-policies)/
-* [GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Site policy](/ko/site-policy)/
+* [Security Policies](/ko/site-policy/security-policies)/
+* [GitHub Bug Bounty Program Legal Safe Harbor](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [요약](#summary)
-* [1. 세이프 하버 조건](#1-safe-harbor-terms)
-* [2. 제3자에 의한 세이프 하버](#2-third-party-safe-harbor)
-* [3. 다른 사이트 정책의 제한 포기](#3-limited-waiver-of-other-site-policies)
+* [Summary](#summary)
+* [1. Safe Harbor Terms](#1-safe-harbor-terms)
+* [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+* [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 
-[요약](#summary)
+[Summary](#summary)
 ----------
 
-1. GitHub에서는 귀하가 보안 취약점 보상금 프로그램을 통해 정보 공개를 조정하기를 바라며, 신의에 따라 보안 취약점 보상금 정책을 준수하려고 시도했다는 이유로 조사자가 법적 효과에 대한 두려움을 느끼지 않기를 바랍니다. Microsoft는 제3자에게 구속력이 없으며, 따라서 이 보호를 제3자에게 확대하지는 않습니다. 의심스러운 점이 있는 경우, Microsoft의 정책 범위를 벗어날\_수 있다\_고 생각되는 특정 조치를 시작하기 전에 당사에 문의하십시오.
-2. 조사자는 식별 정보 및 비식별 정보로 인해 위험에 처할 수 있으며, 따라서 Microsoft는 제3자와 공유하는 내용을 제한합니다. Microsoft는 귀하에게 통지하고 제3자가 귀하에 대해 소송을 제기하지 않는다는 약속을 받은 경우에 한해 보고서에 있는 비식별 실질 정보를 영향을 받는 제3자에게 제공할 수 있습니다. Microsoft는 귀하의 서면 허가를 받은 경우에 한해 식별 정보(이름, 이메일 주소, 전화 번호 등)를 제3자와 공유합니다.
-3. 보안 취약점 보상금 프로그램의 일부인 보안 조사가 GitHub의 현장 정책에 포함된 일부 제한 사항을 위반하는 경우, 세이프 하버 조건에서는 제한적인 경우에만 예외를 허용합니다.
+1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think *might* go outside the bounds of our policy.
+2. Because both identifying and non-identifying information can put a researcher at risk, we limit what we share with third parties. We may provide non-identifying substantive information from your report to an affected third party, but only after notifying you and receiving a commitment that the third party will not pursue legal action against you. We will only share identifying information (name, email address, phone number, etc.) with a third party if you give your written permission.
+3. If your security research as part of the bug bounty program violates certain restrictions in our site policies, the safe harbor terms permit a limited exemption.
 
-[1. 세이프 하버 조건](#1-safe-harbor-terms)
+[1. Safe Harbor Terms](#1-safe-harbor-terms)
 ----------
 
-보안 취약점의 조사 및 조정된 공개를 권장하기 위해 GitHub는 민사 소송 또는 형사 소송을 제기하지 않으며 본 정책의 우발적 위반 또는 신의 위반을 근거로 사법 당국에 통지를 보내지 않습니다. GitHub에서는 이 정책에 따라 시행되는 보안 조사 및 취약점 공개 활동을 컴퓨터 사기 및 악용금지법, DMCA 및 그 외 관련 컴퓨터 사용 법규(예: 캘리포니아주 형법 제502조(c)항)에 따라 "공인된" 시행으로 간주합니다. GitHub는 이 보안 취약점 보상금 프로그램의 범위 내에서 응용 프로그램을 보호하는 데 사용했던 기술적 조치를 우회했다는 이유로 제기할 수 있는 DMCA 배상 청구를 포기합니다.
+To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this bug bounty program's scope.
 
-보안 조사에 (Microsoft가 아닌) 제3자의 네트워크, 시스템, 정보, 응용 프로그램, 제품 또는 서비스가 포함되는 경우, Microsoft는 해당 제3자에 대한 구속력이 없으며 제3자가 소송 또는 법 집행 통지를 시도할 수 있다는 점을 이해하십시오. Microsoft는 다른 기관의 이름으로 보안 조사를 시행하고 또한 허가할 수 없으며, 어떤 경우에도 제3자가 귀하의 행위를 근거로 조치를 취하는 것에 대해 귀하를 변호 또는 보호하거나 귀하에게 배상할 수 없습니다.
+Please understand that if your security research involves the networks, systems, information, applications, products, or services of a third party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way offer to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-항상 그렇듯이 적용되는 모든 법을 준수하고, 이 보안 취약점 보상금 프로그램에서 허용하는 범위를 벗어나 데이터를 교란하거나 훼손하지 않아야 합니다.
+You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
 
-이 정책과 일치하지 않거나 이 정책에서 다루지 않을 수 있는 행동을 시작하기 전에 Microsoft에 문의하십시오. Microsoft는 독자적으로 이 정책을 실수로 위반한 것인지 아니면 옳다는 신념으로 위반한 것인지 판단할 수 있는 권리를 보유하며, 어떤 행위를 시작하기 전에 당사에 예방 차원에서 문의하는지 여부가 그러한 결정을 내리는 데 중요한 요소입니다. 의심스러운 점이 있는 경우에는 먼저 문의하십시오!
+Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
-[2. 제3자에 의한 세이프 하버](#2-third-party-safe-harbor)
+[2. Third Party Safe Harbor](#2-third-party-safe-harbor)
 ----------
 
-보안 취약점 보상금을 통해 제3자에게 영향을 주는 보고서를 제출하는 경우, Microsoft는 영향을 받는 제3자와 공유하는 내용을 제한합니다. 그럴 계획이라는 점을 통지하고 귀하에 대해 소송을 제기하거나 귀하의 보고서에 근거한 법 집행과 관련하여 연락을 시작하지 않는다는 제3자의 서면 약속을 받은 경우에 한해, Microsoft는 보고서 중에서 비식별 내용을 영향을 받는 제3자와 공유할 수 있습니다. Microsoft는 먼저 식별 정보(이름, 이메일 주소, 전화 번호 등)를 제3자와 공유하기 위한 귀하의 서면 허가를 받지 않고 영향을 받는 제3자와 귀하의 식별 정보를 공유하지 않습니다.
+If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
 
-Microsoft는 제3자의 이름으로 테스트하는 범위를 벗어나서 허가할 수 없으며, 그런 테스트는 정책의 범위를 벗어납니다. 제3자가 보안 취약점 보상금 정책을 갖추고 있는 경우, 해당 정책을 참조하거나 해당 제3자 또는 제3자의 서비스에 대한 테스트를 시작하기 전에 직접 또는 변호사를 통해 제3자에게 문의하십시오. 이 문서는 제3자가 귀하의 행위를 근거로 조치를 취하는 것에 대해 귀하를 변호 또는 보호하거나 귀하에게 배상하기 위한 Microsoft의 계약이 아니며, 그러한 계약으로 이해되어서도 안 됩니다.
+Please note that we cannot authorize out-of-scope testing in the name of third parties, and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-그렇다고 하더라도, 제3자가 이 보안 취약점 보상금 프로그램에 참여했다는 이유로 법 집행을 포함해 귀하를 상대로 소송을 제기하는 경우 및 귀하가 보안 취약점 보상금 정책을 충분히 준수한 경우(즉 의도적이거나 부정하게 위반하지 않은 경우), Microsoft는 귀하의 행위가 이 정책을 준수하여 시행되었음을 알리는 데 필요한 조치를 취합니다. Microsoft는 제출된 보고서를 기밀 문서 및 기밀로 분류될 수 있는 문서로 생각하며 대부분의 경우에 강제로 공개되지 않도록 보호하지만, 법원에서 Microsoft의 반대에도 불구하고 정보를 제3자와 공개하도록 명령할 수도 있습니다.
+That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy. While we consider submitted reports both confidential and potentially privileged documents, and protected from compelled disclosure in most circumstances, please be aware that a court could, despite our objections, order us to share information with a third party.
 
-[3. 다른 사이트 정책의 제한 포기](#3-limited-waiver-of-other-site-policies)
+[3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 ----------
 
-보안 조사 활동이 Microsoft의 [관련 사이트 정책](/ko/site-policy)에서 특정 제한 사항과 일치하지 않지만 보안 취약점 보상금 프로그램의 조건과 일치하는 범위 내에서, Microsoft는 보안 취약점 보상금 프로그램에 따른 보안 조사를 허용하기 위한 유일하고 제한적인 목적으로 그러한 제한 사항을 포기합니다. 위와 마찬가지로, 의심스러운 점이 있는 경우에는 먼저 문의하십시오!
+To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/ko/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
 
 {"resolvedServerColorMode":"day"}

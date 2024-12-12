@@ -1,24 +1,24 @@
-Содержимое сексуального непристойного содержания на GitHub - Документация по GitHub
+GitHub Sexually Obscene Content - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+[Home](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Содержимое сексуального непристойного содержания](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Site policy](/ru/site-policy)/
+* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
+* [Sexually Obscene Content](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-Содержимое сексуального непристойного содержания на GitHub
+GitHub Sexually Obscene Content
 ==========
 
-Мы не приемлем содержимое, связанное с сексуальной эксплуатацией или насилием в отношении другого лица, в том числе в отношении несовершеннолетних. Мы не разрешаем содержимое сексуальной тематики или непристойное содержимое, которое практически не служит никакой цели, кроме как вызвать эротическую или шокирующую реакцию, особенно если этот контент усиливается за счет его размещения в профилях или других социальных контекстах. Сюда входит следующее:
+We do not tolerate content associated with sexual exploitation or abuse of another individual, including where minors are concerned. We do not allow sexually themed or suggestive content that serves little or no purpose other than to solicit an erotic or shocking response, particularly where that content is amplified by its placement in profiles or other social contexts. This includes:
 
-* Порнографическое содержимое
-* Интимные образы без согласия
-* Графические изображения половых актов, включая фотографии, видео, анимацию, рисунки, компьютерные изображения или текстовое содержимое.
+* Pornographic content
+* Non-consensual intimate imagery
+* Graphic depictions of sexual acts including photographs, video, animation, drawings, computer-generated images, or text-based content
 
-Мы понимаем, что не всякая нагота или материалы, связанные с сексуальностью, являются непристойными. Мы можем разрешить визуальные и/или текстовые изображения в художественном, образовательном, историческом или журналистском контексте или в связи с защитой интересов жертв. В некоторых случаях отказ от ответственности может помочь сообщить контекст проекта. Тем не менее, пожалуйста, поймите, что мы можем ограничить содержимое, предоставив пользователям возможность подписаться перед просмотром.
+We recognize that not all nudity or content related to sexuality is obscene. We may allow visual and/or textual depictions in artistic, educational, historical or journalistic contexts, or as it relates to victim advocacy. In some cases a disclaimer can help communicate the context of the project. However, please understand that we may choose to limit the content by giving users the option to opt in before viewing.
 
 {"resolvedServerColorMode":"day"}

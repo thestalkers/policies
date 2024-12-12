@@ -1,22 +1,22 @@
-Cookies sur GitHub - Documentation GitHub
+GitHub Cookies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Politiques de Confidentialité](/fr/site-policy/privacy-policies)/
-* [Cookies sur GitHub](/fr/site-policy/privacy-policies/github-cookies)
+* [Site policy](/fr/site-policy)/
+* [Privacy Policies](/fr/site-policy/privacy-policies)/
+* [GitHub Cookies](/fr/site-policy/privacy-policies/github-cookies)
 
-Cookies sur GitHub
+GitHub Cookies
 ==========
 
-GitHub utilise des cookies pour fournir et sécuriser nos sites Web, ainsi que pour analyser l'utilisation de nos sites Web, afin de vous offrir une expérience utilisateur exceptionnelle. Veuillez consulter notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) si vous souhaitez obtenir plus d'informations sur les cookies, ainsi que sur la manière et la raison pour laquelle nous les utilisons.
+GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
 
-Vous pouvez consulter la liste actuelle des cookies sur GitHub et vous inscrire pour recevoir les mises à jour de la liste des cookies à la page <https://github.com/privacy/cookies>.
+You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
 
-Si vous avez des questions ou des réclamations concernant un nouveau sous-traitant ultérieur, contactez-nous : [Formulaire de contact relatif à la confidentialité](https://github.com/contact/privacy).
+If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
 
 {"resolvedServerColorMode":"day"}

@@ -1,92 +1,92 @@
-GitHub コミュニティ ガイドライン - GitHub Docs
+GitHub Community Guidelines - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
+* [Site policy](/ja/site-policy)/
+* [GitHub Terms](/ja/site-policy/github-terms)/
+* [GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines)
 
-GitHub コミュニティ ガイドライン
+GitHub Community Guidelines
 ==========
 
-この記事の内容
+In this article
 ----------
 
-* [強力なコミュニティの維持](#maintaining-a-strong-community)
-* [何かまたは何ものかがお客様の感情を害した場合](#what-if-something-or-someone-offends-you)
-* [何ものかが GitHub のポリシーに違反した場合](#what-happens-if-someone-violates-githubs-policies)
-* [異議申し立ておよび復活](#appeal-and-reinstatement)
-* [法定通知](#legal-notices)
+* [Maintaining a strong community](#maintaining-a-strong-community)
+* [What if something or someone offends you?](#what-if-something-or-someone-offends-you)
+* [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [Legal Notices](#legal-notices)
 
-世界中の何百万人もの開発者が、GitHub で何百万ものプロジェクト (オープン ソースとクローズド ソースの両方) をホストしています。 当社は、開発者コミュニティの日々のコラボレーションに貢献できて幸いに思います。これは軽々しく考えてはならない当社の責任です。 同時に、当社には誇りに思うことができるこのコミュニティを実現するための絶好の機会があります。
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
-ユーザーのベースが異なれば、その視点、アイデア、経験は異なります。先週、初めて「Hello World」プロジェクトを作った人から、世界で最も有名なソフトウェア開発者まで、さまざまなユーザーがいます。 当社は、開発者が最高の仕事をするための安全な場所を維持しながら、GitHub が当社のコミュニティで提供する必要があるさまざまな意見や視点に対応する環境になるように取り組んでいます。
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
-GitHub で考えられている[安全、好意的、生産的なコミュニティ](https://opensource.guide/building-community/)の概要を説明することにより、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)および[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に従って当社のプラットフォームで対話および協力を行う最適な方法について理解する助けとなることを願います。
+By outlining what we think a [safe, welcoming, and productive community](https://opensource.guide/building-community/) looks like at GitHub, we hope to help you understand how best to interact and collaborate on our platform in line with our [Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) and [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-当社では、コミュニティのメンバーが、期待を明確に伝え、可能な限りプロジェクトを[モデレート](#what-if-something-or-someone-offends-you)し、当社の[ポリシー](/ja/site-policy/github-terms/github-terms-of-service)に違反するコンテンツがある場合は[報告](https://github.com/contact/report-abuse)することをお勧めします。 GitHub スタッフ当社は不正行為の報告を調査し、当社のサービス条件に違反していると当社が判断したサイト内の公開コンテンツをモデレートすることがあります。
+We encourage our community members to communicate expectations clearly, [moderate](#what-if-something-or-someone-offends-you) their projects where possible, and [report](https://github.com/contact/report-abuse) any content that may violate our [policies](/ja/site-policy/github-terms/github-terms-of-service). GitHub Staff will investigate any reports of abuse, and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
-[強力なコミュニティの維持](#maintaining-a-strong-community)
+[Maintaining a strong community](#maintaining-a-strong-community)
 ----------
 
-GitHub コミュニティの主な目的は、ソフトウェア プロジェクトでコラボレーションすることです。 私たちは、ユーザーが自由に自己表現し、技術的な内容であるかにかかわらず、お互いのアイデアについて意見を交換できるコミュニティを維持できるように取り組んでいます。 同時に、ユーザーが敬意を払い、他のユーザーがオープンに投稿できる場を許容することが重要です。 安全で生産性の高い環境を作るために、当社では、コミュニティ メンバーにプラットフォーム上で対話を行う方法を示すこれらのガイドラインに目を向けるよう推奨しています。 GitHub コミュニティの重要なメンバーとして適切に対話を行う方法について、いくつかの提案を以下に示します。
+The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-* **広い心で受け入れる** - 毎日、新しいユーザーが当社のコミュニティに参加します。 経験豊富な開発者もいれば、初心者もいます。 他のアイデアや経験レベルを受け入れてください。 自分以外の意見にも耳を傾け、新しいコラボレーターや初心者を受け入れてください。
+* **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-* **敬意を払う** - 協力的な環境で作業することは、意見の相違が生じる可能性があることを意味します。 ただし、批判すべきはアイデアであって、人ではありません。 思慮深く建設的な批判を共有し、礼儀正しく接してください。 敬意を持って接することができない場合は、一歩下がるか、いくつかのモデレーション ツールを使用して緊張状態を緩和することを検討してください。
+* **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-* **共感的になる** - GitHub は、その多くが自分とは異なる可能性があるさまざまな背景や視点を持つ人々とのグローバル コミュニティです。 他の人の立場になって考えてみて、彼らの気持ちを理解してから対応してください。 GitHub を他の人が安心して投稿し、ディスカッションに参加し、さまざまなアイデアを共有できるコミュニティにするために最善を尽くしてください。
+* **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
-[何かまたは何ものかがお客様の感情を害した場合](#what-if-something-or-someone-offends-you)
+[What if something or someone offends you?](#what-if-something-or-someone-offends-you)
 ----------
 
-意見の相違には、コミュニティ メンバーの間の直接的で敬意を払ったコミュニケーションによって解決できるものもありますが、必ずしもそうはならないことを当社は理解しています。 当社はコミュニティに、コンテンツまたは活動がポリシーに違反していると思われる場合は、[GitHub Support ポータル](https://support.github.com/)を通じて GitHub Support に報告することを奨励しています。 ただし、サイト上上の何かまたは何ものかがお客様の感情を害した場合、GitHub でアクションを起こす方法がいくつかあります。
+While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to contact GitHub Support through the [GitHub Support portal](https://support.github.com/) when they believe content or activity they’ve encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitHub enables you to take action:
 
-* **期待を伝える** - 管理者は、リポジトリの README、[CONTRIBUTING ファイル](/ja/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)、または[専用の行動規範](/ja/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)など、ユーザーが自分のプロジェクトと対話する方法をユーザーが理解できるように、コミュニティ専用のガイドラインを設定できます。 コミュニティの構築に関する詳細については、[コミュニティ](/ja/communities)に関するページを参照してください。
+* **Communicate expectations** - Maintainers can set community-specific guidelines to help users understand how to interact with their projects, for example, in a repository’s README, [CONTRIBUTING file](/ja/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), or [dedicated code of conduct](/ja/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). You can find additional information on building communities on the [Communities](/ja/communities) page.
 
-* **コメントをモデレートする** - リポジトリの[書き込みアクセス権](/ja/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)を持つユーザーは、コミット、プル リクエスト、およびイシューに関する[ユーザーのコメントを編集、削除、または非表示にする](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments)ことができます。 リポジトリへの読み取りアクセス権を持つユーザーは、コメントの編集履歴を表示できます。 コメント作成者とリポジトリへの書き込みアクセス権を持つユーザーは、[コメントの編集履歴](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)から機密情報を削除することもできます。 多くのアクティビティがある場合、プロジェクトのモデレートは大きな作業のように感じるかもしれませんが、[コラボレーター](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)を追加してコミュニティの管理を支援することができます。
+* **Moderate Comments** - Users with [write-access privileges](/ja/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization) for a repository can [edit, delete, or hide anyone's comments](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments) on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can also delete sensitive information from a [comment's edit history](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). Moderating your projects can feel like a big task if there is a lot of activity, but you can [add collaborators](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) to assist you in managing your community.
 
-* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳しくは、「[会話をロックする](/ja/communities/moderating-comments-and-conversations/locking-conversations)」を参照してください。
+* **Lock Conversations** - If a discussion in an issue, pull request, or commit gets out of hand, off topic, or violates your project’s code of conduct or GitHub’s policies, owners, collaborators, and anyone else with write access can put a temporary or permanent lock on the conversation. For more information, see "[Locking conversations](/ja/communities/moderating-comments-and-conversations/locking-conversations)."
 
-* **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)できます。
+* **Block Users** - If you encounter a specific user who you would rather not engage with, you can [block the user from your personal account](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) or [from your organization](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization).
 
-* **やり取りを制限する** - パブリック プロジェクトが不要な注目を集めたり、トロールされたり、スパムされたりした場合、[やり取りの一時的な制限](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)を設定して、特定のユーザーがリポジトリとやり取りできないようにすることができます。 [コード レビューの制限](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)を設定して、プロジェクトへの質の高い貢献を保証することもできます。
+* **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting [temporary interaction limits](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) to keep certain users from interacting with your repository. You can even set [code review limits](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) to ensure quality contributions on your projects.
 
-当社では、管理者が自分のプロジェクトをモデレートできるようにすることに積極的に取り組んでいますが、状況に対処するために追加のサポートが必要な場合は、[GitHub サポート ポータル](https://support.github.com) にご連絡ください。
+While we are passionate about empowering maintainers to moderate their own projects, please contact us through the [GitHub Support portal](https://support.github.com) if you need additional support in dealing with a situation.
 
-[何ものかが GitHub のポリシーに違反した場合](#what-happens-if-someone-violates-githubs-policies)
+[What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
-当社では、GitHub がソフトウェア開発者にとって安全で歓迎的で生産的なプラットフォームであることを保証するために、コミュニティからの報告と積極的な検出を頼りにしています。 GitHub のポリシーにそぐわない行動やコンテンツに気づいた場合、考慮を必要とするさまざまな要因があります。 ただし、ポリシー強制とコンテンツのモデレーションのアプローチでは、すべての開発者のホームになるというビジョンが優先されます。 これは、以下を意味します。
+We rely on reports from the community, as well as proactive detection, to help ensure that GitHub is a safe, welcoming, and productive platform for software developers. There are a variety of factors we consider when we’re made aware of behavior or content not in line with GitHub’s policies. However, our policy enforcement and content moderation approach prioritizes our vision to be the home for all developers. This means:
 
-* コードのコラボレーションを最適化します。 コードには複数の用途があることを認識し、プラットフォーム上でのコードの使用方法と他の可能な用途を区別します。 また、強制措置がプラットフォーム全体にわたって複雑に相互依存する可能性のある Web にどのように影響するかについても考え、正当なコンテンツについては制限を可能な限り少なくすることを目指しています。
+* We optimize for code collaboration. We recognize that code can have multiple uses and we distinguish between how the code is being used on the platform and other possible uses. We also think about how our enforcement actions can affect a potentially complicated web of interdependencies across the platform and aim to restrict as little legitimate content as possible.
 
-* 当社では、コンテンツのモデレーションに人間中心のアプローチを取り、特定の状況のニーズに合わせて対応を調整します。 当社のグローバル チームは、行動を起こす前に、状況と周囲の事実を考慮して、受け取った報告をケースバイケースで調査します。 これには、コンテキストを欠いている、または GitHub の使用中に他のユーザーが無意識のうちに表示または操作することを容易にする方法で投稿された潜在的に不快なコンテンツを考慮することが含まれます。 そのような場合、コミュニティを保護するためにモデレーションを行う可能性があります。
+* We take a human-centered approach to content moderation and we tailor our responses to meet the needs of a specific situation. Our global team investigates the reports we receive on a case-by-case basis—considering context and the surrounding facts—before taking action. This could include taking into account potentially offensive content being posted in a way that lacks context or makes it easy for other users to unwittingly view or interact with while using GitHub. In those instances, we may favor moderation in order to safeguard our community.
 
-* 当社の決定は、相互接続されたコミュニティに奉仕し、開発者のコラボレーションを通じて人間の進歩に力を与えるには、多様性、包摂性、帰属意識へのコミットメントが必要であるという当社の中核的な信念に根ざしています。
+* Our decisions are rooted in our core belief that serving an interconnected community and empowering human progress through developer collaboration requires a commitment to diversity, inclusion, and belonging.
 
-モデレーション行動が正当化されると判断した場合、以下のような対応方法があります。
+Where we have decided that moderation action is warranted, these are some of the ways we may respond:
 
-* 問題のあるコンテンツを削除する
-* 問題のあるコンテンツをブロックまたは無効化する
-* 問題のあるコンテンツの表示設定をダウングレードする
-* ユーザー アカウントまたは組織をパブリック ビューから非表示にする
-* ユーザー アカウントまたは組織を停止する
+* Removing the offending content
+* Blocking or disabling the offending content
+* Downgrading the visibility of the offending content
+* Hiding a user account or organization from public view
+* Suspending a user account or organization
 
-[異議申し立ておよび復活](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-コンテンツまたはアカウントが無効化または制限されており、お客様が復活を求めている場合、または異議申し立てを希望する場合は、[異議申し立ておよび復活ページ](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を参照してプロセスに関する情報を確認し、[異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)を使用して要求を送信してください。
+If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
 
-[法定通知](#legal-notices)
+[Legal Notices](#legal-notices)
 ----------
 
-本コミュニティ ガイドラインは、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) の条件に基づいて、誰でも使用、再利用、改作、その他あらゆることが可能になるようにパブリック ドメインになっています。
+We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-これらはあくまでもガイドラインであり、[サービス条件](/ja/site-policy/github-terms/github-terms-of-service)を変更するものや、完全なリストであることを意図したものではありません。 これらの条件に基づき、GitHub は、当社の[利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に違反するアクティビティのコンテンツを削除したり、アカウントを終了させる完全な裁量権を保持します。 本ガイドラインは、かかる裁量を行使する場合について説明しています。
+These are only guidelines; they do not modify our [Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) and are not intended to be a complete list. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies). These guidelines describe when we will exercise that discretion.
 
 {"resolvedServerColorMode":"day"}

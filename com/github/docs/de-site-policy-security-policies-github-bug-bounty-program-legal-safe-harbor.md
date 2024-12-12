@@ -1,56 +1,56 @@
-GitHub Bug Bounty-Programm Legal Safe Harbor - GitHub-Dokumentation
+GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Sicherheitsrichtlinien](/de/site-policy/security-policies)/
-* [GitHub Bug Bounty-Programm Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Site policy](/de/site-policy)/
+* [Security Policies](/de/site-policy/security-policies)/
+* [GitHub Bug Bounty Program Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug Bounty-Programm Legal Safe Harbor
+GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-In diesem Artikel
+In this article
 ----------
 
-* [Zusammenfassung](#summary)
-* [1. Safe-Harbor-Bedingungen](#1-safe-harbor-terms)
-* [2. Safe-Harbor-Verfahren in Bezug auf Dritte](#2-third-party-safe-harbor)
-* [3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-policies)
+* [Summary](#summary)
+* [1. Safe Harbor Terms](#1-safe-harbor-terms)
+* [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+* [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 
-[Zusammenfassung](#summary)
+[Summary](#summary)
 ----------
 
-1. Wir möchten, dass Sie im Rahmen unseres Bug-Bounty-Programms Themen Sicherheitslücken auf koordinierte Weise offenlegen, und wollen vermeiden, dass Forscher wegen ihrer Versuche, unsere Bug-Bounty-Richtlinie einzuhalten, rechtliche Konsequenzen fürchten müssen. Wir können Dritte nicht binden. Gehen Sie daher nicht davon aus, dass sich dieser Schutz auf Dritte erstreckt. Fragen Sie uns im Zweifelsfall, bevor Sie eine bestimmte Aktion durchführen, von der Sie denken, dass sie außerhalb der Grenzen unserer Richtlinien liegen *könnte*.
-2. Da sowohl personenbezogene als auch nicht personenbezogene Daten einen Forscher gefährden können, geben wir Inhalte an Dritte nur in beschränktem Umfang weiter. Gegebenenfalls geben wir nicht personenbezogene wesentliche Informationen aus Ihrem Bericht an betroffene Dritte weiter, jedoch nur, nachdem wir Sie darüber informiert und uns verpflichtet haben, dass diese Dritten keine rechtlichen Schritte gegen Sie einleiten werden. Wir geben personenbezogene Daten (Name, E-Mail-Adresse, Telefonnummer usw.) nur mit Ihrer schriftlichen Zustimmung an Dritte weiter.
-3. Wenn Ihre Sicherheitsforschung im Rahmen des Bug-Bounty-Programms gegen bestimmte Einschränkungen unserer Standortregeln verstößt, erlauben die Safe-Harbor-Bedingungen eine begrenzte Ausnahme.
+1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think *might* go outside the bounds of our policy.
+2. Because both identifying and non-identifying information can put a researcher at risk, we limit what we share with third parties. We may provide non-identifying substantive information from your report to an affected third party, but only after notifying you and receiving a commitment that the third party will not pursue legal action against you. We will only share identifying information (name, email address, phone number, etc.) with a third party if you give your written permission.
+3. If your security research as part of the bug bounty program violates certain restrictions in our site policies, the safe harbor terms permit a limited exemption.
 
-[1. Safe-Harbor-Bedingungen](#1-safe-harbor-terms)
+[1. Safe Harbor Terms](#1-safe-harbor-terms)
 ----------
 
-Um die Erforschung und koordinierte Offenlegung von Sicherheitslücken zu fördern, werden wir wegen unbeabsichtigter oder gutgläubiger Verstöße gegen diese Richtlinie keine zivil- oder strafrechtlichen Schritte unternehmen und keine Strafverfolgung einleiten. Wir betrachten Aktivitäten im Bereich der Sicherheitsforschung und Aufdeckung von Schwachstellen, die im Einklang mit dieser Richtlinie durchgeführt werden, als „autorisiertes” Verhalten gemäß dem Computer Fraud and Abuse Act, dem Digital Millennium Copyright Act (DMCA) und anderen anwendbaren Gesetzen für die Nutzung von Computern wie dem Cal. Penal Code 502(c). Wir verzichten auf jeden potenziellen Anspruch im Sinne des Digital Millennium Copyright Act gegen Sie, der darauf begründet sein könnte, dass Sie die technologischen Maßnahmen, die wir zum Schutz der Anwendungen im Rahmen dieses Bug-Bounty-Programms eingesetzt haben, umgehen.
+To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this bug bounty program's scope.
 
-Wenn Ihre Sicherheitsforschung die Netzwerke, Systeme, Informationen, Anwendungen, Produkte oder Dienstleistungen eines Dritten betrifft, seien Sie sich darüber bewusst, dass wir solche Dritten nicht an unsere Bestimmungen binden können, und solche Dritten gegebenenfalls rechtliche Schritte einleiten oder Hinweise an die Strafverfolgungsbehörden geben können. Wir können und werden keine Sicherheitsforschung im Namen anderer juristischer Personen genehmigen und können Sie in keiner Weise verteidigen, freistellen oder anderweitig vor Handlungen Dritter schützen, die durch Ihre Handlungen verursacht wurden.
+Please understand that if your security research involves the networks, systems, information, applications, products, or services of a third party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way offer to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-Von Ihnen wird wie immer erwartet, dass Sie alle für Sie geltenden Gesetze einhalten und keine Daten stören oder gefährden, die über das hinausgehen, was dieses Bug-Bounty-Programm erlaubt.
+You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
 
-Bitte wenden Sie sich zunächst an uns, bevor Sie eine Aktivität durchführen, die mit dieser Richtlinie unvereinbar ist oder darin nicht thematisiert wird. Wir behalten uns das alleinige Recht vor, zu entscheiden, ob ein Verstoß gegen diese Richtlinie versehentlich oder in gutem Glauben begangen wurde, und eine proaktive Kontaktaufnahme mit uns, bevor wir Maßnahmen ergreifen, spielt bei dieser Entscheidung eine wesentliche Rolle. Fragen Sie im Zweifelsfall nach!
+Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
-[2. Safe-Harbor-Verfahren in Bezug auf Dritte](#2-third-party-safe-harbor)
+[2. Third Party Safe Harbor](#2-third-party-safe-harbor)
 ----------
 
-Wenn Sie einen Bericht über unser Bug-Bounty-Programm einreichen, der einen Drittanbieter-Dienst betrifft, werden wir die Weitergabe von Informationen an betroffene Drittanbieter einschränken. Wir können nicht personenbezogene Inhalte aus Ihrem Bericht an einen betroffenen Dritten weitergeben, jedoch erst, nachdem wir Sie darüber informiert haben und der Dritte sich schriftlich verpflichtet hat, auf der Grundlage Ihres Berichts keine rechtlichen Schritte gegen Sie einzuleiten oder Kontakt mit den Strafverfolgungsbehörden aufzunehmen. Wir geben Ihre personenbezogenen Daten nicht an betroffene Dritte weiter, ohne vorher Ihre schriftliche Zustimmung einzuholen.
+If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
 
-Bitte beachten Sie, dass wir keine außerplanmäßigen Tests im Namen Dritter zulassen können und diese Tests den Rahmen unserer Richtlinien sprengen. Ziehen Sie die Bug-Bounty-Richtlinie des jeweiligen Drittanbieters zu Rate, wenn er über eine solche verfügt, oder wenden Sie sich direkt oder über einen rechtlichen Vertreter an den Drittanbieter, bevor Sie Tests in Bezug auf diesen Drittanbieter oder seine Dienste durchführen. Dies stellt keine Zustimmung unsererseits dar, Sie hinsichtlich Klagen Dritter, die auf Ihren Handlungen beruhen, zu verteidigen, freizustellen oder in sonstiger Weise zu schützen, und darf nicht als eine solche Zustimmung verstanden werden.
+Please note that we cannot authorize out-of-scope testing in the name of third parties, and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
-Wenn ein Dritter, einschließlich der Strafverfolgungsbehörden, aufgrund Ihrer Teilnahme an diesem Bug-Bounty-Programm rechtliche Schritte gegen Sie einleitet, Sie unsere Bug-Bounty-Richtlinie jedoch ausreichend befolgt haben (d. h. keine vorsätzlichen oder böswilligen Verstöße begangen haben), so werden wir Schritte unternehmen, um bekanntzumachen, dass Ihre Handlungen in Übereinstimmung mit dieser Richtlinie durchgeführt wurden. Obwohl wir die eingereichten Berichte sowohl als vertrauliche als auch als potenziell rechtlich geschützte Dokumente betrachten, die in den meisten Fällen vor einer erzwungenen Offenlegung geschützt sind, beachten Sie bitte, dass ein Gericht uns trotz unserer Einwände anweisen könnte, Daten an Dritte weiterzugeben.
+That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy. While we consider submitted reports both confidential and potentially privileged documents, and protected from compelled disclosure in most circumstances, please be aware that a court could, despite our objections, order us to share information with a third party.
 
-[3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-policies)
+[3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 ----------
 
-Soweit Ihre Sicherheitsforschungsaktivitäten mit bestimmten Einschränkungen in unseren [jeweiligen Standortrichtlinien](/de/site-policy) unvereinbar sind, aber im Einklang mit den Bestimmungen unseres Bug-Bounty-Programms stehen, verzichten wir auf diese Einschränkungen, um Ihre Sicherheitsforschung im Rahmen dieses Bug-Bounty-Programms zu ermöglichen. Wie oben gilt: Fragen Sie im Zweifelsfall nach!
+To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/de/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
 
 {"resolvedServerColorMode":"day"}

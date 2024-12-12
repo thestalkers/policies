@@ -1,75 +1,75 @@
-GitHub 이의 제기 및 복원 - GitHub Docs
+GitHub Appeal and Reinstatement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [GitHub 이의 제기 및 복원](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Site policy](/ko/site-policy)/
+* [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies)/
+* [GitHub Appeal and Reinstatement](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub 이의 제기 및 복원
+GitHub Appeal and Reinstatement
 ==========
 
-이 문서의 내용
+In this article
 ----------
 
-* [이의 제기 및 복원](#appeal-and-reinstatement)
-* [이의 제기 및 복구란 무엇인가요?](#what-are-appeals-and-reinstatements)
-* [운영 방식](#how-this-works)
-* [투명성](#transparency)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+* [How this works](#how-this-works)
+* [Transparency](#transparency)
 
-[이의 제기 및 복원](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-GitHub 커뮤니티에서 개인 간의 상호 작용은 대부분 당사의 사용 제한 정책 및 커뮤니티 지침에 포함되지만 이러한 정책의 위반 사례가 때때로 발생합니다. 이러한 상황이 발생할 때 GitHub 직원은 위반 사항을 해결하기 위해 사법 조치를 취해야 할 수도 있습니다. 그러나 때로 실수가 있을 수 있다는 것을 알고 있습니다. 경우에 따라서는 GitHub 직원이 취하거나 취하지 않은 조정 조치를 번복할 수 있는 근거가 존재할 수도 있습니다. 정책과 결과가 균등하게 적용되도록 GitHub는 사용자가 복구 요청을 제출하거나 조정 결정에 이의를 제기하기 위한 추가 정보를 제공할 수 있는 내부 불만 처리 프로세스를 제공합니다.
+While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
 
-[이의 제기 및 복구란 무엇인가요?](#what-are-appeals-and-reinstatements)
+[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
 ----------
 
-이의 제기와 복구는 콘텐츠 또는 계정에 대한 액세스를 사용하지 않도록 설정하거나 제한하는 결정과 관련하여 발생할 수 있습니다. 여기에는 다음을 수행할지 여부에 대한 결정이 포함됩니다.
+Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
 
-* 콘텐츠의 표시 유형 제거, 액세스 사용 안 함 또는 제한
-* 계정에 대한 액세스 일시 중단 또는 종료
-* 서비스의 전체 또는 일부에 대한 액세스 일시 중단 또는 종료
-* 콘텐츠 수익 창출 기능 일시 중단, 종료 또는 제한
+* Remove, disable access to, or restrict visibility of content
+* Suspend or terminate access to an account
+* Suspend or terminate access to the service, in whole or in part
+* Suspend, terminate or otherwise restrict the ability to monetize content
 
-'복구'는 본인의 계정이나 콘텐츠에 다시 액세스하기를 원하고, 위반 사항을 해결하기 위해 필요한 모든 변경을 수행할 의향이 있으며, 향후 당사의 이용 약관을 위반하지 않는 데 동의하는 경우입니다.
+A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
 
-'이의 제기'는 사용자가 위반이 발생한 것에 대해 이의를 제기하고, 다른 결정을 내릴 수 있었음을 보여주는 추가 정보를 제공하는 경우입니다.
+An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
 
-[운영 방식](#how-this-works)
+[How this works](#how-this-works)
 ----------
 
-복구를 요구하거나 사법 조치에 대해 이의를 제기하려면 [이의 제기 및 복원 요청서 양식](https://support.github.com/contact/reinstatement)을 빠짐없이 작성하시기 바랍니다. 결정 후 최대 6개월 동안 조정 결정에 이의를 제기할 수 있습니다. GitHub는 재량에 따라 결정 후 6개월이 지나서 제출된 이의 제기에 대한 검토를 거부할 수 있습니다.
+If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
 
-GitHub 직원은 동 요청서 양식에 기재된 정보를 검토하여 복구 또는 이의 승인을 보증하기에 충분한 정보가 있는지 판정합니다.
+GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
 
-### [복구](#reinstatements) ###
+### [Reinstatements](#reinstatements) ###
 
-어떤 사용자가 향후 당사의 사용 제한 정책을 준수하는 데 동의하고 위반 사항을 해결하는 데 필요한 변경을 수행했다면 당사는 최초 위반의 제반 상황 및 경중에 따라 동 사용자의 계정 또는 콘텐츠를 복원하기로 선택할 수 있습니다.
+Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
 
-모든 합법적인 복구 요청은 먼저 GitHub 직원이 검토하고 그에 따른 응답으로 결정을 내리게 됩니다.
+All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
 
-### [이의 제기](#appeals) ###
+### [Appeals](#appeals) ###
 
-사용자가 어떤 결정에 이의를 제기하려는 경우, 해당 양식을 사용하여 그 결정에 이의를 제기할 만한 근거를 설명할 수 있으며 다른 결정을 내렸어야 한다고 판단되는 위반 혐의에 관한 추가 정보를 제공할 수 있습니다.
+Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
 
-제공된 정보가 다른 결론을 도출했어야 함을 입증하는 경우, 당사는 이의 제기를 승인할 수 있습니다. GitHub는 이의 제기에 (i) 조치를 취하거나 조치를 취하지 않기로 한 결정이 잘못되었거나, (ii) 콘텐츠 또는 행위가 불법이 아니며 약관과 양립할 수 없거나, (iii) 콘텐츠 또는 행위가 취해진 조치보다 덜 심각한 조치를 취해야 한다고 판단할 충분한 근거가 있는 경우 결정을 취소하거나 수정할 것입니다.
+If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
 
-이의 제기에 대한 모든 결정은 자동화된 수단이 아닌 인간에 의해 이루어집니다. 이의 제기에 대한 GitHub 직원 검토자가 최초 결정을 내린 자와 동일인이며 그 직원이 볼 때 처음의 결론이 옳았다고 판단하는 경우(또한 이에 근거하여 이의 제기를 거부하려는 경향을 보이는 경우) GitHub 직원 중 다른 구성원이 독립적으로 이의 제기를 검토하게 됩니다.
+All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
 
-모든 합법적 이의 제기에 대해서는 최종 결정으로 대응합니다.
+All legitimate Appeals will be answered with a final decision.
 
-[투명성](#transparency)
+[Transparency](#transparency)
 ----------
 
-당사는 [투명성 보고서](https://transparencycenter.github.com/appeals/)에서 이의 제기 및 복구 이력을 추적합니다.
+We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
 
-### [법적 권리](#legal-rights) ###
+### [Legal Rights](#legal-rights) ###
 
-이의 제기에 대한 최종 결정이 여전히 잘못되어 있다고 생각되는 경우 특정 상황에서 현지 법에 따라 결정에 대한 검토를 요청할 추가 권리가 있을 수 있습니다. 예를 들어 유럽 연합에 있는 경우 [디지털 서비스법](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1)에 따라 법원 밖 분쟁 해결 절차에 액세스할 수 있습니다.
+If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

@@ -1,48 +1,48 @@
-Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
+Acceptable Use Policies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+[Home](/de)
 
 [Site policy](/de/site-policy)
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+* [Site policy](/de/site-policy)/
+* [Acceptable Use Policies](/de/site-policy/acceptable-use-policies)
 
-Richtlinien zur akzeptablen Nutzung
+Acceptable Use Policies
 ==========
 
-[GitHub-Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+[GitHub Acceptable Use Policies](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 ----------
 
-[GitHub Aktive Malware oder Exploits](/de/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
+[GitHub Active Malware or Exploits](/de/site-policy/acceptable-use-policies/github-active-malware-or-exploits)
 ----------
 
-[GitHub Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+[GitHub Bullying and Harassment](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 ----------
 
-[GitHub stört die Erfahrung anderer Benutzer](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+[GitHub Disrupting the Experience of Other Users](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 ----------
 
-[GitHub Doxxing und Verletzung der Privatsphäre](/de/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+[GitHub Doxxing and Invasion of Privacy](/de/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 ----------
 
-[GitHub Hassreden und Diskriminierung](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+[GitHub Hate Speech and Discrimination](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 ----------
 
-[GitHub-Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
+[GitHub Impersonation](/de/site-policy/acceptable-use-policies/github-impersonation)
 ----------
 
-[GitHub Fehlinformationen und Desinformationen](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+[GitHub Misinformation and Disinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 ----------
 
-[GitHub Sexuell obszöner Inhalt](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+[GitHub Sexually Obscene Content](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 ----------
 
-[GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+[GitHub Threats of Violence and Gratuitously Violent Content](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+[GitHub Appeal and Reinstatement](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
 
 {"resolvedServerColorMode":"day"}

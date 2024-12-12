@@ -1,43 +1,43 @@
-Compromiso de cooperación de GitHub GPL - Documentación de GitHub
+GitHub GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)/
-* [Compromiso de cooperación de GitHub GPL](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Site policy](/es/site-policy)/
+* [GitHub Company Policies](/es/site-policy/github-company-policies)/
+* [GitHub GPL Cooperation Commitment](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-Compromiso de cooperación de GitHub GPL
+GitHub GPL Cooperation Commitment
 ==========
 
-Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para ver las definiciones).
+This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 
-Basamos nuestra declaración en la [plantilla](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Consulte el [sitio de compromiso de cooperación con GPL](https://gplcc.github.io/gplcc/) para saber cómo otras empresas, personas y proyectos pueden adoptar este compromiso.
+We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
 
-[Nuestro compromiso](#our-commitment)
+[Our Commitment](#our-commitment)
 ----------
 
-Antes de presentar o continuar procesando cualquier procedimiento legal o reclamo (que no sea una Acción defensiva) que surja de la rescisión de una Licencia cubierta, GitHub se compromete a extender a la persona o entidad ("usted") acusada de violar la Licencia cubierta las siguientes disposiciones con respecto a cura y restablecimiento, tomado de GPL versión 3. Como se usa aquí, el término 'esta Licencia' se refiere a la Licencia cubierta específica que se está aplicando.
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
-Sin embargo, si deja de violar esta Licencia, su licencia de un titular de derechos de autor en particular se restablece (a) provisionalmente, a menos y hasta que el titular de los derechos de autor rescinda su licencia de manera explícita y definitiva, y (b) permanentemente, si el titular de los derechos de autor no cumple. para notificarle de la violación por algún medio razonable antes de 60 días después del cese.
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
 
-Además, su licencia de un titular de derechos de autor en particular se restablece permanentemente si el titular de derechos de autor le notifica la violación por algún medio razonable, esta es la primera vez que recibe un aviso de violación de esta Licencia (para cualquier trabajo) de ese titular de derechos de autor, y subsana la infracción antes de los 30 días posteriores a la recepción de la notificación.
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
 
-GitHub pretende que este Compromiso sea irrevocable, vinculante y ejecutable contra GitHub y los cesionarios o sucesores de los derechos de autor de GitHub.
+GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
 
-GitHub puede modificar este Compromiso mediante la publicación de una nueva edición en esta página o en una ubicación posterior.
+GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
 
-Definiciones
+Definitions
 
-'Licencia amparada' hace referencia a la Licencia pública general de GNU, versión 2 (GPLv2), la Licencia pública general reducida de GNU, versión 2.1 (LGPLv2.1) o la Licencia pública general de biblioteca de GNU, versión 2 (LGPLv2), todas publicadas por la Fundación de Software Libre.
+‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-'Acción defensiva' se refiere a un procedimiento legal o reclamo que GitHub presenta contra usted en respuesta a un procedimiento o reclamo anterior iniciado por usted o su afiliado.
+‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
-'GitHub' significa GitHub, Inc. y sus subsidiarias.
+‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
-Este trabajo está disponible bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International.
+This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
 
 {"resolvedServerColorMode":"day"}

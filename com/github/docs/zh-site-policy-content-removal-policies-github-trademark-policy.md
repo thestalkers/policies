@@ -1,85 +1,85 @@
-GitHub 商标政策 - GitHub 文档
+GitHub Trademark Policy - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [内容删除政策](/zh/site-policy/content-removal-policies)/
-* [GitHub 商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)
+* [Site policy](/zh/site-policy)/
+* [Content Removal Policies](/zh/site-policy/content-removal-policies)/
+* [GitHub Trademark Policy](/zh/site-policy/content-removal-policies/github-trademark-policy)
 
-GitHub 商标政策
+GitHub Trademark Policy
 ==========
 
-本文内容
+In this article
 ----------
 
-* [哪些行为违反 GitHub 商标政策？](#what-is-a-github-trademark-policy-violation)
-* [哪些行为并不违反 GitHub 商标政策？](#what-is-not-a-github-trademark-policy-violation)
-* [GitHub 如何应对被举报为违反商标政策的行为？](#how-does-github-respond-to-reported-trademark-policy-violations)
-* [如何举报违反商标政策的行为？](#how-do-i-report-a-trademark-policy-violation)
-* [举报违反商标政策的行为时需要提供哪些信息？](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
+* [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
+* [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
+* [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[哪些行为违反 GitHub 商标政策？](#what-is-a-github-trademark-policy-violation)
+[What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
 ----------
 
-在使用公司或企业名称、徽标或其他受商标保护的材料时，如果使用方式可能使他人对品牌或业务从属关系产生误解或感到困惑，则此类使用可能被视为违反商标政策。
+Using a company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others with regard to its brand or business affiliation may be considered a trademark policy violation.
 
-[哪些行为并不违反 GitHub 商标政策？](#what-is-not-a-github-trademark-policy-violation)
+[What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
-使用他人的商标时，如果使用方式与被授予商标的产品或服务无关，则此类使用并不违反商标政策。 GitHub 用户名按先到先得的原则提供，不能预留。 如果 GitHub 帐户的用户名恰好与注册商标相同，则该帐户本身并不一定违反我们的商标政策。
+Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. GitHub user names are available on a first come, first served basis and may not be reserved. A GitHub account with a user name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
 
-[GitHub 如何应对被举报为违反商标政策的行为？](#how-does-github-respond-to-reported-trademark-policy-violations)
+[How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
-如果联邦或国际注册商标持有人向我们举报违反商标政策的行为，收到报告后，我们会审查相关帐户，并可能采取以下措施：
+When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
 
-* 如果存在通过未经授权使用商标来误导他人的明显意图，GitHub 将暂停该帐户并通知帐户持有人。
-* 如果我们确定某个帐户似乎让用户感到困惑，但并非有意假冒受商标保护的商品或服务，我们会为帐户持有人提供机会，以消除任何潜在的混淆。 此外，我们可能还会发放用户名，供商标持有人积极使用。
+* When there is a clear intent to mislead others through the unauthorized use of a trademark, GitHub will suspend the account and notify the account holder.
+* When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username for the trademark holder's active use.
 
-[如何举报违反商标政策的行为？](#how-do-i-report-a-trademark-policy-violation)
+[How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-注册商标持有人可通过[提交商标政策违反行为报告](https://support.github.com/contact/trademark-policy)向 GitHub 举报。 请使用联系表单来提交商标相关的请求，在表单中填写贵公司电子邮件地址以及下方要求的所有信息，以便我们能更快地回复您。 此外，请务必向我们清楚地说明，为什么该帐户可能会与您的标志产生混淆，或者该帐户可能会如何削弱或损害您的标志。
+Holders of registered trademarks can report possible trademark policy violations to GitHub via [Submit a Trademark Policy Violation Report](https://support.github.com/contact/trademark-policy). Please use the contact form and submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
 
-[举报违反商标政策的行为时需要提供哪些信息？](#what-information-is-required-when-reporting-trademark-policy-violations)
+[What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
-为了调查违反商标政策的行为，请提供以下所有信息：
+In order to investigate trademark policy violations, please provide all of the following information:
 
-* 被举报帐户的用户名
+* Username of the reported account
 
-* 贵公司名称
+* Your company name
 
-* 您的公司 GitHub 帐户（如果有）
+* Your company GitHub account (if there is one)
 
-* 公司网站
+* Company website
 
-* 您商标中使用的词语、符号等。
+* Your trademarked word, symbol, etc.
 
-* 商标注册号
+* Trademark registration number
 
-* 商标注册办公室（例如 USPTO）
+* Trademark registration office (e.g., USPTO)
 
-* 说明如何导致混淆（例如，冒充您的公司，包括对相关内容或行为的具体说明）
+* Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
 
-* 要求采取的行动（例如，删除违规帐户，或将带商标的用户名转至现有公司帐户）
+* Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
 
-* 包括以下声明：“我有足够理由相信，上述商标的使用并未得到商标所有者或其代理人或法律的授权。 我已将指称性使用及其他合理使用情况考虑在内。”
+* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
 
-* 还应包括以下声明：“我郑重声明，本通知中的信息是准确的，并且我是商标所有者，或者我被授权代表专有权涉嫌受到侵犯的所有者行事。”
+* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
 
-* 包括您的纸质或电子签名。
+* Include your physical or electronic signature.
 
-* 注意：需要提供联邦或国际商标注册号。 如果您举报的名称**不是**注册商标（例如，政府机构或非营利组织），请告知：
+* Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
 
-  * 您的名字和姓氏
-  * 标题
-  * 地址
-  * 电话
-  * 电子邮件（必须来自公司域名）
+  * Your first and last name
+  * Title
+  * Address
+  * Phone
+  * Email (must be from company domain)
 
 {"resolvedServerColorMode":"day"}

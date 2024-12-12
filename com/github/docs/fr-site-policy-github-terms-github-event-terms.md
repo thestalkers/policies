@@ -1,99 +1,99 @@
-Conditions de l'événement GitHub - Documentation GitHub
+GitHub Event Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Conditions de l'événement GitHub](/fr/site-policy/github-terms/github-event-terms)
+* [Site policy](/fr/site-policy)/
+* [GitHub Terms](/fr/site-policy/github-terms)/
+* [GitHub Event Terms](/fr/site-policy/github-terms/github-event-terms)
 
-Conditions de l'événement GitHub
+GitHub Event Terms
 ==========
 
-Dans cet article
+In this article
 ----------
 
-* [1. Conditions de base pour participer, y compris le Code de Conduite des Événements](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-* [2. Images et vidéos](#2-pictures-and-videos)
-* [3. Partage d’informations](#3-information-sharing)
-* [4. Risque, responsabilité et indemnisation](#4-risk-liability-and-indemnity)
-* [5. Résiliation](#5-termination)
-* [6. Droit applicable et juridiction](#6-choice-of-law-and-venue)
-* [7. Dispositions diverses](#7-miscellaneous-terms)
+* [1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+* [2. Pictures and videos](#2-pictures-and-videos)
+* [3. Information sharing](#3-information-sharing)
+* [4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
+* [5. Termination](#5-termination)
+* [6. Choice of law and venue](#6-choice-of-law-and-venue)
+* [7. Miscellaneous terms](#7-miscellaneous-terms)
 
-En répondant ou en assistant à un événement GitHub, y compris tout événement ou activité organisés par GitHub en association avec l’événement GitHub (collectivement l’« Événement »), vous déclarez que vous avez lu, compris et accepté les modalités de l’événement GitHub suivantes (ci-après « Conditions de l’événement »).
+By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Terms (hereinafter “Event Terms”).
 
-[1. Conditions de base pour participer, y compris le Code de Conduite des Événements](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+[1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 ----------
 
-Pour participer à l'Événement, vous déclarez que
+In order to participate in the Event, you represent that
 
-* Vous disposez de la capacité et de l’autorité nécessaires pour conclure les présentes conditions de l’événement ;
-* Vous avez lu et compris ces conditions d’événement et [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service) ;
-* Vous acceptez de respecter le [Code de conduite de l’événement](/fr/site-policy/github-terms/github-event-code-of-conduct) ; et
-* Si l’alcool est servi à l’événement, vous êtes âgé d’au moins 21 ans ou plus de l’âge légal de consommation d’alcool à l’endroit où l’événement est tenu.
+* You have the requisite capacity and authority to enter into these Event Terms;
+* You have read and understood these Event Terms and the [GitHub Terms of Service](/fr/site-policy/github-terms/github-terms-of-service);
+* You agree to abide by the [Event Code of Conduct](/fr/site-policy/github-terms/github-event-code-of-conduct); and
+* If alcohol is being served at the Event, you are at least 21 years old or over the legal drinking age at the location where the Event is being held.
 
-S’il vous est demandé de cesser un comportement jugé harcelant ou interdit, vous devez vous y conformer immédiatement. Si vous enfreignez le [Code de conduite de l’événement](/fr/site-policy/github-terms/github-event-code-of-conduct) ou les présentes conditions, les organisateurs du dit événement peuvent prendre toute mesure qu’ils jugent appropriée à leur discrétion, y compris des avertissements ou l’expulsion à l’événement sans remboursement. Vous devez à tout moment vous conformer aux instructions ou consignes des organisateurs de l’événement.
+If asked to stop behavior deemed harassing or prohibited, you must comply immediately. If you violate the [Event Code of Conduct](/fr/site-policy/github-terms/github-event-code-of-conduct) or these Event Terms, the Event organizers may take any action they deem appropriate in their discretion, including warnings or expulsion from the Event with no refund. You must at all times obey the instructions or directions of the Event organizers.
 
-[2. Images et vidéos](#2-pictures-and-videos)
+[2. Pictures and videos](#2-pictures-and-videos)
 ----------
 
-GitHub ou ses partenaires, agents ou prestataires prennent parfois des photos et des vidéos durant l’événements. En participant ou en assistant à l’événement, vous acceptez de figurer dans certaines de ces photos et vidéos et vous autorisez GitHub à les utiliser pendant et après l’événement.
+GitHub and its partners, agents, or contractors sometimes take photos and videos at the Event. By participating or attending the Event, you agree that you may appear in some of these photos and videos, and you authorize GitHub's use of them during and after the Event.
 
-En outre, si vous prenez des photos ou des vidéos des participants à l’événement et que vous les fournissez à GitHub, vous nous autorisez à les utiliser de la même manière et déclarez que les participants qui apparaissent sur vos photos et vidéos ont également consenti à telle utilisation.
+Additionally, if you take any photos or videos at the Event and provide them to GitHub, you authorize us to use them in the same fashion, and represent that the individuals that appear in your photos and videos have consented to such use.
 
-[3. Partage d’informations](#3-information-sharing)
+[3. Information sharing](#3-information-sharing)
 ----------
 
-Les commanditaires d’événements, les exposants et d’autres tiers peuvent directement demander vos informations personnelles ou autres à leurs kiosques d’exposition, événements auxiliaires ou présentations. Il est facultatif de leur fournir des renseignements, et vous devriez passer en revue leurs politiques de confidentialité pour déterminer comment ils traiteront vos informations personnelles et si ce traitement vous sied.
+Event sponsors, exhibitors, and other third parties may directly request your personal or other information at their exhibit booths, auxiliary events, or presentations. Providing any information to them is voluntary and optional, and you should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
 
-Si, au cours de l’événement, vous fournissez vos informations à un commanditaire, un exposant ou un tiers, y compris, mais sans s’y limiter, (1) en répondant à une invitation ou en participant à une session ou à un programme organisé par un tiers autre que GitHub, (2) en présentant votre badge pour analyse sur le kiosque d’un exposant ou pendant une session, (3) en demandant qu’un commanditaire vous contacte via sa page virtuelle sur githubuniverse.com, ou (4) en participant à un tirage au sort, à une loterie ou à un événement promotionnel organisé par un tiers autre que GitHub, vous comprenez et acceptez que vos informations seront transmises à une entité autre que GitHub et que GitHub n’est pas responsable de la manière dont cette société utilise ou traite vos informations personnelles. Vous devriez passer en revue leurs politiques de confidentialité pour déterminer comment ils traiteront vos informations personnelles et si ce traitement vous sied.
+If during the event you provide your information to a sponsor, exhibitor, or third party, including but not limited to (1) RSVPing or attending a session or program hosted by a third party other than GitHub, (2) presenting your badge for scanning at an exhibitor booth or breakout session, (3) requesting that a sponsor contact you via their virtual page on githubuniverse.com, or (4) entering a raffle, sweepstakes, or promotional event put on by third party other than GitHub, you understand and agree that your information will go to a non-GitHub entity and GitHub takes no responsibility for how that company uses or processes your personal information. You should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
 
-Les commanditaires et exposants d’événements sont tenus de se conformer aux exigences de confidentialité de GitHub et à la règlementation applicable entière, notamment la protection des données personnelles contre une utilisation, un accès ou une divulgation non autorisés.
+Event sponsors and exhibitors are required to comply with GitHub’s privacy requirements and all applicable law including protecting Personal Data from unauthorized use, access or disclosure.
 
-[4. Risque, responsabilité et indemnisation](#4-risk-liability-and-indemnity)
+[4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
 ----------
 
-### [Prise de risque](#assumption-of-risk) ###
+### [Assumption of risk](#assumption-of-risk) ###
 
-Même si nous essayons de créer un environnement sûr à l’événement, nous ne pouvons pas garantir une sécurité à 100 % pour les participants. Veuillez faire votre part pour aider à réduire votre risque d’être blessé à l’événement.
+Although we try to create a safe environment at the Event, we cannot guarantee 100% safety for participants. Please do your part to help reduce your chance of being injured at the Event.
 
-Vous acceptez d’examiner attentivement les risques inhérents à toute activité à laquelle vous choisissez de participer et de prendre des précautions raisonnables avant de choisir d’assister ou de participer à l’événement GitHub. Vous êtes responsable de vos propres actions et de toutes les conséquences résultantes. Vous acceptez d’assumer la responsabilité de vos actions et de votre présence dans toute la mesure autorisée par la loi. GitHub n’est pas responsable des blessures ou des accidents que vous pourriez subir à l’événement.
+You agree to carefully consider the risks inherent in any activities you choose to take part in at the Event and to take reasonable precautions before you choose to attend or participate at the Event. You are responsible for your own actions and any resulting consequences. You agree to assume responsibility for your actions and your attendance to the fullest extent permitted by law. GitHub is not responsible for any injuries or accidents that you might sustain at the Event.
 
-### [Décharge de responsabilité](#release-of-liability) ###
+### [Release of liability](#release-of-liability) ###
 
-Vous (pour vous-même, vos héritiers, représentants personnels ou ayants droit, et toute autre personne qui pourrait faire une réclamation en votre nom) par la présente, renoncez, déchargez et vous engagez à ne pas poursuivre GitHub et ses sociétés mères, filiales, sociétés affiliées, dirigeants, directeurs, partenaires, actionnaires, membres, agents, employés, fournisseurs, commanditaires et bénévoles de toutes les réclamations, demandes, causes d’action, dommages, pertes ou dépenses (y compris les frais de justice et les honoraires raisonnables d’avocat) pouvant découler de, résulter de ou se rapporter de quelque manière que ce soit à votre participation à l’événement. Cette version ne s’applique pas si GitHub est grossièrement négligent ou s’engage dans une inconduite délibérée.
+You (for yourself, your heirs, personal representatives, or assigns, and anyone else who could make a claim on your behalf) hereby release, waive, discharge and covenant not to sue GitHub and its parent companies, subsidiaries, affiliates, officers, directors, partners, shareholders, members, agents, employees, vendors, sponsors, and volunteers from any and all claims, demands, causes of action, damages, losses, or expenses (including court costs and reasonable attorneys' fees) which may arise out of, result from, or relate in any way to your attendance at the Event. This release will not apply if GitHub is grossly negligent or engages in willful misconduct.
 
-### [Obligation de protection](#indemnity) ###
+### [Indemnity](#indemnity) ###
 
-Vous acceptez d’indemniser et de dédommager GitHub, ses sociétés mères, filiales, sociétés affiliées, dirigeants, directeurs, employés, agents et représentants, y compris les coûts, responsabilités et frais juridiques, de toute réclamation ou demande faite par un tiers en raison à, relié à, ou lié à votre participation ou votre conduite à l’événement.
+You agree to indemnify and hold GitHub, its parents, subsidiaries, affiliates, officers, directors, employees, agents, and representatives harmless, including costs, liabilities, and legal fees, from any claim or demand made by any third party due to, related to, or connected with your attendance or conduct at the Event.
 
-[5. Résiliation](#5-termination)
+[5. Termination](#5-termination)
 ----------
 
-GitHub se réserve le droit de révoquer votre autorisation d’assister à l’événement ou d’interdire ou de limiter votre participation à l’événement pour une raison quelconque, sans préavis ni responsabilité d’aucune sorte. L’intégralité de la section 4 de ces conditions d’événement continuera à s’appliquer si votre participation à l’événement est terminée.
+GitHub reserves the right to revoke your permission to attend the Event or to otherwise prohibit or limit your attendance at the Event for any or no reason, without notice or liability of any kind. The entirety of Section 4 of these Event Terms will continue to apply if your participation at the Event is terminated.
 
-[6. Droit applicable et juridiction](#6-choice-of-law-and-venue)
+[6. Choice of law and venue](#6-choice-of-law-and-venue)
 ----------
 
-La loi californienne régira les présentes conditions d'événement, ainsi que toute réclamation, cause d'action ou litige pouvant survenir entre vous et GitHub (une « réclamation »), sans égard aux dispositions relatives aux conflits de lois. POUR TOUTE RÉCLAMATION INTRODUITE PAR L'UNE DES PARTIES, VOUS ACCEPTEZ DE SOUMETTRE ET DE CONSENTIR À LA JURIDICTION PERSONNELLE ET EXCLUSIVE ET AU LIEU EXCLUSIF DES TRIBUNAUX D'ÉTAT ET FÉDÉRAUX SITUÉS DANS LE COMTÉ DE SAN FRANCISCO, EN CALIFORNIE.
+California law will govern these Event Terms, as well as any claim, cause of action or dispute that might arise between you and GitHub (a "Claim"), without regard to conflict of law provisions. FOR ANY CLAIM BROUGHT BY EITHER PARTY, YOU AGREE TO SUBMIT AND CONSENT TO THE PERSONAL AND EXCLUSIVE JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE STATE AND FEDERAL COURTS LOCATED WITHIN SAN FRANCISCO COUNTY, CALIFORNIA.
 
-[7. Dispositions diverses](#7-miscellaneous-terms)
+[7. Miscellaneous terms](#7-miscellaneous-terms)
 ----------
 
-Vous acceptez de ne pas vous présenter en tant qu'employé, représentant ou agent de GitHub (sauf, bien sûr, si vous êtes réellement employé par GitHub).
+You agree that you will not represent yourself as an employee, representative, or agent of GitHub (unless, of course, you are actually employed by GitHub).
 
-Nous nous réservons le droit d'annuler l'Événement ou tout événement connexe à tout moment, pour quelque raison que ce soit, et sans responsabilité ni préjudice.
+We reserve the right to cancel the Event or any related event at any time, for any reason, and without liability or prejudice.
 
-Toute défaillance de GitHub d’exercer ou d’appliquer un droit ou une disposition des présentes conditions ne constitue pas une renonciation à ce droit ou cette disposition. Si une disposition de ces conditions est jugée inapplicable ou invalide, cette disposition sera limitée ou supprimée dans la mesure minimale nécessaire pour que les conditions de l'événement restent par ailleurs pleinement en vigueur et exécutoires.
+Any failure by GitHub to exercise or enforce any right or provision of these terms does not constitute a waiver of such right or provision. If any provision of these terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Event Terms shall otherwise remain in full force and effect and enforceable.
 
-Les vues exprimées par tout participant à l’événement, intervenant, exposant ou commanditaire ne sont pas nécessairement celles de GitHub. Toutes les personnes présentes, intervenants, exposants et commanditaires sont uniquement responsables du contenu de toutes les présentations et de tout autre matériel utilisé durant l’événement.
+The views expressed by any event attendee, speaker, exhibitor, or sponsor are not necessarily those of GitHub. All attendees, speakers, exhibitors, and sponsors are solely responsible for the content of all presentations and any other material used at the Event.
 
-GitHub se réserve le droit de mettre à jour ces conditions d’événement à sa seule discrétion et sans préavis. Ces conditions d’événement s’appliquent à tous les participants à l’événement (personnes présentes, intervenants, commanditaires, exposants, personnel et équipage). Vous êtes invité à consulter régulièrement ces conditions d’événement.
+GitHub reserves the right to update these Event Terms in its sole discretion and without prior notice. These Event Terms apply to all event participants (attendees, speakers, sponsors, exhibitors, staff, and crew). You are advised to review these Event Terms periodically.
 
-Ces conditions d’événement ont été mises à jour pour la dernière fois le 7 février 2024.
+These Event Terms were last updated on February 7th 2024.
 
 {"resolvedServerColorMode":"day"}

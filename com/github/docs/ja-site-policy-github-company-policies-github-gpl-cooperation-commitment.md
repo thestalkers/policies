@@ -1,43 +1,43 @@
-GitHub の GPL Cooperation Commitment - GitHub Docs
+GitHub GPL Cooperation Commitment - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
-* [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Site policy](/ja/site-policy)/
+* [GitHub Company Policies](/ja/site-policy/github-company-policies)/
+* [GitHub GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-GitHub の GPL Cooperation Commitment
+GitHub GPL Cooperation Commitment
 ==========
 
-このコミットメントは、対象ライセンス (定義については、下までスクロールしてください) に従って Git、Linux カーネル、およびその他のプログラムへの GitHub のコントリビューションに関するものです。
+This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 
-この声明は、企業向け[テンプレート](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)に基づいて作成しました。 他の企業、個人、およびプロジェクトがこのコミットメントを適用する方法については、[「GPL Cooperation Commitment」のサイト](https://gplcc.github.io/gplcc/)をご覧ください。
+We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
 
-[当社のコミットメント](#our-commitment)
+[Our Commitment](#our-commitment)
 ----------
 
-GitHub は、「対象ライセンス」の終了に起因する司法手続きまたは申し立て (「防御行為」を除く) の提起または追及を行う前に、「対象ライセンス」の違反について告発された個人または団体 (以下「被告発者」といいます) に対し、GPL バージョン 3 から採用されたライセンス違反の是正およびライセンスの復活に関する以下の条項を適用することに尽力します。 ここで「本ライセンス」という用語は、適用される「対象ライセンス」を意味します。
+Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
 
-ただし、被告発者が本ライセンスに違反する行為をすべて停止した場合、特定の著作権保有者から許諾された被告発者のライセンスは、(a) 著作権保有者がライセンスを明示的かつ最終的に終了するまでの間、暫定的に復活し、(b) 被告発者が違反行為を停止してから 60 日以内に、著作権保有者が被告発者に合理的な手段で違反を通知しなかった場合は、恒久的に復活します。
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
 
-また、著作権保有者が被告発者に合理的な手段で違反を通知し、被告発者が著作権保有者から本ライセンスの違反 (何らか作業に対して) の通知を受けたのが初めてであり、通知を受領してから 30 日以内に違反を是正した場合、特定の著作権保有者から許諾された被告発者のライセンスは恒久的に復活します。
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
 
-GitHub は、このコミットメントが取消不可能であり、GitHub および GitHub の著作権の譲受人または承継人に対して拘束力があり強制できると考えています。
+GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
 
-GitHub は、このページまたは後継の場所に新しいエディションを公開することにより、このコミットメントを修正することができます。
+GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
 
-定義
+Definitions
 
-「対象ライセンス」とは、Free Software Foundation により公開された、GNU General Public License, version 2 (GPLv2)、GNU Lesser General Public License, version 2.1 (LGPLv2.1)、または GNU Library General Public License, version 2 (LGPLv2) を意味します。
+‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
 
-「防御行為」とは、被告発者またはその関連会社によって先に開始された手続きまたは申し立てに応じて、GitHub が被告発者に対して行う司法手続きまたは申し立てを意味します。
+‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
 
-「GitHub」とは、GitHub, Inc. およびその子会社を意味します。
+‘GitHub’ means GitHub, Inc. and its subsidiaries.
 
-本文書は、クリエイティブ・コモンズ表示 - 継承 4.0 国際ライセンスの下で利用できます。
+This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
 
 {"resolvedServerColorMode":"day"}

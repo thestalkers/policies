@@ -1,70 +1,70 @@
-GitHub 活动行为准则 - GitHub 文档
+GitHub Event Code of Conduct - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)
+* [Site policy](/zh/site-policy)/
+* [GitHub Terms](/zh/site-policy/github-terms)/
+* [GitHub Event Code of Conduct](/zh/site-policy/github-terms/github-event-code-of-conduct)
 
-GitHub 活动行为准则
+GitHub Event Code of Conduct
 ==========
 
-本文内容
+In this article
 ----------
 
-* [行为准则](#code-of-conduct)
-* [事件举报](#reporting-an-incident)
-* [鸣谢](#credit)
+* [Code of Conduct](#code-of-conduct)
+* [Reporting an incident](#reporting-an-incident)
+* [Credit](#credit)
 
-[行为准则](#code-of-conduct)
+[Code of Conduct](#code-of-conduct)
 ----------
 
-参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何事件或活动（统称为“活动”），即表示您已阅读、理解并同意以下 GitHub 活动行为准则（以下简称“行为准则”）。 本行为准则适用于活动的所有与会者、发言人、参展商、发起人、组织者、工作人员和志愿者（统称为“活动参与者”）。
+By attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Code of Conduct (hereinafter “Code of Conduct”). This Code of Conduct applies to all attendees, speakers, exhibitors, sponsors, organizers, staff, and volunteers (collectively “Event Participants”) at the Event.
 
-GitHub 重视所有活动参与者的参与，旨在创建一个让所有活动参与者都能享受愉快且充实的体验的活动。 因此，在整个活动期间，所有活动参与者都应表现出对其他活动参与者的尊重和礼貌。
+GitHub values the participation of all Event Participants and aims to create an event where all Event Participants have an enjoyable and fulfilling experience. Accordingly, all Event Participants are expected to show respect and courtesy to other Event Participants throughout the Event.
 
-GitHub 致力于为每个人提供愉悦、无骚扰的体验，无论其年龄、性别、性别认同和表达、性取向、残疾状态、外貌、体型、民族、种族、宗教、国籍或经验水平如何。
+GitHub is dedicated to providing a positive and harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience.
 
-我们不容忍以任何形式骚扰活动参与者，也不容忍任何理论上会导致活动参与者感到不安全或担心其身心健康的行为。 所有的交流和行为都应该适合包括许多不同背景的人员的专业环境。
+We do not tolerate harassment of Event Participants in any form, nor do we tolerate any behavior that would reasonably lead to an Event Participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication and behavior should be appropriate for a professional setting including people of many different backgrounds.
 
-有助于营造积极环境的值得鼓励的行为包括：
+Examples of encouraged behavior that contributes to a positive environment include:
 
-* 使用热情和包容的语言
-* 尊重不同的观点和经历
-* 有风度地接受建设性批评
-* 在活动中专注于提供对所有人都最为有益的内容
-* 对他人和活动参与者表现出同理心
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for everyone at the Event
+* Showing empathy towards others and Event Participants
 
-不可接受的行为包括但不限于：
+Unacceptable behavior includes, but is not limited to:
 
-* 使用性暗示语言或意象
-* 不恰当的身体接触、性关注或挑逗
-* 挑衅、侮辱或贬损性评论或行为
-* 针对活动参与者的人身或政治攻击
-* 或总是打断谈话或由 GitHub 组织的与 GitHub 活动相关的任何事件或活动
-* 恐吓、尾随、跟踪或骚扰活动参与者
-* 未经同意拍摄或录制活动参与者
-* 任何形式的骚扰，即使是以开玩笑或嘲弄的方式进行
-* 在职业场合中会被认为不适当的行为
+* The use of sexualized language or imagery
+* Inappropriate physical contact, sexual attention, or advances
+* Trolling, insulting or derogatory comments or behavior
+* Personal or political attacks toward Event Participants
+* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
+* Intimidation, stalking, following, or harassing of Event Participants
+* Photography or recording of Event Participants without their consent
+* Harassment of any kind, even in a joking or ironic manner
+* Conduct which could reasonably be considered inappropriate in a professional setting
 
-每个活动参与者对自己的行为负全部责任。
+Each Event Participant is entirely responsible for their own actions.
 
-感谢您帮助营造这个对所有人热情友好的环境。
+Thank you for helping to make this a welcoming, friendly space for all.
 
-[事件举报](#reporting-an-incident)
+[Reporting an incident](#reporting-an-incident)
 ----------
 
-如果您受到骚扰、发现其他人被骚扰、有任何其他顾虑或者认为活动参与者的行为不符合本行为准则，如需紧急帮助，请直接与现场安全管理人员或 GitHub 员工联系，如果有非紧急问题，请通过电子邮件 ([events@github.com](mailto:events@github.com)) 联系我们。 对于危及生命的情况，请立即拨打 911。
+If you are being harassed, notice that someone else is being harassed, have any other concerns, or if you believe an Event Participant is not acting in a way compliant with this Code of Conduct, please speak directly with a venue security officer or GitHub employee for urgent help, or email us at [events@github.com](mailto:events@github.com) for non-urgent issues. For life threatening situations, please dial 911 immediately.
 
-GitHub 员工乐于帮助活动参与者联系安全部门或当地执法机构、护送他们到安全的地方或者以其他方式帮助受骚扰者在活动期间感到安全。
+GitHub employees will be happy to help Event Participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the Event.
 
-[鸣谢](#credit)
+[Credit](#credit)
 ----------
 
-本行为准则的部分内容基于 Geek Feminism wiki 的典型反骚扰政策，这些政策由 Ada Initiative 和其他志愿者在知识共享零许可原则下编制。
+Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
 
 {"resolvedServerColorMode":"day"}

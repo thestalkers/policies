@@ -1,22 +1,22 @@
-GitHub の Cookie - GitHub Docs
+GitHub Cookies - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
-* [GitHub の Cookie](/ja/site-policy/privacy-policies/github-cookies)
+* [Site policy](/ja/site-policy)/
+* [Privacy Policies](/ja/site-policy/privacy-policies)/
+* [GitHub Cookies](/ja/site-policy/privacy-policies/github-cookies)
 
-GitHub の Cookie
+GitHub Cookies
 ==========
 
-GitHub は、Web サイトを提供および保護し、Web サイトの利用状況を分析して優れたユーザー エクスペリエンスを提供するために Cookie を使用します。 Cookie に関する詳細な情報や、その使用方法と使用する理由については、当社の[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking)を参照してください。
+GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
 
-<https://github.com/privacy/cookies> で、GitHub の最新の Cookie 一覧を確認し、Cookie 一覧の更新情報を受け取るために登録できます。
+You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
 
-新しいサブプロセッサーについてご質問やご不明な点がある場合は、[プライバシーに関する連絡フォーム](https://github.com/contact/privacy) までお問い合わせください。
+If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
 
 {"resolvedServerColorMode":"day"}

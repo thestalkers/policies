@@ -1,63 +1,63 @@
-GitHub 条件 - GitHub Docs
+GitHub Terms - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+[Home](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)
+* [Site policy](/ja/site-policy)/
+* [GitHub Terms](/ja/site-policy/github-terms)
 
-GitHub 条件
+GitHub Terms
 ==========
 
-[GitHub のサービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)
+[GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service)
 ----------
 
-[GitHub の企業向けサービス使用条件](/ja/site-policy/github-terms/github-corporate-terms-of-service)
+[GitHub Corporate Terms of Service](/ja/site-policy/github-terms/github-corporate-terms-of-service)
 ----------
 
-[追加の製品および機能に適用される GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[GitHub Terms for Additional Products and Features](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
+[GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines)
 ----------
 
-[GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
+[GitHub Community Code of Conduct](/ja/site-policy/github-terms/github-community-code-of-conduct)
 ----------
 
-[GitHub プレリリース ライセンス条項](/ja/site-policy/github-terms/github-pre-release-license-terms)
+[GitHub Pre-release License Terms](/ja/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
+[GitHub Sponsors Additional Terms](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
-[GitHub の登録開発者契約](/ja/site-policy/github-terms/github-registered-developer-agreement)
+[GitHub Registered Developer Agreement](/ja/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[GitHub Marketplace サービス使用条件](/ja/site-policy/github-terms/github-marketplace-terms-of-service)
+[GitHub Marketplace Terms of Service](/ja/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
-[GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
+[GitHub Marketplace Developer Agreement](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
 ----------
 
-[GitHub のリサーチ プログラム条項](/ja/site-policy/github-terms/github-research-program-terms)
+[GitHub Research Program Terms](/ja/site-policy/github-terms/github-research-program-terms)
 ----------
 
-[GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[GitHub Open Source Applications Terms and Conditions](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 ----------
 
-[GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
+[GitHub Event Terms](/ja/site-policy/github-terms/github-event-terms)
 ----------
 
-[GitHub イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
+[GitHub Event Code of Conduct](/ja/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
-[GitHub 教育目的利用契約](/ja/site-policy/github-terms/github-educational-use-agreement)
+[GitHub Educational Use Agreement](/ja/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[GitHub Copilot 拡張機能の開発者ポリシー](/ja/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot Extension Developer Policy](/ja/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

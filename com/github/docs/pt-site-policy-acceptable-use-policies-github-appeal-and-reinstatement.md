@@ -1,75 +1,75 @@
-Contestação e reintegração do GitHub - GitHub Docs
+GitHub Appeal and Reinstatement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+[Home](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Site policy](/pt/site-policy)/
+* [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies)/
+* [GitHub Appeal and Reinstatement](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-Contestação e reintegração do GitHub
+GitHub Appeal and Reinstatement
 ==========
 
-Neste artigo
+In this article
 ----------
 
-* [Contestação e reintegração](#appeal-and-reinstatement)
-* [O que são contestações e reintegrações?](#what-are-appeals-and-reinstatements)
-* [Como isso funciona](#how-this-works)
-* [Transparência](#transparency)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+* [How this works](#how-this-works)
+* [Transparency](#transparency)
 
-[Contestação e reintegração](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-Embora a maioria das interações entre indivíduos na comunidade do GitHub esteja dentro de nossas Políticas de Uso Aceitável e Diretrizes da Comunidade, às vezes ocorrem violações dessas políticas. Quando isso acontece, a equipe do GitHub pode precisar tomar medidas de fiscalização para resolver as violações. No entanto, entendemos que, às vezes, podemos cometer erros. Em alguns casos, pode haver uma base para reverter uma ação de moderação tomada (ou não tomada) pela equipe do GitHub. Para garantir que nossas políticas e resultados sejam aplicados uniformemente, o GitHub oferece um processo interno de processamento de reclamações onde os usuários podem enviar solicitações de reintegração ou fornecer informações adicionais para contestar de uma decisão de moderação.
+While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
 
-[O que são contestações e reintegrações?](#what-are-appeals-and-reinstatements)
+[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
 ----------
 
-Tanto as Contestações quanto as Reintegrações podem surgir em relação a decisões de desabilitar ou limitar o acesso ao conteúdo ou a uma conta, incluindo decisões sobre se devem:
+Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
 
-* Remover, desabilitar o acesso ou restringir a visibilidade do conteúdo
-* Suspender ou terminar o acesso a uma conta
-* Suspender ou terminar o acesso ao serviço, no todo ou em parte
-* Suspender, terminar ou restringir a capacidade de monetizar conteúdo
+* Remove, disable access to, or restrict visibility of content
+* Suspend or terminate access to an account
+* Suspend or terminate access to the service, in whole or in part
+* Suspend, terminate or otherwise restrict the ability to monetize content
 
-A “reintegração” é quando o usuário deseja recuperar o acesso à sua conta ou conteúdo, está disposto a fazer as alterações necessárias para solucionar a violação e deve concordar em não violar nossos termos daqui por diante.
+A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
 
-Uma “contestação” é quando o usuário contesta que ocorreu uma violação e pode fornecer informações adicionais para mostrar que uma decisão diferente deveria ter sido tomada.
+An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
 
-[Como isso funciona](#how-this-works)
+[How this works](#how-this-works)
 ----------
 
-Se você optar pela reintegração ou contestação de uma medida de imposição, preencha o [Formulário de Contestação e Reintegração](https://support.github.com/contact/reinstatement). É possível contestar uma decisão de moderação em até seis meses após a decisão. O GitHub poderá, a seu critério, recusar-se a considerar quaisquer Contestações apresentadas mais de seis meses após a decisão.
+If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
 
-A equipe do GitHub revisará as informações fornecidas no formulário para determinar se há informações suficientes para garantir a reintegração ou a concessão de uma contestação.
+GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
 
-### [Reintegrações](#reinstatements) ###
+### [Reinstatements](#reinstatements) ###
 
-Quando um usuário concordar em cumprir nossas Políticas de Uso Aceitável no futuro e tiver feito as alterações necessárias para resolver as violações, poderemos optar por reintegrar sua conta ou conteúdo dependendo das circunstâncias e da gravidade da violação inicial.
+Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
 
-Todas as solicitações legítimas de reintegração serão analisadas inicialmente pela equipe do GitHub e serão respondidas com uma decisão.
+All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
 
-### [Contestações](#appeals) ###
+### [Appeals](#appeals) ###
 
-Quando um usuário busca contestar uma decisão, ele pode usar o formulário para explicar sua base para contestar a decisão e fornecer qualquer informação adicional sobre a suposta violação que ele acredita que deveria ter levado a uma decisão diferente.
+Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
 
-Se as informações fornecidas demonstrarem que uma conclusão diferente deveria ter sido alcançada, poderemos conceder uma contestação. O GitHub reverterá ou modificará sua decisão quando a Contestação contiver motivos suficientes para determinarmos que (i) nossa decisão de agir ou não agir foi equivocada; (ii) que o conteúdo ou conduta não foi ilegal e não estava incompatível com os nossos Termos; ou (iii) que o conteúdo ou a conduta justifique uma ação de menor gravidade do que a medida tomada.
+If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
 
-Todas as decisões da Contestação serão tomadas por seres humanos e não por qualquer meio automatizado. Se o revisor da contestação for a mesma pessoa que fez a determinação inicial e esse membro da equipe acreditar que sua conclusão inicial estava correta (e, portanto, estaria inclinado a negar a contestação), um membro diferente da equipe do GitHub revisará a contestação de forma independente.
+All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
 
-Todas as contestações legítimas serão respondidas com uma decisão final.
+All legitimate Appeals will be answered with a final decision.
 
-[Transparência](#transparency)
+[Transparency](#transparency)
 ----------
 
-Acompanhamos as contestações e as reintegração por meio da [Central de transparência](https://transparencycenter.github.com/appeals/).
+We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
 
-### [Direitos legais](#legal-rights) ###
+### [Legal Rights](#legal-rights) ###
 
-Se você acreditar que uma decisão final tomada sobre uma Contestação ainda está incorreta, será possível, em determinadas circunstâncias, ter direitos adicionais para buscar a revisão da decisão de acordo com a lei local. Por exemplo, se você estiver localizado na União Europeia, talvez seja possível acessar um processo extrajudicial de acordo de disputas em conformidade com a [Lei de Serviços Digitais](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

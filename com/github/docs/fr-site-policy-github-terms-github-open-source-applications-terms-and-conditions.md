@@ -1,88 +1,88 @@
-Termes et conditions des applications open source GitHub - Documentation GitHub
+GitHub Open Source Applications Terms and Conditions - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Termes et conditions des applications open source GitHub](/fr/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [Site policy](/fr/site-policy)/
+* [GitHub Terms](/fr/site-policy/github-terms)/
+* [GitHub Open Source Applications Terms and Conditions](/fr/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-Termes et conditions des applications open source GitHub
+GitHub Open Source Applications Terms and Conditions
 ==========
 
-Dans cet article
+In this article
 ----------
 
-* [Connexion à GitHub](#connecting-to-github)
-* [Licences open source et avis](#open-source-licenses-and-notices)
-* [Logos de GitHub](#githubs-logos)
-* [Confidentialité](#privacy)
-* [Services Supplémentaires](#additional-services)
-* [Divers](#miscellanea)
+* [Connecting to GitHub](#connecting-to-github)
+* [Open Source Licenses and Notices](#open-source-licenses-and-notices)
+* [GitHub's Logos](#githubs-logos)
+* [Privacy](#privacy)
+* [Additional Services](#additional-services)
+* [Miscellanea](#miscellanea)
 
-Les présentes conditions générales des applications open source GitHub (« conditions d'application ») constituent un accord juridique entre vous (en tant qu'individu ou au nom d'une entité) et GitHub, Inc. concernant votre utilisation des applications de GitHub, telles que GitHub Desktop™ et documentation associée ("Logiciel »). Ces conditions d'application s'appliquent à la version de code exécutable du logiciel. Le code source du Logiciel est disponible séparément et gratuitement dans le cadre d'accords de licence de logiciel open source. Si vous n'acceptez pas tous les termes des présentes conditions d'application, ne téléchargez, n'installez, n'utilisez ou ne copiez pas le logiciel.
+These GitHub Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
 
-[Connexion à GitHub](#connecting-to-github)
+[Connecting to GitHub](#connecting-to-github)
 ----------
 
-Si vous configurez le Logiciel pour qu'il fonctionne avec un ou plusieurs comptes sur le site web GitHub.com ou avec un déploiement de GitHub Enterprise Server, votre utilisation du Logiciel sera également régie par les Conditions d'utilisation du service du site web GitHub.com et/ou le contrat de licence applicable à votre déploiement de GitHub Enterprise Server (« Conditions GitHub »).
+If you configure the Software to work with one or more accounts on the GitHub.com website or with a deployment of GitHub Enterprise Server, your use of the Software will also be governed by your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your deployment of GitHub Enterprise Server ("GitHub Terms").
 
-Toute utilisation du Logiciel qui enfreint vos Conditions GitHub applicables constituera également une violation des présentes Conditions d'application.
+Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.
 
-[Licences open source et avis](#open-source-licenses-and-notices)
+[Open Source Licenses and Notices](#open-source-licenses-and-notices)
 ----------
 
-La licence open source pour le Logiciel est incluse dans la documentation « Avis Open Source » qui est incluse avec le Logiciel. Cette documentation comprend également des copies de toutes les licences open source applicables.
+The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
 
-Dans la mesure où les conditions des licences applicables aux composants open source exigent que GitHub fasse une offre pour fournir le code source en relation avec le Logiciel, cette offre est faite par la présente, et vous pouvez l'exercer en contactant GitHub : <https://github.com/contact>
+To the extent the terms of the licenses applicable to open source components require GitHub to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting GitHub: <https://github.com/contact>
 
-Sauf accord écrit contraire avec GitHub, votre accord avec GitHub inclura toujours, au minimum, les présentes Conditions d'application. Les licences de logiciels open source pour le code source du logiciel constituent des accords écrits distincts. Dans la mesure limitée où les licences de logiciels open source remplacent expressément les présentes conditions d'application, les licences open source régissent votre accord avec GitHub pour l'utilisation du logiciel ou des composants spécifiques inclus du logiciel.
+Unless otherwise agreed to in writing with GitHub, your agreement with GitHub will always include, at a minimum, these Application Terms. Open source software licenses for the Software's source code constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Application Terms, the open source licenses govern your agreement with GitHub for the use of the Software or specific included components of the Software.
 
-[Logos de GitHub](#githubs-logos)
+[GitHub's Logos](#githubs-logos)
 ----------
 
-L'octroi de licence inclus avec le Logiciel ne concerne pas les marques déposées de GitHub, qui incluent les logos du Logiciel. GitHub se réserve tous les droits de marque et de copyright dans et sur toutes les marques GitHub. Les logos de GitHub incluent, par exemple, les dessins stylisés qui incluent « logo » dans le titre du fichier dans le dossier « logos ».
+The license grant included with the Software is not for GitHub's trademarks, which include the Software logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks. GitHub's logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
 
-Les noms GitHub, GitHub Desktop, GitHub pour Mac, GitHub pour Windows, l'Octocat et les logos et/ou noms stylisés GitHub associés sont des marques commerciales de GitHub. Vous acceptez de ne pas afficher ou utiliser ces marques de quelque manière que ce soit sans l'autorisation écrite préalable de GitHub, sauf dans les cas autorisés par la Politique d'Utilisation des Logos de GitHub : <https://github.com/logos>.
+The names GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, the Octocat, and related GitHub logos and/or stylized names are trademarks of GitHub. You agree not to display or use these trademarks in any manner without GitHub's prior, written permission, except as allowed by GitHub's Logos and Usage Policy: <https://github.com/logos>.
 
-[Confidentialité](#privacy)
+[Privacy](#privacy)
 ----------
 
-Le Logiciel peut collecter des informations personnelles. Vous pouvez contrôler les informations que le logiciel collecte dans le panneau des paramètres. Si le Logiciel collecte des informations personnelles au nom de GitHub, GitHub traitera ces informations conformément à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
+The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on GitHub's behalf, GitHub will process that information in accordance with the [GitHub Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement).
 
-[Services Supplémentaires](#additional-services)
+[Additional Services](#additional-services)
 ----------
 
-**Services de mises à jour automatiques**
+**Auto-Update Services**
 
-Le Logiciel peut inclure un service de mise à jour automatique ("Service »). Si vous choisissez d'utiliser le Service ou si vous téléchargez un Logiciel qui active automatiquement le Service, GitHub mettra automatiquement à jour le Logiciel lorsqu'une nouvelle version sera disponible.
+The Software may include an auto-update service ("Service"). If you choose to use the Service or you download Software that automatically enables the Service, GitHub will automatically update the Software when a new version is available.
 
-**Clause d'exclusion de responsabilité et limitations de responsabilité**
+**Disclaimers and Limitations of Liability**
 
-LE SERVICE EST FOURNI « TEL QUEL » ET AUCUNE GARANTIE, EXPRESSE OU IMPLICITE, N'EST DONNÉE. VOTRE UTILISATION DU SERVICE EST À VOS PROPRES RISQUES. GitHub ne garantit pas que (i) le Service répondra à vos besoins spécifiques ; (ii) le Service est entièrement compatible avec une plate-forme particulière ; (iii) votre utilisation du Service sera ininterrompue, opportune, sécurisée ou sans erreur ; (iv) les résultats pouvant être obtenus de l'utilisation du Service seront exacts ou fiables ; (v) la qualité de tout produit, service, information ou autre matériel que vous avez acheté ou obtenu par le biais du Service répondra à vos attentes ; ou (vi) toute erreur dans le Service sera corrigée.
+THE SERVICE IS PROVIDED ON AN "AS IS" BASIS, AND NO WARRANTY, EITHER EXPRESS OR IMPLIED, IS GIVEN. YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. GitHub does not warrant that (i) the Service will meet your specific requirements; (ii) the Service is fully compatible with any particular platform; (iii) your use of the Service will be uninterrupted, timely, secure, or error-free; (iv) the results that may be obtained from the use of the Service will be accurate or reliable; (v) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations; or (vi) any errors in the Service will be corrected.
 
-VOUS COMPRENEZ ET ACCEPTEZ EXPRESSÉMENT QUE GITHUB NE SERA PAS RESPONSABLE DES DOMMAGES DIRECTS, INDIRECTS, ACCIDENTELS, SPÉCIAUX, CONSÉCUTIFS OU EXEMPLAIRES, Y COMPRIS, MAIS SANS S'Y LIMITER, LES DOMMAGES POUR PERTES DE PROFITS, DE FONDS DE COMMERCE, D'UTILISATION, DE DONNÉES OU AUTRES PERTES INTANGIBLES (MÊME SI GITHUB A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES) LIÉS AU SERVICE, y compris, par exemple : (i) l'utilisation ou l'impossibilité d'utiliser le Service ; (ii) le coût d'acquisition de biens et services de substitution résultant de biens, de données, d'informations ou de services achetés ou obtenus par l'intermédiaire du Service ou de messages reçus ou de transactions conclues en utilisant celui-ci ; (iii) l'accès non autorisé à vos transmissions ou données ou leur modification ; (iv) les déclarations ou la conduite de tout tiers sur le Service ; (v) ou toute autre question relative au Service.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT GITHUB SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GITHUB HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RELATED TO THE SERVICE, including, for example: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third-party on the Service; (v) or any other matter relating to the Service.
 
-GitHub se réserve le droit, à tout moment et de temps à autre, de modifier ou d'interrompre, temporairement ou définitivement, le Service (ou toute partie de celui-ci) avec ou sans préavis. GitHub ne sera pas responsable envers vous ou envers un tiers pour tout changement de prix, suspension ou interruption du Service.
+GitHub reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. GitHub shall not be liable to you or to any third-party for any price change, suspension or discontinuance of the Service.
 
-[Divers](#miscellanea)
+[Miscellanea](#miscellanea)
 ----------
 
-1. Absence de Renonciation. Le fait que GitHub n’exerce pas ou ne fasse pas valoir un droit ou une disposition des présentes Conditions relatives aux Applications ne constitue pas une renonciation à ce droit ou à cette disposition.
+1. No Waiver. The failure of GitHub to exercise or enforce any right or provision of these Application Terms shall not constitute a waiver of such right or provision.
 
-2. Intégralité du Contrat. Ces conditions d'application, ainsi que toutes les déclarations de confidentialité applicables, constituent l'intégralité de l'accord entre vous et GitHub et régissent votre utilisation du logiciel, remplaçant tout accord antérieur entre vous et GitHub (y compris, mais sans s'y limiter, toute version antérieure des conditions d'application ).
+2. Entire Agreement. These Application Terms, together with any applicable Privacy Notices, constitutes the entire agreement between you and GitHub and governs your use of the Software, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Application Terms).
 
-3. Droit applicable. Vous acceptez que les présentes conditions d'application et votre utilisation du logiciel soient régies par la loi californienne et que tout litige lié au logiciel doit être porté devant un tribunal compétent situé à ou à proximité de San Francisco, Californie.
+3. Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
 
-4. Forfaits tiers. Le Logiciel prend en charge les « Packages » tiers qui peuvent modifier, ajouter, supprimer ou altérer la fonctionnalité du Logiciel. Ces packages ne sont pas couverts par les présentes conditions d'application et peuvent inclure leur propre licence qui régit votre utilisation de ce package particulier.
+4. Third-Party Packages. The Software supports third-party "Packages" which may modify, add, remove, or alter the functionality of the Software. These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.
 
-5. Aucune modification ; Intégralité de l’Accord. Ces conditions d'application ne peuvent être modifiées que par un amendement écrit signé par un représentant autorisé de GitHub, ou par la publication par GitHub d'une version révisée. Ces conditions d'application, ainsi que toutes les licences et avis Open Source applicables et la déclaration de confidentialité de GitHub, représentent la déclaration complète et exclusive de l'accord entre vous et nous. Ces conditions d'application remplacent toute proposition ou accord préalable oral ou écrit, et toute autre communication entre vous et GitHub concernant l'objet de ces conditions.
+5. No Modifications; Complete Agreement. These Application Terms may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version. These Application Terms, together with any applicable Open Source Licenses and Notices and GitHub's Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. These Application Terms supersede any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms.
 
-6. Stratégies en matière de licences accordées à GitHub. Les présentes Conditions générales relatives aux Applications sont régies par la présente [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
+6. License to GitHub Policies. These Application Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
-7. Contactez-nous. Des questions sur les conditions d'utilisation ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).
+7. Contact Us. Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
 
 {"resolvedServerColorMode":"day"}

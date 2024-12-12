@@ -1,89 +1,89 @@
-GitHub 反贿赂声明 - GitHub 文档
+GitHub Anti-Bribery Statement - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[Home](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 公司政策](/zh/site-policy/github-company-policies)/
-* [GitHub 反贿赂声明](/zh/site-policy/github-company-policies/github-anti-bribery-statement)
+* [Site policy](/zh/site-policy)/
+* [GitHub Company Policies](/zh/site-policy/github-company-policies)/
+* [GitHub Anti-Bribery Statement](/zh/site-policy/github-company-policies/github-anti-bribery-statement)
 
-GitHub 反贿赂声明
+GitHub Anti-Bribery Statement
 ==========
 
-本文内容
+In this article
 ----------
 
-* [GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
-* [员工培训](#training-for-our-employees)
-* [与合作伙伴合作](#engaging-our-partners)
+* [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
+* [Training for our employees](#training-for-our-employees)
+* [Engaging our Partners](#engaging-our-partners)
 
-GitHub 恪守我们对道德商业实践的承诺，包括禁止贿赂和腐败。 正如[透明国际](https://www.transparency.org/what-is-corruption#costs-of-corruption)所述，腐败的危害极大：
+GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
 
-* **在政治上**，严重阻碍民主和法治
-* **在经济上**，消耗国家财富
-* **在社会方面**，破坏人们对政治社会、机构和领导人的信任
-* **在环境方面**，助长不遵守环境法律法规的歪风。
+* **political**, by posing a major obstacle to democracy and the rule of law
+* **economic**, by depleting national wealth
+* **social**, by undermining people’s trust in political society, institutions, and leaders
+* **environmental**, by facilitating non-enforcement of environmental laws and regulations.
 
-根据 2017 年[世界银行](https://www.worldbank.org/en/topic/governance/brief/anti-corruption)的数据，每年企业和个人在贿赂方面的支出估计高达 1.5 万亿美元。
+According to the [World Bank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
 
-[GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
+[GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
 ----------
 
-GitHub 在许多公司政策中明确了我们的反贿赂承诺。 作为微软家族的一员，GitHub 除了遵守本文所述的政策外，还承诺遵守微软的反腐败政策，这适用于所有 GitHub 员工和承包商。
+GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
 
-GitHub 的**道德准则**禁止员工和承包商从事或促成贿赂或腐败，并制定了记录保留要求：
-
->
->
-> 不得为了帮助 GitHub 或微软获取或保持业务或任何其他不正当优势，向任何人（包括身居权力或权限职位的任何人，例如政府官员或商业交易决策者）支付、提议支付、承诺支付、诱使、接受或授权支付现金或任何其他有价物。 也不得索取或接受贿赂、回扣或任何其他不当现金支付。 ...[GitHub 员工]对于以下交易必须保留准确和公允的记录：涉及代表 GitHub 支出任何费用的所有交易，例如保留收据并准确说明您的费用支出；或者涉及处置或转让 GitHub 资产的任何其他交易。 美国《反海外腐败法》、英国 2010 年《反贿赂法》 以及 GitHub 开展业务所在其他司法管辖区的反贿赂法律均要求采取此类措施，这也是正确行事的原则。
->
->
-
-GitHub 的道德准则详细说明了某些情况，包括礼品、旅游和招待；疏通费；慈善捐赠；职位；与代表合作；以及谁被视为政府官员。
-
-GitHub 的行为标准禁止：
+GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
 
 >
 >
-> 贿赂政府官员或其他个人以获取不正当优势，也不得收受任何人的贿赂。
+> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
 >
 >
 
-GitHub 的**礼品和招待政策**规定，不允许旅游或招待方面的贿赂，并举例说明了不当行为。 该政策介绍了适当和不当的礼品、旅行和招待费用；GitHub 董事、高管、员工和代理赠送礼品的公司流程，记录保留要求和处罚规定；以及违规行为举报流程。 它规定了明确的礼品金额阈值以及年度限制，以及针对经适当管理人员批准的礼品的有限例外条款。 该政策清晰明确，方便 GitHub 员工和承包商查阅。
+GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
 
-[员工培训](#training-for-our-employees)
+GitHub's Standards of Conduct prohibit:
+
+>
+>
+> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+>
+>
+
+GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permitted in connection with travel or entertainment, and provides examples to illustrate improper conduct. The policy describes proper and improper gifts, travel, and entertainment expenses; company processes for gift-giving by GitHub’s directors, officers, employees, and agents and requirements for record-keeping, penalties; and reporting of violations. It includes clear monetary thresholds for gifts along with annual limitations, with limited exceptions for gifts approved by appropriate management. The policy is clear and easily accessible to GitHub employees and contractors.
+
+[Training for our employees](#training-for-our-employees)
 ----------
 
-GitHub 员工必须参加有关腐败（包括贿赂）的培训。 我们还为特别相关的人员和团队（例如我们的销售团队）提供额外的培训。 培训讲解了美国《反海外腐败法》和 2010 年英国《反贿赂法》 的相关要素。 例如，
+GitHub employees are required to participate in training on corruption, including bribery. We also provide additional training for particularly relevant people and teams, such as our sales team. The training explains relevant elements of the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010. For example,
 
-* 腐败的定义和结构影响
-* 涵盖的人员，包括
-  * 公职人员或身居要职的其他人员
-  * 第三方
+* definition and structural effects of corruption
+* who is covered, including
+  * public officials or others in a position of power
+  * third parties
 
-* 涵盖的活动种类，包括
-  * 现金、礼品、旅行和招待
-  * 疏通费
-  * 慈善捐款和赞助
+* what kind of activity is covered, including
+  * cash, gifts, travel, and entertainment
+  * facilitation payments
+  * charitable contributions and sponsorship
 
-* 出于什么目的，包括
-  * 意图
-  * 不正当优势或影响
+* for what purpose, including
+  * intent
+  * improper advantage or influence
 
-* 尽职调查和危险信号
-* 记录保留要求
+* due diligence and red flags
+* record-keeping requirements
 
-此外，培训还涵盖 GitHub 有关反腐败和贿赂的内部政策，包括我们的禁止报复（举报者）政策。
+In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
 
-美国《反海外腐败法》主要针对与政府官员的互动，而英国 《反贿赂法》涵盖范围更广，延伸到禁止贿赂任何人，无论他们是否为政府官员。 这两项法律均可延伸到管辖 GitHub 在全球其他地方的行动。 GitHub 的政策禁止贿赂全球任何地方的任何人。
+While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
 
-[与合作伙伴合作](#engaging-our-partners)
+[Engaging our Partners](#engaging-our-partners)
 ----------
 
-* GitHub 的标准**渠道合作伙伴转售协议**包括强制性的反腐败条款。 从今往后，GitHub 要求我们的渠道合作伙伴承诺遵守本反腐败声明。
-* 从现在开始，GitHub 的**供应商合同**要求承诺遵守《微软供应商行为准则》或本反腐败声明。
+* GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
+* Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
 
 {"resolvedServerColorMode":"day"}

@@ -1,28 +1,28 @@
-GitHub 혐오 발언 및 차별 금지 방침 - GitHub Docs
+GitHub Hate Speech and Discrimination - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+[Home](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [혐오 발언 및 차별 금지 방침](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Site policy](/ko/site-policy)/
+* [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies)/
+* [Hate Speech and Discrimination](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-GitHub 혐오 발언 및 차별 금지 방침
+GitHub Hate Speech and Discrimination
 ==========
 
-GitHub는 연령, 체구, 능력, 민족성, 젠더 정체성 및 표현, 경력(경험 수준), 국적, 외모, 인종, 종교, 성 정체성 또는 성적 지향 등 정체성을 근거로 하여 개인 또는 집단을 공격하거나 그들을 대상으로 증오심을 조장하는 발언을 용납하지 않습니다. 여기에는
+GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
 
-* 상기의 신념이나 특성을 근거로 하여 개인 또는 집단을 조롱하거나 공격하거나 배제하는 행위
-* 알려진 테러리스트 또는 폭력적인 과격 단체와의 명백한 결연 또는 일체성을 과시하는 행위
-* 증오 집단 또는 증오 기반 음모론을 지지하거나 조장하는 행위
-* 증오를 의미하는 상징물(기호) 또는 이미지를 공유하는 행위
-* 유해한 고정 관념, 비방 또는 비인격적 발언을 사용하는 행위
-* 인지된 성별(젠더)에 근거하여 한 개인을 공격하는 행위
-* 개 휘파람(Dog whistling) 행위, 또는 모욕 또는 증오심을 조장하기 위해 코드화되거나 암시적인 언어 및/또는 기호를 사용하는 행위
+* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
+* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
+* Supporting or promoting hate groups or hate-based conspiracy theories
+* Sharing symbols or images synonymous with hate
+* Using harmful stereotypes, slurs, or dehumanizing speech
+* Attacking an individual based on their perceived gender
+* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
 
-GitHub는 플랫폼의 모든 모욕 및 괴롭힘 사례를 심각하게 받아들이고 있으며, 특히 과거부터 그러한 모욕의 표적이 되었던 공동체에 지나치게 영향을 미치는 증오 기반 모욕 행위를 퇴치하기 위해 최선을 다하고 있습니다. 당사는 GitHub를 누구나 환대를 받고 안심할 수 있는 곳으로 만드는 것을 목표로 삼고 있습니다.
+While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
 
 {"resolvedServerColorMode":"day"}

@@ -1,92 +1,92 @@
-Directives de la communauté GitHub - Documentation GitHub
+GitHub Community Guidelines - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+[Home](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Directives de la communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)
+* [Site policy](/fr/site-policy)/
+* [GitHub Terms](/fr/site-policy/github-terms)/
+* [GitHub Community Guidelines](/fr/site-policy/github-terms/github-community-guidelines)
 
-Directives de la communauté GitHub
+GitHub Community Guidelines
 ==========
 
-Dans cet article
+In this article
 ----------
 
-* [Maintenir une communauté forte](#maintaining-a-strong-community)
-* [Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
-* [Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
-* [Appel et rétablissement](#appeal-and-reinstatement)
-* [Mentions légales](#legal-notices)
+* [Maintaining a strong community](#maintaining-a-strong-community)
+* [What if something or someone offends you?](#what-if-something-or-someone-offends-you)
+* [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
+* [Appeal and Reinstatement](#appeal-and-reinstatement)
+* [Legal Notices](#legal-notices)
 
-Des millions de développeurs à travers le monde hébergent des millions de projets, à la fois open source et fermés, sur GitHub. Nous avons la chance de pouvoir jouer un rôle dans la collaboration quotidienne au sein de la communauté des développeurs, une responsabilité que nous ne prenons pas à la légère. Ensemble, nous avons tous la formidable opportunité d'en faire une communauté dont nous pouvons être fiers.
+Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
-Notre base d'utilisateurs diversifiée apporte des perspectives, des idées et des expériences différentes, allant des personnes qui ont créé leur premier projet « Hello World » la semaine dernière aux développeurs de logiciels les plus connus au monde. Nous nous engageons à faire de GitHub un environnement qui accueille toutes les différentes voix et perspectives que notre communauté a à offrir, tout en maintenant un endroit sûr où les développeurs peuvent faire leur meilleur travail.
+Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
 
-En décrivant ce que nous pensons être une [communauté sûre, accueillante et productive](https://opensource.guide/building-community/) sur GitHub, nous espérons vous aider à comprendre comment interagir et collaborer au mieux sur notre plateforme, conformément à nos [Conditions d’utilisation du service](/fr/site-policy/github-terms/github-terms-of-service) et [Règles de bon usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+By outlining what we think a [safe, welcoming, and productive community](https://opensource.guide/building-community/) looks like at GitHub, we hope to help you understand how best to interact and collaborate on our platform in line with our [Terms of Service](/fr/site-policy/github-terms/github-terms-of-service) and [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-Nous encourageons les membres de notre communauté à communiquer clairement leurs attentes, à [modérer](#what-if-something-or-someone-offends-you) leurs projets lorsque cela est possible, et à [signaler](https://github.com/contact/report-abuse) tout contenu susceptible de violer nos [politiques](/fr/site-policy/github-terms/github-terms-of-service). Le personnel de GitHub enquêtera sur tout signalement de mauvaise utilisation et pourra modérer le contenu public sur notre site que nous déterminons comme étant en violation de nos Conditions d'utilisation du service.
+We encourage our community members to communicate expectations clearly, [moderate](#what-if-something-or-someone-offends-you) their projects where possible, and [report](https://github.com/contact/report-abuse) any content that may violate our [policies](/fr/site-policy/github-terms/github-terms-of-service). GitHub Staff will investigate any reports of abuse, and may moderate public content on our site that we determine to be in violation of our Terms of Service.
 
-[Maintenir une communauté forte](#maintaining-a-strong-community)
+[Maintaining a strong community](#maintaining-a-strong-community)
 ----------
 
-L'objectif principal de la communauté GitHub est de collaborer sur des projets logiciels. Nous nous engageons à maintenir une communauté où les utilisateurs sont libres de s'exprimer et de contester les idées des autres, à la fois techniques et autres. En même temps, il est important que les utilisateurs restent respectueux et permettent aux autres de contribuer ouvertement. Afin de favoriser à la fois un environnement sûr et productif, nous encourageons les membres de notre communauté à consulter ces directives pour savoir comment ils interagissent sur notre plateforme. Ci-dessous, vous trouverez quelques suggestions sur la façon d'avoir des interactions réussies en tant que membre apprécié de la communauté GitHub.
+The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
 
-* **Soyez accueillant et ouvert d’esprit** : de nouveaux utilisateurs rejoignent notre communauté chaque jour. Certains sont des développeurs bien établis, tandis que d'autres ne font que commencer. Soyez ouvert à d'autres idées et niveaux d'expérience. Faites de la place aux opinions autres que les vôtres et accueillez les nouveaux collaborateurs et ceux qui débutent.
+* **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
 
-* **Soyez respectueux** : travailler dans un environnement collaboratif signifie que des désaccords peuvent survenir. Mais n'oubliez pas de critiquer les idées, pas les gens. Partagez des critiques réfléchies et constructives et soyez courtois envers ceux avec qui vous interagissez. Si vous ne pouvez pas vous engager avec respect, envisagez de prendre du recul ou d'utiliser certains de nos outils de modération pour désamorcer une situation tendue.
+* **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
 
-* **Faites preuve d'empathie** : GitHub est une communauté mondiale composée de personnes issues d'horizons et de points de vue très divers, dont beaucoup peuvent ne pas être les vôtres. Essayez de vous mettre à la place des autres et de comprendre leurs sentiments avant de vous adresser à eux. Faites de votre mieux pour aider à faire de GitHub une communauté où les autres se sentent en sécurité pour apporter des contributions, participer à des discussions et partager différentes idées.
+* **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
-[Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
+[What if something or someone offends you?](#what-if-something-or-someone-offends-you)
 ----------
 
-Bien que certains désaccords puissent être résolus par une communication directe et respectueuse entre les membres de la communauté, nous comprenons que ce n'est pas toujours le cas. Nous encourageons notre communauté à contacter le support GitHub via le [portail de support GitHub](https://support.github.com/) lorsqu'elle croit que le contenu ou l'activité qu'elle a rencontré enfreint nos stratégies. Cependant, si vous rencontrez quelque chose ou quelqu'un sur le site que vous trouvez répréhensible, voici quelques façons dont GitHub vous permet d'agir :
+While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to contact GitHub Support through the [GitHub Support portal](https://support.github.com/) when they believe content or activity they’ve encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitHub enables you to take action:
 
-* **Communiquez les attentes**. Les responsables peuvent définir des recommandations spécifiques à la communauté pour aider les utilisateurs à comprendre comment interagir avec leurs projets, par exemple, dans un fichier README d’un dépôt, un [fichier CONTRIBUTING](/fr/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) ou un [code de conduite dédié](/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). Vous trouverez des informations supplémentaires sur la création de communautés sur la page [Communautés](/fr/communities).
+* **Communicate expectations** - Maintainers can set community-specific guidelines to help users understand how to interact with their projects, for example, in a repository’s README, [CONTRIBUTING file](/fr/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), or [dedicated code of conduct](/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). You can find additional information on building communities on the [Communities](/fr/communities) page.
 
-* **Modérez les commentaires**. Les utilisateurs disposant de [privilèges d’accès en écriture](/fr/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization) pour un dépôt peuvent [modifier, supprimer ou masquer les commentaires de quiconque](/fr/communities/moderating-comments-and-conversations/managing-disruptive-comments) sur les « commits », les « pull requests » et les « issues ». Toute personne disposant d'un accès en lecture à un référentiel peut afficher l'historique des modifications d'un commentaire. Les auteurs de commentaires et les personnes disposant d’un accès en écriture à un dépôt peuvent également supprimer les informations sensibles de l’[historique des modifications d’un commentaire](/fr/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). La modération de vos projets peut sembler être une lourde tâche si leur activité est importante, mais vous pouvez [ajouter des collaborateurs](/fr/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) qui vous aideront à gérer votre communauté.
+* **Moderate Comments** - Users with [write-access privileges](/fr/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization) for a repository can [edit, delete, or hide anyone's comments](/fr/communities/moderating-comments-and-conversations/managing-disruptive-comments) on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can also delete sensitive information from a [comment's edit history](/fr/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). Moderating your projects can feel like a big task if there is a lot of activity, but you can [add collaborators](/fr/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) to assist you in managing your community.
 
-* **Verrouillez les conversations** . Si une discussion dans une « issue », une « pull request » ou une « commit » devient incontrôlable, hors sujet, ou viole le code de conduite de votre projet ou les politiques de GitHub, les propriétaires, les collaborateurs et toute autre personne ayant un accès en écriture peuvent verrouiller temporairement ou de façon permanente la conversation. Pour plus d’informations, consultez « [Verrouillage des conversations](/fr/communities/moderating-comments-and-conversations/locking-conversations) ».
+* **Lock Conversations** - If a discussion in an issue, pull request, or commit gets out of hand, off topic, or violates your project’s code of conduct or GitHub’s policies, owners, collaborators, and anyone else with write access can put a temporary or permanent lock on the conversation. For more information, see "[Locking conversations](/fr/communities/moderating-comments-and-conversations/locking-conversations)."
 
-* **Bloquez les utilisateurs** . Si vous rencontrez un utilisateur spécifique avec lequel vous préférez ne pas interagir, vous pouvez [bloquer l’utilisateur de votre compte personnel](/fr/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) ou [de votre organisation](/fr/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization).
+* **Block Users** - If you encounter a specific user who you would rather not engage with, you can [block the user from your personal account](/fr/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) or [from your organization](/fr/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization).
 
-* **Limitez les interactions**. Si votre projet public fait l’objet d’une attention indésirable, d’une attaque de trolls, de spam ou autre, vous avez la possibilité de définir des [limites d’interaction temporaires](/fr/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) pour empêcher certains utilisateurs d’interagir avec votre dépôt. Vous pouvez même fixer des [limites de révision du code](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) pour garantir la qualité des contributions à vos projets.
+* **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting [temporary interaction limits](/fr/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) to keep certain users from interacting with your repository. You can even set [code review limits](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) to ensure quality contributions on your projects.
 
-Bien que nous ayons à cœur de permettre aux responsables de modérer leurs propres projets, veuillez contacter nous via le [portail de support GitHub](https://support.github.com) si vous avez besoin d'une aide supplémentaire pour faire face à une situation.
+While we are passionate about empowering maintainers to moderate their own projects, please contact us through the [GitHub Support portal](https://support.github.com) if you need additional support in dealing with a situation.
 
-[Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
+[What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
-Nous nous appuyons sur les rapports de la communauté, ainsi que sur une détection proactive, pour nous assurer que GitHub est une plate-forme sûre, accueillante et productive pour les développeurs de logiciels. Il existe une variété de facteurs que nous prenons en compte lorsque nous sommes informés d'un comportement ou d'un contenu non conforme aux politiques de GitHub. Cependant, notre approche d'application des politiques et de modération du contenu donne la priorité à notre vision d'être la maison de tous les développeurs. Ça signifie :
+We rely on reports from the community, as well as proactive detection, to help ensure that GitHub is a safe, welcoming, and productive platform for software developers. There are a variety of factors we consider when we’re made aware of behavior or content not in line with GitHub’s policies. However, our policy enforcement and content moderation approach prioritizes our vision to be the home for all developers. This means:
 
-* Nous optimisons pour la collaboration de code. Nous reconnaissons que le code peut avoir plusieurs utilisations et nous distinguons la manière dont le code est utilisé sur la plateforme et les autres utilisations possibles. Nous réfléchissons également à la manière dont nos mesures d'application peuvent affecter un réseau potentiellement complexe d'interdépendances sur la plate-forme et visons à restreindre le moins possible de contenu légitime.
+* We optimize for code collaboration. We recognize that code can have multiple uses and we distinguish between how the code is being used on the platform and other possible uses. We also think about how our enforcement actions can affect a potentially complicated web of interdependencies across the platform and aim to restrict as little legitimate content as possible.
 
-* Nous adoptons une approche centrée sur l'humain pour la modération de contenu et nous adaptons nos réponses pour répondre aux besoins d'une situation spécifique. Notre équipe mondiale examine les rapports que nous recevons au cas par cas, en tenant compte du contexte et des faits environnants, avant de prendre des mesures. Cela peut inclure la prise en compte du contenu potentiellement offensant publié d'une manière qui manque de contexte ou qui permet à d'autres utilisateurs de voir ou d'interagir facilement sans le savoir lors de l'utilisation de GitHub. Dans ces cas, nous pouvons privilégier la modération afin de protéger notre communauté.
+* We take a human-centered approach to content moderation and we tailor our responses to meet the needs of a specific situation. Our global team investigates the reports we receive on a case-by-case basis—considering context and the surrounding facts—before taking action. This could include taking into account potentially offensive content being posted in a way that lacks context or makes it easy for other users to unwittingly view or interact with while using GitHub. In those instances, we may favor moderation in order to safeguard our community.
 
-* Nos décisions sont ancrées dans notre conviction fondamentale que servir une communauté interconnectée et favoriser le progrès humain grâce à la collaboration des développeurs nécessite un engagement envers la diversité, l'inclusion et l'appartenance.
+* Our decisions are rooted in our core belief that serving an interconnected community and empowering human progress through developer collaboration requires a commitment to diversity, inclusion, and belonging.
 
-Lorsque nous avons décidé qu'une action de modération est justifiée, voici quelques-unes des façons dont nous pouvons répondre :
+Where we have decided that moderation action is warranted, these are some of the ways we may respond:
 
-* Suppression du contenu incriminé
-* Bloquer ou désactiver le contenu incriminé
-* Dégrader la visibilité du contenu incriminé
-* Masquer un compte d'utilisateur ou une organisation à la vue du public
-* Suspendre un compte d'utilisateur ou une organisation
+* Removing the offending content
+* Blocking or disabling the offending content
+* Downgrading the visibility of the offending content
+* Hiding a user account or organization from public view
+* Suspending a user account or organization
 
-[Appel et rétablissement](#appeal-and-reinstatement)
+[Appeal and Reinstatement](#appeal-and-reinstatement)
 ----------
 
-Si votre contenu ou votre compte a été désactivé ou restreint et que vous souhaitez le rétablir ou faire appel, veuillez consulter notre [page Appel et réintégration](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) pour obtenir des informations sur la procédure et utiliser notre [formulaire d’appel et de réintégration](https://support.github.com/contact/reinstatement) pour soumettre une demande.
+If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
 
-[Mentions légales](#legal-notices)
+[Legal Notices](#legal-notices)
 ----------
 
-Les présentes Recommandations de la communauté sont placées dans le domaine public afin que chacun puisse les utiliser, les réutiliser ou encore les adapter, selon les modalités de [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Il ne s’agit là que de recommandations ; elles ne modifient pas nos [Conditions d’utilisation du service](/fr/site-policy/github-terms/github-terms-of-service) et ne sont pas destinées à constituer une liste exhaustive. En vertu de ces conditions, GitHub conserve toute latitude pour supprimer tout contenu ou résilier tout compte en cas d’activité violant nos [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies). Ces lignes directrices décrivent quand nous exercerons ce pouvoir discrétionnaire.
+These are only guidelines; they do not modify our [Terms of Service](/fr/site-policy/github-terms/github-terms-of-service) and are not intended to be a complete list. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies). These guidelines describe when we will exercise that discretion.
 
 {"resolvedServerColorMode":"day"}
