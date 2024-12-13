@@ -1,24 +1,24 @@
-GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
+Угрозы насилия и неоправданно жестокое содержимое на GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
-* [Threats of Violence and Gratuitously Violent Content](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Политика сайта](/ru/site-policy)/
+* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
+* [Угрозы насилия и неоправданно жестокое содержимое](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-GitHub Threats of Violence and Gratuitously Violent Content
+Угрозы насилия и неоправданно жестокое содержимое на GitHub
 ==========
 
-You may not use GitHub to organize, promote, encourage, threaten, or incite acts of violence. You may not post content that depicts or glorifies violence or physical harm against human beings or animals. This includes:
+Вы не можете использовать GitHub для организации, продвижения, поощрения, угроз или подстрекательства к актам насилия. Вы не можете публиковать содержимое, которое изображает или прославляет насилие или физический вред людям или животным. Сюда входит следующее:
 
-* Threatening another individual or group with abuse, harm, sexual violence, or death
-* Posting text, imagery, or audio content glorifying or containing a graphic depiction of violence toward oneself, another individual, group, or animal
-* Encouraging another individual to engage in self harm
+* Угрозы другому лицу или группе жестоким обращением, причинением вреда, сексуальным насилием или смертью
+* Публикация текста, изображений или аудиоконтента, прославляющего или содержащего графическое изображение насилия по отношению к себе, другому человеку, группе или животному.
+* Побуждение другого человека к самоповреждению
 
-We do not allow violent content to be posted indiscriminately or in a way that is difficult for other users to avoid, such as a profile avatar or an issue comment. However, we understand there may be legitimate reasons to post violent content, such as for educational or documentary purposes, creative works, or depictions of historical events. In those cases, a clear warning or disclaimer can help users make an educated decision as to whether or not they want to engage with such content. Still, GitHub may decide to limit the visibility of such content to those who choose to opt in.
+Мы не разрешаем размещать материалы, содержащие насилие, без разбора или таким образом, чтобы другим пользователям было трудно их избежать, например, в виде аватара профиля или комментария к проблеме. Однако мы понимаем, что могут быть законные причины для размещения материалов, содержащих насилие, например, в образовательных или документальных целях, творческих работ или изображений исторических событий. В таких случаях четкое предупреждение или отказ от ответственности могут помочь пользователям принять обоснованное решение о том, хотят ли они взаимодействовать с таким содержимым. Тем не менее, GitHub может решить ограничить видимость такого содержимого теми, кто решит подписаться.
 
 {"resolvedServerColorMode":"day"}

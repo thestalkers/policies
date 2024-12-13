@@ -1,102 +1,102 @@
-GitHub Gifts and Entertainment Policy - GitHub Docs
+GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [GitHub Company Policies](/de/site-policy/github-company-policies)/
-* [GitHub Gifts and Entertainment Policy](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Websiterichtlinie](/de/site-policy)/
+* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
+* [GitHub-Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
-GitHub Gifts and Entertainment Policy
+GitHub-Richtlinie zu Geschenken und Unterhaltung
 ==========
 
-In this article
+In diesem Artikel
 ----------
 
-* [Company policies](#company-policies)
-* [Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
-* [Process](#process)
-* [Consequences](#consequences)
-* [More information](#more-information)
+* [Unternehmensrichtlinien](#company-policies)
+* [Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
+* [Prozess](#process)
+* [Konsequenzen](#consequences)
+* [Weitere Informationen](#more-information)
 
-GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
+GitHub erkennt an, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil der Entwicklung dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, einschließlich der Nutzung solcher Interaktionen, um einen besonderen Vorteil zu schaffen oder ein Geschäft zu beeinflussen.
 
-[Company policies](#company-policies)
+[Unternehmensrichtlinien](#company-policies)
 ----------
 
-As a reminder, our Code of Ethics states:
+Zur Erinnerung: In unserem Ethikkodex heißt es:
 
 >
 >
-> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
+> Sie dürfen niemals etwas anderes von Wert zahlen, anbieten, versprechen, versprechen, veranlassen, annehmen oder autorisieren, an irgendjemanden – einschließlich an Personen in einer Macht- oder Autoritätsposition, wie z. B. Regierungsbeamte oder bei kommerziellen Transaktionen – um ein Geschäft zu erhalten oder aufrechtzuerhalten oder um sich einen anderen unangemessenen Vorteil für GitHub oder Microsoft zu sichern. Sie dürfen auch keine Bestechungsgelder, Schmiergelder oder andere unzulässige Barzahlungen erbitten oder annehmen. ... [GitHub Mitarbeiter] sind verpflichtet, genaue und faire Aufzeichnungen über alle Transaktionen zu führen, die Ausgaben beinhalten, die im Namen von GitHub getätigt wurden – beispielsweise durch das Aufbewahren von Quittungen und das Bereitstellen genauer Beschreibungen Ihrer Ausgaben – sowie alle anderen Transaktionen, die die Veräußerung oder Übertragung von GitHub-Vermögenswerten beinhalten. Solche Maßnahmen werden vom US Foreign Corrupt Practices Act, dem Vereinigten Königreich, verlangt Bribery Act of 2010 und Antikorruptionsgesetze anderer Jurisdiktionen, in denen GitHub geschäftlich tätig ist, und sind ebenfalls einfach das Richtige.
 >
 >
 
-GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
+Der Ethikkodex von GitHub geht auf bestimmte Situationen ein, darunter Geschenke, Reisen und Bewirtung; Erleichterung von Zahlungen; Spenden für wohltätige Zwecke; Arbeitsplätze; und die Zusammenarbeit mit Vertretern sowie darüber, wer als Regierungsbeamter gilt.
 
-Our Standards of Conduct prohibit:
+Unsere Verhaltensstandards verbieten:
 
 >
 >
-> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+> Bestechung von Regierungsbeamten oder anderen Personen, um sich einen unfairen Vorteil zu verschaffen, und Annahme von Bestechungsgeldern von irgendjemandem.
 >
 >
 
-That means not only no cash or cash equivalent of any kind, but nothing of value, should be given to anyone (including civil servants, government officials, or anyone in a position of power or authority, as well as people not in any of those privileged positions) in order to influence them or taken from anyone to influence GitHub. Such activity is prohibited by the U.S. Foreign Corrupt Practices Act and UK Anti-Bribery laws, both of which govern GitHub’s actions globally.
+Das bedeutet, dass nicht nur Bargeld oder Bargeldäquivalente jeglicher Art, sondern auch nichts von Wert an irgendjemanden (einschließlich Beamte, Regierungsbeamte oder Personen in Macht- oder Autoritätspositionen sowie Personen, die in keiner dieser Positionen stehen) gegeben werden sollte privilegierte Positionen), um sie zu beeinflussen, oder jemandem genommen, um GitHub zu beeinflussen. Solche Aktivitäten sind durch den US Foreign Corrupt Practices Act und die UK Anti-Bribery-Gesetze verboten, die beide die Handlungen von GitHub weltweit regeln.
 
-[Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
+[Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
-So what does “of value” mean? Keep in mind that no gifts are acceptable for government officials (ok, maybe stickers). You should always ask them what their policies permit and prohibit. But if in doubt, please run it by Legal to make sure. For example, many U.S. congresspeople will not let you take them out for dinner and pay.
+Was bedeutet also „wertvoll“? Denken Sie daran, dass keine Geschenke für Regierungsbeamte akzeptiert werden (ok, vielleicht Aufkleber). Sie sollten sie immer fragen, was ihre Richtlinien erlauben und verbieten. Aber im Zweifelsfall lassen Sie es bitte von der Rechtsabteilung laufen, um sicherzugehen. Zum Beispiel lassen sich viele US-Kongressabgeordnete nicht zum Abendessen ausführen und bezahlen.
 
-As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In addition, if the intention is to improperly influence, anything, however small, might be considered "of value."
+Für andere Kunden oder potenzielle Kunden mögen bestimmte Dinge trivial erscheinen, aber für jemand anderen einen großen Wert haben. Auch wenn es Ihnen zum Beispiel keine große Sache zu sein scheint, die Tochter Ihres Freundes als Praktikantin einzustellen, könnte es für sie von großem Wert sein. Aber wenn sie nicht qualifiziert ist und du an den Fäden ziehst, damit es passiert, dann ist es nicht in Ordnung. Wenn die Absicht darin besteht, unangemessen Einfluss zu nehmen, kann außerdem alles, auch wenn es noch so klein ist, als „wertvoll“ angesehen werden.
 
-🙅 *Here are some other things that aren't ok:*
+🙅 *Hier sind einige andere Beispiele für Dinge, die nicht in Ordnung sind:*
 
-* First class airfare to GitHub offices for Executive Briefings ✈️+🍾
-* Winery tours 🍷
-* Recommending a friend’s kid to a prestigious private school for admission 🎓
-* Tickets to Disneyland 👸, the World Cup 🥅, the Olympics 🏅
-* A futbol ⚽️ autographed by a famous player
-* A contribution to a charity
+* Flugticket erster Klasse zu den Standorten von GitHub für Executive Briefings ✈️+🍾
+* Weingut-Touren 🍷
+* Das Kind eines Freundes zur Aufnahme in eine angesehene Privatschule empfehlen 🎓
+* Eintrittskarten für Disneyland 👸, die WM 🥅, die Olympischen Spiele 🏅
+* Ein Fußball ⚽️ signiert von einem berühmten Spieler
+* Ein Beitrag für eine Wohltätigkeitsorganisation
 
-🙆 *Here is some stuff that is actually ok for customers or prospective customers:*
+🙆 *Hier sind einige Dinge, die für Kunden oder potenzielle Kunden für gewöhnlich in Ordnung sind:*
 
-* Swag
-* Economy class airfare to GitHub offices for Executive Briefings ✈️
-* Bleacher-type tickets to a sporting event ⚾️
-* A reasonably priced dinner in town 🍽
-* A small box of chocolates as an end of year thank you 🍫
+* Beute
+* Flug in der Economy Class zu GitHub-Büros für Executive Briefings ✈️
+* Tribünentickets für eine Sportveranstaltung ⚾️
+* Ein preiswertes Abendessen in der Stadt 🍽
+* Eine kleine Schachtel Pralinen als Dankeschön zum Jahresende 🍫
 
-All of the above applies to *taking* bribes too. So if a vendor or prospective vendor sends you something “of value,” don’t accept it—or at least run it by Legal before you do.
+Alle oben genannten Punkte gelten auch für die *Annahme* von Bestechungsgeldern. Wenn Ihnen also ein Anbieter oder potenzieller Anbieter etwas „Wertvolles“ sendet, nehmen Sie es nicht an – oder lassen Sie es zumindest von der Rechtsabteilung überprüfen, bevor Sie es tun.
 
-[Process](#process)
+[Prozess](#process)
 ----------
 
-If you are planning to provide or accept an informal gift (that is not one of our promotional items like t-shirts and sticker swag), please make sure to follow the process below.
+Wenn Sie vorhaben, ein informelles Geschenk zu machen oder anzunehmen (das nicht zu unseren Werbeartikeln wie T-Shirts und Aufklebern gehört), befolgen Sie bitte unbedingt das nachstehende Verfahren.
 
-Keep in mind that what's an acceptable amount can vary. For example, spending $50 on dinner might be considered a lot of money in some countries but not as much in others. So, when in doubt, ask!
+Denken Sie daran, dass eine akzeptable Menge variieren kann. Beispielsweise kann es in einigen Ländern als viel Geld angesehen werden, $50 für ein Abendessen auszugeben, in anderen jedoch nicht so viel. Also im Zweifelsfall nachfragen!
 
-1. Generally speaking, for any expenses exceeding $150, you'll need approval (each time) from Legal in writing. And for any gifts you receive exceeding $150, you'll need to report that (each time) to Legal in writing. (Legal is just weighing in on the bribery question. You might still need to check with Finance for other reasons.)
+1. Im Allgemeinen benötigen Sie für Ausgaben, die $150 übersteigen, (jedes Mal) eine schriftliche Genehmigung der Rechtsabteilung. Und für alle Geschenke, die Sie erhalten, die $150 überschreiten, müssen Sie dies (jedes Mal) der Rechtsabteilung schriftlich melden. (Die Rechtsabteilung mischt sich nur in die Frage der Bestechung ein. Möglicherweise müssen Sie sich aus anderen Gründen noch bei Finance erkundigen.)
 
-2. When you submit your expense report for reimbursement, please:
+2. Wenn Sie Ihre Spesenabrechnung zur Erstattung einreichen, gehen Sie bitte wie folgt vor:
 
-   * Indicate the recipient and the purpose of the gift in the notes; and
-   * Include a copy of the email approval
+   * Geben Sie den Empfänger und den Zweck des Geschenks in den Anmerkungen an; und
+   * Fügen Sie eine Kopie der E-Mail-Genehmigung bei
 
-[Consequences](#consequences)
+[Konsequenzen](#consequences)
 ----------
 
-What happens if you don’t follow the policy and GitHub ends up paying for a prospective customer and his family to fly first class to Japan and attend the Tokyo Olympics? Or if you drop off a suitcase of Euros for a government official in a pre-arranged train station locker?
+Was passiert, wenn Sie die Richtlinie nicht befolgen und GitHub am Ende dafür bezahlt, dass ein potenzieller Kunde und seine Familie in der ersten Klasse nach Japan fliegen und an den Olympischen Spielen in Tokio teilnehmen? Oder wenn Sie einen Euro-Koffer für einen Regierungsbeamten in einem vorab eingerichteten Schließfach am Bahnhof abgeben?
 
-FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend a few years in jail, yourself, and it won’t matter if the customer ever submitted an order to GitHub after their trip to Japan or if the government official even picked up the suitcase of cash. Basically, it doesn’t matter whether you actually *made* a bribe. Yoda notwithstanding, it’s the trying that counts.
+Geldstrafen und Gefängnis. Auch nicht unbedingt nur für GitHub. Sie könnten selbst ein paar Jahre im Gefängnis verbringen, und es spielt keine Rolle, ob der Kunde nach seiner Reise nach Japan jemals eine Bestellung bei GitHub aufgegeben hat oder ob der Regierungsbeamte sogar den Koffer mit Bargeld abgeholt hat. Im Grunde ist es egal, ob Sie tatsächlich *erfolgreich* mit der Bestechung waren. Ungeachtet Yoda zählt der Versuch.
 
-[More information](#more-information)
+[Weitere Informationen](#more-information)
 ----------
 
-For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
+Weitere Informationen und Hintergründe zu Regeln, Durchsetzung und Strafen finden Sie beim US-Justizministerium: Der [Ressourcenleitfaden zum US Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) ist eine hervorragende Ressource.
 
 {"resolvedServerColorMode":"day"}

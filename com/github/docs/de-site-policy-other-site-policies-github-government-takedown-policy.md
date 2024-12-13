@@ -1,71 +1,71 @@
-GitHub Government Takedown Policy - GitHub Docs
+GitHub Government Takedown-Richtlinie - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Other Site Policies](/de/site-policy/other-site-policies)/
-* [GitHub Government Takedown Policy](/de/site-policy/other-site-policies/github-government-takedown-policy)
+* [Websiterichtlinie](/de/site-policy)/
+* [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/
+* [GitHub Government Takedown-Richtlinie](/de/site-policy/other-site-policies/github-government-takedown-policy)
 
-GitHub Government Takedown Policy
+GitHub Government Takedown-Richtlinie
 ==========
 
-In this article
+In diesem Artikel
 ----------
 
-* [What is this?](#what-is-this)
-* [What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
-* [What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-* [Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
-* [What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-* [Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-* [Transparency reporting](#transparency-reporting)
+* [Was ist das?](#what-is-this)
+* [Was ist ein vollständiger Deaktivierungsantrag der Regierung?](#what-is-a-complete-government-takedown-request)
+* [Was passiert, wenn wir von einer Regierung einen vollständigen Deaktivierungsantrag erhalten?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+* [Warum veröffentlichen wir Deaktivierungsmitteilungen öffentlich?](#why-do-we-publicly-post-takedown-notices)
+* [Was bedeutet es, wenn wir eine Mitteilung in unserem Gov-Takedowns-Repository veröffentlichen?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+* [Deaktivierungen durch Regierungen aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+* [Transparenzberichterstattung](#transparency-reporting)
 
-[What is this?](#what-is-this)
+[Was ist das?](#what-is-this)
 ----------
 
-From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software.
+Von Zeit zu Zeit erhält GitHub Anfragen von Regierungen, Inhalte zu entfernen, die in ihrer lokalen Gerichtsbarkeit für rechtswidrig erklärt wurden. Obwohl wir diesen Gesetzen möglicherweise nicht immer zustimmen, müssen wir möglicherweise Inhalte blockieren, wenn wir eine vollständige Anfrage von einem Regierungsbeamten erhalten, damit unsere Benutzer in dieser Gerichtsbarkeit weiterhin Zugriff auf GitHub haben, um zusammenzuarbeiten und Software zu erstellen.
 
-[What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
+[Was ist ein vollständiger Deaktivierungsantrag der Regierung?](#what-is-a-complete-government-takedown-request)
 ----------
 
-To count as a complete request, a request or notice must
+Um als vollständiger Antrag zu gelten, muss ein Antrag oder eine Mitteilung vorliegen
 
-* come from a relevant, official government agency
-* identify illegal content
-* specify the source of illegality in that jurisdiction (law or court order).
+* Stammen von einer zuständigen, offiziellen Regierungsbehörde
+* Rechtswidrige Inhalte erkennen
+* Geben Sie die Quelle der Rechtswidrigkeit in dieser Gerichtsbarkeit an (Gesetz oder Gerichtsbeschluss).
 
-[What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+[Was passiert, wenn wir von einer Regierung einen vollständigen Deaktivierungsantrag erhalten?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 ----------
 
-When we receive a notice from a relevant, official government agency that identifies illegal content and specifies the source of the illegality, we
+Wenn wir eine Mitteilung von einer zuständigen offiziellen Regierungsbehörde erhalten, die illegale Inhalte identifiziert und die Quelle der Rechtswidrigkeit angibt, werden wir
 
-* notify the affected users of the specific content that allegedly violates the law, and that this is a legal takedown request
-* allow the affected users to appeal the decision as part of that notification
-* limit the geographic scope of the takedown when possible and include that as part of the notification
-* post the official request that led to the takedown in our public [gov-takedowns repository](https://github.com/github/gov-takedowns).
+* Benachrichtigen Sie die betroffenen Benutzer über die konkreten Inhalte, die mutmaßlich gegen das Gesetz verstoßen, und dass es sich um einen rechtlichen Deaktivierungsantrag handelt
+* Ermöglichen Sie den betroffenen Benutzern, die Entscheidung als Teil dieser Benachrichtigung anzufechten
+* Beschränken Sie den geografischen Umfang der Deaktivierung nach Möglichkeit und nehmen Sie dies als Teil der Benachrichtigung auf
+* den offiziellen Antrag als Begründung angeben, der dann in der frei zugänglichen Datenbank [gov-takedowns-Repository](https://github.com/github/gov-takedowns) abrufbar ist.
 
-[Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
+[Warum veröffentlichen wir Deaktivierungsmitteilungen öffentlich?](#why-do-we-publicly-post-takedown-notices)
 ----------
 
-We are concerned about Internet censorship, and believe that transparency on a specific and ongoing level is essential to good governance. By publicly posting the notices, we can better inform the public about what content is being withheld from GitHub, and why. We post takedown notices to document their potential to chill speech.
+Wir sind besorgt über die Internetzensur und glauben, dass Transparenz auf einer bestimmten und dauerhaften Ebene für eine gute Regierungsführung unerlässlich ist. Durch die öffentliche Veröffentlichung der Mitteilungen können wir die Öffentlichkeit besser darüber informieren, welche Inhalte von GitHub zurückgehalten werden und warum. Wir veröffentlichen Deaktivierungsmitteilungen, um ihr Potenzial zu dokumentieren, die Sprache zu unterdrücken.
 
-[What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+[Was bedeutet es, wenn wir eine Mitteilung in unserem Gov-Takedowns-Repository veröffentlichen?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 ----------
 
-It means that we received the notice on the indicated date. It does *not* mean that the content was unlawful or wrong. It does *not* mean that the user identified in the notice has done anything wrong. We don't make or imply any judgment about the merit of the claims they make. We post these notices and requests only for informational purposes.
+Dies bedeutet, dass wir die Benachrichtigung am angegebenen Datum erhalten haben. Es bedeutet *nicht*, dass der Inhalt rechtswidrig oder falsch war. Es bedeutet *nicht*, dass der in der Benachrichtigung identifizierte Benutzer etwas falsch gemacht hat. Wir treffen oder implizieren kein Urteil über die Berechtigung der von ihnen erhobenen Ansprüche. Wir veröffentlichen diese Mitteilungen und Anfragen nur zu Informationszwecken.
 
-[Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+[Deaktivierungen durch Regierungen aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 ----------
 
-In some cases, GitHub receives reports from government officials of violations of GitHub's Terms of Service. We process those violations as we would process a Terms-of-Service violation reported by anyone else. However, we notify the affected users that the report came from a government and, as with any other case, allow them the opportunity to appeal.
+In einigen Fällen erhält GitHub Berichte von Regierungsbeamten über Verstöße gegen die Nutzungsbedingungen von GitHub. Wir behandeln diese Verstöße so, wie wir einen Verstoß gegen die Nutzungsbedingungen behandeln würden, der von jemand anderem gemeldet wird. Wir benachrichtigen die betroffenen Benutzer jedoch darüber, dass die Meldung von einer Regierung stammt, und geben ihnen wie in jedem anderen Fall die Möglichkeit, Einspruch einzulegen.
 
-[Transparency reporting](#transparency-reporting)
+[Transparenzberichterstattung](#transparency-reporting)
 ----------
 
-In addition to posting government takedown notices in our `github/gov-takedowns` repository, we report on them in our transparency report. We also track and report in our transparency report on government takedowns based on violations of GitHub's Terms of Service.
+Zusätzlich zur Veröffentlichung von Anträgen auf Entfernung durch Regierungen in unserem `github/gov-takedowns` Repository, berichten wir über diese Fälle auch in unserem Transparenzbericht. Wir verfolgen und melden in unserem Transparenzbericht auch behördliche Deaktivierungen aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub.
 
 {"resolvedServerColorMode":"day"}

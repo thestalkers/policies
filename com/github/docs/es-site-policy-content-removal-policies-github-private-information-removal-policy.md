@@ -1,115 +1,115 @@
-GitHub Private Information Removal Policy - GitHub Docs
+Política de eliminación de información privada de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 
-* [Site policy](/es/site-policy)/
-* [Content Removal Policies](/es/site-policy/content-removal-policies)/
-* [GitHub Private Information Removal Policy](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [Política del sitio](/es/site-policy)/
+* [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)/
+* [Política de eliminación de información privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-GitHub Private Information Removal Policy
+Política de eliminación de información privada de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
-* [What is Private Information?](#what-is-private-information)
-* [Things to Know](#things-to-know)
-* [How Does This Actually Work?](#how-does-this-actually-work)
-* [Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
-* [How to Submit Your Request](#how-to-submit-your-request)
-* [Disputes](#disputes)
+* [¿Qué es la información privada?](#what-is-private-information)
+* [Cosas que saber](#things-to-know)
+* [¿Cómo funciona esto realmente?](#how-does-this-actually-work)
+* [Envío de una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
+* [Cómo enviar su solicitud](#how-to-submit-your-request)
+* [Disputas](#disputes)
 
-We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
+Ofrecemos este proceso de eliminación de información privada como un servicio excepcional sólo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. Esta guía describe la información que GitHub necesita de usted para procesar una solicitud para eliminar información privada de un repositorio.
 
-[What is Private Information?](#what-is-private-information)
+[¿Qué es la información privada?](#what-is-private-information)
 ----------
 
-For the purposes of this document, “private information” refers to content that (i) should have been kept confidential, *and* (ii) whose public availability poses a specific or targeted security risk to you or your organization.
+A efectos de este documento, se entiende por «información privada» el contenido que (i) debería haberse mantenido confidencial, *y* (ii) cuya disponibilidad pública represente un riesgo de seguridad específico o concreto para usted o su organización.
 
-"Security risk" refers to a situation involving exposure to physical danger, identity theft, or increased likelihood of unauthorized access to physical or network facilities.
+"Riesgo de seguridad" se refiere a una situación que involucra exposición a peligro físico, robo de identidad o mayor probabilidad de acceso no autorizado a instalaciones físicas o de red.
 
-### [Private information removal requests are appropriate for:](#private-information-removal-requests-are-appropriate-for) ###
+### [Las solicitudes de eliminación de información privada son apropiadas para:](#private-information-removal-requests-are-appropriate-for) ###
 
-* Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
-* AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
-* Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization.
-* [Information](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
+* Credenciales de acceso, como nombres de usuario combinados con contraseñas, tokens de acceso u otros secretos confidenciales que pueden otorgar acceso al servidor, la red o el dominio de su organización.
+* Tokens de AWS y otras credenciales de acceso similares que otorgan acceso a un tercero en su nombre. Debe poder demostrar que la ficha le pertenece.
+* Documentación (como diagramas de red o arquitectura) que representa un riesgo de seguridad específico para una organización.
+* [Información](/es/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) relacionada con usted y que, como individuo, supone un riesgo para la seguridad (como números del seguro social u otros números de identificación gubernamentales).
 
-### [Private information removal requests are *not* appropriate for:](#private-information-removal-requests-are-not-appropriate-for) ###
+### [Las solicitudes de eliminación de información privada *no* son adecuadas para:](#private-information-removal-requests-are-not-appropriate-for) ###
 
-* Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
-* Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture.
-* Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
-* Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/es/site-policy/content-removal-policies/dmca-takedown-policy). The private information removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of private information in those files. While there may be cases where files are filled entirely with private information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
-* Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/es/site-policy/content-removal-policies/github-trademark-policy).
-* Privacy complaints. If you wish to access, transfer, change, or delete your personal information on GitHub, please contact us via [our Privacy contact form](https://github.com/contact/privacy).
-* Content governed by our [Community Guidelines](/es/site-policy/github-terms/github-community-guidelines), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can contact us through the [GitHub Support portal](https://support.github.com/) to report content.
+* Nombres de servidores internos, direcciones IP y URL, por sí solos. Debe poder demostrar que su uso en un archivo o pieza de código en particular representa una amenaza para la seguridad.
+* Las meras menciones de la identidad, el nombre, la marca, el nombre de dominio de su empresa u otras referencias a su empresa en los archivos de GitHub. Debe ser capaz de articular por qué el uso de la identidad de su empresa es una amenaza para la postura de seguridad de su empresa.
+* Archivos completos o repositorios que no representan un riesgo de seguridad específico, pero que cree que son objetables.
+* Solicitudes para eliminar contenido que pueda infringir sus derechos de autor o los de su organización. Si tiene alguna pregunta sobre cómo gestiona GitHub las cuestiones relativas a los derechos de autor o si desea denunciar contenido potencialmente infractor, consulte nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy). El proceso de eliminación de información privada generalmente no está pensado para la eliminación de archivos o repositorios completos: solo para partes específicas de información privada en dichos archivos. Si bien puede haber casos en los que los archivos se llenen completamente con información privada, debe justificar el riesgo de seguridad por la eliminación de dichos archivos, y esto puede aumentar el tiempo necesario para procesar su solicitud.
+* Disputas de marcas registradas. Si tiene preguntas sobre cómo gestiona GitHub las cuestiones relativas a las marcas comerciales o desea informar sobre contenidos que incluyan marcas comerciales o de servicio de su organización, revise nuestra [Directiva de Marcas Registradas](/es/site-policy/content-removal-policies/github-trademark-policy).
+* Quejas de privacidad. Si desea acceder, transferir, modificar o eliminar su información personal en GitHub, póngase en contacto con nosotros a través de [nuestro formulario de contacto de Privacidad](https://github.com/contact/privacy).
+* Contenido que se rige por nuestras [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas acerca de nuestras Directrices de la Comunidad o cree que el contenido de GitHub podría infringir nuestras directrices, puede contactar con nosotros mediante el [Portal de soporte de GitHub](https://support.github.com/) para informarse del contenido.
 
-[Things to Know](#things-to-know)
+[Cosas que saber](#things-to-know)
 ----------
 
-**Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by creating an issue or pull request in the repository. This is not strictly required, but it is appreciated.
+**Pregunte educadamente primero.** Un excelente primer paso antes de enviarnos una solicitud para eliminar datos es tratar de contactar al usuario directamente. Es posible que hayan enumerado la información de contacto en su página de perfil público o en el archivo LÉAME o de soporte del repositorio, o puede ponerse en contacto creando un problema o una solicitud de extracción en el repositorio. Esto no es estrictamente necesario, pero se agradece.
 
-**No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints often include data that does not pose any security threats, and they do not include sufficient explanations, requiring additional back-and-forth and resulting in delays, even when the complaint is valid.
+**Sin bots.** Debe hacer que un profesional capacitado evalúe los hechos de cada solicitud que envíe. Si está subcontratando sus esfuerzos a un tercero, asegúrese de saber cómo funcionan y asegúrese de que no estén utilizando bots automatizados para enviar quejas a granel. Estas quejas a menudo incluyen datos que no representan ninguna amenaza para la seguridad y no incluyen explicaciones suficientes, lo que requiere un intercambio adicional y genera demoras, incluso cuando la queja es válida.
 
-**Send In The Correct Request.** As noted above, we offer this private information removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing private information removal requests. We will be able to help you more quickly if you send in your private information removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only private information or also involves other legal matters, please consult legal counsel.
+**Envíe la solicitud correcta.** Como se indicó anteriormente, ofrecemos este proceso de eliminación de información privada como un servicio excepcional solo para contenido de alto riesgo. No podemos usar este proceso para eliminar otros tipos de contenido, como contenido potencialmente infractor, y no podemos procesar ningún otro tipo de solicitud de eliminación simultáneamente mientras procesamos solicitudes de eliminación de información privada. Podremos ayudarlo más rápidamente si envía sus solicitudes de eliminación de información privada por separado de cualquier solicitud para eliminar contenido potencialmente infractor. Si no está seguro de si su solicitud involucra solo información privada o también involucra otros asuntos legales, consulte a un asesor legal.
 
-**Processing Time.** While we do process private information removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
+**Tiempo de Procesamiento.** Si bien procesamos las solicitudes de eliminación de información privada lo más rápido posible, debido al volumen de solicitudes que procesamos, puede llevar algún tiempo revisar su solicitud. Las solicitudes adicionales, o múltiples solicitudes de puntos de contacto adicionales, pueden ocasionar demoras.
 
-[How Does This Actually Work?](#how-does-this-actually-work)
+[¿Cómo funciona esto realmente?](#how-does-this-actually-work)
 ----------
 
-1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about private information on any individual's or organization's behalf.
+1. **El demandante investiga.** Corresponde a la parte solicitante llevar a cabo su propia investigación y facilitarnos los [detalles que solicitamos](#your-request-must-include) y, lo más importante, una explicación de las razones por las que los datos suponen un riesgo para la seguridad. GitHub no está en condiciones de buscar o tomar determinaciones iniciales sobre información privada en nombre de ninguna persona u organización.
 
-2. **Complainant Sends a Private Information Removal Request.** After conducting an investigation, the complainant prepares and [sends a private information removal request](#sending-a-private-information-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
+2. **El demandante envía una solicitud de eliminación de información privada.** Después de llevar a cabo una investigación, el demandante prepara y [envía una solicitud de eliminación de información privada](#sending-a-private-information-removal-request) a GitHub. Si la solicitud no es lo suficientemente detallada para demostrar el riesgo de seguridad y para que GitHub localice los datos, le responderemos y le pediremos más información.
 
-3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the private information specified in the request or to dispute the claim.
+3. **GitHub solicita al usuario que realice cambios.** En la mayoría de los casos, nos pondremos en contacto con el usuario que creó el depósito y le daremos la oportunidad de eliminar o modificar la información privada especificada en la solicitud o de disputar la reclamación.
 
-4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
+4. **El usuario notifica a GitHub los cambios.** Si el usuario elige realizar los cambios especificados, debe comunicárnoslo dentro del período de tiempo que se le ha permitido. Si no lo hacen, deshabilitaremos el repositorio. Si el usuario nos notifica que realizó cambios, verificaremos que los cambios se hayan realizado y notificaremos al reclamante.
 
-   OR
+   O
 
-5. **User May Dispute the Request.** If a user believes the content in question is not private information subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
+5. **El usuario puede impugnar la solicitud.** Si un usuario cree que el contenido en cuestión no es información privada sujeta a esta Política, puede disputarlo. Si lo hacen, generalmente dejaremos que el denunciante se comunique con el usuario y resuelva las cosas directamente con él, dentro de lo razonable.
 
-6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
+6. **Cambios en las revisiones del demandante.** Si el usuario realiza cambios, el reclamante debe revisarlos. Si los cambios son insuficientes, el reclamante debe proporcionar a GitHub detalles que expliquen por qué. GitHub puede deshabilitar el repositorio o darle al usuario una oportunidad adicional para realizar los cambios.
 
-7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the private information specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
+7. **El usuario puede solicitar un plazo adicional para realizar los cambios.** Si el usuario perdió la oportunidad de eliminar la información privada especificada en el aviso, podemos permitirle una ventana adicional de aproximadamente 1 día hábil, previa solicitud, para realizar esos cambios. En ese caso, GitHub notificará al denunciante.
 
-### [What About Forks? (or What's a Fork?)](#what-about-forks-or-whats-a-fork) ###
+### [¿Qué pasa con las horquillas? (o ¿Qué es un tenedor?)](#what-about-forks-or-whats-a-fork) ###
 
-One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/es/get-started/learning-about-github/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
+Una de las mejores características de GitHub es la capacidad de los usuarios de "bifurcar" los repositorios de los demás. ¿Qué significa eso? En esencia, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden realizar cambios en esa bifurcación para retroceder al proyecto principal o simplemente mantener su propia variación de un proyecto. Cada una de estas copias es un «[Glosario de GitHub](/es/get-started/learning-about-github/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
 
-GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending private information removal requests to conduct that investigation and, if they believe that the forks also contain private information, expressly include forks in their request.
+GitHub no deshabilitará automáticamente las bifurcaciones cuando deshabilite un repositorio matriz. Esto se debe a que las bifurcaciones pertenecen a diferentes usuarios y pueden haber sido alteradas de manera significativa. GitHub no realiza ninguna investigación independiente sobre las bifurcaciones. Esperamos que quienes envían solicitudes de eliminación de información privada realicen esa investigación y, si creen que las bifurcaciones también contienen información privada, las incluyan expresamente en su solicitud.
 
-If at the time that you submitted your notice, you identified all existing forks of that repository, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the reported content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, based on the representative number of forks you have reviewed, you believe that all or most of the forks contain the content reported in the parent repository.
+Si en el momento en que envió su notificación, identificó todas las bifurcaciones existentes de ese repositorio, procesaríamos un reclamo válido contra todas las bifurcaciones en esa red en el momento en que procesemos la notificación. Haríamos esto dada la probabilidad de que todas las bifurcaciones recién creadas tuvieran el mismo contenido. Además, si la red informada que contiene el contenido informado tiene más de cien (100) repositorios y, por lo tanto, sería difícil revisarla en su totalidad, podemos considerar deshabilitar toda la red si indica en su aviso que, en base a la número representativo de bifurcaciones que ha revisado, cree que todas o la mayoría de las bifurcaciones contienen el contenido informado en el repositorio principal.
 
-[Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
+[Envío de una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
 ----------
 
-Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported private information completely, we need to know exactly where to look.
+Debido al tipo de contenido que aloja GitHub (principalmente código de software) y la forma en que se administra el contenido (con Git), necesitamos que las quejas sean lo más específicas posible. Para que podamos verificar que un usuario ha eliminado completamente la información privada informada, necesitamos saber exactamente dónde buscar.
 
-These guidelines are designed to make the processing of requests to remove private information as straightforward as possible.
+Estas pautas están diseñadas para hacer que el procesamiento de solicitudes para eliminar información privada sea lo más sencillo posible.
 
-### [Your Request Must Include:](#your-request-must-include) ###
+### [Su solicitud debe incluir:](#your-request-must-include) ###
 
-1. A working, clickable link to each file containing private information. (Note that we're not able to work from search results, examples, or screenshots.)
-2. Specific line numbers within each file containing the private information.
-3. A brief description of how each item you've identified poses a security risk to you or your organization. ***It is important that you provide an explanation of how the data poses a security risk beyond merely stating that it does.***
-4. If you are a third party acting as an agent for an organization facing a security risk, include a statement that you have a legal right to act on behalf of that organization.
-5. OPTIONAL: Let us know if your request is particularly urgent, and why. We respond to all private information removal requests as quickly as possible. However, if this request is especially time-sensitive, such as a very recent credential exposure, please explain why.
+1. Un enlace funcional en el que se puede hacer clic para cada archivo que contiene información privada. (Tenga en cuenta que no podemos trabajar a partir de resultados de búsqueda, ejemplos o capturas de pantalla).
+2. Números de línea específicos dentro de cada archivo que contiene la información privada.
+3. Una breve descripción de cómo cada elemento que ha identificado representa un riesgo de seguridad para usted o su organización. ***Es importante ofrecer una explicación de por qué los datos suponen un riesgo para la seguridad más allá de limitarse a indicar que lo hacen.***
+4. Si es un tercero que actúa como agente de una organización que enfrenta un riesgo de seguridad, incluya una declaración de que tiene el derecho legal de actuar en nombre de esa organización.
+5. OPCIONAL: Díganos si su solicitud es especialmente urgente y por qué. Respondemos a todas las solicitudes de eliminación de información privada lo más rápido posible. Sin embargo, si esta solicitud es especialmente urgente, como una exposición de credenciales muy reciente, explique por qué.
 
-[How to Submit Your Request](#how-to-submit-your-request)
+[Cómo enviar su solicitud](#how-to-submit-your-request)
 ----------
 
-You can submit your request to remove private information via our [contact form](https://support.github.com/contact?tags=docs-private-information). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
+Puede enviar su solicitud para eliminar información privada a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-private-information). Incluya una versión de texto sin formato de su solicitud en el cuerpo de su mensaje. Enviar su solicitud en un archivo adjunto puede provocar demoras en el procesamiento.
 
-[Disputes](#disputes)
+[Disputas](#disputes)
 ----------
 
-If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.
+Si ha recibido una solicitud de eliminación de información privada por nuestra parte, puede impugnarla respondiendo a nuestro correo electrónico y haciéndonos saber, con el máximo detalle posible, por qué cree que el contenido en cuestión no es información privada sujeta a esta Directiva.
 
 {"resolvedServerColorMode":"day"}

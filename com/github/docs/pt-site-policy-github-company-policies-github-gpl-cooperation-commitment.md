@@ -1,43 +1,43 @@
-GitHub GPL Cooperation Commitment - GitHub Docs
+Compromisso de Cooperação GitHub GPL - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [GitHub Company Policies](/pt/site-policy/github-company-policies)/
-* [GitHub GPL Cooperation Commitment](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+* [Política do site](/pt/site-policy)/
+* [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)/
+* [Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
-GitHub GPL Cooperation Commitment
+Compromisso de Cooperação GitHub GPL
 ==========
 
-This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
+Esse compromisso se refere às contribuições do GitHub para o Git, o kernel do Linux e outros programas sob licenças cobertas (role até o final para ver as definições).
 
-We based our statement on the [template](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) for companies. See the [GPL Cooperation Commitment site](https://gplcc.github.io/gplcc/) for how other companies, individuals, and projects can adopt this commitment.
+Nós nos baseamos em nossa declaração no [modelo](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Consulte o [Site do Compromisso de Cooperação GPL](https://gplcc.github.io/gplcc/) para saber como outras empresas, pessoas físicas e projetos podem adotar esse compromisso.
 
-[Our Commitment](#our-commitment)
+[Nosso compromisso](#our-commitment)
 ----------
 
-Before filing or continuing to prosecute any legal proceeding or claim (other than a Defensive Action) arising from termination of a Covered License, GitHub commits to extend to the person or entity (“you”) accused of violating the Covered License the following provisions regarding cure and reinstatement, taken from GPL version 3. As used here, the term ‘this License’ refers to the specific Covered License being enforced.
+Antes de arquivar ou continuar a processar qualquer processo legal ou reclamação (que não seja uma Ação Defensiva) decorrente da rescisão de uma Licença Coberta, o GitHub se compromete a estender à pessoa ou entidade ("você") acusada de violar a Licença Coberta as seguintes disposições sobre cura e restabelecimento, retirado da GPL versão 3. Conforme usado aqui, o termo 'esta Licença' refere-se à Licença Coberta específica que está sendo aplicada.
 
-However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
+No entanto, se você cessar todas as violações desta Licença, sua licença de um detentor de direitos autorais específico será restabelecida (a) provisoriamente, a menos e até que o detentor dos direitos autorais rescinda explícita e definitivamente sua licença, e (b) permanentemente, se o detentor dos direitos autorais falhar para notificá-lo da violação por algum meio razoável antes de 60 dias após a cessação.
 
-Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
+Além disso, sua licença de um detentor de direitos autorais em particular é restabelecida permanentemente se o detentor de direitos autorais notificar você sobre a violação por algum meio razoável, esta é a primeira vez que você recebe um aviso de violação desta Licença (para qualquer trabalho) desse detentor de direitos autorais, e você corrige a violação antes de 30 dias após o recebimento da notificação.
 
-GitHub intends this Commitment to be irrevocable, and binding and enforceable against GitHub and assignees of or successors to GitHub’s copyrights.
+O GitHub pretende que este Compromisso seja irrevogável, vinculativo e exequível contra o GitHub e cessionários ou sucessores dos direitos autorais do GitHub.
 
-GitHub may modify this Commitment by publishing a new edition on this page or a successor location.
+O GitHub pode modificar este Compromisso publicando uma nova edição nesta página ou em um local sucessor.
 
-Definitions
+Definições
 
-‘Covered License’ means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public License, version 2.1 (LGPLv2.1), or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation.
+'Licença Coberta' significa a GNU General Public License, versão 2 (GPLv2), a GNU Lesser General Public License, versão 2.1 (LGPLv2.1), ou a GNU Library General Public License, versão 2 (LGPLv2), todas publicadas por a Fundação do Software Livre.
 
-‘Defensive Action’ means a legal proceeding or claim that GitHub brings against you in response to a prior proceeding or claim initiated by you or your affiliate.
+'Ação defensiva' significa um processo legal ou reclamação que o GitHub traz contra você em resposta a um processo ou reclamação anterior iniciado por você ou seu afiliado.
 
-‘GitHub’ means GitHub, Inc. and its subsidiaries.
+'GitHub' significa GitHub, Inc. e suas subsidiárias.
 
-This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license.
+Este trabalho está disponível sob uma licença Creative Commons Attribution-ShareAlike 4.0 International.
 
 {"resolvedServerColorMode":"day"}

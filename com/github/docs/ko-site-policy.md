@@ -1,35 +1,35 @@
-Site policy documentation - GitHub Docs
+사이트 정책 설명서 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)
+* [사이트 정책](/ko/site-policy)
 
-Site policy documentation
+사이트 정책 설명서
 ==========
 
-[GitHub Terms](/ko/site-policy/github-terms)
+[GitHub 약관](/ko/site-policy/github-terms)
 ----------
 
-[Acceptable Use Policies](/ko/site-policy/acceptable-use-policies)
+[사용 제한 정책](/ko/site-policy/acceptable-use-policies)
 ----------
 
-[Privacy Policies](/ko/site-policy/privacy-policies)
+[개인정보보호정책](/ko/site-policy/privacy-policies)
 ----------
 
-[Other Site Policies](/ko/site-policy/other-site-policies)
+[다른 사이트 정책](/ko/site-policy/other-site-policies)
 ----------
 
-[Content Removal Policies](/ko/site-policy/content-removal-policies)
+[콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
 ----------
 
-[Security Policies](/ko/site-policy/security-policies)
+[보안 정책](/ko/site-policy/security-policies)
 ----------
 
-[GitHub Company Policies](/ko/site-policy/github-company-policies)
+[GitHub 회사 정책](/ko/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

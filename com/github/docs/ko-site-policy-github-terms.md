@@ -1,63 +1,63 @@
-GitHub Terms - GitHub Docs
+GitHub 약관 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [GitHub Terms](/ko/site-policy/github-terms)
+* [사이트 정책](/ko/site-policy)/
+* [GitHub 약관](/ko/site-policy/github-terms)
 
-GitHub Terms
+GitHub 약관
 ==========
 
-[GitHub Terms of Service](/ko/site-policy/github-terms/github-terms-of-service)
+[GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)
 ----------
 
-[GitHub Corporate Terms of Service](/ko/site-policy/github-terms/github-corporate-terms-of-service)
+[GitHub 기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service)
 ----------
 
-[GitHub Terms for Additional Products and Features](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[GitHub 추가 제품 및 기능 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub Community Guidelines](/ko/site-policy/github-terms/github-community-guidelines)
+[GitHub 커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)
 ----------
 
-[GitHub Community Code of Conduct](/ko/site-policy/github-terms/github-community-code-of-conduct)
+[GitHub 커뮤니티 준수 사항](/ko/site-policy/github-terms/github-community-code-of-conduct)
 ----------
 
-[GitHub Pre-release License Terms](/ko/site-policy/github-terms/github-pre-release-license-terms)
+[GitHub 시험판 사용 조건](/ko/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub Sponsors Additional Terms](/ko/site-policy/github-terms/github-sponsors-additional-terms)
+[GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
-[GitHub Registered Developer Agreement](/ko/site-policy/github-terms/github-registered-developer-agreement)
+[GitHub 등록 개발자 계약](/ko/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[GitHub Marketplace Terms of Service](/ko/site-policy/github-terms/github-marketplace-terms-of-service)
+[GitHub Marketplace 서비스 약관](/ko/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
-[GitHub Marketplace Developer Agreement](/ko/site-policy/github-terms/github-marketplace-developer-agreement)
+[GitHub Marketplace 개발자 계약](/ko/site-policy/github-terms/github-marketplace-developer-agreement)
 ----------
 
-[GitHub Research Program Terms](/ko/site-policy/github-terms/github-research-program-terms)
+[GitHub Research 프로그램 약관](/ko/site-policy/github-terms/github-research-program-terms)
 ----------
 
-[GitHub Open Source Applications Terms and Conditions](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[GitHub 오픈 소스 애플리케이션 계약조건](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 ----------
 
-[GitHub Event Terms](/ko/site-policy/github-terms/github-event-terms)
+[GitHub 이벤트 계약](/ko/site-policy/github-terms/github-event-terms)
 ----------
 
-[GitHub Event Code of Conduct](/ko/site-policy/github-terms/github-event-code-of-conduct)
+[GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
-[GitHub Educational Use Agreement](/ko/site-policy/github-terms/github-educational-use-agreement)
+[GitHub 교육 사용 규약](/ko/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
-[GitHub Copilot Extension Developer Policy](/ko/site-policy/github-terms/github-copilot-extension-developer-policy)
+[GitHub Copilot 확장 개발자 정책](/ko/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

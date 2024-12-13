@@ -1,19 +1,19 @@
-Guidelines for Legal Requests of User Data - GitHub Docs
+用户数据法律请求准则 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Other Site Policies](/zh/site-policy/other-site-policies)/
-* [Guidelines for Legal Requests of User Data](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+* [站点政策](/zh/site-policy)/
+* [其他站点政策](/zh/site-policy/other-site-policies)/
+* [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
-Guidelines for Legal Requests of User Data
+用户数据法律请求准则
 ==========
 
-In this article
+本文内容
 ----------
 
 * [About these guidelines](#about-these-guidelines)
@@ -60,29 +60,29 @@ Before asking us to disclose data, it may be useful to understand how our system
 GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
 Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-* [**Users**](/zh/get-started/learning-about-github/github-glossary#user):
+* [**Users**](/en/get-started/learning-about-github/github-glossary#user):
   Users are represented in our system as personal GitHub accounts.
   Each user has a personal profile, and can own multiple repositories.
   Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-* [**Collaborators**](/zh/get-started/learning-about-github/github-glossary#collaborator):
+* [**Collaborators**](/en/get-started/learning-about-github/github-glossary#collaborator):
   A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
-* [**Organizations**](/zh/get-started/learning-about-github/github-glossary#organization):
+* [**Organizations**](/en/get-started/learning-about-github/github-glossary#organization):
   Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
   They are administered by users and can contain both repositories and teams of users.
 
-* [**Repositories**](/zh/get-started/learning-about-github/github-glossary#repository):
+* [**Repositories**](/en/get-started/learning-about-github/github-glossary#repository):
   A repository is one of the most basic GitHub elements.
   They may be easiest to imagine as a project's folder.
   A repository contains all of the project files (including documentation), and stores each file's revision history.
   Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-* [**Pages**](/zh/pages/getting-started-with-github-pages/about-github-pages):
+* [**Pages**](/en/pages/getting-started-with-github-pages/about-github-pages):
   GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
   If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-* [**Gists**](/zh/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists):
+* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists):
   Gists are snippets of source code or other text that users can use to store ideas or share with friends.
   Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
   Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
@@ -122,7 +122,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-* []()**Private account data:**GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/zh/site-policy/privacy-policies/github-privacy-statement).
+* []()**Private account data:**GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
   This may include:
 
   * Private email addresses

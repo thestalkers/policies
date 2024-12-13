@@ -1,34 +1,34 @@
-GitHub Doxxing and Invasion of Privacy - GitHub Docs
+GitHub Doxxing и вторжение в частную жизнь - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
-* [Doxxing and Invasion of Privacy](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+* [Политика сайта](/ru/site-policy)/
+* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
+* [Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
-GitHub Doxxing and Invasion of Privacy
+GitHub Doxxing и вторжение в частную жизнь
 ==========
 
-Don't post other people's personal information. This includes:
+Не публикуйте личную информацию других людей. Сюда входит следующее:
 
-* Personal, private email addresses
-* Phone numbers
-* Physical addresses or other private location information
-* Bank account information or credit card numbers
-* Social Security/National Identity numbers
-* Passwords
-* Voter information
-* Medical information and personal biometric data
-* Other private information that may pose a safety or security risk
+* Личные, частные адреса электронной почты
+* Номера телефонов
+* Физические адреса или другая частная информация о местоположении
+* Информация о банковском счете или номера кредитных карт
+* Номера социального страхования/национальные идентификационные номера
+* Пароли
+* Сведения об избирателях
+* Медицинская информация и персональные биометрические данные
+* Другая личная информация, которая может представлять угрозу безопасности.
 
-We may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject, such as in the case of intimidation or harassment.
+Мы можем рассматривать другую информацию, такую как фотографии или видео, которые были сняты или распространены без согласия субъекта, как вторжение в частную жизнь, особенно когда такой материал представляет угрозу безопасности субъекта, например, в случае запугивания или преследования.
 
-GitHub will take context into account as well as whether the reported content is publicly available elsewhere. Please note, however, that while sharing publicly available content may not be a violation of this policy, if the information is shared with the intent to harass or incite other abusive behavior, it may violate our prohibition against [bullying and harassment](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment).
+GitHub примет во внимание контекст, а также то, является ли опубликованное содержимое общедоступным в другом месте. Обратите внимание, однако, что, хотя обмен общедоступным содержимым может не являться нарушением этой политики, если информация передается с намерением беспокоить или подстрекать к другому оскорбительному поведению, это может нарушать наш запрет на [издевательства и домогательства](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment).
 
-For more information, or to learn how to report a violation, see our [Private Information Removal Policy](/ru/site-policy/content-removal-policies/github-private-information-removal-policy) and our instructions for [Reporting Abuse](/ru/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+Дополнительные сведения, а также информация о том, как сообщить о нарушении, приведены в нашей [Политике удаления частной информации](/ru/site-policy/content-removal-policies/github-private-information-removal-policy) и наших инструкциях по [Сообщению о нарушениях](/ru/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
 
 {"resolvedServerColorMode":"day"}

@@ -1,309 +1,309 @@
-GitHub Marketplace Developer Agreement - GitHub Docs
+GitHub Marketplace 开发人员协议 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [GitHub Terms](/zh/site-policy/github-terms)/
-* [GitHub Marketplace Developer Agreement](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
+* [站点政策](/zh/site-policy)/
+* [GitHub 条款](/zh/site-policy/github-terms)/
+* [GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace Developer Agreement
+GitHub Marketplace 开发人员协议
 ==========
 
-In this article
+本文内容
 ----------
 
-* [1. DEFINITIONS](#1definitions)
-* [2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
-* [3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
-* [4. TAKEDOWNS](#4takedowns)
-* [5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
-* [6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
-* [7. OWNERSHIP](#7ownership)
-* [8. LIMITATION OF LIABILITY](#8limitation-of-liability)
-* [9. INDEMNIFICATION](#9indemnification)
-* [10. TERMINATION](#10termination)
-* [11. MODIFICATION](#11modification)
-* [12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
-* [13. SEVERABILITY](#13severability)
-* [14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
-* [15. NOTICE](#15-notice)
-* [16. GOVERNING LAW](#16-governing-law)
-* [17. EXPORT RESTRICTIONS](#17-export-restrictions)
-* [18. USAGE DATA](#18-usage-data)
-* [19. PRE-RELEASE ACCESS](#19-pre-release-access)
+* [1.定义](#1definitions)
+* [2.用途和许可授予](#2purpose-and-license-grant)
+* [3.限制和责任](#3restrictions-and-responsibilities)
+* [4.下架](#4takedowns)
+* [5.声明、保证和承诺](#5representations-warranties-and-covenants)
+* [6. 付费应用程序或产品](#6paid-applications-or-products)
+* [7.所有权](#7ownership)
+* [8. 责任限制](#8limitation-of-liability)
+* [9.赔偿](#9indemnification)
+* [10.终止](#10termination)
+* [11.修改](#11modification)
+* [12.转让；完整协议；修订](#12assignment-entire-agreement-revisions)
+* [13.可分割性](#13severability)
+* [14.缔约方关系](#14-relationship-of-the-parties)
+* [15.通知](#15-notice)
+* [16.管辖法律](#16-governing-law)
+* [17.出口限制](#17-export-restrictions)
+* [18.使用数据](#18-usage-data)
+* [19. 预发布访问](#19-pre-release-access)
 
-**These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
+**参与 GitHub 的 Marketplace 计划必须遵守这些条款和条件（以下简称“协议”）。注册参与 Marketplace 计划或单击下面的“I Accept”（我接受），即表示你确认自己理解本协议，并接受其所有条款和条件。如果你代表公司或其他法律实体签订本协议，则表示你拥有让该实体受本协议约束的法律权限，在这种情况下，“你”即表示你所代表的实体。**
 
-Effective Date: May 17, 2024
+生效日期：2024 年 5 月 17 日
 
-[1. DEFINITIONS](#1definitions)
+[1.定义](#1definitions)
 ----------
 
-Capitalized terms utilized in this Agreement and not defined shall otherwise have the meaning provided in the GitHub Terms of Service located at [https://docs.github.com/articles/github-terms-of-service](/zh/site-policy/github-terms/github-terms-of-service). Those Terms of Service are referred to as the “Terms” or “ToS”.
+本协议中使用但未定义的大写术语，其含义须与位于 [https://docs.github.com/articles/github-terms-of-service](/zh/site-policy/github-terms/github-terms-of-service) 的“GitHub 服务条款”中提供的含义相同。 这些服务条款称为“条款”或“ToS”。
 
-"Action" means a workflow that allows you to implement custom logic to perform a particular task with GitHub without having to create an application.
+“操作”是指可用于实施自定义逻辑而不必创建应用程序来执行 GitHub 特定任务的工作流程。
 
-“Brand Features” means the trademarks and similar intellectual property of each party.
+“品牌特征”是指各方的商标和类似的知识产权。
 
-"Developer" or "You" means the company or individual who has created the Developer Application.
+“开发人员”或“你”是指创建开发人员应用程序的公司或个人。
 
-"Developer Application" or "Developer Product" means the software, related content and other digital materials created by You for use in connection with GitHub and accessible via Marketplace. This includes Actions, GitHub Copilot Extensions, and other applications or products that use or interact with generative artificial intelligence (AI) technology.
+“开发人员应用程序”或“开发人员产品”是指你创建的可用于 GitHub 并且可通过 Marketplace 访问的软件、相关内容和其他数字资料。 这包括操作、GitHub Copilot 扩展以及使用生成式人工智能 (AI) 技术或与之交互的其他应用程序或产品。
 
-“End User” means any person, company or other legal entity that will acquire licenses to a Developer Product via the GitHub Marketplace.
+“最终用户”是指将通过 GitHub Marketplace 获得开发人员产品许可的任何个人、公司或其他法律实体。
 
-“GitHub API” means any proprietary application programming interface developed by GitHub, and includes the GitHub Copilot API. Access to and use of a GitHub API is governed by the ToS.
+“GitHub API”是指 GitHub 开发的任何专有应用程序编程接口，包括 GitHub Copilot API。 GitHub API 的访问和使用受 ToS 约束。
 
-“GitHub Marketplace” or “Marketplace” means the proprietary online marketplace site operated by GitHub where Developer Products may be delivered to End Users.
+“GitHub Marketplace”或“Marketplace”是指由 GitHub 运营的专有在线市场站点，开发人员产品可通过该站点交付给最终用户。
 
-“Listing” means the content provided for listing the Developer Product on GitHub Marketplace.
+“上架产品”是指为在 GitHub Marketplace 上展示开发人员产品所提供的内容。
 
-“Taxes” means any tax, of any kind or sort regardless of origin, including interest or penalties thereon.
+“税款”是指任何种类或类型的税款，无论其来源如何，包括相关利息或罚金。
 
-“Token” means the credentials Developer must obtain to access a GitHub API.
+“令牌”是指开发人员必须获取才能访问 GitHub API 的凭证。
 
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
+“使用数据”是指就最终用户使用 GitHub Marketplace 和开发人员产品的许可签发生成的 Marketplace 相关数据，包括但不限于使用情况统计和销售数据汇总。 使用数据不包括并且特别排除银行信息和支付信息。
 
-[2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
+[2.用途和许可授予](#2purpose-and-license-grant)
 ----------
 
-**2.1**	This Agreement sets forth the terms that govern a Developer publishing Listings on GitHub Marketplace for End Users to use Developer Products. This Agreement is applicable to all Developer Products, regardless if distributed for free or for a fee. Developer agrees to use the GitHub Marketplace solely for the purposes permitted by this Agreement. Developer is solely responsible for its Developer Products.
+**2.1** 本协议规定了管理开发人员在 GitHub Marketplace 上发布上架产品以供最终用户使用开发人员产品的条款。 本协议适用于所有开发人员产品，无论免费还是收费分发。 开发人员同意仅将 GitHub Marketplace 用于本协议允许的用途。 开发人员自行负责其开发人员产品。
 
-**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to process the Listing in any fashion (including testing and displaying it on Marketplace), and to display Developer’s Brand Features in connection with Marketplace.
+**2.2** 开发人员授予 GitHub 非排他性、全球性、可转让、可转授权、已付清、免版税的许可证，允许 GitHub 以任何方式处理“上架产品”（包括在 Marketplace 中测试和展示），并在 Marketplace 上展示开发人员的品牌特征。
 
-**2.3**	In addition to the licenses granted above, GitHub may include Developer Brand Features in any material marketing Marketplace. If Developer stops distributing a Developer Product on Marketplace, GitHub will stop use of the discontinued products’ Brand Features.
+**2.3** 除上述授予的许可外，GitHub 可在任何材料营销 Marketplace 中包含开发人员品牌特征。 如果开发人员停止在 Marketplace 中分发开发人员产品，GitHub 将停止使用已停用产品的品牌特征。
 
-**2.4**	Developer must include a separate end user license agreement (“EULA”) in its Developer Products that will govern the End User’s rights to the Developer Products. Developer acknowledges and agrees that the applicable EULA for each Developer Product is solely between Developer and the End User. GitHub shall not be responsible, nor have any liability whatsoever, under any EULA.
+**2.4** 开发人员必须在其开发人员产品中包括一个单独的最终用户许可协议（“EULA”），以约束最终用户对开发人员产品的权利。 开发人员确认并同意，每个开发人员产品的适用 EULA 仅限于开发人员与最终用户之间的约定。 GitHub 不须根据任何 EULA 而承担任何责任或任何义务。
 
-**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Developer Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features. Each party is responsible for protecting and enforcing its own rights and neither party has an obligation to do so on the other’s behalf.
+**2.5** 除了本协议中授予的许可权之外，(a) 开发人员保留对开发人员产品的所有权利；(b) 每一方都保留其独立于本协议之外的所有权利，包括根据《美国版权法》或其他司法管辖区的类似法律所享有的权利；并且 (c) 每一方拥有对各自品牌的所有权利、所有权和权益。 每一方都有责任保护和履行其拥有的权利，并且任何一方都没有义务代表另一方这样做。
 
-**2.6**	GitHub shall be entitled to provide Developer’s name, address and other contact details to any third party as required by law or that reasonably, in GitHub’s sole determination, claims that Developer does not possess all of the necessary intellectual property rights in or to the Developer Products.
+**2.6** 对于根据法律要求或合理（GitHub 自行确定其合理性）声称开发人员不具备对开发人员产品的所有必要知识产权的任何第三方，GitHub 有权向其提供开发人员的名称、地址和其他联系详细信息。
 
-[3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
+[3.限制和责任](#3restrictions-and-responsibilities)
 ----------
 
-Notwithstanding any of the requirements set forth in Section 2 (Purpose and License Grant) above, Developer's use of Marketplace is explicitly conditioned on Developer’s adherence to this Agreement, including the restrictions and compliance requirements set forth below.
+不论上文第 2 节（用途和许可授予）中规定何种要求，开发人员使用 Marketplace 的明确前提是开发人员遵守本协议，包括下面规定的限制和合规要求。
 
-**3.1**	Developer agrees it will protect the privacy and legal rights of all End Users with respect to the use of Developer Products. If an End User provides Developer with, or the Developer Product otherwise collects, discloses, accesses or uses, End User Personal Data, then the Developer must (a) inform End Users that such information will be available to the Developer Products; (b) provide a legally adequate privacy notice and protection to End Users; (c) obtain valid End User consent as required, and (d) comply with all other data privacy obligations applicable to Developer.
+**3.1** 开发人员同意保护所有最终用户在使用开发人员产品方面的隐私权和合法权利。 如果最终用户向开发人员提供，或开发人员产品以其他方式收集、披露、访问或使用，最终用户个人数据，那么开发人员必须 (a) 告知最终用户此类信息将被提供给开发人员产品；(b) 向最终用户提供法律上适当的隐私权通知和保护；(c) 按要求获得有效的最终用户同意，以及 (d) 遵守适用于开发人员的所有其他数据隐私义务。
 
-**3.2**	In order to use and access a GitHub API, Developer must obtain a Token by becoming a subscriber. Developer may not share its Token with any third party, shall keep its Token and all login information secure, and shall use the Token as Developer’s sole means of accessing a GitHub API.
+**3.2** 要使用和访问 GitHub API，开发人员必须通过成为订阅者来获得令牌。 开发人员不得与任何第三方分享其令牌，须保证其令牌和所有登录信息的安全，并且须使用此令牌作为开发人员访问 GitHub API 的唯一手段。
 
-**3.3**	Developer will not engage in any activity with Marketplace, including attempting to distribute any Developer Product, that violates GitHub's Terms of Service including [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). Additionally, Developer will not attempt to distribute any Developer Product that:
+**3.3** 开发人员不会参与 Marketplace 的任何活动，包括尝试分发任何违反 GitHub 服务条款（包括[可接受使用政策](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)）的开发人员产品。 此外，开发人员不会尝试分发任何以下开发人员产品：
 
-* 1. Contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system);
-* 2. Enables the unauthorized download of streaming content or media; or
-* 3. Diverts End Users or provides links to any other site that mimics Marketplace or passes itself off as Marketplace
+* 1. 包含或安装任何主动恶意软件或漏洞利用程序，或者使用我们的平台传递漏洞利用程序（例如将其嵌入在命令和控制系统中）；
+* 2. 允许未经授权下载流内容或媒体；或
+* 3. 将最终用户转到模仿 Marketplace 或冒充 Marketplace 的任何其他网站，或者提供跳转到该等网站的链接
 
-**3.4** With respect to Developer Products that interact with generative AI technology, including GitHub Copilot Extensions, Developer will:
+**3.4** 对于与生成式 AI 技术交互的开发人员产品（包括 GitHub Copilot 扩展），开发人员将：
 
-* 1. Test the Developer Product using various inputs to ensure that outputs do not violate this Agreement;
-* 2. Notify users when they are interacting with generative AI content;
-* 3. Have a mechanism for End Users to report feedback to GitHub and Developer related to errors, bugs, improper, or undesired outputs; and
-* 4. Inform End Users the appropriate use cases, best practices, and limitations of the Developer Product.
+* 1. 使用各种输入测试开发人员产品，以确保输出不违反本协议；
+* 2. 当用户与生成式 AI 内容交互时通知用户；
+* 3. 为最终用户提供向 GitHub 和开发人员报告与错误、bug、不当或不想要的输出相关反馈的机制；以及
+* 4. 告知最终用户开发人员产品的相应用例、最佳做法和限制。
 
-**3.5**	Developer shall not by any means repackage or resell Marketplace, a GitHub API, Personal Data, or Usage Data. Developer is not permitted to use a GitHub API or any Personal Data or Usage Data in any manner that does or could undermine the security of the Service, a GitHub API, Usage Data or any other data or information stored or transmitted using Marketplace. In addition, Developer shall not (a) interfere with, modify or disable any features, functionality or security controls of Marketplace or a GitHub API; (b) circumvent in any fashion any protection mechanisms for Marketplace or a GitHub API; or (c) reverse engineer, decompile, disassemble or derive the source code, underlying ideas, algorithms, structure or organizational form from Marketplace or a GitHub API.
+**3.5** 开发人员不得以任何方式重新打包或转售 Marketplace、GitHub API、个人数据或使用数据。 开发人员不得以任何会或可能会破坏服务、GitHub API、使用数据或通过 Marketplace 存储或传输的任何其他数据或信息之安全性的方式，来使用 GitHub API 或任何个人数据或使用数据。 此外，开发人员不得 (a) 干预、修改或禁用 Marketplace 或 GitHub API 的任何特征、功能或安全控件；(b) 以任何方式规避 Marketplace 或 GitHub API 的任何保护机制；或者 (c) 从 Marketplace 或 GitHub API 中逆向工程、反编译、拆分或推导源代码、基础想法、算法、结构或组织形式。
 
-**3.6**	Developer acknowledges that Developer is solely responsible, and that GitHub has no responsibility or liability of any kind, for any aspect of Developer Products. Developer will be solely responsible for:
+**3.6** 开发人员确认，开发人员独自对开发人员产品的任何方面承担全部责任，而 GitHub 对此不承担任何类型的责任或义务。 开发人员将自行负责：
 
-* (i) providing End Users instructions on installing and using its Developer Products;
-* (ii) creating and displaying information and content on, through or within its Developer Products;
-* (iii) ensuring that its Developer Products do not violate or infringe the intellectual property rights of any third party;
-* (iv) ensuring that Developer Products are not offensive, profane, obscene, libelous or otherwise illegal;
-* (v) ensuring that its Developer Products do not contain or introduce malicious software into Marketplace, a GitHub API, any Usage Data or other data stored or transmitted using Marketplace; and
-* (vi) ensuring that its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub.com users, agents or End Users without their consent.
+* (i) 向最终用户提供安装和使用其开发人员产品的说明；
+* (ii) 在开发人员产品之上、之内或通过开发人员产品制作和展示信息和内容；
+* (iii) 确保其开发人员产品不违反或侵犯任何第三方的知识产权；
+* (iv) 确保开发人员产品不具备冒犯性、亵渎性、淫秽性、诽谤性或其他非法性质；
+* (v) 确保其开发人员产品不含恶意软件，也不会将恶意软件引入 Marketplace、GitHub API、任何使用数据或通过 Marketplace 存储或传输的其他数据中；以及
+* (vi) 确保其开发人员产品不被设计成或用于在未经 GitHub.com 用户、代理或最终用户同意的情况下向他们发送商业电子消息。
 
-**3.7**	Developer will respect and comply with the technical and policy-implemented limitations of a GitHub API and the restrictions of this Agreement in designing and implementing Developer Products. Developer shall not violate any explicit rate limitations on calling or otherwise utilizing a GitHub API.
+**3.7** 开发人员在设计和实施开发人员产品方面，应尊重和遵守 GitHub API 在技术和政策上的限制以及本协议的限制。 开发人员不得在调用或以其他方式使用 GitHub API 时违反任何明确的速率限制。
 
-**3.8**	Nothing in this Agreement shall prevent either party from developing and/or publishing applications that are similar or otherwise compete with the other party's applications.
+**3.8** 本协议的任何规定均不阻止任何一方开发和/或发布与另一方的应用程序相似或产生竞争的应用程序。
 
-[4. TAKEDOWNS](#4takedowns)
+[4.下架](#4takedowns)
 ----------
 
-**4.1**	Your Takedowns. Upon providing GitHub with thirty (30) days written notice, you may remove your Listing from future distribution via Marketplace. You must continue to comply with this Agreement for any Listing already distributed through Marketplace including but not limited to refund requirements. Removing your Listing from future distribution via Marketplace does not (a) affect the license rights of End Users who have previously purchased or installed your Listing or (b) change your obligation to deliver or support Listing that has been previously purchased or installed by users. If you remove your Listing, GitHub will not disclose your reason for the removal.
+**4.1** 您自行下架。 在向 GitHub 发出三十 (30) 天书面通知后，你可以通过 Marketplace 删除你的上架产品使其今后不再分发。 对于已通过 Marketplace 分发的任何上架产品，必须继续遵守本协议，包括但不限于退款要求。 通过 Marketplace 删除您的上架产品，使其无法再被分发，不会：(a) 影响先前已购买或安装该产品的最终用户的许可权；或 (b) 改变您对于用户先前已购买或安装的产品提供交付或支持服务的义务。 如果删除上架产品，GitHub 将不会透露删除原因。
 
-**4.2**	GitHub Review and Takedowns. GitHub may review or test your Listing for compliance with this Agreement, GitHub ToS, and any other applicable terms, obligations, laws, or regulations. GitHub retains sole and absolute discretion over what Listings are included on Marketplace. You may be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace. You agree that any information you give to Marketplace will be accurate, correct and up to date. As part of the specification for your Listing, GitHub may ask that you include in the file for your Listing information such as your name and email address. GitHub may use this information when featuring the Listing in our directory or for other uses.
+**4.2** GitHub 审查和下架。 GitHub 可以审查或测试你的上架产品是否符合本协议、GitHub ToS 以及任何其他适用的条款、义务、法律或法规。 GitHub 保留对 Marketplace 中所包含上架产品的唯一和绝对自由裁量权。 您在注册 Marketplace 的过程中或继续使用 Marketplace 的过程中，可能会被要求提供自己的个人信息（例如身份或联系信息）。 你同意确保自己提供给 Marketplace 的任何信息将是准确、正确且最新的。 作为上架产品规范的一部分，GitHub 可能会要求您在上架产品信息文件中包含您的姓名和电子邮件地址等信息。 GitHub 可能会将此信息用于推荐我们目录中的上架产品或其他用途。
 
-If GitHub is notified by you or otherwise becomes aware and determines, in its sole discretion, that a Listing or any portion thereof or your Brand Features:
+如果 GitHub 根据你的通知或以其他方式获知并自行确定你的上架产品或其任何部分或品牌特征：
 
-* (a) violates the terms of this Agreement or the ToS;
-* (b) the display of the Listing is impacting the integrity of GitHub servers (i.e., users are unable to access such content or otherwise experience difficulty);
-* (c) is deemed by GitHub to add undue risk to Marketplace End Users’ data or impair the user experience of Marketplace or GitHub; or
-* (d) is subject to End User complaints in regards to your breach of your EULA,
+* (a) 违反本协议或 ToS 的条款；
+* (b) 展示该上架产品会影响 GitHub 服务器的完善性（例如用户无法访问其内容或遇到其他困难）；
+* (c) 被 GitHub 认为会给 Marketplace 最终用户的数据增加不应有的风险或损害用户使用 Marketplace 或 GitHub 的体验；或
+* (d) 因你违反 EULA 而遭到最终用户投诉，
 
-GitHub may: suspend the transfer of Personal Data to your Developer Product; prohibit the collection and processing of Personal Data via your Developer Product; remove the Listing from Marketplace; flag, filter, or modify related materials (including but not limited to descriptions, screenshots, or metadata); or reclassify the Listing at its sole discretion. If GitHub takes any of these actions on your Listing, you may appeal GitHub's action through the [GitHub Appeal and Reinstatement Process](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+GitHub 可能：暂停将个人数据传输至开发人员产品；禁止通过开发人员产品收集和处理个人数据；从 Marketplace 中删除该上架产品；标记、筛选或修改相关材料（包括但不限于说明、屏幕截图或元数据）；或自行重新分类该上架产品。 如果 GitHub 对上架产品采取上述任何操作，可以通过 [GitHub 上诉和恢复程序](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)对 GitHub 的操作提出上诉
 
-**4.3**	Developer Product Updates. From time to time, GitHub may check for available updates to any Listing, including but not limited to bug fixes or enhanced functionality. If you update your Listing to Marketplace, you agree that such update will be automatically requested, downloaded, and installed without further notice to you. GitHub makes no guarantees regarding the timing of such updates. Updates to a Listing are subject to the same terms and conditions as the Listing.
+**4.3** 开发人员产品更新。 GitHub 可能会不时检查所有上架产品的可用更新，包括但不限于 Bug 修复或功能增强。 如果您在 Marketplace 上更新您的上架产品，则表示您同意此更新将被自动请求、下载和安装，而无需另行通知您。 GitHub 不保证此类更新的时间。 更新上架产品须遵守与上架产品相同条款和条件的约束。
 
-**4.4**	End-User Takedowns. If an End-User uses your Developer Product in a way that violates the Terms, then we have the right to suspend or terminate that End-User's access to the Developer Product without any liability to you.
+**4.4** 面向最终用户的下架。 如果最终用户以违反条款的方式使用您的开发人员产品，则我们有权暂停或终止该最终用户使用该开发人员产品，并且您不必为此承担任何责任。
 
-[5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
+[5.声明、保证和承诺](#5representations-warranties-and-covenants)
 ----------
 
-**5.1**	Developer must inform End Users of the Personal Data that will be transmitted to the Developer Application from the Service and that Developer terms will control the privacy, security or integrity of such Personal Data. To the extent Developer’s Applications store, process or transmit Personal Data, neither Developer nor Developer’s Application will, without appropriate prior user consent or except to the extent required by applicable law,
+**5.1** 开发人员必须告知最终用户个人数据将从服务传输到开发人员应用程序，开发人员条款将控制此类个人数据的隐私、安全性或完整性。 在开发人员应用程序存储、处理或传输个人数据方面，没有适当的用户事先同意或适用法律的要求，开发人员和开发人员应用程序均不得：
 
-* (i) modify the content of Personal Data in a manner that adversely affects the integrity of the Personal Data;
-* (ii) disclose the Personal Data to any third party; or
-* (iii) use the Personal Data for any purpose other than providing the Developer Application functionality to users of such Developer Application.
+* (i) 以不利于个人数据完整性的方式修改个人数据的内容；
+* (ii) 向任何第三方披露个人数据；或
+* (iii) 将个人数据用于向用户提供开发人员应用程序功能以外的任何目的。
 
-Developer shall maintain and handle all Personal Data in accordance with privacy and security measures reasonably adequate to preserve the confidentiality and security of all such Personal Data and all applicable privacy laws and regulations.
+开发人员须采用合理的隐私和安全措施来维护和处理所有个人数据，以保护所有这类个人数据的机密性和安全性并符合所有适用的隐私法律法规。
 
-**5.2**	Developer agrees that it will comply with the GitHub Data Protection Addendum.
+**5.2** 开发人员同意遵守“GitHub 数据保护附录”。
 
-**5.3**	You Support Your Developer Product. Developer will be solely responsible for support and maintenance of your Developer Products and any complaints about your Developer Products. Your support contact information will be displayed in each application detail page and made available to users for customer support purposes. Failure to provide adequate support for your Developer Products may result in reduced product exposure, or in some cases removal from Marketplace or anywhere else on GitHub.com where previously purchased or downloaded Developer Products are stored on behalf of users.
+**5.3** 你支持自己的开发人员产品。 开发人员将自行负责支持和维护自己的开发人员产品以及对其的任何投诉。 您的支持联系信息将显示在每个应用程序的详细信息页面中，以便用户请求客户支持。 对开发人员产品的支持不足可能导致降低产品曝光率，在某些情况下还会导致产品从 Marketplace 或 GitHub.com 上为用户存储先前已购或已下载开发人员产品的任何其他地方被删除。
 
-**5.4** Developer represents and warrants that: (i) its Developer Products and Developer Brand Features do not and will not violate, misappropriate or infringe upon the intellectual property rights of any third party; (ii) Developer will comply with all applicable laws and regulations, including this Agreement and GitHub's Terms of Service, and maintain all permissions necessary to develop, implement, and distribute its Developer Products; (iii) its Developer Products do not and will not contain or introduce any malicious software; (iv) its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub customers, agents or End Users without their consent; (v) Developer has all right, power and authority to grant the licenses granted to GitHub and End Users herein; and (vi) any images and text that are used to market the Developer Products or that Developer has uploaded to Marketplace are truthful, accurate and not intended to mislead or confuse the End User.
+**5.4** 开发人员声明和保证：(i) 其开发人员产品和开发人员品牌特征不会违反、盗用或侵犯任何第三方的知识产权；(ii) 开发人员将遵守所有适用的法律和法规，包括本协议和 GitHub 的服务条款，并保留开发、实施和分发其开发人员产品所需的所有权限；(iii) 其开发人员产品没有且不会包含或引入任何恶意软件；(iv) 其开发人员产品不会设计成或用于在未经同意的情况下向任何 GitHub 客户、代理或最终用户发送商业电子消息；(v) 开发人员拥有向 GitHub 和最终用户授予许可的所有权利、权力和权限；(vi) 用于推广开发人员产品或开发人员上传到 Marketplace 的任何图像和文字均真实、准确，并且不会有意误导或迷惑最终用户。
 
-**5.5**	Disclaimer of Warranties. All aspects of Marketplace and GitHub API, including all server and network components, are provided on an “as is” and “as available” basis, without any warranties of any kind. GitHub expressly disclaims any and all warranties to the fullest extent permitted by law, whether express or implied, including, but not limited to, any implied warranties of merchantability, title, fitness for a particular purpose, and non-infringement. Developer acknowledges that GitHub does not warrant that Marketplace or a GitHub API will be uninterrupted, timely, secure, error-free, or free from viruses, malware, or worms (otherwise known as computer code or other technology specifically designed to disrupt, disable, or harm your software, hardware, computer system, or network), and no information or advice obtained by developer from GitHub or through Marketplace or a GitHub API shall create any warranty not expressly stated in these terms. GitHub is not responsible for, and specifically disclaims any liability for, any unauthorized use of Developer Products outside Marketplace.
+**5.5** 免责声明。 Marketplace 和 GitHub API 的所有方面，包括所有服务器和网络组件，均“按原样”和“现有”原则提供，不提供任何形式的保证。 GitHub 在法律允许的最大范围内明确否认任何及所有明示或暗示的保证，包括但不限于任何适销性、所有权、针对特定目的的适用性和非侵权的暗示保证。 开发人员确认，GitHub 不保证 Marketplace 或 GitHub API 不中断、及时、安全、无错误或没有病毒、恶意软件或蠕虫（也称为专门设计为破坏、瘫痪或损害你的软件、硬件、计算机系统或网络的计算机代码或其他技术），并且开发人员从 GitHub、Marketplace 或 GitHub API 获取的任何信息或建议均不构成任何保证，除非在这些条款中有明确说明。 对于未经授权使用 Marketplace 外部的任何开发人员产品，GITHUB 概不负责，并且特别声明不承担任何义务。
 
-[6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
+[6. 付费应用程序或产品](#6paid-applications-or-products)
 ----------
 
-**6.1**	GitHub will be the merchant of record for Developer Products purchased by End Users via Marketplace.
+**6.1** GitHub 是最终用户通过 Marketplace 购买开发人员产品的在册商户。
 
-**6.2** Registration. Developer will be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace including, but not limited to: (i) name, (ii) address, (iii) telephone number, (iv) e-mail address, and (v) payment account details. GitHub may publicize Developer’s information on Marketplace and retain Developer’s registration information as required by applicable law.**6.3** Pricing. Prices for Listings of Developer Applications will be set in US Dollars (USD). Developer has complete control over setting pricing for each Listing. The prices you set for Developer Products will determine the amount of payment you will receive. GitHub will remit 95% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 5% of the sales price will be allotted to and retained by GitHub. At the end of each month and upon reaching a minimum value of $500 USD, GitHub will remit your share of payments.
+**6.2** 注册。 开发人员在注册 Marketplace 的过程中或继续使用 Marketplace 的过程中，将要求你提供自己的个人信息（例如身份或联系详细信息），包括但不限于：(i) 姓名、(ii) 地址、(iii) 电话号码、(iv) 电子邮件地址和 (v) 付款账户详细信息。 GitHub 可能会在 Marketplace 上公开开发人员的信息，并根据适用法律的要求保留开发人员的注册信息。**6.3** 定价。 开发人员应用程序的上架产品价格将以美元 (USD) 为单位。 开发人员对于每个上架产品的定价设置有完全控制权。 您为开发人员产品设置的价格将决定您将收到的付款金额。 GitHub 将以美元汇出 95% 的销售价格，不扣除税款，但适用法律要求的任何预扣税款除外。 其余 5% 的销售价格将分配给 GitHub 并由 GitHub 保留。 每个月底，在达到最低值 500 美元后，GitHub 将汇出您的应得款项。
 
-**6.3**	Refunds. You will be responsible for specifying the terms and conditions regarding refunds to your End Users. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
+**6.3** 退款。 您将负责制定关于向最终客户退款的条款和条件。 在任何情况下，GitHub 均不负责为退款提供任何支持，GitHub 也不负责支付任何退款。
 
-[7. OWNERSHIP](#7ownership)
+[7.所有权](#7ownership)
 ----------
 
-Subject to the limited licenses expressly provided in this Agreement, nothing in this Agreement transfers or assigns to a party any of the other party’s intellectual property rights in its Brand Features or other technology, and nothing in this Agreement transfers or assigns a party any of the other party’s intellectual property rights.
+除了本协议中明确提供的有限许可之外，本协议中的任何内容均不构成将某一方之品牌特征或其他技术中的知识产权转让给任何其他方，也不构成将某一方的任何知识产权转让给任何其他方。
 
-[8. LIMITATION OF LIABILITY](#8limitation-of-liability)
+[8. 责任限制](#8limitation-of-liability)
 ----------
 
-Under no circumstances and under no legal theory (whether in contract, tort, negligence or otherwise) will GitHub, or its affiliates, officers, directors, employees, agents, or suppliers be liable to developer or any third party under this agreement for any indirect, incidental, special, exemplary, consequential, punitive or other similar damages, including lost profits, lost sales or business, lost data, business interruption or any other loss incurred by Developer or any third party in connection with this Agreement, regardless of whether Developer has been advised of the possibility of or could have foreseen such damages notwithstanding anything to the contrary in this Agreement, GitHub’s aggregate liability to Developer or any third party arising out of this Agreement shall not exceed $500 (five hundred) USD.
+在任何情况下或基于任何法律理论（无论是合同、侵权、疏忽或其他方面），GitHub 或其关联公司、高管、董事、员工、代理人或供应商对开发人员或本协议下的任何第三方遭受的任何间接、附带性、特殊、示范性、后果性、惩罚性或其他类似损害不承担任何责任，包括利润损失、销售或业务损失、数据丢失、业务中断，或者开发人员或任何其他第三方与本协议相关的任何其他损失，无论开发人员是否被告知可能或可以预见到此类损害。无论本协议是否包含相反规定，GitHub 根据本协议对开发人员或任何第三方负有的累计责任将不得超过 500（五百）美元的费用。
 
-[9. INDEMNIFICATION](#9indemnification)
+[9.赔偿](#9indemnification)
 ----------
 
-To the maximum extent permitted by applicable law, Developer agrees to defend, indemnify and hold harmless GitHub, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any losses, liabilities, damages, costs and expenses (including reasonable attorneys’ fees) arising from or relating to (a) Developer’s use of Marketplace in violation of this Agreement, the Terms or any applicable laws or regulations; (b) Developer’s Products that infringe any copyright, trademark, trade secret, patent or other intellectual property right of any third party; (c) any loss or disclosure of data or Personal Data by Developer Products; and (d) Developer’s EULA (or ToS).
+在适用法律允许的最大范围内，对于因 (a) 开发人员使用 Marketplace 时违反本协议、条款或任何适用的法律或法规；(b) 开发人员的产品侵犯任何第三方的任何版权、商标、商业秘密、专利或其他知识产权；(c) 开发人员产品数据或个人数据的任何丢失或泄露；以及 (d) 开发人员的 EULA（或 ToS）所产生或与之相关的任何及所有索赔、诉讼、讼案或起诉，以及任何损失、责任、损害、费用和开支（包括合理的律师费），开发人员同意为 GitHub、其关联公司及其各自的董事、高管、员工和代理人进行辩护、赔偿并确保他们免受损害。
 
-[10. TERMINATION](#10termination)
+[10.终止](#10termination)
 ----------
 
-**10.1**	This Agreement will continue to apply until terminated by either party as set forth below.
+**10.1** 本协议持续有效，直到任一方如下所述终止协议。
 
-**10.2**	Either party may terminate this Agreement for any reason upon thirty (30) days written notice. During the 30 day period the terms in effect at the time of the notice of termination shall govern.
+**10.2** 任何一方均可在提前三十 (30) 天发出书面通知后，因任何原因终止本协议。 在这 30 天内，应遵守发出终止通知时有效的条款。
 
-**10.3**	GitHub may terminate this Agreement at any time if (a) you have breached any provision of this Agreement or (b) GitHub is required to do so by law.
+**10.3** GitHub 在 (a) 您违反了本协议的任何规定或 (b) 法律要求 GitHub 终止协议时，可随时终止本协议。
 
-**10.4**	Effects of Termination by Developer. Upon receiving thirty (30) days’ advanced written notice of termination from Developer, Developer will be disabled from taking on new customers via Marketplace. Any outstanding fees shall be remitted upon termination and removal of the Developer Product from Marketplace. If termination is initiated as a result of a GitHub modification to these terms (Section 11), the terms in effect immediately prior to such modification shall govern the duration of the 30-day notice period.
+**10.4** 开发人员终止的影响。 在收到开发人员的三十 (30) 天提前书面终止通知后，开发人员将被禁止通过 Marketplace 吸收新客户。 在 Marketplace 中终止并删除开发人员产品时，任何未付款项均须得到支付。 如果终止是因 GitHub 修改这些条款（第 11 节）而发起的，则在此类修改之前有效的条款将在 30 天通知期的时间段内继续发挥效用。
 
-**10.5**	The obligations in Sections 2, 3, 4, 5, 8, 9, 12-18, and Data Protection Addendum will survive any expiration or termination of this Agreement.
+**10.5** 第 2、3、4、5、8、9、12-18 节以及数据保护附录规定的义务在本协议到期或终止后仍然有效。
 
-[11. MODIFICATION](#11modification)
+[11.修改](#11modification)
 ----------
 
-Developer acknowledges and agrees that GitHub may modify this Agreement, Marketplace Terms of Service, a GitHub API, the General API Policies, GitHub Privacy Statement, the GitHub Developer Program Terms of Service, and the GitHub.com ToS from time to time (a “Modification”). All Modifications shall be communicated through Marketplace, the GitHub website at [www.GitHub.com](http://www.GitHub.com) or through a form of direct communication from GitHub to Developer. Developer further acknowledges and agrees that such Modifications may be implemented at any time and without any notice to Developer. Developer shall, within thirty (30) days from the date of first notice of any Modification(s) (or such shorter period of time specified in the notice of the Modification(s)) (the “Conformance Period”) comply with such modification(s) by implementing and using the most current version of a GitHub API in the most current version of the Developer Products and making any changes to Developer Products that may be required as a result of such Modification(s). Developer acknowledges that a Modification may have an adverse effect on Developer Products, including but not limited to changing the manner in which applications communicate with a GitHub API. GitHub shall have no liability of any kind to Developer or any End User with respect to such Modifications or any adverse effects resulting from such Modifications. Developer’s continued access to or use of Marketplace or a GitHub API following the Conformance Period shall constitute binding acceptance of the Modification(s).
+开发人员承认并同意，GitHub 可能会不时修改本协议、Marketplace 服务条款、GitHub API、一般 API 政策、GitHub 隐私声明、GitHub 开发人员计划服务条款和 GitHub.com ToS（简称“修改”）。 所有修改将通过 Marketplace、GitHub 网站 [www.GitHub.com](http://www.GitHub.com) 或通过 GitHub 与开发人员的直接沟通形式进行传达。 开发人员进一步承认并同意，此类修改可随时实施，无需向开发人员发出任何通知。 开发人员须在任何修改首次通知之日起三十 (30) 天内（或修改通知中指定的较短期限）（简称“遵循期限”）实现对此类修改的遵循：在最新版本的开发人员产品中实施和使用最新版本的 GitHub API，并对开发人员产品进行任何可能需要的更改，以符合此类修改的要求。 开发人员确认知悉，修改可能会对开发人员产品产生不利影响，包括但不限于改变应用程序与 GitHub API 通信的方式。 对于此类修改或此类修改造成的任何不利影响，GitHub 对开发人员或任何最终用户概不负责。 开发人员在遵循期限后继续访问或使用 Marketplace 或 GitHub API 即表示接受对修改的约束。
 
-[12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
+[12.转让；完整协议；修订](#12assignment-entire-agreement-revisions)
 ----------
 
-**12.1**	Developer may not, directly or indirectly, by operation of law or otherwise, assign all or any part of this Agreement or Developer’s rights under this Agreement or delegate performance of Developer’s duties under this Agreement without GitHub’s prior written consent. The rights granted in this Agreement may be assigned or transferred by GitHub without Developer’s prior approval. In addition, GitHub may delegate its responsibilities or obligations under this Agreement without Developer’s consent.
+**12.1** 未经 GitHub 事先书面同意，开发人员不得通过法律或其他方式直接或间接转让本协议的全部或部分或者开发人员在本协议下享有的权利，或者委托履行开发人员在本协议下承担的职责。 GitHub 无需开发人员事先批准即可转让或转移本协议授予的权利。 此外，GitHub 无需开发人员同意即可委托其在本协议下承担的责任或义务。
 
-**12.2**	This Agreement, together with the ToS, constitute the entire agreement between the parties with respect to the subject matter of this Agreement. GitHub’s failure to enforce at any time any provision of this Agreement does not constitute a waiver of that provision or of any other provision of this Agreement.
+**12.2** 本协议与 ToS 一起构成双方就本协议标的所达成的完整协议。 GitHub 在任何时候未执行本协议的任何条款并不构成对该条款或本协议任何其他条款的放弃。
 
-[13. SEVERABILITY](#13severability)
+[13.可分割性](#13severability)
 ----------
 
-If any part of this Agreement is held to be unenforceable, the rest of the Agreement will remain in full force and effect.
+如果本协议的任何部分被认定不可执行，协议的其余内容仍然具备完全效力。
 
-[14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
+[14.缔约方关系](#14-relationship-of-the-parties)
 ----------
 
-The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties. Developer agrees that each member of the group of companies to which GitHub belongs shall be a third party beneficiary to this Agreement and that such other companies shall be entitled to directly enforce, and rely upon, any provision of this Agreement that confers a benefit or grants a right in favor or GitHub. No other person, company or legal entity shall be a third party beneficiary to the Agreement.
+双方是独立缔约方。 本协议不在双方之间建立合伙、特许经营、合资企业、代理、信托或雇佣关系。 开发人员同意，GitHub 所属集团公司的每个成员都是本协议的第三方受益人，此类其他公司有权直接执行并依赖本协议中授予利益或授予有利于 GitHub 的权利的任何条款。 任何其他人员、公司或法律实体均不得成为本协议的第三方受益人。
 
-[15. NOTICE](#15-notice)
+[15.通知](#15-notice)
 ----------
 
-Notices to GitHub may be submitted via email to [legal@support.github.com](mailto:legal@support.github.com). If Customer wishes to formally service notice on GitHub, it must be made through GitHub’s registered agent: GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Notices must be in writing and will be treated as delivered on the date received at the address, date shown on the return receipt, email transmission date, or date on the courier confirmation of delivery. All notices to be provided by GitHub to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to GitHub; or (ii) electronic mail to the electronic mail address provided by Developer.
+GitHub 通知可通过电子邮件发送至 [legal@support.github.com](mailto:legal@support.github.com)。 如果客户希望正式向 GitHub 送达通知，则必须通过 GitHub 的注册代理进行：GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505。 通知必须为书面形式，送达日期将以地址签收日期、回执显示日期、电子邮件传输日期或快递确认送达日期为准。 本协议下 GitHub 提供给开发人员的所有通知均以书面形式 (i) 由国家认可的隔夜递送服务（“快递公司”）递送，或通过美国邮件寄到开发人员提供给 GitHub 的联系人邮寄地址；或 (ii) 通过电子邮件发送到开发人员提供的电子邮件地址。
 
-[16. GOVERNING LAW](#16-governing-law)
+[16.管辖法律](#16-governing-law)
 ----------
 
-This Agreement will be governed by and construed in accordance with the laws of the State of California and federal laws of the United States. Any legal action or proceeding will be brought exclusively in the federal or state courts located in the Northern District of California. The parties consent to personal jurisdiction and venue there.
+本协议将受到加利福尼亚法律和美国联邦法律的约束，并根据加利福尼亚州法律和美国联邦法律进行解释。 任何法律诉讼或法律程序都将专门提交到位于加州北部地区的联邦或州法院。 双方同意属人管辖权和审判地。
 
-[17. EXPORT RESTRICTIONS](#17-export-restrictions)
+[17.出口限制](#17-export-restrictions)
 ----------
 
-Developer Products distributed via Marketplace may be subject to export controls or restrictions by the United States or other countries or territories. Developer agrees to comply with all applicable US and international export laws and regulations. These laws may include restrictions on destinations, content and/or End Users.
+通过 Marketplace 分销的开发人员产品可能受美国或其他国家或地区的出口管制或限制。 开发人员同意遵守所有适用的美国和国际出口法律和法规。 这些法律可能包括对目的地、内容和/或最终用户的限制。
 
-[18. USAGE DATA](#18-usage-data)
+[18.使用数据](#18-usage-data)
 ----------
 
-In order to operate and improve Marketplace, GitHub may collect Usage Data from Marketplace or a GitHub API or anywhere previously purchased or downloaded Developer Products are stored on behalf of End Users by GitHub. The Usage Data will be maintained in accordance with GitHub’s then in effect Privacy Statement. Limited Usage Data may be available for use by Developer in GitHub’s sole discretion.
+为了运营和改善 Marketplace，GitHub 可能会从 Marketplace 或 GitHub API 或者 GitHub 为用户存储先前已购或已下载产品的任何地方收集使用数据。 使用数据将按照 GitHub 当时有效的隐私声明进行维护。 GitHub 可自行决定将有限的使用数据提供给开发人员使用。
 
-[19. PRE-RELEASE ACCESS](#19-pre-release-access)
+[19. 预发布访问](#19-pre-release-access)
 ----------
 
-If you have a Listing on a portion of Marketplace that is in a beta or similar pre-release status, your use of that portion is governed by GitHub’s [Pre-release License Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms).
+如果你在处于 beta 版本或类似预发布状态的 Marketplace 中有一个上架产品，则使用该部分受 GitHub [预发布许可条款](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)的约束。
 
-[Addendum 1: Data Protection Addendum](#addendum-1-data-protection-addendum)
+[附录 1：数据保护附录](#附录-1数据保护附录)
 ==========
 
-This Data Protection Addendum (this “Addendum”) is attached to and made a part of the GitHub Marketplace Developer Agreement between you and GitHub (the “Agreement”). Terms not defined in this Addendum have the meanings ascribed to them in the Agreement. In the event of a conflict or inconsistency, the terms of this Addendum will supersede those of the Agreement.
+本数据保护附录（本“附录”）附加到您与 GitHub 之间的 GitHub Marketplace 开发人员协议（本“协议”）并成为其一部分。 本附录中未定义的术语采用协议中的含义。 如果发生冲突或不一致，本附录的含义优先于协议中的含义。
 
-**A1-1. Purpose and Scope**GitHub maintains Personal Data from individuals all over the world, some of whom are residents of countries and areas with strong data protection laws. This Addendum establishes your responsibilities when you receive and process any such Personal Data from GitHub.
+**A1-1.目的和范围** GitHub 维护来自世界各地的人们的个人数据，其中一些人所在的国家和地区制定了严格的数据保护法律。 本附录将确定你在接收和处理 GitHub 中的任何此类个人数据时所承担的责任。
 
-**A1-2. Definitions**
+**A1-2.定义**
 
-* (a) “Applicable Data Protection Laws” means any laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to the Agreement, including:
-  * The EU General Data Protection Regulation 2016/679 (“GDPR”), along with any implementing or corresponding equivalent national laws or regulations;
-  * The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. ("CCPA"); and
-  * The UK Data Protection Act 2018 and implementation of GDPR contained therein.
+* (a)“适用数据保护法律”是指与处理及使用个人数据相关、适用于协议的法律、法规、监管框架或其他立法，包括：
+  * 欧盟《一般数据保护条例 2016/679》（“GDPR”），以及任何实施中或对应的等效国家法律或法规；
+  * 2018 年《加州消费者隐私法案》（加州民法典 §§1798.100 et seq.， 简称“CCPA”）；以及
+  * 《2018 年英国数据保护法》及其中包含的 GDPR 实施条例。
 
-* (b) “Personal Data” means any information which relates to an individual GitHub End User, customer or employee which could, alone or together with other information, identify them, whether supplied by GitHub for processing by the Developer or whether generated by the Developer in the course of performing its obligations under this Agreement.
-* (c) “Processing” means any operation or set of operations performed on Personal Data, whether by manual or automatic means, including collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, blocking, erasure, or destruction.
+* (b)“个人数据”是指与单个 GitHub 最终用户、客户或员工有关的任何信息，这些信息可以单独用来或结合其他信息来识别其身份，可能是 GitHub 提供给开发人员进行处理的信息，也可能是开发人员在履行其本协议义务的过程中生成的信息。
+* (c)“处理”是指以手动或自动方式对个人数据执行的任何操作或一组操作，包括收集、记录、组织、存储、改编、更改、检索、查阅、使用、通过传输/传播或其他方式披露、阻止、删除或销毁。
 
-**A1-3. Compliance with Data Transfer Laws**
+**A1-3.遵守数据传输法**
 
-* (a) GitHub Compliance. GitHub complies with Applicable Data Protection Laws. GitHub relies on Standard Contractual Clauses ("SCCs") for all transfers out of the European Union, European Economic Area, United Kingdom, and Switzerland to provide its services. GitHub also complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. GitHub has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. GitHub has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Data received from Switzerland in reliance on the Swiss-U.S. DPF.
-* (b) Developer Compliance. Developer represents and warrants that it will (i) comply with Applicable Data Protection Laws; and (ii) abide by the requirements of European Economic Area and Swiss data protection laws regarding the collection, use, transfer, retention, and other processing of Personal Data from the European Economic Area, United Kingdom, and Switzerland. All transfers of Personal Data to a third country or an international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR and such transfers and safeguards will be documented according to Article 30(2) of the GDPR.
+* (a) GitHub 合规声明。 GitHub 遵守适用的数据保护法。 GitHub 依据标准合同条款（“SCC”）从欧盟、欧洲经济区、英国和瑞士进行所有数据传出操作，以提供服务。 GitHub 还符合美国商务部制定的欧盟-美国数据隐私框架（欧盟-美国 DPF）、对欧盟-美国 DPF 的英国扩展以及瑞士-美国数据隐私框架（瑞士-美国 DPF）。 GitHub 已向美国商务部认证，在根据欧盟-美国 DPF 处理从欧盟接收的个人数据，以及根据对欧盟-美国 DPF 的英国扩展处理从英国（和直布罗陀）接收的个人数据时，遵守欧盟-美国数据隐私框架原则（欧盟-美国 DPF 原则）。 GitHub 已向美国商务部认证，在根据瑞士-美国 DPF 处理从瑞士接收的个人数据时，遵守瑞士-美国数据隐私框架原则（瑞士-美国 DPF 原则）。
+* (b) 开发人员合规声明。 开发人员声明并保证，他们将 (i) 遵守适用的数据保护法；以及 (ii) 遵守欧洲经济区和瑞士数据保护法有关收集、使用、传输、保留和以其他方式处理来自欧洲经济区、英国和瑞士的个人数据的要求。 所有向第三国或国际组织传输个人数据的行为都将受到 GDPR 第 46 条所述的适当保护措施的约束，并且此类传输和保护措施将根据 GDPR 第 30(2) 条的规定进行记录。
 
-**A1-4. Data Protection**
+**A1-4.数据保护条款**
 
-* (a) Notice. Developer must provide End Users their privacy policy which identifies itself as responsible for the collection, processing, privacy, security, and integrity of all data it collects from the End User. Developer must not hold itself out as collecting any Personal Data on GitHub’s behalf. Developer’s privacy policy must provide End User’s all legally required information regarding access, collection, storage, and processing purpose of Personal Data, with whom the Personal Data is shared, and in which country or countries the Personal Data will be stored.
-* (b) Purpose Limitation.
-  * (i) GitHub will provide Developer with Personal Data elements for the purpose of establishing and facilitating a relationship between the Developer and the End User, and permitting Developer to provide services to the End User. Developer must limit its usage of the Personal Data to that purpose, unless the End User agrees to allow different uses.
-  * (ii) Developer must process and communicate the Personal Data to third parties only for the limited and specific purposes of providing its services to the End User as described in its agreement with the End User, unless the End User agrees to allow different uses.
+* (a) 通告。 开发人员必须向最终用户提供其隐私政策，该政策应确定开发人员对其从最终用户处收集的所有数据的收集、处理、隐私、安全和完整性负责。 开发人员不得以 GitHub 的名义收集任何个人数据。 开发人员的隐私政策必须向最终用户提供所有法律要求的信息，包括个人数据的访问、收集、存储和处理目的，与其共享个人数据的人员，以及个人数据将存储在哪个或哪些国家或地区。
+* (b) 目的限制。
+  * (i) GitHub 将为开发人员提供个人数据元素，其目的是建立和促进开发人员与最终用户之间的关系和便于开发人员向最终用户提供服务。 开发人员必须仅限于此类目的而使用个人数据，除非最终用户同意其他用途。
+  * (ii) 开发人员处理和向第三方传递个人数据时，必须仅为了达成与最终用户之协议中所述的为最终用户提供服务的有限特定目的，最终用户同意其他用途的情形除外。
 
-* (c) Data Quality and Proportionality. Developer must keep the Personal Data accurate and up to date. Developer must only collect Personal Data appropriate and necessary to provide the service.
-* (d) Security. Developer must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the Personal Data.
-* (e) Data Retention and Deletion. Upon GitHub’s reasonable request, unless prohibited by law, Developer must return or destroy all Personal Data and related data at all locations where it is stored after it is no longer needed for the limited and specified purposes for which it was collected.
-* (f) Subprocessing and Onward Transfer. Developer is liable for onward transfers of Personal Data to its subprocessors. In the event that Developer must transfer the Personal Data to a third party, or Developer installs, uses, or enables third party services to process the Personal Data on Developer’s behalf, Developer must ensure that the third party will provide at least the same level of privacy protection as is required herein.
+* (c) 数据质量和相称性。 开发人员必须保持个人数据准确且最新。 开发人员只能收集提供服务适当且必要的个人数据。
+* (d) 安全性。 开发人员必须采取所有合理的安全措施，防范在处理个人数据时面临的风险，例如意外或非法破坏、意外丢失、篡改、未经授权的披露或访问等风险。
+* (e) 数据保留和删除。 除非法律禁止，否则开发人员必须应 GitHub 的合理要求，退回或销毁存储在所有位置的不再需要用于收集时指定的有限目的的所有个人数据和相关数据。
+* (f) 再处理和向外传输。 开发人员向子处理方传输个人数据时，应自行负责。 如果开发人员必须将个人数据传输给第三方，或者开发人员自行安装、使用或启用第三方服务来处理个人数据，则开发人员必须确保该第三方采用至少满足本文要求的隐私保护级别。
 
-**A1-5. Use of Personal Data**
+**A1-5. 使用个人数据**
 
-* (a) Permitted Use. Developer may process the Personal Data only for the purposes set out in Section 4(b)(i), and no other purpose.
-* (b) No Use in Marketing. Developer must not use the Personal Data for the purposes of advertising any third party goods or services, and may not sell the Personal Data to any third party.
-* (c) Automated Decisions. In the event that the Developer makes automated decisions affecting End User’s rights, including employment, legal, credit, or health, the Developer must provide notice to the End User.
+* (a) 允许的用途。 开发人员只能出于第 4(b)(i) 节中规定的目的处理个人数据，不得用于其他目的。
+* (b) 不得用于营销。 开发人员不得将个人数据用于推广任何第三方商品或服务，也不得向任何第三方出售个人数据。
+* (c) 自动化决策。 如果开发人员做出影响最终用户权利（包括就业、法律、信用或健康）的自动化决策，开发人员必须向最终用户提供通知。
 
-**A1-6. Compliance**
+**A1-6.合规性**
 
-Developer will make its Privacy Statement, Privacy Policy, Privacy Notice, or any similar documentation available to GitHub and End User. Developer will also provide notice of any relevant compliance reports.
+开发人员将向 GitHub 和最终用户提供其隐私声明、隐私政策、隐私通知或任何类似文档。 开发人员还将提供任何相关合规报告的通知。
 
-**A1-7. Termination**
+**A1-7.终止**
 
-* (a) Takedown. In the event that Developer is in breach of its obligations to maintain an adequate level of privacy protection, GitHub may take action in accordance with Section 4 (Takedowns) or Section 10 (Termination).
-* (b) Termination. GitHub may terminate this Agreement without prejudice to any other claims at law or in equity in the event that:
-  * (i) the Developer notifies GitHub that it can no longer meet its privacy obligations, including loss of Developer Privacy Shield certification;
-  * (ii) the transfer, collection, or processing of Personal Data has been temporarily suspended for longer than one month pursuant to 7(a);
-  * (iii) the Developer is in substantial or persistent breach of any warranties or representations under this Data Protection Addendum;
-  * (iv) the Developer is no longer carrying on business, is dissolved, enters receivership, or a winding up order is made on behalf of Developer.
+* (a) 下架。 如果开发人员违反其维护适当级别隐私保护的义务，GitHub 可能会按照第 4 节（删除）或第 10 节（终止）采取行动。
+* (b) 终止。 在以下情况下，GitHub 可终止本协议，而不会影响法律或权益方面的任何其他主张：
+  * (i) 开发人员通知 GitHub 无法再履行其隐私义务，包括失去开发人员隐私保护协议认证；
+  * (ii) 根据第 7(a) 节暂停传输、收集或处理个人数据，暂停时间超过一个月；
+  * (iii) 开发人员实质性或持续违反本数据保护附录下的任何保证或声明；
+  * (iv) 开发人员不再经营业务、解散、破产或清盘。
 
-* (c) Notification. In the event that Developer determines that it can no longer meet its privacy obligations under this Agreement, it must notify GitHub immediately.
-  In the event that Developer was certified under Privacy Shield and allows that certification to lapse or otherwise cannot remain certified under Privacy Shield, Developer must notify GitHub immediately.
-* (d) Upon Termination, Developer must:
-  * (i) take reasonable and appropriate steps to stop processing of Personal Data;
-  * (ii) within thirty days of Termination, delete any Personal Data Developer stores on GitHub’s behalf; and
-  * (iii) provide GitHub with reasonable assurance that Developer has stopped processing the Personal Data and deleted stored Personal Data.
+* (c) 通知。 如果开发人员确定无法再履行本协议下的隐私义务，则必须立即通知 GitHub。
+  如果开发人员获得了隐私保护协议认证，但认证失效或因其他原因无法保持认证，开发人员必须立即通知 GitHub。
+* (d) 终止后，开发人员必须：
+  * (i) 采取合理、适当的措施停止处理个人数据；
+  * (ii) 在终止后的 30 天内，删除开发人员代表 GitHub 存储的任何个人数据；以及
+  * (iii) 向 GitHub 提供合理保证，保证开发人员已停止处理个人数据并已删除存储的个人数据。
 
-**A1-8. Liability for Data Processing**
+**A1-8.数据处理责任**
 
-* Direct Liability. Developer will be liable to GitHub for actual damages caused by any breach of this Addendum subject to the terms in Section 8, Limitation on Liability.
+* 直接赔偿责任。 开发人员应根据第 8 节“责任限制”中的条款，赔偿因其任何违反本附录的行为对 GitHub 造成的实际损害。
 
 {"resolvedServerColorMode":"day"}

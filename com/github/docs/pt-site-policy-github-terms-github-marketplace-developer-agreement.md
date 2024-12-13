@@ -1,309 +1,309 @@
-GitHub Marketplace Developer Agreement - GitHub Docs
+Contrato de desenvolvedor do GitHub Marketplace - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [GitHub Terms](/pt/site-policy/github-terms)/
-* [GitHub Marketplace Developer Agreement](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+* [Política do site](/pt/site-policy)/
+* [Termos do GitHub](/pt/site-policy/github-terms)/
+* [Contrato de desenvolvedor do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace Developer Agreement
+Contrato de desenvolvedor do GitHub Marketplace
 ==========
 
-In this article
+Neste artigo
 ----------
 
-* [1. DEFINITIONS](#1definitions)
-* [2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
-* [3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
-* [4. TAKEDOWNS](#4takedowns)
-* [5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
-* [6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
-* [7. OWNERSHIP](#7ownership)
-* [8. LIMITATION OF LIABILITY](#8limitation-of-liability)
-* [9. INDEMNIFICATION](#9indemnification)
-* [10. TERMINATION](#10termination)
-* [11. MODIFICATION](#11modification)
-* [12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
-* [13. SEVERABILITY](#13severability)
-* [14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
-* [15. NOTICE](#15-notice)
-* [16. GOVERNING LAW](#16-governing-law)
-* [17. EXPORT RESTRICTIONS](#17-export-restrictions)
-* [18. USAGE DATA](#18-usage-data)
-* [19. PRE-RELEASE ACCESS](#19-pre-release-access)
+* [1. DEFINIÇÕES](#1definitions)
+* [2. PROPÓSITO E OUTORGA DE LICENÇA](#2purpose-and-license-grant)
+* [3. RESTRIÇÕES E RESPONSABILIDADES](#3restrictions-and-responsibilities)
+* [4. REMOÇÕES](#4takedowns)
+* [5. DECLARAÇÕES, GARANTIAS E ACORDOS](#5representations-warranties-and-covenants)
+* [6. APLICATIVOS OU PRODUTOS PAGOS](#6paid-applications-or-products)
+* [7. PROPRIEDADE](#7ownership)
+* [8. LIMITAÇÃO DE RESPONSABILIDADE](#8limitation-of-liability)
+* [9. INDENIZAÇÃO](#9indemnification)
+* [10. RESCISÃO](#10termination)
+* [11. MODIFICAÇÃO](#11modification)
+* [12. CESSÃO; ACORDO INTEGRAL; REVISÕES](#12assignment-entire-agreement-revisions)
+* [13. INDEPENDÊNCIA DAS CLÁUSULAS](#13severability)
+* [14. RELACIONAMENTO ENTRE AS PARTES](#14-relationship-of-the-parties)
+* [15. NOTIFICAÇÃO](#15-notice)
+* [16. LEI APLICÁVEL](#16-governing-law)
+* [17. RESTRIÇÕES DE EXPORTAÇÃO](#17-export-restrictions)
+* [18. DADOS DE USO](#18-usage-data)
+* [19. ACESSO DE PRÉ-LANÇAMENTO](#19-pre-release-access)
 
-**These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
+**Estes termos e condições (o “Contrato”) regem sua participação no programa do GitHub Marketplace. ao se inscrever para participar do programa do marketplace ou clicar em “Aceito” abaixo, você confirma que compreende este contrato e aceita todos os termos e condições. se você está celebrando este contrato em nome de uma empresa ou outra pessoa jurídica, você declara que tem autoridade legal para vincular a entidade a este contrato; nesse caso, “Você” significará a entidade que você representa.**
 
-Effective Date: May 17, 2024
+Data de início de vigência: 17 de maio de 2024
 
-[1. DEFINITIONS](#1definitions)
+[1. DEFINIÇÕES](#1definitions)
 ----------
 
-Capitalized terms utilized in this Agreement and not defined shall otherwise have the meaning provided in the GitHub Terms of Service located at [https://docs.github.com/articles/github-terms-of-service](/pt/site-policy/github-terms/github-terms-of-service). Those Terms of Service are referred to as the “Terms” or “ToS”.
+Os termos em letras maiúsculas usados neste Contrato e não definidos neste documento terão o significado estabelecido nos Termos de Serviço do GitHub localizados em [https://docs.github.com/articles/github-terms-of-service](/pt/site-policy/github-terms/github-terms-of-service). Esses Termos de Serviço são referidos como "Termos" ou "TdS".
 
-"Action" means a workflow that allows you to implement custom logic to perform a particular task with GitHub without having to create an application.
+"Ação" significa um fluxo de trabalho que permite implementar lógica personalizada para executar uma tarefa específica com o GitHub sem que seja necessário criar um aplicativo.
 
-“Brand Features” means the trademarks and similar intellectual property of each party.
+"Características da Marca" significa as marcas registradas e a propriedade intelectual semelhante para cada parte.
 
-"Developer" or "You" means the company or individual who has created the Developer Application.
+"Desenvolvedor" ou "Você" significa a empresa ou indivíduo que criou o Aplicativo do Desenvolvedor.
 
-"Developer Application" or "Developer Product" means the software, related content and other digital materials created by You for use in connection with GitHub and accessible via Marketplace. This includes Actions, GitHub Copilot Extensions, and other applications or products that use or interact with generative artificial intelligence (AI) technology.
+"Aplicativo do Desenvolvedor" ou "Produto do Desenvolvedor" significa o software, conteúdo relacionado e materiais digitais criados por Você para uso em conexão com o GitHub e acessíveis via Marketplace. Isso inclui Ações, Extensões do GitHub Copilot e outros aplicativos ou produtos que usam ou interagem com a tecnologia de inteligência artificial (IA) generativa.
 
-“End User” means any person, company or other legal entity that will acquire licenses to a Developer Product via the GitHub Marketplace.
+"Usuário Final" significa qualquer pessoa, empresa ou outra entidade legal que adquirirá licenças para um Produto do Desenvolvedor por meio do GitHub Marketplace.
 
-“GitHub API” means any proprietary application programming interface developed by GitHub, and includes the GitHub Copilot API. Access to and use of a GitHub API is governed by the ToS.
+"API do GitHub" significa qualquer interface de programação de aplicativos proprietária desenvolvida pelo GitHub, e inclui a API do GitHub Copilot. O acesso e o uso da API do GitHub são regidos pelos TdS.
 
-“GitHub Marketplace” or “Marketplace” means the proprietary online marketplace site operated by GitHub where Developer Products may be delivered to End Users.
+"GitHub Marketplace" ou "Marketplace" significa o site de mercado on-line proprietário operado pelo GitHub onde os Produtos do Desenvolvedor podem ser entregues aos Usuários Finais.
 
-“Listing” means the content provided for listing the Developer Product on GitHub Marketplace.
+"Listagem" significa o conteúdo fornecido para listar o Produto do Desenvolvedor no GitHub Marketplace.
 
-“Taxes” means any tax, of any kind or sort regardless of origin, including interest or penalties thereon.
+"Impostos" significa qualquer imposto, de qualquer tipo ou espécie, independentemente da origem, incluindo juros ou multas sobre o mesmo.
 
-“Token” means the credentials Developer must obtain to access a GitHub API.
+"Token" significa as credenciais que o desenvolvedor deve obter para acessar uma API do GitHub.
 
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
+"Dados de uso" significa dados relacionados ao Marketplace gerados em conexão com o uso do GitHub Marketplace pelo Usuário Final e licenciamento de Produtos do Desenvolvedor, incluindo, entre outros, estatísticas de uso e dados de vendas agregados. Os Dados de Uso não incluem e excluem especificamente informações bancárias e de pagamento.
 
-[2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
+[2. PROPÓSITO E OUTORGA DE LICENÇA](#2purpose-and-license-grant)
 ----------
 
-**2.1**	This Agreement sets forth the terms that govern a Developer publishing Listings on GitHub Marketplace for End Users to use Developer Products. This Agreement is applicable to all Developer Products, regardless if distributed for free or for a fee. Developer agrees to use the GitHub Marketplace solely for the purposes permitted by this Agreement. Developer is solely responsible for its Developer Products.
+**2.1** Este Contrato estabelece os termos que regem as Listagens de publicação de um Desenvolvedor no GitHub Marketplace para Usuários Finais usarem Produtos do Desenvolvedor. Este Contrato é aplicável a todos os Produtos do Desenvolvedor, independentemente de serem distribuídos gratuitamente ou por uma taxa. O desenvolvedor concorda em usar o GitHub Marketplace apenas para fins permitidos por este Contrato. O desenvolvedor é o único responsável por seus Produtos do Desenvolvedor.
 
-**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to process the Listing in any fashion (including testing and displaying it on Marketplace), and to display Developer’s Brand Features in connection with Marketplace.
+**2.2** O Desenvolvedor concede ao GitHub uma licença não exclusiva, internacional, transferível, sublicenciável, totalmente paga e isenta de royalties para processar a Listagem de qualquer forma (incluindo testá-la e exibi-la no Marketplace) e para exibir os Recursos da Marca do Desenvolvedor em conexão com o Marketplace.
 
-**2.3**	In addition to the licenses granted above, GitHub may include Developer Brand Features in any material marketing Marketplace. If Developer stops distributing a Developer Product on Marketplace, GitHub will stop use of the discontinued products’ Brand Features.
+**2.3** Além das licenças concedidas acima, o GitHub pode incluir Recursos da Marca do Desenvolvedor em qualquer Marketplace de marketing de material. Se o Desenvolvedor parar de distribuir um Produto do Desenvolvedor no Marketplace, o GitHub interromperá o uso dos Recursos da Marca dos produtos descontinuados.
 
-**2.4**	Developer must include a separate end user license agreement (“EULA”) in its Developer Products that will govern the End User’s rights to the Developer Products. Developer acknowledges and agrees that the applicable EULA for each Developer Product is solely between Developer and the End User. GitHub shall not be responsible, nor have any liability whatsoever, under any EULA.
+**2.4** O Desenvolvedor deve incluir um contrato de licença de usuário final separado ("EULA") em seus Produtos do Desenvolvedor que regerá os direitos do Usuário Final em relação aos Produtos do Desenvolvedor. O Desenvolvedor reconhece e concorda que o EULA aplicável para cada Produto do Desenvolvedor é exclusivamente entre o Desenvolvedor e o Usuário Final. O GitHub não será responsável, nem terá qualquer responsabilidade, sob qualquer EULA.
 
-**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Developer Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features. Each party is responsible for protecting and enforcing its own rights and neither party has an obligation to do so on the other’s behalf.
+**2.5** Salvo os direitos de licença concedidos neste Contrato, (a) o Desenvolvedor detém todos os direitos sobre os Produtos do Desenvolvedor; (b) cada parte detém todos os direitos que possui, independentemente deste Contrato, incluindo direitos previstos na Lei de Direitos Autorais dos EUA ou leis semelhantes de outras jurisdições; e (c) cada parte detém todos os direitos, titularidades de direitos e interesses em suas respectivas Características da Marca. Cada parte é responsável por proteger e fazer valer seus respectivos direitos e nenhuma das partes tem a obrigação de fazê-lo em nome da outra.
 
-**2.6**	GitHub shall be entitled to provide Developer’s name, address and other contact details to any third party as required by law or that reasonably, in GitHub’s sole determination, claims that Developer does not possess all of the necessary intellectual property rights in or to the Developer Products.
+**2.6** O o GitHub terá o direito de fornecer o nome, endereço e outros detalhes de contato do Desenvolvedor a qualquer terceiro conforme exigido por lei ou que, a critério exclusivo do GitHub, afirme razoavelmente que o Desenvolvedor não possui todos os direitos de propriedade intelectual necessários sobre os Produtos do Desenvolvedor.
 
-[3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
+[3. RESTRIÇÕES E RESPONSABILIDADES](#3restrictions-and-responsibilities)
 ----------
 
-Notwithstanding any of the requirements set forth in Section 2 (Purpose and License Grant) above, Developer's use of Marketplace is explicitly conditioned on Developer’s adherence to this Agreement, including the restrictions and compliance requirements set forth below.
+Não obstante qualquer um dos requisitos estabelecidos na Seção 2 (Propósito e Outorga de Licença) acima, o uso do Marketplace pelo Desenvolvedor está explicitamente condicionado à adesão do Desenvolvedor a este Contrato, incluindo as restrições e requisitos de conformidade estabelecidos abaixo.
 
-**3.1**	Developer agrees it will protect the privacy and legal rights of all End Users with respect to the use of Developer Products. If an End User provides Developer with, or the Developer Product otherwise collects, discloses, accesses or uses, End User Personal Data, then the Developer must (a) inform End Users that such information will be available to the Developer Products; (b) provide a legally adequate privacy notice and protection to End Users; (c) obtain valid End User consent as required, and (d) comply with all other data privacy obligations applicable to Developer.
+**3.1** O Desenvolvedor concorda que protegerá a privacidade e os direitos legais de todos os Usuários Finais relacionados ao uso dos Produtos do Desenvolvedor. Se um Usuário Final fornecer ao Desenvolvedor, ou o Produto do Desenvolvedor coletar, divulgar, acessar ou usar, Dados Pessoais do Usuário Final, então o Desenvolvedor deverá (a) informar aos Usuários Finais que tais informações estarão disponíveis para os Produtos do Desenvolvedor; (b) fornecer um aviso de privacidade e proteção legalmente adequados aos Usuários Finais; (c) obter o consentimento válido do Usuário Final conforme necessário e (d) cumprir todas as outras obrigações de privacidade de dados aplicáveis ​​ao Desenvolvedor.
 
-**3.2**	In order to use and access a GitHub API, Developer must obtain a Token by becoming a subscriber. Developer may not share its Token with any third party, shall keep its Token and all login information secure, and shall use the Token as Developer’s sole means of accessing a GitHub API.
+**3.2** Para usar e acessar a API do GitHub, o Desenvolvedor deverá obter um Token tornando-se assinante. O Desenvolvedor não pode compartilhar seu Token com terceiros, deve manter tal Token e todas as informações de login seguras e deve usar o Token como o único meio do Desenvolvedor para acessar uma API do GitHub.
 
-**3.3**	Developer will not engage in any activity with Marketplace, including attempting to distribute any Developer Product, that violates GitHub's Terms of Service including [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). Additionally, Developer will not attempt to distribute any Developer Product that:
+**3.3** O Desenvolvedor não se envolverá em nenhuma atividade com o Marketplace, incluindo a tentativa de distribuir qualquer Produto do Desenvolvedor, que viole os Termos de Serviço do GitHub, incluindo as [Políticas de Uso Aceitável](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). Além disso, o Desenvolvedor não tentará distribuir nenhum Produto de Desenvolvedor que:
 
-* 1. Contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system);
-* 2. Enables the unauthorized download of streaming content or media; or
-* 3. Diverts End Users or provides links to any other site that mimics Marketplace or passes itself off as Marketplace
+* 1. Contém ou instala qualquer malware ou exploits ativos, ou usa nossa plataforma para entrega de exploits (como parte de um sistema de comando e controle);
+* 2. Permite o download não autorizado de conteúdo ou mídia de streaming; ou
+* 3. Desvia os usuários finais ou fornece links para qualquer outro site que imita o Marketplace ou se faz passar pelo Marketplace
 
-**3.4** With respect to Developer Products that interact with generative AI technology, including GitHub Copilot Extensions, Developer will:
+**3.4** Com relação aos Produtos do Desenvolvedor que interagem com tecnologia de IA generativa, incluindo as Extensões do GitHub Copilot, o Desenvolvedor irá:
 
-* 1. Test the Developer Product using various inputs to ensure that outputs do not violate this Agreement;
-* 2. Notify users when they are interacting with generative AI content;
-* 3. Have a mechanism for End Users to report feedback to GitHub and Developer related to errors, bugs, improper, or undesired outputs; and
-* 4. Inform End Users the appropriate use cases, best practices, and limitations of the Developer Product.
+* 1. Testar o Produto do Desenvolvedor usando várias entradas para garantir que as saídas não violem este Contrato;
+* 2. Notificar os usuários quando eles estiverem interagindo com conteúdo de IA generativa;
+* 3. Adotar um mecanismo para que os Usuários Finais relatem feedback ao GitHub e ao Desenvolvedor relacionados a erros, bugs, saídas indevidas ou indesejadas; e
+* 4. Informar aos usuários finais os casos de uso, as práticas recomendadas e as limitações apropriadas do Produto do Desenvolvedor.
 
-**3.5**	Developer shall not by any means repackage or resell Marketplace, a GitHub API, Personal Data, or Usage Data. Developer is not permitted to use a GitHub API or any Personal Data or Usage Data in any manner that does or could undermine the security of the Service, a GitHub API, Usage Data or any other data or information stored or transmitted using Marketplace. In addition, Developer shall not (a) interfere with, modify or disable any features, functionality or security controls of Marketplace or a GitHub API; (b) circumvent in any fashion any protection mechanisms for Marketplace or a GitHub API; or (c) reverse engineer, decompile, disassemble or derive the source code, underlying ideas, algorithms, structure or organizational form from Marketplace or a GitHub API.
+**3.5** O Desenvolvedor não deve, de forma alguma, reempacotar ou revender o Marketplace, uma API do GitHub, Dados Pessoais ou Dados de Uso. O desenvolvedor não tem permissão para usar uma API do GitHub ou quaisquer Dados Pessoais ou Dados de Uso de qualquer maneira que prejudique ou possa prejudicar a segurança do Serviço, a API do GitHub, os Dados de uso ou quaisquer outros dados ou informações armazenados ou transmitidos usando o Marketplace. Além disso, o Desenvolvedor não deverá (a) interferir, modificar ou desativar quaisquer recursos, funcionalidades ou controles de segurança do Marketplace ou de uma API do GitHub; (b) contornar de qualquer forma quaisquer mecanismos de proteção para o Marketplace ou uma API do GitHub; ou (c) fazer engenharia reversa, descompilar, desmontar ou derivar o código-fonte, ideias subjacentes, algoritmos, estrutura ou forma organizacional do Marketplace ou de uma API do GitHub.
 
-**3.6**	Developer acknowledges that Developer is solely responsible, and that GitHub has no responsibility or liability of any kind, for any aspect of Developer Products. Developer will be solely responsible for:
+**3.6** O Desenvolvedor reconhece que o Desenvolvedor é o único responsável e que o GitHub não tem responsabilidade ou obrigação de qualquer tipo por qualquer aspecto dos Produtos do Desenvolvedor. O Desenvolvedor será o único responsável por:
 
-* (i) providing End Users instructions on installing and using its Developer Products;
-* (ii) creating and displaying information and content on, through or within its Developer Products;
-* (iii) ensuring that its Developer Products do not violate or infringe the intellectual property rights of any third party;
-* (iv) ensuring that Developer Products are not offensive, profane, obscene, libelous or otherwise illegal;
-* (v) ensuring that its Developer Products do not contain or introduce malicious software into Marketplace, a GitHub API, any Usage Data or other data stored or transmitted using Marketplace; and
-* (vi) ensuring that its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub.com users, agents or End Users without their consent.
+* (i) fornecer aos Usuários Finais instruções sobre como instalar e usar seus Produtos do Desenvolvedor;
+* (ii) pela criação e exibição de informações e do conteúdo nos Produtos do Desenvolvedor;
+* (iii) garantir que seus Produtos do Desenvolvedor não violem ou infrinjam os direitos de propriedade intelectual de terceiros;
+* (iv) garantir que os Produtos do Desenvolvedor não sejam ofensivos, profanos, obscenos, difamatórios ou ilegais;
+* (v) garantir que seus Produtos do Desenvolvedor não contenham ou introduzam software malicioso no Marketplace, uma API do GitHub, quaisquer Dados de Uso ou outros dados armazenados ou transmitidos usando o Marketplace; e
+* (vi) garantir que seus Produtos de Desenvolvedor não sejam projetados ou utilizados com a finalidade de enviar mensagens eletrônicas comerciais a quaisquer usuários, agentes ou Usuários Finais GitHub.com sem o seu consentimento.
 
-**3.7**	Developer will respect and comply with the technical and policy-implemented limitations of a GitHub API and the restrictions of this Agreement in designing and implementing Developer Products. Developer shall not violate any explicit rate limitations on calling or otherwise utilizing a GitHub API.
+**3.7** O Desenvolvedor respeitará e cumprirá as limitações técnicas e implementadas por políticas da API do GitHub e as restrições deste Contrato ao projetar e implementar Produtos do Desenvolvedor. O Desenvolvedor não deve violar nenhuma limitação de taxa explícita ao chamar ou utilizar a API do GitHub.
 
-**3.8**	Nothing in this Agreement shall prevent either party from developing and/or publishing applications that are similar or otherwise compete with the other party's applications.
+**3.8** Nenhuma cláusula deste Contrato impedirá qualquer uma das partes de desenvolver e/ou publicar aplicativos semelhantes ou que concorram com os aplicativos da outra parte.
 
-[4. TAKEDOWNS](#4takedowns)
+[4. REMOÇÕES](#4takedowns)
 ----------
 
-**4.1**	Your Takedowns. Upon providing GitHub with thirty (30) days written notice, you may remove your Listing from future distribution via Marketplace. You must continue to comply with this Agreement for any Listing already distributed through Marketplace including but not limited to refund requirements. Removing your Listing from future distribution via Marketplace does not (a) affect the license rights of End Users who have previously purchased or installed your Listing or (b) change your obligation to deliver or support Listing that has been previously purchased or installed by users. If you remove your Listing, GitHub will not disclose your reason for the removal.
+**4.1** Suas Remoções. Ao fornecer ao GitHub um aviso por escrito com trinta (30) dias de antecedência, você pode remover sua Listagem de distribuições futuras via Marketplace. Você deve continuar a cumprir este Contrato para qualquer Listagem já distribuída pelo Marketplace, incluindo, mas não se limitando a, requisitos de reembolso. A remoção do seu Anúncio de distribuição futura via Marketplace não (a) afeta os direitos de licença dos Usuários Finais que já compraram ou instalaram seu Anúncio ou (b) altera sua obrigação de entregar ou oferecer suporte ao Anúncio que foi comprado ou instalado anteriormente pelos usuários. Se você remover sua Listagem, o GitHub não divulgará o motivo da remoção.
 
-**4.2**	GitHub Review and Takedowns. GitHub may review or test your Listing for compliance with this Agreement, GitHub ToS, and any other applicable terms, obligations, laws, or regulations. GitHub retains sole and absolute discretion over what Listings are included on Marketplace. You may be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace. You agree that any information you give to Marketplace will be accurate, correct and up to date. As part of the specification for your Listing, GitHub may ask that you include in the file for your Listing information such as your name and email address. GitHub may use this information when featuring the Listing in our directory or for other uses.
+**4.2** Revisão e Remoções do GitHub. O GitHub pode revisar ou testar sua Listagem quanto à conformidade com este Contrato, TdS do GitHub e quaisquer outros termos, obrigações, leis ou regulamentos aplicáveis. O GitHub mantém a discrição única e absoluta sobre quais Listagens estão incluídas no Marketplace. Você pode ser solicitado a fornecer informações sobre você (como identificação ou detalhes de contato) como parte do processo de registro no Marketplace ou como parte de seu uso contínuo do Marketplace. Você concorda que todas as informações que fornecer ao Marketplace serão precisas, corretas e atualizadas. Como parte da especificação do seu Anúncio, o GitHub pode solicitar que você inclua no arquivo do seu Anúncio informações como seu nome e endereço de e-mail. O GitHub pode usar essas informações ao apresentar a Listagem em nosso diretório ou para outros usos.
 
-If GitHub is notified by you or otherwise becomes aware and determines, in its sole discretion, that a Listing or any portion thereof or your Brand Features:
+Se o GitHub for notificado por você ou de outra forma tomar conhecimento e determinar, a seu exclusivo critério, que uma Listagem ou qualquer uma de suas partes ou suas Características de Marca:
 
-* (a) violates the terms of this Agreement or the ToS;
-* (b) the display of the Listing is impacting the integrity of GitHub servers (i.e., users are unable to access such content or otherwise experience difficulty);
-* (c) is deemed by GitHub to add undue risk to Marketplace End Users’ data or impair the user experience of Marketplace or GitHub; or
-* (d) is subject to End User complaints in regards to your breach of your EULA,
+* (a) viole os Termos deste Contrato ou os TdS;
+* (b) a exibição da Listagem esteja impactando a integridade dos servidores GitHub (ou seja, os usuários não conseguem acessar tal conteúdo ou enfrentam dificuldades);
+* (c) seja considerada pelo GitHub como adicionando risco indevido aos dados dos Usuários Finais do Marketplace ou prejudicando a experiência do usuário do Marketplace ou GitHub; ou
+* (d) esteja sujeita a reclamações de usuários em relação à violação do seu EULA,
 
-GitHub may: suspend the transfer of Personal Data to your Developer Product; prohibit the collection and processing of Personal Data via your Developer Product; remove the Listing from Marketplace; flag, filter, or modify related materials (including but not limited to descriptions, screenshots, or metadata); or reclassify the Listing at its sole discretion. If GitHub takes any of these actions on your Listing, you may appeal GitHub's action through the [GitHub Appeal and Reinstatement Process](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+o GitHub poderá: suspender a transferência de Dados Pessoais para o seu Produto do Desenvolvedor; proibir a coleta e o processamento de Dados Pessoais através do seu Produto de Programador; remover a Listagem do Marketplace; sinalizar, filtrar ou modificar materiais relacionados (incluindo, mas não limitado a, descrições, capturas de tela ou metadados); ou reclassificar a Listagem a seu exclusivo critério. Se o GitHub executar qualquer uma dessas ações em sua Listagem, você poderá recorrer da ação do GitHub por meio do [Processo de Apelação e Restabelecimento do GitHub](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-**4.3**	Developer Product Updates. From time to time, GitHub may check for available updates to any Listing, including but not limited to bug fixes or enhanced functionality. If you update your Listing to Marketplace, you agree that such update will be automatically requested, downloaded, and installed without further notice to you. GitHub makes no guarantees regarding the timing of such updates. Updates to a Listing are subject to the same terms and conditions as the Listing.
+**4.3** Atualizações do Produto do Desenvolvedor. Ocasionalmente, o GitHub pode verificar se há atualizações disponíveis para a Listagem, incluindo, entre outras, correções de bugs ou funcionalidades aprimoradas. Se você atualizar seu Anúncio para o Marketplace, você concorda que tal atualização será automaticamente solicitada, baixada e instalada sem aviso prévio. O GitHub não garante o tempo de tais atualizações. As atualizações de uma Listagem estão sujeitas aos mesmos termos e condições que a Listagem.
 
-**4.4**	End-User Takedowns. If an End-User uses your Developer Product in a way that violates the Terms, then we have the right to suspend or terminate that End-User's access to the Developer Product without any liability to you.
+**4.4** Remoções do Usuário Final. Se um Usuário Final usar seu Produto Desenvolvedor de uma forma que viole os Termos, temos o direito de suspender ou rescindir o acesso desse Usuário Final ao Produto Desenvolvedor sem qualquer responsabilidade perante você.
 
-[5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
+[5. DECLARAÇÕES, GARANTIAS E ACORDOS](#5representations-warranties-and-covenants)
 ----------
 
-**5.1**	Developer must inform End Users of the Personal Data that will be transmitted to the Developer Application from the Service and that Developer terms will control the privacy, security or integrity of such Personal Data. To the extent Developer’s Applications store, process or transmit Personal Data, neither Developer nor Developer’s Application will, without appropriate prior user consent or except to the extent required by applicable law,
+**5.1** O Desenvolvedor deve informar os Usuários Finais sobre os Dados Pessoais que serão transmitidos ao Aplicativo do Desenvolvedor a partir do Serviço e que os termos do Desenvolvedor controlarão a privacidade, segurança ou integridade de tais Dados Pessoais. Na medida que os Aplicativos do Desenvolvedor armazenam, processam ou transmitem Dados Pessoais, nem o Desenvolvedor nem o Aplicativo do Desenvolvedor irão, sem o consentimento prévio apropriado do usuário ou exceto na medida exigida pela lei aplicável,
 
-* (i) modify the content of Personal Data in a manner that adversely affects the integrity of the Personal Data;
-* (ii) disclose the Personal Data to any third party; or
-* (iii) use the Personal Data for any purpose other than providing the Developer Application functionality to users of such Developer Application.
+* (i) modificar o conteúdo dos Dados Pessoais de uma maneira que afete adversamente a integridade dos Dados Pessoais;
+* (ii) divulgar os Dados Pessoais para terceiros; ou
+* (iii) usar os Dados Pessoais para qualquer finalidade que não seja fornecer a funcionalidade do Aplicativo do Desenvolvedor aos usuários desse Aplicativo do Desenvolvedor.
 
-Developer shall maintain and handle all Personal Data in accordance with privacy and security measures reasonably adequate to preserve the confidentiality and security of all such Personal Data and all applicable privacy laws and regulations.
+O Desenvolvedor também manterá e processará todos os Dados Pessoais de acordo com as medidas de privacidade e segurança razoavelmente adequadas para preservar a confidencialidade e segurança de todos os Dados Pessoais e todas as leis e regulamentos de privacidade aplicáveis.
 
-**5.2**	Developer agrees that it will comply with the GitHub Data Protection Addendum.
+**5.2** O Desenvolvedor concorda que cumprirá o Adendo de Proteção de Dados do GitHub.
 
-**5.3**	You Support Your Developer Product. Developer will be solely responsible for support and maintenance of your Developer Products and any complaints about your Developer Products. Your support contact information will be displayed in each application detail page and made available to users for customer support purposes. Failure to provide adequate support for your Developer Products may result in reduced product exposure, or in some cases removal from Marketplace or anywhere else on GitHub.com where previously purchased or downloaded Developer Products are stored on behalf of users.
+**5.3** Você oferece suporte ao seu Produto do Desenvolvedor. O Desenvolvedor será o único responsável pelo suporte e manutenção de seus Produtos de Desenvolvedor e quaisquer reclamações sobre seus Produtos de Desenvolvedor. Suas informações de contato de suporte serão exibidas em cada página de detalhes do aplicativo e disponibilizadas aos usuários para fins de suporte ao cliente. A falha em fornecer suporte adequado para seus produtos do desenvolvedor pode resultar em exposição reduzida do produto ou, em alguns casos, remoção do Marketplace ou de qualquer outro lugar em GitHub.com onde os produtos do desenvolvedor comprados ou baixados anteriormente são armazenados em nome dos usuários.
 
-**5.4** Developer represents and warrants that: (i) its Developer Products and Developer Brand Features do not and will not violate, misappropriate or infringe upon the intellectual property rights of any third party; (ii) Developer will comply with all applicable laws and regulations, including this Agreement and GitHub's Terms of Service, and maintain all permissions necessary to develop, implement, and distribute its Developer Products; (iii) its Developer Products do not and will not contain or introduce any malicious software; (iv) its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub customers, agents or End Users without their consent; (v) Developer has all right, power and authority to grant the licenses granted to GitHub and End Users herein; and (vi) any images and text that are used to market the Developer Products or that Developer has uploaded to Marketplace are truthful, accurate and not intended to mislead or confuse the End User.
+**5.4** O Desenvolvedor declara e garante que: (i) seus Produtos do Desenvolvedor e Características da Marca do Desenvolvedor não violam e não violarão, se apropriarão indevidamente ou infringirão os direitos de propriedade intelectual de terceiros; (ii) O Desenvolvedor cumprirá todas as leis e regulamentos aplicáveis, incluindo este Contrato e os Termos de Serviço do GitHub, e manterá todas as permissões necessárias para desenvolver, implementar e distribuir seus Produtos do Desenvolvedor; (iii) seus Produtos do Desenvolvedor não contêm e não conterão nem introduzirão qualquer software malicioso; (iv) seus Produtos do Desenvolvedor não são projetados ou utilizados com a finalidade de enviar mensagens eletrônicas comerciais a quaisquer clientes, agentes ou Usuários Finais do GitHub sem o seu consentimento; (v) O Desenvolvedor tem todo o direito, poder e autoridade para conceder as licenças concedidas ao GitHub e aos Usuários Finais aqui; e (vi) quaisquer imagens e textos usados ​​para comercializar os Produtos do Desenvolvedor ou que o Desenvolvedor tenha carregado no Marketplace são verdadeiros, precisos e não têm a intenção de enganar ou confundir o Usuário Final.
 
-**5.5**	Disclaimer of Warranties. All aspects of Marketplace and GitHub API, including all server and network components, are provided on an “as is” and “as available” basis, without any warranties of any kind. GitHub expressly disclaims any and all warranties to the fullest extent permitted by law, whether express or implied, including, but not limited to, any implied warranties of merchantability, title, fitness for a particular purpose, and non-infringement. Developer acknowledges that GitHub does not warrant that Marketplace or a GitHub API will be uninterrupted, timely, secure, error-free, or free from viruses, malware, or worms (otherwise known as computer code or other technology specifically designed to disrupt, disable, or harm your software, hardware, computer system, or network), and no information or advice obtained by developer from GitHub or through Marketplace or a GitHub API shall create any warranty not expressly stated in these terms. GitHub is not responsible for, and specifically disclaims any liability for, any unauthorized use of Developer Products outside Marketplace.
+**5.5** Aviso de Isenção de Responsabilidade de Garantias. Todos os aspectos do Marketplace e da API do GitHub, incluindo todos os componentes de servidor e rede, são fornecidos "no estado em que se encontram" e "conforme disponíveis", sem quaisquer garantias de qualquer tipo. O GitHub se isenta expressamente de todas e quaisquer garantias na máxima extensão permitida por lei, sejam expressas ou implícitas, incluindo, mas não se limitando a, quaisquer garantias implícitas de comercialização, título, adequação a uma finalidade específica e não violação. O desenvolvedor reconhece que o GitHub não garante que o Marketplace ou uma API do GitHub serão ininterruptos, oportunos, seguros, livres de erros ou livres de vírus, malware ou worms (também conhecidos como código de computador ou outra tecnologia projetada especificamente para interromper, desativar, ou danificar seu software, hardware, sistema de computador ou rede) e nenhuma informação ou conselho obtido pelo desenvolvedor do GitHub ou por meio do Marketplace ou de uma API do GitHub criará qualquer garantia não expressamente declarada nestes termos. O GitHub não é responsável e isenta-se especificamente de qualquer responsabilidade por qualquer uso não autorizado de Produtos do Desenvolvedor fora do Marketplace.
 
-[6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
+[6. APLICATIVOS OU PRODUTOS PAGOS](#6paid-applications-or-products)
 ----------
 
-**6.1**	GitHub will be the merchant of record for Developer Products purchased by End Users via Marketplace.
+**6.1** O GitHub será o comerciante registrado para Produtos do Desenvolvedor comprados por Usuários Finais via Marketplace.
 
-**6.2** Registration. Developer will be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace including, but not limited to: (i) name, (ii) address, (iii) telephone number, (iv) e-mail address, and (v) payment account details. GitHub may publicize Developer’s information on Marketplace and retain Developer’s registration information as required by applicable law.**6.3** Pricing. Prices for Listings of Developer Applications will be set in US Dollars (USD). Developer has complete control over setting pricing for each Listing. The prices you set for Developer Products will determine the amount of payment you will receive. GitHub will remit 95% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 5% of the sales price will be allotted to and retained by GitHub. At the end of each month and upon reaching a minimum value of $500 USD, GitHub will remit your share of payments.
+**6.2** Registro O desenvolvedor será obrigado a fornecer informações sobre você (como identificação ou detalhes de contato) como parte do processo de registro no Marketplace ou como parte do seu uso contínuo do Marketplace, incluindo, mas não limitado a: (i) nome, (ii) endereço, (iii) número de telefone, (iv) endereço de e-mail e (v) detalhes da conta de pagamento. O GitHub pode tornar públicas as informações do Desenvolvedor no Marketplace e reter as informações de registro do Desenvolvedor conforme exigido pela lei aplicável.**6.3** Preços. Os preços das Listagens de Aplicativos do Desenvolvedor serão definidos em dólares americanos (USD). O desenvolvedor tem controle total sobre a definição de preços para cada Listagem. Os preços que você definir para os produtos do desenvolvedor determinarão o valor do pagamento que você receberá. O GitHub remeterá 95% do preço de venda em USD sem redução de impostos, exceto por quaisquer impostos retidos na fonte exigidos pela lei aplicável. Os 5% restantes do preço de venda serão alocados e retidos pelo GitHub. No final de cada mês e ao atingir um valor mínimo de $500 USD, o GitHub enviará sua parte dos pagamentos.
 
-**6.3**	Refunds. You will be responsible for specifying the terms and conditions regarding refunds to your End Users. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
+**6.3** Reembolsos. Você será responsável por especificar os termos e condições referentes a reembolsos para seus Usuários Finais. Em nenhum caso o GitHub será responsável por fornecer qualquer suporte para reembolsos, nem o GitHub será responsável pelo pagamento de qualquer reembolso.
 
-[7. OWNERSHIP](#7ownership)
+[7. PROPRIEDADE](#7ownership)
 ----------
 
-Subject to the limited licenses expressly provided in this Agreement, nothing in this Agreement transfers or assigns to a party any of the other party’s intellectual property rights in its Brand Features or other technology, and nothing in this Agreement transfers or assigns a party any of the other party’s intellectual property rights.
+Sujeito às licenças limitadas expressamente fornecidas neste Contrato, nada neste Contrato transfere ou cede a uma parte quaisquer direitos de propriedade intelectual da outra parte em suas Características da Marca ou outra tecnologia, e nada neste Contrato transfere ou cede a uma parte qualquer um dos direitos de propriedade intelectual de outra parte.
 
-[8. LIMITATION OF LIABILITY](#8limitation-of-liability)
+[8. LIMITAÇÃO DE RESPONSABILIDADE](#8limitation-of-liability)
 ----------
 
-Under no circumstances and under no legal theory (whether in contract, tort, negligence or otherwise) will GitHub, or its affiliates, officers, directors, employees, agents, or suppliers be liable to developer or any third party under this agreement for any indirect, incidental, special, exemplary, consequential, punitive or other similar damages, including lost profits, lost sales or business, lost data, business interruption or any other loss incurred by Developer or any third party in connection with this Agreement, regardless of whether Developer has been advised of the possibility of or could have foreseen such damages notwithstanding anything to the contrary in this Agreement, GitHub’s aggregate liability to Developer or any third party arising out of this Agreement shall not exceed $500 (five hundred) USD.
+Sob nenhuma circunstância e sob nenhuma teoria legal (seja por contrato, ato ilícito, negligência ou de outra forma) o GitHub ou suas afiliadas, executivos, diretores, funcionários, agentes ou fornecedores serão responsáveis ​​perante o desenvolvedor ou qualquer terceiro sob este contrato por quaisquer danos indiretos, incidentais, especiais, exemplares, consequenciais, punitivos ou outros danos semelhantes, incluindo lucros cessantes, perda de vendas ou negócios, perda de dados, interrupção de negócios ou qualquer outra perda incorrida pelo Desenvolvedor ou qualquer terceiro em conexão com este Contrato, independentemente de o Desenvolvedor foi avisado da possibilidade ou poderia ter previsto tais danos, não obstante qualquer disposição em contrário neste Contrato, a responsabilidade agregada do GitHub junto ao Desenvolvedor ou qualquer terceiro decorrente deste Contrato não deverá exceder US$ 500 (quinhentos dólares americanos).
 
-[9. INDEMNIFICATION](#9indemnification)
+[9. INDENIZAÇÃO](#9indemnification)
 ----------
 
-To the maximum extent permitted by applicable law, Developer agrees to defend, indemnify and hold harmless GitHub, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any losses, liabilities, damages, costs and expenses (including reasonable attorneys’ fees) arising from or relating to (a) Developer’s use of Marketplace in violation of this Agreement, the Terms or any applicable laws or regulations; (b) Developer’s Products that infringe any copyright, trademark, trade secret, patent or other intellectual property right of any third party; (c) any loss or disclosure of data or Personal Data by Developer Products; and (d) Developer’s EULA (or ToS).
+Na extensão máxima permitida pelas leis aplicáveis, o Desenvolvedor concorda em defender, indenizar e isentar o GitHub, suas afiliadas e seus respectivos diretores, executivos, funcionários e agentes de e contra todos e quaisquer requerimentos judiciais ou extrajudiciais, ações, processos ou procedimentos, bem como por perdas, obrigações, indenizações, custos e despesas (incluindo honorários advocatícios razoáveis) decorrentes ou relacionados a (a) uso do Marketplace pelo Desenvolvedor em violação deste Contrato, dos Termos ou de quaisquer leis ou regulamentos aplicáveis; (b) Produtos do Desenvolvedor que infrinjam qualquer direito autoral, marca registrada, segredo comercial, patente ou outro direito de propriedade intelectual de terceiros; (c) qualquer perda ou divulgação de dados ou informações pessoais por Produtos do Desenvolvedor e (d) EULA do Desenvolvedor (ou TdS).
 
-[10. TERMINATION](#10termination)
+[10. RESCISÃO](#10termination)
 ----------
 
-**10.1**	This Agreement will continue to apply until terminated by either party as set forth below.
+**10.1** Este Contrato continuará sendo aplicado até que seja rescindido por qualquer uma das partes, conforme estabelecido abaixo.
 
-**10.2**	Either party may terminate this Agreement for any reason upon thirty (30) days written notice. During the 30 day period the terms in effect at the time of the notice of termination shall govern.
+**10.2** Qualquer uma das partes pode rescindir este Contrato por qualquer motivo mediante notificação por escrito com trinta (30) dias de antecedência. Durante o período de 30 dias, os termos em vigor no momento do aviso de rescisão prevalecerão.
 
-**10.3**	GitHub may terminate this Agreement at any time if (a) you have breached any provision of this Agreement or (b) GitHub is required to do so by law.
+**10.3** O GitHub pode rescindir este Contrato a qualquer momento se (a) você tiver violado qualquer disposição deste Contrato ou (b) o GitHub for obrigado a fazê-lo por lei.
 
-**10.4**	Effects of Termination by Developer. Upon receiving thirty (30) days’ advanced written notice of termination from Developer, Developer will be disabled from taking on new customers via Marketplace. Any outstanding fees shall be remitted upon termination and removal of the Developer Product from Marketplace. If termination is initiated as a result of a GitHub modification to these terms (Section 11), the terms in effect immediately prior to such modification shall govern the duration of the 30-day notice period.
+**10.4** Efeitos da Rescisão ou Término por parte do Desenvolvedor. Ao receber aviso prévio por escrito de trinta (30) dias de rescisão do Desenvolvedor, o Desenvolvedor será impedido de aceitar novos clientes via Marketplace. Quaisquer taxas pendentes serão remetidas após a rescisão e remoção do Produto do Desenvolvedor do Marketplace. Se a rescisão for iniciada como resultado de uma modificação do GitHub a estes termos (Seção 11), os termos em vigor imediatamente antes de tal modificação prevalecerão durante o período de aviso de 30 dias.
 
-**10.5**	The obligations in Sections 2, 3, 4, 5, 8, 9, 12-18, and Data Protection Addendum will survive any expiration or termination of this Agreement.
+**10.5** As obrigações nas Seções 2, 3, 4, 5, 8, 9 e 12-18 e o Adendo de Proteção de Dados sobreviverão a qualquer expiração ou rescisão deste Contrato.
 
-[11. MODIFICATION](#11modification)
+[11. MODIFICAÇÃO](#11modification)
 ----------
 
-Developer acknowledges and agrees that GitHub may modify this Agreement, Marketplace Terms of Service, a GitHub API, the General API Policies, GitHub Privacy Statement, the GitHub Developer Program Terms of Service, and the GitHub.com ToS from time to time (a “Modification”). All Modifications shall be communicated through Marketplace, the GitHub website at [www.GitHub.com](http://www.GitHub.com) or through a form of direct communication from GitHub to Developer. Developer further acknowledges and agrees that such Modifications may be implemented at any time and without any notice to Developer. Developer shall, within thirty (30) days from the date of first notice of any Modification(s) (or such shorter period of time specified in the notice of the Modification(s)) (the “Conformance Period”) comply with such modification(s) by implementing and using the most current version of a GitHub API in the most current version of the Developer Products and making any changes to Developer Products that may be required as a result of such Modification(s). Developer acknowledges that a Modification may have an adverse effect on Developer Products, including but not limited to changing the manner in which applications communicate with a GitHub API. GitHub shall have no liability of any kind to Developer or any End User with respect to such Modifications or any adverse effects resulting from such Modifications. Developer’s continued access to or use of Marketplace or a GitHub API following the Conformance Period shall constitute binding acceptance of the Modification(s).
+O desenvolvedor reconhece e concorda que o GitHub pode modificar este Contrato, os Termos de Serviço do Marketplace, a API do GitHub, as Políticas gerais de API, a Declaração de Privacidade do GitHub, os Termos de serviço do Programa de desenvolvedor do GitHub e os TdS do GitHub.com de tempos em tempos (uma "Modificação"). Todas as Modificações devem ser comunicadas através do Marketplace, do site do GitHub em [www.GitHub.com](http://www.GitHub.com) ou através de uma forma de comunicação direta do GitHub para o Desenvolvedor. O Desenvolvedor também reconhece e concorda que tais Modificações podem ser implementadas a qualquer momento e sem qualquer aviso ao Desenvolvedor. O Desenvolvedor deverá, dentro de trinta (30) dias a partir da data do primeiro aviso de quaisquer Modificações (ou período de tempo menor especificado no aviso das Modificações) (o "Período de Conformidade") cumprir tais modificações implementando e usando a versão mais atual da API do GitHub na versão mais atual dos Produtos do Desenvolvedor e fazer quaisquer alterações nos Produtos do Desenvolvedor que possam ser necessárias como resultado de tais Modificações. O Desenvolvedor reconhece que uma Modificação pode ter um efeito adverso nos Produtos do Desenvolvedor, incluindo, entre outros, alterar a maneira como os aplicativos se comunicam com uma API do GitHub. O GitHub não terá qualquer tipo de responsabilidade para com o Desenvolvedor ou qualquer Usuário Final com relação a tais Modificações ou quaisquer efeitos adversos resultantes de tais Modificações. O acesso contínuo do desenvolvedor ou o uso do Marketplace ou de uma API do GitHub após o Período de Conformidade constituirá uma aceitação vinculante das Modificações em questão.
 
-[12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
+[12. CESSÃO; ACORDO INTEGRAL; REVISÕES](#12assignment-entire-agreement-revisions)
 ----------
 
-**12.1**	Developer may not, directly or indirectly, by operation of law or otherwise, assign all or any part of this Agreement or Developer’s rights under this Agreement or delegate performance of Developer’s duties under this Agreement without GitHub’s prior written consent. The rights granted in this Agreement may be assigned or transferred by GitHub without Developer’s prior approval. In addition, GitHub may delegate its responsibilities or obligations under this Agreement without Developer’s consent.
+**12.1** O Desenvolvedor não pode, direta ou indiretamente, por força de lei ou de outra forma, ceder todo ou qualquer parte deste Contrato ou dos direitos do Desenvolvedor sob este Contrato nem delegar o desempenho dos deveres do Desenvolvedor sob este Contrato sem prévia autorização por escrito do GitHub. Os direitos concedidos neste Contrato podem ser cedidos ou transferidos pelo GitHub sem a aprovação prévia do Desenvolvedor. Além disso, o GitHub pode delegar suas responsabilidades ou obrigações sob este Contrato sem o consentimento do Desenvolvedor.
 
-**12.2**	This Agreement, together with the ToS, constitute the entire agreement between the parties with respect to the subject matter of this Agreement. GitHub’s failure to enforce at any time any provision of this Agreement does not constitute a waiver of that provision or of any other provision of this Agreement.
+**12.2** Este Contrato, juntamente com os TdS, constituem o acordo integral entre as partes com relação ao objeto deste Contrato. A falha do GitHub em aplicar a qualquer momento qualquer disposição deste Contrato não constitui uma renúncia a essa disposição ou a qualquer outra disposição deste Contrato.
 
-[13. SEVERABILITY](#13severability)
+[13. INDEPENDÊNCIA DAS CLÁUSULAS](#13severability)
 ----------
 
-If any part of this Agreement is held to be unenforceable, the rest of the Agreement will remain in full force and effect.
+Se qualquer parte deste Contrato for considerada inexequível, o restante do Contrato permanecerá em pleno vigor e efeito.
 
-[14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
+[14. RELACIONAMENTO ENTRE AS PARTES](#14-relationship-of-the-parties)
 ----------
 
-The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties. Developer agrees that each member of the group of companies to which GitHub belongs shall be a third party beneficiary to this Agreement and that such other companies shall be entitled to directly enforce, and rely upon, any provision of this Agreement that confers a benefit or grants a right in favor or GitHub. No other person, company or legal entity shall be a third party beneficiary to the Agreement.
+As partes são prestadoras de serviços. Este Contrato não cria uma parceria, franquia, joint venture, representação, relação fiduciária nem vínculo empregatício entre as partes. O desenvolvedor concorda que cada membro do grupo de empresas ao qual o GitHub pertence será um terceiro beneficiário deste Contrato e que essas outras empresas terão o direito de aplicar diretamente e confiar em qualquer disposição deste Contrato que confira um benefício ou concessões um direito a favor ou GitHub. Nenhuma outra pessoa, empresa ou entidade legal será um terceiro beneficiário do Contrato.
 
-[15. NOTICE](#15-notice)
+[15. NOTIFICAÇÃO](#15-notice)
 ----------
 
-Notices to GitHub may be submitted via email to [legal@support.github.com](mailto:legal@support.github.com). If Customer wishes to formally service notice on GitHub, it must be made through GitHub’s registered agent: GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Notices must be in writing and will be treated as delivered on the date received at the address, date shown on the return receipt, email transmission date, or date on the courier confirmation of delivery. All notices to be provided by GitHub to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to GitHub; or (ii) electronic mail to the electronic mail address provided by Developer.
+As notificações para o GitHub podem ser enviadas por e-mail para [legal@support.github.com](mailto:legal@support.github.com). Se o Cliente desejar formalizar a notificação de serviço no GitHub, ela deverá ser feita por meio do agente registrado do GitHub: GitHub, Inc., c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. As notificações devem ser feitas por escrito e serão tratadas como entregues na data de recebimento no endereço, data mostrada no recibo de devolução, data de transmissão do e-mail ou data na confirmação de entrega do correio. Todos os avisos a serem fornecidos pelo GitHub ao Desenvolvedor sob este Contrato podem ser entregues por escrito (i) por serviço de entrega noturno reconhecido nacionalmente ("Courier") ou correio dos EUA para o endereço de contato fornecido pelo Desenvolvedor ao GitHub; ou (ii) correio eletrônico para o endereço de correio eletrônico fornecido pelo Desenvolvedor.
 
-[16. GOVERNING LAW](#16-governing-law)
+[16. LEI APLICÁVEL](#16-governing-law)
 ----------
 
-This Agreement will be governed by and construed in accordance with the laws of the State of California and federal laws of the United States. Any legal action or proceeding will be brought exclusively in the federal or state courts located in the Northern District of California. The parties consent to personal jurisdiction and venue there.
+Este Contrato será regido e interpretado de acordo com as leis do Estado da Califórnia e as leis federais dos Estados Unidos. Qualquer ação ou processo legal será movido exclusivamente nos tribunais federais ou estaduais localizados no Distrito Norte da Califórnia. As partes concordam com a jurisdição pessoal nesse distrito.
 
-[17. EXPORT RESTRICTIONS](#17-export-restrictions)
+[17. RESTRIÇÕES DE EXPORTAÇÃO](#17-export-restrictions)
 ----------
 
-Developer Products distributed via Marketplace may be subject to export controls or restrictions by the United States or other countries or territories. Developer agrees to comply with all applicable US and international export laws and regulations. These laws may include restrictions on destinations, content and/or End Users.
+Os Produtos do Desenvolvedor distribuídos pelo Marketplace podem estar sujeitos a controles ou restrições de exportação por parte dos Estados Unidos ou de outros países ou territórios. O Desenvolvedor concorda em cumprir todas as leis e regulamentos de exportação aplicáveis internacionais e ​​dos EUA. Essas leis podem incluir restrições sobre destinos, conteúdo e/ou Usuários Finais.
 
-[18. USAGE DATA](#18-usage-data)
+[18. DADOS DE USO](#18-usage-data)
 ----------
 
-In order to operate and improve Marketplace, GitHub may collect Usage Data from Marketplace or a GitHub API or anywhere previously purchased or downloaded Developer Products are stored on behalf of End Users by GitHub. The Usage Data will be maintained in accordance with GitHub’s then in effect Privacy Statement. Limited Usage Data may be available for use by Developer in GitHub’s sole discretion.
+Para operar e melhorar o Marketplace, o GitHub pode coletar Dados de uso do Marketplace ou de uma API do GitHub ou em qualquer lugar que Produtos do desenvolvedor comprados ou baixados anteriormente sejam armazenados em nome dos usuários finais pelo GitHub. Os Dados de Uso serão mantidos de acordo com a Declaração de Privacidade do GitHub em vigor. Dados de uso limitado podem estar disponíveis para uso pelo desenvolvedor a critério exclusivo do GitHub.
 
-[19. PRE-RELEASE ACCESS](#19-pre-release-access)
+[19. ACESSO DE PRÉ-LANÇAMENTO](#19-pre-release-access)
 ----------
 
-If you have a Listing on a portion of Marketplace that is in a beta or similar pre-release status, your use of that portion is governed by GitHub’s [Pre-release License Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms).
+Se você tiver uma Listagem em uma parte do Marketplace que esteja em um status de pré-lançamento beta ou semelhante, seu uso dessa parte será regido pelos [Termos de Licença de Pré-lançamento do GitHub](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms).
 
-[Addendum 1: Data Protection Addendum](#addendum-1-data-protection-addendum)
+[Adendo 1: Adendo de Proteção de Dados](#adendo-1-adendo-de-proteção-de-dados)
 ==========
 
-This Data Protection Addendum (this “Addendum”) is attached to and made a part of the GitHub Marketplace Developer Agreement between you and GitHub (the “Agreement”). Terms not defined in this Addendum have the meanings ascribed to them in the Agreement. In the event of a conflict or inconsistency, the terms of this Addendum will supersede those of the Agreement.
+Este Adendo de Proteção de Dados (este "Adendo") está anexado e faz parte do Contrato de Desenvolvedor do GitHub Marketplace entre você e o GitHub (o "Contrato"). Os termos não definidos neste Adendo terão os significados atribuídos a eles no Contrato. Em caso de conflito ou inconsistência, os termos deste Adendo substituirão os do Contrato.
 
-**A1-1. Purpose and Scope**GitHub maintains Personal Data from individuals all over the world, some of whom are residents of countries and areas with strong data protection laws. This Addendum establishes your responsibilities when you receive and process any such Personal Data from GitHub.
+**A1-1. Finalidade e Escopo** O GitHub mantém Dados Pessoais de indivíduos do mundo todo, alguns dos quais são residentes de países e áreas com fortes leis de proteção de dados. Este Adendo estabelece suas responsabilidades quando você recebe e processa Dados Pessoais do GitHub.
 
-**A1-2. Definitions**
+**A1-2. Definições**
 
-* (a) “Applicable Data Protection Laws” means any laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to the Agreement, including:
-  * The EU General Data Protection Regulation 2016/679 (“GDPR”), along with any implementing or corresponding equivalent national laws or regulations;
-  * The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. ("CCPA"); and
-  * The UK Data Protection Act 2018 and implementation of GDPR contained therein.
+* (a) "Leis de Proteção de Dados Aplicáveis" significa quaisquer leis, regulamentos, estruturas regulatórias ou outras legislações relacionadas ao processamento e uso de Dados Pessoais, conforme aplicável ao Contrato, incluindo:
+  * O Regulamento Geral de Proteção de Dados da UE 2016/679 ("GDPR"), juntamente com quaisquer leis ou regulamentos nacionais equivalentes ou equivalentes;
+  * A Lei de Privacidade do Consumidor da Califórnia de 2018, Cal. Civil Código §§1798.100 e segs. (“CCPA”); e
+  * A Lei de Proteção de Dados do Reino Unido de 2018 e a implementação do GDPR nela contida.
 
-* (b) “Personal Data” means any information which relates to an individual GitHub End User, customer or employee which could, alone or together with other information, identify them, whether supplied by GitHub for processing by the Developer or whether generated by the Developer in the course of performing its obligations under this Agreement.
-* (c) “Processing” means any operation or set of operations performed on Personal Data, whether by manual or automatic means, including collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, blocking, erasure, or destruction.
+* (b) "Dados Pessoais" significa qualquer informação relacionada a um usuário final individual do GitHub, cliente ou funcionário que possa, isoladamente ou em conjunto com outras informações, identificá-lo, seja ela fornecida pelo GitHub para processamento pelo desenvolvedor ou gerado pelo desenvolvedor no curso do cumprimento de suas obrigações sob este Contrato.
+* (c) "Processamento" significa qualquer operação ou conjunto de operações executadas nos Dados Pessoais, por meio manual ou automatizado, incluindo coleta, gravação, organização, armazenamento, adaptação, alteração, recuperação, consulta, uso, divulgação por transmissão, disseminação ou disponibilização, bloqueio, apagamento ou destruição.
 
-**A1-3. Compliance with Data Transfer Laws**
+**A1-3. Conformidade com as Leis de Transferência de Dados**
 
-* (a) GitHub Compliance. GitHub complies with Applicable Data Protection Laws. GitHub relies on Standard Contractual Clauses ("SCCs") for all transfers out of the European Union, European Economic Area, United Kingdom, and Switzerland to provide its services. GitHub also complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. GitHub has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. GitHub has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Data received from Switzerland in reliance on the Swiss-U.S. DPF.
-* (b) Developer Compliance. Developer represents and warrants that it will (i) comply with Applicable Data Protection Laws; and (ii) abide by the requirements of European Economic Area and Swiss data protection laws regarding the collection, use, transfer, retention, and other processing of Personal Data from the European Economic Area, United Kingdom, and Switzerland. All transfers of Personal Data to a third country or an international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR and such transfers and safeguards will be documented according to Article 30(2) of the GDPR.
+* (a) Conformidade do GitHub. O GitHub está em conformidade com as leis de proteção de dados aplicáveis. O GitHub conta com Cláusulas Contratuais Padrão ("SCCs") para todas as transferências para fora da União Europeia, Espaço Econômico Europeu, Reino Unido e Suíça para fornecer seus serviços. O GitHub também está em conformidade com a Framework de Privacidade dos Dados para UE/EUA (DPF para UE/EUA), a Extensão do Reino Unido à DPF para UE/EUA e Framework de Privacidade dos Dados para Suíça/EUA (DPF para Suíça/EUA) conforme estabelecido pelo Departamento de Comércio dos EUA. O GitHub certificou ao Departamento de Comércio dos EUA que adere aos Princípios da Framework de Privacidade dos Dados para UE/EUA (Princípios da DPF para UE/EUA) no que diz respeito ao processamento de Dados Pessoais recebidos da União Europeia com base no DPF para UE/EUA e do Reino Unido (e Gibraltar) com base na Extensão do Reino Unido à DPF para UE/EUA. O GitHub certificou ao Departamento de Comércio dos EUA que adere aos Princípios da Framework de Privacidade dos Dados para Suíça/EUA (Princípios da DPF para Suíça/EUA)) com relação ao processamento de Dados Pessoais recebidos da Suíça com base na DPF para Suíça/EUA.
+* (b) Conformidade do Desenvolvedor. O Desenvolvedor declara e garante que (i) cumprirá as Leis de Proteção de Dados Aplicáveis; e (ii) cumprir os requisitos do Espaço Econômico Europeu e da lei suíça de proteção de dados em relação à coleta, uso, transferência, retenção e outros processamentos de Dados Pessoais do Espaço Econômico Europeu, Reino Unido e Suíça. Todas as transferências de Dados pessoais a um terceiro país ou a uma organização internacional estarão sujeitas a proteções adequadas, conforme descrito no Artigo 46 do GDPR, e tais transferências e proteções serão documentadas de acordo com o Artigo 30(2) do GDPR.
 
-**A1-4. Data Protection**
+**A1-4. Proteção de Dados**
 
-* (a) Notice. Developer must provide End Users their privacy policy which identifies itself as responsible for the collection, processing, privacy, security, and integrity of all data it collects from the End User. Developer must not hold itself out as collecting any Personal Data on GitHub’s behalf. Developer’s privacy policy must provide End User’s all legally required information regarding access, collection, storage, and processing purpose of Personal Data, with whom the Personal Data is shared, and in which country or countries the Personal Data will be stored.
-* (b) Purpose Limitation.
-  * (i) GitHub will provide Developer with Personal Data elements for the purpose of establishing and facilitating a relationship between the Developer and the End User, and permitting Developer to provide services to the End User. Developer must limit its usage of the Personal Data to that purpose, unless the End User agrees to allow different uses.
-  * (ii) Developer must process and communicate the Personal Data to third parties only for the limited and specific purposes of providing its services to the End User as described in its agreement with the End User, unless the End User agrees to allow different uses.
+* (a) Notificação. O Desenvolvedor deve fornecer aos Usuários Finais sua política de privacidade, que se identifica como responsável pela coleta, processamento, privacidade, segurança e integridade de todos os dados que coleta do Usuário Final. O Desenvolvedor não deve alegar que está coletando Dados Pessoais em nome do GitHub. A política de privacidade do desenvolvedor deve fornecer ao Usuário Final todas as informações legalmente exigidas sobre acesso, coleta, armazenamento e finalidade de processamento de Dados Pessoais, com quem os Dados Pessoais são compartilhados e em qual país ou países os Dados Pessoais serão armazenados.
+* (b) Limitação de Propósito.
+  * (i) O GitHub fornecerá ao Desenvolvedor elementos de Dados Pessoais com a finalidade de estabelecer e facilitar um relacionamento entre o Desenvolvedor e o Usuário Final e permitir que o Desenvolvedor forneça serviços ao Usuário Final. O Desenvolvedor deve limitar seu uso dos Dados Pessoais a essa finalidade, a menos que o Usuário Final concorde em permitir usos diferentes.
+  * (ii) O Desenvolvedor deve processar e comunicar os Dados Pessoais a terceiros apenas para os propósitos limitados e específicos de fornecer seus serviços ao Usuário Final conforme descrito em seu contrato com o Usuário Final, a menos que o Usuário Final concorde em permitir usos diferentes.
 
-* (c) Data Quality and Proportionality. Developer must keep the Personal Data accurate and up to date. Developer must only collect Personal Data appropriate and necessary to provide the service.
-* (d) Security. Developer must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the Personal Data.
-* (e) Data Retention and Deletion. Upon GitHub’s reasonable request, unless prohibited by law, Developer must return or destroy all Personal Data and related data at all locations where it is stored after it is no longer needed for the limited and specified purposes for which it was collected.
-* (f) Subprocessing and Onward Transfer. Developer is liable for onward transfers of Personal Data to its subprocessors. In the event that Developer must transfer the Personal Data to a third party, or Developer installs, uses, or enables third party services to process the Personal Data on Developer’s behalf, Developer must ensure that the third party will provide at least the same level of privacy protection as is required herein.
+* (c) Qualidade e Proporcionalidade dos Dados. O Desenvolvedor deve manter os Dados Pessoais sempre precisos e atualizados. O Desenvolvedor deve coletar apenas Dados Pessoais apropriados e necessários para fornecer o serviço.
+* (d) Segurança. O Desenvolvedor deve tomar todas as medidas de segurança razoáveis apropriadas aos riscos, como contra destruição acidental ou ilegal, ou perda acidental, alteração, divulgação ou acesso não autorizado, apresentados pelo processamento dos Dados Pessoais.
+* (e) Retenção e Exclusão dos Dados. Mediante solicitação razoável do GitHub, a menos que proibido por lei, o Desenvolvedor deve devolver ou destruir todos os Dados Pessoais e dados relacionados em todos os locais onde estão armazenados depois que não forem mais necessários para os propósitos limitados e especificados para os quais foram coletados.
+* (f) Subprocessamento e Transferência Progressiva. O Desenvolvedor é responsável por transferências progressivas de Dados Pessoais para seus subprocessadores. Caso o Desenvolvedor precise transferir os Dados Pessoais para um terceiro, ou o Desenvolvedor instale, use ou permita que serviços de terceiros processem os Dados Pessoais em nome do Desenvolvedor, o Desenvolvedor deve garantir que o terceiro fornecerá pelo menos o mesmo nível de proteção de privacidade conforme exigido neste documento.
 
-**A1-5. Use of Personal Data**
+**A1-5. Uso de Dados Pessoais**
 
-* (a) Permitted Use. Developer may process the Personal Data only for the purposes set out in Section 4(b)(i), and no other purpose.
-* (b) No Use in Marketing. Developer must not use the Personal Data for the purposes of advertising any third party goods or services, and may not sell the Personal Data to any third party.
-* (c) Automated Decisions. In the event that the Developer makes automated decisions affecting End User’s rights, including employment, legal, credit, or health, the Developer must provide notice to the End User.
+* (a) Uso Permitido. O Desenvolvedor pode processar os Dados Pessoais apenas para os propósitos estabelecidos na Seção 4(b)(i), e nenhum outro propósito.
+* (b) Não Usar em Marketing. O Desenvolvedor não deve usar Dados Pessoais para fins de publicidade de bens ou serviços de terceiros e não pode vender Dados Pessoais para terceiros.
+* (c) Decisões Automatizadas. Caso o Desenvolvedor tome decisões automatizadas que afetem os direitos do Usuário Final, incluindo situação profissional, crédito ou saúde, o Desenvolvedor deverá notificar o Usuário Final.
 
-**A1-6. Compliance**
+**A1-6. Conformidade**
 
-Developer will make its Privacy Statement, Privacy Policy, Privacy Notice, or any similar documentation available to GitHub and End User. Developer will also provide notice of any relevant compliance reports.
+O Desenvolvedor disponibilizará sua Declaração de Privacidade, Política de Privacidade, Aviso de Privacidade ou qualquer documentação semelhante para o GitHub e o Usuário Final. O desenvolvedor também notificará quaisquer relatórios de conformidade relevantes.
 
-**A1-7. Termination**
+**A1-7. Rescisão**
 
-* (a) Takedown. In the event that Developer is in breach of its obligations to maintain an adequate level of privacy protection, GitHub may take action in accordance with Section 4 (Takedowns) or Section 10 (Termination).
-* (b) Termination. GitHub may terminate this Agreement without prejudice to any other claims at law or in equity in the event that:
-  * (i) the Developer notifies GitHub that it can no longer meet its privacy obligations, including loss of Developer Privacy Shield certification;
-  * (ii) the transfer, collection, or processing of Personal Data has been temporarily suspended for longer than one month pursuant to 7(a);
-  * (iii) the Developer is in substantial or persistent breach of any warranties or representations under this Data Protection Addendum;
-  * (iv) the Developer is no longer carrying on business, is dissolved, enters receivership, or a winding up order is made on behalf of Developer.
+* (a) Retirada. No caso de o Desenvolvedor violar suas obrigações de manter um nível adequado de proteção de privacidade, o GitHub pode tomar medidas de acordo com a Seção 4 (Remoções) ou a Seção 10 (Rescisão).
+* (b) Rescisão. O GitHub pode rescindir este Contrato sem prejuízo de quaisquer outras reivindicações legais ou patrimoniais no caso de:
+  * (i) o Desenvolvedor notifica o GitHub de que não pode mais cumprir suas obrigações de privacidade, incluindo a perda da certificação do Developer Privacy Shield;
+  * (ii) as atividades de transferência, coleta ou processamento de Dados Pessoais foram temporariamente suspensas por mais de um mês de acordo com 7(a);
+  * (iii) o Desenvolvedor está em violação substancial ou persistente de quaisquer garantias ou representações sob este Adendo de Proteção de Dados;
+  * (iv) o Desenvolvedor não está mais realizando negócios, é dissolvido, entra em liquidação ou um pedido de liquidação é feito em nome do Desenvolvedor.
 
-* (c) Notification. In the event that Developer determines that it can no longer meet its privacy obligations under this Agreement, it must notify GitHub immediately.
-  In the event that Developer was certified under Privacy Shield and allows that certification to lapse or otherwise cannot remain certified under Privacy Shield, Developer must notify GitHub immediately.
-* (d) Upon Termination, Developer must:
-  * (i) take reasonable and appropriate steps to stop processing of Personal Data;
-  * (ii) within thirty days of Termination, delete any Personal Data Developer stores on GitHub’s behalf; and
-  * (iii) provide GitHub with reasonable assurance that Developer has stopped processing the Personal Data and deleted stored Personal Data.
+* (c) Notificação. Caso o Desenvolvedor determine que não pode mais cumprir suas obrigações de privacidade sob este Contrato, ele deverá notificar o GitHub imediatamente.
+  Caso o Desenvolvedor tenha sido certificado no Privacy Shield e permita que essa certificação expire ou não possa permanecer certificado no Privacy Shield, o Desenvolvedor deve notificar o GitHub imediatamente.
+* (d) Após a rescisão, o Desenvolvedor deverá:
+  * (i) tomar medidas razoáveis e apropriadas para interromper o processamento de Dados Pessoais;
+  * (ii) no prazo de trinta dias após a rescisão, excluir qualquer armazenamento de Dados Pessoais pelo Desenvolvedor em nome do GitHub; e
+  * (iii) fornecer ao GitHub uma garantia razoável de que o Desenvolvedor parou de processar os Dados Pessoais e excluiu os Dados Pessoais armazenados.
 
-**A1-8. Liability for Data Processing**
+**A1-8. Responsabilidade pelo Processamento de Dados**
 
-* Direct Liability. Developer will be liable to GitHub for actual damages caused by any breach of this Addendum subject to the terms in Section 8, Limitation on Liability.
+* Responsabilidade Direta. O desenvolvedor será responsável perante o GitHub por danos reais causados por qualquer violação deste Adendo sujeito aos termos da Seção 8, Limitação de Responsabilidade.
 
 {"resolvedServerColorMode":"day"}

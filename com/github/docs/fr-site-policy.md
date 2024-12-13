@@ -1,35 +1,35 @@
-Site policy documentation - GitHub Docs
+Documentation sur la politique du site - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)
+* [Politique du site](/fr/site-policy)
 
-Site policy documentation
+Documentation sur la politique du site
 ==========
 
-[GitHub Terms](/fr/site-policy/github-terms)
+[Termes GitHub](/fr/site-policy/github-terms)
 ----------
 
-[Acceptable Use Policies](/fr/site-policy/acceptable-use-policies)
+[Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
 ----------
 
-[Privacy Policies](/fr/site-policy/privacy-policies)
+[Politiques de Confidentialité](/fr/site-policy/privacy-policies)
 ----------
 
-[Other Site Policies](/fr/site-policy/other-site-policies)
+[Autres politiques du site](/fr/site-policy/other-site-policies)
 ----------
 
-[Content Removal Policies](/fr/site-policy/content-removal-policies)
+[Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
 ----------
 
-[Security Policies](/fr/site-policy/security-policies)
+[Politiques de Sécurité](/fr/site-policy/security-policies)
 ----------
 
-[GitHub Company Policies](/fr/site-policy/github-company-policies)
+[Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

@@ -1,29 +1,29 @@
-GitHub Codespaces Privacy Statement - GitHub Docs
+GitHub Codespaces プライバシーに関する声明 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Privacy Policies](/ja/site-policy/privacy-policies)/
-* [GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
+* [サイト ポリシー](/ja/site-policy)/
+* [プライバシー ポリシー](/ja/site-policy/privacy-policies)/
+* [GitHub Codespaces プライバシーに関する声明](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 
-GitHub Codespaces Privacy Statement
+GitHub Codespaces プライバシーに関する声明
 ==========
 
-Effective Date: August 10, 2021
+発効日:2021 年 8 月 10 日
 
-Use of GitHub Codespaces is subject to the [GitHub Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement).
+GitHub Codespaces の使用には、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)が適用されます。
 
-Activity on github.dev is subject to [GitHub's Beta Previews terms](/ja/site-policy/github-terms/github-terms-of-service#j-beta-previews)
+github.dev でのアクティビティには、[GitHub のベータ プレビュー使用条件](/ja/site-policy/github-terms/github-terms-of-service#j-beta-previews)が適用されます。
 
-[Using Visual Studio Code](#using-visual-studio-code)
+[Visual Studio Code の使用](#visual-studio-code-の使用)
 ----------
 
-GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.
+GitHub Codespaces と github.dev では、Web ブラウザーで Visual Studio Code を使用できます。 Web ブラウザーで VS Code を使用する場合、一部のテレメトリ収集がデフォルト設定で有効になっていますが、この内容については、[VS Code の Web サイトで詳しく説明しています](https://code.visualstudio.com/docs/getstarted/telemetry)。 ユーザーは、左上のメニューの下にある [ファイル] \> [基本設定] \> [設定] に移動して、テレメトリをオプトアウトすることができます。
 
-If a user chooses to opt out of telemetry capture in VS Code while inside of a codespace as outlined, this will sync the disable telemetry preference across all future web sessions in GitHub Codespaces and github.dev.
+ユーザーが Codespaces 環境内にある VS Code で上記のようにテレメトリ キャプチャのオプトアウトを選択した場合、GitHub Codespaces および github.dev における今後すべての Web セッションでテレメトリの無効化環境設定が同期されます。
 
 {"resolvedServerColorMode":"day"}

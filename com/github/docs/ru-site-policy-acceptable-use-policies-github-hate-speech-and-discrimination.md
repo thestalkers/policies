@@ -1,28 +1,28 @@
-GitHub Hate Speech and Discrimination - GitHub Docs
+Разжигание ненависти и дискриминация на GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
-* [Hate Speech and Discrimination](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+* [Политика сайта](/ru/site-policy)/
+* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
+* [Разжигание ненависти и дискриминация](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-GitHub Hate Speech and Discrimination
+Разжигание ненависти и дискриминация на GitHub
 ==========
 
-GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
+GitHub не терпит высказываний, которые нападают или пропагандируют ненависть к отдельным людям или группам людей на основании того, кем они являются, включая возраст, размер тела, способности, этническую принадлежность, гендерную идентичность и самовыражение, уровень опыта, национальность, внешний вид, расу., религии, сексуальной идентичности или сексуальной ориентации. Сюда входит следующее:
 
-* Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above
-* Displaying clear affiliation or identification with known terrorist or violent extremist organizations
-* Supporting or promoting hate groups or hate-based conspiracy theories
-* Sharing symbols or images synonymous with hate
-* Using harmful stereotypes, slurs, or dehumanizing speech
-* Attacking an individual based on their perceived gender
-* Dog whistling; or using coded or suggestive language and/or symbols to promote abuse or hate
+* Высмеивание, нападение или исключение человека или группы на основе их убеждений или характеристик, перечисленных выше.
+* Демонстрация явной принадлежности или идентификации с известными террористическими или воинствующими экстремистскими организациями
+* Поддержка или продвижение групп ненависти или теорий заговора, основанных на ненависти
+* Обмен символами или изображениями, синонимами ненависти
+* Использование вредных стереотипов, оскорблений или бесчеловечной речи
+* Нападение на человека на основании его предполагаемого пола
+* свист собаки; или использование закодированного или намекающего языка и / или символов для пропаганды оскорблений или ненависти
 
-While GitHub takes all instances of abuse and harassment on the platform seriously, we are especially committed to fighting hate-based abuse where it disproportionately affects communities that have historically been targeted by such abuse. We aim to make GitHub a place where all individuals feel welcome and safe.
+Хотя GitHub серьезно относится ко всем случаям злоупотреблений и притеснений на платформе, мы особенно привержены борьбе с оскорблениями на почве ненависти, когда они несоразмерно затрагивают сообщества, которые исторически подвергались таким оскорблениям. Мы стремимся сделать GitHub местом, где все люди чувствуют себя желанными и безопасными.
 
 {"resolvedServerColorMode":"day"}

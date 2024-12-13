@@ -1,56 +1,56 @@
-GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
+GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Security Policies](/ja/site-policy/security-policies)/
-* [GitHub Bug Bounty Program Legal Safe Harbor](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [サイト ポリシー](/ja/site-policy)/
+* [セキュリティ ポリシー](/ja/site-policy/security-policies)/
+* [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug Bounty Program Legal Safe Harbor
+GitHub バグ報奨金プログラムの法的免責事項
 ==========
 
-In this article
+この記事の内容
 ----------
 
-* [Summary](#summary)
-* [1. Safe Harbor Terms](#1-safe-harbor-terms)
-* [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
-* [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
+* [概要](#summary)
+* [1. 免責条項](#1-safe-harbor-terms)
+* [2. 第三者の免責条項](#2-third-party-safe-harbor)
+* [3. 他のサイト方針の選択的撤回](#3-limited-waiver-of-other-site-policies)
 
-[Summary](#summary)
+[概要](#summary)
 ----------
 
-1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think *might* go outside the bounds of our policy.
-2. Because both identifying and non-identifying information can put a researcher at risk, we limit what we share with third parties. We may provide non-identifying substantive information from your report to an affected third party, but only after notifying you and receiving a commitment that the third party will not pursue legal action against you. We will only share identifying information (name, email address, phone number, etc.) with a third party if you give your written permission.
-3. If your security research as part of the bug bounty program violates certain restrictions in our site policies, the safe harbor terms permit a limited exemption.
+1. マイクロソフトでは、当社のバグ報奨金プログラムを通じた公開を調整していただくことをお客様にお願いしています。また、リサーチャーの皆様は、法的効果を恐れることなくプログラムにご参加ください。それは、このプログラムが当社のバグ報奨金規定に適合した善意の試みであるからです。 当社には第三者に対していかなる拘束力もありません。したがって、この保護規定がすべての第三者に適用されることはありません。 マイクロソフトの方針の\_範囲を超える可能性があると皆様が考える\_具体的な行動を取る際、不明な点がある場合は当社へお問い合わせください。
+2. 個人情報および非個人情報はいずれもリサーチャーの皆様を危険にさらす可能性があるため、当社では情報に制限を加えて第三者と共有しています。 当社が影響を受ける第三者に提供するのは実質的な非個人情報ですが、それは、第三者が皆様に対して法的訴訟を起こさないという通知を当社が行い、その言質を第三者から受領した後です。 マイクロソフトは、皆様から書面による許可を得た上で個人情報 (氏名、電子メール アドレス、電話番号など) を共有します。
+3. セキュリティ リサーチがバグ報奨金プログラムの一環として当社のサイト ポリシーの一部制限事項に違反した場合、免責条項により一部免除が認められます。
 
-[1. Safe Harbor Terms](#1-safe-harbor-terms)
+[1. 免責条項](#1-safe-harbor-terms)
 ----------
 
-To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this bug bounty program's scope.
+セキュリティ脆弱性のリサーチと協調的開示を推進するため、この方針に意図せず違反したか、善意で違反した場合は、民事訴訟や刑事訴訟を起こしたり、法執行機関に通達したりすることはありません。 当社では、本方針に従って実施されたセキュリティ リサーチおよび脆弱性の開示活動は、コンピューター詐欺および不正使用取締法、デジタル ミレニアム著作権法 (DMCA)、その他の適用コンピューター使用法令 (カリフォルニア州刑法 502(c) など) の下で「認定された」行為であると見なしています。 マイクロソフトは、このバグ報奨金プログラムの範囲でアプリケーションを保護するために使用した技術的措置を回避する皆様に対する DMCA に立脚した申し立てを放棄します。
 
-Please understand that if your security research involves the networks, systems, information, applications, products, or services of a third party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way offer to defend, indemnify, or otherwise protect you from any third party action based on your actions.
+皆様のセキュリティ リサーチで第三者のネットワーク、システム、情報、アプリケーション、製品、またはサービスが対象となる場合、マイクロソフトにその第三者への拘束力はなく、第三者が法的訴訟または法執行機関への通達に訴える可能性があることをご理解ください。 マイクロソフトでは、他のエンティティの名義でセキュリティ リサーチを許可することはできず、また、いかなる方法によっても、お客様をその行動を訴因とした第三者からの訴えから弁護、補償、または保護することはできません。
 
-You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
+皆様は、常にすべての適用法に従い、このバグ報奨金プログラムの許容範囲を超えてデータを破壊または漏洩することのないようにしてください。
 
-Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
+本方針に適合しない、または本方針で取り上げられていない行為を行う際は、その前に当社までお問い合わせください。 マイクロソフトは独自の裁量で、本方針の違反が偶発的なものか、善意によるものなのかを判断します。また、何らかの行動をとる前に当社にお問い合わせいただくことは、その判断に極めて重要です。 不明な点がある場合は、まず当社までお問い合わせください。
 
-[2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+[2. 第三者の免責条項](#2-third-party-safe-harbor)
 ----------
 
-If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
+当社のバグ報奨金プログラムを通じて、第三者サービスに影響するレポートを皆様が提出する場合、当社は情報を制限して影響を受ける第三者と共有します。 マイクロソフトは、レポートの非個人的な内容を影響を受ける第三者と共有することがありますが、それは、その意図を皆様に通知し、皆様に対して法的訴訟を起こさない、またはレポートに関連して法執行機関との接触を開始しないという書面による確約を第三者から得た後になります。 マイクロソフトは、まず、書面による許可を皆様から得ることなくお客様の個人情報を影響を受ける第三者と共有することはありません。
 
-Please note that we cannot authorize out-of-scope testing in the name of third parties, and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
+当社は第三者の名義で範囲対象外のテストを承認することはできず、このようなテストは当社方針の範囲を超えるものであることに注意してください。 第三者またはそのサービスに対して何らかのテストを開始する前に、その第三者のバグ報奨金ポリシー (存在する場合) を参照するか、直接または法定代理人を通じて第三者に問い合わせてください。 このことは、皆様の行動が原因による、第三者の訴訟から皆様を弁護、補償、または保護することに当社が合意したことを意味するものではありません。
 
-That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy. While we consider submitted reports both confidential and potentially privileged documents, and protected from compelled disclosure in most circumstances, please be aware that a court could, despite our objections, order us to share information with a third party.
+他にも、第三者が皆様に対して (このバグ報奨金プログラムにお客様が参加したことで) 法的訴訟 (法的措置を含む) を起こし、それと同時に、お客様が当社のバグ報奨金方針を十分に順守した場合 (つまり、意図的な違反や善意の違反は行っていない)、マイクロソフトは、お客様の行為が本方針に沿って行われたことを周知する手段に訴えます。 マイクロソフトが提出されたレポートを機密文書および秘匿特権文書として見なし、かつ、ほとんどの状況で強制開示から守られるべきものと見なす一方、当社の異議にかかわらず、裁判所が当社に対して第三者と情報を共有する命令を下す場合があります。
 
-[3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
+[3. 他のサイト方針の選択的撤回](#3-limited-waiver-of-other-site-policies)
 ----------
 
-To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/ja/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
+お客様のセキュリティ リサーチ活動が当社の[関連サイト 方針](/ja/site-policy)の一部の制限事項と矛盾があるが、当社のバグ報奨金プログラムの条項と矛盾がない限りにおいて、マイクロソフトは、このバグ報奨金プログラムの下で行われるセキュリティ リサーチの許可を唯一かつ限定された目的とするためにこれらの制限を撤回します。 先述のように、不明な点がある場合は、マイクロソフトまでお問い合わせください。
 
 {"resolvedServerColorMode":"day"}

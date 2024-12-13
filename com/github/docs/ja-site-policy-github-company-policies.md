@@ -1,27 +1,27 @@
-GitHub Company Policies - GitHub Docs
+GitHub の会社ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [GitHub Company Policies](/ja/site-policy/github-company-policies)
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
 
-GitHub Company Policies
+GitHub の会社ポリシー
 ==========
 
-[GitHub Statement Against Modern Slavery and Child Labor](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[GitHub の現代奴隷制と児童労働に反対する声明](/ja/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 ----------
 
-[GitHub Anti-Bribery Statement](/ja/site-policy/github-company-policies/github-anti-bribery-statement)
+[GitHub の腐敗防止に関する声明](/ja/site-policy/github-company-policies/github-anti-bribery-statement)
 ----------
 
-[GitHub GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+[GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 ----------
 
-[GitHub Gifts and Entertainment Policy](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

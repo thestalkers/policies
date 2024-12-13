@@ -1,46 +1,46 @@
-Submitting content removal requests - GitHub Docs
+콘텐츠 제거 요청 제출 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [Content Removal Policies](/ko/site-policy/content-removal-policies)/
-* [Submitting content removal requests](/ko/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [사이트 정책](/ko/site-policy)/
+* [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/
+* [콘텐츠 제거 요청 제출](/ko/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-Submitting content removal requests
+콘텐츠 제거 요청 제출
 ==========
 
-In this article
+이 문서의 내용
 ----------
 
-* [DMCA Takedown Policy](#dmca-takedown-policy)
-* [GitHub Trademark Policy](#github-trademark-policy)
-* [GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+* [DMCA 게시 중단 정책](#dmca-takedown-policy)
+* [GitHub 상표 정책](#github-trademark-policy)
+* [GitHub 개인 정보 제거 정책](#github-private-information-removal-policy)
 
-We understand that copyrighted, trademarked, or private content may get published on GitHub – either accidentally or on purpose – sometimes in repositories that you do not own. Because the nature of this content varies, and because of different applicable laws, each category has its own, distinct reporting requirements outlined in our policies.
+GitHub는 저작권으로 보호되거나 상표 등록된 콘텐츠 또는 비공개 콘텐츠가 때때로 귀하가 소유하지 않은 GitHub의 리포지토리에서 우발적으로 또는 고의로 공개될 수 있음을 이해합니다. 이 콘텐츠의 성격이 다양하고 관련 법률이 다양하기 때문에 범주마다 고유한 자체 신고 요구 사항이 GitHub 정책에 명시되어 있습니다.
 
-If you'd like to request that content be removed from GitHub, please take some time to acquaint yourself with each of these policies and their respective reporting requirements before submitting a report. If we receive an incomplete report, we'll need to ask for clarifications or revisions and you’ll need to re-submit a revised report.
+해당 콘텐츠를 GitHub에서 제거할 것을 요청하려는 경우, 신고 제출 전에 시간을 내어 이러한 정책 각각과 해당 신고 요구 사항을 숙지하시기 바랍니다. 불완전한 신고가 접수되면 GitHub는 명확한 설명 또는 수정을 요청해야 하며, 귀하는 수정된 신고를 다시 제출해야 합니다.
 
-Please note that we're not able to help you determine which policy is appropriate for your specific situation. If you’ve reviewed the policies below and still have questions about whether or not content should be reported as copyright, trademark, or private information, we recommend consulting with independent legal counsel.
+GitHub는 귀하의 특정 상황에 적합한 정책을 결정하는 데 도움을 줄 수 없습니다. 아래 정책을 검토했지만 여전히 콘텐츠를 저작권으로 신고해야 하는지, 상표 또는 비공개 정보로 신고해야 하는지에 대한 질문이 있다면 독립적 법률 고문과 상의하는 것이 좋습니다.
 
-[DMCA Takedown Policy](#dmca-takedown-policy)
+[DMCA 게시 중단 정책](#dmca-takedown-policy)
 ----------
 
-The [DMCA Takedown Policy](/ko/site-policy/content-removal-policies/dmca-takedown-policy) can be used to report content that you believe infringes a copyright owned by you or your organization. Once you have reviewed the policy, you may also want to review our [Guide to Submitting a DMCA Takedown Notice](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) before submitting a report.
+[DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)은 귀하 또는 귀하의 조직이 소유한 저작권을 침해한다고 믿는 콘텐츠를 신고하는 데 사용할 수 있습니다. 이 정책을 검토했다면 신고를 제출하기 전에 GitHub의 [DMCA 게시 중단 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)도 검토하는 것이 좋습니다.
 
-[GitHub Trademark Policy](#github-trademark-policy)
+[GitHub 상표 정책](#github-trademark-policy)
 ----------
 
-The [GitHub Trademark Policy](/ko/site-policy/content-removal-policies/github-trademark-policy) can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
+[GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)은 브랜드 또는 사업 제휴와 관련하여 다른 사람을 오도하거나 혼동시킬 수 있는 방식으로 귀하의 회사나 사업체 이름, 로고 또는 기타 상표 등록된 자료를 사용하는 것으로 보이는 콘텐츠를 신고하는 데 사용할 수 있습니다.
 
-[GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+[GitHub 개인 정보 제거 정책](#github-private-information-removal-policy)
 ----------
 
-The [GitHub Private Information Removal Policy](/ko/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
+[GitHub 비공개 정보 제거 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)은 비공개(기밀이며 보안 위험이 있음)이지만 저작권이나 상표로 반드시 보호되지는 않는 데이터를 신고하는 데 사용할 수 있습니다.
 
-Users in India can [contact GitHub's Grievance Officer](https://support.github.com/contact/india-grievance-officer).
+인도의 사용자는 [GitHub 불만 책임자](https://support.github.com/contact/india-grievance-officer)에게 문의할 수 있습니다.
 
 {"resolvedServerColorMode":"day"}

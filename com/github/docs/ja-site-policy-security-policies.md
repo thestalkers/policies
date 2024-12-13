@@ -1,24 +1,24 @@
-Security Policies - GitHub Docs
+セキュリティ ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Security Policies](/ja/site-policy/security-policies)
+* [サイト ポリシー](/ja/site-policy)/
+* [セキュリティ ポリシー](/ja/site-policy/security-policies)
 
-Security Policies
+セキュリティ ポリシー
 ==========
 
-[Coordinated Disclosure of Security Vulnerabilities](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+[セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 ----------
 
-[GitHub Bug Bounty Program Legal Safe Harbor](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 ----------
 
-[GitHub SIRT description RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
+[GitHub SIRT の説明 RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
 
 {"resolvedServerColorMode":"day"}

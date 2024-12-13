@@ -1,120 +1,120 @@
-GitHub Marketplace Terms of Service - GitHub Docs
+Conditions d'utilisation de la place de marché GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)/
-* [GitHub Terms](/fr/site-policy/github-terms)/
-* [GitHub Marketplace Terms of Service](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
+* [Politique du site](/fr/site-policy)/
+* [Termes GitHub](/fr/site-policy/github-terms)/
+* [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
 
-GitHub Marketplace Terms of Service
+Conditions d'utilisation de la place de marché GitHub
 ==========
 
-In this article
+Dans cet article
 ----------
 
-* [A. GitHub.com's Terms of Service](#a-githubcoms-terms-of-service)
-* [B. Use Requirements](#b-use-requirements)
-* [C. Developer Products and Product Providers](#c-developer-products-and-product-providers)
-* [D. Payment, Billing Schedule, and Cancellation](#d-payment-billing-schedule-and-cancellation)
-* [E. Your Data and GitHub's Privacy Policy](#e-your-data-and-githubs-privacy-policy)
-* [F. Rights to Developer Products](#f-rights-to-developer-products)
-* [G. Updates to Developer Products](#g-updates-to-developer-products)
-* [H. Developer Product Blocking](#h-developer-product-blocking)
-* [I. Disclaimer; Limitation of Liability; Release and Indemnification](#i-disclaimer-limitation-of-liability-release-and-indemnification)
-* [J. Miscellanea](#j-miscellanea)
+* [A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
+* [B. Conditions d'utilisation](#b-conditions-dutilisation)
+* [C. Produits pour développeurs et fournisseurs de produits](#c-developer-products-and-product-providers)
+* [D. Paiement, calendrier de facturation et annulation](#d-payment-billing-schedule-and-cancellation)
+* [E. Vos données et la politique de confidentialité de GitHub](#e-your-data-and-githubs-privacy-policy)
+* [F. Droits sur les produits développés](#f-rights-to-developer-products)
+* [G. Mises à jour des produits pour développeurs](#g-updates-to-developer-products)
+* [H. Blocage du produit du développeur](#h-developer-product-blocking)
+* [I. Avertissement ; limitation de responsabilité ; libération et indemnisation](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+* [J. Divers](#j-miscellanea)
 
-Welcome to GitHub Marketplace ("Marketplace")! We're happy you're here. Please read these Terms of Service ("Marketplace Terms") carefully before accessing or using GitHub Marketplace. GitHub Marketplace is a platform that allows you to select developer apps or actions (for free or for a charge) that can be used with your GitHub.com account ("Developer Products"). Although offered by GitHub, Inc. ("GitHub", "we", "us"), Developer Products may be developed and maintained by either GitHub or by third-party software providers. Your selection or use of Developer Products is subject to these Marketplace Terms and any applicable fees, and may require you to agree to additional terms as provided by the third party licensor of that Developer Product (the "Product Provider"). Your use of GitHub Models is subject to the [GitHub Terms for Additional Products and Features](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).
+Bienvenue sur GitHub Marketplace ("Marketplace ») ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement ces conditions d'utilisation ("Conditions du marché ») avant d'accéder ou d'utiliser GitHub Marketplace. GitHub Marketplace est une plate-forme qui vous permet de sélectionner des applications ou des actions de développeur (gratuites ou payantes) pouvant être utilisées avec votre compte GitHub.com ("Produits de développement »). Bien qu'offerts par GitHub, Inc. ("GitHub », « nous », « nous »), les Produits développés peuvent être développés et maintenus par GitHub ou par des fournisseurs de logiciels tiers. Votre sélection ou votre utilisation des produits développés est soumise aux présentes conditions du marché et à tous les frais applicables, et peut nécessiter que vous acceptiez des conditions supplémentaires fournies par le concédant de licence tiers de ce produit développé (le « fournisseur de produit »). Votre utilisation de GitHub Models est soumise aux [conditions de GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-By using Marketplace, you are agreeing to be bound by these Marketplace Terms.
+En utilisant Marketplace, vous acceptez d'être lié par les présentes Conditions de Marketplace.
 
-Effective Date: August 1, 2024
+Date d’entrée en vigueur : 1er août 2024
 
-[A. GitHub.com's Terms of Service](#a-githubcoms-terms-of-service)
+[A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
 ----------
 
-Marketplace is provided by GitHub, and is governed by these Marketplace Terms combined with your main agreement with us — the [GitHub Terms of Service](/fr/site-policy/github-terms/github-terms-of-service) or GitHub Customer Agreement, or the [GitHub Corporate Terms of Service](/fr/site-policy/github-terms/github-corporate-terms-of-service) or other legacy GitHub contract, or a Microsoft volume licensing agreement. If you configure the Developer Products to work with one or more accounts on the GitHub.com website, your use of the Developer Products will also be governed by your applicable GitHub Terms. Any capitalized terms not defined in this document will be defined in your applicable GitHub Terms.
+Marketplace est fournie par GitHub et est régie par ces conditions de Marketplace combinées avec votre contrat principal avec nous : les [conditions d’utilisation gitHub](/fr/site-policy/github-terms/github-terms-of-service) ou le contrat client GitHub, ou les [conditions d’utilisation du service](/fr/site-policy/github-terms/github-corporate-terms-of-service) d’entreprise GitHub ou d’autres contrats GitHub hérités, ou un contrat de licence en volume Microsoft. Si vous configurez les produits développés pour fonctionner avec un ou plusieurs comptes sur le site Web GitHub.com, votre utilisation des produits développés sera également régie par vos conditions GitHub applicables. Tous les termes en majuscules non définis dans ce document seront définis dans vos Conditions GitHub applicables.
 
-You may not use a Developer Product to violate your applicable GitHub Terms. Many of these Developer Products are used exclusively for performing automated tasks. In addition, multiple Users may direct the actions of a Developer Product. However, if you purchase and/or set up a Developer Product on your account, or you are an owner of an account with an integrated Developer Product, then you will be responsible for the Developer Product's actions that are performed on or through your account.
+Vous ne pouvez pas utiliser un produit développé pour enfreindre vos conditions GitHub applicables. Bon nombre de ces produits développés sont utilisés exclusivement pour effectuer des tâches automatisées. En outre, plusieurs Utilisateurs peuvent diriger les actions d'un Produit Développé. Toutefois, si vous achetez et/ou configurez un produit développé sur votre compte, ou si vous êtes propriétaire d'un compte avec un produit développé intégré, vous serez alors responsable des actions du produit développé effectuées sur ou via votre compte.
 
-[B. Use Requirements](#b-use-requirements)
+[B. Conditions d'utilisation](#b-conditions-dutilisation)
 ----------
 
-In order to use Marketplace, you must be 13 years of age or older (if you live in the United States; if you live in another country, you must comply with your country's minimum age laws), have a valid GitHub account, and have agreed to your applicable GitHub Terms and these Marketplace Terms.
+Pour utiliser Marketplace, vous devez avoir 13 ans ou plus (si vous vivez aux États-Unis ; si vous vivez dans un autre pays, vous devez vous conformer aux lois sur l'âge minimum de votre pays), avoir un compte GitHub valide et avoir accepté vos conditions GitHub applicables et les présentes conditions du marché.
 
-If you are agreeing to these Marketplace Terms on behalf of a company, organization, or other legal entity, you represent that you have the authority to bind that entity, its affiliates, and all users who access the Marketplace on its behalf to these Marketplace Terms. If you do not have authority, you must not accept these Marketplace Terms and you may not use the Marketplace services.
+Si vous acceptez ces conditions du marché au nom d'une entreprise, d'une organisation ou d'une autre entité juridique, vous déclarez que vous avez le pouvoir de lier cette entité, ses sociétés affiliées et tous les utilisateurs qui accèdent au marché en son nom à ces conditions du marché. . Si vous n'êtes pas autorisé, vous ne devez pas accepter les présentes conditions du marché et vous ne pouvez pas utiliser les services du marché.
 
-[C. Developer Products and Product Providers](#c-developer-products-and-product-providers)
+[C. Produits pour développeurs et fournisseurs de produits](#c-developer-products-and-product-providers)
 ----------
 
-If you install and/or purchase a Developer Product, then you are purchasing the Developer Products from GitHub and you are required to make the related payments directly to GitHub. However, you are receiving access to and the rights to use that Developer Product from a Product Provider, not from GitHub (unless it's a GitHub-owned Developer Product). The Product Provider is solely responsible for the Developer Product it provides, the content therein, and any claims that you or any other party may have relating to that Developer Product or your use of that Developer Product.
+Si vous installez et/ou achetez un produit développé, vous achetez les produits développés auprès de GitHub et vous devez effectuer les paiements correspondants directement à GitHub. Cependant, vous recevez l'accès et les droits d'utilisation de ce produit développé d'un fournisseur de produit, et non de GitHub (sauf s'il s'agit d'un produit développé appartenant à GitHub). Le fournisseur de produits est seul responsable du produit développé qu'il fournit, de son contenu et de toute réclamation que vous ou toute autre partie pourriez avoir concernant ce produit développé ou votre utilisation de ce produit développé.
 
-We are not a party to the agreement between you and the Product Provider with respect to that Developer Product. We are not responsible for that Developer Product, the content in it, or any claims that you or any other party may have relating to that Developer Product or your use of that Developer Product. However, we are a third party beneficiary of the agreement between you and the Product Provider for each Developer Product, and we will have the right (and will be deemed to have accepted the right) to enforce that agreement against you as a third party beneficiary.
+Nous ne sommes pas partie à l'accord entre vous et le fournisseur de produit en ce qui concerne ce produit développé. Nous ne sommes pas responsables de ce Produit Développé, de son contenu ou de toute réclamation que vous ou toute autre partie pourriez avoir concernant ce Produit Développé ou votre utilisation de ce Produit Développé. Cependant, nous sommes un tiers bénéficiaire de l'accord entre vous et le fournisseur de produit pour chaque produit développé, et nous aurons le droit (et serons réputés avoir accepté le droit) de faire appliquer cet accord contre vous en tant que tiers bénéficiaire. .
 
-[D. Payment, Billing Schedule, and Cancellation](#d-payment-billing-schedule-and-cancellation)
+[D. Paiement, calendrier de facturation et annulation](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-All payments for Developer Products will go through GitHub. The terms of your payment and fees will be governed by [Section K. Payment](/fr/site-policy/github-terms/github-terms-of-service#k-payment), or the analogous section of your applicable GitHub Terms. By using the Marketplace, you agree to pay GitHub any charge incurred in connection with your purchase of the Developer Product. Each purchase is an electronic contract between you and GitHub, and you and the Product Provider. You are responsible for providing us with a valid means of payment for purchases of Developer Products. If you are only purchasing free Developer Products, you are not required to provide payment information.
+Tous les paiements pour les produits développés passeront par GitHub. Les conditions de votre paiement et les frais seront régis par la [Section K. Paiement](/fr/site-policy/github-terms/github-terms-of-service#k-payment) ou la section analogue de vos Conditions GitHub applicables. En utilisant le Marketplace, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre achat du Produit développé. Chaque achat est un contrat électronique entre vous et GitHub, et vous et le fournisseur de produit. Vous êtes responsable de nous fournir un moyen de paiement valide pour les achats de produits développés. Si vous achetez uniquement des produits développés gratuits, vous n'êtes pas tenu de fournir des informations de paiement.
 
-**Billing Schedule; No Refunds.** Your payment schedule is determined by the payment schedule you chose when you created your GitHub account (e.g. free, monthly, annual). For monthly or yearly payment plans, Marketplace purchases are billed in advance on a monthly or yearly basis respectively and are non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or refunds for months unused; however, the service will remain active for the length of the paid billing period. If you would like to cancel the Developer Product services, you can do so by going into your Settings in the global navigation bar at the top of the screen.
+**Calendrier de Facturation ; Aucun Remboursement.** Votre calendrier de paiement est déterminé par le calendrier de paiement que vous avez choisi lors de la création de votre compte GitHub (par exemple, gratuit, mensuel, annuel). Pour les plans de paiement mensuels ou annuels, les achats sur la Marketplace sont facturés à l'avance sur une base mensuelle ou annuelle respectivement et ne sont pas remboursables. Il n'y aura aucun remboursement ou crédit pour des mois de service partiels, des remboursements de rétrogradation ou des remboursements pour des mois non utilisés ; cependant, le service restera actif pendant toute la durée de la période de facturation payée. Si vous souhaitez annuler les services du produit de développeur, vous pouvez le faire en accédant à vos paramètres dans la barre de navigation globale en haut de l'écran.
 
-If you would have a question, concern, or dispute regarding your billing, please contact us through the [GitHub Support portal](https://support.github.com/).
+Si vous avez une question, un problème ou un litige concernant votre facturation, veuillez nous contacter via le [portail de support GitHub](https://support.github.com/)
 
-[E. Your Data and GitHub's Privacy Policy](#e-your-data-and-githubs-privacy-policy)
+[E. Vos données et la politique de confidentialité de GitHub](#e-your-data-and-githubs-privacy-policy)
 ----------
 
-**Privacy.** When you select or use a Developer Product, GitHub may share certain Personal Information (as defined in the [GitHub Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement)) with the Product Provider (if any such Personal Information is received from you) in order to provide you with the Developer Product, regardless of your privacy settings. Depending on the requirements of the Developer Product you choose, GitHub may share as little as your account name, ID, and primary email address or as much as access to the content in your repositories, including the ability to read and modify your private data. You will be able to view the scope of the permissions the Developer Product is requesting, and accept or deny them, when you grant it authorization via OAuth.
+**Confidentialité**. Lorsque vous sélectionnez ou utilisez un Produit Développeur, GitHub peut partager certaines Informations Personnelles (telles que définies dans la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement)) avec le Fournisseur de Produits (si ces Informations Personnelles sont reçues de votre part) afin de vous fournir le Produit Développeur, quels que soient vos paramètres de confidentialité. Selon les exigences du produit de développeur que vous choisissez, GitHub peut partager aussi peu que votre nom de compte, votre identifiant et votre adresse e-mail principale ou autant que l'accès au contenu de vos référentiels, y compris la possibilité de lire et de modifier vos données privées. Vous pourrez voir l'étendue des autorisations demandées par le produit développé et les accepter ou les refuser lorsque vous lui accorderez l'autorisation via OAuth.
 
-If you cease using the Developer Product and revoke access through your account settings, the Product Provider will no longer be able to access your account. The Product Provider is responsible for deleting your Personal Information from its systems within its defined window. Please contact the Product Provider to ensure that your account has been properly terminated.
+Si vous cessez d'utiliser le produit développé et révoquez l'accès via les paramètres de votre compte, le fournisseur du produit ne pourra plus accéder à votre compte. Le fournisseur de produits est responsable de la suppression de vos informations personnelles de ses systèmes dans la fenêtre définie. Veuillez contacter le fournisseur du produit pour vous assurer que votre compte a été correctement résilié.
 
-**Data Security and Privacy Disclaimer.** When you select or use a Developer Product, the security of the Developer Product and the custodianship of your data, including your Personal Information (if any), is the responsibility of the Product Provider. You are responsible for understanding the security and privacy considerations of the selection or use of the Developer Product for your own security and privacy risk and compliance considerations.
+**Avertissement sur la sécurité et la confidentialité des données.** Lorsque vous sélectionnez ou utilisez un produit développé, la sécurité du produit développé et la garde de vos données, y compris vos informations personnelles (le cas échéant), relèvent de la responsabilité du fournisseur du produit. Vous êtes responsable de la compréhension des considérations de sécurité et de confidentialité de la sélection ou de l'utilisation du produit développé pour vos propres considérations de conformité et de risque de sécurité et de confidentialité.
 
-[F. Rights to Developer Products](#f-rights-to-developer-products)
+[F. Droits sur les produits développés](#f-rights-to-developer-products)
 ----------
 
-The rights granted to you to use any Developer Product are personal to you, and are not transferrable to any third parties, such as your end users. Any rights to provide or resell Developer Products to third parties must be granted directly by the Product Provider.
+Les droits qui vous êtes accordés pour utiliser tout produit développé vous êtes personnels et ne sont pas transférables à des tiers, tels que vos utilisateurs finaux. Tout droit de fournir ou de revendre des produits développés à des tiers doit être accordé directement par le fournisseur de produits.
 
-[G. Updates to Developer Products](#g-updates-to-developer-products)
+[G. Mises à jour des produits pour développeurs](#g-updates-to-developer-products)
 ----------
 
-From time to time, GitHub.com may check with remote servers (hosted by GitHub or by third parties) for available updates to Developer Products, including but not limited to bug fixes or enhanced functionality. You agree that such updates will be automatically requested, downloaded, and installed without further notice to you.
+De temps à autre, GitHub.com peut vérifier auprès de serveurs distants (hébergés par GitHub ou par des tiers) les mises à jour disponibles pour les produits développés, y compris, mais sans s'y limiter, les corrections de bogues ou les fonctionnalités améliorées. Vous acceptez que ces mises à jour soient automatiquement demandées, téléchargées et installées sans autre préavis.
 
-[H. Developer Product Blocking](#h-developer-product-blocking)
+[H. Blocage du produit du développeur](#h-developer-product-blocking)
 ----------
 
-GitHub may block a Developer Product from our servers, or disable its functionality, for legal or policy reasons. In the event that we must block or disable a Developer Product, we will work with the Product Provider to notify affected users.
+GitHub peut bloquer un Produit Développé de nos serveurs, ou désactiver sa fonctionnalité, pour des raisons légales ou politiques. Dans le cas où nous devions bloquer ou désactiver un produit développé, nous travaillerons avec le fournisseur du produit pour informer les utilisateurs concernés.
 
-[I. Disclaimer; Limitation of Liability; Release and Indemnification](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+[I. Avertissement ; limitation de responsabilité ; libération et indemnisation](#i-disclaimer-limitation-of-liability-release-and-indemnification)
 ----------
 
-**Disclaimer.** Your use of Marketplace and any Developer Products obtained through Marketplace is at your sole risk. Other than as expressly stated, GitHub provides Marketplace and Developer Products “AS IS” and “AS AVAILABLE.” GitHub does not make or imply any warranties or commitments about Marketplace and Developer Products, including but not limited to the specific functionality available through Marketplace and Developer Products, their reliability, availability, or ability to meet your need.
+**Exclusion de responsabilité**. Votre utilisation de Marketplace et de tout produit développé obtenu via Marketplace est à vos risques et périls. En dehors de ce qui est expressément indiqué, GitHub fournit des produits Marketplace et Developer « TELS QUELS » et « TELS QUE DISPONIBLES ». GitHub ne donne ni n'implique aucune garantie ou engagement concernant les produits Marketplace et Developer, y compris, mais sans s'y limiter, les fonctionnalités spécifiques disponibles via les produits Marketplace et Developer, leur fiabilité, leur disponibilité ou leur capacité à répondre à vos besoins.
 
-We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, Marketplace (or any part of it) with or without notice.
+Nous nous réservons le droit, à tout moment et de temps à autre, de modifier ou d'interrompre, temporairement ou définitivement, Marketplace (ou toute partie de celui-ci) avec ou sans préavis.
 
-**Limitation of Liability.** You understand and agree that GitHub will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from: (i) your use or inability to use Marketplace or any Developer Products; (ii) any modification, price change, suspension or discontinuance of Marketplace or Developer Products; (iii) Marketplace generally or the software or systems that make Marketplace available; (iv) unauthorized access to or alterations of your transmissions or data; (v) statements or conduct of any third party, Product Provider, or Developer Product on Marketplace; (vi) any other user interactions that you input or receive through your use of Marketplace; or (vii) any other matter relating to Marketplace.
+**Limitation de responsabilité.** Vous comprenez et acceptez que GitHub ne sera pas responsable envers vous ou un tiers de toute perte de profits, d’utilisation, de clientèle ou de données, ou de tout dommage accessoire, indirect, spécial, consécutif ou exemplaire, quelle qu’en soit l’origine, résultant des éléments suivants : (i) votre utilisation ou votre incapacité à utiliser Marketplace ou tout Produit Développeur ; (ii) toute modification, tout changement de prix, toute suspension ou toute interruption de Marketplace ou des Produits Développeur ; (iii) Marketplace en général ou du logiciel ou des systèmes qui mettent Marketplace à votre disposition ; (iv) l’accès non autorisé à vos transmissions ou données ou les altérations de celles-ci ; (v) les déclarations ou la conduite de tout tiers, Fournisseur de Produits ou Produit Développeur sur Marketplace ; (vi) toute autre interaction d’utilisateur que vous saisissez ou recevez par l’intermédiaire de votre utilisation de Marketplace ; ou (vii) toute autre question relative à Marketplace.
 
-**Release and Indemnification.** If you have a dispute with one or more Product Providers, you agree to release GitHub from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+**Décharge et Indemnisation**. Si vous avez un litige avec un ou plusieurs fournisseurs de produits, vous acceptez de libérer GitHub de toutes les réclamations, demandes et dommages (réels et consécutifs) de toute sorte et nature, connus et inconnus, découlant de ou liés de quelque manière que ce soit à de tels différends.
 
-You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of Marketplace, including but not limited to your violation of these Marketplace Terms, provided that GitHub (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases GitHub of all liability); and (3) provides to you all reasonable assistance, at your expense.
+Vous acceptez de nous indemniser, de nous défendre et de nous dégager de toute responsabilité vis-à-vis de toutes les réclamations, responsabilités et dépenses, y compris les honoraires d'avocat, découlant de votre utilisation de Marketplace, y compris, mais sans s'y limiter, votre violation des présentes Conditions de Marketplace., à condition que GitHub (1) vous informe rapidement par écrit de la réclamation, de la demande, de la poursuite ou de la procédure ; (2) vous donne le contrôle exclusif de la défense et du règlement de la réclamation, demande, poursuite ou procédure (à condition que vous ne puissiez régler aucune réclamation, demande, poursuite ou procédure à moins que le règlement libère inconditionnellement GitHub de toute responsabilité) ; et (3) vous fournit toute l'assistance raisonnable, à vos frais.
 
-[J. Miscellanea](#j-miscellanea)
+[J. Divers](#j-miscellanea)
 ----------
 
-1. **Governing Law.** You agree that these Marketplace Terms and your use of the Developer Products are governed under California law and any dispute related to the Developer Products must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
+1. **Droit applicable.** Vous acceptez que les présentes conditions du marché et votre utilisation des produits développés soient régies par la loi californienne et que tout litige lié aux produits développés doit être porté devant un tribunal compétent situé à ou à proximité de San Francisco, Californie.
 
-2. **Non-Assignability.** GitHub may assign or delegate these Marketplace Terms and/or the [GitHub's Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement), in whole or in part, to any person or entity at any time with or without your consent. You may not assign or delegate any rights or obligations under the Marketplace Terms or Privacy Statement without our prior written consent, and any unauthorized assignment and delegation by you is void.
+2. **Incessibilité.** GitHub peut céder ou déléguer les présentes Conditions de Marketplace et/ou la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement), en tout ou en partie, à toute personne ou entité à tout moment avec ou sans votre consentement. Vous ne pouvez céder ou déléguer aucun droit ou obligation en vertu des Conditions de la Place de marché ou de la Déclaration de confidentialité sans notre consentement écrit préalable, et toute cession et délégation non autorisées de votre part sont nulles.
 
-3. **Severability, No Waiver, and Survival.** If any part of these Marketplace Terms are held invalid or unenforceable, that portion of the Marketplace Terms will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. The failure of GitHub to exercise or enforce any right or provision of these Marketplace Terms shall not constitute a waiver of such right or provision. Our rights under these Marketplace Terms will survive any termination of these Marketplace Terms.
+3. **Indépendance des clauses, absence de renonciation et maintien en vigueur de certaines clauses.** Si une partie des présentes Conditions du marché est jugée invalide ou inapplicable, cette partie des Conditions du marché sera interprétée pour refléter l'intention initiale des parties. Les parties restantes resteront en vigueur et de plein effet. Le fait que GitHub n’exerce pas ou n’applique pas un droit ou une disposition des présentes Conditions de Marketplace ne constitue pas une renonciation à ce droit ou à cette disposition. Nos droits en vertu des présentes conditions du marché survivront à toute résiliation des présentes conditions du marché.
 
-4. **No Modifications; Complete Agreement.** These Marketplace Terms may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version. These Marketplace Terms, together with [GitHub's Privacy Statement](/fr/site-policy/privacy-policies/github-privacy-statement), represent the complete and exclusive statement of the agreement between you and us. These Marketplace Terms supersede any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms.
+4. **Aucune modification ; Intégralité de l’Accord.** Les présentes Conditions du Marketplace ne peuvent être modifiées que par un amendement écrit signé par un représentant autorisé de GitHub, ou par la publication par GitHub d'une version révisée. Les présentes Conditions de Marketplace, ainsi que la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement), constituent la déclaration complète et exclusive de l’accord entre vous et nous. Les présentes conditions du marché remplacent toute proposition ou accord préalable oral ou écrit, et toute autre communication entre vous et GitHub concernant l'objet de ces conditions.
 
-5. **Section Headings.** Throughout these Marketplace Terms, each section includes titles of the following terms and conditions. These section titles are not legally binding.
+5. **Titres des Sections.** Tout au long des présentes Conditions du Marketplace, chaque section comprend les titres des termes et conditions suivants. Ces titres de section ne sont pas juridiquement contraignants.
 
-6. **License to GitHub Policies.** These Marketplace Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
+6. **Stratégies en matière de licences accordées à GitHub.** Les présentes Conditions de Marketplace sont régies par la présente [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
-7. **Contact Us.** Questions about the Marketplace Terms? Contact us through the [GitHub Support portal](https://support.github.com/).
+7. **Contactez-nous.** Des questions sur les conditions de la place de marché ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).
 
 {"resolvedServerColorMode":"day"}

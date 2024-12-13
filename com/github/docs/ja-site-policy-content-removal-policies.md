@@ -1,33 +1,33 @@
-Content Removal Policies - GitHub Docs
+コンテンツ削除ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Content Removal Policies](/ja/site-policy/content-removal-policies)
+* [サイト ポリシー](/ja/site-policy)/
+* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
 
-Content Removal Policies
+コンテンツ削除ポリシー
 ==========
 
-[Submitting content removal requests](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+[コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 ----------
 
-[DMCA Takedown Policy](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+[DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[GitHub Private Information Removal Policy](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+[GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[GitHub Trademark Policy](/ja/site-policy/content-removal-policies/github-trademark-policy)
+[GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
-[Guide to Submitting a DMCA Counter Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+[DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 ----------
 
-[Guide to Submitting a DMCA Takedown Notice](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+[DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
 
 {"resolvedServerColorMode":"day"}

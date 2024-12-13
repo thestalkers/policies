@@ -1,134 +1,134 @@
-GitHub Registered Developer Agreement - GitHub Docs
+GitHub の登録開発者契約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [GitHub Terms](/ja/site-policy/github-terms)/
-* [GitHub Registered Developer Agreement](/ja/site-policy/github-terms/github-registered-developer-agreement)
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub 条件](/ja/site-policy/github-terms)/
+* [GitHub の登録開発者契約](/ja/site-policy/github-terms/github-registered-developer-agreement)
 
-GitHub Registered Developer Agreement
+GitHub の登録開発者契約
 ==========
 
-GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better. GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
+GitHub は、多くの開発者に当社のプラットフォームをご愛用いただいていることを幸いに思います。 開発者の皆様に提供する体験をより良いものにすることが当社の願いです。 GitHub の開発者プログラム (以下「プログラム」といいます) は、お客様と当社とがつながり、情報を共有し、お客様のクリエイティブな取り組みを支援していくために役立つものです。 本プログラムが構築する GitHub と開発者コミュニティとの特別な関係には、特別な規約が必要となります。 登録開発者契約 (以下「契約」といいます) へようこそ。
 
-This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (“GitHub”, “we”, or “us”). Be sure to read this Agreement carefully - it governs your participation in the Program, and we’re only willing to let you participate in the Program if you accept all the terms of this Agreement. By clicking “I Agree” below, or by participating in the Program in any way – for example, by accessing information about GitHub products or features that aren’t yet available to the general public – you’re agreeing to be bound by all the terms of this Agreement. IF YOU’RE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THE ENTITY TO THIS AGREEMENT, IN WHICH CASE "YOU" WILL MEAN THE ENTITY YOU REPRESENT. IF YOU DON’T HAVE SUCH AUTHORITY, OR IF YOU DON’T AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST SELECT THE "CANCEL" BUTTON AND YOU MAY NOT PARTICIPATE IN THE PROGRAM. IF YOU’RE A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT THE PERSON CLICKING “I AGREE” HAS THE AUTHORITY TO BIND YOU TO THIS AGREEMENT.
+本契約は、お客様 (以下「お客様」、「あなた」といいます) と GitHub, Inc. (以下「GitHub」または「当社」といいます) の間で締結される法的拘束力を持つ契約です。 本契約を注意深くお読みください。本契約は本プログラムへのお客様の参加に適用されるもので、本契約のすべての規約に同意した場合に限り、本プログラムへの参加が許可されます。 以下の「同意する」をクリックするか、または、一般には提供されていない GitHub 製品または機能に関する情報の入手など、本プログラムに何らかの方法で参加することによって、お客様は、本契約のすべての条件に拘束されることに同意したことになります。 お客様が、会社またはその他の法人を代表して本契約を締結する場合、お客様は、その法人を本契約に拘束する法的権限を持つことを表明するものとします。その場合の「お客様」とは、あなたが代表する法人のことを意味します。 お客様にそうした権限がない場合、または本契約の契約条件に同意しない場合は [キャンセル] ボタンを押してください。本プログラムにはご参加いただくことはできません。 お客様が会社またはその他の法人である場合、[同意する] を押した方が、本契約に拘束されることに同意する権限を持つことを表明したことになります。
 
-1. **GitHub.com’s Terms of Use Will Apply**
+1. **GitHub.com の利用規約の適用**
 
-   You need to have an account on GitHub.com in order to participate in the Program. By clicking “I Agree” at the bottom of this Agreement, you are also agreeing to be bound by the GitHub.com [Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) (the “TOS”). In the event of a direct conflict between this Agreement and the TOS, this Agreement will control; otherwise, both agreements will apply to you concurrently.
+   本プログラムに参加するには、GitHub.com のアカウントが必要です。 本契約の下部にある [同意する] をクリックすることで、お客様は、GitHub.com の[サービス条件](/ja/site-policy/github-terms/github-terms-of-service) (以下「TOS」) に拘束されることにも同意したことになります。 本契約と TOS との間に直接的な矛盾がある場合、本契約が優先するものとします。それ以外の場合、両方の契約が同時に適用されます。
 
-2. **Program Terms**
+2. **プログラム条項**
 
-   We post the [Program’s benefits and guidelines](/ja/get-started/exploring-integrations/github-developer-program) (the “Program Overview”). As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 9.
+   当社は、[プログラムのメリットとガイドライン](/ja/get-started/exploring-integrations/github-developer-program) (以下「プログラム概要」といいます) を投稿しています。 当然ながら、プログラム概要は随時変更されます。 これらの変更は、本プログラムの参加者であるお客様に適用されるため、変更を把握するためにプログラムの概要を定期的に確認することをお勧めします。 さまざまな理由により、本プログラムまたは当社が提供する特典を変更、停止、または中止する必要が生じる場合があります。 これらについては、当社は第 9 条に規定されている場合を除き、お客様に対して責任を行うことなく行うことができることにお客様は同意するものとします。
 
-3. **API License**
+3. **API ライセンス**
 
-   So long as you remain compliant with the TOS, this Agreement, and the Program Terms, we grant You a limited, worldwide, non-exclusive, non-transferable license during the term of this Agreement to access and use our API (as defined in the [TOS](/ja/site-policy/github-terms/github-terms-of-service)) solely for the purpose of developing, demonstrating, testing and supporting interoperability and integrations between your products and services and our products and services.
+   TOS、本契約、プログラム条項に準拠している限り、当社は、本契約の期間中、開発、デモンストレーション、お客様の製品およびサービスと当社の製品およびサービスとの相互運用性と統合のテストおよびサポートの目的においてのみ、[TOS](/ja/site-policy/github-terms/github-terms-of-service) に定義される) 当社の API にアクセスおよび使用するための限定的、世界的規模、非排他的で譲渡不可のライセンスをお客様に対して付与します。
 
-   You promise not to do bad things with our API. Among other things, this means you won’t – and won’t allow or permit others to – modify, publish, sell, lease, license, distribute, or sublicense our API; decompile, disassemble, reverse engineer, or otherwise attempt to derive source code from our API; reproduce, modify or create derivative works from our API; use our API to provide service bureau, application hosting, or processing services to third parties; incorporate or otherwise combine or integrate our API with any of your products or services; or use our API to engage in, support, or enable any kind of illegal activity.
+   お客様は、当社の API を悪用しないことを約束するものとします。 これは特に、当社 API の変更、公開、販売、リース、配布、またはサブライセンスを行ったり、逆コンパイル、逆アセンブル、リバース エンジニアリング、またはその他の手段によって当社 API からソース コードの抽出を試みたり、当社 API を複製、変更、および当社 API から二次的著作物を作成する、API を使用してサービス機関、アプリケーション ホスティング、または処理サービスを第三者に提供したり、当社 API をお客様の製品やサービスと組み合わせるか、これらに組み込んだりしたり、または当社 API を使用して違法行為に従事したり支援したり、可能にしたりしないことを意味します。
 
-   We reserve the right at any time to modify or discontinue, temporarily or permanently, your access to the API (or any part of it) with or without notice. It’s your sole responsibility to ensure that your use of the API is compatible with the then-current API. Other than the rights we expressly give you in this Agreement or the TOS, We don’t grant you any rights or licenses to our API, or to any other GitHub products or services.
+   当社は、通知の有無にかかわらず、随時、お客様による API (またはその一部) へのアクセスを一時的または恒久的に変更または中止する権利を留保します。 お客様は、お客様による API の使用が最新の API を遵守していることを責任をもって確認する必要があります。 本契約または TOS で明示的にお客様に付与される権利を除き、GitHub は、当社 API やその他の GitHub 製品またはサービスに対するどのような権利もライセンスも付与しません。
 
-4. **Account Authorization Services**
+4. **アカウント認証サービス**
 
-   As part of the Program, GitHub may offer Account Authorization Services, such as [OAuth 2.0](/ja/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps), for the primary purpose of creating applications that can integrate with the GitHub platform. Such Account Authorization Services are not intended to be used as the sole identity provider for your application or service. GitHub reserves the right to suspend access to any application using its Account Authorization Services that: (i) is consuming a disproportionate amount of resources compared to other applications (for example, if your application is inducing users to create multiple or “throw-away” GitHub accounts); (ii) would be in violation of [GitHub’s Acceptable Use Policies](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies) if the application was hosted on our platform; (iii) facilitates or incentivizes any spammy or inauthentic activity on GitHub (for example, promising rewards for account creation); (iv) presents itself or its login page in a manner that suggests sponsorship, endorsement, or affiliation with GitHub; or (v) misrepresents or obscures what it does (for example, if an application takes any actions, like starring repositories, on behalf of a user without this action being explicitly disclosed).
+   プログラムの一環として、GitHub は、GitHub プラットフォームと統合できるアプリケーションを作成する主な目的のために、[OAuth 2.0](/ja/apps/oauth-apps/building-oauth-apps/differences-between-github-apps-and-oauth-apps) などのアカウント認証サービスを提供する場合があります。 このようなアカウント認証サービスは、アプリケーションまたはサービスの唯一の ID プロバイダーとして使用されるものではありません。 GitHub は、アカウント認証サービスを使用するアプリケーションが以下のような場合、そのアプリケーションへのアクセスを停止する権利を保持します。(i) 他のアプリケーションと比較して不釣り合いな量のリソースを消費している (アプリケーションがユーザーに複数の GitHub アカウントまたは「使い捨て」の GitHub アカウントを作成するように誘導している場合など)。(ii) アプリケーションが当社のプラットフォームでホストされている場合、[GitHub の利用規約に違反した](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)とみなされる。(iii) GitHub 上でスパム行為や不正な活動を助長または奨励している (アカウント作成に対する報酬を約束しているなど)。(iv) GitHub とのスポンサーシップ、支持、または提携を示唆するような方法で、アプリケーションまたはそのログイン ページを提示している。(v) アプリケーションの機能を不当に伝えたり不明瞭にしたりしている (アプリケーションがユーザーに代わってリポジトリにスターを付けるなどのアクションを、そのアクションが明示的に開示されることなく実行している場合など)。
 
-5. **Your Products, Services, and Integrations**
+5. **お客様の製品、サービス、および統合**
 
-   Your products, services, and integrations (collectively, your “Products”) are your responsibility. That means that you’re solely responsible for developing, operating, and maintaining all aspects of your Products; ensuring that all materials used with or in your Products are legal in all the jurisdictions where your Products are used, and don’t promote illegal activities; obtaining any rights or licenses necessary to use and/or distribute any third-party software that you use, include, integrate, or distribute with your Products; and providing your end user customers with the same high-quality technical support for your Products when they operate in conjunction with our API or any other of our products and services as you do when they operate on their own.
+   お客様の製品、サービス、および統合 (以下総称して「製品」といいます) に対する責任は、お客様が負うものとします。 これは、お客様の製品のあらゆる側面の開発、運用、および管理にお客様が単独の責任を負うことを意味します。これらの責任には、お客様の製品と共に、または製品において使用されるあらゆるマテリアルがお客様の製品が使用されるすべての法域において合法であるようにすること、および違法行為の推進を行わないこと、お客様の製品と共に使用する、製品と共に含める、または共に配布する第三者のソフトウェアを使用または配布するために必要なあらゆる権利またはライセンスを取得すること、ならびにお客様のエンド ユーザーが自ら、当社の API その他当社製品およびサービスと共にお客様の製品を運用する際に、お客様の製品について同等の高品質な技術サポートを当該エンド ユーザーに対して提供することなどが含まれます。
 
-6. **Marketing and Publicity**
+6. **マーケティングおよび宣伝**
 
-   Marketing and publicizing your integrations with GitHub is valuable to both of us. We want to be sure that happens in the right way, so we’ve included some language here to help clarify some basic “dos” and “don’ts”.
+   GitHub とのお客様の統合をマーケティングおよび宣伝することは、双方にとって価値があります。 そのための正しい方法として、基本的な約束事項を明確にするのに役立つ文言をここに記載しました。
 
-   You agree that you won’t make any representations, warranties, guarantees or endorsements to anyone on behalf of GitHub (including, among other things, any GitHub products or services). Unless we specifically say it’s okay in the Program Terms, you promise not to state or imply that we have developed, endorsed, reviewed or otherwise approved of any of your Products.
+   お客様は、いずれの他者に対しても、(GitHub 製品やサービスなどについて) GitHub に代わって表明、保証、担保、支持を行わないことに同意するものとします。 プログラム条項で明示的に了承されていない限り、当社がお客様のどのような製品も開発、支持、レビュー、または承認したと言明したり暗示したりしないことを約束するものとします。
 
-   If you decide to promote or publicize any of our products or services in connection with your Products, you’ll need to make sure that you abide by the terms of this Agreement, the Program Terms, the TOS, our [trademark policy](/ja/site-policy/content-removal-policies/github-trademark-policy), and any other applicable GitHub policies. Subject to the terms and conditions of this Agreement and the TOS, and during the term of this Agreement, we grant you a limited, revocable, worldwide, non-exclusive, non-transferable license to use our trademarks, service marks, and logos (collectively, the “GitHub Marks”) in accordance with our [trademark policy](/ja/site-policy/content-removal-policies/github-trademark-policy) and as specified in the Program Terms, solely for the purpose of publicizing your membership in the Program.
+   お客様の製品に関連して、当社の製品やサービスを販促または宣伝する場合、お客様は本契約、プログラム条項、TOS、当社の [商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)、その他の適用される GitHub のポリシーに従う必要があります。 本契約の規約および TOS の条項に従い、本契約の期間中、当社は、[商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)に従い、およびプログラム条項の規定どおり、お客様が本プログラムのメンバーであることを公表する目的においてのみ、本契約のお客様の当社の商標、サービス マーク、およびロゴ (総称して「GitHub のマーク」といいます) を使用するための限定的で取消可能、世界的規模の非排他的で譲渡不可能なライセンスを付与します。
 
-   We want to tell the world about you, and your participation in the Program. To help us do that, you grant us a limited, revocable, worldwide, non-exclusive, non-transferable license to use your trademarks, service marks, and logos (collectively, the “Partner Marks”) in our marketing materials, solely for the purpose of promoting the Program and publicizing your participation in it.
+   当社は、お客様について、およびお客様が本プログラムに参加していることについて公開することを希望しています。 そのため、お客様は、本プログラムの販促とお客様による本プログラムへの参加を宣伝する目的に限定してお客様の商標、サービス マーク、およびロゴ (総称して「パートナーのマーク」といいます) を GitHub のマーケティング資料を使用するための限定的で取消可能、非排他的で譲渡不可のライセンスを付与するものとします。
 
-   Except as set forth in this Agreement and the TOS, nothing in this Agreement will be deemed to grant to one party any right, title or interest in or to the other party’s Marks. You agree not to, whether during or after the term of this Agreement: (i) challenge or assist others in challenging the GitHub Marks, or our registration or enforcement of the GitHub Marks; (ii) attempt to adopt, use, apply for, or register any trademark, service mark, logo, URL, Internet domain name, or symbol that is confusingly similar to the GitHub Marks; or (iii) make any negative, false, or disparaging statements (whether written or oral) to any third-party about us, our products, or our services.
+   本契約および TOS に規定されている場合を除き、本契約のどのような条項も、一方当事者に他方当事者のマークに対するどの権利、権原、権益も付与しないものとします。 お客様は、本契約の期間とそれ以降の期間とにかかわらず、(i) GitHub のマーク、または GitHub のマークの当社による登録あるいは履行に対して異議を唱える、または他者が異議を唱える支援をしないこと、(ii) GitHub のマークと紛らわしいあらゆる商標、サービス マーク、ロゴ、URL、インターネット ドメイン名、シンボルを採用、使用、申請、または登録しようと試みないこと、(iii) 第三者に対して、当社、当社の製品またはサービスについて否定的、虚偽、または誹謗する発言を (書面と口頭とにかかわらず) 行わないことを約束するものとします。
 
-7. **Confidentiality; Pre-Release Materials**
+7. **機密保持、プレリリース資料**
 
-   As a registered developer in the Program, you may get access to special information not available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret.
+   本プログラムに参加する登録開発者は、他で入手できない特殊な情報にアクセスできる場合があります。 この情報は機密性が高いため、お客様に情報の機密を保持していただくことが当社にとって重要です。
 
-   You agree that any non-public information we give you, or that you may have access to as part of the Program, will be considered GitHub’s confidential information (collectively, “Confidential Information”), regardless of whether it is marked or identified as such. You agree to only use such Confidential Information for your authorized purposes as a participant in the Program (the “Purpose”), and not for any other purpose. You should take reasonable precautions to prevent any unauthorized use, disclosure, publication, or dissemination of our Confidential Information. You promise not to disclose, publish, or disseminate any Confidential Information to any third-party other than your employees and contractors, and then only to the extent that: (i) they need to know the Confidential Information for the Purpose; (ii) you make them aware of the confidential nature of the Confidential Information; (iii) you remain responsible for the acts and omissions of such employees and contractors; and (iv) we don’t otherwise prohibit or restrict such disclosure.
+   お客様は、当社がお客様に提供する、または本プログラムの一環としてお客様がアクセスできる非公開情報が、そのように表示されているか、またはそのように識別されているかにかかわらず、GitHub の機密情報 (総称して「機密情報」といいます) と見なされることに同意するものとします。 お客様は、かかる機密情報を本プログラムの参加者に対して認められた目的にのみ使用し (以下「目的」といいます)、その他の一切の目的には使用しないことに同意するものとします。 お客様は、当社の機密情報の不正使用、開示、公開、配布を防止するための合理的な予防策を講じるものとします。 お客様は、お客様の従業員および請負業者以外の第三者に機密情報を開示、公開、配布しないこと、また、開示、公開、配布の範囲において次の条件を満たすことを約束するものとします。(i) 目的のために機密情報を知る必要があること。(ii) 機密情報の機密的性格を認識させ、(iii) 従業員および請負業者の行為および怠慢に対して責任を負い、(iv) 当社がかかる開示を禁止または制限していないこと。
 
-   You understand that unauthorized disclosure or use of our Confidential Information could cause us irreparable harm, and significant injury that may be difficult for us to quantify. Accordingly, you agree that we’ll have the right to seek immediate injunctive relief to make sure you comply with this Agreement, in addition to any other rights and remedies we may have. If you are required by law, regulation or a valid binding order of a court of competent jurisdiction to disclose our Confidential Information, you may do so, but only if you notify us before you do, and do your best to limit such disclosure and to seek confidential, protective treatment of such information.
+   お客様は、当社の機密情報を許可なく開示または使用した場合、当社に回復不能な損害を及ぼし、定量化が困難な重大な傷害を引き起こす可能性があることを理解するものとします。 したがって、本契約に確実に従っていただくため、GitHub が所有するその他の権利および救済措置に加えて即時の差し止め命令による救済を求める権利が当社にあることにお客様は同意するものとします。 法律、規制または管轄裁判所の有効な拘束力のある命令により、当社の機密情報の開示を要求された場合、開示を行う前に当社に通知し、当該開示を可能な限り制限するように努め、かかる情報の機密的、保護的措置を求めた後で開示を行うことができます。
 
-   The obligations in this Section 7 won’t apply to information that you can prove: (i) was generally available to the public before we disclosed it to you; (ii) became generally available to the public after we disclosed it to you, through no action or inaction on your part, or on the part of your employees or contractors; (iii) you knew about before we disclosed it to you; (iv) was disclosed to you by a third-party, who didn’t have any confidentiality obligations with respect to it; (v) you independently developed without breach of any confidentiality obligation to us or any third-party; or (vi) we gave you permission to disclose, in a writing signed by one of our authorized representatives.
+   本第 7 条の義務は、お客様が次の事項を証明できる情報には適用されません。(i) お客様に開示する前に公知であった情報、(ii) お客様に開示した後、お客様、またはお客様の従業員や請負業者の行動や怠慢によらずに公知になったもの、(iii) 当社がお客様に開示する前にお客様が知っていたもの、(iv) 開示された情報について、機密保持の義務を負わない第三者からお客様に開示されたもの、(v) 当社やどのような第三者の機密保持の義務にも違反せず、お客様が独自に開発したもの、(vi) 当社の権限のある担当者により、お客様に書面で開示の許可を与えたもの。
 
-   If We give you any pre-release software or related documentation or materials, which may include videos or other forms of content (“Pre-release Materials”), then subject to your compliance with the terms and conditions of this Agreement and the TOS, we hereby grant you a nonexclusive, nontransferable, revocable right and license to use the Pre-release Materials solely to support your testing and/or development of products or services that are designed to operate in combination with the systems or programs for which the Pre-release Materials are designed. If the Pre-release Materials are accompanied by a separate license agreement, you agree that the separate license agreement (in addition to any more restrictive provisions contained in this Agreement or the TOS) will apply. You agree not to decompile, reverse engineer, disassemble, or otherwise reduce the Pre-release Materials to a human-perceivable form, and you promise not to modify, network, rent, lease, transmit, sell, or loan the Pre-release Materials, in whole or in part. You understand that we’re under no obligation to provide any Pre-release Materials to you, to provide you with updates, enhancements, or corrections to the Pre-release Materials, or to notify you of changes that we make to our products and services, now or in the future.
+   当社がリリース前のソフトウェアまたは動画やその他のコンテンツを含む可能性のある関連ドキュメントや資料 (以下「プレリリース資料」といいます) へのアクセスをお客様に提供する場合、プレリリース資料の意図するシステムまたはプログラムと組み合わせて運用する製品またはサービスのテストあるいは開発を支援する目的においてのみ、お客様が本契約および TOS の条項を遵守することを条件として、当社はここにプレリリース資料を使用するための非排他的で譲渡不可、取消可能なライセンスをお客様に提供するものとします。 プレリリース資料に別のライセンス契約が付随する場合、お客様は、その付随するライセンス契約も (本契約または TOS に含まれる限定条件に加えて) 適用されることに同意するものとします。 お客様は、その全体か一部かを問わず、プレリリース資料を逆コンパイル、リバース エンジニアリング、逆アセンブル、またはその他の手段によって人間が知覚できる形態に戻さないこと、および改変、ネットワーク化、レンタル、リース、送信、売却、または貸与しないことを約束することに同意するものとします。 お客様は、当社がお客様にプレリリース資料を提供する義務、プレリリース資料の更新、機能強化、または修正を行う義務、および当社がその製品やサービスに加える変更を現在または将来において通知する義務を負わないことを理解するものとします。
 
-8. **Fees and Payment**
+8. **支払と料金**
 
-   There may be fees associated with participating in the Program. We’ll tell you what those fees are in the Program Terms, as we update them from time to time (the “Program Fees”). If you gave us your payment information before, you agree that we can charge the same credit card or PayPal account as part of this Agreement. Otherwise, you’ll need to give us a valid payment account, and other supporting information. Except as otherwise expressly provided in Section 9, any payments you make to us for the Program are non-refundable. You give us permission to automatically charge your payment account on the anniversary of your first payment date to cover all of the coming year’s Program Fees, unless you terminate this Agreement first according to Section 1. All fees are due in U.S. Dollars, and are exclusive of all taxes, levies, or duties imposed by taxing authorities (you’re responsible for all of those, except for taxes based on our income).
+   本プログラムへの参加に対して料金が発生する場合があります。 当社が随時更新するプログラム条項における料金 (以下「プログラム料金」といいます) について説明します。 お客様は、当社に支払情報を提供したことがある場合、本契約の一環として、提供したものと同一のクレジット カードまたは PayPal アカウントに当社が請求できることに同意するものとします。 それ以外の場合は、有効な支払アカウント、およびその他の補足情報を当社に提供する必要があります。 第 9 条に明示的に規定されていない限り、お客様が当社に行う支払いは払い戻し不可です。 第 1 条に従って本契約をお客様が解約しない限り、お客様は、最初の支払い日と同じ日に、翌年までのすべてのプログラム料金をお客様の支払いアカウントに自動的に課金する許可を当社に与えるものとします。 すべての料金はアメリカ合衆国ドルで支払うものとし、税務当局によって課されるすべての税金、課徴金、関税はこれに含まれません (お客様はこれらすべてを負担するものとします)。
 
-9. **Term and Termination**
+9. **契約の期間および終了**
 
-   This Agreement begins on the date you click “Agree”, and continues for a period of one (1) year. This Agreement will automatically renew for successive one-year terms unless either party gives written notice at least thirty (30) days before the current term expires that it wants to terminate, or one of us terminates it earlier in accordance with this Section 9.
+   本契約は、お客様が [同意する] をクリックした日から始まり、1 年間継続します。 本契約は、現在の期間が満了する少なくとも 30 日前までにいずれかの当事者が書面で終了を希望する旨を通知した場合、または一方の当事者が本第 9 条に従って早期に終了した場合を除き、1 年ごとに自動的に更新されるものとします。
 
-   Either you or GitHub may terminate this Agreement for any reason, without cause, upon thirty (30) days prior written notice to the other. If we terminate this Agreement or discontinue your access to the Program for any reason other than your breach of this Agreement, the Program Terms, or the TOS, we will, as your sole remedy and our sole obligation for such termination, refund you the pro rata portion of the Program Fees you paid us for the current term of this Agreement. This Agreement will terminate immediately, without the requirement of notice, if you breach any term of this Agreement, the Program Terms, or the TOS.
+   お客様または GitHub のいずれも、理由を問わず、または何ら理由なく、30 日前までに相手方に書面で通知することで本契約を終了できます。 当社がお客様による本契約、プログラム条項、または TOS の違反以外の理由で本契約を終了するか、本プログラムへのお客様のアクセスを中止した場合、当社は、当該終了の唯一の救済措置および当社の唯一の義務として、お客様が本契約の現期間中に支払ったプログラム料金の割合に応じて返金するものとします。 お客様が本契約、プログラム条項、TOS のいずれかに違反した場合、本契約は通知の必要なく直ちに終了となります。
 
-   The rights and obligations in Sections 1, 2, 3 (second and third paragraphs), 4, 5, 6 (second and last paragraphs), 7, 8, and 10 through 22 of this Agreement will survive the termination or expiration of this Agreement. Upon termination or expiration of this Agreement all of the rights and licenses we granted you in this Agreement will immediately cease to exist, you will return (or, at our request, destroy) all of our Confidential Information and any copies (including electronic copies) which are in your possession or control, and you will certify in writing that you’ve complied with these requirements.
+   本契約の第 1、2、3 条 (第 2 段落と第 3 段落)、第 4、5、6 条 (第 2 段落と最終段落)、第 7、8、および 10 ～ 22 条に記載する権利および義務は、本契約の終了または満了後も存続するものとします。 本契約において当社が付与したすべての権利およびライセンスが本契約の終了または満了時に即座に消滅した際、お客様は、当社の機密情報とお客様が所有するすべての複製 (電子的複製を含む) を返却 (または当社の要求に応じて破棄) し、お客様はこれらの要件を遵守したことを書面で証明するものとします。
 
-10. **Warranties and Disclaimers**
+10. **保証および免責**
 
-   You warrant to us that you: (i) have the authority to execute this Agreement and to perform its obligations; (ii) will conduct business in a manner that reflects favorably at all times on GitHub’s products and services and our good name, goodwill and reputation; (iii) will make no false or misleading statements or representations regarding GitHub or our products and services; (iv) will not take on any obligation or responsibility, or make any representation, warranty, guarantee or endorsement to anyone on our behalf (including, without limitation, any of our products or services); and (v) will not state or imply that We have developed, endorsed, reviewed or otherwise approved of any of your Products.
+   お客様は、以下のことを当社に保証するものとします。(i) 本契約を実行し、その義務を履行する権限を持っていること、(ii) GitHub の製品やサービス、当社の知名度、信用、評判に対して良い印象を与えるような方法で事業を行うこと、(iii) GitHub または当社の製品やサービスに関して、虚偽または誤解を招くような記述や表明を行わないこと、(iv) 当社を代表して、どのような義務や責任も負わないこと、また何者に対しても、(当社のあらゆる製品やサービスを含むがこれらに限定されないものについて) 当社を代表して表明、保証、担保、支持を行わないこと、(v) 当社がお客様のどのような製品をも開発、支持、レビュー、または承認したと言明したり暗示したりしないこと。
 
-   THE PROGRAM, THE API AND ANY CONFIDENTIAL INFORMATION WE GIVE YOU (INCLUDING, WITHOUT LIMITATION, THE PRE-RELEASE MATERIALS) ARE PROVIDED “AS IS”, AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE SPECIFICALLY DISCLAIM ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT ANY SERVICES OR PRODUCTS WE MAKE AVAILABLE TO YOU WILL MEET YOUR OR YOUR END USERS’ REQUIREMENTS.
+   本プログラム、API、および当社がお客様に提供する機密情報 (プレリリース資料を含むが、これに限定されない) は「現状有姿」で提供され、明示か暗黙かを問わずどのような種類の保証もありません。 GitHub は、商品性、特定目的の適合性、および非侵害性について、あらゆる暗黙的保証または条件を明確に否認します。 当社は、お客様に提供するサービスや製品が、お客様またはお客様のエンド ユーザーの要件を満たすことを保証しません。
 
-11. **Indemnity**
+11. **補償**
 
-   We’re giving you lots of useful pre-release stuff as part of the Program, and there are ways that you could use that stuff improperly that could cause us harm. With that in mind, and since we can’t control the ways that you participate in the Program, you agree that you will indemnify, defend and hold us harmless from and against any and all claims which may arise under or out of your participation in the Program; your use of the API, our Confidential Information, or any other GitHub products and services; your negligence or intentional misconduct; your Products, or any integrations you develop, design, promote or distribute using our API or any Confidential Information; any misrepresentations you make with respect to us, or our products or services; or your violation of any part of this Agreement.
+   当社は、本プログラムの一環としてリリース前の多くの有用なコンテンツをお客様に提供していますが、お客様がこのようなコンテンツを不適切に使用した場合、当社に損害を与える可能性があります。 以上を念頭に置いてください。また、お客様が本プログラムに参加する方法を当社が管理することは不可能であるため、お客様は、本プログラムへの参加 (API、当社の機密情報、その他あらゆる GitHub 製品およびサービスの使用、お客様の過失または意図的な不正行為、お客様の製品、またはお客様が当社の API を使用して開発、設計、宣伝、または配布するすべての統合、当社、当社の製品またはサービスに関するあらゆる不当表示、本契約の条項の違反など) によって生じるあらゆる請求から当社を保護し、弁護し、無害に保つことに同意するものとします。
 
-12. **Limitation of Liability**
+12. **責任制限**
 
-   IN NO EVENT WILL WE BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOST DATA, LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION PRODUCTS LIABILITY, STRICT LIABILITY AND NEGLIGENCE), OR ANY OTHER THEORY, AND WHETHER OR NOT WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL OUR AGGREGATE LIABILITY TO YOU ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT OR IN TORT, EXCEED THE GREATER OF (I) AMOUNTS YOU ACTUALLY PAID US UNDER THIS AGREEMENT; OR (II) FIVE HUNDRED DOLLARS ($500). THE FOREGOING LIMITATIONS WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY STATED IN THIS AGREEMENT.
+   GitHub はどのような場合も、間接損害、特別損害、派生的損害、懲罰的損害についてお客様または第三者に対して責任を負わないものとします。これらの損害には、データの喪失、利益の逸失、代替品またはサービスの調達に伴うコストなどが含まれますが、それらに限定されません。また、かかる損害は契約、不法行為 (製造物責任、厳格責任、過失を含むがそれらに限定されません)、その他の責任理論の下で発生したかを問わず、当社がかかる損害の可能性を認識していた、または認識しているはずだったかどうかを問いません。 どのような場合も、原因が何であれ、また訴訟の形式にかかわらず、契約か不法行為かどうかを問わず、本契約から生じる、または本契約に関連する当社の責任額は、(I) 本契約に基づいてお客様が実際に支払った金額、または (II) 総額で 500 米ドルのいずれか大きいほうの額を超えないものとします。 上記の制限は、本契約に記載された限定的救済手段の本質的な目的が履行されなかった場合でも適用されるものとします。
 
-13. **Export Control**
+13. **輸出規制**
 
-   You aren’t allowed to export or re-export any of our Confidential Information, except as authorized by United States law and the laws of the jurisdiction in which the Confidential Information was obtained. In particular, you aren’t allowed to export or re-export our Confidential Information into any U.S. embargoed countries, to anyone on the U.S. Treasury Department's list of Specially Designated Nationals, or to anyone on the U.S. Department of Commerce Denied Person's List or Entity List. By joining the Program or receiving any of our Confidential Information, you represent and warrant that you are not located in any such country or on any such list.
+   米国の法律および機密情報が取得された管轄区域の法律によって認められる場合を除き、お客様は当社のどのような機密情報も輸出または再輸出することはできません。 特に、米国の禁輸対象国、米国財務省の特別指定国民リストに記載された者、または米国商務省の輸出禁止対象者リストに記載された者に対して当社の機密情報を輸出したり再輸出したりすることは認められません。 本プログラムに参加するか、当社の機密情報を受け取ることにより、お客様はかかる国に在住しておらず、またかかるリストに掲載されていないことを表明し、保証するものとします。
 
-14. **Proprietary Rights**
+14. **知的財産権**
 
-   You agree that GitHub and its licensors own all right, title and interest in and to the API, the Pre-release Materials, and all other GitHub products and services; all information and data relating to their configurations and combinations; and all modifications to and derivative works of any of the foregoing. You agree not to remove, alter, cover or obfuscate any copyright or other proprietary rights notices we place on or embed in the API, the Pre-release Materials, or any other GitHub products and services.
+   お客様は、GitHub とそのライセンサーが、API、プレリリース資料、その他すべての GitHub の製品およびサービス、それらの構成と組み合わせに関連するすべての情報とデータ、およびそれらの変更と派生物のすべての権利、権原、および権益を所有していることに同意するものとします。 お客様は、当社が API、プレリリース資料、その他の GitHub 製品およびサービスに記載したり埋め込んだりした知的財産権やその他の所有権の表示を削除、変更、隠蔽、難読化しないことに同意するものとします。
 
-15. **Government Users**
+15. **政府機関ユーザー**
 
-   If you are a Government entity, this Section applies to you. Certain of our Confidential Information may be considered “Commercial Items”, as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
+   お客様が政府機関である場合、本条が適用されます。 当社の機密情報の中には、48 C.F.R. §12.212 または 48 C.F.R §227.7202 で使用される、「商用コンピューター ソフトウェア」および「商用コンピューター ソフトウェア ドキュメント」で構成される、 §12.212 または 48 C.F.R. 見なされるものがある可能性があります。 48 C.F.R. §12.212 または 48 C.F.R. §227.7202-1 から 227.7202-4 のうち該当する法律に従い、「商用コンピューター ソフトウェア」および「商用コンピューター ソフトウェア ドキュメント」は、(a) 「商用品目」としてのみ、(b)本契約の規約および条件に従って、その他のすべてのエンド ユーザーに付与される権利のみ、米国政府であるエンド ユーザーにライセンス供与されるものとします。 GitHub, Inc. 88 Colin P. Kelly Street, San Francisco, CA 94107.
 
-16. **Independent Development**
+16. **独自の開発**
 
-   Nothing in this Agreement will impair our right to develop, acquire, license, market, promote or distribute products, software or technologies that may compete with your Products.
+   本契約のどのような条項も、お客様の製品と競合する可能性のある製品、ソフトウェア、および技術を開発、取得、ライセンス、販売、宣伝、および配布する当社の権利を損なうものではありません。
 
-17. **Feedback**
+17. **フィードバック**
 
-   We’re always trying to improve, and your feedback will help us do that. If you choose to give us feedback, suggestions or recommendations for the Program or for our products or services (collectively, “Feedback”), you acknowledge and agree that we’re free to use that Feedback in any way we want, without restriction (subject to any applicable patents or copyrights, of course).
+   常に製品とサービスの改善に努めている当社は、お客様からのフィードバックを歓迎いたします。 お客様は、本プログラムまたは当社製品またはサービスについてフィードバック、提案、助言 (以下総称して「フィードバック」といいます) を提供することを選択した場合、当社がそのフィードバックを、制限なく (いうまでもなく適用される特許権または知的財産権に関する法律に従い) 自由に利用できることを認め、同意するものとします。
 
-18. **Independent Contractors**
+18. **独立した契約当事者**
 
-   The parties to this Agreement are independent contractors. Neither of us will be deemed to be an employee, agent, partner, franchisor, franchisee or legal representative of the other for any purpose and neither of us will have any right, power or authority to create any obligation or responsibility on behalf of the other.
+   本契約の各当事者は独立した契約当事者です。 いずれの当事者も、他方当事者の従業員、代理人、パートナー、フランチャイザー、または法定代理人とは見なされず、また、他方当事者を代表して義務または責任を発生させるどのような権利、権力、権限も持ちません。
 
-19. **Assignment**
+19. **譲渡**
 
-   You aren’t allowed to assign or transfer this Agreement, or any of your rights under it, in whole or in part, by operation of law or otherwise, without our prior written consent.
+   お客様は、本契約により、またはこれに基づく権利をその一部であれ全体であれ、法律の運用その他の方法により、書面による当社の事前の合意なして譲渡または移転することは認められないものとします。
 
-20. **Governing Law and Venue**
+20. **準拠法および裁判管轄地**
 
-   This Agreement will be interpreted and construed in accordance with the laws of the State of California, without regard to conflict of law principles. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction of the state and federal courts located in San Francisco County, California, and each of us hereby consents to personal jurisdiction there.
+   本契約は、抵触法の規定にかかわらず、カリフォルニア州の法令を準拠法とし、これに従って解釈されます。 本契約に起因するすべての紛争は、カリフォルニア州サンフランシスコ郡にある州裁判所および連邦裁判所の専属的管轄権に服するものとし、両当事者は、その対人管轄権に同意するものとします。
 
-21. **Amendments; Waivers; No Third-Party Beneficiaries**
+21. **修正、権利放棄、第三者の受益者**
 
-   This Agreement may not be changed, except by a writing signed by both parties. Any waiver of the provisions of this Agreement or of a party's rights or remedies under this Agreement must be in writing to be effective. If any term, condition, or provision in this Agreement is found to be invalid or unenforceable, the remaining terms will continue to be valid and enforceable to the fullest extent permitted by law. We each expressly agree that there are no third-party beneficiaries to this Agreement.
+   本契約は、両当事者による署名または記名押印がない限り変更することはできません。 本契約にある条項の放棄、または本契約に基づく当事者の権利あるいは救済措置の放棄は、書面をもってのみ有効となります。 本契約のいずれかの条項、条件、規定が無効または履行不能と見なされる場合でも、残りの条項は法律で認められる限りにおいて有効であり実行可能であると見なされます。 両当事者はそれぞれ、本契約の第三者受益者が存在しないことに明示的に同意するものとします。
 
-22. **Entire Agreement**
+22. **完全なる合意**
 
-   This Agreement, the TOS, and the Program Terms contain the entire agreement of the parties with respect to its subject matter and supersede all prior communications, representations, understandings and agreements, whether written or oral. The terms or conditions of any of your purchase orders, acknowledgements, or other documents that you send us in connection with this Agreement will be null and void, and of no effect.
+   本契約、TOS、およびプログラム条項には、その主題に関して当事者の完全な合意があり、書面か口頭かを問わず、これまでのすべての通信、表明、理解、および合意に優先します。 本契約に関連して当社に送信されたお客様の注文、領収書、その他のドキュメントの規約または条件は無効となり、効力がなくなります。
 
 {"resolvedServerColorMode":"day"}

@@ -1,36 +1,36 @@
-Other Site Policies - GitHub Docs
+Другие правила сайта - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Other Site Policies](/ru/site-policy/other-site-policies)
+* [Политика сайта](/ru/site-policy)/
+* [Другие правила сайта](/ru/site-policy/other-site-policies)
 
-Other Site Policies
+Другие правила сайта
 ==========
 
-[GitHub and Trade Controls](/ru/site-policy/other-site-policies/github-and-trade-controls)
+[GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls)
 ----------
 
-[GitHub Deceased User Policy](/ru/site-policy/other-site-policies/github-deceased-user-policy)
+[Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
 ----------
 
-[GitHub Logo Policy](/ru/site-policy/other-site-policies/github-logo-policy)
+[Политика логотипа GitHub](/ru/site-policy/other-site-policies/github-logo-policy)
 ----------
 
-[GitHub Government Takedown Policy](/ru/site-policy/other-site-policies/github-government-takedown-policy)
+[Политика GitHub в отношении правительственных запретов](/ru/site-policy/other-site-policies/github-government-takedown-policy)
 ----------
 
-[GitHub Username Policy](/ru/site-policy/other-site-policies/github-username-policy)
+[Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
 ----------
 
-[Guidelines for Legal Requests of User Data](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+[Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 ----------
 
-[GitHub Account Recovery Policy](/ru/site-policy/other-site-policies/github-account-recovery-policy)
+[Политика восстановления учетных записей GitHub](/ru/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

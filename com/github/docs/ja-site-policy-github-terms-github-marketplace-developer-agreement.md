@@ -1,309 +1,309 @@
-GitHub Marketplace Developer Agreement - GitHub Docs
+GitHub Marketplace 開発者契約 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [GitHub Terms](/ja/site-policy/github-terms)/
-* [GitHub Marketplace Developer Agreement](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub 条件](/ja/site-policy/github-terms)/
+* [GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
 
-GitHub Marketplace Developer Agreement
+GitHub Marketplace 開発者契約
 ==========
 
-In this article
+この記事の内容
 ----------
 
-* [1. DEFINITIONS](#1definitions)
-* [2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
-* [3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
-* [4. TAKEDOWNS](#4takedowns)
-* [5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
-* [6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
-* [7. OWNERSHIP](#7ownership)
-* [8. LIMITATION OF LIABILITY](#8limitation-of-liability)
-* [9. INDEMNIFICATION](#9indemnification)
-* [10. TERMINATION](#10termination)
-* [11. MODIFICATION](#11modification)
-* [12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
-* [13. SEVERABILITY](#13severability)
-* [14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
-* [15. NOTICE](#15-notice)
-* [16. GOVERNING LAW](#16-governing-law)
-* [17. EXPORT RESTRICTIONS](#17-export-restrictions)
-* [18. USAGE DATA](#18-usage-data)
-* [19. PRE-RELEASE ACCESS](#19-pre-release-access)
+* [1.定義](#1definitions)
+* [2.目的およびライセンスの付与](#2purpose-and-license-grant)
+* [3.制限事項と責任](#3restrictions-and-responsibilities)
+* [4.削除](#4takedowns)
+* [5.表明、保証、および誓約](#5representations-warranties-and-covenants)
+* [6. 有料アプリケーションまたは製品](#6paid-applications-or-products)
+* [7.所有権](#7ownership)
+* [8.責任制限](#8limitation-of-liability)
+* [9.補償](#9indemnification)
+* [10.契約終了](#10termination)
+* [11.変更](#11modification)
+* [12.譲渡、完全なる合意、改訂](#12assignment-entire-agreement-revisions)
+* [13.可分性](#13severability)
+* [14.各当事者の関係](#14-relationship-of-the-parties)
+* [15.注意](#15-notice)
+* [16.準拠法](#16-governing-law)
+* [17.輸出規制](#17-export-restrictions)
+* [18.使用状況データ](#18-usage-data)
+* [19. プレリリースアクセス](#19-pre-release-access)
 
-**These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**
+**以下の契約条件 (以下「本契約」といいます) は、お客様の GitHub の Marketplace プログラムへの参加について規定するものです。Marketplace プログラムへの参加登録を行うか、または以下の [同意する] をクリックすることにより、お客様は本契約を理解し、そのすべての契約条件を受け入れることを確認したことになります。お客様が、会社またはその他の法人を代表して本契約を締結する場合、お客様は、その法人を本契約に拘束する法的権限を持つことを表明するものとします。その場合の「お客様」とは、あなたが代表する法人のことを意味するものとします。**
 
-Effective Date: May 17, 2024
+発効日: 2024 年 5 月 17 日
 
-[1. DEFINITIONS](#1definitions)
+[1.定義](#1definitions)
 ----------
 
-Capitalized terms utilized in this Agreement and not defined shall otherwise have the meaning provided in the GitHub Terms of Service located at [https://docs.github.com/articles/github-terms-of-service](/ja/site-policy/github-terms/github-terms-of-service). Those Terms of Service are referred to as the “Terms” or “ToS”.
+本契約で使用されている用語のうち、定義のないものについては、それ以外の場合、[https://docs.github.com/articles/github-terms-of-service](/ja/site-policy/github-terms/github-terms-of-service) にある「GitHub サービス条件」(以下「サービス条件」といいます) に規定されている意味を持つものとします。 これらのサービス利用規約は、"利用規約" または "ToS" と称します。
 
-"Action" means a workflow that allows you to implement custom logic to perform a particular task with GitHub without having to create an application.
+「Action」とは、アプリケーションを作成することなく、GitHub で特定のタスクを実行するためのカスタムロジックを実装できる仕組みを意味します。
 
-“Brand Features” means the trademarks and similar intellectual property of each party.
+「ブランド機能」とは、各当事者の商標および同様の知的財産のことです。
 
-"Developer" or "You" means the company or individual who has created the Developer Application.
+「開発者」または「お客様」とは、開発者アプリケーションを作成した会社または個人のことです。
 
-"Developer Application" or "Developer Product" means the software, related content and other digital materials created by You for use in connection with GitHub and accessible via Marketplace. This includes Actions, GitHub Copilot Extensions, and other applications or products that use or interact with generative artificial intelligence (AI) technology.
+「開発者アプリケーション」または「開発者製品」とは、GitHub と関連して使用するために、Marketplace 経由でアクセスできる、お客様が作成したソフトウェア、関連するコンテンツ、およびその他のデジタル マテリアルのことです。 これには、Actions、GitHub Copilot Extensions、および生成人工知能 (AI) テクノロジを使用または操作する他のアプリケーションまたは製品などがあります。
 
-“End User” means any person, company or other legal entity that will acquire licenses to a Developer Product via the GitHub Marketplace.
+「エンド ユーザー」とは、GitHub Marketplaceを通じて開発者製品のライセンスを取得するあらゆる個人、会社、またはその他の法人を意味します。
 
-“GitHub API” means any proprietary application programming interface developed by GitHub, and includes the GitHub Copilot API. Access to and use of a GitHub API is governed by the ToS.
+"GitHub API" とは、GitHub によって開発された独自のアプリケーション プログラミング インターフェイスのことで、GitHub Copilot API が含まれています。 GitHub API へのアクセスおよび使用にはサービス条件が適用されます。
 
-“GitHub Marketplace” or “Marketplace” means the proprietary online marketplace site operated by GitHub where Developer Products may be delivered to End Users.
+「GitHub Marketplace」または「Marketplace」とは、開発者製品をエンド ユーザーに配信することができる、GitHub によって運営される独自のオンライン市場サイトを意味します。
 
-“Listing” means the content provided for listing the Developer Product on GitHub Marketplace.
+「リスティング」とは、GitHub Marketplace に開発者製品を掲載するために提供されるコンテンツを意味します。
 
-“Taxes” means any tax, of any kind or sort regardless of origin, including interest or penalties thereon.
+「税金」とは、発生元に関係なく、その上の利息や罰金を含む、あらゆる種類の税金を意味します。
 
-“Token” means the credentials Developer must obtain to access a GitHub API.
+"トークン" とは、開発者が GitHub API にアクセスするために取得する必要がある資格情報のことです。
 
-“Usage Data” means Marketplace related data generated in connection with End User use of GitHub Marketplace and licensure of Developer Products, including but not limited to usage statistics and aggregated sales data. Usage Data does not include and specifically excludes banking and payment information.
+「使用状況データ」とは、エンド ユーザーによる GitHub Marketplaceの使用および開発者製品の認可に関連して生成された Marketplace 関連データを意味し、使用状況統計や集計された販売データを含みますが、これらに限定されません。 なお、使用状況データには、銀行および支払情報は含まれないことを明示しておきます。
 
-[2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
+[2.目的およびライセンスの付与](#2purpose-and-license-grant)
 ----------
 
-**2.1**	This Agreement sets forth the terms that govern a Developer publishing Listings on GitHub Marketplace for End Users to use Developer Products. This Agreement is applicable to all Developer Products, regardless if distributed for free or for a fee. Developer agrees to use the GitHub Marketplace solely for the purposes permitted by this Agreement. Developer is solely responsible for its Developer Products.
+**2.1** 本契約は、 開発者向け製品を使用するエンド ユーザー向けの GitHub Marketplace での開発者向け公開リストを規定する条項を規定します。 本契約は、無料または有料で配布されるかどうかにかかわらず、すべての開発者製品に適用されます。 開発者は、本契約において許可されている目的においてのみ GitHub Marketplace を使用することに同意するものとします。 開発者には、その開発者製品に対して単独での責任があります。
 
-**2.2**	Developer grants to GitHub a non-exclusive, worldwide, transferable, sublicensable, fully paid-up, royalty-free license to process the Listing in any fashion (including testing and displaying it on Marketplace), and to display Developer’s Brand Features in connection with Marketplace.
+**2.2** 開発者は、GitHubに対して、非独占的で、世界中で有効な、譲渡可能で、サブライセンス可能な、完全に支払い済みで、ロイヤルティフリーのライセンスを付与します。これには、マーケットプレイスでのテストや表示などリストの処理や、マーケットプレイスと関連して開発者のブランド機能を表示することが含まれます。
 
-**2.3**	In addition to the licenses granted above, GitHub may include Developer Brand Features in any material marketing Marketplace. If Developer stops distributing a Developer Product on Marketplace, GitHub will stop use of the discontinued products’ Brand Features.
+**2.3** 上記で付与されたライセンスに加えて、GitHubはマーケットプレイスのマーケティング資料に開発者のブランド機能を含めることができます。 開発者が Marketplace で開発者製品の配布を停止した場合には、GitHub は廃止された製品のブランド機能の使用を停止します。
 
-**2.4**	Developer must include a separate end user license agreement (“EULA”) in its Developer Products that will govern the End User’s rights to the Developer Products. Developer acknowledges and agrees that the applicable EULA for each Developer Product is solely between Developer and the End User. GitHub shall not be responsible, nor have any liability whatsoever, under any EULA.
+**2.4**開発者は、開発者製品に対するエンド ユーザーの権利を規定する、エンド ユーザー使用許諾契約書 (以下「EULA」といいます) を開発者製品に別途含める必要があります。 開発者は、各開発者製品に適用される EULA が、開発者とエンド ユーザーとの間のみに適用されることを認め、これに同意するものとします。 いかなる EULA の下でも、GitHub は一切責任を負わないものとします。
 
-**2.5**	Except for the license rights granted in this Agreement, (a) Developer retains all rights in the Developer Products; (b) each party retains all rights it has independent of this Agreement, including rights under the US Copyright Act or similar laws of other jurisdictions; and (c) each party owns all rights, title and interest in its respective Brand Features. Each party is responsible for protecting and enforcing its own rights and neither party has an obligation to do so on the other’s behalf.
+**2.5** 本契約で付与されるライセンス権を除き、(a) 開発者は開発者製品のすべての権利を保有し、(b) 各当事者は米国著作権法またはその他の法域における同様の法律に基づく権利を含む、本契約とは独立したすべての権利を保有し、(c) 各当事者はそれぞれのブランドの特徴に存在するすべての権利、権原、および権益を保有するものとします。 当事者が自らの権利を保護し、行使する責任を負います。いずれの当事者も他方当事者に代わってそれを行う義務を負いません。
 
-**2.6**	GitHub shall be entitled to provide Developer’s name, address and other contact details to any third party as required by law or that reasonably, in GitHub’s sole determination, claims that Developer does not possess all of the necessary intellectual property rights in or to the Developer Products.
+**2.6** GitHubは、法律により必要とされる場合や、GitHubが単独で合理的に判断して、開発者が開発者の製品に対するすべての必要な知的財産権を保有していないと主張する第三者に対して、開発者の名前、住所、その他の連絡先を提供する権利を有します。
 
-[3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
+[3.制限事項と責任](#3restrictions-and-responsibilities)
 ----------
 
-Notwithstanding any of the requirements set forth in Section 2 (Purpose and License Grant) above, Developer's use of Marketplace is explicitly conditioned on Developer’s adherence to this Agreement, including the restrictions and compliance requirements set forth below.
+上記第 2 条「目的およびライセンスの付与」に記載された要件にかかわらず、開発者のマーケットプレイスの利用は、明示的にこの契約への開発者の遵守に基づいています。これには、以下に記載された制限とコンプライアンス要件が含まれます。
 
-**3.1**	Developer agrees it will protect the privacy and legal rights of all End Users with respect to the use of Developer Products. If an End User provides Developer with, or the Developer Product otherwise collects, discloses, accesses or uses, End User Personal Data, then the Developer must (a) inform End Users that such information will be available to the Developer Products; (b) provide a legally adequate privacy notice and protection to End Users; (c) obtain valid End User consent as required, and (d) comply with all other data privacy obligations applicable to Developer.
+**3.1** 開発者は、開発者の製品の使用に関して、すべてのエンド ユーザーのプライバシーおよび法的権利を保護することに同意するものとします。 エンドユーザーが開発者に個人データを提供した場合、または開発者の製品がそれを収集、開示、アクセス、または使用した場合、開発者は次のことを行う必要があります。(a) その情報が開発者の製品で利用可能になることをエンドユーザーに通知すること; (b) エンドユーザーに対して法的に適切なプライバシー通知と保護を提供すること; (c) 必要に応じて有効なエンドユーザーの同意を得ること; および (d) 開発者に適用されるすべての他のデータプライバシー義務を遵守すること。
 
-**3.2**	In order to use and access a GitHub API, Developer must obtain a Token by becoming a subscriber. Developer may not share its Token with any third party, shall keep its Token and all login information secure, and shall use the Token as Developer’s sole means of accessing a GitHub API.
+**3.2** 開発者が GitHub APIを使用しアクセスするためには、サブスクライバーになることでトークンを取得する必要があります。 開発者は、そのトークンを第三者と共有してはならず、トークンとすべてのログイン情報を安全に保管しなければなりません。また、開発者は、GitHub APIにアクセスする唯一の手段としてトークンを使用しなければなりません。
 
-**3.3**	Developer will not engage in any activity with Marketplace, including attempting to distribute any Developer Product, that violates GitHub's Terms of Service including [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). Additionally, Developer will not attempt to distribute any Developer Product that:
+**3.3** 開発者は、[許容可能な使用ポリシー](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)を含む GitHub のサービス利用規約に違反する開発者製品の配布など、Marketplace とのいかなる活動にも関与しません。 さらに、開発者は以下のあらゆる開発者製品の配布を試みることはありません。
 
-* 1. Contains or installs any active malware or exploits, or uses our platform for exploit delivery (such as part of a command and control system);
-* 2. Enables the unauthorized download of streaming content or media; or
-* 3. Diverts End Users or provides links to any other site that mimics Marketplace or passes itself off as Marketplace
+* 1. アクティブなマルウェアまたはエクスプロイトを含めたりインストールしたりすること、あるいは当社のプラットフォームを (コマンドや管理システムの一部としてなど) エクスプロイトを配信する目的で使用すること
+* 2. ストリーミング コンテンツやメディアの無許可ダウンロードを可能にすること、または
+* 3. Marketplace を模倣したり、Marketplace になりすましたりする他のサイトにエンド ユーザーを迂回させるか、リンクを提供すること。
 
-**3.4** With respect to Developer Products that interact with generative AI technology, including GitHub Copilot Extensions, Developer will:
+**3.4** GitHub Copilot Extensions を含む生成 AI テクノロジと対話する開発者向け製品に関しては、開発者は以下を行います。
 
-* 1. Test the Developer Product using various inputs to ensure that outputs do not violate this Agreement;
-* 2. Notify users when they are interacting with generative AI content;
-* 3. Have a mechanism for End Users to report feedback to GitHub and Developer related to errors, bugs, improper, or undesired outputs; and
-* 4. Inform End Users the appropriate use cases, best practices, and limitations of the Developer Product.
+* 1. 出力が本契約に違反しないことを確認するために、 様々な入力を使って開発者製品をテストしてください。
+* 2. 生成 AI コンテンツを操作している場合にはユーザーに通知します。
+* 3. エンド ユーザーが、エラー、バグ、不適切、または望ましくない出力に関連するフィードバックを GitHub および開発者に報告するためのメカニズムを用意すること、および
+* 4. 開発者製品の適切なユース ケース、ベスト プラクティス、制限事項をエンド ユーザーに伝えます。
 
-**3.5**	Developer shall not by any means repackage or resell Marketplace, a GitHub API, Personal Data, or Usage Data. Developer is not permitted to use a GitHub API or any Personal Data or Usage Data in any manner that does or could undermine the security of the Service, a GitHub API, Usage Data or any other data or information stored or transmitted using Marketplace. In addition, Developer shall not (a) interfere with, modify or disable any features, functionality or security controls of Marketplace or a GitHub API; (b) circumvent in any fashion any protection mechanisms for Marketplace or a GitHub API; or (c) reverse engineer, decompile, disassemble or derive the source code, underlying ideas, algorithms, structure or organizational form from Marketplace or a GitHub API.
+**3.5** 開発者は、いかなる手段でも、Marketplace、GitHub API、個人データ、または使用状況データを再パッケージ化または再販することはできません。 本サービス、GitHub API、利用データ、またはMarketplaceを使用して保存もしくは送信されるその他のデータもしくは情報のセキュリティを損なう、またはそのおそれのある方法で、開発者が GitHub API または使用状況データを使用することは認められません。 また、開発者は、(a)MarketplaceまたはGitHub APIの機能、特徴、セキュリティ制御を妨害、変更、無効化すること、(b)MarketplaceまたはGitHub APIの保護メカニズムをいかなる方法でも回避すること、(c)リバースエンジニアリング、逆コンパイル、逆アセンブル、またはMarketplaceまたはGitHub APIからソースコード、基本的なアイデア、アルゴリズム、構造、組織形態を導き出すことはできません。
 
-**3.6**	Developer acknowledges that Developer is solely responsible, and that GitHub has no responsibility or liability of any kind, for any aspect of Developer Products. Developer will be solely responsible for:
+**3.6** 開発者製品のいかなる側面についても開発者が全責任を負い、GitHub は一切責任を負わないことを認めるものとします。 開発者は、以下に対して単独での責任を負います。
 
-* (i) providing End Users instructions on installing and using its Developer Products;
-* (ii) creating and displaying information and content on, through or within its Developer Products;
-* (iii) ensuring that its Developer Products do not violate or infringe the intellectual property rights of any third party;
-* (iv) ensuring that Developer Products are not offensive, profane, obscene, libelous or otherwise illegal;
-* (v) ensuring that its Developer Products do not contain or introduce malicious software into Marketplace, a GitHub API, any Usage Data or other data stored or transmitted using Marketplace; and
-* (vi) ensuring that its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub.com users, agents or End Users without their consent.
+* (i) デベロッパー製品のインストールと使用に関するエンド ユーザーの指示を提供すること。
+* (ii) 開発者製品上、開発者製品経由、または開発者製品内の情報およびコンテンツの作成と表示
+* (iii) 開発者製品がいかなる第三者の知的財産権にも違反または侵害しないこと
+* (iv) 開発者製品が攻撃的、低俗、わいせつ、中傷的、その他違法でないこと
+* (v) 開発者製品に悪意あるソフトウェアが含まれないこと、または開発社製品によって、Marketplace、GitHub API、使用状況データ、または Marketplace を使用して保存または送信されるその他のデータに悪意のあるソフトウェアが組み込まれていないこと
+* (vi) 開発者製品が、GitHub.com のユーザー、エージェント、またはエンド ユーザーに対して同意を得ることなく商用電子メッセージを送信する目的で設計または使用されないこと
 
-**3.7**	Developer will respect and comply with the technical and policy-implemented limitations of a GitHub API and the restrictions of this Agreement in designing and implementing Developer Products. Developer shall not violate any explicit rate limitations on calling or otherwise utilizing a GitHub API.
+**3.7** 開発者は、開発者製品を設計および実装するにあたって、GitHub API の技術的制限とポリシーに基づく制限、ならびに本契約の制限事項を尊重し、遵守するものとします。 開発者は、GitHub API の呼び出しまたはその他の使用に関する明示的なレート制限に違反しないものとします。
 
-**3.8**	Nothing in this Agreement shall prevent either party from developing and/or publishing applications that are similar or otherwise compete with the other party's applications.
+**3.8** 本契約のいかなる内容も、いずれかの当事者が他方当事者のアプリケーションに類似またはそれ以外に競合するアプリケーションを開発または公開することを妨げないものとします。
 
-[4. TAKEDOWNS](#4takedowns)
+[4.削除](#4takedowns)
 ----------
 
-**4.1**	Your Takedowns. Upon providing GitHub with thirty (30) days written notice, you may remove your Listing from future distribution via Marketplace. You must continue to comply with this Agreement for any Listing already distributed through Marketplace including but not limited to refund requirements. Removing your Listing from future distribution via Marketplace does not (a) affect the license rights of End Users who have previously purchased or installed your Listing or (b) change your obligation to deliver or support Listing that has been previously purchased or installed by users. If you remove your Listing, GitHub will not disclose your reason for the removal.
+**4.1** お客様による削除。 GitHub に 30 日間の書面による通知を提供することで、Marketplace 経由で今後の配布から登録情報を削除できます。 払い戻しの要件など、Marketplace を通じて既に配布されている登録情報については、引き続き本契約に従う必要があります。 Marketplace 経由の将来の配信からリスティングを削除しても、(a) リスティングを以前に購入またはインストールしたエンド ユーザーのライセンス権には影響を与えないか、または (b) ユーザーによって以前購入またはインストールされたリスティングを配信またはサポートするお客様の義務には影響を与えません。 登録情報を削除した場合には、GitHub は削除の理由を明らかにしません。
 
-**4.2**	GitHub Review and Takedowns. GitHub may review or test your Listing for compliance with this Agreement, GitHub ToS, and any other applicable terms, obligations, laws, or regulations. GitHub retains sole and absolute discretion over what Listings are included on Marketplace. You may be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace. You agree that any information you give to Marketplace will be accurate, correct and up to date. As part of the specification for your Listing, GitHub may ask that you include in the file for your Listing information such as your name and email address. GitHub may use this information when featuring the Listing in our directory or for other uses.
+**4.2** GitHub による審査および削除。 GitHub は、本契約、GitHub ToS、およびその他の適用される条項、義務、法律、または規制に準拠するために、リストをレビューまたはテストの実施ができます。 GitHubは、Marketplaceにどのような出品物を掲載するかについて、単独かつ絶対的な裁量権を有します。 お客様は、Marketplace への登録プロセスの一環として、または Marketplace の継続的な使用の一環として、ご自身についての情報 (身分証明や連絡先など) を提供するよう求められる場合があります。 お客様は、Marketplace に提供するあらゆる情報を正確かつ最新のものとすることに同意するものとします。 リスティングの仕様の一環として、GitHub はお客様の氏名や電子メール アドレスなどのリスティング情報をファイルに含めるよう求めることができます。 GitHub は、当社のディレクトリにおいてリスティングを取り上げるなどの目的のため、この情報を使用することができます。
 
-If GitHub is notified by you or otherwise becomes aware and determines, in its sole discretion, that a Listing or any portion thereof or your Brand Features:
+リスティング、それに含まれる内容、またはお客様のブランドの特徴が、以下のいずれかに該当すると GitHub がお客様から通知されるか、それ以外に独自の裁量により認識および判断した場合、
 
-* (a) violates the terms of this Agreement or the ToS;
-* (b) the display of the Listing is impacting the integrity of GitHub servers (i.e., users are unable to access such content or otherwise experience difficulty);
-* (c) is deemed by GitHub to add undue risk to Marketplace End Users’ data or impair the user experience of Marketplace or GitHub; or
-* (d) is subject to End User complaints in regards to your breach of your EULA,
+* (a) 本規約または利用規約の条項に違反した場合、
+* (b) リスティングの表示が GitHub サーバーの整合性に影響をもたらす (すなわち、ユーザーがかかるコンテンツにアクセスできない、またはその他の困難をもたらす)
+* (c) Marketplace のエンド ユーザーが所有するデータに過度のリスクをもたらす、または Marketplace や GitHub のユーザー エクスペリエンスを損なうと GitHub によって見なされる、または
+* (d) お客様の EULA 違反についてエンドユーザーからの苦情がある場合、
 
-GitHub may: suspend the transfer of Personal Data to your Developer Product; prohibit the collection and processing of Personal Data via your Developer Product; remove the Listing from Marketplace; flag, filter, or modify related materials (including but not limited to descriptions, screenshots, or metadata); or reclassify the Listing at its sole discretion. If GitHub takes any of these actions on your Listing, you may appeal GitHub's action through the [GitHub Appeal and Reinstatement Process](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+GitHubは、自己の裁量により、開発者向け製品への個人データの転送を一時停止すること、開発者向け製品を通じた個人データの収集および処理を禁止すること、マーケットプレイスからリスティングを削除すること、関連資料（説明、スクリーンショット、メタデータを含みますが、これらに限定されません）にフラグを付けること、フィルタリングすること、またはリスティングを再分類することができます。 GitHub が登録情報に対してこれらのアクションのいずれかを実行する場合は、[GitHub の訴えと復帰プロセス](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を通じて GitHub のアクションを申し立てることができます
 
-**4.3**	Developer Product Updates. From time to time, GitHub may check for available updates to any Listing, including but not limited to bug fixes or enhanced functionality. If you update your Listing to Marketplace, you agree that such update will be automatically requested, downloaded, and installed without further notice to you. GitHub makes no guarantees regarding the timing of such updates. Updates to a Listing are subject to the same terms and conditions as the Listing.
+**4.3** 開発者向け製品更新。 GitHub は、リスティングに適用可能なバグ修正や機能強化を含むがこれらに限定されない更新を、随時確認することができます。 お客様が Marketplace へのリスティングを更新した場合、お客様はかかる更新が、お客様にさらなる通知を行うことなく、自動的に要求、ダウンロード、およびインストールされることに同意するものとします。 GitHub は、かかる更新のタイミングに関して一切保証しません。 リスティングの更新には、リスティングと同じ条件が適用されます。
 
-**4.4**	End-User Takedowns. If an End-User uses your Developer Product in a way that violates the Terms, then we have the right to suspend or terminate that End-User's access to the Developer Product without any liability to you.
+**4.4** エンド ユーザーの削除。 お客様の開発者製品を、エンド ユーザーがサービス条件に違反する方法で使用した場合、当社はお客様に責任を負うことがなく、かかるエンド ユーザーが開発者製品にアクセスする権利を停止または終了する権利を有します。
 
-[5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
+[5.表明、保証、および誓約](#5representations-warranties-and-covenants)
 ----------
 
-**5.1**	Developer must inform End Users of the Personal Data that will be transmitted to the Developer Application from the Service and that Developer terms will control the privacy, security or integrity of such Personal Data. To the extent Developer’s Applications store, process or transmit Personal Data, neither Developer nor Developer’s Application will, without appropriate prior user consent or except to the extent required by applicable law,
+**5.1** 開発者はエンドユーザに、 サービスから開発者アプリケーションに送信される個人データ、 および開発者規約がそのような個人データのプライバシー、 セキュリティ、完全性を管理することを通知しなければなりません。 開発者のアプリケーションが個人データを保存、処理、送信する範囲において、 開発者及び開発者のアプリケーションは、適切な事前のユーザ同意がない限り、 あるいは適用法によって要求される範囲を除いて、 個人データを保存、処理、送信しません、
 
-* (i) modify the content of Personal Data in a manner that adversely affects the integrity of the Personal Data;
-* (ii) disclose the Personal Data to any third party; or
-* (iii) use the Personal Data for any purpose other than providing the Developer Application functionality to users of such Developer Application.
+* (i) パーソナル データの整合性に悪影響を及ぼす方法で、パーソナル データの内容を変更すること
+* (ii) 第三者にパーソナル データを開示すること
+* (iii) かかる開発者アプリケーションのユーザーに対して開発者アプリケーションの機能を提供する以外の目的でパーソナル データを使用すること
 
-Developer shall maintain and handle all Personal Data in accordance with privacy and security measures reasonably adequate to preserve the confidentiality and security of all such Personal Data and all applicable privacy laws and regulations.
+開発者は、すべてのパーソナル データの機密性およびセキュリティを保全するために合理的に十分とされるプライバシーおよびセキュリティ対策、ならびに適用されるすべてのプライバシー保護関連法令および規制に従って、すべてのパーソナル データを管理および処理するものとします。
 
-**5.2**	Developer agrees that it will comply with the GitHub Data Protection Addendum.
+**5.2** 開発者は、GitHub データ保護追加契約を遵守することに同意するものとします。
 
-**5.3**	You Support Your Developer Product. Developer will be solely responsible for support and maintenance of your Developer Products and any complaints about your Developer Products. Your support contact information will be displayed in each application detail page and made available to users for customer support purposes. Failure to provide adequate support for your Developer Products may result in reduced product exposure, or in some cases removal from Marketplace or anywhere else on GitHub.com where previously purchased or downloaded Developer Products are stored on behalf of users.
+**5.3** お客様による開発者製品のサポート。 開発者製品のサポートおよびメンテナンス、ならびに開発者製品に対する苦情については、開発者が全責任を負うものとします。 ユーザーがカスタマー サポートを得られるよう、サポートの連絡先情報が、各アプリケーションの詳細ページに表示されるものとします。 開発者製品に対して適切なサポートを提供しない場合、製品の露出が減少し、場合によっては、Marketplace から、または以前購入またはダウンロードされた開発者製品をユーザーのために保存する場所である GitHub.com のあらゆる場所から削除されることもあります。
 
-**5.4** Developer represents and warrants that: (i) its Developer Products and Developer Brand Features do not and will not violate, misappropriate or infringe upon the intellectual property rights of any third party; (ii) Developer will comply with all applicable laws and regulations, including this Agreement and GitHub's Terms of Service, and maintain all permissions necessary to develop, implement, and distribute its Developer Products; (iii) its Developer Products do not and will not contain or introduce any malicious software; (iv) its Developer Products are not designed to or utilized for the purpose of sending commercial electronic messages to any GitHub customers, agents or End Users without their consent; (v) Developer has all right, power and authority to grant the licenses granted to GitHub and End Users herein; and (vi) any images and text that are used to market the Developer Products or that Developer has uploaded to Marketplace are truthful, accurate and not intended to mislead or confuse the End User.
+**5.4**開発者は以下のことを表明し保証します： (i) 開発者は、その開発者向け製品および開発者向けブランド機能が、第三者の知的財産権を侵害、流用、または侵害しないこと、(ii) 本規約およびGitHubの利用規約を含む適用されるすべての法律および規制を遵守し、開発者向け製品の開発、実装、および配布に必要なすべての許可を維持すること、(iii) 開発者向け製品に悪意のあるソフトウェアが含まれておらず、またそれを持ち込まないこと； (iv) そのデベロッパー製品は、GitHubの顧客、代理人、またはエンドユーザーの承諾なしに商業的な電子メッセージを送信する目的で設計されておらず、また、そのような目的で利用されていないこと、(v) デベロッパーは、本規約においてGitHubおよびエンドユーザーに付与されたライセンスを付与するすべての権利、権力、権限を有していること、(vi) デベロッパー製品を販売するために使用される、またはデベロッパーがMarketplaceにアップロードした画像およびテキストは、真実かつ正確であり、エンドユーザーを誤解させたり混乱させたりすることを意図したものではないこと。
 
-**5.5**	Disclaimer of Warranties. All aspects of Marketplace and GitHub API, including all server and network components, are provided on an “as is” and “as available” basis, without any warranties of any kind. GitHub expressly disclaims any and all warranties to the fullest extent permitted by law, whether express or implied, including, but not limited to, any implied warranties of merchantability, title, fitness for a particular purpose, and non-infringement. Developer acknowledges that GitHub does not warrant that Marketplace or a GitHub API will be uninterrupted, timely, secure, error-free, or free from viruses, malware, or worms (otherwise known as computer code or other technology specifically designed to disrupt, disable, or harm your software, hardware, computer system, or network), and no information or advice obtained by developer from GitHub or through Marketplace or a GitHub API shall create any warranty not expressly stated in these terms. GitHub is not responsible for, and specifically disclaims any liability for, any unauthorized use of Developer Products outside Marketplace.
+**5.5** 保証の免責。 MarketplaceおよびGitHub APIのすべての側面（すべてのサーバーおよびネットワークコンポーネントを含む）は、「現状有姿」および「利用可能な状態」で提供され、いかなる種類の保証もありません。 GitHubは、明示的であるか黙示的であるかに関わらず、法律が許容する最大限の範囲において、商品性、権原、特定目的への適合性、非侵害の黙示的保証など一切の保証を明示的に否認します。 開発者は、GitHubが、MarketplaceまたはGitHub APIが中断されないこと、タイムリーであること、安全であること、エラーがないこと、ウイルス、マルウェア、ワーム（コンピュータコード、またはソフトウェア、ハードウェア、コンピュータシステム、またはネットワークを混乱させ、無効化し、または害を与えるように特別に設計されたその他の技術として知られている）がないことを保証しないこと、および開発者がGitHubから、またはMarketplaceまたはGitHub APIを通じて得たいかなる情報または助言も、本規約に明示的に記載されていない保証を生じさせないことを認めます。 GitHubは、Marketplace外でのデベロッパープロダクトの不正使用について一切の責任を負わず、またその責任を明確に否認します。
 
-[6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
+[6. 有料アプリケーションまたは製品](#6paid-applications-or-products)
 ----------
 
-**6.1**	GitHub will be the merchant of record for Developer Products purchased by End Users via Marketplace.
+**6.1** GitHub は、エンド ユーザーが Marketplace 経由で購入した開発者製品について、最終販売責任を負う商業者となります。
 
-**6.2** Registration. Developer will be required to provide information about yourself (such as identification or contact details) as part of the registration process for Marketplace, or as part of your continued use of Marketplace including, but not limited to: (i) name, (ii) address, (iii) telephone number, (iv) e-mail address, and (v) payment account details. GitHub may publicize Developer’s information on Marketplace and retain Developer’s registration information as required by applicable law.**6.3** Pricing. Prices for Listings of Developer Applications will be set in US Dollars (USD). Developer has complete control over setting pricing for each Listing. The prices you set for Developer Products will determine the amount of payment you will receive. GitHub will remit 95% of the sale price in USD without reduction for Taxes except for any withholding taxes that are required under applicable law. The remaining 5% of the sales price will be allotted to and retained by GitHub. At the end of each month and upon reaching a minimum value of $500 USD, GitHub will remit your share of payments.
+**6.2** 登録。 開発者は、マーケットプレイスへの登録プロセスの一環として、またはマーケットプレイスの継続的な利用の一環として、以下の情報を提供する必要があります： (i) 氏名、(ii) 住所、(iii) 電話番号、(iv) 電子メールアドレス、(v) 支払い口座の詳細。 GitHubは、開発者の情報をMarketplace上で公開し、適用される法律により要求される開発者の登録情報を保持することができます。**6.3** 価格。 開発者アプリケーションの掲載価格は米ドル（USD）で設定されます。 開発者は、各リスティングの価格設定を完全にコントロールできます。 開発者製品に設定した価格によって、お客様が受け取る金額が決定されます。 GitHub は、適用法で義務付けられている源泉徴収税がある場合を除き、税金を控除せずに米ドルでの販売価格の 95% を送金するものとします。 販売価格の残りの 5% は GitHub に配分され、保有されるものとします。 毎月最終日、500 米ドルの最低額に到達した場合に、GitHub はお客様の受け取り金額を送金するものとします。
 
-**6.3**	Refunds. You will be responsible for specifying the terms and conditions regarding refunds to your End Users. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
+**6.3** 払い戻し。 お客様は、エンド ユーザーへの返金に関する契約条件を指定する責任を負うものとします。 いかなる場合も、GitHub は返金についてサポートを提供する義務も、返金の支払いについて責任を負う義務も負わないものとします。
 
-[7. OWNERSHIP](#7ownership)
+[7.所有権](#7ownership)
 ----------
 
-Subject to the limited licenses expressly provided in this Agreement, nothing in this Agreement transfers or assigns to a party any of the other party’s intellectual property rights in its Brand Features or other technology, and nothing in this Agreement transfers or assigns a party any of the other party’s intellectual property rights.
+本契約で明示的に提示されている限定的なライセンスに従い、本契約のいかなる内容も、他方当事者のブランドの特徴やその他の技術に含まれる知的財産権を移転または譲渡するものではなく、また本契約のいかなる内容も、当事者に他方当事者の知的財産権を移転または譲渡するものではありません。
 
-[8. LIMITATION OF LIABILITY](#8limitation-of-liability)
+[8.責任制限](#8limitation-of-liability)
 ----------
 
-Under no circumstances and under no legal theory (whether in contract, tort, negligence or otherwise) will GitHub, or its affiliates, officers, directors, employees, agents, or suppliers be liable to developer or any third party under this agreement for any indirect, incidental, special, exemplary, consequential, punitive or other similar damages, including lost profits, lost sales or business, lost data, business interruption or any other loss incurred by Developer or any third party in connection with this Agreement, regardless of whether Developer has been advised of the possibility of or could have foreseen such damages notwithstanding anything to the contrary in this Agreement, GitHub’s aggregate liability to Developer or any third party arising out of this Agreement shall not exceed $500 (five hundred) USD.
+いかなる状況およびいかなる法理論においても（契約、不法行為、過失、その他を問わず）、ギットハブ、またはその関連会社、役員、取締役、従業員、代理人、サプライヤーは、本規約に基づき、間接的、付随的、特別、懲罰的、結果的、懲罰的、その他類似の損害（逸失利益、売上または事業の損失、データの損失を含む）について、デベロッパーまたは第三者に対して責任を負いません、 開発者または第三者が本契約に関連して被った間接的、偶発的、特別、懲罰的、結果的、懲罰的、その他類似の損害については、開発者がそのような損害の可能性を知らされていたか、または予見できたかに関わらず、本契約に反するいかなる規定にもかかわらず、本契約に起因する開発者または第三者に対するGitHubの賠償総額は500米ドルを超えないものとします。
 
-[9. INDEMNIFICATION](#9indemnification)
+[9.補償](#9indemnification)
 ----------
 
-To the maximum extent permitted by applicable law, Developer agrees to defend, indemnify and hold harmless GitHub, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any losses, liabilities, damages, costs and expenses (including reasonable attorneys’ fees) arising from or relating to (a) Developer’s use of Marketplace in violation of this Agreement, the Terms or any applicable laws or regulations; (b) Developer’s Products that infringe any copyright, trademark, trade secret, patent or other intellectual property right of any third party; (c) any loss or disclosure of data or Personal Data by Developer Products; and (d) Developer’s EULA (or ToS).
+適用法により認められる最大限の範囲において、開発者は、(a) 開発者による本契約、サービス条件、または適用法に違反した Marketplace の使用、(b) 開発者製品による、第三者の著作権、商標、営業秘密、特許またはその他の知的財産権の侵害、(c) 開発者製品による、データまたは個人データの喪失または開示、および (d) 開発者の EULA (またはサービス条件) により生じた、またはそれらに関連するあらゆる申し立て、告訴、訴訟、訴訟手続き、ならびにあらゆる損失、責任、損害、経費、および費用 (合理的な弁護料を含む) について、GitHub、その関連会社、それらの取締役、役員、従業員、および代理店を防御し、それらに補償し、それらに損害が生じないようにすることに同意するものとします。
 
-[10. TERMINATION](#10termination)
+[10.契約終了](#10termination)
 ----------
 
-**10.1**	This Agreement will continue to apply until terminated by either party as set forth below.
+**10.1** 本契約は、以下に定めるとおり、いずれかの当事者によって終了となるまで適用されます。
 
-**10.2**	Either party may terminate this Agreement for any reason upon thirty (30) days written notice. During the 30 day period the terms in effect at the time of the notice of termination shall govern.
+**10.2** いずれの当事者も、30 日前の書面による通知により、理由の如何を問わず本契約を解除することができます。 30日の期間中は、解約通知時点で有効な条件が適用されるものとします。
 
-**10.3**	GitHub may terminate this Agreement at any time if (a) you have breached any provision of this Agreement or (b) GitHub is required to do so by law.
+**10.3** (a) お客様が本契約の条項に違反した場合、または (b) GitHub が法律で要求された場合、GitHub は本契約をいつでも終了できます。
 
-**10.4**	Effects of Termination by Developer. Upon receiving thirty (30) days’ advanced written notice of termination from Developer, Developer will be disabled from taking on new customers via Marketplace. Any outstanding fees shall be remitted upon termination and removal of the Developer Product from Marketplace. If termination is initiated as a result of a GitHub modification to these terms (Section 11), the terms in effect immediately prior to such modification shall govern the duration of the 30-day notice period.
+**10.4** 開発者による終了の効果。 開発者から 30 日前の書面による終了通知を受けた時点で、開発者は Marketplace から新規顧客を獲得できなくなるものとします。 未払いの料金については、契約が終了し、Marketplace から開発者製品が削除された際に送金されるものとします。 契約終了が、GitHub が本条 (第 11 条) を変更した結果により生じた場合は、30 日間の通知期間においては、かかる変更の直前に有効であった条件が適用されるものとします。
 
-**10.5**	The obligations in Sections 2, 3, 4, 5, 8, 9, 12-18, and Data Protection Addendum will survive any expiration or termination of this Agreement.
+**10.5** 第 2 条、第 3 条、第 4 条、第 5 条、第 8 条、第 9 条、第 12 条から第 18 条、およびデータ保護に関する補遺の義務は、本契約の満了または終了後も存続します。
 
-[11. MODIFICATION](#11modification)
+[11.変更](#11modification)
 ----------
 
-Developer acknowledges and agrees that GitHub may modify this Agreement, Marketplace Terms of Service, a GitHub API, the General API Policies, GitHub Privacy Statement, the GitHub Developer Program Terms of Service, and the GitHub.com ToS from time to time (a “Modification”). All Modifications shall be communicated through Marketplace, the GitHub website at [www.GitHub.com](http://www.GitHub.com) or through a form of direct communication from GitHub to Developer. Developer further acknowledges and agrees that such Modifications may be implemented at any time and without any notice to Developer. Developer shall, within thirty (30) days from the date of first notice of any Modification(s) (or such shorter period of time specified in the notice of the Modification(s)) (the “Conformance Period”) comply with such modification(s) by implementing and using the most current version of a GitHub API in the most current version of the Developer Products and making any changes to Developer Products that may be required as a result of such Modification(s). Developer acknowledges that a Modification may have an adverse effect on Developer Products, including but not limited to changing the manner in which applications communicate with a GitHub API. GitHub shall have no liability of any kind to Developer or any End User with respect to such Modifications or any adverse effects resulting from such Modifications. Developer’s continued access to or use of Marketplace or a GitHub API following the Conformance Period shall constitute binding acceptance of the Modification(s).
+開発者は、GitHubが本規約、Marketplace利用規約、GitHub API、一般APIポリシー、GitHubプライバシーステートメント、GitHubデベロッパープログラム利用規約、およびGitHub.com ToSを随時変更（以下「変更」）する可能性があることを認め、これに同意します。 すべての変更は、Marketplace、GitHub の Web サイト ([www.GitHub.com](http://www.GitHub.com)) を通じて伝達されるか、GitHub から開発者に直接伝達されるものとします。 さらに開発者は、かかる変更を随時、開発者への通知なしに行うことができることを認め、これに同意するものとします。 開発者は、変更の通知が最初に行われた日から 30 日以内 (または変更の通知に規定された、それより短い期間内)(以下「移行期間」といいます) に、最新バージョンの開発者製品に最新バージョンの GitHub API を実装して使用し、かかる変更の結果として必要になるあらゆる変更を開発者製品に行うことにより、かかる変更に準拠するものとします。 開発者は、変更が開発者製品に対して、アプリケーションが GitHub API と通信する方法の変更を含むがこれらに限定されない、悪影響をもたらす可能性があることを認めるものとします。 GitHub は、かかる変更に関して、またかかる変更によって生じるあらゆる悪影響に関して、開発者またはエンド ユーザーに対しいかなる責任も負わないものとします。 開発者が移行期間後に Marketplace または GitHub API へのアクセスまたはそれらの使用を継続することにより、変更内容を拘束力をもって受け入れたこととなります。
 
-[12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
+[12.譲渡、完全なる合意、改訂](#12assignment-entire-agreement-revisions)
 ----------
 
-**12.1**	Developer may not, directly or indirectly, by operation of law or otherwise, assign all or any part of this Agreement or Developer’s rights under this Agreement or delegate performance of Developer’s duties under this Agreement without GitHub’s prior written consent. The rights granted in this Agreement may be assigned or transferred by GitHub without Developer’s prior approval. In addition, GitHub may delegate its responsibilities or obligations under this Agreement without Developer’s consent.
+**12.1** 開発者は、GitHub の書面による事前の合意なしに、直接的または間接的に、法律の運用その他の方法により、本契約または本契約に基づく開発者の権利の全部または一部を譲渡すること、または本契約に基づく開発者の義務の履行を委任することはできません。 GitHub は、本契約により付与された権利を、開発者の事前の承認なしに譲渡または移転することができます。 また、GitHub は本契約に基づく責任や義務を、開発者の同意なしに委任することができます。
 
-**12.2**	This Agreement, together with the ToS, constitute the entire agreement between the parties with respect to the subject matter of this Agreement. GitHub’s failure to enforce at any time any provision of this Agreement does not constitute a waiver of that provision or of any other provision of this Agreement.
+**12.2** 本契約は、利用規約と共に、本契約に定める事項に関する当事者間の完全なる合意を構成するものです。 GitHub が本契約のいずれかの規定をいかなる時に履行しなかったとしても、本契約のかかる規定や、その他の条項が放棄されたとは見なされません。
 
-[13. SEVERABILITY](#13severability)
+[13.可分性](#13severability)
 ----------
 
-If any part of this Agreement is held to be unenforceable, the rest of the Agreement will remain in full force and effect.
+本契約のいずれかの部分が執行不能と判断された場合でも、本契約の残りの部分は完全な効力を有します。
 
-[14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
+[14.各当事者の関係](#14-relationship-of-the-parties)
 ----------
 
-The parties are independent contractors. This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties. Developer agrees that each member of the group of companies to which GitHub belongs shall be a third party beneficiary to this Agreement and that such other companies shall be entitled to directly enforce, and rely upon, any provision of this Agreement that confers a benefit or grants a right in favor or GitHub. No other person, company or legal entity shall be a third party beneficiary to the Agreement.
+各当事者は独立の契約当事者です。 本契約により、当事者間にパートナーシップ、フランチャイズ、合弁事業、代理店、受託または雇用の関係が形成されることはありません。 開発者は、GitHub が所属するグループ企業の各構成員が本契約の第三者受益者であり、かかる企業は、本契約の条項が GitHub に対して与える有利な利益や権利を直接履行する、および条項に依拠する権利を付与されることに同意するものとします。 その他のいかなる個人、企業、または法人も、本契約の第三者受益者とはならないものとします。
 
-[15. NOTICE](#15-notice)
+[15.注意](#15-notice)
 ----------
 
-Notices to GitHub may be submitted via email to [legal@support.github.com](mailto:legal@support.github.com). If Customer wishes to formally service notice on GitHub, it must be made through GitHub’s registered agent: GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Notices must be in writing and will be treated as delivered on the date received at the address, date shown on the return receipt, email transmission date, or date on the courier confirmation of delivery. All notices to be provided by GitHub to Developer under this Agreement may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or U.S. mail to the contact mailing address provided by Developer to GitHub; or (ii) electronic mail to the electronic mail address provided by Developer.
+GitHub への通知は、電子メールで[legal@support.github.com](mailto:legal@support.github.com)に送信できます。 お客様が GitHub で正式に通知の送信を希望する場合は、GitHub の登録エージェント、 GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive、 Suite 150N サクラメント、CA 95833-3505 を通じて行う必要があります。 通知は書面で行う必要があり、住所で受領された日、返送受領書に記載された日、電子メール送信日、または宅配便の配達確認書に記載された日に配達されたものとして取り扱われます。 本契約に基づく、GitHub から開発者に対して行うすべての通知は、(i) 開発者から GitHub に提供された連絡先住所に、全国的に認められた宅配便業者 (以下「宅配便業者」といいます) または米国郵便で、または (ii) 開発者から提供された電子メール アドレスに電子メールで、書面により配信できるものとします。
 
-[16. GOVERNING LAW](#16-governing-law)
+[16.準拠法](#16-governing-law)
 ----------
 
-This Agreement will be governed by and construed in accordance with the laws of the State of California and federal laws of the United States. Any legal action or proceeding will be brought exclusively in the federal or state courts located in the Northern District of California. The parties consent to personal jurisdiction and venue there.
+本契約は、カリフォルニア州の法律および米国連邦法に基づいて適用および解釈されます。 いかなる法的措置または訴訟手続きも、カリフォルニア州北部地区所在の連邦裁判所または州裁判所においてのみ提起されます。 当事者は、同地における人的管轄権および裁判籍に同意します。
 
-[17. EXPORT RESTRICTIONS](#17-export-restrictions)
+[17.輸出規制](#17-export-restrictions)
 ----------
 
-Developer Products distributed via Marketplace may be subject to export controls or restrictions by the United States or other countries or territories. Developer agrees to comply with all applicable US and international export laws and regulations. These laws may include restrictions on destinations, content and/or End Users.
+Marketplace を通じて配布される開発者製品は、米国またはその他の国や地域による輸出規制または制限の対象となる場合があります。 開発者は、適用される米国および国際的な輸出法令および規制をすべて遵守することに同意するものとします。 これらの法律には、仕向地、コンテンツ、エンド ユーザーに対する制限が含まれる場合があります。
 
-[18. USAGE DATA](#18-usage-data)
+[18.使用状況データ](#18-usage-data)
 ----------
 
-In order to operate and improve Marketplace, GitHub may collect Usage Data from Marketplace or a GitHub API or anywhere previously purchased or downloaded Developer Products are stored on behalf of End Users by GitHub. The Usage Data will be maintained in accordance with GitHub’s then in effect Privacy Statement. Limited Usage Data may be available for use by Developer in GitHub’s sole discretion.
+GitHub は、Marketplace の運営および改善のため、Marketplace または GitHub API から、または以前購入またはダウンロードされた開発者製品を GitHub がエンド ユーザーのために保存していたあらゆる場所から、使用状況データを収集する場合があります。 使用状況データは、その当時に有効であった GitHub のプライバシー ステートメントに従って保管されるものとします。 GitHub の独自の裁量により、使用状況データの一部が開発者に提供され使用される場合があります。
 
-[19. PRE-RELEASE ACCESS](#19-pre-release-access)
+[19. プレリリースアクセス](#19-pre-release-access)
 ----------
 
-If you have a Listing on a portion of Marketplace that is in a beta or similar pre-release status, your use of that portion is governed by GitHub’s [Pre-release License Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms).
+ベータ版または同様のプレリリース状態にある Marketplace の一部に登録情報がある場合、その部分の使用は GitHub の [プレリリース ライセンス条項](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)に準拠します。
 
-[Addendum 1: Data Protection Addendum](#addendum-1-data-protection-addendum)
+[追加契約 1: データ保護追加契約](#追加契約-1-データ保護追加契約)
 ==========
 
-This Data Protection Addendum (this “Addendum”) is attached to and made a part of the GitHub Marketplace Developer Agreement between you and GitHub (the “Agreement”). Terms not defined in this Addendum have the meanings ascribed to them in the Agreement. In the event of a conflict or inconsistency, the terms of this Addendum will supersede those of the Agreement.
+本データ保護追加契約 (以下「本追加契約」といいます) は、お客様と GitHub との間の GitHub Marketplace 開発者契約 (以下「開発者契約」といいます) に添付され、その一部を構成するものです。 本追加契約に定義のない用語については、開発者契約に記載されている意味を持つものとします。 矛盾または不一致がある場合は、本追加契約の条項が開発者契約に対して優先するものとします。
 
-**A1-1. Purpose and Scope**GitHub maintains Personal Data from individuals all over the world, some of whom are residents of countries and areas with strong data protection laws. This Addendum establishes your responsibilities when you receive and process any such Personal Data from GitHub.
+**A1-1. 目的および範囲** GitHub は世界中からの個人データを管理していますが、それらの人々の一部は、強力なデータ保護法を備えた国や地域に居住しています。 本追加契約は、お客様が GitHub から保護されているそのような個人データを受け取って処理する際のお客様の責任を規定するものです。
 
-**A1-2. Definitions**
+**A1-2. 定義**
 
-* (a) “Applicable Data Protection Laws” means any laws, regulations, regulatory frameworks, or other legislations relating to the processing and use of Personal Data, as applicable to the Agreement, including:
-  * The EU General Data Protection Regulation 2016/679 (“GDPR”), along with any implementing or corresponding equivalent national laws or regulations;
-  * The California Consumer Privacy Act of 2018, Cal. Civ. Code §§1798.100 et seq. ("CCPA"); and
-  * The UK Data Protection Act 2018 and implementation of GDPR contained therein.
+* (a)「適用されるデータ保護法」とは、開発者契約に適用される、個人データの処理および使用に関するあらゆる法律、規制、規制の枠組み、またはその他の法令を指し、以下のものが該当します。
+  * EU 一般データ保護規則 2016/679 (以下「GDPR」といいます)、および実施されているまたはそれに準ずる国家の法令または規制
+  * 2018 年カリフォルニア州消費者プライバシー法、 第 1798.100 条以下 (「CCPA」)
+  * 2018 年英国データ保護法およびそれに含まれる GDPR の実施。
 
-* (b) “Personal Data” means any information which relates to an individual GitHub End User, customer or employee which could, alone or together with other information, identify them, whether supplied by GitHub for processing by the Developer or whether generated by the Developer in the course of performing its obligations under this Agreement.
-* (c) “Processing” means any operation or set of operations performed on Personal Data, whether by manual or automatic means, including collection, recording, organization, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, blocking, erasure, or destruction.
+* (b) 「個人データ」とは、個々の GitHub のエンド ユーザー、顧客または従業員に関するもので、開発者に処理されるため GitHub により提供されたものか、開発者契約に基づく義務を履行する過程において開発者により生成されたものかにかかわらず、単独または他の情報と組み合わせて、個人を特定できる可能性のあるあらゆる情報を意味します。
+* (c) 「処理」とは、手動によるか自動化された手段によるかを問わず、収集、記録、編成、保存、適応、変更、検索、相談、使用、送信による開示、配布または他の方法で利用可能にすること、ブロック、消去、破壊など、個人データに関して実行される操作または一連の操作を意味します。
 
-**A1-3. Compliance with Data Transfer Laws**
+**A1-3. データ移転法の遵守**
 
-* (a) GitHub Compliance. GitHub complies with Applicable Data Protection Laws. GitHub relies on Standard Contractual Clauses ("SCCs") for all transfers out of the European Union, European Economic Area, United Kingdom, and Switzerland to provide its services. GitHub also complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. GitHub has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. GitHub has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Data received from Switzerland in reliance on the Swiss-U.S. DPF.
-* (b) Developer Compliance. Developer represents and warrants that it will (i) comply with Applicable Data Protection Laws; and (ii) abide by the requirements of European Economic Area and Swiss data protection laws regarding the collection, use, transfer, retention, and other processing of Personal Data from the European Economic Area, United Kingdom, and Switzerland. All transfers of Personal Data to a third country or an international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR and such transfers and safeguards will be documented according to Article 30(2) of the GDPR.
+* (a)GitHub による遵守。 GitHub は、適用されるデータ保護法を遵守します。 GitHub は、当社のサービスを提供するにあたり、欧州連合、欧州経済領域、英国、およびスイスの域外へのすべての移転に標準契約条項 (「SCC」) を適用します。 GitHub は、商務省の定めに基づき、欧州-米国データ プライバシー フレームワーク (EU-U.S. DPF)、欧州-米国 DPF に対する英国拡張、およびスイス-米国データ プライバシー フレームワーク (Swiss-U.S. DPF) にも準拠しています。 欧州-米国 DPF に基づき欧州連合から受領した、および欧州-米国 DPFの英国拡張に基づき英国 (およびジブラルタル) から受領した個人データの処理に関して、GitHub は、米国商務省により、欧州-米国 データ プライバシー フレームワーク原則 (EU-U.S. DPF Principles) 準拠の認定を受けています。 GitHub は米国商務省により、スイス-米国データ プライバシー フレームワークに基づきスイスから受領した個人情報の処理に関して、スイス-米国 DPF (Swiss-U.S. DPF Principles) 準拠の認定を受けています。
+* (b)開発者による遵守。 開発者は、(i) 適用されるデータ保護法を遵守すること、および (ii) 欧州経済領域、英国、およびスイスからの個人データの収集、使用、移転、保持、およびその他の処理に関する、欧州経済領域およびスイス データ保護法の要件を遵守することを表明し、保証するものとします。 第三国または国際組織への個人データ転送には、GDPR 第 46 条に定める適切な安全対策の対象となり、かかる転送および安全対策は、GDPR 第 30 条 (2) 項に従って文書化されるものとします。
 
-**A1-4. Data Protection**
+**A1-4. データ保護**
 
-* (a) Notice. Developer must provide End Users their privacy policy which identifies itself as responsible for the collection, processing, privacy, security, and integrity of all data it collects from the End User. Developer must not hold itself out as collecting any Personal Data on GitHub’s behalf. Developer’s privacy policy must provide End User’s all legally required information regarding access, collection, storage, and processing purpose of Personal Data, with whom the Personal Data is shared, and in which country or countries the Personal Data will be stored.
-* (b) Purpose Limitation.
-  * (i) GitHub will provide Developer with Personal Data elements for the purpose of establishing and facilitating a relationship between the Developer and the End User, and permitting Developer to provide services to the End User. Developer must limit its usage of the Personal Data to that purpose, unless the End User agrees to allow different uses.
-  * (ii) Developer must process and communicate the Personal Data to third parties only for the limited and specific purposes of providing its services to the End User as described in its agreement with the End User, unless the End User agrees to allow different uses.
+* (a) 通知。 開発者は、エンドユーザから収集したすべてのデータの収集、処理、プライバシー、セキュリティ、完全性に関して責任を負うことを明記したプライバシーポリシーを提供しなければなりません。 開発者は、あらゆる個人データを、GitHub に代わって収集するかのように振る舞ってはなりません。 開発者のプライバシーポリシーは、個人データへのアクセス、収集、保存、処理の目的、個人データの共有先、個人データが保存される国に関する、法的に要求されるすべての情報をエンドユーザに提供しなければなりません。
+* (b) 目的の制限。
+  * (i)GitHub は、開発者とエンド ユーザーとの関係を確立し、促進し、開発者がエンド ユーザーにサービスを提供できるようにする目的で、開発者に対し個人データ要素を提供するものとします。 開発者は、個人データの使用をこの目的のみに限定する必要があります。ただし、エンド ユーザーが他の目的で使用することに同意した場合を除きます。
+  * (ii)保護されている個人データを開発者が処理して第三者に伝達するのは、エンド ユーザーとの同意に記載されているとおり、エンド ユーザーにサービスを提供するという限定的な特定の目的においてのみとする必要があります。
 
-* (c) Data Quality and Proportionality. Developer must keep the Personal Data accurate and up to date. Developer must only collect Personal Data appropriate and necessary to provide the service.
-* (d) Security. Developer must take all reasonable security measures appropriate to the risks, such as against accidental or unlawful destruction, or accidental loss, alteration, unauthorized disclosure or access, presented by processing the Personal Data.
-* (e) Data Retention and Deletion. Upon GitHub’s reasonable request, unless prohibited by law, Developer must return or destroy all Personal Data and related data at all locations where it is stored after it is no longer needed for the limited and specified purposes for which it was collected.
-* (f) Subprocessing and Onward Transfer. Developer is liable for onward transfers of Personal Data to its subprocessors. In the event that Developer must transfer the Personal Data to a third party, or Developer installs, uses, or enables third party services to process the Personal Data on Developer’s behalf, Developer must ensure that the third party will provide at least the same level of privacy protection as is required herein.
+* (c)データの品質と比例性。 開発者は、個人データを正確かつ最新の最新の状態に保つ必要があります。 開発者は、サービスを提供するために適切かつ必要な個人データのみを収集しなければなりません。
+* (d)D セキュリティ 開発者は、個人データを処理することによって生じる不慮もしくは不法な破壊、不慮の紛失、改変、無許可の開示またはアクセスなどのリスクに適切かつ合理的なあらゆるセキュリティ対策を講じる必要があります。
+* (e)データの保持と削除。 GitHub の合理的な要求があった場合、法律で禁じられている場合を除き、開発者は、あらゆる場所に保存されているすべての個人データおよび関連データを、収集された限定的かつ特定の目的のために不要となった後、返却または破壊する必要があります。
+* (f)下請処理と転送。 開発者は、下請処理者に個人データを転送する際の責任を負います。 個人データを開発者が第三者に移転する必要がある場合、または開発者に代わって個人データを処理させるために、開発者が第三者のサービスをインストール、使用、または有効化する場合、開発者は、かかる第三者が少なくとも開発者契約で要求されているものと同等のプライバシー保護を提供することを保証する必要があります。
 
-**A1-5. Use of Personal Data**
+**A1-5 個人データの使用**
 
-* (a) Permitted Use. Developer may process the Personal Data only for the purposes set out in Section 4(b)(i), and no other purpose.
-* (b) No Use in Marketing. Developer must not use the Personal Data for the purposes of advertising any third party goods or services, and may not sell the Personal Data to any third party.
-* (c) Automated Decisions. In the event that the Developer makes automated decisions affecting End User’s rights, including employment, legal, credit, or health, the Developer must provide notice to the End User.
+* (a)許可される使用 開発者は、個人データを第 4 条 (b) 項 (i) 号に規定された目的のためにのみ処理することができ、それ以外の目的で処理することはできません。
+* (b)マーケティングでの不使用。 開発者は、個人データを第三者の商品やサービスの広告を行う目的で使用してはならず、また個人データを第三者に販売することはできません。
+* (c)自動的な意思決定。 開発者が、雇用、法的信用、健康などを含む エンドユーザーの権利に影響を与える自動的な意思決定を行う場合、開発者はそのことをエンド ユーザーに通知する必要があります。
 
-**A1-6. Compliance**
+**A1-6. 法令の遵守**
 
-Developer will make its Privacy Statement, Privacy Policy, Privacy Notice, or any similar documentation available to GitHub and End User. Developer will also provide notice of any relevant compliance reports.
+開発者は、プライバシーに関する声明、プライバシー ポリシー、プライバシーに関する通知、または同様の文書をGitHubおよびエンドユーザーに提供するものとします。 また、開発者は、関連する法令遵守レポートの通知も行うものとします。
 
-**A1-7. Termination**
+**A1-7. 契約終了**
 
-* (a) Takedown. In the event that Developer is in breach of its obligations to maintain an adequate level of privacy protection, GitHub may take action in accordance with Section 4 (Takedowns) or Section 10 (Termination).
-* (b) Termination. GitHub may terminate this Agreement without prejudice to any other claims at law or in equity in the event that:
-  * (i) the Developer notifies GitHub that it can no longer meet its privacy obligations, including loss of Developer Privacy Shield certification;
-  * (ii) the transfer, collection, or processing of Personal Data has been temporarily suspended for longer than one month pursuant to 7(a);
-  * (iii) the Developer is in substantial or persistent breach of any warranties or representations under this Data Protection Addendum;
-  * (iv) the Developer is no longer carrying on business, is dissolved, enters receivership, or a winding up order is made on behalf of Developer.
+* (a) テイクダウン。 開発者が適切なレベルのプライバシー保護を維持する義務に違反した場合、GitHubは第4条（テイクダウン）または第10条（終了）に従い措置を講じることがあります。
+* (b) 終了。 以下の場合には、GitHub は普通法または衡平法に基づく他の請求権に影響を及ぼすことなく本契約を終了できるものとします。
+  * (i) デベロッパーが、デベロッパー・プライバシーシールド認証の喪失を含め、プライバシー保護の義務を果たせなくなったことを GitHub に通知した場合；
+  * (ii) 個人データの移転、収集、処理が、第 7 条 (a) 項に従って 1 か月以上停止されている。
+  * (iii)開発者が、本データ保護追加契約に基づく保証または表明に実質的または継続的に違反している。
+  * (iv)開発者が事業を継続しなくなった、解散した、財産管理に入った、あるいは開発者に代わって清算命令が発令された。
 
-* (c) Notification. In the event that Developer determines that it can no longer meet its privacy obligations under this Agreement, it must notify GitHub immediately.
-  In the event that Developer was certified under Privacy Shield and allows that certification to lapse or otherwise cannot remain certified under Privacy Shield, Developer must notify GitHub immediately.
-* (d) Upon Termination, Developer must:
-  * (i) take reasonable and appropriate steps to stop processing of Personal Data;
-  * (ii) within thirty days of Termination, delete any Personal Data Developer stores on GitHub’s behalf; and
-  * (iii) provide GitHub with reasonable assurance that Developer has stopped processing the Personal Data and deleted stored Personal Data.
+* (c) 通知 開発者が開発者契約に基づくプライバシー義務を果たせなくなったと判断した場合は、直ちに GitHub に通知する必要があります。
+  開発者がプライバシー シールドの下で認定を受け、その認定が失効することが見込まれる場合、またはプライバシー シールドの下で認定を維持することができない場合、開発者は直ちに GitHub に通知する必要があります。
+* (d) 契約終了の際、開発者は以下を行う必要があります。
+  * (i)合理的かつ適切な措置を講じて個人データの処理を停止する。
+  * (ii)契約終了後 30 日以内に、GitHub に代わって開発者が保存していた個人データを削除する。
+  * (iii)開発者が、個人データの処理を停止し、保存された個人データを削除したことについて、GitHub に合理的な保証を提供する。
 
-**A1-8. Liability for Data Processing**
+**A1-8. データ処理の責任**
 
-* Direct Liability. Developer will be liable to GitHub for actual damages caused by any breach of this Addendum subject to the terms in Section 8, Limitation on Liability.
+* 直接責任。 開発者は、第 8 条「責任の制限」の条項に従い、本追加契約の違反により生じた実際の損害について GitHub に責任を負うものとします。
 
 {"resolvedServerColorMode":"day"}

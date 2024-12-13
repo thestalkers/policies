@@ -1,22 +1,22 @@
-GitHub Cookies - GitHub Docs
+GitHub Cookie - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Privacy Policies](/zh/site-policy/privacy-policies)/
-* [GitHub Cookies](/zh/site-policy/privacy-policies/github-cookies)
+* [站点政策](/zh/site-policy)/
+* [隐私政策](/zh/site-policy/privacy-policies)/
+* [GitHub Cookie](/zh/site-policy/privacy-policies/github-cookies)
 
-GitHub Cookies
+GitHub Cookie
 ==========
 
-GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
+GitHub 使用 Cookie 提供和保护我们的网站，以及分析我们网站的使用情况，以便为您提供良好的用户体验。 如果您希望进一步了解 Cookie，以及我们如何及为何使用 Cookie，请阅读我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#our-use-of-cookies-and-tracking)。
 
-You can view the current list of cookies on GitHub, and sign up to receive cookie list updates, at <https://github.com/privacy/cookies>.
+您可以在 <https://github.com/privacy/cookies> 查看最新的 GitHub 上的 Cookie 列表并注册接收 Cookie 列表更新。
 
-If you have questions or concerns about a new subprocessor, please contact us via [Privacy contact form](https://github.com/contact/privacy).
+如果对新的分处理者有疑问或顾虑，请通过 [隐私联系人表](https://github.com/contact/privacy) 与我们联系。
 
 {"resolvedServerColorMode":"day"}

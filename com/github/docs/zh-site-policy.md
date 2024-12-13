@@ -1,35 +1,35 @@
-Site policy documentation - GitHub Docs
+站点政策文档 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)
+* [站点政策](/zh/site-policy)
 
-Site policy documentation
+站点政策文档
 ==========
 
-[GitHub Terms](/zh/site-policy/github-terms)
+[GitHub 条款](/zh/site-policy/github-terms)
 ----------
 
-[Acceptable Use Policies](/zh/site-policy/acceptable-use-policies)
+[可接受使用政策](/zh/site-policy/acceptable-use-policies)
 ----------
 
-[Privacy Policies](/zh/site-policy/privacy-policies)
+[隐私政策](/zh/site-policy/privacy-policies)
 ----------
 
-[Other Site Policies](/zh/site-policy/other-site-policies)
+[其他站点政策](/zh/site-policy/other-site-policies)
 ----------
 
-[Content Removal Policies](/zh/site-policy/content-removal-policies)
+[内容删除政策](/zh/site-policy/content-removal-policies)
 ----------
 
-[Security Policies](/zh/site-policy/security-policies)
+[安全政策](/zh/site-policy/security-policies)
 ----------
 
-[GitHub Company Policies](/zh/site-policy/github-company-policies)
+[GitHub 公司政策](/zh/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

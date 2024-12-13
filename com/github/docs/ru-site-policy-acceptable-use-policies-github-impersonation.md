@@ -1,28 +1,28 @@
-GitHub Impersonation - GitHub Docs
+Имперсонация GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
-* [Impersonation](/ru/site-policy/acceptable-use-policies/github-impersonation)
+* [Политика сайта](/ru/site-policy)/
+* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
+* [Имперсонация](/ru/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+Имперсонация GitHub
 ==========
 
-You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
+Вы не имеете права ложным образом представлять свою личность или вашу связь с другим лицом или организацией. Это включает в себя любое из следующих действий, которое вводит в заблуждение или обманывает других:
 
-* Copying another user's avatar or other personal profile information
-* Posting content under another user's email address
-* Using a deceptively similar username, organization name, or other namespace
-* Accessing an account or organization with another user's token or credentials
-* Otherwise posing as another individual or organization
+* Копирование аватара другого пользователя или другой личной информации профиля
+* Публикация контента под адресом электронной почты другого пользователя
+* Использование обманчиво похожего имени пользователя, названия организации или другого пространства имен
+* Доступ к учетной записи или организации с помощью маркера или учетных данных другого пользователя
+* Иным образом выдавать себя за другое лицо или организацию
 
-Impersonation is a form of harassment and violation of this policy may lead to loss of access to your account.
+Имперсонация является формой преследования, и нарушение этой политики может привести к потере доступа к вашей учетной записи.
 
-Please note, having a username similar to another is not necessarily impersonation. GitHub will take context into account. For example, as in cases involving claims of [misinformation or disinformation](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), we generally allow parody and satire that is in line with our [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+Обратите внимание, что наличие имени пользователя, похожего на другое, не обязательно означает имперсонацию. GitHub будет учитывать контекст. Например, как и в случаях, связанных с утверждениями о [неправильной информации или дезинформации](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), мы обычно разрешаем пародию и сатиру, которая соответствует нашим [Политикам допустимого использования](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 {"resolvedServerColorMode":"day"}

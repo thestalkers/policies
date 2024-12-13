@@ -1,24 +1,24 @@
-GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
+GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Acceptable Use Policies](/de/site-policy/acceptable-use-policies)/
-* [Threats of Violence and Gratuitously Violent Content](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [Websiterichtlinie](/de/site-policy)/
+* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
+* [Androhung von Gewalt und gewalttätige Inhalte](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
-GitHub Threats of Violence and Gratuitously Violent Content
+GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten
 ==========
 
-You may not use GitHub to organize, promote, encourage, threaten, or incite acts of violence. You may not post content that depicts or glorifies violence or physical harm against human beings or animals. This includes:
+Sie dürfen GitHub nicht verwenden, um Gewalttaten zu organisieren, zu fördern, zu ermutigen, zu bedrohen oder anzustiften. Sie dürfen keine Inhalte posten, die Gewalt oder körperliche Gewalt gegen Menschen oder Tiere darstellen oder verherrlichen. Dies umfasst:
 
-* Threatening another individual or group with abuse, harm, sexual violence, or death
-* Posting text, imagery, or audio content glorifying or containing a graphic depiction of violence toward oneself, another individual, group, or animal
-* Encouraging another individual to engage in self harm
+* Eine andere Person oder Gruppe mit Missbrauch, Schaden, sexueller Gewalt oder dem Tod zu bedrohen
+* Posten von Texten, Bildern oder Audioinhalten, die Gewalt gegen sich selbst, eine andere Person, Gruppe oder ein Tier verherrlichen oder eine grafische Darstellung davon enthalten
+* Ermutigung einer anderen Person, sich selbst zu verletzen
 
-We do not allow violent content to be posted indiscriminately or in a way that is difficult for other users to avoid, such as a profile avatar or an issue comment. However, we understand there may be legitimate reasons to post violent content, such as for educational or documentary purposes, creative works, or depictions of historical events. In those cases, a clear warning or disclaimer can help users make an educated decision as to whether or not they want to engage with such content. Still, GitHub may decide to limit the visibility of such content to those who choose to opt in.
+Wir gestatten nicht, dass gewalttätige Inhalte wahllos oder auf eine Weise gepostet werden, die für andere Benutzer schwer zu vermeiden ist, wie z. B. ein Profil-Avatar oder ein Kommentar zu einem Problem. Wir verstehen jedoch, dass es legitime Gründe geben kann, gewalttätige Inhalte zu posten, wie z. B. für Bildungs- oder Dokumentationszwecke, kreative Werke oder Darstellungen historischer Ereignisse. In diesen Fällen kann eine klare Warnung oder ein Haftungsausschluss den Benutzern helfen, eine fundierte Entscheidung darüber zu treffen, ob sie sich mit solchen Inhalten beschäftigen möchten oder nicht. Dennoch kann GitHub beschließen, die Sichtbarkeit solcher Inhalte auf diejenigen zu beschränken, die sich dafür entscheiden.
 
 {"resolvedServerColorMode":"day"}

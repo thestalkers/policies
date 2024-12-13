@@ -1,56 +1,56 @@
-GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
+Программа GitHub Bug Bounty Legal Safe Harbour - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Security Policies](/ru/site-policy/security-policies)/
-* [GitHub Bug Bounty Program Legal Safe Harbor](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Политика сайта](/ru/site-policy)/
+* [Политики безопасности](/ru/site-policy/security-policies)/
+* [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-GitHub Bug Bounty Program Legal Safe Harbor
+Программа GitHub Bug Bounty Legal Safe Harbour
 ==========
 
-In this article
+В этой статье
 ----------
 
-* [Summary](#summary)
-* [1. Safe Harbor Terms](#1-safe-harbor-terms)
-* [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
-* [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
+* [Сводная информация](#summary)
+* [1. Условия «безопасной гавани»](#1-safe-harbor-terms)
+* [2. «Безопасная гавань» третьей стороны](#2-third-party-safe-harbor)
+* [3. Ограниченный отказ от других политик сайта](#3-limited-waiver-of-other-site-policies)
 
-[Summary](#summary)
+[Сводная информация](#summary)
 ----------
 
-1. We want you to coordinate disclosure through our bug bounty program, and don't want researchers put in fear of legal consequences because of their good faith attempts to comply with our bug bounty policy. We cannot bind any third party, so do not assume this protection extends to any third party. If in doubt, ask us before engaging in any specific action you think *might* go outside the bounds of our policy.
-2. Because both identifying and non-identifying information can put a researcher at risk, we limit what we share with third parties. We may provide non-identifying substantive information from your report to an affected third party, but only after notifying you and receiving a commitment that the third party will not pursue legal action against you. We will only share identifying information (name, email address, phone number, etc.) with a third party if you give your written permission.
-3. If your security research as part of the bug bounty program violates certain restrictions in our site policies, the safe harbor terms permit a limited exemption.
+1. Мы хотим, чтобы вы отслеживали раскрытие информации в рамках нашей программы Bug Bounty, и не хотим, чтобы вы опасались юридических последствий из-за добросовестных попыток соблюдать нашу политику Bug Bounty. Мы не можем связывать никакую третью сторону, поэтому не предполагайте, что эта защита распространяется на какую-либо третью сторону. Если вы сомневаетесь, спросите нас, прежде чем предпринимать какие-либо конкретные действия, которые, по вашему мнению, *могут* выйти за рамки нашей политики.
+2. Поскольку как идентифицирующая, так и неидентифицирующая информация может подвергнуть исследователя риску, мы ограничиваем то, чем мы делимся с третьими лицами. Мы можем предоставить неидентифицирующую существенную информацию из вашего отчета затронутой третьей стороне, но только после уведомления вас и получения обязательства о том, что третья сторона не будет возбуждать против вас судебные иски. Мы будем передавать идентифицирующую информацию (имя, адрес электронной почты, номер телефона и т. д.) третьей стороне только в том случае, если вы дадите свое письменное разрешение.
+3. Если ваше исследование безопасности в рамках программы вознаграждения за обнаружение ошибок нарушает определенные ограничения в политике нашего сайта, условия «безопасной гавани» допускают ограниченное исключение.
 
-[1. Safe Harbor Terms](#1-safe-harbor-terms)
+[1. Условия «безопасной гавани»](#1-safe-harbor-terms)
 ----------
 
-To encourage research and coordinated disclosure of security vulnerabilities, we will not pursue civil or criminal action, or send notice to law enforcement for accidental or good faith violations of this policy. We consider security research and vulnerability disclosure activities conducted consistent with this policy to be “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA, and other applicable computer use laws such as Cal. Penal Code 502(c). We waive any potential DMCA claim against you for circumventing the technological measures we have used to protect the applications in this bug bounty program's scope.
+В целях поощрения исследований и скоординированного раскрытия уязвимостей безопасности мы не будем возбуждать гражданские или уголовные дела и не будем уведомлять правоохранительные органы о случайных или добросовестных нарушениях этой политики. Мы считаем, что исследования безопасности и действия по раскрытию уязвимостей, проводимые в соответствии с этой политикой, являются «санкционированными» действиями в соответствии с Законом о компьютерном мошенничестве и злоупотреблениях, DMCA и другими применимыми законами об использовании компьютеров, такими как Уголовный кодекс штата Калифорния 502(с). Мы отказываемся от любых потенциальных претензий DMCA против вас за обход технических мер, которые мы использовали для защиты приложений в рамках этой программы вознаграждения за обнаружение ошибок.
 
-Please understand that if your security research involves the networks, systems, information, applications, products, or services of a third party (which is not us), we cannot bind that third party, and they may pursue legal action or law enforcement notice. We cannot and do not authorize security research in the name of other entities, and cannot in any way offer to defend, indemnify, or otherwise protect you from any third party action based on your actions.
+Пожалуйста, учтите, что если ваше исследование безопасности связано с сетями, системами, информацией, приложениями, продуктами или услугами третьей стороны (которой мы не являемся), мы не можем связывать обязательствами эту третью сторону, и они могут подать в суд или уведомить правоохранительные органы. Мы не можем и не санкционируем проведение исследований в области безопасности от имени других лиц и никоим образом не можем предлагать защиту, возмещение ущерба или иную защиту от любых действий третьих лиц вследствие ваших действий.
 
-You are expected, as always, to comply with all laws applicable to you, and not to disrupt or compromise any data beyond what this bug bounty program permits.
+Предполагается, что вы всегда будете соблюдать все законы, применимые к вам, а также не нарушать и не компрометировать какие-либо данные сверх того, что разрешено этой программой вознаграждения за обнаружение ошибок.
 
-Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
+Пожалуйста, свяжитесь с нами, прежде чем участвовать в действиях, которые могут быть несовместимы с этой политикой или не учитываться в ней. Мы оставляем за собой исключительное право определять, является ли нарушение этой политики случайным или добросовестным, и упреждающий контакт с нами до совершения каких-либо действий является важным фактором при принятии такого решения. Если вы сомневаетесь, сначала спросите нас!
 
-[2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+[2. «Безопасная гавань» третьей стороны](#2-third-party-safe-harbor)
 ----------
 
-If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
+Если вы отправите через нашу программу вознаграждений за ошибки отчет, который затрагивает сервис третьей стороны, мы ограничим информацию, которой делимся с любой затронутой третьей стороной. Мы можем поделиться неидентифицирующим контентом из вашего отчета с затронутой третьей стороной, но только после того, как уведомим вас о том, что мы намерены сделать это, и получим письменное обязательство третьей стороны о том, что они не будут возбуждать против вас судебные иски или связываться с правоохранительными органами из-за вашего отчета. Мы не будем передавать вашу идентифицирующую информацию какой-либо затронутой третьей стороне без предварительного получения вашего письменного разрешения на это.
 
-Please note that we cannot authorize out-of-scope testing in the name of third parties, and such testing is beyond the scope of our policy. Refer to that third party's bug bounty policy, if they have one, or contact the third party either directly or through a legal representative before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
+Обратите внимание, что мы не можем санкционировать стороннее тестирование от имени третьих лиц, и такое тестирование выходит за рамки нашей политики. Обратитесь к политике вознаграждения за ошибки этой третьей стороны, если она есть, или свяжитесь с третьей стороной напрямую или через законного представителя, прежде чем начинать какое-либо тестирование этой третьей стороны или ее услуг. Это не является и не должно пониматься как какое-либо соглашение с нашей стороны защищать, возмещать ущерб или иным образом защищать вас от любых действий третьих лиц, основанных на ваших действиях.
 
-That said, if legal action is initiated by a third party, including law enforcement, against you because of your participation in this bug bounty program, and you have sufficiently complied with our bug bounty policy (i.e. have not made intentional or bad faith violations), we will take steps to make it known that your actions were conducted in compliance with this policy. While we consider submitted reports both confidential and potentially privileged documents, and protected from compelled disclosure in most circumstances, please be aware that a court could, despite our objections, order us to share information with a third party.
+Тем не менее, если судебный иск инициирован третьей стороной, включая правоохранительные органы, против вас из-за вашего участия в этой программе вознаграждения за обнаружение ошибок, и вы в достаточной мере соблюдаете нашу политику вознаграждения за обнаружение ошибок (т. е. не допустили преднамеренных или недобросовестных нарушений), мы предпримем шаги, чтобы сообщить, что ваши действия были совершены в соответствии с этой политикой. Хотя мы считаем представленные отчеты конфиденциальными и потенциально конфиденциальными документами, защищенными от принудительного раскрытия в большинстве случаев, имейте в виду, что суд может, несмотря на наши возражения, потребовать от нас предоставить информацию третьей стороне.
 
-[3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
+[3. Ограниченный отказ от других политик сайта](#3-limited-waiver-of-other-site-policies)
 ----------
 
-To the extent that your security research activities are inconsistent with certain restrictions in our [relevant site policies](/ru/site-policy) but consistent with the terms of our bug bounty program, we waive those restrictions for the sole and limited purpose of permitting your security research under this bug bounty program. Just like above, if in doubt, ask us first!
+В той мере, в какой ваша деятельность по исследованию безопасности не соответствует определенным ограничениям в [соответствующих политиках нашего сайта](/ru/site-policy), но соответствует условиям нашей программы вознаграждения за обнаружение ошибок, мы отказываемся от этих ограничений с единственной и ограниченной целью разрешить вам исследование безопасности в рамках этой программы вознаграждения за обнаружение ошибок. Как и выше, если есть сомнения, сначала спросите нас!
 
 {"resolvedServerColorMode":"day"}

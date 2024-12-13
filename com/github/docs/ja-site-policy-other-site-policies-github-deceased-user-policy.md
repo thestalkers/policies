@@ -1,32 +1,32 @@
-GitHub Deceased User Policy - GitHub Docs
+GitHub の死亡ユーザー ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Other Site Policies](/ja/site-policy/other-site-policies)/
-* [GitHub Deceased User Policy](/ja/site-policy/other-site-policies/github-deceased-user-policy)
+* [サイト ポリシー](/ja/site-policy)/
+* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
+* [GitHub の死亡ユーザー ポリシー](/ja/site-policy/other-site-policies/github-deceased-user-policy)
 
-GitHub Deceased User Policy
+GitHub の死亡ユーザー ポリシー
 ==========
 
-In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
+GitHub ユーザーが死亡した場合、当社は、権限を与えられた人と協力してそのアカウントのコンテンツをどうするかを判断します。
 
-If you are next of kin, a [pre-designated successor](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:
+死亡したユーザーの近親者、[事前指定された後継者](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)、または権限を与えられたその他の人 (コラボレーターやビジネス パートナーが含まれる可能性があります) が故人のアカウントに関する要求を行う場合は、[GitHub Support ポータル](https://support.github.com/)を通じて当社にご連絡ください。 ポータルで **[お問い合わせ]** をクリックし、メッセージに次の情報を入力してください。
 
-* Name
-* Contact Information
-* Name of the deceased account holder
-* GitHub username of the deceased account holder
-* Your relationship to the deceased account holder (please include whether you have been designated as the account successor on GitHub.com)
-* If designated as account successor, the username of your GitHub account
-* What action you are seeking (e.g. transfer public repositories, cancel billing on account)
+* 名前
+* 連絡先情報
+* 死亡したアカウント所有者の名前
+* 死亡したアカウント所有者の GitHub ユーザー名
+* 死亡したアカウント所有者との関係 (自身が GitHub.com でアカウント後継者として指定されているかどうかを記入してください)
+* アカウント後継者として指定されている場合は、自身の GitHub アカウントのユーザー名
+* 要求の内容 (パブリック リポジトリの移転やアカウントに対する請求の取り消しなど)
 
-Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request.
+当社は要求を受け取ったら、当社に要求の処理が適切に許可されることを確認するために、さらに追加の情報 (要求者の写真付き ID のコピー、死亡証明書のコピー、死亡したユーザーのアカウントに関する措置を要求者に許可することを確認する書類など) を要求する場合があります。
 
-Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
+要求の際に提供された情報は、当社の[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)に従って収集されます。当社は、法的義務を遵守し、紛争を解決するために必要な場合にのみ、この情報を保持します。
 
 {"resolvedServerColorMode":"day"}

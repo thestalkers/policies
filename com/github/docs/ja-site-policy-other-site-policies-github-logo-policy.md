@@ -1,20 +1,20 @@
-GitHub Logo Policy - GitHub Docs
+GitHub ロゴのポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Other Site Policies](/ja/site-policy/other-site-policies)/
-* [GitHub Logo Policy](/ja/site-policy/other-site-policies/github-logo-policy)
+* [サイト ポリシー](/ja/site-policy)/
+* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
+* [GitHub ロゴのポリシー](/ja/site-policy/other-site-policies/github-logo-policy)
 
-GitHub Logo Policy
+GitHub ロゴのポリシー
 ==========
 
-You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
+場合によっては、GitHub ロゴをお客様の Web サイトまたは第三者のアプリケーションに追加できます。 ロゴの使用に関する詳細と具体的なガイドラインについては、[GitHub のロゴと使い方のページ](https://github.com/logos) をご覧ください。
 
-You can also use an octocat as your personal avatar or on your website to link to your GitHub account, but not for your company or a product you're building. GitHub has an extensive collection of octocats in the [Octodex](https://octodex.github.com/). For more information on using the octocats from the Octodex, see the [Octodex FAQ](https://octodex.github.com/faq/).
+また、Octocat をお客様の個人的なアバターとして、またはお客様の Web サイトで使用して、GitHub アカウントにリンクすることもできますが、お客様の会社またはお客様が構築している製品に対して使用することはできません。 GitHub は、[Octodex](https://octodex.github.com/) にさまざまな Octocat を所有しています。 Octodex の octocat の使用方法の詳細については、[Octodex の FAQ](https://octodex.github.com/faq/) のページを参照してください。
 
 {"resolvedServerColorMode":"day"}

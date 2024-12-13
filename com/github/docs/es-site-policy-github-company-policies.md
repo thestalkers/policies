@@ -1,27 +1,27 @@
-GitHub Company Policies - GitHub Docs
+Políticas de empresa de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 
-* [Site policy](/es/site-policy)/
-* [GitHub Company Policies](/es/site-policy/github-company-policies)
+* [Política del sitio](/es/site-policy)/
+* [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
 
-GitHub Company Policies
+Políticas de empresa de GitHub
 ==========
 
-[GitHub Statement Against Modern Slavery and Child Labor](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[Declaración de GitHub contra la esclavitud moderna y el trabajo infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 ----------
 
-[GitHub Anti-Bribery Statement](/es/site-policy/github-company-policies/github-anti-bribery-statement)
+[Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
 ----------
 
-[GitHub GPL Cooperation Commitment](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+[Compromiso de cooperación de GitHub GPL](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 ----------
 
-[GitHub Gifts and Entertainment Policy](/es/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[Política de obsequios y entretenimiento de GitHub](/es/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

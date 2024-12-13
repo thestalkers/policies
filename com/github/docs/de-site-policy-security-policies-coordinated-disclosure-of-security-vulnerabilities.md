@@ -1,25 +1,25 @@
-Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
+Koordinierte Offenlegung von Sicherheitslücken - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Security Policies](/de/site-policy/security-policies)/
-* [Coordinated Disclosure of Security Vulnerabilities](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Websiterichtlinie](/de/site-policy)/
+* [Sicherheitsrichtlinien](/de/site-policy/security-policies)/
+* [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-Coordinated Disclosure of Security Vulnerabilities
+Koordinierte Offenlegung von Sicherheitslücken
 ==========
 
-We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
+Wir möchten GitHub für alle sicher halten. Wenn Sie eine Sicherheitslücke in GitHub entdeckt haben, schätzen wir Ihre Hilfe, indem Sie uns diese auf koordinierte Weise mitteilen.
 
-[Bounty Program](#bounty-program)
+[Bounty-Programm](#bounty-program)
 ----------
 
-Like several other large software companies, GitHub provides a bug bounty to better engage with security researchers. The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our coordinated disclosure process. Then, to recognize the significant effort that these researchers often put forth when hunting down bugs, we reward them with some cold hard cash.
+Wie mehrere andere große Softwareunternehmen bietet GitHub eine Prämie für Fehler, um besser mit Sicherheitsforschern in Kontakt zu treten. Die Idee ist einfach: Hacker und Sicherheitsexperten (wie Sie) finden und melden Schwachstellen durch unseren koordinierten Offenlegungsprozess. Um den erheblichen Aufwand zu würdigen, den diese Forscher oft bei der Suche nach Fehlern aufwenden, belohnen wir sie mit etwas barem Geld.
 
-Check out the [GitHub Bug Bounty](https://bounty.github.com) site for bounty details, review our comprehensive [Legal Safe Harbor Policy](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) terms as well, and happy hunting!
+Auf der [GitHub Bug Bounty](https://bounty.github.com)-Seite sind ausführlichere Angaben zu finden. Außerdem sollten Sie sich auch die umfassende [Richtlinie zum Safe-Harbor-Verfahren](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) durchlesen. Viel Glück bei der Jagd nach Sicherheitslücken!
 
 {"resolvedServerColorMode":"day"}

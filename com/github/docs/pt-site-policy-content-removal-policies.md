@@ -1,33 +1,33 @@
-Content Removal Policies - GitHub Docs
+Políticas de remoção de conteúdo - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Content Removal Policies](/pt/site-policy/content-removal-policies)
+* [Política do site](/pt/site-policy)/
+* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
 
-Content Removal Policies
+Políticas de remoção de conteúdo
 ==========
 
-[Submitting content removal requests](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
+[Como enviar solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
 ----------
 
-[DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
+[Política de remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[GitHub Private Information Removal Policy](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
+[Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[GitHub Trademark Policy](/pt/site-policy/content-removal-policies/github-trademark-policy)
+[Política de marca registrada do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
-[Guide to Submitting a DMCA Counter Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+[Guia para enviar uma contranotificação da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 ----------
 
-[Guide to Submitting a DMCA Takedown Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+[Guia para enviar um aviso de remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
 
 {"resolvedServerColorMode":"day"}

@@ -1,33 +1,33 @@
-Content Removal Policies - GitHub Docs
+콘텐츠 제거 정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [Content Removal Policies](/ko/site-policy/content-removal-policies)
+* [사이트 정책](/ko/site-policy)/
+* [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
 
-Content Removal Policies
+콘텐츠 제거 정책
 ==========
 
-[Submitting content removal requests](/ko/site-policy/content-removal-policies/submitting-content-removal-requests)
+[콘텐츠 제거 요청 제출](/ko/site-policy/content-removal-policies/submitting-content-removal-requests)
 ----------
 
-[DMCA Takedown Policy](/ko/site-policy/content-removal-policies/dmca-takedown-policy)
+[DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[GitHub Private Information Removal Policy](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)
+[GitHub 개인 정보 제거 정책](/ko/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[GitHub Trademark Policy](/ko/site-policy/content-removal-policies/github-trademark-policy)
+[GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
-[Guide to Submitting a DMCA Counter Notice](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+[DMCA 반론 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 ----------
 
-[Guide to Submitting a DMCA Takedown Notice](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+[DMCA 게시 중단 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
 
 {"resolvedServerColorMode":"day"}

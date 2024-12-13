@@ -1,33 +1,33 @@
-Content Removal Policies - GitHub Docs
+Richtlinien zum Entfernen von Inhalten - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Content Removal Policies](/de/site-policy/content-removal-policies)
+* [Websiterichtlinie](/de/site-policy)/
+* [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
 
-Content Removal Policies
+Richtlinien zum Entfernen von Inhalten
 ==========
 
-[Submitting content removal requests](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
+[Einreichen von Anträgen auf Entfernung von Inhalten](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
 ----------
 
-[DMCA Takedown Policy](/de/site-policy/content-removal-policies/dmca-takedown-policy)
+[DMCA Takedown-Richtlinie](/de/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[GitHub Private Information Removal Policy](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
+[Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[GitHub Trademark Policy](/de/site-policy/content-removal-policies/github-trademark-policy)
+[GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
-[Guide to Submitting a DMCA Counter Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+[Anleitung zum Einreichen einer DMCA-Gegendarstellung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 ----------
 
-[Guide to Submitting a DMCA Takedown Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+[Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
 
 {"resolvedServerColorMode":"day"}

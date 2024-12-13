@@ -1,42 +1,42 @@
-GitHub Username Policy - GitHub Docs
+Politique de nom d'utilisateur GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)/
-* [Other Site Policies](/fr/site-policy/other-site-policies)/
-* [GitHub Username Policy](/fr/site-policy/other-site-policies/github-username-policy)
+* [Politique du site](/fr/site-policy)/
+* [Autres politiques du site](/fr/site-policy/other-site-policies)/
+* [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
 
-GitHub Username Policy
+Politique de nom d'utilisateur GitHub
 ==========
 
-In this article
+Dans cet article
 ----------
 
-* [What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
-* [Trademark Policy](#trademark-policy)
-* [Name Squatting Policy](#name-squatting-policy)
+* [Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
+* [Politique relative aux marques](#trademark-policy)
+* [Politique de squattage de nom](#name-squatting-policy)
 
-GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
+Les noms de compte GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.
 
-[What if the username I want is already taken?](#what-if-the-username-i-want-is-already-taken)
+[Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
 ----------
 
-Keep in mind that not all activity on GitHub is publicly visible; accounts with no visible activity may be in active use.
+Gardez à l'esprit que toutes les activités sur GitHub ne sont pas visibles publiquement ; les comptes sans activité visible peuvent être en cours d'utilisation active.
 
-If the username you want has already been claimed, consider other names or unique variations. Using a number, hyphen, or an alternative spelling might help you identify a desirable username that's still available.
+Si le nom d'utilisateur que vous souhaitez a déjà été revendiqué, envisagez d'autres noms ou des variantes uniques. L'utilisation d'un numéro, d'un trait d'union ou d'une orthographe alternative peut vous aider à identifier un nom d'utilisateur souhaitable encore disponible.
 
-[Trademark Policy](#trademark-policy)
+[Politique relative aux marques](#trademark-policy)
 ----------
 
-If you believe someone's account is violating your trademark rights, you can find more information about making a trademark complaint on our [Trademark Policy](/fr/site-policy/content-removal-policies/github-trademark-policy) page.
+Si vous pensez que le compte d'une personne viole vos droits en matière de marques commerciales, vous trouverez plus d'informations sur la manière de déposer une plainte pour ce problème sur notre page de la [Politique relative aux Marques commerciales](/fr/site-policy/content-removal-policies/github-trademark-policy).
 
-[Name Squatting Policy](#name-squatting-policy)
+[Politique de squattage de nom](#name-squatting-policy)
 ----------
 
-GitHub prohibits account name squatting, and account names may not be reserved or inactively held for future use. Accounts violating this name squatting policy may be removed or renamed without notice. Attempts to sell, buy, or solicit other forms of payment in exchange for account names are prohibited and may result in permanent account suspension.
+GitHub interdit le squattage de noms de compte, et les noms de compte ne peuvent pas être réservés ou détenus de manière inactive pour une utilisation future. Les comptes qui enfreignent cette politique de squattage de nom peuvent être supprimés ou renommés sans préavis. Les tentatives de vente, d'achat ou de sollicitation d'autres formes de paiement en échange de noms de compte sont interdites et peuvent entraîner la suspension permanente du compte.
 
 {"resolvedServerColorMode":"day"}

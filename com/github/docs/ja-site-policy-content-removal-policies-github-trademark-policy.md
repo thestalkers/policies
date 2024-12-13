@@ -1,85 +1,85 @@
-GitHub Trademark Policy - GitHub Docs
+GitHub の商標ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Content Removal Policies](/ja/site-policy/content-removal-policies)/
-* [GitHub Trademark Policy](/ja/site-policy/content-removal-policies/github-trademark-policy)
+* [サイト ポリシー](/ja/site-policy)/
+* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
+* [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
 
-GitHub Trademark Policy
+GitHub の商標ポリシー
 ==========
 
-In this article
+この記事の内容
 ----------
 
-* [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
-* [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
-* [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
-* [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
-* [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
+* [GitHub の商標ポリシー違反とはどのようなことですか?](#what-is-a-github-trademark-policy-violation)
+* [GitHub の商標ポリシー違反に当たらないのは、どのようなことですか?](#what-is-not-a-github-trademark-policy-violation)
+* [GitHub は、報告された商標ポリシー違反にどのように対応しますか?](#how-does-github-respond-to-reported-trademark-policy-violations)
+* [商標ポリシー違反を報告するにはどうすればよいですか?](#how-do-i-report-a-trademark-policy-violation)
+* [商標ポリシー違反を報告する際に、どのような情報が必要ですか?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
+[GitHub の商標ポリシー違反とはどのようなことですか?](#what-is-a-github-trademark-policy-violation)
 ----------
 
-Using a company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others with regard to its brand or business affiliation may be considered a trademark policy violation.
+会社名または商号、ロゴ、またはその他の商標によって保護されている物を、そのブランドや系列に関連して他人に誤解または混乱を招くおそれがある方法で使用することは、商標ポリシー違反と見なされる場合があります。
 
-[What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
+[GitHub の商標ポリシー違反に当たらないのは、どのようなことですか?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
-Using another's trademark in a way that has nothing to do with the product or service for which the trademark was granted is not a trademark policy violation. GitHub user names are available on a first come, first served basis and may not be reserved. A GitHub account with a user name that happens to be the same as a registered trademark is not, by itself, necessarily a violation of our trademark policy.
+別の商標をその使用が許諾された製品やサービスとは関係のない方法で使用することは、商標ポリシー違反ではありません。 GitHub ユーザー名は、先着順で提供されており、予約することはできません。 GitHub アカウントのユーザー名が偶然、登録商標と同じである場合、それ自体は必ずしも当社の商標ポリシー違反には当たりません。
 
-[How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
+[GitHub は、報告された商標ポリシー違反にどのように対応しますか?](#how-does-github-respond-to-reported-trademark-policy-violations)
 ----------
 
-When we receive reports of trademark policy violations from holders of federal or international trademark registrations, we review the account and may take the following actions:
+当社は連邦または国際商標登録の取得者から商標ポリシー違反の報告を受けたら、アカウントを確認し、次の措置を講じる場合があります。
 
-* When there is a clear intent to mislead others through the unauthorized use of a trademark, GitHub will suspend the account and notify the account holder.
-* When we determine that an account appears to be confusing users, but is not purposefully passing itself off as the trademarked good or service, we give the account holder an opportunity to clear up any potential confusion. We may also release a username for the trademark holder's active use.
+* 商標を無断で使用することにより、他人に誤解を招く明確な意図がある場合、GitHub はアカウントを停止し、アカウント保有者に通知します。
+* 当社は、アカウントがユーザーの混乱を招くように見えるが、商標登録された商品やサービスに見せようとする意図はないと判断した場合、アカウント保有者に可能性のある混乱を収拾する機会を与えます。 当社は、商標取得者の有効な使用についてユーザー名を公表する場合もあります。
 
-[How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
+[商標ポリシー違反を報告するにはどうすればよいですか?](#how-do-i-report-a-trademark-policy-violation)
 ----------
 
-Holders of registered trademarks can report possible trademark policy violations to GitHub via [Submit a Trademark Policy Violation Report](https://support.github.com/contact/trademark-policy). Please use the contact form and submit trademark-related requests using your company email address and include all the information requested below to help expedite our response. Also be sure to clearly describe to us why the account may cause confusion with your mark or how the account may dilute or tarnish your mark.
+登録商標の取得者は、可能性のある商標ポリシー違反を「[商標ポリシー違反レポートの送信](https://support.github.com/contact/trademark-policy)」を通じて GitHub に報告できます。 商標関連の要求は、お問い合わせフォームから貴社の電子メール アドレスを使用して提出してください。その際に、迅速に対応できるように、以下に要求するすべての情報を記入してください。 また、そのアカウントがお客様のマークとの混同を引き起こした原因や、そのアカウントがどのようにお客様のマークを損なったか、または傷付けたかを必ず明確に説明してください。
 
-[What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
+[商標ポリシー違反を報告する際に、どのような情報が必要ですか?](#what-information-is-required-when-reporting-trademark-policy-violations)
 ----------
 
-In order to investigate trademark policy violations, please provide all of the following information:
+商標ポリシー違反を調査するために、以下の情報をすべて提供してください。
 
-* Username of the reported account
+* 報告したアカウントのユーザー名
 
-* Your company name
+* お客様の会社名
 
-* Your company GitHub account (if there is one)
+* お客様の会社の GitHub アカウント (アカウントがある場合)
 
-* Company website
+* 会社の Web サイト
 
-* Your trademarked word, symbol, etc.
+* 商標登録された言葉や記号など
 
-* Trademark registration number
+* 商標登録番号
 
-* Trademark registration office (e.g., USPTO)
+* 商標登録機関 (USPTO など)
 
-* Description of confusion (e.g., passing off as your company, including specific descriptions of content or behavior)
+* 混乱の説明 (貴社の名前をかたるなど。内容や行為の明確な説明を含む)
 
-* Requested Action (e.g., removal of violating account or transfer of trademarked username to an existing company account)
+* 要求する措置 (違反しているアカウントの削除や、商標登録したユーザー名を既存の会社のアカウントに譲渡することなど)
 
-* Include the following statement: "I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. I have taken nominative and other fair uses into consideration."
+* 以下の文言を含めてください。「I have a good faith belief that use of the trademark described above is not authorized by the trademark owner, or its agent, or the law. (上記の商標の使用が、商標の所有者またはその代理人、もしくは法律によって許可されていないと誠実な信念に基づいて判断します。) I have taken nominative and other fair uses into consideration. (指定された他の公正な方法での使用を考慮しました。)」
 
-* Also include the following statement: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
+* 以下の文言も含めてください。「I swear, under penalty of perjury, that the information in this notification is accurate and that I am the trademark owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed. (私は、偽証罪により罰せられるという条件で、この通知の情報が正確であり、違反するとされた独占的権利の商標所有者もしくは所有者に代わって措置を講じることを許可された者であることを誓います。)」
 
-* Include your physical or electronic signature.
+* お客様の直筆または電子署名を入れてください。
 
-* Note: A federal or international trademark registration number is required. If the name you are reporting is **not** a registered mark (e.g., a government agency or non-profit organization), please let us know:
+* 注: 連邦または国際商標登録番号が必要です。 報告する名称が**登録商標でない** (政府機関や非営利団体など) 場合は、当社にお知らせください。
 
-  * Your first and last name
-  * Title
-  * Address
-  * Phone
-  * Email (must be from company domain)
+  * お客様の氏名
+  * 敬称
+  * 住所
+  * 電話番号
+  * 電子メール (会社のドメインからのものが必要)
 
 {"resolvedServerColorMode":"day"}

@@ -1,30 +1,30 @@
-Privacy Policies - GitHub Docs
+プライバシー ポリシー - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Privacy Policies](/ja/site-policy/privacy-policies)
+* [サイト ポリシー](/ja/site-policy)/
+* [プライバシー ポリシー](/ja/site-policy/privacy-policies)
 
-Privacy Policies
+プライバシー ポリシー
 ==========
 
-[GitHub General Privacy Statement](/ja/site-policy/privacy-policies/github-general-privacy-statement)
+[GitHub の一般プライバシー ステートメント](/ja/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
-[GitHub Subprocessors](/ja/site-policy/privacy-policies/github-subprocessors)
+[GitHub の下請処理者](/ja/site-policy/privacy-policies/github-subprocessors)
 ----------
 
-[GitHub Cookies](/ja/site-policy/privacy-policies/github-cookies)
+[GitHub の Cookie](/ja/site-policy/privacy-policies/github-cookies)
 ----------
 
-[GitHub Codespaces Privacy Statement](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[GitHub Codespaces プライバシーに関する声明](/ja/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[GitHub Candidate Privacy Policy](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub 応募者プライバシー ポリシー](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

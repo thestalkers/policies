@@ -1,20 +1,20 @@
-GitHub Logo Policy - GitHub Docs
+Политика логотипа GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Other Site Policies](/ru/site-policy/other-site-policies)/
-* [GitHub Logo Policy](/ru/site-policy/other-site-policies/github-logo-policy)
+* [Политика сайта](/ru/site-policy)/
+* [Другие правила сайта](/ru/site-policy/other-site-policies)/
+* [Политика логотипа GitHub](/ru/site-policy/other-site-policies/github-logo-policy)
 
-GitHub Logo Policy
+Политика логотипа GitHub
 ==========
 
-You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
+Вы можете добавить GitHub логотипы на ваш веб-сайт или стороннее приложение в некоторых сценариях. Для получения дополнительной информации и конкретных рекомендаций по использованию логотипа см. Страницу логотипов и использования [GitHub](https://github.com/logos).
 
-You can also use an octocat as your personal avatar or on your website to link to your GitHub account, but not for your company or a product you're building. GitHub has an extensive collection of octocats in the [Octodex](https://octodex.github.com/). For more information on using the octocats from the Octodex, see the [Octodex FAQ](https://octodex.github.com/faq/).
+Вы также можете использовать осьминога в качестве своего личного аватара или на своем веб-сайте для ссылки на вашу GitHub учетную запись, но не для вашей компании или продукта, который вы создаете. GitHub имеет обширную коллекцию кошконогов в [Octodex](https://octodex.github.com/). Для получения дополнительной информации об использовании осьминогов из Octodex см. [Часто задаваемые вопросы по Octodex](https://octodex.github.com/faq/).
 
 {"resolvedServerColorMode":"day"}

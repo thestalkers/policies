@@ -1,115 +1,115 @@
-GitHub Private Information Removal Policy - GitHub Docs
+GitHub 私人信息删除政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Content Removal Policies](/zh/site-policy/content-removal-policies)/
-* [GitHub Private Information Removal Policy](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
+* [站点政策](/zh/site-policy)/
+* [内容删除政策](/zh/site-policy/content-removal-policies)/
+* [GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
 
-GitHub Private Information Removal Policy
+GitHub 私人信息删除政策
 ==========
 
-In this article
+本文内容
 ----------
 
-* [What is Private Information?](#what-is-private-information)
-* [Things to Know](#things-to-know)
-* [How Does This Actually Work?](#how-does-this-actually-work)
-* [Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
-* [How to Submit Your Request](#how-to-submit-your-request)
-* [Disputes](#disputes)
+* [什么是私人信息？](#what-is-private-information)
+* [须知](#things-to-know)
+* [此流程实际上是如何运作的？](#how-does-this-actually-work)
+* [发送私人信息删除请求](#sending-a-private-information-removal-request)
+* [如何提交请求](#how-to-submit-your-request)
+* [争议](#disputes)
 
-We offer this private information removal process as an exceptional service only for high-risk content that violates [GitHub's Terms of Service](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), such as when your security is at risk from exposed access credentials. This guide describes the information GitHub needs from you in order to process a request to remove private information from a repository.
+我们提供的这个私人信息删除流程是一项特殊服务，仅针对违反 [GitHub 服务条款](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)的高风险内容，例如当您的安全面临暴露访问凭据的风险时。 本指南说明了 GitHub 需要您提供哪些信息，才能处理从存储库中删除私人信息的请求。
 
-[What is Private Information?](#what-is-private-information)
+[什么是私人信息？](#what-is-private-information)
 ----------
 
-For the purposes of this document, “private information” refers to content that (i) should have been kept confidential, *and* (ii) whose public availability poses a specific or targeted security risk to you or your organization.
+就本文档而言，“私人信息”是指符合以下条件的内容：(i) 应该保密，*并且* (ii) 一旦公开，会对您或您的组织造成特定安全风险。
 
-"Security risk" refers to a situation involving exposure to physical danger, identity theft, or increased likelihood of unauthorized access to physical or network facilities.
+“安全风险”是指人身危险、身份盗窃或未经授权进入实体或网络设施的可能性增加的情况。
 
-### [Private information removal requests are appropriate for:](#private-information-removal-requests-are-appropriate-for) ###
+### [私人信息删除请求适用于：](#private-information-removal-requests-are-appropriate-for) ###
 
-* Access credentials, such as user names combined with passwords, access tokens, or other sensitive secrets that can grant access to your organization's server, network, or domain.
-* AWS tokens and other similar access credentials that grant access to a third party on your behalf. You must be able to show that the token does belong to you.
-* Documentation (such as network diagrams or architecture) that poses a specific security risk for an organization.
-* [Information](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) related to, and posing a security risk to, you as an individual (such as social security numbers or other government identification numbers).
+* 可访问您组织的服务器、网络或域的访问凭据，例如用户名与密码组合、访问令牌或其他敏感密钥。
+* 可代表您访问第三方的 AWS 令牌和其他类似访问凭据。 您必须能够证明该令牌确实属于您。
+* 对组织构成特定安全风险的文档（例如网络图或架构）。
+* 与您个人相关并对您构成安全风险的[信息](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)（如社会保障号码或其他政府身份号码）。
 
-### [Private information removal requests are *not* appropriate for:](#private-information-removal-requests-are-not-appropriate-for) ###
+### [私人信息删除请求不适用于：](#private-information-removal-requests-are-not-appropriate-for) ###
 
-* Internal server names, IP addresses, and URLs, on their own. You must be able to show that their use in a particular file or piece of code poses a security threat.
-* Mere mentions of your company's identity, name, brand, domain name, or other references to your company in files on GitHub. You must be able to articulate why a use of your company's identity is a threat to your company's security posture.
-* Entire files or repositories that do not pose a specific security risk, but you believe are otherwise objectionable.
-* Requests to remove content that may infringe your or your organization's copyright rights. If you have questions about how GitHub handles copyright-related matters or would like to report potentially infringing content, please review our [DMCA Takedown Policy](/zh/site-policy/content-removal-policies/dmca-takedown-policy). The private information removal process is generally not intended for the removal of full files or repositories — only for the specific pieces of private information in those files. While there may be cases where files are filled entirely with private information, you must justify the security risk for the removal of such files, and this may increase the time required to process your request.
-* Trademark disputes. If you have questions about how GitHub handles trademark-related matters or would like to report content containing your organization's trade or service marks, please review our [Trademark Policy](/zh/site-policy/content-removal-policies/github-trademark-policy).
-* Privacy complaints. If you wish to access, transfer, change, or delete your personal information on GitHub, please contact us via [our Privacy contact form](https://github.com/contact/privacy).
-* Content governed by our [Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines), such as malware or general-purpose tools. If you have questions about our Community Guidelines or believe that content on GitHub might violate our guidelines, you can contact us through the [GitHub Support portal](https://support.github.com/) to report content.
+* 他们自己的内部服务器名称、IP 地址和 URL。 您必须能够证明它们在特定文件或代码段中的使用会构成安全威胁。
+* 在 GitHub 上的文件中仅提及您公司的身份、名称、品牌、域名或对您公司的其他引用。 您必须能够阐明为什么使用您公司的身份会威胁到您公司的安全状况。
+* 整个文件或存储库并不构成特定的安全风险，但是您认为在其他方面令人反感。
+* 请求删除可能侵犯您或您组织的版权的内容。 如果您对 GitHub 如何处理版权相关事项有疑问，或者要举报涉嫌侵权的内容，请参阅我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)。 私人信息删除流程一般不会删除整个文件或存储库，而只是删除这些文件中的特定私人信息部分。 但可能存在文件中全是私人信息的情况，在这种情况下，您必须证明删除该文件是避免安全风险的合理措施，并且这可能会增加处理请求所需的时间。
+* 商标争议。 如果您对 GitHub 如何处理商标相关事项有疑问，或者要举报包含您组织的商标或服务标志的内容，请查看我们的[商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)。
+* 隐私投诉。 如果您想要访问、转让、更改或删除您在 GitHub 上的个人信息，请通过[我们的隐私联系表](https://github.com/contact/privacy)联系我们。
+* 受我们的[社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)约束的内容，例如恶意软件或万能工具。 如果您对我们的社区指导方针有疑问，或者认为 GitHub 上的内容涉嫌违反我们的指导方针，请通过 联系我们，来举报涉嫌违反的内容。
 
-[Things to Know](#things-to-know)
+[须知](#things-to-know)
 ----------
 
-**Ask Nicely First.** A great first step before sending us a request to remove data is to try contacting the user directly. They may have listed contact information on their public profile page or in the repository's README or Support file, or you could get in touch by creating an issue or pull request in the repository. This is not strictly required, but it is appreciated.
+**先礼貌问清。** 向我们发送删除数据请求之前尝试直接联系用户，是一个良好的开端。 他们可能在其公开的个人资料页面上或者存储库的自述文件或支持文件中列出了联系信息，您也可以通过在存储库中创建议题或拉取请求，与他们取得联系。 这不是强制要求，但值得赞赏。
 
-**No Bots.** You should have a trained professional evaluate the facts of every request you send. If you're outsourcing your efforts to a third party, make sure you know how they operate, and make sure they are not using automated bots to submit complaints in bulk. These complaints often include data that does not pose any security threats, and they do not include sufficient explanations, requiring additional back-and-forth and resulting in delays, even when the complaint is valid.
+**不要使用自动程序。** 应该让训练有素的专业人员来评估您发送的每个请求中的事实。 如果您将工作外包给第三方，请务必了解他们的运作方式，确保他们不使用自动程序来批量提交投诉。 这些投诉通常包含不构成任何安全威胁的数据，并且不提供充分的说明，即使该投诉有效，也需要来回确认，耗时费力。
 
-**Send In The Correct Request.** As noted above, we offer this private information removal process as an exceptional service only for high-risk content. We are not able to use this process to remove other kinds of content, such as potentially infringing content, and we are not able to process any other kinds of removal requests simultaneously while processing private information removal requests. We will be able to help you more quickly if you send in your private information removal requests separately from any requests to remove potentially infringing content. If you are unsure whether your request involves only private information or also involves other legal matters, please consult legal counsel.
+**发送正确的请求。** 如上所述，我们的私人信息删除流程是仅针对高风险内容的特殊服务。 我们不能使用此流程来删除其他类型的内容，例如涉嫌侵权的内容，我们也不能在处理私人信息删除请求的同时处理任何其他类型的删除请求。 如果您将私人信息删除请求与任何涉嫌侵权内容的删除请求分开发送，我们将能够更快地帮助您。 如果您不确定自己的请求是仅涉及私人信息，还是同时涉及了其他法律问题，请咨询法律顾问。
 
-**Processing Time.** While we do process private information removal requests as quickly as possible, due to the volume of requests we process, it may take some time for your request to be reviewed. Additional requests, or multiple requests from additional points of contact, may result in delays.
+**处理时效。** 尽管我们会尽快处理私人信息删除请求，但由于我们要处理的请求数量很大，因此审查您的请求可能需要一些时间。 多次请求，或从不同的联系点发送多个请求，可能会导致延迟。
 
-[How Does This Actually Work?](#how-does-this-actually-work)
+[此流程实际上是如何运作的？](#how-does-this-actually-work)
 ----------
 
-1. **Complainant Investigates.** It is up to the requesting party to conduct their own investigation and to provide us with the [details we require](#your-request-must-include) — most importantly, an explanation of how the data poses a security risk. GitHub is not in a position to search for or make initial determinations about private information on any individual's or organization's behalf.
+1. **投诉人调查。** 请求方自行负责调查并提供[我们所需的详细信息](#your-request-must-include)，最重要的是解释数据如何构成安全风险。 GitHub 不能代表任何个人或组织搜索或初步确定私人信息。
 
-2. **Complainant Sends a Private Information Removal Request.** After conducting an investigation, the complainant prepares and [sends a private information removal request](#sending-a-private-information-removal-request) to GitHub. If the request is not sufficiently detailed to demonstrate the security risk and for GitHub to locate the data, we will reply and ask for more information.
+2. **投诉人发送私人信息删除请求。** 进行调查后，投诉人编写并向 GitHub [发送私人信息删除请求](#sending-a-private-information-removal-request)。 如果请求不够详细，导致不足以证明存在安全风险和指引 GitHub 找到数据，我们将回复您并要求提供更多信息。
 
-3. **GitHub Asks User to Make Changes.** In most cases, we will contact the user who created the repository and give them an opportunity to delete or modify the private information specified in the request or to dispute the claim.
+3. **GitHub 要求用户进行更改。** 大多数情况下，我们会联系创建存储库的用户，给他们删除或修改投诉中指出的私人信息或对投诉提出争议的机会。
 
-4. **User Notifies GitHub of Changes.** If the user chooses to make the specified changes, they must tell us so within the window of time they've been allowed. If they don't, we will disable the repository. If the user notifies us that they made changes, we will verify that the changes have been made and notify the complainant.
+4. **用户通知 GitHub 已进行更改。** 如果用户选择进行指定的更改，则必须在规定的时间内告知我们。 如果没有，我们将禁用存储库。 如果用户通知我们已进行更改，我们将进行核实然后通知投诉人。
 
-   OR
+   或者
 
-5. **User May Dispute the Request.** If a user believes the content in question is not private information subject to this Policy, they may dispute it. If they do, we will generally leave it up to the complainant to contact the user and work things out with them directly, within reason.
+5. **用户可提出争议。** 如果用户认为所涉内容不是受本政策约束的私人信息，可以提出争议。 如果他们提出异议，我们通常会让投诉人联系用户，并在合理的范围内直接与他们一起解决问题。
 
-6. **Complainant Reviews Changes.** If the user makes changes, the complainant must review them. If the changes are insufficient, the complainant must provide GitHub with details explaining why. GitHub may disable the repository or give the user an additional chance to make the changes.
+6. **投诉人审查更改。** 如果用户进行了更改，则投诉人必须进行审查。 如果认为改动不够，投诉人必须向 GitHub 详细说明原因。 GitHub 可能会禁用存储库，或者再给用户一次更改的机会。
 
-7. **User May Request an Additional Window to Make Changes.** If the user missed their opportunity to remove the private information specified in the notice, we may allow them an additional window of approximately 1 business day, upon request, to make those changes. In that event, GitHub will notify the complainant.
+7. **用户可申请再次更改机会。** 如果用户错过了删除通知指定的私人信息的机会，我们可能应其申请再提供 1 个工作日的更改时间。 在这种情况下，GitHub 会通知投诉人。
 
-### [What About Forks? (or What's a Fork?)](#what-about-forks-or-whats-a-fork) ###
+### [如何处理复刻 (Fork)？ （或者什么是复刻？）](#what-about-forks-or-whats-a-fork) ###
 
-One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[GitHub glossary](/zh/get-started/learning-about-github/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
+GitHub 的最佳功能之一是用户能够“复刻”彼此的存储库。 这意味着什么？ 从本质上讲，这意味着用户可以将 GitHub 上的项目复制到自己的存储库中。 在许可或法律允许的情况下，用户可以对该复刻进行更改然后将其推送到主项目或只保留为自己的项目变体。 每个此类副本都是原存储库的“[GitHub 词汇表](/zh/get-started/learning-about-github/github-glossary#fork)”，或者说原存储库也可称为复刻的“父存储库”。
 
-GitHub will not automatically disable forks when disabling a parent repository. This is because forks belong to different users and may have been altered in significant ways. GitHub does not conduct any independent investigation into forks. We expect those sending private information removal requests to conduct that investigation and, if they believe that the forks also contain private information, expressly include forks in their request.
+GitHub 在禁用父存储库时不会自动禁用复刻。 这是因为复刻属于不同的用户，并且可能进行了重大更改。 GitHub 不会对复刻进行任何独立调查。 我们希望私人信息删除请求发送者进行这种调查，如果他们认为复刻也包含私人信息，则应在其请求中明确包括这些复刻。
 
-If at the time that you submitted your notice, you identified all existing forks of that repository, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the reported content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, based on the representative number of forks you have reviewed, you believe that all or most of the forks contain the content reported in the parent repository.
+如果您在提交通知时发现该存储库的所有现有复刻，我们将在处理通知时处理对该网络中所有复刻的有效索赔。 我们这样做是考虑到所有新建复刻都可能包含相同的内容。 此外，如果所报告的包含举报内容的网络大于一百 (100) 个存储库，从而很难全面审查，并且您在通知中指出，根据您审查的代表性复刻数量，您相信所有或大多数复刻都包含在父存储库中报告的内容，则我们可能会考虑禁用整个网络。
 
-[Sending A Private Information Removal Request](#sending-a-private-information-removal-request)
+[发送私人信息删除请求](#sending-a-private-information-removal-request)
 ----------
 
-Due to the type of content GitHub hosts (mostly software code) and the way that content is managed (with Git), we need complaints to be as specific as possible. In order for us to verify that a user has removed reported private information completely, we need to know exactly where to look.
+鉴于 GitHub 托管内容的类型（主要是软件代码）以及管理内容的方式（使用 Git），我们需要投诉内容尽可能具体。 为了核实用户是否完全删除了被举报的私人信息，我们需要确切了解要审查的位置。
 
-These guidelines are designed to make the processing of requests to remove private information as straightforward as possible.
+这些准则旨在使处理私人信息删除请求的过程尽可能的简单。
 
-### [Your Request Must Include:](#your-request-must-include) ###
+### [您的请求必须包括：](#your-request-must-include) ###
 
-1. A working, clickable link to each file containing private information. (Note that we're not able to work from search results, examples, or screenshots.)
-2. Specific line numbers within each file containing the private information.
-3. A brief description of how each item you've identified poses a security risk to you or your organization. ***It is important that you provide an explanation of how the data poses a security risk beyond merely stating that it does.***
-4. If you are a third party acting as an agent for an organization facing a security risk, include a statement that you have a legal right to act on behalf of that organization.
-5. OPTIONAL: Let us know if your request is particularly urgent, and why. We respond to all private information removal requests as quickly as possible. However, if this request is especially time-sensitive, such as a very recent credential exposure, please explain why.
+1. 每个包含私人信息的文件的可点击有效链接。 （请注意，我们不会处理搜索结果、示例或屏幕截图。）
+2. 每个文件中包含私人信息的具体行号。
+3. 简要说明您标识的每个条目如何对您或您的组织构成安全风险。 ***不仅要指出敏感数据，还要解释这些数据如何构成安全风险，这非常重要。***
+4. 如果您是代表面临安全风险之组织行事的第三方，请附上声明，表明您具有代表该组织行事的合法权利。
+5. 可选：如果您的请求非常紧迫，请告知我们并说明原因。 我们会尽快响应所有私人信息删除请求。 但是，如果您的请求在时间上特别紧迫，例如最近的凭据暴露，请说明原因。
 
-[How to Submit Your Request](#how-to-submit-your-request)
+[如何提交请求](#how-to-submit-your-request)
 ----------
 
-You can submit your request to remove private information via our [contact form](https://support.github.com/contact?tags=docs-private-information). Please include a plain-text version of your request in the body of your message. Sending your request in an attachment may result in processing delays.
+您可以通过我们的[联系表格](https://support.github.com/contact?tags=docs-private-information)提交删除私人信息的申请。 请在邮件正文中包含请求的纯文本版本。 以附件形式发送请求可能导致处理延迟。
 
-[Disputes](#disputes)
+[争议](#disputes)
 ----------
 
-If you received a private information removal request from us, you can dispute it by replying to our email and letting us know — in as much detail as possible — why you think the content in question is not private information subject to this Policy.
+如果您收到我们的私人信息删除请求，可通过回复我们的电子邮件提出争议，请尽可能详细地说明为什么您认为所涉内容不是受本政策约束的私人信息。
 
 {"resolvedServerColorMode":"day"}

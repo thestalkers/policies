@@ -1,27 +1,27 @@
-GitHub Company Policies - GitHub Docs
+Политика компании GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [GitHub Company Policies](/ru/site-policy/github-company-policies)
+* [Политика сайта](/ru/site-policy)/
+* [Политика компании GitHub](/ru/site-policy/github-company-policies)
 
-GitHub Company Policies
+Политика компании GitHub
 ==========
 
-[GitHub Statement Against Modern Slavery and Child Labor](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[Заявление GitHub против современного рабства и детского труда](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 ----------
 
-[GitHub Anti-Bribery Statement](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
+[Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 ----------
 
-[GitHub GPL Cooperation Commitment](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+[Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 ----------
 
-[GitHub Gifts and Entertainment Policy](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[Политика GitHub в отношении подарков и развлечений](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

@@ -1,70 +1,70 @@
-GitHub Event Code of Conduct - GitHub Docs
+GitHub 이벤트 준수 사항 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [GitHub Terms](/ko/site-policy/github-terms)/
-* [GitHub Event Code of Conduct](/ko/site-policy/github-terms/github-event-code-of-conduct)
+* [사이트 정책](/ko/site-policy)/
+* [GitHub 약관](/ko/site-policy/github-terms)/
+* [GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
 
-GitHub Event Code of Conduct
+GitHub 이벤트 준수 사항
 ==========
 
-In this article
+이 문서의 내용
 ----------
 
-* [Code of Conduct](#code-of-conduct)
-* [Reporting an incident](#reporting-an-incident)
-* [Credit](#credit)
+* [준수 사항](#code-of-conduct)
+* [사고 보고](#reporting-an-incident)
+* [크레딧](#credit)
 
-[Code of Conduct](#code-of-conduct)
+[준수 사항](#code-of-conduct)
 ----------
 
-By attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Code of Conduct (hereinafter “Code of Conduct”). This Code of Conduct applies to all attendees, speakers, exhibitors, sponsors, organizers, staff, and volunteers (collectively “Event Participants”) at the Event.
+GitHub 이벤트(총칭하여 "이벤트")와 관련하여 GitHub에서 주최한 모든 이벤트 또는 활동을 포함하여 GitHub 이벤트에 참석함으로써 귀하는 다음과 같은 이벤트 준수 사항(이후 "준수 사항")을 읽고 이해했으며 이에 동의한다는 의사를 표시합니다. 본 준수 사항은 이벤트의 모든 참석자, 연설자, 전시업체, 스폰서, 주최자, 직원 및 자원봉사자(총칭하여 "이벤트 참가자")에게 적용됩니다.
 
-GitHub values the participation of all Event Participants and aims to create an event where all Event Participants have an enjoyable and fulfilling experience. Accordingly, all Event Participants are expected to show respect and courtesy to other Event Participants throughout the Event.
+GitHub는 모든 이벤트 참가자의 참여를 소중히 생각하고 모든 이벤트 참가자가 즐겁고 만족스러운 경험을 할 수 있는 이벤트를 만드는 것을 목표입니다. 따라서 모든 이벤트 참가자는 전체 이벤트 동안 다른 이벤트 참가자를 존중하고 배려해야 합니다.
 
-GitHub is dedicated to providing a positive and harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience.
+GitHub는 연령, 성별, 성 정체성 및 표현, 성적 취향, 장애, 외모, 체구, 출신 민족, 인종, 종교, 국적 또는 경험 수준(숙련도)에 관계없이 모든 사람에게 긍정적이고 괴롭힘 없는 경험을 제공하기 위해 최선을 다하고 있습니다.
 
-We do not tolerate harassment of Event Participants in any form, nor do we tolerate any behavior that would reasonably lead to an Event Participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication and behavior should be appropriate for a professional setting including people of many different backgrounds.
+GitHub는 어떤 형태로든 이벤트 참가자에 대한 괴롭힘을 용납하지 않으며, 이벤트 참가자가 신체적, 정서적 웰빙에 대해 위험을 느끼거나 불안해하거나 걱정하는 원인이 될 수 있는 어떠한 행위도 용납하지 않습니다. 모든 의사소통과 행동은 다양한 배경을 가진 사람을 포함한 전문 집단에 적합해야 합니다.
 
-Examples of encouraged behavior that contributes to a positive environment include:
+긍정적인 환경에 기여하는 권장 행동의 예는 다음과 같습니다.
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for everyone at the Event
-* Showing empathy towards others and Event Participants
+* 환대와 포용의 언어를 사용
+* 다양한 관점과 경험을 존중
+* 건설적인 비평을 정중하게 수용
+* 이벤트에서 모든 이에게 가장 좋은 것에 집중
+* 다른 이와 이벤트 참가자에 대한 공감을 표시
 
-Unacceptable behavior includes, but is not limited to:
+허용되지 않는 행동(다음을 포함하지만, 이에 국한되지 않음):
 
-* The use of sexualized language or imagery
-* Inappropriate physical contact, sexual attention, or advances
-* Trolling, insulting or derogatory comments or behavior
-* Personal or political attacks toward Event Participants
-* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
-* Intimidation, stalking, following, or harassing of Event Participants
-* Photography or recording of Event Participants without their consent
-* Harassment of any kind, even in a joking or ironic manner
-* Conduct which could reasonably be considered inappropriate in a professional setting
+* 성적인 언어나 이미지의 사용
+* 부적절한 신체 접촉, 성적 관심 또는 접근
+* 유해물 게시(트롤링), 모욕 또는 경멸적인 말이나 행동
+* 이벤트 참가자에 대한 인신 공격 또는 정치적 공격
+* 이벤트와 관련하여 GitHub에서 주최한 대화 또는 기타 이벤트나 활동의 지속적인 방해
+* 이벤트 참가자에 대한 협박, 스토킹, 팔로우 또는 괴롭힘
+* 동의 없이 이벤트 참가자의 사진 촬영 또는 녹화
+* 농담조 또는 비꼬는 말투 등으로 행하는 모든 종류의 괴롭힘
+* 합리적인 소견상, 전문 집단에 부적절한 그 밖의 행동
 
-Each Event Participant is entirely responsible for their own actions.
+각 이벤트 참가자는 자신의 행동을 전적으로 책임져야 합니다.
 
-Thank you for helping to make this a welcoming, friendly space for all.
+모두를 환대하는 친근한 공간을 조성하는 데 도움을 주셔서 감사합니다.
 
-[Reporting an incident](#reporting-an-incident)
+[사고 보고](#reporting-an-incident)
 ----------
 
-If you are being harassed, notice that someone else is being harassed, have any other concerns, or if you believe an Event Participant is not acting in a way compliant with this Code of Conduct, please speak directly with a venue security officer or GitHub employee for urgent help, or email us at [events@github.com](mailto:events@github.com) for non-urgent issues. For life threatening situations, please dial 911 immediately.
+괴롭힘을 당하거나 다른 사람이 괴롭힘을 당하고 있는 상황을 인지하거나 다른 문제가 있거나, 이벤트 참가자가 이 준수 사항을 위반하는 행위를 한다고 판단하는 경우 긴급한 상황이라면 현장 보안 책임자 또는 GitHub 직원에게 직접 도움을 요청하거나 긴급하지 않은 문제라면 [events@github.com](mailto:events@github.com)에 이메일을 보내 알려주시기 바랍니다. 생명을 위협하는 상황은 즉시 119로 전화하세요.
 
-GitHub employees will be happy to help Event Participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the Event.
+GitHub 직원은 이벤트 참가자가 보안 기관 또는 지역 사법 기관에 연락하거나 참가자를 안전한 곳으로 안내하거나 괴롭힘을 경험하는 이들이 이벤트 진행 중 안심할 수 있도록 기꺼이 도와줄 것입니다.
 
-[Credit](#credit)
+[크레딧](#credit)
 ----------
 
-Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
+이 준수 사항의 일부는 Creative Commons Zero 라이선스에 따라 Ada Initiative 및 그 외 자원봉사자들이 만든 Geek Feminism 위키의 괴롭힘 방지 정책 예를 근거로 합니다.
 
 {"resolvedServerColorMode":"day"}

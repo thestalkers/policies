@@ -1,28 +1,28 @@
-GitHub Impersonation - GitHub Docs
+GitHub-Identitätswechsel - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Acceptable Use Policies](/de/site-policy/acceptable-use-policies)/
-* [Impersonation](/de/site-policy/acceptable-use-policies/github-impersonation)
+* [Websiterichtlinie](/de/site-policy)/
+* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
+* [Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+GitHub-Identitätswechsel
 ==========
 
-You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
+Sie dürfen Ihre Identität oder Ihre Verbindung zu einer anderen Person oder Organisation nicht falsch darstellen. Dies schließt Folgendes ein, um andere irrezuführen oder zu täuschen:
 
-* Copying another user's avatar or other personal profile information
-* Posting content under another user's email address
-* Using a deceptively similar username, organization name, or other namespace
-* Accessing an account or organization with another user's token or credentials
-* Otherwise posing as another individual or organization
+* Kopieren des Avatars oder anderer persönlicher Profilinformationen eines anderen Benutzers
+* Posten von Inhalten unter der E-Mail-Adresse eines anderen Benutzers
+* Verwendung eines täuschend ähnlichen Benutzernamens, Organisationsnamens oder anderen Namensraums
+* Zugreifen auf ein Konto oder eine Organisation mit dem Token oder den Anmeldeinformationen eines anderen Benutzers
+* Sich anderweitig als eine andere Person oder Organisation auszugeben
 
-Impersonation is a form of harassment and violation of this policy may lead to loss of access to your account.
+Identitätsdiebstahl ist eine Form der Belästigung und ein Verstoß gegen diese Richtlinie kann zum Verlust des Zugriffs auf Ihr Konto führen.
 
-Please note, having a username similar to another is not necessarily impersonation. GitHub will take context into account. For example, as in cases involving claims of [misinformation or disinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), we generally allow parody and satire that is in line with our [Acceptable Use Policies](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+Bitte beachten Sie, dass ein Benutzername, der einem anderen ähnlich ist, nicht unbedingt ein Identitätsdiebstahl ist. GitHub berücksichtigt den Kontext. In Fällen, in denen Ansprüche von [Falschinformation oder Desinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation) geltend gemacht werden, erlauben wir beispielsweise im Allgemeinen Parodie und Satire, die mit unseren [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) in Einklang stehen.
 
 {"resolvedServerColorMode":"day"}

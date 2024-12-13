@@ -1,28 +1,28 @@
-GitHub Impersonation - GitHub Docs
+Representação do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies)/
-* [Impersonation](/pt/site-policy/acceptable-use-policies/github-impersonation)
+* [Política do site](/pt/site-policy)/
+* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
+* [Representação](/pt/site-policy/acceptable-use-policies/github-impersonation)
 
-GitHub Impersonation
+Representação do GitHub
 ==========
 
-You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
+Você não pode deturpar sua identidade ou sua associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou enganar os outros:
 
-* Copying another user's avatar or other personal profile information
-* Posting content under another user's email address
-* Using a deceptively similar username, organization name, or other namespace
-* Accessing an account or organization with another user's token or credentials
-* Otherwise posing as another individual or organization
+* Copiar o avatar de outro usuário ou outras informações de perfil pessoal
+* Postar conteúdo com o endereço de e-mail de outro usuário
+* Usar um nome de usuário, nome de organização ou outro namespace enganosamente semelhante
+* Acessar uma conta ou organização com o token ou as credenciais de outro usuário
+* Caso contrário, posando como outro indivíduo ou organização
 
-Impersonation is a form of harassment and violation of this policy may lead to loss of access to your account.
+A falsificação de identidade é uma forma de assédio e a violação desta política pode levar à perda de acesso à sua conta.
 
-Please note, having a username similar to another is not necessarily impersonation. GitHub will take context into account. For example, as in cases involving claims of [misinformation or disinformation](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), we generally allow parody and satire that is in line with our [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+Observe que ter um nome de usuário semelhante a outro não é necessariamente falsificação de identidade. O GitHub levará o contexto em consideração. Por exemplo, como nos casos que envolvem requerimentos judiciais ou extrajudiciais de [informações incorretas ou desinformação](/pt/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), geralmente permitimos paródias e sátiras que estejam de acordo com as [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 {"resolvedServerColorMode":"day"}

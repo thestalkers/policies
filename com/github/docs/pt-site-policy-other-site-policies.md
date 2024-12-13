@@ -1,36 +1,36 @@
-Other Site Policies - GitHub Docs
+Outras políticas do site - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Other Site Policies](/pt/site-policy/other-site-policies)
+* [Política do site](/pt/site-policy)/
+* [Outras políticas do site](/pt/site-policy/other-site-policies)
 
-Other Site Policies
+Outras políticas do site
 ==========
 
-[GitHub and Trade Controls](/pt/site-policy/other-site-policies/github-and-trade-controls)
+[GitHub e controles de comércio](/pt/site-policy/other-site-policies/github-and-trade-controls)
 ----------
 
-[GitHub Deceased User Policy](/pt/site-policy/other-site-policies/github-deceased-user-policy)
+[Política de usuário falecido do GitHub](/pt/site-policy/other-site-policies/github-deceased-user-policy)
 ----------
 
-[GitHub Logo Policy](/pt/site-policy/other-site-policies/github-logo-policy)
+[Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 ----------
 
-[GitHub Government Takedown Policy](/pt/site-policy/other-site-policies/github-government-takedown-policy)
+[Política de remoção governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
 ----------
 
-[GitHub Username Policy](/pt/site-policy/other-site-policies/github-username-policy)
+[Política de nome de usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
 ----------
 
-[Guidelines for Legal Requests of User Data](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+[Diretrizes para Solicitações Legais de Dados do Usuário](/pt/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 ----------
 
-[GitHub Account Recovery Policy](/pt/site-policy/other-site-policies/github-account-recovery-policy)
+[Política de Recuperação de Conta do GitHub](/pt/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

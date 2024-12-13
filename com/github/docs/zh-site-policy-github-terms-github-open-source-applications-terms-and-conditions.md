@@ -1,88 +1,88 @@
-GitHub Open Source Applications Terms and Conditions - GitHub Docs
+GitHub 开源应用程序条款和条件 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [GitHub Terms](/zh/site-policy/github-terms)/
-* [GitHub Open Source Applications Terms and Conditions](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+* [站点政策](/zh/site-policy)/
+* [GitHub 条款](/zh/site-policy/github-terms)/
+* [GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
-GitHub Open Source Applications Terms and Conditions
+GitHub 开源应用程序条款和条件
 ==========
 
-In this article
+本文内容
 ----------
 
-* [Connecting to GitHub](#connecting-to-github)
-* [Open Source Licenses and Notices](#open-source-licenses-and-notices)
-* [GitHub's Logos](#githubs-logos)
-* [Privacy](#privacy)
-* [Additional Services](#additional-services)
-* [Miscellanea](#miscellanea)
+* [连接到 GitHub](#connecting-to-github)
+* [开源许可和声明](#open-source-licenses-and-notices)
+* [GitHub 徽标](#githubs-logos)
+* [隐私](#privacy)
+* [其他服务](#additional-services)
+* [其他](#miscellanea)
 
-These GitHub Open Source Applications Terms and Conditions ("Application Terms") are a legal agreement between you (either as an individual or on behalf of an entity) and GitHub, Inc. regarding your use of GitHub's applications, such as GitHub Desktop™ and associated documentation ("Software"). These Application Terms apply to the executable code version of the Software. Source code for the Software is available separately and free of charge under open source software license agreements. If you do not agree to all of the terms in these Application Terms, do not download, install, use, or copy the Software.
+这些 GitHub 开源应用程序条款和条件（“应用程序条款”）是您（作为个人或代表实体）与 GitHub, Inc. 之间关于您使用诸如 GitHub Desktop™ 等 GitHub 应用程序及相关文档（“软件”）的法律协议。 这些应用程序条款适用于软件的可执行代码版本。 软件源代码根据开源软件许可协议单独免费提供。 如果您不同意这些应用程序条款中的所有条款，请不要下载、安装、使用或复制软件。
 
-[Connecting to GitHub](#connecting-to-github)
+[连接到 GitHub](#connecting-to-github)
 ----------
 
-If you configure the Software to work with one or more accounts on the GitHub.com website or with a deployment of GitHub Enterprise Server, your use of the Software will also be governed by your applicable GitHub.com website Terms of Service and/or the license agreement applicable to your deployment of GitHub Enterprise Server ("GitHub Terms").
+如果您将软件配置为用于 GitHub.com 网站上的一个或多个帐户或用于 GitHub Enterprise Server 部署，则您对软件的使用还将受适用于您的 GitHub.com 网站服务条款和/或适用于 GitHub Enterprise Server 部署的许可协议（“GitHub 条款”）约束。
 
-Any use of the Software that violates your applicable GitHub Terms will also be a violation of these Application Terms.
+违反适用 GitHub 条款的任何软件使用情形也构成违反这些应用程序条款。
 
-[Open Source Licenses and Notices](#open-source-licenses-and-notices)
+[开源许可和声明](#open-source-licenses-and-notices)
 ----------
 
-The open source license for the Software is included in the "Open Source Notices" documentation that is included with the Software. That documentation also includes copies of all applicable open source licenses.
+软件的开源许可包含在软件随附的“开源声明”文档中。 该文档还包括所有适用开源许可的副本。
 
-To the extent the terms of the licenses applicable to open source components require GitHub to make an offer to provide source code in connection with the Software, such offer is hereby made, and you may exercise it by contacting GitHub: <https://github.com/contact>
+如果适用于开源组件的许可条款要求 GitHub 提议提供与软件相关的源代码，GitHub 特此提出这种提议，您可以通过联系 GitHub 来执行它：<https://github.com/contact>
 
-Unless otherwise agreed to in writing with GitHub, your agreement with GitHub will always include, at a minimum, these Application Terms. Open source software licenses for the Software's source code constitute separate written agreements. To the limited extent that the open source software licenses expressly supersede these Application Terms, the open source licenses govern your agreement with GitHub for the use of the Software or specific included components of the Software.
+您与 GitHub 之间的协议将始终至少包含这些应用程序条款，除非您与 GitHub 另有书面协定。 软件源代码的开源软件许可构成单独的书面协议。 在一定程度上，开源软件许可明确取代这些应用程序条款，并且开源许可管辖您与 GitHub 之间关于使用软件或软件所含特定组件的协议。
 
-[GitHub's Logos](#githubs-logos)
+[GitHub 徽标](#githubs-logos)
 ----------
 
-The license grant included with the Software is not for GitHub's trademarks, which include the Software logo designs. GitHub reserves all trademark and copyright rights in and to all GitHub trademarks. GitHub's logos include, for instance, the stylized designs that include "logo" in the file title in the "logos" folder.
+软件随附的许可授予不适用于 GitHub 的商标，包括软件徽标设计。 GitHub 保留所有 GitHub 商标的所有商标权和版权。 GitHub 徽标包括“logos”文件夹的“logo”文件中所含的风格化设计等。
 
-The names GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, the Octocat, and related GitHub logos and/or stylized names are trademarks of GitHub. You agree not to display or use these trademarks in any manner without GitHub's prior, written permission, except as allowed by GitHub's Logos and Usage Policy: <https://github.com/logos>.
+名称 GitHub、GitHub Desktop、GitHub for Mac、GitHub for Windows、Octocat 及相关 GitHub 徽标和/或风格化名称都是 GitHub 的商标。 您同意，未经 GitHub 的事先书面许可，您不会以任何方式展示或使用这些商标，GitHub 的徽标和使用政策(<https://github.com/logos>) 明确允许的情形除外。
 
-[Privacy](#privacy)
+[隐私](#privacy)
 ----------
 
-The Software may collect personal information. You may control what information the Software collects in the settings panel. If the Software does collect personal information on GitHub's behalf, GitHub will process that information in accordance with the [GitHub Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement).
+软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)处理这些信息。
 
-[Additional Services](#additional-services)
+[其他服务](#additional-services)
 ----------
 
-**Auto-Update Services**
+**自动更新服务**
 
-The Software may include an auto-update service ("Service"). If you choose to use the Service or you download Software that automatically enables the Service, GitHub will automatically update the Software when a new version is available.
+软件可能包含自动更新服务（“服务”）。 如果您选择使用服务或下载自动启用服务的软件，则 GitHub 将在有新版本可用时自动更新软件。
 
-**Disclaimers and Limitations of Liability**
+**免责声明和责任限制**
 
-THE SERVICE IS PROVIDED ON AN "AS IS" BASIS, AND NO WARRANTY, EITHER EXPRESS OR IMPLIED, IS GIVEN. YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. GitHub does not warrant that (i) the Service will meet your specific requirements; (ii) the Service is fully compatible with any particular platform; (iii) your use of the Service will be uninterrupted, timely, secure, or error-free; (iv) the results that may be obtained from the use of the Service will be accurate or reliable; (v) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations; or (vi) any errors in the Service will be corrected.
+服务按“原样”提供，不作任何明示或暗示的保证。 您使用服务时应自担风险。 GitHub 不保证 (i) 服务将满足您的特定要求；(ii) 服务与任何特定平台完全兼容；(iii) 您对服务的使用将不间断、及时、安全或无错误；(iv) 通过使用服务获得的结果是准确或可靠的；(v) 通过服务购买或获取的任何产品、服务、信息或其他材料的质量将满足您的期望；或 (vi) 服务中的任何错误将得到更正。
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT GITHUB SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GITHUB HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES) RELATED TO THE SERVICE, including, for example: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third-party on the Service; (v) or any other matter relating to the Service.
+您理解并明确同意，对于与服务相关的任何直接、间接、偶然、特殊、后果性或惩戒性损害，包括但不限于利润、声誉、使用、数据损失或其他无形损失（即使 GitHub 已被告知此类损害的可能性），GitHub 概不负责，例如：(i) 使用或无法使用服务；(ii) 因通过服务购买或获取的任何商品、数据、信息或服务、收到的消息或进行的交易而导致的采购替代商品和服务的费用；(iii) 未经授权访问或更改您的传输或数据；(iv) 任何第三方对服务的声明或行为；(v) 或与服务相关的任何其他事项。
 
-GitHub reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. GitHub shall not be liable to you or to any third-party for any price change, suspension or discontinuance of the Service.
+GitHub 保留随时和不时修改或停用（临时或永久）服务或其任何部分的权利，可能通知，也可能不通知。 对于服务的任何价格变动、暂停或终止，GitHub 对您或任何第三方概不负责。
 
-[Miscellanea](#miscellanea)
+[其他](#miscellanea)
 ----------
 
-1. No Waiver. The failure of GitHub to exercise or enforce any right or provision of these Application Terms shall not constitute a waiver of such right or provision.
+1. 不弃权。 GitHub 未行使或执行这些应用程序条款的任何权利或条文，并不构成放弃该权利或条文。
 
-2. Entire Agreement. These Application Terms, together with any applicable Privacy Notices, constitutes the entire agreement between you and GitHub and governs your use of the Software, superseding any prior agreements between you and GitHub (including, but not limited to, any prior versions of the Application Terms).
+2. 完整协议。 这些应用程序条款以及任何适用的隐私声明，构成了您与 GitHub 之间的完整协议，并且取代您与 GitHub 之间的任何先前协议（包括但不限于应用程序条款的任何先前版本），管辖您对软件的使用。
 
-3. Governing Law. You agree that these Application Terms and your use of the Software are governed under California law and any dispute related to the Software must be brought in a tribunal of competent jurisdiction located in or near San Francisco, California.
+3. 管辖法律。 您同意，这些应用程序条款以及您对软件的使用受加利福尼亚法律的管辖，对于与软件相关的任何争议，必须提交给加利福尼亚州旧金山市或其附近具有管辖权的法院。
 
-4. Third-Party Packages. The Software supports third-party "Packages" which may modify, add, remove, or alter the functionality of the Software. These Packages are not covered by these Application Terms and may include their own license which governs your use of that particular package.
+4. 第三方包。 软件支持第三方“包”，这些包可能修改、添加、删除或更改软件的功能。 这些包不受这些应用程序条款的约束，它们可能含有自己的许可，以约束您对该特定包的使用。
 
-5. No Modifications; Complete Agreement. These Application Terms may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version. These Application Terms, together with any applicable Open Source Licenses and Notices and GitHub's Privacy Statement, represent the complete and exclusive statement of the agreement between you and us. These Application Terms supersede any proposal or prior agreement oral or written, and any other communications between you and GitHub relating to the subject matter of these terms.
+5. 禁止修改；完整协议。 这些应用程序条款只能通过 GitHub 授权代表签署的书面修正案或 GitHub 发布的修订版来修改。 这些应用程序条款，连同任何适用的开源许可和声明以及 GitHub 隐私声明，共同构成了您与我们之间的完整和专有协议声明。 这些应用程序条款取代任何口头或书面的提议或事先协议，以及您与 GitHub 之间关于这些条款所述主题的任何其他通信。
 
-6. License to GitHub Policies. These Application Terms are licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
+6. GitHub 政策的许可。 这些应用程序条款的许可采用[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)原则。 有关更多信息，请参阅我们的[站点政策存储库](https://github.com/github/site-policy#license)。
 
-7. Contact Us. Questions about the Terms of Service? Contact us through the [GitHub Support portal](https://support.github.com/).
+7. 联系我们。 对服务条款有疑问？ 通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 
 {"resolvedServerColorMode":"day"}

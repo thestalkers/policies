@@ -1,71 +1,71 @@
-GitHub Government Takedown Policy - GitHub Docs
+GitHub 정부 게시 중단 정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [Other Site Policies](/ko/site-policy/other-site-policies)/
-* [GitHub Government Takedown Policy](/ko/site-policy/other-site-policies/github-government-takedown-policy)
+* [사이트 정책](/ko/site-policy)/
+* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
+* [GitHub 정부 게시 중단 정책](/ko/site-policy/other-site-policies/github-government-takedown-policy)
 
-GitHub Government Takedown Policy
+GitHub 정부 게시 중단 정책
 ==========
 
-In this article
+이 문서의 내용
 ----------
 
-* [What is this?](#what-is-this)
-* [What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
-* [What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
-* [Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
-* [What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
-* [Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
-* [Transparency reporting](#transparency-reporting)
+* [이것은 무엇인가요?](#what-is-this)
+* [정부의 완전 게시 중단 요청이란 무엇인가요?](#what-is-a-complete-government-takedown-request)
+* [정부의 완전 게시 중단 요청을 받게 되면 어떻게 되나요?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+* [게시 중단 알림을 공개적으로 게시하는 이유는 무엇입니까?](#why-do-we-publicly-post-takedown-notices)
+* [당사가 정부 게시 중단 리포지토리에 알림을 게시한다면 이는 무엇을 의미하나요?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+* [GitHub 서비스 약관 위반에 따른 정부 게시 중단](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+* [투명성 보고](#transparency-reporting)
 
-[What is this?](#what-is-this)
+[이것은 무엇인가요?](#what-is-this)
 ----------
 
-From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software.
+GitHub는 때때로 해당 지역 관할권에서 불법 자료로 신고된 콘텐츠를 제거하라는 정부의 요청을 받습니다. 당사는 이러한 법률에 항상 동의하는 것은 아니지만 해당 관할권의 사용자가 GitHub에 계속 액세스하여 협업하고 소프트웨어를 빌드할 수 있도록 정부 관리로부터 완전 게시 중단 요청을 받을 경우 콘텐츠를 차단해야 할 수 있습니다.
 
-[What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
+[정부의 완전 게시 중단 요청이란 무엇인가요?](#what-is-a-complete-government-takedown-request)
 ----------
 
-To count as a complete request, a request or notice must
+완전 (게시 중단) 요청으로 간주하려면
 
-* come from a relevant, official government agency
-* identify illegal content
-* specify the source of illegality in that jurisdiction (law or court order).
+* 관련 정부 기관의 요청 또는 통지를 받아야 합니다.
+* 요청 또는 통지에서 불법 콘텐츠를 식별해야 합니다.
+* 요청 또는 통지에서 해당 관할권 내 불법 행위의 판단 근거(법률 또는 법원 명령)를 명시해야 합니다.
 
-[What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+[정부의 완전 게시 중단 요청을 받게 되면 어떻게 되나요?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 ----------
 
-When we receive a notice from a relevant, official government agency that identifies illegal content and specifies the source of the illegality, we
+불법 콘텐츠를 식별하고 불법 행위의 판단 근거를 명시한 관련 정부 기관으로부터 통지를 받게 되면 당사는
 
-* notify the affected users of the specific content that allegedly violates the law, and that this is a legal takedown request
-* allow the affected users to appeal the decision as part of that notification
-* limit the geographic scope of the takedown when possible and include that as part of the notification
-* post the official request that led to the takedown in our public [gov-takedowns repository](https://github.com/github/gov-takedowns).
+* 영향을 받는 사용자에게 법을 위반한 것으로 의심되는 특정 콘텐츠를 알리고 이 요청은 적법한 게시 중단 요청임을 알립니다.
+* 영향을 받는 사용자가 그러한 알림의 일환으로 해당 결정에 대해 이의를 제기할 수 있도록 허용합니다.
+* 가능하다면 게시 중단의 지리적 범위를 제한하고 이를 알림의 일부로 포함합니다.
+* 퍼블릭 [정부 테이크다운 리포지토리](https://github.com/github/gov-takedowns)에서 테이크다운으로 이어진 공식 요청을 게시합니다.
 
-[Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
+[게시 중단 알림을 공개적으로 게시하는 이유는 무엇입니까?](#why-do-we-publicly-post-takedown-notices)
 ----------
 
-We are concerned about Internet censorship, and believe that transparency on a specific and ongoing level is essential to good governance. By publicly posting the notices, we can better inform the public about what content is being withheld from GitHub, and why. We post takedown notices to document their potential to chill speech.
+GitHub는 인터넷 검열에 대해 우려하고 있으며 구체적이고 지속적인 수준의 투명성이 좋은 거버넌스에 필수적이라고 믿습니다. 알림을 공개적으로 게시함으로써 GitHub에서 보류 중인 콘텐츠와 그 이유를 일반 대중에게 더 잘 알릴 수 있습니다. GitHub는 표현의 자유를 위축시킬 소지가 있음을 문서화하기 위해 게시 중단 알림을 게시합니다.
 
-[What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+[당사가 정부 게시 중단 리포지토리에 알림을 게시한다면 이는 무엇을 의미하나요?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 ----------
 
-It means that we received the notice on the indicated date. It does *not* mean that the content was unlawful or wrong. It does *not* mean that the user identified in the notice has done anything wrong. We don't make or imply any judgment about the merit of the claims they make. We post these notices and requests only for informational purposes.
+당사가 지정된 날짜에 알림을 받았다는 의미입니다. 이는 해당 콘텐츠가 불법이거나 잘못된 것임을 의미하지 *않습니다*. 이는 알림에서 신원이 식별된 사용자가 잘못된 행동을 했음을 의미하지 *않습니다*. GitHub는 사용자가 제기하는 청구의 가치에 관한 판단을 내리거나 묵시하지 않습니다. GitHub는 이러한 알림과 요청을 오로지 정보 제공 목적으로만 게시합니다.
 
-[Government takedowns based on violations of GitHub's Terms of Service](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+[GitHub 서비스 약관 위반에 따른 정부 게시 중단](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 ----------
 
-In some cases, GitHub receives reports from government officials of violations of GitHub's Terms of Service. We process those violations as we would process a Terms-of-Service violation reported by anyone else. However, we notify the affected users that the report came from a government and, as with any other case, allow them the opportunity to appeal.
+경우에 따라 GitHub는 정부 관리로부터 GitHub 서비스 약관 위반에 관한 보고를 받습니다. GitHub는 다른 사람이 보고한 서비스 약관 위반을 처리하는 것처럼 이러한 위반을 처리합니다. 그러나 당사는 영향을 받는 사용자에게 해당 보고서가 정부에서 제공되었음을 알리고 다른 경우와 마찬가지로 이의를 제기할 기회를 허용합니다.
 
-[Transparency reporting](#transparency-reporting)
+[투명성 보고](#transparency-reporting)
 ----------
 
-In addition to posting government takedown notices in our `github/gov-takedowns` repository, we report on them in our transparency report. We also track and report in our transparency report on government takedowns based on violations of GitHub's Terms of Service.
+당사는 `github/gov-takedowns` 리포지토리에 정부의 테이크다운 통지를 게시할 뿐만 아니라 투명성 보고서에서도 이에 대해 보고합니다. 또한 GitHub의 서비스 약관 위반에 따른 정부 게시 중단에 관한 투명성 보고서에서 추적 및 보고를 진행합니다.
 
 {"resolvedServerColorMode":"day"}

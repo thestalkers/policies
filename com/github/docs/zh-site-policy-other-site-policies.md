@@ -1,36 +1,36 @@
-Other Site Policies - GitHub Docs
+其他站点政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Other Site Policies](/zh/site-policy/other-site-policies)
+* [站点政策](/zh/site-policy)/
+* [其他站点政策](/zh/site-policy/other-site-policies)
 
-Other Site Policies
+其他站点政策
 ==========
 
-[GitHub and Trade Controls](/zh/site-policy/other-site-policies/github-and-trade-controls)
+[GitHub 和贸易管制](/zh/site-policy/other-site-policies/github-and-trade-controls)
 ----------
 
-[GitHub Deceased User Policy](/zh/site-policy/other-site-policies/github-deceased-user-policy)
+[GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
 ----------
 
-[GitHub Logo Policy](/zh/site-policy/other-site-policies/github-logo-policy)
+[GitHub 徽标政策](/zh/site-policy/other-site-policies/github-logo-policy)
 ----------
 
-[GitHub Government Takedown Policy](/zh/site-policy/other-site-policies/github-government-takedown-policy)
+[GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
 ----------
 
-[GitHub Username Policy](/zh/site-policy/other-site-policies/github-username-policy)
+[GitHub 用户名政策](/zh/site-policy/other-site-policies/github-username-policy)
 ----------
 
-[Guidelines for Legal Requests of User Data](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+[用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 ----------
 
-[GitHub Account Recovery Policy](/zh/site-policy/other-site-policies/github-account-recovery-policy)
+[GitHub 帐户恢复政策](/zh/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

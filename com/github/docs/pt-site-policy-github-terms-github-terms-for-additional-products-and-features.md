@@ -1,207 +1,206 @@
-GitHub Terms for Additional Products and Features - GitHub Docs
+Termos do GitHub para produtos e recursos adicionais - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [GitHub Terms](/pt/site-policy/github-terms)/
-* [GitHub Terms for Additional Products and Features](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+* [Política do site](/pt/site-policy)/
+* [Termos do GitHub](/pt/site-policy/github-terms)/
+* [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
-GitHub Terms for Additional Products and Features
+Termos do GitHub para produtos e recursos adicionais
 ==========
 
-In this article
+Neste artigo
 ----------
 
-* [Actions](#actions)
-* [Advanced Security](#advanced-security)
-* [Advisory Database](#advisory-database)
-* [Codespaces](#codespaces)
-* [Competitive Benchmarking](#competitive-benchmarking)
-* [Connect](#connect)
+* [Ações](#actions)
+* [Segurança avançada](#advanced-security)
+* [Banco de dados consultivo](#advisory-database)
+* [Espaços de código](#codespaces)
+* [Parâmetro de comparação competitiva](#competitive-benchmarking)
+* [Conectar](#connect)
 * [GitHub Copilot](#github-copilot)
-* [GitHub Enterprise Importer](#github-enterprise-importer)
+* [Importador do GitHub Enterprise](#github-enterprise-importer)
 * [npm](#npm)
-* [Packages](#packages)
-* [Pages](#pages)
-* [Previews](#previews)
-* [Sponsors Program](#sponsors-program)
-* [SQL Server Images](#sql-server-images)
+* [Pacotes](#packages)
+* [Páginas](#pages)
+* [Visualizações](#previews)
+* [Programa Sponsors](#sponsors-program)
+* [Imagens do SQL Server](#sql-server-images)
 * [GitHub Models](#github-models)
 
-Version Effective Date: September 9, 2024
+Data de início de vigência da versão: 9 de setembro de 2024
 
-When you use GitHub, you may be given access to lots of additional products and features ("Additional Products and Features"). Because many of the Additional Products and Features offer different functionality, your Agreement with us (the "Agreement") includes the specific terms for that product or feature combined with your main agreement — the GitHub Terms of Service or GitHub Customer Agreement, or the GitHub Corporate Terms of Service or other legacy GitHub contract, or a Microsoft volume licensing agreement. Below, we've listed those products and features, along with the corresponding additional terms that apply to your use of them.
+Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
-By using the Additional Products and Features, you also agree to the applicable GitHub Terms for Additional Products and Features listed below. A violation of these GitHub Terms for Additional Products and Features is a violation of the Agreement. Capitalized terms not defined here have the meaning given in the Agreement.
+Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos aplicáveis do GitHub para Produtos e Recursos Adicionais listados abaixo. A violação destes Termos do GitHub para produtos e recursos adicionais é uma violação do Contrato. Os termos em maiúscula não definidos aqui têm o significado indicado no Contrato.
 
-**For Enterprise users**
+**Para usuários Corporativos**
 
-* **GitHub Enterprise Cloud** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages, and Pages.
+* Os usuários do **GitHub Enterprise Cloud** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Codespaces, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages e Pages.
 
-* **GitHub Enterprise Server** users may have access to the following Additional Products and Features: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages, and SQL Server Images.
+* Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Connect, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages, Pages e Imagens do SQL Server.
 
-[Actions](#actions)
+[Ações](#actions)
 ----------
 
-GitHub Actions enables you to create custom software development lifecycle workflows directly in your GitHub repository. Actions is billed on a usage basis. The [Actions documentation](/pt/actions) includes details, including compute and storage quantities (depending on your Account plan), and how to monitor your Actions minutes usage and set usage limits.
+O GitHub Actions permite que você crie fluxos de trabalho de ciclo de vida de desenvolvimento de software personalizados diretamente em seu repositório do GitHub. As ações são cobradas com base no uso. A [documentação das Ações](/pt/actions) inclui detalhes, entre eles, quantidades de computação e armazenamento (dependendo de seu plano de conta) e como monitorar o uso de minutos das Ações, além de definir limites de uso.
 
-Actions and any elements of the Actions product or service may not be used in violation of the Agreement, the [GitHub Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies), or the GitHub Actions service limitations set forth in the [Actions documentation](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Additionally, regardless of whether an Action is using self-hosted runners, Actions should not be used for:
+As Ações e quaisquer elementos do produto ou serviço das Ações não podem ser usados em violação do Contrato, das [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem dos limites do serviço GitHub Actions estabelecidos na [documentação das Ações](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Além disso, independentemente de uma ação estar usando corredores auto-hospedados, as ações não devem ser usadas para:
 
-* Cryptomining;
-* Disrupting, gaining, or attempting to gain unauthorized access to, any service, device, data, account, or network (other than those authorized by the [GitHub Bug Bounty program](https://bounty.github.com));
-* The provision of a stand-alone or integrated application or service offering the Actions product or service, or any elements of the Actions product or service, for commercial purposes;
-* Any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Actions as a content delivery network or as part of a serverless application, but a low benefit Action could be ok if it’s also low burden); or
-* If using GitHub-hosted runners, any other activity unrelated to the production, testing, deployment, or publication of the software project associated with the repository where GitHub Actions are used.
+* Mineração de criptomoedas;
+* Interromper, tentar obter ou obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo [Programa de Recompensas por Bugs do GitHub](https://bounty.github.com));
+* A provisão de uma aplicação ou serviço independente/integrado, ou a oferta de serviço de um produto, serviço ou quaisquer elementos das Ações para fins comerciais;
+* Qualquer atividade que sobrecarregue nossos servidores desproporcionalmente quando comparada aos benefícios oferecidos aos usuários. Por exemplo, não use Ações como uma Rede de Distribuição de Conteúdo ou como parte de uma aplicação sem servidor. Por outro lado, em uma Ação de baixo benefício, pode ser aceitável se sua carga também for baixa; ou
+* Se estiver usando executores hospedados no GitHub, qualquer outra atividade não relacionada a produção, teste, implantação ou publicação do projeto de software associado ao repositório onde o GitHub Actions é usado.
 
-In order to prevent violations of these limitations and abuse of GitHub Actions, GitHub may monitor your use of GitHub Actions. Misuse of GitHub Actions may result in termination of jobs, restrictions in your ability to use GitHub Actions, disabling of repositories created to run Actions in a way that violates these Terms, or in some cases, suspension or termination of your GitHub account.
+Para evitar violações dessas limitações e abuso do GitHub Actions, o GitHub pode monitorar seu uso do GitHub Actions. O uso indevido do GitHub Actions pode resultar no encerramento de trabalhos, restrições na sua capacidade de usar GitHub Actions, desativação de repositórios criados para executar Actions de uma forma que viole estes Termos ou, em alguns casos, suspensão ou encerramento de sua conta do GitHub.
 
-*Use for Development and Testing*
+*Uso para Desenvolvimento e Teste*
 
-You may only access and use GitHub Actions to develop and test your application(s). Only one licensed user may access a virtual machine provided by Actions at any time.
+Você só pode acessar e usar o GitHub Actions para desenvolver e testar seus aplicativos. Somente um usuário licenciado pode acessar uma máquina virtual fornecida pelas Ações a qualquer momento.
 
-*Authorized Developer*
+*Desenvolvedor Autorizado*
 
-You appoint GitHub as your authorized developer with respect to Apple software included in Actions. GitHub is responsible for complying with the terms for any such software included in Actions and will keep confidential any confidential information of Apple accessed as part of Actions.
+Você nomeia o GitHub como seu desenvolvedor autorizado em relação ao software Apple incluído em Ações. O GitHub é responsável por cumprir os termos de qualquer referido software incluído nas Ações e por manter em sigilo qualquer informação confidencial da Apple acessada como parte das Ações.
 
-*Third Party Repository Service Access*
+*Acesso ao Serviço de Repositório de Terceiros*
 
-If you grant GitHub access to your third-party repository service account(s), you authorize GitHub to scan the account(s), including the contents of your Public and Private Repositories, for purposes of providing GitHub Actions.
+Se você conceder ao GitHub acesso às suas contas de serviço de repositório de terceiros, você autoriza o GitHub a verificar as contas, incluindo o conteúdo de seus repositórios públicos e privados, para fins de fornecer GitHub Actions.
 
-*Self-Hosted Runners on GitHub Actions*
+*Executores Auto-hospedados no GitHub Actions*
 
-If you use self-hosted runners, you have the ability to turn off automatic updates but GitHub reserves the right to override your choice for critical security updates.
+Se você usar runners auto-hospedados, poderá desativar as atualizações automáticas, mas o GitHub se reserva o direito de substituir sua escolha por atualizações de segurança críticas.
 
-[Advanced Security](#advanced-security)
+[Segurança avançada](#advanced-security)
 ----------
 
-GitHub makes extra security features available to customers under an Advanced Security license. These features include code scanning, secret scanning, and dependency review. The [Advanced Security documentation](/pt/get-started/learning-about-github/about-github-advanced-security) provides more details.
+O GitHub disponibiliza recursos extras de segurança para clientes sob uma licença de Segurança Avançada. Esses recursos incluem verificação de código, verificação secreta e revisão de dependência. A [documentação do Advanced Security](/pt/get-started/learning-about-github/about-github-advanced-security) fornece mais detalhes.
 
-Advanced Security is licensed on a "Unique Committer" basis. A "Unique Committer" is a licensed user of GitHub Enterprise, GitHub Enterprise Cloud, or GitHub Enterprise Server, who has made a commit in the last 90 days to any repository with any GitHub Advanced Security functionality activated. You must acquire a GitHub Advanced Security User license for each of your Unique Committers. You may only use GitHub Advanced Security on codebases that are developed by or for you. For GitHub Enterprise Cloud users, some Advanced Security features also require the use of GitHub Actions.
+A Segurança Avançada é licenciada com base em "Commissor Único". “Committer Exclusivo” é um usuário licenciado do GitHub Enterprise, do GitHub Enterprise Cloud ou do GitHub Enterprise Server, que criou um commit de código nos últimos 90 dias em qualquer repositório com qualquer funcionalidade do GitHub Advanced Security ativada. Você deve adquirir uma licença de usuário do GitHub Advanced Security para cada um dos seus Commiters exclusivos. Você só pode usar o GitHub Advanced Security em bases de código desenvolvidas por ou para você. Para usuários do GitHub Enterprise Cloud, alguns recursos de segurança avançada também exigem o uso de GitHub Actions.
 
-For secret scanning with GitHub Advanced Security, when you opt-in to automatic validity checks for partner patterns, exposed third-party tokens may be shared with the relevant partner, in order to provide you with more information about the validity of the token. Not all partners are based in the United States. The [Secret scanning patterns documentation](/pt/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) provides more details on which partners support the validity check.
+Para verificação secreta com o GitHub Advanced Security, quando você opta por verificações automáticas de validade para padrões de parceiros, tokens de terceiros expostos podem ser compartilhados com o parceiro relevante a fim de fornecer mais informações sobre a validade do token. Nem todos os parceiros estão sediados nos Estados Unidos. A [documentação sobre padrões de varredura de segredos](/pt/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) fornece mais detalhes sobre quais parceiros oferecem suporte à verificação de validade.
 
-[Advisory Database](#advisory-database)
+[Banco de dados consultivo](#advisory-database)
 ----------
 
-The GitHub Advisory Database allows you to browse or search for vulnerabilities that affect open source projects on GitHub.
+O GitHub Advisory Database permite que você navegue ou pesquise vulnerabilidades que afetam projetos de código aberto no GitHub.
 
-*License Grant to Us*
+*Outorga de Licença para Nós*
 
-We need the legal right to submit your contributions to the GitHub Advisory Database into public domain datasets such as the [National Vulnerability Database](https://nvd.nist.gov/) and to license the GitHub Advisory Database under open terms for use by security researchers, the open source community, industry, and the public. You agree to release your contributions to the GitHub Advisory Database under the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).
+Precisamos do direito legal de enviar suas contribuições para o GitHub Advisory Database em conjuntos de dados de domínio público, como o [Banco de Dados Nacional de Vulnerabilidades](https://nvd.nist.gov/) e licenciar o GitHub Advisory Database de acordo com termos abertos para uso por pesquisadores de segurança, pela comunidade de software livre, pelo setor e pelo público. Você concorda em liberar suas contribuições para o GitHub Advisory Database de acordo com a [Licença Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/).
 
-*License to the GitHub Advisory Database*
+*Licença do GitHub Advisory Database*
 
-The GitHub Advisory Database is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). The attribution term may be fulfilled by linking to the GitHub Advisory Database at <https://github.com/advisories> or to individual GitHub Advisory Database records used, prefixed by <https://github.com/advisories>.
+O GitHub Advisory Database é licenciado de acordo com a [Licença Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). O prazo de atribuição pode ser cumprido vinculando-se ao GitHub Advisory Database em <https://github.com/advisories> ou para registros individuais do GitHub Advisory Database usados, prefixados por <https://github.com/advisories>.
 
-[Codespaces](#codespaces)
+[Espaços de código](#codespaces)
 ----------
 
-*Note: The github.dev service, available by pressing . on a repo or navigating directly to github.dev, is governed by GitHub's Beta Terms of service.*
+*Observação: o serviço github.dev, disponível quando você pressiona . em um repositório ou navega diretamente para github.dev, é regido pelos Termos de Serviço Beta do GitHub.*
 
-GitHub Codespaces enables you to develop code directly from your browser using the code within your GitHub repository. Codespaces and any elements of the Codespaces service may not be used in violation of the Agreement or the Acceptable Use Policies. Additionally, Codespaces should not be used for:
+O GitHub Codespaces permite desenvolver código diretamente de seu navegador usando o código em seu repositório GitHub. Codespaces e quaisquer elementos do serviço Codespaces não podem ser usados em violação do Contrato ou das Políticas de Uso Aceitável. Além disso, os Codespaces não devem ser usados para:
 
-* Cryptomining;
-* Using our servers to disrupt, or to gain or to attempt to gain unauthorized access to any service, device, data, account or network (other than those authorized by the GitHub Bug Bounty program);
-* The provision of a stand-alone or integrated application or service offering Codespaces or any elements of Codespaces for commercial purposes;
-* Any activity that places a burden on our servers, where that burden is disproportionate to the benefits provided to users (for example, don't use Codespaces as a content delivery network, as part of a serverless application, or to host any kind of production-facing application); or
-* Any other activity unrelated to the development or testing of the software project associated with the repository where GitHub Codespaces is initiated.
+* Mineração de criptomoedas;
+* Usar nossos servidores para prejudicar, obter ou tentar obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo Programa de Recompensas por Bugs do GitHub);
+* A provisão de uma aplicação ou serviço independente/integrado, ou oferta de serviço do Codespaces ou quaisquer um de seus elementos para fins comerciais;
+* Qualquer atividade que sobrecarregue nossos servidores desproporcionalmente quando comparada aos benefícios oferecidos aos usuários. Por exemplo, não use Codespaces como uma Rede de Distribuição de Conteúdo, como parte de um aplicativo sem servidor ou para hospedar qualquer tipo de aplicação voltada à produção; ou
+* Qualquer outra atividade não relacionada ao desenvolvimento ou teste do projeto de software associado ao repositório onde o GitHub Codespaces é iniciado.
 
-In order to prevent violations of these limitations and abuse of GitHub Codespaces, GitHub may monitor your use of GitHub Codespaces. Misuse of GitHub Codespaces may result in termination of your access to Codespaces, restrictions in your ability to use GitHub Codespaces, or the disabling of repositories created to run Codespaces in a way that violates these Terms.
+Para evitar violações dessas limitações e abuso de Codespaces do GitHub, o GitHub pode monitorar seu uso de Codespaces do GitHub. O uso indevido dos Codespaces do GitHub pode resultar no encerramento do seu acesso aos Codespaces, restrições na sua capacidade de usar os Codespaces do GitHub ou na desativação de repositórios criados para executar Codespaces de uma forma que viole estes Termos.
 
-Codespaces allows you to load extensions from the Microsoft Visual Studio Marketplace (“Marketplace Extensions”) for use in your development environment, for example, to process the programming languages that your code is written in. Marketplace Extensions are licensed under their own separate terms of use as noted in the Visual Studio Marketplace, and the terms of use located at <https://aka.ms/vsmarketplace-ToU>. GitHub makes no warranties of any kind in relation to Marketplace Extensions and is not liable for actions of third-party authors of Marketplace Extensions that are granted access to Your Content. Codespaces also allows you to load software into your environment through devcontainer features. Such software is provided under the separate terms of use accompanying it. Your use of any third-party applications is at your sole risk.
+Codespaces permite que você carregue extensões do Microsoft Visual Studio Marketplace ("Extensões de mercado") para uso em seu ambiente de desenvolvimento, por exemplo, para processar as linguagens de programação nas quais seu código está escrito. As Extensões do Marketplace são licenciadas de acordo com seus próprios termos de uso separados, conforme observado no Visual Studio Marketplace, e os termos de uso localizados em <https://aka.ms/vsmarketplace-ToU>. O GitHub não oferece garantias de nenhum tipo em relação às Extensões do Marketplace e não é responsável por ações de autores terceiros das Extensões do Marketplace que tenham acesso ao Seu Conteúdo. Codespaces também permite carregar software em seu ambiente por meio de recursos devcontainer. Esse software é fornecido sob os termos de uso separados que o acompanham. Seu uso de quaisquer aplicativos de terceiros é de sua inteira responsabilidade.
 
-The generally available version of Codespaces is not currently available for U.S. government customers. U.S. government customers may continue to use the Codespaces Beta Preview under separate terms. See [Beta Preview terms](/pt/site-policy/github-terms/github-terms-of-service#j-beta-previews).
+A versão geralmente disponível do Codespaces não está disponível atualmente para clientes do governo dos EUA. Os clientes do governo dos EUA podem continuar a usar o Codespaces Beta Preview sob termos separados. Consulte [Termos da Visualização Beta](/pt/site-policy/github-terms/github-terms-of-service#j-beta-previews).
 
-[Competitive Benchmarking](#competitive-benchmarking)
+[Parâmetro de comparação competitiva](#competitive-benchmarking)
 ----------
 
-If you offer a product or service competitive to any GitHub product or service, by using that GitHub product or service, you agree to and hereby waive any restrictions as to GitHub on competitive use and benchmark testing in the terms governing your competitive product or service. If you do not intend to waive such restrictions in your terms of use, you are not allowed to use that GitHub product or service.
+Caso ofereça um produto ou serviço concorrente a qualquer produto ou serviço do GitHub, ao usar tal produto ou serviço do GitHub, você concorda e, portanto, renuncia às restrições relacionadas ao GitHub quanto ao uso competitivo e à realização de testes de parâmetros de comparação nos termos que regem seu produto ou serviço concorrente. Caso não pretenda renunciar a essas restrições nos seus termos de uso, você não terá permissão de usar o produto ou serviço do GitHub em questão.
 
-[Connect](#connect)
+[Conectar](#connect)
 ----------
 
-With GitHub Connect, you can share certain features and data between your GitHub Enterprise Server deployment and your GitHub Enterprise Cloud organization or enterprise account on GitHub.com. In order to enable GitHub Connect, you must have at least one (1) account on GitHub Enterprise Cloud or GitHub.com, and one (1) licensed deployment of GitHub Enterprise Server. Your use of GitHub Enterprise Cloud or GitHub.com through Connect is governed by the terms under which you license GitHub Enterprise Cloud or GitHub.com. Use of Personal Data is governed by the [GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement).
+Com o GitHub Connect, você pode compartilhar determinados recursos e dados entre sua implantação do GitHub Enterprise Server e sua organização ou conta empresarial do GitHub Enterprise Cloud no GitHub.com. Para habilitar o GitHub Connect, você precisa ter pelo menos 1 (uma) conta do GitHub Enterprise Cloud ou do GitHub.com e 1 (uma) implantação do GitHub Enterprise Server. Seu uso do GitHub Enterprise Cloud ou GitHub.com por meio do Connect é regido pelos termos sob os quais você licencia o GitHub Enterprise Cloud ou GitHub.com. O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
 
 [GitHub Copilot](#github-copilot)
 ----------
 
-For GitHub Copilot Business and Copilot Enterprise license holders, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Para os usuários de licenças do GitHub Copilot Business e Copilot Enterprise, o uso do GitHub Copilot está sujeito aos [Termos específicos do produto do GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-For GitHub Copilot Individual license holders, your use of GitHub Copilot is governed by the following terms:
-To use GitHub Copilot in your code editor, you need to install the GitHub Copilot extension to that editor. To use GitHub Copilot in the CLI (Command Line Interface), you need to install the GitHub Copilot CLI extension. To use GitHub Copilot Chat on GitHub Mobile, you need to install the GitHub Mobile application. To use GitHub Copilot on the website, you must access the website. The code you write using GitHub Copilot (“**Your Code**”) is not “Content” under the Agreement until you upload it to GitHub.com.
+Para os usuários de licenças do GitHub Copilot Individual, o uso do GitHub Copilot é regido pelos seguintes termos: Para usar o GitHub Copilot no editor de código, você precisa instalar a extensão do GitHub Copilot nesse editor. Para usar o GitHub Copilot na CLI (Interface de linha de comando), você precisa instalar a extensão GitHub Copilot CLI. Para usar o GitHub Copilot Chat na versão móvel do GitHub, você precisa instalar o aplicativo móvel do GitHub. Para usar o GitHub Copilot no site, você deve acessar o site. O código que você escreve usando o GitHub Copilot (“**Seu Código**”) não é considerado “Conteúdo” segundo o Contrato até que você o carregue no GitHub.com.
 
-If you customize GitHub Copilot by using a GitHub Copilot Extension (Extension), your use may be subject to the Extension's terms of use and privacy policy.
+Se você personalizar o GitHub Copilot usando uma Extensão do GitHub Copilot (Extensão), seu uso poderá estar sujeito aos termos de uso e à política de privacidade da Extensão.
 
-The code, functions, and other output returned to you by GitHub Copilot are called “**Suggestions**.” GitHub does not own Suggestions. You retain ownership of Your Code and you retain responsibility for Suggestions you include in Your Code.
+O código, as funções e outros resultados retornados para você pelo GitHub Copilot são chamados “**Sugestões**.” O GitHub não controla os Sugeridos. Você detém a propriedade de Seu Código, bem como a responsabilidade pelos “Sugeridos” incluídos no Seu Código.
 
-*Acceptable Use*
+*Uso aceitável*
 
-Your use of GitHub Copilot is subject to the GitHub [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies). For example, you may not prompt GitHub Copilot with content that is unlawful or otherwise prohibited by the GitHub Acceptable Use Policies on GitHub.com.
+Seu uso do GitHub Copilot está sujeito às [Políticas de uso aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub. Por exemplo, você não pode solicitar ao GitHub Copilot conteúdo que seja ilegal ou proibido pelas Políticas de uso aceitável do GitHub no GitHub.com.
 
-*Data*
+*Dados*
 
-GitHub Copilot (i) may, depending on your settings and which GitHub Copilot Service you use, collect snippets of Your Code, and (ii) will collect additional usage information through the GitHub Copilot Service you use tied to your Account. This may include personal data, as referenced in the [GitHub Privacy Statement](/pt/site-policy/privacy-policies/github-privacy-statement). You can learn more about the collection and use of GitHub Copilot data in the [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/).
+O GitHub Copilot (i) poderá, dependendo de suas configurações e do Serviço GitHub Copilot que você usa, coletar trechos do Seu Código; e (ii) coletará informações adicionais de uso pelo Serviço de Copilot do GitHub vinculado à sua Conta. Isso poderá incluir dados pessoais, conforme mencionado na [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement). Você pode aprender mais sobre a coleta e uso de dados do GitHub Copilot na[Central de Confiabilidade do GitHub Copilot](https://resources.github.com/copilot-trust-center/).
 
-[GitHub Enterprise Importer](#github-enterprise-importer)
+[Importador do GitHub Enterprise](#github-enterprise-importer)
 ----------
 
-Importer is a framework for exporting data from other sources to be imported to the GitHub platform. Importer is provided “AS-IS”.
+Importer é um framework para exportar dados de outras fontes para serem importados para a plataforma GitHub. O Importer é fornecido “NO ESTADO EM QUE SE ENCONTRA”.
 
 [npm](#npm)
 ----------
 
-npm is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. npm is the registry of record for the JavaScript ecosystem. The npm public registry is free to use but customers are billed if they want to publish private packages or manage private packages using teams. The [npm documentation](https://docs.npmjs.com/) includes details about the limitation of account types and how to manage [private packages](https://docs.npmjs.com/about-private-packages) and [organizations](https://docs.npmjs.com/organizations). Acceptable use of the npm registry is outlined in the [open-source terms](https://www.npmjs.com/policies/open-source-terms). There are supplementary terms for both the npm [solo](https://www.npmjs.com/policies/solo-plan) and [org](https://www.npmjs.com/policies/orgs-plan) plans. The npm [Terms of Use](https://www.npmjs.com/policies/terms) apply to your use of npm.
+Npm é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usar pacotes como dependências em seus projetos. Npm é o registro de registro para o ecossistema JavaScript. O registro público npm é gratuito, mas os clientes são cobrados se quiserem publicar pacotes privados ou gerenciar pacotes privados usando equipes. A [documentação do npm](https://docs.npmjs.com/) inclui detalhes sobre a limitação dos tipos de conta e como gerenciar [pacotes privados](https://docs.npmjs.com/about-private-packages) e [organizações](https://docs.npmjs.com/organizations). O uso aceitável do registro npm é descrito nos [termos de software livre](https://www.npmjs.com/policies/open-source-terms). Existem termos complementares para os planos [solo](https://www.npmjs.com/policies/solo-plan) e [org](https://www.npmjs.com/policies/orgs-plan) do npm. Os [Termos de uso](https://www.npmjs.com/policies/terms) do npm aplicam-se ao uso que você faz do npm.
 
-[Packages](#packages)
+[Pacotes](#packages)
 ----------
 
-GitHub Packages is a software package hosting service that allows you to host your software packages privately or publicly and use packages as dependencies in your projects. GitHub Packages is billed on a usage basis. The [Packages documentation](/pt/packages/learn-github-packages/introduction-to-github-packages) includes details, including bandwidth and storage quantities (depending on your Account plan), and how to monitor your Packages usage and set usage limits. Packages bandwidth usage is limited by the [GitHub Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+O GitHub Packages é um serviço de hospedagem de pacotes de software que permite hospedar seus pacotes de software de forma privada ou pública e usar pacotes como dependências em seus projetos. Os pacotes do GitHub são cobrados com base no uso. A [documentação do Packages](/pt/packages/learn-github-packages/introduction-to-github-packages) inclui detalhes, entre eles, quantidades de armazenamento e largura de banda (dependendo de seu Plano de conta) e como monitorar o uso do Packages e definir limites de uso. O uso de bandwidth dos pacotes é limitado pelas [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
-[Pages](#pages)
+[Páginas](#pages)
 ----------
 
-Each Account comes with access to the [GitHub Pages static hosting service](/pt/pages/getting-started-with-github-pages/about-github-pages). GitHub Pages is intended to host static web pages, but primarily as a showcase for personal and organizational projects.
+Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas principalmente como uma vitrine para projetos pessoais e organizacionais.
 
-GitHub Pages is not intended for or allowed to be used as a free web hosting service to run your online business, e-commerce site, or any other website that is primarily directed at either facilitating commercial transactions or providing commercial software as a service (SaaS). Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links.
+O GitHub Pages não se destina nem tem permissão para ser usado como um serviço gratuito de hospedagem na web para administrar seus negócios on-line, site de comércio eletrônico ou qualquer outro site que seja direcionado principalmente para facilitar transações comerciais ou fornecer software comercial como serviço (SaaS ). Alguns esforços de monetização são permitidos nas Páginas, como botões de doação e links de financiamento coletivo.
 
-*Bandwidth and Usage Limits*
+*Limites de Uso e Largura de Banda*
 
-GitHub Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our [GitHub Pages limits](/pt/pages/getting-started-with-github-pages/about-github-pages) for more information.
+O GitHub Pages está sujeito a alguns limites de uso e largura de banda específicos e pode não ser apropriado para alguns usos de largura de banda alta. Consulte nossos [Limites do GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages) para obter mais informações.
 
-*Prohibited Uses*
+*Usos Proibidos*
 
-GitHub Pages may not be used in violation of the Agreement, the GitHub [Acceptable Use Policies](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies), or the GitHub Pages service limitations set forth in the [Pages documentation](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
+O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
 
-If you have questions about whether your use or intended use falls into these categories, please contact us through the [GitHub Support portal](https://support.github.com/). GitHub reserves the right at all times to reclaim any GitHub subdomain without liability.
+Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
 
-*Educational Exercises*
+*Exercícios educacionais*
 
-Using GitHub Pages to create a copy of an existing website as a learning exercise is not prohibited. However, you must write the code yourself, the site must not collect any user data, and you must include a prominent disclaimer on the site indicating that the project is not associated with the original and was only created for educational purposes.
+Usar o GitHub Pages para criar uma cópia de um site existente como um exercício de aprendizagem não é proibido. No entanto, você deve escrever o código, o site não deve coletar qualquer dado do usuário e você deve incluir um aviso de isenção de responsabilidade destacado no site indicando que o projeto não está associado ao original e foi criado apenas para fins educacionais.
 
-[Previews](#previews)
+[Visualizações](#previews)
 ----------
 
-Previews means software, online services and additional products and features provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of those, such as alpha, beta, or early access. If your Agreement does not include terms and conditions that address Previews, then the following terms apply. GitHub grants a limited right to use a non-production instance of the Preview. Previews are provided “AS-IS”, “WITH ALL FAULTS” and “AS AVAILABLE”. GitHub may change or discontinue Previews at any time without notice. Any information we give you about a private Preview will be considered GitHub’s confidential information. If you choose to provide comments or suggestions about a Preview, we may use that feedback for any purpose without obligation of any kind. GitHub’s maximum liability is limited to direct damages up to US $500. GitHub has no obligation to defend, indemnify, or hold you harmless for claims brought by third parties arising from your use of Previews.
+Pré-visualizações significa software, serviços online e produtos e recursos adicionais fornecidos para fins de visualização, avaliação, demonstração ou avaliação, ou versões de pré-lançamento desses, como alfa, beta ou acesso antecipado. Se o seu Contrato não incluir termos e condições que abordam as Visualizações, os seguintes termos se aplicam. O GitHub concede um direito limitado de usar uma instância de não produção do Preview. As visualizações são fornecidas “NO ESTADO EM QUE SE ENCONTRAM” e “CONFORME DISPONÍVEIS”. O GitHub pode alterar ou descontinuar as Visualizações a qualquer momento sem notificação. Todas as informações que fornecermos sobre uma visualização privada serão consideradas informações confidenciais do GitHub. Se você optar por fornecer comentários ou sugestões sobre uma Visualização, poderemos usar esse feedback para qualquer finalidade sem obrigação de qualquer tipo. O passivo máximo do GitHub é limitado a danos diretos de até US$ 500. O GitHub não tem obrigação de defender, indenizar ou isentá-lo de responsabilidade por reclamações apresentadas por terceiros decorrentes do uso de visualizações.
 
-[Sponsors Program](#sponsors-program)
+[Programa Sponsors](#sponsors-program)
 ----------
 
-GitHub Sponsors allows the developer community to financially support the people and organizations who design, build, and maintain the open source projects they depend on, directly on GitHub. In order to become a Sponsored Developer, you must agree to the [GitHub Sponsors Program Additional Terms](/pt/site-policy/github-terms/github-sponsors-additional-terms).
+Os patrocinadores do GitHub permitem que a comunidade de desenvolvedores apoie financeiramente as pessoas e organizações que projetam, constroem e mantêm os projetos de código aberto dos quais dependem, diretamente no GitHub. Para tornar-se um Desenvolvedor Patrocinado, é necessário concordar com os [Termos Adicionais do Programa GitHub Sponsors](/pt/site-policy/github-terms/github-sponsors-additional-terms).
 
-[SQL Server Images](#sql-server-images)
+[Imagens do SQL Server](#sql-server-images)
 ----------
 
-You may download Microsoft SQL Server Standard Edition container image for Linux files ("SQL Server Images"). You must uninstall the SQL Server Images when your right to use the Software ends. Microsoft Corporation may disable SQL Server Images at any time.
+Você pode baixar a imagem de contêiner do Microsoft SQL Server Standard Edition para arquivos Linux ("Imagens do SQL Server"). É necessário desinstalar as Imagens do SQL Server quando terminar seu direito de usar o Software. A Microsoft Corporation pode desativar as Imagens do SQL Server a qualquer momento.
 
 [GitHub Models](#github-models)
 ----------
 
-GitHub Models is a feature that allows you to learn, try, and test artificial intelligence models on GitHub.com. You can access GitHub Models via the [GitHub Marketplace](https://github.com/marketplace). Learn more about GitHub Models by visiting [Prototyping with AI models](/pt/github-models/prototyping-with-ai-models).
+O GitHub Models é um recurso que permite que você aprenda, experimente e teste modelos de inteligência artificial no GitHub.com. Você pode acessar o GitHub Models por meio do [GitHub Marketplace](https://github.com/marketplace). Saiba mais sobre o GitHub Models visitando [Prototipagem com modelos de IA](/pt/github-models/prototyping-with-ai-models).
 
-Your use of this feature is subject to the terms of the company hosting the model and the model license.
+Seu uso desse recurso está sujeito aos termos da empresa que hospeda o modelo e à licença do modelo.
 
 {"resolvedServerColorMode":"day"}

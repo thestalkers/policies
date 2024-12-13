@@ -1,30 +1,30 @@
-GitHub Misinformation and Disinformation - GitHub Docs
+Désinformation et désinformation GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)/
-* [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies)/
-* [Misinformation and Disinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Politique du site](/fr/site-policy)/
+* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
+* [Mésinformation et désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
-GitHub Misinformation and Disinformation
+Désinformation et désinformation GitHub
 ==========
 
-You may not post content that presents a distorted view of reality, whether it is inaccurate or false (misinformation) or is intentionally deceptive (disinformation), where such content is likely to result in harm to the public or to interfere with fair and equal opportunities for all to take part in a free and open society. This may include:
+Vous ne pouvez pas publier de contenu qui présente une vision déformée de la réalité, qu'il soit inexact ou faux (désinformation) ou intentionnellement trompeur (désinformation), lorsque ce contenu est susceptible de porter préjudice au public ou d'interférer avec des opportunités justes et égales. pour tous de participer à une société libre et ouverte. Cela peut inclure :
 
-* Inaccurate or scientifically unsupported medical claims that endanger public health or safety
-* Manipulated media, whether audio or visual, likely to mislead or deceive in a way that may harm the public interest
-* False or misleading content likely to interfere with an individual's ability to participate in civic activities
-* Unsubstantiated claims that could promote hate or targeted harassment of specific groups of people
+* Allégations médicales inexactes ou scientifiquement non étayées qui mettent en danger la santé ou la sécurité publiques
+* Médias manipulés, qu'ils soient audio ou visuels, susceptibles d'induire en erreur ou de tromper d'une manière susceptible de nuire à l'intérêt public
+* Contenu faux ou trompeur susceptible d'interférer avec la capacité d'un individu à participer à des activités civiques
+* Allégations non fondées susceptibles de promouvoir la haine ou le harcèlement ciblé de groupes de personnes spécifiques
 
-We encourage active participation in the expression of ideas, perspectives, and experiences and may not be in a position to dispute personal accounts or observations. We generally allow parody and satire that is in line with our [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies), and we consider context to be important in how information is received and understood. When reviewing content under this policy, GitHub will consider the impact of various factors that may help to orient the viewer, such as whether the content has been provided with clear disclaimers, citations to credible sources, or includes other details that clarify the accuracy of the information being shared.
+Nous encourageons la participation active à l'expression d'idées, de points de vue et d'expériences et ne sommes peut-être pas en mesure de contester des récits ou des observations personnelles. Nous autorisons généralement la parodie et la satire qui sont conformes à nos [règles de bon usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies) et nous considérons que le contexte est important dans la façon dont l'information est reçue et comprise. Lors de l'examen du contenu dans le cadre de cette politique, GitHub prendra en compte l'impact de divers facteurs susceptibles d'aider à orienter le spectateur, par exemple si le contenu a été fourni avec des clauses de non-responsabilité claires, des citations de sources crédibles ou inclut d'autres détails qui clarifient l'exactitude du informations partagées.
 
-[Synthetic & Manipulated Media Tools](#synthetic--manipulated-media-tools)
+[Outils médiatiques synthétiques et manipulés](#synthetic--manipulated-media-tools)
 ----------
 
-GitHub does not allow any projects that are designed for, encourage, promote, support, or suggest in any way the use of synthetic or manipulated media for the creation of non-consensual intimate imagery or any content that would constitute misinformation or disinformation under this policy.
+GitHub n'autorise aucun projet conçu pour, encourageant, promouvant, soutenant ou suggérant de quelque manière que ce soit l'utilisation de médias synthétiques ou manipulés pour la création d'images intimes non consensuelles ou tout contenu qui constituerait de la désinformation ou de la mésinformation en vertu de cette politique.
 
 {"resolvedServerColorMode":"day"}

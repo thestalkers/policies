@@ -1,102 +1,102 @@
-GitHub Gifts and Entertainment Policy - GitHub Docs
+Политика GitHub в отношении подарков и развлечений - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [GitHub Company Policies](/ru/site-policy/github-company-policies)/
-* [GitHub Gifts and Entertainment Policy](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+* [Политика сайта](/ru/site-policy)/
+* [Политика компании GitHub](/ru/site-policy/github-company-policies)/
+* [Политика GitHub в отношении подарков и развлечений](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
-GitHub Gifts and Entertainment Policy
+Политика GitHub в отношении подарков и развлечений
 ==========
 
-In this article
+В этой статье
 ----------
 
-* [Company policies](#company-policies)
-* [Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
-* [Process](#process)
-* [Consequences](#consequences)
-* [More information](#more-information)
+* [Политика компаний](#company-policies)
+* [Примеры приемлемых и неприемлемых подарков](#examples-of-acceptable-and-unacceptable-gifts)
+* [Процедура](#process)
+* [Последствия](#consequences)
+* [Дополнительные сведения](#more-information)
 
-GitHub recognizes that our business is built on positive and transparent relationships. While informal interactions and exchanges of gifts may be part of developing those relationships and may even be considered customary in some countries, we need to ensure that we’re following anti-bribery laws. We have a legal obligation to behave ethically, including by not using such interactions to create a special advantage or influence a deal.
+GitHub признает, что наш бизнес построен на позитивных и прозрачных отношениях. Хотя неформальное взаимодействие и обмен подарками могут быть элементом формирования таких отношений и даже считаться обычным делом в некоторых странах, мы должны обеспечить соблюдение законов о борьбе со взяточничеством. Юридически мы обязаны вести себя этично, в том числе не использовать такое взаимодействие для создания особых преимуществ или влияния на сделку.
 
-[Company policies](#company-policies)
+[Политика компаний](#company-policies)
 ----------
 
-As a reminder, our Code of Ethics states:
+Напоминаем, что наш Кодекс этики гласит:
 
 >
 >
-> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
+> Вы никогда не должны платить, предлагать оплату, обещать заплатить, побуждать, принимать или разрешать выплату чего-либо ценного кому бы то ни было, в том числе лицам, занимающим властные или служебные позиции, например государственным служащим, или в коммерческих сделках — для получения или сохранения бизнеса или получения каких-либо других неправомерных преимуществ для GitHub или Microsoft. Вы также не должны выпрашивать или принимать взятки, откаты или любые другие неправомерные платежи наличными. … [Сотрудники GitHub] обязаны вести точный и достоверный учет всех транзакций, связанных с любыми расходами, сделанными от имени GitHub, например, сохраняя квитанции и предоставляя точное описание своих расходов, или любых других транзакций, связанных с отчуждением или передачей активов GitHub. Такие действия требуются в соответствии с Законом США о противодействии коррупции за рубежом, Законом Великобритании о борьбе со взяточничеством 2010 года и антикоррупционными законами других юрисдикций, в которых GitHub ведет бизнес, а также на основании правильности действий.
 >
 >
 
-GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
+Этический кодекс GitHub подробно описывает действия в определенных ситуациях, включая подарки, путешествия и развлечения; содействие платежам; благотворительные пожертвования; работу; работу с представителями, а также то, кто считается государственным служащим.
 
-Our Standards of Conduct prohibit:
+Наши стандарты поведения запрещают:
 
 >
 >
-> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+> Подкуп государственных чиновников или других лиц с целью получения несправедливого преимущества, а также получение взяток от кого бы то ни было.
 >
 >
 
-That means not only no cash or cash equivalent of any kind, but nothing of value, should be given to anyone (including civil servants, government officials, or anyone in a position of power or authority, as well as people not in any of those privileged positions) in order to influence them or taken from anyone to influence GitHub. Such activity is prohibited by the U.S. Foreign Corrupt Practices Act and UK Anti-Bribery laws, both of which govern GitHub’s actions globally.
+Это означает, что не только никакие деньги или их эквивалент, но и никакие ценности не должны передаваться кому бы то ни было (включая государственных служащих, правительственных чиновников или лиц, занимающих властные или авторитетные позиции, а также людей, не занимающих таких привилегированных позиций) с целью оказания на них влияния или приниматься от кого бы то ни было с целью оказания влияния на GitHub. Такая деятельность запрещена Законом США о и законами Великобритании о борьбе со взяточничеством, которые регулируют действия компании GitHub на глобальном уровне.
 
-[Examples of acceptable and unacceptable gifts](#examples-of-acceptable-and-unacceptable-gifts)
+[Примеры приемлемых и неприемлемых подарков](#examples-of-acceptable-and-unacceptable-gifts)
 ----------
 
-So what does “of value” mean? Keep in mind that no gifts are acceptable for government officials (ok, maybe stickers). You should always ask them what their policies permit and prohibit. But if in doubt, please run it by Legal to make sure. For example, many U.S. congresspeople will not let you take them out for dinner and pay.
+Так что же означает «обладающие ценностью»? Имейте в виду, что для государственных служащих недопустимы никакие подарки (кроме, может быть, наклеек). Вы всегда должны спрашивать, что разрешено и что запрещено их политикой. Но если вы сомневаетесь, пожалуйста, проверьте в юридическом отделе. Например, многие конгрессмены США не позволят вам пригласить их на ужин и заплатить.
 
-As for other customers or prospective customers, certain things might seem trivial but have great value to someone else. For example, although it might not seem like a big deal to you to get your friend’s daughter hired as an intern, it might be of huge value to them. But if she is not qualified and you pull strings to make it happen, then it isn't ok. In addition, if the intention is to improperly influence, anything, however small, might be considered "of value."
+Что касается других клиентов или потенциальных клиентов, некоторые вещи могут показаться тривиальными, но иметь большую ценность для кого-то другого. Например, хотя для вас может показаться пустяком нанять дочь вашего друга в качестве стажера, для него это может иметь огромное значение. Но если она не квалифицирована, и вы пытаетесь сделать так, чтобы это произошло, то это не нормально. Кроме того, если намерение состоит в том, чтобы оказать неправомерное влияние, что-либо, даже незначительное, может считаться «ценным».
 
-🙅 *Here are some other things that aren't ok:*
+🙅 *Вот еще некоторые вещи, которые не считаются нормальными:*
 
-* First class airfare to GitHub offices for Executive Briefings ✈️+🍾
-* Winery tours 🍷
-* Recommending a friend’s kid to a prestigious private school for admission 🎓
-* Tickets to Disneyland 👸, the World Cup 🥅, the Olympics 🏅
-* A futbol ⚽️ autographed by a famous player
-* A contribution to a charity
+* Авиабилеты первого класса для полета на брифинг руководителей в офисах GitHub ✈️+🍾
+* Винные туры 🍷
+* Рекомендовать ребенка друга в престижную частную школу 🎓
+* Билеты в Диснейленд 👸, на Чемпионат мира 🥅, Олимпиаду 🏅
+* Футбольный мяч ⚽️ с автографом известного игрока
+* Взнос на благотворительность
 
-🙆 *Here is some stuff that is actually ok for customers or prospective customers:*
+🙆 *Вот некоторые примеры того, что будет нормально для клиентов или потенциальных клиентов:*
 
-* Swag
-* Economy class airfare to GitHub offices for Executive Briefings ✈️
-* Bleacher-type tickets to a sporting event ⚾️
-* A reasonably priced dinner in town 🍽
-* A small box of chocolates as an end of year thank you 🍫
+* Сувенир
+* Авиаперелет эконом-классом в офисы GitHub для брифинга руководителей ✈️
+* Билеты на дешевые места на спортивное мероприятие ⚾️
+* Ужин в городе по приемлемой цене🍽
+* Небольшая коробка конфет в знак благодарности к окончанию года 🍫
 
-All of the above applies to *taking* bribes too. So if a vendor or prospective vendor sends you something “of value,” don’t accept it—or at least run it by Legal before you do.
+Все вышеперечисленное может также расцениваться как *взятка*. Поэтому, если поставщик или потенциальный поставщик присылает вам что-то «ценное», не принимайте это или, по крайней мере, проверьте в юридическом отделе до того, как принять.
 
-[Process](#process)
+[Процедура](#process)
 ----------
 
-If you are planning to provide or accept an informal gift (that is not one of our promotional items like t-shirts and sticker swag), please make sure to follow the process below.
+Если вы планируете подарить или принять неформальный подарок (не один из наших сувениров, например, футболки и стикеры), обязательно следуйте описанному ниже процессу.
 
-Keep in mind that what's an acceptable amount can vary. For example, spending $50 on dinner might be considered a lot of money in some countries but not as much in others. So, when in doubt, ask!
+Имейте в виду, что допустимой количество может варьироваться. Например, расходы 50 долларов США на ужин могут считаться большими деньгами в одних странах, но не столь большими в других. Так что, если сомневаетесь, спрашивайте!
 
-1. Generally speaking, for any expenses exceeding $150, you'll need approval (each time) from Legal in writing. And for any gifts you receive exceeding $150, you'll need to report that (each time) to Legal in writing. (Legal is just weighing in on the bribery question. You might still need to check with Finance for other reasons.)
+1. Как правило, для любых расходов, превышающих 150 долларов США, требуется письменное одобрение (каждый раз) со стороны юридического отдела. А в случае получения подарков на сумму, превышающую 150 долларов США, вы должны будете письменно сообщать об этом (каждый раз) в юридический отдел. (Юридический отдел только взвешивает вопрос о взяточничестве. Возможно, вам все же придется обратиться в финансовый отдел по другим причинам.)
 
-2. When you submit your expense report for reimbursement, please:
+2. Когда вы представляете отчет о расходах для возмещения, пожалуйста:
 
-   * Indicate the recipient and the purpose of the gift in the notes; and
-   * Include a copy of the email approval
+   * В примечаниях укажите получателя и назначение подарка; а также
+   * Приложите копию одобрения по электронной почте
 
-[Consequences](#consequences)
+[Последствия](#consequences)
 ----------
 
-What happens if you don’t follow the policy and GitHub ends up paying for a prospective customer and his family to fly first class to Japan and attend the Tokyo Olympics? Or if you drop off a suitcase of Euros for a government official in a pre-arranged train station locker?
+Что произойдет, если вы не будете следовать этой политике, и GitHub в конечном итоге заплатит потенциальному клиенту и его семье за то, чтобы полететь первым классом в Японию и посетить Олимпийские игры в Токио? Или если вы оставите чемодан с евро для государственного чиновника в заранее подготовленной камере хранения на вокзале?
 
-FINES and JAIL. Not necessarily just for GitHub, either. You might get to spend a few years in jail, yourself, and it won’t matter if the customer ever submitted an order to GitHub after their trip to Japan or if the government official even picked up the suitcase of cash. Basically, it doesn’t matter whether you actually *made* a bribe. Yoda notwithstanding, it’s the trying that counts.
+ШТРАФЫ и ТЮРЬМА. Не обязательно только для GitHub. Вы сами можете провести несколько лет в тюрьме, и не имеет значения, отправил ли клиент заказ на GitHub после поездки в Японию или даже забрал ли правительственный чиновник чемодан с наличными. По сути, не имеет значения, действительно ли вы\_дали\_ взятку. Несмотря на Йоду, важны попытки.
 
-[More information](#more-information)
+[Дополнительные сведения](#more-information)
 ----------
 
-For more information and context on rules, enforcement, and penalties, the U.S. Department of Justice’s [Resource Guide to the U.S. Foreign Corrupt Practices Act](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) is an excellent resource.
+Дополнительную информацию и контекст правил, правоприменения и наказаний можно найти в [Справочнике по Закону США о противодействии коррупции за рубежом](https://www.justice.gov/sites/default/files/criminal-fraud/legacy/2015/01/16/guide.pdf) Министерства юстиции США.
 
 {"resolvedServerColorMode":"day"}

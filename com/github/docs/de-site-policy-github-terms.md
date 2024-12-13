@@ -1,60 +1,60 @@
-GitHub Terms - GitHub Docs
+GitHub-Bedingungen - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [GitHub Terms](/de/site-policy/github-terms)
+* [Websiterichtlinie](/de/site-policy)/
+* [GitHub-Bedingungen](/de/site-policy/github-terms)
 
-GitHub Terms
+GitHub-Bedingungen
 ==========
 
-[GitHub Terms of Service](/de/site-policy/github-terms/github-terms-of-service)
+[GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service)
 ----------
 
-[GitHub Corporate Terms of Service](/de/site-policy/github-terms/github-corporate-terms-of-service)
+[GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
 ----------
 
-[GitHub Terms for Additional Products and Features](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
+[GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub Community Guidelines](/de/site-policy/github-terms/github-community-guidelines)
+[GitHub-Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines)
 ----------
 
-[GitHub Community Code of Conduct](/de/site-policy/github-terms/github-community-code-of-conduct)
+[Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
 ----------
 
-[GitHub Pre-release License Terms](/de/site-policy/github-terms/github-pre-release-license-terms)
+[Lizenzbestimmungen für die Vorabversion von GitHub](/de/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub Sponsors Additional Terms](/de/site-policy/github-terms/github-sponsors-additional-terms)
+[GitHub sponsert zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
-[GitHub Registered Developer Agreement](/de/site-policy/github-terms/github-registered-developer-agreement)
+[Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
 ----------
 
-[GitHub Marketplace Terms of Service](/de/site-policy/github-terms/github-marketplace-terms-of-service)
+[GitHub Marketplace-Nutzungsbedingungen](/de/site-policy/github-terms/github-marketplace-terms-of-service)
 ----------
 
-[GitHub Marketplace Developer Agreement](/de/site-policy/github-terms/github-marketplace-developer-agreement)
+[GitHub Marketplace-Entwicklervereinbarung](/de/site-policy/github-terms/github-marketplace-developer-agreement)
 ----------
 
-[GitHub Research Program Terms](/de/site-policy/github-terms/github-research-program-terms)
+[Bedingungen des GitHub-Forschungsprogramms](/de/site-policy/github-terms/github-research-program-terms)
 ----------
 
-[GitHub Open Source Applications Terms and Conditions](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+[Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 ----------
 
-[GitHub Event Terms](/de/site-policy/github-terms/github-event-terms)
+[Bedingungen für GitHub-Events](/de/site-policy/github-terms/github-event-terms)
 ----------
 
-[GitHub Event Code of Conduct](/de/site-policy/github-terms/github-event-code-of-conduct)
+[GitHub-Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
 ----------
 
-[GitHub Educational Use Agreement](/de/site-policy/github-terms/github-educational-use-agreement)
+[GitHub-Vereinbarung zur Nutzung für Bildungszwecke](/de/site-policy/github-terms/github-educational-use-agreement)
 ----------
 
 [GitHub Copilot Extension Developer Policy](/de/site-policy/github-terms/github-copilot-extension-developer-policy)

@@ -1,25 +1,25 @@
-Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
+Divulgação coordenada de vulnerabilidades de segurança - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Security Policies](/pt/site-policy/security-policies)/
-* [Coordinated Disclosure of Security Vulnerabilities](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [Política do site](/pt/site-policy)/
+* [Políticas de Segurança](/pt/site-policy/security-policies)/
+* [Divulgação coordenada de vulnerabilidades de segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-Coordinated Disclosure of Security Vulnerabilities
+Divulgação coordenada de vulnerabilidades de segurança
 ==========
 
-We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
+Queremos manter o GitHub seguro para todos. Se você descobriu uma vulnerabilidade de segurança no GitHub, agradecemos sua ajuda em divulgá-la para nós de maneira coordenada.
 
-[Bounty Program](#bounty-program)
+[Programa de recompensas](#bounty-program)
 ----------
 
-Like several other large software companies, GitHub provides a bug bounty to better engage with security researchers. The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our coordinated disclosure process. Then, to recognize the significant effort that these researchers often put forth when hunting down bugs, we reward them with some cold hard cash.
+Como várias outras grandes empresas de software, o GitHub oferece uma recompensa de bugs para melhor se envolver com pesquisadores de segurança. A ideia é simples: hackers e pesquisadores de segurança (como você) descobrem e relatam vulnerabilidades por meio de nosso processo de divulgação coordenado. Então, para reconhecer o esforço significativo que esses pesquisadores costumam fazer ao caçar insetos, nós os recompensamos com algum dinheiro vivo.
 
-Check out the [GitHub Bug Bounty](https://bounty.github.com) site for bounty details, review our comprehensive [Legal Safe Harbor Policy](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) terms as well, and happy hunting!
+Consulte o site [Recompensa por Bugs do GitHub](https://bounty.github.com) para obter detalhes de recompensas, além dos termos abrangentes da [Política Legal de Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) e ache os bugs!
 
 {"resolvedServerColorMode":"day"}

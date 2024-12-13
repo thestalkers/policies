@@ -1,101 +1,101 @@
-GitHub Candidate Privacy Policy - GitHub Docs
+GitHub 求职者隐私政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Privacy Policies](/zh/site-policy/privacy-policies)/
-* [GitHub Candidate Privacy Policy](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+* [站点政策](/zh/site-policy)/
+* [隐私政策](/zh/site-policy/privacy-policies)/
+* [GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-GitHub Candidate Privacy Policy
+GitHub 求职者隐私政策
 ==========
 
-In this article
+本文内容
 ----------
 
-* [What Candidate Personal Information do we collect?](#what-candidate-personal-information-do-we-collect)
-* [How do we use the Candidate Personal Information we collect?](#how-do-we-use-the-candidate-personal-information-we-collect)
-* [How do we share your Candidate Personal Information?](#how-do-we-share-your-candidate-personal-information)
-* [Your rights to your Candidate Personal Information](#your-rights-to-your-candidate-personal-information)
-* [How long do we retain your Candidate Personal Information?](#how-long-do-we-retain-your-candidate-personal-information)
-* [Changes to this Policy](#changes-to-this-policy)
+* [我们收集哪些求职者个人信息？](#what-candidate-personal-information-do-we-collect)
+* [我们如何使用我们收集的求职者个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
+* [我们如何分享您的求职者个人信息？](#how-do-we-share-your-candidate-personal-information)
+* [您对求职者个人信息具备的权利](#your-rights-to-your-candidate-personal-information)
+* [我们会将您的求职者个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
+* [本政策的更改](#changes-to-this-policy)
 
-Effective Date: March 8, 2021
+生效日期：2021 年 3 月 8 日
 
-This GitHub Candidate Privacy Policy explains what information we collect about you during the application or recruitment process for employment with GitHub, as well as the purposes for which we collect and use that information.
+本“GitHub 求职者隐私政策”说明了我们在 GitHub 求职申请或招聘过程中会收集关于您的哪些信息，以及我们收集和使用该信息的目的。
 
-For the purposes of this policy:
+就本政策而言：
 
-“Candidate” includes applicants and candidates who are part of the GitHub application or recruitment process; and
+“求职者”包括 GitHub 申请或招聘过程中的申请人和求职者；
 
-"Candidate Personal Information" refers to any information we collect about one of our Candidates during the application or recruitment process which could, alone or together with other information, personally identify them or otherwise be reasonably linked or connected with them.
+“求职者个人信息”是指我们在申请或招聘过程中收集的关于某一位求职者的任何信息，这些信息可以单独或结合其他信息来识别他们的身份，或者以其他方式与他们产生合理的关联。
 
-This policy does not apply to the use of GitHub services, which are covered under our [GitHub Privacy Statement](/zh/site-policy/privacy-policies/github-privacy-statement).
+本政策不适用于 GitHub 服务的使用，[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)涵盖了这些服务的使用。
 
-[What Candidate Personal Information do we collect?](#what-candidate-personal-information-do-we-collect)
+[我们收集哪些求职者个人信息？](#what-candidate-personal-information-do-we-collect)
 ----------
 
-The Candidate Personal Information we collect, use, and maintain (or “process”) can include the following, but is not limited to:
+我们收集、使用和维护（或“处理”）的求职者个人信息包括但不限于以下内容：
 
-**Identification and contact information**, including your name, email address, phone number, location, GitHub profile, and any other information you provide (such as referrals and references).
+**身份识别和联系信息**，包括您的姓名、电子邮件地址、电话号码、位置、GitHub 个人资料以及您提供的任何其他信息（例如，推荐材料和证明文件）。
 
-**National identifiers**, such as your citizenship status, residency and work permit status.
+**国家识别信息**，例如您的公民身份、居留权和工作许可证状态。
 
-**Employment and education history**, such as your resume or CV, cover letter, details of how you heard about the position you are applying for, information about any previous employment at GitHub or affiliates of GitHub, or other information you provide to us in support of an application and/or the application and recruitment process.
+**就业和教育背景**，例如您的简历（或履历表）、求职信、您如何得知所申请职位的详细信息、有关以前在 GitHub 或 GitHub 附属公司工作的信息，或者您为了支持申请和/或申请和招聘流程而向我们提供的其他信息。
 
-**Professional or employment information**, including your desired salary or terms related to benefits, willingness to relocate, other job preferences, interview details, reference information and/or information received from background checks (where applicable), and information from publicly available resources (such as your LinkedIn profile or website).
+**职业或招聘信息**，包括您期望的工资或与福利相关的条款、调动意愿、其他工作偏好、面试详细信息、参考信息和/或来自背景调查的信息（如适用），以及来自公开资源（例如，您的 LinkedIn 个人资料或网站）的信息。
 
-**Sensitive or demographic information**, such as your gender, medical or health information, veteran status, or your racial or ethnic origin.
+**敏感信息或人口统计信息**，例如您的性别、医疗或健康信息、退伍军人身份或您的种族或民族起源。
 
-[How do we use the Candidate Personal Information we collect?](#how-do-we-use-the-candidate-personal-information-we-collect)
+[我们如何使用我们收集的求职者个人信息？](#how-do-we-use-the-candidate-personal-information-we-collect)
 ----------
 
-We use the Candidate Personal Information for the following purposes:
+我们将求职者个人信息用于以下目的：
 
-* To assess your skills, qualifications and interests for employment opportunities with GitHub;
-* To verify the information provided by you or others, including checking your references;
-* To communicate with you about your application and the recruitment process, including informing you of other potential employment opportunities at GitHub;
-* If you were referred, to inform the referrer of the status of your application;
-* If you are offered a position, to prepare your offer letter and conduct a background check (to the extent permitted by applicable law);
-* If you are offered a position and where requested by you, to assist you with obtaining an immigration visa or work permit;
-* To comply with local laws, regulations, legal processes or enforceable government requests; and
-* To prepare and submit reports as required under local laws and regulations;
-* To manage and improve our application and recruitment process (such as making the application process more efficient and improving our diversity practices).
+* 评估您的技能、任职资格和兴趣，看看您是否与 GitHub 提供的就业机会匹配；
+* 验证您或其他人提供的信息，包括检查您的证明文件；
+* 就您的申请和招聘过程与您进行沟通，包括向您通报 GitHub 的其他潜在就业机会；
+* 如果您受人推荐，则用于向推荐人告知您的申请状态；
+* 如果您获得职位，则用于准备您的录取函和进行背景调查（在适用法律允许的范围内）；
+* 如果您获得职位并提出了相关请求，则用于协助您获得移民签证或工作许可证；
+* 为了遵守当地法律、法规、法律程序或可强制执行的政府要求；以及
+* 根据当地法律和法规的要求编制和提交报告；
+* 管理和改进我们的申请和招聘流程（例如提高申请流程的效率和改进我们的多元化实践）。
 
-[How do we share your Candidate Personal Information?](#how-do-we-share-your-candidate-personal-information)
+[我们如何分享您的求职者个人信息？](#how-do-we-share-your-candidate-personal-information)
 ----------
 
-GitHub will share your Candidate Personal Information with those who have a legitimate business need for it. Whenever we permit a third party to access your Candidate Personal Information, we will make sure the information is used in a manner consistent with this policy. Your Candidate Personal Information may be shared with our affiliates (such as Microsoft) and other third parties (such as vendors) for the following purposes:
+GitHub 将与具有合法业务需求的人分享您的求职者个人信息。 当我们允许第三方访问您的求职者个人信息时，我们将确保以符合本政策的方式使用该信息。 出于以下目的，我们可能会与我们的关联公司（例如微软）及其他第三方（例如供应商）分享您的求职者个人信息：
 
-1. In order to carry out the uses of Candidate Personal Information described above;
-2. To enable third parties to provide products or services to us or on our behalf (such as to facilitate the application process or conduct background checks).
-3. To comply with our legal obligations, regulations or contracts, or to respond to a court order, administrative or judicial process (such as subpoena, government audit or search warrant) or, in response to lawful requests by public authorities (such as national security or law enforcement);
-4. As necessary to establish, exercise, or defend against potential or pending litigation;
-5. Where necessary to protect GitHub, your vital interests (such as safety and security), or those of another person; or
-6. With your consent (such to contact your references). It is your responsibility to obtain consent from references before providing their personal information to GitHub.
+1. 为了使用上述求职者个人信息；
+2. 为了使第三方能够向我们提供或代表我们提供产品或服务（例如为申请过程提供便利或进行背景调查）。
+3. 为了遵守我们的法律义务、条例或合同，或对法庭判令、行政或司法程序（例如传票、政府审计或搜查令）作出回应，或应公共当局（例如国家安全部门或执法机构）的合法要求；
+4. 出于确立、行使或抗辩可能的诉讼或未决诉讼的需要；
+5. 必要时保护 GitHub、您的切身利益（例如安全和安保）或他人的利益；或
+6. 征得您的同意（例如，联系您的介绍人）。 在向 GitHub 提供介绍人的个人信息之前，您有责任征得其同意。
 
-[Your rights to your Candidate Personal Information](#your-rights-to-your-candidate-personal-information)
+[您对求职者个人信息具备的权利](#your-rights-to-your-candidate-personal-information)
 ----------
 
-In some locations, Candidates may have certain rights under applicable local privacy laws (such as the European General Data Protection Regulation). However, regardless of your location, we provide the same high standard of privacy protection to all of our Candidates around the world.
+在某些地方，根据适用的当地隐私法（例如欧洲的《一般数据保护条例》），求职者可能拥有某些权利。 但是，我们会为世界各地的所有求职者提供同样高标准的隐私保护，无论他们位于何处。
 
-This includes the rights to request access or correct your information, request that your information be deleted, or object to or restrict GitHub from using it for certain purposes.
+这包括请求访问或更正您的信息、请求删除您的信息或者反对或限制 GitHub 将其用于某些用途的权利。
 
-You can make a request to do so by contacting [privacy@github.com](mailto:privacy@github.com). We will respond to all requests in accordance with applicable data protection laws.
+如有这些需求，您可以联系 [privacy@github.com](mailto:privacy@github.com) 以提出请求。 我们将根据适用的数据保护法响应所有请求。
 
-[How long do we retain your Candidate Personal Information?](#how-long-do-we-retain-your-candidate-personal-information)
+[我们会将您的求职者个人信息保留多长时间？](#how-long-do-we-retain-your-candidate-personal-information)
 ----------
 
-Candidate Personal Information will be stored for one year after your application to comply with our legal obligations. After that time, we will contact you and ask for your consent to continue to retain your personal information so that we can consider you for any future job opportunities at GitHub.
+为了履行我们的法律义务，求职者个人信息将在您申请后存储一年。 在此之后，我们将与您联系，并请您同意继续保留您的个人信息，以便在 GitHub 有任何未来工作机会时我们可以考虑您。
 
-If you are hired for a position at GitHub, we will retain the information provided during the application and recruitment process as part of your employee record.
+如果您已受雇于 GitHub 的某个职位，我们将保留在申请和招聘过程中提供的信息，将其作为您员工记录的一部分。
 
-[Changes to this Policy](#changes-to-this-policy)
+[本政策的更改](#changes-to-this-policy)
 ----------
 
-We may occasionally update this GitHub Candidate Privacy Policy. When we do make changes to this page, we will update the "last updated" date.
+我们可能会在某些情况下更新 GitHub 求职者隐私政策。 当我们对此页面作出更改时，将会更新“最后更新”日期。
 
 {"resolvedServerColorMode":"day"}

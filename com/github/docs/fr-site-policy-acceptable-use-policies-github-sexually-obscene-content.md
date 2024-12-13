@@ -1,24 +1,24 @@
-GitHub Sexually Obscene Content - GitHub Docs
+Contenu sexuellement obscène de GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)/
-* [Acceptable Use Policies](/fr/site-policy/acceptable-use-policies)/
-* [Sexually Obscene Content](/fr/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+* [Politique du site](/fr/site-policy)/
+* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
+* [Contenu sexuellement obscène](/fr/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
-GitHub Sexually Obscene Content
+Contenu sexuellement obscène de GitHub
 ==========
 
-We do not tolerate content associated with sexual exploitation or abuse of another individual, including where minors are concerned. We do not allow sexually themed or suggestive content that serves little or no purpose other than to solicit an erotic or shocking response, particularly where that content is amplified by its placement in profiles or other social contexts. This includes:
+Nous ne tolérons aucun contenu associé à l'exploitation ou à l'abus sexuel d'une autre personne, y compris lorsqu'il s'agit de mineurs. Nous n'autorisons pas le contenu à thème sexuel ou suggestif qui n'a que peu ou pas d'autre but que de solliciter une réponse érotique ou choquante, en particulier lorsque ce contenu est amplifié par son placement dans des profils ou d'autres contextes sociaux. Cela inclut :
 
-* Pornographic content
-* Non-consensual intimate imagery
-* Graphic depictions of sexual acts including photographs, video, animation, drawings, computer-generated images, or text-based content
+* Contenu pornographique
+* Images intimes non consensuelles
+* Représentations graphiques d'actes sexuels, y compris des photographies, des vidéos, des animations, des dessins, des images générées par ordinateur ou du contenu textuel
 
-We recognize that not all nudity or content related to sexuality is obscene. We may allow visual and/or textual depictions in artistic, educational, historical or journalistic contexts, or as it relates to victim advocacy. In some cases a disclaimer can help communicate the context of the project. However, please understand that we may choose to limit the content by giving users the option to opt in before viewing.
+Nous reconnaissons que la nudité ou le contenu lié à la sexualité ne sont pas tous obscènes. Nous pouvons autoriser les représentations visuelles et/ou textuelles dans des contextes artistiques, éducatifs, historiques ou journalistiques, ou en rapport avec la défense des victimes. Dans certains cas, une clause de non-responsabilité peut aider à communiquer le contexte du projet. Cependant, veuillez comprendre que nous pouvons choisir de limiter le contenu en donnant aux utilisateurs la possibilité de s'inscrire avant de visionner.
 
 {"resolvedServerColorMode":"day"}

@@ -1,75 +1,75 @@
-GitHub Appeal and Reinstatement - GitHub Docs
+Апелляция GitHub и восстановление - Документация по GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/ru)
+[Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
 
-* [Site policy](/ru/site-policy)/
-* [Acceptable Use Policies](/ru/site-policy/acceptable-use-policies)/
-* [GitHub Appeal and Reinstatement](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Политика сайта](/ru/site-policy)/
+* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
+* [Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub Appeal and Reinstatement
+Апелляция GitHub и восстановление
 ==========
 
-In this article
+В этой статье
 ----------
 
-* [Appeal and Reinstatement](#appeal-and-reinstatement)
-* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
-* [How this works](#how-this-works)
-* [Transparency](#transparency)
+* [Апелляция и восстановление](#appeal-and-reinstatement)
+* [Что такое апелляция и восстановление?](#what-are-appeals-and-reinstatements)
+* [Как это работает](#how-this-works)
+* [Прозрачность](#transparency)
 
-[Appeal and Reinstatement](#appeal-and-reinstatement)
+[Апелляция и восстановление](#appeal-and-reinstatement)
 ----------
 
-While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
+Хотя большинство взаимодействий между людьми в сообществе GitHub подпадает под наши Политики допустимого использования и Принципы сообщества, иногда происходят нарушения этих политик. В этих случаях персоналу GitHub может потребоваться принять принудительные меры для устранения нарушений. Однако мы понимаем, что иногда можем ошибаться. В некоторых случаях может быть основание для отмены действия (или бездействия) модератора GitHub. Чтобы гарантировать, что наши политики и результаты применяются беспристрастно, у GitHub есть внутренний процесс обработки жалоб, при котором пользователи могут отправлять запросы на восстановление или предоставлять дополнительную информацию для апелляции в отношении решения модератора.
 
-[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+[Что такое апелляция и восстановление?](#what-are-appeals-and-reinstatements)
 ----------
 
-Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
+В связи с решениями об отключении или ограничении доступа к содержимому или учетной записи можно подавать как апелляции, так и запросы на восстановление, в том числе на такие решения:
 
-* Remove, disable access to, or restrict visibility of content
-* Suspend or terminate access to an account
-* Suspend or terminate access to the service, in whole or in part
-* Suspend, terminate or otherwise restrict the ability to monetize content
+* Удаление, отключение доступа к содержимому или ограничение видимости содержимого
+* Приостановка или прекращение доступа к учетной записи
+* Приостановка или прекращение доступа к службе полностью или частично
+* Приостановка, прекращение или другое ограничение возможности монетизации содержимого
 
-A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
+Восстановление: когда пользователь хочет восстановить доступ к своей учетной записи или содержимому, готов внести любые необходимые изменения для устранения нарушения и соглашается не нарушать наши условия в будущем.
 
-An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
+Апелляция: когда пользователь оспаривает факт нарушения и может предоставить дополнительную информацию, чтобы показать, что должно было быть принято другое решение.
 
-[How this works](#how-this-works)
+[Как это работает](#how-this-works)
 ----------
 
-If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
+Если вы требуете восстановления или хотите подать апелляцию на принудительное действие, заполните нашу [Форму апелляции и восстановления](https://support.github.com/contact/reinstatement). Вы можете подать апелляцию на решение модератора до шести месяцев после принятия решения. GitHub может, по своему усмотрению, отказаться от рассмотрения каких-либо апелляций, поданных позже, чем шесть месяцев после принятия решения.
 
-GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
+Персонал GitHub рассмотрит форму, чтобы определить, достаточно ли информации для восстановления или удовлетворения апелляции.
 
-### [Reinstatements](#reinstatements) ###
+### [Восстановление](#reinstatements) ###
 
-Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
+Если пользователь соглашается соблюдать наши Политики допустимого использования в будущем и вносит изменения, необходимые для устранения нарушения, мы можем принять решение восстановить его учетную запись или контент в зависимости от обстоятельств и серьезности нарушения.
 
-All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
+Все обоснованные запросы на восстановление будут рассмотрены персоналом GitHub, и по ним будет принято решение.
 
-### [Appeals](#appeals) ###
+### [Апелляция](#appeals) ###
 
-Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
+Если пользователь пытается оспорить решение, он может использовать форму, чтобы объяснить основания для оспаривания решения и предоставить любую дополнительную информацию о предполагаемом нарушении, которое, по его мнению, не должно было привести к принятому решению.
 
-If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
+Если предоставленная информация свидетельствует о том, что должен был быть сделан другой вывод, мы можем удовлетворить апелляцию. GitHub отменит или изменит свое решение, когда апелляция содержит достаточные оснований для того, чтобы определить, что: (i) наше решение действовать или не действовать было ошибочно; (ii) содержимое или поведение не было незаконным или несовместимым с нашими условиями; или (iii) серьезность предпринятой меры в отношении содержимого или поведения была непропорционально высока.
 
-All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
+Все решения по апелляциям принимаются людьми, а не автоматическими средствами. Если штатный рецензент GitHub — это тот же человек, который принял первоначальное решение, и этот сотрудник считает, что его первоначальный вывод был правильным (и, следовательно, будет склонен отклонить апелляцию), другой сотрудник GitHub будет независимо рассматривать апелляцию.
 
-All legitimate Appeals will be answered with a final decision.
+По всем обоснованным апелляциям будет вынесено окончательное решение.
 
-[Transparency](#transparency)
+[Прозрачность](#transparency)
 ----------
 
-We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
+Мы отслеживаем апелляции и запросы на восстановление в нашем [Центре прозрачности](https://transparencycenter.github.com/appeals/).
 
-### [Legal Rights](#legal-rights) ###
+### [Законные права](#legal-rights) ###
 
-If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+Если вы считаете, что окончательное решение по апелляции по-прежнему неверно, вы можете в определенных обстоятельствах искать решения в соответствии с местным законодательством. Например, если вы находитесь в Европейском союзе, существует вероятность использовать процесс урегулирования споров вне суда в соответствии с [Законом о цифровых службах](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

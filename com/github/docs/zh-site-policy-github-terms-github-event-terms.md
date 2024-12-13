@@ -1,99 +1,99 @@
-GitHub Event Terms - GitHub Docs
+GitHub 活动条款 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [GitHub Terms](/zh/site-policy/github-terms)/
-* [GitHub Event Terms](/zh/site-policy/github-terms/github-event-terms)
+* [站点政策](/zh/site-policy)/
+* [GitHub 条款](/zh/site-policy/github-terms)/
+* [GitHub 活动条款](/zh/site-policy/github-terms/github-event-terms)
 
-GitHub Event Terms
+GitHub 活动条款
 ==========
 
-In this article
+本文内容
 ----------
 
-* [1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
-* [2. Pictures and videos](#2-pictures-and-videos)
-* [3. Information sharing](#3-information-sharing)
-* [4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
-* [5. Termination](#5-termination)
-* [6. Choice of law and venue](#6-choice-of-law-and-venue)
-* [7. Miscellaneous terms](#7-miscellaneous-terms)
+* [1. 参与活动的基本要求 - 包括活动行为准则](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+* [2. 照片和视频](#2-pictures-and-videos)
+* [3. 信息共享](#3-information-sharing)
+* [4 .风险、责任和赔偿](#4-risk-liability-and-indemnity)
+* [5. 终止](#5-termination)
+* [6. 法律和审判地选择](#6-choice-of-law-and-venue)
+* [7. 其他条款](#7-miscellaneous-terms)
 
-By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Terms (hereinafter “Event Terms”).
+响应邀请或参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何比赛或活动（统称为“活动”），即表示您已阅读、理解并同意以下 GitHub 活动条款（以下简称“活动条款”）。
 
-[1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+[1. 参与活动的基本要求 - 包括活动行为准则](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
 ----------
 
-In order to participate in the Event, you represent that
+参与活动需要符合以下要求：
 
-* You have the requisite capacity and authority to enter into these Event Terms;
-* You have read and understood these Event Terms and the [GitHub Terms of Service](/zh/site-policy/github-terms/github-terms-of-service);
-* You agree to abide by the [Event Code of Conduct](/zh/site-policy/github-terms/github-event-code-of-conduct); and
-* If alcohol is being served at the Event, you are at least 21 years old or over the legal drinking age at the location where the Event is being held.
+* 您拥有订立本活动条款的必要行为能力和授权；
+* 您已阅读并理解本活动条款和[GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)；
+* 您同意遵守[活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)；并且
+* 如果在活动期间提供酒类，您已年满 21 周岁或超过活动举办地点的法定饮酒年龄。
 
-If asked to stop behavior deemed harassing or prohibited, you must comply immediately. If you violate the [Event Code of Conduct](/zh/site-policy/github-terms/github-event-code-of-conduct) or these Event Terms, the Event organizers may take any action they deem appropriate in their discretion, including warnings or expulsion from the Event with no refund. You must at all times obey the instructions or directions of the Event organizers.
+如果被要求停止属于骚扰或被禁止的行为，您必须立即遵守。 如果您违反[活动行为准则](/zh/site-policy/github-terms/github-event-code-of-conduct)或本活动条款，活动组织者可采取其认为适当的任何措施，包括警告违规者或将其驱逐出活动，并且不予退款。 您必须始终遵守活动组织者的指示或要求。
 
-[2. Pictures and videos](#2-pictures-and-videos)
+[2. 照片和视频](#2-pictures-and-videos)
 ----------
 
-GitHub and its partners, agents, or contractors sometimes take photos and videos at the Event. By participating or attending the Event, you agree that you may appear in some of these photos and videos, and you authorize GitHub's use of them during and after the Event.
+GitHub 及其合作伙伴、代理人或承包商有时会在活动中拍摄照片和视频。 参与或出席活动，即表示您同意您可能会出现其中某些照片和视频中，并授权 GitHub 在活动期间以及活动结束后使用这些照片和视频。
 
-Additionally, if you take any photos or videos at the Event and provide them to GitHub, you authorize us to use them in the same fashion, and represent that the individuals that appear in your photos and videos have consented to such use.
+此外，如果您在活动中拍摄任何照片或视频并将其提供给 GitHub，则表示您授权我们以同样的方式使用这些照片和视频，并表示出现在您照片和视频中的个人同意此类使用。
 
-[3. Information sharing](#3-information-sharing)
+[3. 信息共享](#3-information-sharing)
 ----------
 
-Event sponsors, exhibitors, and other third parties may directly request your personal or other information at their exhibit booths, auxiliary events, or presentations. Providing any information to them is voluntary and optional, and you should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
+活动赞助商、参展商和其他第三方可能会直接在其展位、辅助活动或演示处要求您提供个人信息或其他信息。 向他们提供任何信息完全属于自愿和非强制性的，您应检查他们的隐私策略，以确定他们将如何处理您的个人信息，以及您是否愿意接受这种处理。
 
-If during the event you provide your information to a sponsor, exhibitor, or third party, including but not limited to (1) RSVPing or attending a session or program hosted by a third party other than GitHub, (2) presenting your badge for scanning at an exhibitor booth or breakout session, (3) requesting that a sponsor contact you via their virtual page on githubuniverse.com, or (4) entering a raffle, sweepstakes, or promotional event put on by third party other than GitHub, you understand and agree that your information will go to a non-GitHub entity and GitHub takes no responsibility for how that company uses or processes your personal information. You should review their privacy policies to determine how they will treat your personal information and whether you are comfortable with that treatment.
+如果您在活动期间向赞助商、参展商或第三方提供信息，包括但不限于 (1) 响应邀请或参加由 GitHub 以外的第三方主办的会议或活动，(2) 在参展商展位或分组讨论会上出示扫描您的徽章，(3) 请求赞助商通过 githubuniverse.com 上的虚拟页面与您联系，或 (4) 输入由 GitHub 以外的第三方提供的摇奖、抽奖或推广活动，即表示您理解并同意您的信息将被提供给非 GitHub 实体，并且 GitHub 不对该公司使用或处理个人信息的方式负责。 您应检查他们的隐私策略，以确定他们将如何处理您的个人信息，以及您是否愿意接受这种处理。
 
-Event sponsors and exhibitors are required to comply with GitHub’s privacy requirements and all applicable law including protecting Personal Data from unauthorized use, access or disclosure.
+活动赞助商和参展商必须遵守 GitHub 的隐私要求和所有适用法律，包括保护个人数据免受未经授权的使用、访问或披露。
 
-[4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
+[4 .风险、责任和赔偿](#4-risk-liability-and-indemnity)
 ----------
 
-### [Assumption of risk](#assumption-of-risk) ###
+### [风险承担](#assumption-of-risk) ###
 
-Although we try to create a safe environment at the Event, we cannot guarantee 100% safety for participants. Please do your part to help reduce your chance of being injured at the Event.
+虽然我们努力建设安全的活动环境，但我们不能保证参与者 100% 安全。 请注意保护好自己，以帮助减少在活动受伤的可能。
 
-You agree to carefully consider the risks inherent in any activities you choose to take part in at the Event and to take reasonable precautions before you choose to attend or participate at the Event. You are responsible for your own actions and any resulting consequences. You agree to assume responsibility for your actions and your attendance to the fullest extent permitted by law. GitHub is not responsible for any injuries or accidents that you might sustain at the Event.
+您同意认真考虑现在活动期间选择要参加的任何活动的固有风险并采取合理的预防措施，然后才会选择出席或参与活动。 您对自己的行为以及由此产生的任何后果负责。 您在法律允许的最大范围内同意对自己的行动和对活动的出席负责。 GitHub 不对您在活动中可能遭受的任何伤害或意外负责。
 
-### [Release of liability](#release-of-liability) ###
+### [责任免除](#release-of-liability) ###
 
-You (for yourself, your heirs, personal representatives, or assigns, and anyone else who could make a claim on your behalf) hereby release, waive, discharge and covenant not to sue GitHub and its parent companies, subsidiaries, affiliates, officers, directors, partners, shareholders, members, agents, employees, vendors, sponsors, and volunteers from any and all claims, demands, causes of action, damages, losses, or expenses (including court costs and reasonable attorneys' fees) which may arise out of, result from, or relate in any way to your attendance at the Event. This release will not apply if GitHub is grossly negligent or engages in willful misconduct.
+对于可能因您出席活动引起、导致或在任何方面与之有关的任何和所有权利请求、要求、诉因、损害、损失或费用（包括法院费用和合理的律师费），您（代表您自己、您的继承人、遗产代理人或受让人，以及可能代表您提出权利请求的任何其他人）特此免除、豁免、解除并承诺不追究 GitHub 及其母公司、子公司、关联公司、高级管理人员、董事、合伙人、股东、成员、代理人、员工、供应商、赞助商和志愿者的任何责任。 此责任免除不适用于 GitHub 有重大过失或故意不当行为的情形。
 
-### [Indemnity](#indemnity) ###
+### [赔偿](#indemnity) ###
 
-You agree to indemnify and hold GitHub, its parents, subsidiaries, affiliates, officers, directors, employees, agents, and representatives harmless, including costs, liabilities, and legal fees, from any claim or demand made by any third party due to, related to, or connected with your attendance or conduct at the Event.
+您同意，对于因您出席活动或在活动中的行为引起、与之有关或有联系而被任何第三方提出的任何权利请求或要求，您同意赔偿 GitHub、其母公司、子公司、关联公司、高级管理人员、董事、员工、代理人和代表，并使其免受损失，包括成本、责任和法律费用。
 
-[5. Termination](#5-termination)
+[5. 终止](#5-termination)
 ----------
 
-GitHub reserves the right to revoke your permission to attend the Event or to otherwise prohibit or limit your attendance at the Event for any or no reason, without notice or liability of any kind. The entirety of Section 4 of these Event Terms will continue to apply if your participation at the Event is terminated.
+GitHub 保留以任何原因或无理由撤销您出席活动的权限或在其他方面禁止或限制您出席活动的权利，且无需通知亦不承担任何形式的责任。 如果您对活动的参与终止，则本活动条款第 4 条的全部规定将继续适用。
 
-[6. Choice of law and venue](#6-choice-of-law-and-venue)
+[6. 法律和审判地选择](#6-choice-of-law-and-venue)
 ----------
 
-California law will govern these Event Terms, as well as any claim, cause of action or dispute that might arise between you and GitHub (a "Claim"), without regard to conflict of law provisions. FOR ANY CLAIM BROUGHT BY EITHER PARTY, YOU AGREE TO SUBMIT AND CONSENT TO THE PERSONAL AND EXCLUSIVE JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE STATE AND FEDERAL COURTS LOCATED WITHIN SAN FRANCISCO COUNTY, CALIFORNIA.
+加利福尼亚州法律将管辖本活动条款，以及您与 GitHub 之间可能发生的任何权利请求、诉讼或争议（“权利请求”），不考虑法律冲突条款。 对于任何一方提出的任何权利请求，您同意服从并同意接受位于加利福尼亚州旧金山县的州法院和联邦法院的属人和专属管辖权，并且作为专属审判地。
 
-[7. Miscellaneous terms](#7-miscellaneous-terms)
+[7. 其他条款](#7-miscellaneous-terms)
 ----------
 
-You agree that you will not represent yourself as an employee, representative, or agent of GitHub (unless, of course, you are actually employed by GitHub).
+您同意，您不得声称自己是 GitHub 的员工、代表或代理（当然，除非您确实受雇于 GitHub）。
 
-We reserve the right to cancel the Event or any related event at any time, for any reason, and without liability or prejudice.
+我们保留随时以任何理由取消活动或任何相关活动的权利，并且不承担任何责任或损害赔偿。
 
-Any failure by GitHub to exercise or enforce any right or provision of these terms does not constitute a waiver of such right or provision. If any provision of these terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that the Event Terms shall otherwise remain in full force and effect and enforceable.
+GitHub 方面未能行使或执行本条款的任何权利或条文，并不构成对相应权利或条文的放弃。 如果发现本条款中的任何条文不可执行或无效，则须在必要的最小范围内限制或取消该条文，而活动条款的其余条文仍具有完全效力并且可执行。
 
-The views expressed by any event attendee, speaker, exhibitor, or sponsor are not necessarily those of GitHub. All attendees, speakers, exhibitors, and sponsors are solely responsible for the content of all presentations and any other material used at the Event.
+任何活动与会者、演讲者、参展商或赞助商表示的观点不一定是 GitHub 的观点。 所有与会者、演讲者、参展商和赞助商全权负责所有演示文稿的内容以及活动中使用的任何其他材料。
 
-GitHub reserves the right to update these Event Terms in its sole discretion and without prior notice. These Event Terms apply to all event participants (attendees, speakers, sponsors, exhibitors, staff, and crew). You are advised to review these Event Terms periodically.
+GitHub 保留自行决定更新本活动条款的权利，无需事先通知。 本活动条款适用于所有活动参与者（与会者、演讲者、赞助商、参展商、工作人员和辅助人员）。 建议您定期查看本事件条款。
 
-These Event Terms were last updated on February 7th 2024.
+本活动条款最后更新于 2024 年 2 月 7 日。
 
 {"resolvedServerColorMode":"day"}

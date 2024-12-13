@@ -1,46 +1,46 @@
-Submitting content removal requests - GitHub Docs
+Einreichen von Anträgen auf Entfernung von Inhalten - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [Content Removal Policies](/de/site-policy/content-removal-policies)/
-* [Submitting content removal requests](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Websiterichtlinie](/de/site-policy)/
+* [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)/
+* [Einreichen von Anträgen auf Entfernung von Inhalten](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-Submitting content removal requests
+Einreichen von Anträgen auf Entfernung von Inhalten
 ==========
 
-In this article
+In diesem Artikel
 ----------
 
-* [DMCA Takedown Policy](#dmca-takedown-policy)
-* [GitHub Trademark Policy](#github-trademark-policy)
-* [GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+* [DMCA Takedown-Richtlinie](#dmca-takedown-policy)
+* [GitHub-Markenrichtlinie](#github-trademark-policy)
+* [Richtlinie zum Entfernen privater Informationen von GitHub](#github-private-information-removal-policy)
 
-We understand that copyrighted, trademarked, or private content may get published on GitHub – either accidentally or on purpose – sometimes in repositories that you do not own. Because the nature of this content varies, and because of different applicable laws, each category has its own, distinct reporting requirements outlined in our policies.
+Wir verstehen, dass urheberrechtlich geschützte, markenrechtlich geschützte oder private Inhalte auf GitHub veröffentlicht werden können – entweder versehentlich oder absichtlich – manchmal in Repositories, die Ihnen nicht gehören. Da die Art dieser Inhalte unterschiedlich ist und aufgrund unterschiedlicher geltender Gesetze, hat jede Kategorie ihre eigenen, unterschiedlichen Meldepflichten, die in unseren Richtlinien beschrieben sind.
 
-If you'd like to request that content be removed from GitHub, please take some time to acquaint yourself with each of these policies and their respective reporting requirements before submitting a report. If we receive an incomplete report, we'll need to ask for clarifications or revisions and you’ll need to re-submit a revised report.
+Wenn Sie beantragen möchten, dass Inhalte von GitHub entfernt werden, nehmen Sie sich bitte etwas Zeit, um sich mit jeder dieser Richtlinien und ihren jeweiligen Meldepflichten vertraut zu machen, bevor Sie einen Bericht einreichen. Wenn wir einen unvollständigen Bericht erhalten, müssen wir um Erläuterungen oder Überarbeitungen bitten und Sie müssen einen überarbeiteten Bericht erneut einreichen.
 
-Please note that we're not able to help you determine which policy is appropriate for your specific situation. If you’ve reviewed the policies below and still have questions about whether or not content should be reported as copyright, trademark, or private information, we recommend consulting with independent legal counsel.
+Bitte beachten Sie, dass wir Ihnen nicht dabei helfen können, festzustellen, welche Richtlinie für Ihre spezifische Situation geeignet ist. Wenn Sie die folgenden Richtlinien gelesen haben und immer noch Fragen dazu haben, ob Inhalte als urheberrechtlich geschützte, markenrechtlich geschützte oder private Informationen gemeldet werden sollten, empfehlen wir Ihnen, sich an einen unabhängigen Rechtsbeistand zu wenden.
 
-[DMCA Takedown Policy](#dmca-takedown-policy)
+[DMCA Takedown-Richtlinie](#dmca-takedown-policy)
 ----------
 
-The [DMCA Takedown Policy](/de/site-policy/content-removal-policies/dmca-takedown-policy) can be used to report content that you believe infringes a copyright owned by you or your organization. Once you have reviewed the policy, you may also want to review our [Guide to Submitting a DMCA Takedown Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) before submitting a report.
+Die [DMCA Takedown-Richtlinie](/de/site-policy/content-removal-policies/dmca-takedown-policy) kann verwendet werden, um Inhalte zu melden, von denen Sie glauben, dass sie ein Urheberrecht verletzen, das Ihnen oder Ihrer Organisation gehört. Nachdem Sie die Richtlinie gelesen haben, sollten Sie ggf. auch unseren [Leitfaden zum Einreichen einer DMCA-Takedown-Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) lesen, bevor Sie einen Bericht einreichen.
 
-[GitHub Trademark Policy](#github-trademark-policy)
+[GitHub-Markenrichtlinie](#github-trademark-policy)
 ----------
 
-The [GitHub Trademark Policy](/de/site-policy/content-removal-policies/github-trademark-policy) can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
+Die [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy) kann verwendet werden, um Inhalte zu melden, die Ihren Firmen- oder Geschäftsnamen, Ihr Logo oder andere markenrechtlich geschützte Materialien auf eine Weise zu verwenden scheinen, die andere über die Marken- oder Geschäftszugehörigkeit täuschen oder verwirren kann.
 
-[GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+[Richtlinie zum Entfernen privater Informationen von GitHub](#github-private-information-removal-policy)
 ----------
 
-The [GitHub Private Information Removal Policy](/de/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
+Die [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy) kann verwendet werden, um Daten zu melden, die privat sind (vertraulich sind und ein Sicherheitsrisiko darstellen), die jedoch nicht unbedingt urheberrechtlich oder markenrechtlich geschützt sind.
 
-Users in India can [contact GitHub's Grievance Officer](https://support.github.com/contact/india-grievance-officer).
+Benutzer in Indien können sich an den [Grievance Officer von GitHub](https://support.github.com/contact/india-grievance-officer) wenden.
 
 {"resolvedServerColorMode":"day"}

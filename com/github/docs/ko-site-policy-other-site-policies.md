@@ -1,36 +1,36 @@
-Other Site Policies - GitHub Docs
+다른 사이트 정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [Other Site Policies](/ko/site-policy/other-site-policies)
+* [사이트 정책](/ko/site-policy)/
+* [다른 사이트 정책](/ko/site-policy/other-site-policies)
 
-Other Site Policies
+다른 사이트 정책
 ==========
 
-[GitHub and Trade Controls](/ko/site-policy/other-site-policies/github-and-trade-controls)
+[GitHub와 무역 통제](/ko/site-policy/other-site-policies/github-and-trade-controls)
 ----------
 
-[GitHub Deceased User Policy](/ko/site-policy/other-site-policies/github-deceased-user-policy)
+[GitHub 사망 사용자 정책](/ko/site-policy/other-site-policies/github-deceased-user-policy)
 ----------
 
-[GitHub Logo Policy](/ko/site-policy/other-site-policies/github-logo-policy)
+[GitHub 로고 정책](/ko/site-policy/other-site-policies/github-logo-policy)
 ----------
 
-[GitHub Government Takedown Policy](/ko/site-policy/other-site-policies/github-government-takedown-policy)
+[GitHub 정부 게시 중단 정책](/ko/site-policy/other-site-policies/github-government-takedown-policy)
 ----------
 
-[GitHub Username Policy](/ko/site-policy/other-site-policies/github-username-policy)
+[GitHub 사용자 이름 정책](/ko/site-policy/other-site-policies/github-username-policy)
 ----------
 
-[Guidelines for Legal Requests of User Data](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+[법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 ----------
 
-[GitHub Account Recovery Policy](/ko/site-policy/other-site-policies/github-account-recovery-policy)
+[GitHub 계정 복구 정책](/ko/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

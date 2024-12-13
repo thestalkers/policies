@@ -1,75 +1,75 @@
-GitHub Appeal and Reinstatement - GitHub Docs
+Apelación y restablecimiento de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 
-* [Site policy](/es/site-policy)/
-* [Acceptable Use Policies](/es/site-policy/acceptable-use-policies)/
-* [GitHub Appeal and Reinstatement](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+* [Política del sitio](/es/site-policy)/
+* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
+* [Apelación y restablecimiento de GitHub](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-GitHub Appeal and Reinstatement
+Apelación y restablecimiento de GitHub
 ==========
 
-In this article
+En este artículo
 ----------
 
-* [Appeal and Reinstatement](#appeal-and-reinstatement)
-* [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
-* [How this works](#how-this-works)
-* [Transparency](#transparency)
+* [Apelación y Restablecimiento](#appeal-and-reinstatement)
+* [¿Qué son las apelaciones y los restablecimientos?](#what-are-appeals-and-reinstatements)
+* [Como funciona esto](#how-this-works)
+* [Transparencia](#transparency)
 
-[Appeal and Reinstatement](#appeal-and-reinstatement)
+[Apelación y Restablecimiento](#appeal-and-reinstatement)
 ----------
 
-While the majority of interactions between individuals in GitHub’s community fall within our Acceptable Use Policies and Community Guidelines, violations of those policies do occur at times. When they do, GitHub staff may need to take enforcement action to address the violations. However, we understand that sometimes we might make mistakes. In some cases there may be a basis to reverse a moderation action taken (or not taken) by GitHub Staff. To ensure our policies and outcomes are applied evenly, GitHub provides an internal complaint-handling process where users can submit requests for reinstatement or provide additional information to appeal a moderation decision.
+Si bien la mayoría de las interacciones entre personas en la comunidad de GitHub se encuentran dentro de nuestras Políticas de uso aceptable y Pautas de la comunidad, en ocasiones se producen violaciones de esas políticas. Cuando lo hacen, es posible que el personal de GitHub deba tomar medidas de cumplimiento para abordar las infracciones. Sin embargo, entendemos que a veces podríamos cometer errores. En algunos casos puede haber una base para revertir una acción de moderación realizada (o no realizada) por el personal de GitHub. Para garantizar que nuestras directivas y resultados se aplican uniformemente, GitHub proporciona un proceso interno de control de quejas en el que los usuarios pueden enviar solicitudes de restablecimiento o proporcionar información adicional para recurrir a una decisión de moderación.
 
-[What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+[¿Qué son las apelaciones y los restablecimientos?](#what-are-appeals-and-reinstatements)
 ----------
 
-Both Appeals and Reinstatements may arise in relation to decisions to disable or limit access to content or an account, including decisions whether or not to:
+Tanto las apelaciones como los restablecimientos pueden surgir en relación con las decisiones para deshabilitar o limitar el acceso al contenido o a una cuenta, incluidas las decisiones de si se debe o no hacer lo siguiente:
 
-* Remove, disable access to, or restrict visibility of content
-* Suspend or terminate access to an account
-* Suspend or terminate access to the service, in whole or in part
-* Suspend, terminate or otherwise restrict the ability to monetize content
+* Quitar, deshabilitar el acceso a o restringir la visibilidad del contenido
+* Suspender o finalizar el acceso a una cuenta
+* Suspender o finalizar el acceso al servicio, en su totalidad o en parte
+* Suspender, finalizar o restringir la capacidad de monetizar el contenido
 
-A “Reinstatement” is where a user wishes to regain access to their account or content and is willing to make any necessary changes to address the violation and agrees not to violate our terms going forward.
+Un "restablecimiento" es cuando un usuario desea recuperar el acceso a su cuenta o contenido y está dispuesto a realizar los cambios necesarios para abordar la infracción; asimismo, acepta no infringir nuestros términos en el futuro.
 
-An “Appeal” is where a user disputes that a violation has occurred and can provide additional information to show that a different decision should have been reached.
+Una “apelación” se da cuando un usuario no está de acuerdo con que se haya producido una infracción y puede proporcionar información adicional para demostrar que se debería haber tomado una decisión diferente.
 
-[How this works](#how-this-works)
+[Como funciona esto](#how-this-works)
 ----------
 
-If you seek Reinstatement or wish to Appeal an enforcement action, please fill out our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement). You may Appeal a moderation decision for up to six months following the decision. GitHub may, in its discretion, refuse to consider any Appeals submitted more than six months after the decision.
+Si deseas que se restablezca tu cuenta o tu contenido o apelar una acción de ejecución, rellena el [formulario de apelación y restablecimiento](https://support.github.com/contact/reinstatement). Puedes recurrir a una decisión de moderación durante un máximo de seis meses después de la decisión. GitHub puede, a su discreción, rechazar la posibilidad de considerar las apelaciones presentadas más de seis meses después de la decisión.
 
-GitHub staff will review the information provided in the form to determine whether there is sufficient information to warrant Reinstatement or granting of an Appeal.
+El personal de GitHub revisará la información indicada en el formulario para determinar si es suficiente para justificar el restablecimiento o la concesión de una apelación.
 
-### [Reinstatements](#reinstatements) ###
+### [Restablecimientos](#reinstatements) ###
 
-Where a user can agree to abide by our Acceptable Use Policies moving forward and has made the changes necessary to address the violation(s), we may choose to reinstate their account or content depending on the circumstances and severity of the initial violation.
+Cuando un usuario puede aceptar cumplir con nuestras Políticas de uso aceptable en el futuro y ha realizado los cambios necesarios para abordar las infracciones, podemos optar por restablecer su cuenta o contenido según las circunstancias y la gravedad de la infracción inicial.
 
-All legitimate Reinstatement requests will be reviewed initially by GitHub staff and will be answered with a decision.
+Todas las solicitudes legítimas de restablecimiento serán revisadas inicialmente por el personal de GitHub y serán respondidas con una decisión.
 
-### [Appeals](#appeals) ###
+### [Apelaciones](#appeals) ###
 
-Where a user seeks to dispute a decision, they can use the form to explain their basis for disputing the decision and to provide any additional information regarding the alleged violation that they believe should have led to a different decision.
+Cuando un usuario busca disputar una decisión, puede usar el formulario para explicar su base para disputar la decisión y proporcionar cualquier información adicional sobre la supuesta violación que cree que debería haber llevado a una decisión diferente.
 
-If the information provided demonstrates that a different conclusion should have been reached, we may be able to grant an Appeal. GitHub will reverse or modify its decision when the Appeal contains sufficient grounds for us to determine that (i) our decision to act or not to act was mistaken; (ii) that the content or conduct was not illegal and not incompatible with our Terms; or (iii) that the content or conduct warrants a lesser severity of action than the measure taken.
+Si la información proporcionada demuestra que se debería haber llegado a una conclusión diferente, es posible que podamos conceder una apelación. GitHub revertirá o modificará su decisión cuando la apelación contenga motivos suficientes para determinar que (i) nuestra decisión de actuar o no actuar fue errónea; (ii) que el contenido o conducta no era ilegal y no incompatible con nuestros términos; o (iii) que el contenido o conducta garantiza una gravedad menor de la medida adoptada.
 
-All decisions on Appeal are made by humans and not by any automated means. If the GitHub Staff reviewer on the Appeal is the same person who made the initial determination and that staff member believes their initial conclusion was correct (and thus would be inclined to deny the Appeal), a different member of GitHub’s staff will independently review the Appeal.
+Todas las decisiones de apelación son tomadas por personas y no por ningún medio automatizado. Si el revisor del personal de GitHub de la apelación es la misma persona que tomó la determinación inicial y ese miembro del personal cree que su conclusión inicial fue correcta (y, por lo tanto, se inclinaría a denegar la apelación), otro miembro del personal de GitHub revisará la apelación de forma independiente.
 
-All legitimate Appeals will be answered with a final decision.
+Todas las apelaciones legítimas serán contestadas con una decisión final.
 
-[Transparency](#transparency)
+[Transparencia](#transparency)
 ----------
 
-We track Appeals and Reinstatements in our [Transparency Center](https://transparencycenter.github.com/appeals/).
+Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuestro [Centro de transparencia](https://transparencycenter.github.com/appeals/).
 
-### [Legal Rights](#legal-rights) ###
+### [Derechos legales](#legal-rights) ###
 
-If you believe that a final decision made on Appeal is still incorrect you may, in certain circumstances, have additional rights to seek review of the decision under your local law. For example, if you are located in the European Union, it might be possible to access an out-of-court dispute settlement process under the [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+Si crees que una decisión final tomada en apelación sigue siendo incorrecta, puedes, en determinadas circunstancias, tener derechos adicionales para buscar la revisión de la decisión en virtud de tu legislación local. Por ejemplo, si te encuentras en la Unión Europea, podría ser posible acceder a un proceso de solución de controversias fuera del tribunal en virtud de la [Ley de Servicios Digitales](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
 
 {"resolvedServerColorMode":"day"}

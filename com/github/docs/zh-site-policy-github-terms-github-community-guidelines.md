@@ -1,92 +1,92 @@
-GitHub Community Guidelines - GitHub Docs
+GitHub 社区指导方针 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [GitHub Terms](/zh/site-policy/github-terms)/
-* [GitHub Community Guidelines](/zh/site-policy/github-terms/github-community-guidelines)
+* [站点政策](/zh/site-policy)/
+* [GitHub 条款](/zh/site-policy/github-terms)/
+* [GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
 
-GitHub Community Guidelines
+GitHub 社区指导方针
 ==========
 
-In this article
+本文内容
 ----------
 
-* [Maintaining a strong community](#maintaining-a-strong-community)
-* [What if something or someone offends you?](#what-if-something-or-someone-offends-you)
-* [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
-* [Appeal and Reinstatement](#appeal-and-reinstatement)
-* [Legal Notices](#legal-notices)
+* [维护强大的社区](#maintaining-a-strong-community)
+* [如果某件事或某人冒犯了您，该怎么办？](#what-if-something-or-someone-offends-you)
+* [如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
+* [申诉和恢复](#appeal-and-reinstatement)
+* [法律声明](#legal-notices)
 
-Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
+全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。
 
-Our diverse user base brings different perspectives, ideas, and experiences, and ranges from people who created their first "Hello World" project last week to the most well-known software developers in the world. We are committed to making GitHub an environment that welcomes all the different voices and perspectives our community has to offer, while maintaining a safe place for developers to do their best work.
+我们多样化的用户群带来了不同的观点、想法和经验，从上周刚创建第一个“Hello World”项目的初学者到世界上最知名的软件开发人员，涵盖各种各样的人群。 我们致力于将 GitHub 营造成一个兼容并蓄的环境，让我们社区的参与者可以带来不同的声音和观点，同时维护一个让开发人员可以出色完成工作的安全环境。
 
-By outlining what we think a [safe, welcoming, and productive community](https://opensource.guide/building-community/) looks like at GitHub, we hope to help you understand how best to interact and collaborate on our platform in line with our [Terms of Service](/zh/site-policy/github-terms/github-terms-of-service) and [Acceptable Use Policies](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+通过概述我们认为 GitHub 上[安全、热情和高效的社区](https://opensource.guide/building-community/)看起来是什么样子，我们希望帮助您了解如何根据我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)和[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)，在我们的平台上进行最佳互动和协作。
 
-We encourage our community members to communicate expectations clearly, [moderate](#what-if-something-or-someone-offends-you) their projects where possible, and [report](https://github.com/contact/report-abuse) any content that may violate our [policies](/zh/site-policy/github-terms/github-terms-of-service). GitHub Staff will investigate any reports of abuse, and may moderate public content on our site that we determine to be in violation of our Terms of Service.
+我们鼓励社区成员清楚地传达期望，尽可能[审核](#what-if-something-or-someone-offends-you)他们的项目，并[举报](https://github.com/contact/report-abuse)任何可能违反我们[政策](/zh/site-policy/github-terms/github-terms-of-service)的内容。 GitHub 工作人员将调查任何有关滥用行为的举报，并可能审核网站上我们认为违反我们服务条款的公开内容。
 
-[Maintaining a strong community](#maintaining-a-strong-community)
+[维护强大的社区](#maintaining-a-strong-community)
 ----------
 
-The primary purpose of the GitHub community is to collaborate on software projects. We are committed to maintaining a community where users are free to express themselves and challenge one another's ideas, both technical and otherwise. At the same time, it's important that users remain respectful and allow space for others to contribute openly. In order to foster both a safe and productive environment, we encourage our community members to look to these guidelines to inform how they interact on our platform. Below, you’ll find some suggestions for how to have successful interactions as a valued member of the GitHub community.
+GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持一个用户能够自由表达意见并对彼此想法（包括技术和其他方面）提出挑战的社区。 同时，重要的是用户要保持尊重，并为其他人留出公开贡献的空间。 为了营造一个安全和富有成效的环境，我们鼓励社区成员参考这些准则，以了解如何在我们的平台上进行互动。 作为 GitHub 社区的重要成员，您可以在下面找到一些有关如何成功互动的建议。
 
-* **Be welcoming and open-minded** - New users join our community each day. Some are well-established developers, while others are just beginning. Be open to other ideas and experience levels. Make room for opinions other than your own and be welcoming to new collaborators and those just getting started.
+* **热情和开放** - 每天都有新用户加入我们的社区。 有些是成熟的开发人员，而另一些则刚刚入门。 请对有其他想法和经验水平的用户持开放态度。 善于接纳其他人的意见，友善对待新的协作者和刚入门的协作者。
 
-* **Be respectful** - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to deescalate a tense situation.
+* **尊重他人** - 在协作环境中工作难免会发生分歧。 但请记住，您的批评要对事不对人。 分享深思熟虑的建设性批评，并对与您互动的人保持礼貌。 如果您无法以尊重的方式参与，请考虑做出一些让步或使用我们的一些缓和工具来缓解紧张的氛围。
 
-* **Be empathetic** - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
+* **富有同情心** - GitHub 是一个全球性社区，社区中的用户背景各异，他们的观点也各不相同，其中许多人的背景和观点可能与您不同。 试着设身处地为他人着想，在对他们说话之前，先了解他们的感受。 尽最大努力帮助使 GitHub 成为一个任何人都能放心地作出贡献、参与讨论和分享不同想法的社区。
 
-[What if something or someone offends you?](#what-if-something-or-someone-offends-you)
+[如果某件事或某人冒犯了您，该怎么办？](#what-if-something-or-someone-offends-you)
 ----------
 
-While some disagreements can be resolved with direct, respectful communication between community members, we understand that is not always the case. We encourage our community to contact GitHub Support through the [GitHub Support portal](https://support.github.com/) when they believe content or activity they’ve encountered violates our policies. However, if you run into something or someone on the site that you find objectionable, here are some ways GitHub enables you to take action:
+虽然有些社区成员之间的分歧可以通过互相尊重的方式直接沟通解决，但我们知道情况并非总是如此。 我们鼓励社区成员在遇到他们认为违反我们策略的内容或活动时，通过 [GitHub 支持门户](https://support.github.com/)联系 GitHub 支持人员。 不过，如果您在网站上遇到令人反感的某件事或某个人，可以通过 GitHub 提供的以下几种方式来采取行动：
 
-* **Communicate expectations** - Maintainers can set community-specific guidelines to help users understand how to interact with their projects, for example, in a repository’s README, [CONTRIBUTING file](/zh/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), or [dedicated code of conduct](/zh/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project). You can find additional information on building communities on the [Communities](/zh/communities) page.
+* **传达期望** - 维护者可以设置社区特定的指导方针，以帮助用户了解如何与其项目进行交互，例如，在存储库的 README、[CONTRIBUTING 文件](/zh/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)或[专门的行为准则](/zh/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)中。 您可以在[社区](/zh/communities)页面上找到有关建设社区的更多信息。
 
-* **Moderate Comments** - Users with [write-access privileges](/zh/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization) for a repository can [edit, delete, or hide anyone's comments](/zh/communities/moderating-comments-and-conversations/managing-disruptive-comments) on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can also delete sensitive information from a [comment's edit history](/zh/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment). Moderating your projects can feel like a big task if there is a lot of activity, but you can [add collaborators](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) to assist you in managing your community.
+* **审核评论** - 对存储库拥有[写入权限](/zh/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)的用户可以[编辑、删除或隐藏](/zh/communities/moderating-comments-and-conversations/managing-disruptive-comments)任何人对提交、拉取请求和议题的评论。 对存储库具有读取权限的任何人都可查看评论的编辑历史记录。 评论作者和对存储库具有写入权限的人员还可以从[评论的编辑历史记录](/zh/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)中删除敏感信息。 如果有很多活动，审核项目可能会让人感觉像是一项艰巨的任务，但您可以[添加协作者](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)以帮助您管理社区。
 
-* **Lock Conversations** - If a discussion in an issue, pull request, or commit gets out of hand, off topic, or violates your project’s code of conduct or GitHub’s policies, owners, collaborators, and anyone else with write access can put a temporary or permanent lock on the conversation. For more information, see "[Locking conversations](/zh/communities/moderating-comments-and-conversations/locking-conversations)."
+* **锁定对话** - 如果议题、拉取请求或提交的讨论失控、偏离主题或者违反项目的行为准则或 GitHub 政策，则所有者、协作者和其他具有写入权限的人可以临时或永久锁定对话。 有关详细信息，请参阅“[锁定对话](/zh/communities/moderating-comments-and-conversations/locking-conversations)”。
 
-* **Block Users** - If you encounter a specific user who you would rather not engage with, you can [block the user from your personal account](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account) or [from your organization](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization).
+* **阻止用户** - 如果您遇到某个您不希望与之交互的用户，则可以[从您的个人帐户阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)或[从您的组织阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)。
 
-* **Limit Interactions** - If your public project is getting unwanted attention, being trolled, spammed, or otherwise, you have the option of setting [temporary interaction limits](/zh/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) to keep certain users from interacting with your repository. You can even set [code review limits](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) to ensure quality contributions on your projects.
+* **限制交互** - 如果您的公共项目受到不必要的关注、收到挑衅信息、收到垃圾邮件或其他侮辱性信息，您可以选择设置[临时交互限制](/zh/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)，以阻止某些用户与您的存储库进行交互。 您甚至可以设置[代码审查限制](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)，以保障对您项目的高质量参与。
 
-While we are passionate about empowering maintainers to moderate their own projects, please contact us through the [GitHub Support portal](https://support.github.com) if you need additional support in dealing with a situation.
+我们一直积极授权维护人员审核他们自己的项目，但如果您碰到某种情形，需要额外支持，请联系 。
 
-[What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
+[如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
-We rely on reports from the community, as well as proactive detection, to help ensure that GitHub is a safe, welcoming, and productive platform for software developers. There are a variety of factors we consider when we’re made aware of behavior or content not in line with GitHub’s policies. However, our policy enforcement and content moderation approach prioritizes our vision to be the home for all developers. This means:
+我们依靠来自社区的举报以及主动检测来帮助确保 GitHub 成为软件开发人员的安全、受欢迎和高效的平台。 当我们知悉不符合 GitHub 政策的行为或内容时，我们会考虑各种因素。 但是，我们的政策执行和内容审核方法优先考虑我们的愿景，即成为所有开发人员的家园。 这意味着：
 
-* We optimize for code collaboration. We recognize that code can have multiple uses and we distinguish between how the code is being used on the platform and other possible uses. We also think about how our enforcement actions can affect a potentially complicated web of interdependencies across the platform and aim to restrict as little legitimate content as possible.
+* 我们会对代码协作进行优化。 我们认识到代码可以有多种用途，并且区分代码在平台上的使用方式和其他可能的用途。 我们还会考虑我们的执行措施会如何影响整个平台之间可能复杂的相互依存关系网络，并致力于尽可能少地限制合法内容。
 
-* We take a human-centered approach to content moderation and we tailor our responses to meet the needs of a specific situation. Our global team investigates the reports we receive on a case-by-case basis—considering context and the surrounding facts—before taking action. This could include taking into account potentially offensive content being posted in a way that lacks context or makes it easy for other users to unwittingly view or interact with while using GitHub. In those instances, we may favor moderation in order to safeguard our community.
+* 我们采取以人为本的内容审核方法，并根据特定状况的需求量身定制我们的应对措施。 在采取行动之前，我们的全球团队会根据具体情况调查我们收到的报告，并考虑背景和相关事实。 这包括考虑因为不了解背景信息而发布潜在冒犯性内容，或者使其他用户在使用 GitHub 时很容易无意中查看或与之交互。 在这些情况下，我们可能会倾向于保持中庸，以保护我们的社区。
 
-* Our decisions are rooted in our core belief that serving an interconnected community and empowering human progress through developer collaboration requires a commitment to diversity, inclusion, and belonging.
+* 我们的决定根植于我们的核心信念，即，为互联社区服务并通过开发人员协作促进人类进步，这需要致力于多样性、包容性和归属感。
 
-Where we have decided that moderation action is warranted, these are some of the ways we may respond:
+如果我们确定适度行动是必要的，那么我们可能会采取以下一些应对方式：
 
-* Removing the offending content
-* Blocking or disabling the offending content
-* Downgrading the visibility of the offending content
-* Hiding a user account or organization from public view
-* Suspending a user account or organization
+* 删除令人不悦的内容
+* 屏蔽或禁用令人不悦的内容
+* 降低令人不悦内容的可见性
+* 从公众视野中隐藏用户帐户或组织
+* 暂停用户帐户或组织
 
-[Appeal and Reinstatement](#appeal-and-reinstatement)
+[申诉和恢复](#appeal-and-reinstatement)
 ----------
 
-If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
+如果您的内容或帐户已被禁用或限制，而您希望恢复或提出申诉，请参阅我们的[申诉和恢复页面](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)，了解流程信息，并使用我们的[申诉和恢复表单](https://support.github.com/contact/reinstatement)提交申请。
 
-[Legal Notices](#legal-notices)
+[法律声明](#legal-notices)
 ----------
 
-We dedicate these Community Guidelines to the public domain for anyone to use, reuse, adapt, or whatever, under the terms of [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+我们将这些社区指导方针专用于公共领域，让所有人都可以根据 [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/) 的条款使用、重新使用、调整等等。
 
-These are only guidelines; they do not modify our [Terms of Service](/zh/site-policy/github-terms/github-terms-of-service) and are not intended to be a complete list. Under those terms, GitHub retains full discretion to remove any content or terminate any accounts for activity that violates our [Acceptable Use Policies](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies). These guidelines describe when we will exercise that discretion.
+这些只是指导方针；不影响我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)，也不打算作为完整的清单。 根据这些条款，GitHub 可全权决定删除任何内容或终止任何违反我们[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的活动帐户。 这些指导方针说明了我们何时行使该自由裁量权。
 
 {"resolvedServerColorMode":"day"}

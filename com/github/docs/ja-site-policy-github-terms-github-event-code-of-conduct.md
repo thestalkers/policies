@@ -1,70 +1,70 @@
-GitHub Event Code of Conduct - GitHub Docs
+GitHub イベントの行動規範 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [GitHub Terms](/ja/site-policy/github-terms)/
-* [GitHub Event Code of Conduct](/ja/site-policy/github-terms/github-event-code-of-conduct)
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub 条件](/ja/site-policy/github-terms)/
+* [GitHub イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
 
-GitHub Event Code of Conduct
+GitHub イベントの行動規範
 ==========
 
-In this article
+この記事の内容
 ----------
 
-* [Code of Conduct](#code-of-conduct)
-* [Reporting an incident](#reporting-an-incident)
-* [Credit](#credit)
+* [倫理規定](#code-of-conduct)
+* [インシデントの報告](#reporting-an-incident)
+* [貸方](#credit)
 
-[Code of Conduct](#code-of-conduct)
+[倫理規定](#code-of-conduct)
 ----------
 
-By attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Code of Conduct (hereinafter “Code of Conduct”). This Code of Conduct applies to all attendees, speakers, exhibitors, sponsors, organizers, staff, and volunteers (collectively “Event Participants”) at the Event.
+GitHub イベントに関連して GitHub が開催するあらゆるイベントまたはアクティビティ (総称して "イベント" という) を含む GitHub イベントへの参加をもって、お客様は次の GitHub イベントの行動規範を読み、理解し、同意を示したものとします。 この行動規範は、イベントのあらゆる参加者、スピーカー、出展者、スポンサー、開催者、スタッフ、ボランティア (総称して "イベント参加者" という) に適用されます。
 
-GitHub values the participation of all Event Participants and aims to create an event where all Event Participants have an enjoyable and fulfilling experience. Accordingly, all Event Participants are expected to show respect and courtesy to other Event Participants throughout the Event.
+GitHub は、あらゆるイベント参加者の参加を尊重し、あらゆるイベント参加者が楽しく充実した体験を得られるイベントの創出を目指しています。 したがって、あらゆるイベント参加者には、イベントの全体を通して他のイベント参加者に敬意と親切心を示すことが求められます。
 
-GitHub is dedicated to providing a positive and harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience.
+GitHub は、年齢、ジェンダー、ジェンダーの自認と表現、性的指向、障害、容姿、体型、民族性、人種、宗教、国籍、経験レベルに関係なく、誰にとっても建設的でハラスメントのない体験を提供することに尽力しています。
 
-We do not tolerate harassment of Event Participants in any form, nor do we tolerate any behavior that would reasonably lead to an Event Participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication and behavior should be appropriate for a professional setting including people of many different backgrounds.
+GitHub は、イベント参加者によるいかなる種類のハラスメントも許容せず、イベント出席者が身体的または精神的な健康状態に対する危険、不安、恐怖を感じることに合理的につながり得るいかなる行為も許容していません。 すべてのコミュニケーションと行為には、多種多様な背景を持つ人々を含むプロフェッショナルな環境において適切であることが求められます。
 
-Examples of encouraged behavior that contributes to a positive environment include:
+建設的な環境に役立つ推奨される行動の例を、以下に示します。
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for everyone at the Event
-* Showing empathy towards others and Event Participants
+* 心地よく誰にでも受け入れられる言葉を使用する
+* 異なる視点や経験の尊重
+* 建設的な批判を謹んで受け入れる
+* イベントで誰にとっても最適なことを重視する
+* 他者とイベント参加者に共感を示す
 
-Unacceptable behavior includes, but is not limited to:
+許容できない行為には以下が含まれますが、これらに限定されません。
 
-* The use of sexualized language or imagery
-* Inappropriate physical contact, sexual attention, or advances
-* Trolling, insulting or derogatory comments or behavior
-* Personal or political attacks toward Event Participants
-* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
-* Intimidation, stalking, following, or harassing of Event Participants
-* Photography or recording of Event Participants without their consent
-* Harassment of any kind, even in a joking or ironic manner
-* Conduct which could reasonably be considered inappropriate in a professional setting
+* 性的な言葉またはイメージの使用
+* 不適切な物理的接触、性的関心、口説き
+* トロール行為、侮辱的または軽蔑的なコメントもしくは行動
+* イベント参加者に対する個人的または政治的な攻撃
+* イベントに関連して GitHub が開催する講演やその他のあらゆるイベントまたはアクティビティの継続的な中断
+* イベント参加者による脅迫、ストーカー行為、つきまとい、ハラスメント
+* 同意を得ていないイベント参加者の写真撮影またはレコーディング
+* 冗談または皮肉めかした場合でも、あらゆる種類の嫌がらせ
+* プロフェッショナルな環境において、合理的に不適切と見なされる可能性のある行為
 
-Each Event Participant is entirely responsible for their own actions.
+各イベント参加者は自身の行為にすべての責任を負います。
 
-Thank you for helping to make this a welcoming, friendly space for all.
+このスペースを全参加者にとって心地よく友好的なスペースにしていただいたことに感謝申し上げます。
 
-[Reporting an incident](#reporting-an-incident)
+[インシデントの報告](#reporting-an-incident)
 ----------
 
-If you are being harassed, notice that someone else is being harassed, have any other concerns, or if you believe an Event Participant is not acting in a way compliant with this Code of Conduct, please speak directly with a venue security officer or GitHub employee for urgent help, or email us at [events@github.com](mailto:events@github.com) for non-urgent issues. For life threatening situations, please dial 911 immediately.
+ハラスメントを受けている場合、他者がハラスメントを受けていることに気付いている場合、その他の懸念がある場合、もしくはイベント参加者がこの行動規範に準拠した形で行動していないと思われる場合は、会場のセキュリティ責任者または GitHub の従業員に直接連絡して緊急のサポートを求めてください。また、緊急でない問題については [events@github.com](mailto:events@github.com) までメールをお寄せください。 生命を脅かす状況については、ただちに 911 に電話してください。
 
-GitHub employees will be happy to help Event Participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the Event.
+GitHub の従業員は、イベント参加者がセキュリティ、現地法執行機関、安全な場所への護送の担当者に連絡できるようにサポートするほか、イベント期間中に安心して過ごせるようにハラスメントの被害者を支援します。
 
-[Credit](#credit)
+[貸方](#credit)
 ----------
 
-Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
+この行動規範の一部は、クリエイティブ コモンズ ゼロ ライセンスの下で、Ada Initiative および他のボランティアが作成した、Geek Feminism wiki の嫌がらせ防止ポリシーの例に基づきます。
 
 {"resolvedServerColorMode":"day"}

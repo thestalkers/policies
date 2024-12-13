@@ -1,70 +1,70 @@
-GitHub Event Code of Conduct - GitHub Docs
+GitHub-Verhaltenskodex für Veranstaltungen - GitHub-Dokumentation
 
 [Skip to main content](#main-content)
 
-[Home](/de)
+[Startseite](/de)
 
 [Site policy](/de/site-policy)
 
-* [Site policy](/de/site-policy)/
-* [GitHub Terms](/de/site-policy/github-terms)/
-* [GitHub Event Code of Conduct](/de/site-policy/github-terms/github-event-code-of-conduct)
+* [Websiterichtlinie](/de/site-policy)/
+* [GitHub-Bedingungen](/de/site-policy/github-terms)/
+* [GitHub-Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
 
-GitHub Event Code of Conduct
+GitHub-Verhaltenskodex für Veranstaltungen
 ==========
 
-In this article
+In diesem Artikel
 ----------
 
-* [Code of Conduct](#code-of-conduct)
-* [Reporting an incident](#reporting-an-incident)
-* [Credit](#credit)
+* [Verhaltenskodex](#code-of-conduct)
+* [Einen Vorfall melden](#reporting-an-incident)
+* [Kredit](#credit)
 
-[Code of Conduct](#code-of-conduct)
+[Verhaltenskodex](#code-of-conduct)
 ----------
 
-By attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Code of Conduct (hereinafter “Code of Conduct”). This Code of Conduct applies to all attendees, speakers, exhibitors, sponsors, organizers, staff, and volunteers (collectively “Event Participants”) at the Event.
+Durch die Teilnahme an einer GitHub-Veranstaltung, einschließlich der von GitHub in Verbindung mit der Veranstaltung organisierten Veranstaltungen oder Aktivitäten (zusammenfassend als "Veranstaltung" bezeichnet), erklären Sie, dass Sie die folgenden Verhaltensregeln für GitHub-Veranstaltungen (im Folgenden "Verhaltenstegeln") gelesen und verstanden haben und ihnen zustimmen. Diese Verhaltensregeln gelten für alle Teilnehmer, Referenten, Aussteller, Sponsoren, Organisatoren, Mitarbeiter und Freiwilligen (zusammen als „Veranstaltungsteilnehmer“ bezeichnet) bei der Veranstaltung.
 
-GitHub values the participation of all Event Participants and aims to create an event where all Event Participants have an enjoyable and fulfilling experience. Accordingly, all Event Participants are expected to show respect and courtesy to other Event Participants throughout the Event.
+GitHub weiß die Teilnahme aller Veranstaltungsteilnehmer zu schätzen und möchte eine Veranstaltung abhalten, die allen Veranstaltungsteilnehmern eine angenehme und bereichernde Erfahrung bietet. Von allen Veranstaltungsteilnehmern wird daher erwartet, dass sie den anderen Veranstaltungsteilnehmern während der gesamten Veranstaltung mit Respekt und Höflichkeit begegnen.
 
-GitHub is dedicated to providing a positive and harassment-free experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience.
+GitHub hat sich zum Ziel gesetzt, eine positive und belästigungsfreie Erfahrung für jeden zu bieten, unabhängig von Alter, Geschlecht, Geschlechtsidentität und -ausdruck, sexueller Orientierung, Behinderung, persönlichem Erscheinungsbild, Körpergröße, ethnischer Zugehörigkeit, Rasse, Religion, Nationalität oder Erfahrungsniveau.
 
-We do not tolerate harassment of Event Participants in any form, nor do we tolerate any behavior that would reasonably lead to an Event Participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication and behavior should be appropriate for a professional setting including people of many different backgrounds.
+Wir tolerieren keine Form der Belästigung von Veranstaltungsteilnehmern und auch kein Verhalten, das in irgendeiner Weise dazu führen könnte, dass sich ein Veranstaltungsteilnehmer unsicher fühlt oder Angst um sein körperliches oder seelisches Wohlbefinden hat. Die gesamte Kommunikation und das Verhalten sollten für ein professionelles Umfeld geeignet sein, zu dem Menschen mit vielen unterschiedlichen Hintergründen gehören.
 
-Examples of encouraged behavior that contributes to a positive environment include:
+Beispiele für ermutigtes Verhalten, das zu einem positiven Umfeld beiträgt, sind:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for everyone at the Event
-* Showing empathy towards others and Event Participants
+* Umgang mit einladender und inklusiver Sprache
+* Respektieren Sie unterschiedliche Sichtweisen und Erfahrungen
+* Konstruktive Kritik anmutig annehmen
+* Den Schwerpunkt auf das legen, was für alle Teilnehmer der Veranstaltung am besten ist
+* Zeigen Sie Empathie gegenüber anderen und den Veranstaltungsteilnehmern
 
-Unacceptable behavior includes, but is not limited to:
+Als inakzeptables Verhalten gilt unter anderem:
 
-* The use of sexualized language or imagery
-* Inappropriate physical contact, sexual attention, or advances
-* Trolling, insulting or derogatory comments or behavior
-* Personal or political attacks toward Event Participants
-* Sustained disruption of talks or any other events or activities organized by GitHub in association with the Event
-* Intimidation, stalking, following, or harassing of Event Participants
-* Photography or recording of Event Participants without their consent
-* Harassment of any kind, even in a joking or ironic manner
-* Conduct which could reasonably be considered inappropriate in a professional setting
+* Die Verwendung von sexualisierter Sprache oder Bildern
+* Unangemessene körperliche Kontakte, sexuelle Aufmerksamkeit oder Annäherungsversuche
+* Trolling, beleidigende oder abwertende Kommentare oder Verhaltensweisen
+* Persönliche oder politische Angriffe auf Veranstaltungsteilnehmer
+* Anhaltende Unterbrechung von Gesprächen oder anderen Veranstaltungen oder Aktivitäten, die von GitHub in Verbindung mit der Veranstaltung organisiert werden
+* Einschüchterung, Stalking, Verfolgung oder Belästigung von Veranstaltungsteilnehmern
+* Fotografieren oder Aufnehmen von Veranstaltungsteilnehmern ohne deren Zustimmung
+* Belästigungen jeglicher Art, auch in scherzhafter oder ironischer Weise
+* Verhalten, das in einem beruflichen Umfeld vernünftigerweise als unangemessen angesehen werden könnte
 
-Each Event Participant is entirely responsible for their own actions.
+Jeder Veranstaltungsteilnehmer ist für sein Handeln vollumfänglich selbst verantwortlich.
 
-Thank you for helping to make this a welcoming, friendly space for all.
+Vielen Dank, dass Sie dazu beigetragen haben, dies zu einem einladenden, freundlichen Ort für alle zu machen.
 
-[Reporting an incident](#reporting-an-incident)
+[Einen Vorfall melden](#reporting-an-incident)
 ----------
 
-If you are being harassed, notice that someone else is being harassed, have any other concerns, or if you believe an Event Participant is not acting in a way compliant with this Code of Conduct, please speak directly with a venue security officer or GitHub employee for urgent help, or email us at [events@github.com](mailto:events@github.com) for non-urgent issues. For life threatening situations, please dial 911 immediately.
+Wenn Sie belästigt werden, bemerken, dass eine andere Person belästigt wird, andere Anliegen haben oder der Meinung sind, dass ein Veranstaltungsteilnehmer sich nicht an diese Verhaltensregeln hält, sprechen Sie in dringenden Fällen bitte direkt mit einem Sicherheitsbeauftragten oder GitHub-Mitarbeiter vor Ort oder senden Sie uns in weniger dringenden Fällen eine E-Mail an [events@github.com](mailto:events@github.com). Wählen Sie in lebensbedrohlichen Situationen bitte sofort die 911.
 
-GitHub employees will be happy to help Event Participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the Event.
+GitHub-Mitarbeiter helfen den Veranstaltungsteilnehmern gerne dabei, den Sicherheitsdienst oder die örtlichen Strafverfolgungsbehörden zu kontaktieren, und werden diejenigen, die Belästigungen ausgesetzt sind, schützen oder auf andere Weise unterstützen, damit sie sich für die Dauer der Veranstaltung sicher fühlen.
 
-[Credit](#credit)
+[Kredit](#credit)
 ----------
 
-Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
+Teile dieses Verhaltenskodex basieren auf der Vorlage example anti-harassment policy aus dem Geek Feminism Wiki, erstellt von der Ada Initiative und anderen Ehrenamtlichen unter einer Creative Commons Zero Lizenz.
 
 {"resolvedServerColorMode":"day"}

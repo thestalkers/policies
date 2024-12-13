@@ -1,157 +1,157 @@
-GitHub Acceptable Use Policies - GitHub Docs
+GitHub 사용 제한 정책 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies)/
-* [GitHub Acceptable Use Policies](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [사이트 정책](/ko/site-policy)/
+* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
+* [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-GitHub Acceptable Use Policies
+GitHub 사용 제한 정책
 ==========
 
-In this article
+이 문서의 내용
 ----------
 
-* [1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
-* [2. User Safety](#2-user-safety)
-* [3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
-* [4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
-* [5. Site Access and Safety](#5-site-access-and-safety)
-* [6. Services Usage Limits](#6-services-usage-limits)
-* [7. Information Usage Restrictions](#7-information-usage-restrictions)
-* [8. Privacy](#8-privacy)
-* [9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
-* [10. Advertising on GitHub](#10-advertising-on-github)
-* [11. User Protection](#11-user-protection)
+* [1. 법률 및 규정 준수](#1-compliance-with-laws-and-regulations)
+* [2. 사용자 안전](#2-user-safety)
+* [3. 지적 재산, 신뢰성 및 개인 정보](#3-intellectual-property-authenticity-and-private-information)
+* [4. GitHub에서 스팸과 허위 활동](#4-spam-and-inauthentic-activity-on-github)
+* [5. 사이트 액세스와 안전](#5-site-access-and-safety)
+* [6. 서비스 사용량 한도](#6-services-usage-limits)
+* [7. 정보 사용량 제한](#7-information-usage-restrictions)
+* [8. 개인 정보 보호](#8-privacy)
+* [9. 과도한 대역폭 사용](#9-excessive-bandwidth-use)
+* [10. GitHub에서의 광고](#10-advertising-on-github)
+* [11. 사용자 보호](#11-user-protection)
 
-**Short version:** *We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other.*
+**짧은 버전:** *당사는 전 세계의 다양한 협업 프로젝트를 주최하며, 해당 협업은 사용자가 신의에 따라 성실하게 협력할 수 있을 때만 잘 진행됩니다. 서비스를 사용하는 동안 귀하는 사용자 안전, 지적 재산, 개인 정보 보호, 신뢰성 및 그 밖의 제한과 관련된 GitHub의 콘텐츠와 행위에 대한 일부 제한을 포함하는 당사의 사용 제한 정책을 준수해야 합니다. 간단히 말해 서로에게 모범이 되어야 합니다.*
 
-Capitalized terms used but not defined in these Acceptable Use Policies have the meanings assigned to them in your main agreement with us — the [GitHub Terms of Service](/ko/site-policy/github-terms/github-terms-of-service) or GitHub Customer Agreement, or the [GitHub Corporate Terms of Service](/ko/site-policy/github-terms/github-corporate-terms-of-service) or other legacy GitHub contract, or a Microsoft volume licensing agreement. For customers subject to the legacy Corporate Terms of Service, "you" and "your" refer to "Customer" or "Users". "We", "us", and "our" refer to "GitHub".
+본 사용 제한 정책에 사용되었지만 정의되지 않은 특정 용어는 당사와의 기본 계약([GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service), GitHub 고객 계약, [GitHub 기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service), 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)에서 각 용어에 부여된 의미를 갖습니다. 레거시 기업 서비스 약관이 적용되는 고객의 경우, "귀하" 및 "귀하의"는 "고객" 또는 "사용자"를 가리킵니다. "당사", "당사를", "당사의" 등의 표현은 "GitHub"를 가리킵니다.
 
-[1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
+[1. 법률 및 규정 준수](#1-compliance-with-laws-and-regulations)
 ----------
 
-You are responsible for using the Service in compliance with all applicable laws, regulations, and all of our Acceptable Use Policies. These policies may be updated from time to time and are provided below.
+귀하는 모든 관련 법률 및 규정과 당사의 모든 사용 제한 정책을 준수하여 서비스를 사용할 책임이 있습니다. 이러한 정책은 수시로 업데이트될 수 있으며 하기의 내용에 명시됩니다.
 
-[2. User Safety](#2-user-safety)
+[2. 사용자 안전](#2-user-safety)
 ----------
 
-We do not allow content or activity on GitHub that:
+다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
 
-* is unlawful or promotes unlawful activities;
+* 불법적이거나 불법적인 활동을 조장하는 경우
 
-* is [sexually obscene](/ko/site-policy/acceptable-use-policies/github-sexually-obscene-content) or relates to sexual exploitation or abuse, including of minors;
+* [성적으로 외설적](/ko/site-policy/acceptable-use-policies/github-sexually-obscene-content)이거나 미성년자를 포함한 성적 착취 또는 학대와 관련이 있는 경우
 
-* is libelous, defamatory, or fraudulent;
+* 비방, 명예 훼손 또는 기망적인 내용에 해당하는 경우
 
-* is [discriminatory or abusive](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination) toward any individual or group;
+* 개인이나 집단을 [차별하거나 모욕](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)하는 경우
 
-* is [false, inaccurate, or intentionally deceptive information](/ko/site-policy/acceptable-use-policies/github-misinformation-and-disinformation) and likely to adversely affect the public interest (including health, safety, election integrity, and civic participation);
+* [거짓이거나 부정확하거나 고의로 기만적인 정보](/ko/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)에 해당하며 공익(건강, 안전, 선거 무결성, 시민 참여를 포함)에 악영향을 미칠 가능성이 있는 경우
 
-* [harasses or abuses](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment) another individual or group, including our employees, officers, and agents, or other users;
+* 당사의 직원, 임원, 대리인 또는 그 외 사용자를 포함한 타인 또는 타 집단을 [괴롭히거나 학대](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)하는 경우
 
-* [threatens or incites violence](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content) toward any individual or group, especially on the basis of who they are;
+* 개인이나 집단을 상대로 특히 당사자의 정체성에 근거하여 [위협을 가하거나 폭력을 선동](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)하는 경우
 
-* [gratuitously depicts or glorifies violence](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content), including violent images; or
+* 폭력적인 이미지를 포함해 [폭력을 불필요하게 묘사하거나 미화](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)하는 경우
 
-* is off-topic, or interacts with platform features in a way that significantly or repeatedly [disrupts the experience of other users](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users).
+* 주제에서 벗어나거나 다분히 또는 반복적으로 [다른 사용자의 경험을 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)하는 방식으로 플랫폼 기능과 상호 작용하는 경우
 
-[3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
+[3. 지적 재산, 신뢰성 및 개인 정보](#3-intellectual-property-authenticity-and-private-information)
 ----------
 
-We do not allow content or activity on GitHub that:
+다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
 
-* infringes any proprietary right of any party, including patent, trademark, trade secret, copyright, right of publicity, or other right;
+* 특허, 상표, 영업 비밀, 저작권, 퍼블리시티권 또는 그 밖의 권리를 포함한 모든 당사자의 소유권을 침해하는 경우
 
-* unlawfully shares unauthorized product licensing keys, software for generating unauthorized product licensing keys, or software for bypassing checks for product licensing keys, including extension of a free license beyond its trial period;
+* 평가판 기간을 초과하는 무료 라이선스 기한 연장을 포함해 무단 제품 라이선스 키, 동 라이선스 키를 생성하기 위한 소프트웨어 또는 제품 라이선스 키 검사를 우회하기 위한 소프트웨어를 불법적으로 공유하는 경우
 
-* [impersonates any person or entity](/ko/site-policy/acceptable-use-policies/github-impersonation), including any of our employees or representatives, including through false association with GitHub, or by fraudulently misrepresenting your identity or site's purpose; or
+* GitHub와의 허위 연결을 통해 또는 귀하의 신원 정보 또는 사이트의 목적을 허위로 진술하는 등 당사의 직원 또는 대리인을 포함하여 [개인 또는 단체를 사칭](/ko/site-policy/acceptable-use-policies/github-impersonation)하는 경우
 
-* [violates the privacy of any third party](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy), such as by posting another person's personal information without consent.
+* 타인의 개인 정보를 당사자의 동의 없이 게시하는 등 [제3자의 개인 정보를 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)하는 경우
 
-[4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
+[4. GitHub에서 스팸과 허위 활동](#4-spam-and-inauthentic-activity-on-github)
 ----------
 
-We do not allow content or activity on GitHub that is:
+다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
 
-* automated excessive bulk activity and coordinated inauthentic activity, such as
-  * spamming
-  * cryptocurrency mining;
+* 다음과 같이 자동화된 과도한 대량 활동과 조정된 허위 활동
+  * 스팸
+  * 암호화폐 채굴
 
-* bulk distribution of promotions and advertising prohibited by GitHub terms and policies;
-* inauthentic interactions, such as fake accounts and automated inauthentic activity;
-* rank abuse, such as automated starring or following;
-* creation of or participation in secondary markets for the purpose of the proliferation of inauthentic activity;
-* using GitHub as a platform for propagating abuse on other platforms;
-* phishing or attempted phishing; or
-* using our servers for any form of excessive automated bulk activity, to place undue burden on our servers through automated means, or to relay any form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-* incentivized by (or incentivizes inauthentic engagement with) rewards such as cryptocurrency airdrops, tokens, credits, gifts or other give-aways.
+* GitHub 약관과 정책에서 금지하는 프로모션과 광고의 대량 배포
+* 가짜 계정과 자동화된 허위 활동 등 허위 상호 작용
+* 자동화된 별 표시 또는 팔로잉과 같은 지위 남용
+* 허위 활동의 확산을 목적으로 유통 시장 조성 또는 참여
+* 다른 플랫폼에 남용을 전파하기 위한 플랫폼으로 GitHub를 사용
+* 피싱 또는 피싱 시도
+* 온갖 형태의 과도한 자동 대량 활동을 위해 당사 서버를 사용하여 자동화된 수단으로 당사 서버에 과도한 작업 부담을 지우거나, 당사 서버를 통해 요청하지 않은 온갖 형태의 광고 또는 유도(예: 일확천금 계획)를 중계
+* 암호화폐 에어드랍, 토큰, 크레딧, 선물, 기타 경품 등의 보상으로 인센티브 받기 또는 허위 참여 장려
 
-[5. Site Access and Safety](#5-site-access-and-safety)
+[5. 사이트 액세스와 안전](#5-site-access-and-safety)
 ----------
 
-We do not allow content or activity on GitHub that:
+다음의 각 경우에 해당하는 콘텐츠나 활동은 GitHub에서 허용되지 않습니다.
 
-* directly supports [unlawful active attack or malware campaigns](/ko/site-policy/acceptable-use-policies/github-active-malware-or-exploits) that are causing technical harms — such as using our platform to deliver malicious executables or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers — with no implicit or explicit dual-use purpose prior to the abuse occurring; or
-* uses our servers to disrupt or to attempt to disrupt, or to gain or to attempt to gain unauthorized access to, any service, device, data, account or network. Please note, activities permitted under bug bounty programs, such as the [GitHub Bug Bounty program](https://bounty.github.com), are not considered “unauthorized,” but must only affect the organization whose bug bounty program authorized the activity.
+* 남용이 발생하기 전에 묵시적 또는 명시적인 이중 사용 목적을 두지 않고 기술적 피해를 초래하는 [불법 활성 공격 또는 맬웨어 캠페인](/ko/site-policy/acceptable-use-policies/github-active-malware-or-exploits)을 직접 지원하는 경우(예를 들어 DoS(서비스 거부) 공격을 계획하거나 명령 및 제어 서버를 관리하여 악성 실행 파일을 전달할 수단이나 공격 인프라로서 당사 플랫폼을 사용)
+* 당사 서버를 사용하여 서비스, 장치, 데이터, 계정 또는 네트워크를 방해하거나 방해를 시도하거나 무단으로 액세스하거나 그러한 액세스를 시도하는 경우. [GitHub 버그 장려금 프로그램](https://bounty.github.com)과 같은 버그 장려금 프로그램에서 허용되는 활동은 "무단"으로 간주되지 않지만 해당 버그 장려금 프로그램이 활동 권한을 부여한 조직에만 적용되어야 합니다.
 
-[6. Services Usage Limits](#6-services-usage-limits)
+[6. 서비스 사용량 한도](#6-services-usage-limits)
 ----------
 
-You will not reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without our express written permission.
+귀하는 당사의 명시적인 서면 허가 없이 서비스, 서비스 사용 또는 서비스 액세스의 어떤 부분도 복제, 중복, 복사, 판매, 재판매 또는 활용할 수 없습니다.
 
-[7. Information Usage Restrictions](#7-information-usage-restrictions)
+[7. 정보 사용량 제한](#7-information-usage-restrictions)
 ----------
 
-You may use information from our Service for the following reasons, regardless of whether the information was scraped, collected through our API, or obtained otherwise:
+귀하는 해당 정보를 스크래핑했는지 또는 당사 API를 통해 수집했는지 아니면 다른 방식으로 입수했는지 여부와 관계없이 다음과 같은 이유로 당사 서비스를 출처로 한 정보를 사용할 수 있습니다.
 
-* Researchers may use public, non-personal information from the Service for research purposes, only if any publications resulting from that research are [open access](https://en.wikipedia.org/wiki/Open_access).
-* Archivists may use public information from the Service for archival purposes.
+* 연구원은 해당 연구를 출처로 한 간행물이 [공개 열람용](https://en.wikipedia.org/wiki/Open_access)인 경우에만 연구 목적으로 서비스의 공개된 비개인 정보를 사용할 수 있습니다.
+* 기록 보관 담당자는 기록 보관을 목적으로 서비스의 공개 정보를 사용할 수 있습니다.
 
-Scraping refers to extracting information from our Service via an automated process, such as a bot or webcrawler. Scraping does not refer to the collection of information through our API. Please see Section H of our [Terms of Service](/ko/site-policy/github-terms/github-terms-of-service#h-api-terms) for our API Terms.
+스크래핑은 봇 또는 웹 크롤러와 같은 자동화된 프로세스를 통해 당사 서비스에서 정보를 추출하는 것을 말합니다. 스크래핑은 당사의 API를 통한 정보 수집을 의미하지 않습니다. 당사의 API 약관은 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service#h-api-terms)의 섹션 H를 참조하십시오.
 
-You may not use information from the Service (whether scraped, collected through our API, or obtained otherwise) for spamming purposes, including for the purposes of sending unsolicited emails to users or selling personal information, such as to recruiters, headhunters, and job boards.
+귀하는 요청하지 않은 이메일을 사용자에게 전송하거나 개인 정보를 이를테면 채용 담당자, 헤드헌터, 구인구직란 등에 판매하는 등의 목적을 포함해 스팸 목적으로 (스크래핑했거나 당사 API를 통해 수집했거나 그 밖의 방법으로 입수한) 서비스의 정보를 사용할 수 없습니다.
 
-Your use of information from the Service must comply with the [GitHub Privacy Statement](/ko/site-policy/privacy-policies/github-privacy-statement).
+서비스를 출처로 한 정보를 사용 시 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 준수해야 합니다.
 
-[8. Privacy](#8-privacy)
+[8. 개인 정보 보호](#8-privacy)
 ----------
 
-Misuse of personal information is prohibited.
+개인 정보의 오용을 금지합니다.
 
-Any person, entity, or service collecting data from the Service must comply with the [GitHub Privacy Statement](/ko/site-policy/privacy-policies/github-privacy-statement), particularly in regards to the collection of personal information. If you collect any personal information from the Service, you agree that you will only use that personal information for the purpose for which that User has authorized it. You agree that you will reasonably secure any personal information you have gathered from the Service, and you will respond promptly to complaints, removal requests, and "do not contact" requests from us or other users.
+서비스를 출처로 한 데이터를 수집하는 모든 개인, 단체 또는 서비스는 특히 개인 정보의 수집과 관련하여 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 준수해야 합니다. 서비스를 출처로 한 개인 정보를 수집하는 경우, 귀하는 해당 사용자가 승인한 목적으로만 개인 정보를 사용하는 데 동의합니다. 귀하는 서비스에서 수집한 모든 개인 정보를 합당하게 보호하고 불만 사항, 제거 요청, 당사 또는 다른 사용자의 "연락 금지" 요청 등에 즉시 응답하기로 동의합니다.
 
-[9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
+[9. 과도한 대역폭 사용](#9-excessive-bandwidth-use)
 ----------
 
-The Service's bandwidth limitations vary based on the features you use. If we determine your bandwidth usage to be significantly excessive in relation to other users of similar features, we reserve the right to suspend your Account, throttle your file hosting, or otherwise limit your activity until you can reduce your bandwidth consumption. We also reserve the right—after providing advance notice—to delete repositories that we determine to be placing undue strain on our infrastructure. For guidance on acceptable use of object storage in repositories, refer to "[About large files on GitHub](/ko/repositories/working-with-files/managing-large-files/about-large-files-on-github)". For more details on specific features' bandwidth limitations, see the [GitHub Additional Product Terms](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features).
+서비스의 대역폭 제한은 사용하는 기능에 따라 다릅니다. 귀하의 대역폭 사용량이 유사한 기능의 다른 사용자에 비해 상당히 과도하다고 판단될 경우, 당사는 귀하가 대역폭 사용량을 줄일 수 있을 때까지 귀하의 계정을 일시 중지하거나 파일 호스팅을 제한하거나 그렇지 않으면 귀하의 활동을 제한할 수 있는 권리가 있습니다. 또한 당사는 당사의 인프라에 과도한 부담을 주는 것으로 판단되는 리포지토리를 (사전 통지 후) 삭제할 권리가 있습니다. 리포지토리에서 개체 스토리지의 사용 제한에 관한 지침은 "[GitHub의 대용량 파일 정보](/ko/repositories/working-with-files/managing-large-files/about-large-files-on-github)" 섹션을 참조하십시오. 특정 기능의 대역폭 제한에 관한 자세한 내용은 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)을 참조하십시오.
 
-[10. Advertising on GitHub](#10-advertising-on-github)
+[10. GitHub에서의 광고](#10-advertising-on-github)
 ----------
 
-**Short version:** *We do not generally prohibit use of GitHub for advertising. However, we expect our users to follow certain limitations, so GitHub does not become a spam haven. No one wants that.*
+**짧은 버전:** *일반적으로 당사는 GitHub를 광고 목적으로 사용하는 것을 금지하지 않습니다. 그러나 당사의 사용자가 특정 제한 사항을 따를 것으로 예상되므로 GitHub는 스팸 피난처가 되지 않습니다. 아무도 그것을 원하지 않습니다.*
 
-While we understand that you may want to promote your Content by posting supporters' names or logos in your Account, the primary focus of the Content posted in or through your Account to the Service should not be advertising or promotional marketing. This includes Content posted in or through Pages, Packages, repositories, and all other parts of the Service. You may include static images, links, and promotional text in the README documents or project description sections associated with your Account, but they must be related to the project you are hosting on GitHub. You may not advertise in other Users' Accounts, such as by posting monetized or excessive bulk content in issues.
+귀하가 필요에 따라 귀하의 계정에 후원자의 이름이나 로고를 게시하여 귀하의 콘텐츠를 홍보할 수 있음을 이해하지만 귀하의 계정으로 게시되거나 귀하의 계정을 통해 서비스에 게시되는 콘텐츠가 광고 또는 홍보 마케팅에 중점을 두어서는 안 됩니다. 이는 페이지, 패키지, 리포지토리와 그 외 서비스의 모든 부분에 직접 게시되거나 이를 통해 게시된 콘텐츠를 포함합니다. 귀하의 계정과 연결된 README 문서 또는 프로젝트 설명 섹션에 정적 이미지, 링크, 홍보 텍스트 등을 포함할 수 있지만 이는 GitHub에서 호스팅하는 프로젝트와 관련이 있어야 합니다. 수익이 발생한 콘텐츠 또는 문제의 과도한 대량 콘텐츠를 게시하는 등 다른 사용자의 계정에서 광고를 할 수 없습니다.
 
-You may not promote or distribute content or activity that is illegal or otherwise prohibited by our [Terms of Service](/ko/site-policy/github-terms/github-terms-of-service) or [Acceptable Use Policies](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies), including excessive automated bulk activity (for example, spamming), get-rich-quick schemes, and misrepresentation or deception related to your promotion.
+귀하는 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service) 또는 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)에서 과도한 자동 대량 활동(예: 스팸), 일확천금 계획, 프로모션과 관련된 허위 진술 또는 기만을 포함해 불법에 해당하거나 그렇지 않으면 금지되는 콘텐츠 또는 활동을 홍보하거나 배포할 수 없습니다.
 
-If you decide to post any promotional materials in your Account, you are solely responsible for complying with all applicable laws and regulations, including without limitation the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials. We reserve the right to remove any promotional materials or advertisements that, in our sole discretion, violate any GitHub terms or policies.
+귀하의 계정에 프로모션 자료를 게시하기로 결정할 경우, 귀하는 미국 연방 거래위원회(FTC)의 보증 및 평가 지침을 포함하되 이에 국한되지 않는 모든 관련 법률 및 규정을 준수할 전적인 책임이 있습니다. 당사는 단독 재량에 따라 GitHub 약관 또는 정책을 위반하는 프로모션 자료 또는 광고를 제거할 권리가 있습니다.
 
-[11. User Protection](#11-user-protection)
+[11. 사용자 보호](#11-user-protection)
 ----------
 
-You must not engage in activity that significantly harms other users.
+다른 사용자에게 중대한 피해를 주는 행위를 해서는 안 됩니다.
 
-We will interpret our policies and resolve disputes in favor of protecting users as a whole.
+당사는 당사의 정책을 해석하고 사용자를 전체적으로 보호하는 방향으로 분쟁을 해결할 것입니다.
 
 ---
 
-**Enforcement.** GitHub retains full discretion to [take action](/ko/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies) in response to a violation of these policies, including account suspension, account [termination](/ko/site-policy/github-terms/github-terms-of-service#3-github-may-terminate), or [removal](/ko/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content) of content. Please also see our [Community Guidelines](/ko/site-policy/github-terms/github-community-guidelines) for actions you can take if something or someone offends you.
+**규약.** GitHub은 계정 중지, 계정 [해지](/ko/site-policy/github-terms/github-terms-of-service#3-github-may-terminate) 또는 콘텐츠의 [제거](/ko/site-policy/github-terms/github-terms-of-service#2-github-may-remove-content)를 포함해 이러한 정책의 위반에 대응하여 [조치를 이행](/ko/site-policy/github-terms/github-community-guidelines#what-happens-if-someone-violates-githubs-policies)할 수 있는 전적인 재량권이 있습니다. 또한 불쾌감을 주는 대상이나 사람이 있을 경우에 취할 수 있는 제반 조치에 대해서는 [커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)을 참조하십시오.
 
-**Reinstatement and appeal.** If your content or account has been disabled or restricted and you seek reinstatement or wish to appeal, please see our [Appeal and Reinstatement page](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) for information about the process and use our [Appeal and Reinstatement form](https://support.github.com/contact/reinstatement) to submit a request.
+**복원 및 이의 제기.** 귀하의 콘텐츠 또는 계정이 사용 중지되거나 제한되었으며 복원을 요청하거나 이의를 제기하려면 당사의 [이의 제기 및 복원 페이지](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)를 참조하여 자세한 절차를 알아보고 [이의 제기 및 복원 요청서 양식](https://support.github.com/contact/reinstatement)을 사용하여 요청을 제기하십시오.
 
 {"resolvedServerColorMode":"day"}

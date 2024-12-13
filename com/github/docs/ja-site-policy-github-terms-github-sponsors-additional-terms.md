@@ -1,361 +1,361 @@
-GitHub Sponsors Additional Terms - GitHub Docs
+GitHub スポンサーの追加条件 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [GitHub Terms](/ja/site-policy/github-terms)/
-* [GitHub Sponsors Additional Terms](/ja/site-policy/github-terms/github-sponsors-additional-terms)
+* [サイト ポリシー](/ja/site-policy)/
+* [GitHub 条件](/ja/site-policy/github-terms)/
+* [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub Sponsors Additional Terms
+GitHub スポンサーの追加条件
 ==========
 
-In this article
+この記事の内容
 ----------
 
-* [1. Definitions.](#1-definitions)
-* [1. Acceptable Use.](#1-acceptable-use)
-* [2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
-* [3. Financial Terms.](#3-financial-terms)
-* [4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
-* [5. Term and Termination.](#5-term-and-termination)
-* [1. Sponsors Program.](#1-sponsors-program)
-* [2. Payment.](#2-payment)
-* [3. Term and Termination.](#3-term-and-termination)
-* [4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
-* [A. Confidentiality.](#a-confidentiality)
-* [B. Publicity.](#b-publicity)
-* [C. Notices.](#c-notices)
-* [D. Governing Law.](#d-governing-law)
-* [E. Assignment.](#e-assignment)
-* [F. Severability.](#f-severability)
-* [G. Entire Agreement.](#g-entire-agreement)
-* [H. Changes to the Terms.](#h-changes-to-the-terms)
+* [1. 定義。](#1-definitions)
+* [1.許可される使用。](#1-acceptable-use)
+* [2.支援対象開発者の義務。](#2-sponsored-developer-obligations)
+* [3. 財務条件。](#3-financial-terms)
+* [4.表明と保証、責任の制限、補償](#4-representations-and-warranties-limitation-of-liability-indemnification)
+* [5. 契約期間と契約解除。](#5-term-and-termination)
+* [1.Sponsors プログラム](#1-sponsors-program)
+* [2. 支払い。](#2-payment)
+* [3. 契約の期間および終了。](#3-term-and-termination)
+* [4. 免責事項責任の制限。](#4-disclaimer-limitation-of-liability)
+* [A. 秘密保持。](#a-confidentiality)
+* [B. パブリシティ。](#b-publicity)
+* [C: 注意/特記事項。](#c-notices)
+* [D. 準拠法。](#d-governing-law)
+* [E. 割り当て。](#e-assignment)
+* [F. 可分性](#f-severability)
+* [G. 完全合意。](#g-entire-agreement)
+* [H. 条件の変更。](#h-changes-to-the-terms)
 
-Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/ja/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").
+GitHub スポンサー プログラム ("Program") への参加には、[GitHub サービス利用規約](/ja/site-policy/github-terms/github-terms-of-service) ("契約") または GitHub とのその他の契約 (GitHub 顧客一般条件、GitHub 企業サービス利用規約、その他の契約など) と、次の追加条項 ("追加条項") が適用されます。 本契約に違反する GitHub スポンサー プログラムの使用は、本追加条件の違反にもなります。 使用されている用語のうち以下に定義のないものについては、本契約における定義が適用されます。 GitHub スポンサー プログラムの本追加条件は、GitHub とプログラムの「支援対象開発者」であるお客様との間の関係について説明します。 本追加条件は、お客様が同意した日付において発効します (以下「発効日」といいます)。
 
-The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projects ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development.
+本契約の目的は以下のとおりです： 1) スポンサーがGitHubスポンサープログラム(以下「本プログラム」といいます)に参加するための条件を定めること、および、2) スポンサー開発者が本プログラムに参加するための条件を定めること。 本プログラムでは、スポンサーがGitHubに収容されている特定のオープンソースプロジェクト（以下「プロジェクト」）を特定し、プロジェクトの開発を促進するために、それらのプロジェクトにコミットした投資を行うことができます。
 
-[1. Definitions.](#1-definitions)
+[1. 定義。](#1-definitions)
 ----------
 
-"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information.
+「**秘密情報**」とは、いずれかの当事者が他方当事者に開示したすべての非公開情報を、書面、口頭またはその他の手段によるかを問わず、機密として指定されているか、または情報開示の環境および情報の性質の下で、受領当事者が開示当事者にとって機密であることを知っている、または合理的に知るべきであることを意味します。 秘密情報には、(i) 受領当事者の過失によらず公知であった、または公知となった情報、(ii) 開示する権利を有する開示当事者以外の情報源から、秘密保持または所有権の制限なしに、受領当事者が正当に知らされていた、または正当に知られるようになった情報、(iii) 正当に権限を与えられた役員またはかかる開示当事者によって署名された書面による制限なしの開示について、開示当事者によって承認された情報、または (iv) 受領当事者が開示当事者の秘密情報にアクセスまたは使用することなく独自に開発した情報は含まれません。
 
-"**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines).
+「**GitHub ポリシー**」とは、[GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)を含む、支援対象開発者がプログラムの記載どおりに従う必要がある GitHub のすべてのその時点で最新のポリシーおよび手順を意味します。
 
-"**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
+「**スポンサー**」とは、お客様の支援対象開発者アカウント経由でサブスクリプションを購入したか、お客様に援助資金を支払ったユーザーを意味します。
 
-“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program.
+「**スポンサー開発者**」とは、本プログラムに参加している間に本プログラムのコンテンツを開発し、スポンサー開発者支払を受け取る個人または団体を意味します。
 
-"**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
+「**支援対象開発者アカウント**」とは、スポンサーからの支払いを受け取るためにプログラムを通じて開設したアカウントを意味します。
 
-"**Sponsored Developer Content**" means all content you submit to GitHub in connection with the Program, including User-Generated Content and Your Content; your brand names, trademarks, service marks, trade names, logos, or indicia of origin ("**Sponsored Developer Marks**"); and data associated with your Sponsored Developer Account.
+「**支援対象開発者のコンテンツ**」とは、ユーザー生成コンテンツとお客様のコンテンツ、お客様のブランド名、商標、サービス マーク、商号、ロゴ、出所の明示 (以下「**支援対象開発者のマーク**」といいます) などを含む、プログラムに関連して GitHub に提出したすべてのコンテンツ、ならびにお客様の支援対象開発者アカウントに関連するデータを意味します。
 
-"**Sponsorship**" means a payment paid to you through the Program and the Service.
+「**援助資金**」とは、プログラムおよびサービスを通じたお客様への支払いを意味します。
 
-"**Subscription**" means a recurring or one-time Sponsorship in exchange for goods, services, or other offers you provide to Sponsors.
+「**サブスクリプション**」とは、お客様がスポンサーに提供する商品、サービス、その他の提供物と引き換えに複数回または 1 回限りの資金提供を意味します。
 
-"**Sponsored Developer Payment**" means the net of one hundred percent (100%) of GitHub's gross monthly payments received from Sponsorships and Subscriptions to Sponsored Developer Accounts, plus any applicable Matching Funds, and other proceeds from monetization options that the Sponsored Developer elects to use, as applicable, less any discounts, taxes, fees, amounts that GitHub did not collect or which were refunded or charged back, amounts owed to any third-party in connection with the Program with respect to a Sponsored Developer Account, and other Exclusions as outlined in Section 4.
+「**支援対象開発者の支払い**」とは、資金提供およびサブスクリプションから支援対象開発者アカウントに送金された GitHub の総月間支払額の正味 100% に、該当するマッチング ファンド、および、必要に応じて、支援対象開発者が選択する収益化オプションによるその他の収益を加算した金額から、値引き額、諸税、手数料、GitHub が回収しなかったり払い戻しまたは相殺された金額、支援対象開発者アカウントを対象にプログラムに関連して第三者から借用した金額、および第 4 条に記載されるその他の「除外項目」を差し引いた金額を意味します。
 
-"**USD**" means United States Dollar.
+「**米国ドル**」とは、北米ドルを意味します。
 
-[Terms For Sponsored Developer](#terms-for-sponsored-developer)
+[スポンサー開発者の使用条件](#スポンサー開発者の使用条件)
 ==========
 
-[1. Acceptable Use.](#1-acceptable-use)
+[1.許可される使用。](#1-acceptable-use)
 ----------
 
-### [1.1. GitHub Sponsors Program](#11-github-sponsors-program) ###
+### [1.1. GitHub スポンサー プログラム](#11-github-sponsors-program) ###
 
-In order to participate in the Program, you must comply with your country's minimum age laws (for example, you must be at least 13 years of age if you live in the United States), have a valid GitHub account, and have agreed to the [Acceptable Use section](/ja/site-policy/github-terms/github-terms-of-service#c-acceptable-use) in the Agreement and applicable GitHub Policies, and these GitHub Sponsors Additional Terms.
+プログラムに参加するには、お客様の国の最低年齢法 (米国に居住する場合は 13 歳以上でなければならないなど) を遵守し、有効な GitHub アカウントを保有し、契約の[許可される用途セクション](/ja/site-policy/github-terms/github-terms-of-service#c-acceptable-use)および適用される GitHub ポリシー、ならびにこの GitHub スポンサーの追加条件に同意している必要があります。
 
-If you are over the age of 13 but are under 18, you can give and receive Sponsor funds, provided that Stripe, our payment processor, can collect verification information from your legal guardian.
+13 歳以上だが 18 歳未満の場合、当社の支払処理業者である Stripe がお客様の法定後見人から確認情報を得られることを条件に、お客様はスポンサー基金を授受できます。
 
-You will not under any circumstances allow payments or raise funds involving:
+以下にかかわる支払いまたは資金調達は、いかなる場合でも許可されません。
 
-* Fraud, ransom, violations of intellectual property, or other illegal purposes;
+* 詐欺、身代金、知的財産権の侵害、またはその他の違法目的
 
-* Misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
+* 募金や資金調達の理由に関連する不実表示またはごまかし
 
-* The purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
+* ICO、ユーティリティ トークン、または他の種類の暗号通貨の購入もしくは販売
 
-* The purchase or sale of securities, equity, or other types of investment offers;
+* 証券、株、または他の種類の投資商品の購入もしくは販売
 
-* The sale of personal information, or the processing of personal information in violation of any laws;
+* 個人情報の販売、または法律に違反する個人情報の処理
 
-* Lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
+* 宝くじ、ラッフル、ギャンブル、ピラミッド スキーム (マルチ商法またはねずみ講)、私的金額取引、「すぐに儲かる話」、詐欺的マーケティング スキーム、「寄付のための寄付」スキーム、GitHub または第三者のシステムやサービスを策を弄して操作する試み
 
-* Activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
+* 適用される法に基づき米国およびその他の経済制裁により許可されていない国、地域、政府、人物、または組織に関連して行われる活動
 
-### [1.2. GitHub Sponsors Matching Fund](#12-github-sponsors-matching-fund) ###
+### [1.2. GitHub スポンサー マッチング ファンド](#12-github-sponsors-matching-fund) ###
 
-The GitHub Sponsors Matching Fund aims to encourage the community that participates in the Open Source Software (OSS) ecosystem to contribute sustainable funding to qualifying individuals with Sponsored Developer Accounts. All individuals who applied to the Program before January 1, 2020, will be reviewed for eligibility for the Matching Fund, but not all eligible individual Sponsored Developer Accounts will receive matching. Organizations cannot participate in the GitHub Sponsors Matching Fund, and Sponsorship from an organization to a qualifying Sponsored Developer Account will not be matched. See below for additional rules.
+GitHub スポンサー マッチング ファンドの目的は、オープン ソース ソフトウェア (OSS) エコシステムに参加するコミュニティが支援対象開発者アカウントを保有する有資格者に持続可能な資金の寄付を募ることです。 2020 年 1 月 1 日までのプログラムの申し込み者の場合、当社はマッチング ファンドの資格条件を確認しますが、適格者全員の支援対象開発者アカウントがマッチングを受理されるわけではありません。 組織は GitHub スポンサー マッチング ファンドに参加できず、組織から資格がある支援対象開発者アカウントへの資金援助はマッチングされません。 その他の規則については以下をお読みください。
 
-#### [1.2.1. Matching Fund Terms.](#121-matching-fund-terms) ####
+#### [1.2.1. マッチング ファンドの条件。](#121-matching-fund-terms) ####
 
-Eligibility for the GitHub Sponsors Matching Fund is evaluated on a case-by-case basis and is subject to the following limitations:
+GitHub スポンサー マッチング ファンドの参加資格は個別に評価され、以下の制限が適用されます。
 
-* You must have a GitHub account, be accepted into the Program as an individual, and be actively contributing to OSS. Please note, GitHub does not allow operating more than one free personal account. As such, matching is available on an individual basis and will not be approved across multiple accounts.
+* GitHub アカウントを保有し、個人としてプログラムへの参加を承認されており、OSS に積極的に貢献している必要があります。 GitHub が無料の個人アカウントの運用を許可するのは 1 つまでです。 したがって、マッチングは個別に行われ、複数のアカウントで承認されることはありません。
 
-* Your use of GitHub and your Sponsored Developer Account must be, based on our determination, in our sole discretion, in accordance with the GitHub Sponsors mission to expand the opportunities to contribute to open source that upholds the [GitHub Community Guidelines](/ja/site-policy/github-terms/github-community-guidelines).
+* お客様による GitHub および支援対象開発者アカウントの使用は、当社の決定に基づき、独自の裁量により、GitHub スポンサーの使命を遵守して機会を広げ [GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)を守るオープン ソースに貢献する必要があります。
 
-* You cannot receive matching for any sponsorship that originates from a user or organization account with a published GitHub Sponsors profile.
+* 公開された GitHub スポンサー プロファイルを持つユーザーまたは組織アカウントに由来する寄付についてはマッチングは受理されません。
 
-* GitHub reserves the right to withhold or rescind Matching Fund money and block any user from participation in the GitHub Sponsors Matching Fund for any reason, including but not limited to posting content or projects that GitHub determines are offensive or otherwise objectionable.
+* GitHub は、マッチング ファンドの資金を保留または撤回し、GitHub が侮辱的または好ましくないと判断したコンテンツまたはプロジェクトの掲載を含むが、それに限定されず、ユーザーが理由にかかわらず GitHub スポンサー マッチング ファンドに参加することを阻止する権利を留保します。
 
-#### [1.2.2. Matching Period.](#122-matching-period) ####
+#### [1.2.2. マッチング期間。](#122-matching-period) ####
 
-The matching period begins after GitHub accepts an individual Sponsored Developer Account into GitHub Sponsors. For each individual Sponsored Developer Account eligible for the GitHub Sponsors Matching Fund, GitHub can match community sponsorship up to $5,000 USD total during the Sponsored Developer Account's first 12 months in the Program. The matching period cannot be extended for any reason. During the matching period, GitHub will not charge any fees, so 100% of sponsorships will go to the sponsored developer. In the future, we may charge a nominal processing fee.
+マッチング期間は、GitHub が個人の支援対象開発者アカウントの GitHub スポンサーへの参加を承認した後で開始します。 GitHub スポンサー マッチング ファンドの参加資格がある個々の支援対象開発者アカウントについて、GitHub は、支援対象開発者アカウントがプログラムに参加した最初の 12 か月間にコミュニティの資金援助を合計 5,000 米ドルまでマッチングできます。 マッチング期間は理由を問わず延長できません。 マッチング期間中、GitHub は料金を請求しないため、寄付の 100% が支援対象開発者に渡されます。 将来、当社は名目上の処理手数料を請求する場合があります。
 
-* If a Sponsorship or Sponsoring Subscription stops for any reason, the associated matching will stop as well. Funds that are charged back to the Sponsor before the Sponsored Developer Payment date are not eligible for matching.
+* 資金援助または支援サブスクリプションが何らかの理由で停止された場合、関連するマッチングも停止されます。 支援対象開発者の支払い日付より前にスポンサーに請求された資金は、マッチング対象外です。
 
-* If you leave GitHub Sponsors and rejoin later, the gap between your participation periods may count toward your matching period or your matching period may expire.
+* GitHub スポンサーを辞めて後から再度参加した場合、参加期間の差がマッチング期間に反映され、マッチング期間が満了する場合があります。
 
-* If GitHub discovers a potential policy violation, prior to payment of any matching funds granted during the matching period, GitHub may disable payouts until an investigation has been completed, and matched funds contributed to the sponsored developer may be revoked if they are found to be in violation of this policy.
+* マッチング期間中に認められたマッチング資金を支払う前に、GitHub がポリシー違反の可能性を察知した場合、GitHub は、調査が完了するまで支払いを無効にすることができます。支援対象開発者に寄付されたマッチング済み資金は、このポリシー違反が判明した場合、取り消されます。
 
-* GitHub may contact GitHub Sponsors applicants or participants for additional information regarding their sponsorship profile or activity to determine eligibility for sponsorship or matching, or as part of investigating potential terms violations.
+* GitHubは、スポンサーシップの適格性やマッチングを判断するため、あるいは潜在的な条件違反の調査の一部として、GitHub Sponsorsの応募者や参加者に対し、スポンサーシップのプロフィールやアクティビティについての追加情報を求めるために連絡することがあります。
 
-[2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
+[2.支援対象開発者の義務。](#2-sponsored-developer-obligations)
 ----------
 
-### [2.1. General.](#21-general) ###
+### [2.1. 一般条項。](#21-general) ###
 
-You will: (A) create a Sponsored Developer Account; (B) make Sponsored Developer Content available via the Program and Service; and, (C) comply with all GitHub Policies. You will be solely responsible for support, development, and maintenance of your Sponsored Developer Account and Sponsored Developer Content, and any complaints about them.
+お客様は、以下の項目に従う必要があります。(A) 支援対象開発者アカウントを作成する、(B) 支援対象開発者のコンテンツをプログラムとサービスを通じて利用可能にする、(C) すべての GitHub ポリシーを遵守する。 支援対象開発者アカウントと支援対象開発者のコンテンツのサポート、開発、維持、およびそれらに関するすべての苦情の責任は、お客様がすべて負うものとします。
 
-### [2.2. Registration.](#22-registration) ###
+### [2.2. 登録。](#22-registration) ###
 
-If you choose to apply for the Program, entry into the Program is contingent upon your completion of the registration process and acceptance into the Program by GitHub. In addition, you may be required to register with the payment service provider(s) selected by GitHub (such as Stripe) in order to access and use certain features of the Program. You must register with your true identity, and you agree to provide and maintain true, accurate, current and complete information about yourself as requested by the Program's registration form. Registration data and certain other information about you are governed by our [Privacy Statement](/ja/site-policy/privacy-policies/github-privacy-statement), as well as any privacy statement provided by our payment processor. GitHub reserves the right to refuse acceptance into the Program.
+プログラムに申し込む場合、プログラムへの参加は、登録プロセスの完了および GitHub によるプログラムの参加承認が条件となります。 また、プログラムの特定の機能にアクセスして使用するために、お客様は GitHub が選んだ支払サービス プロバイダー (Stripe など) に登録する必要があります。 お客様は、真実の身元を登録し、プログラムの登録フォームに要求されるとおり自身に関する真実、正確、最新かつ完全な情報を提出し維持することに同意するものとします。 お客様に関する登録データおよび特定のその他の情報は、当社の[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)、ならびに当社の支払処理業者が提供するプライバシーに関する声明が適用されます。 GitHub は、プログラムへの参加を拒否する権利を留保します。
 
-### [2.3. Content Monetization.](#23-content-monetization) ###
+### [2.3. コンテンツの収益化。](#23-content-monetization) ###
 
-Through the Program and Service, GitHub may provide you various options to monetize your Sponsored Developer Content. Some options may require you to update certain settings in your Sponsored Developer Account. In addition, the ways in which the Program supports each monetization option may vary. If you utilize one (or more) of these options by changing the applicable settings, then you agree to the terms that apply to that option. Some monetization options may require you to provide additional information to GitHub or its service providers, or to accept additional GitHub terms or third-party terms.
+プログラムとサービスを通じて、GitHubは、支援対象開発者のコンテンツを収益化するためのさまざまなオプションを提供します。 一部のオプションでは、支援対象開発者アカウントの特定の設定を更新する必要があります。 また、プログラムでは各収益化オプションは異なる方法でサポートされます。 お客様は、適用される設定を変更していずれかのオプションを利用する場合、オプションに適用される条件に同意するものとします。 一部の収益化オプションでは、追加の情報を GitHub またはそのサービス プロバイダーに提供すること、または追加の GitHub の条件もしくは第三者の条件に同意することを求められる場合があります。
 
-#### [2.3.1. Subscriptions.](#231-subscriptions) ####
+#### [2.3.1. サブスクリプション。](#231-subscriptions) ####
 
-The Program provides you with the capability to offer Subscriptions. If you choose to offer Subscriptions, then GitHub will pay you the Subscription Sponsorship as provided in Section 4. You are responsible for determining the nature, content, and capabilities of your Subscription offer, subject to these Additional Terms and applicable GitHub Policies.
+プログラムにはサブスクリプションを提供する機能があります。 サブスクリプションを提供する場合、GitHub はお客様に第 4 条に記載されるサブスクリプション援助資金を支払います。 お客様は、この追加条件および適用される GitHub ポリシーに従って、提供するサブスクリプションの性質、内容、機能を決定する責任を負います。
 
-#### [2.3.2. Other Sponsorships.](#232-other-sponsorships) ####
+#### [2.3.2. その他の資金援助。](#232-other-sponsorships) ####
 
-The Program or Service may provide you with the ability to accept a donation or other type of direct Sponsorship from another User without a Subscription offer. However, because GitHub does not fulfill those types of Sponsorships, you must establish a merchant account with a third-party payment service provider (such as Stripe) and be subject to that service provider's merchant account terms, conditions, and privacy policies. Any amounts contributed to you, donation or otherwise, will be paid directly to your merchant account and not included in any Sponsored Developer Payments. You agree that you will not have any claim or remedy against GitHub relating to donations and any disputes relating to a donation are solely between you and the third-party payment service provider. You are responsible for compliance with any third-party payment service provider's agreements, policies, and laws or regulations that may apply. GitHub may elect to provide you with information or a report on the amount of donations made to you for your convenience.
+プログラムまたはサービスには、サブスクリプション提供のない他のユーザーからの寄付または他の種類の直接的な資金援助を承認する機能があります。 ただし、GitHub ではそのような種類の資金援助を処理できないため、お客様は、第三者支払サービス プロバイダー (Stripe など) とマーチャント アカウントを契約する必要があります。 お客様に提供された金額は、寄付またはそれ以外でも、マーチャント アカウントに直接支払われ、支援対象開発者の支払いには含まれません。 お客様は、寄付および寄付に関する紛争はお客様と第三者支払サービス プロバイダーのみが関連し、GitHub に対する請求権または救済権を持たないことに同意するものとします。 お客様は、第三者支払サービス プロバイダーの契約、ポリシー、適用される法令または規制を遵守する責任を負います。 GitHub は、お客様の便宜のためにお客様に寄付された金額に関する情報または報告を提供する場合があります。
 
-#### [2.3.3. Advertising.](#233-advertising) ####
+#### [2.3.3. 広告。](#233-advertising) ####
 
-While we understand that you may want to promote your Sponsors by posting their names or logos in your account, the primary focus of your Sponsored Developer Content should not be advertising or promotional marketing. In addition, you may not enter into any advertising agreement to promote any product or brand if doing so would be prohibited by the [Agreement](/ja/site-policy/github-terms/github-terms-of-service) or GitHub's Community Guidelines. If you decide to host any advertising or promotional materials in your Sponsored Developer Content, you are solely responsible for complying with all applicable laws and regulations, including the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials.
+当社は、お客様がスポンサーの名前またはロゴをアカウントに掲載することによってスポンサーを宣伝したい思う願望を理解していますが、支援対象開発者のコンテンツの主な目的が広告またはプロモーション活動であってはなりません。 また、製品またはブランドのプロモーションを行うために広告契約を締結することが[契約](/ja/site-policy/github-terms/github-terms-of-service)または GitHub のコミュニティ ガイドラインにより禁止されている場合、このような契約を締結することはできません。 支援対象開発者のコンテンツに広告または販売促進資料をホストすることを決めた場合、お客様はすべての適用される法令および規制に従う責任を単独で負うものとします。この法令には、「推奨・証言に関する米国連邦取引委員会のガイドライン」が含まれますが、それに限定されません。
 
-[3. Financial Terms.](#3-financial-terms)
+[3. 財務条件。](#3-financial-terms)
 ----------
 
-### [3.1. Payment.](#31-payment) ###
+### [3.1. 支払い。](#31-payment) ###
 
-GitHub will pay you the Sponsored Developer Payment in accordance with this Section 3, so long as you meet the Sponsored Developer Obligations in Section 2 and are not in violation of these Additional Terms. If you fail to meet these obligations for any given month, we may at our sole discretion withhold the Sponsored Developer Payment for that month. If you fail to meet or maintain the Sponsored Developer Obligations for two (2) or more months during the Term (consecutively or non-consecutively), then GitHub may terminate these Additional Terms as provided in Section 5.
+GitHub は、お客様が第 2 条の支援対象開発者の義務を満たし、この追加条件に違反していない限り、この第 3 条に従って支援対象開発者の支払いを負担します。 お客様が所定の月間この義務を果たさない場合、当社は独自の裁量で当該月間支援対象開発者の支払いを保留する場合があります。 お客様が期間中 2 か月以上 (連続または不連続で) 支援対象開発者の義務を果たさないか維持しない場合、GitHub は第 5 条に記載される追加条件を終了することができます。
 
-### [3.2. Sponsored Developer Payment Exclusions.](#32-sponsored-developer-payment-exclusions) ###
+### [3.2. 支援対象開発者の支払いの除外。](#32-sponsored-developer-payment-exclusions) ###
 
-The following amounts are not included in Sponsored Developer Payments, or may be withheld by GitHub, as applicable.
+以下の金額は、必要に応じて、支援対象開発者の支払いに含まれていないか GitHub により保留される場合があります。
 
-#### [3.2.1. Sponsored Developer Expenses.](#321-sponsored-developer-expenses) ####
+#### [3.2.1. 支援対象開発者の費用。](#321-sponsored-developer-expenses) ####
 
-You will bear all expenses you incur in connection with your performance under these Additional Terms. We will not reimburse or advance you for any expenses.
+お客様は、この追加条件に基づきお客様の履行に関連して発生する費用をすべて負担するものとします。 当社は費用を一切弁済または前払いしません。
 
-#### [3.2.2. Taxes.](#322-taxes) ####
+#### [3.2.2. 税金。](#322-taxes) ####
 
-GitHub intends to comply with all applicable tax information reporting and tax withholding laws that GitHub reasonably determines in its judgment apply to these payments. If taxes are required to be withheld on any amounts to be paid by GitHub to you or from amounts which are subject to tax information reporting under applicable laws, GitHub will deduct such taxes from the amount owed and pay them to the appropriate taxing authority and, as required, will secure and deliver to you an official receipt for any such taxes withheld as required under applicable laws. GitHub will use reasonable efforts to minimize such taxes to the extent permissible under applicable law, and each party will reasonably cooperate with the other to obtain the lowest tax rates or elimination of such taxes pursuant to the applicable income tax laws or treaties. This includes you providing to GitHub adequate information required under applicable laws, such as IRS Forms W-8, W-9, or other information to establish exemptions from withholding. You will also be responsible for complying with any third-party payment processor’s terms and conditions regarding tax withholding and reporting, if applicable. Furthermore, GitHub reserves the right to suspend payments to your account until you provide GitHub with adequate documentation or information required under applicable laws for GitHub to determine any applicable tax withholding or reporting obligations that apply to the payments under these Additional Terms or Agreement.
+GitHub は、すべての該当する税務情報報告および GitHub が支払いに適用されると合理的に判断する源泉徴収法を遵守する意向です。 GitHub からお客様へ支払われる金額に対して、または適用される法により税務情報報告の対象となる金額から、税金の源泉徴収が義務付けられている場合、GitHub は、要求に応じて、その支払うべき金額から当該税金を控除し、所轄の税務当局に納付し、適用される法の要求に従って源泉徴収された当該税の正式な領収書を確保してお客様に提供します。 GitHub は、適用される法令で許容される範囲でかかる税を最小限に抑えるための相応の努力を払い、各当事者は、適用される所得税法または所得税条約に従って税率を最も低く抑えたりかかる税を回避したりするために、他方の当事者と合理的に協力するものとします。 これには、IRS フォーム W-8、W-9 や源泉徴収の免除を証明するその他の情報など、適用法により義務付けられた適切な情報を GitHub に提供することが含まれます。 お客様は、該当する場合、税の源泉徴収と報告に関する第三者支払処理業者の契約条件を遵守する責任も負います。 また、GitHub は、この追加条件または契約により支払いに適用される税の源泉徴収および報告義務があるかどうかを判断するために、適用法により義務付けられた適切な文書または情報が提供されるまで、お客様のアカウントへの支払いを延期する権利を留保します。
 
-#### [3.2.3. Withholding of Sponsored Developer Payment for Breach.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
+#### [3.2.3. 違反に対する支援対象開発者の支払いの保留。](#323-withholding-of-sponsored-developer-payment-for-breach) ####
 
-In the event of a Sponsored Developer's breach, or suspected breach, of these Additional Terms or the Agreement, GitHub reserves the right to withhold payment to the Sponsored Developer under these Additional Terms or otherwise, pending GitHub's reasonable investigation of the same. If GitHub determines, in its sole discretion, that a Sponsored Developer is in breach of these Additional Terms or the Agreement, GitHub may permanently withhold any amounts due to the Sponsored Developer.
+支援対象開発者が本追加条件または契約に違反したり、違反が疑われる場合、GitHub は、GitHub の合理的な調査を待つ間、本追加条件または他により支援対象開発者への支払いを保留する権利を留保します。 GitHubが、独自の裁量で、支援対象開発者が本追加条件または契約に違反していると判断した場合、GitHub は、支援対象開発者に支払うべき金額を恒久的に保留できます。
 
-### [3.3. Payment Timing.](#33-payment-timing) ###
+### [3.3. 支払タイミング。](#33-payment-timing) ###
 
-During the term, GitHub will remit to you all Sponsored Developer Payments received in a given month within 30 days after the close of that month, subject to the variables below. Payouts are sent through Stripe Connect, ACH transfer, or wire transfer to the bank account you provided when you applied for GitHub Sponsors. We are not responsible for delay or misapplication of any Sponsored Developer Payment because of incorrect or incomplete information supplied by you or a bank, or for failure of a bank to credit your account.
+期間中、GitHub は、以下の変更を条件に、所定の月間に受け取った支援対象開発者の支払いを当該月末から 30 日以内に支払います。 支払いは、Stripe Connect、ACH 送金、または電信送金を使用して、GitHub スポンサーを申し込んだときに指定した銀行口座に送金されます。 お客様もしくは銀行により提供された情報が不正確もしくは不完全であったことによる、「スポンサード開発者への支払い」の一切の遅延や誤適用、または銀行がお客様の口座に振り込めなかったことについて、当社は責任を負いません。
 
-* For first payments, GitHub will remit to you all Sponsored Developer Payments 60 days after the first sponsorship is initiated, subject to the variables below. This probation period is applied to all Sponsored Developer Accounts and helps insure the integrity of the program. Payments thereafter will be remitted within 30 days of the close of that month, in accordance with this section.
+* 最初の支払いについては、GitHub は以下の変更を条件に、最初の資金援助が開始されてから 60 日後に、すべての支援対象開発者の支払いをお客様に送金します。 この支払い猶予期間は、すべての支援対象開発者アカウントに適用され、プログラムの完全性の確保に役立ちます。 その後の支払いは、本条の規定に従って、当該月末から 30 日以内に送金されます。
 
-* If you are paid through Stripe Connect, you will receive payouts on the 22nd of the month for the balance accrued since the last payout, regardless of the amount of the balance. Payout initiation dates vary by country, and can change from month to month due to public holidays, weekends, and other factors. When the payout is a cross-border payout, a minimum payout amount may apply. For more information, see [Receiving payouts](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts) in the Stripe documentation.
+* Stripe Connect を使用して支払われる場合、金額に関係なく、前回の支払いから発生した差額については当月の 22 日が受取日になります。 支払い開始日は国によって異なり、祝祭日、週末、その他の要因によって月ごとに変動します。 支払いが国境を越えた支払いである場合は、最小限の支払い金額が適用される場合があります。 詳細については、Stripe ドキュメントの「[支払いを受け取る](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts)」を参照してください。
 
-* If you are paid through ACH transfer or wire transfer, you will receive payouts on the third Thursday of the month. GitHub will issue a payout to you for any month that your balance reaches $100 USD. Contributions from the GitHub Sponsors Matching Fund do not count towards this threshold. If your balance is below $100 at the end of the month, the balance will accrue until the next time your balance is above the threshold at the end of the month. If you leave GitHub Sponsors, GitHub will issue a payout for your remaining balance even if the balance is below $100.
+* ACH 送金、または電信送金を使用して支払われる場合、当月の第 3 木曜日が受取日になります。 GitHub は、残高が 100 米ドルに達した月について支払いを行います。 GitHub スポンサー マッチング ファンドからの出資はこのしきい値に加算されません。 月末の残高が 100 米ドル未満の場合、月末の残高が次回しきい値を超えるまで残高に利子がつきます。 GitHub スポンサーを辞める場合、GitHub は、残高が100 米ドル未満の場合でも残額に対して支払いを行います。
 
-* After termination, we will remit to you all Sponsored Developer Payments received and unpaid within approximately 90 days after the end of the calendar month in which we recognize that these Additional Terms have been terminated.
+* 終了後、当社が本追加条件が終了したと認識する歴月末後から約 90 日以内に受領して未払いのすべての支援対象開発者の支払いをお客様に送金します。
 
-### [3.4. Payment Method.](#34-payment-method) ###
+### [3.4. 支払い方法。](#34-payment-method) ###
 
-We will remit Sponsored Developer Payments by ACH/SEPA or wire to an account that you specify subject to the thresholds, methods and timeframes provided in our then-current payment policies, which we may update from time to time. The payment method and threshold may vary depending on the country and account information you provide. We may, at our sole discretion, combine the Sponsored Developer Payment with any other payments that may be owed to you.
+当社は、当社が随時更新する、その時点で最新の支払ポリシーに指定されるしきい値、方法、および期間に従って、支援対象開発者の支払いを ACH/SEPA または電信でお客様が指定する口座に送金します。 支払方法としきい値は、国およびお客様が提供する口座情報によって異なります。 当社は、独自の裁量で、支援対象開発者の支払いと当社がお客様に支払い義務がある他の支払いを組み合わせる場合があります。
 
-### [3.5. Currency.](#35-currency) ###
+### [3.5. 通貨型。](#35-currency) ###
 
-All references to currency are to USD. If you are outside of the United States, we may convert USD to the local currency of your address for payment, using our then-current conversion rates.
+通貨の言及はすべて米ドルです。 お客様がアメリカ合衆国以外に所在している場合、当社は、当社のその時点の換算レートを使用して、米ドルをお客様の支払先住所の現地通貨に換算することができます。
 
-### [3.6. Refund Requirements.](#36-refund-requirements) ###
+### [3.6. 返金要件。](#36-refund-requirements) ###
 
-You will be responsible for specifying the terms and conditions regarding any refunds, if any, to your Sponsors. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
+お客様は、スポンサーへの返金があれば返金に関する契約条件を指定する責任を負います。 いかなる場合も、GitHub は返金についてサポートを提供する義務も、返金の支払いについて責任を負う義務も負わないものとします。
 
-### [3.7. Requested Payment Information.](#37-requested-payment-information) ###
+### [3.7. 要求された支払情報。](#37-requested-payment-information) ###
 
-To pay you, you must provide us with complete and accurate financial, tax, and banking information that we request (for example, by means of account creation or setup, or otherwise). We will notify you, by any means of communication, of changes to what information is required. If you fail to accurately provide (or accurately maintain) such information, (a) we can deduct from your Sponsored Developer Payment any related bank fees, and (b) we can terminate these Additional Terms and you may forfeit any amounts owed to you by GitHub.
+お客様に支払うために、お客様は、当社が要求する完全かつ正確な財務、税、および銀行に関する情報を提供する必要があります (たとえば、口座の開設などを行うことにより)。 当社は、何らかの通信手段で、必要な情報の変更をお客様に通知します。 お客様がかかる情報を正確に指定 (または正確に管理) しない場合、(a) 当社はお客様の支援対象開発者の支払いから関連する銀行手数料を差し引くことができます。また、(b) この追加条件を終了することができ、お客様は GitHub がお客様に支払う義務がある金額を喪失する場合があります。
 
 ### [3.8. Stripe Connect](#38-stripe-connect) ###
 
-If you are paid through Stripe Connect, the following additional terms apply to your usage of GitHub Sponsors:
+支払いが Stripe Connect を使用して行われる場合、お客様の GitHub スポンサーの使用には、以下の追加の条件が適用されます。
 
-**Full service agreement**
+**フル サービス契約**
 
-*Applies to Sponsored Developer Accounts registered in Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, United States.*
+*オーストラリア、オーストリア、ベルギー、カナダ、デンマーク、エストニア、フィンランド、フランス、ドイツ、ギリシア、香港、アイルランド、イタリア、日本、ラトビア、リトアニア、ルクセンブルグ、オランダ、ニュージーランド、ノルウェー、ポーランド、スロバキア、スロベニア、スペイン、スイス、英国、および米国で登録された支援対象開発者アカウントに適用されます。*
 
-Payment processing services for Sponsored Developer Accounts on GitHub Sponsors are provided by Stripe and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal/full), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a Sponsored Developer Account on GitHub Sponsors, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of GitHub enabling payment processing services through Stripe, you agree to provide GitHub accurate and complete information about you and your business, and you authorize GitHub to share it and transaction information related to your use of the payment processing services provided by Stripe.
+GitHub スポンサーの支援対象開発者アカウントのスポンサー支払処理サービスは、Stripe により提供され、[Stripe 接続アカウント契約](https://stripe.com/connect-account/legal/full)および含まれている [Stripe サービス条件](https://stripe.com/legal) (総称して、「Stripe サービス契約」といいます) が適用されます。 これらの条件に同意する、または GitHub スポンサーの支援対象開発者アカウントとして運用し続けることにより、お客様は、Stripe により随時変更される、Stripe サービス契約に拘束されることに同意するものとします。 GitHub が Stripe を使用して支払処理サービスを有効にすることを条件に、お客様は、お客様およびお客様のビジネスに関する正確かつ完全が情報を提供し、GitHub がこの情報および Stripe により提供される支払処理サービスのお客様の使用に関する処理情報を共有することを許可することに同意するものとします。
 
-**Recipient service agreement**
+**受領者サービス契約**
 
-*Applies to Sponsored Developer Accounts in all other countries.*
+*他のすべての国の支援対象開発者アカウントに適用されます。*
 
-We use Stripe to make payouts to Sponsored Developer Accounts. The [Stripe Recipient Agreement](https://stripe.com/connect-account/legal/recipient) applies to your receipt of such payouts. To receive payouts from GitHub Sponsors, you must provide us accurate and complete information about you and your business, and you authorize us to share it and transaction information related to your payout with Stripe.
+当社は Stripe を使用して支援対象開発者アカウントに支払いを行います。 [Stripe 受領者契約](https://stripe.com/connect-account/legal/recipient)は、お客様のかかる支払いの受領に適用されます。 GitHub スポンサーからの支払いを受け取るには、お客様は、お客様およびお客様のビジネスに関する正確かつ完全が情報を提供し、GitHub がこの情報および Stripe により提供される支払処理サービスのお客様の使用に関する処理情報を共有することを許可する必要があります。
 
-[4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+[4.表明と保証、責任の制限、補償](#4-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [4.1. By Sponsored Developer.](#41-by-sponsored-developer) ###
+### [4.1. 支援対象開発者による。](#41-by-sponsored-developer) ###
 
-Sponsored Developer represents and warrants that:
+支援対象開発者は、以下のことを表明し、保証するものとします。
 
-* You have the authority to enter into and fully perform these Additional Terms;
+* この追加条件を受諾し完全履行するための権限を有していること
 
-* Your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
+* この追加条件の受諾と履行がお客様と第三者の間の他の契約または義務に違反しないこと
 
-* Sponsored Developer Content does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property;
+* 支援対象開発者が、第三者の著作権、商標、特許、職業上の秘密、著作者人格権、プライバシー権、肖像権、その他の知的財産権を含む、第三者の権利を侵害、違反、不正利用していないこと
 
-* You will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
+* お客様がすべての法令および規制を遵守し、支援対象開発者のコンテンツが違法性がなく、すべての法令および規制に違反していないこと
 
-### [4.2. Disclaimer of Warranties; Limitation of Liability; Indemnification.](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
+### [4.2. 保証の否認、責任制限、補償。](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
-YOU EXPLICITLY AGREE THAT SECTIONS O (DISCLAIMER OF WARRANTIES), P (LIMITATION OF LIABILITY), AND Q (RELEASE AND INDEMNIFICATION) OF THE AGREEMENT APPLY TO THESE ADDITIONAL TERMS.
+お客様は、契約の条項 O (保証の否認)、P (責任の制限)、および Q (免責と補償) がこの追加条件に適用されることに明示して同意するものとします。
 
-[5. Term and Termination.](#5-term-and-termination)
+[5. 契約期間と契約解除。](#5-term-and-termination)
 ----------
 
-### [5.1. Term.](#51-term) ###
+### [5.1. 期間。](#51-term) ###
 
-These Additional Terms commence on the Effective Date and remain in effect as long as you participate in the Program.
+この追加条件は、発効日に開始し、お客様がプログラムに参加している限り有効です。
 
-### [5.2. Suspension.](#52-suspension) ###
+### [5.2. 一時停止。](#52-suspension) ###
 
-GitHub may suspend your Sponsored Developer Account immediately if you violate these Additional Terms or the Agreement in any way, or if you are placed on a restricted trade list or located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC). Failure to correct or cure the cause for suspension may result in the termination of your Sponsored Developer Account.
+GitHub は、お客様がこの追加条件または契約に違反した場合、制限貿易リストに記載されたり、米国外国資産管理局 (OFAC) が管理する包括的な制裁の対象となる国または地域に所在しているか、または通常居住している場合、お客様の支援対象開発者アカウントを直ちに停止することができます。 停止の原因を修正または是正できない場合、お客様の支援対象開発者アカウントが終了する場合があります。
 
-### [5.3. Termination.](#53-termination) ###
+### [5.3. 契約解除。](#53-termination) ###
 
-Either party may terminate these Additional Terms and your Sponsored Developer Account at any time with or without cause, with or without notice. If you breach these Additional Terms or the Agreement, we may, but are not obligated to, offer you a period of time to cure the breach.
+いずれの当事者も、この追加条件およびお客様の支援対象開発者アカウントを、理由または通知の有無にかかわらず、いつでも終了することができます。 お客様がこの追加条件に違反した場合、当社は、違反是正期間を提示することができますが、義務付けられていません。
 
-### [5.4. Effect of Termination.](#54-effect-of-termination) ###
+### [5.4. 契約解除の効果](#54-effect-of-termination) ###
 
-If either Party terminates under Section 5.3, GitHub’s sole obligation will be to pay Sponsored Developer the amount of the Sponsored Developer Payment accrued up until the date of termination, unless such payments are prohibited by law.
+いずれかの当事者が第 5.3 条に基づき契約終了する場合、GitHub の唯一の義務は、終了日までに生じた支援対象開発者の支払いの金額を、かかる支払いが法令により禁止される場合を除き、支援対象開発者に支払うことです。
 
-[Terms for Sponsors](#terms-for-sponsors)
+[スポンサーの条件](#スポンサーの条件)
 ==========
 
-[1. Sponsors Program.](#1-sponsors-program)
+[1.Sponsors プログラム](#1-sponsors-program)
 ----------
 
-### [1.1 Description.](#11-description) ###
+### [1.1 説明。](#11-description) ###
 
-GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
+GitHub は、[GitHub スポンサーの探索](https://github.com/sponsors/explore)で投資を利用できるスポンサーの依存関係に 基づいてプロジェクトを識別します。スポンサーは、スポンサーとなるプロジェクトとそのスポンサーの金額を含め、独自の裁量でプロジェクトに投資するものとします。
 
-### [1.2 Invoice creation.](#12-invoice-creation) ###
+### [1.2 請求書の作成](#12-invoice-creation) ###
 
-GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses.
+GitHubは、スポンサーが選択したプロジェクトに投資するための資金をアカウント残高に追加するための請求書を作成する機能を提供します。
 
-### [1.3 Dashboard.](#13-dashboard) ###
+### [1.3 ダッシュボード。](#13-dashboard) ###
 
-GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance.
+GitHubはスポンサーにダッシュボードを提供し、スポンサーの合計金額と残高を表示します。
 
-### [1.4 Feedback.](#14-feedback) ###
+### [1.4 フィードバック。](#14-feedback) ###
 
-Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose.
+スポンサーは、プログラムに関するフィードバックを GitHub に提供することができます。 フィードバックは任意であり、そのように指定されていても、スポンサーの秘密情報ではありません。 GitHub は、このようなフィードバックをあらゆる目的のために完全に行使し、利用することができます。
 
-[2. Payment.](#2-payment)
+[2. 支払い。](#2-payment)
 ----------
 
-### [2.1 Payment.](#21-payment) ###
+### [2.1 支払い。](#21-payment) ###
 
-Sponsor may create an invoice to add funds to their account balance for the purpose of investing in Projects. GitHub will issue an invoice to Sponsor upon completion of the invoice creation form. Sponsor will pay the Fees set forth in each invoice in full, without deduction or set-off of any kind, within thirty (30) days of the GitHub invoice date. Amounts reflected on each Invoice and which are payable under this Agreement are non-refundable.
+スポンサーは、プロジェクトに投資する目的で口座残高に資金を追加する請求書を作成することができます。 GitHubは、請求書作成フォームの入力完了後、スポンサーに請求書を発行します。 スポンサーは、各請求書に記載された料金を、GitHubからの請求日から30日以内に、一切の控除または相殺をすることなく、全額支払うものとします。 各請求書に記載され、本契約に基づいて支払われる金額は返金されません。
 
-### [2.2 Fees.](#22-fees) ###
+### [2.2 料金。](#22-fees) ###
 
-An additional service fee (“Service Fee”) of 3% per transaction will be deducted from Sponsor’s account to cover GitHub’s administrative costs associated with offering the Program. If payment is made via credit card, an additional 3% fee will be applied.
+本プログラムの提供に関するGitHubの管理費用として、1取引につき3%のサービス料（以下「サービス料」）がスポンサーアカウントから差し引かれます。 クレジットカードでのお支払いの場合、別途3％の手数料がかかります。
 
-### [2.3 Taxes.](#23-taxes) ###
+### [2.3 税金。](#23-taxes) ###
 
-Sponsor is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+スポンサーは、本契約に関連して課せられる、または支払われるべきすべての税金、料金、関税、および政府による評価 (GitHub の純利益に基づく税金を除く) について単独で責任を負います。
 
-[3. Term and Termination.](#3-term-and-termination)
+[3. 契約の期間および終了。](#3-term-and-termination)
 ----------
 
-### [3.1 Term.](#31-term) ###
+### [3.1 用語。](#31-term) ###
 
-This Agreement is effective for a period of one year commencing on the Effective Date, unless terminated earlier, as set forth below. Unless terminated as set forth herein, this Agreement will automatically renew for additional annual terms.
+本契約は、以下に定めるとおり、早期に終了しない限り、発効日から1年間有効です。 本契約に規定されたとおりに終了しない限り、本契約は自動的に更新され、さらに年間契約期間が延長されます。
 
-### [3.2 Termination.](#32-termination) ###
+### [3.2 終了。](#32-termination) ###
 
-If there is no active invoice pending, either party may terminate this Agreement on thirty (30) days’ prior written notice.
+保留中の有効な請求書がない場合、いずれかの当事者は、30 日前の書面による通知により、本契約を終了することができます。
 
-[4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
+[4. 免責事項責任の制限。](#4-disclaimer-limitation-of-liability)
 ----------
 
-### [4.1 Disclaimer.](#41-disclaimer) ###
+### [4.1 免責事項](#41-disclaimer) ###
 
-GitHub provides the Sponsor Program “AS IS” and “AS AVAILABLE,” and GitHub expressly disclaims all warranties, whether express, implied or statutory, regarding the Service, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, title, security, accuracy or non-infringement.
+GitHubは、スポンサープログラムを「現状のまま」「利用可能な状態で」提供し、GitHubは、明示的、黙示的、法定的を問わず、商品性、特定目的への適合性、権原、安全性、正確性、非侵害の黙示的保証など、サービスに関する全ての保証を明示的に否認します。
 
-### [4.2 Limitation of Liability.](#42-limitation-of-liability) ###
+### [4.2. 責任の制限。](#42-limitation-of-liability) ###
 
-#### [4.2.1 Exclusion of Indirect Damages.](#421-exclusion-of-indirect-damages) ####
+#### [4.2.1 間接損害の除外。](#421-exclusion-of-indirect-damages) ####
 
-To the maximum extent permitted by applicable law, in no event will either party be liable to the other party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.
+原因の如何に関わらず、かかる義務が契約、保証、不法行為 (過失を含む)、厳格責任などに基づく請求から生じるあらゆる請求に起因するか、また当事者がかかる損害の可能性について当事者が知らされていたかを問わず、間接的、特別的、偶発的、懲罰的または派生的損害 (利益、収益またはデータの損失を含む)、または本契約に起因または関連して発生する代替製品の取得費用について、いずれの当事者も、相手方当事者に対して、適用される法令によって許される最大限の範囲で、いかなる場合においても責任を負わないものとします。
 
-#### [4.2.2 Limitation of Total Liability.](#422-limitation-of-total-liability) ####
+#### [4.2.2 総責任額の制限。](#422-limitation-of-total-liability) ####
 
-To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Sponsor has actually paid to GitHub during the twelve month period immediately preceding the event triggering potential liability.
+適用される法律が許容する最大限の範囲において、いかなる場合においても、本規約に基づく両当事者の全ての訴因及び全ての責任理論に基づく累積責任の総額は、潜在的な責任の引き金となる事象の直前の12ヶ月間にスポンサーがGitHubに実際に支払った料金を超えないものとします。
 
-[General Program Terms (apply to both Sponsors and Sponsored Developers)](#general-program-terms-apply-to-both-sponsors-and-sponsored-developers)
+[一般プログラム規約 (スポンサーとスポンサー開発者の両方に適用されます)](#一般プログラム規約-スポンサーとスポンサー開発者の両方に適用されます)
 ==========
 
-[A. Confidentiality.](#a-confidentiality)
+[A. 秘密保持。](#a-confidentiality)
 ----------
 
-The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement. Each party agrees to maintain in confidence and protect the other party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each party will take all reasonable precautions to prevent any unauthorized disclosure of the other party's Confidential Information and will only disclose such Confidential Information to its employees, officers, directors, agents, independent contractors, consultants, and legal and financial advisors (“**representatives**”) who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section, and (iii) are informed of the restrictions on use and disclosure set forth in this Section. Each party is responsible for all acts and omissions of its representatives. The foregoing obligations will not restrict the receiving party from disclosing the other party’s Confidential Information pursuant to an order or requirement of a court, administrative agency, or other governmental body, provided that the receiving party gives reasonable notice to the disclosing party to enable such party to contest such order or requirement, unless such notice is prohibited by law.
+本契約の条件は、両当事者の秘密情報です。 いずれの当事者も、本契約で許可されている場合を除き、本契約に基づき相手方当事者から提供された秘密情報を使用しません。 各当事者は、同様の性質の自身の情報に使用するのと少なくとも同じ程度の注意、ただしいかなる場合も少なくとも合理的な程度の注意を払って、他方当事者の秘密情報を秘密に保ち、保護することに同意するものとします。 各当事者は、相手側当事者の秘密情報の不正開示を防ぐためにあらゆる合理的な予防措置を講じ、かかる秘密情報を開示するのは、(i) かかる情報を知る必要があり、(ii) 本条項を遵守するのに十分な適切な契約の当事者であり、(iii) 本条項に定める使用および開示の制限について知らされている、その従業員、役員、取締役、代理人、独立請負業者、コンサルタント、および法務・財務アドバイザー (以下、「**代表者**」) に限られます。 各当事者は、その担当者によるすべての作為および不作為についての責任を負うものとします。 上記の義務は、受領当事者が裁判所、行政機関、またはその他の政府機関の命令または要件に従って相手方当事者の秘密情報を開示することを制限するものではありません。ただし、受領当事者が開示当事者に対して、かかる命令または要件に異議を唱えることができるよう、合理的な通知を行うことが条件となります。かかる通知が法律で禁止されている場合を除きます。
 
-[B. Publicity.](#b-publicity)
+[B. パブリシティ。](#b-publicity)
 ----------
 
-GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor’s (with Sponsor’s permission) or Sponsored Developer’s participation in the Program. Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor’s logo, name or names under this Agreement.
+GitHubは、スポンサー（スポンサーの許可を得て）またはスポンサー開発者のプログラム参加に関連するプレスリリース、ブログ投稿、ソーシャルメディアへの投稿、および/またはその他の公的コミュニケーションを発行する場合があります。 このような使用に必要な場合を除き、ギットハブは、本契約に基づき、当該スポンサーのロゴ、名称、または名前を使用、参照する権利、または利権を取得することはありません。
 
-[C. Notices.](#c-notices)
+[C: 注意/特記事項。](#c-notices)
 ----------
 
-Notices or communications under this Agreement will be made in writing (email to suffice) to the individual identified on the applicable account. Notices will be deemed received one (1) business day after delivery, if sent by email, and three (3) business days after delivery, if sent via registered mail.
+本契約に基づく通知や連絡は、書面（電子メールで十分）で、該当するアカウントに記載された個人に対して行われます。 通知は、電子メールの場合は到達の1営業日後、書留郵便の場合は到達の3営業日後に到達したものとみなします。
 
-[D. Governing Law.](#d-governing-law)
+[D. 準拠法。](#d-governing-law)
 ----------
 
-This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California.
+本契約はカリフォルニア州法に準拠し、同法に従って解釈され、抵触法の原則に影響を与えることなく、本契約に基づいて生じる法的措置または手続きは、カリフォルニア州北部地区に所在する連邦裁判所または州裁判所にのみ提起されます。両当事者は、対人裁判管轄地およびその中の裁判地に同意するものとします。
 
-[E. Assignment.](#e-assignment)
+[E. 割り当て。](#e-assignment)
 ----------
 
-Neither party may assign or otherwise transfer this Agreement, in whole or in part, without the other party's prior written consent (not to be unreasonably withheld or delayed), and any attempt to do so will be null and void.
+いずれの当事者も、相手側当事者の書面による事前の同意（不当に留保または遅延されないものとします）がない限り、本契約の全部または一部を譲渡またはその他の方法で移転することはできず、そのような試みは無効となります。
 
-[F. Severability.](#f-severability)
+[F. 可分性](#f-severability)
 ----------
 
-If any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable, the parties will modify this Agreement to give effect to such provision and the remaining provisions will continue in full force and effect.
+本契約のいずれかの条項が管轄裁判所によって執行不能と判断された場合、当事者は当該条項を有効にするために本契約を修正し、残りの条項は完全な効力を継続するものとします。
 
-[G. Entire Agreement.](#g-entire-agreement)
+[G. 完全合意。](#g-entire-agreement)
 ----------
 
-This Agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, between the parties, regarding such subject matter. This Agreement may only be amended by a writing signed by both parties that references this Agreement.
+本契約は、その主題に関する当事者間の完全な合意を構成し、かかる主題に関する当事者間の書面または口頭の如何を問わず、従前および同時期のすべての合意および了解に優先します。 本契約は、両当事者が署名し、本契約を参照する書面によってのみ修正することができます。
 
-[H. Changes to the Terms.](#h-changes-to-the-terms)
+[H. 条件の変更。](#h-changes-to-the-terms)
 ----------
 
-We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our Site Policy repository.
+当社は、独自の裁量で、この追加条件をいつでも変更する権利を留保します。 当社は、価格の変更など、この追加条件の重大な変更について、変更が有効になる少なくとも 30 日前に当社の Web サイトに通知を掲載します。 プログラムへの継続参加は、本追加条件の改訂に同意したものと見なされます。 お客様は、当社のサイト ポリシー リポジトリで本条件に対するすべての変更を確認できます。
 
 {"resolvedServerColorMode":"day"}

@@ -1,30 +1,30 @@
-Privacy Policies - GitHub Docs
+隐私政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Privacy Policies](/zh/site-policy/privacy-policies)
+* [站点政策](/zh/site-policy)/
+* [隐私政策](/zh/site-policy/privacy-policies)
 
-Privacy Policies
+隐私政策
 ==========
 
-[GitHub General Privacy Statement](/zh/site-policy/privacy-policies/github-general-privacy-statement)
+[GitHub 一般隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
-[GitHub Subprocessors](/zh/site-policy/privacy-policies/github-subprocessors)
+[GitHub 次级处理者](/zh/site-policy/privacy-policies/github-subprocessors)
 ----------
 
-[GitHub Cookies](/zh/site-policy/privacy-policies/github-cookies)
+[GitHub Cookie](/zh/site-policy/privacy-policies/github-cookies)
 ----------
 
-[GitHub Codespaces Privacy Statement](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
+[GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[GitHub Candidate Privacy Policy](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

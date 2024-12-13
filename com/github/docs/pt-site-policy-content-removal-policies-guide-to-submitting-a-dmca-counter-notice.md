@@ -1,79 +1,79 @@
-Guide to Submitting a DMCA Counter Notice - GitHub Docs
+Guia para enviar uma contranotificação da DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Content Removal Policies](/pt/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Counter Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+* [Política do site](/pt/site-policy)/
+* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)/
+* [Guia para enviar uma contranotificação da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-Guide to Submitting a DMCA Counter Notice
+Guia para enviar uma contranotificação da DMCA
 ==========
 
-In this article
+Neste artigo
 ----------
 
-* [Before You Start](#before-you-start)
-* [Your Counter Notice Must...](#your-counter-notice-must)
-* [How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
+* [Antes que você comece](#before-you-start)
+* [Sua Contra Notificação Deve...](#your-counter-notice-must)
+* [Como enviar sua contranotificação](#how-to-submit-your-counter-notice)
 
-This guide describes the information that GitHub needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy).
+Este guia descreve as informações que o GitHub precisa para processar uma contranotificação para uma solicitação de remoção de DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy).
 
-If you believe your content on GitHub was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice. If you do, we will wait 10-14 days and then re-enable your content unless the copyright owner initiates a legal action against you before then. Our counter-notice form, set forth below, is consistent with the form suggested by the DMCA statute, which can be found at the U.S. Copyright Office's official website: <https://www.copyright.gov>.
+Se você acredita que seu conteúdo no GitHub foi desativado por engano por uma solicitação de remoção da DMCA, você tem o direito de contestar a remoção enviando uma contranotificação. Se o fizer, aguardaremos de 10 a 14 dias e, em seguida, reativaremos seu conteúdo, a menos que o proprietário dos direitos autorais inicie uma ação legal contra você antes disso. Nosso formulário de contranotificação apresentado abaixo é consistente com o formulário sugerido pelo estatuto da DMCA, que pode ser encontrado no site oficial do US Copyright Office: <https://www.copyright.gov>.
 
-As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
+Como em todas as questões jurídicas, é sempre melhor consultar um profissional sobre suas dúvidas ou situações específicas. Nós encorajamos você a fazê-lo antes de tomar qualquer ação que possa afetar seus direitos. Este guia não é aconselhamento jurídico e não deve ser considerado como tal.
 
-[Before You Start](#before-you-start)
+[Antes que você comece](#before-you-start)
 ----------
 
-***Tell the Truth.*** The DMCA requires that you swear to your counter notice *under penalty of perjury*. It is a federal crime to intentionally lie in a sworn declaration. (*See* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) Submitting false information could also result in civil liability—that is, you could get sued for money damages.
+***Diga a verdade.*** A DMCA exige que você faça um juramento em relação à sua contranotificação *sob pena de perjúrio*. É um crime federal mentir intencionalmente em uma declaração juramentada. (*Consulte o* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode ocasionar responsabilidade civil, ou seja, você pode ser processado por danos financeiros.
 
-***Investigate.*** Submitting a DMCA counter notice can have real legal consequences. If the complaining party disagrees that their takedown notice was mistaken, they might decide to file a lawsuit against you to keep the content disabled. You should conduct a thorough investigation into the allegations made in the takedown notice and probably talk to a lawyer before submitting a counter notice.
+***Investigar.*** O envio de uma contranotificação DMCA pode ter consequências legais reais. Se a parte reclamante discordar de que o aviso de remoção foi incorreto, ela poderá decidir entrar com uma ação judicial contra você para manter o conteúdo desativado. Você deve conduzir uma investigação completa sobre as alegações feitas na notificação de remoção e provavelmente conversar com um advogado antes de enviar uma contranotificação.
 
-***You Must Have a Good Reason to Submit a Counter Notice.*** In order to file a counter notice, you must have "a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled." ([U.S. Code, Title 17, Section 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) Whether you decide to explain why you believe there was a mistake is up to you and your lawyer, but you *do* need to identify a mistake before you submit a counter notice. In the past, we have received counter notices citing mistakes in the takedown notice such as: the complaining party doesn't have the copyright; I have a license; the code has been released under an open-source license that permits my use; or the complaint doesn't account for the fact that my use is protected by the fair-use doctrine. Of course, there could be other defects with the takedown notice.
+***Você deve ter um bom motivo para enviar uma contranotificação.*** Para registrar uma contranotificação, você deve ter "uma crença de boa fé de que o material foi removido ou desativado como resultado de um erro ou identificação incorreta do material a ser removido ou desativado". ([Código dos EUA, Título 17, Seção 512(g)](https://www.copyright.gov/title17/92chap5.html#512).) Decidir explicar por que acredita que houve um erro cabe a você e ao seu advogado, mas você *precisa* identificar um erro antes de enviar uma contranotificação. No passado, recebemos contranotificações citando erros na notificação de remoção, como: a parte reclamante não possui os direitos autorais; eu tenho uma licença; o código foi lançado sob uma licença de código aberto que permite o uso; ou a reclamação não leva em conta o fato de que o uso é protegido pela doutrina do uso justo. Claro, pode haver outros defeitos com o aviso de remoção.
 
-***Copyright Laws Are Complicated.*** Sometimes a takedown notice might allege infringement in a way that seems odd or indirect. Copyright laws are complicated and can lead to some unexpected results. In some cases a takedown notice might allege that your source code infringes because of what it can do after it is compiled and run. For example:
+***As leis de direitos autorais são complicadas.*** Às vezes, um aviso de remoção pode alegar violação de uma maneira que parece estranha ou indireta. As leis de direitos autorais são complicadas e podem levar a alguns resultados inesperados. Em alguns casos, um aviso de remoção pode alegar que seu código-fonte é infringido devido ao que ele pode fazer depois de compilado e executado. Por exemplo:
 
-* The notice may claim that your software is used to [circumvent access controls](https://www.copyright.gov/title17/92chap12.html) to copyrighted works.
-* [Sometimes](https://www.copyright.gov/docs/mgm/) distributing software can be copyright infringement, if you induce end users to use the software to infringe copyrighted works.
-* A copyright complaint might also be based on [non-literal copying](https://en.wikipedia.org/wiki/Substantial_similarity) of design elements in the software, rather than the source code itself — in other words, someone has sent a notice saying they think your *design* looks too similar to theirs.
+* A notificação pode alegar que seu software é usado para [burlar controles de acesso](https://www.copyright.gov/title17/92chap12.html) a obras protegidas por direitos autorais.
+* [Às vezes](https://www.copyright.gov/docs/mgm/) distribuir software poderá constituir uma violação de direitos autorais, se você induzir os usuários finais a usar o software para violar obras protegidas por direitos autorais.
+* Uma reclamação de direitos autorais também pode se basear em [cópia não literal](https://en.wikipedia.org/wiki/Substantial_similarity) de elementos de design do software e não no próprio código-fonte. Em outras palavras, alguém enviou uma notificação dizendo que acha que seu *projeto* se parece muito com o dele.
 
-These are just a few examples of the complexities of copyright law. Since there are many nuances to the law and some unsettled questions in these types of cases, it is especially important to get professional advice if the infringement allegations do not seem straightforward.
+Estes são apenas alguns exemplos das complexidades da lei de direitos autorais. Como há muitas nuances na lei e algumas questões não resolvidas nesses tipos de casos, é especialmente importante obter aconselhamento profissional se as alegações de violação não parecerem diretas.
 
-***A Counter Notice Is A Legal Statement.*** We require you to fill out all fields of a counter notice completely, because a counter notice is a legal statement — not just to us, but to the complaining party. As we mentioned above, if the complaining party wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain you from engaging in infringing activity relating to the content on GitHub. In other words, you might get sued (and you consent to that in the counter notice).
+***Uma contranotificação é uma declaração legal.*** Exigimos que você preencha todos os campos de uma contranotificação completamente, porque uma contranotificação é uma declaração legal – não apenas para nós, mas para a parte reclamante. Como mencionamos acima, se a parte reclamante desejar manter o conteúdo desativado após receber uma contranotificação, ela precisará iniciar uma ação judicial buscando uma ordem judicial para impedir que você se envolva em atividades infratoras relacionadas ao conteúdo no GitHub. Em outras palavras, você pode ser processado (e você concorda com isso no contra-aviso).
 
-***Your Counter Notice Will Be Published.*** As noted in our [DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), **after redacting personal information,** we publish all complete and actionable counter notices at <https://github.com/github/dmca>. Please also note that, although we will only publicly publish redacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it. If you are concerned about your privacy, you may have a lawyer or other legal representative file the counter notice on your behalf.
+***Sua contranotificação será publicada.*** Conforme observado em nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), **depois de editar as informações pessoais,** publicamos todas as contranotificações completas e acionáveis em <https://github.com/github/dmca>. Observe também que, embora publiquemos publicamente apenas avisos editados, podemos fornecer uma cópia completa não editada de quaisquer avisos que recebermos diretamente a qualquer parte cujos direitos sejam afetados por eles. Se estiver preocupado com sua privacidade, você pode pedir a um advogado ou outro representante legal que registre a contranotificação em seu nome.
 
-***GitHub Isn't The Judge.*** GitHub exercises little discretion in this process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
+***O GitHub não é o juiz.*** O GitHub exerce pouca discrição nesse processo além de determinar se os avisos atendem aos requisitos mínimos da DMCA. Cabe às partes (e seus advogados) avaliar o mérito de suas reivindicações, lembrando que as notificações devem ser feitas sob pena de perjúrio.
 
-***Additional Resources.*** If you need additional help, there are many self-help resources online. Lumen has an informative set of guides on [copyright](https://www.lumendatabase.org/topics/5) and [DMCA safe harbor](https://www.lumendatabase.org/topics/14). If you are involved with an open-source project in need of legal advice, you can contact the [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). And if you think you have a particularly challenging case, non-profit organizations such as the [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) may also be willing to help directly or refer you to a lawyer.
+***Recursos adicionais.*** Se precisar de ajuda adicional, há muitos recursos de autoajuda online. A Lumen tem um conjunto informativo de guias sobre [direito autoral](https://www.lumendatabase.org/topics/5) e [Porto seguro da DMCA](https://www.lumendatabase.org/topics/14). Se você estiver envolvido com um projeto de código aberto que precise de aconselhamento jurídico, você pode entrar em contato com a [Software Freedom Law Center](https://www.softwarefreedom.org/about/contact/). E se você acha que tem um caso particularmente desafiador, organizações sem fins lucrativos como a [Electronic Frontier Foundation](https://www.eff.org/pages/legal-assistance) também podem ajudar diretamente ou encaminhar você a um advogado.
 
-[Your Counter Notice Must...](#your-counter-notice-must)
+[Sua Contra Notificação Deve...](#your-counter-notice-must)
 ----------
 
-1. **Include the following statement: "I have read and understand GitHub's Guide to Filing a DMCA Counter Notice."**We won't refuse to process an otherwise complete counter notice if you don't include this statement; however, we will know that you haven't read these guidelines and may ask you to go back and do so.
+1. **Incluir a seguinte declaração: “Li e entendi o Guia do GitHub para Protocolar uma Contranotificação da DMCA.”**Não nos recusaremos a processar uma contranotificação completa se você não incluir esta declaração; no entanto, saberemos que você não leu essas diretrizes e podemos solicitar que você volte e faça isso.
 
-2. ***Identify the content that was disabled and the location where it appeared.*** The disabled content should have been identified by URL in the takedown notice. You simply need to copy the URL(s) that you want to challenge.
+2. ***Identificar o conteúdo que foi desativado e o local onde ele apareceu.*** O conteúdo desativado deveria ter sido identificado por URL no aviso de remoção. Você só precisa copiar os URLs que deseja desafiar.
 
-3. **Provide your contact information.**Include your email address, name, telephone number, and physical address.
+3. **Fornecer suas informações de contato.**Inclua seu endereço de e-mail, nome, número de telefone e endereço físico.
 
-4. ***Include the following statement: "I swear, under penalty of perjury, that I have a good-faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."*** You may also choose to communicate the reasons why you believe there was a mistake or misidentification. If you think of your counter notice as a "note" to the complaining party, this is a chance to explain why they should not take the next step and file a lawsuit in response. This is yet another reason to work with a lawyer when submitting a counter notice.
+4. ***Incluir a seguinte declaração: “Juro, sob pena de perjúrio, que tenho uma crença de boa-fé de que o material foi removido ou desativado como resultado de um erro ou identificação incorreta do material a ser removido ou desativado.”*** Você também pode optar por comunicar os motivos pelos quais acredita que houve um erro ou identificação incorreta. Se você pensar em sua contranotificação como uma "nota" para a parte reclamante, esta é uma chance de explicar por que ela não deve dar o próximo passo e entrar com uma ação judicial em resposta. Este é mais um motivo para trabalhar com um advogado ao enviar uma contranotificação.
 
-5. ***Include the following statement: "I consent to the jurisdiction of Federal District Court for the judicial district in which my address is located (if in the United States, otherwise the Northern District of California where GitHub is located), and I will accept service of process from the person who provided the DMCA notification or an agent of such person."***
+5. ***Incluir a seguinte declaração: “Concordo com a jurisdição do Tribunal Distrital Federal para o distrito judicial em que meu endereço está localizado (se nos Estados Unidos, caso contrário, o Distrito Norte da Califórnia, onde o GitHub está localizado), e aceitarei a citação da pessoa que forneceu a notificação da DMCA ou um agente dessa pessoa.”***
 
-6. **Include your physical or electronic signature.**
+6. **Incluir sua assinatura física ou eletrônica.**
 
-[How to Submit Your Counter Notice](#how-to-submit-your-counter-notice)
+[Como enviar sua contranotificação](#how-to-submit-your-counter-notice)
 ----------
 
-The fastest way to get a response is to enter your information and answer all the questions on our [Copyright claims form](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de declarações de direitos autorais](https://github.com/contact/dmca).
 
-You can also send an email notification to [copyright@github.com](mailto:copyright@github.com). You may include an attachment if you like, but please also include a plain-text version of your letter in the body of your message.
+Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo de sua mensagem.
 
-If you must send your notice by physical mail, you can do that too, but it will take *substantially* longer for us to receive and respond to it—and the 10-14 day waiting period starts from when we *receive* your counter notice. Notices we receive via plain-text email have a much faster turnaround than PDF attachments or physical mail. If you still wish to mail us your notice, our physical address is:
+Se você precisar enviar sua notificação pelos correios, também poderá fazê-lo, mas levará *substancialmente* mais tempo para recebermos e respondermos à notificação, e o período de espera de 10 a 14 dias começa a partir do momento em que *recebemos* sua contranotificação. Os avisos que recebemos por e-mail em texto simples têm uma resposta muito mais rápida do que anexos em PDF ou correio físico. Se você ainda deseja nos enviar seu aviso, nosso endereço físico é:
 
 ```
 GitHub, Inc

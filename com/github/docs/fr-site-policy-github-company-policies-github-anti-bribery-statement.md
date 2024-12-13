@@ -1,89 +1,89 @@
-GitHub Anti-Bribery Statement - GitHub Docs
+Déclaration anti-corruption GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/fr)
+[Accueil](/fr)
 
 [Site policy](/fr/site-policy)
 
-* [Site policy](/fr/site-policy)/
-* [GitHub Company Policies](/fr/site-policy/github-company-policies)/
-* [GitHub Anti-Bribery Statement](/fr/site-policy/github-company-policies/github-anti-bribery-statement)
+* [Politique du site](/fr/site-policy)/
+* [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)/
+* [Déclaration anti-corruption GitHub](/fr/site-policy/github-company-policies/github-anti-bribery-statement)
 
-GitHub Anti-Bribery Statement
+Déclaration anti-corruption GitHub
 ==========
 
-In this article
+Dans cet article
 ----------
 
-* [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
-* [Training for our employees](#training-for-our-employees)
-* [Engaging our Partners](#engaging-our-partners)
+* [Politiques GitHub interdisant la corruption](#github-policies-prohibiting-bribery)
+* [Formation pour nos employés](#training-for-our-employees)
+* [Engager nos partenaires](#engaging-our-partners)
 
-GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
+GitHub respecte notre engagement envers des pratiques commerciales éthiques, notamment en interdisant les pots-de-vin et la corruption. Comme l'explique [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption), les coûts de la corruption sont :
 
-* **political**, by posing a major obstacle to democracy and the rule of law
-* **economic**, by depleting national wealth
-* **social**, by undermining people’s trust in political society, institutions, and leaders
-* **environmental**, by facilitating non-enforcement of environmental laws and regulations.
+* **politiques**, en posant un obstacle majeur à la démocratie et à l'État de droit ;
+* **économiques**, en épuisant la richesse nationale ;
+* **sociaux**, en sapant la confiance des gens dans la société politique, les institutions et les dirigeants ; et
+* **environnementaux**, en facilitant la non-application des lois et réglementations environnementales.
 
-According to the [World Bank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
+Selon la [Banque mondiale](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) en 2017, les entreprises et les particuliers versent chaque année environ 1,5 milliard USD en pots-de-vin.
 
-[GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
+[Politiques GitHub interdisant la corruption](#github-policies-prohibiting-bribery)
 ----------
 
-GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
+GitHub rend notre engagement anti-corruption clair dans un certain nombre de politiques d'entreprise. En tant que membre de la famille Microsoft, GitHub s'engage également à respecter la politique anti-corruption de Microsoft, qui s'applique à tous les employés et sous-traitants de GitHub, en plus des politiques décrites ici.
 
-GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
-
->
->
-> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
->
->
-
-GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
-
-GitHub's Standards of Conduct prohibit:
+Le **Code de déontologie** de GitHub interdit aux employés et aux sous-traitants de se livrer à des pratiques de corruption ou d'y contribuer, et établit des exigences en matière de tenue de registres :
 
 >
 >
-> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+> Vous ne devez jamais payer, offrir de payer, promettre de payer, inciter, accepter ou autoriser le paiement de quoi que ce soit d'autre de valeur, à qui que ce soit - y compris à toute personne en position de pouvoir ou d'autorité, telle que des représentants du gouvernement, ou dans des transactions commerciales - afin d'obtenir ou de conserver des affaires, ou d'obtenir tout autre avantage indu pour GitHub ou Microsoft. Vous ne devez pas non plus solliciter ou accepter un pot-de-vin, un pot-de-vin ou tout autre paiement en espèces inapproprié. ... Les [employés de GitHub] sont tenus de tenir des registres précis de toutes les transactions impliquant des dépenses effectuées au nom de GitHub (par exemple, en conservant les reçus et en fournissant des descriptions précises de vos dépenses) ou de toute autre transaction impliquant la cession ou le transfert des actifs de GitHub. De telles actions sont requises par le US Foreign Corrupt Practices Act, le Royaume-Uni Bribery Act de 2010 et les lois anti-corruption d'autres juridictions dans lesquelles GitHub fait des affaires et sont tout simplement la bonne chose à faire.
 >
 >
 
-GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permitted in connection with travel or entertainment, and provides examples to illustrate improper conduct. The policy describes proper and improper gifts, travel, and entertainment expenses; company processes for gift-giving by GitHub’s directors, officers, employees, and agents and requirements for record-keeping, penalties; and reporting of violations. It includes clear monetary thresholds for gifts along with annual limitations, with limited exceptions for gifts approved by appropriate management. The policy is clear and easily accessible to GitHub employees and contractors.
+Le code d'éthique de GitHub détaille certaines situations, notamment les cadeaux, les voyages et les divertissements ; faciliter les paiements ; dons de bienfaisance ; emplois ; et travailler avec des représentants, ainsi que sur qui est considéré comme un fonctionnaire du gouvernement.
 
-[Training for our employees](#training-for-our-employees)
+Les normes de conduite de GitHub interdisent :
+
+>
+>
+> Soudoyer des représentants du gouvernement ou d'autres personnes pour obtenir un avantage injuste et accepter des pots-de-vin de n'importe qui.
+>
+>
+
+La **Politique en matière de cadeaux et de divertissements** de GitHub explique que la corruption n'est pas autorisée dans le cadre de voyages ou de divertissements, et fournit des exemples pour illustrer un comportement inapproprié. La politique décrit les cadeaux, les frais de voyage et de divertissement appropriés et inappropriés ; les processus de l'entreprise pour les cadeaux par les administrateurs, dirigeants, employés et agents de GitHub et les exigences en matière de tenue de registres, les sanctions ; et le signalement des infractions. Il comprend des seuils monétaires clairs pour les cadeaux ainsi que des limites annuelles, avec des exceptions limitées pour les cadeaux approuvés par la direction appropriée. La politique est claire et facilement accessible aux employés et sous-traitants de GitHub.
+
+[Formation pour nos employés](#training-for-our-employees)
 ----------
 
-GitHub employees are required to participate in training on corruption, including bribery. We also provide additional training for particularly relevant people and teams, such as our sales team. The training explains relevant elements of the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010. For example,
+Les employés de GitHub sont tenus de participer à une formation sur la corruption, y compris les pots-de-vin. Nous proposons également des formations supplémentaires pour les personnes et les équipes particulièrement concernées, telles que notre équipe de vente. La formation explique les éléments pertinents du US Foreign Corrupt Practices Act et du UK Bribery Act de 2010 au Royaume-Uni. Par exemple :
 
-* definition and structural effects of corruption
-* who is covered, including
-  * public officials or others in a position of power
-  * third parties
+* Définition et effets structurels de la corruption
+* Qui est couvert, y compris
+  * Agents publics ou autres personnes en position de pouvoir
+  * les tiers
 
-* what kind of activity is covered, including
-  * cash, gifts, travel, and entertainment
-  * facilitation payments
-  * charitable contributions and sponsorship
+* Quel type d'activité est couvert, y compris
+  * Espèces, cadeaux, voyages et divertissements
+  * Les paiements de facilitation
+  * Dons caritatifs et parrainage
 
-* for what purpose, including
-  * intent
-  * improper advantage or influence
+* Dans quel but, y compris
+  * intention
+  * Avantage ou influence indu
 
-* due diligence and red flags
-* record-keeping requirements
+* Diligence raisonnable et drapeaux rouges
+* Exigences en matière de tenue de dossiers
 
-In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
+En outre, la formation couvre les politiques internes de GitHub relatives à la lutte contre la corruption et les pots-de-vin, y compris notre politique de non-représailles (lanceur d'alerte).
 
-While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
+Alors que le US FCPA se concentre sur les interactions avec les représentants du gouvernement, le Royaume-Uni La loi sur la corruption est plus large et s'étend à la corruption de n'importe qui, qu'il s'agisse ou non d'un fonctionnaire. Les deux lois peuvent s'étendre aux actions de GitHub ailleurs dans le monde. Les politiques de GitHub interdisent de corrompre qui que ce soit, partout dans le monde.
 
-[Engaging our Partners](#engaging-our-partners)
+[Engager nos partenaires](#engaging-our-partners)
 ----------
 
-* GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
-* Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
+* Les accords de **revente standard de GitHub avec les Partenaires de Distribution** incluent des clauses anticorruption obligatoires. À l'avenir, GitHub exige désormais de nos partenaires de distribution qu'ils s'engagent à se conformer à cette déclaration anticorruption.
+* À l'avenir, les **contrats fournisseurs** de GitHub exigeront désormais un engagement à respecter le Code de Conduite des Fournisseurs de Microsoft ou la présente Déclaration anticorruption.
 
 {"resolvedServerColorMode":"day"}

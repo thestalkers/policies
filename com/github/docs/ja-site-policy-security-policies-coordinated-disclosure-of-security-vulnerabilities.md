@@ -1,25 +1,25 @@
-Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
+セキュリティ脆弱性の協調的開示 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ja)
+[ホーム](/ja)
 
 [Site policy](/ja/site-policy)
 
-* [Site policy](/ja/site-policy)/
-* [Security Policies](/ja/site-policy/security-policies)/
-* [Coordinated Disclosure of Security Vulnerabilities](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+* [サイト ポリシー](/ja/site-policy)/
+* [セキュリティ ポリシー](/ja/site-policy/security-policies)/
+* [セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-Coordinated Disclosure of Security Vulnerabilities
+セキュリティ脆弱性の協調的開示
 ==========
 
-We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
+私たちは、GitHub をすべての人にとって安全であるよう保ちたいと願っています。 GitHub でセキュリティ上の脆弱性を発見した場合は、協調的な方法で当社に開示するためのご協力をいただければ幸いです。
 
-[Bounty Program](#bounty-program)
+[報奨金プログラム](#bounty-program)
 ----------
 
-Like several other large software companies, GitHub provides a bug bounty to better engage with security researchers. The idea is simple: hackers and security researchers (like you) find and report vulnerabilities through our coordinated disclosure process. Then, to recognize the significant effort that these researchers often put forth when hunting down bugs, we reward them with some cold hard cash.
+セキュリティ リサーチャーと良好な関係を築くため、何社かのソフトウェア大企業と同様に、GitHub でもバグ報奨金を提供しています。 その考え方は単純であり、ハッカーや (あなたのような) セキュリティ リサーチャーが、協調的開示プロセスを通じて脆弱性を見つけて報告するというものです。 リサーチャーによるバグ ハンティングの取り組みを称えて、現金をお支払いします。
 
-Check out the [GitHub Bug Bounty](https://bounty.github.com) site for bounty details, review our comprehensive [Legal Safe Harbor Policy](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) terms as well, and happy hunting!
+報奨金の詳細については、[GitHub のバグ報奨金](https://bounty.github.com)のサイトをご覧ください。また、包括的な[法的免責事項ポリシー](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)の条項もご確認ください。それでは、バグ ハンティングをお楽しみください!
 
 {"resolvedServerColorMode":"day"}

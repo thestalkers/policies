@@ -1,36 +1,36 @@
-Other Site Policies - GitHub Docs
+Otras políticas del sitio - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 
-* [Site policy](/es/site-policy)/
-* [Other Site Policies](/es/site-policy/other-site-policies)
+* [Política del sitio](/es/site-policy)/
+* [Otras políticas del sitio](/es/site-policy/other-site-policies)
 
-Other Site Policies
+Otras políticas del sitio
 ==========
 
-[GitHub and Trade Controls](/es/site-policy/other-site-policies/github-and-trade-controls)
+[GitHub y controles comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
 ----------
 
-[GitHub Deceased User Policy](/es/site-policy/other-site-policies/github-deceased-user-policy)
+[Política de usuarios fallecidos de GitHub](/es/site-policy/other-site-policies/github-deceased-user-policy)
 ----------
 
-[GitHub Logo Policy](/es/site-policy/other-site-policies/github-logo-policy)
+[Política del logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
 ----------
 
-[GitHub Government Takedown Policy](/es/site-policy/other-site-policies/github-government-takedown-policy)
+[Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 ----------
 
-[GitHub Username Policy](/es/site-policy/other-site-policies/github-username-policy)
+[Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 ----------
 
-[Guidelines for Legal Requests of User Data](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+[Directrices para solicitudes legales de datos de usuario](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 ----------
 
-[GitHub Account Recovery Policy](/es/site-policy/other-site-policies/github-account-recovery-policy)
+[Directiva de recuperación de cuentas de GitHub](/es/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

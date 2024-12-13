@@ -1,46 +1,46 @@
-Submitting content removal requests - GitHub Docs
+Como enviar solicitações de remoção de conteúdo - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [Content Removal Policies](/pt/site-policy/content-removal-policies)/
-* [Submitting content removal requests](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
+* [Política do site](/pt/site-policy)/
+* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)/
+* [Como enviar solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
 
-Submitting content removal requests
+Como enviar solicitações de remoção de conteúdo
 ==========
 
-In this article
+Neste artigo
 ----------
 
-* [DMCA Takedown Policy](#dmca-takedown-policy)
-* [GitHub Trademark Policy](#github-trademark-policy)
-* [GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+* [Política de remoção de DMCA](#dmca-takedown-policy)
+* [Política de marca registrada do GitHub](#github-trademark-policy)
+* [Política de remoção de informações privadas do GitHub](#github-private-information-removal-policy)
 
-We understand that copyrighted, trademarked, or private content may get published on GitHub – either accidentally or on purpose – sometimes in repositories that you do not own. Because the nature of this content varies, and because of different applicable laws, each category has its own, distinct reporting requirements outlined in our policies.
+Entendemos que conteúdo protegido por direitos autorais, marca registrada ou privado pode ser publicado no GitHub – acidentalmente ou de propósito – às vezes em repositórios que você não possui. Como a natureza desse conteúdo varia e devido às diferentes leis aplicáveis, cada categoria tem seus próprios requisitos de relatórios distintos descritos em nossas políticas.
 
-If you'd like to request that content be removed from GitHub, please take some time to acquaint yourself with each of these policies and their respective reporting requirements before submitting a report. If we receive an incomplete report, we'll need to ask for clarifications or revisions and you’ll need to re-submit a revised report.
+Se você quiser solicitar que o conteúdo seja removido do GitHub, reserve um tempo para se familiarizar com cada uma dessas políticas e seus respectivos requisitos de relatório antes de enviar um relatório. Se recebermos um relatório incompleto, precisaremos solicitar esclarecimentos ou revisões e você precisará reenviar um relatório revisado.
 
-Please note that we're not able to help you determine which policy is appropriate for your specific situation. If you’ve reviewed the policies below and still have questions about whether or not content should be reported as copyright, trademark, or private information, we recommend consulting with independent legal counsel.
+Observe que não podemos ajudá-lo a determinar qual política é apropriada para sua situação específica. Se você revisou as políticas abaixo e ainda tem dúvidas sobre se o conteúdo deve ou não ser denunciado como copyright, marca registrada ou informação privada, recomendamos consultar um advogado independente.
 
-[DMCA Takedown Policy](#dmca-takedown-policy)
+[Política de remoção de DMCA](#dmca-takedown-policy)
 ----------
 
-The [DMCA Takedown Policy](/pt/site-policy/content-removal-policies/dmca-takedown-policy) can be used to report content that you believe infringes a copyright owned by you or your organization. Once you have reviewed the policy, you may also want to review our [Guide to Submitting a DMCA Takedown Notice](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) before submitting a report.
+A [Política de remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy) pode ser usada para denunciar conteúdo que você acredita que viola direitos autorais de sua propriedade ou de sua organização. Depois de analisar a política, você também pode analisar nosso [Guia para Enviar uma Notificação de Remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice) antes de enviar uma denúncia.
 
-[GitHub Trademark Policy](#github-trademark-policy)
+[Política de marca registrada do GitHub](#github-trademark-policy)
 ----------
 
-The [GitHub Trademark Policy](/pt/site-policy/content-removal-policies/github-trademark-policy) can be used to report content that appears to use your company or business name, logo, or other trademark-protected materials in a manner that may mislead or confuse others about brand or business affiliation.
+A [Política de marcas registradas do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy) pode ser usada para denunciar conteúdo que pareça usar sua empresa ou nome comercial, o logotipo ou outros materiais protegidos por marca de maneira que possa enganar ou confundir outras pessoas em relação à marca ou à afiliação comercial.
 
-[GitHub Private Information Removal Policy](#github-private-information-removal-policy)
+[Política de remoção de informações privadas do GitHub](#github-private-information-removal-policy)
 ----------
 
-The [GitHub Private Information Removal Policy](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) can be used to report data that is private (confidential and poses a security risk), but that is not necessarily protected by copyright or trademark.
+A [Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy) pode ser usada para denunciar dados privados (confidenciais e que representam um risco de segurança), mas que não são necessariamente protegidos por direitos autorais ou marcas.
 
-Users in India can [contact GitHub's Grievance Officer](https://support.github.com/contact/india-grievance-officer).
+Usuários na Índia podem [entrar em contato com o Oficial de Reclamações do GitHub](https://support.github.com/contact/india-grievance-officer).
 
 {"resolvedServerColorMode":"day"}

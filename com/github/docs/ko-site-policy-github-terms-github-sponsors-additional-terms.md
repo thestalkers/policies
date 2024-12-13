@@ -1,361 +1,361 @@
-GitHub Sponsors Additional Terms - GitHub Docs
+GitHub Sponsors 추가 약관 - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/ko)
+[홈](/ko)
 
 [Site policy](/ko/site-policy)
 
-* [Site policy](/ko/site-policy)/
-* [GitHub Terms](/ko/site-policy/github-terms)/
-* [GitHub Sponsors Additional Terms](/ko/site-policy/github-terms/github-sponsors-additional-terms)
+* [사이트 정책](/ko/site-policy)/
+* [GitHub 약관](/ko/site-policy/github-terms)/
+* [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 
-GitHub Sponsors Additional Terms
+GitHub Sponsors 추가 약관
 ==========
 
-In this article
+이 문서의 내용
 ----------
 
-* [1. Definitions.](#1-definitions)
-* [1. Acceptable Use.](#1-acceptable-use)
-* [2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
-* [3. Financial Terms.](#3-financial-terms)
-* [4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
-* [5. Term and Termination.](#5-term-and-termination)
-* [1. Sponsors Program.](#1-sponsors-program)
-* [2. Payment.](#2-payment)
-* [3. Term and Termination.](#3-term-and-termination)
-* [4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
-* [A. Confidentiality.](#a-confidentiality)
-* [B. Publicity.](#b-publicity)
-* [C. Notices.](#c-notices)
-* [D. Governing Law.](#d-governing-law)
-* [E. Assignment.](#e-assignment)
-* [F. Severability.](#f-severability)
-* [G. Entire Agreement.](#g-entire-agreement)
-* [H. Changes to the Terms.](#h-changes-to-the-terms)
+* [1. 정의.](#1-definitions)
+* [1. 사용 제한.](#1-acceptable-use)
+* [2. 후원 대상 개발자 의무.](#2-sponsored-developer-obligations)
+* [3. 재정적 약관.](#3-financial-terms)
+* [4. 진술 및 보증, 책임의 제한, 면책.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+* [5. 기간 및 해지](#5-term-and-termination)
+* [1. 스폰서 프로그램.](#1-sponsors-program)
+* [2. 지급.](#2-payment)
+* [3. 기간 및 해지.](#3-term-and-termination)
+* [4. 고지 사항; 책임의 제한.](#4-disclaimer-limitation-of-liability)
+* [A. 기밀성.](#a-confidentiality)
+* [B. 공개..](#b-publicity)
+* [C. 통지.](#c-notices)
+* [D. 준거법.](#d-governing-law)
+* [E. 할당.](#e-assignment)
+* [F. 분리 가능성.](#f-severability)
+* [G. 전면 합의.](#g-entire-agreement)
+* [H. 약관의 변경.](#h-changes-to-the-terms)
 
-Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/ko/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").
+GitHub 스폰서 프로그램("프로그램")에 참여하는 경우 [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)("계약") 또는 GitHub와 체결한 기타 계약(예: GitHub 고객 일반 약관, GitHub 회사 서비스 약관 또는 기타 계약)과 다음 추가 조건("추가 약관")이 적용됩니다. 계약을 위반하는 GitHub Sponsors 프로그램 사용도 본 추가 약관 위반입니다. 별도로 정의되지 않은 용어는 계약에 정의된 의미를 따릅니다. 이 GitHub Sponsors 프로그램 추가 약관은 GitHub와 프로그램의 "후원 대상 개발자(Sponsored Developer)"인 귀하 사이의 관계를 기술합니다. 추가 약관은 귀하가 약관을 수락하는 날짜에 효력이 발생합니다("발효일").
 
-The purpose of this Agreement is to: 1) set forth the terms under which Sponsors will participate in the GitHub Sponsors Program (the "Program"); and 2) set forth the terms under which Sponsored Developers may participate in the Program. The Program allows sponsors to identify certain open source projects ("Projects") housed on GitHub and to make committed investments in those Projects to further the Projects' development.
+본 계약의 목적은 1) 스폰서가 GitHub 스폰서 프로그램("프로그램")에 참여할 조건을 명시하는 것, 그리고 2) 후원 대상개발자가 프로그램에 참여할 수 있는 조건을 설정하는 것입니다. 이 프로그램을 통해 스폰서는 GitHub에 보관된 특정 오픈 소스 프로젝트("프로젝트")를 식별하고 프로젝트 개발을 위해 해당 프로젝트 투자에 전념할 수 있습니다.
 
-[1. Definitions.](#1-definitions)
+[1. 정의.](#1-definitions)
 ----------
 
-"**Confidential Information**" means all non-public information disclosed under this Agreement by either party to the other in any format, designated as confidential or that the receiving party knows or reasonably should know, under the circumstances surrounding the disclosure and the nature of the information, is confidential to the disclosing party. Confidential Information does not include any information that (i) was or becomes publicly known through no fault of the receiving party; (ii) was or becomes rightfully known to the receiving party without confidential or proprietary restriction from a source other than the disclosing party who has a right to disclose it; (iii) is approved by the disclosing Party for disclosure without restriction in a written document which is signed by a duly authorized officer or such disclosing Party; or (iv) the receiving party independently develops without access to or use of the disclosing party's Confidential Information.
+"**비밀 정보**"란 모든 형식을 통해 어느 한 당사자가 다른 당사자에게 공개한 정보로서 기밀로 지정된 모든 비공개 정보를 의미하거나, 정보 수신 당사자가 정보의 공개 및 성격을 둘러싼 제반 상황 하에서 인지하고 있거나 합당하게 인지해야 할 정보로서 정보 공개 당사자에겐 기밀에 해당하는 비공개 정보를 의미합니다. 비밀 정보는 다음에 해당하는 정보를 포함하지 않습니다. (i) 수신 당사자의 잘못 없이 공개적으로 알려졌거나 알려지게 된 정보, (ii) 정보를 공개할 권리가 있는 공개 당사자 이외의 출처로부터 기밀 또는 독점 제한 없이 수신 당사자에게 정당하게 알려진 정보, (iii) 적법한 수권 대리인 또는 공개 당사자가 서명한 문서에 제한 없이 공개하도록 공개 당사자의 승인을 받은 정보, (iv) 수신 당사자가 공개 당사자의 비밀 정보에 액세스하거나 이를 사용하지 않고 독자적으로 마련한 정보.
 
-"**GitHub Policies**" means all then-current policies and procedures of GitHub that Sponsored Developer must follow as noted in the Program, including the [GitHub Community Guidelines](/ko/site-policy/github-terms/github-community-guidelines).
+"**GitHub 정책**"은 [GitHub 커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)을 포함하여 프로그램에 언급된 대로 후원 대상 개발자가 따라야 하는 당시의 모든 GitHub 정책 및 절차를 뜻합니다.
 
-"**Sponsor**" means the User who purchased a Subscription from or paid a Sponsorship to you through your Sponsored Developer Account.
+"**후원자**"는 귀하로부터 구독을 구입했거나 귀하의 후원 대상 개발자 계정을 통해 귀하에게 후원금을 지불한 사용자를 뜻합니다.
 
-“**Sponsored Developer**” means the individual or entity that develops content under the Program and receives Sponsored Developer Payments while participating in the Program.
+"**후원 대상 개발자**"는 프로그램에 참여하는 동안 프로그램에서 콘텐츠를 개발하고 스폰서 개발자 결제 받는 개인 또는 엔터티를 의미합니다.
 
-"**Sponsored Developer Account**" means the account that you establish through the Program to receive payment from Sponsors.
+"**후원 대상 개발자 계정**"은 후원자의 후원금을 받기 위해 프로그램을 통해 개설하는 계정을 뜻합니다.
 
-"**Sponsored Developer Content**" means all content you submit to GitHub in connection with the Program, including User-Generated Content and Your Content; your brand names, trademarks, service marks, trade names, logos, or indicia of origin ("**Sponsored Developer Marks**"); and data associated with your Sponsored Developer Account.
+"**후원 대상 개발자 콘텐츠**"는 사용자 생성 콘텐츠 및 귀하의 콘텐츠, 귀하의 브랜드 이름, 상표, 서비스 마크, 상표명, 로고 또는 원산지 표시("**후원 대상 개발자 표시**")를 비롯하여 프로그램과 관련해 GitHub에 제출하는 모든 콘텐츠와 귀하의 후원 대상 개발자 계정과 관련된 데이터를 뜻합니다.
 
-"**Sponsorship**" means a payment paid to you through the Program and the Service.
+"**후원금**"은 프로그램과 서비스를 통해 귀하에게 지급되는 금액을 뜻합니다.
 
-"**Subscription**" means a recurring or one-time Sponsorship in exchange for goods, services, or other offers you provide to Sponsors.
+"**구독**"은 상품, 서비스 또는 귀하가 후원자에게 제공하는 기타 제품의 대가인 반복적 또는 일회성 후원금입니다.
 
-"**Sponsored Developer Payment**" means the net of one hundred percent (100%) of GitHub's gross monthly payments received from Sponsorships and Subscriptions to Sponsored Developer Accounts, plus any applicable Matching Funds, and other proceeds from monetization options that the Sponsored Developer elects to use, as applicable, less any discounts, taxes, fees, amounts that GitHub did not collect or which were refunded or charged back, amounts owed to any third-party in connection with the Program with respect to a Sponsored Developer Account, and other Exclusions as outlined in Section 4.
+"**후원 대상 개발자 지급금**"은 후원금 및 후원 대상 개발자 계정 구독으로부터 GitHub가 순수 취하는 총 월 지급금 100퍼센트에, 해당하는 경우에 따라 적용 가능한 매칭 펀드와 후원 대상 개발자가 사용하기로 선택하는 수익 창출 옵션의 기타 수익금을 더하고, 할인, 세금, 수수료, GitHub가 수금하지 않았거나 환불 또는 차지백된 금액, 후원 대상 개발자 계정에 대해 프로그램과 관련하여 제3자에게 지급해야 하는 금액 및 4조에 설명된 기타 제외 항목을 뺀 금액을 뜻합니다.
 
-"**USD**" means United States Dollar.
+"**USD**"는 미국 달러화를 뜻합니다.
 
-[Terms For Sponsored Developer](#terms-for-sponsored-developer)
+[후원 대상 개발자를 위한 약관](#후원-대상-개발자를-위한-약관)
 ==========
 
-[1. Acceptable Use.](#1-acceptable-use)
+[1. 사용 제한.](#1-acceptable-use)
 ----------
 
-### [1.1. GitHub Sponsors Program](#11-github-sponsors-program) ###
+### [1.1. GitHub Sponsors 프로그램](#11-github-sponsors-program) ###
 
-In order to participate in the Program, you must comply with your country's minimum age laws (for example, you must be at least 13 years of age if you live in the United States), have a valid GitHub account, and have agreed to the [Acceptable Use section](/ko/site-policy/github-terms/github-terms-of-service#c-acceptable-use) in the Agreement and applicable GitHub Policies, and these GitHub Sponsors Additional Terms.
+프로그램에 참가하려면 해당 국가의 최저 연령 법률을 준수하고(예를 들어 미국에 거주하는 경우 만 13세 이상이어야 합니다), 유효한 GitHub 계정이 있으며, 계약 및 관련 GitHub 정책의 [사용 제한 조항](/ko/site-policy/github-terms/github-terms-of-service#c-acceptable-use) 및 본 GitHub Sponsors 추가 약관에 동의해야 합니다.
 
-If you are over the age of 13 but are under 18, you can give and receive Sponsor funds, provided that Stripe, our payment processor, can collect verification information from your legal guardian.
+13세 이상 18세 미만인 경우, GitHub의 결제 처리업체인 Stripe가 법정 후견인으로부터 확인 정보를 수집할 수 있어야 Sponsors 기금을 제공 및 수취할 수 있습니다.
 
-You will not under any circumstances allow payments or raise funds involving:
+어떠한 경우에도 다음과 관련된 지불을 허용하거나 모금할 수 없습니다.
 
-* Fraud, ransom, violations of intellectual property, or other illegal purposes;
+* 사기, 몸값, 지적 재산 침해 또는 기타 불법적 목적.
 
-* Misrepresentation or deception related to the reasons you're raising funds or requesting sponsorship;
+* 모금 또는 후원금 요청 사유와 관련된 허위 표시 또는 기만.
 
-* The purchase or sale of ICOs, utility tokens, or other types of cryptocurrency;
+* ICO, 유틸리티 토큰 또는 기타 암호 화폐 유형 구입 또는 판매.
 
-* The purchase or sale of securities, equity, or other types of investment offers;
+* 증권, 보통주 주권 또는 기타 투자 제안 유형 구입 또는 판매.
 
-* The sale of personal information, or the processing of personal information in violation of any laws;
+* 개인 정보의 판매 또는 법률에 위반되는 개인 정보의 처리.
 
-* Lotteries, raffles, gambling, pyramid schemes, self-dealing, "get rich quick schemes", deceptive marketing schemes, "donation for donation" schemes, or any attempts to game GitHub's or third parties' systems or services; and,
+* 복권, 래플, 도박, 다단계 판매, 자기 거래, "일확천금 계획", 사기성 마케팅 계획, "기부 명목" 사기 또는 GitHub 또는 제3자의 시스템 또는 서비스를 조작하려는 시도 및
 
-* Activities with, in, or involving countries, regions, governments, persons, or entities that are not permitted under U.S. and other economic sanctions under applicable law.
+* 관련 법률에 따라 미국 및 기타 경제 제재 하에서 허용되지 않는 국가, 지역, 정부, 개인 또는 법인 관련 활동.
 
-### [1.2. GitHub Sponsors Matching Fund](#12-github-sponsors-matching-fund) ###
+### [1.2. GitHub Sponsors 매칭 펀드](#12-github-sponsors-matching-fund) ###
 
-The GitHub Sponsors Matching Fund aims to encourage the community that participates in the Open Source Software (OSS) ecosystem to contribute sustainable funding to qualifying individuals with Sponsored Developer Accounts. All individuals who applied to the Program before January 1, 2020, will be reviewed for eligibility for the Matching Fund, but not all eligible individual Sponsored Developer Accounts will receive matching. Organizations cannot participate in the GitHub Sponsors Matching Fund, and Sponsorship from an organization to a qualifying Sponsored Developer Account will not be matched. See below for additional rules.
+GitHub Sponsors 매칭 펀드의 목표는 오픈 소스 소프트웨어(OSS) 에코시스템에 참가하는 커뮤니티가 후원 대상 개발자 계정이 있고 자격을 갖춘 개인에게 지속 가능한 자금을 기부하도록 장려하는 것입니다. 2020년 1월 1일 이전에 프로그램에 지원한 모든 개인은 매칭 펀드 수령 자격이 심사되지만 자격이 있는 모든 개별 후원 대상 개발자 계정이 매칭 펀드를 받는 것은 아닙니다. 조직은 GitHub Sponsors 매칭 펀드에 참가할 수 없으며, 자격이 있는 후원 대상 개발자 계정에 조직이 지급하는 후원금에는 매칭 펀드가 없습니다. 추가 규칙은 아래를 참조하십시오.
 
-#### [1.2.1. Matching Fund Terms.](#121-matching-fund-terms) ####
+#### [1.2.1. 매칭 펀드 약관.](#121-matching-fund-terms) ####
 
-Eligibility for the GitHub Sponsors Matching Fund is evaluated on a case-by-case basis and is subject to the following limitations:
+GitHub Sponsors 매칭 펀드 수령 자격은 사안별로 평가되며, 다음 제한이 적용됩니다.
 
-* You must have a GitHub account, be accepted into the Program as an individual, and be actively contributing to OSS. Please note, GitHub does not allow operating more than one free personal account. As such, matching is available on an individual basis and will not be approved across multiple accounts.
+* GitHub 계정이 있고, 개인 자격으로 프로그램 참가가 허용되었으며, OSS에 적극적으로 기여하고 있어야 합니다. GitHub는 두 개 이상의 무료 개인 계정 운영을 허용하지 않습니다. 따라서 매칭은 개인 단위로 이용 가능하며, 여러 계정에 걸쳐 승인되지 않습니다.
 
-* Your use of GitHub and your Sponsored Developer Account must be, based on our determination, in our sole discretion, in accordance with the GitHub Sponsors mission to expand the opportunities to contribute to open source that upholds the [GitHub Community Guidelines](/ko/site-policy/github-terms/github-community-guidelines).
+* 귀하의 GitHub 이용과 후원 대상 개발자 계정은 GitHub의 재량으로 판단할 때 [GitHub 커뮤니티 가이드라인](/ko/site-policy/github-terms/github-community-guidelines)을 지지하는 오픈 소스에 기여할 기회를 확대하려는 GitHub Sponsors 사명과 일치해야 합니다.
 
-* You cannot receive matching for any sponsorship that originates from a user or organization account with a published GitHub Sponsors profile.
+* GitHub Sponsors 프로필이 공개된 사용자 또는 조직 계정에서 유래하는 후원금에 대해서는 매칭 펀드를 받을 수 없습니다.
 
-* GitHub reserves the right to withhold or rescind Matching Fund money and block any user from participation in the GitHub Sponsors Matching Fund for any reason, including but not limited to posting content or projects that GitHub determines are offensive or otherwise objectionable.
+* GitHub는 모욕적이거나 그 밖에 불쾌하다고 GitHub가 결정하는 콘텐츠 또는 프로젝트 게시를 포함하되 이에 국한되지 않는 사유로 매칭 펀드 자금을 지급하지 않거나 철회하고 사용자의 GitHub Sponsors 매칭 펀드 참가를 막을 권리가 있습니다.
 
-#### [1.2.2. Matching Period.](#122-matching-period) ####
+#### [1.2.2. 매칭 기간.](#122-matching-period) ####
 
-The matching period begins after GitHub accepts an individual Sponsored Developer Account into GitHub Sponsors. For each individual Sponsored Developer Account eligible for the GitHub Sponsors Matching Fund, GitHub can match community sponsorship up to $5,000 USD total during the Sponsored Developer Account's first 12 months in the Program. The matching period cannot be extended for any reason. During the matching period, GitHub will not charge any fees, so 100% of sponsorships will go to the sponsored developer. In the future, we may charge a nominal processing fee.
+매칭 기간은 GitHub가 개인 후원 대상 개발자 계정의 GitHub Sponsors 참가를 허용한 후에 시작됩니다. GitHub Sponsors 매칭 펀드 수령 자격이 있는 각 개인 후원 대상 개발자 계정의 경우 GitHub는 후원 대상 개발자 계정의 프로그램 참가 첫 12개월 동안 최대 총 미화 5,000달러의 커뮤니티 후원금을 매칭할 수 있습니다. 매칭 기간은 어떤 이유로도 연장할 수 없습니다. 매칭 기간 동안 GitHub는 수수료를 부과하지 않으므로 후원 대상 개발자는 후원금의 100퍼센트를 받게 됩니다. 향후 명목상의 처리 수수료가 부과될 수 있습니다.
 
-* If a Sponsorship or Sponsoring Subscription stops for any reason, the associated matching will stop as well. Funds that are charged back to the Sponsor before the Sponsored Developer Payment date are not eligible for matching.
+* 사유를 막론하고 후원금 또는 후원 구독이 중지되는 경우, 관련 매칭도 중지됩니다. 후원 대상 개발자 지급 날짜가 매칭 대상이 되기 전에 차지백되는 자금.
 
-* If you leave GitHub Sponsors and rejoin later, the gap between your participation periods may count toward your matching period or your matching period may expire.
+* GitHub Sponsors를 떠났다가 나중에 다시 가입하는 경우, 참가 기간 사이의 공백은 매칭 기간에 합산되거나 매칭 기간이 만료될 수 있습니다.
 
-* If GitHub discovers a potential policy violation, prior to payment of any matching funds granted during the matching period, GitHub may disable payouts until an investigation has been completed, and matched funds contributed to the sponsored developer may be revoked if they are found to be in violation of this policy.
+* 매칭 기간 중에 부여되는 매칭 펀드의 지급 전에 GitHub가 잠재적 정책 위반을 발견하는 경우, GitHub는 조사가 완료될 때까지 지급을 중지할 수 있으며, 후원 대상 개발자에게 기부되는 매칭 펀드는 이 정책을 위반한 것이 밝혀지는 경우에 철회될 수 있습니다.
 
-* GitHub may contact GitHub Sponsors applicants or participants for additional information regarding their sponsorship profile or activity to determine eligibility for sponsorship or matching, or as part of investigating potential terms violations.
+* GitHub은 GitHub Sponsors 지원자 또는 참가자에게 연락하여 스폰서쉽 프로필 또는 작업에 대한 추가 정보를 문의하여 스폰서쉽 또는 매칭 자격을 결정하거나 잠재적인 약관 위반을 조사할 수 있습니다.
 
-[2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
+[2. 후원 대상 개발자 의무.](#2-sponsored-developer-obligations)
 ----------
 
-### [2.1. General.](#21-general) ###
+### [2.1. 일반.](#21-general) ###
 
-You will: (A) create a Sponsored Developer Account; (B) make Sponsored Developer Content available via the Program and Service; and, (C) comply with all GitHub Policies. You will be solely responsible for support, development, and maintenance of your Sponsored Developer Account and Sponsored Developer Content, and any complaints about them.
+귀하는 (A) 후원 대상 개발자 계정을 만들고, (B) 프로그램 및 서비스를 통해 후원 대상 개발자 콘텐츠를 제공하고, (C) 모든 GitHub 정책을 준수합니다. 귀하의 후원 대상 개발자 계정 및 후원 대상 개발자 콘텐츠의 지원, 개발, 유지 관리와 이에 대한 불만 사항은 전적으로 귀하의 책임입니다.
 
-### [2.2. Registration.](#22-registration) ###
+### [2.2. 등록](#22-registration) ###
 
-If you choose to apply for the Program, entry into the Program is contingent upon your completion of the registration process and acceptance into the Program by GitHub. In addition, you may be required to register with the payment service provider(s) selected by GitHub (such as Stripe) in order to access and use certain features of the Program. You must register with your true identity, and you agree to provide and maintain true, accurate, current and complete information about yourself as requested by the Program's registration form. Registration data and certain other information about you are governed by our [Privacy Statement](/ko/site-policy/privacy-policies/github-privacy-statement), as well as any privacy statement provided by our payment processor. GitHub reserves the right to refuse acceptance into the Program.
+프로그램 신청을 선택하는 경우, 프로그램 가입은 귀하의 등록 프로세스 완료와 GitHub의 프로그램 가입 승인을 조건으로 합니다. 또한 프로그램의 특정 기능에 액세스하고 사용하려면 GitHub가 선택한 결제 서비스 제공업체(예: Stripe)에 등록해야 할 수 있습니다. 실제 ID로 등록해야 하며, 귀하는 프로그램의 등록 양식에서 요구하는 귀하에 대한 사실이고 정확하며 최신이고 완전한 정보를 제공하는 데 동의합니다. 등록 데이터와 귀하에 대한 그 밖의 특정 정보에는 GitHub의 [개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)과 GitHub의 결제 처리업체가 규정한 개인정보취급방침이 적용됩니다. GitHub는 프로그램 가입을 거부할 수 있는 권리를 보유합니다.
 
-### [2.3. Content Monetization.](#23-content-monetization) ###
+### [2.3. 콘텐츠 수익 창출.](#23-content-monetization) ###
 
-Through the Program and Service, GitHub may provide you various options to monetize your Sponsored Developer Content. Some options may require you to update certain settings in your Sponsored Developer Account. In addition, the ways in which the Program supports each monetization option may vary. If you utilize one (or more) of these options by changing the applicable settings, then you agree to the terms that apply to that option. Some monetization options may require you to provide additional information to GitHub or its service providers, or to accept additional GitHub terms or third-party terms.
+GitHub는 프로그램과 서비스를 통해 후원 대상 개발자 콘텐츠에서 수익을 창출할 수 있는 다양한 옵션을 제공할 수 있습니다. 일부 옵션은 후원 대상 개발자 계정의 특정 설정을 업데이트해야 할 수도 있습니다. 또한 프로그램이 각 수익 창출 옵션을 지원하는 방법은 다양할 수 있습니다. 관련 설정을 변경하여 이러한 옵션 중 하나 이상을 활용하는 경우 해당 옵션에 적용되는 약관에 동의해야 합니다. 일부 수익 창출 옵션은 GitHub 또는 GitHub의 서비스 공급자에게 추가 정보를 제공하거나 추가 GitHub 약관 또는 제3자 약관을 수락해야 할 수 있습니다.
 
-#### [2.3.1. Subscriptions.](#231-subscriptions) ####
+#### [2.3.1. 구독.](#231-subscriptions) ####
 
-The Program provides you with the capability to offer Subscriptions. If you choose to offer Subscriptions, then GitHub will pay you the Subscription Sponsorship as provided in Section 4. You are responsible for determining the nature, content, and capabilities of your Subscription offer, subject to these Additional Terms and applicable GitHub Policies.
+프로그램은 구독 제공 기능을 제공합니다. 구독을 제공하기로 선택하는 경우, GitHub는 4조에 규정된 대로 구독 후원금을 지급합니다. 구독 제공의 특성, 콘텐츠, 기능을 결정할 책임은 귀하에게 있으며, 본 추가 약관과 관련 GitHub 정책이 적용됩니다.
 
-#### [2.3.2. Other Sponsorships.](#232-other-sponsorships) ####
+#### [2.3.2. 기타 후원.](#232-other-sponsorships) ####
 
-The Program or Service may provide you with the ability to accept a donation or other type of direct Sponsorship from another User without a Subscription offer. However, because GitHub does not fulfill those types of Sponsorships, you must establish a merchant account with a third-party payment service provider (such as Stripe) and be subject to that service provider's merchant account terms, conditions, and privacy policies. Any amounts contributed to you, donation or otherwise, will be paid directly to your merchant account and not included in any Sponsored Developer Payments. You agree that you will not have any claim or remedy against GitHub relating to donations and any disputes relating to a donation are solely between you and the third-party payment service provider. You are responsible for compliance with any third-party payment service provider's agreements, policies, and laws or regulations that may apply. GitHub may elect to provide you with information or a report on the amount of donations made to you for your convenience.
+구독 제공 없이 다른 사용자로부터 기부 또는 기타 직접 후원 유형을 받을 수 있는 기능을 프로그램이나 서비스에서 제공할 수 있습니다. 그러나 GitHub는 이런 유형의 후원을 이행하지 않기 때문에 귀하가 제3자 결제 서비스 제공업체(예: Stripe)에 판매자 계정을 개설해야 하며, 해당 서비스 제공업체의 판매자 계정 약관, 조건, 개인정보보호정책이 적용되어야 합니다. 기부 또는 기타 방식으로 귀하에게 제공되는 금액은 귀하의 판매자 계정에 직접 지급되며, 후원 대상 개발자 지급금에 포함되지 않습니다. 귀하는 GitHub를 상대로 기부와 관련된 청구 또는 구제 수단을 가질 수 없으며, 기부와 관련된 분쟁은 오로지 귀하와 제3자 결제 서비스 제공업체 간의 분쟁임에 동의합니다. 귀하는 제3자 결제 서비스 제공업체의 계약, 정책 및 적용 가능한 법률 또는 규정을 준수할 책임이 있습니다. GitHub는 편의를 위해 귀하에게 지급된 기부 액수에 대한 정보 또는 보고서를 제공하기로 선택할 수 있습니다.
 
-#### [2.3.3. Advertising.](#233-advertising) ####
+#### [2.3.3. 광고.](#233-advertising) ####
 
-While we understand that you may want to promote your Sponsors by posting their names or logos in your account, the primary focus of your Sponsored Developer Content should not be advertising or promotional marketing. In addition, you may not enter into any advertising agreement to promote any product or brand if doing so would be prohibited by the [Agreement](/ko/site-policy/github-terms/github-terms-of-service) or GitHub's Community Guidelines. If you decide to host any advertising or promotional materials in your Sponsored Developer Content, you are solely responsible for complying with all applicable laws and regulations, including the U.S. Federal Trade Commission's Guidelines on Endorsements and Testimonials.
+귀하가 필요에 따라 귀하의 계정에 후원자의 이름이나 로고를 게시하여 후원자를 홍보할 수 있음을 이해하지만 후원 대상 개발자 콘텐츠가 광고 또는 홍보 마케팅에 중점을 두어서는 안 됩니다. 또한 [계약](/ko/site-policy/github-terms/github-terms-of-service) 또는 GitHub 커뮤니티 가이드라인에서 금지하는 경우, 제품 또는 브랜드를 홍보하기 위해 광고 계약을 체결해서는 안 됩니다. 귀하의 후원 대상 개발자 콘텐츠에서 광고 또는 프로모션 자료를 호스트하기로 결정할 경우, 귀하는 미국 연방 거래위원회(FTC)의 보증 및 추천 지침을 포함하되 이에 국한되지 않는 모든 관련 법률 및 규정을 준수할 전적인 책임이 있습니다.
 
-[3. Financial Terms.](#3-financial-terms)
+[3. 재정적 약관.](#3-financial-terms)
 ----------
 
-### [3.1. Payment.](#31-payment) ###
+### [3.1. 지급.](#31-payment) ###
 
-GitHub will pay you the Sponsored Developer Payment in accordance with this Section 3, so long as you meet the Sponsored Developer Obligations in Section 2 and are not in violation of these Additional Terms. If you fail to meet these obligations for any given month, we may at our sole discretion withhold the Sponsored Developer Payment for that month. If you fail to meet or maintain the Sponsored Developer Obligations for two (2) or more months during the Term (consecutively or non-consecutively), then GitHub may terminate these Additional Terms as provided in Section 5.
+GitHub는 귀하가 2절의 후원 대상 개발자 의무를 충족하고 본 추가 약관을 위배하지 않는 한 본 3절에 따라 후원 대상 개발자 지급금을 지급합니다. 임의의 달에 이러한 의무를 충족하지 못하는 경우, GitHub는 재량에 따라 해당 달의 후원 대상 개발자 지급금을 지급하지 않을 수 있습니다. 기간 중 2개월 이상(연속으로 또는 비연속으로) 후원 대상 개발자 의무를 이행 또는 유지하지 못하는 경우, GitHub는 5절에 규정된 대로 본 추가 약관을 해지할 수 있습니다.
 
-### [3.2. Sponsored Developer Payment Exclusions.](#32-sponsored-developer-payment-exclusions) ###
+### [3.2. 후원 대상 개발자 지급 제외 사항.](#32-sponsored-developer-payment-exclusions) ###
 
-The following amounts are not included in Sponsored Developer Payments, or may be withheld by GitHub, as applicable.
+다음 금액은 해당하는 경우에 따라 후원 대상 개발자 지급금에 포함되지 않거나 GitHub가 지급하지 않을 수 있습니다.
 
-#### [3.2.1. Sponsored Developer Expenses.](#321-sponsored-developer-expenses) ####
+#### [3.2.1. 후원 대상 개발자 경비.](#321-sponsored-developer-expenses) ####
 
-You will bear all expenses you incur in connection with your performance under these Additional Terms. We will not reimburse or advance you for any expenses.
+본 추가 약관에 따른 귀하의 이행과 관련하여 귀하에게 발생하는 모든 경비는 귀하가 부담합니다. GitHub는 어떠한 경비도 귀하에게 변제하거나 선불하지 않습니다.
 
-#### [3.2.2. Taxes.](#322-taxes) ####
+#### [3.2.2. 세금.](#322-taxes) ####
 
-GitHub intends to comply with all applicable tax information reporting and tax withholding laws that GitHub reasonably determines in its judgment apply to these payments. If taxes are required to be withheld on any amounts to be paid by GitHub to you or from amounts which are subject to tax information reporting under applicable laws, GitHub will deduct such taxes from the amount owed and pay them to the appropriate taxing authority and, as required, will secure and deliver to you an official receipt for any such taxes withheld as required under applicable laws. GitHub will use reasonable efforts to minimize such taxes to the extent permissible under applicable law, and each party will reasonably cooperate with the other to obtain the lowest tax rates or elimination of such taxes pursuant to the applicable income tax laws or treaties. This includes you providing to GitHub adequate information required under applicable laws, such as IRS Forms W-8, W-9, or other information to establish exemptions from withholding. You will also be responsible for complying with any third-party payment processor’s terms and conditions regarding tax withholding and reporting, if applicable. Furthermore, GitHub reserves the right to suspend payments to your account until you provide GitHub with adequate documentation or information required under applicable laws for GitHub to determine any applicable tax withholding or reporting obligations that apply to the payments under these Additional Terms or Agreement.
+GitHub는 GitHub가 합리적으로 판단할 때 이러한 지급에 적용된다고 결정하는 모든 관련 세금 정보 신고 및 원천징수 법률을 준수하려 합니다. GitHub가 귀하에게 지급해야 하는 금액 또는 관련 법률에 따른 세무 정보 보고 대상인 금액에 대한 세금을 원천징수해야 하는 경우, GitHub는 귀하에게 지급해야 하는 금액에서 이러한 세금을 공제하여 관련 과세 기관에 납부하며, 필요할 경우 관련 법률에서 요구하는 대로 이러한 세금 공제에 대한 공식 영수증을 확보하여 귀하에게 전달할 것입니다. GitHub는 관련 법률이 허용하는 정도까지 이러한 세금을 최소화하기 위해 합리적인 노력을 기울이며, 각 당사자는 관련 소득세법 또는 조약에 따라 최저 세율을 획득하거나 이러한 세금을 제거하기 위해 상대방과 합리적으로 협력합니다. 여기에는 IRS 양식 W-8, W-9 또는 원천징수 면제를 입증하는 기타 정보 등 관련 법률에서 요구하는 적절한 정보를 GitHub에 제공하는 것이 포함됩니다. 또한 해당하는 경우에 따라 원천징수 및 보고와 관련된 제3자 결제 처리업체의 계약조건을 준수할 책임은 전적으로 귀하에게 있습니다. 나아가 GitHub는 본 추가 약관 또는 계약에 따른 지급에 적용되는 관련 세금 원천징수 또는 보고 의무를 결정하기 위해 관련 법률에 따라 요구되는 적절한 문서 또는 정보를 귀하가 GitHub에 제공할 때까지 귀하의 계정에 대한 지급을 정지할 수 있는 권리를 보유합니다.
 
-#### [3.2.3. Withholding of Sponsored Developer Payment for Breach.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
+#### [3.2.3. 위반으로 인한 후원 대상 개발자 지급금 지급 공제.](#323-withholding-of-sponsored-developer-payment-for-breach) ####
 
-In the event of a Sponsored Developer's breach, or suspected breach, of these Additional Terms or the Agreement, GitHub reserves the right to withhold payment to the Sponsored Developer under these Additional Terms or otherwise, pending GitHub's reasonable investigation of the same. If GitHub determines, in its sole discretion, that a Sponsored Developer is in breach of these Additional Terms or the Agreement, GitHub may permanently withhold any amounts due to the Sponsored Developer.
+후원 대상 개발자가 본 추가 약관 또는 계약을 위반하거나 위반한 것으로 의심되는 경우, GitHub는 GitHub가 해당 사안을 합리적으로 조사하는 동안 본 추가 약관 또는 기타에 따른 후원 대상 개발자에 대한 지급을 공제할 권리를 보유합니다. GitHub가 재량으로 후원 대상 개발자가 본 추가 약관 또는 계약을 위반했다고 결정하는 경우, GitHub는 후원 대상 개발자에 지급해야 하는 금액을 영구적으로 지급 공제할 수 있습니다.
 
-### [3.3. Payment Timing.](#33-payment-timing) ###
+### [3.3. 지급 시기.](#33-payment-timing) ###
 
-During the term, GitHub will remit to you all Sponsored Developer Payments received in a given month within 30 days after the close of that month, subject to the variables below. Payouts are sent through Stripe Connect, ACH transfer, or wire transfer to the bank account you provided when you applied for GitHub Sponsors. We are not responsible for delay or misapplication of any Sponsored Developer Payment because of incorrect or incomplete information supplied by you or a bank, or for failure of a bank to credit your account.
+기간 중에 GitHub는 아래 변수를 조건으로 임의의 달 마감 후 30일 이내에 해당 달에 수취한 모든 후원 대상 개발자 지급금을 귀하에게 송금합니다. 지급금은 Stripe Connect, ACH 송금 또는 전신 송금을 통해 귀하가 GitHub Sponsors 신청 시 제공한 은행 계좌로 송금됩니다. GitHub는 귀하나 은행이 제공한 잘못되거나 불완전한 정보로 인한 후원 대상 개발자 지급금의 지급 지연 또는 오용이나 귀하의 계정에 대한 은행의 입금 실패에 대해 책임을 지지 않습니다.
 
-* For first payments, GitHub will remit to you all Sponsored Developer Payments 60 days after the first sponsorship is initiated, subject to the variables below. This probation period is applied to all Sponsored Developer Accounts and helps insure the integrity of the program. Payments thereafter will be remitted within 30 days of the close of that month, in accordance with this section.
+* 첫 번째 결제의 경우 GitHub는 아래 변수에 따라 첫 번째 스폰서쉽이 시작된 후 60일 후에 모든 스폰서 개발자 결제를 송금합니다. 이 테스트 기간은 모든 스폰서 개발자 계정에 적용되며 프로그램의 무결성을 보장하는 데 도움이 됩니다. 그 이후의 지급금은 본 조에 따라 해당 달 마감 후 30일 이내에 송금됩니다.
 
-* If you are paid through Stripe Connect, you will receive payouts on the 22nd of the month for the balance accrued since the last payout, regardless of the amount of the balance. Payout initiation dates vary by country, and can change from month to month due to public holidays, weekends, and other factors. When the payout is a cross-border payout, a minimum payout amount may apply. For more information, see [Receiving payouts](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts) in the Stripe documentation.
+* Stripe Connect를 통해 지급되는 경우, 잔고에 관계없이 마지막 지급 후 누적된 잔고에 대한 지급을 해당 달 22일에 수령합니다. 지급 개시 날짜는 나라마다 다르며, 공휴일, 주말, 기타 요인으로 인해 달마다 바뀔 수 있습니다. 지급액이 국경을 넘는 지급액인 경우 최소 지급액이 적용될 수 있습니다. 자세한 내용은 Stripe 설명서의 [지급액 수령](https://stripe.com/docs/payouts#cbp-minimum-payout-amounts)을 참조하십시오.
 
-* If you are paid through ACH transfer or wire transfer, you will receive payouts on the third Thursday of the month. GitHub will issue a payout to you for any month that your balance reaches $100 USD. Contributions from the GitHub Sponsors Matching Fund do not count towards this threshold. If your balance is below $100 at the end of the month, the balance will accrue until the next time your balance is above the threshold at the end of the month. If you leave GitHub Sponsors, GitHub will issue a payout for your remaining balance even if the balance is below $100.
+* ACH 송금 또는 전신 송금을 통해 지급되는 경우, 해당 달의 세 번째 목요일에 지급금을 수령하게 됩니다. GitHub는 귀하의 잔고가 미화 100달러에 도달하는 달의 지급금을 귀하에게 지급합니다. GitHub Sponsors 매칭 펀드의 기여금은 이 임계값에 합산되지 않습니다. 월말에 잔고가 100달러 미만인 경우, 다음에 월말 잔고가 이 임계값 이상이 될 때까지 잔고가 누적됩니다. GitHub Sponsors에서 나가는 경우, GitHub는 잔고가 100달러 미만인 경우에도 남은 잔고에 대한 지급금을 지급합니다.
 
-* After termination, we will remit to you all Sponsored Developer Payments received and unpaid within approximately 90 days after the end of the calendar month in which we recognize that these Additional Terms have been terminated.
+* 종료 후 GitHub는 수취하고 지급되지 않은 모든 후원 대상 개발자 지급금을 본 추가 약관이 종료되었다고 GitHub가 인정하는 역월말 후 약 90일 이내에 송금합니다.
 
-### [3.4. Payment Method.](#34-payment-method) ###
+### [3.4. 지급 방법.](#34-payment-method) ###
 
-We will remit Sponsored Developer Payments by ACH/SEPA or wire to an account that you specify subject to the thresholds, methods and timeframes provided in our then-current payment policies, which we may update from time to time. The payment method and threshold may vary depending on the country and account information you provide. We may, at our sole discretion, combine the Sponsored Developer Payment with any other payments that may be owed to you.
+GitHub는 수시로 업데이트할 수 있는 당시의 지급 정책에 규정된 임계값, 방법, 기간을 적용하여 ACH/SEPA 또는 전신을 통해 귀하가 지정하는 계좌로 후원 대상 개발자 지급금을 송금합니다. 지급 방법과 임계값은 국가 및 귀하가 제공하는 계정 정보에 따라 달라질 수 있습니다. GitHub는 재량에 따라 후원 대상 개발자 지급금과 귀하에게 지급해야 하는 다른 지급금을 합칠 수 있습니다.
 
-### [3.5. Currency.](#35-currency) ###
+### [3.5. 통화.](#35-currency) ###
 
-All references to currency are to USD. If you are outside of the United States, we may convert USD to the local currency of your address for payment, using our then-current conversion rates.
+모든 통화는 USD입니다. 귀하가 미국 이외의 국가에 거주하는 경우, GitHub는 GitHub의 당시 환율을 사용하여 미 달러화를 귀하 주소지의 현지 통화로 환산할 수 있습니다.
 
-### [3.6. Refund Requirements.](#36-refund-requirements) ###
+### [3.6. 환불 요구 사항.](#36-refund-requirements) ###
 
-You will be responsible for specifying the terms and conditions regarding any refunds, if any, to your Sponsors. In no event shall GitHub be responsible for providing any support for refunds, nor shall GitHub be liable for payment of any refund.
+후원자에 대한 환불(있는 경우)에 관한 계약조건을 지정할 책임은 귀하에게 있습니다. GitHub는 어떠한 경우에도 환불에 대한 지원을 제공할 책임이 없으며, 환불 지급에 대한 책임이 없습니다.
 
-### [3.7. Requested Payment Information.](#37-requested-payment-information) ###
+### [3.7. 요청되는 지급 정보.](#37-requested-payment-information) ###
 
-To pay you, you must provide us with complete and accurate financial, tax, and banking information that we request (for example, by means of account creation or setup, or otherwise). We will notify you, by any means of communication, of changes to what information is required. If you fail to accurately provide (or accurately maintain) such information, (a) we can deduct from your Sponsored Developer Payment any related bank fees, and (b) we can terminate these Additional Terms and you may forfeit any amounts owed to you by GitHub.
+귀하에게 지급하려면 귀하는 GitHub가 요청하는 완전하고 정확한 금융, 세금, 은행 정보를 GitHub에 제공해야 합니다(예를 들어 계정 생성이나 설정 또는 기타 방법을 통해). GitHub는 어떤 통신 수단이든 사용하여 필요한 정보의 변경 사항을 귀하에게 통지합니다. 귀하가 이러한 정보를 정확하게 제공하지(또는 정확하게 유지하지) 않는 경우, (a) GitHub는 귀하의 후원 대상 개발자 지급금에서 관련 은행 수수료를 공제할 수 있고, (b) 본 추가 약관을 해지할 수 있으며, GitHub가 귀하에게 지급해야 하는 금액이 박탈될 수 있습니다.
 
 ### [3.8. Stripe Connect](#38-stripe-connect) ###
 
-If you are paid through Stripe Connect, the following additional terms apply to your usage of GitHub Sponsors:
+Stripe Connect를 통해 지급받는 경우, 다음 추가 약관이 GitHub Sponsors 이용에 적용됩니다.
 
-**Full service agreement**
+**전체 서비스 계약**
 
-*Applies to Sponsored Developer Accounts registered in Australia, Austria, Belgium, Canada, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Ireland, Italy, Japan, Latvia, Lithuania, Luxembourg, Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, United States.*
+*호주, 오스트리아, 벨기에, 캐나다, 덴마크, 에스토니아, 핀란드, 프랑스, 독일, 그리스, 홍콩, 아일랜드, 이탈리아, 일본, 라트비아, 리투아니아, 룩셈부르크, 네덜란드, 뉴질랜드, 노르웨이, 폴란드, 포르투갈, 슬로바키아, 슬로베니아, 스페인, 스웨덴, 스위스, 영국, 미국에 등록된 후원 대상 개발자 계정에 적용됩니다.*
 
-Payment processing services for Sponsored Developer Accounts on GitHub Sponsors are provided by Stripe and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal/full), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a Sponsored Developer Account on GitHub Sponsors, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of GitHub enabling payment processing services through Stripe, you agree to provide GitHub accurate and complete information about you and your business, and you authorize GitHub to share it and transaction information related to your use of the payment processing services provided by Stripe.
+GitHub Sponsors의 후원 대상 개발자 계정의 결제 처리 서비스는 Stripe가 제공하며, [Stripe 서비스 약관](https://stripe.com/legal)을 포함하는 [Stripe 연결된 계정 계약](https://stripe.com/connect-account/legal/full)이 적용됩니다. 본 약관에 동의하거나 GitHub Sponsors에서 후원 대상 개발자 계정으로 계속 운영하면 Stripe가 수시로 수정할 수 있는 Stripe 서비스 계약에 구속되는 데 동의하는 것입니다. GitHub가 Stripe를 통해 결제 처리 서비스를 제공할 수 있는 조건으로 귀하는 귀하와 귀하의 비즈니스에 대한 정확하고 완전한 정보를 GitHub에 제공하는 데 동의하며, 귀하는 이 정보와 Stripe가 제공하는 결제 처리 서비스 이용과 관련된 거래 정보를 공유할 권한을 GitHub에게 부여합니다.
 
-**Recipient service agreement**
+**수신자 서비스 계약**
 
-*Applies to Sponsored Developer Accounts in all other countries.*
+*다른 모든 국가의 후원 대상 개발자 계정에 적용됩니다.*
 
-We use Stripe to make payouts to Sponsored Developer Accounts. The [Stripe Recipient Agreement](https://stripe.com/connect-account/legal/recipient) applies to your receipt of such payouts. To receive payouts from GitHub Sponsors, you must provide us accurate and complete information about you and your business, and you authorize us to share it and transaction information related to your payout with Stripe.
+GitHub는 Stripe를 사용하여 후원 대상 개발자 계정에 지급금을 지급합니다. [Stripe 수신자 계약](https://stripe.com/connect-account/legal/recipient)은 이러한 지급액 수령에 적용됩니다. GitHub Sponsors로부터 지급금을 수령하려면 귀하는 귀하와 귀하의 비즈니스에 대한 정확하고 완전한 정보를 GitHub에 제공해야 하며, 이 정보 및 지급금과 관련된 거래 정보를 Stripe와 공유할 권한을 GitHub에 부여합니다.
 
-[4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+[4. 진술 및 보증, 책임의 제한, 면책.](#4-representations-and-warranties-limitation-of-liability-indemnification)
 ----------
 
-### [4.1. By Sponsored Developer.](#41-by-sponsored-developer) ###
+### [4.1. 후원 대상 개발자.](#41-by-sponsored-developer) ###
 
-Sponsored Developer represents and warrants that:
+후원 대상 개발자는 다음을 진술하고 보증합니다.
 
-* You have the authority to enter into and fully perform these Additional Terms;
+* 귀하는 본 추가 약관을 체결하고 완전히 이행할 권한이 있습니다.
 
-* Your execution and performance of these Additional Terms will not violate any other agreement or obligation between you and any third party;
+* 귀하의 본 추가 약관의 실행 및 이행은 귀하와 제3자 간의 다른 계약이나 의무를 위반하지 않습니다.
 
-* Sponsored Developer Content does not infringe, violate, or misappropriate any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property;
+* 후원 대상 개발자 콘텐츠는 저작권, 상표, 특허, 영업 비밀, 저작 인격권, 프라이버시권, 퍼블리시티권 또는 기타 지적 재산을 포함한 제3자 권리를 침해, 위반 또는 남용하지 않습니다.
 
-* You will comply with all laws and regulations, and your Sponsored Developer Content is not illegal and does not violate any laws or regulations.
+* 귀하는 모든 법률 및 규정을 준수하며, 귀하의 후원 대상 개발자 콘텐츠는 불법이 아니고 법률 및 규정을 위반하지 않습니다.
 
-### [4.2. Disclaimer of Warranties; Limitation of Liability; Indemnification.](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
+### [4.2. 보증의 부인, 책임의 제한, 면책](#42-disclaimer-of-warranties-limitation-of-liability-indemnification) ###
 
-YOU EXPLICITLY AGREE THAT SECTIONS O (DISCLAIMER OF WARRANTIES), P (LIMITATION OF LIABILITY), AND Q (RELEASE AND INDEMNIFICATION) OF THE AGREEMENT APPLY TO THESE ADDITIONAL TERMS.
+귀하는 계약의 O조(보증의 부인), P조(책임의 제한), Q조(면제 및 면책)가 본 추가 약관에 적용됨에 명시적으로 동의합니다.
 
-[5. Term and Termination.](#5-term-and-termination)
+[5. 기간 및 해지](#5-term-and-termination)
 ----------
 
-### [5.1. Term.](#51-term) ###
+### [5.1. 기간.](#51-term) ###
 
-These Additional Terms commence on the Effective Date and remain in effect as long as you participate in the Program.
+본 추가 약관은 발효일에 시작되며 귀하가 프로그램에 참가하는 동안 계속 유효합니다.
 
-### [5.2. Suspension.](#52-suspension) ###
+### [5.2. 일시 중단.](#52-suspension) ###
 
-GitHub may suspend your Sponsored Developer Account immediately if you violate these Additional Terms or the Agreement in any way, or if you are placed on a restricted trade list or located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC). Failure to correct or cure the cause for suspension may result in the termination of your Sponsored Developer Account.
+GitHub는 귀하가 본 추가 약관 또는 계약을 어떤 식으로든 위반하거나 귀하가 교역 제한 목록에 오르거나 미국 해외자산통제국(OFAC)이 관리하는 포괄적 제재 대상인 국가 또는 영토에 소재하거나 상주하는 경우 귀하의 후원 대상 개발자 계정을 즉시 정지할 수 있습니다. 정지의 원인을 수정 또는 치유하지 않는 경우 후원 대상 개발자 계정이 해지될 수 있습니다.
 
-### [5.3. Termination.](#53-termination) ###
+### [5.3. 해지.](#53-termination) ###
 
-Either party may terminate these Additional Terms and your Sponsored Developer Account at any time with or without cause, with or without notice. If you breach these Additional Terms or the Agreement, we may, but are not obligated to, offer you a period of time to cure the breach.
+각 당사자는 이유 여하를 막론하고 통지 유무에 상관없이 본 추가 약관과 귀하의 후원 대상 개발자 계정을 언제든지 해지할 수 있습니다. 귀하가 본 추가 약관 또는 계약을 위반하는 경우, GitHub는 위반을 치유할 수 있는 기간을 제공할 수 있지만 제공할 의무는 없습니다.
 
-### [5.4. Effect of Termination.](#54-effect-of-termination) ###
+### [5.4. 해지의 효력.](#54-effect-of-termination) ###
 
-If either Party terminates under Section 5.3, GitHub’s sole obligation will be to pay Sponsored Developer the amount of the Sponsored Developer Payment accrued up until the date of termination, unless such payments are prohibited by law.
+일방 당사자가 5.3절에 따라 해지하는 경우, GitHub의 유일한 의무는 법률이 금지하지 않는 한 해지 날짜까지 누적된 후원 대상 개발자 지급금 금액을 후원 대상 개발자에게 지급하는 것입니다.
 
-[Terms for Sponsors](#terms-for-sponsors)
+[스폰서 약관](#스폰서-약관)
 ==========
 
-[1. Sponsors Program.](#1-sponsors-program)
+[1. 스폰서 프로그램.](#1-sponsors-program)
 ----------
 
-### [1.1 Description.](#11-description) ###
+### [1.1 설명.](#11-description) ###
 
-GitHub will identify Projects based on the Sponsor’s dependencies for which investment is available at [Explore GitHub Sponsors](https://github.com/sponsors/explore)· Sponsor shall invest in Projects in its sole discretion, including which Projects it sponsors and the amount of its sponsorship.
+GitHub는 [GitHub 스폰서 검색](https://github.com/sponsors/explore)에서 투자를 사용할 수 있는 스폰서의 종속성을 기반으로 프로젝트를 식별합니다. 스폰서는 스폰서가 후원하는 프로젝트와 후원 금액을 포함하여 단독 재량에 따라 프로젝트에 투자해야 합니다.
 
-### [1.2 Invoice creation.](#12-invoice-creation) ###
+### [1.2 청구서 생성.](#12-invoice-creation) ###
 
-GitHub will provide the Sponsor the ability to create an invoice to add funds to their account balance for the purpose of investing in the Projects it so chooses.
+GitHub는 스폰서에게 선택한 프로젝트에 대한 투자 목적으로 계정 잔액에 자금을 추가하는 청구서를 만들 수 있는 기능을 제공합니다.
 
-### [1.3 Dashboard.](#13-dashboard) ###
+### [1.3 대시보드.](#13-dashboard) ###
 
-GitHub will provide Sponsor with a dashboard reflecting their total sponsorship amount and balance.
+GitHub는 총 후원 금액과 잔액을 반영하는 대시보드를 스폰서에게 제공합니다.
 
-### [1.4 Feedback.](#14-feedback) ###
+### [1.4 피드백.](#14-feedback) ###
 
-Sponsors may provide Feedback to GitHub regarding the Program. Feedback is voluntary and is not Sponsor Confidential Information, even if designated as such. GitHub may fully exercise and exploit such Feedback for any purpose.
+스폰서는 프로그램에 관한 피드백을 GitHub에 제공할 수 있습니다. 피드백은 자발적이며 스폰서 비밀 정보에 속하지 않습니다(심지어 그와 같이 지정된 경우에도). GitHub는 모든 목적을 위해 이러한 피드백을 완전히 행사하고 활용할 수 있습니다.
 
-[2. Payment.](#2-payment)
+[2. 지급.](#2-payment)
 ----------
 
-### [2.1 Payment.](#21-payment) ###
+### [2.1 결제.](#21-payment) ###
 
-Sponsor may create an invoice to add funds to their account balance for the purpose of investing in Projects. GitHub will issue an invoice to Sponsor upon completion of the invoice creation form. Sponsor will pay the Fees set forth in each invoice in full, without deduction or set-off of any kind, within thirty (30) days of the GitHub invoice date. Amounts reflected on each Invoice and which are payable under this Agreement are non-refundable.
+스폰서는 프로젝트에 투자할 목적으로 계좌 잔액에 자금을 추가하는 청구서를 만들 수 있습니다. GitHub는 청구서 생성 양식이 완료되면 스폰서에게 청구서를 발행합니다. 스폰서는 GitHub 청구서 날짜의 30일 이내에 모든 종류의 공제 또는 상계 없이 각 청구서에 명시된 수수료를 전액 지불합니다. 각 청구서에 반영되고 본 계약에 따라 지불되는 금액은 환불되지 않습니다.
 
-### [2.2 Fees.](#22-fees) ###
+### [2.2 수수료.](#22-fees) ###
 
-An additional service fee (“Service Fee”) of 3% per transaction will be deducted from Sponsor’s account to cover GitHub’s administrative costs associated with offering the Program. If payment is made via credit card, an additional 3% fee will be applied.
+프로그램 제공과 관련된 GitHub의 관리 비용을 충당하기 위해 거래당 3%의 추가 서비스 요금("서비스 요금")이 스폰서 계정에서 공제됩니다. 신용 카드로 결제하는 경우 3%의 추가 수수료가 적용됩니다.
 
-### [2.3 Taxes.](#23-taxes) ###
+### [2.3 세금.](#23-taxes) ###
 
-Sponsor is solely responsible for all taxes, fees, duties and governmental assessments (except for taxes based on GitHub's net income) that are imposed or become due in connection with this Agreement.
+스폰서는 본 계약과 관련하여 부과되거나 납부해야 할 모든 세금, 요금, 관세 및 정부 과세액(GitHub의 순수입에 근거하여 부과되는 제세공과금은 제외)에 대해 전적인 책임을 집니다.
 
-[3. Term and Termination.](#3-term-and-termination)
+[3. 기간 및 해지.](#3-term-and-termination)
 ----------
 
-### [3.1 Term.](#31-term) ###
+### [3.1 기간.](#31-term) ###
 
-This Agreement is effective for a period of one year commencing on the Effective Date, unless terminated earlier, as set forth below. Unless terminated as set forth herein, this Agreement will automatically renew for additional annual terms.
+본 계약은 아래와 같이 이전에 종료되지 않는 한 발효일로부터 1년 동안 유효합니다. 여기에 명시된 대로 종료되지 않는 한, 본 계약은 추가 연간 조건에 대해 자동으로 갱신됩니다.
 
-### [3.2 Termination.](#32-termination) ###
+### [3.2 해지.](#32-termination) ###
 
-If there is no active invoice pending, either party may terminate this Agreement on thirty (30) days’ prior written notice.
+보류 중인 활성 청구서가 없는 경우, 양 당사자는 삼십(30)일 전에 서면으로 통지한 후 본 계약을 해지할 수 있습니다.
 
-[4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
+[4. 고지 사항; 책임의 제한.](#4-disclaimer-limitation-of-liability)
 ----------
 
-### [4.1 Disclaimer.](#41-disclaimer) ###
+### [4.1 고지 사항.](#41-disclaimer) ###
 
-GitHub provides the Sponsor Program “AS IS” and “AS AVAILABLE,” and GitHub expressly disclaims all warranties, whether express, implied or statutory, regarding the Service, including, without limitation, any implied warranty of merchantability, fitness for a particular purpose, title, security, accuracy or non-infringement.
+GitHub는 스폰서 프로그램을 "있는 그대로"이면서 "사용 가능한 그대로" 제공하며, Github는 상업성, 특정 목적에 대한 적합성, 소유권, 보안, 정확성 또는 비침해성에 대한 보증을 포함하되 이에 국한되지 않는 서비스에 관한 명시적, 묵시적 또는 법적인 모든 보증을 명시적으로 부인합니다.
 
-### [4.2 Limitation of Liability.](#42-limitation-of-liability) ###
+### [4.2 책임의 제한.](#42-limitation-of-liability) ###
 
-#### [4.2.1 Exclusion of Indirect Damages.](#421-exclusion-of-indirect-damages) ####
+#### [4.2.1 간접적 손해 제외.](#421-exclusion-of-indirect-damages) ####
 
-To the maximum extent permitted by applicable law, in no event will either party be liable to the other party for any indirect, special, incidental, punitive, or consequential damages (including for loss of profits, revenue, or data) or for the cost of obtaining substitute products arising out of or in connection with this Agreement, however caused, whether such liability arises from any claim based upon contract, warranty, tort (including negligence), strict liability or otherwise, and whether or not a party has been advised of the possibility of such damages.
+관련 법률이 최대한 허용하는 범위 내에서 각 당사자는 어떠한 경우에도 계약 상대방에게 간접적, 특수적, 우발적, 징벌적 또는 결과적 손해(이익, 수익 또는 데이터의 손실을 포함)에 대한 책임을 지지 않으며, 그러한 책임이 계약, 보증, 불법 행위(과실 포함), 무과실 책임 등을 근거로 한 모든 청구에서 발생하거나 그렇지 않으면 한 당사자가 그러한 손해의 발생 가능성에 관한 알림을 받았는지 여부에 관계없이 본 계약으로 인해 또는 본 계약과 관련하여 발생하는 대체 제품을 획득하는 데 드는 비용에 대해서도 책임을 지지 않습니다.
 
-#### [4.2.2 Limitation of Total Liability.](#422-limitation-of-total-liability) ####
+#### [4.2.2 총 책임의 제한.](#422-limitation-of-total-liability) ####
 
-To the maximum extent permitted by applicable law, in no event will either party's total cumulative liability under this Agreement from all causes of action and all theories of liability exceed the Fees Sponsor has actually paid to GitHub during the twelve month period immediately preceding the event triggering potential liability.
+관련 법률이 최대한 허용하는 범위 내에서 모든 소송 원인 및 모든 책임 이론에 근거하여 본 계약에 따라 각 당사자가 부담해야 할 총 누적 책임은 어떤 경우든 간에 잠재적 책임을 유발하는 이벤트 직전 12개월 동안 스폰서가 GitHub에 실제로 지불한 요금을 초과하지 않습니다.
 
-[General Program Terms (apply to both Sponsors and Sponsored Developers)](#general-program-terms-apply-to-both-sponsors-and-sponsored-developers)
+[일반 프로그램 사용 약관(스폰서 및 후원 대상 개발자 모두에 적용)](#일반-프로그램-사용-약관스폰서-및-후원-대상-개발자-모두에-적용)
 ==========
 
-[A. Confidentiality.](#a-confidentiality)
+[A. 기밀성.](#a-confidentiality)
 ----------
 
-The terms and conditions of this Agreement are the Confidential Information of both parties. Neither party will use Confidential Information provided by the other party hereunder, except as permitted by this Agreement. Each party agrees to maintain in confidence and protect the other party's Confidential Information using at least the same degree of care as it uses for its own information of a similar nature, but in any event at least a reasonable degree of care. Each party will take all reasonable precautions to prevent any unauthorized disclosure of the other party's Confidential Information and will only disclose such Confidential Information to its employees, officers, directors, agents, independent contractors, consultants, and legal and financial advisors (“**representatives**”) who (i) have a need to know such information, (ii) are parties to appropriate agreements sufficient to comply with this Section, and (iii) are informed of the restrictions on use and disclosure set forth in this Section. Each party is responsible for all acts and omissions of its representatives. The foregoing obligations will not restrict the receiving party from disclosing the other party’s Confidential Information pursuant to an order or requirement of a court, administrative agency, or other governmental body, provided that the receiving party gives reasonable notice to the disclosing party to enable such party to contest such order or requirement, unless such notice is prohibited by law.
+본 계약의 사용 약관은 양 당사자의 기밀 정보입니다. 본 계약에서 허용하는 경우를 제외하면 어떤 당사자도 본 계약에 따라 상대 당사자가 제공한 비밀 정보를 사용하지 않습니다. 각 당사자는 유사한 성격의 자체 정보에 대해 적용하는 것과 똑같은 수준의 주의를 기울이면서도 어떤 경우든 간에 최소한 합당한 수준의 주의를 기울여 상대 당사자의 비밀 정보를 비밀로 유지하고 보호하는 데 동의합니다. (i) 비밀 정보를 알아야 할 필요가 있고, (ii) 본 절을 충분히 준수할 수 있는 해당 계약의 당사자이며, (iii) 본 절에 명기된 사용 및 공개 제한을 통지 받는 자로서, 해당 직원, 임원, 이사, 독립된 계약업체, 컨설턴트, 법률 및 재정 자문(“**대리인**”)에게만 그러한 비밀 정보를 공개하고 상대 당사자의 비밀 정보가 무단으로 공개되는 것을 방지하기 위해 각 당사자는 합당한 모든 예방 조치를 취하는 데 동의합니다. 각 당사자는 그 대리인의 모든 작위 및 부작위에 대해 책임이 있습니다. 앞서 언급한 제반 의무는 법원, 행정 기관 또는 그 외 정부 기관의 명령이나 요구 사항에 따라 수신 당사자가 상대 당사자의 비밀 정보를 공개하는 것을 제한하지 않습니다. 단, 수신 당사자는 그러한 명령 또는 요구 사항에 대해 이의를 제기할 수 있도록 법률상 금지된 경우가 아니라면 정보 공개 당사자에게 합당한 통지를 전달해야 합니다.
 
-[B. Publicity.](#b-publicity)
+[B. 공개..](#b-publicity)
 ----------
 
-GitHub may issue press releases, blog posts, social media posts, and/or other public communication related to Sponsor’s (with Sponsor’s permission) or Sponsored Developer’s participation in the Program. Other than as necessary for such use, GitHub shall acquire no rights to use or refer to, or interest in, such Sponsor’s logo, name or names under this Agreement.
+GitHub는 스폰서(스폰서 권한 사용) 또는 후원 대상 개발자의 프로그램 참여와 관련된 보도 자료, 블로그 게시물, 소셜 미디어 게시물 및/또는 기타 공개 통신을 발행할 수 있습니다. 이러한 사용에 필요한 것 외에 GitHub는 본 계약에 따른 스폰서의 로고나 이름을 사용 또는 참조하거나 관심을 가질 수 있는 권리를 획득하지 않습니다.
 
-[C. Notices.](#c-notices)
+[C. 통지.](#c-notices)
 ----------
 
-Notices or communications under this Agreement will be made in writing (email to suffice) to the individual identified on the applicable account. Notices will be deemed received one (1) business day after delivery, if sent by email, and three (3) business days after delivery, if sent via registered mail.
+본 계약에 따른 통지 또는 통신은 해당 계정에서 식별된 개인에게 서면으로(이메일로 충분) 이루어집니다. 통지는 이메일로 전송된 경우 배송 후 영업일 기준 1일, 등기 우편으로 전송된 경우 배송 후 영업일 기준 3일 후에 수신된 것으로 간주됩니다.
 
-[D. Governing Law.](#d-governing-law)
+[D. 준거법.](#d-governing-law)
 ----------
 
-This Agreement will be governed by and construed in accordance with the laws of the State of California, without giving effect to the principles of conflict of law, and any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in the Northern District of California.
+본 계약은 미국 캘리포니아주 법률의 적용을 받고 동법에 따라 해석되며, 본 계약에 의거해 발생하는 모든 법적 소송 또는 절차는 국제사법의 제반 원칙을 실행하지 않고 미국 캘리포니아주 북부 지구에 위치한 연방법원 또는 주 법원에서만 제기됩니다.
 
-[E. Assignment.](#e-assignment)
+[E. 할당.](#e-assignment)
 ----------
 
-Neither party may assign or otherwise transfer this Agreement, in whole or in part, without the other party's prior written consent (not to be unreasonably withheld or delayed), and any attempt to do so will be null and void.
+어느 당사자도 상대방의 사전 서면 동의 없이(불합리하게 보류하거나 지연해서는 안됨) 본 계약을 전부 또는 부분적으로 할당하거나 이전할 수 없으며, 그렇게 하려는 시도는 무효가 됩니다.
 
-[F. Severability.](#f-severability)
+[F. 분리 가능성.](#f-severability)
 ----------
 
-If any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable, the parties will modify this Agreement to give effect to such provision and the remaining provisions will continue in full force and effect.
+본 계약의 조항이 관할 법원에 의해 집행불능으로 판결 되는 경우, 당사자는 본 계약을 수정하여 해당 조항에 적용하고 나머지 조항은 계속해서 완전한 효력을 유지합니다.
 
-[G. Entire Agreement.](#g-entire-agreement)
+[G. 전면 합의.](#g-entire-agreement)
 ----------
 
-This Agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, between the parties, regarding such subject matter. This Agreement may only be amended by a writing signed by both parties that references this Agreement.
+본 계약은 해당 주제에 관한 당사자들 간의 완전 합의를 구성하며, 서면 또는 구두에 상관없이 해당 주제에 관해 당사자들 간의 이전 및 현재의 모든 이해와 합의를 대체합니다. 본 계약은 본 계약을 참조하는 양 당사자가 서명한 서면으로만 수정할 수 있습니다.
 
-[H. Changes to the Terms.](#h-changes-to-the-terms)
+[H. 약관의 변경.](#h-changes-to-the-terms)
 ----------
 
-We reserve the right, at our sole discretion, to amend these Additional Terms at any time. We will notify you of material changes to these Additional Terms, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. Your continued participation in the Program constitutes agreement to our revisions of these Additional Terms. You can view all changes to these Terms in our Site Policy repository.
+당사는 단독 재량에 따라 언제든지 이러한 추가 약관을 수정할 권한을 보유합니다. 당사는 GitHub 웹 사이트에 공지를 게시하여 변경이 효력이 발생하기 적어도 30일 전에 가격 변경 등 본 추가 약관의 중대한 변경을 귀하에게 통지합니다. 귀하가 프로그램에 계속 참가하면 GitHub의 본 추가 약관 수정에 동의하는 것입니다. 본 약관의 모든 변경은 GitHub 사이트 정책 리포지토리에서 볼 수 있습니다.
 
 {"resolvedServerColorMode":"day"}

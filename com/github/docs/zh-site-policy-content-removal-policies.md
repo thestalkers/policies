@@ -1,33 +1,33 @@
-Content Removal Policies - GitHub Docs
+内容删除政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[Home](/zh)
+[主页](/zh)
 
 [Site policy](/zh/site-policy)
 
-* [Site policy](/zh/site-policy)/
-* [Content Removal Policies](/zh/site-policy/content-removal-policies)
+* [站点政策](/zh/site-policy)/
+* [内容删除政策](/zh/site-policy/content-removal-policies)
 
-Content Removal Policies
+内容删除政策
 ==========
 
-[Submitting content removal requests](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
+[提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
 ----------
 
-[DMCA Takedown Policy](/zh/site-policy/content-removal-policies/dmca-takedown-policy)
+[DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[GitHub Private Information Removal Policy](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
+[GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[GitHub Trademark Policy](/zh/site-policy/content-removal-policies/github-trademark-policy)
+[GitHub 商标政策](/zh/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
-[Guide to Submitting a DMCA Counter Notice](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+[DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 ----------
 
-[Guide to Submitting a DMCA Takedown Notice](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+[DMCA 下架通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
 
 {"resolvedServerColorMode":"day"}

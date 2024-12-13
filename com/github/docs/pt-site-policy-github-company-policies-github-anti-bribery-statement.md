@@ -1,89 +1,89 @@
-GitHub Anti-Bribery Statement - GitHub Docs
+Declaração antissuborno do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 
-[Home](/pt)
+[Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
 
-* [Site policy](/pt/site-policy)/
-* [GitHub Company Policies](/pt/site-policy/github-company-policies)/
-* [GitHub Anti-Bribery Statement](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
+* [Política do site](/pt/site-policy)/
+* [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)/
+* [Declaração antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
 
-GitHub Anti-Bribery Statement
+Declaração antissuborno do GitHub
 ==========
 
-In this article
+Neste artigo
 ----------
 
-* [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
-* [Training for our employees](#training-for-our-employees)
-* [Engaging our Partners](#engaging-our-partners)
+* [Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
+* [Treinamento para nossos colaboradores](#training-for-our-employees)
+* [Engajando nossos parceiros](#engaging-our-partners)
 
-GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
+O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são
 
-* **political**, by posing a major obstacle to democracy and the rule of law
-* **economic**, by depleting national wealth
-* **social**, by undermining people’s trust in political society, institutions, and leaders
-* **environmental**, by facilitating non-enforcement of environmental laws and regulations.
+* **políticos**, colocando um grande obstáculo à democracia e ao estado de direito
+* **econômicos**, esgotando a riqueza nacional
+* **sociais**, minando a confiança das pessoas na sociedade política, nas instituições e nos líderes
+* **ambientais**, facilitando a não imposição de leis e regulamentos ambientais.
 
-According to the [World Bank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) in 2017, businesses and individuals pay an estimated $1.5 trillion in bribes each year.
+De acordo com o [Banco Mundial](https://www.worldbank.org/en/topic/governance/brief/anti-corruption), em 2017, empresas e pessoas físicas pagaram cerca de US$ 1,5 trilhão em subornos a cada ano.
 
-[GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
+[Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
 ----------
 
-GitHub makes our anti-bribery commitment clear in a number of company policies. As part of the Microsoft family, GitHub is also committed to Microsoft's Anti-Corruption Policy, which applies to all GitHub employees and contractors, in addition to the policies described here.
+O GitHub deixa claro nosso compromisso antissuborno em várias políticas da empresa. Como parte da família Microsoft, o GitHub também está comprometido com a Política Anticorrupção da Microsoft, que se aplica a todos os funcionários e contratados do GitHub, além das políticas descritas aqui.
 
-GitHub's **Code of Ethics** prohibits employees and contractors from engaging in or contributing to bribery or corruption, and establishes record-keeping requirements:
-
->
->
-> You must never pay, offer to pay, promise to pay, induce, accept, or authorize payment of anything else of value, to anyone—including to anyone in a position of power or authority, such as government officials, or in commercial transactions—in order to obtain or keep business, or secure any other improper advantage for GitHub or Microsoft. You also must not solicit or accept a bribe, kickback, or any other improper cash payment. ... [GitHub employees] are required to keep accurate and fair records of all transactions involving any expense made on GitHub’s behalf—for example, by keeping receipts and providing accurate descriptions of your expenses—or any other transaction involving the disposal or transfer of GitHub assets. Such actions are required by the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act of 2010, and anti-bribery laws of other jurisdictions in which GitHub does business and are also simply the right thing to do.
->
->
-
-GitHub's Code of Ethics elaborates on certain situations, including gifts, travel, and entertainment; facilitating payments; charitable donations; jobs; and working with representatives, as well as on who is considered a government official.
-
-GitHub's Standards of Conduct prohibit:
+O **Código de Ética** do GitHub proíbe que funcionários e prestadores de serviços se envolvam ou contribuam para suborno ou corrupção e estabelece requisitos de manutenção de registros:
 
 >
 >
-> Bribing government officials or other individuals to gain an unfair advantage, and taking bribes from anyone.
+> Você nunca deve pagar, oferecer para pagar, prometer pagar, induzir, aceitar ou autorizar o pagamento de qualquer outra coisa de valor, a qualquer pessoa—incluindo qualquer pessoa em posição de poder ou autoridade, como funcionários do governo ou em transações comerciais— para obter ou manter negócios ou garantir qualquer outra vantagem imprópria para o GitHub ou a Microsoft. Você também não deve solicitar ou aceitar suborno, propina ou qualquer outro pagamento indevido em dinheiro. ... [Funcionários do GitHub] são obrigados a manter registros precisos e justos de todas as transações envolvendo qualquer despesa feita em nome do GitHub, por exemplo, mantendo recibos e fornecendo descrições precisas de suas despesas ou qualquer outra transação envolvendo o descarte ou a transferência de ativos do GitHub. Tais ações são exigidas pela Lei de Práticas de Corrupção no Exterior dos EUA, o Reino Unido Bribery Act de 2010 e leis antissuborno de outras jurisdições nas quais o GitHub faz negócios e também são simplesmente a coisa certa a fazer.
 >
 >
 
-GitHub’s **Gifts and Entertainment Policy** explains that bribery is not permitted in connection with travel or entertainment, and provides examples to illustrate improper conduct. The policy describes proper and improper gifts, travel, and entertainment expenses; company processes for gift-giving by GitHub’s directors, officers, employees, and agents and requirements for record-keeping, penalties; and reporting of violations. It includes clear monetary thresholds for gifts along with annual limitations, with limited exceptions for gifts approved by appropriate management. The policy is clear and easily accessible to GitHub employees and contractors.
+O Código de Ética do GitHub detalha determinadas situações, incluindo presentes, viagens e entretenimento; facilitação de pagamentos; doações de caridade; empregos; e trabalhar com representantes, bem como sobre quem é considerado um funcionário do governo.
 
-[Training for our employees](#training-for-our-employees)
+Os Padrões de Conduta do GitHub proíbem:
+
+>
+>
+> Subornar funcionários do governo ou outros indivíduos para obter uma vantagem injusta e aceitar subornos de qualquer pessoa.
+>
+>
+
+A **Política de Presentes e Entretenimento** do GitHub explica que o suborno não é permitido em relação a viagens ou entretenimento e fornece exemplos para ilustrar a conduta imprópria. A política descreve presentes apropriados e impróprios, viagens e despesas de entretenimento; processos da empresa para doação de presentes por diretores, executivos, funcionários e agentes do GitHub e requisitos para manutenção de registros, penalidades; e comunicação de violações. Inclui limites monetários claros para presentes juntamente com limitações anuais, com exceções limitadas para presentes aprovados pela administração apropriada. A política é clara e facilmente acessível aos funcionários e contratados do GitHub.
+
+[Treinamento para nossos colaboradores](#training-for-our-employees)
 ----------
 
-GitHub employees are required to participate in training on corruption, including bribery. We also provide additional training for particularly relevant people and teams, such as our sales team. The training explains relevant elements of the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act of 2010. For example,
+Os funcionários do GitHub são obrigados a participar de treinamento sobre corrupção, incluindo suborno. Também fornecemos treinamento adicional para pessoas e equipes particularmente relevantes, como nossa equipe de vendas. O treinamento explica elementos relevantes da Lei de Práticas de Corrupção no Exterior dos EUA e do Reino Unido Lei de Suborno de 2010. Por exemplo:
 
-* definition and structural effects of corruption
-* who is covered, including
-  * public officials or others in a position of power
-  * third parties
+* Definição e efeitos estruturais da corrupção
+* Quem está coberto, incluindo
+  * Funcionários públicos ou outros em posição de poder
+  * terceiros
 
-* what kind of activity is covered, including
-  * cash, gifts, travel, and entertainment
-  * facilitation payments
-  * charitable contributions and sponsorship
+* Que tipo de atividade é coberta, incluindo
+  * Dinheiro, presentes, viagens e entretenimento
+  * Pagamentos de facilitação
+  * Contribuições de caridade e patrocínio
 
-* for what purpose, including
-  * intent
-  * improper advantage or influence
+* Para que finalidade, incluindo
+  * intenção
+  * Vantagem ou influência imprópria
 
-* due diligence and red flags
-* record-keeping requirements
+* Due diligence e bandeiras vermelhas
+* Requisitos de registro
 
-In addition, the training covers GitHub’s internal policies related to anti-corruption and bribery, including our non-retaliation (whistleblower) policy.
+Além disso, o treinamento abrange as políticas internas do GitHub relacionadas a anticorrupção e suborno, incluindo nossa política de não retaliação (denunciante).
 
-While the U.S. FCPA is focused on interactions with government officials, the U.K. Bribery Act is broader and extends to bribing anyone, regardless of whether they are a government official. Both laws can extend to GitHub’s actions elsewhere on the globe. GitHub’s policies prohibit bribing anyone, anywhere in the world.
+Enquanto a FCPA dos EUA está focada em interações com funcionários do governo, o Reino Unido A Lei do Suborno é mais ampla e se estende ao suborno de qualquer pessoa, independentemente de ser um funcionário do governo. Ambas as leis podem se estender às ações do GitHub em outras partes do mundo. As políticas do GitHub proíbem subornar qualquer pessoa, em qualquer lugar do mundo.
 
-[Engaging our Partners](#engaging-our-partners)
+[Engajando nossos parceiros](#engaging-our-partners)
 ----------
 
-* GitHub’s standard **resale agreements with Channel Partners** include mandatory anti-corruption clauses. Going forward, GitHub now requires our Channel Partners to commit to complying with this Anti-Corruption Statement.
-* Going forward, GitHub’s **vendor contracts** now require a commitment to comply with Microsoft's Supplier Code of Conduct or this Anti-Corruption Statement.
+* Os **contratos de revenda padrão do GitHub com Parceiros de Canal** incluem cláusulas anticorrupção obrigatórias. No futuro, o GitHub agora exige que nossos parceiros de canal se comprometam a cumprir esta Declaração Anticorrupção.
+* A partir de agora, os **contratos com fornecedores** do GitHub exigem o compromisso de cumprir o Código de Conduta do Fornecedor da Microsoft ou esta Política Anticorrupção.
 
 {"resolvedServerColorMode":"day"}
