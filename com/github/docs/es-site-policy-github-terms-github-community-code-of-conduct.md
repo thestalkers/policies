@@ -119,7 +119,7 @@ La comunidad está aquí para que los usuarios generen confianza a través de re
 
 * **Si detecta cualquier problema, denúncielo.** Los moderadores gozan de una autoridad especial y son los responsables de esta comunidad de GitHub. Pero tú también. Con tu ayuda, los moderadores pueden actuar como coordinadores de la comunidad, y no como meros conserjes o vigilantes.
 
-  Cuando veas un mal comportamiento, no respondas. Fomenta el mal comportamiento al reconocerlo, consume tu energía y desperdicia el tiempo de todos. Puedes denunciar a un usuario problemático o contenido disruptivo a GitHub. Para obtener más información, consulta «[Informar abuso o spam](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)».
+  Cuando veas un mal comportamiento, no respondas. Fomenta el mal comportamiento al reconocerlo, consume tu energía y desperdicia el tiempo de todos. Puedes denunciar a un usuario problemático o contenido disruptivo a GitHub. Para más información, consulta [Informar abuso o spam](/es/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
 
 ### [Nuestras Responsabilidades](#our-responsibilities) ###
 

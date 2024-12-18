@@ -119,7 +119,7 @@ GitHub는 새로운 기술을 이용한 실험을 반기며, 특히 [GitHub Copi
 
 * **문제가 보인다면 신고하세요.** 중재자에게는 특별한 권한이 있으며 이 GitHub 커뮤니티에 대한 책임이 있습니다. 물론 귀하도 마찬가지입니다. 귀하의 도움으로 중재자는 관리인이나 경찰뿐만 아니라 커뮤니티 진행자가 될 수도 있습니다.
 
-  부정 행위가 보인다면 응하지 마십시오. 그렇지 않으면 부정 행위를 인정함으로써 오히려 이를 부추기고 에너지를 소진하며 모든 사람의 시간을 낭비하는 셈이 됩니다. 공격적인 사용자나 콘텐츠는 GitHub에 신고할 수 있습니다 자세한 내용은 "[남용 또는 스팸 보고](/ko/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)"을 참조하세요.
+  부정 행위가 보인다면 응하지 마십시오. 그렇지 않으면 부정 행위를 인정함으로써 오히려 이를 부추기고 에너지를 소진하며 모든 사람의 시간을 낭비하는 셈이 됩니다. 공격적인 사용자나 콘텐츠는 GitHub에 신고할 수 있습니다 자세한 내용은 [남용 또는 스팸 보고](/ko/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)을(를) 참조하세요.
 
 ### [GitHub의 책임](#our-responsibilities) ###
 

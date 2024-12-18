@@ -119,7 +119,7 @@ La communauté est là pour permettre aux utilisateurs d'établir la confiance g
 
 * **Si vous constatez un problème, signalez-le.** Les modérateurs ont une autorité particulière ; ils sont responsables de cette Communauté GitHub. Mais toi aussi. Avec votre aide, les modérateurs peuvent être des animateurs de la communauté, et pas seulement des concierges ou des policiers.
 
-  Lorsque vous voyez un mauvais comportement, ne répondez pas. Cela encourage le mauvais comportement en le reconnaissant, consomme votre énergie et fait perdre le temps de tout le monde. Vous pouvez signaler un contenu ou un utilisateur perturbateur à GitHub. Pour en savoir plus, référez-vous à la section « [Signalement d’abus ou de courrier indésirable](/fr/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) ».
+  Lorsque vous voyez un mauvais comportement, ne répondez pas. Cela encourage le mauvais comportement en le reconnaissant, consomme votre énergie et fait perdre le temps de tout le monde. Vous pouvez signaler un contenu ou un utilisateur perturbateur à GitHub. Pour plus d’informations, consultez « [Signalement d’abus ou de courrier indésirable](/fr/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam) ».
 
 ### [Nos responsabilités](#our-responsibilities) ###
 

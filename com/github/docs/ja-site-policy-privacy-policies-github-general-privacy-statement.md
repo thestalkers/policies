@@ -243,7 +243,7 @@ GitHub は、弊社のサービスの提供、安全確保、改善、または�
 
 弊社の電子メールにはピクセル タグが含まれている場合があります。これは、お客様が電子メールを開いたかどうかと、お客様の IP アドレスを当社に伝えることができる小さい鮮明な画像です。 弊社はこのピクセル タグを使用して、当社からのメール通信の効果を高めると共に、不要なメールをお客様に送信することがないようにしています。
 
-Cookie がお客様のブラウザーまたはデバイス上に保持される時間の長さは、それが "永続" と "セッション" のどちらの Cookie であるかによって異なります。 セッション Cookie は、閲覧を終了するまでの間のみデバイス上に保持されます。 永続 Cookie は、有効期限になるか削除されるまで保持されます。 永続 Cookie に適用される有効期限または保持期間は、Cookie 収集の目的と、使用されるツールによって異なります。 Cookie データを削除できる場合があります。 詳しくは、「[GitHub の一般プライバシー ステートメント](/ja/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)」を参照してください。
+Cookie がお客様のブラウザーまたはデバイス上に保持される時間の長さは、それが "永続" と "セッション" のどちらの Cookie であるかによって異なります。 セッション Cookie は、閲覧を終了するまでの間のみデバイス上に保持されます。 永続 Cookie は、有効期限になるか削除されるまで保持されます。 永続 Cookie に適用される有効期限または保持期間は、Cookie 収集の目的と、使用されるツールによって異なります。 Cookie データを削除できる場合があります。 詳しくは、「[GitHub の一般プライバシー ステートメント](/ja/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)」をご覧ください。
 
 #### [Cookie および類似のテクノロジとは?](#what-are-cookies-and-similar-technologies) ####
 

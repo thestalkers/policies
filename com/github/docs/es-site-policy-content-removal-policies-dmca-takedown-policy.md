@@ -29,7 +29,7 @@ En este artículo
 
 Bienvenido a la Guía de GitHub para la Ley de derechos de autor del milenio digital, comúnmente conocida como "DMCA". Esta página no pretende ser un manual completo del estatuto. Sin embargo, si recibió un aviso de eliminación de DMCA dirigido al contenido que publicó en GitHub o si es un titular de derechos que busca emitir dicho aviso, esperamos que esta página ayude a desmitificar un poco la ley, así como nuestra políticas para su cumplimiento.
 
-(Si solo desea enviar una notificación, puede ir directamente al apartado «[G. Envío de Notificaciones](#g-submitting-notices)»).
+(Si solo desea enviar una notificación, puede ir directamente al apartado [G. Envío de Notificaciones](#g-submitting-notices)).
 
 Como con todos los asuntos legales, siempre es mejor consultar con un profesional acerca de sus preguntas o situaciones específicas. Le recomendamos encarecidamente que lo haga antes de emprender cualquier acción que pueda afectar a sus derechos. Esta guía no es un consejo legal y no debe tomarse como tal.
 
@@ -87,7 +87,7 @@ Estos son los pasos básicos del proceso.
 [B. ¿Qué pasa con las horquillas? (o ¿Qué es un tenedor?)](#b-what-about-forks-or-whats-a-fork)
 ----------
 
-Una de las mejores características de GitHub es la capacidad de los usuarios de "bifurcar" los repositorios de los demás. ¿Qué significa eso? En esencia, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden realizar cambios en esa bifurcación para retroceder al proyecto principal o simplemente mantener su propia variación de un proyecto. Cada una de estas copias es un «[Glosario de GitHub](/es/get-started/learning-about-github/github-glossary#fork)» del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
+Una de las mejores características de GitHub es la capacidad de los usuarios de "bifurcar" los repositorios de los demás. ¿Qué significa eso? En esencia, significa que los usuarios pueden hacer una copia de un proyecto en GitHub en sus propios repositorios. Según lo permita la licencia o la ley, los usuarios pueden realizar cambios en esa bifurcación para retroceder al proyecto principal o simplemente mantener su propia variación de un proyecto. Cada una de estas copias es un [Glosario de GitHub](/es/get-started/learning-about-github/github-glossary#fork) del repositorio original, que a su vez también puede llamarse «matriz» de la bifurcación.
 
 GitHub *no* deshabilitará automáticamente las bifurcaciones cuando deshabilite un repositorio matriz. Esto se debe a que las bifurcaciones pertenecen a diferentes usuarios, pueden haber sido alteradas de manera significativa y pueden tener licencia o usarse de una manera diferente que esté protegida por la doctrina del uso justo. GitHub no realiza ninguna investigación independiente sobre las bifurcaciones. Esperamos que los propietarios de los derechos de autor lleven a cabo esa investigación y, si creen que las bifurcaciones también están infringiendo, incluyan expresamente las bifurcaciones en su aviso de eliminación.
 

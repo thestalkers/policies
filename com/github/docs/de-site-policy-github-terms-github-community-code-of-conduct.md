@@ -119,7 +119,7 @@ Die Gemeinschaft ist dazu da, dass die Benutzer durch authentische Reputationen 
 
 * **Wenn Sie ein Problem sehen, melden Sie es.** Moderatoren haben besondere Befugnisse; sie sind für diese GitHub-Community verantwortlich. Aber du auch. Mit Ihrer Hilfe können die Moderatoren nicht nur Hausmeister oder Polizisten sein, sondern wirkliche Unterstützer der Community.
 
-  Wenn Sie schlechtes Verhalten sehen, antworten Sie nicht. Es ermutigt das schlechte Verhalten, indem es es anerkennt, verbraucht Ihre Energie und verschwendet die Zeit aller. Sie können störende Benutzer oder Inhalte an GitHub melden. Weitere Informationen finden Sie unter [Missbrauch oder Spam melden](/de/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+  Wenn Sie schlechtes Verhalten sehen, antworten Sie nicht. Es ermutigt das schlechte Verhalten, indem es es anerkennt, verbraucht Ihre Energie und verschwendet die Zeit aller. Sie können störende Benutzer oder Inhalte an GitHub melden. Weitere Informationen findest du unter [Missbrauch oder Spam melden](/de/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
 
 ### [Unsere Pflichten](#our-responsibilities) ###
 

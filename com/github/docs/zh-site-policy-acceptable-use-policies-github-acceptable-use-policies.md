@@ -128,7 +128,7 @@ GitHub 可接受使用政策
 [9.过度带宽使用](#9-excessive-bandwidth-use)
 ----------
 
-服务的带宽限制因您使用的功能而异。 如果我们确定您的带宽使用相对于其他功能类似的用户明显过多，我们有权利暂停您的帐户、限制您的文件托管或限制您的活动，直到您可以减少带宽的使用。 我们还保留在提前通知后删除我们认为对我们基础结构造成不当压力的存储库的权利。 如需可接受的存储库内对象存储用法指南，请参阅“[关于 GitHub 上的大文件](/zh/repositories/working-with-files/managing-large-files/about-large-files-on-github)”。 有关特定功能的带宽限制的更多详细信息，请参阅 [GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
+服务的带宽限制因您使用的功能而异。 如果我们确定您的带宽使用相对于其他功能类似的用户明显过多，我们有权利暂停您的帐户、限制您的文件托管或限制您的活动，直到您可以减少带宽的使用。 我们还保留在提前通知后删除我们认为对我们基础结构造成不当压力的存储库的权利。 有关仓库中对象存储的可接受使用指导，请参阅 [关于 GitHub 上的大文件](/zh/repositories/working-with-files/managing-large-files/about-large-files-on-github)。 有关特定功能的带宽限制的更多详细信息，请参阅 [GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
 
 [10. GitHub 上的广告](#10-advertising-on-github)
 ----------

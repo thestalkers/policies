@@ -243,7 +243,7 @@ Para Páginas de Marketing Corporativo, também podemos usar cookies não essenc
 
 Nossos emails para usuários podem conter uma tag de pixel, que é uma imagem pequena e clara que pode nos dizer se você abriu ou não um email e qual é o endereço IP. Usamos essa tag de pixel para tornar nossas comunicações por email mais eficazes e garantir que não estamos enviando emails indesejados.
 
-O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para obter mais informações, confira "[Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls)".
+O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para saber mais, confira [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls).
 
 #### [O que são cookies e tecnologias semelhantes?](#what-are-cookies-and-similar-technologies) ####
 

@@ -119,7 +119,7 @@ A comunidade está aqui para os usuários construírem confiança através de re
 
 * **Se você vir um problema, denuncie.** Os moderadores têm autoridade especial; eles são responsáveis por esta Comunidade do GitHub. Mas você também é. Com sua ajuda, os moderadores podem ser facilitadores da comunidade, não apenas fiscais ou policiais.
 
-  Quando você vir um mau comportamento, não responda. Incentiva o mau comportamento reconhecendo-o, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para o GitHub. Para mais informações, consulte "[Denunciar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)".
+  Quando você vir um mau comportamento, não responda. Incentiva o mau comportamento reconhecendo-o, consome sua energia e desperdiça o tempo de todos. Você pode relatar um usuário ou conteúdo disruptivo para o GitHub. Para saber mais, confira [Denunciar abuso ou spam](/pt/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
 
 ### [Nossas responsabilidades](#our-responsibilities) ###
 

@@ -128,7 +128,7 @@ GitHub 사용 제한 정책
 [9. 과도한 대역폭 사용](#9-excessive-bandwidth-use)
 ----------
 
-서비스의 대역폭 제한은 사용하는 기능에 따라 다릅니다. 귀하의 대역폭 사용량이 유사한 기능의 다른 사용자에 비해 상당히 과도하다고 판단될 경우, 당사는 귀하가 대역폭 사용량을 줄일 수 있을 때까지 귀하의 계정을 일시 중지하거나 파일 호스팅을 제한하거나 그렇지 않으면 귀하의 활동을 제한할 수 있는 권리가 있습니다. 또한 당사는 당사의 인프라에 과도한 부담을 주는 것으로 판단되는 리포지토리를 (사전 통지 후) 삭제할 권리가 있습니다. 리포지토리에서 개체 스토리지의 사용 제한에 관한 지침은 "[GitHub의 대용량 파일 정보](/ko/repositories/working-with-files/managing-large-files/about-large-files-on-github)" 섹션을 참조하십시오. 특정 기능의 대역폭 제한에 관한 자세한 내용은 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)을 참조하십시오.
+서비스의 대역폭 제한은 사용하는 기능에 따라 다릅니다. 귀하의 대역폭 사용량이 유사한 기능의 다른 사용자에 비해 상당히 과도하다고 판단될 경우, 당사는 귀하가 대역폭 사용량을 줄일 수 있을 때까지 귀하의 계정을 일시 중지하거나 파일 호스팅을 제한하거나 그렇지 않으면 귀하의 활동을 제한할 수 있는 권리가 있습니다. 또한 당사는 당사의 인프라에 과도한 부담을 주는 것으로 판단되는 리포지토리를 (사전 통지 후) 삭제할 권리가 있습니다. 리포지토리에서 개체 스토리지의 사용 제한에 관한 지침은 [GitHub의 대용량 파일 정보](/ko/repositories/working-with-files/managing-large-files/about-large-files-on-github) 섹션을 참조하십시오. 특정 기능의 대역폭 제한에 관한 자세한 내용은 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)을 참조하십시오.
 
 [10. GitHub에서의 광고](#10-advertising-on-github)
 ----------

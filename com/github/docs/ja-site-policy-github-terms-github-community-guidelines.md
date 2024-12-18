@@ -50,7 +50,7 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 * **コメントをモデレートする** - リポジトリの[書き込みアクセス権](/ja/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)を持つユーザーは、コミット、プル リクエスト、およびイシューに関する[ユーザーのコメントを編集、削除、または非表示にする](/ja/communities/moderating-comments-and-conversations/managing-disruptive-comments)ことができます。 リポジトリへの読み取りアクセス権を持つユーザーは、コメントの編集履歴を表示できます。 コメント作成者とリポジトリへの書き込みアクセス権を持つユーザーは、[コメントの編集履歴](/ja/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)から機密情報を削除することもできます。 多くのアクティビティがある場合、プロジェクトのモデレートは大きな作業のように感じるかもしれませんが、[コラボレーター](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)を追加してコミュニティの管理を支援することができます。
 
-* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳しくは、「[会話をロックする](/ja/communities/moderating-comments-and-conversations/locking-conversations)」を参照してください。
+* **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳しくは、「[会話をロックする](/ja/communities/moderating-comments-and-conversations/locking-conversations)」をご覧ください。
 
 * **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)できます。
 
