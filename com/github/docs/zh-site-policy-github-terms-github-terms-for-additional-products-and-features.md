@@ -32,7 +32,7 @@ GitHub 附加产品和功能条款
 * [SQL Server Images](#sql-server-images)
 * [GitHub 模型](#github-models)
 
-版本生效日期：2024 年 9 月 9 日
+版本生效日期：2024 年 12 月 18 日
 
 当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
@@ -131,19 +131,21 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 
 GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
 
-对于 GitHub Copilot 个人许可证持有者，对 GitHub Copilot 的使用受以下条款的约束：若要在代码编辑器中使用 GitHub Copilot，需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 若要在网站上使用 GitHub Copilot，则必须访问该网站。 对于您使用 GitHub Copilot 编写的代码（以下称为“**您的代码**”），在将其上传到 GitHub.com 之前，该代码并非本协议下的“内容”。
+对于其他 GitHub Copilot 许可证持有者，对 GitHub Copilot 的使用受以下条款的约束：若要在代码编辑器中使用 GitHub Copilot，需要将 GitHub Copilot 扩展安装到该编辑器。 要在 CLI（命令行接口）中使用 GitHub Copilot，则需要安装 GitHub Copilot CLI 扩展。 要在 GitHub Mobile 上使用 GitHub Copilot 聊天，则需要安装 GitHub Mobile 应用程序。 若要在 GitHub.com 使用 GitHub Copilot，则必须访问该网站。
 
-如果使用 GitHub Copilot 扩展（扩展）自定义 GitHub Copilot，则使用可能会受到该扩展的使用条款和隐私策略的约束。
+如果自定义 GitHub Copilot，包括使用 GitHub Copilot 扩展（扩展），则使用可能会受到适用于该自定义的使用条款和隐私策略的约束。
 
-GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”。 GitHub 不对建议主张任何权利， 你对你的代码（包括你的代码中包含的建议）具有所有权和责任。
+对于使用 GitHub Copilot 编写的代码，在将其上传到 GitHub.com 之前，该代码不属于本协议下的“内容”。 GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”。 GitHub 不对建议主张任何权利， 你对你的代码（包括你的代码中包含的建议）具有所有权和责任。 是否使用 GitHub Copilot 生成的建议完全由你决定。 如果你使用建议，GitHub 强烈建议制定合理的策略和做法，以避免在使用建议时侵犯他人权利。
 
 *可接受的使用方式*
 
-你对 GitHub Copilot 的使用受 GitHub [可接受的使用方式政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)约束。 例如，不得向 GitHub Copilot 提示非法或 GitHub.com 上的 GitHub 可接受的使用方式政策禁止的内容。
+你对 GitHub Copilot 的使用受 GitHub [可接受的使用方式政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)约束。 例如，不得向 GitHub Copilot 提示非法或 GitHub.com 上的 GitHub 可接受的使用方式政策禁止的内容。 如果选择“允许”Copilot 提供[与公共代码匹配的建议](/zh/enterprise-cloud@latest/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions?tool=vscode)，则必须符合引用的许可证。
 
 *数据*
 
-GitHub Copilot：(i) 可能会根据你的设置以及你使用的 GitHub Copilot 服务收集代码片段，并且 (ii) 将通过你使用的与帐户绑定的 GitHub Copilot 服务收集其他使用信息。 这可能包括个人数据，如 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 信任中心](https://resources.github.com/copilot-trust-center/)详细了解 GitHub Copilot 数据的收集和使用。
+GitHub Copilot：(i) 可能会根据你的设置以及你使用的特定 GitHub Copilot 服务收集和处理数据 - 这可能包括提示、建议和代码片段，并且 (ii) 将通过你使用的与帐户绑定的 GitHub Copilot 服务收集其他使用信息 - 这可能包括服务使用信息、网站使用数据和反馈数据。 我们可能根据你的指示与第三方应用程序（例如 [GitHub Marketplace](https://github.com/marketplace) 中的应用程序）或你选择的第三方 AI 模型共享此类数据。 这可能包括个人数据，如 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 信任中心](https://resources.github.com/copilot-trust-center/)详细了解 GitHub Copilot 数据的收集和使用。
+
+对于 GitHub Copilot 免费版用户，GitHub Copilot 收集的数据可能用于 AI 模型训练（在允许的场景下并且如果你的设置中允许这样做）。
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------

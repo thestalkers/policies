@@ -32,7 +32,7 @@
 * [SQL Server Images](#sql-server-images)
 * [GitHub モデル](#github-models)
 
-バージョンの有効日: 2024 年 9 月 9 日
+このバージョンの発効日: 2024 年 12 月 18 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -131,19 +131,21 @@ GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、G
 
 GitHub Copilot Business および Copilot エンタープライズライセンスのライセンス所有者の場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
 
-GitHub Copilot の個々のライセンス所有者の場合、GitHub Copilot の使用は次の条件によって管理されます: コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 Web サイトで GitHub Copilot を使用するには、Web サイトにアクセスする必要があります。 お客様が GitHub Copilot を使用して記述したコード (以下「**お客様のコード**」といいます) は、お客様が GitHub.com にアップロードするまで、本契約に基づく「コンテンツ」ではありません。
+その他の GitHub Copilot のライセンス所有者の場合、GitHub Copilot の使用は次の条件によって管理されます: コード エディターで GitHub Copilot を使用するには、そのエディターに GitHub Copilot 拡張機能をインストールする必要があります。 CLI (コマンド ライン インターフェイス) で GitHub Copilot を使用するには、GitHub Copilot CLI 拡張機能をインストールする必要があります。 GitHub Mobile で GitHub Copilot チャットを使用するには、GitHub Mobile アプリケーションをインストールする必要があります。 GitHub.com で GitHub Copilot を使用するには、Web サイトにアクセスする必要があります。
 
-GitHub Copilot 拡張機能 (拡張機能) を使用して GitHub Copilot をカスタマイズする場合、拡張機能の利用規約とプライバシー ポリシーが適用される場合があります。
+GitHub Copilot 拡張機能 (以下「本拡張機能」といいます) を使用するように GitHub Copilot をカスタマイズした場合、カスタマイズに適用される利用規約とプライバシー ポリシーの対象となることがあります。
 
-GitHub Copilot からお客様に返されるコード、関数およびその他のアウトプットは、「**Suggestions**」と呼ばれます。 GitHub は提案を所有していません。 お客様は、コードの所有権を保持し、コードに含める提案に対する責任を負います。
+お客様が GitHub Copilot を使用して記述したコードは、お客様がそれを GitHub.com にアップロードするまで、本契約に基づく「コンテンツ」ではありません。 GitHub Copilot からお客様に返されるコード、関数およびその他のアウトプットは、「**Suggestions**」と呼ばれます。 GitHub は提案を所有していません。 お客様は、コードの所有権を保持し、コードに含める提案に対する責任を負います。 GitHub Copilot によって生成された提案を使用するかどうかは、完全にお客様の判断に委ねられます。 提案を使用する場合、GitHub では、他のユーザーの権利を侵害する可能性のある方法で提案を使用しないように設計された適切なポリシーとプラクティスを用意することを強くお勧めします。
 
 *許可される使用*
 
-GitHub Copilot の使用は、GitHub [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)が適用されます。 例えば、GitHub.com 上の GitHub 利用規約で違法または禁止されているコンテンツを GitHub Copilot に促すことはできません。
+GitHub Copilot の使用は、GitHub [利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)が適用されます。 例えば、GitHub.com 上の GitHub 利用規約で違法または禁止されているコンテンツを GitHub Copilot に促すことはできません。 [パブリック コードに一致する提案](/ja/enterprise-cloud@latest/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions?tool=vscode)を提供することを Copilot に "許可" した場合、引用されたライセンスに従う必要があります。
 
 *データ*
 
-GitHub Copilot は、(i) 設定と使用する GitHub Copilot Service に応じて、コードのスニペットを収集し、(ii) アカウントに関連付けられている使用する GitHub Copilot Service を通じて追加の使用状況に関する情報を収集する場合があります。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilotトラスト センター](https://resources.github.com/copilot-trust-center/) で詳しく説明されています。
+GitHub Copilot は、(i) お客様の設定と使用する特定の GitHub Copilot Service に基づいてデータを収集および処理する場合があり (これには、プロンプト、提案、コード スニペットが含まれる場合があります)、(ii) お客様のアカウントに関連付けられているお客様が使用する GitHub Copilot Service を通じて追加の使用状況情報を収集します (これには、サービス使用状況情報、Web サイトの利用状況データ、フィードバック データが含まれる場合があります)。 当社は、お客様の指示に従って [GitHub Marketplace](https://github.com/marketplace) 上のものや任意のサードパーティ AI モデルなど、サードパーティ アプリケーションとこのデータを共有する場合があります。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilotトラスト センター](https://resources.github.com/copilot-trust-center/) で詳しく説明されています。
+
+GitHub Copilot Free ユーザーの場合、GitHub Copilot によって収集されたデータは、許可されている場合やお客様が設定で許可している場合に、AI モデルのトレーニングに使用される場合があります。
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------

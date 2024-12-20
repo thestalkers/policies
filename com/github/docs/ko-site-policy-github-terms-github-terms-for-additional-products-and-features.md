@@ -32,7 +32,7 @@ GitHub 추가 제품 및 기능 약관
 * [SQL Server Images](#sql-server-images)
 * [GitHub Models](#github-models)
 
-버전 발효일: 2024년 9월 9일
+버전 발효일: 2024년 12월 18일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -131,19 +131,21 @@ GitHub Connect를 사용하면 GitHub Enterprise Server 배포와 GitHub Enterpr
 
 GitHub Copilot Business 및 Copilot Enterprise 라이선스 소유자의 경우 GitHub Copilot의 사용에 [GitHub Copilot 제품 관련 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)이 적용됩니다.
 
-GitHub Copilot 라이선스 개인 소유자의 경우 GitHub Copilot 사용은 다음 약관에 따라 관리됩니다. 코드 편집기에서 GitHub Copilot을 사용하려면 해당 편집기에 GitHub Copilot 확장을 설치해야 합니다. CLI(명령줄 인터페이스)에서 GitHub Copilot을 사용하려면 GitHub Copilot CLI 확장을 설치해야 합니다. GitHub Mobile에서 GitHub Copilot Chat을 사용하려면 GitHub Mobile 애플리케이션을 설치해야 합니다. 웹 사이트에서 GitHub Copilot을 사용하려면 웹 사이트에 액세스해야 합니다. GitHub Copilot을 사용하여 작성하는 코드(“**코드**”)는 GitHub.com에 업로드할 때까지 계약에 따라 “콘텐츠”가 아닙니다.
+다른 GitHub Copilot 라이선스 소유자의 경우 GitHub Copilot 사용에 다음 약관이 적용됩니다. 코드 편집기에서 GitHub Copilot을 사용하려면 해당 편집기에 GitHub Copilot 확장을 설치해야 합니다. CLI(명령줄 인터페이스)에서 GitHub Copilot을 사용하려면 GitHub Copilot CLI 확장을 설치해야 합니다. GitHub Mobile에서 GitHub Copilot Chat을 사용하려면 GitHub Mobile 애플리케이션을 설치해야 합니다. GitHub.com에서 GitHub Copilot을 사용하려면 웹 사이트에 액세스해야 합니다.
 
-GitHub Copilot 확장(확장)을 사용하여 GitHub Copilot을 사용자 지정하는 경우 확장의 사용 약관 및 개인정보처리방침이 적용될 수 있습니다.
+GitHub Copilot 확장(확장) 사용을 포함하도록 GitHub Copilot을 사용자 지정하는 경우 사용자 지정에 적용되는 사용 약관 및 개인정보처리방침이 사용에 적용될 수 있습니다.
 
-GitHub Copilot에서 반환하는 코드, 함수 및 기타 출력을 "**제안**"이라고 합니다. GitHub에는 제안이 없습니다. 코드의 소유권을 보유하고 코드에 포함된 제안에 대한 책임을 유지합니다.
+GitHub Copilot을 사용하여 작성하는 코드는 GitHub.com에 업로드할 때까지 계약에 따른 “콘텐츠”가 아닙니다. GitHub Copilot에서 반환하는 코드, 함수 및 기타 출력을 "**제안**"이라고 합니다. GitHub에는 제안이 없습니다. 코드의 소유권을 보유하고 코드에 포함된 제안에 대한 책임을 유지합니다. GitHub Copilot에서 생성된 제안을 사용할지는 전적으로 사용자가 결정합니다. 제안을 사용하는 경우 다른 사람의 권리를 침해할 수 있는 방식으로 제안을 사용하지 않도록 하기 위한 합리적인 정책과 관행을 마련하는 것이 좋습니다.
 
 *사용 제한*
 
-GitHub Copilot 사용에는 GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)이 적용됩니다. 예를 들어, 불법이거나 GitHub.com GitHub 사용 제한 정책에 의해 금지된 콘텐츠가 포함된 GitHub Copilot을 표시하지 않을 수 있습니다.
+GitHub Copilot 사용에는 GitHub [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)이 적용됩니다. 예를 들어, 불법이거나 GitHub.com GitHub 사용 제한 정책에 의해 금지된 콘텐츠가 포함된 GitHub Copilot을 표시하지 않을 수 있습니다. Copilot이 [공용 코드와 일치하는 제안](/ko/enterprise-cloud@latest/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions?tool=vscode)을 제공하도록 "허용"하는 경우 인용된 라이선스를 준수해야 합니다.
 
-*데이터*
+*Data*
 
-GitHub Copilot은 (i) 사용자 설정 및 사용하는 GitHub Copilot 서비스에 따라 코드 조각을 수집하고 (ii) 계정에 연결된 GitHub Copilot 서비스를 통해 추가 사용 정보를 수집할 수 있습니다. 여기에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 참조되는 개인 데이터가 포함될 수 있습니다. [GitHub Copilot 보안 센터](https://resources.github.com/copilot-trust-center/)에서 GitHub Copilot 데이터의 수집 및 사용에 대해 자세히 알아볼 수 있습니다.
+GitHub Copilot은 (i) 사용자 설정 및 사용자가 사용하는 특정 GitHub Copilot 서비스(여기에는 프롬프트, 제안 및 코드 조각이 포함될 수 있음)를 기반으로 데이터를 수집 및 처리할 수 있고, (ii) 사용자가 사용하는 GitHub Copilot 서비스를 통해 사용자 계정과 연관된 추가 사용 정보(여기에는 서비스 사용량 정보, 웹 사이트 사용량 현황 데이터 및 피드백 데이터가 포함될 수 있음)를 수집할 수 있습니다. 사용자의 지시에 따라 Microsoft는 이 데이터를 [GitHub Marketplace](https://github.com/marketplace)의 애플리케이션과 같은 타사 애플리케이션이나 사용자가 선택한 타사 AI 모델과 공유할 수 있습니다. 여기에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 참조되는 개인 데이터가 포함될 수 있습니다. [GitHub Copilot 보안 센터](https://resources.github.com/copilot-trust-center/)에서 GitHub Copilot 데이터의 수집 및 사용에 대해 자세히 알아볼 수 있습니다.
+
+GitHub Copilot 무료 사용자의 경우 GitHub Copilot에서 수집한 데이터는 허가되고 사용자가 설정에서 허용한 경우 AI 모델 학습에 사용될 수 있습니다.
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------
