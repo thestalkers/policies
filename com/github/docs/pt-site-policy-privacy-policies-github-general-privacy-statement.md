@@ -24,7 +24,7 @@ Neste artigo
 * [Bases legais para o processamento de dados pessoais (aplicáveis aos usuários finais do EEE e do Reino Unido)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
 * [Seus Direitos de Privacidade](#your-privacy-rights)
 * [Transferências internacionais de dados](#international-data-transfers)
-* [Data Privacy Framework (DPF)](#data-privacy-framework-dpf)
+* [Framework de Privacidade dos Dados (DPF)](#data-privacy-framework-dpf)
 * [Segurança e retenção](#security-and-retention)
 * [Segurança](#security)
 * [Entre em contato conosco.](#contact-us)
@@ -160,7 +160,7 @@ Dependendo do seu local de residência, você pode ter direitos legais específi
 * O direito de retirar o consentimento, quando o processamento for baseado no seu consentimento
 * O direito de receber seus Dados Pessoais coletados em um formato estruturado, comumente usado e legível por máquina para facilitar sua transferência para outra empresa, quando tecnicamente viável
 
-Para exercer esses direitos, envie um e-mail para privacy[at]github[dot]com e siga as instruções fornecidas. Para verificar sua identidade por segurança, podemos solicitar informações adicionais antes de atender sua solicitação relacionada a dados. Entre em contato com nosso Diretor de Proteção de Dados em dpo[at]github[dot]com para qualquer feedback ou preocupação. Dependendo da sua região, você tem o direito de reclamar com a Autoridade de Proteção de Dados local. Os utilizadores europeus podem encontrar contactos de autoridades no sítio Web do Comité Europeu para a Proteção de Dados e os utilizadores do Reino Unido no sítio Web do Information Commissioner's Office.
+Para exercer esses direitos, envie um e-mail para privacy[at]github[dot]com e siga as instruções fornecidas. Para verificar sua identidade por segurança, podemos solicitar informações adicionais antes de atender sua solicitação relacionada a dados. Entre em contato com nosso Diretor de Proteção de Dados em dpo[at]github[dot]com para qualquer feedback ou preocupação. Dependendo da sua região, você tem o direito de reclamar com a Autoridade de Proteção de Dados local. Os usuários europeus podem encontrar contatos de autoridades no site do Comitê Europeu para a Proteção de Dados e os usuários do Reino Unido no site do Information Commissioner's Office.
 
 Nosso objetivo é responder prontamente às solicitações em conformidade com os requisitos legais. Observe que podemos reter certos dados conforme necessário para obrigações legais ou para estabelecer, exercer ou defender reivindicações legais.
 
@@ -169,7 +169,7 @@ Nosso objetivo é responder prontamente às solicitações em conformidade com o
 
 O GitHub armazena e processa Dados Pessoais em uma variedade de locais, incluindo sua região local, os Estados Unidos e outros países onde o GitHub, suas afiliadas, subsidiárias ou subprocessadores têm operações. Transferimos Dados Pessoais da União Europeia, do Reino Unido e da Suíça para países que a Comissão Europeia não reconheceu como tendo um nível adequado de proteção de dados. Quando nos envolvemos em tais transferências, geralmente contamos com as cláusulas contratuais padrão publicadas pela Comissão Europeia de acordo com a [Decisão de Execução 2021/914 da Comissão](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj), para ajudar a proteger seus direitos e permitir que essas proteções viajem com seus dados. Para saber mais sobre as decisões da Comissão Europeia sobre a adequação da proteção dos dados pessoais nos países onde o GitHub processa dados pessoais, consulte este artigo no [site da Comissão Europeia](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).
 
-[Data Privacy Framework (DPF)](#data-privacy-framework-dpf)
+[Framework de Privacidade dos Dados (DPF)](#data-privacy-framework-dpf)
 ----------
 
 O GitHub também está em conformidade com a Framework de Privacidade dos Dados para UE/EUA (DPF para UE/EUA), a Extensão do Reino Unido à DPF para UE/EUA e Framework de Privacidade dos Dados para Suíça/EUA (DPF para Suíça/EUA) conforme estabelecido pelo Departamento de Comércio dos EUA. O GitHub certificou ao Departamento de Comércio dos EUA que adere aos Princípios da Framework de Privacidade dos Dados para UE/EUA (Princípios da DPF para UE/EUA) no que diz respeito ao processamento de dados pessoais recebidos da União Europeia com base no DPF para UE/EUA e do Reino Unido (e Gibraltar) com base na Extensão do Reino Unido à DPF para UE/EUA. O GitHub certificou ao Departamento de Comércio dos EUA que adere aos Princípios da Framework de Privacidade dos Dados para Suíça/EUA (Princípios da DPF para Suíça/EUA)) com relação ao processamento de dados pessoais recebidos da Suíça com base na DPF para Suíça/EUA. Se houver qualquer conflito entre os termos desta política de privacidade e os Princípios da DPF para UE/EUA e/ou os Princípios da DPF para Suíça/EUA. os Princípios prevalecerão. Para saber mais sobre o programa da Framework de Privacidade dos Dados (DPF) e visualizar nossa certificação, acesse <https://www.dataprivacyframework.gov/>.
