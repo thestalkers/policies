@@ -143,7 +143,7 @@ GitHub Copilot の使用は、GitHub [利用規約](/ja/site-policy/acceptable-u
 
 *データ*
 
-GitHub Copilot は、(i) お客様の設定と使用する特定の GitHub Copilot Service に基づいてデータを収集および処理する場合があり (これには、プロンプト、提案、コード スニペットが含まれる場合があります)、(ii) お客様のアカウントに関連付けられているお客様が使用する GitHub Copilot Service を通じて追加の使用状況情報を収集します (これには、サービス使用状況情報、Web サイトの利用状況データ、フィードバック データが含まれる場合があります)。 当社は、お客様の指示に従って [GitHub Marketplace](https://github.com/marketplace) 上のものや任意のサードパーティ AI モデルなど、サードパーティ アプリケーションとこのデータを共有する場合があります。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilotトラスト センター](https://resources.github.com/copilot-trust-center/) で詳しく説明されています。
+GitHub Copilot は、(i) お客様の設定と使用する特定の GitHub Copilot Service に基づいてデータを収集および処理する場合があり (これには、プロンプト、提案、コード スニペットが含まれる場合があります)、(ii) お客様のアカウントに関連付けられているお客様が使用する GitHub Copilot Service を通じて追加の使用状況情報を収集します (これには、サービスの使用状況情報、Web サイトの利用状況データ、フィードバック データが含まれる場合があります)。 当社は、お客様の指示に従って [GitHub Marketplace](https://github.com/marketplace) 上のものや任意のサードパーティ AI モデルなど、サードパーティ アプリケーションとこのデータを共有する場合があります。 これには [GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)で言及されているように、個人データが含まれる場合があります。 GitHub Copilot データの収集と使用については、[GitHub Copilotトラスト センター](https://resources.github.com/copilot-trust-center/) で詳しく説明されています。
 
 GitHub Copilot Free ユーザーの場合、GitHub Copilot によって収集されたデータは、許可されている場合やお客様が設定で許可している場合に、AI モデルのトレーニングに使用される場合があります。
 

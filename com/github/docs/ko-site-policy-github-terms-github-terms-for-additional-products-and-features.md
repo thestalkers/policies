@@ -145,7 +145,7 @@ GitHub Copilot 사용에는 GitHub [사용 제한 정책](/ko/site-policy/accept
 
 GitHub Copilot은 (i) 사용자 설정 및 사용자가 사용하는 특정 GitHub Copilot 서비스(여기에는 프롬프트, 제안 및 코드 조각이 포함될 수 있음)를 기반으로 데이터를 수집 및 처리할 수 있고, (ii) 사용자가 사용하는 GitHub Copilot 서비스를 통해 사용자 계정과 연관된 추가 사용 정보(여기에는 서비스 사용량 정보, 웹 사이트 사용량 현황 데이터 및 피드백 데이터가 포함될 수 있음)를 수집할 수 있습니다. 사용자의 지시에 따라 Microsoft는 이 데이터를 [GitHub Marketplace](https://github.com/marketplace)의 애플리케이션과 같은 타사 애플리케이션이나 사용자가 선택한 타사 AI 모델과 공유할 수 있습니다. 여기에는 [GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 참조되는 개인 데이터가 포함될 수 있습니다. [GitHub Copilot 보안 센터](https://resources.github.com/copilot-trust-center/)에서 GitHub Copilot 데이터의 수집 및 사용에 대해 자세히 알아볼 수 있습니다.
 
-GitHub Copilot 무료 사용자의 경우 GitHub Copilot에서 수집한 데이터는 허가되고 사용자가 설정에서 허용한 경우 AI 모델 학습에 사용될 수 있습니다.
+GitHub Copilot Free(무료) 사용자의 경우 GitHub Copilot에서 수집한 데이터는 허가되고 사용자가 설정에서 허용한 경우 AI 모델 학습에 사용될 수 있습니다
 
 [GitHub Enterprise Importer](#github-enterprise-importer)
 ----------
