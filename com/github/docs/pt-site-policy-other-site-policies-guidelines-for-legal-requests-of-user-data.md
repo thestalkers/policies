@@ -86,7 +86,7 @@ Os repositórios no GitHub — que podem ser públicos ou privados — são mais
 
 Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuários e projetos no GitHub.
 
-* []() **Dados de contas públicas**: há uma variedade de informações disponíveis ao público no GitHub sobre usuários e seus repositórios.
+* <a name="public-account-data"></a> **Dados de contas públicas**: há uma variedade de informações disponíveis ao público no GitHub sobre usuários e seus repositórios.
   Os perfis de usuário podem ser encontrados em um URL como `https://github.com/username`.
   Os perfis de usuário exibem informações sobre quando o usuário criou sua conta, bem como sua atividade pública em GitHub.com e interações sociais.
   Os perfis de usuários públicos também podem incluir informações adicionais que um usuário pode ter escolhido compartilhar publicamente.
@@ -116,7 +116,7 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
 
   * Organizações das quais o usuário é membro (*dependendo das preferências das organizações ou dos usuários*)
 
-* []() **Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
+* <a name="private-account-data"></a> **Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
   Isso pode incluir:
 
   * Endereços de e-mail privados
@@ -129,7 +129,7 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
 
     Para ter uma ideia do tipo de informações de contas privadas coletadas pelo GitHub, você pode visitar seu [painel pessoal](https://github.com/dashboard) e navegar pelas seções na barra de menus à esquerda.
 
-* []() **Dados de contas de organizações**: informações sobre organizações, seus usuários administrativos e repositórios estão disponíveis ao público no GitHub.
+* <a name="organization-account-data"></a> **Dados de contas de organizações**: informações sobre organizações, seus usuários administrativos e repositórios estão disponíveis ao público no GitHub.
   Os perfis de organizações podem ser encontrados em um URL como `https://github.com/organization`.
   Os perfis de organizações públicas também podem incluir informações adicionais que os proprietários optaram por compartilhar publicamente.
   Todos os perfis públicos da organização exibem:
@@ -152,7 +152,7 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
 
   * Colaboradores
 
-* []() **Dados de repositórios públicos**: o GitHub é o lar de milhões de projetos públicos de software de código aberto.
+* <a name="public-repository-data"></a> **Dados de repositórios públicos**: o GitHub é o lar de milhões de projetos públicos de software de código aberto.
   Você pode navegar em quase qualquer repositório público (por exemplo, o [GitHub Docs](https://github.com/github/docs)) para ter uma noção das informações que o GitHub coleta e mantém sobre os repositórios.
   Isso pode incluir:
 
@@ -165,9 +165,9 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
   * Documentação do projeto, como problemas e páginas Wiki
   * Estatísticas e gráficos mostrando as contribuições para o projeto e a rede de colaboradores
 
-* []() **Dados de repositórios privados**: o GitHub coleta e mantém o mesmo tipo de dados de repositórios privados que podem ser vistos de repositórios públicos, exceto que apenas usuários especificamente convidados podem acessar dados de repositórios privados.
+* <a name="private-repository-data"></a> **Dados de repositórios privados**: o GitHub coleta e mantém o mesmo tipo de dados de repositórios privados que podem ser vistos de repositórios públicos, exceto que apenas usuários especificamente convidados podem acessar dados de repositórios privados.
 
-* []() **Outros dados**: além disso, o GitHub coleta dados analíticos, como visitas a páginas e informações ocasionalmente oferecidas por nossos usuários (como comunicações com nossa equipe de suporte, informações de pesquisas e/ou registros de sites).
+* <a name="other-data"></a> **Outros dados**: além disso, o GitHub coleta dados analíticos, como visitas a páginas e informações ocasionalmente oferecidas por nossos usuários (como comunicações com nossa equipe de suporte, informações de pesquisas e/ou registros de sites).
 
 [Notificaremos todos os proprietários de contas afetados](#we-will-notify-any-affected-account-owners)
 ----------
@@ -182,9 +182,9 @@ O GitHub se reserva o direito de se opor a quaisquer solicitações de informaç
 Quando o GitHub concordar em produzir informações não públicas em resposta a uma solicitação legal, realizaremos uma busca razoável pelas informações solicitadas.
 Aqui estão os tipos de informações que concordamos em produzir, dependendo do tipo de processo legal com o qual somos atendidos:
 
-* []() **Com consentimento do usuário**: o GitHub fornecerá informações de contas privadas, se solicitadas, diretamente ao usuário (ou a um proprietário, no caso de uma conta de organização) ou a um terceiro designado com a autorização por escrito do usuário assim que o GitHub estiver convencido de que o usuário verificou sua identidade.
+* <a name="with-user-consent"></a> **Com consentimento do usuário**: o GitHub fornecerá informações de contas privadas, se solicitadas, diretamente ao usuário (ou a um proprietário, no caso de uma conta de organização) ou a um terceiro designado com a autorização por escrito do usuário assim que o GitHub estiver convencido de que o usuário verificou sua identidade.
 
-* []() **Com uma intimação**: se recebermos uma intimação válida, uma demanda investigativa civil ou um processo legal semelhante emitido em conexão com uma investigação criminal ou civil oficial, poderemos fornecer certas informações de contas não públicas, que poderão incluir:
+* <a name="with-a-subpoena"></a> **Com uma intimação**: se recebermos uma intimação válida, uma demanda investigativa civil ou um processo legal semelhante emitido em conexão com uma investigação criminal ou civil oficial, poderemos fornecer certas informações de contas não públicas, que poderão incluir:
 
   * Nomes associados à conta
   * Endereço(s) de e-mail associado(s) à conta
@@ -197,7 +197,7 @@ No caso de contas da organização, podemos fornecer os nomes e endereços de e-
 
 Observe que as informações disponíveis variam de caso para caso. Algumas das informações são opcionais para os usuários fornecerem. Em outros casos, podemos não ter coletado ou retido as informações.
 
-* []() **Com uma ordem judicial *ou* um mandado de busca**: não divulgaremos logs de acesso à conta, a menos que sejamos obrigados a fazê-lo por (i) uma ordem judicial emitida de acordo com 18 U.S.C. Seção 2703(d), mediante a apresentação de fatos específicos e articuláveis que demonstrem que há motivos razoáveis para acreditar que a informação solicitada é relevante e material para uma investigação criminal em andamento; ou (ii) um mandado de busca expedido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente, mediante demonstração de causa provável.
+* <a name="with-a-court-order-or-a-search-warrant"></a> **Com uma ordem judicial *ou* um mandado de busca**: não divulgaremos logs de acesso à conta, a menos que sejamos obrigados a fazê-lo por (i) uma ordem judicial emitida de acordo com 18 U.S.C. Seção 2703(d), mediante a apresentação de fatos específicos e articuláveis que demonstrem que há motivos razoáveis para acreditar que a informação solicitada é relevante e material para uma investigação criminal em andamento; ou (ii) um mandado de busca expedido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente, mediante demonstração de causa provável.
   Além das informações de contas não públicas listadas acima, podemos fornecer registros de acesso à conta em resposta a uma ordem judicial ou mandado de busca, que pode incluir:
 
   * Quaisquer registros que revelem os movimentos de um usuário durante um período de tempo
@@ -205,7 +205,7 @@ Observe que as informações disponíveis variam de caso para caso. Algumas das 
   * Dados analíticos específicos de usuário ou IP, como histórico de navegação
   * Logs de acesso de segurança que não sejam a criação da conta ou para um horário e data específicos
 
-* []() **Só com mandado de busca**: não divulgaremos o conteúdo privado de nenhuma conta, a menos que sejamos obrigados a fazê-lo sob um mandado de busca emitido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente mediante demonstração de causa provável.
+* <a name="only-with-a-search-warrant"></a> **Só com mandado de busca**: não divulgaremos o conteúdo privado de nenhuma conta, a menos que sejamos obrigados a fazê-lo sob um mandado de busca emitido de acordo com os procedimentos descritos nas Regras Federais de Processo Penal ou procedimentos de mandado estadual equivalente mediante demonstração de causa provável.
   Além das informações não públicas da conta e dos logs de acesso à conta mencionados acima, também forneceremos o conteúdo da conta privada em resposta a um mandado de busca, que pode incluir:
 
   * Conteúdo de Gists secretos
@@ -214,7 +214,7 @@ Observe que as informações disponíveis variam de caso para caso. Algumas das 
   * Comunicações ou documentação (como Issues ou Wikis) em repositórios privados
   * Quaisquer chaves de segurança usadas para autenticação ou criptografia
 
-* []() **Em circunstâncias prementes**: se recebermos uma solicitação de informações em determinadas circunstâncias prementes (em que acreditamos que a divulgação é necessária para evitar uma emergência envolvendo perigo de morte ou lesão física grave a uma pessoa), poderemos divulgar informações limitadas que consideramos necessárias para permitir a aplicação da lei a fim de atender à emergência. Para qualquer informação além disso, exigimos uma intimação, mandado de busca ou ordem judicial, conforme descrito acima. Por exemplo, não divulgaremos conteúdos de repositórios privados sem um mandado de busca. Antes de divulgar as informações, confirmamos que a solicitação veio de uma agência de aplicação da lei, uma autoridade enviou um aviso oficial resumindo a emergência e como as informações solicitadas ajudarão a lidar com a emergência.
+* <a name="in-exigent-circumstances"></a> **Em circunstâncias prementes**: se recebermos uma solicitação de informações em determinadas circunstâncias prementes (em que acreditamos que a divulgação é necessária para evitar uma emergência envolvendo perigo de morte ou lesão física grave a uma pessoa), poderemos divulgar informações limitadas que consideramos necessárias para permitir a aplicação da lei a fim de atender à emergência. Para qualquer informação além disso, exigimos uma intimação, mandado de busca ou ordem judicial, conforme descrito acima. Por exemplo, não divulgaremos conteúdos de repositórios privados sem um mandado de busca. Antes de divulgar as informações, confirmamos que a solicitação veio de uma agência de aplicação da lei, uma autoridade enviou um aviso oficial resumindo a emergência e como as informações solicitadas ajudarão a lidar com a emergência.
 
 [Reembolso de custos](#cost-reimbursement)
 ----------

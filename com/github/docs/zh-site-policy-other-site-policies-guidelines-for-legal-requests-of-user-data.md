@@ -92,7 +92,7 @@ Repositories on GitHub—which may be public or private—are most commonly used
 
 Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
 
-* []()**Public account data:**There is a variety of information publicly available on GitHub about users and their repositories.
+* <a name="public-account-data"></a>**Public account data:**There is a variety of information publicly available on GitHub about users and their repositories.
   User profiles can be found at a URL such as `https://github.com/username`.
   User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
   Public user profiles can also include additional information that a user may have chosen to share publicly.
@@ -122,7 +122,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-* []()**Private account data:**GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
+* <a name="private-account-data"></a>**Private account data:**GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-privacy-statement).
   This may include:
 
   * Private email addresses
@@ -135,7 +135,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
     To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
-* []()**Organization account data:**Information about organizations, their administrative users and repositories is publicly available on GitHub.
+* <a name="organization-account-data"></a>**Organization account data:**Information about organizations, their administrative users and repositories is publicly available on GitHub.
   Organization profiles can be found at a URL such as `https://github.com/organization`.
   Public organization profiles can also include additional information that the owners have chosen to share publicly.
   All organization public profiles display:
@@ -158,7 +158,7 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
 
   * Collaborators
 
-* []()**Public repository data:**GitHub is home to millions of public, open-source software projects.
+* <a name="public-repository-data"></a>**Public repository data:**GitHub is home to millions of public, open-source software projects.
   You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
   This can include:
 
@@ -171,9 +171,9 @@ Here is a non-exhaustive list of the kinds of data we maintain about users and p
   * Project documentation such as Issues and Wiki pages
   * Statistics and graphs showing contributions to the project and the network of contributors
 
-* []()**Private repository data:**GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
+* <a name="private-repository-data"></a>**Private repository data:**GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
 
-* []()**Other data:**Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
+* <a name="other-data"></a>**Other data:**Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
 [We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
 ----------
@@ -188,9 +188,9 @@ GitHub reserves the right to object to any requests for non-public information.
 Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
-* []()**With user consent:**GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
+* <a name="with-user-consent"></a>**With user consent:**GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
 
-* []()**With a subpoena:**If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
+* <a name="with-a-subpoena"></a>**With a subpoena:**If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
 
   * Name(s) associated with the account
   * Email address(es) associated with the account
@@ -203,7 +203,7 @@ In the case of organization accounts, we can provide the name(s) and email addre
 
 Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
 
-* []()**With a court order *or* a search warrant:** We will not disclose account access logs unless compelled to do so by either
+* <a name="with-a-court-order-or-a-search-warrant"></a>**With a court order *or* a search warrant:** We will not disclose account access logs unless compelled to do so by either
   (i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
   (ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
   In addition to the non-public account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
@@ -213,7 +213,7 @@ Please note that the information available will vary from case to case. Some of 
   * User- or IP-specific analytic data such as browsing history
   * Security access logs other than account creation or for a specific time and date
 
-* []()**Only with a search warrant:**We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
+* <a name="only-with-a-search-warrant"></a>**Only with a search warrant:**We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
   In addition to the non-public account information and account access logs mentioned above, we will also provide private account contents in response to a search warrant, which may include:
 
   * Contents of secret Gists
@@ -222,7 +222,7 @@ Please note that the information available will vary from case to case. Some of 
   * Communications or documentation (such as Issues or Wikis) in private repositories
   * Any security keys used for authentication or encryption
 
-* []()**Under exigent circumstances:**If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
+* <a name="in-exigent-circumstances"></a>**Under exigent circumstances:**If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
 
 [Cost reimbursement](#cost-reimbursement)
 ----------

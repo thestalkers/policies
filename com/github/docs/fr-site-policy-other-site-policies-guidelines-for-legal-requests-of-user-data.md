@@ -86,7 +86,7 @@ Les référentiels sur GitHub, qui peuvent être publics ou privés, sont le plu
 
 Voici une liste non exhaustive des types de données que nous conservons sur les utilisateurs et les projets sur GitHub.
 
-* []() **Données de compte public** : il existe une variété d'informations accessibles au public sur GitHub concernant les utilisateurs et leurs référentiels.
+* <a name="public-account-data"></a> **Données de compte public** : il existe une variété d'informations accessibles au public sur GitHub concernant les utilisateurs et leurs référentiels.
   Les profils utilisateur sont disponibles en utilisant une URL, par exemple `https://github.com/username`.
   Les profils d'utilisateurs affichent des informations sur le moment où l'utilisateur a créé son compte ainsi que son activité publique sur GitHub.com et ses interactions sociales.
   Les profils d'utilisateurs publics peuvent également inclure des informations supplémentaires qu'un utilisateur peut avoir choisi de partager publiquement.
@@ -116,7 +116,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
   * Les organisations auxquelles l'utilisateur est membre (*selon les préférences de l'organisation ou de l'utilisateur*)
 
-* []() **Données de compte privé** : GitHub collecte et conserve également certaines informations privées sur les utilisateurs, comme indiqué dans notre [Politique de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement).
+* <a name="private-account-data"></a> **Données de compte privé** : GitHub collecte et conserve également certaines informations privées sur les utilisateurs, comme indiqué dans notre [Politique de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement).
   Cela peut inclure :
 
   * Adresses e-mail privées
@@ -129,7 +129,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
     Pour avoir une idée du type d'informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
 
-* []() **Données de compte d'organisation** : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
+* <a name="organization-account-data"></a> **Données de compte d'organisation** : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
   Les profils d'organisation sont disponibles en utilisant une URL, par exemple `https://github.com/organization`.
   Les profils d'organisations publiques peuvent également inclure des informations supplémentaires que les propriétaires ont choisi de partager publiquement.
   Tous les profils publics d'organisation affichent :
@@ -152,7 +152,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
   * Collaborateurs
 
-* []() **Données de référentiel public** : GitHub héberge des millions de projets logiciels publics, open source.
+* <a name="public-repository-data"></a> **Données de référentiel public** : GitHub héberge des millions de projets logiciels publics, open source.
   Vous pouvez parcourir presque tous les référentiels publics (par exemple, [GitHub Docs](https://github.com/github/docs)) pour avoir une idée des informations que GitHub collecte et conserve sur les référentiels.
   Cela peut inclure :
 
@@ -165,9 +165,9 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
   * Documentation du projet telle que les pages Problèmes et Wiki
   * Statistiques et graphiques montrant les contributions au projet et le réseau de contributeurs
 
-* []() **Données de référentiel privé** : GitHub collecte et conserve le même type de données pour les dépôts privés que celles visibles pour les dépôts publics, sauf que seuls les utilisateurs spécifiquement invités peuvent accéder aux données de référentiel privé.
+* <a name="private-repository-data"></a> **Données de référentiel privé** : GitHub collecte et conserve le même type de données pour les dépôts privés que celles visibles pour les dépôts publics, sauf que seuls les utilisateurs spécifiquement invités peuvent accéder aux données de référentiel privé.
 
-* []() **Autres données** : en outre, GitHub collecte des données d'analyse telles que les visites de pages et les informations fournies occasionnellement par nos utilisateurs (comme les communications avec notre équipe de support, les informations d'enquête et/ou les inscriptions au site).
+* <a name="other-data"></a> **Autres données** : en outre, GitHub collecte des données d'analyse telles que les visites de pages et les informations fournies occasionnellement par nos utilisateurs (comme les communications avec notre équipe de support, les informations d'enquête et/ou les inscriptions au site).
 
 [Nous aviserons tous les titulaires de compte concernés](#we-will-notify-any-affected-account-owners)
 ----------
@@ -182,9 +182,9 @@ GitHub se réserve le droit de s'opposer à toute demande d'informations non pub
 Lorsque GitHub accepte de produire des informations non publiques en réponse à une demande légale, nous effectuerons une recherche raisonnable des informations demandées.
 Voici les types d'informations que nous accepterons de produire, selon le type de procédure judiciaire qui nous est signifiée :
 
-* []() **Avec le consentement de l'utilisateur** : GitHub fournira des informations privées sur le compte, si demandé, directement à l'utilisateur (ou à un propriétaire, dans le cas d'un compte d'organisation), ou à un tiers désigné avec le consentement écrit de l'utilisateur une fois que GitHub est convaincu que l'utilisateur a vérifié son identité.
+* <a name="with-user-consent"></a> **Avec le consentement de l'utilisateur** : GitHub fournira des informations privées sur le compte, si demandé, directement à l'utilisateur (ou à un propriétaire, dans le cas d'un compte d'organisation), ou à un tiers désigné avec le consentement écrit de l'utilisateur une fois que GitHub est convaincu que l'utilisateur a vérifié son identité.
 
-* []() **Avec une citation à comparaître** : si nous recevons une citation à comparaître valable, une demande d'enquête civile ou un processus légal similaire émis dans le cadre d'une enquête criminelle ou civile officielle, nous pouvons fournir certaines informations sur le compte non publiques, qui peuvent inclure :
+* <a name="with-a-subpoena"></a> **Avec une citation à comparaître** : si nous recevons une citation à comparaître valable, une demande d'enquête civile ou un processus légal similaire émis dans le cadre d'une enquête criminelle ou civile officielle, nous pouvons fournir certaines informations sur le compte non publiques, qui peuvent inclure :
 
   * Noms associés au compte
   * Adresse(s) e-mail(s) associée(s) au compte
@@ -197,7 +197,7 @@ Dans le cas de comptes d'organisation, nous pouvons fournir les noms et adresse(
 
 Veuillez noter que les informations disponibles varient d'un cas à l'autre. Certaines des informations sont facultatives pour les utilisateurs. Dans d'autres cas, il se peut que nous n'ayons pas collecté ou conservé les informations.
 
-* []() **Avec une ordonnance du tribunal *ou* un mandat de perquisition** : nous ne divulguerons pas les journaux d'accès aux comptes à moins d'y être contraints par (i) une ordonnance du tribunal rendue en vertu de l'article 18 U.S.C. Section 2703(d), sur présentation de faits précis et articulés montrant qu'il existe des motifs raisonnables de croire que les informations recherchées sont pertinentes et importantes pour une enquête criminelle en cours ; ou (ii) un mandat de perquisition émis selon les procédures décrites dans les Règles fédérales de procédure pénale ou des procédures de mandat d'État équivalentes, sur présentation d'une cause probable.
+* <a name="with-a-court-order-or-a-search-warrant"></a> **Avec une ordonnance du tribunal *ou* un mandat de perquisition** : nous ne divulguerons pas les journaux d'accès aux comptes à moins d'y être contraints par (i) une ordonnance du tribunal rendue en vertu de l'article 18 U.S.C. Section 2703(d), sur présentation de faits précis et articulés montrant qu'il existe des motifs raisonnables de croire que les informations recherchées sont pertinentes et importantes pour une enquête criminelle en cours ; ou (ii) un mandat de perquisition émis selon les procédures décrites dans les Règles fédérales de procédure pénale ou des procédures de mandat d'État équivalentes, sur présentation d'une cause probable.
   Outre les informations de compte non publiques répertoriées ci-dessus, nous pouvons fournir des journaux d'accès au compte en réponse à une ordonnance du tribunal ou à un mandat de perquisition, qui peuvent inclure :
 
   * Tous les journaux qui révéleraient les mouvements d'un utilisateur sur une période donnée
@@ -205,7 +205,7 @@ Veuillez noter que les informations disponibles varient d'un cas à l'autre. Cer
   * Données analytiques spécifiques à l'utilisateur ou à l'IP telles que l'historique de navigation
   * Journaux d'accès de sécurité autres que la création de compte ou pour une heure et une date spécifiques
 
-* []() **Uniquement avec un mandat de perquisition** : nous ne divulguerons pas le contenu privé d'un compte à moins d'y être contraints par un mandat de perquisition délivré conformément aux procédures décrites dans les Règles fédérales de Procédure pénale des États-Unis ou à des procédures équivalentes d'autres États sur présentation d'une cause probable.
+* <a name="only-with-a-search-warrant"></a> **Uniquement avec un mandat de perquisition** : nous ne divulguerons pas le contenu privé d'un compte à moins d'y être contraints par un mandat de perquisition délivré conformément aux procédures décrites dans les Règles fédérales de Procédure pénale des États-Unis ou à des procédures équivalentes d'autres États sur présentation d'une cause probable.
   En plus des informations de compte non publiques et des journaux d'accès au compte mentionnés ci-dessus, nous fournirons également le contenu du compte privé en réponse à un mandat de perquisition, qui peut inclure :
 
   * Contenu des Gists secrets
@@ -214,7 +214,7 @@ Veuillez noter que les informations disponibles varient d'un cas à l'autre. Cer
   * Communications ou documentation (telles que les problèmes ou les wikis) dans des référentiels privés
   * Toutes les clés de sécurité utilisées pour l'authentification ou le chiffrement
 
-* []() **Dans des circonstances urgentes** : si nous recevons une demande d'informations dans certaines circonstances exceptionnelles (lorsque nous pensons que la divulgation est nécessaire pour prévenir une urgence impliquant un danger de mort ou de blessure physique grave pour une personne), nous pouvons divulguer des informations limitées que nous jugeons nécessaires pour pouvoir répondre à l'urgence par la mise en œuvre des principes de protection des informations personnelles. Pour toute information au-delà de cela, nous aurions besoin d'une citation à comparaître, d'un mandat de perquisition ou d'une ordonnance du tribunal, comme décrit ci-dessus. Par exemple, nous ne divulguerons pas le contenu de dépôts privés sans mandat de perquisition. Avant de divulguer des informations, nous confirmons que la demande provient d'un organisme chargé de l'application de la loi, une autorité a envoyé un avis officiel résumant l'urgence et comment les informations demandées aideront à faire face à l'urgence.
+* <a name="in-exigent-circumstances"></a> **Dans des circonstances urgentes** : si nous recevons une demande d'informations dans certaines circonstances exceptionnelles (lorsque nous pensons que la divulgation est nécessaire pour prévenir une urgence impliquant un danger de mort ou de blessure physique grave pour une personne), nous pouvons divulguer des informations limitées que nous jugeons nécessaires pour pouvoir répondre à l'urgence par la mise en œuvre des principes de protection des informations personnelles. Pour toute information au-delà de cela, nous aurions besoin d'une citation à comparaître, d'un mandat de perquisition ou d'une ordonnance du tribunal, comme décrit ci-dessus. Par exemple, nous ne divulguerons pas le contenu de dépôts privés sans mandat de perquisition. Avant de divulguer des informations, nous confirmons que la demande provient d'un organisme chargé de l'application de la loi, une autorité a envoyé un avis officiel résumant l'urgence et comment les informations demandées aideront à faire face à l'urgence.
 
 [Remboursement des frais](#cost-reimbursement)
 ----------
