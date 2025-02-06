@@ -2,7 +2,7 @@ Términos y condiciones de las aplicaciones de código abierto de GitHub - Docum
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

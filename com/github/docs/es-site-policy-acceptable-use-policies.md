@@ -2,7 +2,7 @@ Directivas de Uso Aceptable - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

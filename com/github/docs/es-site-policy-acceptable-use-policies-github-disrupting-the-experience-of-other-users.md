@@ -2,7 +2,7 @@ GitHub interrumpiendo la experiencia de otros usuarios - Documentación de GitHu
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

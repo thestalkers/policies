@@ -2,7 +2,7 @@ Declaración de privacidad de los espacios de código de GitHub - Documentación
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

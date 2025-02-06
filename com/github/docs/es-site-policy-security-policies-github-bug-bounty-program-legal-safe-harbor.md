@@ -2,7 +2,7 @@ Programa de recompensas por errores de GitHub Puerto seguro legal - Documentaci√
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 

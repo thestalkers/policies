@@ -2,7 +2,7 @@ Divulgación coordinada de vulnerabilidades de seguridad - Documentación de Git
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+[Home](/es)
 
 [Site policy](/es/site-policy)
 
