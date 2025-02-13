@@ -20,7 +20,7 @@ In this article
 * [Training for our employees](#training-for-our-employees)
 * [Engaging our Partners](#engaging-our-partners)
 
-GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) explains, the costs of corruption are
+GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption) explains, the costs of corruption are
 
 * **political**, by posing a major obstacle to democracy and the rule of law
 * **economic**, by depleting national wealth
