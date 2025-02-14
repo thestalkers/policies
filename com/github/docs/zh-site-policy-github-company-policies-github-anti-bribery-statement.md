@@ -20,7 +20,7 @@ GitHub 反贿赂声明
 * [员工培训](#training-for-our-employees)
 * [与合作伙伴合作](#engaging-our-partners)
 
-GitHub 恪守我们对道德商业实践的承诺，包括禁止贿赂和腐败。 正如[透明国际](https://www.transparency.org/what-is-corruption#costs-of-corruption)所述，腐败的危害极大：
+GitHub 恪守我们对道德商业实践的承诺，包括禁止贿赂和腐败。 正如[透明国际](https://www.transparency.org/what-is-corruption)所述，腐败的危害极大：
 
 * **在政治上**，严重阻碍民主和法治
 * **在经济上**，消耗国家财富

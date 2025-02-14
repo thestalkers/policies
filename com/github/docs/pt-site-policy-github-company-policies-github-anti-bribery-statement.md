@@ -20,7 +20,7 @@ Neste artigo
 * [Treinamento para nossos colaboradores](#training-for-our-employees)
 * [Engajando nossos parceiros](#engaging-our-partners)
 
-O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption#costs-of-corruption) explica, os custos da corrupção são
+O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption) explica, os custos da corrupção são
 
 * **políticos**, colocando um grande obstáculo à democracia e ao estado de direito
 * **econômicos**, esgotando a riqueza nacional

@@ -20,7 +20,7 @@ GitHub の腐敗防止に関する声明
 * [従業員のトレーニング](#training-for-our-employees)
 * [パートナーへの関与](#engaging-our-partners)
 
-GitHub は、贈収賄と汚職の禁止を含む、倫理的ビジネス慣行への取り組みを掲げています。 [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption) の説明によると、汚職のコストは
+GitHub は、贈収賄と汚職の禁止を含む、倫理的ビジネス慣行への取り組みを掲げています。 [Transparency International](https://www.transparency.org/what-is-corruption) の説明によると、汚職のコストは
 
 * **政治**、民主主義および法規範に大きな障害をもたらすことによる
 * **経済**、国民資産を激減させることによる

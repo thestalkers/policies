@@ -20,7 +20,7 @@ Dans cet article
 * [Formation pour nos employés](#training-for-our-employees)
 * [Engager nos partenaires](#engaging-our-partners)
 
-GitHub respecte notre engagement envers des pratiques commerciales éthiques, notamment en interdisant les pots-de-vin et la corruption. Comme l'explique [Transparency International](https://www.transparency.org/what-is-corruption#costs-of-corruption), les coûts de la corruption sont :
+GitHub respecte notre engagement envers des pratiques commerciales éthiques, notamment en interdisant les pots-de-vin et la corruption. Comme l'explique [Transparency International](https://www.transparency.org/what-is-corruption), les coûts de la corruption sont :
 
 * **politiques**, en posant un obstacle majeur à la démocratie et à l'État de droit ;
 * **économiques**, en épuisant la richesse nationale ;
