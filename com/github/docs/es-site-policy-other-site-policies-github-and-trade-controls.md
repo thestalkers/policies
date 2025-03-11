@@ -50,7 +50,7 @@ GitHub Enterprise Server es un producto comercial destinado al público general 
 
 GitHub Enterprise Server no puede venderse, exportarse o reexportarse a ningún país que figure en el Grupo de países E:1 en el Suplemento n.º 1. 1 a la parte 740 del EAR ni a las siguientes regiones de Ucrania: Crimea y las zonas separatistas de Donetsk y Luhansk. Los países enumerados actualmente incluyen Cuba, Irán, Corea del Norte, Siria, Rusia y Bielorrusia, pero esta lista está sujeta a cambios.
 
-### [Copiloto de GitHub](#github-copilot) ###
+### [GitHub Copilot](#github-copilot) ###
 
 GitHub Copilot es un producto comercial destinado al público general que tiene asignado el número de clasificación de control de exportaciones (ECCN, Export Control Classification Number) 5D992.c y puede exportarse a la mayoría de los destinos sin necesidad de licencia (NLR, No License Required).
 

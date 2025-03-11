@@ -30,7 +30,7 @@ GitHub의 이 약정은 GitHub 및 GitHub 저작권의 양수인 또는 승계�
 
 GitHub는 이 페이지 또는 후속 위치에 새 버전을 게시하여 이 약정을 수정할 수 있습니다.
 
-정의
+용어 정의
 
 '적용 라이선스'는 Free Software Foundation에서 발표한 GNU General Public License 버전 2(GPLv2), GNU Lesser General Public License 버전 2.1(LGPLv2.1) 또는 GNU Library General Public License 버전 2(LGPLv2)를 의미합니다.
 

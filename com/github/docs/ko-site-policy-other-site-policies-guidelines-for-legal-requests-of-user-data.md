@@ -60,24 +60,24 @@ GitHub에 데이터 공개를 요청하기 전에 GitHub 시스템의 구현 방
 GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-version-control)을 사용하여 수많은 데이터 리포지토리를 호스트합니다.
 공용 또는 개인 리포지토리일 수 있는 GitHub의 리포지토리는 소프트웨어 개발 프로젝트에 가장 흔히 사용되지만 온갖 종류의 콘텐츠 작업에도 자주 사용됩니다.
 
-* [**사용자**](/ko/get-started/learning-about-github/github-glossary#user) - GitHub 시스템에서 사용자는 개인 GitHub 계정으로 대표됩니다.
+* [**사용자**](/ko/get-started/learning-about-github/github-glossary#user): GitHub 시스템에서 사용자는 개인 GitHub 계정으로 대표됩니다.
   각 사용자는 개인 프로필이 있으며, 여러 리포지토리를 소유할 수 있습니다.
   사용자는 조직을 만들거나 조직에 가입하거나 다른 사용자의 리포지토리에서 협업하도록 초대될 수 있습니다.
 
-* [**협력자**](/ko/get-started/learning-about-github/github-glossary#collaborator) - 협력자는 리포지토리 소유자가 기여하도록 초대받은 리포지토리에 대한 읽기 및 쓰기 권한을 가진 사용자입니다.
+* [**협력자**](/ko/get-started/learning-about-github/github-glossary#collaborator): 협력자는 리포지토리 소유자가 기여하도록 초대받은 리포지토리에 대한 읽기 및 쓰기 권한을 가진 사용자입니다.
 
-* [**조직**](/ko/get-started/learning-about-github/github-glossary#organization) - 조직은 둘 이상의 사용자로 구성된 그룹으로서 일반적으로 비즈니스 또는 프로젝트 같은 실제 조직을 반영합니다.
+* [**조직**](/ko/get-started/learning-about-github/github-glossary#organization): 조직은 둘 이상의 사용자로 구성된 그룹으로서 일반적으로 비즈니스 또는 프로젝트 같은 실제 조직을 반영합니다.
   조직은 사용자가 관리하며, 리포지토리와 사용자 팀을 모두 포함할 수 있습니다.
 
-* [**리포지토리**](/ko/get-started/learning-about-github/github-glossary#repository) - 리포지토리는 GitHub의 가장 기본적인 요소입니다.
+* [**리포지토리**](/ko/get-started/learning-about-github/github-glossary#repository): 리포지토리는 GitHub의 가장 기본적인 요소입니다.
   프로젝트의 폴더라고 생각하면 가장 쉬울 수 있습니다.
   리포지토리에는 문서를 포함한 모든 프로젝트 파일이 포함되며, 각 파일의 수정 기록이 저장됩니다.
   리포지토리에는 여러 협업이 있을 수 있으며, 관리자의 재량에 따라 공개적으로 볼 수 있거나 없을 수 있습니다.
 
-* [**페이지**](/ko/pages/getting-started-with-github-pages/about-github-pages) - GitHub 페이지는 리포지토리에 저장된 코드를 통해 사용자가 쉽게 게시할 수 있는 GitHub가 무료로 호스트하는 공용 웹 페이지입니다.
+* [**페이지**](/ko/pages/getting-started-with-github-pages/about-github-pages): GitHub 페이지는 리포지토리에 저장된 코드를 통해 사용자가 쉽게 게시할 수 있는 GitHub가 무료로 호스트하는 공용 웹 페이지입니다.
   사용자 또는 조직에 GitHub 페이지가 있는 경우, 일반적으로 `https://username.github.io` 같은 URL에서 찾을 수도 있고, 자체 사용자 지정 도메인 이름에 웹 페이지를 매핑할 수도 있습니다.
 
-* [**Gist**](/ko/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) - Gist는 사용자가 아이디어를 저장하는 데 사용하거나 친구와 공유할 수 있는 소스 코드 또는 기타 텍스트의 조각입니다.
+* [**Gist**](/ko/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gist는 사용자가 아이디어를 저장하는 데 사용하거나 친구와 공유할 수 있는 소스 코드 또는 기타 텍스트의 조각입니다.
   일반 GitHub 리포지토리처럼 gist는 git을 사용해 만들어지므로 자동으로 버전이 지정되고, 포크 및 다운로드가 가능합니다.
   gist는 공용 또는 비밀(알려진 URL을 통해서만 액세스 가능)일 수 있습니다. 공용 gist는 비밀 gist로 전환할 수 없습니다.
 
@@ -86,7 +86,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
 
 다음은 GitHub에서 사용자 및 프로젝트에 대해 유지하는 데이터 종류의 일부 목록입니다.
 
-* <a name="public-account-data"></a> **공용 계정 데이터** - GitHub에는 사용자와 사용자 리포지토리에 대해 공개적으로 사용할 수 있는 다양한 정보가 있습니다.
+* <a name="public-account-data"></a> **공용 계정 데이터**: GitHub에는 사용자와 사용자 리포지토리에 대해 공개적으로 사용할 수 있는 다양한 정보가 있습니다.
   사용자 프로필은 `https://github.com/username` 같은 URL에서 찾을 수 있습니다.
   사용자 프로필에는 사용자가 계정을 만든 시기 및 GitHub.com에서의 공개적 활동 및 사회적 상호 작용에 대한 정보가 표시됩니다.
   일반 사용자 프로필에는 사용자가 공개적으로 공유하기로 선택한 추가 정보도 포함될 수 있습니다.
@@ -116,7 +116,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
 
   * 사용자가 구성원인 조직(*조직 또는 사용자의 기본 설정에 따라 다름*)
 
-* <a name="private-account-data"></a> **개인 계정 데이터** - GitHub는 GitHub [개인정보보호정책](/ko/site-policy/privacy-policies/github-privacy-statement)에 명시된 것처럼 사용자에 대한 일부 개인 정보도 수집 및 유지합니다.
+* <a name="private-account-data"></a> **개인 계정 데이터**: GitHub는 GitHub [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 명시된 것처럼 사용자에 대한 일부 개인 정보도 수집 및 유지합니다.
   여기에는 다음이 포함됩니다.
 
   * 개인 이메일 주소
@@ -129,7 +129,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
 
     [개인 대시보드](https://github.com/dashboard)을(를) 방문하여 왼쪽 메뉴 모음을 탐색하면 GitHub가 수집하는 개인 계정 정보 유형을 파악할 수 있습니다.
 
-* <a name="organization-account-data"></a> **조직 계정 데이터** - 조직, 조직의 관리 사용자, 리포지토리에 대한 정보는 GitHub에서 공개적으로 사용할 수 있습니다.
+* <a name="organization-account-data"></a> **조직 계정 데이터**: 조직, 조직의 관리 사용자, 리포지토리에 대한 정보는 GitHub에서 공개적으로 사용할 수 있습니다.
   조직 프로필은 `https://github.com/organization` 같은 URL에서 찾을 수 있습니다.
   공개 조직 프로필에는 소유자가 공개적으로 공유하기로 선택한 추가 정보도 포함될 수 있습니다.
   모든 조직 공개 프로필에는 다음이 표시됩니다.
@@ -152,7 +152,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
 
   * 협업자
 
-* <a name="public-repository-data"></a> **공용 리포지토리 데이터** - GitHub는 수많은 오픈 소스 소프트웨어 프로젝트의 본산입니다.
+* <a name="public-repository-data"></a> **공용 리포지토리 데이터**: GitHub는 수많은 오픈 소스 소프트웨어 프로젝트의 본산입니다.
   거의 모든 공용 리포지토리(예를 들어 [GitHub Docs](https://github.com/github/docs))를 탐색하여 GitHub가 리포지토리에 대해 수집하고 유지하는 정보를 파악할 수 있습니다.
   여기에는 다음이 포함될 수 있습니다.
 
@@ -165,9 +165,9 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
   * 이슈 및 Wiki 페이지 등 프로젝트 문서
   * 프로젝트 기여자와 기여자 네트워크를 보여 주는 통계 및 그래프
 
-* <a name="private-repository-data"></a> **개인 리포지토리 데이터** - 특별히 초대된 사용자만 개인 리포지토리 데이터에 액세스할 수 있다는 점을 제외하면 GitHub가 수집하고 유지하는 개인 리포지토리 데이터 유형은 공용 리포지토리에서 볼 수 있는 것과 동일합니다.
+* <a name="private-repository-data"></a> **개인 리포지토리 데이터**: 특별히 초대된 사용자만 개인 리포지토리 데이터에 액세스할 수 있다는 점을 제외하면 GitHub가 수집하고 유지하는 개인 리포지토리 데이터 유형은 공용 리포지토리에서 볼 수 있는 것과 동일합니다.
 
-* <a name="other-data"></a> **기타 데이터** - 또한 GitHub는 페이지 방문 수 같은 분석 데이터와 GitHub 사용자가 경우에 따라 자발적으로 제공하는 정보(예를 들어 GitHub 지원 팀과의 통신, 설문 조사 정보 및/또는 사이트 등록)도 수집합니다.
+* <a name="other-data"></a> **기타 데이터**: 또한 GitHub는 페이지 방문 수 같은 분석 데이터와 GitHub 사용자가 경우에 따라 자발적으로 제공하는 정보(예를 들어 GitHub 지원 팀과의 통신, 설문 조사 정보 및/또는 사이트 등록)도 수집합니다.
 
 [GitHub는 영향을 받는 계정 소유자에게 통보합니다](#we-will-notify-any-affected-account-owners)
 ----------
@@ -182,9 +182,9 @@ GitHub는 어떠한 비공개 정보 요청에도 반대할 수 있는 권리를
 GitHub는 합법적 요청에 응하여 비공개 정보를 제공하는 데 동의할 경우, 요청된 정보를 찾기 위한 합리적인 검색을 수행합니다.
 다음은 송달 받는 법적 절차의 종류에 따라 GitHub가 제공하기로 동의하는 정보의 종류입니다.
 
-* <a name="with-user-consent"></a> **사용자 동의** - GitHub는 요청을 받는 경우 사용자(또는 조직 계정인 경우 소유자)에게 직접 또는 사용자의 신원 증명을 확신하는 경우 사용자의 서면 동의로 지명된 제3자에게 개인 계정 정보를 제공합니다.
+* <a name="with-user-consent"></a> **사용자 동의**: GitHub는 요청을 받는 경우 사용자(또는 조직 계정인 경우 소유자)에게 직접 또는 사용자의 신원 증명을 확신하는 경우 사용자의 서면 동의로 지명된 제3자에게 개인 계정 정보를 제공합니다.
 
-* <a name="with-a-subpoena"></a> **소환장** - 유효한 소환장, 민사 조사 요구 또는 공식적 형사 또는 민사 조사와 관련하여 발부된 유사한 법적 절차를 송달 받는 경우, GitHub는 일부 비공개 계정 정보를 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
+* <a name="with-a-subpoena"></a> **소환장**: 유효한 소환장, 민사 조사 요구 또는 공식적 형사 또는 민사 조사와 관련하여 발부된 유사한 법적 절차를 송달 받는 경우, GitHub는 일부 비공개 계정 정보를 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
 
   * 계정과 연결된 이름
   * 계정과 연결된 이메일 주소
@@ -197,7 +197,7 @@ GitHub는 합법적 요청에 응하여 비공개 정보를 제공하는 데 동
 
 제공할 수 있는 정보는 사안마다 다릅니다. 일부 정보는 사용자가 제공 여부를 선택할 수 있습니다. 그 밖의 경우 GitHub가 정보를 수집하거나 보유하지 않았을 수 있습니다.
 
-* <a name="with-a-court-order-or-a-search-warrant"></a> **법원 명령 *또는* 수색 영장** - GitHub는 (i) 18 U.S.C. Section 2703(d)에 따라 발부된 법원 명령에 의해 구하는 정보가 진행 중인 범죄 수사에 관련성이 있고 중요하다고 믿을 만한 합리적인 근거가 있음을 보여 주는 구체적이고 명확한 사실 관계가 입증되거나 (ii) 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정 액세스 로그를 공개하지 않습니다.
+* <a name="with-a-court-order-or-a-search-warrant"></a> **법원 명령 *또는* 수색 영장**: GitHub는 (i) 18 U.S.C. Section 2703(d)에 따라 발부된 법원 명령에 의해 구하는 정보가 진행 중인 범죄 수사에 관련성이 있고 중요하다고 믿을 만한 합리적인 근거가 있음을 보여 주는 구체적이고 명확한 사실 관계가 입증되거나 (ii) 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정 액세스 로그를 공개하지 않습니다.
   GitHub는 위에 나열된 비공개 계정 정보 외에 법원 명령 또는 수색 영장에 응하여 계정 액세스 로그를 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
 
   * 일정 기간에 걸친 사용자의 이동을 밝힐 수 있는 로그
@@ -205,7 +205,7 @@ GitHub는 합법적 요청에 응하여 비공개 정보를 제공하는 데 동
   * 검색 기록 등 사용자 또는 IP 관련 분석 데이터
   * 계정 생성 외의 또는 특정 시간 및 날짜의 보안 액세스 로그
 
-* <a name="only-with-a-search-warrant"></a> **수색 영장만** - GitHub는 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 설명된 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정의 개인 콘텐츠를 공개하지 않습니다.
+* <a name="only-with-a-search-warrant"></a> **수색 영장만**: GitHub는 연방 형사소송법 또는 그에 상당하는 주 영장 절차에 설명된 절차에 따라 발부된 수색 영장에 의해 상당한 근거가 입증되어 강제로 공개해야 하지 않는 한 계정의 개인 콘텐츠를 공개하지 않습니다.
   GitHub는 위에 언급한 비공개 계정 정보 및 계정 액세스 로그 외에 법원 명령 또는 수색 영장에 응하여 개인 계정 콘텐츠도 제공할 수 있으며, 여기에는 다음이 포함될 수 있습니다.
 
   * 비밀 Gist의 콘텐츠
@@ -214,7 +214,7 @@ GitHub는 합법적 요청에 응하여 비공개 정보를 제공하는 데 동
   * 개인 리포지토리에 있는 통신 또는 문서(이슈 또는 Wiki)
   * 인증 또는 암호화에 사용되는 보안 키
 
-* <a name="in-exigent-circumstances"></a> **긴급한 상황** - 일부 긴급한 상황에서 정보 요청을 받는 경우(GitHub가 믿기에 사람의 사망 또는 중상의 위험이 관련된 긴급 사태를 방지하기 위해 공개가 필요한 경우) GitHub는 법 집행 기관의 긴급 사태 대처에 필요하다고 판단하는 제한된 정보를 공개할 수 있습니다. GitHub는 그 이상의 모든 정보에 대해서는 위에 설명한 대로 소환장, 수색 영장 또는 법원 명령을 요구합니다. 예를 들어 GitHub는 수색 영장 없이는 개인 리포지토리의 콘텐츠를 공개하지 않습니다. GitHub는 정보 공개 전에 요청이 법 집행 기관의 요청인지, 당국이 긴급 사태를 요약하는 공식 통지를 보냈는지, 요청된 정보가 긴급 사태 대처에 어떤 도움이 되는지 확인합니다.
+* <a name="in-exigent-circumstances"></a> **긴급한 상황**: 일부 긴급한 상황에서 정보 요청을 받는 경우(GitHub가 믿기에 사람의 사망 또는 중상의 위험이 관련된 긴급 사태를 방지하기 위해 공개가 필요한 경우) GitHub는 법 집행 기관의 긴급 사태 대처에 필요하다고 판단하는 제한된 정보를 공개할 수 있습니다. GitHub는 그 이상의 모든 정보에 대해서는 위에 설명한 대로 소환장, 수색 영장 또는 법원 명령을 요구합니다. 예를 들어 GitHub는 수색 영장 없이는 개인 리포지토리의 콘텐츠를 공개하지 않습니다. GitHub는 정보 공개 전에 요청이 법 집행 기관의 요청인지, 당국이 긴급 사태를 요약하는 공식 통지를 보냈는지, 요청된 정보가 긴급 사태 대처에 어떤 도움이 되는지 확인합니다.
 
 [비용 상환](#cost-reimbursement)
 ----------
