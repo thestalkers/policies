@@ -32,7 +32,7 @@ In diesem Artikel
 * [SQL Server-Images](#sql-server-images)
 * [GitHub-Modelle](#github-models)
 
-Datum des Inkrafttretens dieser Version: 18. Dezember 2024
+Datum des Inkrafttretens dieser Fassung: 1. April 2025
 
 Wenn Sie GitHub verwenden, erhalten Sie möglicherweise Zugriff auf viele zusätzliche Produkte und Funktionen („Zusätzliche Produkte und Funktionen“). Da viele der zusätzlichen Produkte und Funktionen unterschiedliche Funktionen bieten, können zusätzlich zu Ihrer Vereinbarung mit uns (die „Vereinbarung) spezifische Bedingungen für dieses Produkt oder diese Funktion in Kombination mit Ihrer Hauptvereinbarung gelten – die GitHub-Nutzungsbedingungen, die GitHub-Kundenvereinbarung, die GitHub-Vertragsbedingungen für Unternehmen oder ein anderer älterer GitHub-Vertrag bzw. eine Microsoft-Volumenlizenzierung. Nachfolgend haben wir diese Produkte und Funktionen zusammen mit den entsprechenden zusätzlichen Bedingungen aufgelistet, die für Ihre Verwendung gelten.
 
@@ -40,9 +40,9 @@ Durch die Nutzung der zusätzlichen Produkte und Funktionen stimmen Sie auch den
 
 **Für Unternehmensbenutzer**
 
-* Benutzer von **GitHub Enterprise Cloud** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages und Pages.
+* Benutzende von **GitHub Enterprise Cloud** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security (einschließlich Code Security und Secret Protection), Advisory Database, Codespaces, Dependabot, GitHub Enterprise Importer, Packages und Pages.
 
-* Benutzer von **GitHub Enterprise Server** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages und SQL Server Images.
+* Benutzende von **GitHub Enterprise Server** haben möglicherweise Zugriff auf die folgenden zusätzlichen Produkte und Funktionen: Actions, Advanced Security (einschließlich Code Security und Secret Protection), Advisory Database, Connect, Dependabot, GitHub Enterprise Importer, Packages, Pages und SQL Server-Images.
 
 [Aktionen](#actions)
 ----------
@@ -78,11 +78,11 @@ Wenn Sie selbst gehostete Runner verwenden, haben Sie die Möglichkeit, automati
 [Erweiterte Sicherheit](#advanced-security)
 ----------
 
-GitHub stellt Kunden zusätzliche Sicherheitsfunktionen im Rahmen einer Advanced Security-Lizenz zur Verfügung. Zu diesen Funktionen gehören Code-Scanning, Secret-Scanning und Abhängigkeitsprüfung. Die [Dokumentation über erweiterte Sicherheit](/de/get-started/learning-about-github/about-github-advanced-security) liefert weitere Einzelheiten.
+GitHub stellt Kunden mit Advanced Security-Lizenzen zusätzliche Sicherheitsfeatures zur Verfügung. Ab dem 1. April 2025 stehen Features, die zuvor nur mit einer einzigen GitHub Advanced Security-Lizenz verfügbar waren, alternativ unter zwei separaten Lizenzen zur Verfügung: GitHub Code Security (Code-Scan- und Abhängigkeitsscanfeatures) und GitHub Secret Protection (Features für die Geheimnisüberprüfung). Die [Dokumentation über erweiterte Sicherheit](/de/get-started/learning-about-github/about-github-advanced-security) liefert weitere Einzelheiten.
 
-Advanced Security wird auf „Unique Committer“-Basis lizenziert. Ein „Individueller Software-Entwickler“ ist ein lizenzierter Benutzer von GitHub Enterprise, GitHub Enterprise Cloud oder GitHub Enterprise Server, der in den letzten 90 Tagen eine Codeübergabe an ein beliebiges Repository mit aktivierter GitHub Advanced Security-Funktionalität vorgenommen hat. Sie müssen für jeden Ihrer Unique Committer eine GitHub Advanced Security User-Lizenz erwerben. Sie dürfen GitHub Advanced Security nur auf Codebasen verwenden, die von Ihnen oder für Sie entwickelt wurden. Für GitHub Enterprise Cloud-Benutzer erfordern einige erweiterte Sicherheitsfunktionen auch die Verwendung von GitHub-Aktionen.
+Advanced Security-Funktionen werden für die Lizenz „Individueller Software-Entwickler“ angeboten. Ein „individueller Software-Entwickler“ ist eine lizenzierte Person, die GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud oder GitHub Enterprise Server nutzt und die in den letzten 90 Tagen einen Commit an ein beliebiges Repository mit aktivierter GitHub Advanced Security-Funktionalität vorgenommen hat. Sie müssen für jede individuelle Person, die Software entwickelt, eine geeignete GitHub Advanced Security-Benutzerlizenz erwerben. Sie dürfen GitHub Advanced Security-Funktionen nur bei Codebasen verwenden, die von Ihnen oder für Sie entwickelt wurden. Für GitHub Team- und GitHub Enterprise Cloud-Benutzende ist bei einigen Advanced Security-Funktionen möglicherweise auch die Verwendung von GitHub Actions erforderlich.
 
-Wenn Sie sich für die geheime Überprüfung mit GitHub Advanced Security für automatische Gültigkeitsprüfungen für Partnermuster anmelden, können verfügbar gemachte Drittanbietertoken für den relevanten Partner freigegeben werden, um Ihnen weitere Informationen zur Gültigkeit des Tokens bereitzustellen. Nicht alle Partner sind in den USA ansässig. In der [Dokumentation zu Mustern für die Identifizierung von Geheimnissen](/de/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) finden Sie weitere Details dazu, welche Partner die Gültigkeitsprüfung unterstützen.
+Wenn Sie automatische Gültigkeitsprüfungen für Partnermuster aktiviert haben, werden bei der Geheimnisüberprüfung mit GitHub Advanced Security oder GitHub Secret Protection verfügbar gemachte Drittanbietertoken u. U. für den relevanten Partner freigegeben, um Ihnen weitere Informationen zur Gültigkeit des Tokens bereitzustellen. Nicht alle Partner sind in den USA ansässig. In der [Dokumentation zu Mustern für die Identifizierung von Geheimnissen](/de/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) finden Sie weitere Details dazu, welche Partner die Gültigkeitsprüfung unterstützen.
 
 [Beratungsdatenbank](#advisory-database)
 ----------
