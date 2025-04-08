@@ -16,7 +16,7 @@
 この記事の内容
 ----------
 
-* [アクション](#actions)
+* [Actions](#actions)
 * [Advanced Security](#advanced-security)
 * [Advisory Database](#advisory-database)
 * [Codespaces](#codespaces)
@@ -32,7 +32,7 @@
 * [SQL Server Images](#sql-server-images)
 * [GitHub モデル](#github-models)
 
-このバージョンの発効日: 2024 年 12 月 18 日
+このバージョンの発効日: 2025 年 4 月 1 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -40,11 +40,11 @@ GitHub を利用する際、数多くの追加製品や機能 (以下「追加�
 
 **エンタープライズ ユーザー向け**
 
-* **GitHub Enterprise Cloud** のユーザーは、Actions、Advanced Security、Advisory Database、Codespaces、Dependabot Preview、GitHub Enterprise Importer、Packages、および Pages の追加の製品および機能にアクセスできます。
+* **GitHub Enterprise Cloud** ユーザーは、次の追加の製品および機能にアクセスできます: Actions、Advanced Security (Code Security、Secret Protection を含む)、Advisory Database、Codespaces、Dependabot、GitHub Enterprise Importer、Packages、および Pages。
 
-* **GitHub Enterprise Server** のユーザーは、Actions、Advanced Security、Advisory Database、Connect、Dependabot Preview、GitHub Enterprise Importer、Packages、Pages、および SQL Server Images の追加の製品および機能にアクセスできます。
+* **GitHub Enterprise Server** ユーザーは、次の追加の製品および機能にアクセスできます: Actions、Advanced Security (Code Security、Secret Protection を含む)、Advisory Database、Connect、Dependabot、GitHub Enterprise Importer、Packages、Pages、および SQL Server Images。
 
-[アクション](#actions)
+[Actions](#actions)
 ----------
 
 GitHub Actions を使用すると、カスタム ソフトウェア開発ライフサイクル ワークフローを GitHub リポジトリに直接作成することができます。 Actions は使用量ベースで請求されます。 [Actions のドキュメント](/ja/actions)には、コンピューティング量とストレージ量 (アカウント プランによって異なります)、Actions の分単位の使用状況を監視し、使用制限を設定する方法などの詳細が含まれています。
@@ -78,11 +78,11 @@ Actions および Actions 製品またはサービスの要素は、「契約」
 [Advanced Security](#advanced-security)
 ----------
 
-GitHub では、Advanced Security ライセンスの下で顧客が追加のセキュリティ機能を利用できるようにしています。 これらの機能には、コード スキャン、シークレット スキャン、依存関係のレビューなどがあります。 詳細については、[Advanced Security のドキュメント](/ja/get-started/learning-about-github/about-github-advanced-security)を参照してください。
+GitHub では、Advanced Security ライセンスの下で顧客が追加のセキュリティ機能を利用できるようにしています。 2025 年 4 月 1 日から、以前は 1 つの GitHub Advanced Security ライセンスでのみ利用できた機能は、GitHub Code Security (コード スキャン機能と依存関係スキャン機能) と GitHub Secret Protection (シークレット スキャン機能) の 2 つのライセンスで利用できるようになります。 詳細については、[Advanced Security のドキュメント](/ja/get-started/learning-about-github/about-github-advanced-security)を参照してください。
 
-Advanced Security は、「一意のコミッター」ごとにライセンスされます。 「一意のコミッター」とは、GitHub Enterprise、GitHub Enterprise Cloud、または GitHub Enterprise Server のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様は、一意のコミッターごとに 1 つの GitHub Advanced Security User ライセンスを取得しなければなりません。 GitHub Advanced Security は、お客様によって、またはお客様のために開発されたコードベースでのみ使用できます。 GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能では GitHub Actions の使用も必要です。
+Advanced Security 機能は、"ユニーク コミッター" ごとにライセンスされます。 「ユニーク コミッター」とは、GitHub Team、GitHub Enterprise、GitHub Enterprise Cloud、または GitHub Enterprise Server のライセンスを取得し、GitHub Advanced Security 機能を有効にしたリポジトリに直前の 90 日以内にコミットしたユーザーのことです。 お客様の各ユニーク コミッターごとに、適切な GitHub Advanced Security ユーザー ライセンスを取得する必要があります。 GitHub Advanced Security 機能は、お客様によって、またはお客様用に開発されたコードベースにおいてのみ使用できます。 GitHub Team ユーザーや GitHub Enterprise Cloud ユーザーの場合、一部の Advanced Security 機能は GitHub Actions の使用も必要となる場合があります。
 
-GitHub Advanced Security を使用したシークレット スキャンの場合、パートナー パターンの自動有効性チェックをオプトインすると、公開された第三者のトークンが関連するパートナーと共有され、トークンの有効性に関する詳細情報が提供される場合があります。 すべてのパートナーが米国に拠点を置いているわけではありません。 [シークレット スキャン パターンのドキュメント](/ja/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)には、有効性チェックをサポートするパートナーの詳細が記載されています。
+GitHub Advanced Security または GitHub Secret Protection を使用したシークレット スキャンの場合、パートナー パターンの自動有効性チェックをオプトインすると、トークンの有効性に関する詳細情報を表示するために、公開された第三者のトークンが関連するパートナーと共有される場合があります。 すべてのパートナーが米国に拠点を置いているわけではありません。 [シークレット スキャン パターンのドキュメント](/ja/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)には、有効性チェックをサポートするパートナーの詳細が記載されています。
 
 [Advisory Database](#advisory-database)
 ----------

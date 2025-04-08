@@ -32,7 +32,7 @@ GitHub 추가 제품 및 기능 약관
 * [SQL Server Images](#sql-server-images)
 * [GitHub Models](#github-models)
 
-버전 발효일: 2024년 12월 18일
+버전 발효일: 2025년 4월 1일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -40,9 +40,9 @@ GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 
 
 **엔터프라이즈 사용자의 경우**
 
-* **GitHub Enterprise Cloud** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages.
+* **GitHub Enterprise Cloud** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security(Code Security 및 Secret Protection 포함), Advisory Database, Codespaces, Dependabot, GitHub Enterprise Importer, Packages, Pages.
 
-* **GitHub Enterprise Server** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages, SQL Server Images.
+* **GitHub Enterprise Server** 사용자는 다음 추가 제품 및 기능에 액세스할 수 있습니다. Actions, Advanced Security(Code Security 및 Secret Protection 포함), Advisory Database, Connect, Dependabot, GitHub Enterprise Importer, Packages, Pages, SQL Server Images.
 
 [Actions](#actions)
 ----------
@@ -78,11 +78,11 @@ GitHub는 이러한 제한 사항 위반과 GitHub Actions 악용을 방지하�
 [Advanced Security](#advanced-security)
 ----------
 
-GitHub는 Advanced Security 라이선스에 따라 고객에게 추가 보안 기능을 제공합니다. 이러한 기능에는 코드 검사, 비밀 검사, 종속성 검토가 포함됩니다. [고급 보안 설명서](/ko/get-started/learning-about-github/about-github-advanced-security)에서 자세한 정보를 제공합니다.
+GitHub에서 고객은 Advanced Security 라이선스를 전제로 추가 보안 기능을 사용할 수 있습니다. 2025년 4월 1일부터 이전에는 단일 GitHub Advanced Security 라이선스에서만 사용할 수 있었던 기능을 GitHub Code Security(코드스캔 및 종속성 검사 기능) 및 GitHub Secret Protection(비밀 검사 기능)의 두 가지 별도 라이선스에서 사용할 수 있습니다. [고급 보안 설명서](/ko/get-started/learning-about-github/about-github-advanced-security)에서 자세한 정보를 제공합니다.
 
-Advanced Security는 "고유 커미터" 기준으로 라이선스가 부여됩니다. "고유 커미터"란 지난 90일 안에 GitHub Advanced Security 기능이 활성화된 리포지토리에 커밋한 GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server의 라이선스가 허여된 사용자입니다. 귀하의 각 고유 커미터마다 GitHub Advanced Security 사용자 라이선스를 획득해야 합니다. GitHub Advanced Security는 귀하가 개발하거나 귀하를 위해 개발된 코드베이스에서만 사용할 수 있습니다. GitHub Enterprise Cloud 사용자의 경우 일부 Advanced Security 기능에는 GitHub Actions 사용도 필요합니다.
+Advanced Security 기능은 "고유 커미터" 기준으로 라이선스가 부여됩니다. "고유 커미터"란 지난 90일 안에 GitHub Advanced Security 기능이 활성화된 리포지토리에 커밋한 GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud, GitHub Enterprise Server의 라이선스가 허여된 사용자입니다. 귀하의 각 고유 커미터마다 적절한 GitHub Advanced Security 사용자 라이선스를 획득해야 합니다. GitHub Advanced Security 기능은 귀하가 개발하거나 귀하를 위해 개발된 코드베이스에서만 사용할 수 있습니다. GitHub Team 및 GitHub Enterprise Cloud 사용자의 경우 일부 Advanced Security 기능에는 GitHub Actions 사용도 필요합니다.
 
-GitHub Advanced Security를 사용한 비밀 검사의 경우 파트너 패턴에 대한 자동 유효성 검사를 옵트인할 때 토큰의 유효성에 대한 자세한 정보를 제공하기 위해 노출된 제3자 토큰을 관련 파트너와 공유할 수 있습니다. 모든 파트너가 미국에 본사를 두고 있는 것은 아닙니다. [비밀 검사 패턴 설명서](/ko/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)는 유효성 검사를 지원하는 파트너에 대한 자세한 정보를 제공합니다.
+GitHub Advanced Security 또는 GitHub Secret Protection을 사용한 비밀 검사의 경우 파트너 패턴에 대한 자동 유효성 검사를 옵트인할 때 토큰의 유효성에 대한 자세한 정보를 제공하기 위해 노출된 제3자 토큰을 관련 파트너와 공유할 수 있습니다. 모든 파트너가 미국에 본사를 두고 있는 것은 아닙니다. [비밀 검사 패턴 설명서](/ko/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)는 유효성 검사를 지원하는 파트너에 대한 자세한 정보를 제공합니다.
 
 [Advisory Database](#advisory-database)
 ----------

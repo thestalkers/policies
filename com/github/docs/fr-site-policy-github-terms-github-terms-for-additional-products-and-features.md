@@ -32,7 +32,7 @@ Dans cet article
 * [Images de serveur SQL](#sql-server-images)
 * [GitHub Models](#github-models)
 
-Date d’entrée en vigueur de la version : 18 décembre 2024
+Date d’entrée en vigueur de la version : 1er avril 2025
 
 Lorsque vous utilisez GitHub, vous pouvez avoir accès à de nombreux produits et fonctionnalités supplémentaires ("Produits et fonctionnalités supplémentaires »). Étant donné que de nombreux produits et fonctionnalités supplémentaires offrent des fonctionnalités différentes, votre accord avec nous (l'"accord") comprend les conditions spécifiques de ce produit ou de cette fonctionnalité combinées à votre accord principal : conditions d’utilisation du service de GitHub ou le contrat client de GitHub, ou les conditions de service d'entreprise de GitHub ou un autre contrat de GitHub, ou un contrat de licence en volume Microsoft. Ci-dessous, nous avons répertorié ces produits et fonctionnalités, ainsi que les conditions supplémentaires correspondantes qui s'appliquent à votre utilisation de ceux-ci.
 
@@ -40,9 +40,9 @@ En utilisant les produits et fonctionnalités supplémentaires, vous acceptez é
 
 **Pour les utilisateurs en Entreprise**
 
-* Les utilisateurs de **GitHub Enterprise Cloud** peuvent avoir accès aux Produits et Fonctionnalités Supplémentaires suivants : Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages et Pages.
+* Les utilisateurs de **GitHub Enterprise Cloud** peuvent avoir accès aux Produits et fonctionnalités supplémentaires suivants : Actions, Advanced Security (notamment Code Security et Secret Protection), Advisory Database, Codespaces, Dependabot, GitHub Enterprise Importer, Packages et Pages.
 
-* Les utilisateurs de **GitHub Enterprise Server** peuvent avoir accès aux Produits et Fonctionnalités Supplémentaires suivants : Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages et SQL Server Images.
+* Les utilisateurs de **GitHub Enterprise Server** peuvent avoir accès aux Produits et fonctionnalités supplémentaires suivants : Actions, Advanced Security (notamment Code Security et Secret Protection), Advisory Database, Connect, Dependabot, GitHub Enterprise Importer, Packages, Pages et SQL Server Images.
 
 [Actions](#actions)
 ----------
@@ -78,11 +78,11 @@ Si vous utilisez des runners auto-hébergés, vous avez la possibilité de désa
 [Sécurité avancée](#advanced-security)
 ----------
 
-GitHub met des fonctionnalités de sécurité supplémentaires à la disposition des clients sous une licence de sécurité avancée. Ces fonctionnalités incluent l'analyse de code, l'analyse secrète et l'examen des dépendances. Consultez la [documentation Advanced Security](/fr/get-started/learning-about-github/about-github-advanced-security) pour plus de détails.
+GitHub met des fonctionnalités de sécurité supplémentaires à la disposition des clients dans le cadre de licences Advanced Security. À partir du 1er avril 2025, les fonctionnalités qui étaient précédemment disponibles uniquement dans le cadre d’une seule licence GitHub Advanced Security seront également disponibles dans le cadre de deux licences distinctes : GitHub Code Security (fonctionnalités d’analyse du code et d’analyse des dépendances) et GitHub Secret Protection (fonctionnalités d’analyse des secrets). Consultez la [documentation Advanced Security](/fr/get-started/learning-about-github/about-github-advanced-security) pour plus de détails.
 
-Advanced Security est concédé sous licence sur une base « Unique Committer ». Un « Unique Committer » (valideur unique) est un utilisateur sous licence GitHub Enterprise, GitHub Enterprise Cloud, ou GitHub Enterprise Server, qui a effectué une validation (commit) au cours des 90 derniers jours sur un référentiel ayant une fonctionnalité GitHub Advanced Security activée. Vous devez acquérir une licence GitHub Advanced Security User pour chacun de vos Unique Comitters. Vous ne pouvez utiliser GitHub Advanced Security que sur des bases de code développées par ou pour vous. Pour les utilisateurs de GitHub Enterprise Cloud, certaines fonctionnalités de sécurité avancées nécessitent également l'utilisation de GitHub Actions.
+Les fonctionnalités Advanced Security sont concédées sous licence sur une base de « Unique Committer » (valideur unique). Un valideur unique est un utilisateur sous licence GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud ou GitHub Enterprise Server, qui a effectué une validation (commit) au cours des 90 derniers jours sur un référentiel ayant une fonctionnalité GitHub Advanced Security activée. Vous devez acquérir une licence utilisateur GitHub Advanced Security appropriée pour chacun de vos valideurs uniques. Vous ne pouvez utiliser les fonctionnalités GitHub Advanced Security que sur les bases de code (codebase) qui sont développées par ou pour vous. Pour les utilisateurs de GitHub Team et GitHub Enterprise Cloud, certaines fonctionnalités Advanced Security nécessitent également l’utilisation de GitHub Actions.
 
-Pour l’analyse des secrets avec GitHub Advanced Security, lorsque vous optez pour des vérifications de validité automatique pour les modèles de partenaires, les jetons tiers exposés peuvent être partagés avec le partenaire approprié, afin de vous fournir plus d’informations sur la validité du jeton. Tous les partenaires ne sont pas basés aux États-Unis. La documentation[sur les](/fr/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)modèles d’analyse des secrets fournit plus d’informations sur les partenaires qui prennent en charge la vérification de validité.
+Pour l’analyse des secrets avec GitHub Advanced Security ou GitHub Secret Protection, lorsque vous optez pour des vérifications de validité automatique pour les modèles de partenaires, les jetons tiers exposés peuvent être partagés avec le partenaire approprié afin de vous fournir plus d’informations sur la validité du jeton. Tous les partenaires ne sont pas basés aux États-Unis. La documentation[sur les](/fr/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns)modèles d’analyse des secrets fournit plus d’informations sur les partenaires qui prennent en charge la vérification de validité.
 
 [Base de données consultative](#advisory-database)
 ----------

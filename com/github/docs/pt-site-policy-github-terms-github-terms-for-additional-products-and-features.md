@@ -32,7 +32,7 @@ Neste artigo
 * [Imagens do SQL Server](#sql-server-images)
 * [GitHub Models](#github-models)
 
-Data da entrada em vigor da versão: 18 de dezembro de 2024
+Data de início de vigência desta versão: 1º de abril de 2025
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -40,9 +40,9 @@ Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos 
 
 **Para usuários Corporativos**
 
-* Os usuários do **GitHub Enterprise Cloud** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Codespaces, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages e Pages.
+* Os usuários do **GitHub Enterprise Cloud** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security (incluindo Code Security e Secret Protection), Advisory Database, Codespaces, Dependabot, GitHub Enterprise Importer, Packages e Pages.
 
-* Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security, Advisory Database, Connect, Versão Prévia do Dependabot, GitHub Enterprise Importer, Packages, Pages e Imagens do SQL Server.
+* Os usuários do **GitHub Enterprise Server** podem ter acesso aos seguintes Produtos e Recursos Adicionais: Actions, Advanced Security (incluindo Code Security e Secret Protection), Advisory Database, Connect, Dependabot, GitHub Enterprise Importer, Packages, Pages e imagens do SQL Server.
 
 [Ações](#actions)
 ----------
@@ -78,11 +78,11 @@ Se você usar runners auto-hospedados, poderá desativar as atualizações autom
 [Segurança avançada](#advanced-security)
 ----------
 
-O GitHub disponibiliza recursos extras de segurança para clientes sob uma licença de Segurança Avançada. Esses recursos incluem verificação de código, verificação secreta e revisão de dependência. A [documentação do Advanced Security](/pt/get-started/learning-about-github/about-github-advanced-security) fornece mais detalhes.
+O GitHub disponibiliza recursos extras de segurança para clientes com licenças do Advanced Security. A partir de 1º de abril de 2025, os recursos que antes só estavam disponíveis em uma licença individual do GitHub Advanced Security estarão disponíveis em duas licenças separadas: GitHub Code Security (recursos de digitalização de código e verificação de dependências) e GitHub Secret Protection (recursos de verificação de segredos). A [documentação do Advanced Security](/pt/get-started/learning-about-github/about-github-advanced-security) fornece mais detalhes.
 
-A Segurança Avançada é licenciada com base em "Commissor Único". “Committer Exclusivo” é um usuário licenciado do GitHub Enterprise, do GitHub Enterprise Cloud ou do GitHub Enterprise Server, que criou um commit de código nos últimos 90 dias em qualquer repositório com qualquer funcionalidade do GitHub Advanced Security ativada. Você deve adquirir uma licença de usuário do GitHub Advanced Security para cada um dos seus Commiters exclusivos. Você só pode usar o GitHub Advanced Security em bases de código desenvolvidas por ou para você. Para usuários do GitHub Enterprise Cloud, alguns recursos de segurança avançada também exigem o uso de GitHub Actions.
+Os recursos do Advanced Security são licenciados em regime de “Committer Exclusivo”. “Committer Exclusivo” é um usuário licenciado do GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud ou GitHub Enterprise Server que fez commit nos últimos 90 dias em qualquer repositório com qualquer funcionalidade do GitHub Advanced Security ativada. Você precisa adquirir uma licença de usuário do GitHub Advanced Security para cada um dos seus Commiters Exclusivos. Só é possível usar o GitHub Advanced Security em bases de código que você desenvolveu ou que foram desenvolvidas para você. Para usuários do GitHub Team e GitHub Enterprise Cloud, alguns recursos do Advanced Security também exigem o uso do GitHub Actions.
 
-Para verificação secreta com o GitHub Advanced Security, quando você opta por verificações automáticas de validade para padrões de parceiros, tokens de terceiros expostos podem ser compartilhados com o parceiro relevante a fim de fornecer mais informações sobre a validade do token. Nem todos os parceiros estão sediados nos Estados Unidos. A [documentação sobre padrões de varredura de segredos](/pt/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) fornece mais detalhes sobre quais parceiros oferecem suporte à verificação de validade.
+Para verificação de segredos com o GitHub Advanced Security ou GitHub Secret Protection, quando você aceita a execução de verificações automáticas de validade para padrões de parceiros, tokens de terceiros expostos podem ser compartilhados com o parceiro relevante a fim de fornecer mais informações sobre a validade do token. Nem todos os parceiros estão sediados nos Estados Unidos. A [documentação sobre padrões de varredura de segredos](/pt/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) fornece mais detalhes sobre quais parceiros oferecem suporte à verificação de validade.
 
 [Banco de dados consultivo](#advisory-database)
 ----------
