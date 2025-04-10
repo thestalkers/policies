@@ -22,7 +22,7 @@ Activity on github.dev is subject to [GitHub's Beta Previews terms](/en/site-pol
 [Using Visual Studio Code](#using-visual-studio-code)
 ----------
 
-GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/getstarted/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.
+GitHub Codespaces and github.dev allow for use of Visual Studio Code in the web browser. When using VS Code in the web browser, some telemetry collection is enabled by default and is [explained in detail on the VS Code website](https://code.visualstudio.com/docs/configure/telemetry). Users can opt out of telemetry by going to File \> Preferences \> Settings under the top left menu.
 
 If a user chooses to opt out of telemetry capture in VS Code while inside of a codespace as outlined, this will sync the disable telemetry preference across all future web sessions in GitHub Codespaces and github.dev.
 
