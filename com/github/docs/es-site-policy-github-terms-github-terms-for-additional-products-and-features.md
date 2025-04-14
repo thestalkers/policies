@@ -32,7 +32,7 @@ En este artículo
 * [Imágenes de servidor SQL](#sql-server-images)
 * [Modelos de GitHub](#github-models)
 
-Fecha de entrada en vigor de la versión: 18 de diciembre de 2024
+Fecha de entrada en vigor de la versión: 1 de abril de 2025
 
 Cuando usa GitHub, es posible que tenga acceso a muchos productos y funciones adicionales ("Productos y funciones adicionales"). Dado que muchos de los Productos y Funciones Adicionales ofrecen diferentes funcionalidades, su Contrato con nosotros (el «Acuerdo») incluye los términos específicos de ese producto o función combinados con su acuerdo principal: los Términos de servicio de GitHub o el Acuerdo de cliente de GitHub, o los Términos de servicio corporativos de GitHub u otro acuerdo heredado de GitHub, o un contrato de licencias por volumen de Microsoft. A continuación, enumeramos esos productos y características, junto con los términos adicionales correspondientes que se aplican a su uso de ellos.
 
@@ -40,9 +40,9 @@ Al usar los Productos y funciones adicionales, también acepta los Términos de 
 
 **Para usuarios de Enterprise**
 
-* Los usuarios de **GitHub Enterprise Cloud** podrían tener acceso a los siguientes productos y características adicionales: Actions, Advanced Security, Advisory Database, Codespaces, Dependabot Preview, GitHub Enterprise Importer, Packages y Pages.
+* Los usuarios de **GitHub Enterprise Cloud** podrían tener acceso a los siguientes productos y características adicionales: Actions, Advanced Security (incluidos Code Security y Secret Protection), Advisory Database, Codespaces, Dependabot, GitHub Enterprise Importer, Packages y Pages.
 
-* Los usuarios del **Servidor de GitHub Enterprise** podrían tener acceso a los siguientes productos y características adicionales: Actions, Advanced Security, Advisory Database, Connect, Dependabot Preview, GitHub Enterprise Importer, Packages, Pages y SQL Server Images.
+* Los usuarios de **GitHub Enterprise Server** podrían tener acceso a los siguientes productos y características adicionales: Actions, Advanced Security (incluidos Code Security y Secret Protection), Advisory Database, Connect, Dependabot, GitHub Enterprise Importer, Packages, Pages e imágenes de SQL Server.
 
 [Comportamiento](#actions)
 ----------
@@ -78,11 +78,11 @@ Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualiza
 [Seguridad avanzada](#advanced-security)
 ----------
 
-GitHub pone a disposición de los clientes funciones de seguridad adicionales con una licencia de seguridad avanzada. Estas características incluyen escaneo de códigos, escaneo de secretos y revisión de dependencias. En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
+GitHub pone a disposición de los clientes características de seguridad adicionales con licencias de Advanced Security. A partir del 1 de abril de 2025, las características que anteriormente solo estaban disponibles en una única licencia de GitHub Advanced Security estarán disponibles de forma alternativa en dos licencias independientes: GitHub Code Security (características de escaneo de código y análisis de dependencias) y GitHub Secret Protection (características de análisis de secretos). En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
 
-Advanced Security tiene licencia sobre la base de "Unique Committer". Un "Unique Committer" es un usuario con licencia de GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de Usuario de seguridad avanzada de GitHub para cada uno de tus Confirmadores únicos. Solo puede usar GitHub Advanced Security en bases de código desarrolladas por usted o para usted. Para los usuarios de GitHub Enterprise Cloud, algunas funciones de Seguridad avanzada también requieren el uso de GitHub Actions.
+Se otorgan licencias para las características de Advanced Security con base en "Confirmadores únicos". Un "Confirmador único" es un usuario con licencia de GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de usuario de GitHub Advanced Security apropiada para cada uno de tus confirmadores únicos. Solo puedes utilizar las características de GitHub Advanced Security en las bases de código que desarrollas o que se desarrollan para ti. En el caso de los usuarios de GitHub Team y GitHub Enterprise Cloud, algunas características de Advanced Security también requieren utilizar GitHub Actions.
 
-Para el examen de secretos con GitHub Advanced Security, al participar en comprobaciones automáticas de validez de los patrones de asociados, los tokens de terceros expuestos se pueden compartir con el asociado correspondiente, con el fin de proporcionarle más información sobre la validez del token. No todos los asociados tienen su sede en Estados Unidos. La [documentación](/es/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) sobre patrones de examen de secretos proporciona más detalles sobre qué asociados admiten la comprobación de validez.
+Para el análisis de secretos con GitHub Advanced Security o GitHub Secret Protection, al participar en comprobaciones automáticas de validez de los patrones de asociados, los tokens de terceros expuestos se pueden compartir con el asociado correspondiente, con el fin de proporcionarle más información sobre la validez del token. No todos los asociados tienen su sede en Estados Unidos. La [documentación](/es/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) sobre patrones de examen de secretos proporciona más detalles sobre qué asociados admiten la comprobación de validez.
 
 [Base de datos de asesoramiento](#advisory-database)
 ----------
