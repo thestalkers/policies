@@ -120,7 +120,7 @@ GitHub 개인정보처리방침을 시작합니다. 여기서는 귀하와 직�
 * 기업 거래 주체: 당사는 판매 또는 합병과 같은 전략적 비즈니스 거래를 위해 법률의 한도 내에서 본 개인정보처리방침에 따라 개인 데이터를 공개할 수 있습니다.
 * 파트너 및 재판매인: 당사는 서비스에 대한 판매, 컨설팅, 지원 및 기술 서비스를 제공하는 제3자와 협력합니다. 당사는 허용되는 경우 필요 시 귀하의 동의를 얻어 이러한 파트너 및 재판매인과 귀하의 데이터를 공유할 수 있습니다.
 * 하위 프로세서 및 서비스 제공자: 당사는 공급업체를 사용하여 호스팅, 마케팅, 광고, 소셜, 분석, 지원 티켓, 신용 카드 처리 또는 보안 서비스를 비롯한 서비스를 대신 제공할 수 있습니다. 공급업체는 귀하의 정보의 보안, 개인 정보 보호 및 비밀을 보장해야 하는 계약상의 의무를 집니다. 하위 프로세서 목록을 보려면 <https://docs.github.com/en/site-policy/privacy-policies/github-subprocessors>를 방문하십시오.
-* Visual Studio Code(GitHub Codespaces): GitHub Codespaces 및 github.dev는 기본적으로 일부 원격 분석이 수집되는 웹 브라우저에서 Visual Studio Code를 제공합니다. 원격 분석 수집에 대한 세부 정보는 [VS Code 웹 사이트](https://code.visualstudio.com/docs/getstarted/telemetry)에 있습니다. 옵트아웃하려면 VS Code의 왼쪽 위 메뉴에서 파일 \> 기본 설정 \> 설정으로 이동합니다. 옵트아웃하면 GitHub Codespaces 및 github.dev의 모든 향후 웹 세션에서 이 기본 설정이 동기화됩니다.
+* Visual Studio Code(GitHub Codespaces): GitHub Codespaces 및 github.dev는 기본적으로 일부 원격 분석이 수집되는 웹 브라우저에서 Visual Studio Code를 제공합니다. 원격 분석 수집에 대한 세부 정보는 [VS Code 웹 사이트](https://code.visualstudio.com/docs/configure/telemetry)에 있습니다. 옵트아웃하려면 VS Code의 왼쪽 위 메뉴에서 파일 \> 기본 설정 \> 설정으로 이동합니다. 옵트아웃하면 GitHub Codespaces 및 github.dev의 모든 향후 웹 세션에서 이 기본 설정이 동기화됩니다.
 * 기타 제3자 애플리케이션: 귀하의 지시에 따라 당사는 마켓플레이스에서 사용할 수 있는 제3자 애플리케이션과 개인 데이터를 공유할 수 있습니다. 귀하는 당사에 이러한 애플리케이션과 공유하도록 지시한 데이터에 대한 책임이 있습니다.
 * 기타 사용자 및 일반: 계정 설정에 따라 개인 데이터를 서비스의 다른 사용자 및 일반과 공유할 수 있습니다. 공개되는 정보는 귀하가 제어합니다. 설정을 조정하려면 프로필의 사용자 설정을 방문하십시오. 공동 작업 컨텍스트에서 공유하는 모든 정보는 공개적으로 액세스할 수 있습니다.
 

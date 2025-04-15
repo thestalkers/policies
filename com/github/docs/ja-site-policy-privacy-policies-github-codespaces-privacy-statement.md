@@ -22,7 +22,7 @@ github.dev でのアクティビティには、[GitHub のベータ プレビュ
 [Visual Studio Code の使用](#visual-studio-code-の使用)
 ----------
 
-GitHub Codespaces と github.dev では、Web ブラウザーで Visual Studio Code を使用できます。 Web ブラウザーで VS Code を使用する場合、一部のテレメトリ収集がデフォルト設定で有効になっていますが、この内容については、[VS Code の Web サイトで詳しく説明しています](https://code.visualstudio.com/docs/getstarted/telemetry)。 ユーザーは、左上のメニューの下にある [ファイル] \> [基本設定] \> [設定] に移動して、テレメトリをオプトアウトすることができます。
+GitHub Codespaces と github.dev では、Web ブラウザーで Visual Studio Code を使用できます。 Web ブラウザーで VS Code を使用する場合、一部のテレメトリ収集がデフォルト設定で有効になっていますが、この内容については、[VS Code の Web サイトで詳しく説明しています](https://code.visualstudio.com/docs/configure/telemetry)。 ユーザーは、左上のメニューの下にある [ファイル] \> [基本設定] \> [設定] に移動して、テレメトリをオプトアウトすることができます。
 
 ユーザーが Codespaces 環境内にある VS Code で上記のようにテレメトリ キャプチャのオプトアウトを選択した場合、GitHub Codespaces および github.dev における今後すべての Web セッションでテレメトリの無効化環境設定が同期されます。
 
