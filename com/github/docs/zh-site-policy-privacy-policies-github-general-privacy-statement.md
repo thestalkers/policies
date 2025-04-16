@@ -120,7 +120,7 @@ GitHub 一般隐私声明
 * 公司交易实体：我们可能会在法律限定范围内，依据本隐私声明之规定，出于销售或合并等战略业务交易之目的披露个人数据。
 * 合作伙伴和经销商：我们与为我们的服务提供销售、咨询、支持和技术服务的第三方开展合作。 情况允许且在需要时获得您同意后，我们可能会与这些合作伙伴和经销商共享您的数据。
 * 子处理方和服务提供方：我们可能使用供应商代表我们提供服务，其中包括托管、市场营销、广告、社交分析、支持票证、信用卡处理或安全服务。 这些服务需遵守合同义务，以确保您信息的安全、隐私和保密。 请访问 <https://docs.github.com/en/site-policy/privacy-policies/github-subprocessors>，查看我们的子处理方名录。
-* Visual Studio Code (GitHub Codespaces)：GitHub Codespaces 和 github.dev 在 Web 浏览器中提供 Visual Studio Code，默认收集其中一些遥测。 有关遥测收集的详细信息，请参阅 [VS Code 网站](https://code.visualstudio.com/docs/getstarted/telemetry)。 若要选择退出，请转到 VS Code 左上角菜单中的“文件 \> 偏好设置 \> 设置”。 选择退出会同步 GitHub Codespaces 和 github.dev 中所有未来 Web 会话的这项偏好设置。
+* Visual Studio Code (GitHub Codespaces)：GitHub Codespaces 和 github.dev 在 Web 浏览器中提供 Visual Studio Code，默认收集其中一些遥测。 有关遥测收集的详细信息，请参阅 [VS Code 网站](https://code.visualstudio.com/docs/configure/telemetry)。 若要选择退出，请转到 VS Code 左上角菜单中的“文件 \> 偏好设置 \> 设置”。 选择退出会同步 GitHub Codespaces 和 github.dev 中所有未来 Web 会话的这项偏好设置。
 * 其他第三方应用：我们可能根据您的指示与我们商城中提供的第三方应用共享个人数据。 您对指示我们与这些应用共享的数据负责。
 * 其他用户和公众：根据您的帐户设置，我们可能会与服务的其他用户和公众共享个人数据。 您控制公开哪些信息。 若要调整设置，请访问个人资料中的“用户设置”。 请注意，您在协作情境下共享的任何信息都有可能变为可供公众访问。
 
