@@ -135,7 +135,7 @@ GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copi
 
 如果自定义 GitHub Copilot，包括使用 GitHub Copilot 扩展（扩展），则使用可能会受到适用于该自定义的使用条款和隐私策略的约束。
 
-对于使用 GitHub Copilot 编写的代码，在将其上传到 GitHub.com 之前，该代码不属于本协议下的“内容”。 GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”。 GitHub 不对建议主张任何权利， 你对你的代码（包括你的代码中包含的建议）具有所有权和责任。 是否使用 GitHub Copilot 生成的建议完全由你决定。 如果你使用建议，GitHub 强烈建议制定合理的策略和做法，以避免在使用建议时侵犯他人权利。
+根据协议，你使用 GitHub Copilot编写的代码在你将其上传到 GitHub.com 前不是“内容”。 GitHub Copilot 返回给你的代码、函数和其他输出称为“建议”。 GitHub 不对建议主张任何权利， 你对你的代码（包括你的代码中包含的建议）具有所有权和责任。 是否使用 GitHub Copilot 生成的建议完全由你决定。 如果你使用建议，GitHub 强烈建议制定合理的策略和做法，以避免在使用建议时侵犯他人权利。
 
 *可接受的使用方式*
 
