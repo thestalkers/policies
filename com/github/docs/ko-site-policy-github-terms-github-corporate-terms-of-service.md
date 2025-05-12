@@ -38,7 +38,7 @@ GitHub 기업 서비스 약관
 * [S. 지원](#s-support)
 * [T. 기타](#t-miscellaneous)
 
-Note
+참고 항목
 
 GitHub 기업 서비스 약관은 2021년 11월 30일부터 사용 중지되었으며 더 이상 새 고객에게 사용되지 않습니다. 아래 약관은 기업 서비스 약관을 명시적으로 참조하는 실행된 계약을 가진 GitHub 고객에게\_만\_ 적용됩니다. 다른 모든 비즈니스 또는 기관 고객은 [github.com/customer-terms](https://github.com/customer-terms)에서 제공되는 GitHub 고객 계약 약관으로 이동됩니다.
 

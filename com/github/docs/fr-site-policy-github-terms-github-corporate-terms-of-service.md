@@ -38,7 +38,7 @@ Dans cet article
 * [S. Assistance technique](#s-support)
 * [T. Dispositions diverses](#t-miscellaneous)
 
-Note
+Remarque
 
 Les conditions d’utilisation du service GitHub Corporate ont été déconseillées le 30 novembre 2021 et ne sont plus utilisées pour les nouveaux clients. Les termes ci-dessous s’appliquent *uniquement* aux clients GitHub avec des contrats exécutés qui référencent explicitement les conditions d’utilisation du service. Tous les autres clients professionnels ou institutionnels sont dirigés vers les conditions du Contrat client GitHub disponibles à [github.com/customer-terms](https://github.com/customer-terms).
 

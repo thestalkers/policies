@@ -38,7 +38,7 @@ GitHub の企業向けサービス使用条件
 * [S. サポート](#s-support)
 * [T. 雑則](#t-miscellaneous)
 
-Note
+メモ
 
 GitHub 企業サービス使用条件は、2021 年 11 月 30 日に廃止され、新規のお客様には使用されなくなりました。 以下の条項は、企業向けサービス使用条件を明示的に参照する契約が実行されている GitHub のお客様にのみ\_適用\_されます。 その他のすべての企業または教育機関のお客様は、[github.com/customer-terms](https://github.com/customer-terms) で利用可能な GitHub 顧客契約条件に転送されます。
 

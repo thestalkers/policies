@@ -38,7 +38,7 @@ In diesem Artikel
 * [S. Support](#s-support)
 * [T. Sonstiges](#t-miscellaneous)
 
-Note
+Hinweis
 
 Die GitHub-Vertragsbedingungen für Unternehmen wurden am 30. November 2021 eingestellt und werden nicht mehr für neue Kunden verwendet. Die nachstehenden Bedingungen gelten *nur* für die GitHub-Kunden mit ausgeführten Vereinbarungen, die explizit auf die Vertragsbedingungen für Unternehmen verweisen. Alle anderen Geschäfts- oder Einrichtungskunden werden an die Bedingungen des GitHub-Kundenvertrags weitergeleitet, die unter [github.com/customer-terms](https://github.com/customer-terms) verfügbar sind.
 

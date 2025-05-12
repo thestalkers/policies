@@ -38,7 +38,7 @@ En este artículo
 * [S. Soporte Técnico.](#s-support)
 * [T. Disposiciones adicionales](#t-miscellaneous)
 
-Note
+Nota:
 
 Los términos de servicio corporativos de GitHub han quedado en desuso a partir del 30 de noviembre de 2021 y ya no se usan para nuevos clientes. Los términos siguientes *solo* se aplican a los clientes de GitHub con acuerdos ejecutados que hacen referencia explícita a los Términos de servicio corporativos. Todos los demás clientes empresariales o de instituciones se dirigen a los términos del Acuerdo de cliente de GitHub disponibles en [github.com/customer-terms](https://github.com/customer-terms).
 

@@ -38,7 +38,7 @@ Neste artigo
 * [S. Suporte](#s-support)
 * [T. Disposições Gerais](#t-miscellaneous)
 
-Note
+Observação
 
 Os termos de serviço corporativos do GitHub foram preteridos desde 30 de novembro de 2021 e não são mais usados para novos clientes. Os termos abaixo se aplicam *apenas* aos clientes do GitHub com contratos assinados que fazem referência explícita aos Termos de Serviço Corporativos. Todos os outros clientes de empresas ou instituições são direcionados para os termos do Contrato de Cliente do GitHub, disponíveis em [github.com/customer-terms](https://github.com/customer-terms).
 
