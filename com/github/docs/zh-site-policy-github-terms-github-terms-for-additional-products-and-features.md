@@ -143,7 +143,7 @@ GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copi
 
 *数据*
 
-GitHub Copilot：(i) 可能会根据你的设置以及你使用的特定 GitHub Copilot 服务收集和处理数据 - 这可能包括提示、建议和代码片段，并且 (ii) 将通过你使用的与帐户绑定的 GitHub Copilot 服务收集其他使用信息 - 这可能包括服务使用信息、网站使用数据和反馈数据。 我们可能根据你的指示与第三方应用程序（例如 [GitHub Marketplace](https://github.com/marketplace) 中的应用程序）或你选择的第三方 AI 模型共享此类数据。 这可能包括个人数据，如 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 信任中心](https://resources.github.com/copilot-trust-center/)详细了解 GitHub Copilot 数据的收集和使用。
+GitHub Copilot：(i) 可能会根据你的设置以及你使用的特定 GitHub Copilot 服务收集和处理数据 - 这可能包括提示、建议和代码片段，并且 (ii) 将通过你使用的与帐户绑定的 GitHub Copilot 服务收集其他使用信息 - 这可能包括服务使用信息、网站使用数据和反馈数据。 我们可能根据你的指示与第三方应用程序（例如 [GitHub Marketplace](https://github.com/marketplace) 中的应用程序）或你选择的第三方 AI 模型共享此类数据。 这可能包括个人数据，如 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)中所述。 可以通过 [GitHub Copilot 信任中心](https://copilot.github.trust.page/)详细了解 GitHub Copilot 数据的收集和使用。
 
 对于 GitHub Copilot 免费版用户，GitHub Copilot 收集的数据可能用于 AI 模型训练（在允许的场景下并且如果你的设置中允许这样做）。
 
