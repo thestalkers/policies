@@ -5,6 +5,7 @@ GitHub コミュニティ ガイドライン - GitHub Docs
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub 条件](/ja/site-policy/github-terms)/

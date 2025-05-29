@@ -5,6 +5,7 @@ Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Security Policies](/en/site-policy/security-policies)/

@@ -5,6 +5,7 @@ GitHub Codespaces-Datenschutzerklärung - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Datenschutzrichtlinien](/de/site-policy/privacy-policies)/

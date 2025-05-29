@@ -5,6 +5,7 @@ GitHub Doxxing и вторжение в частную жизнь - Докуме
 [Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
+----------
 
 * [Политика сайта](/ru/site-policy)/
 * [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/

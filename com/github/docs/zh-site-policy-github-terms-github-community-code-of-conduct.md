@@ -5,6 +5,7 @@ GitHub 社区行为准则 - GitHub 文档
 [主页](/zh)
 
 [Site policy](/zh/site-policy)
+----------
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 条款](/zh/site-policy/github-terms)/

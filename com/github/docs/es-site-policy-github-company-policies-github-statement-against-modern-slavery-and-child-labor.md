@@ -5,6 +5,7 @@ Declaración de GitHub contra la esclavitud moderna y el trabajo infantil - Docu
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)/

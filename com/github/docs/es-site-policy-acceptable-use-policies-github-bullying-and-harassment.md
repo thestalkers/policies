@@ -5,6 +5,7 @@ Intimidación y acoso de GitHub - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/

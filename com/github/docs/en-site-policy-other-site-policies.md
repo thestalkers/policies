@@ -5,6 +5,7 @@ Other Site Policies - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Other Site Policies](/en/site-policy/other-site-policies)

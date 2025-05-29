@@ -5,6 +5,7 @@ Términos y condiciones de las aplicaciones de código abierto de GitHub - Docum
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/

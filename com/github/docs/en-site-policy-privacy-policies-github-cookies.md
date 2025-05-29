@@ -5,6 +5,7 @@ GitHub Cookies - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Privacy Policies](/en/site-policy/privacy-policies)/

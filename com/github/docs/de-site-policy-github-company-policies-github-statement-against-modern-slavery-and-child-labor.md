@@ -5,6 +5,7 @@ GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentatio
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/

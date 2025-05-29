@@ -5,6 +5,7 @@ Richtlinie zum Entfernen privater Informationen von GitHub - GitHub-Dokumentatio
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)/

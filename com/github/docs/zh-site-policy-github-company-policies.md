@@ -5,6 +5,7 @@ GitHub 公司政策 - GitHub 文档
 [主页](/zh)
 
 [Site policy](/zh/site-policy)
+----------
 
 * [站点政策](/zh/site-policy)/
 * [GitHub 公司政策](/zh/site-policy/github-company-policies)

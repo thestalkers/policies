@@ -5,6 +5,7 @@ Divulgación coordinada de vulnerabilidades de seguridad - Documentación de Git
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de seguridad](/es/site-policy/security-policies)/

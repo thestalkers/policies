@@ -5,6 +5,7 @@
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [セキュリティ ポリシー](/ja/site-policy/security-policies)/

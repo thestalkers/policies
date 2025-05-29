@@ -5,6 +5,7 @@ Politique relative aux logos GitHub - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Autres politiques du site](/fr/site-policy/other-site-policies)/

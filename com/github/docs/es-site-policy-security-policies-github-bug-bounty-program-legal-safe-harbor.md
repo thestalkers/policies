@@ -5,6 +5,7 @@ Programa de recompensas por errores de GitHub Puerto seguro legal - Documentaci�
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de seguridad](/es/site-policy/security-policies)/

@@ -5,6 +5,7 @@ Directivas de Privacidad - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)

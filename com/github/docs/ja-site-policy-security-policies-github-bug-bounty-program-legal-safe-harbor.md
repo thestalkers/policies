@@ -5,6 +5,7 @@ GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [セキュリティ ポリシー](/ja/site-policy/security-policies)/

@@ -5,6 +5,7 @@ GitHub の贈答品および接待に関するポリシー - GitHub Docs
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/

@@ -5,6 +5,7 @@ GitHub Codespaces プライバシーに関する声明 - GitHub Docs
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [プライバシー ポリシー](/ja/site-policy/privacy-policies)/

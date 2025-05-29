@@ -5,6 +5,7 @@ Política del logotipo de GitHub - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Otras políticas del sitio](/es/site-policy/other-site-policies)/

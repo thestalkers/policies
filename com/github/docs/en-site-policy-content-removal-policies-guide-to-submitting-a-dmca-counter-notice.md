@@ -5,6 +5,7 @@ Guide to Submitting a DMCA Counter Notice - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Content Removal Policies](/en/site-policy/content-removal-policies)/

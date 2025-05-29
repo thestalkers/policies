@@ -5,6 +5,7 @@ DMCA 반론 통지 제출 가이드 - GitHub Docs
 [홈](/ko)
 
 [Site policy](/ko/site-policy)
+----------
 
 * [사이트 정책](/ko/site-policy)/
 * [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/

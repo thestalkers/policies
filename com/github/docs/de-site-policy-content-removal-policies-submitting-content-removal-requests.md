@@ -5,6 +5,7 @@ Einreichen von Anträgen auf Entfernung von Inhalten - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)/

@@ -5,6 +5,7 @@ Politiques de Confidentialité - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de Confidentialité](/fr/site-policy/privacy-policies)

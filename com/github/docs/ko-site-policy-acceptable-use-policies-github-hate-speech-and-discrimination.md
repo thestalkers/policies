@@ -5,6 +5,7 @@ GitHub 혐오 발언 및 차별 금지 방침 - GitHub Docs
 [홈](/ko)
 
 [Site policy](/ko/site-policy)
+----------
 
 * [사이트 정책](/ko/site-policy)/
 * [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/

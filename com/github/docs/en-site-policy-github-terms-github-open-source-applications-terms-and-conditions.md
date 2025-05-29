@@ -5,6 +5,7 @@ GitHub Open Source Applications Terms and Conditions - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [GitHub Terms](/en/site-policy/github-terms)/

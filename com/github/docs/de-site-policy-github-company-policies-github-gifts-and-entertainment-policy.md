@@ -5,6 +5,7 @@ GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/

@@ -5,6 +5,7 @@ Guía para enviar un aviso de eliminación de DMCA - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)/

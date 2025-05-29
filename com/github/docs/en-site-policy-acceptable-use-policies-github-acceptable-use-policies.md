@@ -5,6 +5,7 @@ GitHub Acceptable Use Policies - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)/

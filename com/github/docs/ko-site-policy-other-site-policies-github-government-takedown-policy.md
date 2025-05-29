@@ -5,6 +5,7 @@ GitHub 정부 게시 중단 정책 - GitHub Docs
 [홈](/ko)
 
 [Site policy](/ko/site-policy)
+----------
 
 * [사이트 정책](/ko/site-policy)/
 * [다른 사이트 정책](/ko/site-policy/other-site-policies)/

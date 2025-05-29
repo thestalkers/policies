@@ -5,6 +5,7 @@ Submitting content removal requests - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [Content Removal Policies](/en/site-policy/content-removal-policies)/

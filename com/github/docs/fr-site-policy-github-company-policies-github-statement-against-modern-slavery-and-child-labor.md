@@ -5,6 +5,7 @@ Déclaration de GitHub contre l'esclavage moderne et le travail des enfants - Do
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)/

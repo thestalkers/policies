@@ -5,6 +5,7 @@ Términos de GitHub para productos y funciones adicionales - Documentación de G
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Términos de GitHub](/es/site-policy/github-terms)/

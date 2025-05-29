@@ -5,6 +5,7 @@ Contrat de développeur enregistré GitHub - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Termes GitHub](/fr/site-policy/github-terms)/

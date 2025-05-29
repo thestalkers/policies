@@ -5,6 +5,7 @@ GitHub GPL Cooperation Commitment - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [GitHub Company Policies](/en/site-policy/github-company-policies)/

@@ -5,6 +5,7 @@ Richtlinien für rechtliche Anfragen von Benutzerdaten - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/

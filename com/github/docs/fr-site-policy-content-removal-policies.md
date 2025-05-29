@@ -5,6 +5,7 @@ Politiques de suppression de contenu - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)

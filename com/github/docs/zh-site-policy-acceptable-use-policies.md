@@ -5,6 +5,7 @@
 [主页](/zh)
 
 [Site policy](/zh/site-policy)
+----------
 
 * [站点政策](/zh/site-policy)/
 * [可接受使用政策](/zh/site-policy/acceptable-use-policies)

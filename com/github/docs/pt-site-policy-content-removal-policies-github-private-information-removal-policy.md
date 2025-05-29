@@ -5,6 +5,7 @@ Política de remoção de informações privadas do GitHub - GitHub Docs
 [Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
+----------
 
 * [Política do site](/pt/site-policy)/
 * [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)/

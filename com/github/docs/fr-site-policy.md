@@ -5,6 +5,7 @@ Documentation sur la politique du site - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)
 

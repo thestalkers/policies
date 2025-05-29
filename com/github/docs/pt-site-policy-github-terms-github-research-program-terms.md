@@ -5,6 +5,7 @@ Termos do Programa de Pesquisa GitHub - GitHub Docs
 [Página Inicial](/pt)
 
 [Site policy](/pt/site-policy)
+----------
 
 * [Política do site](/pt/site-policy)/
 * [Termos do GitHub](/pt/site-policy/github-terms)/

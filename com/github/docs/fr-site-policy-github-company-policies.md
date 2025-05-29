@@ -5,6 +5,7 @@ Politiques de l'entreprise GitHub - Documentation GitHub
 [Accueil](/fr)
 
 [Site policy](/fr/site-policy)
+----------
 
 * [Politique du site](/fr/site-policy)/
 * [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)

@@ -5,6 +5,7 @@ GitHub の死亡ユーザー ポリシー - GitHub Docs
 [ホーム](/ja)
 
 [Site policy](/ja/site-policy)
+----------
 
 * [サイト ポリシー](/ja/site-policy)/
 * [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/

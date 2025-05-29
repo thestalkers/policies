@@ -5,6 +5,7 @@ GitHub Marketplace 개발자 계약 - GitHub Docs
 [홈](/ko)
 
 [Site policy](/ko/site-policy)
+----------
 
 * [사이트 정책](/ko/site-policy)/
 * [GitHub 약관](/ko/site-policy/github-terms)/

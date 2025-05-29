@@ -5,6 +5,7 @@ Declaración de privacidad de los espacios de código de GitHub - Documentación
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Privacidad](/es/site-policy/privacy-policies)/

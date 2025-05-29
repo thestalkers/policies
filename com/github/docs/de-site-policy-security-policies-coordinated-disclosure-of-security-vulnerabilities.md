@@ -5,6 +5,7 @@ Koordinierte Offenlegung von Sicherheitslücken - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Sicherheitsrichtlinien](/de/site-policy/security-policies)/

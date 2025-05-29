@@ -5,6 +5,7 @@ GitHub interrumpiendo la experiencia de otros usuarios - Documentación de GitHu
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/

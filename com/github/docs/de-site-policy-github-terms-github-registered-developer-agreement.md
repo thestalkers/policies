@@ -5,6 +5,7 @@ Vereinbarung für registrierte GitHub-Entwickler - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [GitHub-Bedingungen](/de/site-policy/github-terms)/

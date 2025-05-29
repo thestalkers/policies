@@ -5,6 +5,7 @@ Directrices para solicitudes legales de datos de usuario - Documentación de Git
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Otras políticas del sitio](/es/site-policy/other-site-policies)/

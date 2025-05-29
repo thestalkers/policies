@@ -5,6 +5,7 @@
 [홈](/ko)
 
 [Site policy](/ko/site-policy)
+----------
 
 * [사이트 정책](/ko/site-policy)/
 * [다른 사이트 정책](/ko/site-policy/other-site-policies)

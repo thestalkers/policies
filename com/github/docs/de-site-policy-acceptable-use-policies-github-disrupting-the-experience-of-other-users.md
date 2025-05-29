@@ -5,6 +5,7 @@ GitHub stört die Erfahrung anderer Benutzer - GitHub-Dokumentation
 [Startseite](/de)
 
 [Site policy](/de/site-policy)
+----------
 
 * [Websiterichtlinie](/de/site-policy)/
 * [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/

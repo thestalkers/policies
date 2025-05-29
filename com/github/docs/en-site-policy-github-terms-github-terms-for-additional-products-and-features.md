@@ -5,6 +5,7 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 [Home](/en)
 
 [Site policy](/en/site-policy)
+----------
 
 * [Site policy](/en/site-policy)/
 * [GitHub Terms](/en/site-policy/github-terms)/

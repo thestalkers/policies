@@ -5,6 +5,7 @@ DMCA 抗辩通知提交指南 - GitHub 文档
 [主页](/zh)
 
 [Site policy](/zh/site-policy)
+----------
 
 * [站点政策](/zh/site-policy)/
 * [内容删除政策](/zh/site-policy/content-removal-policies)/

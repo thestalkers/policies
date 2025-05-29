@@ -5,6 +5,7 @@ Política de obsequios y entretenimiento de GitHub - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)/
 * [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)/
