@@ -5,6 +5,7 @@ Documentación de la directiva del sitio - Documentación de GitHub
 [Home](/es)
 
 [Site policy](/es/site-policy)
+----------
 
 * [Política del sitio](/es/site-policy)
 

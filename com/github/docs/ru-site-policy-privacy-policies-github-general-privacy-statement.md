@@ -5,6 +5,7 @@
 [Домашняя страница](/ru)
 
 [Site policy](/ru/site-policy)
+----------
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики конфиденциальности](/ru/site-policy/privacy-policies)/
