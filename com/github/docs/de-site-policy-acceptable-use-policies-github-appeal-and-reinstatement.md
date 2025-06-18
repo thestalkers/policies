@@ -71,6 +71,6 @@ Wir verfolgen Einsprüche und Wiedereinsetzungen in unserem [Transparenz-Center]
 
 ### [Gesetzliche Rechte](#legal-rights) ###
 
-Wenn Sie der Meinung sind, dass eine endgültige Entscheidung über Rechtsmittel immer noch falsch ist, können Sie unter bestimmten Umständen zusätzliche Rechte haben, die Entscheidung nach Ihrem lokalen Recht überprüfen zu lassen. Wenn Sie sich beispielsweise in der Europäischen Union befinden, kann es möglich sein, im Rahmen des [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1) auf einen außergerichtlichen Streitbeilegungsprozess zuzugreifen.
+Wenn Sie der Meinung sind, dass eine endgültige Entscheidung über Rechtsmittel immer noch falsch ist, können Sie unter bestimmten Umständen zusätzliche Rechte haben, die Entscheidung nach Ihrem lokalen Recht überprüfen zu lassen. Wenn Sie beispielsweise in der Europäischen Union ansässig sind, kann es möglich sein, ein außergerichtliches Streitbeilegungsverfahren nach dem [Digital Services Act](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1) in Anspruch zu nehmen. Dieses Verfahren spiegelt das Engagement von GitHub für die international anerkannten Menschenrechte, die in den UN-Leitprinzipien für Wirtschaft und Menschenrechte (United Nations Guiding Principles on Business and Human Rights, UNGPs) festgelegt sind, für Datenschutz und freie Meinungsäußerung wider.
 
 {"resolvedServerColorMode":"day"}

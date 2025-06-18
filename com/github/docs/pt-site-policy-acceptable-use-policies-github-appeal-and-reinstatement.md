@@ -71,6 +71,6 @@ Acompanhamos as contestações e as reintegração por meio da [Central de trans
 
 ### [Direitos legais](#legal-rights) ###
 
-Se você acreditar que uma decisão final tomada sobre uma Contestação ainda está incorreta, será possível, em determinadas circunstâncias, ter direitos adicionais para buscar a revisão da decisão de acordo com a lei local. Por exemplo, se você estiver localizado na União Europeia, talvez seja possível acessar um processo extrajudicial de acordo de disputas em conformidade com a [Lei de Serviços Digitais](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+Se você acreditar que uma decisão final tomada sobre uma Contestação ainda está incorreta, será possível, em determinadas circunstâncias, ter direitos adicionais para buscar a revisão da decisão de acordo com a lei local. Por exemplo, se você estiver na União Europeia, talvez seja possível acessar um processo de resolução extrajudicial de litígios em conformidade com o [Regulamento dos Serviços Digitais](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1). Esse processo reflete o compromisso do GitHub com os direitos humanos reconhecidos internacionalmente, estabelecidos nos Princípios Orientadores das Nações Unidas sobre Negócios e Direitos Humanos (UNGPs), com a privacidade e com a liberdade de expressão.
 
 {"resolvedServerColorMode":"day"}

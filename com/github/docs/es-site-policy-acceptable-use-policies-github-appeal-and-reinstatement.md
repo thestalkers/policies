@@ -71,6 +71,6 @@ Realizamos un seguimiento de las apelaciones y de los restablecimientos en nuest
 
 ### [Derechos legales](#legal-rights) ###
 
-Si crees que una decisión final tomada en apelación sigue siendo incorrecta, puedes, en determinadas circunstancias, tener derechos adicionales para buscar la revisión de la decisión en virtud de tu legislación local. Por ejemplo, si te encuentras en la Unión Europea, podría ser posible acceder a un proceso de solución de controversias fuera del tribunal en virtud de la [Ley de Servicios Digitales](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+Si crees que una decisión final tomada en apelación sigue siendo incorrecta, puedes, en determinadas circunstancias, tener derechos adicionales para buscar la revisión de la decisión en virtud de tu legislación local. Por ejemplo, si te encuentras en la Unión Europea, podría ser posible acceder a un proceso de solución de controversias fuera del tribunal en virtud de la [Ley de Servicios Digitales](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1). Este proceso refleja el compromiso de GitHub con los derechos humanos reconocidos internacionalmente establecidos en los Principios Rectores sobre las empresas y los derechos humanos de las Naciones Unidas (UNGP, por su siglas en inglés), privacidad y libre expresión.
 
 {"resolvedServerColorMode":"day"}
