@@ -71,6 +71,6 @@ GitHub 工作人员将审查表单中提供的信息，以确定是否有足够�
 
 ### [法律权利](#legal-rights) ###
 
-如果你认为对申诉做出的最终决定仍然不正确，在某些情况下，根据当地法律，您可能有其他权利可允许你寻求对该决定的审查。 例如，如果你在欧盟，则有可能根据《数字服务法案》[](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1)进入庭外争议解决程序。
+如果你认为对申诉做出的最终决定仍然不正确，在某些情况下，根据当地法律，您可能有其他权利可允许你寻求对该决定的审查。 例如，如果您位于欧盟，则有可能根据[《数字服务法案》](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1)进入庭外争议解决程序。这一流程体现了 GitHub 对国际公认的人权（载于《联合国工商企业与人权指导准则》(United Nations Guiding Principles on Business and Human Rights, UNGP)）、隐私和言论自由的承诺。
 
 {"resolvedServerColorMode":"day"}
