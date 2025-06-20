@@ -71,6 +71,6 @@ Nous suivons les appels et les réintégrations dans notre [Centre de transparen
 
 ### [Droits juridiques](#legal-rights) ###
 
-Si vous pensez qu’une décision finale prise en appel est toujours incorrecte, vous pouvez, dans certaines circonstances, avoir des droits supplémentaires pour demander l’examen de la décision en vertu de votre loi locale. Par exemple, si vous êtes situé dans l’Union européenne, il peut être possible d’accéder à un processus de règlement des différends hors tribunal en vertu de la [Loi sur les services numériques](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1).
+Si vous pensez qu’une décision finale prise en appel est toujours incorrecte, vous pouvez, dans certaines circonstances, avoir des droits supplémentaires pour demander l’examen de la décision en vertu de votre loi locale. Par exemple, si vous êtes situé dans l’Union européenne, il peut être possible d’accéder à un processus de règlement des différends hors tribunal en vertu de la [Loi sur les services numériques](https://eur-lex.europa.eu/eli/reg/2022/2065/oj#d1e2819-1-1). Ce processus reflète l’engagement de GitHub envers les droits de l’homme reconnus à l’échelle internationale dans les Principes directeurs des Nations Unies sur les droits de l’homme et les affaires (PNU), la protection de la vie privée et l’expression libre.
 
 {"resolvedServerColorMode":"day"}
