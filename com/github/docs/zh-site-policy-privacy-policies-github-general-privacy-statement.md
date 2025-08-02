@@ -238,7 +238,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 
 ### [Cookie 和跟踪技术](#cookies-and-tracking-technologies) ###
 
-GitHub 使用 Cookie 来提供、保护和改进我们的服务或开发我们服务的新特性和功能。 例如，Cookie 可用于 (i) 让您保持登录状态 (ii) 记住您的偏好 (iii) 出于安全和欺诈目的标识您的设备，包括根据需要维护我们服务的完整性 (iv) 搜集统计报告 (v) 为 GitHub 未来的发展提供信息和见解。 我们提供了关于 [GitHub 上的 Cookie](https://github.com/privacy/cookies) 的更多信息，其中阐述了我们设置哪些 Cookie、我们需要使用这些 Cookie 的原因，以及这些 Cookie 的有效期限。
+GitHub 使用 Cookie 来提供、保护和改进我们的服务或开发我们服务的新特性和功能。 例如，Cookie 可用于 (i) 让您保持登录状态 (ii) 记住您的偏好 (iii) 出于安全和欺诈目的标识您的设备，包括根据需要维护我们服务的完整性 (iv) 搜集统计报告 (v) 为 GitHub 未来的发展提供信息和见解。 我们提供了关于 [GitHub 上的 Cookie](/zh/site-policy/privacy-policies/github-cookies) 的更多信息，其中阐述了我们设置哪些 Cookie、我们需要使用这些 Cookie 的原因，以及这些 Cookie 的有效期限。
 
 对于企业营销页面，我们还可能使用非必要的 Cookie 来 (i) 收集企业用户的兴趣和在线活动的相关信息以个性化体验，包括让用户看到或收到相关性更高的广告、内容、推荐和营销 (ii) 投放有针对性的广告和开展其他营销工作并衡量效果。 如果在企业营销页面上禁用非必要的 Cookie，您看到的广告、内容和营销可能不太相关。
 
