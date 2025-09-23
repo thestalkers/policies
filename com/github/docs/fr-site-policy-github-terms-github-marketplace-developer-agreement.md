@@ -39,7 +39,7 @@ Dans cet article
 
 **Les présentes conditions générales (« l’accord ») régissent votre participation à la place de marché de GitHub. En vous inscrivant pour participer à la Place de marché ou en cliquant sur « J’accepte » ci-dessous, vous confirmez que vous comprenez cet accord et que vous en acceptez tous les termes et conditions. Si vous concluez le présent accord au nom d’une société ou d’une autre entité juridique, vous déclarez que vous avez l’autorité légale pour lier l’entité à cet accord, auquel cas « Vous » désignera l’entité que vous représentez.**
 
-Date d’entrée en vigueur : 17 mai 2024
+Date d’effet : 27 mai 2025
 
 [1. DÉFINITIONS](#1definitions)
 ----------
@@ -94,16 +94,16 @@ Nonobstant toute exigence énoncée dans la section 2 (Objectif et octroi de li
 
 **3.3** Le développeur ne s’engagera dans aucune activité avec Place de marché, y compris la tentative de distribuer tout produit de développeur, qui viole les conditions de service de GitHub, y compris les [Politiques d’utilisation acceptables](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). En outre, le développeur n’essaiera pas de distribuer un produit développé qui :
 
-* 1. Contient ou installe des logiciels malveillants ou des exploits actifs, ou utilise notre plate-forme pour la diffusion d'exploits (par exemple, dans le cadre d'un système de commande et de contrôle) ;
-* 2. Permet le téléchargement non autorisé de contenu ou de média en streaming ; ou
-* 3. Détourne les utilisateurs finaux ou fournit des liens vers tout autre site qui imite la place de marché ou se fait passer pour la Place de marché
+* (i) Contient ou installe des logiciels malveillants ou des exploits actifs, ou utilise notre plateforme pour la diffusion d'exploits (par exemple, dans le cadre d'un système de commande et de contrôle) ;
+* (ii) Permet le téléchargement non autorisé de contenu ou de média diffusé en continu ; ou
+* (iii) Détourne les utilisateurs finaux ou fournit des liens vers tout autre site qui imite la place de marché ou se fait passer pour la Place de marché
 
 **3.4** En ce qui concerne les produits développés qui interagissent avec la technologie d’IA générative, y compris les extensions GitHub Copilot, le développeur s’engage à :
 
-* 1. Tester le produit développé à l’aide de divers intrants pour s’assurer que les résultats n’enfreignent pas le présent accord ;
-* 2. Notifier les utilisateurs lorsqu’ils interagissent avec un contenu d’IA générative ;
-* 3. Disposer d’un mécanisme permettant aux utilisateurs finaux de faire part à GitHub et au développeur de leurs remarques concernant des erreurs, des bogues, des résultats incorrects ou indésirables ; et
-* 4. Informer les utilisateurs finaux des cas d’utilisation appropriés, des meilleures pratiques et des limites du produit développé.
+* (i) Tester le produit développé à l’aide de divers intrants pour s’assurer que les résultats n’enfreignent pas le présent accord ;
+* (ii) Notifier les utilisateurs lorsqu’ils interagissent avec un contenu d’IA générative ;
+* (iii) Disposer d’un mécanisme permettant aux utilisateurs finaux de faire part à GitHub et au développeur de leurs remarques concernant des erreurs, des bogues, des résultats incorrects ou indésirables ; et
+* (iv) Informer les utilisateurs finaux des cas d’utilisation appropriés, des meilleures pratiques et des limites du produit développé.
 
 **3.5** Le Développeur ne doit en aucun cas reconditionner ou revendre la Place de marché, une API GitHub, des données personnelles ou des données d’utilisation. Le Développeur n’est pas autorisé à utiliser l’API GitHub ou toute Donnée d’utilisation d’une manière qui compromettrait ou pourrait potentiellement compromettre la sécurité du Service, de l’API GitHub, des Données d’utilisation ou de toute autre donnée ou information stockée ou transmise à l’aide de la Place de marché. De plus, le développeur ne doit pas (a) interférer avec, modifier ou désactiver les caractéristiques, les fonctionnalités ou les contrôles de sécurité de Place de marché ou d’une API de GitHub ; (b) contourner de quelque façon que ce soit les mécanismes de protection de Place de marché ou d’une API de GitHub ; ou (c) faire de l’ingénierie inverse, décompiler, désassembler ou dériver le code source, les idées sous-jacentes, les algorithmes, la structure ou la forme d’organisation de Place de marché ou d’une API de GitHub.
 
@@ -129,10 +129,10 @@ Nonobstant toute exigence énoncée dans la section 2 (Objectif et octroi de li
 
 Si GitHub est informé par vous ou prend connaissance et détermine à sa seule discrétion qu’une annonce ou une partie de celle-ci ou vos caractéristiques de marque :
 
-* (a) viole les termes du présent accord ou des CGU ;
-* (b) l’affichage de la Liste a un impact sur l’intégrité des serveurs GitHub (c’est-à-dire que les utilisateurs ne peuvent pas accéder à ce contenu ou rencontrent des difficultés) ;
-* (c) est considéré par GitHub comme ajoutant un risque indu aux données des Utilisateurs Finaux de Marketplace ou altérant l’expérience utilisateur de Marketplace ou de GitHub ; ou
-* (d) fait l’objet de plaintes d’utilisateurs concernant votre violation de votre CLUF, ou
+* (i) viole les termes du présent accord ou des CGU ;
+* (ii) l’affichage de la Liste a un impact sur l’intégrité des serveurs GitHub (c’est-à-dire que les utilisateurs ne peuvent pas accéder à ce contenu ou rencontrent des difficultés) ;
+* (iii) est considéré par GitHub comme ajoutant un risque indu aux données des Utilisateurs Finaux de la Place de marché ou altérant l’expérience utilisateur de Marketplace ou de GitHub ; ou
+* (iv) fait l’objet de plaintes d’utilisateurs finaux concernant votre violation de votre CLUF, ou
 
 GitHub peut : suspendre le transfert de Données personnelles vers votre Produit développé ; interdire la collecte et le traitement de Données personnelles via votre Produit développé ; retirer l’Annonce de Place de marché ; marquer, filtrer ou modifier les documents connexes (y compris, mais sans s’y limiter, les descriptions, les captures d’écran ou les métadonnées) ; ou reclasser l’Annonce, à sa seule discrétion. Si GitHub prend l’une de ces mesures concernant votre inscription, vous pouvez faire appel de la décision de GitHub par le biais de la [Procédure d’appel et de réintégration de GitHub](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
@@ -164,9 +164,11 @@ Le Développeur doit conserver et traiter toutes les données personnelles confo
 
 **6.1** GitHub sera le commerçant officiel pour les Produits Développeurs achetés par les Utilisateurs finaux en utilisant le Marketplace.
 
-**6.2** Inscription. Le développeur devra fournir des informations vous concernant (telles que des données d’identification ou de contact) dans le cadre du processus d’inscription à la Marketplace, ou dans le cadre de votre utilisation continue de la Marketplace, y compris, mais sans s’y limiter, les éléments suivants : (i) le nom, (ii) l’adresse, (iii) le numéro de téléphone, (iv) l’adresse électronique, et (v) les détails du compte de paiement. GitHub peut publier les informations du développeur sur la place de marché et conserver les informations d’enregistrement du développeur conformément à la loi applicable.**6.3** Tarification. Les prix des Référencements pour les Applications Développeurs seront fixés en dollars américains (USD). Le développeur a un contrôle total sur la fixation des prix pour chaque annonce. Les prix que vous fixez pour les produits développés détermineront le montant du paiement que vous recevrez. GitHub versera 95 % du prix de vente en USD sans réduction des taxes, à l'exception de toute retenue à la source requise par la loi applicable. Les 5 % restants du prix de vente seront attribués et conservés par GitHub. À la fin de chaque mois et après avoir atteint une valeur minimale de $500 USD, GitHub vous versera votre part des paiements.
+**6.2** Inscription. Le développeur devra fournir des informations vous concernant (telles que des données d’identification ou de contact) dans le cadre du processus d’inscription et d’intégration à la Place de marché, ou dans le cadre de votre utilisation continue de la Place de marché, y compris, mais sans s’y limiter, les éléments suivants : (i) le nom, (ii) l’adresse, (iii) le numéro de téléphone, (iv) l’adresse électronique, et (v) les détails du compte de paiement. GitHub peut publier les informations du développeur sur la place de marché et conserver les informations d’enregistrement du développeur conformément à la loi applicable.
 
-**6.3** Remboursements. Vous serez responsable de spécifier les termes et conditions concernant les remboursements à vos utilisateurs finaux. En aucun cas, GitHub ne sera responsable de fournir une assistance pour les remboursements, et GitHub ne sera pas non plus responsable du paiement de tout remboursement.
+**6.3** Tarification. Les prix des Référencements pour les Applications Développeurs seront fixés en dollars américains (USD). Le développeur a un contrôle total sur la fixation des prix pour chaque annonce. Les prix que vous fixez pour les produits développés détermineront le montant du paiement que vous recevrez. GitHub versera 95 % du prix de vente en USD sans réduction des taxes, à l'exception de toute retenue à la source requise par la loi applicable. Les 5 % restants du prix de vente seront attribués et conservés par GitHub. GitHub vous versera votre part du premier paiement dans les 90 jours suivant la fin de l’inscription. Après le premier versement, GitHub vous versera votre part des paiements à la fin du mois.
+
+**6.4** Remboursements. Vous serez responsable de spécifier les termes et conditions concernant les remboursements à vos utilisateurs finaux. En aucun cas, GitHub ne sera responsable de fournir une assistance pour les remboursements, et GitHub ne sera pas non plus responsable du paiement de tout remboursement.
 
 [7. PROPRIÉTÉ](#7ownership)
 ----------
@@ -221,7 +223,7 @@ Les parties sont des entrepreneurs indépendants. Le présent Contrat ne crée e
 [15. INFORMATION PRÉALABLE](#15-notice)
 ----------
 
-Les avis adressés à GitHub peuvent être envoyés par courrier électronique à [legal@support.github.com](mailto:legal@support.github.com). Si le client souhaite signifier officiellement un avis à GitHub, il doit le faire par l’intermédiaire de l’agent enregistré de GitHub : GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Les avis doivent être formulés par écrit et seront considérés comme remis à la date de réception à l’adresse, à la date figurant sur l’accusé de réception, à la date de transmission par courrier électronique ou à la date figurant sur la confirmation de livraison par le service de messagerie. Tous les avis à fournir par GitHub au Développeur en vertu du présent Contrat peuvent être remis par écrit (i) par un service de livraison rapide reconnu au niveau national ("Courrier ») ou par courrier américain à l'adresse postale de contact fournie par le Développeur à GitHub ; ou (ii) un courrier électronique à l'adresse de courrier électronique fournie par le Développeur.
+Les avis adressés à GitHub peuvent être envoyés par courrier électronique à [legal-support@github.com](mailto:legal-support@github.com). Si le client souhaite signifier officiellement un avis à GitHub, il doit le faire par l’intermédiaire de l’agent enregistré de GitHub : GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Les avis doivent être formulés par écrit et seront considérés comme remis à la date de réception à l’adresse, à la date figurant sur l’accusé de réception, à la date de transmission par courrier électronique ou à la date figurant sur la confirmation de livraison par le service de messagerie. Tous les avis à fournir par GitHub au Développeur en vertu du présent Contrat peuvent être remis par écrit (i) par un service de livraison rapide reconnu au niveau national ("Courrier ») ou par courrier américain à l'adresse postale de contact fournie par le Développeur à GitHub ; ou (ii) un courrier électronique à l'adresse de courrier électronique fournie par le Développeur.
 
 [16. DROIT APPLICABLE](#16-governing-law)
 ----------

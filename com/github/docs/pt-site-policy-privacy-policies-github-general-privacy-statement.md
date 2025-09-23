@@ -183,7 +183,7 @@ Em conformidade com o DPF UE-EUA, a extensão do Reino Unido ao DPF UE-EUA e o S
 
 Se você não receber de nós a confirmação oportuna de nossa reclamação relacionada aos Princípios da DPF, ou se não tivermos abordado sua reclamação relacionada aos Princípios da DPF a seu contento, acesse [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) para obter mais informações ou registrar uma reclamação. Os serviços do Centro Internacional de Resolução de Disputas são prestados sem nenhum custo para você.
 
-Um indivíduo tem a possibilidade, sob certas condições, de invocar arbitragem vinculante para reclamações relativas ao cumprimento da DPF não resolvidas por qualquer um dos outros mecanismos da DPF. Para obter informações adicionais, acesse <https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>.
+Um indivíduo tem a possibilidade, sob certas condições, de invocar arbitragem vinculante para reclamações relativas ao cumprimento da DPF não resolvidas por qualquer um dos outros mecanismos da DPF. Para obter informações adicionais, acesse <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.
 
 ### [Fiscalização governamental](#government-enforcement) ###
 

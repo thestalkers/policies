@@ -39,7 +39,7 @@ In diesem Artikel
 
 **Diese Geschäftsbedingungen (die „Vereinbarung“) regeln Ihre Teilnahme am Marketplace-Programm von GitHub. Indem Sie sich für die Teilnahme am Marketplace anmelden oder unten auf „Ich akzeptiere“ klicken, bestätigen Sie, dass Sie diese Vereinbarung verstanden haben und alle darin enthaltenen Bestimmungen und Bedingungen akzeptieren. Wenn Sie diese Vereinbarung im Namen eines Unternehmens oder einer anderen juristischen Person abschließen, versichern Sie, dass Sie rechtlich befugt sind, die juristische Person an diese Vereinbarung zu binden; in diesem Fall bedeutet „Sie“ die juristische Person, die Sie vertreten.**
 
-Gültigkeitsdatum: 17. Mai 2024
+Gültig ab: 27. Mai 2025
 
 [1. DEFINITIONEN](#1definitions)
 ----------
@@ -94,16 +94,16 @@ Ungeachtet der in Abschnitt 2 (Zweck und Lizenzgewährung) dargelegten Anforderu
 
 **3.3** Entwickler engagieren sich nicht mit Marketplace, einschließlich des Versuchs, ein Entwicklerprodukt zu verteilen, das gegen die Nutzungsbedingungen von GitHub einschließlich [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies) verstößt. Darüber hinaus versucht Entwickler nicht, ein Entwicklerprodukt zu verteilen, das:
 
-* 1. Aktive Malware oder Exploits enthält oder installiert oder unsere Plattform für die Bereitstellung von Exploits verwendet (z. B. als Teil eines Befehls- und Kontrollsystems);
-* 2. Ermöglicht das unbefugte Herunterladen von Streaming-Inhalten oder -Medien; oder
-* 3. Leitet Endbenutzer um oder stellt Links zu anderen Websites bereit, die den Marktplatz nachahmen oder sich selbst als Marktplatz ausgeben
+* (i) aktive Schadsoftware oder Exploits enthält oder installiert oder unsere Plattform für die Bereitstellung von Exploits nutzt (z. B. als Teil eines Befehls und Steuerungssystems);
+* (ii) den unautorisierten Download von Streaminginhalten oder Medien aktiviert;
+* (iii) Endbenutzende umleitet oder Links zu anderen Websites bereitstellt, die den Marketplace imitieren oder sich selbst als Marketplace ausgeben.
 
 **3.4** Im Hinblick auf Entwicklerprodukte, die mit generativer KI-Technologie interagieren, einschließlich GitHub Copilot Erweiterungen, Entwickler werden:
 
-* 1. Testen Sie das Entwicklerprodukt mithilfe verschiedener Eingaben, um sicherzustellen, dass die Ausgaben nicht gegen diese Vereinbarung verstoßen;
-* 2. Benachrichtigen Sie Benutzer, wenn sie mit generativen KI-Inhalten interagieren;
-* 3. Verfügen Sie über einen Mechanismus für Endbenutzer, um Feedback an GitHub und Entwickler im Zusammenhang mit Fehlern, Bugs, unsachgemäßen oder unerwünschten Ausgaben zu melden; Und
-* 4. Informieren Sie Endbenutzer über geeignete Anwendungsfälle, bewährte Methoden und Einschränkungen des Entwicklerprodukts.
+* (i) das Entwicklerprodukt mit verschiedenen Eingaben testen, um sicherzustellen, dass die Ausgaben diese Vereinbarung nicht verletzen;
+* (ii) Benutzende benachrichtigen, wenn sie mit Inhalten generativer KI interagieren;
+* (iii) einen Mechanismus für Endbenutzende implementieren, um Feedback im Zusammenhang mit Fehlern, unsachgemäßen oder unerwünschten Ausgaben an GitHub und Fachkräfte in der Entwicklung zu melden;
+* (iv) Endbenutzende über die geeigneten Anwendungsfälle, bewährten Methoden und Einschränkungen des Entwicklerprodukts informieren.
 
 **3.5** Entwickler dürfen Marketplace, eine GitHub-API, personenbezogene Daten oder Nutzungsdaten nicht neu paketieren oder weiterverkaufen. Dem Entwickler ist es nicht gestattet, die GitHub-API oder personenbezogene Daten oder Nutzungsdaten in einer Weise zu verwenden, die die Sicherheit des Dienstes, der GitHub-API, der Nutzungsdaten oder anderer Daten oder Informationen, die über den Marketplace gespeichert oder übertragen werden, untergräbt oder beeinträchtigen könnte. Darüber hinaus ist es dem Entwickler untersagt, (a) Merkmale, Funktionen oder Sicherheitskontrollen von Marketplace oder einer GitHub-API zu beeinträchtigen, zu ändern oder zu deaktivieren; (b) Schutzmechanismen für Marketplace oder eine GitHub-API auf irgendeine Weise zu umgehen; oder (c) den Quellcode, die zugrunde liegenden Ideen, Algorithmen, die Struktur oder Organisationsform von Marketplace oder einer GitHub-API zurückzuentwickeln, zu dekompilieren, zu zerlegen oder abzuleiten.
 
@@ -129,10 +129,10 @@ Ungeachtet der in Abschnitt 2 (Zweck und Lizenzgewährung) dargelegten Anforderu
 
 Wenn GitHub von Ihnen benachrichtigt wird oder anderweitig davon Kenntnis erlangt und nach eigenem Ermessen feststellt, dass ein Eintrag oder Teile davon oder Ihre Markenkennzeichen:
 
-* (a) gegen die Bestimmungen dieser Vereinbarung oder der ToS verstößt;
-* (b) die Anzeige des Eintrags beeinträchtigt die Integrität von GitHub-Servern (d.h. Benutzer können nicht auf solche Inhalte zugreifen oder haben anderweitig Schwierigkeiten);
-* (c) von GitHub als ein unangemessenes Risiko für die Daten von Marketplace-Endbenutzern angesehen oder die Benutzererfahrung von Marketplace oder GitHub beeinträchtigt wird; oder
-* (d) Gegenstand von Endbenutzerbeschwerden in Bezug auf Ihren Verstoß gegen Ihre EULA ist,
+* (i) gegen die Bestimmungen dieser Vereinbarung oder die Nutzungsbedingungen verstößt;
+* (ii) die Anzeige des Angebots die Integrität der GitHub-Server beeinträchtigt (d. h. Benutzende können nicht auf solche Inhalte zugreifen oder haben anderweitig Schwierigkeiten);
+* (iii) von GitHub als ein unangemessenes Risiko für die Daten von Marketplace-Endbenutzenden angesehen oder die Benutzererfahrung von Marketplace oder GitHub beeinträchtigt wird;
+* (iv) Gegenstand von Endbenutzerbeschwerden in Bezug auf Ihren Verstoß gegen Ihre EULA ist.
 
 GitHub kann: die Übertragung personenbezogener Daten an Ihr Entwicklerprodukt aussetzen; die Erfassung und Verarbeitung personenbezogener Daten über Ihr Entwicklerprodukt zu verbieten; entfernen Sie das Listing aus Marketplace; Kennzeichnen, Filtern oder Ändern verwandter Materialien (einschließlich, aber nicht beschränkt auf Beschreibungen, Screenshots oder Metadaten); oder klassifizieren Sie das Listing nach eigenem Ermessen neu. Wenn GitHub eine dieser Aktionen in Ihrem Eintrag ausführt, können Sie die Aktion von GitHub über den [GitHub-Aufruf und den Reaktivierungsprozess anfordern](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
@@ -164,9 +164,11 @@ Der Entwickler ist verpflichtet, alle personenbezogenen Daten in Übereinstimmun
 
 **6.1** GitHub wird der eingetragene Händler für Entwicklerprodukte sein, die von Endbenutzern über Marketplace gekauft wurden.
 
-**6.2** Anmeldung. Entwickler werden verpflichtet, Informationen über sich selbst (z. B. Identifikation oder Kontaktdetails) im Rahmen des Registrierungsprozesses für Marketplace oder als Teil Ihrer fortgesetzten Nutzung von Marketplace bereitzustellen, einschließlich, aber nicht beschränkt auf: (i) Name, (ii) Adresse, (iii) Telefonnummer, (iv) E-Mail-Adresse und (v) Zahlungskontodetails. GitHub kann die Informationen des Entwicklers auf Marketplace veröffentlichen und die Registrierungsinformationen des Entwicklers gemäß anwendbarem Recht aufbewahren.**6.3** Preise. Preise für Listings von Entwickleranwendungen werden in US-Dollar (USD) festgelegt. Der Entwickler hat die vollständige Kontrolle über die Festlegung der Preise für jedes Listing. Die Preise, die Sie für Entwicklerprodukte festlegen, bestimmen die Höhe der Zahlung, die Sie erhalten. GitHub überweist 95 % des Verkaufspreises in USD ohne Abzug für Steuern, mit Ausnahme von Quellensteuern, die nach geltendem Recht erforderlich sind. Die restlichen 5 % des Verkaufspreises werden GitHub zugeteilt und von GitHub einbehalten. Am Ende jedes Monats und bei Erreichen eines Mindestwerts von $500 USD überweist GitHub Ihren Anteil an Zahlungen.
+**6.2** Anmeldung. Fachkräfte in der Entwicklung müssen Informationen über sich selbst (z. B. Identifikations- oder Kontaktdetails) als Teil des Registrierungs- und Onboardingprozesses für Marketplace oder als Teil Ihrer fortgesetzten Nutzung von Marketplace angeben, einschließlich, aber nicht beschränkt auf: (i) Name, (ii) Adresse, (iii) Telefonnummer, (iv) E-Mail-Adresse und (v) Zahlungskontodetails. GitHub kann die Informationen des Entwicklers auf Marketplace veröffentlichen und die Registrierungsinformationen des Entwicklers gemäß anwendbarem Recht aufbewahren.
 
-**6.3** Erstattungen. Sie sind dafür verantwortlich, die Bedingungen für Rückerstattungen an Ihre Endbenutzer festzulegen. In keinem Fall ist GitHub für die Bereitstellung von Support für Rückerstattungen verantwortlich, noch ist GitHub für die Zahlung von Rückerstattungen haftbar.
+**6.3** Preise. Preise für Listings von Entwickleranwendungen werden in US-Dollar (USD) festgelegt. Der Entwickler hat die vollständige Kontrolle über die Festlegung der Preise für jedes Listing. Die Preise, die Sie für Entwicklerprodukte festlegen, bestimmen die Höhe der Zahlung, die Sie erhalten. GitHub überweist 95 % des Verkaufspreises in USD ohne Abzug für Steuern, mit Ausnahme von Quellensteuern, die nach geltendem Recht erforderlich sind. Die restlichen 5 % des Verkaufspreises werden GitHub zugeteilt und von GitHub einbehalten. GitHub überweist Ihren Anteil der ersten Zahlung innerhalb von 90 Tagen nach der abgeschlossenen Registrierung. Nach der ersten Überweisung überweist GitHub Ihren Anteil an Zahlungen jeweils am Ende des Monats.
+
+**6.4** Rückerstattungen. Sie sind dafür verantwortlich, die Bedingungen für Rückerstattungen an Ihre Endbenutzer festzulegen. In keinem Fall ist GitHub für die Bereitstellung von Support für Rückerstattungen verantwortlich, noch ist GitHub für die Zahlung von Rückerstattungen haftbar.
 
 [7. EIGENTUM](#7ownership)
 ----------
@@ -221,7 +223,7 @@ Die Parteien sind unabhängige Vertragspartner. Diese Vereinbarung begründet ke
 [15. MITTEILUNGEN](#15-notice)
 ----------
 
-Mitteilungen an GitHub können per E-Mail an [legal@support.github.com](mailto:legal@support.github.com) gesendet werden. Wenn der Kunde eine förmliche Dienstmitteilung auf GitHub wünschen, muss er über den registrierten Agenten von GitHub erfolgen: GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Mitteilungen bedürfen der Schriftform und gelten an dem Tag als zugestellt, an dem sie an der Adresse eingegangen sind, an dem Datum des Rückscheins, an dem Datum der E-Mail-Übertragung oder an dem Datum der Zustellungsbestätigung des Kuriers. Alle Mitteilungen, die GitHub dem Entwickler im Rahmen dieser Vereinbarung zu übermitteln hat, können schriftlich (i) per national anerkanntem Übernacht-Zustelldienst („Kurier“) oder per US-Post an die vom Entwickler GitHub bereitgestellte Kontakt-Postanschrift zugestellt werden; oder (ii) per E-Mail an die vom Entwickler bereitgestellte E-Mail-Adresse.
+Mitteilungen an GitHub können per E-Mail an [legal-support@github.com](mailto:legal-support@github.com) gesendet werden. Wenn der Kunde eine förmliche Dienstmitteilung auf GitHub wünschen, muss er über den registrierten Agenten von GitHub erfolgen: GitHub, Inc. c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. Mitteilungen bedürfen der Schriftform und gelten an dem Tag als zugestellt, an dem sie an der Adresse eingegangen sind, an dem Datum des Rückscheins, an dem Datum der E-Mail-Übertragung oder an dem Datum der Zustellungsbestätigung des Kuriers. Alle Mitteilungen, die GitHub dem Entwickler im Rahmen dieser Vereinbarung zu übermitteln hat, können schriftlich (i) per national anerkanntem Übernacht-Zustelldienst („Kurier“) oder per US-Post an die vom Entwickler GitHub bereitgestellte Kontakt-Postanschrift zugestellt werden; oder (ii) per E-Mail an die vom Entwickler bereitgestellte E-Mail-Adresse.
 
 [16. ANWENDBARES RECHT](#16-governing-law)
 ----------

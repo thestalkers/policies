@@ -39,7 +39,7 @@ Neste artigo
 
 **Estes termos e condições (o “Contrato”) regem sua participação no programa do GitHub Marketplace. ao se inscrever para participar do programa do marketplace ou clicar em “Aceito” abaixo, você confirma que compreende este contrato e aceita todos os termos e condições. se você está celebrando este contrato em nome de uma empresa ou outra pessoa jurídica, você declara que tem autoridade legal para vincular a entidade a este contrato; nesse caso, “Você” significará a entidade que você representa.**
 
-Data de início de vigência: 17 de maio de 2024
+Data de início de vigência: 27 de maio de 2025
 
 [1. DEFINIÇÕES](#1definitions)
 ----------
@@ -94,16 +94,16 @@ Não obstante qualquer um dos requisitos estabelecidos na Seção 2 (Propósito 
 
 **3.3** O Desenvolvedor não se envolverá em nenhuma atividade com o Marketplace, incluindo a tentativa de distribuir qualquer Produto do Desenvolvedor, que viole os Termos de Serviço do GitHub, incluindo as [Políticas de Uso Aceitável](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies). Além disso, o Desenvolvedor não tentará distribuir nenhum Produto de Desenvolvedor que:
 
-* 1. Contém ou instala qualquer malware ou exploits ativos, ou usa nossa plataforma para entrega de exploits (como parte de um sistema de comando e controle);
-* 2. Permite o download não autorizado de conteúdo ou mídia de streaming; ou
-* 3. Desvia os usuários finais ou fornece links para qualquer outro site que imita o Marketplace ou se faz passar pelo Marketplace
+* (i) contenha ou instale malware ou explorações ativas ou use nossa plataforma para explorar a distribuição (como uma parte de um comando ou sistema de controle);
+* (ii) permita o download não autorizado de conteúdo ou mídia de streaming; ou
+* (iii) desvie os usuários finais ou forneça links para qualquer outro site que imite o Marketplace ou se faça passar pelo Marketplace.
 
 **3.4** Com relação aos Produtos do Desenvolvedor que interagem com tecnologia de IA generativa, incluindo as Extensões do GitHub Copilot, o Desenvolvedor irá:
 
-* 1. Testar o Produto do Desenvolvedor usando várias entradas para garantir que as saídas não violem este Contrato;
-* 2. Notificar os usuários quando eles estiverem interagindo com conteúdo de IA generativa;
-* 3. Adotar um mecanismo para que os Usuários Finais relatem feedback ao GitHub e ao Desenvolvedor relacionados a erros, bugs, saídas indevidas ou indesejadas; e
-* 4. Informar aos usuários finais os casos de uso, as práticas recomendadas e as limitações apropriadas do Produto do Desenvolvedor.
+* (i) testar o Produto do Desenvolvedor usando várias entradas para garantir que as saídas não violem este Contrato;
+* (ii) notificar os usuários quando eles estiverem interagindo com conteúdo de IA generativa;
+* (iii) adotar um mecanismo para que os Usuários Finais enviem comentários ao GitHub e ao Desenvolvedor relacionados a erros, bugs, saídas indevidas ou indesejadas; e
+* (iv) informar aos usuários finais os casos de uso, as práticas recomendadas e as limitações apropriadas do Produto do Desenvolvedor.
 
 **3.5** O Desenvolvedor não deve, de forma alguma, reempacotar ou revender o Marketplace, uma API do GitHub, Dados Pessoais ou Dados de Uso. O desenvolvedor não tem permissão para usar uma API do GitHub ou quaisquer Dados Pessoais ou Dados de Uso de qualquer maneira que prejudique ou possa prejudicar a segurança do Serviço, a API do GitHub, os Dados de uso ou quaisquer outros dados ou informações armazenados ou transmitidos usando o Marketplace. Além disso, o Desenvolvedor não deverá (a) interferir, modificar ou desativar quaisquer recursos, funcionalidades ou controles de segurança do Marketplace ou de uma API do GitHub; (b) contornar de qualquer forma quaisquer mecanismos de proteção para o Marketplace ou uma API do GitHub; ou (c) fazer engenharia reversa, descompilar, desmontar ou derivar o código-fonte, ideias subjacentes, algoritmos, estrutura ou forma organizacional do Marketplace ou de uma API do GitHub.
 
@@ -129,10 +129,10 @@ Não obstante qualquer um dos requisitos estabelecidos na Seção 2 (Propósito 
 
 Se o GitHub for notificado por você ou de outra forma tomar conhecimento e determinar, a seu exclusivo critério, que uma Listagem ou qualquer uma de suas partes ou suas Características de Marca:
 
-* (a) viole os Termos deste Contrato ou os TdS;
-* (b) a exibição da Listagem esteja impactando a integridade dos servidores GitHub (ou seja, os usuários não conseguem acessar tal conteúdo ou enfrentam dificuldades);
-* (c) seja considerada pelo GitHub como adicionando risco indevido aos dados dos Usuários Finais do Marketplace ou prejudicando a experiência do usuário do Marketplace ou GitHub; ou
-* (d) esteja sujeita a reclamações de usuários em relação à violação do seu EULA,
+* (i) viola os Termos deste Contrato ou os Termos de Uso;
+* (ii) a exibição da Listagem está afetando a integridade dos servidores do GitHub (ou seja, os usuários não podem acessar tal conteúdo ou têm dificuldade de acessar);
+* (iii) é considerada pelo GitHub como estar adicionando risco indevido aos dados dos Usuários Finais do Marketplace ou prejudicando a experiência do usuário do Marketplace ou GitHub; ou
+* (iv) está sujeita a reclamações de Usuários Finais em relação à violação do seu EULA.
 
 o GitHub poderá: suspender a transferência de Dados Pessoais para o seu Produto do Desenvolvedor; proibir a coleta e o processamento de Dados Pessoais através do seu Produto de Programador; remover a Listagem do Marketplace; sinalizar, filtrar ou modificar materiais relacionados (incluindo, mas não limitado a, descrições, capturas de tela ou metadados); ou reclassificar a Listagem a seu exclusivo critério. Se o GitHub executar qualquer uma dessas ações em sua Listagem, você poderá recorrer da ação do GitHub por meio do [Processo de Apelação e Restabelecimento do GitHub](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
@@ -164,9 +164,11 @@ O Desenvolvedor também manterá e processará todos os Dados Pessoais de acordo
 
 **6.1** O GitHub será o comerciante registrado para Produtos do Desenvolvedor comprados por Usuários Finais via Marketplace.
 
-**6.2** Registro O desenvolvedor será obrigado a fornecer informações sobre você (como identificação ou detalhes de contato) como parte do processo de registro no Marketplace ou como parte do seu uso contínuo do Marketplace, incluindo, mas não limitado a: (i) nome, (ii) endereço, (iii) número de telefone, (iv) endereço de e-mail e (v) detalhes da conta de pagamento. O GitHub pode tornar públicas as informações do Desenvolvedor no Marketplace e reter as informações de registro do Desenvolvedor conforme exigido pela lei aplicável.**6.3** Preços. Os preços das Listagens de Aplicativos do Desenvolvedor serão definidos em dólares americanos (USD). O desenvolvedor tem controle total sobre a definição de preços para cada Listagem. Os preços que você definir para os produtos do desenvolvedor determinarão o valor do pagamento que você receberá. O GitHub remeterá 95% do preço de venda em USD sem redução de impostos, exceto por quaisquer impostos retidos na fonte exigidos pela lei aplicável. Os 5% restantes do preço de venda serão alocados e retidos pelo GitHub. No final de cada mês e ao atingir um valor mínimo de $500 USD, o GitHub enviará sua parte dos pagamentos.
+**6.2** Registro O desenvolvedor será obrigado a fornecer informações sobre você (como identificação ou detalhes de contato) como parte do processo de registro e integração no Marketplace ou como parte do seu uso contínuo do Marketplace, incluindo, mas não limitado a: (i) nome, (ii) endereço, (iii) número de telefone, (iv) endereço de email e (v) detalhes da conta de pagamento. O GitHub pode tornar públicas as informações do Desenvolvedor no Marketplace e reter as informações de registro do Desenvolvedor conforme exigido pela lei aplicável.
 
-**6.3** Reembolsos. Você será responsável por especificar os termos e condições referentes a reembolsos para seus Usuários Finais. Em nenhum caso o GitHub será responsável por fornecer qualquer suporte para reembolsos, nem o GitHub será responsável pelo pagamento de qualquer reembolso.
+**6.3** Preços. Os preços das Listagens de Aplicativos do Desenvolvedor serão definidos em dólares americanos (USD). O desenvolvedor tem controle total sobre a definição de preços para cada Listagem. Os preços que você definir para os produtos do desenvolvedor determinarão o valor do pagamento que você receberá. O GitHub remeterá 95% do preço de venda em USD sem redução de impostos, exceto por quaisquer impostos retidos na fonte exigidos pela lei aplicável. Os 5% restantes do preço de venda serão alocados e retidos pelo GitHub. O GitHub enviará sua parte do primeiro pagamento dentro de 90 dias após a conclusão do registro. Após a primeira remessa, o GitHub enviará sua parte dos pagamentos no final do mês.
+
+**6.4** Reembolsos. Você será responsável por especificar os termos e condições referentes a reembolsos para seus Usuários Finais. Em nenhum caso o GitHub será responsável por fornecer qualquer suporte para reembolsos, nem o GitHub será responsável pelo pagamento de qualquer reembolso.
 
 [7. PROPRIEDADE](#7ownership)
 ----------
@@ -221,7 +223,7 @@ As partes são prestadoras de serviços. Este Contrato não cria uma parceria, f
 [15. NOTIFICAÇÃO](#15-notice)
 ----------
 
-As notificações para o GitHub podem ser enviadas por e-mail para [legal@support.github.com](mailto:legal@support.github.com). Se o Cliente desejar formalizar a notificação de serviço no GitHub, ela deverá ser feita por meio do agente registrado do GitHub: GitHub, Inc., c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. As notificações devem ser feitas por escrito e serão tratadas como entregues na data de recebimento no endereço, data mostrada no recibo de devolução, data de transmissão do e-mail ou data na confirmação de entrega do correio. Todos os avisos a serem fornecidos pelo GitHub ao Desenvolvedor sob este Contrato podem ser entregues por escrito (i) por serviço de entrega noturno reconhecido nacionalmente ("Courier") ou correio dos EUA para o endereço de contato fornecido pelo Desenvolvedor ao GitHub; ou (ii) correio eletrônico para o endereço de correio eletrônico fornecido pelo Desenvolvedor.
+As notificações para o GitHub podem ser enviadas por e-mail para [legal-support@github.com](mailto:legal-support@github.com). Se o Cliente desejar formalizar a notificação de serviço no GitHub, ela deverá ser feita por meio do agente registrado do GitHub: GitHub, Inc., c/o Corporation Service Company 2710 Gateway Oaks Drive, Suite 150N Sacramento, CA 95833-3505. As notificações devem ser feitas por escrito e serão tratadas como entregues na data de recebimento no endereço, data mostrada no recibo de devolução, data de transmissão do e-mail ou data na confirmação de entrega do correio. Todos os avisos a serem fornecidos pelo GitHub ao Desenvolvedor sob este Contrato podem ser entregues por escrito (i) por serviço de entrega noturno reconhecido nacionalmente ("Courier") ou correio dos EUA para o endereço de contato fornecido pelo Desenvolvedor ao GitHub; ou (ii) correio eletrônico para o endereço de correio eletrônico fornecido pelo Desenvolvedor.
 
 [16. LEI APLICÁVEL](#16-governing-law)
 ----------
