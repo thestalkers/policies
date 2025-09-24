@@ -183,7 +183,7 @@ GitHub は、データ プライバシー フレームワーク (DPF) 原則に�
 
 お客様が当社から DPF 原則に関連する苦情を適時に受け取らなかった場合、または当社が DPF 原則に関連する苦情を対処済みではない場合は、[https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) で詳細をご確認の上、苦情を申し立ててください。 国際紛争解決センターのサービスをご利用の際、コストはかかりません。
 
-個人は、特定の条件下で、他の DPF 機構のいずれによっても解決されない DPF コンプライアンスに関する苦情に対して、拘束力のある仲裁を行使できます。 詳細については、「<https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>」を参照してください。
+個人は、特定の条件下で、他の DPF 機構のいずれによっても解決されない DPF コンプライアンスに関する苦情に対して、拘束力のある仲裁を行使できます。 詳細については、「<https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>」を参照してください。
 
 ### [政府機関による執行](#government-enforcement) ###
 
