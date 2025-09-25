@@ -183,7 +183,7 @@ En cumplimiento con el DPF de la UE-EE. UU., la extensión del Reino Unido al D
 
 Si no recibe por nuestra parrte una confirmación oportuna de su queja relacionada con los principios del DPF, o si no hemos abordado su queja relacionada con los principios del DPF a su satisfacción, visite [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) para obtener más información o presentar una queja. Los servicios del Centro Internacional de Resolución de Conflictos son gratuitos.
 
-Una persona tiene la posibilidad, en determinadas condiciones, de invocar arbitraje vinculante para las reclamaciones relativas al cumplimiento del DPF no resueltas por ninguno de los otros mecanismos del DPF. Para obtener más información, visite <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.
+Una persona tiene la posibilidad, en determinadas condiciones, de invocar arbitraje vinculante para las reclamaciones relativas al cumplimiento del DPF no resueltas por ninguno de los otros mecanismos del DPF. Para obtener más información, visite <https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>.
 
 ### [Cumplimiento de la Administración Pública](#government-enforcement) ###
 

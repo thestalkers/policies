@@ -183,7 +183,7 @@ In Übereinstimmung mit der EU-US-DSGVO, der britischen Erweiterung der EU-US-DS
 
 Wenn Sie von uns keine rechtzeitige Bestätigung Ihrer Beschwerde im Zusammenhang mit den Datenschutzgrundsätzen erhalten oder wenn wir Ihre Beschwerde im Zusammenhang mit den Datenschutzgrundsätzen nicht zu Ihrer Zufriedenheit bearbeitet haben, besuchen Sie bitte [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html), um weitere Informationen zu erhalten oder um eine Beschwerde einzureichen. Die Dienstleistungen des Internationalen Zentrums für Streitbeilegung werden Ihnen kostenlos zur Verfügung gestellt.
 
-Eine Einzelperson hat unter bestimmten Bedingungen die Möglichkeit, bei Beschwerden zur Einhaltung der Datenschutzgrundsätze, die nicht durch eines der anderen Datenschutzgrundsatz-Verfahren gelöst werden, ein verbindliches Schiedsverfahren einzuleiten. Weitere Informationen siehe <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.
+Eine Einzelperson hat unter bestimmten Bedingungen die Möglichkeit, bei Beschwerden zur Einhaltung der Datenschutzgrundsätze, die nicht durch eines der anderen Datenschutzgrundsatz-Verfahren gelöst werden, ein verbindliches Schiedsverfahren einzuleiten. Weitere Informationen siehe <https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>.
 
 ### [Durchsetzung durch Behörden](#government-enforcement) ###
 
