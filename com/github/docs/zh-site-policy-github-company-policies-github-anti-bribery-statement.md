@@ -28,8 +28,6 @@ GitHub 恪守我们对道德商业实践的承诺，包括禁止贿赂和腐败�
 * **在社会方面**，破坏人们对政治社会、机构和领导人的信任
 * **在环境方面**，助长不遵守环境法律法规的歪风。
 
-根据 2017 年[世界银行](https://www.worldbank.org/en/topic/governance/brief/anti-corruption)的数据，每年企业和个人在贿赂方面的支出估计高达 1.5 万亿美元。
-
 [GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
 ----------
 

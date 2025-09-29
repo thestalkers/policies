@@ -23,20 +23,20 @@ GitHub 服务条款
 * [B. 帐户条款](#b-account-terms)
 * [C. 可接受的使用方式](#c-acceptable-use)
 * [D. 用户生成内容](#d-user-generated-content)
-* [E. 私有存储库](#e-private-repositories)
-* [F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
-* [G. 知识产权声明](#g-intellectual-property-notice)
-* [H. API 条款](#h-api-terms)
-* [I. GitHub 附加产品条款](#i-github-additional-product-terms)
-* [J. Beta 预览版](#j-beta-previews)
-* [K. 付款](#k-payment)
-* [L. 取消和终止](#l-cancellation-and-termination)
-* [M. 与 GitHub 的通信](#m-communications-with-github)
-* [N. 免责声明](#n-disclaimer-of-warranties)
-* [O. 责任限制](#o-limitation-of-liability)
-* [P. 免除和赔偿](#p-release-and-indemnification)
-* [Q. 条款的变更](#q-changes-to-these-terms)
-* [R. 其他](#r-miscellaneous)
+* [E. 私有存储库](#8-access-reciprocity)
+* [F. 版权侵犯和 DMCA 政策](#3-access)
+* [G. 知识产权声明](#f-copyright-infringement-and-dmca-policy)
+* [H. API 条款](#3-license-to-github-policies)
+* [I. GitHub 附加产品条款](#h-api-terms)
+* [J. Beta 预览版](#i-github-additional-product-terms)
+* [K. 付款](#3-feedback)
+* [L. 取消和终止](#5-responsibility-for-payment)
+* [M. 与 GitHub 的通信](#4-survival)
+* [N. 免责声明](#3-no-phone-support)
+* [O. 责任限制](#n-disclaimer-of-warranties)
+* [P. 免除和赔偿](#o-limitation-of-liability)
+* [Q. 条款的变更](#p-release-and-indemnification)
+* [R. 其他](#q-changes-to-these-terms)
 
 感谢使用 GitHub！ 我们很高兴在这里遇到你。 在访问或使用 GitHub 之前，请仔细阅读本服务协议条款。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍了这些条款。
 
@@ -177,20 +177,20 @@ GitHub 服务条款
 
 在适用法律不能强制执行本协议的范围内，您授予 GitHub 在不注明出处的情况下使用您的内容所需的权利，以及根据呈现网站和提供服务的需要对内容进行合理改编的权利。
 
-[E. 私有存储库](#e-private-repositories)
+[E. 私有存储库](#8-access-reciprocity)
 ----------
 
 **短版本：***我们将私有存储库的内容视为机密信息，我们仅按照隐私声明中的规定访问这些内容，包括出于安全目的、为了帮助存储库所有者解决支持问题、保持服务的完整性、履行我们的法律义务、我们有理由认为内容违法或者经您同意。*
 
-### [1.对私有存储库的控制](#1-control-of-private-repositories) ###
+### [1.对私有存储库的控制](#e-private-repositories) ###
 
 某些帐户可能具有私有存储库，允许用户控制对内容的访问。
 
-### [2.私有存储库的机密性](#2-confidentiality-of-private-repositories) ###
+### [2.私有存储库的机密性](#1-control-of-private-repositories) ###
 
 GitHub 将私有存储库的内容视为您的机密。 GitHub 将保护私有存储库的内容，防止未经授权的使用、访问和披露，保护方式与我们保护类似性质的自有机密信息相同，并且在任何情况下都采取足够合理的谨慎程度。
 
-### [3.访问](#3-access) ###
+### [3.访问](#2-confidentiality-of-private-repositories) ###
 
 GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#repository-contents)所述的情况下访问您的私有存储库的内容。
 
@@ -202,31 +202,31 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-poli
 
 除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
 
-[F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
+[F. 版权侵犯和 DMCA 政策](#3-access)
 ----------
 
 如果您认为我们的网站上的内容侵犯了您的版权，请按照我们的[千禧年数字著作权法案](/zh/site-policy/content-removal-policies/dmca-takedown-policy)联系我们。 如果您是版权所有者并且您认为 GitHub 上的内容侵犯了您的权利，请通过[我们便利的 DMCA 表](https://github.com/contact/dmca)联系我们，或发送电子邮件到 [copyright@github.com](mailto:copyright@github.com)。 发出虚假或无用的下架通知可能会产生法律后果。 在发送下架请求之前，您必须考虑合法使用，如公平使用和许可使用。
 
 我们将终止对此政策[反复违反之人](/zh/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement)的帐户。
 
-[G. 知识产权声明](#g-intellectual-property-notice)
+[G. 知识产权声明](#f-copyright-infringement-and-dmca-policy)
 ----------
 
 **短版本：***我们拥有服务和我们的所有内容。为便于您使用我们的内容，我们向您授予某些权限，但您只能以我们允许的方式使用我们的内容。*
 
-### [1.GitHub 对内容的权利](#1-githubs-rights-to-content) ###
+### [1.GitHub 对内容的权利](#g-intellectual-property-notice) ###
 
 GitHub 和我们的许可人、供应商、代理和/或我们的内容提供者保留对与网站和服务相关的所有各类知识产权的所有权。 我们保留本协议或法律未明确授予您的所有权利。 网站和服务的外观和风格版权归 © GitHub, Inc. 所有。保留所有权利。 未经 GitHub 明确的书面许可，您不得复印、复制或重复利用 HTML/CSS、JavaScript 或视觉设计元素或概念的任何部分。
 
-### [2.GitHub 商标和徽标](#2-github-trademarks-and-logos) ###
+### [2.GitHub 商标和徽标](#1-githubs-rights-to-content) ###
 
 如果您要使用 GitHub 的商标，则必须遵守我们的所有商标准则，包括我们的徽标页面<https://github.com/logos> 上的商标准则。
 
-### [3.GitHub 政策的许可](#3-license-to-github-policies) ###
+### [3.GitHub 政策的许可](#2-github-trademarks-and-logos) ###
 
 本协议根据[知识共享零许可](https://creativecommons.org/publicdomain/zero/1.0/)获得许可。 有关更多信息，请参阅我们的[站点政策存储库](https://github.com/github/site-policy#license)。
 
-[H. API 条款](#h-api-terms)
+[H. API 条款](#3-license-to-github-policies)
 ----------
 
 **短版本：***在使用 GitHub 的任何 API（应用程序提供者接口）时，包括通过访问 GitHub 的第三方产品使用 API 时，您同意这些服务条款以及本 H 节。*
@@ -241,23 +241,23 @@ GitHub 和我们的许可人、供应商、代理和/或我们的内容提供者
 
 GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问的用户提供基于订阅的 API 访问。
 
-[I. GitHub 附加产品条款](#i-github-additional-product-terms)
+[I. GitHub 附加产品条款](#h-api-terms)
 ----------
 
 **短版本：***您需要遵守 GitHub 不同功能和产品的特定条款和条件，并且在同意本协议时也同意补充条款和条件。*
 
 某些服务功能可能受 GitHub 附加产品条款中规定的该功能或产品特定附加条款的约束。 访问或使用服务即表示您也同意 [GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
 
-[J. Beta 预览版](#j-beta-previews)
+[J. Beta 预览版](#i-github-additional-product-terms)
 ----------
 
 **短版本：***Beta 预览版可能不受支持或可能随时更改。您可能会通过这些程序接收到机密信息，在程序为私有时，这些信息必须保密。我们很乐意收到您的反馈，这可以帮助我们改进 Beta 预览版。*
 
-### [1. 随时更改](#1-subject-to-change) ###
+### [1. 随时更改](#j-beta-previews) ###
 
 我们可能不会为 Beta 预览版提供支持，并且可能在不通知的情况下随时更改。 此外，Beta 预览版不像服务那样受到安全措施的约束并接受审核。 **使用 Beta 预览版的风险由您自行承担。**
 
-### [2.保密性](#2-confidentiality) ###
+### [2.保密性](#1-subject-to-change) ###
 
 作为 Beta 预览版的用户，您可以访问世界上的其他人无法访问的特殊信息。 鉴于此类信息的敏感性，确保您对这些信息保密对我们来说很重要。
 
@@ -265,27 +265,27 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **例外。** 机密信息不包括如下信息：(a) 在您未违反本协议并且没有采取行动的情况下所公开的信息（例如当私有 Beta 预览版变成公开 Beta 预览版时）；(b) 在我们向您披露之前，您就已知道的信息；(c) 由您独立编制且未违反对我们或对任何第三方的任何保密义务的信息；(d) 经 GitHub 许可披露的信息。 如果您需要按照法律实施而披露机密信息，并已合理提前书面通知 GitHub 提出异议，除非法律禁止，否则此披露行为不属于违反本协议条款。
 
-### [3.反馈](#3-feedback) ###
+### [3.反馈](#2-confidentiality) ###
 
 我们一直在努力改进产品和服务，作为 Beta 预览版用户，您的反馈将有助于我们改进。 如果您选择提供关于我们的产品或服务的任何想法、专门知识、算法、代码贡献、意见、增强要求、建议或任何其他反馈（统称为“反馈”），则表示您确认并同意，GitHub 将对反馈拥有免版税、全部付清、在全球范围内有效、可转让、可再许可、不可撤销且永久性的许可，有权实施、使用、修改及商业利用反馈和/或将反馈纳入我们的产品、服务和文档中。
 
-[K. 付款](#k-payment)
+[K. 付款](#3-feedback)
 ----------
 
 **短版本：***您负责与您使用 GitHub 相关的任何费用。我们有责任向您明确和准确地告知这些费用，如果这些价格发生变化，我们会提前向您告知。*
 
-### [1.定价](#1-pricing) ###
+### [1.定价](#k-payment) ###
 
 我们的定价和付款方式发布于 [github.com/pricing](https://github.com/pricing)。 如果您同意订阅价格，在付款期限内将保持这一价格；但在付款期限结束时价格会随时变化。
 
-### [2.升级、降级和更改](#2-upgrades-downgrades-and-changes) ###
+### [2.升级、降级和更改](#1-pricing) ###
 
 * 当您从免费计划升级为任何付费计划时，我们会立即对您计费。
 * 如果您从按月计费计划更改为按年计费计划，GitHub 将在下一个按月计费日期向您收取全年费用。
 * 如果您升级到更高的服务级别，我们将立即按升级的计划对您计费。
 * 您可随时通过[选择计划选项](https://github.com/pricing)或进入[计费设置](https://github.com/settings/billing)更改您的服务级别。 如果您选择降级您的帐户，可能会失去对您的帐户的内容、功能或容量的访问权限。 请参阅我们关于[取消](#l-cancellation-and-termination)的部分以了解如何获取帐户内容副本。
 
-### [3.计费计划；无退款](#3-billing-schedule-no-refunds) ###
+### [3.计费计划；无退款](#2-upgrades-downgrades-and-changes) ###
 
 **基于计划的付款** 对于按月付款或按年付款计划，服务账单将以每月或每年为基础提前开具，并且不予退款。 对于开设的帐户，不提供部分服务月度的退款或退单、降级退款或未使用月份退款；但服务将在整个已付费的计费期间保持有效。 为了平等对待每一个人，将不会有例外情况。
 
@@ -293,24 +293,24 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **开票**对于开具发票的用户，用户同意以美元全额预付费用，没有任何形式的扣减或抵销。 用户必须在 GitHub 开票日期后的三十 (30) 天内支付费用。 除非本协议另有规定，否则根据本协议应付的金额不可退款。 如果用户未能按时支付任何费用，则除了依据法律或衡平法采取任何其他行动之外，GitHub 还有权 (i) 以每月 1.0% 或法律允许的最高利率（取较小者）对逾期未付款项收取利息，并收取所有恢复费用，以及 (ii) 终止适用订单。 用户自行负责本协议造成或与之相关的所有税款、费用、关税和政府评估（基于 GitHub 净收入的税款除外）。
 
-### [4.授权](#4-authorization) ###
+### [4.授权](#3-billing-schedule-no-refunds) ###
 
 同意这些条款即表示您许可我们从您存档的信用卡、PayPal 帐户或您授权给 GitHub 的其他已批准付款方式扣费。
 
-### [5.付款责任](#5-responsibility-for-payment) ###
+### [5.付款责任](#4-authorization) ###
 
 您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。 如有争议，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
 
-[L. 取消和终止](#l-cancellation-and-termination)
+[L. 取消和终止](#5-responsibility-for-payment)
 ----------
 
 **短版本：***您可随时关闭您的帐户。如果您关闭帐户，我们将负责任地处理您的信息。*
 
-### [1.帐户取消](#1-account-cancellation) ###
+### [1.帐户取消](#l-cancellation-and-termination) ###
 
 您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
 
-### [2.取消后](#2-upon-cancellation) ###
+### [2.取消后](#1-account-cancellation) ###
 
 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在取消或终止后 90 天内删除您的完整个人资料及存储库的内容（但有些信息可能保留在加密备份中）。 取消您的帐户后，此信息便无法恢复。
 
@@ -318,32 +318,32 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 在帐户取消、终止或降级后，我们将应要求作出合理努力，向帐户所有者提供一份合法、不侵权帐户内容的副本。 您必须在取消、终止或降级后 90 天内提出此请求。
 
-### [3.GitHub 可能终止](#3-github-may-terminate) ###
+### [3.GitHub 可能终止](#2-upon-cancellation) ###
 
 GitHub 有权随时暂停或终止您对网站全部或任何部分的访问，无论有无理由或有无通知，均立即生效。 GitHub 保留随时以任何理由向任何人拒绝提供服务的权利。
 
-### [4.效力存续](#4-survival) ###
+### [4.效力存续](#3-github-may-terminate) ###
 
 本协议中就其性质而言应在终止时存续的所有条款都\_将\_ 在终止时存续，包括但不限于：所有权条款、保证免责声明、赔偿和责任限制。
 
-[M. 与 GitHub 的通信](#m-communications-with-github)
+[M. 与 GitHub 的通信](#4-survival)
 ----------
 
 **短版本：***我们使用电子邮件和其他电子方式与用户保持联系。*
 
-### [1.电子通信要求](#1-electronic-communication-required) ###
+### [1.电子通信要求](#m-communications-with-github) ###
 
 出于合同目的，您 (1) 同意通过您提交的电子邮件地址或通过服务接收我们发出的电子形式的通信；并且 (2) 同意我们以电子形式提供给您的所有服务条款、协议、通知、披露和其他通信可满足当这些通信以书面形式提供时能够满足的任何法律要求。 本节不影响您的不可放弃权利。
 
-### [2.向 GitHub 发出的法律声明必须采用书面形式](#2-legal-notice-to-github-must-be-in-writing) ###
+### [2.向 GitHub 发出的法律声明必须采用书面形式](#1-electronic-communication-required) ###
 
 在合同或者任何法律或条例要求向 GitHub 发出通知的任何情况下，通过电子邮件或 GitHub 支持部门的消息发送系统进行的通信不构成向 GitHub 或者其任何高管、员工、代理或代表发出的法律声明。 向 GitHub 发出的法律声明必须采用书面形式，并且[提供给 GitHub 的法定代理人](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests)。
 
-### [3.无电话支持](#3-no-phone-support) ###
+### [3.无电话支持](#2-legal-notice-to-github-must-be-in-writing) ###
 
 GitHub 仅通过电子邮件、服务中通信和电子信息提供支持。 我们不提供电话支持。
 
-[N. 免责声明](#n-disclaimer-of-warranties)
+[N. 免责声明](#3-no-phone-support)
 ----------
 
 **短版本：***我们按原样提供服务，我们对此服务不作任何承诺或保证。请仔细阅读本节内容；您应当理解可能发生的情形。*
@@ -352,7 +352,7 @@ GitHub 按“原样”和“可用”的形式提供网站和服务，不作任�
 
 GitHub 不保证服务将满足您的要求；服务无中断、及时、安全或无错误；通过服务提供的信息准确、可靠或正确；任何缺陷或错误将得到更正；服务在任何特定时间或地点可用；服务不含病毒或其他有害组件。 对于因您下载和/或使用从服务获取的文件、信息、内容或其他材料而造成的任何损失，您承担全部责任和风险。
 
-[O. 责任限制](#o-limitation-of-liability)
+[O. 责任限制](#n-disclaimer-of-warranties)
 ----------
 
 **短版本：***对因您使用或不能使用服务或在本协议下产生的损害或损失，我们不承担责任。请仔细阅读本节内容；它对我们对您的义务做出了限制。*
@@ -370,7 +370,7 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 无论我们是否被告知发生此类损害的可能性，且即使发现本协议中规定的补救措施未能达到其基本目的，我们的责任都是有限的。 对于因超出我们合理控制范围的事项而导致的任何失败或延误，我们概不负责。
 
-[P. 免除和赔偿](#p-release-and-indemnification)
+[P. 免除和赔偿](#o-limitation-of-liability)
 ----------
 
 **短版本：***您负责自己对服务的使用。如果您伤害别人或与别人发生争议，我们不会参与其中。*
@@ -379,7 +379,7 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 对于因您使用网站和服务，包括但不限于因您违反本协议而引起的任何及所有索赔、责任和费用（包括律师费），您同意对我们作出赔偿、为我们提供抗辩并使我们免于承担责任，前提是：GitHub (1) 立即向您发出有关该索赔、主张、诉讼或法律程序的书面通知；(2) 允许您全权控制索赔、主张、诉讼或法律程序的抗辩与和解（但您就索赔、主张、诉讼或法律程序达成和解的前提是无条件免除 GitHub 的所有责任）；以及 (3) 向您提供所有合理的协助，但费用由您承担。
 
-[Q. 条款的变更](#q-changes-to-these-terms)
+[Q. 条款的变更](#p-release-and-indemnification)
 ----------
 
 **短版本：***我们希望用户了解条款的重要变更，但有些变更不那么重要，我们不希望每次修复错误时都打扰您。因此，虽然我们可能会随时修改本协议，但对于任何重大变更，我们都会通知用户，并给您时间进行调整。*
@@ -388,30 +388,30 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 我们保留随时修改或者暂时或永久终止网站（或其任何部分）的权利，无论是否发出通知。
 
-[R. 其他](#r-miscellaneous)
+[R. 其他](#q-changes-to-these-terms)
 ----------
 
-### [1.管辖法律](#1-governing-law) ###
+### [1.管辖法律](#r-miscellaneous) ###
 
 除非适用法律另有规定，否则您与 GitHub 之间达成的本协议，以及对网站或服务的任何访问或使用均受美国联邦法律及加利福尼亚州法律管辖，而不考虑法律冲突条款。 您和 GitHub 同意接受将位于加利福尼亚州旧金山市/县的法院作为唯一管辖地和审判地。
 
-### [2.不可转让](#2-non-assignability) ###
+### [2.不可转让](#1-governing-law) ###
 
 无论是否征得您的同意，GitHub 可以随时将这些服务条款和/或 [GitHub 隐私声明](https://github.com/site/privacy)全部或部分转让或委托给任何人或实体，包括第 D.4 节的许可授予。 未经我方事先书面同意，您不得转让或委托服务条款或隐私声明下的任何权利或义务，您未经授权做出的任何转让和委托均无效。
 
-### [3.各节标题和摘要](#3-section-headings-and-summaries) ###
+### [3.各节标题和摘要](#2-non-assignability) ###
 
 在整个协议中，每一节都包括下列条款和条件的标题和简短摘要。 这些节的标题和简短摘要不具有法律约束力。
 
-### [4.可分割性、不弃权与效力存续](#4-severability-no-waiver-and-survival) ###
+### [4.可分割性、不弃权与效力存续](#3-section-headings-and-summaries) ###
 
 如果本协议的任何部分被认定为无效或不可执行，则协议的该部分将按照反映双方本意的方式解释。 其余部分仍然完全有效。 GitHub 未能执行本协议的任何规定不应视为放弃我们执行此类规定的权利。 在本协议终止后，我们在本协议项下的权利将继续有效。
 
-### [5.修订；完整协议](#5-amendments-complete-agreement) ###
+### [5.修订；完整协议](#4-severability-no-waiver-and-survival) ###
 
 本协议只能通过 GitHub 授权代表签署的书面修订加以修改，或 GitHub 根据[第 Q 节. 条款的变更](#q-changes-to-these-terms)发布的修订版予以修改。 这些服务条款连同 GitHub 隐私声明构成您与我们之间所达成协议的完整和排他性声明。 本协议取代任何提议或先前的协议（无论是口头还是书面），以及您与 GitHub 之间就这些条款主题事项进行的任何其他通信，包括任何保密协议。
 
-### [6.问题](#6-questions) ###
+### [6.问题](#5-amendments-complete-agreement) ###
 
 对服务条款有疑问？ 通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 

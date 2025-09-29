@@ -28,8 +28,6 @@ GitHub는 뇌물 및 부패 금지를 포함한 제반 조치를 통해 윤리�
 * **사회적 비용**: 정치 사회, 기관 및 리더에 대한 국민의 신뢰를 저해
 * **환경적 비용**: 환경 법률 및 규정의 미집행을 촉진
 
-2017년 [세계은행](https://www.worldbank.org/en/topic/governance/brief/anti-corruption)에 따르면 기업과 개인이 지급하는 뇌물의 액수가 매년 1조 5천억 달러에 이르는 것으로 추정됩니다.
-
 [GitHub 뇌물 방지 정책](#github-policies-prohibiting-bribery)
 ----------
 

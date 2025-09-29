@@ -28,8 +28,6 @@ GitHub respecte notre engagement envers des pratiques commerciales éthiques, no
 * **sociaux**, en sapant la confiance des gens dans la société politique, les institutions et les dirigeants ; et
 * **environnementaux**, en facilitant la non-application des lois et réglementations environnementales.
 
-Selon la [Banque mondiale](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) en 2017, les entreprises et les particuliers versent chaque année environ 1,5 milliard USD en pots-de-vin.
-
 [Politiques GitHub interdisant la corruption](#github-policies-prohibiting-bribery)
 ----------
 

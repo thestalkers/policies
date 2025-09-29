@@ -23,20 +23,20 @@ GitHub 서비스 약관
 * [B. 계정 약관](#b-account-terms)
 * [C. 사용 제한](#c-acceptable-use)
 * [D. 사용자 생성 콘텐츠](#d-user-generated-content)
-* [E. 개인 리포지토리](#e-private-repositories)
-* [F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
-* [G. 지적 재산권 고지](#g-intellectual-property-notice)
-* [H. API 약관](#h-api-terms)
-* [I. GitHub 추가 제품 약관](#i-github-additional-product-terms)
-* [J. 베타 미리 보기](#j-beta-previews)
-* [K. 지급](#k-payment)
-* [L. 취소 및 해지](#l-cancellation-and-termination)
-* [M. GitHub와의 통신](#m-communications-with-github)
-* [N. 보증의 부인](#n-disclaimer-of-warranties)
-* [O. 책임의 제한](#o-limitation-of-liability)
-* [P. 면제 및 면책](#p-release-and-indemnification)
-* [Q. 본 약관의 변경](#q-changes-to-these-terms)
-* [R. 기타](#r-miscellaneous)
+* [E. 개인 리포지토리](#8-access-reciprocity)
+* [F. 저작권 침해와 DMCA 정책](#3-access)
+* [G. 지적 재산권 고지](#f-copyright-infringement-and-dmca-policy)
+* [H. API 약관](#3-license-to-github-policies)
+* [I. GitHub 추가 제품 약관](#h-api-terms)
+* [J. 베타 미리 보기](#i-github-additional-product-terms)
+* [K. 지급](#3-feedback)
+* [L. 취소 및 해지](#5-responsibility-for-payment)
+* [M. GitHub와의 통신](#4-survival)
+* [N. 보증의 부인](#3-no-phone-support)
+* [O. 책임의 제한](#n-disclaimer-of-warranties)
+* [P. 면제 및 면책](#o-limitation-of-liability)
+* [Q. 본 약관의 변경](#p-release-and-indemnification)
+* [R. 기타](#q-changes-to-these-terms)
 
 GitHub를 이용해 주셔서 감사합니다. 여러분을 뵙게 되어 매우 기쁩니다. GitHub에 액세스하거나 GitHub를 이용하기 전에 본 서비스 계약 약관을 꼼꼼하게 읽으시기 바랍니다. GitHub와 GitHub 사용자 간의 매우 중요한 계약이므로 최대한 명확히 하기 위해 노력했습니다. 편의상 구속력이 없는 짧은 요약 형태로 약관을 소개한 다음 전체 법적 약관이 나옵니다.
 
@@ -177,20 +177,20 @@ GitHub는 귀하의 콘텐츠를 호스트, 게시, 공유하는 등의 작업�
 
 관련 법률에 의해 본 계약을 집행할 수 없는 경우, 귀하는 GitHub가 저작자 표시 없이 귀하의 콘텐츠를 사용하고 웹 사이트 렌더링 및 서비스 제공에 필요하다면 귀하의 콘텐츠를 합리적으로 수정하는 데 필요한 권리를 GitHub에 부여합니다.
 
-[E. 개인 리포지토리](#e-private-repositories)
+[E. 개인 리포지토리](#8-access-reciprocity)
 ----------
 
 **짧은 버전:** *GitHub는 프라이빗 리포지토리의 콘텐츠를 기밀로 취급하며, GitHub 개인정보처리방침에 설명된 대로 보안 목적으로, 리포지토리 소유자의 지원 문제를 돕기 위해, 서비스 무결성을 유지하기 위해, GitHub의 법적 의무를 준수하기 위해, 콘텐츠가 법률을 위반한다고 믿는 경우 또는 동의가 있는 경우에만 콘텐츠에 액세스합니다.*
 
-### [1. 프라이빗 리포지토리의 제어](#1-control-of-private-repositories) ###
+### [1. 프라이빗 리포지토리의 제어](#e-private-repositories) ###
 
 일부 계정에는 사용자가 콘텐츠에 대한 액세스를 제어할 수 있는 개인 리포지토리가 있을 수 있습니다.
 
-### [2. 프라이빗 리포지토리의 비밀 유지](#2-confidentiality-of-private-repositories) ###
+### [2. 프라이빗 리포지토리의 비밀 유지](#1-control-of-private-repositories) ###
 
 GitHub는 개인 리포지토리의 콘텐츠가 귀하에게 기밀이라고 간주합니다. GitHub는 비슷한 성격의 GitHub 자체 비밀 정보를 보호하는 데 사용하는 것과 동일한 방법으로 어떠한 경우에도 합리적인 수준 이상의 관심을 기울여 무단 사용, 액세스 또는 공개로부터 개인 리포지토리의 콘텐츠를 보호합니다.
 
-### [3. 액세스](#3-access) ###
+### [3. 액세스](#2-confidentiality-of-private-repositories) ###
 
 GitHub 직원은 당사의 [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement#repository-contents)에 설명된 상황에서만 프라이빗 리포지토리의 콘텐츠에 액세스할 수 있습니다.
 
@@ -202,31 +202,31 @@ GitHub 직원은 당사의 [개인정보처리방침](/ko/site-policy/privacy-po
 
 GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
 
-[F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
+[F. 저작권 침해와 DMCA 정책](#3-access)
 ----------
 
 GitHub 웹 사이트의 콘텐츠가 귀하의 저작권을 위반한다고 생각하는 경우, GitHub의 [디지털 밀레니엄 저작권법 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)에 따라 문의하십시오. 저작권 소유자이고 GitHub에 있는 콘텐츠가 권한을 침해한다고 생각하는 경우, [GitHub 간편 DMCA 양식](https://github.com/contact/dmca)을 통해 또는 [copyright@github.com](mailto:copyright@github.com)에 이메일을 보내 문의하십시오. 허위이거나 사소한 게시 중단 통지를 보내는 경우 법적 결과가 따를 수 있습니다. 게시 중단 요청을 보내기 전에 공정한 사용 및 사용 허가된 사용 같은 합법적 사용을 고려해야 합니다.
 
 GitHub는 이 정책의 [반복 침해자](/ko/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement)의 계정을 해지할 것입니다.
 
-[G. 지적 재산권 고지](#g-intellectual-property-notice)
+[G. 지적 재산권 고지](#f-copyright-infringement-and-dmca-policy)
 ----------
 
 **짧은 버전:** *GitHub 서비스와 모든 GitHub 콘텐츠는 GitHub의 소유입니다. GitHub는 GitHub의 콘텐츠를 사용할 수 있도록 GitHub 콘텐츠에 대한 특정 권한을 귀하에게 부여하지만 귀하는 GitHub의 콘텐츠를 GitHub가 허용한 방법으로만 사용할 수 있습니다.*
 
-### [1. 콘텐츠에 대한 GitHub의 권한](#1-githubs-rights-to-content) ###
+### [1. 콘텐츠에 대한 GitHub의 권한](#g-intellectual-property-notice) ###
 
 GitHub와 GitHub의 사용권 허가자, 공급업체, 대리인 및/또는 GitHub의 콘텐츠 공급자는 웹 사이트 및 서비스와 관련된 모든 종류의 지적 재산권을 보유합니다. 본 계약에 따라 또는 법률에 의해 명시적으로 귀하에게 부여되지 않은 모든 권리는 GitHub가 보유합니다. 웹 사이트와 서비스의 룩 앤드 필은 GitHub, Inc. 저작권으로 보호되며 무단 복제는 금지됩니다. GitHub의 명시적인 서면 허가 없이 HTML/CSS, JavaScript 또는 시각적 디자인 요소나 개념의 어떤 부분도 복제, 복사 또는 재사용할 수 없습니다.
 
-### [2. GitHub 상표 및 로고](#2-github-trademarks-and-logos) ###
+### [2. GitHub 상표 및 로고](#1-githubs-rights-to-content) ###
 
 GitHub의 상표를 사용하려는 경우, GitHub의 로고 페이지([https://github.com/logos)에](https://github.com/logos)%EC%97%90) 있는 지침을 포함한 모든 상표 지침을 따라야 합니다.
 
-### [3. GitHub 정책에 대한 라이선스](#3-license-to-github-policies) ###
+### [3. GitHub 정책에 대한 라이선스](#2-github-trademarks-and-logos) ###
 
 본 계약은 이 [Creative Commons Zero 라이선스](https://creativecommons.org/publicdomain/zero/1.0/)에 따라 라이선스가 허여됩니다. 자세한 내용은 [사이트 정책 리포지토리](https://github.com/github/site-policy#license)를 참조하십시오.
 
-[H. API 약관](#h-api-terms)
+[H. API 약관](#3-license-to-github-policies)
 ----------
 
 **짧은 버전:** *귀하는 본 서비스 약관 외에 GitHub에 액세스하는 제3자 제품을 통한 API(Applicaiton Provider Interface) 사용을 포함하여 GitHub의 API를 사용할 때 본 섹션 H에 동의합니다.*
@@ -241,23 +241,23 @@ GitHub 사용자의 개인 정보를 채용업체, 헤드헌터, 취업 게시�
 
 GitHub는 높은 처리량의 액세스 또는 GitHub의 서비스가 재판매되는 액세스가 필요한 사용자에게 GitHub API에 대한 구독 기반 액세스를 제공할 수 있습니다.
 
-[I. GitHub 추가 제품 약관](#i-github-additional-product-terms)
+[I. GitHub 추가 제품 약관](#h-api-terms)
 ----------
 
 **짧은 버전:** *귀하는 GitHub의 다양한 기능 및 제품의 특정 계약조건에 따라야 하며, 본 계약에 동의할 때 추가 계약조건에 동의합니다.*
 
 일부 서비스 기능에는 GitHub 추가 제품 약관에 명시된 대로 해당 기능 또는 제품에 관련된 추가 약관이 적용될 수 있습니다. 이러한 기능에 액세스하거나 이 기능을 사용함으로써 귀하는 [GitHub 추가 제품 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)에도 동의하게 됩니다.
 
-[J. 베타 미리 보기](#j-beta-previews)
+[J. 베타 미리 보기](#i-github-additional-product-terms)
 ----------
 
 **짧은 버전:** *베타 미리 보기는 지원되지 않거나 언제든지 변경될 수 있습니다. 귀하는 이러한 프로그램을 통해 프로그램이 비공개인 동안 기밀로 유지해야 하는 비밀 정보를 받게 될 수 있습니다. 베타 미리 보기를 개선할 수 있도록 피드백을 보내 주시기 바랍니다.*
 
-### [1. 변경 가능](#1-subject-to-change) ###
+### [1. 변경 가능](#j-beta-previews) ###
 
 베타 미리 보기는 지원되지 않을 수 있으며 통지 없이 언제든지 변경할 수 있습니다. 또한 베타 미리 보기에는 서비스에 적용되었고 현재 적용되는 것과 동일한 보안 조치 및 감사가 적용되지 않습니다. **베타 미리 보기를 사용하면 본인의 위험 부담하에 사용하는 것입니다.**
 
-### [2. 비밀 유지](#2-confidentiality) ###
+### [2. 비밀 유지](#1-subject-to-change) ###
 
 베타 미리 보기의 사용자로서 귀하는 공개되지 않은 특별한 정보에 액세스하게 될 수 있습니다. 이 정보의 민감한 성격 때문에 귀하가 해당 정보를 비밀로 유지하는 것이 GitHub에게는 중요합니다.
 
@@ -265,27 +265,27 @@ GitHub는 높은 처리량의 액세스 또는 GitHub의 서비스가 재판매�
 
 **예외.** 다음 정보는 비밀 정보에 포함되지 않습니다. (a) 또는 귀하의 작위 또는 부작위를 통하지 않고 본 계약의 위반 없이 일반에 공개되거나(예를 들어 비공개 베타 미리 보기가 공개 베타 미리 보기가 되는 경우), (b) GitHub가 귀하에게 공개하기 전에 귀하가 알고 있거나, (c) GitHub 또는 제3자에 대한 비밀 유지 의무 위반 없이 귀하가 독자적으로 개발했거나, (d) GitHub의 허가를 받아 공개된 정보. 법률에 따라 비밀 정보를 공개해야 하는 경우, 법률이 금지하지 않는 한 이의 제기를 할 수 있도록 합리적인 사전 서면 통지를 GitHub에 제공했다면 본 계약 약관 위반이 아닙니다.
 
-### [3. 피드백](#3-feedback) ###
+### [3. 피드백](#2-confidentiality) ###
 
 GitHub는 항상 제품과 서비스를 개선하려 노력하고 있으며, 베타 미리 보기 사용자의 피드백은 이런 노력에 도움이 됩니다. GitHub 제품 또는 서비스에 대한 아이디어, 노하우, 알고리즘, 코드 기여, 제안, 개선 요청, 추천 또는 그 밖의 피드백("피드백"으로 통칭)을 GitHub에 제공하기로 선택하는 경우, 귀하는 GitHub에게 피드백을 구현, 사용, 수정, 상업적 이용 및/또는 GitHub 제품, 서비스, 설명서에 통합할 수 있는 로열티 없고, 대금이 완불되고, 전 세계적이고, 양도 가능하고, 재라이선싱 가능하고, 철회 불가능한 영구 라이선스가 있음을 인정하고 동의하는 것입니다.
 
-[K. 지급](#k-payment)
+[K. 지급](#3-feedback)
 ----------
 
 **짧은 버전:** *귀하의 GitHub 사용과 관련된 요금은 귀하의 책임입니다. GitHub는 이러한 요금을 명확하고 정확하게 귀하에게 전달하고, 이러한 가격이 변경되는 경우 충분히 일찍 알릴 책임이 있습니다.*
 
-### [1. 가격 책정](#1-pricing) ###
+### [1. 가격 책정](#k-payment) ###
 
 GitHub의 가격 책정 및 지급 조건은 [github.com/pricing](https://github.com/pricing)에서 확인할 수 있습니다. 구독 가격에 동의하는 경우, 결제 기간 동안 계속 해당 가격이 적용됩니다. 그러나 결제 기간이 끝나면 가격이 변경될 수 있습니다.
 
-### [2. 업그레이드, 다운그레이드, 변경](#2-upgrades-downgrades-and-changes) ###
+### [2. 업그레이드, 다운그레이드, 변경](#1-pricing) ###
 
 * 무료 요금제에서 유료 요금제로 업그레이드하는 경우, 즉시 청구됩니다.
 * 월간 요금제에서 연간 요금제로 변경하는 경우, GitHub는 다음 달 청구일에 전체 연도 요금을 청구합니다.
 * 상위 수준의 서비스로 업그레이드하는 경우, 업그레이드된 요금제로 즉시 청구됩니다.
 * [요금제 옵션을 선택](https://github.com/pricing)하거나 [청구 설정](https://github.com/settings/billing)에서 언제든지 서비스 수준을 변경할 수 있습니다. 계정을 다운로드하기로 선택하는 경우, 계정의 콘텐츠에 대한 액세스, 기능 또는 용량을 상실할 수 있습니다. 해당 콘텐츠의 복사본을 얻는 방법에 대한 자세한 내용은 [취소](#l-cancellation-and-termination) 섹션을 참조하십시오.
 
-### [3. 청구 일정표, 환불 없음](#3-billing-schedule-no-refunds) ###
+### [3. 청구 일정표, 환불 없음](#2-upgrades-downgrades-and-changes) ###
 
 **요금제 기반 결제** 월간 또는 연간 결제 요금제의 경우, 각각 월 또는 연 기준으로 서비스 요금이 청구되며, 환불되지 않습니다. 서비스를 부분적으로 사용한 달에 대한 환불이나 크레딧, 다운그레이드 환불 또는 개방형 계정과 함께 사용되지 않은 달에 대한 환불은 없습니다. 다만 서비스는 유료 청구 기간 동안 활성 상태로 유지됩니다. 모두를 똑같이 대우하기 위해 예외는 없습니다.
 
@@ -293,24 +293,24 @@ GitHub의 가격 책정 및 지급 조건은 [github.com/pricing](https://github
 
 **청구서 발행** 청구서가 발행된 사용자의 경우, 사용자는 어떠한 종류의 공제 또는 상계 없이 미국 달러로 요금을 전액 선불하는 데 동의합니다. 사용자는 GitHub 청구일로부터 30일 이내에 요금을 지불해야 합니다. 본 계약에 따라 지불할 금액은 본 계약에 달리 명시된 경우를 제외하면 환불되지 않습니다. 사용자가 요금을 제때 지불하지 않을 경우, GitHub는 법률 또는 형평법상 그 밖의 모든 조치를 취하는 것 외에도 (i) 연체 미지불금에 대해 월 1.0% 이율 또는 법정 허용 최고 이율 중 낮은 이율을 기준으로 이자를 청구하고 모든 회수 비용을 청구할 권리가 있으며 (ii) 해당 주문서 양식을 해지할 권리가 있습니다. 사용자는 본 계약과 관련하여 부과되거나 납부해야 할 모든 세금, 요금, 관세 및 정부 과세액(GitHub의 순수입에 근거하여 부과되는 제세공과금은 제외)에 대해 전적인 책임을 집니다.
 
-### [4. 권한 부여](#4-authorization) ###
+### [4. 권한 부여](#3-billing-schedule-no-refunds) ###
 
 본 약관에 동의함으로써 귀하는 귀하의 등록된 신용 카드, PayPal 계정 또는 GitHub에 허가한 그 밖의 승인된 요금 결제 수단에 청구할 수 있는 권한을 GitHub에 부여합니다.
 
-### [5. 결제에 대한 책임](#5-responsibility-for-payment) ###
+### [5. 결제에 대한 책임](#4-authorization) ###
 
 귀하의 서비스 사용과 관련된 세금을 포함한 모든 요금은 귀하의 책임입니다. 서비스를 사용함으로써 귀하는 귀하의 서비스 사용과 관련하여 발생하는 모든 요금을 GitHub에 지불하는 데 동의합니다. 이 문제에 대해 이의를 제기하는 경우 [GitHub 지원](https://support.github.com/)에 문의하십시오. 귀하는 유료 계정의 유효한 결제 수단을 GitHub에 제공할 책임이 있습니다. 무료 계정은 결제 정보를 제공할 필요가 없습니다.
 
-[L. 취소 및 해지](#l-cancellation-and-termination)
+[L. 취소 및 해지](#5-responsibility-for-payment)
 ----------
 
 **짧은 버전:** *귀하는 언제든지 귀하의 계정을 폐쇄할 수 있습니다. 그 경우, GitHub는 귀하의 정보를 책임지고 처리합니다.*
 
-### [1. 계정 취소](#1-account-cancellation) ###
+### [1. 계정 취소](#l-cancellation-and-termination) ###
 
 귀하의 GitHub 계정을 적절히 취소하는 것은 귀하의 책임입니다. 화면 위쪽의 글로벌 탐색 모음으로 이동하여 [언제든지 계정을 취소](/ko/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)할 수 있습니다. 계정 화면은 간단하고 질문이 없는 취소 링크를 제공합니다. GitHub는 이메일 또는 전화 요청에 응하여 계정을 취소할 수 없습니다.
 
-### [2. 취소 시](#2-upon-cancellation) ###
+### [2. 취소 시](#1-account-cancellation) ###
 
 GitHub는 법적 의무를 준수하고 분쟁을 해결하며 GitHub의 계약을 이행하기 위해 필요하다면 귀하의 정보를 보유 및 사용하지만 법적 요구 사항이 없다면 취소 또는 해지 후 90일 이내에 귀하의 전체 프로필과 해당 리포지토리의 콘텐츠를 삭제합니다. 단, 일부 정보는 암호화된 백업에 남아 있을 수 있습니다. 귀하의 계정이 취소되면 이 정보는 복구할 수 없습니다.
 
@@ -318,32 +318,32 @@ GitHub는 귀하가 외부 사용자의 리포지토리에 제공했거나 외�
 
 GitHub는 요청 시 계정 취소, 해지 또는 다운그레이드 후 계정 소유자에게 합법적이고 비침해적인 계정 콘텐츠의 사본을 제공하기 위해 합당한 노력을 기울입니다. 이 요청은 취소, 해지 또는 다운그레이드 후 90일 이내에 해야 합니다.
 
-### [3. GitHub의 종료 권한](#3-github-may-terminate) ###
+### [3. GitHub의 종료 권한](#2-upon-cancellation) ###
 
 GitHub는 언제든지 사유 불문하고 통지 여부에 상관없이 웹 사이트 전체 또는 일부에 대한 귀하의 액세스를 정지 또는 종료할 수 있으며, 그 효력은 즉시 발생합니다. GitHub는 언제든지 이유에 관계없이 누구에게나 서비스를 거부할 권리가 있습니다.
 
-### [4. 존속](#4-survival) ###
+### [4. 존속](#3-github-may-terminate) ###
 
 소유권 조항, 보증 부인, 면책 및 책임의 제한을 포함하되 이에 국한되지 않으며 본질상 해지 후에도 존속해야 하는 본 계약의 모든 조항은 해지 *후에도* 존속합니다.
 
-[M. GitHub와의 통신](#m-communications-with-github)
+[M. GitHub와의 통신](#4-survival)
 ----------
 
 **짧은 버전:** *GitHub는 이메일 및 기타 전자적 수단을 사용하여 GitHub 사용자와 연락합니다.*
 
-### [1. 전자 통신 필요](#1-electronic-communication-required) ###
+### [1. 전자 통신 필요](#m-communications-with-github) ###
 
 계약 목적상 귀하는 (1) 제출한 이메일 주소 또는 서비스를 통해 전자적 양식으로 GitHub로부터의 통신을 수신하는 데 동의하고, (2) GitHub가 전자적으로 제공하는 모든 서비스 약관, 계약, 통지, 공개 및 그 밖의 통신이 서류 양식일 때와 마찬가지로 모든 법적 요구 사항을 충족한다는 데 동의합니다. 이 조항은 귀하의 포기 불가능한 권리에 영향을 미치지 않습니다.
 
-### [2. GitHub에 대한 법적 고지는 서면으로 이루어져야 함](#2-legal-notice-to-github-must-be-in-writing) ###
+### [2. GitHub에 대한 법적 고지는 서면으로 이루어져야 함](#1-electronic-communication-required) ###
 
 이메일 또는 GitHub 지원의 메시징 시스템을 통한 통신은 계약이나 법규에 따라 GitHub에 대한 통지가 필요한 어떠한 상황에서도 GitHub 또는 그 임원, 직원, 대리인 또는 대표자에 대한 법적 고지에 해당하지 않습니다. GitHub에 대한 법적 고지는 서면으로 이루어져야 하며 [GitHub의 법률 대리인에게 제공](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests)해야 합니다.
 
-### [3. 전화 지원 없음](#3-no-phone-support) ###
+### [3. 전화 지원 없음](#2-legal-notice-to-github-must-be-in-writing) ###
 
 GitHub는 이메일, 서비스 내 통신, 전자 메시지를 통해서만 지원을 제공합니다. 전화 지원은 제공하지 않습니다.
 
-[N. 보증의 부인](#n-disclaimer-of-warranties)
+[N. 보증의 부인](#3-no-phone-support)
 ----------
 
 **짧은 버전:** *GitHub는 GitHub의 서비스를 있는 그대로 제공하며, 이 서비스에 대한 어떠한 약속이나 보증도 하지 않습니다. 이 섹션을 꼼꼼히 읽으시기 바랍니다. 무엇을 예상해야 하는지 이해해야 합니다.*
@@ -352,7 +352,7 @@ GitHub는 웹 사이트와 서비스를 어떠한 종류의 보증도 없이 "�
 
 GitHub는 서비스가 귀하의 요구 사항을 충족한다는 점, 서비스가 중단되지 않고 제때 제공되며 안전하거나 오류가 없을 것이라는 점, 서비스를 통해 제공되는 정보가 정확하거나 신뢰할 수 있거나 정확하다는 점, 모든 결함이나 오류는 수정될 것이라는 점, 서비스가 특정 시간 또는 장소에서 제공될 것이라는 점, 또는 서비스에 바이러스 또는 그 외 유해한 구성 요소가 없다는 점 등을 보증하지 않습니다. 귀하는 서비스에서 얻는 파일, 정보, 콘텐츠 또는 기타 자료의 다운로드 또는 사용에 대한 모든 책임과 그로 인해 발생하는 손실 위험을 부담합니다.
 
-[O. 책임의 제한](#o-limitation-of-liability)
+[O. 책임의 제한](#n-disclaimer-of-warranties)
 ----------
 
 **짧은 버전:** *GitHub는 본 계약에 따른 서비스 사용 또는 사용 불능으로 인해 발생하거나 기타 방식으로 발생하는 손해나 손실에 대해 책임이 없습니다. 이 섹션을 꼼꼼히 읽으시기 바랍니다. 이 섹션은 귀하에 대한 GitHub의 의무를 제한합니다.*
@@ -370,7 +370,7 @@ GitHub는 서비스가 귀하의 요구 사항을 충족한다는 점, 서비스
 
 GitHub의 법적 책임은 GitHub가 이러한 손해의 가능성을 통지받았는지 여부에 관계없이, 또한 본 계약에 명시된 구제 수단이 그 본질적 목적을 달성하지 못했음이 판명되더라도 제한됩니다. GitHub는 GitHub의 합리적인 통제를 벗어난 문제로 인한 장애 또는 지연에 대해 책임이 없습니다.
 
-[P. 면제 및 면책](#p-release-and-indemnification)
+[P. 면제 및 면책](#o-limitation-of-liability)
 ----------
 
 **짧은 버전:** *귀하의 서비스 사용에 대한 책임은 귀하에게 있습니다. 귀하가 다른 사람에게 피해를 입히거나 다른 사람과 분쟁이 발생하는 경우, GitHub는 관여하지 않습니다.*
@@ -379,7 +379,7 @@ GitHub의 법적 책임은 GitHub가 이러한 손해의 가능성을 통지받�
 
 귀하는 본 계약 위반을 포함하되 이에 국한하지 않고 귀하의 웹 사이트 및 서비스 사용으로 인해 발생하는 변호사 수임료를 포함한 모든 청구, 책임 및 비용으로부터 GitHub를 면책하고 방어하며 책임을 면제하는 데 동의합니다. 단, GitHub는 (1) 청구, 요구, 소송 또는 소송 절차에 대한 서면 통지를 즉시 귀하에게 전달하고, (2) 청구, 요구, 소송 또는 소송 절차의 방어 및 합의에 대한 전적인 통제 권한을 귀하에게 부여하며(단, 합의로 GitHub의 모든 책임이 무조건 면제되지 않는 한 귀하는 어떠한 청구, 요구, 소송 또는 소송 절차도 합의할 수 없습니다), (3) 귀하의 비용 부담으로 합리적인 모든 지원을 귀하에게 제공합니다.
 
-[Q. 본 약관의 변경](#q-changes-to-these-terms)
+[Q. 본 약관의 변경](#p-release-and-indemnification)
 ----------
 
 **짧은 버전:** *GitHub는 GitHub 사용자에게 중요한 약관 변경을 알리려 하지만 일부 변경은 그렇게 중요하지 않습니다. 가령 오탈자를 수정할 때마다 번거롭게 알리고 싶지 않습니다. 따라서 GitHub는 언제든지 본 계약을 수정할 수 있지만 중요한 변경은 사용자에게 알려 변경에 적응할 시간을 제공합니다.*
@@ -388,30 +388,30 @@ GitHub는 재량에 따라 언제든지 본 서비스 약관을 수정할 수 �
 
 GitHub는 통지 여부에 관계없이 언제든지 수시로 웹 사이트(또는 그 일부)를 수정하거나 일시적 또는 영구적으로 중단할 수 있는 권리를 보유합니다.
 
-[R. 기타](#r-miscellaneous)
+[R. 기타](#q-changes-to-these-terms)
 ----------
 
-### [1. 준거법](#1-governing-law) ###
+### [1. 준거법](#r-miscellaneous) ###
 
 관련 법률이 달리 규정하는 경우를 제외하고 귀하와 GitHub 간의 본 계약과 웹 사이트 또는 서비스 액세스 또는 사용에는 국제 사법 조항에 대한 고려 없이 미국의 연방 법률과 캘리포니아 주의 법률이 적용됩니다. 귀하와 GitHub는 캘리포니아 주 샌프란시스코 시 및 카운티에 위치한 법원의 전속 관할과 재판지에 따를 것에 동의합니다.
 
-### [2. 양도 금지](#2-non-assignability) ###
+### [2. 양도 금지](#1-governing-law) ###
 
 GitHub는 귀하의 동의 여부에 관계없이 언제든지 섹션 D.4의 라이선스 허여를 포함하여 본 서비스 약관 및/또는 [GitHub 개인정보처리방침](https://github.com/site/privacy)의 전체 또는 일부를 개인이나 단체에 양도하거나 위임할 수 있습니다. 귀하는 GitHub의 사전 서면 동의 없이 서비스 약관 또는 개인정보취급방침에 따른 권리 또는 의무를 양도하거나 위임할 수 없으며, 귀하에 의한 무단 양도 및 위임은 효력이 없습니다.
 
-### [3. 섹션 제목 및 요약](#3-section-headings-and-summaries) ###
+### [3. 섹션 제목 및 요약](#2-non-assignability) ###
 
 본 계약 전체에서 각 섹션에는 다음과 같은 계약조건의 제목과 짧은 요약이 포함됩니다. 이들 섹션 제목과 짧은 요약은 법적 구속력이 없습니다.
 
-### [4. 조항의 독립성, 권한 불포기, 존속](#4-severability-no-waiver-and-survival) ###
+### [4. 조항의 독립성, 권한 불포기, 존속](#3-section-headings-and-summaries) ###
 
 본 계약의 일부가 무효이거나 집행 불가능한 것으로 판결되더라도 계약의 해당 부분은 당사자들의 원래 의도를 반영하는 것으로 해석됩니다. 나머지 부분은 완전한 효력을 유지합니다. GitHub가 본 계약의 조항을 이행하지 않는 경우 이는 해당 조항을 집행할 GitHub의 권리의 포기로 간주되지 않습니다. 본 계약에 따른 GitHub의 권리는 본 계약의 종료 후에도 존속합니다.
 
-### [5. 수정, 완전 합의](#5-amendments-complete-agreement) ###
+### [5. 수정, 완전 합의](#4-severability-no-waiver-and-survival) ###
 
 본 계약은 GitHub의 수권 대리인이 서명한 계약서 수정안에 의해서만 수정되거나 GitHub가 [섹션 Q. 본 약관의 변경](#q-changes-to-these-terms)에 따라 개정본을 게시함으로써 수정할 수 있습니다. 본 서비스 약관은 GitHub 개인정보취급방침과 함께 귀하와 GitHub 사이에 체결된 계약의 완전하고 배타적인 문서에 해당합니다. 본 계약은 기밀 또는 비공개 계약을 포함하여 본 약관의 주제와 관련된 귀하와 GitHub 간의 모든 제안이나 사전 구두 또는 서면 합의 및 기타 모든 전언을 대체합니다.
 
-### [6. 질문](#6-questions) ###
+### [6. 질문](#5-amendments-complete-agreement) ###
 
 서비스 약관에 관하여 궁금한 점이 있습니까? GitHub 지원 포털[을](https://support.github.com/)통해 문의하세요.
 

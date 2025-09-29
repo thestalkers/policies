@@ -28,8 +28,6 @@ GitHub は、贈収賄と汚職の禁止を含む、倫理的ビジネス慣行�
 * **社会**、政治組織を持つ社会、制度、指導者への人々の信頼を損なうことによる
 * **環境**、環境関連法令および規制の不履行を促すことによる
 
-2017 年の[世界銀行](https://www.worldbank.org/en/topic/governance/brief/anti-corruption)の発表によると、事業と個人は賄賂に推定 1 兆 5 千億ドルを毎年支払っています。
-
 [GitHub ポリシーは贈収賄を禁止](#github-policies-prohibiting-bribery)
 ----------
 

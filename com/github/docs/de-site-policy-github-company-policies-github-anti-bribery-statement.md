@@ -28,8 +28,6 @@ GitHub hält an unserer Verpflichtung zu ethischen Geschäftspraktiken fest, unt
 * **soziale**, weil das Vertrauen der Menschen in die politische Gesellschaft, Institutionen und Anführer untergraben wird
 * **umweltbezogene**, weil die Nichtdurchsetzung von Umweltgesetzen und -vorschriften erleichtert wird.
 
-Laut Einschätzung der [Weltbank](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) von 2017 zahlen Unternehmen und Privatpersonen jedes Jahr schätzungsweise 1,5 Billionen USD an Bestechungsgeldern.
-
 [GitHub-Richtlinien, die Bestechung verbieten](#github-policies-prohibiting-bribery)
 ----------
 

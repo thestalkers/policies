@@ -87,7 +87,7 @@ Repositories auf GitHub – die öffentlich oder privat sein können – werden 
 
 Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benutzer und Projekte auf GitHub pflegen.
 
-* <a name="public-account-data"></a> **Öffentliche Kontodaten**: Auf GitHub ist eine Vielzahl von Informationen über Benutzer und ihre Repositorys öffentlich verfügbar.
+* <a name="public-account-data"></a>**Öffentliche Kontodaten**: Auf GitHub ist eine Vielzahl von Informationen über Benutzer und ihre Repositorys öffentlich verfügbar.
   Benutzerprofile finden Sie unter einer URL wie z. B. `https://github.com/username`.
   Benutzerprofile zeigen Informationen darüber an, wann der Benutzer sein Konto erstellt hat, sowie seine öffentlichen Aktivitäten auf GitHub.com und soziale Interaktionen.
   Öffentliche Benutzerprofile können auch zusätzliche Informationen enthalten, die ein Benutzer möglicherweise öffentlich geteilt hat.
@@ -117,7 +117,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
   * Organisationen, bei denen der Benutzer Mitglied ist (*abhängig von den Einstellungen der Organisation oder des Benutzers*)
 
-* <a name="private-account-data"></a> **Private Kontodaten**: GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) beschrieben.
+* <a name="private-account-data"></a>**Private Kontodaten**: GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) beschrieben.
   Dies kann beinhalten:
 
   * Private E-Mail-Adressen
@@ -130,7 +130,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
     Um sich ein Bild von der Art der privaten Kontoinformationen zu machen, die GitHub erhebt, können Sie Ihr [Persönliches Dashboard](https://github.com/dashboard) aufrufen und durch die Abschnitte auf der linken Menüleiste navigieren.
 
-* <a name="organization-account-data"></a> **Kontodaten von Organisationen**: Informationen über Organisationen, ihre administrativen Benutzer und Repositorys sind auf GitHub öffentlich zugänglich.
+* <a name="organization-account-data"></a>**Kontodaten von Organisationen**: Informationen über Organisationen, ihre administrativen Benutzer und Repositorys sind auf GitHub öffentlich zugänglich.
   Organisationsprofile finden Sie unter einer URL wie z. B. `https://github.com/organization`.
   Öffentliche Organisationsprofile können auch zusätzliche Informationen enthalten, die die Eigentümer öffentlich teilen möchten.
   Alle öffentlichen Profile der Organisation werden angezeigt:
@@ -153,7 +153,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
   * Mitarbeiter
 
-* <a name="public-repository-data"></a> **Öffentliche Repositorydaten**: GitHub vereint Millionen von öffentlichen Open-Source-Softwareprojekten.
+* <a name="public-repository-data"></a>**Öffentliche Repositorydaten**: GitHub vereint Millionen von öffentlichen Open-Source-Softwareprojekten.
   Sie können fast jedes öffentliche Repository durchsuchen (z. B. die [GitHub-Dokumentationen](https://github.com/github/docs)), um ein Gefühl für die Informationen zu bekommen, die GitHub über Repositorys erhebt und verwaltet.
   Dies kann beinhalten:
 
@@ -166,9 +166,9 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
   * Projektdokumentation wie Issues und Wiki-Seiten
   * Statistiken und Grafiken, die die Beiträge zum Projekt und zum Netzwerk der Mitwirkenden zeigen
 
-* <a name="private-repository-data"></a> **Private Repositorydaten**:GitHub erhebt und verwaltet für private Repositorys dieselbe Art von Daten wie für öffentliche Repositorys, mit der Ausnahme, dass nur speziell eingeladene Benutzer auf die Daten privater Repositorys zugreifen können.
+* <a name="private-repository-data"></a>**Private Repositorydaten**:GitHub erhebt und verwaltet für private Repositorys dieselbe Art von Daten wie für öffentliche Repositorys, mit der Ausnahme, dass nur speziell eingeladene Benutzer auf die Daten privater Repositorys zugreifen können.
 
-* <a name="other-data"></a> **Andere Daten**: Darüber hinaus erhebt GitHub Analysedaten wie Seitenbesuche und Informationen, die gelegentlich freiwillig von unseren Benutzern bereitgestellt werden (z. B. Kommunikation mit unserem Supportteam, Umfrageinformationen und/oder Website-Registrierungen).
+* <a name="other-data"></a>**Andere Daten**: Darüber hinaus erhebt GitHub Analysedaten wie Seitenbesuche und Informationen, die gelegentlich freiwillig von unseren Benutzern bereitgestellt werden (z. B. Kommunikation mit unserem Supportteam, Umfrageinformationen und/oder Website-Registrierungen).
 
 [Wir werden alle betroffenen Kontoinhaber benachrichtigen](#we-will-notify-any-affected-account-owners)
 ----------
@@ -183,9 +183,9 @@ GitHub behält sich das Recht vor, Anfragen nach nicht öffentlichen Information
 Wenn GitHub zustimmt, nicht-öffentliche Informationen als Antwort auf eine rechtmäßige Anfrage bereitzustellen, werden wir eine angemessene Suche nach den angeforderten Informationen durchführen.
 Hier sind die Arten von Informationen, zu deren Herausgabe wir uns bereit erklären, abhängig von der Art des Rechtsverfahrens, das uns zugestellt wird:
 
-* <a name="with-user-consent"></a> **Mit Zustimmung des Benutzers**: GitHub gibt private Kontoinformationen auf Anfrage direkt an den Benutzer (oder einen Besitzer, falls es sich um ein Organisationskonto handelt) oder mit schriftlicher Zustimmung des Benutzers an einen benannten Dritten weiter, sobald GitHub sicher ist, dass der Benutzer seine Identität überprüft hat.
+* <a name="with-user-consent"></a>**Mit Zustimmung des Benutzers**: GitHub gibt private Kontoinformationen auf Anfrage direkt an den Benutzer (oder einen Besitzer, falls es sich um ein Organisationskonto handelt) oder mit schriftlicher Zustimmung des Benutzers an einen benannten Dritten weiter, sobald GitHub sicher ist, dass der Benutzer seine Identität überprüft hat.
 
-* <a name="with-a-subpoena"></a> **Mit Vorladung**: Wenn uns eine gültige Vorladung, ein zivilrechtliches Ermittlungsverfahren oder ein ähnliches Gerichtsverfahren im Zusammenhang mit einer offiziellen straf- oder zivilrechtlichen Untersuchung zugestellt wird, können wir bestimmte nicht öffentliche Kontoinformationen bereitstellen, darunter:
+* <a name="with-a-subpoena"></a>**Mit Vorladung**: Wenn uns eine gültige Vorladung, ein zivilrechtliches Ermittlungsverfahren oder ein ähnliches Gerichtsverfahren im Zusammenhang mit einer offiziellen straf- oder zivilrechtlichen Untersuchung zugestellt wird, können wir bestimmte nicht öffentliche Kontoinformationen bereitstellen, darunter:
 
   * Mit dem Konto verknüpfte Namen
   * Mit dem Konto verknüpfte E-Mail-Adresse(n).
@@ -198,7 +198,7 @@ Bei Organisationskonten können wir die Namen und E-Mail-Adressen der Kontoinhab
 
 Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variieren. Einige der Informationen können vom Benutzer optional angegeben werden. In anderen Fällen haben wir die Informationen möglicherweise nicht erfasst oder gespeichert.
 
-* <a name="with-a-court-order-or-a-search-warrant"></a> **Mit Gerichtsbeschluss *oder* Durchsuchungsbefehl**: Wir legen Kontozugriffsprotokolle nur dann offen, wenn wir dazu gezwungen werden entweder (i) durch einen Gerichtsbeschluss, der gemäß 18 U.S.C. Abschnitt 2703(d) augestellt wurde, bei Vorliegen spezifischer und artikulierbarer Tatsachen, die zeigen, dass es begründeten Anlass zu der Annahme gibt, dass die angeforderten Informationen für eine laufende strafrechtliche Untersuchung relevant und wesentlich sind; oder (ii) einen Durchsuchungsbefehl, der gemäß den in der Bundesstrafprozessordnung beschriebenen Verfahren oder gleichwertigen staatlichen Haftbefehlsverfahren ausgestellt wurde, wenn ein wahrscheinlicher Grund nachgewiesen wird.
+* <a name="with-a-court-order-or-a-search-warrant"></a>**Mit Gerichtsbeschluss *oder* Durchsuchungsbefehl**: Wir legen Kontozugriffsprotokolle nur dann offen, wenn wir dazu gezwungen werden entweder (i) durch einen Gerichtsbeschluss, der gemäß 18 U.S.C. Abschnitt 2703(d) augestellt wurde, bei Vorliegen spezifischer und artikulierbarer Tatsachen, die zeigen, dass es begründeten Anlass zu der Annahme gibt, dass die angeforderten Informationen für eine laufende strafrechtliche Untersuchung relevant und wesentlich sind; oder (ii) einen Durchsuchungsbefehl, der gemäß den in der Bundesstrafprozessordnung beschriebenen Verfahren oder gleichwertigen staatlichen Haftbefehlsverfahren ausgestellt wurde, wenn ein wahrscheinlicher Grund nachgewiesen wird.
   Zusätzlich zu den oben aufgeführten nicht öffentlichen Kontoinformationen können wir Kontozugriffsprotokolle als Reaktion auf einen Gerichtsbeschluss oder einen Durchsuchungsbefehl bereitstellen, die Folgendes beinhalten können:
 
   * Alle Protokolle, die die Bewegungen eines Benutzers über einen bestimmten Zeitraum hinweg offenbaren würden
@@ -206,7 +206,7 @@ Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variier
   * Benutzer- oder IP-spezifische Analysedaten wie der Browserverlauf
   * Andere Sicherheitszugriffsprotokolle als die Kontoerstellung oder für eine bestimmte Zeit und ein bestimmtes Datum
 
-* <a name="only-with-a-search-warrant"></a> **Nur mit Durchsuchungsbefehl**: Wir legen die privaten Inhalte eines Kontos nur dann offen, wenn wir durch einen Durchsuchungsbefehl dazu gezwungen sind, der gemäß den in den Federal Rules of Criminal Procedure beschriebenen Verfahren oder gleichwertigen staatlichen Durchsuchungsbefehlsverfahren bei Vorliegen eines hinreichenden Verdachts ausgestellt wurde.
+* <a name="only-with-a-search-warrant"></a>**Nur mit Durchsuchungsbefehl**: Wir legen die privaten Inhalte eines Kontos nur dann offen, wenn wir durch einen Durchsuchungsbefehl dazu gezwungen sind, der gemäß den in den Federal Rules of Criminal Procedure beschriebenen Verfahren oder gleichwertigen staatlichen Durchsuchungsbefehlsverfahren bei Vorliegen eines hinreichenden Verdachts ausgestellt wurde.
   Zusätzlich zu den oben erwähnten nicht öffentlichen Kontoinformationen und Kontozugriffsprotokollen werden wir als Reaktion auf einen Durchsuchungsbefehl auch private Kontoinhalte bereitstellen, die Folgendes umfassen können:
 
   * Inhalt geheimer Gists
@@ -215,7 +215,7 @@ Bitte beachten Sie, dass die verfügbaren Informationen von Fall zu Fall variier
   * Mitteilungen oder Dokumentation (z. B. Ausgaben oder Wikis) in privaten Repositories
   * Alle Sicherheitsschlüssel, die für die Authentifizierung oder Verschlüsselung verwendet werden
 
-* <a name="in-exigent-circumstances"></a> **Unter dringenden Umständen**: Wenn wir eine Anfrage nach Informationen unter bestimmten dringenden Umständen erhalten (wenn wir glauben, dass die Offenlegung notwendig ist, um einen Notfall zu verhindern, bei dem die Gefahr des Todes oder einer schweren körperlichen Verletzung einer Person besteht), können wir begrenzte Informationen offenlegen, die wir als notwendig erachten, um den Strafverfolgungsbehörden die Bewältigung des Notfalls zu ermöglichen. Für darüber hinausgehende Informationen benötigen wir eine Vorladung, einen Durchsuchungsbefehl oder einen Gerichtsbeschluss, wie oben beschrieben. Beispielsweise geben wir Inhalte privater Repositories nicht ohne Durchsuchungsbefehl preis. Bevor wir Informationen offenlegen, bestätigen wir, dass die Anfrage von einer Strafverfolgungsbehörde stammt, eine Behörde eine offizielle Mitteilung verschickt hat, in der der Notfall zusammengefasst ist, und wie die angeforderten Informationen zur Bewältigung des Notfalls beitragen werden.
+* <a name="in-exigent-circumstances"></a>**Unter dringenden Umständen**: Wenn wir eine Anfrage nach Informationen unter bestimmten dringenden Umständen erhalten (wenn wir glauben, dass die Offenlegung notwendig ist, um einen Notfall zu verhindern, bei dem die Gefahr des Todes oder einer schweren körperlichen Verletzung einer Person besteht), können wir begrenzte Informationen offenlegen, die wir als notwendig erachten, um den Strafverfolgungsbehörden die Bewältigung des Notfalls zu ermöglichen. Für darüber hinausgehende Informationen benötigen wir eine Vorladung, einen Durchsuchungsbefehl oder einen Gerichtsbeschluss, wie oben beschrieben. Beispielsweise geben wir Inhalte privater Repositories nicht ohne Durchsuchungsbefehl preis. Bevor wir Informationen offenlegen, bestätigen wir, dass die Anfrage von einer Strafverfolgungsbehörde stammt, eine Behörde eine offizielle Mitteilung verschickt hat, in der der Notfall zusammengefasst ist, und wie die angeforderten Informationen zur Bewältigung des Notfalls beitragen werden.
 
 [Kostenerstattung](#cost-reimbursement)
 ----------

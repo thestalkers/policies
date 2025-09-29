@@ -28,8 +28,6 @@ GitHub mantiene nuestro compromiso con las prácticas comerciales éticas, inclu
 * **social**, porque socava la confianza de la población en la sociedad, las instituciones y los líderes políticos y
 * **medioambiental**, porque facilita el incumplimiento de las leyes y normativas medioambientales.
 
-Según los cálculos del [Banco Mundial](https://www.worldbank.org/en/topic/governance/brief/anti-corruption) en 2017, las empresas y las personas físicas abonan aproximadamente un billón y medio de dólares estadounidenses (1,5 billones de USD) en sobornos al año.
-
 [Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
 ----------
 

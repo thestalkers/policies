@@ -28,8 +28,6 @@ O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive p
 * **sociais**, minando a confiança das pessoas na sociedade política, nas instituições e nos líderes
 * **ambientais**, facilitando a não imposição de leis e regulamentos ambientais.
 
-De acordo com o [Banco Mundial](https://www.worldbank.org/en/topic/governance/brief/anti-corruption), em 2017, empresas e pessoas físicas pagaram cerca de US$ 1,5 trilhão em subornos a cada ano.
-
 [Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
 ----------
 
