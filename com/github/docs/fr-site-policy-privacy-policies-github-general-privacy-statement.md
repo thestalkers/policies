@@ -183,7 +183,7 @@ Conformément au DPF UE-États-Unis, à l’extension britannique du DPF UE-Éta
 
 Si vous ne recevez pas d’accusé de réception en temps voulu de votre plainte liée aux principes du DPF, ou si vous n’êtes pas satisfait de la manière dont nous avons traité votre plainte liée aux principes du DPF, veuillez consulter [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) pour plus d’informations ou pour déposer une plainte. Les services de l’International Centre for Dispute Resolution sont fournis sans frais pour vous.
 
-Une personne a la possibilité, dans certaines conditions, de recourir à un arbitrage exécutoire pour les plaintes concernant la conformité au DPF non résolues par l’un des autres mécanismes du DPF. Pour plus d’informations, consultez <https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>.
+Une personne a la possibilité, dans certaines conditions, de recourir à un arbitrage exécutoire pour les plaintes concernant la conformité au DPF non résolues par l’un des autres mécanismes du DPF. Pour plus d’informations, consultez <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.
 
 ### [Mise en œuvre gouvernementale](#government-enforcement) ###
 

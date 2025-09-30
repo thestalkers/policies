@@ -23,20 +23,20 @@ Dans cet article
 * [B. Termes du compte](#b-account-terms)
 * [C. Bon usage](#c-acceptable-use)
 * [D. Contenu Généré par l’Utilisateur](#d-user-generated-content)
-* [E. Dépôts privés](#e-private-repositories)
+* [E. Dépôts privés](#8-access-reciprocity)
 * [F. Violation des droits d'auteur et politique DMCA](#f-violation-des-droits-dauteur-et-politique-dmca)
-* [G. Avis sur la Propriété Intellectuelle](#g-intellectual-property-notice)
-* [H. Conditions du API](#h-api-terms)
-* [I. Conditions des Produits Supplémentaires de GitHub](#i-github-additional-product-terms)
-* [J. Aperçus bêta](#j-beta-previews)
-* [K. Paiement](#k-payment)
-* [L. Annulation et résiliation](#l-cancellation-and-termination)
-* [m. Communication avec GitHub](#m-communications-with-github)
-* [N. Exclusion de garantie](#n-disclaimer-of-warranties)
-* [O. Limitation de responsabilité.](#o-limitation-of-liability)
-* [P. Libération et indemnisation](#p-release-and-indemnification)
-* [Q. Modifications des présentes Conditions](#q-changes-to-these-terms)
-* [R. Dispositions diverses](#r-miscellaneous)
+* [G. Avis sur la Propriété Intellectuelle](#f-copyright-infringement-and-dmca-policy)
+* [H. Conditions du API](#3-license-to-github-policies)
+* [I. Conditions des Produits Supplémentaires de GitHub](#h-api-terms)
+* [J. Aperçus bêta](#i-github-additional-product-terms)
+* [K. Paiement](#3-feedback)
+* [L. Annulation et résiliation](#5-responsibility-for-payment)
+* [m. Communication avec GitHub](#4-survival)
+* [N. Exclusion de garantie](#3-no-phone-support)
+* [O. Limitation de responsabilité.](#n-disclaimer-of-warranties)
+* [P. Libération et indemnisation](#o-limitation-of-liability)
+* [Q. Modifications des présentes Conditions](#p-release-and-indemnification)
+* [R. Dispositions diverses](#q-changes-to-these-terms)
 
 Merci d'utiliser GitHub ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement cet accord de conditions d'utilisation avant d'accéder ou d'utiliser GitHub. Parce qu'il s'agit d'un contrat si important entre nous et nos utilisateurs, nous avons essayé de le rendre aussi clair que possible. Pour votre commodité, nous avons présenté ces termes dans un court résumé non contraignant suivi des termes juridiques complets.
 
@@ -177,20 +177,20 @@ Vous conservez tous les droits moraux sur Votre Contenu que vous téléchargez, 
 
 Dans la mesure où cet accord n'est pas exécutoire par la loi applicable, vous accordez à GitHub les droits dont nous avons besoin pour utiliser votre contenu sans attribution et pour faire des adaptations raisonnables de votre contenu si nécessaire pour rendre le site Web et fournir le service.
 
-[E. Dépôts privés](#e-private-repositories)
+[E. Dépôts privés](#8-access-reciprocity)
 ----------
 
 **Version courte :** *Nous traitons le contenu des dépôts privés comme confidentiel et nous n’y accédons que de la manière décrite dans notre Déclaration de Confidentialité, à savoir à des fins de sécurité, pour aider le propriétaire du dépôt dans le cadre d’une question d’assistance, pour maintenir l’intégrité du Service, pour nous conformer à nos obligations légales, si nous avons des raisons de croire que le contenu est en violation de la loi, ou avec votre consentement.*
 
-### [1. Contrôle des Dépôts Privés](#1-control-of-private-repositories) ###
+### [1. Contrôle des Dépôts Privés](#e-private-repositories) ###
 
 Certains comptes peuvent avoir des référentiels privés, qui permettent à l'utilisateur de contrôler l'accès au contenu.
 
-### [2. Confidentialité des Dépôts Privés](#2-confidentiality-of-private-repositories) ###
+### [2. Confidentialité des Dépôts Privés](#1-control-of-private-repositories) ###
 
 GitHub considère que le contenu des référentiels privés est confidentiel pour vous. GitHub protégera le contenu des référentiels privés contre l'utilisation, l'accès ou la divulgation non autorisés de la même manière que nous utiliserions pour protéger nos propres informations confidentielles de nature similaire et en aucun cas avec moins qu'un degré de soin raisonnable.
 
-### [3. Accès](#3-access) ###
+### [3. Accès](#2-confidentiality-of-private-repositories) ###
 
 Le personnel de GitHub ne peut accéder au contenu de vos dépôts privés que dans les situations décrites dans notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement#repository-contents).
 
@@ -209,24 +209,24 @@ Si vous pensez que le contenu de notre site Web viole vos droits d’auteur, veu
 
 Nous résilierons les Comptes des [contrevenants répétés](/fr/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement) de cette stratégie.
 
-[G. Avis sur la Propriété Intellectuelle](#g-intellectual-property-notice)
+[G. Avis sur la Propriété Intellectuelle](#f-copyright-infringement-and-dmca-policy)
 ----------
 
 **Version courte :** *Nous sommes propriétaires du service et de l’ensemble de son contenu. Pour que vous puissiez utiliser notre contenu, nous vous accordons certains droits sur celui-ci, mais vous ne pouvez l’utiliser que de la manière que nous avons autorisée.*
 
-### [1. Droits de GitHub sur le Contenu](#1-githubs-rights-to-content) ###
+### [1. Droits de GitHub sur le Contenu](#g-intellectual-property-notice) ###
 
 GitHub et nos concédants de licence, vendeurs, agents et/ou nos fournisseurs de contenu conservent la propriété de tous les droits de propriété intellectuelle de toute nature liés au site Web et au service. Nous nous réservons tous les droits qui ne vous êtes pas expressément accordés en vertu du présent Accord ou par la loi. L'aspect et la convivialité du site Web et du service sont protégés par le droit d'auteur © GitHub, Inc. Tous droits réservés. Vous ne pouvez pas dupliquer, copier ou réutiliser toute partie des éléments ou concepts de conception HTML/CSS, JavaScript ou visuels sans l’autorisation écrite expresse de GitHub.
 
-### [2. Marques commerciale et Logos de GitHub](#2-github-trademarks-and-logos) ###
+### [2. Marques commerciale et Logos de GitHub](#1-githubs-rights-to-content) ###
 
 Si vous souhaitez utiliser les marques de GitHub, vous devez respecter toutes nos directives relatives aux marques, y compris celles de la page des logos : <https://github.com/logos>.
 
-### [3. Licence sur les politiques de GitHub](#3-license-to-github-policies) ###
+### [3. Licence sur les politiques de GitHub](#2-github-trademarks-and-logos) ###
 
 Le présent Accord est régi par [licence Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). Pour plus de détails, reportez-vous à notre [référentiel sur les stratégies du site](https://github.com/github/site-policy#license).
 
-[H. Conditions du API](#h-api-terms)
+[H. Conditions du API](#3-license-to-github-policies)
 ----------
 
 **Version courte :** *Vous acceptez les présentes Conditions Générales d’Utilisation, ainsi que la présente Section H, lorsque vous utilisez l’une des API (Application Provider Interface) de GitHub, y compris l’utilisation de l’API par le biais d’un produit tiers qui accède à GitHub.*
@@ -241,23 +241,23 @@ Toute utilisation de l’API GitHub est soumise aux présentes Conditions Géné
 
 GitHub peut offrir un accès par abonnement à notre API pour les utilisateurs qui ont besoin d'un accès à haut débit ou d'un accès qui entraînerait la revente du service de GitHub.
 
-[I. Conditions des Produits Supplémentaires de GitHub](#i-github-additional-product-terms)
+[I. Conditions des Produits Supplémentaires de GitHub](#h-api-terms)
 ----------
 
 **Version courte :** *Vous devez respecter certaines conditions générales spécifiques pour les différentes fonctionnalités et produits de GitHub, et vous acceptez les Conditions Générales Supplémentaires lorsque vous acceptez le présent Accord.*
 
 Certaines fonctionnalités du Service peuvent être soumises à des conditions supplémentaires spécifiques à cette fonctionnalité ou à ce produit, comme indiqué dans les Conditions supplémentaires du produit GitHub. En accédant aux Services ou en les utilisant, vous acceptez également les [Conditions des Produits Supplémentaires de GitHub](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
-[J. Aperçus bêta](#j-beta-previews)
+[J. Aperçus bêta](#i-github-additional-product-terms)
 ----------
 
 **Version courte :** *Les Versions Bêta Préliminaires peuvent ne pas être prises en charge ou être modifiées à tout moment. Vous pouvez recevoir des informations confidentielles par l’intermédiaire de ces programmes, qui doivent rester confidentielles tant que le programme est privé. Nous aimerions que vous nous fassiez part de vos commentaires pour améliorer nos Versions Bêta Préliminaires.*
 
-### [1. Sous réserve de modifications](#1-subject-to-change) ###
+### [1. Sous réserve de modifications](#j-beta-previews) ###
 
 Les aperçus bêta peuvent ne pas être pris en charge et peuvent être modifiés à tout moment sans préavis. De plus, les aperçus bêta ne sont pas soumis aux mêmes mesures de sécurité et audits auxquels le service a été et est soumis. **L’utilisation d’une Version Bêta Préliminaire se fait à vos propres risques.**
 
-### [2. Confidentialité](#2-confidentiality) ###
+### [2. Confidentialité](#1-subject-to-change) ###
 
 En tant qu'utilisateur des aperçus bêta, vous pouvez avoir accès à des informations spéciales qui ne sont pas disponibles pour le reste du monde. En raison de la nature sensible de ces informations, il est important pour nous de veiller à ce que vous gardiez ces informations secrètes.
 
@@ -265,27 +265,27 @@ En tant qu'utilisateur des aperçus bêta, vous pouvez avoir accès à des infor
 
 **Exceptions**. Les Informations Confidentielles ne comprennent pas les informations qui sont : (a) ou deviennent accessibles au public sans violation du présent Accord par aucun acte ou aucune inaction de votre part (par exemple lorsqu’une Version Bêta Préliminaire privée devient une Version Bêta Préliminaire publique ; (b) connues de vous avant que nous ne vous les divulguons ; (c) déduites indépendamment par vous sans violation d’aucune obligation de confidentialité envers nous ou un tiers ; ou (d) divulguées avec l’autorisation de GitHub. Vous ne violerez pas les termes du présent Accord si vous êtes tenu de divulguer des Informations confidentielles en vertu de la loi, à condition que GitHub ait reçu un préavis écrit raisonnable pour s'y opposer, sauf si la loi l'interdit.
 
-### [3. Commentaires et avis](#3-feedback) ###
+### [3. Commentaires et avis](#2-confidentiality) ###
 
 Nous essayons toujours d'améliorer nos produits et services, et vos commentaires en tant qu'utilisateur de la version bêta nous aideront à le faire. Si vous choisissez de nous donner des idées, du savoir-faire, des algorithmes, des contributions de code, des suggestions, des demandes d'amélioration, des recommandations ou tout autre commentaire pour nos produits ou services (collectivement, « Commentaires »), vous reconnaissez et acceptez que GitHub aura un licence gratuite, entièrement payée, mondiale, transférable, sous-licenciable, irrévocable et perpétuelle pour mettre en œuvre, utiliser, modifier, exploiter commercialement et/ou incorporer les commentaires dans nos produits, services et documentation.
 
-[K. Paiement](#k-payment)
+[K. Paiement](#3-feedback)
 ----------
 
 **Version courte :** *Vous êtes responsable de tous les frais associés à votre utilisation de GitHub. Nous sommes tenus de vous communiquer ces frais de manière claire et précise, et de vous informer bien à l’avance en cas de modification de ces prix.*
 
-### [1. Tarification](#1-pricing) ###
+### [1. Tarification](#k-payment) ###
 
 Nos conditions de prix et de paiement sont disponibles sur [](https://github.com/pricing). Si vous acceptez un prix d'abonnement, celui-ci restera votre prix pendant toute la durée du délai de paiement ; cependant, les prix sont sujets à changement à la fin d'un délai de paiement.
 
-### [2. Mises à niveau, rétrogradations et modifications](#2-upgrades-downgrades-and-changes) ###
+### [2. Mises à niveau, rétrogradations et modifications](#1-pricing) ###
 
 * Nous vous facturerons immédiatement lorsque vous passerez du plan gratuit à n'importe quel plan payant.
 * Si vous passez d'un plan de facturation mensuel à un plan de facturation annuel, GitHub vous facturera pour une année complète à la prochaine date de facturation mensuelle.
 * Si vous passez à un niveau de service supérieur, nous vous facturerons immédiatement le forfait mis à niveau.
 * Vous pouvez modifier votre niveau de service à tout moment en [choisissant une option d’abonnement](https://github.com/pricing) ou en accédant à vos [paramètres de facturation](https://github.com/settings/billing)). Si vous choisissez de rétrograder votre compte, vous risquez de perdre l'accès au contenu, aux fonctionnalités ou à la capacité de votre compte. Veuillez consulter notre section [Annulation](#l-cancellation-and-termination) pour savoir comment obtenir une copie de ce Contenu.
 
-### [3. Calendrier de Facturation ; Aucun Remboursement](#3-billing-schedule-no-refunds) ###
+### [3. Calendrier de Facturation ; Aucun Remboursement](#2-upgrades-downgrades-and-changes) ###
 
 **Paiement selon le forfait** Pour les forfaits à paiement mensuel ou annuel, le Service est facturé à l’avance sur une base mensuelle ou annuelle respectivement et n’est pas remboursable. Il n'y aura aucun remboursement ou crédit pour des mois de service partiels, des remboursements de rétrogradation ou des remboursements pour des mois non utilisés avec un compte ouvert ; cependant, le service restera actif pendant toute la durée de la période de facturation payée. Afin de traiter tout le monde de la même manière, aucune exception ne sera faite.
 
@@ -293,24 +293,24 @@ Nos conditions de prix et de paiement sont disponibles sur [](https://github.com
 
 **Facturation** Pour les Utilisateurs facturés, l’Utilisateur accepte de payer l’intégralité des frais, sans déduction ni compensation d’aucune sorte, en dollars américains. L'utilisateur doit payer les frais dans les trente (30) jours suivant la date de facturation de GitHub. Les montants payables en vertu du présent accord ne sont pas remboursables, sauf disposition contraire dans le présent accord. Si l'utilisateur ne paie pas les frais à temps, GitHub se réserve le droit, en plus de prendre toute autre mesure en droit ou en équité, de (i) facturer des intérêts sur les montants en souffrance à 1,0 % par mois ou le taux d'intérêt le plus élevé autorisé par la loi, le moindre des deux, et de facturer tous les frais de recouvrement, et (ii) résilier le bon de commande applicable. L'utilisateur est seul responsable de tous les impôts, frais, droits et évaluations gouvernementales (à l'exception des impôts basés sur le revenu net de GitHub) qui sont imposés ou deviennent exigibles dans le cadre du présent accord.
 
-### [4. Autorisation](#4-authorization) ###
+### [4. Autorisation](#3-billing-schedule-no-refunds) ###
 
 En acceptant ces Conditions, vous nous autorisez à débiter votre carte de crédit enregistrée, votre compte PayPal ou tout autre mode de paiement approuvé pour les frais que vous autorisez pour GitHub.
 
-### [5. Responsabilité du paiement](#5-responsibility-for-payment) ###
+### [5. Responsabilité du paiement](#4-authorization) ###
 
 Vous êtes responsable de tous les frais, y compris les taxes, associés à votre utilisation du Service. En utilisant le Service, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre utilisation du Service. Si vous contestez le paiement, contactez le [portail de support GitHub](https://support.github.com/). Vous êtes responsable de nous fournir un moyen de paiement valide pour les Comptes payants. Les comptes gratuits ne sont pas tenus de fournir des informations de paiement.
 
-[L. Annulation et résiliation](#l-cancellation-and-termination)
+[L. Annulation et résiliation](#5-responsibility-for-payment)
 ----------
 
 **Version courte :** *Vous pouvez fermer votre Compte à tout moment. Dans cette éventualité, nous traiterons vos informations de manière responsable.*
 
-### [1. Annulation du Compte](#1-account-cancellation) ###
+### [1. Annulation du Compte](#l-cancellation-and-termination) ###
 
 Il est de votre responsabilité d'annuler correctement votre compte avec GitHub. Vous pouvez [annuler votre Compte à tout moment](/fr/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) en accédant à vos Paramètres dans la barre de navigation globale située en haut de l’écran. L'écran Compte fournit un lien d'annulation simple et sans poser de questions. Nous ne sommes pas en mesure d'annuler des comptes en réponse à une demande par e-mail ou par téléphone.
 
-### [2. En cas d’annulation](#2-upon-cancellation) ###
+### [2. En cas d’annulation](#1-account-cancellation) ###
 
 Nous conserverons et utiliserons vos informations si nécessaire pour nous conformer à nos obligations légales, résoudre les litiges et faire respecter nos accords, mais à moins d'exigences légales, nous supprimerons votre profil complet et le contenu de vos référentiels dans les 90 jours suivant l'annulation ou la résiliation (bien que certaines informations peuvent rester dans les sauvegardes cryptées). Ces informations ne peuvent pas être récupérées une fois que votre Compte est annulé.
 
@@ -318,32 +318,32 @@ Nous ne supprimerons pas le Contenu que vous avez contribué aux référentiels 
 
 Sur demande, nous ferons un effort raisonnable pour fournir au titulaire du compte une copie du contenu légal et non contrefaisant de votre compte après l'annulation, la résiliation ou la rétrogradation du compte. Vous devez faire cette demande dans les 90 jours suivant l'annulation, la résiliation ou la rétrogradation.
 
-### [3. Résiliation par GitHub](#3-github-may-terminate) ###
+### [3. Résiliation par GitHub](#2-upon-cancellation) ###
 
 GitHub a le droit de suspendre ou de résilier votre accès à tout ou partie du site Web à tout moment, avec ou sans motif, avec ou sans préavis, avec effet immédiat. GitHub se réserve le droit de refuser le service à quiconque pour quelque raison que ce soit et à tout moment.
 
-### [4. Maintien en vigueur de certaines clauses](#4-survival) ###
+### [4. Maintien en vigueur de certaines clauses](#3-github-may-terminate) ###
 
 Toutes les dispositions du présent Accord qui, de par leur nature, doivent rester applicables au-delà de la résiliation *resteront* en vigueur au-delà de la résiliation, notamment : les dispositions relatives à la propriété, les exclusions de garantie, l’indemnisation et les limitations de responsabilité.
 
-[m. Communication avec GitHub](#m-communications-with-github)
+[m. Communication avec GitHub](#4-survival)
 ----------
 
 **Version courte :** *Nous utilisons les e-mails et d’autres moyens électroniques pour rester en contact avec nos utilisateurs.*
 
-### [1. Communication électronique requise](#1-electronic-communication-required) ###
+### [1. Communication électronique requise](#m-communications-with-github) ###
 
 À des fins contractuelles, vous (1) consentez à recevoir des communications de notre part sous forme électronique via l'adresse e-mail que vous avez fournie ou via le Service ; et (2) convenez que toutes les conditions d'utilisation, accords, avis, divulgations et autres communications que nous vous fournissons par voie électronique satisfont à toute exigence légale que ces communications satisferaient si elles étaient sur papier. Cette section n'affecte pas vos droits auxquels vous ne pouvez pas renoncer.
 
-### [2. Toute notification légale à GitHub doit se faire par écrit](#2-legal-notice-to-github-must-be-in-writing) ###
+### [2. Toute notification légale à GitHub doit se faire par écrit](#1-electronic-communication-required) ###
 
 Les communications effectuées par e-mail ou par le système de messagerie de GitHub Support ne constitueront pas une notification légale à GitHub ou à l'un de ses dirigeants, employés, agents ou représentants dans toute situation où une notification à GitHub est requise par contrat ou par toute loi ou réglementation. La notification légale à GitHub doit être écrite et [signifiée à l’agent légal de GitHub](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data#submitting-requests).
 
-### [3. Aucune assistance téléphonique](#3-no-phone-support) ###
+### [3. Aucune assistance téléphonique](#2-legal-notice-to-github-must-be-in-writing) ###
 
 GitHub offre uniquement une assistance par e-mail, communications en service et messages électroniques. Nous n'offrons pas d'assistance téléphonique.
 
-[N. Exclusion de garantie](#n-disclaimer-of-warranties)
+[N. Exclusion de garantie](#3-no-phone-support)
 ----------
 
 **Version courte :** *Nous fournissons notre service en l’état, et nous ne faisons aucune promesse ou n’émettons aucune garantie concernant ce service. Veuillez lire attentivement cette section ; vous devez comprendre à quoi vous attendre.*
@@ -352,7 +352,7 @@ GitHub fournit le site Web et le service « tels quels » et « tels que disp
 
 GitHub ne garantit pas que le Service répondra à vos exigences ; que le Service sera ininterrompu, rapide, sécurisé ou sans erreur ; que les informations fournies via le Service sont exactes, fiables ou correctes ; que tout défaut ou erreur sera corrigé ; que le Service sera disponible à tout moment ou en tout lieu ; ou que le Service est exempt de virus ou d'autres composants nuisibles. Vous assumez l'entière responsabilité et le risque de perte résultant de votre téléchargement et/ou de l'utilisation de fichiers, d'informations, de contenus ou d'autres éléments obtenus à partir du Service.
 
-[O. Limitation de responsabilité.](#o-limitation-of-liability)
+[O. Limitation de responsabilité.](#n-disclaimer-of-warranties)
 ----------
 
 **Version courte :** *Nous ne serons pas responsables des dommages ou des pertes résultant de votre utilisation ou de votre incapacité à utiliser le service ou de tout autre problème en vertu des présentes. Veuillez lire attentivement cette section ; elle limite nos obligations envers vous.*
@@ -370,7 +370,7 @@ Vous comprenez et acceptez que nous ne serons pas responsables envers vous ou un
 
 Notre responsabilité est limitée, que nous ayons été informés ou non de la possibilité de tels dommages, et même s'il s'avère qu'un recours prévu dans le présent Contrat n'a pas atteint son objectif essentiel. Nous n'aurons aucune responsabilité pour tout échec ou retard dû à des questions indépendantes de notre volonté raisonnable.
 
-[P. Libération et indemnisation](#p-release-and-indemnification)
+[P. Libération et indemnisation](#o-limitation-of-liability)
 ----------
 
 **Version courte :** *Vous êtes entièrement responsable de votre utilisation du service. Si vous blessez quelqu’un d’autre ou entrez en conflit avec quelqu’un d’autre, nous ne serons pas impliqués*.
@@ -379,7 +379,7 @@ Si vous avez un litige avec un ou plusieurs utilisateurs, vous acceptez de libé
 
 Vous acceptez de nous indemniser, de nous défendre et de nous tenir indemnes de toute réclamation, responsabilité et dépense, y compris les honoraires d'avocat, découlant de votre utilisation du site Web et du service, y compris, mais sans s'y limiter, votre violation du présent Accord, à condition que GitHub (1) vous informe rapidement par écrit de la réclamation, de la demande, de la poursuite ou de la procédure ; (2) vous donne le contrôle exclusif de la défense et du règlement de la réclamation, demande, poursuite ou procédure (à condition que vous ne puissiez régler aucune réclamation, demande, poursuite ou procédure à moins que le règlement libère inconditionnellement GitHub de toute responsabilité) ; et (3) vous fournit toute l'assistance raisonnable, à vos frais.
 
-[Q. Modifications des présentes Conditions](#q-changes-to-these-terms)
+[Q. Modifications des présentes Conditions](#p-release-and-indemnification)
 ----------
 
 **Version courte :** *Nous voulons que nos utilisateurs soient informés des changements importants apportés à nos conditions, mais certains changements ne sont pas si importants. Nous ne voulons pas vous déranger chaque fois que nous corrigeons une faute de frappe. Par conséquent, bien que nous puissions modifier le présent accord à tout moment, nous informerons les utilisateurs de toute modification importante et vous donnerons le temps de vous y adapter.*
@@ -388,30 +388,30 @@ Nous nous réservons le droit, à notre seule discrétion, de modifier ces condi
 
 Nous nous réservons le droit, à tout moment et de temps à autre, de modifier ou d'interrompre, temporairement ou définitivement, le site Web (ou toute partie de celui-ci) avec ou sans préavis.
 
-[R. Dispositions diverses](#r-miscellaneous)
+[R. Dispositions diverses](#q-changes-to-these-terms)
 ----------
 
-### [1. Droit applicable](#1-governing-law) ###
+### [1. Droit applicable](#r-miscellaneous) ###
 
 Sauf dans la mesure où la loi applicable en dispose autrement, le présent accord entre vous et GitHub et tout accès ou utilisation du site Web ou du service sont régis par les lois fédérales des États-Unis d'Amérique et les lois de l'État de Californie, sans égard aux dispositions relatives aux conflits de lois. Vous et GitHub acceptez de vous soumettre à la juridiction et au lieu exclusifs des tribunaux situés dans la ville et le comté de San Francisco, en Californie.
 
-### [2. Incessibilité](#2-non-assignability) ###
+### [2. Incessibilité](#1-governing-law) ###
 
 GitHub peut céder ou déléguer les présentes Conditions Générales d’Utilisation et/ou la [Déclaration de Confidentialité GitHub](https://github.com/site/privacy), en tout ou en partie, à toute personne ou entité à tout moment avec ou sans votre consentement, y compris l’octroi de licence décrit dans la Section D.4. Vous ne pouvez céder ou déléguer aucun droit ou obligation en vertu des Conditions d'utilisation ou de la Déclaration de confidentialité sans notre consentement écrit préalable, et toute cession et délégation non autorisées de votre part sont nulles.
 
-### [3. Titres et résumés des sections](#3-section-headings-and-summaries) ###
+### [3. Titres et résumés des sections](#2-non-assignability) ###
 
 Tout au long de cet accord, chaque section comprend des titres et de brefs résumés des termes et conditions suivants. Ces titres de section et ces brefs résumés ne sont pas juridiquement contraignants.
 
-### [4. Divisibilité, Absence de renonciation et Maintien en vigueur des Clauses](#4-severability-no-waiver-and-survival) ###
+### [4. Divisibilité, Absence de renonciation et Maintien en vigueur des Clauses](#3-section-headings-and-summaries) ###
 
 Si une partie de cet accord est jugée invalide ou inapplicable, cette partie de l'accord sera interprétée pour refléter l'intention initiale des parties. Les parties restantes resteront en vigueur et de plein effet. Tout manquement de la part de GitHub à appliquer une disposition du présent Accord ne sera pas considéré comme une renonciation à notre droit d'appliquer cette disposition. Nos droits en vertu du présent Accord survivront à toute résiliation du présent Accord.
 
-### [5. Modifications ; Intégralité de l’Accord](#5-amendments-complete-agreement) ###
+### [5. Modifications ; Intégralité de l’Accord](#4-severability-no-waiver-and-survival) ###
 
 Le présent Accord ne peut être modifié que par un amendement écrit signé par un représentant autorisé de GitHub, ou par la publication par GitHub d’une version révisée conformément à la [Section Q. Modifications des présentes Conditions](#q-changes-to-these-terms). Ces conditions d'utilisation, ainsi que la déclaration de confidentialité de GitHub, représentent la déclaration complète et exclusive de l'accord entre vous et nous. Le présent Accord remplace toute proposition ou accord préalable oral ou écrit, et toute autre communication entre vous et GitHub concernant l'objet de ces conditions, y compris tout accord de confidentialité ou de non-divulgation.
 
-### [6. Questions](#6-questions) ###
+### [6. Questions](#5-amendments-complete-agreement) ###
 
 Des questions sur les conditions d'utilisation ? Contactez-nous via le [portail de support GitHub](https://support.github.com/).
 

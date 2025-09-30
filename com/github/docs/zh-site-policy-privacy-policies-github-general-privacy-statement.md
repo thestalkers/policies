@@ -183,7 +183,7 @@ GitHub 负责处理根据数据隐私框架 (DPF) 原则接收的个人数据，
 
 如果您没有收到我们对您的 DPF 原则相关投诉的及时确认，或者如果我们对您的 DPF 原则相关投诉的处理没有令您满意，请访问 [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html) 了解更多信息或提出投诉。 国际争议解决中心的服务免费提供。
 
-在某些情况下，个人有可能对任何其他 DPF 机制未解决的关于 DPF 合规性的投诉援引有约束力的仲裁。 有关其他信息，请访问 <https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2>。
+在某些情况下，个人有可能对任何其他 DPF 机制未解决的关于 DPF 合规性的投诉援引有约束力的仲裁。 有关其他信息，请访问 <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>。
 
 ### [政府强制措施](#government-enforcement) ###
 
