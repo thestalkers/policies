@@ -31,6 +31,9 @@ GitHub 条件
 [GitHub プレリリース ライセンス条項](/ja/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
+[GitHub DPA-Covered Previews](/ja/site-policy/github-terms/github-dpa-previews)
+----------
+
 [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 

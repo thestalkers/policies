@@ -31,6 +31,9 @@ GitHub 약관
 [GitHub 시험판 사용 조건](/ko/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
+[GitHub DPA-Covered Previews](/ko/site-policy/github-terms/github-dpa-previews)
+----------
+
 [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 

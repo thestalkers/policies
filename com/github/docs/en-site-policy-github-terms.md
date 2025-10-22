@@ -19,6 +19,7 @@ GitHub Terms
 * [GitHub Community Guidelines](/en/site-policy/github-terms/github-community-guidelines)
 * [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
 * [GitHub Pre-release License Terms](/en/site-policy/github-terms/github-pre-release-license-terms)
+* [GitHub DPA-Covered Previews](/en/site-policy/github-terms/github-dpa-previews)
 * [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
 * [GitHub Registered Developer Agreement](/en/site-policy/github-terms/github-registered-developer-agreement)
 * [GitHub Marketplace Terms of Service](/en/site-policy/github-terms/github-marketplace-terms-of-service)
