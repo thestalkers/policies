@@ -23,7 +23,7 @@ Sie dürfen keine Inhalte veröffentlichen, die ein verzerrtes Bild der Realitä
 
 Wir fördern die aktive Teilnahme am Ausdruck von Ideen, Perspektiven und Erfahrungen und sind möglicherweise nicht in der Lage, persönliche Berichte oder Beobachtungen zu bestreiten. Wir erlauben grundsätzlich Parodien und Satire, solange unsere [Acceptable Use Policy](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) dabei eingehalten wird. Wir halten den Kontext für wichtig, wenn es darum geht, wie Informationen aufgenommen und verstanden werden. Bei der Überprüfung von Inhalten gemäß dieser Richtlinie berücksichtigt GitHub die Auswirkungen verschiedener Faktoren, die bei der Orientierung des Betrachters hilfreich sein können, z Informationen geteilt werden.
 
-[Synthetische und manipulierte Medientools](#synthetic--manipulated-media-tools)
+[Synthetische und manipulierte Medientools](#synthetische-und-manipulierte-medientools)
 ----------
 
 GitHub lässt keine Projekte zu, die den Einsatz synthetischer und manipulierter Medien zur Erstellung von nicht einvernehmlichen intimen Bildern oder Inhalten in irgendeiner Weise unterstützen, fördern, nahelegen oder darauf ausgelegt sind, wenn diese nach dieser Richtlinie eine Fehlinformation oder Desinformation darstellen würden.

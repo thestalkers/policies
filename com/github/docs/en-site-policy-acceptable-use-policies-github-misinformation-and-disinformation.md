@@ -9,7 +9,7 @@ GitHub Misinformation and Disinformation - GitHub Docs
 
 * [Site policy](/en/site-policy)/
 * [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)/
-* [Misinformation and Disinformation](/en/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Disinformation Policy](/en/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 GitHub Misinformation and Disinformation
 ==========
@@ -22,10 +22,5 @@ You may not post content that presents a distorted view of reality, whether it i
 * Unsubstantiated claims that could promote hate or targeted harassment of specific groups of people
 
 We encourage active participation in the expression of ideas, perspectives, and experiences and may not be in a position to dispute personal accounts or observations. We generally allow parody and satire that is in line with our [Acceptable Use Policies](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies), and we consider context to be important in how information is received and understood. When reviewing content under this policy, GitHub will consider the impact of various factors that may help to orient the viewer, such as whether the content has been provided with clear disclaimers, citations to credible sources, or includes other details that clarify the accuracy of the information being shared.
-
-[Synthetic & Manipulated Media Tools](#synthetic--manipulated-media-tools)
-----------
-
-GitHub does not allow any projects that are designed for, encourage, promote, support, or suggest in any way the use of synthetic or manipulated media for the creation of non-consensual intimate imagery or any content that would constitute misinformation or disinformation under this policy.
 
 {"resolvedServerColorMode":"day"}

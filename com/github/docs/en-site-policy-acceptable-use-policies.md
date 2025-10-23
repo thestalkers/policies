@@ -23,6 +23,10 @@ Acceptable Use Policies
 * [GitHub Misinformation and Disinformation](/en/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 * [GitHub Sexually Obscene Content](/en/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 * [GitHub Threats of Violence and Gratuitously Violent Content](/en/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+* [GitHub Terrorism and Violent Extremism](/en/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+* [GitHub Child Sexual Exploitation or Abuse](/en/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+* [GitHub Non-Consensual Intimate Imagery](/en/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+* [GitHub Synthetic Media and AI Tools](/en/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 * [GitHub Appeal and Reinstatement](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 {"resolvedServerColorMode":"day"}
