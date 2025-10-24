@@ -23,7 +23,7 @@ Você não pode postar conteúdo que apresente uma visão distorcida da realidad
 
 Incentivamos a participação ativa na expressão de ideias, perspectivas e experiências e podemos não estar em posição de contestar relatos ou observações pessoais. Geralmente permitimos paródias e sátiras que estejam de acordo com nossas [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) e consideramos que o contexto é importante na forma como a informação é recebida e compreendida. Ao analisar o conteúdo sob esta política, o GitHub considerará o impacto de vários fatores que podem ajudar a orientar o espectador, como se o conteúdo foi fornecido com isenções de responsabilidade claras, citações a fontes confiáveis ou inclui outros detalhes que esclarecem a precisão do informações que estão sendo compartilhadas.
 
-[Ferramentas de mídia sintéticas e manipuladas](#synthetic--manipulated-media-tools)
+[Ferramentas de mídia sintéticas e manipuladas](#ferramentas-de-mídia-sintéticas-e-manipuladas)
 ----------
 
 O GitHub não permite projetos que sejam desenvolvidos para, incentivem, promovam, apoiem ou sugiram de qualquer forma o uso de mídia sintética ou manipulada para a criação de imagens íntimas não consensuais ou qualquer conteúdo que constitua informação falsa ou desinformação sob esta política.
