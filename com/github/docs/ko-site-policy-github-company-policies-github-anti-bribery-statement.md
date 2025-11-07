@@ -1,4 +1,4 @@
-GitHub 뇌물 방지 방침 - GitHub Docs
+GitHub 뇌물 방지 방침 - GitHub 문서
 
 [Skip to main content](#main-content)
 

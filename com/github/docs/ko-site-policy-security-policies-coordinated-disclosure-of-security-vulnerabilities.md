@@ -1,4 +1,4 @@
-조정된 보안 취약점 공개 - GitHub Docs
+조정된 보안 취약점 공개 - GitHub 문서
 
 [Skip to main content](#main-content)
 

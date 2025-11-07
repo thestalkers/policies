@@ -1,4 +1,4 @@
-콘텐츠 제거 요청 제출 - GitHub Docs
+콘텐츠 제거 요청 제출 - GitHub 문서
 
 [Skip to main content](#main-content)
 

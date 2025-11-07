@@ -1,4 +1,4 @@
-GitHub と貿易管理 - GitHub Docs
+GitHub と貿易管理 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

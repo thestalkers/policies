@@ -1,4 +1,4 @@
-GitHub Codespaces 개인정보취급방침 - GitHub Docs
+GitHub Codespaces 개인정보취급방침 - GitHub 문서
 
 [Skip to main content](#main-content)
 

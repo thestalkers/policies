@@ -2,7 +2,7 @@ GitHub 上的错误信息和虚假信息 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[主](/zh)
 
 [Site policy](/zh/site-policy)
 ----------

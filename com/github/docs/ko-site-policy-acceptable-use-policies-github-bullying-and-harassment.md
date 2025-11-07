@@ -1,4 +1,4 @@
-GitHub 따돌림 및 괴롭힘 방지 정책 - GitHub Docs
+GitHub 따돌림 및 괴롭힘 방지 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

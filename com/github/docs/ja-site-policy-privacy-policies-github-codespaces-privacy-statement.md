@@ -1,4 +1,4 @@
-GitHub Codespaces プライバシーに関する声明 - GitHub Docs
+GitHub Codespaces プライバシーに関する声明 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

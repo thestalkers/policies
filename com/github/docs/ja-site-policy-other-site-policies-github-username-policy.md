@@ -1,4 +1,4 @@
-GitHub のユーザー名ポリシー - GitHub Docs
+GitHub のユーザー名ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

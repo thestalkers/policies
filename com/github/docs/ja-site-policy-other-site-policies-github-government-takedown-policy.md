@@ -1,4 +1,4 @@
-GitHub の行政機関による削除のポリシー - GitHub Docs
+GitHub の行政機関による削除のポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

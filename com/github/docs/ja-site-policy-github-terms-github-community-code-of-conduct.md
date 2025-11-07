@@ -1,4 +1,4 @@
-GitHub コミュニティの行動規範 - GitHub Docs
+GitHub コミュニティの行動規範 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

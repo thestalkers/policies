@@ -1,4 +1,4 @@
-다른 사이트 정책 - GitHub Docs
+다른 사이트 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

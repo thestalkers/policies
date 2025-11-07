@@ -1,4 +1,4 @@
-追加の製品および機能に適用される GitHub 条件 - GitHub Docs
+追加の製品および機能に適用される GitHub 条件 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

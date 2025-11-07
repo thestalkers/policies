@@ -1,4 +1,4 @@
-GitHub GPL 협력 약정 - GitHub Docs
+GitHub GPL 협력 약정 - GitHub 문서
 
 [Skip to main content](#main-content)
 

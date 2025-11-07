@@ -1,4 +1,4 @@
-GitHub 추가 제품 및 기능 약관 - GitHub Docs
+GitHub 추가 제품 및 기능 약관 - GitHub 문서
 
 [Skip to main content](#main-content)
 

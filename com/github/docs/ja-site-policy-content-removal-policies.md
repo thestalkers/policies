@@ -1,4 +1,4 @@
-コンテンツ削除ポリシー - GitHub Docs
+コンテンツ削除ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

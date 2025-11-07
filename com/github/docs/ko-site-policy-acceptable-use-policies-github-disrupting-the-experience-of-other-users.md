@@ -1,4 +1,4 @@
-다른 사용자의 경험을 방해하는 GitHub - GitHub Docs
+다른 사용자의 경험을 방해하는 GitHub - GitHub 문서
 
 [Skip to main content](#main-content)
 

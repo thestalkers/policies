@@ -1,4 +1,4 @@
-GitHub 応募者プライバシー ポリシー - GitHub Docs
+GitHub 応募者プライバシー ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub와 무역 통제 - GitHub Docs
+GitHub와 무역 통제 - GitHub 문서
 
 [Skip to main content](#main-content)
 

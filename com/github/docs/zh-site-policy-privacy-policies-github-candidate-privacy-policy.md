@@ -2,7 +2,7 @@ GitHub 求职者隐私政策 - GitHub 文档
 
 [Skip to main content](#main-content)
 
-[主页](/zh)
+[主](/zh)
 
 [Site policy](/zh/site-policy)
 ----------

@@ -1,4 +1,4 @@
-GitHub のサービス使用条件 - GitHub Docs
+GitHub のサービス使用条件 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

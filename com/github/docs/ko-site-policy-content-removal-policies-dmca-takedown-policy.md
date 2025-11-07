@@ -1,4 +1,4 @@
-DMCA 게시 중단 정책 - GitHub Docs
+DMCA 게시 중단 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

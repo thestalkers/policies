@@ -1,4 +1,4 @@
-GitHub Marketplace 開発者契約 - GitHub Docs
+GitHub Marketplace 開発者契約 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

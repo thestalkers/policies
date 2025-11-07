@@ -1,4 +1,4 @@
-GitHub イベント条件 - GitHub Docs
+GitHub イベント条件 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub Docs
+GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub 문서
 
 [Skip to main content](#main-content)
 

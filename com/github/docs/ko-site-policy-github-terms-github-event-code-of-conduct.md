@@ -1,4 +1,4 @@
-GitHub 이벤트 준수 사항 - GitHub Docs
+GitHub 이벤트 준수 사항 - GitHub 문서
 
 [Skip to main content](#main-content)
 

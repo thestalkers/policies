@@ -1,4 +1,4 @@
-현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서 - GitHub Docs
+현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서 - GitHub 문서
 
 [Skip to main content](#main-content)
 

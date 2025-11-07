@@ -1,4 +1,4 @@
-Divulgação coordenada de vulnerabilidades de segurança - GitHub Docs
+Divulgação coordenada de vulnerabilidades de segurança - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

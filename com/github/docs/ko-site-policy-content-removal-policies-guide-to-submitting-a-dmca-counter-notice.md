@@ -1,4 +1,4 @@
-DMCA 반론 통지 제출 가이드 - GitHub Docs
+DMCA 반론 통지 제출 가이드 - GitHub 문서
 
 [Skip to main content](#main-content)
 

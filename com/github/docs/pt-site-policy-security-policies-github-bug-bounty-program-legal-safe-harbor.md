@@ -1,4 +1,4 @@
-GitHub Bug Bounty Program Legal Safe Harbor - GitHub Docs
+GitHub Bug Bounty Program Legal Safe Harbor - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub 일반 개인정보처리방침 - GitHub Docs
+GitHub 일반 개인정보처리방침 - GitHub 문서
 
 [Skip to main content](#main-content)
 

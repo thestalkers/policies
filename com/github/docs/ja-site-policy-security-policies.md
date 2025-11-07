@@ -1,4 +1,4 @@
-セキュリティ ポリシー - GitHub Docs
+セキュリティ ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

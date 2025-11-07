@@ -1,4 +1,4 @@
-GitHub Sponsors 추가 약관 - GitHub Docs
+GitHub Sponsors 추가 약관 - GitHub 문서
 
 [Skip to main content](#main-content)
 

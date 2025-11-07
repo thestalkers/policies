@@ -1,4 +1,4 @@
-GitHub の個人情報削除ポリシー - GitHub Docs
+GitHub の個人情報削除ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

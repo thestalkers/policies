@@ -1,4 +1,4 @@
-GitHub のいじめまたは嫌がらせ - GitHub Docs
+GitHub のいじめまたは嫌がらせ - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

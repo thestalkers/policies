@@ -1,4 +1,4 @@
-보안 정책 - GitHub Docs
+보안 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

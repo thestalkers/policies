@@ -1,4 +1,4 @@
-GitHub 가장 행위 금지 방침 - GitHub Docs
+GitHub 가장 행위 금지 방침 - GitHub 문서
 
 [Skip to main content](#main-content)
 

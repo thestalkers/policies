@@ -1,4 +1,4 @@
-GitHub 등록 개발자 계약 - GitHub Docs
+GitHub 등록 개발자 계약 - GitHub 문서
 
 [Skip to main content](#main-content)
 

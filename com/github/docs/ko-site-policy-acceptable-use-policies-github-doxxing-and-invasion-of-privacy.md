@@ -1,4 +1,4 @@
-GitHub 신상 털기 및 프라이버시 침해 - GitHub Docs
+GitHub 신상 털기 및 프라이버시 침해 - GitHub 문서
 
 [Skip to main content](#main-content)
 

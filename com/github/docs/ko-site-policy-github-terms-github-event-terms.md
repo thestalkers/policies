@@ -1,4 +1,4 @@
-GitHub 이벤트 계약 - GitHub Docs
+GitHub 이벤트 계약 - GitHub 문서
 
 [Skip to main content](#main-content)
 

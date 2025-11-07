@@ -1,4 +1,4 @@
-사이트 정책 설명서 - GitHub Docs
+사이트 정책 설명서 - GitHub 문서
 
 [Skip to main content](#main-content)
 

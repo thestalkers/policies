@@ -1,4 +1,4 @@
-GitHub 쿠키 - GitHub Docs
+GitHub 쿠키 - GitHub 문서
 
 [Skip to main content](#main-content)
 

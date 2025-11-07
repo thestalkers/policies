@@ -1,4 +1,4 @@
-Termos do Programa de Pesquisa GitHub - GitHub Docs
+Termos do Programa de Pesquisa GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Política de remoção de DMCA - GitHub Docs
+Política de remoção de DMCA - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

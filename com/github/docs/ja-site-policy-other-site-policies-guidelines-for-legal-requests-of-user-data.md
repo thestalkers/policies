@@ -1,4 +1,4 @@
-ユーザー データの司法手続き上の要求に関するガイドライン - GitHub Docs
+ユーザー データの司法手続き上の要求に関するガイドライン - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

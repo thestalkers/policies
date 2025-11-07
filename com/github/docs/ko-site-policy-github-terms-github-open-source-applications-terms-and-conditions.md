@@ -1,4 +1,4 @@
-GitHub 오픈 소스 애플리케이션 계약조건 - GitHub Docs
+GitHub 오픈 소스 애플리케이션 계약조건 - GitHub 문서
 
 [Skip to main content](#main-content)
 

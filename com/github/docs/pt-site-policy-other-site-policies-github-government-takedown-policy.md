@@ -1,4 +1,4 @@
-Política de remoção governamental do GitHub - GitHub Docs
+Política de remoção governamental do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

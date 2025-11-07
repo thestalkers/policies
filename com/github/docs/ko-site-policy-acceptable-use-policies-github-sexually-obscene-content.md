@@ -1,4 +1,4 @@
-GitHub 외설적 콘텐츠 - GitHub Docs
+GitHub 외설적 콘텐츠 - GitHub 문서
 
 [Skip to main content](#main-content)
 

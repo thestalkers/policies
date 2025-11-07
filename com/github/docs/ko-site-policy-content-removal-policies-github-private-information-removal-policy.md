@@ -1,4 +1,4 @@
-GitHub 개인 정보 제거 정책 - GitHub Docs
+GitHub 개인 정보 제거 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

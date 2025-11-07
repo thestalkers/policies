@@ -1,4 +1,4 @@
-GitHub 선물 및 접대 정책 - GitHub Docs
+GitHub 선물 및 접대 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

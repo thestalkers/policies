@@ -1,4 +1,4 @@
-GitHub バグ報奨金プログラムの法的免責事項 - GitHub Docs
+GitHub バグ報奨金プログラムの法的免責事項 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

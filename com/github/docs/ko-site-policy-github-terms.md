@@ -1,4 +1,4 @@
-GitHub 약관 - GitHub Docs
+GitHub 약관 - GitHub 문서
 
 [Skip to main content](#main-content)
 

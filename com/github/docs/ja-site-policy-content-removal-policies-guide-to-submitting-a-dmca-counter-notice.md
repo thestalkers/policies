@@ -1,4 +1,4 @@
-DMCA 反論通知提出ガイド - GitHub Docs
+DMCA 反論通知提出ガイド - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub の誤報と偽情報 - GitHub Docs
+GitHub の誤報と偽情報 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub でのドキシングとプライバシーの侵害 - GitHub Docs
+GitHub でのドキシングとプライバシーの侵害 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

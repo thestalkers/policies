@@ -1,4 +1,4 @@
-サイト ポリシーのドキュメント - GitHub Docs
+サイト ポリシーのドキュメント - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

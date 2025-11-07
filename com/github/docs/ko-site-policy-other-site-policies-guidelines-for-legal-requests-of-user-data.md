@@ -1,4 +1,4 @@
-법적 사용자 데이터 요청을 위한 가이드라인 - GitHub Docs
+법적 사용자 데이터 요청을 위한 가이드라인 - GitHub 문서
 
 [Skip to main content](#main-content)
 

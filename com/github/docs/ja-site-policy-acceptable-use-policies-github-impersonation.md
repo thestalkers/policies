@@ -1,4 +1,4 @@
-GitHub でのなりすまし - GitHub Docs
+GitHub でのなりすまし - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 
