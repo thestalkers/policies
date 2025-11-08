@@ -1,4 +1,4 @@
-GitHub 이의 제기 및 복원 - GitHub Docs
+GitHub 이의 제기 및 복원 - GitHub 문서
 
 [Skip to main content](#main-content)
 

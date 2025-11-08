@@ -1,4 +1,4 @@
-GitHub ロゴのポリシー - GitHub Docs
+GitHub ロゴのポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

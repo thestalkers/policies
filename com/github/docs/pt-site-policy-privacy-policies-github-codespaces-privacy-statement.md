@@ -1,4 +1,4 @@
-Declaração de privacidade de codespaces do GitHub - GitHub Docs
+Declaração de privacidade de codespaces do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

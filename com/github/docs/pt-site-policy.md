@@ -1,4 +1,4 @@
-Documentação da Política do Site - GitHub Docs
+Documentação da Política do Site - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

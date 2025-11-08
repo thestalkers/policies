@@ -1,4 +1,4 @@
-GitHub の企業向けサービス使用条件 - GitHub Docs
+GitHub の企業向けサービス使用条件 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

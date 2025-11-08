@@ -1,4 +1,4 @@
-GitHub 잘못된 정보 및 허위 정보 방침 - GitHub Docs
+GitHub 잘못된 정보 및 허위 정보 방침 - GitHub 문서
 
 [Skip to main content](#main-content)
 

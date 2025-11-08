@@ -1,4 +1,4 @@
-사용 제한 정책 - GitHub Docs
+사용 제한 정책 - GitHub 문서
 
 [Skip to main content](#main-content)
 

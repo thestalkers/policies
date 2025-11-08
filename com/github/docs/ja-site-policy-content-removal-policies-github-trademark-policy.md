@@ -1,4 +1,4 @@
-GitHub の商標ポリシー - GitHub Docs
+GitHub の商標ポリシー - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

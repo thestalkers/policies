@@ -1,4 +1,4 @@
-GitHub 利用規約 - GitHub Docs
+GitHub 利用規約 - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 

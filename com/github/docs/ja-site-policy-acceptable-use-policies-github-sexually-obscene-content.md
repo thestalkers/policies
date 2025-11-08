@@ -1,4 +1,4 @@
-GitHub のわいせつなコンテンツ - GitHub Docs
+GitHub のわいせつなコンテンツ - GitHub ドキュメント
 
 [Skip to main content](#main-content)
 
