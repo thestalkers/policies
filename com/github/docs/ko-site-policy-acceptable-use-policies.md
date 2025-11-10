@@ -43,16 +43,16 @@
 [GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub Terrorism and Violent Extremism](/ko/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+[GitHub 테러 및 폭력적인 극단주의](/ko/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 ----------
 
-[GitHub Child Sexual Exploitation or Abuse](/ko/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+[GitHub 아동 성적 착취 또는 학대](/ko/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
 ----------
 
-[GitHub Non-Consensual Intimate Imagery](/ko/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+[GitHub 동의 없는 은밀한 성적 이미지](/ko/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 ----------
 
-[GitHub Synthetic Media and AI Tools](/ko/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
+[GitHub 가상 미디어 및 AI 도구](/ko/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
 [GitHub 이의 제기 및 복원](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

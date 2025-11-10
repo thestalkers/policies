@@ -43,16 +43,16 @@
 [GitHub 上的暴力威胁和无端暴力内容](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub Terrorism and Violent Extremism](/zh/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+[GitHub 恐怖主义和暴力极端主义](/zh/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 ----------
 
-[GitHub Child Sexual Exploitation or Abuse](/zh/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+[GitHub 儿童性剥削或虐待](/zh/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
 ----------
 
-[GitHub Non-Consensual Intimate Imagery](/zh/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+[GitHub 非自愿私密图像](/zh/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 ----------
 
-[GitHub Synthetic Media and AI Tools](/zh/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
+[GitHub 合成媒体和 AI 工具](/zh/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
 [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

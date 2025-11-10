@@ -31,7 +31,7 @@
 [Условия лицензии GitHub Pre-release](/ru/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub DPA-Covered Previews](/ru/site-policy/github-terms/github-dpa-previews)
+[Предварительные версии на GitHub, на которые распространяется DPA](/ru/site-policy/github-terms/github-dpa-previews)
 ----------
 
 [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)

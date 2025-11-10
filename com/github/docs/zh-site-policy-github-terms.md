@@ -31,7 +31,7 @@ GitHub 条款
 [GitHub 预发行许可条款](/zh/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub DPA-Covered Previews](/zh/site-policy/github-terms/github-dpa-previews)
+[GitHub DPA 约束的预览版](/zh/site-policy/github-terms/github-dpa-previews)
 ----------
 
 [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
