@@ -43,16 +43,16 @@
 [Угрозы насилия и неоправданно жестокое содержимое на GitHub](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub Terrorism and Violent Extremism](/ru/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+[Терроризм и воинствующий экстремизм на GitHub](/ru/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 ----------
 
-[GitHub Child Sexual Exploitation or Abuse](/ru/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+[Сексуальная эксплуатация детей или насилие над детьми на GitHub](/ru/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
 ----------
 
-[GitHub Non-Consensual Intimate Imagery](/ru/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+[Создание и распространение на GitHub интимных изображений без согласия](/ru/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 ----------
 
-[GitHub Synthetic Media and AI Tools](/ru/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
+[Синтетические мультимедиа и средства ИИ на GitHub](/ru/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
 [Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

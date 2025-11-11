@@ -43,16 +43,16 @@
 [GitHub の暴力の脅威と根拠のない暴力的コンテンツ](/ja/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub Terrorism and Violent Extremism](/ja/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+[GitHub でのテロおよび暴力的な過激主義](/ja/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 ----------
 
-[GitHub Child Sexual Exploitation or Abuse](/ja/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+[GitHub での児童の性的搾取または虐待](/ja/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
 ----------
 
-[GitHub Non-Consensual Intimate Imagery](/ja/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+[GitHub における同意のない親密な写真](/ja/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 ----------
 
-[GitHub Synthetic Media and AI Tools](/ja/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
+[GitHub の合成メディアと AI ツール](/ja/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
 [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
