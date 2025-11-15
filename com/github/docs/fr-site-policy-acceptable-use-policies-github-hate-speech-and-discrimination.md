@@ -17,7 +17,7 @@ GitHub Discours de haine et discrimination
 GitHub ne tolère pas les discours qui attaquent ou encouragent la haine envers un individu ou un groupe de personnes sur la base de qui ils sont, y compris l'âge, la taille, la capacité, l'origine ethnique, l'identité et l'expression de genre, le niveau d'expérience, la nationalité, l'apparence personnelle, la race, la religion, l'identité sexuelle ou l'orientation sexuelle. Cela inclut :
 
 * Se moquer, attaquer ou exclure une personne ou un groupe en raison de ses croyances ou des caractéristiques énumérées ci-dessus
-* Afficher une affiliation ou une identification claire avec des organisations terroristes ou extrémistes violentes connues
+* Afficher une affiliation ou une identification claire avec des [organisations terroristes ou extrémistes violentes connues](/fr/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 * Soutenir ou promouvoir des groupes haineux ou des théories du complot fondées sur la haine
 * Partager des symboles ou des images synonymes de haine
 * Utiliser des stéréotypes nuisibles, des insultes ou un discours déshumanisant

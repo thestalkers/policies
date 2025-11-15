@@ -31,7 +31,7 @@ Termos do GitHub
 [Termos de licença de pré-lançamento do GitHub](/pt/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub DPA-Covered Previews](/pt/site-policy/github-terms/github-dpa-previews)
+[Versões prévias cobertas pelo DPA (Contrato de Proteção de Dados) do GitHub](/pt/site-policy/github-terms/github-dpa-previews)
 ----------
 
 [Termos adicionais dos patrocinadores do GitHub](/pt/site-policy/github-terms/github-sponsors-additional-terms)

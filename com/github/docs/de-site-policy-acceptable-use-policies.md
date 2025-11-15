@@ -43,16 +43,16 @@ Richtlinien zur akzeptablen Nutzung
 [GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 ----------
 
-[GitHub Terrorism and Violent Extremism](/de/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
+[Terrorismus und gewalttätiger Extremismus auf GitHub](/de/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism)
 ----------
 
-[GitHub Child Sexual Exploitation or Abuse](/de/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
+[Sexuelle Ausbeutung oder Missbrauch von Kindern auf GitHub](/de/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)
 ----------
 
-[GitHub Non-Consensual Intimate Imagery](/de/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
+[Nicht einvernehmliche intime Bilder auf GitHub](/de/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 ----------
 
-[GitHub Synthetic Media and AI Tools](/de/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
+[Synthetische Medien und KI-Tools auf GitHub](/de/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
 [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)

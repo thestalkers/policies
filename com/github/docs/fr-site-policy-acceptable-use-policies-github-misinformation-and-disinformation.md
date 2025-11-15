@@ -9,7 +9,7 @@ Désinformation et désinformation GitHub - Documentation GitHub
 
 * [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Mésinformation et désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+* [Stratégie de désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 Désinformation et désinformation GitHub
 ==========
@@ -22,10 +22,5 @@ Vous ne pouvez pas publier de contenu qui présente une vision déformée de la 
 * Allégations non fondées susceptibles de promouvoir la haine ou le harcèlement ciblé de groupes de personnes spécifiques
 
 Nous encourageons la participation active à l'expression d'idées, de points de vue et d'expériences et ne sommes peut-être pas en mesure de contester des récits ou des observations personnelles. Nous autorisons généralement la parodie et la satire qui sont conformes à nos [règles de bon usage](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies) et nous considérons que le contexte est important dans la façon dont l'information est reçue et comprise. Lors de l'examen du contenu dans le cadre de cette politique, GitHub prendra en compte l'impact de divers facteurs susceptibles d'aider à orienter le spectateur, par exemple si le contenu a été fourni avec des clauses de non-responsabilité claires, des citations de sources crédibles ou inclut d'autres détails qui clarifient l'exactitude du informations partagées.
-
-[Outils médiatiques synthétiques et manipulés](#outils-médiatiques-synthétiques-et-manipulés)
-----------
-
-GitHub n'autorise aucun projet conçu pour, encourageant, promouvant, soutenant ou suggérant de quelque manière que ce soit l'utilisation de médias synthétiques ou manipulés pour la création d'images intimes non consensuelles ou tout contenu qui constituerait de la désinformation ou de la mésinformation en vertu de cette politique.
 
 {"resolvedServerColorMode":"day"}

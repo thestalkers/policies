@@ -19,9 +19,9 @@ GitHub 쿠키
 
 GitHub는 사용자의 데이터를 어떻게 사용하고, 어떻게 수집하며, 누구와 공유하는지에 관해 매우 높은 투명성을 제공합니다. 이를 위해 쿠키 사용 방법을 자세히 설명한 이 페이지를 제공합니다.
 
-GitHub는 훌륭한 사용자 환경을 제공하기 위하여 GitHub 웹 사이트를 제공 및 보호하고 GitHub 웹 사이트의 사용 현황을 분석하는 데 쿠키를 사용합니다. 쿠키에 대한 자세한 내용과 쿠키를 사용하는 방법 및 이유, 쿠키 관련 개인 데이터에 대한 자세한 내용을 보려면[개인정보처리방침](/ko/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies)을 살펴보십시오. [이 지침](/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages)에 따라 언제든지 필수가 아닌 쿠키에 대한 기본 설정을 변경할 수 있습니다.
+GitHub는 훌륭한 사용자 환경을 제공하기 위하여 GitHub 웹 사이트를 제공 및 보호하고 GitHub 웹 사이트의 사용 현황을 분석하는 데 쿠키를 사용합니다. 쿠키에 대한 자세한 내용과 쿠키를 사용하는 방법 및 이유, 쿠키 관련 개인 데이터에 대한 자세한 내용을 보려면 [개인정보처리방침](/ko/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies)을 살펴보십시오. [이 지침](/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages)에 따라 언제든지 필수가 아닌 쿠키에 대한 기본 설정을 변경할 수 있습니다.
 
-쿠키의 수와 이름이 바뀔 수 있으므로 아래 표는 수시로 업데이트될 수 있습니다. 이 목록의 업데이트 알림을 받으려면[알림 정보](/ko/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)에 제공된 지침을 따르십시오.
+쿠키의 수와 이름이 바뀔 수 있으므로 아래 표는 수시로 업데이트될 수 있습니다. 이 목록의 업데이트 알림을 받으려면 [알림 정보](/ko/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)에 제공된 지침을 따르십시오.
 
 |                                     쿠키 공급자                                     |                   쿠키 이름                   |                                                                           설명                                                                           |                               만료\*                                |
 |--------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|

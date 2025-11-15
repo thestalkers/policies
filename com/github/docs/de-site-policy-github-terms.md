@@ -31,7 +31,7 @@ GitHub-Bedingungen
 [Lizenzbestimmungen für die Vorabversion von GitHub](/de/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[GitHub DPA-Covered Previews](/de/site-policy/github-terms/github-dpa-previews)
+[Durch DPA abgedeckte Vorschauversionen auf GitHub](/de/site-policy/github-terms/github-dpa-previews)
 ----------
 
 [GitHub sponsert zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)

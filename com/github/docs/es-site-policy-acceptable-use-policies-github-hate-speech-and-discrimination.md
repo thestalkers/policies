@@ -17,7 +17,7 @@ GitHub Discurso de odio y discriminación
 GitHub no tolera el discurso que ataca o promueve el odio hacia un individuo o grupo de personas en función de quiénes son, incluida la edad, el tamaño del cuerpo, la capacidad, el origen étnico, la identidad y expresión de género, el nivel de experiencia, la nacionalidad, la apariencia personal, la raza., religión, identidad sexual u orientación sexual. Esto incluye:
 
 * Burlarse, atacar o excluir a una persona o grupo en función de sus creencias o las características enumeradas anteriormente
-* Mostrar una afiliación o identificación clara con organizaciones terroristas o extremistas violentas conocidas
+* Mostrar una afiliación o identificación clara con [organizaciones terroristas o extremistas violentas](/es/site-policy/acceptable-use-policies/github-terrorism-and-violent-extremism) conocidas
 * Apoyar o promover grupos de odio o teorías de conspiración basadas en el odio
 * Compartir símbolos o imágenes sinónimo de odio
 * Usar estereotipos dañinos, calumnias o lenguaje deshumanizante
