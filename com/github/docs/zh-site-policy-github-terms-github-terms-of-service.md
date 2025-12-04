@@ -75,13 +75,13 @@ GitHub 服务条款
 **短版本：***我们将在整个协议中使用这些基本术语，它们具有特定含义。在我们使用每个术语时，您应该了解我们表达的意思。我们不会对定义进行检验，但它仍然是有用的信息。*
 
 1. “帐户”代表您与 GitHub 之间的法律关系。 “个人帐户”代表个人用户登录和使用服务的授权，并且在 GitHub 上被视为用户的身份。 “组织”是指可能与一个实体或者与一个或多个用户相关的共享工作空间，其中多个用户可以同时跨多个项目进行协作。 个人帐户可以是任意数量组织的成员。
-2. “协议”是一种统称，包括本文档中包含或引用的所有条款、条件、通知（“服务条款”或“条款”）和所有其他操作规则、政策（包括 GitHub 隐私声明，请参阅[github.com/site/privacy](https://github.com/site/privacy))，以及我们可能不时在网站上发布的程序。 我们的大多数站点政策可在[docs.github.com/categories/site-policy](/zh/site-policy) 上查看。
+2. “协议”是一种统称，包括本文档中包含或引用的所有条款、条件、通知（“服务条款”或“条款”）和所有其他操作规则、政策（包括 GitHub 隐私声明，请参阅 [github.com/site/privacy](https://github.com/site/privacy))，以及我们可能不时在网站上发布的程序。 我们的大多数站点政策可在 [docs.github.com/categories/site-policy](/zh/site-policy) 上查看。
 3. “Beta 预览版”是指标识为 Alpha 版、Beta 版、预览版、抢先体验版或评估版，或者具有类似含义的字词或短语的软件、服务或功能。
 4. “内容”是指通过网站提供或显示的内容，包括但不限于通过网站或服务提供的代码、文本、数据、文章、图像、照片、图形、软件、应用程序、程序包、设计、功能及其他材料。 “内容”也包括服务。 “用户生成的内容”是由我们的用户创建或上传的书面或其他形式的内容。 “您的内容”是您创建或拥有的内容。
 5. “GitHub”和“我们”是指 GitHub Inc.，以及我们的附属公司、董事、子公司、合同工、许可人、高管、代理和雇员。
 6. “服务”是指 GitHub 提供的应用程序、软件、产品和服务，包括任何 Beta 预览版。
 7. “用户”、“您”和“您的”是指访问或使用网站或服务、访问或使用帐户的任何部分或指示使用帐户以执行其功能的个人、公司或组织。 用户必须年满 13 周岁。 特殊条款可能适用于企业或政府帐户（请参阅[第 B(5) 节：附加条款](#5-additional-terms)）。
-8. “网站”是指网址为[github.com](https://github.com/) 的 GitHub 网站，以及 GitHub 在该网站上或通过该网站提供的所有内容、服务和产品。 它还指 GitHub 拥有的 github.com 子域，例如[education.github.com](https://education.github.com/) 和[pages.github.com](https://pages.github.com/)。 这些条款还适用于 GitHub 的会议网站（例如[githubuniverse.com](https://githubuniverse.com/)）和产品网站（例如[electronjs.org](https://www.electronjs.org/)）。有时，GitHub 拥有的网站可能会提供其他或附加服务条款。 如果这些附加条款与本协议有冲突，则以适用于相关页面或服务的更具体条款为准。
+8. “网站”是指网址为 [github.com](https://github.com/) 的 GitHub 网站，以及 GitHub 在该网站上或通过该网站提供的所有内容、服务和产品。 它还指 GitHub 拥有的 github.com 子域，例如 [education.github.com](https://education.github.com/) 和 [pages.github.com](https://pages.github.com/)。 这些条款还适用于 GitHub 的会议网站（例如 [githubuniverse.com](https://githubuniverse.com/)）和产品网站（例如 [electronjs.org](https://www.electronjs.org/)）。有时，GitHub 拥有的网站可能会提供其他或附加服务条款。 如果这些附加条款与本协议有冲突，则以适用于相关页面或服务的更具体条款为准。
 
 [B. 帐户条款](#b-account-terms)
 ----------
@@ -115,15 +115,15 @@ GitHub 服务条款
 
 * 您对在您的帐户下发布的所有内容和活动负责（包括拥有帐户的其他人在您的帐户下发布的内容）。
 * 你负责维护你的帐户和密码的安全性。 GitHub 不能也不会对您未能遵守此安全保护义务而造成的任何损失或损害承担责任。
-* 如果您获悉存在通过您的帐户对服务进行未授权的使用或访问（包括未经授权使用您的密码或帐户）时，请通过[GitHub 支持门户](https://support.github.com/)联系我们，以便立即通知 GitHub。
+* 如果您获悉存在通过您的帐户对服务进行未授权的使用或访问（包括未经授权使用您的密码或帐户）时，请通过 [GitHub 支持门户](https://support.github.com/)联系我们，以便立即通知 GitHub。
 
 ### [5.附加条款](#5-additional-terms) ###
 
 在某些情况下，第三方的条款可能适用于您对 GitHub 的使用。 例如，您可能是 GitHub 上具有自有条款或许可协议的组织的成员；您可能下载与 GitHub 相集成的应用程序；或者您可能使用 GitHub 来对另一项服务进行身份验证。 请注意，虽然这些条款是我们与您完整协商达成的，但其他方的条款也会制约他们与您的关系。
 
-如果您是政府用户或者在政府部门访问或使用 GitHub 服务，则[GitHub 服务条款政府修订](/zh/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)适用于您，并且您同意其条款。
+如果您是政府用户或者在政府部门访问或使用 GitHub 服务，则 [GitHub 服务条款政府修订](/zh/site-policy/site-policy-deprecated/amendment-to-github-terms-of-service-applicable-to-us-federal-government-users)适用于您，并且您同意其条款。
 
-如果您注册了 GitHub Enterprise Cloud，则[Enterprise Cloud 附录](/zh/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement)适用于您，并且您同意其条款。
+如果您注册了 GitHub Enterprise Cloud，则 [Enterprise Cloud 附录](/zh/site-policy/site-policy-deprecated/github-enterprise-service-level-agreement)适用于您，并且您同意其条款。
 
 [C. 可接受的使用方式](#c-acceptable-use)
 ----------
@@ -145,7 +145,7 @@ GitHub 服务条款
 
 ### [2.GitHub 可删除内容](#2-github-may-remove-content) ###
 
-我们有权自行决定拒绝或删除我们认为违反了任何法律或[GitHub 条款或政策](/zh/site-policy)的任何用户生成内容。 GitHub Mobile 上显示的用户生成内容可能受移动应用商店附加条款的约束。
+我们有权自行决定拒绝或删除我们认为违反了任何法律或 [GitHub 条款或政策](/zh/site-policy)的任何用户生成内容。 GitHub Mobile 上显示的用户生成内容可能受移动应用商店附加条款的约束。
 
 ### [3.内容所有权、发布权利和许可授予](#3-ownership-of-content-right-to-post-and-license-grants) ###
 
@@ -157,7 +157,7 @@ GitHub 服务条款
 
 我们需要合法的权利来执行托管、发布以及分享您的内容等操作。 您向我们和我们的合法继承者授予存储、归档、解析和显示您的内容以及制作附带副本的权利，但仅限于提供服务所必需的情况下，包括随着时间的推移改进服务。 此许可包括如下权利：将您的内容复制到我们的数据库并制作备份；向您及其他用户显示；解析为搜索索引或在我们的服务器上分析；与其他用户分享；执行（如果您的内容是音乐或视频类内容）等。
 
-此许可不授予 GitHub 出售您的内容的权利。 它也不授予 GitHub 出于提供服务之外的目的分发或使用您的内容的权利，但作为归档内容的权利的一部分，GitHub 可能允许我们的合作伙伴在与[GitHub Arctic Code Vault 和 GitHub Archive Program](https://archiveprogram.github.com/) 相关联的公共存储库中存储和归档您的内容。
+此许可不授予 GitHub 出售您的内容的权利。 它也不授予 GitHub 出于提供服务之外的目的分发或使用您的内容的权利，但作为归档内容的权利的一部分，GitHub 可能允许我们的合作伙伴在与 [GitHub Arctic Code Vault 和 GitHub Archive Program](https://archiveprogram.github.com/) 相关联的公共存储库中存储和归档您的内容。
 
 ### [5.向其他用户授予许可](#5-license-grant-to-other-users) ###
 
@@ -211,7 +211,7 @@ GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-poli
 [F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
 ----------
 
-如果您认为我们的网站上的内容侵犯了您的版权，请按照我们的[千禧年数字著作权法案](/zh/site-policy/content-removal-policies/dmca-takedown-policy)联系我们。 如果您是版权所有者并且您认为 GitHub 上的内容侵犯了您的权利，请通过[我们便利的 DMCA 表](https://github.com/contact/dmca)联系我们，或发送电子邮件到[copyright@github.com](mailto:copyright@github.com)。 发出虚假或无用的下架通知可能会产生法律后果。 在发送下架请求之前，您必须考虑合法使用，如公平使用和许可使用。
+如果您认为我们的网站上的内容侵犯了您的版权，请按照我们的[千禧年数字著作权法案](/zh/site-policy/content-removal-policies/dmca-takedown-policy)联系我们。 如果您是版权所有者并且您认为 GitHub 上的内容侵犯了您的权利，请通过[我们便利的 DMCA 表](https://github.com/contact/dmca)联系我们，或发送电子邮件到 [copyright@github.com](mailto:copyright@github.com)。 发出虚假或无用的下架通知可能会产生法律后果。 在发送下架请求之前，您必须考虑合法使用，如公平使用和许可使用。
 
 我们将终止对此政策[反复违反之人](/zh/site-policy/content-removal-policies/dmca-takedown-policy#e-repeated-infringement)的帐户。
 
@@ -243,7 +243,7 @@ GitHub 和我们的许可人、供应商、代理和/或我们的内容提供者
 
 您不能使用 API 从 GitHub 下载数据或内容用于垃圾邮件，包括将 GitHub 用户的个人信息出售给招募者、猎头和招聘网站等。
 
-对 GitHub API 的所有使用都必须遵守这些服务条款和[GitHub 隐私声明](https://github.com/site/privacy)。
+对 GitHub API 的所有使用都必须遵守这些服务条款和 [GitHub 隐私声明](https://github.com/site/privacy)。
 
 GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问的用户提供基于订阅的 API 访问。
 
@@ -252,7 +252,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **短版本：***您需要遵守 GitHub 不同功能和产品的特定条款和条件，并且在同意本协议时也同意补充条款和条件。*
 
-某些服务功能可能受 GitHub 附加产品条款中规定的该功能或产品特定附加条款的约束。 访问或使用服务即表示您也同意[GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
+某些服务功能可能受 GitHub 附加产品条款中规定的该功能或产品特定附加条款的约束。 访问或使用服务即表示您也同意 [GitHub 附加产品条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
 
 [J. Beta 预览版](#j-beta-previews)
 ----------
@@ -282,7 +282,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### [1.定价](#1-pricing) ###
 
-我们的定价和付款方式发布于[github.com/pricing](https://github.com/pricing)。 如果您同意订阅价格，在付款期限内将保持这一价格；但在付款期限结束时价格会随时变化。
+我们的定价和付款方式发布于 [github.com/pricing](https://github.com/pricing)。 如果您同意订阅价格，在付款期限内将保持这一价格；但在付款期限结束时价格会随时变化。
 
 ### [2.升级、降级和更改](#2-upgrades-downgrades-and-changes) ###
 
@@ -295,7 +295,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 **基于计划的付款** 对于按月付款或按年付款计划，服务账单将以每月或每年为基础提前开具，并且不予退款。 对于开设的帐户，不提供部分服务月度的退款或退单、降级退款或未使用月份退款；但服务将在整个已付费的计费期间保持有效。 为了平等对待每一个人，将不会有例外情况。
 
-**基于使用情况的付款** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择使用超出您计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 我们将定期收取这些购买所产生月度付款的欠付款项。 请参阅[GitHub 附加产品条款，了解详情](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
+**基于使用情况的付款** 一些服务功能根据使用情况计费。 您的计划中可能包含有限数量的这些服务功能，在有限期限内无额外收费。 如果您选择使用超出您计划所含数量的付费服务功能，则需要根据您上月的实际使用情况为这些服务功能付费。 我们将定期收取这些购买所产生月度付款的欠付款项。 请参阅 [GitHub 附加产品条款，了解详情](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)。
 
 **开票**对于开具发票的用户，用户同意以美元全额预付费用，没有任何形式的扣减或抵销。 用户必须在 GitHub 开票日期后的三十 (30) 天内支付费用。 除非本协议另有规定，否则根据本协议应付的金额不可退款。 如果用户未能按时支付任何费用，则除了依据法律或衡平法采取任何其他行动之外，GitHub 还有权 (i) 以每月 1.0% 或法律允许的最高利率（取较小者）对逾期未付款项收取利息，并收取所有恢复费用，以及 (ii) 终止适用订单。 用户自行负责本协议造成或与之相关的所有税款、费用、关税和政府评估（基于 GitHub 净收入的税款除外）。
 
@@ -305,7 +305,7 @@ GitHub 可为需要高通量访问或者会导致 GitHub 服务转售的访问�
 
 ### [5.付款责任](#5-responsibility-for-payment) ###
 
-您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。 如有争议，请通过[GitHub 支持门户](https://support.github.com/)联系我们。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
+您负责与您使用服务相关的所有费用，包括税款。 使用服务即表示您同意向 GitHub 支付与您使用服务有关的任何费用。 如有争议，请通过 [GitHub 支持门户](https://support.github.com/)联系我们。 您负责向我们提供付费帐户的有效付款方式。 免费帐户无需提供付款信息。
 
 [L. 取消和终止](#l-cancellation-and-termination)
 ----------
@@ -403,7 +403,7 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 ### [2.不可转让](#2-non-assignability) ###
 
-无论是否征得您的同意，GitHub 可以随时将这些服务条款和/或[GitHub 隐私声明](https://github.com/site/privacy)全部或部分转让或委托给任何人或实体，包括第 D.4 节的许可授予。 未经我方事先书面同意，您不得转让或委托服务条款或隐私声明下的任何权利或义务，您未经授权做出的任何转让和委托均无效。
+无论是否征得您的同意，GitHub 可以随时将这些服务条款和/或 [GitHub 隐私声明](https://github.com/site/privacy)全部或部分转让或委托给任何人或实体，包括第 D.4 节的许可授予。 未经我方事先书面同意，您不得转让或委托服务条款或隐私声明下的任何权利或义务，您未经授权做出的任何转让和委托均无效。
 
 ### [3.各节标题和摘要](#3-section-headings-and-summaries) ###
 
@@ -419,6 +419,6 @@ GitHub 不保证服务将满足您的要求；服务无中断、及时、安全�
 
 ### [6.问题](#6-questions) ###
 
-对服务条款有疑问？ 通过[GitHub 支持门户](https://support.github.com/)联系我们。
+对服务条款有疑问？ 通过 [GitHub 支持门户](https://support.github.com/)联系我们。
 
 {"resolvedServerColorMode":"day"}
