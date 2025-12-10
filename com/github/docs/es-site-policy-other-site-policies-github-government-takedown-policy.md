@@ -18,7 +18,7 @@ En este artículo
 ----------
 
 * [¿Qué es esto?](#what-is-this)
-* [¿Qué es una solicitud de eliminación completa del gobierno?](#what-is-a-complete-government-takedown-request)
+* [¿Qué es una solicitud de eliminación completa del gobierno?](#how-to-submit-a-government-takedown-request)
 * [¿Qué sucede cuando recibimos una solicitud de eliminación completa de un gobierno?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [¿Por qué publicamos avisos de eliminación?](#why-do-we-publicly-post-takedown-notices)
 * [¿Qué significa si publicamos un aviso en nuestro repositorio de eliminaciones gubernamentales?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,7 +30,7 @@ En este artículo
 
 De vez en cuando, GitHub recibe solicitudes de gobiernos para eliminar contenido que ha sido declarado ilegal en su jurisdicción local. Aunque es posible que no siempre estemos de acuerdo con esas leyes, es posible que debamos bloquear contenido si recibimos una solicitud completa de un funcionario del gobierno para que nuestros usuarios en esa jurisdicción puedan continuar teniendo acceso a GitHub para colaborar y crear software.
 
-[¿Qué es una solicitud de eliminación completa del gobierno?](#what-is-a-complete-government-takedown-request)
+[¿Qué es una solicitud de eliminación completa del gobierno?](#how-to-submit-a-government-takedown-request)
 ----------
 
 Para contar como una solicitud completa, una solicitud o aviso debe

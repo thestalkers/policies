@@ -18,7 +18,7 @@ In this article
 ----------
 
 * [What is this?](#what-is-this)
-* [What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
+* [How to submit a government takedown request](#how-to-submit-a-government-takedown-request)
 * [What happens when we receive a complete takedown request from a government?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [Why do we publicly post takedown notices?](#why-do-we-publicly-post-takedown-notices)
 * [What does it mean if we post a notice in our gov-takedowns repository?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,10 +30,12 @@ In this article
 
 From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software.
 
-[What is a complete government takedown request?](#what-is-a-complete-government-takedown-request)
+[How to submit a government takedown request](#how-to-submit-a-government-takedown-request)
 ----------
 
-To count as a complete request, a request or notice must
+If you are a government official and wish to request the removal of content under this policy, you can submit your request using our [Government Takedown Requests Form](https://support.github.com/contact/government-takedown).
+
+To count as complete, a request must
 
 * come from a relevant, official government agency
 * identify illegal content

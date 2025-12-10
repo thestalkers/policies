@@ -18,7 +18,7 @@ GitHub の行政機関による削除のポリシー
 ----------
 
 * [この内容は?](#what-is-this)
-* [要件を満たす行政機関による削除要求とは?](#what-is-a-complete-government-takedown-request)
+* [要件を満たす行政機関による削除要求とは?](#how-to-submit-a-government-takedown-request)
 * [行政機関から要件を満たす削除要求を受け取った際の対応は?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [削除の通知を投稿して公開する理由は?](#why-do-we-publicly-post-takedown-notices)
 * [gov-takedowns リポジトリに通知を投稿することの意味は?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,7 +30,7 @@ GitHub の行政機関による削除のポリシー
 
 ときどき、GitHub は、行政機関から、地域の法律によって違法となるコンテンツを削除するよう要求を受けることがあります。 当社は、これらの法律に常に同意するわけではありませんが、公務員から要件を満たした要求を受けた場合、該当する管轄区域のユーザーが GitHub にアクセスして、コラボレーションしてソフトウェアの政策を行える状態を保つため、コンテンツをブロックする必要があることがあります。
 
-[要件を満たす行政機関による削除要求とは?](#what-is-a-complete-government-takedown-request)
+[要件を満たす行政機関による削除要求とは?](#how-to-submit-a-government-takedown-request)
 ----------
 
 要求が要件を満たすものと認められるためには、要求または通知が以下の要件を満たす必要があります。

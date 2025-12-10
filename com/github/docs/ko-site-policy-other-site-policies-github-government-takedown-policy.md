@@ -18,7 +18,7 @@ GitHub 정부 게시 중단 정책
 ----------
 
 * [이것은 무엇인가요?](#what-is-this)
-* [정부의 완전 게시 중단 요청이란 무엇인가요?](#what-is-a-complete-government-takedown-request)
+* [정부의 완전 게시 중단 요청이란 무엇인가요?](#how-to-submit-a-government-takedown-request)
 * [정부의 완전 게시 중단 요청을 받게 되면 어떻게 되나요?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [게시 중단 알림을 공개적으로 게시하는 이유는 무엇입니까?](#why-do-we-publicly-post-takedown-notices)
 * [당사가 정부 게시 중단 리포지토리에 알림을 게시한다면 이는 무엇을 의미하나요?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,7 +30,7 @@ GitHub 정부 게시 중단 정책
 
 GitHub는 때때로 해당 지역 관할권에서 불법 자료로 신고된 콘텐츠를 제거하라는 정부의 요청을 받습니다. 당사는 이러한 법률에 항상 동의하는 것은 아니지만 해당 관할권의 사용자가 GitHub에 계속 액세스하여 협업하고 소프트웨어를 빌드할 수 있도록 정부 관리로부터 완전 게시 중단 요청을 받을 경우 콘텐츠를 차단해야 할 수 있습니다.
 
-[정부의 완전 게시 중단 요청이란 무엇인가요?](#what-is-a-complete-government-takedown-request)
+[정부의 완전 게시 중단 요청이란 무엇인가요?](#how-to-submit-a-government-takedown-request)
 ----------
 
 완전 (게시 중단) 요청으로 간주하려면
