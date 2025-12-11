@@ -18,7 +18,7 @@ GitHub 政府下架政策
 ----------
 
 * [这是什么？](#what-is-this)
-* [什么是完整的政府下架要求？](#what-is-a-complete-government-takedown-request)
+* [什么是完整的政府下架要求？](#how-to-submit-a-government-takedown-request)
 * [当我们收到政府提出的完整下架要求时，会发生什么？](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [我们为什么公开发布下架通知？](#why-do-we-publicly-post-takedown-notices)
 * [如果我们在 gov-takedown 存储库中发布通知，它意味着什么？](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,7 +30,7 @@ GitHub 政府下架政策
 
 GitHub 有时会收到政府要求，要求我们删除在其地方管辖区被宣布为非法的内容。 虽然我们不一定同意这些法律，但如果我们收到政府官员的完整要求，我们可能需要屏蔽内容，以便我们在该管辖区的用户能够继续访问 GitHub 以进行协作和构建软件。
 
-[什么是完整的政府下架要求？](#what-is-a-complete-government-takedown-request)
+[什么是完整的政府下架要求？](#how-to-submit-a-government-takedown-request)
 ----------
 
 要被视为完整要求，要求或通知必须符合以下条件：
