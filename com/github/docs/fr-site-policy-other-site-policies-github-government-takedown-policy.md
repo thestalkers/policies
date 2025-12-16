@@ -18,7 +18,7 @@ Dans cet article
 ----------
 
 * [De quoi s’agit-il ?](#what-is-this)
-* [Qu'est-ce qu'une demande complète de retrait du gouvernement ?](#quest-ce-quune-demande-complète-de-retrait-du-gouvernement)
+* [Comment soumettre une demande de prise en charge gouvernementale](#how-to-submit-a-government-takedown-request)
 * [Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#que-se-passe-t-il-lorsque-nous-recevons-une-demande-de-retrait-complète-dun-gouvernement)
 * [Pourquoi publions-nous publiquement des avis de retrait ?](#why-do-we-publicly-post-takedown-notices)
 * [Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#quest-ce-que-cela-signifie-si-nous-publions-un-avis-dans-notre-référentiel-gov-takedowns)
@@ -30,10 +30,12 @@ Dans cet article
 
 De temps en temps, GitHub reçoit des demandes des gouvernements pour supprimer du contenu qui a été déclaré illégal dans leur juridiction locale. Bien que nous ne soyons pas toujours d'accord avec ces lois, nous devrons peut-être bloquer le contenu si nous recevons une demande complète d'un responsable gouvernemental afin que nos utilisateurs dans cette juridiction puissent continuer à avoir accès à GitHub pour collaborer et créer des logiciels.
 
-[Qu'est-ce qu'une demande complète de retrait du gouvernement ?](#quest-ce-quune-demande-complète-de-retrait-du-gouvernement)
+[Comment soumettre une demande de prise en charge gouvernementale](#how-to-submit-a-government-takedown-request)
 ----------
 
-Pour compter comme une demande complète, une demande ou un avis doit
+Si vous êtes un fonctionnaire du gouvernement et que vous souhaitez demander la suppression du contenu dans le cadre de cette politique, vous pouvez soumettre votre demande à l’aide de notre [formulaire de demandes de prise en charge gouvernementale](https://support.github.com/contact/government-takedown).
+
+Pour être considérée comme complète, une demande doit
 
 * Provenir d'un organisme gouvernemental officiel compétent
 * Identifier le contenu illégal

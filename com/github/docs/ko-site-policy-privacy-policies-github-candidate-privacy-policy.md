@@ -17,12 +17,12 @@ GitHub 지원자 개인정보보호정책
 이 문서의 내용
 ----------
 
-* [당사가 수집하는 지원자 개인 정보는 무엇인가요?](#what-candidate-personal-information-do-we-collect)
-* [당사가 수집한 지원자 개인 정보는 어떻게 사용하나요?](#how-do-we-use-the-candidate-personal-information-we-collect)
-* [당사는 귀하의 지원자 개인 정보를 어떻게 공유하나요?](#how-do-we-share-your-candidate-personal-information)
-* [귀하의 지원자 개인 정보에 대한 귀하의 권리](#your-rights-to-your-candidate-personal-information)
-* [당사가 귀하의 지원자 개인 정보를 보유하는 기간은 얼마나 되나요?](#how-long-do-we-retain-your-candidate-personal-information)
-* [본 방침에 대한 변경](#changes-to-this-policy)
+* [당사가 수집하는 지원자 개인 정보는 무엇인가요?](#overview)
+* [당사가 수집한 지원자 개인 정보는 어떻게 사용하나요?](#personal-data-that-we-process)
+* [당사는 귀하의 지원자 개인 정보를 어떻게 공유하나요?](#why-we-process-personal-data)
+* [귀하의 지원자 개인 정보에 대한 귀하의 권리](#change-of-purpose)
+* [당사가 귀하의 지원자 개인 정보를 보유하는 기간은 얼마나 되나요?](#how-and-why-we-disclose-personal-data)
+* [본 방침에 대한 변경](#your-rights-to-your-personal-data)
 
 발효일: 2021년 3월 8일
 
@@ -36,7 +36,7 @@ GitHub 지원자 개인정보보호정책
 
 이 방침은 당사의 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에서 다루는 GitHub 서비스의 사용에는 적용되지 않습니다.
 
-[당사가 수집하는 지원자 개인 정보는 무엇인가요?](#what-candidate-personal-information-do-we-collect)
+[당사가 수집하는 지원자 개인 정보는 무엇인가요?](#overview)
 ----------
 
 당사가 수집, 사용 및 유지(또는 "처리")하는 지원자 개인 정보에는 다음 사항들이 포함될 수 있지만 이에 국한되지는 않습니다.
@@ -51,7 +51,7 @@ GitHub 지원자 개인정보보호정책
 
 **민감한 정보 또는 인구통계학적 정보**: 예를 들면 성별, 의료 또는 건강 정보, 병역 여부, 인종 또는 출신 민족 등이 여기에 포함됩니다.
 
-[당사가 수집한 지원자 개인 정보는 어떻게 사용하나요?](#how-do-we-use-the-candidate-personal-information-we-collect)
+[당사가 수집한 지원자 개인 정보는 어떻게 사용하나요?](#personal-data-that-we-process)
 ----------
 
 당사는 지원자 개인 정보를 다음과 같은 목적으로 사용합니다.
@@ -66,7 +66,7 @@ GitHub 지원자 개인정보보호정책
 * 현지 법률 및 규정에 따라 필요한 보고서를 준비하고 제출
 * 지원 및 채용 절차를 관리하고 개선(예: 지원 절차를 보다 효율적으로 진행하고 다양성 관행을 개선)
 
-[당사는 귀하의 지원자 개인 정보를 어떻게 공유하나요?](#how-do-we-share-your-candidate-personal-information)
+[당사는 귀하의 지원자 개인 정보를 어떻게 공유하나요?](#why-we-process-personal-data)
 ----------
 
 GitHub는 귀하의 지원자 개인 정보를 정당한 업무 요구 사항이 있는 자들과 공유합니다. 귀하의 지원자 개인 정보에 대한 제3자의 액세스를 허용할 때마다 당사는 해당 정보가 이 정책과 일치하는 방식으로 사용되는지 확인할 것입니다. 귀하의 지원자 개인 정보는 다음 목적을 위해 당사 계열사(예: Microsoft) 및 그 외 제3자(예: 공급업체)와 공유할 수 있습니다.
@@ -78,7 +78,7 @@ GitHub는 귀하의 지원자 개인 정보를 정당한 업무 요구 사항이
 5. GitHub, 귀하의 중요한 이익(예: 안전 및 보안) 또는 타인의 이익을 보호하기 위해 필요한 경우
 6. 귀하의 동의가 있을 경우(예: 추천인에게 연락하기 위해). GitHub에 개인 정보를 제공하기 전에 추천인의 동의를 얻어야 할 책임은 귀하에게 있습니다.
 
-[귀하의 지원자 개인 정보에 대한 귀하의 권리](#your-rights-to-your-candidate-personal-information)
+[귀하의 지원자 개인 정보에 대한 귀하의 권리](#change-of-purpose)
 ----------
 
 일부 지역에서 지원자는 해당 지역의 개인정보 보호법(예: EU 일반 데이터 보호 규정(GDPR))에 따른 특정 권리를 가질 수 있습니다. 그러나 당사는 귀하의 소재지에 관계없이 당사의 전 세계 모든 지원자에게 똑같이 높은 수준의 개인정보 보호를 제공합니다.
@@ -87,14 +87,14 @@ GitHub는 귀하의 지원자 개인 정보를 정당한 업무 요구 사항이
 
 이러한 권리의 행사는 [privacy@github.com](mailto:privacy@github.com)(으)로 연락하여 요청하시면 됩니다. 당사는 적용 가능한 데이터 보호법에 따라 모든 요청에 응할 것입니다.
 
-[당사가 귀하의 지원자 개인 정보를 보유하는 기간은 얼마나 되나요?](#how-long-do-we-retain-your-candidate-personal-information)
+[당사가 귀하의 지원자 개인 정보를 보유하는 기간은 얼마나 되나요?](#how-and-why-we-disclose-personal-data)
 ----------
 
 지원자 개인 정보는 당사의 법적 의무를 준수하기 위해 지원 후 1년간 보관됩니다. 그러한 기한이 지나면 GitHub는 향후 당사에서 채용 공고 시 귀하를 고려할 수 있도록 귀하에게 연락하여 귀하의 개인 정보를 계속 보유하는 것에 대한 동의를 요청할 것입니다.
 
 귀하가 GitHub에 채용된 경우, 당사는 지원 및 채용 과정에서 제공된 정보를 직원 기록의 일부로 보관합니다.
 
-[본 방침에 대한 변경](#changes-to-this-policy)
+[본 방침에 대한 변경](#your-rights-to-your-personal-data)
 ----------
 
 당사는 본 GitHub 지원자 개인정보보호정책을 수시로 업데이트합니다. 당사가 이 페이지를 변경하면 "마지막 업데이트" 날짜가 업데이트됩니다.

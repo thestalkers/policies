@@ -17,12 +17,12 @@ GitHub-Datenschutzrichtlinie für Kandidaten
 In diesem Artikel
 ----------
 
-* [Welche personenbezogenen Daten von Kandidaten erfassen wir?](#what-candidate-personal-information-do-we-collect)
-* [Wie verwenden wir die von uns erfassten personenbezogenen Daten von Kandidaten?](#how-do-we-use-the-candidate-personal-information-we-collect)
-* [Wie geben wir Ihre personenbezogenen Kandidatendaten weiter?](#how-do-we-share-your-candidate-personal-information)
-* [Ihre Rechte an Ihren personenbezogenen Kandidatendaten](#your-rights-to-your-candidate-personal-information)
-* [Wie lange bewahren wir Ihre personenbezogenen Kandidatendaten auf?](#how-long-do-we-retain-your-candidate-personal-information)
-* [Änderungen an dieser Richtlinie](#changes-to-this-policy)
+* [Welche personenbezogenen Daten von Kandidaten erfassen wir?](#overview)
+* [Wie verwenden wir die von uns erfassten personenbezogenen Daten von Kandidaten?](#personal-data-that-we-process)
+* [Wie geben wir Ihre personenbezogenen Kandidatendaten weiter?](#why-we-process-personal-data)
+* [Ihre Rechte an Ihren personenbezogenen Kandidatendaten](#change-of-purpose)
+* [Wie lange bewahren wir Ihre personenbezogenen Kandidatendaten auf?](#how-and-why-we-disclose-personal-data)
+* [Änderungen an dieser Richtlinie](#your-rights-to-your-personal-data)
 
 Wirksamkeitsdatum: 8. März 2021
 
@@ -36,7 +36,7 @@ In dieser Richtlinie gelten folgende Definitionen:
 
 Diese Richtlinie gilt nicht für die Nutzung von GitHub-Diensten, die unter unsere [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) fallen.
 
-[Welche personenbezogenen Daten von Kandidaten erfassen wir?](#what-candidate-personal-information-do-we-collect)
+[Welche personenbezogenen Daten von Kandidaten erfassen wir?](#overview)
 ----------
 
 Die personenbezogenen Daten von Kandidaten, die wir erheben, verwenden und pflegen (oder „verarbeiten“), können Folgendes umfassen, sind aber nicht darauf beschränkt:
@@ -51,7 +51,7 @@ Die personenbezogenen Daten von Kandidaten, die wir erheben, verwenden und pfleg
 
 **Sensible oder demografische Informationen**, wie z. B. Ihr Geschlecht, medizinische oder Gesundheitsinformationen, Veteranenstatus oder Ihre ethnische Herkunft.
 
-[Wie verwenden wir die von uns erfassten personenbezogenen Daten von Kandidaten?](#how-do-we-use-the-candidate-personal-information-we-collect)
+[Wie verwenden wir die von uns erfassten personenbezogenen Daten von Kandidaten?](#personal-data-that-we-process)
 ----------
 
 Wir verwenden die personenbezogenen Daten der Kandidaten für die folgenden Zwecke:
@@ -66,7 +66,7 @@ Wir verwenden die personenbezogenen Daten der Kandidaten für die folgenden Zwec
 * Um Berichte gemäß den örtlichen Gesetzen und Vorschriften zu erstellen und einzureichen;
 * Um unseren Bewerbungs- und Rekrutierungsprozess zu verwalten und zu verbessern (z. B. um den Bewerbungsprozess effizienter zu gestalten und unsere Diversitätspraktiken zu verbessern).
 
-[Wie geben wir Ihre personenbezogenen Kandidatendaten weiter?](#how-do-we-share-your-candidate-personal-information)
+[Wie geben wir Ihre personenbezogenen Kandidatendaten weiter?](#why-we-process-personal-data)
 ----------
 
 GitHub wird Ihre personenbezogenen Kandidatendaten an diejenigen weitergeben, die einen legitimen geschäftlichen Bedarf dafür haben. Wann immer wir einem Dritten den Zugriff auf Ihre personenbezogenen Kandidatendaten gestatten, stellen wir sicher, dass die Daten in Übereinstimmung mit dieser Richtlinie verwendet werden. Ihre personenbezogenen Kandidatendaten können zu folgenden Zwecken an unsere verbundenen Unternehmen (z. B. Microsoft) und andere Dritte (z. B. Anbieter) weitergegeben werden:
@@ -78,7 +78,7 @@ GitHub wird Ihre personenbezogenen Kandidatendaten an diejenigen weitergeben, di
 5. Soweit erforderlich, um GitHub, Ihre lebenswichtigen Interessen (wie Sicherheit) oder die einer anderen Person zu schützen; oder
 6. Mit Ihrer Zustimmung (um Ihre Referenzen zu kontaktieren). Es liegt in Ihrer Verantwortung, die Zustimmung von Referenzen einzuholen, bevor Sie deren persönlichen Daten an GitHub weitergeben.
 
-[Ihre Rechte an Ihren personenbezogenen Kandidatendaten](#your-rights-to-your-candidate-personal-information)
+[Ihre Rechte an Ihren personenbezogenen Kandidatendaten](#change-of-purpose)
 ----------
 
 An einigen Standorten haben Kandidaten möglicherweise bestimmte Rechte gemäß den geltenden lokalen Datenschutzgesetzen (wie der europäischen Datenschutz-Grundverordnung). Unabhängig von Ihrem Standort bieten wir jedoch allen unseren Kandidaten auf der ganzen Welt denselben hohen Datenschutzstandard.
@@ -87,14 +87,14 @@ Dies umfasst das Recht, Zugriff auf Ihre Informationen anzufordern oder Ihre Inf
 
 Sie können eine entsprechende Anfrage stellen, indem Sie sich an [privacy@github.com](mailto:privacy@github.com) wenden. Wir werden alle Anfragen in Übereinstimmung mit den geltenden Datenschutzgesetzen beantworten.
 
-[Wie lange bewahren wir Ihre personenbezogenen Kandidatendaten auf?](#how-long-do-we-retain-your-candidate-personal-information)
+[Wie lange bewahren wir Ihre personenbezogenen Kandidatendaten auf?](#how-and-why-we-disclose-personal-data)
 ----------
 
 Personenbezogene Daten von Kandidaten werden nach Ihrer Bewerbung ein Jahr lang gespeichert, um unseren gesetzlichen Verpflichtungen nachzukommen. Nach dieser Zeit werden wir Sie kontaktieren und Sie um Ihre Zustimmung bitten, Ihre personenbezogenen Daten weiterhin zu speichern, damit wir Sie für zukünftige Stellenangebote bei GitHub berücksichtigen können.
 
 Wenn Sie für eine Stelle bei GitHub eingestellt werden, speichern wir die während des Bewerbungs- und Rekrutierungsprozesses bereitgestellten Informationen als Teil Ihrer Mitarbeiterakte.
 
-[Änderungen an dieser Richtlinie](#changes-to-this-policy)
+[Änderungen an dieser Richtlinie](#your-rights-to-your-personal-data)
 ----------
 
 Wir können diese GitHub-Datenschutzrichtlinie für Kandidaten gelegentlich aktualisieren. Wenn wir Änderungen an dieser Seite vornehmen, aktualisieren wir das Datum der „letzten Aktualisierung“.
