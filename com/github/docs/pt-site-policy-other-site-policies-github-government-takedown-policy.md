@@ -18,7 +18,7 @@ Neste artigo
 ----------
 
 * [O que é isto?](#what-is-this)
-* [O que é uma solicitação de remoção completa do governo?](#how-to-submit-a-government-takedown-request)
+* [Como enviar uma solicitação de remoção governamental](#how-to-submit-a-government-takedown-request)
 * [O que acontece quando recebemos uma solicitação de remoção completa de um governo?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [Por que publicamos avisos de remoção publicamente?](#why-do-we-publicly-post-takedown-notices)
 * [O que significa se postarmos um aviso em nosso repositório gov-takedowns?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,10 +30,12 @@ Neste artigo
 
 De tempos em tempos, o GitHub recebe solicitações de governos para remover conteúdo que foi declarado ilegal em sua jurisdição local. Embora nem sempre concordemos com essas leis, podemos precisar bloquear o conteúdo se recebermos uma solicitação completa de um funcionário do governo para que nossos usuários nessa jurisdição continuem a ter acesso ao GitHub para colaborar e criar software.
 
-[O que é uma solicitação de remoção completa do governo?](#how-to-submit-a-government-takedown-request)
+[Como enviar uma solicitação de remoção governamental](#how-to-submit-a-government-takedown-request)
 ----------
 
-Para contar como uma solicitação completa, uma solicitação ou notificação deve
+Se você for um funcionário do governo e desejar solicitar a remoção de conteúdo sob esta política, poderá enviar sua solicitação usando nosso [Formulário de solicitações de remoção governamental](https://support.github.com/contact/government-takedown).
+
+Para ser considerada completa, uma solicitação deve
 
 * Vêm de uma agência governamental oficial e relevante
 * Identificar conteúdo ilegal

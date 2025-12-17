@@ -17,12 +17,12 @@ GitHub 応募者プライバシー ポリシー
 この記事の内容
 ----------
 
-* [当社が収集する応募者の個人情報は？](#what-candidate-personal-information-do-we-collect)
-* [収集した応募者の個人情報を当社はどのように使用しますか？](#how-do-we-use-the-candidate-personal-information-we-collect)
-* [当社が応募者の個人情報を共有する方法は？](#how-do-we-share-your-candidate-personal-information)
-* [応募者の個人情報に対する権利](#your-rights-to-your-candidate-personal-information)
-* [当社が応募者の個人情報を保持する期間](#how-long-do-we-retain-your-candidate-personal-information)
-* [本ポリシーの変更](#changes-to-this-policy)
+* [当社が収集する応募者の個人情報は？](#overview)
+* [収集した応募者の個人情報を当社はどのように使用しますか？](#personal-data-that-we-process)
+* [当社が応募者の個人情報を共有する方法は？](#why-we-process-personal-data)
+* [応募者の個人情報に対する権利](#change-of-purpose)
+* [当社が応募者の個人情報を保持する期間](#how-and-why-we-disclose-personal-data)
+* [本ポリシーの変更](#your-rights-to-your-personal-data)
 
 発効日: 2021 年 3 月 8 日
 
@@ -36,7 +36,7 @@ GitHub 応募者プライバシー ポリシー
 
 本ポリシーは、GitHub サービスの利用には適用されせん。GitHub サービスは、当社の[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)の適用対象となります。
 
-[当社が収集する応募者の個人情報は？](#what-candidate-personal-information-do-we-collect)
+[当社が収集する応募者の個人情報は？](#overview)
 ----------
 
 当社が収集、使用、維持 (または「処理」) する応募者の個人情報には以下が含まれますが、それらに限定されません。
@@ -51,7 +51,7 @@ GitHub 応募者プライバシー ポリシー
 
 **機密情報または人口統計**。性別、医療や健康に関する情報、兵役経験、人種または種族的出身など。
 
-[収集した応募者の個人情報を当社はどのように使用しますか？](#how-do-we-use-the-candidate-personal-information-we-collect)
+[収集した応募者の個人情報を当社はどのように使用しますか？](#personal-data-that-we-process)
 ----------
 
 当社は応募者の個人情報を次の目的で使用します。
@@ -66,7 +66,7 @@ GitHub 応募者プライバシー ポリシー
 * 地域の法令および規制の元で義務付けられている報告書を作成し、提出するため。
 * 当社の応募および採用プロセスを管理し、改善するため (応募プロセスの効率を高め、多様性の慣行を改善するなど)。
 
-[当社が応募者の個人情報を共有する方法は？](#how-do-we-share-your-candidate-personal-information)
+[当社が応募者の個人情報を共有する方法は？](#why-we-process-personal-data)
 ----------
 
 GitHub は、応募者の個人情報を、正当な業務上の必要性がある者と共有します。 当社は、第三者に応募者の個人情報へのアクセスを許可する場合は常に、本ポリシーを遵守するように情報が使用されることを確認します。 応募者の個人情報は、次の目的で当社の関連会社 (マイクロソフトなど) や他の第三者 (ベンダーなど) と共有される場合があります。
@@ -78,7 +78,7 @@ GitHub は、応募者の個人情報を、正当な業務上の必要性があ�
 5. GitHub、応募者または別の人の重大な利益 (安全やセキュリティなど) を守る必要に応じて
 6. 応募者の同意に基づいて (身元保証人に連絡する場合など)。 GitHub に個人情報を提供する前に身元保証人から同意を得ることは、応募者の責任です。
 
-[応募者の個人情報に対する権利](#your-rights-to-your-candidate-personal-information)
+[応募者の個人情報に対する権利](#change-of-purpose)
 ----------
 
 場所によっては、応募者は、適用される地域の個人情報保護法 (欧州連合の一般データ保護規則など) の下で一定の権利を有する場合があります。 ただし、地域に関係なく、当社は個人情報保護に関して世界中の応募者のすべてに同レベルの高い標準を提供しています。
@@ -87,14 +87,14 @@ GitHub は、応募者の個人情報を、正当な業務上の必要性があ�
 
 このような要求を行うには、[privacy@github.com](mailto:privacy@github.com) に連絡してください。 当社は、適用されるデータ保護法に従って、すべての要求に対応します。
 
-[当社が応募者の個人情報を保持する期間](#how-long-do-we-retain-your-candidate-personal-information)
+[当社が応募者の個人情報を保持する期間](#how-and-why-we-disclose-personal-data)
 ----------
 
 法的義務を遵守するため、応募者の個人情報は、応募後 1 年間保存されます。 それ以降は、応募者に連絡して、当社が今後 GitHub での雇用機会に応募者を検討できるように引き続き個人情報を保持することへの同意を求めます。
 
 応募者が GitHub で採用された場合、当社は応募および採用プロセスで提供された情報を、従業員記録の一部として保持します。
 
-[本ポリシーの変更](#changes-to-this-policy)
+[本ポリシーの変更](#your-rights-to-your-personal-data)
 ----------
 
 当社は、本 GitHub 応募者プライバシー ポリシーを随時更新します。 このページに変更を行った場合は、「最終更新」日を更新します。

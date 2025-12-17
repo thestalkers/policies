@@ -18,7 +18,7 @@ GitHub 정부 게시 중단 정책
 ----------
 
 * [이것은 무엇인가요?](#what-is-this)
-* [정부의 완전 게시 중단 요청이란 무엇인가요?](#how-to-submit-a-government-takedown-request)
+* [정부 게시 중단 요청 제출 방법](#how-to-submit-a-government-takedown-request)
 * [정부의 완전 게시 중단 요청을 받게 되면 어떻게 되나요?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [게시 중단 알림을 공개적으로 게시하는 이유는 무엇입니까?](#why-do-we-publicly-post-takedown-notices)
 * [당사가 정부 게시 중단 리포지토리에 알림을 게시한다면 이는 무엇을 의미하나요?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,10 +30,12 @@ GitHub 정부 게시 중단 정책
 
 GitHub는 때때로 해당 지역 관할권에서 불법 자료로 신고된 콘텐츠를 제거하라는 정부의 요청을 받습니다. 당사는 이러한 법률에 항상 동의하는 것은 아니지만 해당 관할권의 사용자가 GitHub에 계속 액세스하여 협업하고 소프트웨어를 빌드할 수 있도록 정부 관리로부터 완전 게시 중단 요청을 받을 경우 콘텐츠를 차단해야 할 수 있습니다.
 
-[정부의 완전 게시 중단 요청이란 무엇인가요?](#how-to-submit-a-government-takedown-request)
+[정부 게시 중단 요청 제출 방법](#how-to-submit-a-government-takedown-request)
 ----------
 
-완전 (게시 중단) 요청으로 간주하려면
+정부 공무원 자격으로 본 정책에 따라 콘텐츠 게시 중단을 요청하고자 하시는 경우 당사의 [정부 게시 중단 요청 양식(Government Takedown Requests Form)](https://support.github.com/contact/government-takedown)을 사용해 요청을 제출해 주시면 됩니다.
+
+완전한 요청으로 간주되려면 요청이 반드시 다음 요건을 충족해야 합니다.
 
 * 관련 정부 기관의 요청 또는 통지를 받아야 합니다.
 * 요청 또는 통지에서 불법 콘텐츠를 식별해야 합니다.

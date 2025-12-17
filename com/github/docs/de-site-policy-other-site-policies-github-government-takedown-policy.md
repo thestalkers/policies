@@ -18,7 +18,7 @@ In diesem Artikel
 ----------
 
 * [Was ist das?](#what-is-this)
-* [Was ist ein vollständiger Deaktivierungsantrag der Regierung?](#how-to-submit-a-government-takedown-request)
+* [So übermitteln Sie eine Regierungsanfrage zur Entfernung von Inhalten](#how-to-submit-a-government-takedown-request)
 * [Was passiert, wenn wir von einer Regierung einen vollständigen Deaktivierungsantrag erhalten?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 * [Warum veröffentlichen wir Deaktivierungsmitteilungen öffentlich?](#why-do-we-publicly-post-takedown-notices)
 * [Was bedeutet es, wenn wir eine Mitteilung in unserem Gov-Takedowns-Repository veröffentlichen?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
@@ -30,10 +30,12 @@ In diesem Artikel
 
 Von Zeit zu Zeit erhält GitHub Anfragen von Regierungen, Inhalte zu entfernen, die in ihrer lokalen Gerichtsbarkeit für rechtswidrig erklärt wurden. Obwohl wir diesen Gesetzen möglicherweise nicht immer zustimmen, müssen wir möglicherweise Inhalte blockieren, wenn wir eine vollständige Anfrage von einem Regierungsbeamten erhalten, damit unsere Benutzer in dieser Gerichtsbarkeit weiterhin Zugriff auf GitHub haben, um zusammenzuarbeiten und Software zu erstellen.
 
-[Was ist ein vollständiger Deaktivierungsantrag der Regierung?](#how-to-submit-a-government-takedown-request)
+[So übermitteln Sie eine Regierungsanfrage zur Entfernung von Inhalten](#how-to-submit-a-government-takedown-request)
 ----------
 
-Um als vollständiger Antrag zu gelten, muss ein Antrag oder eine Mitteilung vorliegen
+Wenn Sie Staatsbedienstete(r) sind und die Entfernung von Inhalten gemäß dieser Richtlinie anfordern möchten, können Sie Ihre Anfrage über unser [Formular für Regierungsanfragen zur Entfernung von Inhalten](https://support.github.com/contact/government-takedown) übermitteln.
+
+Um als vollständig zu gelten, muss eine Anfrage folgende Voraussetzungen erfüllen:
 
 * Stammen von einer zuständigen, offiziellen Regierungsbehörde
 * Rechtswidrige Inhalte erkennen
