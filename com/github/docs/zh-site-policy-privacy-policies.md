@@ -25,7 +25,7 @@
 [GitHub Codespaces 隐私声明](/zh/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[GitHub 求职者隐私政策](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub 全球候选人数据隐私声明](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}
