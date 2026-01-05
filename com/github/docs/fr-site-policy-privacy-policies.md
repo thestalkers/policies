@@ -25,7 +25,7 @@ Politiques de Confidentialité
 [Déclaration de confidentialité GitHub Codespaces](/fr/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[Politique de confidentialité des candidats GitHub](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
+[Notification de confidentialité des données globales GitHub pour les candidats](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

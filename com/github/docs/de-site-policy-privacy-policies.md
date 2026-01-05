@@ -25,7 +25,7 @@ Datenschutzrichtlinien
 [GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[GitHub-Datenschutzrichtlinie für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+[GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

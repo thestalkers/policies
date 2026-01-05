@@ -25,7 +25,7 @@ Directivas de Privacidad
 [Declaración de privacidad de los espacios de código de GitHub](/es/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[Política de privacidad de candidatos de GitHub](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+[Aviso de privacidad de datos de GitHub global para candidatos](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

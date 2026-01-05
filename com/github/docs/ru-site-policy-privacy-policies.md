@@ -25,7 +25,7 @@
 [Заявление о конфиденциальности GitHub Codespaces](/ru/site-policy/privacy-policies/github-codespaces-privacy-statement)
 ----------
 
-[Политика конфиденциальности кандидата GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
+[Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}
