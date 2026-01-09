@@ -14,6 +14,8 @@ Política de marcas registradas de GitHub - Documentación de GitHub
 Política de marcas registradas de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

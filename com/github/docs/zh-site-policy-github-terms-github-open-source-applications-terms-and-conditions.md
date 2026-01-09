@@ -14,6 +14,8 @@ GitHub 开源应用程序条款和条件 - GitHub 文档
 GitHub 开源应用程序条款和条件
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

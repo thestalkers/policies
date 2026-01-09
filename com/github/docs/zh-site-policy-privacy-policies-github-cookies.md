@@ -14,6 +14,8 @@ GitHub Cookie - GitHub 文档
 GitHub Cookie
 ==========
 
+View page as Markdown
+
 [Cookie](#cookie)
 ==========
 

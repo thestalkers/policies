@@ -14,6 +14,8 @@ Conditions du programme de recherche GitHub - Documentation GitHub
 Conditions du programme de recherche GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

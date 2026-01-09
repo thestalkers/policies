@@ -14,6 +14,8 @@ Compromisso de Cooperação GitHub GPL - Documentos do GitHub
 Compromisso de Cooperação GitHub GPL
 ==========
 
+View page as Markdown
+
 Esse compromisso se refere às contribuições do GitHub para o Git, o kernel do Linux e outros programas sob licenças cobertas (role até o final para ver as definições).
 
 Nós nos baseamos em nossa declaração no [modelo](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) para empresas. Consulte o [Site do Compromisso de Cooperação GPL](https://gplcc.github.io/gplcc/) para saber como outras empresas, pessoas físicas e projetos podem adotar esse compromisso.

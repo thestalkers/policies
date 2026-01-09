@@ -14,6 +14,8 @@ GitHub のサービス使用条件 - GitHub ドキュメント
 GitHub のサービス使用条件
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

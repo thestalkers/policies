@@ -14,6 +14,8 @@ Conditions d'utilisation de la place de marché GitHub - Documentation GitHub
 Conditions d'utilisation de la place de marché GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

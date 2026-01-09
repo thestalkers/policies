@@ -14,6 +14,8 @@ Diretrizes para Solicitações Legais de Dados do Usuário - Documentos do GitHu
 Diretrizes para Solicitações Legais de Dados do Usuário
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

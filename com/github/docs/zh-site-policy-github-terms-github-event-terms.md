@@ -14,6 +14,8 @@ GitHub 活动条款 - GitHub 文档
 GitHub 活动条款
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

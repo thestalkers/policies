@@ -14,6 +14,8 @@ GitHub Appeal and Reinstatement - GitHub Docs
 GitHub Appeal and Reinstatement
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

@@ -14,6 +14,8 @@ GitHub の GPL Cooperation Commitment - GitHub ドキュメント
 GitHub の GPL Cooperation Commitment
 ==========
 
+View page as Markdown
+
 このコミットメントは、対象ライセンス (定義については、下までスクロールしてください) に従って Git、Linux カーネル、およびその他のプログラムへの GitHub のコントリビューションに関するものです。
 
 この声明は、企業向け[テンプレート](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)に基づいて作成しました。 他の企業、個人、およびプロジェクトがこのコミットメントを適用する方法については、[「GPL Cooperation Commitment」のサイト](https://gplcc.github.io/gplcc/)をご覧ください。

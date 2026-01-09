@@ -14,6 +14,8 @@ GitHub 私人信息删除政策 - GitHub 文档
 GitHub 私人信息删除政策
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

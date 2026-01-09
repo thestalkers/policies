@@ -14,6 +14,8 @@ GitHub の一般プライバシー ステートメント - GitHub ドキュメ�
 GitHub の一般プライバシー ステートメント
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

@@ -14,6 +14,8 @@ Verhaltenskodex für die GitHub-Community - GitHub-Dokumentation
 Verhaltenskodex für die GitHub-Community
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

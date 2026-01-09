@@ -14,6 +14,8 @@ GitHub の個人情報削除ポリシー - GitHub ドキュメント
 GitHub の個人情報削除ポリシー
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

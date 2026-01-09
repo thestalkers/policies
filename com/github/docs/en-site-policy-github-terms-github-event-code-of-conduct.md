@@ -14,6 +14,8 @@ GitHub Event Code of Conduct - GitHub Docs
 GitHub Event Code of Conduct
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

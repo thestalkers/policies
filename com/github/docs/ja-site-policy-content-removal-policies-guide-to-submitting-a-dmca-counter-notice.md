@@ -14,6 +14,8 @@ DMCA 反論通知提出ガイド - GitHub ドキュメント
 DMCA 反論通知提出ガイド
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

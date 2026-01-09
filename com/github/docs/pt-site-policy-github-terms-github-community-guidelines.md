@@ -14,6 +14,8 @@ Diretrizes da comunidade do GitHub - Documentos do GitHub
 Diretrizes da comunidade do GitHub
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

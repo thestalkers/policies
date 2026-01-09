@@ -14,6 +14,8 @@ Directives de la communauté GitHub - Documentation GitHub
 Directives de la communauté GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

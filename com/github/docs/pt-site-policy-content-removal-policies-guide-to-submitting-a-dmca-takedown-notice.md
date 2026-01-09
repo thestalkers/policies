@@ -14,6 +14,8 @@ Guia para enviar um aviso de remoção da DMCA - Documentos do GitHub
 Guia para enviar um aviso de remoção da DMCA
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

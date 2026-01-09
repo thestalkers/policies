@@ -14,6 +14,8 @@ GitHub 全球候选人数据隐私声明 - GitHub 文档
 GitHub 全球候选人数据隐私声明
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

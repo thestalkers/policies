@@ -14,6 +14,8 @@ Política de obsequios y entretenimiento de GitHub - Documentación de GitHub
 Política de obsequios y entretenimiento de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

@@ -14,6 +14,8 @@ GitHub の企業向けサービス使用条件 - GitHub ドキュメント
 GitHub の企業向けサービス使用条件
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

@@ -14,6 +14,8 @@
 Дополнительные условия GitHub Sponsors
 ==========
 
+View page as Markdown
+
 В этой статье
 ----------
 

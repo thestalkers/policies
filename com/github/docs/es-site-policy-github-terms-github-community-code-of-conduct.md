@@ -14,6 +14,8 @@ Código de conducta de la comunidad de GitHub - Documentación de GitHub
 Código de conducta de la comunidad de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

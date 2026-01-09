@@ -14,6 +14,8 @@ Engagement de coopération GitHub GPL - Documentation GitHub
 Engagement de coopération GitHub GPL
 ==========
 
+View page as Markdown
+
 Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à d'autres programmes sous licences couvertes (faites défiler jusqu'à la fin pour les définitions).
 
 Nous avons basé notre déclaration sur le [modèle](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) pour les entreprises. Consultez le [site de l'engagement de coopération à la GPL](https://gplcc.github.io/gplcc/) pour savoir comment d'autres entreprises, individus et projets peuvent adopter cet engagement.

@@ -22,9 +22,6 @@ Datenschutzrichtlinien
 [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
 ----------
 
-[GitHub Codespaces-Datenschutzerklärung](/de/site-policy/privacy-policies/github-codespaces-privacy-statement)
-----------
-
 [GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 

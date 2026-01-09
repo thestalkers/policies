@@ -14,6 +14,8 @@ GitHub Event Terms - GitHub Docs
 GitHub Event Terms
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

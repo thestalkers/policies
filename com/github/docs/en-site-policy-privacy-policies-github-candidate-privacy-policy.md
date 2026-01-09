@@ -14,6 +14,8 @@ GitHub Global Data Privacy Notice for Candidates - GitHub Docs
 GitHub Global Data Privacy Notice for Candidates
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

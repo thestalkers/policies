@@ -14,6 +14,8 @@ Informação falsa e desinformação no GitHub - Documentos do GitHub
 Informação falsa e desinformação no GitHub
 ==========
 
+View page as Markdown
+
 Você não pode postar conteúdo que apresente uma visão distorcida da realidade, seja imprecisa ou falsa ou intencionalmente enganosa (desinformação), onde tal conteúdo possa resultar em danos ao público ou interferir em oportunidades justas e iguais para que todos participem de uma sociedade livre e aberta. Isso pode incluir:
 
 * Alegações médicas imprecisas ou sem respaldo científico que ponham em risco a saúde ou a segurança pública

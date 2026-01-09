@@ -14,6 +14,8 @@ GitHub Doxxing and Invasion of Privacy - GitHub Docs
 GitHub Doxxing and Invasion of Privacy
 ==========
 
+View page as Markdown
+
 Don't post other people's personal information. This includes:
 
 * Personal, private email addresses

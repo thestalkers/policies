@@ -14,6 +14,8 @@ GitHub Marketplace Terms of Service - GitHub Docs
 GitHub Marketplace Terms of Service
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

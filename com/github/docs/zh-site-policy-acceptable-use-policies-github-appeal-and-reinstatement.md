@@ -14,6 +14,8 @@ GitHub 申诉和恢复 - GitHub 文档
 GitHub 申诉和恢复
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

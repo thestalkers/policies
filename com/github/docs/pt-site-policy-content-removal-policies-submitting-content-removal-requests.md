@@ -14,6 +14,8 @@ Como enviar solicitações de remoção de conteúdo - Documentos do GitHub
 Como enviar solicitações de remoção de conteúdo
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

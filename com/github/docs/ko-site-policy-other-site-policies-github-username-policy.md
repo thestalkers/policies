@@ -14,6 +14,8 @@ GitHub 사용자 이름 정책 - GitHub 문서
 GitHub 사용자 이름 정책
 ==========
 
+View page as Markdown
+
 이 문서의 내용
 ----------
 

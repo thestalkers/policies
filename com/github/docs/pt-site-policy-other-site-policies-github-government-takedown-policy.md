@@ -14,6 +14,8 @@ Política de remoção governamental do GitHub - Documentos do GitHub
 Política de remoção governamental do GitHub
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

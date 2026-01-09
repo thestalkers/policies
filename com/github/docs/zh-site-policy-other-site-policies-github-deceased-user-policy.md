@@ -14,6 +14,8 @@ GitHub 已故用户政策 - GitHub 文档
 GitHub 已故用户政策
 ==========
 
+View page as Markdown
+
 如果 GitHub 用户亡故，我们可以与授权的个人合作确定如何处理相关帐户的内容。
 
 如果您是已故用户的近亲、[预先指定的继承人](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories)或其他授权个人（可能包括合作者或业务合作伙伴），并想提出关于其帐户的申请，可以通过 [GitHub 支持门户](https://support.github.com/)联系我们。 在门户中，单击“联系我们\*\*\*\*”，并在申请中提供以下信息：

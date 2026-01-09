@@ -14,6 +14,8 @@ Bedingungen des GitHub-Forschungsprogramms - GitHub-Dokumentation
 Bedingungen des GitHub-Forschungsprogramms
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

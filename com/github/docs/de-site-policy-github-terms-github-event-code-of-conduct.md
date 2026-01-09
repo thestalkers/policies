@@ -14,6 +14,8 @@ GitHub-Verhaltenskodex für Veranstaltungen - GitHub-Dokumentation
 GitHub-Verhaltenskodex für Veranstaltungen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

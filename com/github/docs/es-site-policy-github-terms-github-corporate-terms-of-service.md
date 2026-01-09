@@ -14,6 +14,8 @@ Condiciones de servicio corporativas de GitHub - Documentación de GitHub
 Condiciones de servicio corporativas de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

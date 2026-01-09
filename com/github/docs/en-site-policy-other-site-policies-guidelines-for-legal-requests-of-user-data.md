@@ -14,6 +14,8 @@ Guidelines for Legal Requests of User Data - GitHub Docs
 Guidelines for Legal Requests of User Data
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

@@ -14,6 +14,8 @@ GitHub の行政機関による削除のポリシー - GitHub ドキュメント
 GitHub の行政機関による削除のポリシー
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

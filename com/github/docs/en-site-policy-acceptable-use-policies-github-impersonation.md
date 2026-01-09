@@ -14,6 +14,8 @@ GitHub Impersonation - GitHub Docs
 GitHub Impersonation
 ==========
 
+View page as Markdown
+
 You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
 
 * Copying another user's avatar or other personal profile information

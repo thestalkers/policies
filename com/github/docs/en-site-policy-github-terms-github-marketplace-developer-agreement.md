@@ -14,6 +14,8 @@ GitHub Marketplace Developer Agreement - GitHub Docs
 GitHub Marketplace Developer Agreement
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

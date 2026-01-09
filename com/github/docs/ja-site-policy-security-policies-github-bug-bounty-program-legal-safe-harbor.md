@@ -14,6 +14,8 @@ GitHub バグ報奨金プログラムの法的免責事項 - GitHub ドキュメ
 GitHub バグ報奨金プログラムの法的免責事項
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

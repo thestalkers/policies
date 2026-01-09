@@ -14,6 +14,8 @@ GitHub와 무역 통제 - GitHub 문서
 GitHub와 무역 통제
 ==========
 
+View page as Markdown
+
 이 문서의 내용
 ----------
 

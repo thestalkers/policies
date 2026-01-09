@@ -14,6 +14,8 @@ GitHub イベント条件 - GitHub ドキュメント
 GitHub イベント条件
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

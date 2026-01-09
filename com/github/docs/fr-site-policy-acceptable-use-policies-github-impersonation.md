@@ -14,6 +14,8 @@ Usurpation d'identité GitHub - Documentation GitHub
 Usurpation d'identité GitHub
 ==========
 
+View page as Markdown
+
 Vous ne pouvez pas déformer votre identité ou votre association avec une autre personne ou organisation. Cela comprend faire l'une des choses suivantes d'une manière qui induit en erreur ou trompe les autres :
 
 * Copier l'avatar d'un autre utilisateur ou d'autres informations de profil personnel

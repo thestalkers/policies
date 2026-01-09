@@ -14,6 +14,8 @@ Condiciones de servicio del Mercado GitHub - Documentación de GitHub
 Condiciones de servicio del Mercado GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

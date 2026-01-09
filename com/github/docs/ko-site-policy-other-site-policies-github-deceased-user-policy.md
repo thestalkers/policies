@@ -14,6 +14,8 @@ GitHub 사망 사용자 정책 - GitHub 문서
 GitHub 사망 사용자 정책
 ==========
 
+View page as Markdown
+
 GitHub 사용자가 사망한 경우, 허가를 받은 개인과 협력하여 해당 계정의 콘텐츠에 어떤 일이 발생하는지 판정할 수 있습니다.
 
 귀하가 사망한 사용자의 가장 가까운 친척이거나 [미리 지정된 승계자](/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), 사망한 사용자에게 권한을 위임 받은 다른 개인(협력자 또는 비즈니스 파트너를 포함)에 해당하며 그들의 계정과 관련하여 요청하는 경우, 귀하는 [GitHub 지원 포털](https://support.github.com/)을 통해 당사에 연락할 수 있습니다. 포털에서 문의\*\*처를 클릭하고 \*\*메시지에 다음 정보를 제공합니다.

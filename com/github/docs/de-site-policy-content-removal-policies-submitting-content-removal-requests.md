@@ -14,6 +14,8 @@ Einreichen von Anträgen auf Entfernung von Inhalten - GitHub-Dokumentation
 Einreichen von Anträgen auf Entfernung von Inhalten
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

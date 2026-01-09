@@ -14,6 +14,8 @@ Termos e condições de aplicativos de código aberto do GitHub - Documentos do 
 Termos e condições de aplicativos de código aberto do GitHub
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

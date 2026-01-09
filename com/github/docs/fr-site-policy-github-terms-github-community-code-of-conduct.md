@@ -14,6 +14,8 @@ Code de Conduite de la Communauté GitHub - Documentation GitHub
 Code de Conduite de la Communauté GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

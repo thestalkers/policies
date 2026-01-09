@@ -14,6 +14,8 @@ GitHub イベントの行動規範 - GitHub ドキュメント
 GitHub イベントの行動規範
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

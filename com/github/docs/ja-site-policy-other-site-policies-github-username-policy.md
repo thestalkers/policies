@@ -14,6 +14,8 @@ GitHub のユーザー名ポリシー - GitHub ドキュメント
 GitHub のユーザー名ポリシー
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

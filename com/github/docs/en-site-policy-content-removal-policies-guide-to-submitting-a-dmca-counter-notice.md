@@ -14,6 +14,8 @@ Guide to Submitting a DMCA Counter Notice - GitHub Docs
 Guide to Submitting a DMCA Counter Notice
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

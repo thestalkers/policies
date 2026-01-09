@@ -14,6 +14,8 @@ GitHub 赞助商附加条款 - GitHub 文档
 GitHub 赞助商附加条款
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

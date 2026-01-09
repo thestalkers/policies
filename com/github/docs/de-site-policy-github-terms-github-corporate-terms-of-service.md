@@ -14,6 +14,8 @@ GitHub-Vertragsbedingungen für Unternehmen - GitHub-Dokumentation
 GitHub-Vertragsbedingungen für Unternehmen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

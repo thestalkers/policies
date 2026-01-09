@@ -14,6 +14,8 @@ GitHub-Markenrichtlinie - GitHub-Dokumentation
 GitHub-Markenrichtlinie
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

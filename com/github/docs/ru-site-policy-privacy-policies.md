@@ -22,9 +22,6 @@
 [Cookie-файлы GitHub](/ru/site-policy/privacy-policies/github-cookies)
 ----------
 
-[Заявление о конфиденциальности GitHub Codespaces](/ru/site-policy/privacy-policies/github-codespaces-privacy-statement)
-----------
-
 [Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 

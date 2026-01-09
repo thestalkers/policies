@@ -14,6 +14,8 @@ Términos de GitHub para productos y funciones adicionales - Documentación de G
 Términos de GitHub para productos y funciones adicionales
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

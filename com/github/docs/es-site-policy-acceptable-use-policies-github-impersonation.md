@@ -14,6 +14,8 @@ Suplantación de GitHub - Documentación de GitHub
 Suplantación de GitHub
 ==========
 
+View page as Markdown
+
 No puede tergiversar su identidad o su asociación con otra persona u organización. Esto incluye hacer cualquiera de las siguientes cosas de una manera que induzca a error o engañe a otros:
 
 * Copiar el avatar de otro usuario u otra información de perfil personal

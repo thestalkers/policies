@@ -14,6 +14,8 @@ Déclaration de GitHub contre l'esclavage moderne et le travail des enfants - Do
 Déclaration de GitHub contre l'esclavage moderne et le travail des enfants
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

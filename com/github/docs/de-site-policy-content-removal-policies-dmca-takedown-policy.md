@@ -14,6 +14,8 @@ DMCA Takedown-Richtlinie - GitHub-Dokumentation
 DMCA Takedown-Richtlinie
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

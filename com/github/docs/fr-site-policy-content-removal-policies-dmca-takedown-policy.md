@@ -14,6 +14,8 @@ Politique de retrait DMCA - Documentation GitHub
 Politique de retrait DMCA
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

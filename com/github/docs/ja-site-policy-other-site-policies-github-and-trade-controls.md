@@ -14,6 +14,8 @@ GitHub と貿易管理 - GitHub ドキュメント
 GitHub と貿易管理
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

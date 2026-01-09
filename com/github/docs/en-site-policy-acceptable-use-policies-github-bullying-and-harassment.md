@@ -14,6 +14,8 @@ GitHub Bullying and Harassment - GitHub Docs
 GitHub Bullying and Harassment
 ==========
 
+View page as Markdown
+
 We do not tolerate harassment, bullying, or abuse of any kind, whether directly or by encouraging others to take part in the prohibited conduct. This includes:
 
 * Targeted personal attacks

@@ -14,6 +14,8 @@ Cookie-файлы GitHub - Документация по GitHub
 Cookie-файлы GitHub
 ==========
 
+View page as Markdown
+
 [Использование файлов cookie](#использование-файлов-cookie)
 ==========
 

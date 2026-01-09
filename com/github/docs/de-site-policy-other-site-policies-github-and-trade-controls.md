@@ -14,6 +14,8 @@ GitHub und Handelskontrollen - GitHub-Dokumentation
 GitHub und Handelskontrollen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

@@ -14,6 +14,8 @@ GitHub Terms of Service - GitHub Docs
 GitHub Terms of Service
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

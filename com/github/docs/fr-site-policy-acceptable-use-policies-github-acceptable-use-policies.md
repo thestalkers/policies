@@ -14,6 +14,8 @@ Politiques d'utilisation acceptable de GitHub - Documentation GitHub
 Politiques d'utilisation acceptable de GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

@@ -14,6 +14,8 @@ GitHub interrumpiendo la experiencia de otros usuarios - Documentación de GitHu
 GitHub interrumpiendo la experiencia de otros usuarios
 ==========
 
+View page as Markdown
+
 Ser parte de una comunidad incluye reconocer cómo su comportamiento afecta a los demás y participar en interacciones significativas y productivas con las personas y la plataforma en la que confían.
 
 No permitimos comportamientos que interrumpan significativa o continuamente la experiencia de otros usuarios. Esto incluye:

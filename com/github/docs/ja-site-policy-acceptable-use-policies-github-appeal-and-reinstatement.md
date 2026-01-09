@@ -14,6 +14,8 @@ GitHub の異議申し立ておよび復活 - GitHub ドキュメント
 GitHub の異議申し立ておよび復活
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

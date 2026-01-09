@@ -14,6 +14,8 @@ Política de usuarios fallecidos de GitHub - Documentación de GitHub
 Política de usuarios fallecidos de GitHub
 ==========
 
+View page as Markdown
+
 En caso de que fallezca un usuario de GitHub, podemos trabajar con una persona autorizada para determinar qué sucede con el contenido de la cuenta.
 
 Si usted es un pariente cercano, un [sucesor previamente designado](/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) u otra persona autorizada (que podría incluir un colaborador o socio comercial) de un usuario fallecido y desea realizar una solicitud con respecto a su cuenta, puede ponerse en contacto con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/). En el portal, haga clic en **Ponerse en contacto con nosotros** y proporcione la siguiente información en el mensaje:

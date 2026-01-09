@@ -14,6 +14,8 @@ Politique relative aux cadeaux et aux divertissements de GitHub - Documentation 
 Politique relative aux cadeaux et aux divertissements de GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

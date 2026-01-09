@@ -14,6 +14,8 @@ Termos de Serviço do GitHub Marketplace - Documentos do GitHub
 Termos de Serviço do GitHub Marketplace
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

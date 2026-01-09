@@ -14,6 +14,8 @@ GitHub-Einspruch und Wiedereinsetzung - GitHub-Dokumentation
 GitHub-Einspruch und Wiedereinsetzung
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

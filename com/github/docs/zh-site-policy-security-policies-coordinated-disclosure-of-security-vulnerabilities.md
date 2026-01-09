@@ -14,6 +14,8 @@
 协调披露安全漏洞
 ==========
 
+View page as Markdown
+
 我们希望每个人都能安全地使用 GitHub。 当您发现 GitHub 中的安全漏洞时，如果您能以协调一致的方式向我们披露，我们将深表感谢。
 
 [赏金计划](#bounty-program)

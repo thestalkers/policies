@@ -14,6 +14,8 @@ GitHub-Nutzungsbedingungen - GitHub-Dokumentation
 GitHub-Nutzungsbedingungen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

@@ -14,6 +14,8 @@ DMCA 下架政策 - GitHub 文档
 DMCA 下架政策
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

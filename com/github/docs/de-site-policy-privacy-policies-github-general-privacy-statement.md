@@ -14,6 +14,8 @@ Allgemeine Datenschutzerklärung für GitHub - GitHub-Dokumentation
 Allgemeine Datenschutzerklärung für GitHub
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

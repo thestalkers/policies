@@ -14,6 +14,8 @@ GitHub Username Policy - GitHub Docs
 GitHub Username Policy
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

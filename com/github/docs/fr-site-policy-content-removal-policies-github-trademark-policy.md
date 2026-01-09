@@ -14,6 +14,8 @@ Politique de marque GitHub - Documentation GitHub
 Politique de marque GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

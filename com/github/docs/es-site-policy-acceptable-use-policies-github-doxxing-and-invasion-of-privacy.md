@@ -14,6 +14,8 @@ GitHub Doxxing e invasión de la privacidad - Documentación de GitHub
 GitHub Doxxing e invasión de la privacidad
 ==========
 
+View page as Markdown
+
 No publiques información personal de otras personas. Esto incluye:
 
 * Direcciones de correo electrónico personales y privadas

@@ -14,6 +14,8 @@ GitHub e controles de comércio - Documentos do GitHub
 GitHub e controles de comércio
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

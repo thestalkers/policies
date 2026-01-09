@@ -14,6 +14,8 @@ GitHub Sexuell obszöner Inhalt - GitHub-Dokumentation
 GitHub Sexuell obszöner Inhalt
 ==========
 
+View page as Markdown
+
 Wir tolerieren keine Inhalte, die mit der sexuellen Ausbeutung oder dem Missbrauch einer anderen Person in Zusammenhang stehen, einschließlich solcher, bei denen [Minderjährige betroffen sind](/de/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse). Wir erlauben keine sexuell thematisierten oder anzüglichen Inhalte, die wenig oder keinem anderen Zweck dienen, als eine erotische oder schockierende Reaktion zu erbitten, insbesondere wenn diese Inhalte durch ihre Platzierung in Profilen oder anderen sozialen Kontexten verstärkt werden. Dies schließt Folgendes ein:
 
 * Pornografische Inhalte

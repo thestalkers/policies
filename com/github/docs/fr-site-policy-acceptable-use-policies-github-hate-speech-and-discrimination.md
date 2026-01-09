@@ -14,6 +14,8 @@ GitHub Discours de haine et discrimination - Documentation GitHub
 GitHub Discours de haine et discrimination
 ==========
 
+View page as Markdown
+
 GitHub ne tolère pas les discours qui attaquent ou encouragent la haine envers un individu ou un groupe de personnes sur la base de qui ils sont, y compris l'âge, la taille, la capacité, l'origine ethnique, l'identité et l'expression de genre, le niveau d'expérience, la nationalité, l'apparence personnelle, la race, la religion, l'identité sexuelle ou l'orientation sexuelle. Cela inclut :
 
 * Se moquer, attaquer ou exclure une personne ou un groupe en raison de ses croyances ou des caractéristiques énumérées ci-dessus

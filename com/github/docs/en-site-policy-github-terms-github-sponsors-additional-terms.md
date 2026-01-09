@@ -14,6 +14,8 @@ GitHub Sponsors Additional Terms - GitHub Docs
 GitHub Sponsors Additional Terms
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

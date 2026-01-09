@@ -14,6 +14,8 @@
 Условия предоставления услуг GitHub Marketplace
 ==========
 
+View page as Markdown
+
 В этой статье
 ----------
 

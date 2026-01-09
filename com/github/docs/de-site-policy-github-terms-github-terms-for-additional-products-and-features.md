@@ -14,6 +14,8 @@ GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen - GitHub-Do
 GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

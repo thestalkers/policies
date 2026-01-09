@@ -14,6 +14,8 @@ GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten - GitHub
 GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten
 ==========
 
+View page as Markdown
+
 Sie dürfen GitHub nicht verwenden, um Gewalttaten zu organisieren, zu fördern, zu ermutigen, zu bedrohen oder anzustiften. Sie dürfen keine Inhalte posten, die Gewalt oder körperliche Gewalt gegen Menschen oder Tiere darstellen oder verherrlichen. Dies umfasst:
 
 * Eine andere Person oder Gruppe mit Missbrauch, Schaden, sexueller Gewalt oder dem Tod zu bedrohen

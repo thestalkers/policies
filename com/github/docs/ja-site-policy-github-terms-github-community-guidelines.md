@@ -14,6 +14,8 @@ GitHub コミュニティ ガイドライン - GitHub ドキュメント
 GitHub コミュニティ ガイドライン
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

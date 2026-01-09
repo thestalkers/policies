@@ -14,6 +14,8 @@ DMCA 削除通知提出ガイド - GitHub ドキュメント
 DMCA 削除通知提出ガイド
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

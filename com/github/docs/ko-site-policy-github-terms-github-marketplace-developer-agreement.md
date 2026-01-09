@@ -14,6 +14,8 @@ GitHub Marketplace 개발자 계약 - GitHub 문서
 GitHub Marketplace 개발자 계약
 ==========
 
+View page as Markdown
+
 이 문서의 내용
 ----------
 

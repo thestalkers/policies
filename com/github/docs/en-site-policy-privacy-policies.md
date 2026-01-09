@@ -16,7 +16,6 @@ Privacy Policies
 * [GitHub General Privacy Statement](/en/site-policy/privacy-policies/github-general-privacy-statement)
 * [GitHub Subprocessors](/en/site-policy/privacy-policies/github-subprocessors)
 * [GitHub Cookies](/en/site-policy/privacy-policies/github-cookies)
-* [GitHub Codespaces Privacy Statement](/en/site-policy/privacy-policies/github-codespaces-privacy-statement)
 * [GitHub Global Data Privacy Notice for Candidates](/en/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 {"resolvedServerColorMode":"day"}

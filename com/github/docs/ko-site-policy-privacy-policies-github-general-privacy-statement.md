@@ -14,6 +14,8 @@ GitHub 일반 개인정보처리방침 - GitHub 문서
 GitHub 일반 개인정보처리방침
 ==========
 
+View page as Markdown
+
 이 문서의 내용
 ----------
 

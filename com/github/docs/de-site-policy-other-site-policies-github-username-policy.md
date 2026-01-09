@@ -14,6 +14,8 @@ GitHub-Richtlinie für Benutzernamen - GitHub-Dokumentation
 GitHub-Richtlinie für Benutzernamen
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

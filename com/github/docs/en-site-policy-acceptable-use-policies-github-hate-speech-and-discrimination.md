@@ -14,6 +14,8 @@ GitHub Hate Speech and Discrimination - GitHub Docs
 GitHub Hate Speech and Discrimination
 ==========
 
+View page as Markdown
+
 GitHub does not tolerate speech that attacks or promotes hate toward an individual or group of people on the basis of who they are, including age, body size, ability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity, or sexual orientation. This includes:
 
 * Mocking, attacking, or excluding a person or group based on their beliefs or the characteristics listed above

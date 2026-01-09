@@ -14,6 +14,8 @@ Declaración contra el soborno de GitHub - Documentación de GitHub
 Declaración contra el soborno de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

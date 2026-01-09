@@ -14,6 +14,8 @@ GitHub Deceased User Policy - GitHub Docs
 GitHub Deceased User Policy
 ==========
 
+View page as Markdown
+
 In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 
 If you are next of kin, a [pre-designated successor](/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:

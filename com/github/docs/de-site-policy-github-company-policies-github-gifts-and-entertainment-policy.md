@@ -14,6 +14,8 @@ GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
 GitHub-Richtlinie zu Geschenken und Unterhaltung
 ==========
 
+View page as Markdown
+
 In diesem Artikel
 ----------
 

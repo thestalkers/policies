@@ -14,6 +14,8 @@ Patrocinadores de GitHub Términos adicionales - Documentación de GitHub
 Patrocinadores de GitHub Términos adicionales
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

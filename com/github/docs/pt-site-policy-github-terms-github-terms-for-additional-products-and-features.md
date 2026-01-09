@@ -14,6 +14,8 @@ Termos do GitHub para produtos e recursos adicionais - Documentos do GitHub
 Termos do GitHub para produtos e recursos adicionais
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

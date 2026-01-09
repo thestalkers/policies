@@ -14,6 +14,8 @@ Coordinated Disclosure of Security Vulnerabilities - GitHub Docs
 Coordinated Disclosure of Security Vulnerabilities
 ==========
 
+View page as Markdown
+
 We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
 
 [Bounty Program](#bounty-program)

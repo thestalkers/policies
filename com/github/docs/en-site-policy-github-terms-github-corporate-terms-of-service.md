@@ -14,6 +14,8 @@ GitHub Corporate Terms of Service - GitHub Docs
 GitHub Corporate Terms of Service
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

@@ -14,6 +14,8 @@ Politique relative aux logos GitHub - Documentation GitHub
 Politique relative aux logos GitHub
 ==========
 
+View page as Markdown
+
 Vous pouvez, dans certains cas, ajouter des logos GitHub à votre site Web ou à une application tierce. Pour en savoir plus et recevoir des directives spécifiques sur l'utilisation des logos, consultez la [page Utilisation des logos de GitHub](https://github.com/logos).
 
 Vous pouvez également utiliser un Octocat comme avatar personnel ou sur votre site Web pour établir un lien avec votre compte GitHub, mais pas pour votre société ou un produit que vous concevez. GitHub possède une vaste collection d'Octocats dans l'[Octodex](https://octodex.github.com/). Pour en savoir plus sur l'utilisation des Octocats de l'Octodex, consultez la [FAQ de l'Octodex](https://octodex.github.com/faq/).

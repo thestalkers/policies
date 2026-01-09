@@ -14,6 +14,8 @@
 Соглашение с разработчиком GitHub Marketplace
 ==========
 
+View page as Markdown
+
 В этой статье
 ----------
 

@@ -14,6 +14,8 @@ Termos de serviço corporativos do GitHub - Documentos do GitHub
 Termos de serviço corporativos do GitHub
 ==========
 
+View page as Markdown
+
 Neste artigo
 ----------
 

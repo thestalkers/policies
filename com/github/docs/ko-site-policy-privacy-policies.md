@@ -22,9 +22,6 @@
 [GitHub 쿠키](/ko/site-policy/privacy-policies/github-cookies)
 ----------
 
-[GitHub Codespaces 개인정보취급방침](/ko/site-policy/privacy-policies/github-codespaces-privacy-statement)
-----------
-
 [지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 

@@ -14,6 +14,8 @@ DMCA Takedown Policy - GitHub Docs
 DMCA Takedown Policy
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

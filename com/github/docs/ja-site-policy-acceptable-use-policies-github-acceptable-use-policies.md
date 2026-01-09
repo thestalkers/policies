@@ -14,6 +14,8 @@ GitHub 利用規約 - GitHub ドキュメント
 GitHub 利用規約
 ==========
 
+View page as Markdown
+
 この記事の内容
 ----------
 

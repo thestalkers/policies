@@ -14,6 +14,8 @@ GitHub 商标政策 - GitHub 文档
 GitHub 商标政策
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

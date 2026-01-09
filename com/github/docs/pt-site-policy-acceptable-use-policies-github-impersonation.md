@@ -14,6 +14,8 @@ Representação do GitHub - Documentos do GitHub
 Representação do GitHub
 ==========
 
+View page as Markdown
+
 Você não pode deturpar sua identidade ou sua associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou enganar os outros:
 
 * Copiar o avatar de outro usuário ou outras informações de perfil pessoal

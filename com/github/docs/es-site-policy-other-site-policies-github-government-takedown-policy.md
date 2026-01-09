@@ -14,6 +14,8 @@ Política de eliminación del gobierno de GitHub - Documentación de GitHub
 Política de eliminación del gobierno de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

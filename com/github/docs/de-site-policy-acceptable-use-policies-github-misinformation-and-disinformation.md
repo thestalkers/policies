@@ -14,6 +14,8 @@ GitHub Fehlinformationen und Desinformationen - GitHub-Dokumentation
 GitHub Fehlinformationen und Desinformationen
 ==========
 
+View page as Markdown
+
 Sie dürfen keine Inhalte veröffentlichen, die ein verzerrtes Bild der Realität vermitteln, unabhängig davon, ob sie ungenau oder falsch (Fehlinformation) oder absichtlich irreführend (Desinformation) sind, wenn diese Inhalte geeignet sind, der Öffentlichkeit Schaden zuzufügen oder faire und gleiche Chancen zu beeinträchtigen dass alle an einer freien und offenen Gesellschaft teilhaben können. Dies kann beinhalten:
 
 * Ungenaue oder wissenschaftlich nicht belegte medizinische Behauptungen, die die öffentliche Gesundheit oder Sicherheit gefährden

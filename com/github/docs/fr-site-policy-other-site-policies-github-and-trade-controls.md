@@ -14,6 +14,8 @@ GitHub et contrôles commerciaux - Documentation GitHub
 GitHub et contrôles commerciaux
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

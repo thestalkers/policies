@@ -14,6 +14,8 @@ GitHub GPL Kooperationsverpflichtung - GitHub-Dokumentation
 GitHub GPL Kooperationsverpflichtung
 ==========
 
+View page as Markdown
+
 Diese Verpflichtung bezieht sich auf GitHub-Beiträge zu Git, dem Linux-Kernel und anderen Programmen unter abgedeckten Lizenzen (scrollen Sie bis zum Ende für Definitionen).
 
 Wir stützen unsere Erklärung auf die [Vorlage](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md) für Unternehmen. Siehe die [Webseite zur GPL-Kooperationsverpflichtung](https://gplcc.github.io/gplcc/) dazu, wie andere Unternehmen, Einzelpersonen und Projekte diese Verpflichtung übernehmen können.

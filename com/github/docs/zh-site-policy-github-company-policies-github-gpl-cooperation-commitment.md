@@ -14,6 +14,8 @@ GitHub GPL 合作承诺 - GitHub 文档
 GitHub GPL 合作承诺
 ==========
 
+View page as Markdown
+
 本承诺适用于 GitHub 对 Git、Linux 内核以及涵盖许可（具体定义请滚动到最后的定义部分）下其他程序的贡献。
 
 我们的声明基于公司[模板](https://github.com/gplcc/gplcc/blob/master/Company/GPL%20Cooperation%20Commitment-Company-Template.md)。 有关其他公司、个人和项目如何采用本承诺，请参阅 [GPL 合作承诺网站](https://gplcc.github.io/gplcc/)。

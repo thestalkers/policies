@@ -14,6 +14,8 @@ Termes et conditions des applications open source GitHub - Documentation GitHub
 Termes et conditions des applications open source GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

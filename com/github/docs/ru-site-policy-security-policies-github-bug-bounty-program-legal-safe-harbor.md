@@ -14,6 +14,8 @@
 Программа GitHub Bug Bounty Legal Safe Harbour
 ==========
 
+View page as Markdown
+
 В этой статье
 ----------
 

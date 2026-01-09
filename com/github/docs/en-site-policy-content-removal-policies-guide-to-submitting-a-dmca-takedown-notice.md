@@ -14,6 +14,8 @@ Guide to Submitting a DMCA Takedown Notice - GitHub Docs
 Guide to Submitting a DMCA Takedown Notice
 ==========
 
+View page as Markdown
+
 In this article
 ----------
 

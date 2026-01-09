@@ -14,6 +14,8 @@ Koordinierte Offenlegung von Sicherheitslücken - GitHub-Dokumentation
 Koordinierte Offenlegung von Sicherheitslücken
 ==========
 
+View page as Markdown
+
 Wir möchten GitHub für alle sicher halten. Wenn Sie eine Sicherheitslücke in GitHub entdeckt haben, schätzen wir Ihre Hilfe, indem Sie uns diese auf koordinierte Weise mitteilen.
 
 [Bounty-Programm](#bounty-program)

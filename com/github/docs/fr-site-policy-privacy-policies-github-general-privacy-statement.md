@@ -14,6 +14,8 @@ Déclaration de confidentialité générale GitHub - Documentation GitHub
 Déclaration de confidentialité générale GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

@@ -14,6 +14,8 @@ GitHub 社区指导方针 - GitHub 文档
 GitHub 社区指导方针
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

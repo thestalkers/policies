@@ -14,6 +14,8 @@ Politique de suppression des informations privées de GitHub - Documentation Git
 Politique de suppression des informations privées de GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

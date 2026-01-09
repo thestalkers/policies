@@ -22,9 +22,6 @@ Políticas de Privacidade
 [Cookies do GitHub](/pt/site-policy/privacy-policies/github-cookies)
 ----------
 
-[Declaração de privacidade de codespaces do GitHub](/pt/site-policy/privacy-policies/github-codespaces-privacy-statement)
-----------
-
 [Aviso de Privacidade de Dados Global do GitHub para Candidatos](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 

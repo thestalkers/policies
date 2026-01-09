@@ -14,6 +14,8 @@ Conditions supplémentaires des sponsors GitHub - Documentation GitHub
 Conditions supplémentaires des sponsors GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

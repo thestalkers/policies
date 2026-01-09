@@ -14,6 +14,8 @@ GitHub-Cookies - GitHub-Dokumentation
 GitHub-Cookies
 ==========
 
+View page as Markdown
+
 [Cookies](#cookies)
 ==========
 

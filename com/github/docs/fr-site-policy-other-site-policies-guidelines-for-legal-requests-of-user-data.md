@@ -14,6 +14,8 @@ Lignes directrices pour les demandes légales de données utilisateur - Document
 Lignes directrices pour les demandes légales de données utilisateur
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

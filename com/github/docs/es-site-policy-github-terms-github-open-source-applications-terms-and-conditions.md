@@ -14,6 +14,8 @@ Términos y condiciones de las aplicaciones de código abierto de GitHub - Docum
 Términos y condiciones de las aplicaciones de código abierto de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

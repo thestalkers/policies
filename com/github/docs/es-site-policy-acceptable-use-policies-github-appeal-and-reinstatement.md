@@ -14,6 +14,8 @@ Apelación y restablecimiento de GitHub - Documentación de GitHub
 Apelación y restablecimiento de GitHub
 ==========
 
+View page as Markdown
+
 En este artículo
 ----------
 

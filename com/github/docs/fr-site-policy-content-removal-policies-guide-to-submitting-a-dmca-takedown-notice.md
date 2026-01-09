@@ -14,6 +14,8 @@ Guide de soumission d'un avis de retrait DMCA - Documentation GitHub
 Guide de soumission d'un avis de retrait DMCA
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 

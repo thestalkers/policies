@@ -14,6 +14,8 @@ GitHub 礼品和招待政策 - GitHub 文档
 GitHub 礼品和招待政策
 ==========
 
+View page as Markdown
+
 本文内容
 ----------
 

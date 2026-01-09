@@ -14,6 +14,8 @@ Désinformation et désinformation GitHub - Documentation GitHub
 Désinformation et désinformation GitHub
 ==========
 
+View page as Markdown
+
 Vous ne pouvez pas publier de contenu qui présente une vision déformée de la réalité, qu'il soit inexact ou faux (désinformation) ou intentionnellement trompeur (désinformation), lorsque ce contenu est susceptible de porter préjudice au public ou d'interférer avec des opportunités justes et égales. pour tous de participer à une société libre et ouverte. Cela peut inclure :
 
 * Allégations médicales inexactes ou scientifiquement non étayées qui mettent en danger la santé ou la sécurité publiques

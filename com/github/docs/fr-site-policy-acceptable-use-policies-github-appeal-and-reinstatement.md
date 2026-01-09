@@ -14,6 +14,8 @@ Appel et rétablissement de GitHub - Documentation GitHub
 Appel et rétablissement de GitHub
 ==========
 
+View page as Markdown
+
 Dans cet article
 ----------
 
