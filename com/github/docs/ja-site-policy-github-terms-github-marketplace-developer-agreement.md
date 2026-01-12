@@ -14,7 +14,7 @@ GitHub Marketplace 開発者契約 - GitHub ドキュメント
 GitHub Marketplace 開発者契約
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

@@ -14,7 +14,7 @@ DMCA 反論通知提出ガイド - GitHub ドキュメント
 DMCA 反論通知提出ガイド
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

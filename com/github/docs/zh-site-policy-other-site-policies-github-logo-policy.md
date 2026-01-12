@@ -14,7 +14,7 @@ GitHub 徽标政策 - GitHub 文档
 GitHub 徽标政策
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 在某些情况下，您可以将 GitHub 徽标添加到您的网站或第三方应用程序中。 有关徽标使用的更多信息和具体指南，请参阅 [GitHub 徽标和使用页面](https://github.com/logos)。
 

@@ -14,7 +14,7 @@ GitHub 커뮤니티 지침 - GitHub 문서
 GitHub 커뮤니티 지침
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

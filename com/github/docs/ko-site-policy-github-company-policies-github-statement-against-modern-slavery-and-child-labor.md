@@ -14,7 +14,7 @@
 현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

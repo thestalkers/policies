@@ -14,7 +14,7 @@ Conditions d'utilisation de GitHub Corporate - Documentation GitHub
 Conditions d'utilisation de GitHub Corporate
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

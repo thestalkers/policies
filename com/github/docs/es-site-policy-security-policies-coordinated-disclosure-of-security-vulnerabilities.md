@@ -14,7 +14,7 @@ Divulgación coordinada de vulnerabilidades de seguridad - Documentación de Git
 Divulgación coordinada de vulnerabilidades de seguridad
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 Queremos mantener GitHub seguro para todos. Si ha descubierto una vulnerabilidad de seguridad en GitHub, apreciamos su ayuda para comunicárnosla de manera coordinada.
 

@@ -14,7 +14,7 @@ GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버 - GitHub 
 GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

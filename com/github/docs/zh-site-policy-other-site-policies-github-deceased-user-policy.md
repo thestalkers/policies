@@ -14,7 +14,7 @@ GitHub 已故用户政策 - GitHub 文档
 GitHub 已故用户政策
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 如果 GitHub 用户亡故，我们可以与授权的个人合作确定如何处理相关帐户的内容。
 

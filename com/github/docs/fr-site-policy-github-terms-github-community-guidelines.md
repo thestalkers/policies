@@ -14,7 +14,7 @@ Directives de la communauté GitHub - Documentation GitHub
 Directives de la communauté GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

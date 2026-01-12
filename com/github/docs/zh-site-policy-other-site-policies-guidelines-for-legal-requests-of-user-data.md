@@ -14,7 +14,7 @@
 用户数据法律请求准则
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

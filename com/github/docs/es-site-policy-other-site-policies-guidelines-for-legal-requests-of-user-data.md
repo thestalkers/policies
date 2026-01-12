@@ -14,7 +14,7 @@ Directrices para solicitudes legales de datos de usuario - Documentación de Git
 Directrices para solicitudes legales de datos de usuario
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

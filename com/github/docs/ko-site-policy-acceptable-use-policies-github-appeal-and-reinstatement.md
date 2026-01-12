@@ -14,7 +14,7 @@ GitHub 이의 제기 및 복원 - GitHub 문서
 GitHub 이의 제기 및 복원
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

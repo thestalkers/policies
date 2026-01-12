@@ -14,7 +14,7 @@ GitHub GPL Kooperationsverpflichtung - GitHub-Dokumentation
 GitHub GPL Kooperationsverpflichtung
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 Diese Verpflichtung bezieht sich auf GitHub-Beiträge zu Git, dem Linux-Kernel und anderen Programmen unter abgedeckten Lizenzen (scrollen Sie bis zum Ende für Definitionen).
 

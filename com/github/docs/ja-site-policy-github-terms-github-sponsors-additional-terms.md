@@ -14,7 +14,7 @@ GitHub スポンサーの追加条件 - GitHub ドキュメント
 GitHub スポンサーの追加条件
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

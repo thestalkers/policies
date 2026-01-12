@@ -14,7 +14,7 @@ Envoi de demandes de suppression de contenu - Documentation GitHub
 Envoi de demandes de suppression de contenu
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

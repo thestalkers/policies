@@ -14,7 +14,7 @@ GitHub の商標ポリシー - GitHub ドキュメント
 GitHub の商標ポリシー
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

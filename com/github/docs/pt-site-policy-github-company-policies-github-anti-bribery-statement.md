@@ -14,7 +14,7 @@ Declaração antissuborno do GitHub - Documentos do GitHub
 Declaração antissuborno do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

@@ -14,7 +14,7 @@ Termos de Serviço do GitHub - Documentos do GitHub
 Termos de Serviço do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

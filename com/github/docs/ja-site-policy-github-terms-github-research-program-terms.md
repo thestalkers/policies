@@ -14,7 +14,7 @@ GitHub のリサーチ プログラム条項 - GitHub ドキュメント
 GitHub のリサーチ プログラム条項
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

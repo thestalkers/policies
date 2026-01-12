@@ -14,7 +14,7 @@ GitHub の Cookie - GitHub ドキュメント
 GitHub の Cookie
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 [Cookie](#cookie)
 ==========

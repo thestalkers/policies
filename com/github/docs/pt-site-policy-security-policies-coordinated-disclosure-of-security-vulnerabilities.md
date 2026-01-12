@@ -14,7 +14,7 @@ Divulgação coordenada de vulnerabilidades de segurança - Documentos do GitHub
 Divulgação coordenada de vulnerabilidades de segurança
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Queremos manter o GitHub seguro para todos. Se você descobriu uma vulnerabilidade de segurança no GitHub, agradecemos sua ajuda em divulgá-la para nós de maneira coordenada.
 

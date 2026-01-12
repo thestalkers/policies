@@ -14,7 +14,7 @@ Términos del programa de investigación de GitHub - Documentación de GitHub
 Términos del programa de investigación de GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

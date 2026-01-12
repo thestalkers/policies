@@ -14,7 +14,7 @@ Política de logotipo do GitHub - Documentos do GitHub
 Política de logotipo do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Você pode adicionar logotipos GitHub em seu site ou aplicativo de terceiros em alguns cenários. Para obter mais informações e diretrizes específicas sobre o uso do logotipo, consulte [GitHub página Logotipos e Uso](https://github.com/logos).
 

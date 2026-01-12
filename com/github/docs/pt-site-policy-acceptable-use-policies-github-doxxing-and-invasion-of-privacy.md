@@ -14,7 +14,7 @@ GitHub Doxxing e invasão de privacidade - Documentos do GitHub
 GitHub Doxxing e invasão de privacidade
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Não publique informações pessoais de outras pessoas. Isso inclui:
 

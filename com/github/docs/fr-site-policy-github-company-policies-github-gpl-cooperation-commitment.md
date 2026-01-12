@@ -14,7 +14,7 @@ Engagement de coopération GitHub GPL - Documentation GitHub
 Engagement de coopération GitHub GPL
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à d'autres programmes sous licences couvertes (faites défiler jusqu'à la fin pour les définitions).
 

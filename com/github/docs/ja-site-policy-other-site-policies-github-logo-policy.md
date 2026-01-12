@@ -14,7 +14,7 @@ GitHub ロゴのポリシー - GitHub ドキュメント
 GitHub ロゴのポリシー
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 場合によっては、GitHub ロゴをお客様の Web サイトまたは第三者のアプリケーションに追加できます。 ロゴの使用に関する詳細と具体的なガイドラインについては、[GitHub のロゴと使い方のページ](https://github.com/logos) をご覧ください。
 

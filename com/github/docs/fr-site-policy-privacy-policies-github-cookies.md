@@ -14,7 +14,7 @@ Cookies sur GitHub - Documentation GitHub
 Cookies sur GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 [Cookies](#cookies)
 ==========

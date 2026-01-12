@@ -14,7 +14,7 @@ DMCA 下架通知提交指南 - GitHub 文档
 DMCA 下架通知提交指南
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

@@ -14,7 +14,7 @@ GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentatio
 GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

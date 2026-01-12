@@ -14,7 +14,7 @@ GitHub Marketplace サービス使用条件 - GitHub ドキュメント
 GitHub Marketplace サービス使用条件
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

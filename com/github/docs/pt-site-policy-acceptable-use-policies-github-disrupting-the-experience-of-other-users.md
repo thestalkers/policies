@@ -14,7 +14,7 @@ GitHub interrompendo a experiência de outros usuários - Documentos do GitHub
 GitHub interrompendo a experiência de outros usuários
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e a plataforma em que elas confiam.
 

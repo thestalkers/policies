@@ -14,7 +14,7 @@ Contrat de développeur enregistré GitHub - Documentation GitHub
 Contrat de développeur enregistré GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 GitHub a la chance d'avoir de nombreux développeurs qui s'intègrent à notre plateforme. Nous pensons que c’est génial, et nous voulons rendre cette expérience encore meilleure. Le programme pour développeurs de GitHub (le « programme ») nous aide à nous connecter avec vous, à partager des informations avec vous et à soutenir vos efforts créatifs mieux que jamais. La relation spéciale entre GitHub et la communauté des développeurs que le Programme crée nécessite un ensemble de conditions particulières. Bienvenue dans le Contrat de développeur enregistré ("Contrat »).
 

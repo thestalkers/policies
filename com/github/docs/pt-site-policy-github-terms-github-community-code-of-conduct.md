@@ -14,7 +14,7 @@ Código de conduta da comunidade do GitHub - Documentos do GitHub
 Código de conduta da comunidade do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

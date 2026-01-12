@@ -14,7 +14,7 @@ GitHub Bug 赏金计划法律安全港 - GitHub 文档
 GitHub Bug 赏金计划法律安全港
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

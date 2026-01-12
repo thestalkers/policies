@@ -14,7 +14,7 @@ GitHub Marketplace-Nutzungsbedingungen - GitHub-Dokumentation
 GitHub Marketplace-Nutzungsbedingungen
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

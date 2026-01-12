@@ -14,7 +14,7 @@ GitHub 신상 털기 및 프라이버시 침해 - GitHub 문서
 GitHub 신상 털기 및 프라이버시 침해
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 타인의 개인 정보를 게시하지 마십시오. 여기에는
 

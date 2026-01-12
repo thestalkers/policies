@@ -14,7 +14,7 @@ GitHub-Richtlinie für verstorbene Benutzer - GitHub-Dokumentation
 GitHub-Richtlinie für verstorbene Benutzer
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 Falls ein GitHub-Benutzer stirbt, können wir mit einer autorisierten Person zusammenarbeiten, um festzustellen, was mit dem Inhalt des Kontos passiert.
 

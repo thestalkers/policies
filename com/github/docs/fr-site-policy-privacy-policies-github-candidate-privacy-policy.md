@@ -14,7 +14,7 @@ Notification de confidentialité des données globales GitHub pour les candidats
 Notification de confidentialité des données globales GitHub pour les candidats
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

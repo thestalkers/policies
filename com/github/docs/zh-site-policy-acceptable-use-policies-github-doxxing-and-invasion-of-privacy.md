@@ -14,7 +14,7 @@
 在 GitHub 上进行人肉搜索和侵犯隐私
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 不要发布他人的个人信息。 其中包括：
 

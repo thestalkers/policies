@@ -14,7 +14,7 @@ GitHub 研究计划条款 - GitHub 文档
 GitHub 研究计划条款
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

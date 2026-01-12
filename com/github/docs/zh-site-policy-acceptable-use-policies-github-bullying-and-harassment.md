@@ -14,7 +14,7 @@ GitHub 上的欺凌和骚扰 - GitHub 文档
 GitHub 上的欺凌和骚扰
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 我们不容忍任何形式的骚扰、欺凌或虐待，无论是直接还是鼓励他人参与违禁行为。 其中包括：
 

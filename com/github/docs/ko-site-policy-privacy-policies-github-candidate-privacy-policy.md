@@ -14,7 +14,7 @@
 지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

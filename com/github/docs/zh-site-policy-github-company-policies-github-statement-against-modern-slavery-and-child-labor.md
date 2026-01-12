@@ -14,7 +14,7 @@ GitHub 反对现代奴役制和童工制的声明 - GitHub 文档
 GitHub 反对现代奴役制和童工制的声明
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

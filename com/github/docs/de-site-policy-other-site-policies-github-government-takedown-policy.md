@@ -14,7 +14,7 @@ GitHub Government Takedown-Richtlinie - GitHub-Dokumentation
 GitHub Government Takedown-Richtlinie
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

@@ -14,7 +14,7 @@ Politique de retrait du gouvernement GitHub - Documentation GitHub
 Politique de retrait du gouvernement GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

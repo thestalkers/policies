@@ -14,7 +14,7 @@ Política de nome de usuário do GitHub - Documentos do GitHub
 Política de nome de usuário do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

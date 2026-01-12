@@ -14,7 +14,7 @@ GitHub perturbe l'expérience des autres utilisateurs - Documentation GitHub
 GitHub perturbe l'expérience des autres utilisateurs
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Faire partie d'une communauté implique de reconnaître comment votre comportement affecte les autres et de s'engager dans des interactions significatives et productives avec les gens et la plate-forme sur laquelle ils s'appuient.
 

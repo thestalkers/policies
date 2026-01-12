@@ -14,7 +14,7 @@ GitHub の腐敗防止に関する声明 - GitHub ドキュメント
 GitHub の腐敗防止に関する声明
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

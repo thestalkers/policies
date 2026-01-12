@@ -14,7 +14,7 @@ Anleitung zum Einreichen einer DMCA-Gegendarstellung - GitHub-Dokumentation
 Anleitung zum Einreichen einer DMCA-Gegendarstellung
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

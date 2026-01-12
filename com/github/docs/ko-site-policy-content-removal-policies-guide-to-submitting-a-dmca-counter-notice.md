@@ -14,7 +14,7 @@ DMCA 반론 통지 제출 가이드 - GitHub 문서
 DMCA 반론 통지 제출 가이드
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 문서의 내용
 ----------

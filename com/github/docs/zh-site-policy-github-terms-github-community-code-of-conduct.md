@@ -14,7 +14,7 @@ GitHub 社区行为准则 - GitHub 文档
 GitHub 社区行为准则
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

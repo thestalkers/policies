@@ -14,7 +14,7 @@ Code de conduite des événements GitHub - Documentation GitHub
 Code de conduite des événements GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

@@ -14,7 +14,7 @@ Richtlinie zum Entfernen privater Informationen von GitHub - GitHub-Dokumentatio
 Richtlinie zum Entfernen privater Informationen von GitHub
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

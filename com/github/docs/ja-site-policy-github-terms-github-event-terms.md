@@ -14,7 +14,7 @@ GitHub イベント条件 - GitHub ドキュメント
 GitHub イベント条件
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

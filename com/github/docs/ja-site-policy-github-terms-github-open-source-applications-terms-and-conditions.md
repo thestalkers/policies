@@ -14,7 +14,7 @@ GitHub オープン ソース アプリケーションの契約条件 - GitHub �
 GitHub オープン ソース アプリケーションの契約条件
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

@@ -14,7 +14,7 @@ Divulgation coordonnée des vulnérabilités de sécurité - Documentation GitHu
 Divulgation coordonnée des vulnérabilités de sécurité
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Nous voulons garder GitHub sûr pour tout le monde. Si vous avez découvert une faille de sécurité dans GitHub, nous apprécions votre aide pour nous la divulguer de manière coordonnée.
 

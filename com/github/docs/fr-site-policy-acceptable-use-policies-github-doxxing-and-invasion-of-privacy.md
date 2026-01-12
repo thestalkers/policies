@@ -14,7 +14,7 @@ GitHub Doxxing et invasion de la vie privée - Documentation GitHub
 GitHub Doxxing et invasion de la vie privée
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Ne publiez pas les informations personnelles d'autres personnes. Cela inclut :
 

@@ -14,7 +14,7 @@ GitHub の贈答品および接待に関するポリシー - GitHub ドキュメ
 GitHub の贈答品および接待に関するポリシー
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

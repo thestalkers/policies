@@ -14,7 +14,7 @@ Aviso de Privacidade de Dados Global do GitHub para Candidatos - Documentos do G
 Aviso de Privacidade de Dados Global do GitHub para Candidatos
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

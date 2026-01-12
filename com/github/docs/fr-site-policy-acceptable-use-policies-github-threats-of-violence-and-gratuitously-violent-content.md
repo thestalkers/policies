@@ -14,7 +14,7 @@ GitHub Menaces de violence et contenu gratuitement violent - Documentation GitHu
 GitHub Menaces de violence et contenu gratuitement violent
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Vous ne pouvez pas utiliser GitHub pour organiser, promouvoir, encourager, menacer ou inciter à des actes de violence. Vous ne pouvez pas publier de contenu qui représente ou glorifie la violence ou les atteintes physiques contre des êtres humains ou des animaux. Cela inclut :
 

@@ -14,7 +14,7 @@ Declaração Geral de Privacidade do GitHub - Documentos do GitHub
 Declaração Geral de Privacidade do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

@@ -14,7 +14,7 @@ GitHub 쿠키 - GitHub 문서
 GitHub 쿠키
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 [쿠키](#쿠키)
 ==========

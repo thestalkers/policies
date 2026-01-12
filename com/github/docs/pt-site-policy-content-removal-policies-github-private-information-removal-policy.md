@@ -14,7 +14,7 @@ Política de remoção de informações privadas do GitHub - Documentos do GitHu
 Política de remoção de informações privadas do GitHub
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

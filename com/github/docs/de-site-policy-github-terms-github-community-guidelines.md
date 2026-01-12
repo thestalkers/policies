@@ -14,7 +14,7 @@ GitHub-Community-Richtlinien - GitHub-Dokumentation
 GitHub-Community-Richtlinien
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

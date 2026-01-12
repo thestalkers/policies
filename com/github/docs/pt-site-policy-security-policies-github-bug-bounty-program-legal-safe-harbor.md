@@ -14,7 +14,7 @@ GitHub Bug Bounty Program Legal Safe Harbor - Documentos do GitHub
 GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

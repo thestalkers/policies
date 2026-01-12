@@ -14,7 +14,7 @@ GitHub sponsert zusätzliche Bedingungen - GitHub-Dokumentation
 GitHub sponsert zusätzliche Bedingungen
 ==========
 
-View page as Markdown
+Seite als Markdown anzeigen
 
 In diesem Artikel
 ----------

@@ -14,7 +14,7 @@ Déclaration anti-corruption GitHub - Documentation GitHub
 Déclaration anti-corruption GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Dans cet article
 ----------

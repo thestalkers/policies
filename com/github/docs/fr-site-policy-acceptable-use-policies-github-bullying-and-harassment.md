@@ -14,7 +14,7 @@ GitHub Intimidation et Harcèlement - Documentation GitHub
 GitHub Intimidation et Harcèlement
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Nous ne tolérons pas le harcèlement, l'intimidation ou l'abus de quelque nature que ce soit, que ce soit directement ou en encourageant les autres à prendre part à la conduite interdite. Cela inclut :
 

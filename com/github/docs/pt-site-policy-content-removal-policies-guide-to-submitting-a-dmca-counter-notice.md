@@ -14,7 +14,7 @@ Guia para enviar uma contranotificação da DMCA - Documentos do GitHub
 Guia para enviar uma contranotificação da DMCA
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

@@ -14,7 +14,7 @@ Política de usuarios fallecidos de GitHub - Documentación de GitHub
 Política de usuarios fallecidos de GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En caso de que fallezca un usuario de GitHub, podemos trabajar con una persona autorizada para determinar qué sucede con el contenido de la cuenta.
 

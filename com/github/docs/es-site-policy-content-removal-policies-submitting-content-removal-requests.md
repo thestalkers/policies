@@ -14,7 +14,7 @@ Envío de solicitudes de eliminación de contenido - Documentación de GitHub
 Envío de solicitudes de eliminación de contenido
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

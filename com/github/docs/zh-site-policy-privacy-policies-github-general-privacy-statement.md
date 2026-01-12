@@ -14,7 +14,7 @@ GitHub 一般隐私声明 - GitHub 文档
 GitHub 一般隐私声明
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

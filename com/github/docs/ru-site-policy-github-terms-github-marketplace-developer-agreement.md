@@ -14,7 +14,7 @@
 Соглашение с разработчиком GitHub Marketplace
 ==========
 
-View page as Markdown
+Просмотр страницы как Markdown
 
 В этой статье
 ----------

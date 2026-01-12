@@ -14,7 +14,7 @@ Politique relative aux logos GitHub - Documentation GitHub
 Politique relative aux logos GitHub
 ==========
 
-View page as Markdown
+Afficher la page en tant que Markdown
 
 Vous pouvez, dans certains cas, ajouter des logos GitHub à votre site Web ou à une application tierce. Pour en savoir plus et recevoir des directives spécifiques sur l'utilisation des logos, consultez la [page Utilisation des logos de GitHub](https://github.com/logos).
 

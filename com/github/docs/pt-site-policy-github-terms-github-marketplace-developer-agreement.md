@@ -14,7 +14,7 @@ Contrato de desenvolvedor do GitHub Marketplace - Documentos do GitHub
 Contrato de desenvolvedor do GitHub Marketplace
 ==========
 
-View page as Markdown
+Exibir página como Markdown
 
 Neste artigo
 ----------

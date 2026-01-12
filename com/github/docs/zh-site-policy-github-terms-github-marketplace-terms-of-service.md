@@ -14,7 +14,7 @@ GitHub Marketplace 服务条款 - GitHub 文档
 GitHub Marketplace 服务条款
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

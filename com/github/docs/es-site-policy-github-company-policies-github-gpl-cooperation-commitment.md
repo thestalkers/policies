@@ -14,7 +14,7 @@ Compromiso de cooperación de GitHub GPL - Documentación de GitHub
 Compromiso de cooperación de GitHub GPL
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para ver las definiciones).
 

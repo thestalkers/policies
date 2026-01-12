@@ -14,7 +14,7 @@ GitHub GPL 협력 약정 - GitHub 문서
 GitHub GPL 협력 약정
 ==========
 
-View page as Markdown
+페이지를 Markdown으로 보기
 
 이 약정은 Git, Linux 커널 및 그 외 적용 라이선스에 따른 프로그램에 대한 GitHub 기여와 관련이 있습니다(정의를 보려면 끝까지 스크롤할 것).
 
