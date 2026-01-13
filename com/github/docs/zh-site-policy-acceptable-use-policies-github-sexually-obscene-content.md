@@ -14,7 +14,7 @@ GitHub 上的性淫秽内容 - GitHub 文档
 GitHub 上的性淫秽内容
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 我们绝不容忍任何涉及性剥削或虐待他人的内容，包括涉及[未成年人](/zh/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)的内容。 如果以性为主题的内容或性暗示的内容，其目的只是引起性反应或使人震惊，则不被允许，尤其是在通过将此类内容放置在个人资料或其他社交环境中而扩大影响的情况下。 其中包括：
 

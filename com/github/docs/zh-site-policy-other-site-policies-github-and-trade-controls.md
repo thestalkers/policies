@@ -14,7 +14,7 @@ GitHub 和贸易管制 - GitHub 文档
 GitHub 和贸易管制
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

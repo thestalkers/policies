@@ -14,7 +14,7 @@ Declaración de GitHub contra la esclavitud moderna y el trabajo infantil - Docu
 Declaración de GitHub contra la esclavitud moderna y el trabajo infantil
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

@@ -14,7 +14,7 @@ Contenido sexualmente obsceno de GitHub - Documentación de GitHub
 Contenido sexualmente obsceno de GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 No toleramos el contenido asociado con la explotación o el abuso sexual de otra persona, incluso cuando [se trata de menores](/es/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse). No permitimos contenido sugerente o de temática sexual que tenga poco o ningún propósito que no sea el de solicitar una respuesta erótica o impactante, particularmente cuando ese contenido se amplifica por su ubicación en perfiles u otros contextos sociales. Esto incluye:
 

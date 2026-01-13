@@ -14,7 +14,7 @@
 提交内容删除请求
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本文内容
 ----------

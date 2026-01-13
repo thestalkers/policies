@@ -14,7 +14,7 @@ Acuerdo de desarrollador registrado de GitHub - Documentación de GitHub
 Acuerdo de desarrollador registrado de GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 GitHub tiene la suerte de tener muchos desarrolladores que se integran con nuestra plataforma. Creemos que es increíble y queremos que esa experiencia sea aún mejor. El Programa para desarrolladores de GitHub (el "Programa") nos ayuda a conectarnos con usted, compartir información con usted y respaldar sus esfuerzos creativos mejor que nunca. La relación especial entre GitHub y la comunidad de desarrolladores que crea el Programa requiere un conjunto especial de términos. Bienvenido al Acuerdo de desarrollador registrado ("Acuerdo").
 

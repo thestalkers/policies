@@ -14,7 +14,7 @@ Guía para enviar un aviso de eliminación de DMCA - Documentación de GitHub
 Guía para enviar un aviso de eliminación de DMCA
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

@@ -14,7 +14,7 @@ GitHub GPL 合作承诺 - GitHub 文档
 GitHub GPL 合作承诺
 ==========
 
-View page as Markdown
+将页面显示为 Markdown
 
 本承诺适用于 GitHub 对 Git、Linux 内核以及涵盖许可（具体定义请滚动到最后的定义部分）下其他程序的贡献。
 

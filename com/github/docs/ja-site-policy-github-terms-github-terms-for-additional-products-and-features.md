@@ -14,7 +14,7 @@
 追加の製品および機能に適用される GitHub 条件
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

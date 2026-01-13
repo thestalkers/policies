@@ -14,7 +14,7 @@ Acuerdo para desarrolladores del Mercado GitHub - Documentación de GitHub
 Acuerdo para desarrolladores del Mercado GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------

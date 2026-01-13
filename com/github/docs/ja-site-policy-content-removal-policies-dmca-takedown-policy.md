@@ -14,7 +14,7 @@ DMCA 削除ポリシー - GitHub ドキュメント
 DMCA 削除ポリシー
 ==========
 
-View page as Markdown
+ページを Markdown として表示する
 
 この記事の内容
 ----------

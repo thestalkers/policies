@@ -14,7 +14,7 @@ Intimidación y acoso de GitHub - Documentación de GitHub
 Intimidación y acoso de GitHub
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 No toleramos el acoso, la intimidación o el abuso de ningún tipo, ya sea directamente o animando a otros a participar en la conducta prohibida. Esto incluye:
 

@@ -14,7 +14,7 @@ Política de eliminación de DMCA - Documentación de GitHub
 Política de eliminación de DMCA
 ==========
 
-View page as Markdown
+Ver página como Markdown
 
 En este artículo
 ----------
