@@ -67,7 +67,7 @@ Ihre Privatsphäre ist GitHub („wir“, „uns“, „unser“ oder „GitHub�
 
 Bitte beachten Sie, dass dieser Datenschutzhinweis für die Verarbeitung Ihrer personenbezogenen Daten als Kandidat gilt.
 
-Er deckt nicht Ihre Verwendung von GitHub-Verbraucherprodukten als Verbraucher oder außerhalb Ihrer Kandidatur bei GitHub ab. GitHub-Verbraucherprodukte können Dienste, Websites, Apps, Software, Server und Geräte umfassen. Weitere Informationen zur Datensammlung durch GitHub in Verbindung mit Ihrer Verwendung von GitHub-Produkten als Verbraucher finden Sie in der [GitHub-Datenschutzerklärung](https://site-policy/privacy-policies/github-general-privacy-statement).
+Er deckt nicht Ihre Verwendung von GitHub-Verbraucherprodukten als Verbraucher oder außerhalb Ihrer Kandidatur bei GitHub ab. GitHub-Verbraucherprodukte können Dienste, Websites, Apps, Software, Server und Geräte umfassen. Weitere Informationen zur Datensammlung durch GitHub in Verbindung mit Ihrer Verwendung von GitHub-Produkten als Verbraucher finden Sie in der [GitHub-Datenschutzerklärung](/de/site-policy/privacy-policies/github-general-privacy-statement).
 
 Dieser Hinweis ist nicht so zu verstehen, dass er eine ausdrückliche oder konkludente Zusage oder einen Vertrag über eine Beschäftigung, einen Vorteil oder eine bestimmte Behandlung in bestimmten Situationen enthält. Nichts in diesem Hinweis sollte so ausgelegt werden, dass die Fähigkeit von GitHub beeinträchtigt wird, Kandidatendaten zum Zwecke der Erfüllung unserer gesetzlichen Verpflichtungen oder zur Untersuchung mutmaßlichen Fehlverhaltens oder Verstößen gegen Unternehmensrichtlinien oder Gesetzen, vorbehaltlich der Einhaltung lokaler gesetzlicher Vorschriften, zu verarbeiten.
 
