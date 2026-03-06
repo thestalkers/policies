@@ -276,6 +276,6 @@ GitHub répondra rapidement aux demandes émises par l'intermédiaire d'un tribu
 [Questions](#questions)
 ----------
 
-Avez-vous d'autres questions, commentaires ou suggestions ? Veuillez contacter .
+Avez-vous d'autres questions, commentaires ou suggestions ? Veuillez contacter nous via le [portail de support GitHub](https://support.github.com).
 
 {"resolvedServerColorMode":"day"}

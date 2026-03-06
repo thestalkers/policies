@@ -31,7 +31,7 @@ Neste artigo
 * [10. Publicidade no GitHub](#10-advertising-on-github)
 * [11. Proteção do usuário](#11-user-protection)
 
-**Versão curta:** *Hospedamos uma ampla variedade de projetos colaborativos do mundo todo, e essa colaboração só funciona quando nossos usuários são capazes de trabalhar juntos de boa-fé. Ao usar o Serviço, você deve cumprir nossas Políticas de Uso Aceitável, que incluem algumas restrições de conteúdo e conduta no GitHub relacionadas à segurança do usuário, propriedade intelectual, privacidade, autenticidade e outras limitações. Resumindo, sejam excelentes uns com os outros.*
+**Versão curta:***Hospedamos uma ampla variedade de projetos colaborativos do mundo todo, e essa colaboração só funciona quando nossos usuários são capazes de trabalhar juntos de boa-fé. Ao usar o Serviço, você deve cumprir nossas Políticas de Uso Aceitável, que incluem algumas restrições de conteúdo e conduta no GitHub relacionadas à segurança do usuário, propriedade intelectual, privacidade, autenticidade e outras limitações. Resumindo, sejam excelentes uns com os outros.*
 
 Os termos em maiúsculas usados, mas não definidos nestas Políticas de Uso Aceitável, têm os significados atribuídos a eles em seu contrato principal conosco — os [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service) ou o Contrato de Cliente do GitHub, ou os [Termos de Serviço Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service) ou outro contrato herdado do GitHub, ou um contrato de licenciamento por volume da Microsoft. Para clientes sujeitos aos Termos de Serviços Corporativos herdados, "você" e "seu" referem-se a "Cliente" ou "Usuários". "Nós", "nos" e "nosso" referem-se ao "GitHub".
 
@@ -136,7 +136,7 @@ As limitações de largura de banda do Serviço variam de acordo com os recursos
 [10. Publicidade no GitHub](#10-advertising-on-github)
 ----------
 
-**Versão curta:** *Geralmente, não proibimos o uso do GitHub para publicidade. No entanto, esperamos que nossos usuários sigam determinadas limitações para que o GitHub não se torne um paraíso de spam. Ninguém quer isso.*
+**Versão curta:***Geralmente, não proibimos o uso do GitHub para publicidade. No entanto, esperamos que nossos usuários sigam determinadas limitações para que o GitHub não se torne um paraíso de spam. Ninguém quer isso.*
 
 Embora entendamos que você pode querer promover seu Conteúdo publicando nomes ou logotipos de apoiadores em sua Conta, o foco principal do Conteúdo postado em ou por meio de sua Conta no Serviço não deve ser publicidade ou marketing promocional. Isso inclui Conteúdo postado em ou através de Páginas, Pacotes, repositórios e todas as outras partes do Serviço. Você pode incluir imagens estáticas, links e texto promocional nos documentos README ou nas seções de descrição do projeto associados à sua conta, mas eles devem estar relacionados ao projeto que você está hospedando no GitHub. Você não pode anunciar nas contas de outros usuários, como publicar conteúdo monetizado ou em massa excessivo em problemas.
 

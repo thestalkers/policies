@@ -270,7 +270,7 @@ Indem Sie ein rechtliches Verfahren gegen GitHub einleiten, bestätigen Sie, das
 ----------
 
 Als US-amerikanisches Unternehmen mit Sitz in Kalifornien ist GitHub nicht verpflichtet, Daten an ausländische Regierungen als Reaktion auf von ausländischen Behörden erlassene Rechtsverfahren bereitzustellen.
-Ausländische Strafverfolgungsbeamte, die Informationen von GitHub anfordern möchten, sollten sich an das Office of International Affairs des United States Department of Justice Criminal Division wenden.
+Ausländische Strafverfolgungsbeamte, die Informationen von GitHub anfordern möchten, sollten sich an das Office of International Affairs des USA Department of Justice Criminal Division wenden.
 GitHub wird unverzüglich auf Ersuchen reagieren, die über ein US-Gericht im Wege eines Rechtshilfeabkommens („MLAT“) oder eines Rechtshilfeersuchens gestellt werden.
 
 [Fragen](#questions)

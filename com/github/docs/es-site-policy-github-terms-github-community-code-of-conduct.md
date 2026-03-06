@@ -35,7 +35,7 @@ La comunidad de GitHub, impulsada por los debates de GitHub, está diseñada par
 
 Con este código de conducta, esperamos ayudarlo a comprender cómo colaborar mejor en la comunidad de GitHub, qué puede esperar de los moderadores y qué tipo de acciones o contenidos pueden provocar la suspensión temporal o permanente de la participación en la comunidad. Investigaremos todos los informes de abuso y podremos moderar el contenido público en el seno de la comunidad de GitHub cuando determinemos que infringe los Términos del servicio de GitHub o este código de conducta.
 
-Nuestra diversa base de usuarios aporta diferentes perspectivas, ideas y experiencias, y abarca desde personas que crearon su primer proyecto "Hello World" la semana pasada hasta los desarrolladores de software más conocidos del mundo. Estamos comprometidos a hacer de GitHub un entorno que acoja todas las diferentes voces y perspectivas que nuestra comunidad tiene para ofrecer, mientras mantenemos un lugar seguro para que los desarrolladores hagan su mejor trabajo.
+Nuestra diversa base de usuarios aporta diferentes perspectivas, ideas y experiencias, y abarca desde personas que crearon su primer proyecto "Hola mundo" la semana pasada hasta los desarrolladores de software más conocidos del mundo. Estamos comprometidos a hacer de GitHub un entorno que acoja todas las diferentes voces y perspectivas que nuestra comunidad tiene para ofrecer, mientras mantenemos un lugar seguro para que los desarrolladores hagan su mejor trabajo.
 
 [Prometer](#pledge)
 ----------

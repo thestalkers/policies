@@ -12,7 +12,7 @@
 Документация по политике сайта
 ==========
 
-[Условия GitHub](/ru/site-policy/github-terms)
+[Условия #REF!](/ru/site-policy/github-terms)
 ----------
 
 [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
@@ -30,7 +30,7 @@
 [Политики безопасности](/ru/site-policy/security-policies)
 ----------
 
-[Политика компании GitHub](/ru/site-policy/github-company-policies)
+[Политика компании #REF!](/ru/site-policy/github-company-policies)
 ----------
 
 {"resolvedServerColorMode":"day"}

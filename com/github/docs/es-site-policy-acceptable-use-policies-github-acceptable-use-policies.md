@@ -31,7 +31,7 @@ En este artículo
 * [10. Publicidad en GitHub](#10-advertising-on-github)
 * [11. Protección del usuario](#11-user-protection)
 
-**Versión breve:** *Hospedamos una amplia variedad de proyectos colaborativos de todo el mundo, y esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el Servicio, debe cumplir nuestras Directivas de Uso Aceptable, que incluyen algunas restricciones sobre el contenido y la conducta en GitHub relacionadas con la seguridad del usuario, la propiedad intelectual, la privacidad, la autenticidad y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*
+**Versión breve:***Hospedamos una amplia variedad de proyectos colaborativos de todo el mundo, y esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el Servicio, debe cumplir nuestras Directivas de Uso Aceptable, que incluyen algunas restricciones sobre el contenido y la conducta en GitHub relacionadas con la seguridad del usuario, la propiedad intelectual, la privacidad, la autenticidad y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*
 
 Los términos en mayúsculas utilizados pero no definidos en estas Directivas de uso aceptable tienen el significado que se les asigna en su acuerdo principal con nosotros: los [Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) o el Contrato de cliente de GitHub, o los [Términos de servicio corporativos de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service) u otro contrato heredado de GitHub, o un contrato de licencias por volumen de Microsoft. Para los clientes sujetos a los Términos de servicio corporativos heredados, los términos «usted», «su» y demás usos de la segunda persona formal se refieren al «Cliente» o a los «Usuarios». Los términos «nosotros», «nos», y «nuestro» se refieren a «GitHub».
 
@@ -136,7 +136,7 @@ Las limitaciones de ancho de banda del Servicio varían según las funciones que
 [10. Publicidad en GitHub](#10-advertising-on-github)
 ----------
 
-**Versión breve:** *En general, no prohibimos el uso de GitHub con fines publicitarios. Sin embargo, esperamos que nuestros usuarios respeten algunas limitaciones para que GitHub no se convierta en un paraíso del correo no deseado. Esto es algo que a nadie le interesa.*
+**Versión breve:***En general, no prohibimos el uso de GitHub con fines publicitarios. Sin embargo, esperamos que nuestros usuarios respeten algunas limitaciones para que GitHub no se convierta en un paraíso del correo no deseado. Esto es algo que a nadie le interesa.*
 
 Si bien entendemos que es posible que desee promocionar su Contenido mediante la publicación de los nombres o logotipos de los seguidores en su Cuenta, el enfoque principal del Contenido publicado en o a través de su Cuenta para el Servicio no debe ser la publicidad o el marketing promocional. Esto incluye Contenido publicado en o a través de Páginas, Paquetes, repositorios y todas las demás partes del Servicio. Puede incluir imágenes estáticas, enlaces y texto promocional en los documentos LÉAME o en las secciones de descripción del proyecto asociadas con su Cuenta, pero deben estar relacionados con el proyecto que aloja en GitHub. No puede anunciarse en las Cuentas de otros Usuarios, por ejemplo, mediante la publicación de contenido monetizado o excesivo en ediciones.
 

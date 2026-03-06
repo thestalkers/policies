@@ -32,7 +32,7 @@ Comme pour toutes les questions juridiques, il est toujours préférable de cons
 [Avant de commencer](#before-you-start)
 ----------
 
-***Dites la vérité.*** La DMCA exige que vous prêtiez serment sur votre information préalable en matière de contestation *sous peine de parjure*. C'est un crime fédéral de mentir intentionnellement dans une déclaration sous serment. (*Voir* [U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) La présentation de fausses informations peut également entraîner une responsabilité civile, c'est-à-dire que vous pouvez être poursuivi en justice pour des dommages-intérêts.
+***Dites la vérité.*** La DMCA exige que vous prêtiez serment sur votre information préalable en matière de contestation *sous peine de parjure*. C'est un crime fédéral de mentir intentionnellement dans une déclaration sous serment. (*Voir*[U.S. Code, Title 18, Section 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) La présentation de fausses informations peut également entraîner une responsabilité civile, c'est-à-dire que vous pouvez être poursuivi en justice pour des dommages-intérêts.
 
 ***Mener une enquête.*** L'envoi d'un avis de contestation DMCA peut avoir de réelles conséquences juridiques. Si la partie plaignante n'est pas d'accord sur le fait que son avis de retrait est erroné, elle peut décider d'intenter une action en justice contre vous pour que le contenu reste désactivé. Vous devriez mener une enquête approfondie sur les allégations faites dans l'avis de retrait et probablement parler à un avocat avant de soumettre un contre-avis.
 

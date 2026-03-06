@@ -55,7 +55,7 @@ GitHub 社区的主要目的是协作处理软件项目。 我们致力于维持
 
 * **锁定对话** - 如果议题、拉取请求或提交的讨论失控、偏离主题或者违反项目的行为准则或 GitHub 政策，则所有者、协作者和其他具有写入权限的人可以临时或永久锁定对话。 有关详细信息，请参阅“[锁定对话](/zh/communities/moderating-comments-and-conversations/locking-conversations)”。
 
-* **阻止用户** - 如果您遇到某个您不希望与之交互的用户，则可以[从您的个人帐户阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)或[从您的组织阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)。
+* **阻止用户** - 如果您遇到某个您不希望与之交互的用户，则可以[从您的个人帐户阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)或[从您的组织阻止该用户](/zh/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)。
 
 * **限制交互** - 如果您的公共项目受到不必要的关注、收到挑衅信息、收到垃圾邮件或其他侮辱性信息，您可以选择设置[临时交互限制](/zh/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)，以阻止某些用户与您的存储库进行交互。 您甚至可以设置[代码审查限制](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)，以保障对您项目的高质量参与。
 

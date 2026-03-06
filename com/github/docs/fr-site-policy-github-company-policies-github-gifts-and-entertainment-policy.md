@@ -57,7 +57,7 @@ Alors, que signifie « de valeur" ? Gardez à l'esprit qu'aucun cadeau n'est a
 
 Comme pour les autres clients ou clients potentiels, certaines choses peuvent sembler anodines mais avoir une grande valeur pour quelqu'un d'autre. Par exemple, bien que cela ne vous semble pas très important d'embaucher la fille de votre ami comme stagiaire, cela pourrait être d'une grande valeur pour lui. Mais si elle n'est pas qualifiée et que vous tirez les ficelles pour que cela se produise, alors ce n'est pas correct. De plus, si l'intention est d'influencer indûment, quelque chose, aussi minime soit-il, pourrait être considéré comme « ayant de la valeur ».
 
-🙅 *Voici quelques autres exemples non acceptables :*
+\_Voici quelques autres exemples non acceptables :\_
 
 * Billet d'avion en première classe vers les bureaux de GitHub pour les réunions de la direction ✈️+🍾
 * Visites guidées de vignobles 🍷
@@ -66,7 +66,7 @@ Comme pour les autres clients ou clients potentiels, certaines choses peuvent se
 * Un futbol ⚽️ dédicacé par un joueur célèbre
 * Une contribution à une association caritative
 
-🙆 *Voici des exemples qui sont en fait acceptables pour les clients ou les clients potentiels :*
+\_Voici des exemples qui sont en fait acceptables pour les clients ou les clients potentiels :\_
 
 * Guirlande
 * Billet d'avion en classe économique vers les bureaux de GitHub pour les briefings exécutifs ✈️

@@ -1,4 +1,4 @@
-Политика логотипа GitHub - Документация по GitHub
+Политика логотипа #REF! - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -9,9 +9,9 @@
 
 * [Политика сайта](/ru/site-policy)/
 * [Другие правила сайта](/ru/site-policy/other-site-policies)/
-* [Политика логотипа GitHub](/ru/site-policy/other-site-policies/github-logo-policy)
+* [Политика логотипа #REF!](/ru/site-policy/other-site-policies/github-logo-policy)
 
-Политика логотипа GitHub
+Политика логотипа #REF!
 ==========
 
 Просмотр страницы как Markdown

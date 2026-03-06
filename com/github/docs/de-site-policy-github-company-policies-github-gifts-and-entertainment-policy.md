@@ -57,7 +57,7 @@ Was bedeutet also „wertvoll“? Denken Sie daran, dass keine Geschenke für Re
 
 Für andere Kunden oder potenzielle Kunden mögen bestimmte Dinge trivial erscheinen, aber für jemand anderen einen großen Wert haben. Auch wenn es Ihnen zum Beispiel keine große Sache zu sein scheint, die Tochter Ihres Freundes als Praktikantin einzustellen, könnte es für sie von großem Wert sein. Aber wenn sie nicht qualifiziert ist und du an den Fäden ziehst, damit es passiert, dann ist es nicht in Ordnung. Wenn die Absicht darin besteht, unangemessen Einfluss zu nehmen, kann außerdem alles, auch wenn es noch so klein ist, als „wertvoll“ angesehen werden.
 
-🙅 *Hier sind einige andere Beispiele für Dinge, die nicht in Ordnung sind:*
+\_Hier sind einige andere Beispiele für Dinge, die nicht in Ordnung sind:\_
 
 * Flugticket erster Klasse zu den Standorten von GitHub für Executive Briefings ✈️+🍾
 * Weingut-Touren 🍷
@@ -66,7 +66,7 @@ Für andere Kunden oder potenzielle Kunden mögen bestimmte Dinge trivial ersche
 * Ein Fußball ⚽️ signiert von einem berühmten Spieler
 * Ein Beitrag für eine Wohltätigkeitsorganisation
 
-🙆 *Hier sind einige Dinge, die für Kunden oder potenzielle Kunden für gewöhnlich in Ordnung sind:*
+\_Hier sind einige Dinge, die für Kunden oder potenzielle Kunden für gewöhnlich in Ordnung sind:\_
 
 * Beute
 * Flug in der Economy Class zu GitHub-Büros für Executive Briefings ✈️

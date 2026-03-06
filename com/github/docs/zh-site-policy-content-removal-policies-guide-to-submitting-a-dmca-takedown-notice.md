@@ -26,16 +26,16 @@ DMCA 下架通知提交指南
 
 本指南说明了 GitHub 处理 DMCA 下架请求所需的信息。 如果您对 DMCA 是什么或 GitHub 如何处理 DMCA 下架请求有更多常规问题，请参阅我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)。
 
-鉴于 GitHub 托管内容的类型（主要是软件代码）以及管理内容的方式（使用 Git），我们需要投诉内容尽可能具体。 这些准则旨在尽可能简单明了地处理指控侵权的通知。 下述通知形式与 DMCA 法规建议的形式一致，您可以登录美国版权局官方网站<https://www.copyright.gov> 查看该法规。
+鉴于 GitHub 托管内容的类型（主要是软件代码）以及管理内容的方式（使用 Git），我们需要投诉内容尽可能具体。 这些准则旨在尽可能简单明了地处理指控侵权的通知。 下述通知形式与 DMCA 法规建议的形式一致，您可以登录美国版权局官方网站 <https://www.copyright.gov> 查看该法规。
 
 与所有法律事务一样，就您的具体问题或情况咨询专业人员始终是最好的方式。 我们强烈建议您在采取任何可能影响您权利的行动之前这样做。 本指南不是法律意见，不应被视为法律意见。
 
 [开始前](#before-you-start)
 ----------
 
-***说实话。*** DMCA 要求您对自己的版权投诉内容宣誓，如有不实会受到伪证处罚。 在宣誓声明中故意说谎是一种联邦罪行。 （*请参阅*[美国法典，第 18 章，第 1621 条](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)。）提交虚假信息还可能导致民事责任，即可能被诉提供经济赔偿。 DMCA 本身对任何故意严重歪曲材料或活动侵权的人[规定了赔偿条款](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)。
+***说实话。*** DMCA 要求您对自己的版权投诉内容宣誓，*如有不实会受到伪证处罚*。 在宣誓声明中故意说谎是一种联邦罪行。 （*请参阅*[美国法典，第 18 章，第 1621 条](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)。）提交虚假信息还可能导致民事责任，即可能被诉提供经济赔偿。 DMCA 本身对任何故意严重歪曲材料或活动侵权的人[规定了赔偿条款](https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act#%C2%A7_512(f)_Misrepresentations)。
 
-调查。 数百万用户为自己在 GitHub 上创建和参与的项目倾注了心血。 针对此类项目提出 DMCA 投诉是一种严重的法律指控，会对项目背后真实的人造成真正的后果。 因此，我们要求您在提交下架通知之前进行彻底的调查并咨询律师，以确保您所投诉的使用没有经过许可。
+***调查。*** 数百万用户为自己在 GitHub 上创建和参与的项目倾注了心血。 针对此类项目提出 DMCA 投诉是一种严重的法律指控，会对项目背后真实的人造成真正的后果。 因此，我们要求您在提交下架通知之前进行彻底的调查并咨询律师，以确保您所投诉的使用没有经过许可。
 
 ***先礼貌问清。*** 向我们发送下架通知之前，最好先尝试直接联系用户。 他们可能在其公开的个人资料页面上或存储库的自述文件中列出了联系信息，您也可以通过在存储库中打开议题或拉取请求，与他们取得联系。 这不是强制要求，但却是一种很好的做法。
 

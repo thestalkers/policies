@@ -199,7 +199,7 @@ Unsere Adressen sind:
 
 GitHub B.V Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 USA
 
 [Ergänzungen](#addenda)
 ----------
@@ -291,7 +291,7 @@ Um die Ausübung eines der oben genannten Rechte zu beantragen, kontaktieren Sie
 
 GitHub B.V Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 USA
 
 Wir werden alle Anfragen in Übereinstimmung mit den geltenden Datenschutzgesetzen berücksichtigen und verarbeiten. Bitte beachten Sie, dass wir bestimmte Informationen von Ihnen zur Bestätigung Ihrer Identität anfordern können. Unter bestimmten Umständen können wir eine angemessene Gebühr für Verwaltungskosten im Zusammenhang mit der Beantwortung Ihrer Anfrage berechnen; wir werden Sie jedoch im Voraus über eventuelle Gebühren unterrichten.
 
@@ -305,7 +305,7 @@ Für Kandidaten ist der Verantwortliche Ihrer personenbezogenen Daten das GitHub
 
 GitHub B.V Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 USA
 
 Darüber hinaus werden die Kontaktdaten des Verantwortlichen für Ihre Daten in Ihrem Vertrag oder Ihrer Bewerbung angegeben.
 

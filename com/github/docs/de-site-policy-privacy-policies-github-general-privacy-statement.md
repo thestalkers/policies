@@ -210,7 +210,7 @@ Unsere Adressen sind:
 GitHub B.V
 Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 USA
 
 [Informationen zu Minderjährigen](#information-for-minors)
 ----------

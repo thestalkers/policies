@@ -32,7 +32,7 @@ Como em todas as questões jurídicas, é sempre melhor consultar um profissiona
 [Antes que você comece](#before-you-start)
 ----------
 
-***Diga a verdade.*** A DMCA exige que você faça um juramento em relação à sua contranotificação *sob pena de perjúrio*. É um crime federal mentir intencionalmente em uma declaração juramentada. (*Consulte o* [Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode ocasionar responsabilidade civil, ou seja, você pode ser processado por danos financeiros.
+***Diga a verdade.*** A DMCA exige que você faça um juramento em relação à sua contranotificação *sob pena de perjúrio*. É um crime federal mentir intencionalmente em uma declaração juramentada. (*Consulte o*[Código dos EUA, Título 18, Seção 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm).) O envio de informações falsas também pode ocasionar responsabilidade civil, ou seja, você pode ser processado por danos financeiros.
 
 ***Investigar.*** O envio de uma contranotificação DMCA pode ter consequências legais reais. Se a parte reclamante discordar de que o aviso de remoção foi incorreto, ela poderá decidir entrar com uma ação judicial contra você para manter o conteúdo desativado. Você deve conduzir uma investigação completa sobre as alegações feitas na notificação de remoção e provavelmente conversar com um advogado antes de enviar uma contranotificação.
 

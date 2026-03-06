@@ -57,7 +57,7 @@ Então, o que significa "de valor"? Tenha em mente que nenhum presente é aceit�
 
 Quanto a outros clientes ou potenciais clientes, certas coisas podem parecer triviais, mas têm grande valor para outra pessoa. Por exemplo, embora possa não parecer grande coisa para você contratar a filha de seu amigo como estagiária, pode ser de grande valor para eles. Mas se ela não for qualificada e você puxar as cordas para que isso aconteça, então não está tudo bem. Além disso, se a intenção for influenciar indevidamente, qualquer coisa, por menor que seja, pode ser considerada "de valor".
 
-🙅 *Veja algumas outras ações que não são permitidas:*
+\_Veja algumas outras ações que não são permitidas:\_
 
 * Passagem aérea de primeira classe para os executivos do GitHub para resumos executivos ✈️+🍾
 * Passeios de vinícola 🍷
@@ -66,7 +66,7 @@ Quanto a outros clientes ou potenciais clientes, certas coisas podem parecer tri
 * Um futbol ⚽️ autografado por um jogador famoso
 * Uma contribuição para uma instituição de caridade
 
-🙆 *Aqui estão alguns exemplos que são realmente bons para clientes ou clientes em potencial:*
+\_Aqui estão alguns exemplos que são realmente bons para clientes ou clientes em potencial:\_
 
 * Swag
 * Passagem aérea em classe econômica para escritórios do GitHub para briefings executivos ✈️

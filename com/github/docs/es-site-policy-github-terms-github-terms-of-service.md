@@ -74,7 +74,7 @@ Fecha de entrada en vigor: 16 de noviembre de 2020
 [A. Definiciones](#a-definitions)
 ----------
 
-**Version abreviada:** *estos son los términos básicos que utilizamos a lo largo del acuerdo y que tienen significados específicos. Debe saber a qué nos referimos cuando usamos cada uno de los términos. Aunque no le vayamos a examinar sobre ellos, son bastante útiles.*
+**Version abreviada:***estos son los términos básicos que utilizamos a lo largo del acuerdo y que tienen significados específicos. Debe saber a qué nos referimos cuando usamos cada uno de los términos. Aunque no le vayamos a examinar sobre ellos, son bastante útiles.*
 
 1. Una "Cuenta" representa su relación legal con GitHub. Una "Cuenta personal" representa la autorización de un Usuario individual para iniciar sesión y utilizar el Servicio y sirve como identidad de Usuario en GitHub. Las "Organizaciones" son espacios de trabajo compartidos que pueden estar asociados con una sola entidad o con uno o más Usuarios donde varios Usuarios pueden colaborar en muchos proyectos a la vez. Una cuenta personal puede ser miembro de cualquier número de organizaciones.
 2. El «Acuerdo» se refiere, de forma colectiva, a todos los términos, condiciones, avisos contenidos o a los que se hace referencia en este documento (los «Términos de Servicio» o los «Términos») y todas las demás normas de funcionamiento, directivas (incluida la Declaración de Privacidad de GitHub que está disponible en [github.com/site/privacy](https://github.com/site/privacy)) y los procedimientos que podemos publicar ocasionalmente en el Sitio Web. La mayoría de las directivas del sitio están disponibles en [docs.github.com/categories/site-policy](/es/site-policy).
@@ -88,7 +88,7 @@ Fecha de entrada en vigor: 16 de noviembre de 2020
 [B. Términos de la cuenta](#b-account-terms)
 ----------
 
-**Versión abreviada:** *las Cuentas Personales y las Organizaciones tienen diferentes controles administrativos; la Cuenta debe crearla un ser humano; usted debe ser mayor de 13 años; debe proporcionar una dirección de correo electrónico válida; y no puede tener más de una Cuenta gratuita. Usted es el único responsable de su Cuenta y de cualquier cosa que suceda mientras esté conectado a su Cuenta o utilizándola. Usted es responsable de proteger su Cuenta.*
+**Versión abreviada:***las Cuentas Personales y las Organizaciones tienen diferentes controles administrativos; la Cuenta debe crearla un ser humano; usted debe ser mayor de 13 años; debe proporcionar una dirección de correo electrónico válida; y no puede tener más de una Cuenta gratuita. Usted es el único responsable de su Cuenta y de cualquier cosa que suceda mientras esté conectado a su Cuenta o utilizándola. Usted es responsable de proteger su Cuenta.*
 
 ### [1. Controles de la Cuenta](#1-account-controls) ###
 
@@ -130,7 +130,7 @@ Si se ha registrado en GitHub Enterprise Cloud, se le aplicará el [Anexo de Ent
 [C. Uso aceptable](#c-acceptable-use)
 ----------
 
-**Versión abreviada:** *GitHub aloja una amplia variedad de proyectos colaborativos de todo el mundo, pero esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el servicio, debe cumplir los términos de este apartado, que incluyen algunas restricciones sobre el contenido que puede publicar, su conducta en el servicio y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*
+**Versión abreviada:***GitHub aloja una amplia variedad de proyectos colaborativos de todo el mundo, pero esa colaboración solo funciona si nuestros usuarios son capaces de trabajar juntos de buena fe. Mientras usa el servicio, debe cumplir los términos de este apartado, que incluyen algunas restricciones sobre el contenido que puede publicar, su conducta en el servicio y otras limitaciones. En resumen, rogamos a los usuarios que se comporten de una forma excelente los unos con los otros.*
 
 Su uso del sitio web y el servicio no debe violar ninguna ley aplicable, incluidas las leyes de derechos de autor o marcas registradas, las leyes de sanciones o control de exportaciones, u otras leyes en su jurisdicción. Usted es responsable de asegurarse de que su uso del Servicio cumpla con las leyes y las reglamentaciones aplicables.
 
@@ -139,7 +139,7 @@ Usted acuerda que, bajo ninguna circunstancia, incumplirá nuestras [Directrices
 [D. Contenido Generado por el Usuario](#d-user-generated-content)
 ----------
 
-**Versión abreviada:** *usted es el propietario del contenido que crea, pero nos otorga ciertos derechos sobre él para que podamos mostrar y compartir el contenido que publica. Aun así, usted tiene el control de su contenido y es responsable de él, y los derechos que nos otorga se limitan a los que necesitamos para ofrecer el servicio. Tenemos derecho a eliminar contenido o cerrar Cuentas si es necesario.*
+**Versión abreviada:***usted es el propietario del contenido que crea, pero nos otorga ciertos derechos sobre él para que podamos mostrar y compartir el contenido que publica. Aun así, usted tiene el control de su contenido y es responsable de él, y los derechos que nos otorga se limitan a los que necesitamos para ofrecer el servicio. Tenemos derecho a eliminar contenido o cerrar Cuentas si es necesario.*
 
 ### [1. Responsabilidad respecto al Contenido Generado por el Usuario](#1-responsibility-for-user-generated-content) ###
 
@@ -188,7 +188,7 @@ Esta sección D.8 no se aplica al acceso únicamente con fines de investigació
 [E. Repositorios privados](#e-private-repositories)
 ----------
 
-**Versión abreviada:** *tratamos el contenido de los repositorios privados como confidencial y solo accedemos a él de la forma en que se describe en nuestra Declaración de Privacidad, es decir, por motivos de seguridad, para ayudar al propietario del repositorio con un problema de soporte, para mantener la integridad del Servicio, para cumplir nuestras obligaciones legales, si tenemos motivos para creer que el contenido infringe la ley o con su consentimiento.*
+**Versión abreviada:***tratamos el contenido de los repositorios privados como confidencial y solo accedemos a él de la forma en que se describe en nuestra Declaración de Privacidad, es decir, por motivos de seguridad, para ayudar al propietario del repositorio con un problema de soporte, para mantener la integridad del Servicio, para cumplir nuestras obligaciones legales, si tenemos motivos para creer que el contenido infringe la ley o con su consentimiento.*
 
 ### [1. Control de Repositorios Privados](#1-control-of-private-repositories) ###
 
@@ -220,7 +220,7 @@ Cancelaremos las Cuentas de los [infractores reincidentes](/es/site-policy/conte
 [G. Aviso de Propiedad Intelectual](#g-intellectual-property-notice)
 ----------
 
-**Versión abreviada:** *somos propietarios del servicio y de todo nuestro contenido. Para que pueda usar nuestro contenido, le otorgamos ciertos derechos, pero solo puede usar nuestro contenido de la manera en que está permitida.*
+**Versión abreviada:***somos propietarios del servicio y de todo nuestro contenido. Para que pueda usar nuestro contenido, le otorgamos ciertos derechos, pero solo puede usar nuestro contenido de la manera en que está permitida.*
 
 ### [1. Derechos de GitHub sobre el Contenido](#1-githubs-rights-to-content) ###
 
@@ -237,7 +237,7 @@ La licencia de este Acuerdo se concede en virtud de esta [licencia de Creative C
 [H. Términos de la API](#h-api-terms)
 ----------
 
-**Versión abreviada:** *usted acepta estos Términos de Servicio, además de este Apartado H, cuando usa cualquiera de las API de GitHub (Interfaz del Proveedor de Aplicaciones), incluido el uso que hace de la API a través de un producto de terceros que accede a GitHub.*
+**Versión abreviada:***usted acepta estos Términos de Servicio, además de este Apartado H, cuando usa cualquiera de las API de GitHub (Interfaz del Proveedor de Aplicaciones), incluido el uso que hace de la API a través de un producto de terceros que accede a GitHub.*
 
 El abuso o las solicitudes excesivamente frecuentes a GitHub a través de la API pueden resultar en la suspensión temporal o permanente del acceso de su Cuenta a la API. GitHub, a nuestro exclusivo criterio, determinará el abuso o el uso excesivo de la API. Haremos un intento razonable de advertirle por correo electrónico antes de la suspensión.
 
@@ -252,14 +252,14 @@ GitHub puede ofrecer acceso basado en suscripción a nuestra API para aquellos U
 [I. Términos Adicionales para los Productos de GitHub](#i-github-additional-product-terms)
 ----------
 
-**Versión abreviada:** *debe cumplir determinados términos y condiciones específicos para las diversas características y productos de GitHub, y usted acepta los Términos y Condiciones Complementarios en el momento en que acepta este Acuerdo.*
+**Versión abreviada:***debe cumplir determinados términos y condiciones específicos para las diversas características y productos de GitHub, y usted acepta los Términos y Condiciones Complementarios en el momento en que acepta este Acuerdo.*
 
 Algunas funciones del Servicio pueden estar sujetas a términos adicionales específicos de esa función o producto, tal como se establece en los Términos adicionales del producto de GitHub. Al acceder o utilizar los Servicios, también acepta los [Términos Adicionales para los Productos de GitHub](/es/site-policy/github-terms/github-terms-for-additional-products-and-features).
 
 [J. Vistas previas beta](#j-beta-previews)
 ----------
 
-**Versión abreviada:** *es posible que las Versiones Preliminares Beta no sean compatibles o que cambien en cualquier momento. Podría recibir información confidencial a través de esos programas, cuya confidencialidad deberá mantener mientras el programa sea privado. Nos encantaría recibir sus comentarios para mejorar nuestras Versiones Preliminares Beta.*
+**Versión abreviada:***es posible que las Versiones Preliminares Beta no sean compatibles o que cambien en cualquier momento. Podría recibir información confidencial a través de esos programas, cuya confidencialidad deberá mantener mientras el programa sea privado. Nos encantaría recibir sus comentarios para mejorar nuestras Versiones Preliminares Beta.*
 
 ### [1 Sujeto a cambios](#1-subject-to-change) ###
 
@@ -280,7 +280,7 @@ Siempre estamos tratando de mejorar los productos y servicios, y sus comentarios
 [K. Pago](#k-payment)
 ----------
 
-**Versión abreviada:** *usted es responsable del pago de cualquier tarifa asociada a su uso de GitHub. Nosotros somos responsables de comunicarle esas tarifas de una manera clara y precisa, y de informarle con suficiente antelación si esos precios cambian.*
+**Versión abreviada:***usted es responsable del pago de cualquier tarifa asociada a su uso de GitHub. Nosotros somos responsables de comunicarle esas tarifas de una manera clara y precisa, y de informarle con suficiente antelación si esos precios cambian.*
 
 ### [1. Precios](#1-pricing) ###
 
@@ -312,7 +312,7 @@ Usted es responsable de todos los cargos, incluidos los impuestos, asociados con
 [L. Cancelación y Resolución](#l-cancellation-and-termination)
 ----------
 
-**Versión abreviada:** *puede cerrar su Cuenta en cualquier momento. Si lo hace, trataremos su información de manera responsable.*
+**Versión abreviada:***puede cerrar su Cuenta en cualquier momento. Si lo hace, trataremos su información de manera responsable.*
 
 ### [1. Cancelación de la Cuenta](#1-account-cancellation) ###
 
@@ -337,7 +337,7 @@ Todas las disposiciones de este Acuerdo que, por su naturaleza, deben seguir vig
 [M. Comunicaciones con GitHub](#m-communications-with-github)
 ----------
 
-**Versión abreviada:** *utilizamos el correo electrónico y otros medios electrónicos para mantenernos en contacto con nuestros usuarios.*
+**Versión abreviada:***utilizamos el correo electrónico y otros medios electrónicos para mantenernos en contacto con nuestros usuarios.*
 
 ### [1. Comunicación Electrónica Requerida](#1-electronic-communication-required) ###
 
@@ -354,7 +354,7 @@ GitHub solo ofrece soporte por correo electrónico, comunicaciones en el servici
 [N. Renuncia de Garantías](#n-disclaimer-of-warranties)
 ----------
 
-**Versión abreviada:** *ofrecemos nuestro servicio tal cual, y no realizamos promesas ni garantías sobre él. Lea este apartado detenidamente para saber qué debe esperar.*
+**Versión abreviada:***ofrecemos nuestro servicio tal cual, y no realizamos promesas ni garantías sobre él. Lea este apartado detenidamente para saber qué debe esperar.*
 
 GitHub proporciona el Sitio web y el Servicio "tal cual" y "según disponibilidad", sin garantía de ningún tipo. Sin limitar esto, renunciamos expresamente a todas las garantías, ya sean expresas, implícitas o legales, con respecto al sitio web y el Servicio, incluidas, entre otras, cualquier garantía de comerciabilidad, idoneidad para un propósito particular, título, seguridad, precisión y no infracción.
 
@@ -363,7 +363,7 @@ GitHub no garantiza que el Servicio cumpla con sus requisitos; que el Servicio s
 [O. Limitación de responsabilidad](#o-limitation-of-liability)
 ----------
 
-**Versión abreviada:** *no somos responsables de los daños o pérdidas que se deriven de su uso o incapacidad para usar el Servicio o que se deriven de otro modo de lo estipulado en este Acuerdo. Lea este apartado atentamente; en él se limitan nuestras obligaciones con usted.*
+**Versión abreviada:***no somos responsables de los daños o pérdidas que se deriven de su uso o incapacidad para usar el Servicio o que se deriven de otro modo de lo estipulado en este Acuerdo. Lea este apartado atentamente; en él se limitan nuestras obligaciones con usted.*
 
 Usted comprende y acepta que no seremos responsables ante usted o cualquier tercero por cualquier pérdida de ganancias, uso, fondo de comercio o datos, o por cualquier daño incidental, indirecto, especial, consecuente o ejemplar, cualquiera que sea su origen, que resulte de
 
@@ -381,7 +381,7 @@ Nuestra responsabilidad es limitada ya sea que hayamos sido informados o no de l
 [P. Liberación e Indemnización](#p-release-and-indemnification)
 ----------
 
-**Versión abreviada:** *usted es responsable del uso que haga del servicio. Si hace daño a otra persona o tiene un conflicto con alguien, nosotros no nos involucraremos.*
+**Versión abreviada:***usted es responsable del uso que haga del servicio. Si hace daño a otra persona o tiene un conflicto con alguien, nosotros no nos involucraremos.*
 
 Si tiene una disputa con uno o más Usuarios, acepta liberar a GitHub de todos y cada uno de los reclamos, demandas y daños (reales y consecuentes) de todo tipo y naturaleza, conocidos y desconocidos, que surjan o estén relacionados de alguna manera con dicho disputas
 
@@ -390,7 +390,7 @@ Usted acepta indemnizarnos, defendernos y eximirnos de toda responsabilidad fren
 [Q. Modificaciones de estos Términos](#q-changes-to-these-terms)
 ----------
 
-**Versión abreviada:** *queremos que nuestros usuarios estén informados de los cambios importantes que se realicen en nuestros Términos, pero algunos cambios no son tan importantes, por lo que no queremos molestarle cada vez que corrijamos un error tipográfico. Por lo tanto, si bien podemos modificar este Acuerdo en cualquier momento, notificaremos a los usuarios sobre cualquier cambio importante y les daremos tiempo para que se ajusten a ellos.*
+**Versión abreviada:***queremos que nuestros usuarios estén informados de los cambios importantes que se realicen en nuestros Términos, pero algunos cambios no son tan importantes, por lo que no queremos molestarle cada vez que corrijamos un error tipográfico. Por lo tanto, si bien podemos modificar este Acuerdo en cualquier momento, notificaremos a los usuarios sobre cualquier cambio importante y les daremos tiempo para que se ajusten a ellos.*
 
 Nos reservamos el derecho, a nuestro exclusivo criterio, de modificar estos Términos de servicio en cualquier momento y actualizaremos estos Términos de servicio en caso de que se produzcan dichas modificaciones. Notificaremos a nuestros Usuarios de los cambios materiales a este Acuerdo, como aumentos de precios, al menos 30 días antes de que el cambio entre en vigencia mediante la publicación de un aviso en nuestro sitio web o el envío de un correo electrónico a la dirección de correo electrónico principal especificada en su cuenta de GitHub. El uso continuado del Servicio por parte del Cliente después de esos 30 días constituye la aceptación de dichas revisiones de este Acuerdo. Para cualquier otra modificación, su uso continuado del sitio web constituye la aceptación de nuestras revisiones de estos Términos de servicio. Puede ver todas las modificaciones de estos Términos en nuestro repositorio [Directiva del Sitio](https://github.com/github/site-policy).
 

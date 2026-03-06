@@ -63,7 +63,7 @@ Der Zweck dieses Vertrags besteht darin: 1) die Bedingungen festzulegen, unter d
 
 „**Sponsored Developer-Zahlung**” bezeichnet den Nettobetrag von einhundert Prozent (100 %) der monatlichen Bruttozahlungen von GitHub, die aus Sponsorings und Abonnements für Sponsored Developer-Konten erhalten werden, zuzüglich aller anwendbaren Matching Funds und anderer Erlöse aus Monetarisierungsoptionen, die der Sponsored Developer gegebenenfalls verwendet, abzüglich aller Rabatte, Steuern, Gebühren und Beträge, die GitHub nicht eingezogen hat oder die erstattet oder zurückgebucht wurden, Beträge, die Dritten im Zusammenhang mit dem Programm in Bezug auf ein Sponsored Developer-Konto geschuldet werden, und andere Ausnahmen, wie in Abschnitt 4 beschrieben.
 
-**USD** ist United States Dollar.
+**USD** ist USA Dollar.
 
 [Bedingungen für gesponserte Entwickler](#bedingungen-für-gesponserte-entwickler)
 ==========

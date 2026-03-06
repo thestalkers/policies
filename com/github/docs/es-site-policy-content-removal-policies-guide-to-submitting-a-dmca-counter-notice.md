@@ -32,7 +32,7 @@ Como con todos los asuntos legales, siempre es mejor consultar con un profesiona
 [Antes de que empieces](#before-you-start)
 ----------
 
-***Diga la verdad.*** La DMCA exige que jure *su contranotificación bajo pena de perjurio*. Es un delito federal mentir intencionalmente en una declaración jurada. (*Consulte el* [Código de EE. UU., Título 18, Apartado 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)). Enviar información falsa también podría derivar en una responsabilidad civil, es decir, podría ser demandado por daños económicos.
+***Diga la verdad.*** La DMCA exige que jure *su contranotificación bajo pena de perjurio*. Es un delito federal mentir intencionalmente en una declaración jurada. (*Consulte el*[Código de EE. UU., Título 18, Apartado 1621](https://www.gpo.gov/fdsys/pkg/USCODE-2011-title18/html/USCODE-2011-title18-partI-chap79-sec1621.htm)). Enviar información falsa también podría derivar en una responsabilidad civil, es decir, podría ser demandado por daños económicos.
 
 ***Investigue.*** Enviar una contranotificación de DMCA puede tener consecuencias legales reales. Si la parte reclamante no está de acuerdo con que su aviso de eliminación fue incorrecto, es posible que decida presentar una demanda en su contra para mantener el contenido deshabilitado. Debe realizar una investigación exhaustiva de las acusaciones hechas en el aviso de eliminación y probablemente hablar con un abogado antes de enviar un contraaviso.
 
