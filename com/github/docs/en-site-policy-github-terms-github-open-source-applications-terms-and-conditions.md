@@ -14,7 +14,7 @@ GitHub Open Source Applications Terms and Conditions - GitHub Docs
 GitHub Open Source Applications Terms and Conditions
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

@@ -14,7 +14,7 @@ GitHub Terms for Additional Products and Features - GitHub Docs
 GitHub Terms for Additional Products and Features
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

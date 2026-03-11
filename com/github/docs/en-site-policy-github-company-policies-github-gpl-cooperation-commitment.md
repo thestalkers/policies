@@ -14,7 +14,7 @@ GitHub GPL Cooperation Commitment - GitHub Docs
 GitHub GPL Cooperation Commitment
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 

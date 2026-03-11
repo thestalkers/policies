@@ -14,7 +14,7 @@ GitHub Trademark Policy - GitHub Docs
 GitHub Trademark Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

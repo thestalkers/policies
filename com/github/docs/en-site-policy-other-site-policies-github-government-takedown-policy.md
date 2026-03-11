@@ -14,7 +14,7 @@ GitHub Government Takedown Policy - GitHub Docs
 GitHub Government Takedown Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

@@ -14,7 +14,7 @@ GitHub Community Guidelines - GitHub Docs
 GitHub Community Guidelines
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

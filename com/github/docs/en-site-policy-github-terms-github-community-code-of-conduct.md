@@ -14,7 +14,7 @@ GitHub Community Code of Conduct - GitHub Docs
 GitHub Community Code of Conduct
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

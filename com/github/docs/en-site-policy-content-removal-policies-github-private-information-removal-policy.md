@@ -14,7 +14,7 @@ GitHub Private Information Removal Policy - GitHub Docs
 GitHub Private Information Removal Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

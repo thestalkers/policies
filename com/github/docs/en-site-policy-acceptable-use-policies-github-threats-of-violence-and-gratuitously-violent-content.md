@@ -14,7 +14,7 @@ GitHub Threats of Violence and Gratuitously Violent Content - GitHub Docs
 GitHub Threats of Violence and Gratuitously Violent Content
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 You may not use GitHub to organize, promote, encourage, threaten, or incite acts of violence. You may not post content that depicts or glorifies violence or physical harm against human beings or animals. This includes:
 

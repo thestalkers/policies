@@ -14,7 +14,7 @@ Submitting content removal requests - GitHub Docs
 Submitting content removal requests
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

@@ -14,7 +14,7 @@ GitHub Deceased User Policy - GitHub Docs
 GitHub Deceased User Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 

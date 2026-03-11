@@ -14,7 +14,7 @@ GitHub Acceptable Use Policies - GitHub Docs
 GitHub Acceptable Use Policies
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

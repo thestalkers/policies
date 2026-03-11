@@ -14,7 +14,7 @@ GitHub Anti-Bribery Statement - GitHub Docs
 GitHub Anti-Bribery Statement
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

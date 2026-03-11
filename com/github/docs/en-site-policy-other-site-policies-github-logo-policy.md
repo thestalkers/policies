@@ -14,7 +14,7 @@ GitHub Logo Policy - GitHub Docs
 GitHub Logo Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
 

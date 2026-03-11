@@ -14,7 +14,7 @@ GitHub Research Program Terms - GitHub Docs
 GitHub Research Program Terms
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

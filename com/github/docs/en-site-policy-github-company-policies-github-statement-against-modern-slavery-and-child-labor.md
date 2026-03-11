@@ -14,7 +14,7 @@ GitHub Statement Against Modern Slavery and Child Labor - GitHub Docs
 GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

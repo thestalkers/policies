@@ -14,7 +14,7 @@ GitHub and Trade Controls - GitHub Docs
 GitHub and Trade Controls
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------

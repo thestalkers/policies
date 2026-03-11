@@ -14,7 +14,7 @@ GitHub Disrupting the Experience of Other Users - GitHub Docs
 GitHub Disrupting the Experience of Other Users
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on.
 

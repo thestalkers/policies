@@ -14,7 +14,7 @@ GitHub Gifts and Entertainment Policy - GitHub Docs
 GitHub Gifts and Entertainment Policy
 ==========
 
-View page as Markdown
+Copy as Markdown
 
 In this article
 ----------
