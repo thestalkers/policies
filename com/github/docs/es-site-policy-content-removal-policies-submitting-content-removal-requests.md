@@ -2,7 +2,7 @@ Envío de solicitudes de eliminación de contenido - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Envío de solicitudes de eliminación de contenido - Documentación de GitHub
 Envío de solicitudes de eliminación de contenido
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

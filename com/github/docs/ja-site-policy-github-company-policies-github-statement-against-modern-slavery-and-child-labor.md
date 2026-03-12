@@ -14,9 +14,9 @@ GitHub の現代奴隷制と児童労働に反対する声明 - GitHub ドキュ
 GitHub の現代奴隷制と児童労働に反対する声明
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [GitHub の構造、ビジネス、サプライ チェーン](#githubs-structure-business-and-supply-chains)

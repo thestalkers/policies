@@ -14,7 +14,7 @@ Política de presentes e entretenimento do GitHub - Documentos do GitHub
 Política de presentes e entretenimento do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

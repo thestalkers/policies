@@ -2,7 +2,7 @@ Política de nombre de usuario de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Política de nombre de usuario de GitHub - Documentación de GitHub
 Política de nombre de usuario de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

@@ -14,9 +14,9 @@ GitHub 商标政策 - GitHub 文档
 GitHub 商标政策
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [哪些行为违反 GitHub 商标政策？](#what-is-a-github-trademark-policy-violation)

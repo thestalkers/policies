@@ -14,9 +14,9 @@ GitHub の個人情報削除ポリシー - GitHub ドキュメント
 GitHub の個人情報削除ポリシー
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [個人情報とは?](#what-is-private-information)

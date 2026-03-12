@@ -14,7 +14,7 @@ Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen - GitHub-Do
 Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -14,9 +14,9 @@ GitHub Marketplace 开发人员协议 - GitHub 文档
 GitHub Marketplace 开发人员协议
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [1.定义](#1definitions)

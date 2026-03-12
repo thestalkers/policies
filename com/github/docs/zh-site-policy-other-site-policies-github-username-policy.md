@@ -14,9 +14,9 @@ GitHub 用户名政策 - GitHub 文档
 GitHub 用户名政策
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [如果我想要的用户名已被占用怎么办？](#what-if-the-username-i-want-is-already-taken)

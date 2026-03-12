@@ -14,7 +14,7 @@ Bedingungen für GitHub-Events - GitHub-Dokumentation
 Bedingungen für GitHub-Events
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

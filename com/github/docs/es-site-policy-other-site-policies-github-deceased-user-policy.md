@@ -2,7 +2,7 @@ Política de usuarios fallecidos de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Política de usuarios fallecidos de GitHub - Documentación de GitHub
 Política de usuarios fallecidos de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En caso de que fallezca un usuario de GitHub, podemos trabajar con una persona autorizada para determinar qué sucede con el contenido de la cuenta.
 

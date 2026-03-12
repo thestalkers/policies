@@ -14,7 +14,7 @@ Richtlinien für rechtliche Anfragen von Benutzerdaten - GitHub-Dokumentation
 Richtlinien für rechtliche Anfragen von Benutzerdaten
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

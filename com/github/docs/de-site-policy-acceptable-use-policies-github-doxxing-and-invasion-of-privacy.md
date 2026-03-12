@@ -14,7 +14,7 @@ GitHub Doxxing und Verletzung der Privatsphäre - GitHub-Dokumentation
 GitHub Doxxing und Verletzung der Privatsphäre
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 Veröffentlichen Sie keine persönlichen Daten anderer Personen. Dies schließt Folgendes ein:
 

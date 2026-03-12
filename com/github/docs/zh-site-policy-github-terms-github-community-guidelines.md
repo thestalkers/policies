@@ -14,9 +14,9 @@ GitHub 社区指导方针 - GitHub 文档
 GitHub 社区指导方针
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [维护强大的社区](#maintaining-a-strong-community)

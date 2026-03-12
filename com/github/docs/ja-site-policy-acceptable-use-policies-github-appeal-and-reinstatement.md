@@ -14,9 +14,9 @@ GitHub の異議申し立ておよび復活 - GitHub ドキュメント
 GitHub の異議申し立ておよび復活
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [異議申し立ておよび復活](#appeal-and-reinstatement)

@@ -14,7 +14,7 @@ Termos do evento do GitHub - Documentos do GitHub
 Termos do evento do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

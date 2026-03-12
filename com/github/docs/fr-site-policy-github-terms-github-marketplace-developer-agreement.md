@@ -14,7 +14,7 @@ Contrat de développement de la place de marché GitHub - Documentation GitHub
 Contrat de développement de la place de marché GitHub
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

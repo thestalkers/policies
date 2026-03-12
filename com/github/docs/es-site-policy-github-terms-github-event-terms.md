@@ -2,7 +2,7 @@ Términos del evento de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Términos del evento de GitHub - Documentación de GitHub
 Términos del evento de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

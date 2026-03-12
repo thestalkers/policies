@@ -14,9 +14,9 @@ GitHub コミュニティの行動規範 - GitHub ドキュメント
 GitHub コミュニティの行動規範
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [概要および目的](#overview-and-purpose)

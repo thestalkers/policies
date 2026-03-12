@@ -2,7 +2,7 @@ Patrocinadores de GitHub Términos adicionales - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Patrocinadores de GitHub Términos adicionales - Documentación de GitHub
 Patrocinadores de GitHub Términos adicionales
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

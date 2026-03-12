@@ -14,7 +14,7 @@ Guide de soumission d'un avis de contestation DMCA - Documentation GitHub
 Guide de soumission d'un avis de contestation DMCA
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

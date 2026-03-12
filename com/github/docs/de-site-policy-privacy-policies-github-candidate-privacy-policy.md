@@ -14,7 +14,7 @@ GitHub: Globaler Datenschutzhinweis für Kandidaten - GitHub-Dokumentation
 GitHub: Globaler Datenschutzhinweis für Kandidaten
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -14,7 +14,7 @@ Código de conduta do evento GitHub - Documentos do GitHub
 Código de conduta do evento GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

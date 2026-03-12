@@ -14,9 +14,9 @@ GitHub 利用規約 - GitHub ドキュメント
 GitHub 利用規約
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [1.法令の遵守](#1-compliance-with-laws-and-regulations)

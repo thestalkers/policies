@@ -14,7 +14,7 @@ Conditions Générales d’Utilisation de GitHub - Documentation GitHub
 Conditions Générales d’Utilisation de GitHub
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

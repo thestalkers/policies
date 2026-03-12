@@ -2,7 +2,7 @@ Condiciones de servicio del Mercado GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Condiciones de servicio del Mercado GitHub - Documentación de GitHub
 Condiciones de servicio del Mercado GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

@@ -14,9 +14,9 @@ GitHub 活动条款 - GitHub 文档
 GitHub 活动条款
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [1. 参与活动的基本要求 - 包括活动行为准则](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)

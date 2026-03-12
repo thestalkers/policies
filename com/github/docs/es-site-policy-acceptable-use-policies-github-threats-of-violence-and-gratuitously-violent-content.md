@@ -2,7 +2,7 @@ GitHub Amenazas de violencia y contenido violento gratuito - Documentación de G
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ GitHub Amenazas de violencia y contenido violento gratuito - Documentación de G
 GitHub Amenazas de violencia y contenido violento gratuito
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 No puede usar GitHub para organizar, promover, alentar, amenazar o incitar a actos de violencia. No puede publicar contenido que represente o glorifique la violencia o el daño físico contra seres humanos o animales. Esto incluye:
 

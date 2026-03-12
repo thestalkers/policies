@@ -14,9 +14,9 @@ GitHub の腐敗防止に関する声明 - GitHub ドキュメント
 GitHub の腐敗防止に関する声明
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [GitHub ポリシーは贈収賄を禁止](#github-policies-prohibiting-bribery)

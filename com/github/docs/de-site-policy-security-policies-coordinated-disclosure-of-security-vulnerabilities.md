@@ -14,7 +14,7 @@ Koordinierte Offenlegung von Sicherheitslücken - GitHub-Dokumentation
 Koordinierte Offenlegung von Sicherheitslücken
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 Wir möchten GitHub für alle sicher halten. Wenn Sie eine Sicherheitslücke in GitHub entdeckt haben, schätzen wir Ihre Hilfe, indem Sie uns diese auf koordinierte Weise mitteilen.
 

@@ -14,7 +14,7 @@ Bullying e Assédio no GitHub - Documentos do GitHub
 Bullying e Assédio no GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Não toleramos assédio, intimidação ou abuso de qualquer tipo, seja diretamente ou incentivando outras pessoas a participar da conduta proibida. Isso inclui:
 

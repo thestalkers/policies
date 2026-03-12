@@ -14,7 +14,7 @@ Termos do Programa de Pesquisa GitHub - Documentos do GitHub
 Termos do Programa de Pesquisa GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

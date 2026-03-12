@@ -14,7 +14,7 @@ GitHub-Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
 GitHub-Richtlinien zur akzeptablen Nutzung
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

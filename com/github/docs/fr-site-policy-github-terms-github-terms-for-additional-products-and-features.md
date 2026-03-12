@@ -14,7 +14,7 @@ Conditions GitHub pour les produits et fonctionnalités supplémentaires - Docum
 Conditions GitHub pour les produits et fonctionnalités supplémentaires
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

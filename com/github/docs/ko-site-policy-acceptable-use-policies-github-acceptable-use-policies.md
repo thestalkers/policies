@@ -14,7 +14,7 @@ GitHub 사용 제한 정책 - GitHub 문서
 GitHub 사용 제한 정책
 ==========
 
-페이지를 Markdown으로 보기
+Markdown으로 복사
 
 이 문서의 내용
 ----------

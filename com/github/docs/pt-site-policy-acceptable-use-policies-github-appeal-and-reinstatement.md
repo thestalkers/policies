@@ -14,7 +14,7 @@ Contestação e reintegração do GitHub - Documentos do GitHub
 Contestação e reintegração do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

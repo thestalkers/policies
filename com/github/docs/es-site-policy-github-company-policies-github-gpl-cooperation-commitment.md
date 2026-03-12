@@ -2,7 +2,7 @@ Compromiso de cooperación de GitHub GPL - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Compromiso de cooperación de GitHub GPL - Documentación de GitHub
 Compromiso de cooperación de GitHub GPL
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para ver las definiciones).
 

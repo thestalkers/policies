@@ -14,9 +14,9 @@ GitHub 私人信息删除政策 - GitHub 文档
 GitHub 私人信息删除政策
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [什么是私人信息？](#what-is-private-information)

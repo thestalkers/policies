@@ -2,7 +2,7 @@ GitHub interrumpiendo la experiencia de otros usuarios - Documentación de GitHu
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ GitHub interrumpiendo la experiencia de otros usuarios - Documentación de GitHu
 GitHub interrumpiendo la experiencia de otros usuarios
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 Ser parte de una comunidad incluye reconocer cómo su comportamiento afecta a los demás y participar en interacciones significativas y productivas con las personas y la plataforma en la que confían.
 

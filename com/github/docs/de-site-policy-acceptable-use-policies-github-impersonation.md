@@ -14,7 +14,7 @@ GitHub-Identitätswechsel - GitHub-Dokumentation
 GitHub-Identitätswechsel
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 Sie dürfen Ihre Identität oder Ihre Verbindung zu einer anderen Person oder Organisation nicht falsch darstellen. Dies schließt Folgendes ein, um andere irrezuführen oder zu täuschen:
 

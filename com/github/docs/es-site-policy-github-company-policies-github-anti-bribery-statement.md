@@ -2,7 +2,7 @@ Declaración contra el soborno de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Declaración contra el soborno de GitHub - Documentación de GitHub
 Declaración contra el soborno de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

@@ -14,9 +14,9 @@
 用户数据法律请求准则
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [About these guidelines](#about-these-guidelines)

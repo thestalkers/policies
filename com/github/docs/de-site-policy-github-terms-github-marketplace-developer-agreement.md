@@ -14,7 +14,7 @@ GitHub Marketplace-Entwicklervereinbarung - GitHub-Dokumentation
 GitHub Marketplace-Entwicklervereinbarung
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

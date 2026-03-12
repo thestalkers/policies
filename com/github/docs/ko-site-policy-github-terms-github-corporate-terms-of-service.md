@@ -14,7 +14,7 @@ GitHub 기업 서비스 약관 - GitHub 문서
 GitHub 기업 서비스 약관
 ==========
 
-페이지를 Markdown으로 보기
+Markdown으로 복사
 
 이 문서의 내용
 ----------

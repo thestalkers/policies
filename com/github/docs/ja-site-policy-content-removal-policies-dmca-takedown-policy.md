@@ -14,9 +14,9 @@ DMCA 削除ポリシー - GitHub ドキュメント
 DMCA 削除ポリシー
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [DMCA とは何ですか?](#what-is-the-dmca)

@@ -14,7 +14,7 @@ GitHub の GPL Cooperation Commitment - GitHub ドキュメント
 GitHub の GPL Cooperation Commitment
 ==========
 
-Copy as Markdown
+Markdown としてコピー
 
 このコミットメントは、対象ライセンス (定義については、下までスクロールしてください) に従って Git、Linux カーネル、およびその他のプログラムへの GitHub のコントリビューションに関するものです。
 

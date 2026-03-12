@@ -2,7 +2,7 @@ GitHub Doxxing e invasión de la privacidad - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ GitHub Doxxing e invasión de la privacidad - Documentación de GitHub
 GitHub Doxxing e invasión de la privacidad
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 No publiques información personal de otras personas. Esto incluye:
 

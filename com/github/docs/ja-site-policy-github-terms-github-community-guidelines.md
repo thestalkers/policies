@@ -14,9 +14,9 @@ GitHub コミュニティ ガイドライン - GitHub ドキュメント
 GitHub コミュニティ ガイドライン
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [強力なコミュニティの維持](#maintaining-a-strong-community)

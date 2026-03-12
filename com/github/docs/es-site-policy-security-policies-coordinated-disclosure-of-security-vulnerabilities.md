@@ -2,7 +2,7 @@ Divulgación coordinada de vulnerabilidades de seguridad - Documentación de Git
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Divulgación coordinada de vulnerabilidades de seguridad - Documentación de Git
 Divulgación coordinada de vulnerabilidades de seguridad
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 Queremos mantener GitHub seguro para todos. Si ha descubierto una vulnerabilidad de seguridad en GitHub, apreciamos su ayuda para comunicárnosla de manera coordinada.
 

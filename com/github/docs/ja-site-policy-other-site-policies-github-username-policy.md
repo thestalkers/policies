@@ -14,9 +14,9 @@ GitHub のユーザー名ポリシー - GitHub ドキュメント
 GitHub のユーザー名ポリシー
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [使用したいユーザー名が既に他者に取得されている場合は?](#what-if-the-username-i-want-is-already-taken)

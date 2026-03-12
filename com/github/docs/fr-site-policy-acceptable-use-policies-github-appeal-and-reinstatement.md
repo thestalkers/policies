@@ -14,7 +14,7 @@ Appel et rétablissement de GitHub - Documentation GitHub
 Appel et rétablissement de GitHub
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

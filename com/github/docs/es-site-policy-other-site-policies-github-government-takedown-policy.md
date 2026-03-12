@@ -2,7 +2,7 @@ Política de eliminación del gobierno de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Política de eliminación del gobierno de GitHub - Documentación de GitHub
 Política de eliminación del gobierno de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

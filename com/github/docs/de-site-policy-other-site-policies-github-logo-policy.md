@@ -14,7 +14,7 @@ GitHub-Logo-Richtlinie - GitHub-Dokumentation
 GitHub-Logo-Richtlinie
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 Sie können GitHub-Logos auf Ihrer Website oder in einigen Anwendungen von Drittanbietern hinzufügen. Weitere Informationen und spezifische Richtlinien zur Verwendung von Logos finden Sie auf der Seite [GitHub-Logos und Verwendung](https://github.com/logos).
 

@@ -14,7 +14,7 @@ GitHub Cookie - GitHub 文档
 GitHub Cookie
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
 [Cookie](#cookie)
 ==========

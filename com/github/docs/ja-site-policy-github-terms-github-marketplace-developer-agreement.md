@@ -14,9 +14,9 @@ GitHub Marketplace 開発者契約 - GitHub ドキュメント
 GitHub Marketplace 開発者契約
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [1.定義](#1definitions)

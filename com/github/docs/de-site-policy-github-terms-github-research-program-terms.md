@@ -14,7 +14,7 @@ Bedingungen des GitHub-Forschungsprogramms - GitHub-Dokumentation
 Bedingungen des GitHub-Forschungsprogramms
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

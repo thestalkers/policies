@@ -14,7 +14,7 @@ GitHub-Erklärung zur Bestechungsbekämpfung - GitHub-Dokumentation
 GitHub-Erklärung zur Bestechungsbekämpfung
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

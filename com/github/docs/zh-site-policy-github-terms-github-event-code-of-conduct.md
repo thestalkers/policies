@@ -14,9 +14,9 @@ GitHub 活动行为准则 - GitHub 文档
 GitHub 活动行为准则
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [行为准则](#code-of-conduct)

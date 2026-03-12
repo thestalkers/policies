@@ -14,7 +14,7 @@ Politique de nom d'utilisateur GitHub - Documentation GitHub
 Politique de nom d'utilisateur GitHub
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

@@ -14,9 +14,9 @@ GitHub 礼品和招待政策 - GitHub 文档
 GitHub 礼品和招待政策
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [公司政策](#company-policies)

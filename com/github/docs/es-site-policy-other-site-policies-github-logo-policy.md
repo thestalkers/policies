@@ -2,7 +2,7 @@ Política del logotipo de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Política del logotipo de GitHub - Documentación de GitHub
 Política del logotipo de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 Puede añadir logotipos de GitHub a su sitio web o aplicación de terceros en algunas situaciones. Para obtener más información y directrices específicas sobre el uso de logotipos, consulte la [GitHub página de logotipos y uso](https://github.com/logos).
 

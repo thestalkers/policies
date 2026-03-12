@@ -14,7 +14,7 @@ GitHub 이벤트 준수 사항 - GitHub 문서
 GitHub 이벤트 준수 사항
 ==========
 
-페이지를 Markdown으로 보기
+Markdown으로 복사
 
 이 문서의 내용
 ----------

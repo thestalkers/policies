@@ -2,7 +2,7 @@ Directrices de la comunidad de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Directrices de la comunidad de GitHub - Documentación de GitHub
 Directrices de la comunidad de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 En este artículo
 ----------

@@ -14,7 +14,7 @@ Code de Conduite de la Communauté GitHub - Documentation GitHub
 Code de Conduite de la Communauté GitHub
 ==========
 
-Afficher la page en tant que Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------

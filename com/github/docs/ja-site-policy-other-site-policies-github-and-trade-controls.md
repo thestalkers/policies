@@ -14,9 +14,9 @@ GitHub と貿易管理 - GitHub ドキュメント
 GitHub と貿易管理
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [輸出の概要](#export-overview)

@@ -2,7 +2,7 @@ Información errónea y desinformación de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Información errónea y desinformación de GitHub - Documentación de GitHub
 Información errónea y desinformación de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 No puede publicar contenido que presente una visión distorsionada de la realidad, ya sea inexacto o falso (información errónea) o intencionalmente engañoso (desinformación), cuando dicho contenido pueda causar daño al público o interferir con oportunidades justas e equitativas. para que todos participen en una sociedad libre y abierta. Esto puede incluir:
 

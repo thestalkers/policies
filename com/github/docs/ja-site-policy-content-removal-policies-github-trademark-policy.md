@@ -14,9 +14,9 @@ GitHub の商標ポリシー - GitHub ドキュメント
 GitHub の商標ポリシー
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [GitHub の商標ポリシー違反とはどのようなことですか?](#what-is-a-github-trademark-policy-violation)

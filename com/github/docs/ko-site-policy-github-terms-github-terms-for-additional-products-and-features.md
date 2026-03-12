@@ -14,7 +14,7 @@ GitHub 추가 제품 및 기능 약관 - GitHub 문서
 GitHub 추가 제품 및 기능 약관
 ==========
 
-Copy as Markdown
+Markdown으로 복사
 
 이 문서의 내용
 ----------

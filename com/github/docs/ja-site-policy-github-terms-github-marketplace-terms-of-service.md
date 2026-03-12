@@ -14,9 +14,9 @@ GitHub Marketplace サービス使用条件 - GitHub ドキュメント
 GitHub Marketplace サービス使用条件
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [A。 GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)

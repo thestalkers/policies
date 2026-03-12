@@ -14,9 +14,9 @@ GitHub 反对现代奴役制和童工制的声明 - GitHub 文档
 GitHub 反对现代奴役制和童工制的声明
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [GitHub 的结构、业务和供应链](#githubs-structure-business-and-supply-chains)

@@ -14,7 +14,7 @@
 Программа #REF! Bug Bounty Legal Safe Harbour
 ==========
 
-Просмотр страницы как Markdown
+Копировать как Markdown
 
 В этой статье
 ----------

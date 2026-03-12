@@ -14,7 +14,7 @@ Representação do GitHub - Documentos do GitHub
 Representação do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Você não pode deturpar sua identidade ou sua associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou enganar os outros:
 

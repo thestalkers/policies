@@ -14,9 +14,9 @@ GitHub の企業向けサービス使用条件 - GitHub ドキュメント
 GitHub の企業向けサービス使用条件
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [GitHub の企業向けサービス使用条件](#github-corporate-terms-of-service)

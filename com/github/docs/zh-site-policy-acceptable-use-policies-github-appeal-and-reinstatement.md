@@ -14,9 +14,9 @@ GitHub 申诉和恢复 - GitHub 文档
 GitHub 申诉和恢复
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [申诉和恢复](#appeal-and-reinstatement)

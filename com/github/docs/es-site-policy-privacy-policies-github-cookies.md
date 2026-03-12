@@ -2,7 +2,7 @@ Cookies de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
-[Home](/es)
+[Inicio](/es)
 
 [Site policy](/es/site-policy)
 ----------
@@ -14,7 +14,7 @@ Cookies de GitHub - Documentación de GitHub
 Cookies de GitHub
 ==========
 
-Ver página como Markdown
+Copiar como Markdown
 
 [Cookies](#cookies)
 ==========

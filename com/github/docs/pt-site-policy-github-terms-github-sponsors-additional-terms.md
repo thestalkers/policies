@@ -14,7 +14,7 @@ Termos adicionais dos patrocinadores do GitHub - Documentos do GitHub
 Termos adicionais dos patrocinadores do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

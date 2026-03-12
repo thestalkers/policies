@@ -14,7 +14,7 @@ GitHub stört die Erfahrung anderer Benutzer - GitHub-Dokumentation
 GitHub stört die Erfahrung anderer Benutzer
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 Teil einer Community zu sein bedeutet, zu erkennen, wie sich Ihr Verhalten auf andere auswirkt, und sich an sinnvollen und produktiven Interaktionen mit Menschen und der Plattform zu beteiligen, auf die sie sich verlassen.
 

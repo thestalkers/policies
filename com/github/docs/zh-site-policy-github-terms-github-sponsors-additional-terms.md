@@ -14,9 +14,9 @@ GitHub 赞助商附加条款 - GitHub 文档
 GitHub 赞助商附加条款
 ==========
 
-将页面显示为 Markdown
+复制为 Markdown 格式
 
-本文内容
+在本文中
 ----------
 
 * [1. 定义。](#1-definitions)

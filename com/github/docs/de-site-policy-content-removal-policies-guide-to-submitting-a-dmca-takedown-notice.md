@@ -14,7 +14,7 @@ Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung - GitHub-Dokumentation
 Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung
 ==========
 
-Seite als Markdown anzeigen
+Als Markdown kopieren
 
 In diesem Artikel
 ----------

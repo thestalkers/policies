@@ -14,7 +14,7 @@ Diretrizes da comunidade do GitHub - Documentos do GitHub
 Diretrizes da comunidade do GitHub
 ==========
 
-Exibir página como Markdown
+Copiar como Markdown
 
 Neste artigo
 ----------

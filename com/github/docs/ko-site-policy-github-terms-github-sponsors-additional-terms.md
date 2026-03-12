@@ -14,7 +14,7 @@ GitHub Sponsors 추가 약관 - GitHub 문서
 GitHub Sponsors 추가 약관
 ==========
 
-페이지를 Markdown으로 보기
+Markdown으로 복사
 
 이 문서의 내용
 ----------

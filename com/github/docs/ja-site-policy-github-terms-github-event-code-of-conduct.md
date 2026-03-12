@@ -14,9 +14,9 @@ GitHub イベントの行動規範 - GitHub ドキュメント
 GitHub イベントの行動規範
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [倫理規定](#code-of-conduct)

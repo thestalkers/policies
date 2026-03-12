@@ -14,9 +14,9 @@ GitHub イベント条件 - GitHub ドキュメント
 GitHub イベント条件
 ==========
 
-ページを Markdown として表示する
+Markdown としてコピー
 
-この記事の内容
+この記事で
 ----------
 
 * [1.基本的な出席要件 - イベントの行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
