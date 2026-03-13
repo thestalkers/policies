@@ -14,7 +14,7 @@ Déclaration anti-corruption GitHub - Documentation GitHub
 Déclaration anti-corruption GitHub
 ==========
 
-Copy as Markdown
+Copier en tant que Markdown
 
 Dans cet article
 ----------
