@@ -16,7 +16,7 @@ GitHub 상표 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)

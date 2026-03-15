@@ -13,7 +13,7 @@
 Политика допустимого использования
 ==========
 
-[Политики допустимого использования #REF!](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+[Политики допустимого использования GitHub](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 ----------
 
 [Активное вредоносное ПО или эксплойты #REF!](/ru/site-policy/acceptable-use-policies/github-active-malware-or-exploits)

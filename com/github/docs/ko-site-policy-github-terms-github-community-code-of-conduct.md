@@ -16,7 +16,7 @@ GitHub 커뮤니티 준수 사항
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [개요와 목적](#overview-and-purpose)

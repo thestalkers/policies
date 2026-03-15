@@ -16,7 +16,7 @@ GitHub 일반 개인정보처리방침
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [GitHub 개인정보취급방침](#github-privacy-statement)

@@ -16,7 +16,7 @@ GitHub 오픈 소스 애플리케이션 계약조건
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [GitHub에 연결](#connecting-to-github)

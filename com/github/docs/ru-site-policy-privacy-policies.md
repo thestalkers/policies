@@ -16,7 +16,7 @@
 [Общие заявления о конфиденциальности #REF!](/ru/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
-[Дополнительные обработчики данных #REF!](/ru/site-policy/privacy-policies/github-subprocessors)
+[Дополнительные обработчики данных GitHub](/ru/site-policy/privacy-policies/github-subprocessors)
 ----------
 
 [Cookie-файлы #REF!](/ru/site-policy/privacy-policies/github-cookies)

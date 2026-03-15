@@ -16,7 +16,7 @@ DMCA 게시 중단 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [DMCA란 무엇인가요?](#what-is-the-dmca)

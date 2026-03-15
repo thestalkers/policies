@@ -16,7 +16,7 @@ GitHub 추가 제품 및 기능 약관
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [Actions](#actions)

@@ -16,7 +16,7 @@ GitHub와 무역 통제
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [수출 개요](#export-overview)

@@ -16,7 +16,7 @@ GitHub 사용 제한 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [1. 법률 및 규정 준수](#1-compliance-with-laws-and-regulations)

@@ -16,7 +16,7 @@
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [DMCA 게시 중단 정책](#dmca-takedown-policy)

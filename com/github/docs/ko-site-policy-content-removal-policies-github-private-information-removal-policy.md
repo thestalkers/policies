@@ -16,7 +16,7 @@ GitHub 개인 정보 제거 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [개인 정보란?](#what-is-private-information)

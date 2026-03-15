@@ -16,7 +16,7 @@ GitHub 이벤트 계약
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항을 포함](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)

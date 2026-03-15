@@ -16,7 +16,7 @@ GitHub 이의 제기 및 복원
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [이의 제기 및 복원](#appeal-and-reinstatement)

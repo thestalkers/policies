@@ -16,7 +16,7 @@ GitHub Sponsors 추가 약관
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [1. 정의.](#1-definitions)

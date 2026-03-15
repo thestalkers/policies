@@ -16,7 +16,7 @@ GitHub Research 프로그램 약관
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [A. 피드백](#a-your-feedback)

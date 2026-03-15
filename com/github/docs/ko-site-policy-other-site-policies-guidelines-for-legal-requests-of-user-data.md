@@ -16,7 +16,7 @@
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [이 가이드라인에 대하여](#about-these-guidelines)

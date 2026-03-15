@@ -16,7 +16,7 @@ GitHub 사용자 이름 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [원하는 사용자 이름이 이미 사용 중인 이름이라면 어떻게 해야 합니까?](#what-if-the-username-i-want-is-already-taken)
