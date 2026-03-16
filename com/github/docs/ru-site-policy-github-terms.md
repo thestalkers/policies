@@ -31,10 +31,10 @@
 [Условия лицензии #REF! Pre-release](/ru/site-policy/github-terms/github-pre-release-license-terms)
 ----------
 
-[Предварительные версии на #REF!, на которые распространяется DPA](/ru/site-policy/github-terms/github-dpa-previews)
+[Предварительные версии на GitHub, на которые распространяется DPA](/ru/site-policy/github-terms/github-dpa-previews)
 ----------
 
-[Дополнительные условия #REF! Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
+[Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 ----------
 
 [Договор с зарегистрированным разработчиком #REF!](/ru/site-policy/github-terms/github-registered-developer-agreement)

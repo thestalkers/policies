@@ -13,7 +13,7 @@ Règles de Bon Usage - Documentation GitHub
 Règles de Bon Usage
 ==========
 
-[Politiques d'utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+[Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 ----------
 
 [GitHub Active Malware ou Exploits](/fr/site-policy/acceptable-use-policies/github-active-malware-or-exploits)

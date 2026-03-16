@@ -16,7 +16,7 @@ GitHub Marketplace 개발자 계약
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [1. 정의](#1definitions)

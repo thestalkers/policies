@@ -16,7 +16,7 @@ GitHub 선물 및 접대 정책
 
 Markdown으로 복사
 
-이 문서의 내용
+이 기사에서
 ----------
 
 * [회사 정책](#company-policies)
