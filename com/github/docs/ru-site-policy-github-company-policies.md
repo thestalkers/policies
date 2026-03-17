@@ -13,7 +13,7 @@
 Политика компании #REF!
 ==========
 
-[Заявление #REF! против современного рабства и детского труда](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+[Заявление GitHub против современного рабства и детского труда](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 ----------
 
 [Заявление #REF! о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)

@@ -64,4 +64,7 @@ GitHub 条件
 [GitHub Copilot 拡張機能の開発者ポリシー](/ja/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
+[GitHub Secret Scanning Partner Program Agreement](/ja/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+----------
+
 {"resolvedServerColorMode":"day"}

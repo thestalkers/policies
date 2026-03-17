@@ -1,4 +1,4 @@
-Politiques d'utilisation acceptable de GitHub - Documentation GitHub
+Politiques d’utilisation acceptable de GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 
@@ -9,9 +9,9 @@ Politiques d'utilisation acceptable de GitHub - Documentation GitHub
 
 * [Politique du site](/fr/site-policy)/
 * [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Politiques d'utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+* [Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-Politiques d'utilisation acceptable de GitHub
+Politiques d’utilisation acceptable de GitHub
 ==========
 
 Copier en tant que Markdown

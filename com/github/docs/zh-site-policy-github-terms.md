@@ -64,4 +64,7 @@ GitHub 条款
 [GitHub Copilot 扩展开发人员策略](/zh/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
+[GitHub Secret Scanning Partner Program Agreement](/zh/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+----------
+
 {"resolvedServerColorMode":"day"}
