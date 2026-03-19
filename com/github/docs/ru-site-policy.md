@@ -12,7 +12,7 @@
 Документация по политике сайта
 ==========
 
-[Условия #REF!](/ru/site-policy/github-terms)
+[Условия GitHub](/ru/site-policy/github-terms)
 ----------
 
 [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)

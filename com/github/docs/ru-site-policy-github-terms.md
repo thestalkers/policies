@@ -1,4 +1,4 @@
-Условия #REF! - Документация по GitHub
+Условия GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -8,9 +8,9 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)
+* [Условия GitHub](/ru/site-policy/github-terms)
 
-Условия #REF!
+Условия GitHub
 ==========
 
 [Условия обслуживания #REF!](/ru/site-policy/github-terms/github-terms-of-service)

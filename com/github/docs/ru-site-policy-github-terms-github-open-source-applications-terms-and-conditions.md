@@ -8,7 +8,7 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)/
+* [Условия GitHub](/ru/site-policy/github-terms)/
 * [Условия использования приложений #REF! с открытым исходным кодом](/ru/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 Условия использования приложений #REF! с открытым исходным кодом

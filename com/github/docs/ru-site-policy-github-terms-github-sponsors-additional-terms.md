@@ -8,7 +8,7 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)/
+* [Условия GitHub](/ru/site-policy/github-terms)/
 * [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 
 Дополнительные условия GitHub Sponsors

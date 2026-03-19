@@ -64,7 +64,7 @@ GitHub 약관
 [GitHub Copilot 확장 개발자 정책](/ko/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
-[GitHub Secret Scanning Partner Program Agreement](/ko/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+[GitHub 비밀 검사 파트너 프로그램 계약](/ko/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
 
 {"resolvedServerColorMode":"day"}

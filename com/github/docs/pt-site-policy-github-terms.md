@@ -64,7 +64,7 @@ Termos do GitHub
 [Política de Desenvolvedor de Extensão do GitHub Copilot](/pt/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
-[GitHub Secret Scanning Partner Program Agreement](/pt/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+[Contrato do Programa de Parceiros de Verificação de Segredos do GitHub](/pt/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
 
 {"resolvedServerColorMode":"day"}

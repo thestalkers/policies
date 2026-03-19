@@ -8,7 +8,7 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)/
+* [Условия GitHub](/ru/site-policy/github-terms)/
 * [Условия проведения мероприятий на #REF!](/ru/site-policy/github-terms/github-event-terms)
 
 Условия проведения мероприятий на #REF!

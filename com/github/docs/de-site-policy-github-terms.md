@@ -64,7 +64,7 @@ GitHub-Bedingungen
 [GitHub Copilot Extension Developer Policy](/de/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
-[GitHub Secret Scanning Partner Program Agreement](/de/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+[Vereinbarung über das GitHub-Partnerprogramm zur Geheimnisüberprüfung](/de/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
 
 {"resolvedServerColorMode":"day"}

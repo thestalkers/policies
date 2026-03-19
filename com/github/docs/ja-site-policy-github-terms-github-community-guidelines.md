@@ -55,7 +55,7 @@ GitHub コミュニティの主な目的は、ソフトウェア プロジェク
 
 * **会話をロックする** - イシュー、プル リクエスト、またはコミットのディスカッションが手に負えなくなったり、トピックから外れたり、プロジェクトの行動規範や GitHub のポリシーに違反した場合、オーナー、コラボレーター、および書き込みアクセス権を持つその他のユーザーは、会話に一時的または恒久的なロックをかけることができます。 詳しくは、「[会話をロックする](/ja/communities/moderating-comments-and-conversations/locking-conversations)」をご覧ください。
 
-* **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)できます。
+* **ユーザーをブロックする** - 関与したくない特定のユーザーがある場合、[個人アカウント](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)または[組織からそのユーザーをブロック](/ja/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)できます。
 
 * **やり取りを制限する** - パブリック プロジェクトが不要な注目を集めたり、トロールされたり、スパムされたりした場合、[やり取りの一時的な制限](/ja/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)を設定して、特定のユーザーがリポジトリとやり取りできないようにすることができます。 [コード レビューの制限](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)を設定して、プロジェクトへの質の高い貢献を保証することもできます。
 

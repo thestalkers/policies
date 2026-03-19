@@ -8,7 +8,7 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)/
+* [Условия GitHub](/ru/site-policy/github-terms)/
 * [Договор с зарегистрированным разработчиком #REF!](/ru/site-policy/github-terms/github-registered-developer-agreement)
 
 Договор с зарегистрированным разработчиком #REF!

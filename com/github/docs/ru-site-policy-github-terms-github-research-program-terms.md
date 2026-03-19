@@ -8,7 +8,7 @@
 ----------
 
 * [Политика сайта](/ru/site-policy)/
-* [Условия #REF!](/ru/site-policy/github-terms)/
+* [Условия GitHub](/ru/site-policy/github-terms)/
 * [Условия исследовательской программы #REF!](/ru/site-policy/github-terms/github-research-program-terms)
 
 Условия исследовательской программы #REF!
