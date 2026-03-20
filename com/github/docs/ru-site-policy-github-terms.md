@@ -64,7 +64,7 @@
 [Политика разработчика расширений #REF! Copilot](/ru/site-policy/github-terms/github-copilot-extension-developer-policy)
 ----------
 
-[GitHub Secret Scanning Partner Program Agreement](/ru/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
+[Соглашение о партнерской программе сканирования секретов GitHub](/ru/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
 
 {"resolvedServerColorMode":"day"}
