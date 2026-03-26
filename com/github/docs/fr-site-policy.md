@@ -7,30 +7,25 @@ Documentation sur la politique du site - Documentation GitHub
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)
-
 Documentation sur la politique du site
 ==========
 
-[Termes GitHub](/fr/site-policy/github-terms)
+[Vue d’ensemble](/site-policy/github-terms/github-terms-of-service)
+
+Recommandé
 ----------
 
-[Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+[### Conditions Générales d’Utilisation de GitHub ###](/fr/free-pro-team@latest/site-policy/github-terms/github-terms-of-service)[### Déclaration de confidentialité générale GitHub ###](/fr/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement)[### Politiques d’utilisation acceptable de GitHub ###](/fr/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Articles
 ----------
 
-[Politiques de Confidentialité](/fr/site-policy/privacy-policies)
-----------
+Toutes les catégories
 
-[Autres politiques du site](/fr/site-policy/other-site-policies)
-----------
+[Review product and program terms ### Accord d'utilisation pédagogique de GitHub ###](/fr/site-policy/github-terms/github-educational-use-agreement)[Follow acceptable use policies ### Appel et rétablissement de GitHub ###](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)[Review product and program terms ### Code de Conduite de la Communauté GitHub ###](/fr/site-policy/github-terms/github-community-code-of-conduct)[Review product and program terms ### Code de conduite des événements GitHub ###](/fr/site-policy/github-terms/github-event-code-of-conduct)[Review product and program terms ### Conditions d'utilisation de GitHub Corporate ###](/fr/site-policy/github-terms/github-corporate-terms-of-service)[Review product and program terms ### Conditions d'utilisation de la place de marché GitHub ###](/fr/site-policy/github-terms/github-marketplace-terms-of-service)[Review product and program terms ### Conditions de l'événement GitHub ###](/fr/site-policy/github-terms/github-event-terms)[Review product and program terms ### Conditions du programme de recherche GitHub ###](/fr/site-policy/github-terms/github-research-program-terms)[Review product and program terms ### Conditions Générales d’Utilisation de GitHub ###](/fr/site-policy/github-terms/github-terms-of-service)
 
-[Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-----------
+Affichage de 1-9 de 57
 
-[Politiques de Sécurité](/fr/site-policy/security-policies)
-----------
-
-[Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-----------
+[Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)
 
 {"resolvedServerColorMode":"day"}

@@ -7,30 +7,25 @@ Documentación de la directiva del sitio - Documentación de GitHub
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)
-
 Documentación de la directiva del sitio
 ==========
 
-[Términos de GitHub](/es/site-policy/github-terms)
+[Información general](/site-policy/github-terms/github-terms-of-service)
+
+Recomendado
 ----------
 
-[Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
+[### Términos de Servicio de GitHub ###](/es/free-pro-team@latest/site-policy/github-terms/github-terms-of-service)[### Declaración de privacidad general de GitHub ###](/es/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement)[### Políticas de uso aceptable de GitHub ###](/es/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Artículos
 ----------
 
-[Directivas de Privacidad](/es/site-policy/privacy-policies)
-----------
+Todas las categorías
 
-[Otras políticas del sitio](/es/site-policy/other-site-policies)
-----------
+[Review product and program terms ### Acuerdo de desarrollador registrado de GitHub ###](/es/site-policy/github-terms/github-registered-developer-agreement)[Review product and program terms ### Acuerdo de uso educativo de GitHub ###](/es/site-policy/github-terms/github-educational-use-agreement)[Review product and program terms ### Acuerdo para desarrolladores del Mercado GitHub ###](/es/site-policy/github-terms/github-marketplace-developer-agreement)[Follow acceptable use policies ### Apelación y restablecimiento de GitHub ###](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)[Review privacy and security policies ### Aviso de privacidad de datos de GitHub global para candidatos ###](/es/site-policy/privacy-policies/github-candidate-privacy-policy)[Review product and program terms ### Código de conducta de eventos de GitHub ###](/es/site-policy/github-terms/github-event-code-of-conduct)[Review product and program terms ### Código de conducta de la comunidad de GitHub ###](/es/site-policy/github-terms/github-community-code-of-conduct)[Review company and general policies ### Compromiso de cooperación de GitHub GPL ###](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)[Review product and program terms ### Condiciones de servicio corporativas de GitHub ###](/es/site-policy/github-terms/github-corporate-terms-of-service)
 
-[Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
-----------
+Mostrar 1-9 de 57
 
-[Políticas de seguridad](/es/site-policy/security-policies)
-----------
-
-[Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-----------
+[Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)
 
 {"resolvedServerColorMode":"day"}

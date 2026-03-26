@@ -7,30 +7,25 @@ Documentação da Política do Site - Documentos do GitHub
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)
-
 Documentação da Política do Site
 ==========
 
-[Termos do GitHub](/pt/site-policy/github-terms)
+[Visão geral](/site-policy/github-terms/github-terms-of-service)
+
+Recomendado
 ----------
 
-[Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+[### Termos de Serviço do GitHub ###](/pt/free-pro-team@latest/site-policy/github-terms/github-terms-of-service)[### Declaração Geral de Privacidade do GitHub ###](/pt/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement)[### Políticas de uso aceitável do GitHub ###](/pt/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Artigos
 ----------
 
-[Políticas de Privacidade](/pt/site-policy/privacy-policies)
-----------
+Todas as categorias
 
-[Outras políticas do site](/pt/site-policy/other-site-policies)
-----------
+[Follow acceptable use policies ### Abuso ou exploração sexual infantil – GitHub ###](/pt/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)[Follow acceptable use policies ### Ameaças do GitHub de violência e conteúdo violento gratuito ###](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)[Review privacy and security policies ### Aviso de Privacidade de Dados Global do GitHub para Candidatos ###](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)[Follow acceptable use policies ### Bullying e Assédio no GitHub ###](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)[Review product and program terms ### Código de conduta da comunidade do GitHub ###](/pt/site-policy/github-terms/github-community-code-of-conduct)[Review product and program terms ### Código de conduta do evento GitHub ###](/pt/site-policy/github-terms/github-event-code-of-conduct)[Request content removal ### Como enviar solicitações de remoção de conteúdo ###](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)[Review company and general policies ### Compromisso de Cooperação GitHub GPL ###](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)[Follow acceptable use policies ### Contestação e reintegração do GitHub ###](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
-[Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-----------
+Mostrando 1-9 de 57
 
-[Políticas de Segurança](/pt/site-policy/security-policies)
-----------
-
-[Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
-----------
+[Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)
 
 {"resolvedServerColorMode":"day"}

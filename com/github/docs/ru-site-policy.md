@@ -7,30 +7,25 @@
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)
-
 Документация по политике сайта
 ==========
 
-[Условия GitHub](/ru/site-policy/github-terms)
+[Обзор](/site-policy/github-terms/github-terms-of-service)
+
+Рекомендуемая конфигурация
 ----------
 
-[Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+[### Условия обслуживания #REF! ###](/ru/free-pro-team@latest/site-policy/github-terms/github-terms-of-service)[### Общие заявления о конфиденциальности #REF! ###](/ru/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement)[### Политики допустимого использования GitHub ###](/ru/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Статьи
 ----------
 
-[Политики конфиденциальности](/ru/site-policy/privacy-policies)
-----------
+Все категории
 
-[Другие правила сайта](/ru/site-policy/other-site-policies)
-----------
+[Follow acceptable use policies ### #REF! Doxxing и вторжение в частную жизнь ###](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)[Review company and general policies ### #REF! и управление торговлей ###](/ru/site-policy/other-site-policies/github-and-trade-controls)[Follow acceptable use policies ### #REF! мешает работе других пользователей ###](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)[Review privacy and security policies ### Cookie-файлы #REF! ###](/ru/site-policy/privacy-policies/github-cookies)[Follow acceptable use policies ### Активное вредоносное ПО или эксплойты #REF! ###](/ru/site-policy/acceptable-use-policies/github-active-malware-or-exploits)[Follow acceptable use policies ### Апелляция #REF! и восстановление ###](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)[Review privacy and security policies ### Глобальное уведомление о конфиденциальности данных для кандидатов на #REF! ###](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)[Review product and program terms ### Договор об использовании #REF! в образовательных целях ###](/ru/site-policy/github-terms/github-educational-use-agreement)[Review product and program terms ### Договор с зарегистрированным разработчиком #REF! ###](/ru/site-policy/github-terms/github-registered-developer-agreement)
 
-[Политики удаления контента](/ru/site-policy/content-removal-policies)
-----------
+Отображение {начало}-{конец} {всего}
 
-[Политики безопасности](/ru/site-policy/security-policies)
-----------
-
-[Политика компании #REF!](/ru/site-policy/github-company-policies)
-----------
+[Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)
 
 {"resolvedServerColorMode":"day"}
