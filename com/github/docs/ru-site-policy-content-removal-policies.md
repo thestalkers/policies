@@ -19,10 +19,10 @@
 [Политика удаления DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy)
 ----------
 
-[Политика удаления личной информации #REF!](/ru/site-policy/content-removal-policies/github-private-information-removal-policy)
+[Политика удаления личной информации GitHub](/ru/site-policy/content-removal-policies/github-private-information-removal-policy)
 ----------
 
-[Политика #REF! в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy)
+[Политика GitHub в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy)
 ----------
 
 [Руководство по подаче встречного уведомления DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)

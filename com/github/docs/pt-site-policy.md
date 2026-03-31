@@ -10,9 +10,11 @@ Documentação da Política do Site - Documentos do GitHub
 Documentação da Política do Site
 ==========
 
+Consulte os termos de serviço, as políticas de uso aceitável, as práticas de privacidade, os procedimentos de remoção de conteúdo e outras políticas do site do GitHub.
+
 [Visão geral](/site-policy/github-terms/github-terms-of-service)
 
-Recomendado
+Recomendada
 ----------
 
 [### Termos de Serviço do GitHub ###](/pt/free-pro-team@latest/site-policy/github-terms/github-terms-of-service)[### Declaração Geral de Privacidade do GitHub ###](/pt/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement)[### Políticas de uso aceitável do GitHub ###](/pt/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies)

@@ -13,16 +13,16 @@
 Политики конфиденциальности
 ==========
 
-[Общие заявления о конфиденциальности #REF!](/ru/site-policy/privacy-policies/github-general-privacy-statement)
+[Общие заявления о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-general-privacy-statement)
 ----------
 
 [Дополнительные обработчики данных GitHub](/ru/site-policy/privacy-policies/github-subprocessors)
 ----------
 
-[Cookie-файлы #REF!](/ru/site-policy/privacy-policies/github-cookies)
+[Cookie-файлы GitHub](/ru/site-policy/privacy-policies/github-cookies)
 ----------
 
-[Глобальное уведомление о конфиденциальности данных для кандидатов на #REF!](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
+[Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
 
 {"resolvedServerColorMode":"day"}

@@ -16,10 +16,10 @@
 [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 ----------
 
-[Программа #REF! Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+[Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 ----------
 
-[Описание #REF! SIRT RFC 2350](/ru/site-policy/security-policies/github-sirt-description-rfc-2350)
+[Описание GitHub SIRT RFC 2350](/ru/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
 
 {"resolvedServerColorMode":"day"}

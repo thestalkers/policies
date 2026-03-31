@@ -10,6 +10,8 @@
 사이트 정책 설명서
 ==========
 
+GitHub의 서비스 이용약관, 허용 가능한 사용 정책, 개인정보보호 취급 방침, 콘텐츠 삭제 절차 및 기타 사이트 정책을 검토합니다.
+
 [개요](/site-policy/github-terms/github-terms-of-service)
 
 추천됨

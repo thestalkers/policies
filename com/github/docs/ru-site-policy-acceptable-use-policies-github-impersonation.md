@@ -1,4 +1,4 @@
-Имперсонация #REF! - Документация по GitHub
+Имперсонация GitHub - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -11,7 +11,7 @@
 * [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
 * [Имперсонация](/ru/site-policy/acceptable-use-policies/github-impersonation)
 
-Имперсонация #REF!
+Имперсонация GitHub
 ==========
 
 Копировать как Markdown
@@ -26,6 +26,6 @@
 
 Имперсонация является формой преследования, и нарушение этой политики может привести к потере доступа к вашей учетной записи.
 
-Обратите внимание, что наличие имени пользователя, похожего на другое, не обязательно означает имперсонацию. #REF! будет учитывать контекст. Например, как и в случаях, связанных с утверждениями о [неправильной информации или дезинформации](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), мы обычно разрешаем пародию и сатиру, которая соответствует нашим [Политикам допустимого использования](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies).
+Обратите внимание, что наличие имени пользователя, похожего на другое, не обязательно означает имперсонацию. GitHub будет учитывать контекст. Например, как и в случаях, связанных с утверждениями о [неправильной информации или дезинформации](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation), мы обычно разрешаем пародию и сатиру, которая соответствует нашим [Политикам допустимого использования](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies).
 
 {"resolvedServerColorMode":"day"}

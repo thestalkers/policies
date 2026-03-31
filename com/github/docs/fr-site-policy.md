@@ -10,6 +10,8 @@ Documentation sur la politique du site - Documentation GitHub
 Documentation sur la politique du site
 ==========
 
+Consultez les conditions d’utilisation du service, les stratégies d’utilisation acceptables, les pratiques de confidentialité, les procédures de suppression de contenu et d’autres stratégies de site de GitHub.
+
 [Vue d’ensemble](/site-policy/github-terms/github-terms-of-service)
 
 Recommandé

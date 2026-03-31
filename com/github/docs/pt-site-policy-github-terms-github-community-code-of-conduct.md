@@ -35,7 +35,7 @@ A Comunidade do GitHub, da plataforma GitHub Discussions, pretende ser um local 
 
 Com esse Código de Conduta, esperamos ajudar você a entender a melhor forma de colaborar na Comunidade do GitHub, o que você pode esperar dos moderadores e quais tipos de ação ou conteúdo podem resultar na suspensão temporária ou permanente de participação na Comunidade. Investigaremos todas as denúncias de abuso e poderemos moderar o conteúdo público dentro da Comunidade do GitHub se determinarmos que ele viola os Termos de serviço do GitHub ou deste Código de conduta.
 
-Nossa base de usuários diversificada traz diferentes perspectivas, ideias e experiências, e abrange desde pessoas que criaram seu primeiro projeto "Olá, Mundo" na semana passada até os desenvolvedores de software mais conhecidos do mundo. Estamos comprometidos em tornar o GitHub um ambiente que acolhe todas as diferentes vozes e perspectivas que nossa comunidade tem a oferecer, mantendo um local seguro para os desenvolvedores fazerem seu melhor trabalho.
+Nossa base de usuários diversificada traz diferentes perspectivas, ideias e experiências, e abrange desde pessoas que criaram seu primeiro projeto "Hello World" na semana passada até os desenvolvedores de software mais conhecidos do mundo. Estamos comprometidos em tornar o GitHub um ambiente que acolhe todas as diferentes vozes e perspectivas que nossa comunidade tem a oferecer, mantendo um local seguro para os desenvolvedores fazerem seu melhor trabalho.
 
 [Juramento](#pledge)
 ----------

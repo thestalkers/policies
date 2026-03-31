@@ -1,4 +1,4 @@
-Программа #REF! Bug Bounty Legal Safe Harbour - Документация по GitHub
+Программа GitHub Bug Bounty Legal Safe Harbour - Документация по GitHub
 
 [Skip to main content](#main-content)
 
@@ -9,9 +9,9 @@
 
 * [Политика сайта](/ru/site-policy)/
 * [Политики безопасности](/ru/site-policy/security-policies)/
-* [Программа #REF! Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+* [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Программа #REF! Bug Bounty Legal Safe Harbour
+Программа GitHub Bug Bounty Legal Safe Harbour
 ==========
 
 Копировать как Markdown
