@@ -50,9 +50,9 @@ Al usar los Productos y funciones adicionales, también acepta los Términos de 
 [Comportamiento](#actions)
 ----------
 
-Acciones de GitHub le permite crear flujos de trabajo de ciclo de vida de desarrollo de software personalizados directamente en su repositorio de GitHub. Las acciones se facturan en función del uso. En la [documentación de Actions](/es/actions) se incluyen los detalles, como las cantidades de recursos informáticos y almacenamiento (según el plan de su Cuenta) y cómo supervisar el uso de minutos de Actions y establecer límites de uso.
+GitHub Actions le permite crear flujos de trabajo de ciclo de vida de desarrollo de software personalizados directamente en su repositorio de GitHub. Las acciones se facturan en función del uso. En la [documentación de Actions](/es/actions) se incluyen los detalles, como las cantidades de recursos informáticos y almacenamiento (según el plan de su Cuenta) y cómo supervisar el uso de minutos de Actions y establecer límites de uso.
 
-No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de Acciones de GitHub establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Además, independientemente de si una acción utiliza ejecutores autohospedados, las acciones no deben usarse para:
+No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Actions establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Además, independientemente de si una acción utiliza ejecutores autohospedados, las acciones no deben usarse para:
 
 * Criptominería;
 * Interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, dato, cuenta o red (que no sean los autorizados en el [Programa de Recompensas por la Detección de Errores de GitHub](https://bounty.github.com));
@@ -64,7 +64,7 @@ Para evitar violaciones de estas limitaciones y el abuso de las Acciones de GitH
 
 *Uso para Desarrollo y Pruebas*
 
-Solo puede acceder y usar Acciones de GitHub para desarrollar y probar sus aplicaciones. Solo un usuario con licencia puede acceder a una máquina virtual proporcionada por Actions en cualquier momento.
+Solo puede acceder y usar GitHub Actions para desarrollar y probar sus aplicaciones. Solo un usuario con licencia puede acceder a una máquina virtual proporcionada por Actions en cualquier momento.
 
 *Desarrollador Autorizado*
 
@@ -74,7 +74,7 @@ Designas a GitHub como tu desarrollador autorizado con respecto al software de A
 
 Si otorga acceso a GitHub a sus cuentas de servicio de repositorio de terceros, autoriza a GitHub a escanear las cuentas, incluidos los contenidos de sus repositorios públicos y privados, con el fin de proporcionar acciones de GitHub.
 
-*Programas de Ejecución Autohospedados en Acciones de GitHub*
+*Programas de Ejecución Autohospedados en GitHub Actions*
 
 Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualizaciones automáticas, pero GitHub se reserva el derecho de anular su elección para las actualizaciones de seguridad críticas.
 
@@ -83,7 +83,7 @@ Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualiza
 
 GitHub pone a disposición de los clientes características de seguridad adicionales con licencias de Advanced Security. A partir del 1 de abril de 2025, las características que anteriormente solo estaban disponibles en una única licencia de GitHub Advanced Security estarán disponibles de forma alternativa en dos licencias independientes: GitHub Code Security (características de escaneo de código y análisis de dependencias) y GitHub Secret Protection (características de análisis de secretos). En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
 
-Se otorgan licencias para las características de Advanced Security con base en "Confirmadores únicos". Un "Confirmador único" es un usuario con licencia de GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de usuario de GitHub Advanced Security apropiada para cada uno de tus confirmadores únicos. Solo puedes utilizar las características de GitHub Advanced Security en las bases de código que desarrollas o que se desarrollan para ti. En el caso de los usuarios de GitHub Team y GitHub Enterprise Cloud, algunas características de Advanced Security también requieren utilizar Acciones de GitHub.
+Se otorgan licencias para las características de Advanced Security con base en "Confirmadores únicos". Un "Confirmador único" es un usuario con licencia de GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de usuario de GitHub Advanced Security apropiada para cada uno de tus confirmadores únicos. Solo puedes utilizar las características de GitHub Advanced Security en las bases de código que desarrollas o que se desarrollan para ti. En el caso de los usuarios de GitHub Team y GitHub Enterprise Cloud, algunas características de Advanced Security también requieren utilizar GitHub Actions.
 
 Para el análisis de secretos con GitHub Advanced Security o GitHub Secret Protection, al participar en comprobaciones automáticas de validez de los patrones de asociados, los tokens de terceros expuestos se pueden compartir con el asociado correspondiente, con el fin de proporcionarle más información sobre la validez del token. No todos los asociados tienen su sede en Estados Unidos. La [documentación](/es/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) sobre patrones de examen de secretos proporciona más detalles sobre qué asociados admiten la comprobación de validez.
 

@@ -35,7 +35,7 @@ Die GitHub-Community, unterstützt von GitHub Discussions, soll ein Ort für wei
 
 Mit diesen Verhaltensregeln möchten wir Ihnen verdeutlichen, wie Sie am besten in der GitHub-Community zusammenarbeiten, was Sie von Moderatoren erwarten können und welche Art von Aktionen oder Inhalten zu einer vorübergehenden oder dauerhaften Aussetzung der Teilnahme an der Community führen können. Wir untersuchen alle Missbrauchsmeldungen und moderieren ggf. öffentliche Inhalte innerhalb der GitHub-Community, die unserer Meinung nach entweder gegen die GitHub-Vertragsbedingungen oder diese Verhaltensregeln verstoßen.
 
-Unsere vielfältige Benutzerbasis bringt unterschiedliche Perspektiven, Ideen und Erfahrungen mit und reicht von Leuten, die letzte Woche ihr erstes „Hallo Welt“-Projekt erstellt haben, bis zu den bekanntesten Softwareentwicklern der Welt. Wir sind bestrebt, GitHub zu einer Umgebung zu machen, die all die verschiedenen Stimmen und Perspektiven unserer Community willkommen heißt und gleichzeitig einen sicheren Ort für Entwickler bietet, an dem sie ihre beste Arbeit leisten können.
+Unsere vielfältige Benutzerbasis bringt unterschiedliche Perspektiven, Ideen und Erfahrungen mit und reicht von Leuten, die letzte Woche ihr erstes „Hello World“-Projekt erstellt haben, bis zu den bekanntesten Softwareentwicklern der Welt. Wir sind bestrebt, GitHub zu einer Umgebung zu machen, die all die verschiedenen Stimmen und Perspektiven unserer Community willkommen heißt und gleichzeitig einen sicheren Ort für Entwickler bietet, an dem sie ihre beste Arbeit leisten können.
 
 [Versprechen](#pledge)
 ----------

@@ -10,6 +10,8 @@ Dokumentation zur Websiterichtlinie - GitHub-Dokumentation
 Dokumentation zur Websiterichtlinie
 ==========
 
+Überprüfen Sie die Vertragsbedingungen von GitHub, die Richtlinien zur akzeptablen Nutzung, die Datenschutzpraktiken, die Verfahren zum Entfernen von Inhalten und andere Websiterichtlinien.
+
 [Übersicht](/site-policy/github-terms/github-terms-of-service)
 
 Empfohlen

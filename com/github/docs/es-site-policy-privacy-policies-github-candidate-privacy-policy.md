@@ -199,7 +199,7 @@ Nuestras direcciones son las siguientes:
 
 GitHub B.V. Prins Bernhardplein 200, Amsterdam 1097JB The Netherlands
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 Estados Unidos
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
 
 [Anexos](#addenda)
 ----------
@@ -291,7 +291,7 @@ Para hacer una solicitud para ejercer uno de los derechos anteriores, póngase e
 
 GitHub B.V. Prins Bernhardplein 200, Amsterdam 1097JB The Netherlands
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 Estados Unidos
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
 
 Consideraremos y actuaremos en consecuencia sobre todas las solicitudes según las leyes de protección de datos aplicables. Tenga en cuenta que podemos solicitar cierta información por su parte para poder confirmar su identidad. En circunstancias limitadas, le podemos cobrar unos honorarios razonables por los costes administrativos relacionados con la respuesta a su solicitud. Sin embargo, le avisaremos de cualquier honorario por adelantado.
 
@@ -305,7 +305,7 @@ Para los candidatos, el responsable del tratamiento de los datos personales es l
 
 GitHub B.V. Prins Bernhardplein 200, Amsterdam 1097JB The Netherlands
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 Estados Unidos
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
 
 Además, la información de contacto del responsable del tratamiento de sus datos figura en su contrato o en su solicitud de empleo.
 
