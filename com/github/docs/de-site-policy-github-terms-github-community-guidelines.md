@@ -27,7 +27,7 @@ In diesem Artikel
 
 Millionen von Entwicklern auf der ganzen Welt hosten Millionen von Projekten – sowohl Open als auch Closed Source – auf GitHub. Wir haben das Glück, jeden Tag eine Rolle bei der Ermöglichung der Zusammenarbeit in der Entwickler-Community spielen zu können, eine Verantwortung, die wir nicht auf die leichte Schulter nehmen. Gemeinsam haben wir alle die aufregende Gelegenheit, dies zu einer Community zu machen, auf die wir stolz sein können.
 
-Unsere vielfältige Benutzerbasis bringt unterschiedliche Perspektiven, Ideen und Erfahrungen mit und reicht von Leuten, die letzte Woche ihr erstes „Hallo Welt“-Projekt erstellt haben, bis zu den bekanntesten Softwareentwicklern der Welt. Wir sind bestrebt, GitHub zu einer Umgebung zu machen, die all die verschiedenen Stimmen und Perspektiven unserer Community willkommen heißt und gleichzeitig einen sicheren Ort für Entwickler bietet, an dem sie ihre beste Arbeit leisten können.
+Unsere vielfältige Benutzerbasis bringt unterschiedliche Perspektiven, Ideen und Erfahrungen mit und reicht von Leuten, die letzte Woche ihr erstes „Hello World“-Projekt erstellt haben, bis zu den bekanntesten Softwareentwicklern der Welt. Wir sind bestrebt, GitHub zu einer Umgebung zu machen, die all die verschiedenen Stimmen und Perspektiven unserer Community willkommen heißt und gleichzeitig einen sicheren Ort für Entwickler bietet, an dem sie ihre beste Arbeit leisten können.
 
 Indem wir darlegen, wie wir uns eine [sichere, freundliche und produktive Gemeinschaft](https://opensource.guide/building-community/) bei GitHub vorstellen, hoffen wir, Ihnen zu verdeutlichen, wie Sie auf unserer Plattform unter Einhaltung unserer [Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) und der [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) am besten interagieren und zusammenarbeiten können.
 
@@ -59,7 +59,7 @@ Während einige Meinungsverschiedenheiten durch direkte, respektvolle Kommunikat
 
 * **Interaktionen einschränken**. Wenn Ihr öffentliches Projekt unerwünschte Aufmerksamkeit erregt, getrollt, gespammt oder anderweitig gestört wird, haben Sie die Möglichkeit, [vorübergehende Interaktionsgrenzen](/de/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) festzulegen, um bestimmte Nutzer daran zu hindern, mit Ihrem Repository zu interagieren. Sie können sogar [Code-Review-Grenzen](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) festzulegen, um qualitativ hochwertige Beiträge zu Ihren Projekten zu gewährleisten.
 
-Obwohl wir uns leidenschaftlich dafür einsetzen, Betreuern die Möglichkeit zu geben, ihre eigenen Projekte zu moderieren, kontaktieren Sie uns bitte unter , wenn Sie zusätzliche Unterstützung bei der Bewältigung einer Situation benötigen.
+Obwohl wir uns leidenschaftlich dafür einsetzen, Betreuern die Möglichkeit zu geben, ihre eigenen Projekte zu moderieren, kontaktieren Sie uns bitte unter uns über das [GitHub-Support-Portal](https://support.github.com), wenn Sie zusätzliche Unterstützung bei der Bewältigung einer Situation benötigen.
 
 [Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt?](#what-happens-if-someone-violates-githubs-policies)
 ----------
