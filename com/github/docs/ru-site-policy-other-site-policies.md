@@ -1,4 +1,4 @@
-Другие правила сайта - Документация по GitHub
+Другие правила сайта - GitHub Docs
 
 [Skip to main content](#main-content)
 

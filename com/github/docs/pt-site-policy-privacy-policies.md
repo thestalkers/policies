@@ -1,4 +1,4 @@
-Políticas de Privacidade - Documentos do GitHub
+Políticas de Privacidade - GitHub Docs
 
 [Skip to main content](#main-content)
 

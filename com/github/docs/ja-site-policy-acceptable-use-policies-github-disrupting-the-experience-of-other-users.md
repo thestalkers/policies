@@ -1,4 +1,4 @@
-GitHub での他のユーザー エクスペリエンスの妨害 - GitHub ドキュメント
+GitHub での他のユーザー エクスペリエンスの妨害 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

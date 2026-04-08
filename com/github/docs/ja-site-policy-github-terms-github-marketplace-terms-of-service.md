@@ -1,4 +1,4 @@
-GitHub Marketplace サービス使用条件 - GitHub ドキュメント
+GitHub Marketplace サービス使用条件 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

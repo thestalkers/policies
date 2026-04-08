@@ -1,4 +1,4 @@
-Conditions Générales d’Utilisation de GitHub - Documentation GitHub
+Conditions Générales d’Utilisation de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

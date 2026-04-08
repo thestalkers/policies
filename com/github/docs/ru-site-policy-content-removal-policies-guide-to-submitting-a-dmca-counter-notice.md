@@ -1,4 +1,4 @@
-Руководство по подаче встречного уведомления DMCA - Документация по GitHub
+Руководство по подаче встречного уведомления DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Дополнительные условия GitHub Sponsors - Документация по GitHub
+Дополнительные условия GitHub Sponsors - GitHub Docs
 
 [Skip to main content](#main-content)
 

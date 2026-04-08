@@ -1,4 +1,4 @@
-Политика умерших пользователей GitHub - Документация по GitHub
+Политика умерших пользователей GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

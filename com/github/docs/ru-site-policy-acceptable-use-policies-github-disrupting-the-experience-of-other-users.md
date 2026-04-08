@@ -1,4 +1,4 @@
-GitHub мешает работе других пользователей - Документация по GitHub
+GitHub мешает работе других пользователей - GitHub Docs
 
 [Skip to main content](#main-content)
 

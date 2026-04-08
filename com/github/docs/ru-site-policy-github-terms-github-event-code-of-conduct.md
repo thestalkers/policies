@@ -1,4 +1,4 @@
-Правила поведения на мероприятиях GitHub - Документация по GitHub
+Правила поведения на мероприятиях GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

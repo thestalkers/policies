@@ -1,4 +1,4 @@
-GitHub Intimidation et Harcèlement - Documentation GitHub
+GitHub Intimidation et Harcèlement - GitHub Docs
 
 [Skip to main content](#main-content)
 

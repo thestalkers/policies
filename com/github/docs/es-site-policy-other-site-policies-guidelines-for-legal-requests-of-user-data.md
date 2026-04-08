@@ -1,4 +1,4 @@
-Directrices para solicitudes legales de datos de usuario - Documentación de GitHub
+Directrices para solicitudes legales de datos de usuario - GitHub Docs
 
 [Skip to main content](#main-content)
 

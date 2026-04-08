@@ -1,4 +1,4 @@
-セキュリティ脆弱性の協調的開示 - GitHub ドキュメント
+セキュリティ脆弱性の協調的開示 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

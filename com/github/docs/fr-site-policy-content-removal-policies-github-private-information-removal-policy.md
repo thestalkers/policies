@@ -1,4 +1,4 @@
-Politique de suppression des informations privées de GitHub - Documentation GitHub
+Politique de suppression des informations privées de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

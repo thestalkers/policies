@@ -1,4 +1,4 @@
-Información errónea y desinformación de GitHub - Documentación de GitHub
+Información errónea y desinformación de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

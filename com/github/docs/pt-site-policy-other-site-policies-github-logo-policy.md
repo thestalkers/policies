@@ -1,4 +1,4 @@
-Política de logotipo do GitHub - Documentos do GitHub
+Política de logotipo do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

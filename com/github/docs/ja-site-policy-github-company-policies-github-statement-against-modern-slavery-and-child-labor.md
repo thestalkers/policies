@@ -1,4 +1,4 @@
-GitHub の現代奴隷制と児童労働に反対する声明 - GitHub ドキュメント
+GitHub の現代奴隷制と児童労働に反対する声明 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

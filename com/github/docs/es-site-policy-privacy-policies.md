@@ -1,4 +1,4 @@
-Directivas de Privacidad - Documentación de GitHub
+Directivas de Privacidad - GitHub Docs
 
 [Skip to main content](#main-content)
 

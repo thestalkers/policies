@@ -1,4 +1,4 @@
-Bullying e Assédio no GitHub - Documentos do GitHub
+Bullying e Assédio no GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub の GPL Cooperation Commitment - GitHub ドキュメント
+GitHub の GPL Cooperation Commitment - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

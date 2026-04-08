@@ -1,4 +1,4 @@
-Договор с зарегистрированным разработчиком GitHub - Документация по GitHub
+Договор с зарегистрированным разработчиком GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

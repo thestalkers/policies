@@ -1,4 +1,4 @@
-Издевательства и домогательства на GitHub - Документация по GitHub
+Издевательства и домогательства на GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

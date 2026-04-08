@@ -1,4 +1,4 @@
-Documentación de la directiva del sitio - Documentación de GitHub
+Documentación de la directiva del sitio - GitHub Docs
 
 [Skip to main content](#main-content)
 

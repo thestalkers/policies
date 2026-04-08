@@ -1,4 +1,4 @@
-Conditions du programme de recherche GitHub - Documentation GitHub
+Conditions du programme de recherche GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

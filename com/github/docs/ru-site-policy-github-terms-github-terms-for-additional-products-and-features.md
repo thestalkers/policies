@@ -1,4 +1,4 @@
-Условия GitHub для дополнительных продуктов и функций - Документация по GitHub
+Условия GitHub для дополнительных продуктов и функций - GitHub Docs
 
 [Skip to main content](#main-content)
 

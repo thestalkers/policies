@@ -1,4 +1,4 @@
-その他のサイト ポリシー - GitHub ドキュメント
+その他のサイト ポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

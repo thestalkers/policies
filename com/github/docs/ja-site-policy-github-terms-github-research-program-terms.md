@@ -1,4 +1,4 @@
-GitHub のリサーチ プログラム条項 - GitHub ドキュメント
+GitHub のリサーチ プログラム条項 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

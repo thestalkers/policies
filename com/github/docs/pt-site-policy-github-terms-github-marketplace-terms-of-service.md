@@ -1,4 +1,4 @@
-Termos de Serviço do GitHub Marketplace - Documentos do GitHub
+Termos de Serviço do GitHub Marketplace - GitHub Docs
 
 [Skip to main content](#main-content)
 

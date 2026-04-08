@@ -1,4 +1,4 @@
-Разжигание ненависти и дискриминация на GitHub - Документация по GitHub
+Разжигание ненависти и дискриминация на GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

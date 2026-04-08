@@ -1,4 +1,4 @@
-Правила поведения в сообществе GitHub - Документация по GitHub
+Правила поведения в сообществе GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

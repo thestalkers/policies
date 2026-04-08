@@ -1,4 +1,4 @@
-GitHub 条件 - GitHub ドキュメント
+GitHub 条件 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

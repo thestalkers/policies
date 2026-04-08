@@ -1,4 +1,4 @@
-Условия обслуживания GitHub - Документация по GitHub
+Условия обслуживания GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

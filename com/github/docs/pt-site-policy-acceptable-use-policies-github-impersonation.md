@@ -1,4 +1,4 @@
-Representação do GitHub - Documentos do GitHub
+Representação do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

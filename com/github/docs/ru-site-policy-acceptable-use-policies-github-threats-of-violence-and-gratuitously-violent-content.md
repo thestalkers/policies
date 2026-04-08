@@ -1,4 +1,4 @@
-Угрозы насилия и неоправданно жестокое содержимое на GitHub - Документация по GitHub
+Угрозы насилия и неоправданно жестокое содержимое на GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Conteúdo sexualmente obsceno do GitHub - Documentos do GitHub
+Conteúdo sexualmente obsceno do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

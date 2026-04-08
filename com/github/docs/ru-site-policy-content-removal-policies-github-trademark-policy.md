@@ -1,4 +1,4 @@
-Политика GitHub в отношении товарных знаков - Документация по GitHub
+Политика GitHub в отношении товарных знаков - GitHub Docs
 
 [Skip to main content](#main-content)
 

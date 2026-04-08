@@ -1,4 +1,4 @@
-Conditions d'utilisation de GitHub Corporate - Documentation GitHub
+Conditions d'utilisation de GitHub Corporate - GitHub Docs
 
 [Skip to main content](#main-content)
 

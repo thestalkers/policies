@@ -1,4 +1,4 @@
-Termos do evento do GitHub - Documentos do GitHub
+Termos do evento do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

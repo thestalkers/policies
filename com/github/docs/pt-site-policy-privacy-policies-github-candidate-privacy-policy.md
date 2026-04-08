@@ -1,4 +1,4 @@
-Aviso de Privacidade de Dados Global do GitHub para Candidatos - Documentos do GitHub
+Aviso de Privacidade de Dados Global do GitHub para Candidatos - GitHub Docs
 
 [Skip to main content](#main-content)
 

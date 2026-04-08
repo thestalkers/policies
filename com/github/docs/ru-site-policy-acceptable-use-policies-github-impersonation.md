@@ -1,4 +1,4 @@
-Имперсонация GitHub - Документация по GitHub
+Имперсонация GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

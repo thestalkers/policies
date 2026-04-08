@@ -1,4 +1,4 @@
-GitHub の Cookie - GitHub ドキュメント
+GitHub の Cookie - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

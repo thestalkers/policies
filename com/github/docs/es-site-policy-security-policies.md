@@ -1,4 +1,4 @@
-Políticas de seguridad - Documentación de GitHub
+Políticas de seguridad - GitHub Docs
 
 [Skip to main content](#main-content)
 

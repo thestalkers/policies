@@ -1,4 +1,4 @@
-Política de eliminación del gobierno de GitHub - Documentación de GitHub
+Política de eliminación del gobierno de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Условия предоставления услуг GitHub Marketplace - Документация по GitHub
+Условия предоставления услуг GitHub Marketplace - GitHub Docs
 
 [Skip to main content](#main-content)
 

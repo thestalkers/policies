@@ -1,4 +1,4 @@
-Политика допустимого использования - Документация по GitHub
+Политика допустимого использования - GitHub Docs
 
 [Skip to main content](#main-content)
 

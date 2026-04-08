@@ -1,4 +1,4 @@
-Conditions GitHub pour les produits et fonctionnalités supplémentaires - Documentation GitHub
+Conditions GitHub pour les produits et fonctionnalités supplémentaires - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Политики конфиденциальности - Документация по GitHub
+Политики конфиденциальности - GitHub Docs
 
 [Skip to main content](#main-content)
 

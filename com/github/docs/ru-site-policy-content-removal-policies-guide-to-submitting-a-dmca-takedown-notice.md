@@ -1,4 +1,4 @@
-Руководство по подаче уведомления об удалении DMCA - Документация по GitHub
+Руководство по подаче уведомления об удалении DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 

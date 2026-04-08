@@ -1,4 +1,4 @@
-Déclaration anti-corruption GitHub - Documentation GitHub
+Déclaration anti-corruption GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

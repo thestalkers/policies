@@ -1,4 +1,4 @@
-Contrat de développeur enregistré GitHub - Documentation GitHub
+Contrat de développeur enregistré GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

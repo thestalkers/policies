@@ -1,4 +1,4 @@
-Apelación y restablecimiento de GitHub - Documentación de GitHub
+Apelación y restablecimiento de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

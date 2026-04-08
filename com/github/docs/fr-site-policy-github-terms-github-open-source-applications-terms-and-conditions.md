@@ -1,4 +1,4 @@
-Termes et conditions des applications open source GitHub - Documentation GitHub
+Termes et conditions des applications open source GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

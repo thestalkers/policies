@@ -1,4 +1,4 @@
-候補者向け GitHub グローバル データ プライバシー通知 - GitHub ドキュメント
+候補者向け GitHub グローバル データ プライバシー通知 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

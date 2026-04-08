@@ -1,4 +1,4 @@
-Политика GitHub в отношении правительственных запретов - Документация по GitHub
+Политика GitHub в отношении правительственных запретов - GitHub Docs
 
 [Skip to main content](#main-content)
 

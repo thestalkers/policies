@@ -1,4 +1,4 @@
-Diretrizes da comunidade do GitHub - Documentos do GitHub
+Diretrizes da comunidade do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

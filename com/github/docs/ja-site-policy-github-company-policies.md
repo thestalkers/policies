@@ -1,4 +1,4 @@
-GitHub の会社ポリシー - GitHub ドキュメント
+GitHub の会社ポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

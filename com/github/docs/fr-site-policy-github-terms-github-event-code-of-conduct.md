@@ -1,4 +1,4 @@
-Code de conduite des événements GitHub - Documentation GitHub
+Code de conduite des événements GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

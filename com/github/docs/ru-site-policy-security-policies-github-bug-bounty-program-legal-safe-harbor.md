@@ -1,4 +1,4 @@
-Программа GitHub Bug Bounty Legal Safe Harbour - Документация по GitHub
+Программа GitHub Bug Bounty Legal Safe Harbour - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Guía para enviar una contranotificación de DMCA - Documentación de GitHub
+Guía para enviar una contranotificación de DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 

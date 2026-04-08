@@ -1,4 +1,4 @@
-Политики удаления контента - Документация по GitHub
+Политики удаления контента - GitHub Docs
 
 [Skip to main content](#main-content)
 

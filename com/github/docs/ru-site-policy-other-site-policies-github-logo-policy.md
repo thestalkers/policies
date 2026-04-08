@@ -1,4 +1,4 @@
-Политика логотипа GitHub - Документация по GitHub
+Политика логотипа GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

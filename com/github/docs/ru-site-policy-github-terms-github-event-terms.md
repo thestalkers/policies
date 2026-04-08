@@ -1,4 +1,4 @@
-Условия проведения мероприятий на GitHub - Документация по GitHub
+Условия проведения мероприятий на GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

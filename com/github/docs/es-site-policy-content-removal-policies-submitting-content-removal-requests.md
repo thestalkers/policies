@@ -1,4 +1,4 @@
-Envío de solicitudes de eliminación de contenido - Documentación de GitHub
+Envío de solicitudes de eliminación de contenido - GitHub Docs
 
 [Skip to main content](#main-content)
 

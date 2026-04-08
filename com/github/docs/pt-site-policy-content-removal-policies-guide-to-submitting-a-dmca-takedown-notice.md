@@ -1,4 +1,4 @@
-Guia para enviar um aviso de remoção da DMCA - Documentos do GitHub
+Guia para enviar um aviso de remoção da DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 

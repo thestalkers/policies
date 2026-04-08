@@ -1,4 +1,4 @@
-Términos del programa de investigación de GitHub - Documentación de GitHub
+Términos del programa de investigación de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

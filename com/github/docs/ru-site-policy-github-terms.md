@@ -1,4 +1,4 @@
-Условия GitHub - Документация по GitHub
+Условия GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub コミュニティ ガイドライン - GitHub ドキュメント
+GitHub コミュニティ ガイドライン - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

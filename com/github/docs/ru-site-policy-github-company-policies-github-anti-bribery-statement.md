@@ -1,4 +1,4 @@
-Заявление GitHub о борьбе со взяточничеством - Документация по GitHub
+Заявление GitHub о борьбе со взяточничеством - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub и управление торговлей - Документация по GitHub
+GitHub и управление торговлей - GitHub Docs
 
 [Skip to main content](#main-content)
 

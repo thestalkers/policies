@@ -1,4 +1,4 @@
-Соглашение с разработчиком GitHub Marketplace - Документация по GitHub
+Соглашение с разработчиком GitHub Marketplace - GitHub Docs
 
 [Skip to main content](#main-content)
 

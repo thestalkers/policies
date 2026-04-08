@@ -1,4 +1,4 @@
-Patrocinadores de GitHub Términos adicionales - Documentación de GitHub
+Patrocinadores de GitHub Términos adicionales - GitHub Docs
 
 [Skip to main content](#main-content)
 

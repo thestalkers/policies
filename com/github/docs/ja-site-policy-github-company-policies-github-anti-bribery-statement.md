@@ -1,4 +1,4 @@
-GitHub の腐敗防止に関する声明 - GitHub ドキュメント
+GitHub の腐敗防止に関する声明 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

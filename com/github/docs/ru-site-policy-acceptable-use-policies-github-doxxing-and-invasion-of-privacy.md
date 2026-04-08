@@ -1,4 +1,4 @@
-GitHub Doxxing и вторжение в частную жизнь - Документация по GitHub
+GitHub Doxxing и вторжение в частную жизнь - GitHub Docs
 
 [Skip to main content](#main-content)
 

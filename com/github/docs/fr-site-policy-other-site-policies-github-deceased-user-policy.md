@@ -1,4 +1,4 @@
-Politique des utilisateurs décédés de GitHub - Documentation GitHub
+Politique des utilisateurs décédés de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

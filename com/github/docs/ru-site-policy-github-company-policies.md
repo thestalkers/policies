@@ -1,4 +1,4 @@
-Политика компании #REF! - Документация по GitHub
+Политика компании #REF! - GitHub Docs
 
 [Skip to main content](#main-content)
 

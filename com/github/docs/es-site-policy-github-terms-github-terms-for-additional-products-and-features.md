@@ -1,4 +1,4 @@
-Términos de GitHub para productos y funciones adicionales - Documentación de GitHub
+Términos de GitHub para productos y funciones adicionales - GitHub Docs
 
 [Skip to main content](#main-content)
 

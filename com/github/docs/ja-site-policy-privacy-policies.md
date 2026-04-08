@@ -1,4 +1,4 @@
-プライバシー ポリシー - GitHub ドキュメント
+プライバシー ポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

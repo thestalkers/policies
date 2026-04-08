@@ -1,4 +1,4 @@
-GitHub オープン ソース アプリケーションの契約条件 - GitHub ドキュメント
+GitHub オープン ソース アプリケーションの契約条件 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

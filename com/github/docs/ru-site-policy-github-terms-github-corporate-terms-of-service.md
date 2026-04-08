@@ -1,4 +1,4 @@
-Корпоративные условия обслуживания GitHub - Документация по GitHub
+Корпоративные условия обслуживания GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

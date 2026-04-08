@@ -1,4 +1,4 @@
-GitHub の一般プライバシー ステートメント - GitHub ドキュメント
+GitHub の一般プライバシー ステートメント - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

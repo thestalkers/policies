@@ -1,4 +1,4 @@
-GitHub の死亡ユーザー ポリシー - GitHub ドキュメント
+GitHub の死亡ユーザー ポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

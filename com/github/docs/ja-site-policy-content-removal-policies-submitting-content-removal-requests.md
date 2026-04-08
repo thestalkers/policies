@@ -1,4 +1,4 @@
-コンテンツ削除要求の提出 - GitHub ドキュメント
+コンテンツ削除要求の提出 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

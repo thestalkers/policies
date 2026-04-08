@@ -1,4 +1,4 @@
-GitHub の贈答品および接待に関するポリシー - GitHub ドキュメント
+GitHub の贈答品および接待に関するポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

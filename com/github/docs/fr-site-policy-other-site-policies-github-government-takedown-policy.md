@@ -1,4 +1,4 @@
-Politique de retrait du gouvernement GitHub - Documentation GitHub
+Politique de retrait du gouvernement GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

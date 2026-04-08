@@ -1,4 +1,4 @@
-Cookies de GitHub - Documentación de GitHub
+Cookies de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

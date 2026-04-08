@@ -1,4 +1,4 @@
-Compromiso de cooperación de GitHub GPL - Documentación de GitHub
+Compromiso de cooperación de GitHub GPL - GitHub Docs
 
 [Skip to main content](#main-content)
 

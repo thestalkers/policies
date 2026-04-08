@@ -1,4 +1,4 @@
-Политика удаления личной информации GitHub - Документация по GitHub
+Политика удаления личной информации GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

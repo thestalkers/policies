@@ -1,4 +1,4 @@
-Неправильная информация и дезинформация на GitHub - Документация по GitHub
+Неправильная информация и дезинформация на GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

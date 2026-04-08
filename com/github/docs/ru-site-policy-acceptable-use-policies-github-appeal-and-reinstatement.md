@@ -1,4 +1,4 @@
-Апелляция GitHub и восстановление - Документация по GitHub
+Апелляция GitHub и восстановление - GitHub Docs
 
 [Skip to main content](#main-content)
 

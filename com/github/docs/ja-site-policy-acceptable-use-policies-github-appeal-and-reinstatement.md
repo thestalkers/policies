@@ -1,4 +1,4 @@
-GitHub の異議申し立ておよび復活 - GitHub ドキュメント
+GitHub の異議申し立ておよび復活 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

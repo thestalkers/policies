@@ -1,4 +1,4 @@
-Políticas de empresa de GitHub - Documentación de GitHub
+Políticas de empresa de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-DMCA 削除ポリシー - GitHub ドキュメント
+DMCA 削除ポリシー - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

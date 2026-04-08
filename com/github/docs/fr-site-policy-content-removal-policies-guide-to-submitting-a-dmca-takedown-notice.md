@@ -1,4 +1,4 @@
-Guide de soumission d'un avis de retrait DMCA - Documentation GitHub
+Guide de soumission d'un avis de retrait DMCA - GitHub Docs
 
 [Skip to main content](#main-content)
 

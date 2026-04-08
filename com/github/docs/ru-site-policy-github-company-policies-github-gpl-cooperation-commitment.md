@@ -1,4 +1,4 @@
-Обязательство сотрудничества с GitHub GPL - Документация по GitHub
+Обязательство сотрудничества с GitHub GPL - GitHub Docs
 
 [Skip to main content](#main-content)
 

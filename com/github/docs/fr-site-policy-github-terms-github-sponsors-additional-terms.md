@@ -1,4 +1,4 @@
-Conditions supplémentaires des sponsors GitHub - Documentation GitHub
+Conditions supplémentaires des sponsors GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

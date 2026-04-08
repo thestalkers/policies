@@ -1,4 +1,4 @@
-Política de marcas registradas de GitHub - Documentación de GitHub
+Política de marcas registradas de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

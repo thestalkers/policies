@@ -1,4 +1,4 @@
-Условия исследовательской программы GitHub - Документация по GitHub
+Условия исследовательской программы GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

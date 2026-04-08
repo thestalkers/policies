@@ -1,4 +1,4 @@
-Como enviar solicitações de remoção de conteúdo - Documentos do GitHub
+Como enviar solicitações de remoção de conteúdo - GitHub Docs
 
 [Skip to main content](#main-content)
 

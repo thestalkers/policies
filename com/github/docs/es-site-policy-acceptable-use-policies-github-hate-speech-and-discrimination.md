@@ -1,4 +1,4 @@
-GitHub Discurso de odio y discriminación - Documentación de GitHub
+GitHub Discurso de odio y discriminación - GitHub Docs
 
 [Skip to main content](#main-content)
 

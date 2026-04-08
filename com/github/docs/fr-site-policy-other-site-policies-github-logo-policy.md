@@ -1,4 +1,4 @@
-Politique relative aux logos GitHub - Documentation GitHub
+Politique relative aux logos GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

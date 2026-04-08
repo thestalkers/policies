@@ -1,4 +1,4 @@
-Политика имени пользователя GitHub - Документация по GitHub
+Политика имени пользователя GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

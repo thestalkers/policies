@@ -1,4 +1,4 @@
-GitHub スポンサーの追加条件 - GitHub ドキュメント
+GitHub スポンサーの追加条件 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

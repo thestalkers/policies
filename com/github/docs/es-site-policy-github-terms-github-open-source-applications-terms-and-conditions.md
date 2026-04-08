@@ -1,4 +1,4 @@
-Términos y condiciones de las aplicaciones de código abierto de GitHub - Documentación de GitHub
+Términos y condiciones de las aplicaciones de código abierto de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

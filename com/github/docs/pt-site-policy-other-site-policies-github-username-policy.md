@@ -1,4 +1,4 @@
-Política de nome de usuário do GitHub - Documentos do GitHub
+Política de nome de usuário do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

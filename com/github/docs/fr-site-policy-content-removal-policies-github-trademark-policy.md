@@ -1,4 +1,4 @@
-Politique de marque GitHub - Documentation GitHub
+Politique de marque GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

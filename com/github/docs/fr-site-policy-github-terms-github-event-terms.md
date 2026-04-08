@@ -1,4 +1,4 @@
-Conditions de l'événement GitHub - Documentation GitHub
+Conditions de l'événement GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

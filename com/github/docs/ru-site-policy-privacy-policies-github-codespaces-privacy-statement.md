@@ -1,4 +1,4 @@
-Общие заявления о конфиденциальности GitHub - Документация по GitHub
+Общие заявления о конфиденциальности GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Declaración contra el soborno de GitHub - Documentación de GitHub
+Declaración contra el soborno de GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

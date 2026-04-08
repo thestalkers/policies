@@ -1,4 +1,4 @@
-GitHub での憎悪の言葉と差別 - GitHub ドキュメント
+GitHub での憎悪の言葉と差別 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 
