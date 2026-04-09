@@ -1,4 +1,4 @@
-GitHub: Globaler Datenschutzhinweis für Kandidaten - GitHub-Dokumentation
+GitHub: Globaler Datenschutzhinweis für Kandidaten - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

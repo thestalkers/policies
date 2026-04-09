@@ -1,4 +1,4 @@
-Anleitung zum Einreichen einer DMCA-Gegendarstellung - GitHub-Dokumentation
+Anleitung zum Einreichen einer DMCA-Gegendarstellung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Bedingungen für GitHub-Events - GitHub-Dokumentation
+Bedingungen für GitHub-Events - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

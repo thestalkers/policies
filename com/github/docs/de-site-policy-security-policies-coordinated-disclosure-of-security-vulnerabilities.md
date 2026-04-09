@@ -1,4 +1,4 @@
-Koordinierte Offenlegung von Sicherheitslücken - GitHub-Dokumentation
+Koordinierte Offenlegung von Sicherheitslücken - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

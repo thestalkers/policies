@@ -1,4 +1,4 @@
-GitHub-Richtlinie für verstorbene Benutzer - GitHub-Dokumentation
+GitHub-Richtlinie für verstorbene Benutzer - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

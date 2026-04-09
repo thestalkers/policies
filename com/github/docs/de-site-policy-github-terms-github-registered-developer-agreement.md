@@ -1,4 +1,4 @@
-Vereinbarung für registrierte GitHub-Entwickler - GitHub-Dokumentation
+Vereinbarung für registrierte GitHub-Entwickler - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

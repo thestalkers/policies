@@ -1,4 +1,4 @@
-GitHub Doxxing und Verletzung der Privatsphäre - GitHub-Dokumentation
+GitHub Doxxing und Verletzung der Privatsphäre - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

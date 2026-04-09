@@ -1,4 +1,4 @@
-Richtlinien zum Entfernen von Inhalten - GitHub-Dokumentation
+Richtlinien zum Entfernen von Inhalten - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

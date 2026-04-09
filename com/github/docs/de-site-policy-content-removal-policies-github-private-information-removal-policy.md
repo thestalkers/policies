@@ -1,4 +1,4 @@
-Richtlinie zum Entfernen privater Informationen von GitHub - GitHub-Dokumentation
+Richtlinie zum Entfernen privater Informationen von GitHub - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

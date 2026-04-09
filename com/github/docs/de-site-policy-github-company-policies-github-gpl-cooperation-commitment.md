@@ -1,4 +1,4 @@
-GitHub GPL Kooperationsverpflichtung - GitHub-Dokumentation
+GitHub GPL Kooperationsverpflichtung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

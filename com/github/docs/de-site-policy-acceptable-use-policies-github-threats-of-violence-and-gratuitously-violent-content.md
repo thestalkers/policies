@@ -1,4 +1,4 @@
-GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten - GitHub-Dokumentation
+GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Cookie-файлы GitHub - Документация по GitHub
+Cookie-файлы GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

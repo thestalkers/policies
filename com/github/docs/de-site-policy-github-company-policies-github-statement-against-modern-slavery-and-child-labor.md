@@ -1,4 +1,4 @@
-GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub-Dokumentation
+GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

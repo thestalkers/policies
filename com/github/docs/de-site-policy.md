@@ -1,4 +1,4 @@
-Dokumentation zur Websiterichtlinie - GitHub-Dokumentation
+Dokumentation zur Websiterichtlinie - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

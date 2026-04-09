@@ -1,4 +1,4 @@
-GitHub e controles de comércio - Documentos do GitHub
+GitHub e controles de comércio - GitHub Docs
 
 [Skip to main content](#main-content)
 

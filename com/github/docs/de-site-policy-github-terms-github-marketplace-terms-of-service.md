@@ -1,4 +1,4 @@
-GitHub Marketplace-Nutzungsbedingungen - GitHub-Dokumentation
+GitHub Marketplace-Nutzungsbedingungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

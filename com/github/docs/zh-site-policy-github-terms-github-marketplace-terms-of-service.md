@@ -1,4 +1,4 @@
-GitHub Marketplace 服务条款 - GitHub Docs
+GitHub Marketplace 服务条款 - GitHub 文档
 
 [Skip to main content](#main-content)
 

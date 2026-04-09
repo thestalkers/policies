@@ -1,4 +1,4 @@
-GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen - GitHub-Dokumentation
+GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

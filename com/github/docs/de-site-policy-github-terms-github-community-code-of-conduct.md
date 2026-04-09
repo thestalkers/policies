@@ -1,4 +1,4 @@
-Verhaltenskodex für die GitHub-Community - GitHub-Dokumentation
+Verhaltenskodex für die GitHub-Community - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

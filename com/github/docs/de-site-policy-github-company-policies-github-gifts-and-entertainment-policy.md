@@ -1,4 +1,4 @@
-GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub-Dokumentation
+GitHub-Richtlinie zu Geschenken und Unterhaltung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

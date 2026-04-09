@@ -1,4 +1,4 @@
-Termos de Serviço do GitHub - Documentos do GitHub
+Termos de Serviço do GitHub - GitHub Docs
 
 [Skip to main content](#main-content)
 

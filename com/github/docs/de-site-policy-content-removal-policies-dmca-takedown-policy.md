@@ -1,4 +1,4 @@
-DMCA Takedown-Richtlinie - GitHub-Dokumentation
+DMCA Takedown-Richtlinie - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

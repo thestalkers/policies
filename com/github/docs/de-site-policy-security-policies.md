@@ -1,4 +1,4 @@
-Sicherheitsrichtlinien - GitHub-Dokumentation
+Sicherheitsrichtlinien - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

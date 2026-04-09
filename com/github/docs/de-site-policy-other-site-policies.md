@@ -1,4 +1,4 @@
-Andere Website-Richtlinien - GitHub-Dokumentation
+Andere Website-Richtlinien - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub-Markenrichtlinie - GitHub-Dokumentation
+GitHub-Markenrichtlinie - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

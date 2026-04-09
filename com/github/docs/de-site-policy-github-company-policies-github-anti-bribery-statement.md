@@ -1,4 +1,4 @@
-GitHub-Erklärung zur Bestechungsbekämpfung - GitHub-Dokumentation
+GitHub-Erklärung zur Bestechungsbekämpfung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

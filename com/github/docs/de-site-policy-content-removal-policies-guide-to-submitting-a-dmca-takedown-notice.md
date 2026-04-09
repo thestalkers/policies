@@ -1,4 +1,4 @@
-Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung - GitHub-Dokumentation
+Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

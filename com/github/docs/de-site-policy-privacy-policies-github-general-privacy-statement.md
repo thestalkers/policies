@@ -1,4 +1,4 @@
-Allgemeine Datenschutzerklärung für GitHub - GitHub-Dokumentation
+Allgemeine Datenschutzerklärung für GitHub - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

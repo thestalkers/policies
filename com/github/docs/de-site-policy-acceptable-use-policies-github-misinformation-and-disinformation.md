@@ -1,4 +1,4 @@
-GitHub Fehlinformationen und Desinformationen - GitHub-Dokumentation
+GitHub Fehlinformationen und Desinformationen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

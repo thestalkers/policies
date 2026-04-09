@@ -1,4 +1,4 @@
-GitHub Government Takedown-Richtlinie - GitHub-Dokumentation
+GitHub Government Takedown-Richtlinie - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

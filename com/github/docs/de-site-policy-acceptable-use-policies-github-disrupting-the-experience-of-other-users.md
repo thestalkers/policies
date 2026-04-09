@@ -1,4 +1,4 @@
-GitHub stört die Erfahrung anderer Benutzer - GitHub-Dokumentation
+GitHub stört die Erfahrung anderer Benutzer - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub-Vertragsbedingungen für Unternehmen - GitHub-Dokumentation
+GitHub-Vertragsbedingungen für Unternehmen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

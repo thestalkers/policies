@@ -1,4 +1,4 @@
-GitHub-Nutzungsbedingungen - GitHub-Dokumentation
+GitHub-Nutzungsbedingungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

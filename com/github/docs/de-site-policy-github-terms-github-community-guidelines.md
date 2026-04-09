@@ -1,4 +1,4 @@
-GitHub-Community-Richtlinien - GitHub-Dokumentation
+GitHub-Community-Richtlinien - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

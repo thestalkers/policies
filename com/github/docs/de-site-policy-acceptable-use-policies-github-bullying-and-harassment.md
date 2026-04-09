@@ -1,4 +1,4 @@
-GitHub Mobbing und Belästigung - GitHub-Dokumentation
+GitHub Mobbing und Belästigung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

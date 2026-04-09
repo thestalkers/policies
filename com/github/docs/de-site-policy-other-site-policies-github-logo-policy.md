@@ -1,4 +1,4 @@
-GitHub-Logo-Richtlinie - GitHub-Dokumentation
+GitHub-Logo-Richtlinie - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

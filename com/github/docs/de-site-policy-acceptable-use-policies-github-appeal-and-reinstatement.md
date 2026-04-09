@@ -1,4 +1,4 @@
-GitHub-Einspruch und Wiedereinsetzung - GitHub-Dokumentation
+GitHub-Einspruch und Wiedereinsetzung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

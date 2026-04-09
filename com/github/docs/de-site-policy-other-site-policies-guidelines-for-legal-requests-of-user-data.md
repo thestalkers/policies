@@ -1,4 +1,4 @@
-Richtlinien für rechtliche Anfragen von Benutzerdaten - GitHub-Dokumentation
+Richtlinien für rechtliche Anfragen von Benutzerdaten - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

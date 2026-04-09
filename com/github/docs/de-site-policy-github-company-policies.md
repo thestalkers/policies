@@ -1,4 +1,4 @@
-GitHub-Unternehmensrichtlinien - GitHub-Dokumentation
+GitHub-Unternehmensrichtlinien - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

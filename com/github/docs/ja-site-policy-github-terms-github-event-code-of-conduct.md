@@ -1,4 +1,4 @@
-GitHub イベントの行動規範 - GitHub ドキュメント
+GitHub イベントの行動規範 - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

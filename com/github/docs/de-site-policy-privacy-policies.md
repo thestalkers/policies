@@ -1,4 +1,4 @@
-Datenschutzrichtlinien - GitHub-Dokumentation
+Datenschutzrichtlinien - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

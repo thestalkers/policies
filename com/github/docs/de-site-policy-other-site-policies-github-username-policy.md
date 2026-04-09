@@ -1,4 +1,4 @@
-GitHub-Richtlinie für Benutzernamen - GitHub-Dokumentation
+GitHub-Richtlinie für Benutzernamen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

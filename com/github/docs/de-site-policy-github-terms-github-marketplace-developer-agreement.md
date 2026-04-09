@@ -1,4 +1,4 @@
-GitHub Marketplace-Entwicklervereinbarung - GitHub-Dokumentation
+GitHub Marketplace-Entwicklervereinbarung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub Hassreden und Diskriminierung - GitHub-Dokumentation
+GitHub Hassreden und Diskriminierung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

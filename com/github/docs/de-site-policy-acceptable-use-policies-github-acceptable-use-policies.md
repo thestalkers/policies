@@ -1,4 +1,4 @@
-GitHub-Richtlinien zur akzeptablen Nutzung - GitHub-Dokumentation
+GitHub-Richtlinien zur akzeptablen Nutzung - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen - GitHub-Dokumentation
+Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

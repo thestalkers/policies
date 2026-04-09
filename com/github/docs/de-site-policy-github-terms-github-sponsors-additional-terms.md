@@ -1,4 +1,4 @@
-GitHub sponsert zusätzliche Bedingungen - GitHub-Dokumentation
+GitHub sponsert zusätzliche Bedingungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

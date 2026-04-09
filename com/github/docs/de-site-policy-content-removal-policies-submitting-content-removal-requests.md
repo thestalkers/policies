@@ -1,4 +1,4 @@
-Einreichen von Anträgen auf Entfernung von Inhalten - GitHub-Dokumentation
+Einreichen von Anträgen auf Entfernung von Inhalten - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

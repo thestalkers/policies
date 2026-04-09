@@ -1,4 +1,4 @@
-GitHub-Bedingungen - GitHub-Dokumentation
+GitHub-Bedingungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

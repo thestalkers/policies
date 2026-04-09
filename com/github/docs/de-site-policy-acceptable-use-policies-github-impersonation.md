@@ -1,4 +1,4 @@
-GitHub-Identitätswechsel - GitHub-Dokumentation
+GitHub-Identitätswechsel - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHub ドキュメント
+GitHub の暴力の脅威と根拠のない暴力的コンテンツ - GitHubドキュメント
 
 [Skip to main content](#main-content)
 

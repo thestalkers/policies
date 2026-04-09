@@ -1,4 +1,4 @@
-GitHub-Verhaltenskodex für Veranstaltungen - GitHub-Dokumentation
+GitHub-Verhaltenskodex für Veranstaltungen - GitHub Dokumente
 
 [Skip to main content](#main-content)
 

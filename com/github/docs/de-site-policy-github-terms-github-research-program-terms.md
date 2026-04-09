@@ -1,4 +1,4 @@
-Bedingungen des GitHub-Forschungsprogramms - GitHub-Dokumentation
+Bedingungen des GitHub-Forschungsprogramms - GitHub Dokumente
 
 [Skip to main content](#main-content)
 
