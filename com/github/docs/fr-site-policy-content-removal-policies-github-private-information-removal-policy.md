@@ -50,7 +50,7 @@ Le « risque de sécurité » fait référence à une situation impliquant une
 * Demandes de suppression de contenu susceptible de porter atteinte à vos droits d'auteur ou à ceux de votre organisation. Si vous avez des questions sur la manière dont GitHub traite les questions liées au droit d'auteur ou si vous souhaitez signaler un contenu potentiellement illicite, veuillez consulter notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy). Le processus de retrait des informations privées n'est généralement pas destiné à supprimer des fichiers ou des référentiels complets, mais uniquement les éléments spécifiques d'informations privées contenus dans ces fichiers. Bien qu'il puisse y avoir des cas où les fichiers sont entièrement remplis d'informations privées, vous devez justifier le risque de sécurité lié à la suppression de ces fichiers, ce qui peut augmenter le temps nécessaire au traitement de votre demande.
 * Litiges de marque. Si vous avez des questions sur la manière dont GitHub traite les questions relatives aux marques commerciales ou si vous souhaitez signaler un contenu contenant les marques commerciales ou de service de votre organisation, veuillez consulter notre [Politique en matière de marques commerciales](/fr/site-policy/content-removal-policies/github-trademark-policy).
 * Plaintes relatives à la confidentialité. Si vous souhaitez accéder à vos informations personnelles sur GitHub, les transférer, les modifier ou les supprimer, veuillez nous contacter en utilisant [notre formulaire de contact sur la confidentialité](https://github.com/contact/privacy).
-* Contenu régi par notre [Charte de la Communauté](/fr/site-policy/github-terms/github-community-guidelines), comme les logiciels malveillants ou les outils polyvalents. Si vous avez des questions sur notre Charte de la communauté ou si vous pensez que le contenu de GitHub pourrait enfreindre notre Charte de la communuaté, vous pouvez nous contacter via le [Portail de support GitHub](https://support.github.com/) pour signaler un contenu.
+* Contenu régi par notre [Charte de la Communauté](/fr/site-policy/github-terms/github-community-guidelines), comme les logiciels malveillants ou les outils polyvalents. Si vous avez des questions sur notre Charte de la communauté, ou si vous pensez que le contenu de GitHub pourrait enfreindre notre Charte de la communauté, vous pouvez nous contacter via le [Portail de support GitHub](https://support.github.com/) pour signaler un contenu.
 
 [Choses à savoir](#things-to-know)
 ----------
@@ -108,7 +108,7 @@ Ces lignes directrices sont conçues pour rendre le traitement des demandes de s
 [Comment soumettre votre demande](#how-to-submit-your-request)
 ----------
 
-Vous pouvez soumettre votre demande de retrait d'informations privées en utilisant notre [formulaire de contact](https://support.github.com/contact?tags=docs-private-information). Veuillez inclure une version en texte brut de votre demande dans le corps de votre message. L'envoi de votre demande en pièce jointe peut entraîner des retards de traitement.
+Vous pouvez soumettre votre demande de retrait d'informations privées en utilisant notre [formulaire de contact](https://support.github.com/contact/private-information). Veuillez inclure une version en texte brut de votre demande dans le corps de votre message. L'envoi de votre demande en pièce jointe peut entraîner des retards de traitement.
 
 [Litiges](#disputes)
 ----------

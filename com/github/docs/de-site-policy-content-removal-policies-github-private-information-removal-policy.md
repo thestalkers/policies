@@ -50,7 +50,7 @@ Für die Zwecke dieses Dokuments bezieht sich „private Informationen“ auf In
 * Aufforderungen zur Entfernung von Inhalten, die Ihre Urheberrechte oder die Ihrer Organisation verletzen könnten. Wenn Sie Fragen dazu haben, wie GitHub mit urheberrechtlichen Angelegenheiten umgeht, oder potenziell verletzende Inhalte melden möchten, lesen Sie bitte unsere [Richtlinie zu DMCA Takedown Notices](/de/site-policy/content-removal-policies/dmca-takedown-policy). Der Prozess zum Entfernen privater Informationen ist im Allgemeinen nicht für das Entfernen vollständiger Dateien oder Repositories gedacht – nur für die spezifischen Teile privater Informationen in diesen Dateien. Obwohl es Fälle geben kann, in denen Dateien vollständig mit privaten Informationen gefüllt sind, müssen Sie das Sicherheitsrisiko für das Entfernen solcher Dateien begründen, und dies kann die für die Bearbeitung Ihrer Anfrage erforderliche Zeit verlängern.
 * Markenstreitigkeiten. Wenn Sie Fragen dazu haben, wie GitHub markenbezogene Angelegenheiten handhabt, oder Inhalte melden möchten, die die Handels- oder Dienstleistungsmarken Ihrer Organisation enthalten, lesen Sie bitte unsere [Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy).
 * Datenschutzbeschwerden. Wenn Sie auf Ihre personenbezogenen Daten auf GitHub zugreifen, sie übermitteln, ändern oder löschen möchten, kontaktieren Sie uns bitte über [unser Kontaktformular Datenschutz](https://github.com/contact/privacy).
-* Inhalte, die unseren [Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines) unterliegen, wie Malware oder Allzweck-Tools. Wenn Sie Fragen zu unseren Community-Richtlinien haben oder glauben, dass Inhalte auf GitHub gegen unsere Richtlinien verstoßen könnten, können Sie uns über das [GitHub-Supportportal](https://support.github.com/) kontaktieren, um Inhalte zu melden.
+* Inhalte, die unseren [Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines) unterliegen, wie Malware oder Allzweck-Tools. Wenn Sie Fragen zu unseren Community-Richtlinien haben oder der Ansicht sind, dass Inhalte auf GitHub gegen unsere Richtlinien verstoßen könnten, können Sie uns über das [GitHub-Supportportal](https://support.github.com/) kontaktieren, um Inhalte zu melden.
 
 [Sachen zu wissen](#things-to-know)
 ----------
@@ -108,7 +108,7 @@ Diese Richtlinien sollen die Bearbeitung von Anträgen auf Entfernung privater I
 [So übermitteln Sie Ihre Anfrage](#how-to-submit-your-request)
 ----------
 
-Sie können Ihren Antrag zum Entfernen privater Informationen über unser [Kontaktformular](https://support.github.com/contact?tags=docs-private-information) senden. Bitte fügen Sie eine Klartextversion Ihrer Anfrage in den Text Ihrer Nachricht ein. Das Senden Ihrer Anfrage in einem Anhang kann zu Verzögerungen bei der Bearbeitung führen.
+Sie können Ihren Antrag zum Entfernen privater Informationen über unser [Kontaktformular](https://support.github.com/contact/private-information) senden. Bitte fügen Sie eine Klartextversion Ihrer Anfrage in den Text Ihrer Nachricht ein. Das Senden Ihrer Anfrage in einem Anhang kann zu Verzögerungen bei der Bearbeitung führen.
 
 [Streitigkeiten](#disputes)
 ----------

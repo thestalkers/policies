@@ -50,7 +50,7 @@ A efectos de este documento, se entiende por «información privada» el conteni
 * Solicitudes para eliminar contenido que pueda infringir sus derechos de autor o los de su organización. Si tiene alguna pregunta sobre cómo gestiona GitHub las cuestiones relativas a los derechos de autor o si desea denunciar contenido potencialmente infractor, consulte nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy). El proceso de eliminación de información privada generalmente no está pensado para la eliminación de archivos o repositorios completos: solo para partes específicas de información privada en dichos archivos. Si bien puede haber casos en los que los archivos se llenen completamente con información privada, debe justificar el riesgo de seguridad por la eliminación de dichos archivos, y esto puede aumentar el tiempo necesario para procesar su solicitud.
 * Disputas de marcas registradas. Si tiene preguntas sobre cómo gestiona GitHub las cuestiones relativas a las marcas comerciales o desea informar sobre contenidos que incluyan marcas comerciales o de servicio de su organización, revise nuestra [Directiva de Marcas Registradas](/es/site-policy/content-removal-policies/github-trademark-policy).
 * Quejas de privacidad. Si desea acceder, transferir, modificar o eliminar su información personal en GitHub, póngase en contacto con nosotros a través de [nuestro formulario de contacto de Privacidad](https://github.com/contact/privacy).
-* Contenido que se rige por nuestras [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas acerca de nuestras Directrices de la Comunidad o cree que el contenido de GitHub podría infringir nuestras directrices, puede contactar con nosotros mediante el [Portal de soporte de GitHub](https://support.github.com/) para informarse del contenido.
+* Contenido que se rige por nuestras [Directrices de la Comunidad](/es/site-policy/github-terms/github-community-guidelines), como malware o herramientas para fines generales. Si tiene preguntas sobre nuestras Directrices de Community o considera que algún contenido en GitHub pudiera infringirlas, puede ponerse en contacto con nosotros a través de [Portal de soporte de GitHub](https://support.github.com/)a efectos de notificar dicho contenido.
 
 [Cosas que saber](#things-to-know)
 ----------
@@ -108,7 +108,7 @@ Estas pautas están diseñadas para hacer que el procesamiento de solicitudes pa
 [Cómo enviar su solicitud](#how-to-submit-your-request)
 ----------
 
-Puede enviar su solicitud para eliminar información privada a través de nuestro [formulario de contacto](https://support.github.com/contact?tags=docs-private-information). Incluya una versión de texto sin formato de su solicitud en el cuerpo de su mensaje. Enviar su solicitud en un archivo adjunto puede provocar demoras en el procesamiento.
+Puede enviar su solicitud para eliminar información privada a través de nuestro [formulario de contacto](https://support.github.com/contact/private-information). Incluya una versión de texto sin formato de su solicitud en el cuerpo de su mensaje. Enviar su solicitud en un archivo adjunto puede provocar demoras en el procesamiento.
 
 [Disputas](#disputes)
 ----------

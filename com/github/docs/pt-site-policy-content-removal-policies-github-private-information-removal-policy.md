@@ -108,7 +108,7 @@ Essas diretrizes foram elaboradas para tornar o processamento de solicitações 
 [Como enviar sua solicitação](#how-to-submit-your-request)
 ----------
 
-Você pode enviar sua solicitação para remover informações privadas por meio do [formulário de contato](https://support.github.com/contact?tags=docs-private-information). Por favor, inclua uma versão em texto simples de sua solicitação no corpo de sua mensagem. O envio de sua solicitação em anexo pode resultar em atrasos no processamento.
+Você pode enviar sua solicitação para remover informações privadas por meio do [formulário de contato](https://support.github.com/contact/private-information). Por favor, inclua uma versão em texto simples de sua solicitação no corpo de sua mensagem. O envio de sua solicitação em anexo pode resultar em atrasos no processamento.
 
 [Controvérsias](#disputes)
 ----------
