@@ -59,7 +59,7 @@ Esta lista no es exhaustiva, por lo que es doblemente importante hablar con un p
 
 ***Podría recibir una contranotificación.*** Cualquier usuario afectado por su notificación de eliminación podría decidir enviarle una [contranotificación](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice). Si lo hacen, volveremos a habilitar su contenido dentro de 10 a 14 días, a menos que nos notifique que ha iniciado una acción legal para evitar que el usuario participe en actividades infractoras relacionadas con el contenido en GitHub.
 
-***Su queja se publicará.*** Como se señala en nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), después de eliminar la información personal, publicamos todas las notificaciones sobre eliminaciones completas y procesables en <https://github.com/github/dmca>.
+***Su queja se publicará.*** Como se señala en nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy#e-transparency), después de eliminar la información personal, publicamos todas las notificaciones sobre eliminaciones completas y procesables en <https://github.com/github/dmca>.
 
 ***GitHub no es el juez.*** GitHub ejerce poca discreción en el proceso aparte de determinar si los avisos cumplen con los requisitos mínimos de la DMCA. Corresponde a las partes (y sus abogados) evaluar el mérito de sus reclamaciones, teniendo en cuenta que las notificaciones deben hacerse bajo pena de perjurio.
 
@@ -89,7 +89,7 @@ Esta lista no es exhaustiva, por lo que es doblemente importante hablar con un p
 [Quejas sobre la tecnología antielusión](#complaints-about-anti-circumvention-technology)
 ----------
 
-La Ley de derechos de autor también prohíbe la elusión de las medidas tecnológicas que controlan efectivamente el acceso a obras protegidas por derechos de autor. Si cree que el contenido alojado en GitHub infringe esta prohibición, envíenos una denuncia a través de nuestro [Formulario de reclamaciones de copyright](https://github.com/contact/dmca). Un reclamo de elusión debe incluir los siguientes detalles sobre las medidas técnicas implementadas y la forma en que el proyecto acusado las elude. Específicamente, el aviso a GitHub debe incluir declaraciones detalladas que describan:
+La Ley de derechos de autor también prohíbe la elusión de las medidas tecnológicas que controlan efectivamente el acceso a obras protegidas por derechos de autor. Si considera que el contenido alojado en GitHub vulnera esta prohibición, envíenos un informe a través de nuestro[Formulario de reclamaciones de copyright](https://github.com/contact/dmca). Un reclamo de elusión debe incluir los siguientes detalles sobre las medidas técnicas implementadas y la forma en que el proyecto acusado las elude. Específicamente, el aviso a GitHub debe incluir declaraciones detalladas que describan:
 
 1. Cuáles son las medidas técnicas;
 2. Cómo controlan efectivamente el acceso al material protegido por derechos de autor; y
@@ -98,7 +98,7 @@ La Ley de derechos de autor también prohíbe la elusión de las medidas tecnol�
 [Cómo presentar su queja](#how-to-submit-your-complaint)
 ----------
 
-La forma más rápida de obtener una respuesta es introducir su información y responder todas las preguntas en nuestro [Formulario de reclamaciones de copyright](https://github.com/contact/dmca).
+La vía más rápida para obtener una respuesta consiste en facilitar su información y responder a la totalidad de las preguntas en nuestro[Formulario de reclamaciones de copyright](https://github.com/contact/dmca).
 
 También puede enviar una notificación por correo electrónico a [copyright@github.com](mailto:copyright@github.com). Puede incluir un archivo adjunto si lo desea, pero también incluya una versión de texto sin formato de su carta en el cuerpo de su mensaje.
 

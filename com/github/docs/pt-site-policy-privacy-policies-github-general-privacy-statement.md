@@ -40,7 +40,7 @@ Neste artigo
 [Declaração de privacidade do GitHub](#github-privacy-statement)
 ----------
 
-Data de efetivação: 1° de fevereiro de 2024
+Data de início de vigência: 27 de abril de 2026
 
 Boas–vindas à Declaração de Privacidade do GitHub. Descrevemos como lidamos com seus "Dados Pessoais", que são informações que estão diretamente vinculadas ou podem estar vinculadas a você. Isso é aplicável aos Dados Pessoais que o GitHub, Inc., ou o GitHub B.V., processa como "Controlador de Dados" quando você interage com sites, aplicativos e serviços que exibem essa Declaração (coletivamente, "Serviços"). Esta Declaração não se aplica a serviços ou produtos que não exibam esta Declaração, como Previews, quando relevante.
 
@@ -67,7 +67,7 @@ Os Dados Pessoais são coletados de você diretamente, automaticamente do seu di
 ### [De Você](#from-you) ###
 
 * Dados da conta: Coletamos certas informações quando você abre uma conta, como seu identificador do GitHub, nome, endereço de e-mail, senha, informações de pagamento e informações de transação.
-* Conteúdo e Arquivos do Usuário: Quando você usa nossos Serviços, coletamos Dados Pessoais incluídos como parte das informações que você fornece, como código, entradas, texto, documentos, imagens ou comentários.
+* Conteúdo e Arquivos do Usuário: Quando você usa nossos Serviços, coletamos Dados Pessoais incluídos como parte das informações que você fornece, como código, entradas, saídas de IA, texto, documentos, imagens ou comentários.
 * Informações demográficas: em alguns casos, você nos fornece etnia, sexo ou detalhes demográficos semelhantes.
 * Dados de feedback: consistem em informações enviadas por você por meio de pesquisas, avaliações ou recursos interativos.
 * Informações de pagamento: para assinaturas pagas, coletamos detalhes como nome, endereço de cobrança e detalhes de pagamento.
@@ -88,7 +88,7 @@ Os Dados Pessoais são coletados de você diretamente, automaticamente do seu di
 ### [De Terceiros](#from-third-parties) ###
 
 * Informações de Outros Usuários dos Serviços: Outros usuários podem compartilhar informações sobre você quando enviam problemas e comentários. Também podemos receber informações sobre você se você for identificado como representante ou administrador na conta da sua empresa.
-* Fontes disponíveis publicamente: podemos adquirir informações sobre você de fontes disponíveis publicamente, como repositórios públicos do GitHub.
+* Fontes disponíveis publicamente: podemos adquirir informações sobre você de fontes disponíveis publicamente.
 * Serviços que você vinculou à sua conta do GitHub: Quando você ou seu administrador integram aplicativos ou serviços de terceiros aos nossos Serviços, recebemos informações com base em suas configurações com esses serviços. Isso pode incluir detalhes como seu nome e e-mail de serviços como o Google para autenticação. As informações que recebemos dependem das configurações e políticas de privacidade do terceiro. Sempre revise esses dados para entender quais dados são compartilhados com nossos Serviços.
 * Fornecedores, Parceiros e Afiliados: Podemos receber informações sobre você de terceiros, como fornecedores, revendedores, parceiros ou afiliados para os fins descritos nesta declaração.
 
@@ -105,6 +105,7 @@ Os Dados Pessoais que processamos dependem da sua interação e métodos de aces
 * Prestação de Serviços: Usamos Dados Pessoais para fornecer e atualizar nossos Serviços conforme configurado e usado por Você e para fazer experiências e recomendações personalizadas contínuas.
 * Solução de problemas: Usamos Dados Pessoais para identificar e resolver problemas técnicos.
 * Desempenho contínuo do serviço: Os dados pessoais nos ajudam a manter os serviços atualizados e com desempenho e atendem às necessidades de produtividade, confiabilidade, eficácia, qualidade, privacidade, acessibilidade e segurança do usuário.
+* Desenvolvimento e melhoria de produtos: utilizamos Dados Pessoais para desenvolver e aprimorar nossos produtos, serviços e tecnologias, incluindo inteligência artificial e tecnologias de aprendizado de máquina. Isso inclui aprimorar recursos, desenvolver novas ofertas, aprimorar capacidades de segurança e proteção, além de modelos de treinamento. Aplicamos salvaguardas técnicas apropriadas, incluindo agregação e desidentificação sempre que possível, para proteger sua privacidade enquanto viabilizamos essas melhorias.
 * Cumprir e resolver obrigações legais: incluindo responder a Solicitações de Dados Pessoais do Titular de Dados processados pelo GitHub como Controlador (por exemplo, dados do site), requisitos fiscais, acordos e disputas.
 * Prestação de Serviços Profissionais: Utilizamos Dados Pessoais para fornecer formação, consultoria ou implementação ("Serviços Profissionais"). Isso inclui fornecer suporte técnico, planejamento profissional, aconselhamento, orientação, migração de dados, implantação e serviços de desenvolvimento de soluções/software.
 * Melhorar os Serviços Profissionais: Melhorar a entrega, a eficácia, a qualidade e a segurança dos Serviços Profissionais e do(s) produto(s) subjacente(s) com base em problemas identificados durante a prestação de Serviços Profissionais, incluindo a correção de defeitos de software e, de outra forma, manter os Serviços Profissionais atualizados e com desempenho.
@@ -117,7 +118,7 @@ Ao realizar essas atividades, o GitHub pratica a minimização de dados e usa a 
 Podemos compartilhar Dados Pessoais com os seguintes destinatários:
 
 * Entidades de Prevenção de Abuso e Fraude: Podemos divulgar Dados Pessoais com base em uma crença de boa fé que são necessários para evitar fraude, abuso ou ataques aos nossos Serviços, ou para proteger a segurança do GitHub e de nossos usuários.
-* Afiliados: Os Dados Pessoais podem ser compartilhados com afiliadas do GitHub, incluindo a Microsoft, para facilitar o atendimento ao cliente, marketing e publicidade, atendimento de pedidos, cobrança, suporte técnico e obrigações legais e de conformidade. Nossas afiliadas só podem usar os Dados Pessoais de maneira consistente com esta Declaração de Privacidade.
+* Afiliadas: Dados pessoais podem ser compartilhados com afiliadas do GitHub, incluindo Microsoft, para facilitar o atendimento ao cliente, marketing e publicidade, cumprimento de pedidos, faturamento, suporte técnico, obrigações legais e de conformidade, desenvolvimento e melhoria de produtos (incluindo treinamento e aprimoramento de tecnologias de inteligência artificial e aprendizado de máquina), e para outros propósitos descritos em suas respectivas políticas de privacidade. Quando compartilhamos dados com afiliadas, eles os processarão de acordo com a lei aplicável e seus compromissos de privacidade.
 * Contas da Organização do GitHub: Se uma organização adicionar você à sua conta do GitHub, poderemos compartilhar Dados Pessoais com essa organização para cumprir o relacionamento comercial. Nesse caso, seu uso dos Serviços é protegido por um contrato de proteção de dados e termos entre sua organização e o GitHub
 * Autoridades competentes: Podemos divulgar Dados Pessoais a autoridades policiais autorizadas, reguladores, tribunais ou outras autoridades públicas em resposta a solicitações legais ou para proteger nossos direitos e segurança. Consulte nossas [Diretrizes para Solicitações Legais de Dados do Usuário](https://docs.github.com/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data) para obter mais informações.
 * Entidades de Transações Corporativas: podemos divulgar Dados Pessoais dentro dos limites da lei e de acordo com esta Declaração de Privacidade para transações comerciais estratégicas, como vendas ou uma fusão.
@@ -130,15 +131,7 @@ Podemos compartilhar Dados Pessoais com os seguintes destinatários:
 [Repositórios privados: Acesso ao GitHub](#private-repositories-github-access)
 ----------
 
-Se a sua conta do GitHub tiver repositórios privados, você controlará o acesso a essas informações. O pessoal do GitHub não acessa informações de repositórios privados sem o seu consentimento, exceto conforme previsto nesta Declaração de Privacidade e para:
-
-* Fins de segurança
-* varredura automatizada ou revisão manual de vulnerabilidades conhecidas, malware ativo ou outro conteúdo conhecido por violar nossos Termos de Serviço
-* Para ajudar o proprietário do repositório com uma questão de suporte
-* para manter a integridade dos Serviços, ou
-* para cumprir nossas obrigações legais, se tivermos motivos para acreditar que o conteúdo viola a lei.
-
-O GitHub fornecerá a você um aviso sobre o acesso ao repositório privado, a menos que isso seja proibido por lei ou se o GitHub agir em resposta a uma ameaça à segurança ou outro risco à segurança.
+Se sua conta no GitHub possui repositórios privados, nossa capacidade e direitos de acesso às informações do repositório privado estão estabelecidos na Seção E (Repositórios Privados) dos Termos de Serviço do GitHub.
 
 [Bases legais para o processamento de dados pessoais (aplicáveis aos usuários finais do EEE e do Reino Unido)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
 ----------
@@ -147,7 +140,7 @@ O GitHub processa Dados Pessoais em conformidade com o RGPD, garantindo uma base
 
 * Necessidade contratual: O processamento é necessário para cumprir nossos deveres contratuais com você, de acordo com os Termos de Serviço do GitHub.
 * Obrigação legal: processamos dados quando é necessário para cumprir as leis aplicáveis ou para proteger os direitos, a segurança e a propriedade do GitHub, nossas afiliadas, usuários ou terceiros.
-* Interesses legítimos: processamos dados para fins que são de nosso interesse legítimo, como proteger nossos Serviços, comunicar-se com você e melhorar nossos Serviços. Isso é feito apenas quando esses interesses não são sobrepujados por seus direitos de proteção de dados ou seus direitos e liberdades fundamentais.
+* Interesses legítimos: processamos dados para fins que são de nosso interesse legítimo, como proteger nossos Serviços, comunicar-se com você e desenvolver e melhorar nossos Serviços, que incluem inteligência artificial e tecnologias de machine learning. Isso é feito apenas quando esses interesses não são sobrepujados por seus direitos de proteção de dados ou seus direitos e liberdades fundamentais.
 * Consentimento: processamos dados quando você consentiu explicitamente com tal processamento. Quando confiamos no consentimento como base legal, você tem o direito de retirar seu consentimento para o processamento de dados a qualquer momento. Os procedimentos para retirada estão detalhados nesta Declaração e disponíveis em nosso site.
 
 [Seus Direitos de Privacidade](#your-privacy-rights)
@@ -210,7 +203,7 @@ Nossos endereços são:
 GitHub BV
 Prins Bernhardplein 200, Amesterdão 1097JB Países Baixos
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 Estados Unidos
 
 [Informações para Menores](#information-for-minors)
 ----------
@@ -246,7 +239,7 @@ Para Páginas de Marketing Corporativo, também podemos usar cookies não essenc
 
 Nossos emails para usuários podem conter uma tag de pixel, que é uma imagem pequena e clara que pode nos dizer se você abriu ou não um email e qual é o endereço IP. Usamos essa tag de pixel para tornar nossas comunicações por email mais eficazes e garantir que não estamos enviando emails indesejados.
 
-O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para saber mais, confira [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls).
+O tempo que um cookie permanecerá no seu navegador ou dispositivo depende se ele é um cookie “persistente” ou de “sessão”. Os cookies de sessão só continuarão no seu dispositivo até você parar de navegar. Os cookies persistentes são mantidos até expirarem ou serem excluídos. A data de validade ou período de retenção aplicável aos cookies persistentes depende da finalidade da coleta de cookies e da ferramenta usada. Você pode excluir dados de cookies. Para saber mais, confira [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement#what-are-your-cookie-choices-and-controls).
 
 #### [O que são cookies e tecnologias semelhantes?](#what-are-cookies-and-similar-technologies) ####
 

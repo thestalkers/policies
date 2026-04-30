@@ -35,7 +35,7 @@ Neste artigo
 * [Imagens do SQL Server](#sql-server-images)
 * [GitHub Models](#github-models)
 
-Data de início de vigência desta versão: 1º de abril de 2025
+Data de início de vigência desta versão: 27 de abril de 2026
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -117,7 +117,7 @@ Para evitar violações dessas limitações e abuso de Codespaces do GitHub, o G
 
 Codespaces permite que você carregue extensões do Microsoft Visual Studio Marketplace ("Extensões de mercado") para uso em seu ambiente de desenvolvimento, por exemplo, para processar as linguagens de programação nas quais seu código está escrito. As Extensões do Marketplace são licenciadas de acordo com seus próprios termos de uso separados, conforme observado no Visual Studio Marketplace, e os termos de uso localizados em <https://aka.ms/vsmarketplace-ToU>. O GitHub não oferece garantias de nenhum tipo em relação às Extensões do Marketplace e não é responsável por ações de autores terceiros das Extensões do Marketplace que tenham acesso ao Seu Conteúdo. Codespaces também permite carregar software em seu ambiente por meio de recursos devcontainer. Esse software é fornecido sob os termos de uso separados que o acompanham. Seu uso de quaisquer aplicativos de terceiros é de sua inteira responsabilidade.
 
-A versão geralmente disponível do Codespaces não está disponível atualmente para clientes do governo dos EUA. Os clientes do governo dos EUA podem continuar a usar o Codespaces Beta Preview sob termos separados. Consulte [Termos da Visualização Beta](/pt/site-policy/github-terms/github-terms-of-service#j-beta-previews).
+A versão geralmente disponível do Codespaces não está disponível atualmente para clientes do governo dos EUA. Os clientes do governo dos EUA podem continuar a usar o Codespaces Beta Preview sob termos separados. Consulte [Termos da Visualização Beta](/pt/site-policy/github-terms/github-terms-of-service#k-beta-previews).
 
 [Parâmetro de comparação competitiva](#competitive-benchmarking)
 ----------
@@ -134,21 +134,7 @@ Com o GitHub Connect, você pode compartilhar determinados recursos e dados entr
 
 Para os usuários de licenças do GitHub Copilot Business e Copilot Enterprise, o uso do GitHub Copilot está sujeito aos [Termos específicos do produto do GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-Para outros usuários de licenças do GitHub Copilot, o uso do GitHub Copilot é regido pelos seguintes termos: Para usar o GitHub Copilot no editor de código, você precisa instalar a extensão do GitHub Copilot nesse editor. Para usar o GitHub Copilot na CLI (Interface de linha de comando), você precisa instalar a extensão GitHub Copilot CLI. Para usar o GitHub Copilot Chat na versão móvel do GitHub, você precisa instalar o aplicativo móvel do GitHub. Para usar o GitHub Copilot no GitHub.com, você precisa acessar o site.
-
-Se você personalizar o GitHub Copilot, para incluir o uso de uma Extensão do GitHub Copilot (Extensão), seu uso poderá estar sujeito aos termos de uso e à política de privacidade aplicáveis à personalização.
-
-Segundo o Contrato, o código escrito com o GitHub Copilot só é considerado “Conteúdo” depois de ser feito seu upload no GitHub.com. O código, as funções e outros resultados retornados para você pelo GitHub Copilot são chamados “**Sugestões**.” O GitHub não controla os Sugeridos. Você detém a propriedade de Seu Código, bem como a responsabilidade pelos “Sugeridos” incluídos no Seu Código. Cabe exclusivamente a você decidir se utilizará as Sugestões geradas pelo GitHub Copilot. Se você usar as Sugestões, o GitHub recomenda fortemente que você tenha políticas e práticas razoáveis em vigor criadas para impedir o uso de uma Sugestão de uma forma que possa violar os direitos de outras pessoas.
-
-*Uso aceitável*
-
-Seu uso do GitHub Copilot está sujeito às [Políticas de uso aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub. Por exemplo, você não pode solicitar ao GitHub Copilot conteúdo que seja ilegal ou proibido pelas Políticas de uso aceitável do GitHub no GitHub.com. Se você optar por “Permitir” que o Copilot forneça [Sugestões que correspondem ao código público](/pt/enterprise-cloud@latest/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions?tool=vscode), deverá respeitar as licenças citadas.
-
-*Dados*
-
-O GitHub Copilot (i) poderá coletar e processar dados com base nas suas configurações e no Serviço do GitHub Copilot específico que você usar, que poderá incluir Solicitações, Sugestões e snippets de código; e (ii) coletará informações de uso adicionais por meio do Serviço do GitHub Copilot que você usar que está vinculado à sua Conta, que poderá incluir Informações de Uso do Serviço, Dados de Uso do Site e Dados de Comentários. De acordo com suas instruções, poderemos compartilhar esses dados com aplicativos de terceiros, como aqueles encontrados no [GitHub Marketplace](https://github.com/marketplace), ou com modelos de IA de terceiros de sua escolha. Isso poderá incluir dados pessoais, conforme mencionado na [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement). Você pode aprender mais sobre a coleta e uso de dados do GitHub Copilot na[Central de Confiabilidade do GitHub Copilot](https://copilot.github.trust.page/).
-
-No caso de usuários do GitHub Copilot Free, os dados coletados pelo GitHub Copilot poderão ser usados para o treinamento do Modelo de IA, sempre que permitido e se você autorizá-lo em suas configurações.
+Para todos os outros usuários do GitHub Copilot, seu uso do GitHub Copilot é regido pela [Seção J (Recursos de IA) dos Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 
 [Importador do GitHub Enterprise](#github-enterprise-importer)
 ----------

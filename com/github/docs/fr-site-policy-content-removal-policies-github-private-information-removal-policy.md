@@ -26,7 +26,7 @@ Dans cet article
 * [Comment soumettre votre demande](#how-to-submit-your-request)
 * [Litiges](#disputes)
 
-Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions d'utilisation du service de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions), par exemple lorsque votre sécurité est menacée par des informations d'identification d'accès exposées. Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de suppression d'informations privées d'un référentiel.
+Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions d'utilisation du service de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies), par exemple lorsque votre sécurité est menacée par des informations d'identification d'accès exposées. Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de suppression d'informations privées d'un référentiel.
 
 [Qu'est-ce que les informations privées ?](#quest-ce-que-les-informations-privées)
 ----------

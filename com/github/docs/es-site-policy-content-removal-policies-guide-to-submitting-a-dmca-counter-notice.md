@@ -48,7 +48,7 @@ Estos son solo algunos ejemplos de las complejidades de la ley de derechos de au
 
 ***Una contranotificación es una declaración legal.*** Le solicitamos que llene completamente todos los campos de una contranotificación, porque una contranotificación es una declaración legal, no solo para nosotros, sino también para la parte reclamante. Como mencionamos anteriormente, si la parte reclamante desea mantener el contenido deshabilitado después de recibir una contranotificación, deberá iniciar una acción legal para obtener una orden judicial que le impida participar en actividades infractoras relacionadas con el contenido en GitHub. En otras palabras, es posible que lo demanden (y usted lo acepta en la contranotificación).
 
-***Su contranotificación se va a publicar.*** Como se señala en nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency), **después de eliminar la información personal,** publicamos todas las contranotificaciones completas y procesables en <https://github.com/github/dmca>. Tenga en cuenta también que, aunque solo publicaremos públicamente avisos redactados, podemos proporcionar una copia completa sin redactar de cualquier aviso que recibamos directamente a cualquier parte cuyos derechos se verían afectados por ello. Si le preocupa su privacidad, puede hacer que un abogado u otro representante legal presente la contranotificación en su nombre.
+***Su contranotificación se va a publicar.*** Como se señala en nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy#e-transparency), **después de eliminar la información personal,** publicamos todas las contranotificaciones completas y procesables en <https://github.com/github/dmca>. Tenga en cuenta también que, aunque solo publicaremos públicamente avisos redactados, podemos proporcionar una copia completa sin redactar de cualquier aviso que recibamos directamente a cualquier parte cuyos derechos se verían afectados por ello. Si le preocupa su privacidad, puede hacer que un abogado u otro representante legal presente la contranotificación en su nombre.
 
 ***GitHub no es el juez.*** GitHub ejerce poca discreción en este proceso además de determinar si los avisos cumplen con los requisitos mínimos de la DMCA. Corresponde a las partes (y sus abogados) evaluar el mérito de sus reclamaciones, teniendo en cuenta que las notificaciones deben hacerse bajo pena de perjurio.
 
@@ -72,7 +72,7 @@ Estos son solo algunos ejemplos de las complejidades de la ley de derechos de au
 [Cómo enviar su contraaviso](#how-to-submit-your-counter-notice)
 ----------
 
-La forma más rápida de obtener una respuesta es introducir su información y responder todas las preguntas en nuestro [Formulario de reclamaciones de copyright](https://github.com/contact/dmca).
+La vía más rápida para obtener una respuesta consiste en facilitar su información y responder a la totalidad de las preguntas en nuestro[Formulario de reclamaciones de copyright](https://github.com/contact/dmca).
 
 También puede enviar una notificación por correo electrónico a [copyright@github.com](mailto:copyright@github.com). Puede incluir un archivo adjunto si lo desea, pero también incluya una versión de texto sin formato de su carta en el cuerpo de su mensaje.
 

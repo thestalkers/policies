@@ -34,7 +34,7 @@ En este artículo
 
 Al usar Marketplace, usted acepta estar sujeto a estos Términos de Marketplace.
 
-Fecha de entrada en vigor: 1 de agosto de 2024
+Fecha de entrada en vigor: 27 de abril de 2026
 
 [A. Condiciones de servicio de GitHub.com](#a-githubcoms-terms-of-service)
 ----------
@@ -60,7 +60,7 @@ No somos parte del acuerdo entre usted y el Proveedor de productos con respecto 
 [D. Pago, cronograma de facturación y cancelación](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-Todos los pagos de los Productos para desarrolladores se realizarán a través de GitHub. Los términos del pago y de las tarifas se regirán por el [Apartado K. Pago](/es/site-policy/github-terms/github-terms-of-service#k-payment) o el apartado análogo de los Términos de GitHub aplicables. Al usar Marketplace, acepta pagar a GitHub cualquier cargo incurrido en relación con su compra del Producto de desarrollador. Cada compra es un contrato electrónico entre usted y GitHub, y usted y el Proveedor de productos. Usted es responsable de proporcionarnos un medio de pago válido para las compras de Productos para desarrolladores. Si solo está comprando Productos de desarrollador gratuitos, no es necesario que proporcione información de pago.
+Todos los pagos de los Productos para desarrolladores se realizarán a través de GitHub. Las condiciones relativas a sus pagos y tarifas se regirán por lo dispuesto en el [apartado L. Pago](/es/site-policy/github-terms/github-terms-of-service#l-payment) o, en su caso, por el apartado equivalente de las Condiciones de servicio de GitHub que resulten aplicables. Al usar Marketplace, acepta pagar a GitHub cualquier cargo incurrido en relación con su compra del Producto de desarrollador. Cada compra es un contrato electrónico entre usted y GitHub, y usted y el Proveedor de productos. Usted es responsable de proporcionarnos un medio de pago válido para las compras de Productos para desarrolladores. Si solo está comprando Productos de desarrollador gratuitos, no es necesario que proporcione información de pago.
 
 **Calendario de Pagos; No se Realizan Reembolsos.** Su cronograma de pago está determinado por el cronograma de pago que eligió cuando creó su cuenta de GitHub (por ejemplo, gratis, mensual, anual). Para los planes de pago mensuales o anuales, las compras en Marketplace se facturan por adelantado en forma mensual o anual, respectivamente, y no son reembolsables. No habrá reembolsos ni créditos por meses parciales de servicio, reembolsos por reducción de categoría o reembolsos por meses no utilizados; sin embargo, el servicio permanecerá activo durante el período de facturación pagado. Si desea cancelar los servicios del Producto de desarrollador, puede hacerlo accediendo a su Configuración en la barra de navegación global en la parte superior de la pantalla.
 

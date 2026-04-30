@@ -34,7 +34,7 @@ Bienvenue sur GitHub Marketplace ("Marketplace ») ! Nous sommes heureux que v
 
 En utilisant Marketplace, vous acceptez d'être lié par les présentes Conditions de Marketplace.
 
-Date d’entrée en vigueur : 1er août 2024
+Date d’entrée en vigueur : 27 avril 2026
 
 [A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
 ----------
@@ -60,7 +60,7 @@ Nous ne sommes pas partie à l'accord entre vous et le fournisseur de produit en
 [D. Paiement, calendrier de facturation et annulation](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-Tous les paiements pour les produits développés passeront par GitHub. Les conditions de votre paiement et les frais seront régis par la [Section K. Paiement](/fr/site-policy/github-terms/github-terms-of-service#k-payment) ou la section analogue de vos Conditions GitHub applicables. En utilisant le Marketplace, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre achat du Produit développé. Chaque achat est un contrat électronique entre vous et GitHub, et vous et le fournisseur de produit. Vous êtes responsable de nous fournir un moyen de paiement valide pour les achats de produits développés. Si vous achetez uniquement des produits développés gratuits, vous n'êtes pas tenu de fournir des informations de paiement.
+Tous les paiements pour les produits développés passeront par GitHub. Les conditions de votre paiement et les frais seront régis par la [Section L. Paiement](/fr/site-policy/github-terms/github-terms-of-service#l-payment) ou la section analogue de vos Conditions GitHub applicables. En utilisant le Marketplace, vous acceptez de payer à GitHub tous les frais encourus dans le cadre de votre achat du Produit développé. Chaque achat est un contrat électronique entre vous et GitHub, et vous et le fournisseur de produit. Vous êtes responsable de nous fournir un moyen de paiement valide pour les achats de produits développés. Si vous achetez uniquement des produits développés gratuits, vous n'êtes pas tenu de fournir des informations de paiement.
 
 **Calendrier de Facturation ; Aucun Remboursement.** Votre calendrier de paiement est déterminé par le calendrier de paiement que vous avez choisi lors de la création de votre compte GitHub (par exemple, gratuit, mensuel, annuel). Pour les plans de paiement mensuels ou annuels, les achats sur la Marketplace sont facturés à l'avance sur une base mensuelle ou annuelle respectivement et ne sont pas remboursables. Il n'y aura aucun remboursement ou crédit pour des mois de service partiels, des remboursements de rétrogradation ou des remboursements pour des mois non utilisés ; cependant, le service restera actif pendant toute la durée de la période de facturation payée. Si vous souhaitez annuler les services du produit de développeur, vous pouvez le faire en accédant à vos paramètres dans la barre de navigation globale en haut de l'écran.
 

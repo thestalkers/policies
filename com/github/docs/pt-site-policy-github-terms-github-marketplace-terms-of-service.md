@@ -19,7 +19,7 @@ Copiar como Markdown
 Neste artigo
 ----------
 
-* [R. Termos de Serviço do GitHub.com](#a-githubcoms-terms-of-service)
+* [A. Termos de Serviço do GitHub.com](#a-githubcoms-terms-of-service)
 * [B. Requisitos de Uso](#b-use-requirements)
 * [C. Produtos para desenvolvedores e provedores de produtos](#c-developer-products-and-product-providers)
 * [D. Pagamento, Cronograma de Cobrança e Cancelamento](#d-payment-billing-schedule-and-cancellation)
@@ -34,9 +34,9 @@ Bem-vindo ao GitHub Marketplace ("Marketplace")! Estamos felizes por você estar
 
 Ao usar o Marketplace, você concorda com estes Termos do Marketplace.
 
-Data de início de vigência: 1º de agosto de 2024
+Data de início de vigência: 27 de abril de 2026
 
-[R. Termos de Serviço do GitHub.com](#a-githubcoms-terms-of-service)
+[A. Termos de Serviço do GitHub.com](#a-githubcoms-terms-of-service)
 ----------
 
 O Marketplace é fornecido pelo GitHub e é regido por estes Termos do Marketplace combinados com seu contrato principal conosco — os [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service) ou o Contrato de Cliente do GitHub, ou os [Termos de Serviço Corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service) ou outro contrato herdado do GitHub, ou um contrato de licenciamento por volume da Microsoft. Se você configurar os Produtos do desenvolvedor para funcionar com uma ou mais contas no site GitHub.com, seu uso dos Produtos do desenvolvedor também será regido pelos Termos aplicáveis do GitHub. Quaisquer termos em maiúsculas não definidos neste documento serão definidos em seus termos aplicáveis do GitHub.
@@ -60,7 +60,7 @@ Não somos parte do contrato entre você e o Provedor do Produto com relação a
 [D. Pagamento, Cronograma de Cobrança e Cancelamento](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-Todos os pagamentos para produtos do desenvolvedor passarão pelo GitHub. Os termos do seu pagamento e as taxas serão regidos pela [Seção K. Pagamento](/pt/site-policy/github-terms/github-terms-of-service#k-payment) ou pela seção análoga de seus Termos aplicáveis do GitHub. Ao usar o Marketplace, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação à compra do Produto do Desenvolvedor. Cada compra é um contrato eletrônico entre você e o GitHub, e você e o Provedor do Produto. Você é responsável por nos fornecer um meio de pagamento válido para compras de Produtos do Desenvolvedor. Se você estiver comprando apenas Produtos de Desenvolvedor gratuitos, não será necessário fornecer informações de pagamento.
+Todos os pagamentos para produtos do desenvolvedor passarão pelo GitHub. Os termos do seu pagamento e as taxas serão regidos pela [Seção L. Pagamento](/pt/site-policy/github-terms/github-terms-of-service#l-payment) ou pela seção análoga de seus Termos aplicáveis do GitHub. Ao usar o Marketplace, você concorda em pagar ao GitHub qualquer cobrança incorrida em relação à compra do Produto do Desenvolvedor. Cada compra é um contrato eletrônico entre você e o GitHub, e você e o Provedor do Produto. Você é responsável por nos fornecer um meio de pagamento válido para compras de Produtos do Desenvolvedor. Se você estiver comprando apenas Produtos de Desenvolvedor gratuitos, não será necessário fornecer informações de pagamento.
 
 **Cronograma de Cobrança; Sem Reembolsos.** Seu cronograma de pagamento é determinado pelo cronograma de pagamento que você escolheu quando criou sua conta do GitHub (por exemplo, gratuito, mensal, anual). Para planos de pagamento mensal ou anual, as compras do Marketplace são cobradas antecipadamente mensalmente ou anualmente, respectivamente, e não são reembolsáveis. Não haverá reembolsos ou créditos por meses parciais de serviço, reembolsos de downgrade ou reembolsos por meses não utilizados; no entanto, o serviço permanecerá ativo durante o período de cobrança pago. Se você deseja cancelar os serviços do Produto do Desenvolvedor, pode fazê-lo acessando suas Configurações na barra de navegação global na parte superior da tela.
 

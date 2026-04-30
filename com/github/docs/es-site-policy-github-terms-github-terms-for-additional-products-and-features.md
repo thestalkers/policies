@@ -35,7 +35,7 @@ En este artículo
 * [Imágenes de servidor SQL](#sql-server-images)
 * [Modelos de GitHub](#github-models)
 
-Fecha de entrada en vigor de la versión: 1 de abril de 2025
+Fecha de entrada en vigor de la versión: 27 de abril de 2026
 
 Cuando usa GitHub, es posible que tenga acceso a muchos productos y funciones adicionales ("Productos y funciones adicionales"). Dado que muchos de los Productos y Funciones Adicionales ofrecen diferentes funcionalidades, su Contrato con nosotros (el «Acuerdo») incluye los términos específicos de ese producto o función combinados con su acuerdo principal: los Términos de servicio de GitHub o el Acuerdo de cliente de GitHub, o los Términos de servicio corporativos de GitHub u otro acuerdo heredado de GitHub, o un contrato de licencias por volumen de Microsoft. A continuación, enumeramos esos productos y características, junto con los términos adicionales correspondientes que se aplican a su uso de ellos.
 
@@ -50,9 +50,9 @@ Al usar los Productos y funciones adicionales, también acepta los Términos de 
 [Comportamiento](#actions)
 ----------
 
-GitHub Actions le permite crear flujos de trabajo de ciclo de vida de desarrollo de software personalizados directamente en su repositorio de GitHub. Las acciones se facturan en función del uso. En la [documentación de Actions](/es/actions) se incluyen los detalles, como las cantidades de recursos informáticos y almacenamiento (según el plan de su Cuenta) y cómo supervisar el uso de minutos de Actions y establecer límites de uso.
+Acciones de GitHub le permite crear flujos de trabajo de ciclo de vida de desarrollo de software personalizados directamente en su repositorio de GitHub. Las acciones se facturan en función del uso. En la [documentación de Actions](/es/actions) se incluyen los detalles, como las cantidades de recursos informáticos y almacenamiento (según el plan de su Cuenta) y cómo supervisar el uso de minutos de Actions y establecer límites de uso.
 
-No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de GitHub Actions establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Además, independientemente de si una acción utiliza ejecutores autohospedados, las acciones no deben usarse para:
+No se puede usar Actions ni ningún elemento del producto o servicio de Actions si eso supone el incumplimiento del Acuerdo, las [Directivas de Uso Aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) o las limitaciones del servicio de Acciones de GitHub establecidas en la [documentación de Actions](/es/actions/learn-github-actions/usage-limits-billing-and-administration). Además, independientemente de si una acción utiliza ejecutores autohospedados, las acciones no deben usarse para:
 
 * Criptominería;
 * Interrumpir, obtener o intentar obtener acceso no autorizado a cualquier servicio, dispositivo, dato, cuenta o red (que no sean los autorizados en el [Programa de Recompensas por la Detección de Errores de GitHub](https://bounty.github.com));
@@ -64,7 +64,7 @@ Para evitar violaciones de estas limitaciones y el abuso de las Acciones de GitH
 
 *Uso para Desarrollo y Pruebas*
 
-Solo puede acceder y usar GitHub Actions para desarrollar y probar sus aplicaciones. Solo un usuario con licencia puede acceder a una máquina virtual proporcionada por Actions en cualquier momento.
+Solo puede acceder y usar Acciones de GitHub para desarrollar y probar sus aplicaciones. Solo un usuario con licencia puede acceder a una máquina virtual proporcionada por Actions en cualquier momento.
 
 *Desarrollador Autorizado*
 
@@ -74,7 +74,7 @@ Designas a GitHub como tu desarrollador autorizado con respecto al software de A
 
 Si otorga acceso a GitHub a sus cuentas de servicio de repositorio de terceros, autoriza a GitHub a escanear las cuentas, incluidos los contenidos de sus repositorios públicos y privados, con el fin de proporcionar acciones de GitHub.
 
-*Programas de Ejecución Autohospedados en GitHub Actions*
+*Programas de Ejecución Autohospedados en Acciones de GitHub*
 
 Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualizaciones automáticas, pero GitHub se reserva el derecho de anular su elección para las actualizaciones de seguridad críticas.
 
@@ -83,7 +83,7 @@ Si usa ejecutores autohospedados, tiene la capacidad de desactivar las actualiza
 
 GitHub pone a disposición de los clientes características de seguridad adicionales con licencias de Advanced Security. A partir del 1 de abril de 2025, las características que anteriormente solo estaban disponibles en una única licencia de GitHub Advanced Security estarán disponibles de forma alternativa en dos licencias independientes: GitHub Code Security (características de escaneo de código y análisis de dependencias) y GitHub Secret Protection (características de análisis de secretos). En la [documentación de Advanced Security](/es/get-started/learning-about-github/about-github-advanced-security) encontrará más detalles.
 
-Se otorgan licencias para las características de Advanced Security con base en "Confirmadores únicos". Un "Confirmador único" es un usuario con licencia de GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de usuario de GitHub Advanced Security apropiada para cada uno de tus confirmadores únicos. Solo puedes utilizar las características de GitHub Advanced Security en las bases de código que desarrollas o que se desarrollan para ti. En el caso de los usuarios de GitHub Team y GitHub Enterprise Cloud, algunas características de Advanced Security también requieren utilizar GitHub Actions.
+Se otorgan licencias para las características de Advanced Security con base en "Confirmadores únicos". Un "Confirmador único" es un usuario con licencia de GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud o GitHub Enterprise Server, que ha realizado una confirmación en los últimos 90 días en cualquier repositorio con alguna funcionalidad de GitHub Advanced Security activada. Debes adquirir una licencia de usuario de GitHub Advanced Security apropiada para cada uno de tus confirmadores únicos. Solo puedes utilizar las características de GitHub Advanced Security en las bases de código que desarrollas o que se desarrollan para ti. En el caso de los usuarios de GitHub Team y GitHub Enterprise Cloud, algunas características de Advanced Security también requieren utilizar Acciones de GitHub.
 
 Para el análisis de secretos con GitHub Advanced Security o GitHub Secret Protection, al participar en comprobaciones automáticas de validez de los patrones de asociados, los tokens de terceros expuestos se pueden compartir con el asociado correspondiente, con el fin de proporcionarle más información sobre la validez del token. No todos los asociados tienen su sede en Estados Unidos. La [documentación](/es/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) sobre patrones de examen de secretos proporciona más detalles sobre qué asociados admiten la comprobación de validez.
 
@@ -117,7 +117,7 @@ Para evitar violaciones de estas limitaciones y el abuso de los espacios de cód
 
 Codespaces le permite cargar extensiones desde Microsoft Visual Studio Marketplace ("Extensiones de Marketplace") para usar en su entorno de desarrollo, por ejemplo, para procesar los lenguajes de programación en los que está escrito su código. Las licencias de Extensiones de Marketplace se conceden de acuerdo con sus propios términos de uso, como se indica en el Marketplace de Visual Studio, que se encuentran en <https://aka.ms/vsmarketplace-ToU>. GitHub no ofrece garantías de ningún tipo en relación con las Extensiones del Mercado y no es responsable de las acciones de los autores externos de las Extensiones del Mercado a los que se les otorga acceso a Su Contenido. Codespaces también le permite cargar software en su entorno a través de funciones devcontainer. Dicho software se proporciona bajo los términos de uso separados que lo acompañan. Su uso de cualquier aplicación de terceros es bajo su propio riesgo.
 
-La versión de disponibilidad general de Codespaces no está disponible actualmente para los clientes del gobierno de EE. UU. Los clientes del gobierno de EE. UU. pueden continuar usando Codespaces Beta Preview bajo términos separados. Consulte los [Términos de Beta Preview](/es/site-policy/github-terms/github-terms-of-service#j-beta-previews).
+La versión de disponibilidad general de Codespaces no está disponible actualmente para los clientes del gobierno de EE. UU. Los clientes del gobierno de EE. UU. pueden continuar usando Codespaces Beta Preview bajo términos separados. Consulte los [Términos de Beta Preview](/es/site-policy/github-terms/github-terms-of-service#k-beta-previews).
 
 [Puntos de referencia competitivos](#competitive-benchmarking)
 ----------
@@ -134,21 +134,7 @@ Con GitHub Connect, puede compartir determinadas características y datos entre 
 
 Para las empresas GitHub Copilot y los titulares de licencia de empresa Copilot, el uso de GitHub Copilot se rige por los [Términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
 
-Para otros titulares de licencia de GitHub Copilot, el uso de GitHub Copilot se rige por los siguientes términos: Para usar GitHub Copilot en el editor de código, debe instalar la extensión de GitHub Copilot en ese editor. Para usar GitHub Copilot en la CLI (interfaz de la línea de comandos), debe instalar la extensión de CLI de GitHub Copilot. Para usar el chat de GitHub Copilot en GitHub Mobile, debe instalar la aplicación GitHub Mobile. Para usar GitHub Copilot en GitHub.com, debe acceder al sitio web.
-
-Si personaliza GitHub Copilot para incluir el uso de una extensión de GitHub Copilot (extensión), el uso puede estar sujeto a los términos de uso y la directiva de privacidad aplicables a la personalización.
-
-El código que escriba mediante GitHub Copilot no se considerará "contenido" según el acuerdo hasta que lo suba a GitHub.com. El código, las funciones y otras salidas que devuelve GitHub Copilot se llaman "**sugerencias**". GitHub no posee sugerencias. Conserva la propiedad de su código y conserva la responsabilidad de las sugerencias que incluya en su código. Puede decidir libremente si utilizar las sugerencias generadas por GitHub Copilot. Si usa las sugerencias, GitHub recomienda encarecidamente que disponga de directivas y prácticas razonables diseñadas para evitar el uso de una sugerencia de forma que pueda infringir los derechos de terceros.
-
-*Uso aceptable*
-
-Su uso de GitHub Copilot está sujeto a las [Directivas de uso aceptable](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies) de GitHub. Por ejemplo, no puede solicitar a GitHub Copilot contenidos ilegales o prohibidos por las directivas de uso aceptable de GitHub.com. Si decide "permitir" que Copilot proporcione [sugerencias que coinciden con el código público](/es/enterprise-cloud@latest/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions?tool=vscode), debe cumplir con las licencias citadas.
-
-*Datos*
-
-GitHub Copilot (i) puede recopilar y procesar datos en función de la configuración y el servicio de GitHub Copilot específico que use: esto puede incluir avisos, sugerencias y fragmentos de código, y (ii) recopilará información de uso adicional a través del servicio de GitHub Copilot que usa vinculado a su cuenta: esto puede incluir información de uso del servicio, datos de uso del sitio web y datos sobre los comentarios. Después de darnos su consentimiento, podemos compartir estos datos con aplicaciones de terceros, como las del [Marketplace de GitHub](https://github.com/marketplace) o modelos de inteligencia artificial de terceros de su elección. Esto puede incluir datos personales, como se indica en la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement). Puede obtener más información sobre la recopilación y el uso de los datos de GitHub Copilot en el [Centro de confianza de GitHub Copilot](https://copilot.github.trust.page/).
-
-Si se trata de usuarios de GitHub Copilot Free, los datos recopilados por GitHub Copilot se pueden usar para el entrenamiento del modelo de IA, cuando el usuario lo permita y si así lo establece en su configuración.
+Para el resto de usuarios de GitHub Copilot, el uso de dicho servicio se regirá por lo dispuesto en el [apartado J (Funciones de IA) de los Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 
 [Importador de GitHub Enterprise](#github-enterprise-importer)
 ----------

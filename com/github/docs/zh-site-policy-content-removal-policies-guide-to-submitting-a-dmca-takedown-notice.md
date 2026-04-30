@@ -59,7 +59,7 @@ DMCA 下架通知提交指南
 
 ***您可能会收到抗辩通知。*** 任何受您的下架通知影响的用户可自行决定提交[抗辩通知](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)。 如果他们这样做，我们将在 10-14 天内重新启用其内容，除非您通知我们您已发起法律诉讼以求制止用户从事与 GitHub 上的内容有关的侵权活动。
 
-***您的投诉将被公布。*** 如我们的 [DMCA 删除政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)所述，在删除个人信息后，我们将在 <https://github.com/github/dmca> 上发布所有完整、可诉的下架通知。
+***您的投诉将被公布。*** 如我们的 [DMCA 删除政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy#e-transparency)所述，在删除个人信息后，我们将在 <https://github.com/github/dmca> 上发布所有完整、可诉的下架通知。
 
 ***GitHub 不是法官。*** 除了确定通知是否符合 DMCA 的最低要求外，GitHub 在此过程中几乎不行使酌处权。 当事方（及其律师）应负责评估其投诉的合理性，并注意，此类通知受伪证处罚条款约束。
 
@@ -98,7 +98,7 @@ DMCA 下架通知提交指南
 [如何提交投诉](#how-to-submit-your-complaint)
 ----------
 
-得到回复的最快方式是在我们的[版权声明表](https://github.com/contact/dmca)中输入您的信息并回答所有问题。
+获得回复的最快方式是在我们的 [版权声明表](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
 
 你也可以发送电子邮件通知到 [copyright@github.com](mailto:copyright@github.com)。 您可以包含附件（如果您愿意），但在邮件正文中也应包含邮件的纯文本版本。
 

@@ -59,7 +59,7 @@ GitHub가 호스트하는 콘텐츠 형식(주로 소프트웨어 코드)과 콘
 
 ***반론 통지를 받을 수 있습니다.*** 게시 중단 통지의 영향을 받는 모든 사용자는 [반론 통지](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)를 제출하기로 결정할 수 있습니다. 반론 통지가 제출되는 경우, 귀하가 GitHub에 있는 콘텐츠와 관련된 침해 활동에 해당 사용자가 참여하는 것을 제한하기 위한 법적 조치를 개시했음을 GitHub에 통지하지 않으면 10\~14일 이내에 해당 콘텐츠가 다시 활성화됩니다.
 
-***귀하의 위반 신고는 게시됩니다.*** GitHub [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency)에 명시된 것처럼 GitHub는 개인 정보를 삭제한 후 <https://github.com/github/dmca>에 완전하고 소송 가능한 모든 게시 중단 통지를 게시합니다.
+***귀하의 위반 신고는 게시됩니다.*** GitHub [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy#e-transparency)에 명시된 것처럼 GitHub는 개인 정보를 삭제한 후 <https://github.com/github/dmca>에 완전하고 소송 가능한 모든 게시 중단 통지를 게시합니다.
 
 ***GitHub는 판사가 아닙니다.*** GitHub는 통지가 DMCA의 최소 요구 사항을 충족하는지 여부를 판단하는 것 외에 절차에서 재량권을 거의 행사하지 않습니다. 통지는 위증 시 처벌을 전제로 전달해야 한다는 점을 유념하여 청구의 장점을 평가할 책임은 당사자 본인(및 그 변호사)에게 있습니다.
 
@@ -89,7 +89,7 @@ GitHub가 호스트하는 콘텐츠 형식(주로 소프트웨어 코드)과 콘
 [우회 방지 기술에 관한 위반 신고](#complaints-about-anti-circumvention-technology)
 ----------
 
-저작권법은 저작권으로 보호되는 저작물에 대한 액세스를 효과적으로 제어하는 기술적 조치의 우회를 금지합니다. GitHub에서 호스트되는 콘텐츠가 이 금지를 위반한다고 믿는 경우, [저작권 청구 양식](https://github.com/contact/dmca)을(를) 통해 GitHub에 보고서를 보낼 수 있습니다. 우회 청구에는 갖추고 있는 기술적 조치에 관한 정보는 물론, 고발된 프로젝트가 그러한 조치를 우회하는 방식에 관한 다음과 같은 세부 정보도 포함되어야 합니다. 특히 GitHub에 대한 통지에는 다음을 설명하는 세부 정보가 포함되어야 합니다.
+저작권법은 저작권으로 보호되는 저작물에 대한 액세스를 효과적으로 제어하는 기술적 조치의 우회를 금지합니다. GitHub에 호스팅된 콘텐츠가 이 금지 사항을 위반한다고 생각되는 경우, 해당 내용을 [저작권 청구 양식](https://github.com/contact/dmca)을 통해 신고해 주시기 바랍니다. 우회 청구에는 갖추고 있는 기술적 조치에 관한 정보는 물론, 고발된 프로젝트가 그러한 조치를 우회하는 방식에 관한 다음과 같은 세부 정보도 포함되어야 합니다. 특히 GitHub에 대한 통지에는 다음을 설명하는 세부 정보가 포함되어야 합니다.
 
 1. 기술적 조치의 내용
 2. 저작권으로 보호되는 자료에 대한 액세스를 효과적으로 제어하는 방법
@@ -98,7 +98,7 @@ GitHub가 호스트하는 콘텐츠 형식(주로 소프트웨어 코드)과 콘
 [위반 신고 제출 방법](#how-to-submit-your-complaint)
 ----------
 
-답변을 받는 가장 빠른 방법은 GitHub의 [저작권 청구 양식](https://github.com/contact/dmca)에서 귀하의 정보를 입력하고 모든 질문에 답하는 것입니다.
+가장 빠르게 응답을 받는 방법은 정보를 입력하고 [저작권 청구 양식](https://github.com/contact/dmca)의 모든 질문에 답하는 것입니다.
 
 이메일 알림을 [copyright@github.com](mailto:copyright@github.com)에 보낼 수도 있습니다. 원하는 경우 첨부 파일을 포함할 수도 있지만 메시지 본문에 요청의 일반 텍스트 버전도 포함하십시오.
 
