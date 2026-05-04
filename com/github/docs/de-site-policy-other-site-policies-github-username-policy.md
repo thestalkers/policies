@@ -30,12 +30,14 @@ GitHub-Kontonamen sind nach dem Prinzip „Wer zuerst kommt, mahlt zuerst“ ver
 
 Denken Sie daran, dass nicht alle Aktivitäten auf GitHub öffentlich sichtbar sind; Konten ohne sichtbare Aktivität werden möglicherweise aktiv verwendet.
 
+Wir akzeptieren keine Anträge auf Freigabe, Übertragung oder Rückforderung von Benutzernamen mit der Begründung, dass diese inaktiv oder ungenutzt erscheinen. Falls der von Ihnen gewünschte Benutzername bereits vergeben ist, müssen Sie einen anderen verfügbaren Namen auswählen, es sei denn, Sie reichen eine Beschwerde wegen Markenrechtsverletzung ein, wie unten beschrieben.
+
 Wenn der gewünschte Benutzername bereits beansprucht wurde, ziehen Sie andere Namen oder eindeutige Varianten in Betracht. Wenn Sie Zahlen, Bindestriche oder alternative Schreibweisen einbauen, können Sie möglicherweise einen noch verfügbaren Benutzernamen finden.
 
 [Markenrichtlinie](#trademark-policy)
 ----------
 
-Wenn Sie der Auffassung sind, dass das Konto einer anderen Person Ihre Markenrechte verletzt, finden Sie weitere Informationen zum Einreichen einer Markenbeschwerde auf der Seite mit unserer [Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy).
+Wenn Sie der Auffassung sind, dass das Konto einer anderen Person Ihre Markenrechte verletzt, finden Sie weitere Informationen zum Einreichen einer Markenbeschwerde auf der Seite [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy). Wir prüfen ausschließlich berechtigte Beschwerden im Zusammenhang mit Markenrechten, um zu entscheiden, ob ein bereits vergebener Benutzername freigegeben werden kann.
 
 [Namensbesetzungsrichtlinie](#name-squatting-policy)
 ----------

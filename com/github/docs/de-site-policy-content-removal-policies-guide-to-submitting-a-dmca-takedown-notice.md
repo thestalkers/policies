@@ -59,7 +59,7 @@ Diese Liste ist nicht vollständig, weshalb es beim Umgang mit Code doppelt wich
 
 ***Möglicherweise erhalten Sie eine Counter Notice.*** Jeder Benutzer, der von Ihrer Takedown Notice betroffen ist, kann eine [Counter Notice](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) einreichen. Wenn dies der Fall ist, werden wir ihre Inhalte innerhalb von 10 bis 14 Tagen wieder aktivieren, es sei denn, Sie teilen uns mit, dass Sie rechtliche Schritte eingeleitet haben, um den Benutzer daran zu hindern, sich an rechtsverletzenden Aktivitäten in Bezug auf die Inhalte auf GitHub zu beteiligen.
 
-***Ihre Beschwerde wird veröffentlicht.*** Wie in unserer [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy#d-transparency) dargelegt, veröffentlichen wir alle vollständigen und durchsetzbaren Takedown Notices, nachdem wir jegliche personenbezogenen Daten unkenntlich gemacht haben, unter <https://github.com/github/dmca>.
+***Ihre Beschwerde wird veröffentlicht.*** Wie in unserer [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy#e-transparency) dargelegt, veröffentlichen wir alle vollständigen und durchsetzbaren Takedown Notices, nachdem wir jegliche personenbezogenen Daten unkenntlich gemacht haben, unter <https://github.com/github/dmca>.
 
 ***GitHub tritt nicht als Richter auf.*** GitHub übt in diesem Prozess wenig Ermessensspielraum aus, außer zu bestimmen, ob die Mitteilungen die Mindestanforderungen des DMCA erfüllen. Es ist Sache der Parteien (und ihrer Anwälte), die Begründetheit ihrer Ansprüche zu beurteilen, wobei zu beachten ist, dass Mitteilungen unter Strafe des Meineids erfolgen müssen.
 

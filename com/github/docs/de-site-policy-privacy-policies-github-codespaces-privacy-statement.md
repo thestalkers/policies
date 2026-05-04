@@ -40,7 +40,7 @@ In diesem Artikel
 [GitHub-Datenschutzerklärung](#github-privacy-statement)
 ----------
 
-Wirksamkeitsdatum: 1. Februar 2024
+Gültigkeitsdatum: 27. April 2026
 
 Willkommen bei der Datenschutzerklärung für GitHub. Hier beschreiben wir, wie wir mit Ihren „personenbezogenen Daten“ umgehen, d. h. mit Informationen, die direkt mit Ihnen verknüpft sind oder verknüpft werden können. Sie gilt für die personenbezogenen Daten, die GitHub, Inc. oder GitHub B.V. als „Datencontroller“ verarbeitet, wenn Sie mit Websites, Anwendungen und Diensten interagieren, die diese Erklärung anzeigen (zusammenfassend „Dienste“). Diese Erklärung gilt nicht für Dienste oder Produkte, die diese Erklärung nicht anzeigen, wie z. B. Vorschauen, sofern zutreffend.
 
@@ -67,7 +67,7 @@ Personenbezogene Daten werden direkt von Ihnen, automatisch von Ihrem Gerät und
 ### [Von Ihnen](#from-you) ###
 
 * Kontodaten: Wir erfassen bestimmte Informationen, wenn Sie ein Konto eröffnen, z. B. Ihr GitHub-Handle, Ihren Namen, Ihre E-Mail-Adresse, Ihr Passwort, Zahlungsinformationen und Transaktionsinformationen.
-* Benutzerinhalte und Dateien: Wenn Sie unsere Dienste nutzen, erfassen wir personenbezogene Daten, die Teil der von Ihnen bereitgestellten Informationen sind, wie z. B. Code, Eingaben, Text, Dokumente, Bilder oder Feedback.
+* Benutzerinhalte und Dateien: Wenn Sie unsere Dienste nutzen, erfassen wir personenbezogene Daten, die Teil der von Ihnen bereitgestellten Informationen sind, wie z. B. Code, Eingaben, KI-Ausgaben, Text, Dokumente, Bilder oder Feedback.
 * Demografische Informationen: In einigen Fällen stellen Sie uns ethnische Zugehörigkeit, Geschlecht oder ähnliche demografische Daten zur Verfügung.
 * Feedback-Daten: Dies sind Informationen, die Sie über Umfragen, Bewertungen oder interaktive Features übermitteln.
 * Zahlungsinformationen: Für kostenpflichtige Abonnements erfassen wir Details wie Name, Rechnungsadresse und Zahlungsmodalitäten.
@@ -88,7 +88,7 @@ Personenbezogene Daten werden direkt von Ihnen, automatisch von Ihrem Gerät und
 ### [Von Dritten](#from-third-parties) ###
 
 * Informationen von anderen Benutzern der Dienste: Andere Benutzer können Informationen über Sie weitergeben, wenn sie Fragen und Kommentare einreichen. Wir können auch Informationen über Sie erhalten, wenn Sie als Vertreter oder Verwalter des Kontos Ihres Unternehmens ausgewiesen sind.
-* Öffentlich verfügbare Quellen: Wir können Informationen über Sie aus öffentlich zugänglichen Quellen wie öffentlichen GitHub-Repositorys erhalten.
+* Öffentlich verfügbare Quellen: Wir können Informationen über Sie aus öffentlich zugänglichen Quellen erhalten.
 * Dienste, die Sie mit Ihrem GitHub-Konto verknüpft haben: Wenn Sie oder Ihr Administrator Apps oder Dienste von Drittanbietern in unsere Dienste integrieren, erhalten wir Informationen, die auf Ihren Einstellungen bei diesen Diensten basieren. Dies kann Details wie Ihren Namen und Ihre E-Mail-Adresse von Diensten wie Google zur Authentifizierung enthalten. Die Informationen, die wir erhalten, hängen von den Einstellungen und Datenschutzrichtlinien des Dritten ab. Überprüfen Sie diese immer, um zu verstehen, welche Daten mit unseren Diensten geteilt werden.
 * Anbieter, Partner und Affiliate-Partner: Wir können Informationen über Sie von Dritten, wie Anbietern, Handelspartnern, Partnern oder verbundenen Unternehmen für die in dieser Erklärung genannten Zwecke erhalten.
 
@@ -105,6 +105,7 @@ Die personenbezogenen Daten, die wir verarbeiten, hängen von Ihrer Interaktion 
 * Bereitstellung von Diensten: Wir verwenden personenbezogene Daten und aktualisieren unsere Dienste, entsprechend Ihrer Konfiguration und Nutzung, und um fortlaufend personalisierte Erfahrungen und Empfehlungen zu machen.
 * Fehlersuche: Wir verwenden personenbezogene Daten, um technische Probleme zu identifizieren und zu beheben.
 * Kontinuierliche Serviceleistung: Personenbezogene Daten helfen uns, die Dienste aktuell und leistungsfähig zu halten und die Anforderungen der Benutzer an Produktivität, Zuverlässigkeit, Effizienz, Qualität, Datenschutz, Zugänglichkeit und Sicherheit zu erfüllen.
+* Produktentwicklung und -verbesserung: Wir verwenden personenbezogene Daten, um unsere Produkte, Dienstleistungen und Technologien zu entwickeln und zu verbessern, einschließlich Technologien für künstliche Intelligenz und maschinelles Lernen. Dazu gehören die Verbesserung der Features, die Entwicklung neuer Angebote, die Optimierung der Sicherheitsfunktionen sowie Schulungsmodelle. Wir wenden geeignete technische Schutzmaßnahmen an, einschließlich Aggregations- und Deidentifikationstechniken, um Ihre Privatsphäre zu schützen und gleichzeitig diese Verbesserungen zu ermöglichen.
 * Erfüllung und Behandlung rechtlicher Verpflichtungen: einschließlich der Beantwortung von Anträgen der betroffenen Personen in Bezug auf personenbezogene Daten, die von GitHub als Controller verarbeitet werden (z. B. Website-Daten), steuerliche Anforderungen, Vereinbarungen und Streitigkeiten.
 * Bereitstellung von Professional Services: Wir verwenden personenbezogene Daten, um Schulungen, Beratung oder Implementierung („Professional Services“) bereitzustellen. Dazu gehören technische Unterstützung, professionelle Planung, Beratung, Beratung, Datenmigration, Bereitstellung und Lösungs-/Softwareentwicklungsdienste.
 * Verbesserung der Professional Services: Verbesserung der Bereitstellung, Effizienz, Qualität und Sicherheit der Professional Services und des/der zugrunde liegenden Produkts/Produkte auf der Grundlage von Problemen, die bei der Erbringung der Professional Services festgestellt wurden, einschließlich der Behebung von Softwarefehlern und der anderweitigen Aufrechterhaltung der Aktualität und Leistungsfähigkeit der Professional Services.
@@ -117,7 +118,7 @@ Bei der Durchführung dieser Aktivitäten praktiziert GitHub die Datenminimierun
 Wir können personenbezogene Daten mit den folgenden Empfängern teilen:
 
 * Missbrauchs- und Betrugspräventionsstellen: Wir können personenbezogene Daten offenlegen, wenn wir in gutem Glauben davon ausgehen, dass dies erforderlich ist, um Betrug, Missbrauch oder Angriffe auf unsere Dienste zu verhindern oder um die Sicherheit von GitHub und unserer Benutzer zu schützen.
-* Affiliate-Partner: Personenbezogene Daten können an GitHub-Tochtergesellschaften, einschließlich Microsoft, weitergegeben werden, um Kundenservice, Marketing und Werbung, Auftragsabwicklung, Rechnungsstellung, technischen Support sowie rechtliche und Compliance-Verpflichtungen zu erleichtern. Unsere Affiliate-Partner dürfen die personenbezogenen Daten nur in einer Weise verwenden, die mit dieser Datenschutzerklärung vereinbar ist.
+* Verbundene Unternehmen: Personenbezogene Daten können an verbundene Partner von GitHub, einschließlich Microsoft, weitergegeben werden, um Kundenservice, Marketing und Werbung, Auftragsabwicklung, Rechnungsstellung, technischen Support, rechtliche und Complianceverpflichtungen, Produktentwicklung und -verbesserung (einschließlich Schulungen und Verbesserung der Technologien für künstliche Intelligenz und maschinelles Lernen) zu erleichtern, sowie zu anderen Zwecken, die in ihren jeweiligen Datenschutzbestimmungen beschrieben sind. Wenn wir Daten mit verbundenen Unternehmen teilen, verarbeiten sie sie nach anwendbarem Recht und ihren Datenschutzverpflichtungen.
 * GitHub-Organisationskonten: Wenn eine Organisation Sie zu ihrem GitHub-Konto hinzufügt, können wir personenbezogene Daten mit dieser Organisation teilen, um die Geschäftsbeziehung zu erfüllen. In einem solchen Fall unterliegt Ihre Nutzung der Dienste einer Datenschutzvereinbarung und Bedingungen zwischen Ihrer Organisation und GitHub
 * Zuständige Behörden: Wir können personenbezogene Daten an autorisierte Strafverfolgungsbehörden, Aufsichtsbehörden, Gerichte oder andere öffentliche Behörden weitergeben, um auf rechtmäßige Anfragen zu reagieren oder um unsere Rechte und Sicherheit zu schützen. Weitere Informationen finden Sie in unseren [Richtlinien für rechtliche Anfragen von Nutzerdaten](https://docs.github.com/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data).
 * Unternehmenstransaktionen: Wir können personenbezogene Daten im Rahmen der gesetzlichen Bestimmungen und in Übereinstimmung mit dieser Datenschutzerklärung für strategische Geschäftstransaktionen wie Verkäufe oder Fusionen offenlegen.
@@ -130,15 +131,7 @@ Wir können personenbezogene Daten mit den folgenden Empfängern teilen:
 [Privates Repository: GitHub-Zugriff](#private-repositories-github-access)
 ----------
 
-Wenn Ihr GitHub-Konto über private Repositorys verfügt, wird der Zugriff auf diese Information von Ihnen gesteuert. Die Mitarbeiter von GitHub greifen ohne Ihre Zustimmung nicht auf private Repository-Informationen zu, außer wie in dieser Datenschutzerklärung und für vorgesehen:
-
-* Sicherheitsgründe
-* Zur automatisierten oder manuellen Überprüfung auf bekannte Sicherheitslücken, aktive Schadsoftware oder andere Inhalte, die bekanntermaßen gegen unsere Vertragsbedingungen verstoßen;
-* Um den Eigentümer des Repositorys in einer Support-Angelegenheit zu unterstützen;
-* Um die Integrität des Dienstes zu wahren; oder
-* um unseren gesetzlichen Pflichten nachzukommen, wenn wir Grund zu der Annahme haben, dass die Inhalte gegen geltendes Recht verstoßen.
-
-GitHub wird Sie über den Zugriff auf private Repositorys informieren, es sei denn, dies ist gesetzlich verboten oder GitHub hat als Reaktion auf eine Sicherheitsbedrohung oder ein anderes Sicherheitsrisiko gehandelt.
+Wenn Ihr GitHub-Konto über private Repositorys verfügt, werden unsere Möglichkeiten und Rechte bezüglich des Zugriffs auf private Repositoryinformationen in Abschnitt E (Private Repositorys) der GitHub-Nutzungsbedingungen festgelegt.
 
 [Rechtmäßige Grundlagen für die Verarbeitung personenbezogener Daten (anwendbar auf EWR- und UK-Endnutzer)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
 ----------
@@ -147,7 +140,7 @@ GitHub verarbeitet personenbezogene Daten in Übereinstimmung mit der DSGVO und 
 
 * Vertragliche Notwendigkeit: Die Verarbeitung ist erforderlich, um unsere vertraglichen Pflichten Ihnen gegenüber in Übereinstimmung mit den GitHub-Nutzungsbedingungen zu erfüllen.
 * Gesetzliche Verpflichtung: Wir verarbeiten Daten, wenn dies erforderlich ist, um geltende Gesetze einzuhalten oder die Rechte, die Sicherheit und das Eigentum von GitHub, unseren Partnern, Benutzern bzw. Dritten zu schützen.
-* Berechtigte Interessen: Wir verarbeiten Daten für Zwecke, die in unserem berechtigten Interesse liegen, wie z. B. die Sicherung unserer Dienste, die Kommunikation mit Ihnen und die Verbesserung unserer Dienste. Dies geschieht nur, wenn diese Interessen nicht durch Ihre Datenschutzrechte oder Ihre Grundrechte und -freiheiten aufgehoben werden.
+* Berechtigte Interessen: Wir verarbeiten Daten für Zwecke, die in unserem berechtigten Interesse liegen, wie z. B. die Sicherung unserer Dienste, die Kommunikation mit Ihnen sowie die Entwicklung und Verbesserung unserer Dienste, einschließlich Technologien für künstliche Intelligenz und maschinelles Lernen Dies geschieht nur, wenn diese Interessen nicht durch Ihre Datenschutzrechte oder Ihre Grundrechte und -freiheiten aufgehoben werden.
 * Einwilligung: Wir verarbeiten Daten, wenn Sie dieser Verarbeitung ausdrücklich zugestimmt haben. Wenn wir uns auf die Einwilligung als Rechtsgrundlage stützen, haben Sie das Recht, Ihre Einwilligung zur Datenverarbeitung jederzeit zu widerrufen. Die Verfahren für den Widerruf sind in dieser Erklärung ausführlich beschrieben und auf unserer Website verfügbar.
 
 [Ihre Datenschutzrechte](#your-privacy-rights)
@@ -210,7 +203,7 @@ Unsere Adressen sind:
 GitHub B.V
 Prins Bernhardplein 200, Amsterdam 1097JB, Niederlande
 
-GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
+GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 USA
 
 [Informationen zu Minderjährigen](#information-for-minors)
 ----------
@@ -246,7 +239,7 @@ Für Seiten für Unternehmensmarketing verwenden wir unter Umständen auch nicht
 
 Unsere E-Mails an Benutzer enthalten ggf. ein Pixel-Tag. Hierbei handelt es sich um ein kleines, transparentes Bild, über das wir ermitteln können, ob Sie eine E-Mail geöffnet haben und wie Ihre IP-Adresse lautet. Wir verwenden dieses Pixel-Tag, um unsere E-Mail-Kommunikation effektiver zu gestalten und um sicherzustellen, dass wir Ihnen keine unerwünschten E-Mails senden.
 
-Wie lange ein Cookie in Ihrem Browser oder auf Ihrem Gerät gespeichert ist, hängt davon ab, ob es ein beständiges Cookie oder ein Sitzungscookie ist. Sitzungscookies bleiben nur bis zum Ende der Sitzung gespeichert. Beständige Cookies bleiben gespeichert, bis sie ablaufen oder gelöscht werden. Die Ablaufdauer bzw. der Aufbewahrungszeitraum beständigen Cookies hängt vom Zweck der erfassten Cookies und vom verwendeten Tool ab. Sie können Cookie-Daten löschen. Weitere Informationen findest du unter [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls).
+Wie lange ein Cookie in Ihrem Browser oder auf Ihrem Gerät gespeichert ist, hängt davon ab, ob es ein beständiges Cookie oder ein Sitzungscookie ist. Sitzungscookies bleiben nur bis zum Ende der Sitzung gespeichert. Beständige Cookies bleiben gespeichert, bis sie ablaufen oder gelöscht werden. Die Ablaufdauer bzw. der Aufbewahrungszeitraum beständigen Cookies hängt vom Zweck der erfassten Cookies und vom verwendeten Tool ab. Sie können Cookie-Daten löschen. Weitere Informationen findest du unter [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement#what-are-your-cookie-choices-and-controls).
 
 #### [Was sind Cookies und ähnliche Technologien?](#what-are-cookies-and-similar-technologies) ####
 

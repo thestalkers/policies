@@ -26,7 +26,7 @@ In diesem Artikel
 * [So übermitteln Sie Ihre Anfrage](#how-to-submit-your-request)
 * [Streitigkeiten](#disputes)
 
-Wir bieten diesen Prozess zum Entfernen privater Informationen als außergewöhnlichen Service nur für Inhalte mit hohem Risiko an, die eine Verletzung der [Nutzungsbedingungen von GitHub](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions) darstellen, z. B. wenn Ihre Sicherheit durch offengelegte Zugangsdaten gefährdet ist. Dieser Leitfaden beschreibt die Informationen, die GitHub von Ihnen benötigt, um eine Anfrage zum Entfernen privater Informationen aus einem Repository zu bearbeiten.
+Wir bieten diesen Prozess zum Entfernen privater Informationen als außergewöhnlichen Service nur für Inhalte mit hohem Risiko an, die eine Verletzung der [Nutzungsbedingungen von GitHub](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) darstellen, z. B. wenn Ihre Sicherheit durch offengelegte Zugangsdaten gefährdet ist. Dieser Leitfaden beschreibt die Informationen, die GitHub von Ihnen benötigt, um eine Anfrage zum Entfernen privater Informationen aus einem Repository zu bearbeiten.
 
 [Was sind private Informationen?](#what-is-private-information)
 ----------

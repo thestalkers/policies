@@ -34,7 +34,7 @@ Willkommen auf dem GitHub Marketplace ("Marktplatz")! Wir freuen uns, dass Sie h
 
 Durch die Nutzung von Marketplace stimmen Sie zu, an diese Marketplace-Bedingungen gebunden zu sein.
 
-Wirksamkeitsdatum: 1. August 2024
+Gültigkeitsdatum: 27. April 2026
 
 [A. Nutzungsbedingungen von GitHub.com](#a-githubcoms-terms-of-service)
 ----------
@@ -60,7 +60,7 @@ Wir sind keine Partei der Vereinbarung zwischen Ihnen und dem Produktanbieter in
 [D. Zahlung, Abrechnungszeitplan und Stornierung](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-Alle Zahlungen für Entwicklerprodukte erfolgen über GitHub. Die Bedingungen Ihrer Zahlung und Gebühren werden von [Abschnitt K. Zahlung](/de/site-policy/github-terms/github-terms-of-service#k-payment) oder dem entsprechenden Abschnitt Ihrer geltenden GitHub Bedingungen geregelt. Durch die Nutzung des Marktplatzes erklären Sie sich damit einverstanden, GitHub alle Gebühren zu zahlen, die im Zusammenhang mit Ihrem Kauf des Entwicklerprodukts anfallen. Jeder Kauf ist ein elektronischer Vertrag zwischen Ihnen und GitHub und Ihnen und dem Produktanbieter. Sie sind dafür verantwortlich, uns ein gültiges Zahlungsmittel für den Kauf von Entwicklerprodukten zur Verfügung zu stellen. Wenn Sie nur kostenlose Entwicklerprodukte kaufen, müssen Sie keine Zahlungsinformationen angeben.
+Alle Zahlungen für Entwicklerprodukte erfolgen über GitHub. Die Bedingungen Ihrer Zahlung und Gebühren werden von [Abschnitt L. Zahlung](/de/site-policy/github-terms/github-terms-of-service#l-payment) oder dem entsprechenden Abschnitt Ihrer geltenden GitHub Bedingungen geregelt. Durch die Nutzung des Marktplatzes erklären Sie sich damit einverstanden, GitHub alle Gebühren zu zahlen, die im Zusammenhang mit Ihrem Kauf des Entwicklerprodukts anfallen. Jeder Kauf ist ein elektronischer Vertrag zwischen Ihnen und GitHub und Ihnen und dem Produktanbieter. Sie sind dafür verantwortlich, uns ein gültiges Zahlungsmittel für den Kauf von Entwicklerprodukten zur Verfügung zu stellen. Wenn Sie nur kostenlose Entwicklerprodukte kaufen, müssen Sie keine Zahlungsinformationen angeben.
 
 **Abrechnungsplan; Keine Rückerstattung.** Ihr Zahlungsplan wird durch den Zahlungsplan bestimmt, den Sie bei der Erstellung Ihres GitHub-Kontos gewählt haben (z. B. kostenlos, monatlich, jährlich). Bei monatlichen oder jährlichen Zahlungsplänen werden Marketplace-Käufe monatlich bzw. jährlich im Voraus in Rechnung gestellt und sind nicht erstattungsfähig. Es gibt keine Rückerstattungen oder Gutschriften für angebrochene Servicemonate, Downgrade-Rückerstattungen oder Rückerstattungen für ungenutzte Monate; Der Dienst bleibt jedoch für die Dauer des bezahlten Abrechnungszeitraums aktiv. Wenn Sie die Entwicklerproduktdienste kündigen möchten, können Sie dies tun, indem Sie Ihre Einstellungen in der globalen Navigationsleiste oben auf dem Bildschirm aufrufen.
 

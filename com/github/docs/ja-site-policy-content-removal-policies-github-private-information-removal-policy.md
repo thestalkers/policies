@@ -26,7 +26,7 @@ Markdown としてコピー
 * [要求の提出方法](#how-to-submit-your-request)
 * [争議](#disputes)
 
-当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub のサービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies#3-conduct-restrictions)に違反する高リスク コンテンツに限定して例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除する要求を GitHub が処理するために必要な情報について説明します。
+当社は、この個人情報削除プロセスを、アクセス認証情報が暴露されることによりセキュリティが危険にさらされているなど、[GitHub のサービス条件](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies)に違反する高リスク コンテンツに限定して例外的なサービスとして提供しています。 このガイドでは、リポジトリから個人情報を削除する要求を GitHub が処理するために必要な情報について説明します。
 
 [個人情報とは?](#what-is-private-information)
 ----------

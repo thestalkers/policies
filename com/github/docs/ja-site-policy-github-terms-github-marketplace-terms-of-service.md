@@ -19,7 +19,7 @@ Markdown としてコピー
 この記事で
 ----------
 
-* [A。 GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
+* [A. GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
 * [B。 使用要件](#b-use-requirements)
 * [C。 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
 * [D。 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
@@ -34,9 +34,9 @@ GitHub Marketplace (以下「Marketplace」といいます) へようこそ! ご
 
 Marketplace を使用することにより、お客様は本 Marketplace 条件に拘束されることに同意するものとします。
 
-発効日:2024 年 8 月 1 日
+発効日: 2026 年 4 月 27 日
 
-[A。 GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
+[A. GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
 ----------
 
 Marketplace は GitHub によって提供され、これらの Marketplace の使用条件と、 [GitHub サービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)または GitHub 顧客契約、 [GitHub 企業利用規約](/ja/site-policy/github-terms/github-corporate-terms-of-service) 、その他の従来の GitHub 契約、または Microsoft ボリューム ライセンス契約と組み合わせて管理されます。 GitHub.com の Web サイト上の 1 つ以上のアカウントで動作するように開発者製品を設定する場合、開発者製品の使用には、該当する GitHub 条件も適用されます。 本書で定義されていない用語は、該当する GitHub 条件で定義されます。
@@ -60,7 +60,7 @@ Marketplace を使用するには、13 歳以上 (米国に居住している場
 [D。 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
 ----------
 
-開発者製品に対するすべての支払いは、GitHub を経由します。 お客様の支払いおよび料金の条件は、[セクション K. 支払い](/ja/site-policy/github-terms/github-terms-of-service#k-payment)、または該当する GitHub 条件の類似のセクションに準拠します。 Marketplace を使用することにより、お客様は、開発者製品の購入に関連して発生した料金を GitHub に支払うことに同意するものとします。 各購入は、お客様と GitHub、およびお客様と製品プロバイダーとの間の電子契約です。 お客様は、開発者製品の購入に対して有効な支払い方法を当社に提供する責任があります。 無料の開発者製品のみを購入する場合は、支払情報を提供する必要はありません。
+開発者製品に対するすべての支払いは、GitHub を経由します。 お客様の支払いおよび料金の条件は、[セクション L. 支払い](/ja/site-policy/github-terms/github-terms-of-service#l-payment)、または該当する GitHub 条件の類似のセクションに準拠します。 Marketplace を使用することにより、お客様は、開発者製品の購入に関連して発生した料金を GitHub に支払うことに同意するものとします。 各購入は、お客様と GitHub、およびお客様と製品プロバイダーとの間の電子契約です。 お客様は、開発者製品の購入に対して有効な支払い方法を当社に提供する責任があります。 無料の開発者製品のみを購入する場合は、支払情報を提供する必要はありません。
 
 **請求スケジュール、払戻なし。** 支払いスケジュールは、GitHub アカウントの作成時に選択した支払いスケジュール (無料、月払い、年払いなど) によって決まります。 月払いまたは年払いプランの場合、Marketplace での購入はそれぞれ月単位または年単位で事前に請求され、払戻はできません。 サービスの一部月分の払戻やクレジット、ダウングレードの払戻、または未使用の月の払戻はありません。ただし、サービスは有料の請求期間の間、アクティブなままになります。 開発者製品サービスを解約する場合は、画面上部のグローバル ナビゲーション バーの [設定] に移動します。
 
