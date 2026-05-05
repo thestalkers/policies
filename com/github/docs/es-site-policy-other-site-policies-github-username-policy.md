@@ -30,12 +30,14 @@ Los nombres de cuenta de GitHub están disponibles por orden de llegada y están
 
 Tenga en cuenta que no toda la actividad en GitHub es públicamente visible; las cuentas sin actividad visible pueden estar en uso activo.
 
+No aceptamos solicitudes para liberar, transferir ni reclamar nombres de usuario sobre la base de que parecen inactivos o que parece que no se utilizan. Si el nombre de usuario que desea ya está reclamado, deberá seleccionar otro nombre disponible distinto a menos que envíe una queja como marca comercial tal como se describe a continuación.
+
 Si el nombre de usuario que desea ya ha sido reclamado, considere otros nombres o variaciones únicas. Puede usar un número, un guion o una forma alternativa de escribir ese nombre para encontrar un nombre de usuario de su preferencia que aún esté disponible.
 
 [Política de marcas registradas](#trademark-policy)
 ----------
 
-Si cree que la cuenta de alguien está infringiendo sus derechos de marca comercial, encontrará más información sobre cómo presentar una queja sobre la marca comercial en nuestra página [Directiva de Marcas Comerciales](/es/site-policy/content-removal-policies/github-trademark-policy).
+Si cree que la cuenta de alguien está infringiendo sus derechos de marca comercial, encontrará más información sobre cómo presentar una queja sobre marca comercial en nuestra página [TÍTULO AUTOMÁTICO](/es/site-policy/content-removal-policies/github-trademark-policy). Las quejas válidas sobre marcas comerciales son las únicas solicitudes que revisamos para una posible liberación de un nombre de usuario ya reclamado.
 
 [Nombre Política de ocupación ilegal](#name-squatting-policy)
 ----------
