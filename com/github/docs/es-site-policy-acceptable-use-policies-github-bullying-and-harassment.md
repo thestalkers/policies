@@ -1,4 +1,4 @@
-Intimidación y acoso de GitHub - GitHub Docs
+Intimidación y acoso de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

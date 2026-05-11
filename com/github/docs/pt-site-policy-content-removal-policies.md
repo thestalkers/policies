@@ -1,4 +1,4 @@
-Políticas de remoção de conteúdo - GitHub Docs
+Políticas de remoção de conteúdo - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

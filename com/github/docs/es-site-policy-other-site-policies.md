@@ -1,4 +1,4 @@
-Otras políticas del sitio - GitHub Docs
+Otras políticas del sitio - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
