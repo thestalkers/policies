@@ -1,4 +1,4 @@
-Politique de retrait DMCA - GitHub Docs
+Politique de retrait DMCA - Documentation GitHub
 
 [Skip to main content](#main-content)
 

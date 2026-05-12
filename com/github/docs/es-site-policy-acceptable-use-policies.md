@@ -1,4 +1,4 @@
-Directivas de Uso Aceptable - GitHub Docs
+Directivas de Uso Aceptable - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

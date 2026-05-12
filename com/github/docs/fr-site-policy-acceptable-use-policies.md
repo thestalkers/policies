@@ -1,4 +1,4 @@
-Règles de Bon Usage - GitHub Docs
+Règles de Bon Usage - Documentation GitHub
 
 [Skip to main content](#main-content)
 

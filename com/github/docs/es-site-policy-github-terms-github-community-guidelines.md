@@ -1,4 +1,4 @@
-Directrices de la comunidad de GitHub - GitHub Docs
+Directrices de la comunidad de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

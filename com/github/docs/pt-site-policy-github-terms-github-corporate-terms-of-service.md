@@ -1,4 +1,4 @@
-Termos de serviço corporativos do GitHub - GitHub Docs
+Termos de serviço corporativos do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

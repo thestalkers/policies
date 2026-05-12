@@ -1,4 +1,4 @@
-Términos de GitHub - GitHub Docs
+Términos de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

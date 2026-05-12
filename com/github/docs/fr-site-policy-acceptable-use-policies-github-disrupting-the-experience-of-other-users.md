@@ -1,4 +1,4 @@
-GitHub perturbe l'expérience des autres utilisateurs - GitHub Docs
+GitHub perturbe l'expérience des autres utilisateurs - Documentation GitHub
 
 [Skip to main content](#main-content)
 

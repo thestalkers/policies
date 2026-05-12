@@ -1,4 +1,4 @@
-Acuerdo de desarrollador registrado de GitHub - GitHub Docs
+Acuerdo de desarrollador registrado de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

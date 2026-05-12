@@ -1,4 +1,4 @@
-Termos adicionais dos patrocinadores do GitHub - GitHub Docs
+Termos adicionais dos patrocinadores do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

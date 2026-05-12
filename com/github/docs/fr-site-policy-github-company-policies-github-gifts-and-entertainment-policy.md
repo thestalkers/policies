@@ -1,4 +1,4 @@
-Politique relative aux cadeaux et aux divertissements de GitHub - GitHub Docs
+Politique relative aux cadeaux et aux divertissements de GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

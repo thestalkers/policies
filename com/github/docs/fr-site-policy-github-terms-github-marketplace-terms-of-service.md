@@ -1,4 +1,4 @@
-Conditions d'utilisation de la place de marché GitHub - GitHub Docs
+Conditions d'utilisation de la place de marché GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

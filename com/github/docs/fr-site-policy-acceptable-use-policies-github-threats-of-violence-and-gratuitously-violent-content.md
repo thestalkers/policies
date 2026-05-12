@@ -1,4 +1,4 @@
-GitHub Menaces de violence et contenu gratuitement violent - GitHub Docs
+GitHub Menaces de violence et contenu gratuitement violent - Documentation GitHub
 
 [Skip to main content](#main-content)
 

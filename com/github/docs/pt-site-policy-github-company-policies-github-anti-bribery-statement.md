@@ -1,4 +1,4 @@
-Declaração antissuborno do GitHub - GitHub Docs
+Declaração antissuborno do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

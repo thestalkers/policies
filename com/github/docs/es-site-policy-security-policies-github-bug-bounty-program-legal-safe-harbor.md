@@ -1,4 +1,4 @@
-Programa de recompensas por errores de GitHub Puerto seguro legal - GitHub Docs
+Programa de recompensas por errores de GitHub Puerto seguro legal - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

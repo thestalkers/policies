@@ -1,4 +1,4 @@
-Política de presentes e entretenimento do GitHub - GitHub Docs
+Política de presentes e entretenimento do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

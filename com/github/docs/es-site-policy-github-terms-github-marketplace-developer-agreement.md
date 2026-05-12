@@ -1,4 +1,4 @@
-Acuerdo para desarrolladores del Mercado GitHub - GitHub Docs
+Acuerdo para desarrolladores del Mercado GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

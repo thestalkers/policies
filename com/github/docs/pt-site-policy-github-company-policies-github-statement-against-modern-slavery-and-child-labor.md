@@ -1,4 +1,4 @@
-Declaração do GitHub contra a escravidão moderna e o trabalho infantil - GitHub Docs
+Declaração do GitHub contra a escravidão moderna e o trabalho infantil - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

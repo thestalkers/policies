@@ -1,4 +1,4 @@
-GitHub interrompendo a experiência de outros usuários - GitHub Docs
+GitHub interrompendo a experiência de outros usuários - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

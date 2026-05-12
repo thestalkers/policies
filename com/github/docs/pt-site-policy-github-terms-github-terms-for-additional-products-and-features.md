@@ -1,4 +1,4 @@
-Termos do GitHub para produtos e recursos adicionais - GitHub Docs
+Termos do GitHub para produtos e recursos adicionais - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

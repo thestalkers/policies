@@ -1,4 +1,4 @@
-Políticas de Uso Aceitável - GitHub Docs
+Políticas de Uso Aceitável - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

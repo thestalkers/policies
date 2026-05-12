@@ -1,4 +1,4 @@
-Suplantación de GitHub - GitHub Docs
+Suplantación de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

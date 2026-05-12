@@ -1,4 +1,4 @@
-Guide de soumission d'un avis de contestation DMCA - GitHub Docs
+Guide de soumission d'un avis de contestation DMCA - Documentation GitHub
 
 [Skip to main content](#main-content)
 

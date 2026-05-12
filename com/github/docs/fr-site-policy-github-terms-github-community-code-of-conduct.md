@@ -1,4 +1,4 @@
-Code de Conduite de la Communauté GitHub - GitHub Docs
+Code de Conduite de la Communauté GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

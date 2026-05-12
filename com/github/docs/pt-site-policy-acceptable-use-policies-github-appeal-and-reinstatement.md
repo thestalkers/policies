@@ -1,4 +1,4 @@
-Contestação e reintegração do GitHub - GitHub Docs
+Contestação e reintegração do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

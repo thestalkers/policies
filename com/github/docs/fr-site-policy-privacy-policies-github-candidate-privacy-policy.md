@@ -1,4 +1,4 @@
-Notification de confidentialité des données globales GitHub pour les candidats - GitHub Docs
+Notification de confidentialité des données globales GitHub pour les candidats - Documentation GitHub
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Lignes directrices pour les demandes légales de données utilisateur - GitHub Docs
+Lignes directrices pour les demandes légales de données utilisateur - Documentation GitHub
 
 [Skip to main content](#main-content)
 

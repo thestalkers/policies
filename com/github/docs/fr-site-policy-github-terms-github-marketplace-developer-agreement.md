@@ -1,4 +1,4 @@
-Contrat de développement de la place de marché GitHub - GitHub Docs
+Contrat de développement de la place de marché GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

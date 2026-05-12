@@ -1,4 +1,4 @@
-Usurpation d'identité GitHub - GitHub Docs
+Usurpation d'identité GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

@@ -1,4 +1,4 @@
-Condiciones de servicio del Mercado GitHub - GitHub Docs
+Condiciones de servicio del Mercado GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 

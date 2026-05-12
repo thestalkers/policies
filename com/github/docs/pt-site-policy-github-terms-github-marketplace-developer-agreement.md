@@ -1,4 +1,4 @@
-Contrato de desenvolvedor do GitHub Marketplace - GitHub Docs
+Contrato de desenvolvedor do GitHub Marketplace - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

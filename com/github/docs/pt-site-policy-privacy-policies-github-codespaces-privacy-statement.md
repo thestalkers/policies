@@ -1,4 +1,4 @@
-Declaração Geral de Privacidade do GitHub - GitHub Docs
+Declaração Geral de Privacidade do GitHub - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

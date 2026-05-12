@@ -1,4 +1,4 @@
-Directives de la communauté GitHub - GitHub Docs
+Directives de la communauté GitHub - Documentation GitHub
 
 [Skip to main content](#main-content)
 

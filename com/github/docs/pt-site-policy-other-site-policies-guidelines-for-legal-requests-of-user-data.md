@@ -1,4 +1,4 @@
-Diretrizes para Solicitações Legais de Dados do Usuário - GitHub Docs
+Diretrizes para Solicitações Legais de Dados do Usuário - Documentos do GitHub
 
 [Skip to main content](#main-content)
 

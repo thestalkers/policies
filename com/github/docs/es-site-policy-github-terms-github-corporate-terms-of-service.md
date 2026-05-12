@@ -1,4 +1,4 @@
-Condiciones de servicio corporativas de GitHub - GitHub Docs
+Condiciones de servicio corporativas de GitHub - Documentación de GitHub
 
 [Skip to main content](#main-content)
 
