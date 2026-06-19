@@ -193,5 +193,3 @@ Linux용 Microsoft SQL Server Standard Edtion 컨테이너 이미지 파일("SQL
 GitHub 모델은 GitHub.com 인공 지능 모델을 학습, 시도 및 테스트할 수 있는 기능입니다. [GitHub Marketplace](https://github.com/marketplace)를 통해 GitHub 모델에 액세스할 수 있습니다. [I 모델을 사용한 프로토타입 작성](/ko/github-models/prototyping-with-ai-models)을 방문하여 GitHub 모델에 대해 자세히 알아보세요.
 
 이 기능을 사용하는 경우 모델을 호스팅하는 회사의 조건과 모델 라이선스가 적용됩니다.
-
-{"resolvedServerColorMode":"day"}

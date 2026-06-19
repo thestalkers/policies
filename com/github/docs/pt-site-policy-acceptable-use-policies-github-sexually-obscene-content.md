@@ -23,5 +23,3 @@ Não toleramos conteúdo associado à exploração sexual ou abuso de outro indi
 * Representações gráficas de atos sexuais, incluindo fotografias, vídeos, animações, desenhos, imagens geradas por computador ou conteúdo baseado em texto
 
 Reconhecemos que nem toda nudez ou conteúdo relacionado à sexualidade é obsceno. Podemos permitir representações visuais e/ou textuais em contextos artísticos, educacionais, históricos ou jornalísticos, ou no que se refere à defesa de vítimas. Em alguns casos, um aviso de isenção de responsabilidade pode ajudar a comunicar o contexto do projeto. No entanto, entenda que podemos optar por limitar o conteúdo dando aos usuários a opção de ativar antes de visualizar.
-
-{"resolvedServerColorMode":"day"}

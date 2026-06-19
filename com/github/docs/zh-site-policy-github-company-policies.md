@@ -24,5 +24,3 @@ GitHub 公司政策
 
 [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

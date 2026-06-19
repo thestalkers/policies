@@ -310,5 +310,3 @@ El Desarrollador pondrá a disposición de GitHub y del Usuario final su Declara
 **A1-8. Responsabilidad por el procesamiento de datos**
 
 * Responsabilidad Directa. El desarrollador será responsable ante GitHub de los daños y perjuicios reales causados por cualquier incumplimiento del presente Anexo con sujeción a los términos de la Sección 8, Limitación de responsabilidad.
-
-{"resolvedServerColorMode":"day"}

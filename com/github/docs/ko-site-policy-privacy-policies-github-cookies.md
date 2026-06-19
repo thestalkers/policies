@@ -122,5 +122,3 @@ GitHub는 훌륭한 사용자 환경을 제공하기 위하여 GitHub 웹 사이
 | [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no)  |                    `b`                    |이 쿠키는 방문자의 웹 사이트 방문과 관련된 익명 데이터(예: 방문 수, 웹 사이트를 사용한 평균 시간 및 로드된 페이지)를 수집합니다. 등록된 데이터는 방문자에 따라 웹 사이트 콘텐츠를 사용자 지정하기 위해 사용자의 관심사 및 인구 통계 프로필을 분류하는 데 사용됩니다.|                                1년                                 |
 
 (\*) 위에 나열된 쿠키의 만료 날짜는 일반적으로 계속 갱신되는 방식으로 적용됩니다.
-
-{"resolvedServerColorMode":"day"}

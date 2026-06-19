@@ -24,5 +24,3 @@ Politiques de l'entreprise GitHub
 
 [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

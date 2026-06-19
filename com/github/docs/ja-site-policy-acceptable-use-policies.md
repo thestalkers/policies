@@ -57,5 +57,3 @@
 
 [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
-
-{"resolvedServerColorMode":"day"}

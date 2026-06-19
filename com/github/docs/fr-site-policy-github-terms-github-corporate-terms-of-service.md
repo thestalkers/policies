@@ -422,5 +422,3 @@ Chaque partie est un entrepreneur indépendant en ce qui concerne l'objet du pr�
 ### [10. Questions](#10-questions) ###
 
 Des questions sur les conditions d'utilisation ? [Contactez-nous](https://github.com/contact/).
-
-{"resolvedServerColorMode":"day"}

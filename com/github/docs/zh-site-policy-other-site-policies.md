@@ -33,5 +33,3 @@
 
 [GitHub 帐户恢复政策](/zh/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

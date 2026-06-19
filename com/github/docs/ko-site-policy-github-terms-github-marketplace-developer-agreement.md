@@ -310,5 +310,3 @@ Marketplace를 운영하고 개선하기 위해 GitHub는 Marketplace 또는 Git
 **A1-8. 데이터 처리에 대한 책임**
 
 * 직접적 책임. 개발자는 Marketplace 개발자 계약에서 8절(책임의 제한)의 조건에 따라 이 부칙의 위반으로 인해 발생한 실제 손해에 대해 GitHub에 책임을 집니다.
-
-{"resolvedServerColorMode":"day"}

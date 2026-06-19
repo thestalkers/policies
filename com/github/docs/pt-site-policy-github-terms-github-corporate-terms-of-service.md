@@ -422,5 +422,3 @@ Cada Parte é um contratante independente com relação ao objeto deste Contrato
 ### [10. Dúvidas](#10-questions) ###
 
 Dúvidas sobre os Termos de Serviço? [Entre em contato conosco](https://github.com/contact/).
-
-{"resolvedServerColorMode":"day"}

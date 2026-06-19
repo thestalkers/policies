@@ -66,5 +66,3 @@
 
 [Соглашение о партнерской программе сканирования секретов GitHub](/ru/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

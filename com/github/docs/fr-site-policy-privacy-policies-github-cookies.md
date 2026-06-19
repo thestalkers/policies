@@ -122,5 +122,3 @@ GitHub utilise des cookies pour fournir et sécuriser nos sites Web, ainsi que p
 | [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no)  |                    `b`                    |Ce cookie collecte des données anonymes relatives aux visites de site web du visiteur, telles que le nombre de visites, le temps moyen passé sur le site web et les pages qui ont été chargées. Les données inscrites sont utilisées pour catégoriser les profils démographiques et d’intérêt des utilisateurs dans le but de personnaliser le contenu du site web en fonction du visiteur.|                                                       Une année                                                       |
 
 (\*) Les dates d’expiration pour les cookies énumérés ci-dessus s’appliquent généralement sur une base continue.
-
-{"resolvedServerColorMode":"day"}

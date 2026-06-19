@@ -21,5 +21,3 @@
 
 [GitHub SIRT 설명 RFC 2350](/ko/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
-
-{"resolvedServerColorMode":"day"}

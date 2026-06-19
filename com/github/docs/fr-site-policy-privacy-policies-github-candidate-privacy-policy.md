@@ -343,5 +343,3 @@ Pour notre intérêt légitime :
 * Opérations générales d’entreprise
 
 Lorsque nous traitons vos données personnelles en fonction d’intérêts légitimes, vous pouvez vous opposer à ce traitement dans certaines circonstances. Dans ce cas, nous cesserons de traiter vos données personnelles, sauf si nous avons des motifs légitimes de poursuivre le traitement ou lorsque cela est nécessaire pour des raisons juridiques.
-
-{"resolvedServerColorMode":"day"}

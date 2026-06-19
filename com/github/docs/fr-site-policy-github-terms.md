@@ -66,5 +66,3 @@ Termes GitHub
 
 [Contrat du Programme partenaire d’analyse de secret GitHub](/fr/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

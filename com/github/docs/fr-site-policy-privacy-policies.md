@@ -24,5 +24,3 @@ Politiques de Confidentialité
 
 [Notification de confidentialité des données globales GitHub pour les candidats](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

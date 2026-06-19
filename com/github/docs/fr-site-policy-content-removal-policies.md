@@ -30,5 +30,3 @@ Politiques de suppression de contenu
 
 [Guide de soumission d'un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
-
-{"resolvedServerColorMode":"day"}

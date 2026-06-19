@@ -453,5 +453,3 @@ Acordo integral. Este Contrato constitui o acordo integral entre as partes em re
 ----------
 
 Alterações nestes Termos. Reservamo-nos o direito, a nosso exclusivo critério, de alterar estes Termos Adicionais a qualquer momento. Você receberá uma notificação sobre alterações substanciais a estes Termos Adicionais, como alterações de preço, pelo menos 30 dias antes da alteração entrar em vigor, por meio de um aviso que será publicado em nosso Site. Sua participação continuada no Programa constitui concordância com nossas revisões destes Termos Adicionais.
-
-{"resolvedServerColorMode":"day"}

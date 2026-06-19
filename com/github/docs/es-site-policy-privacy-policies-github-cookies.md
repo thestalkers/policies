@@ -122,5 +122,3 @@ Dado que el número y los nombres de las cookies pueden cambiar, la siguiente ta
 | [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no)  |                    `b`                    |Esta cookie recopila datos anónimos relacionados con las visitas de una misma persona a un sitio web, como el número de visitas, el tiempo medio invertido en el sitio web y las páginas que se han cargado. Los datos registrados se utilizan para clasificar el interés de los usuarios y los perfiles demográficos con el fin de personalizar el contenido del sitio web en función del visitante.|                                                  Un año                                                   |
 
 (\*) Las fechas de vencimiento para las cookies que se enumeran a continuación normalmente se aplican de forma continua.
-
-{"resolvedServerColorMode":"day"}

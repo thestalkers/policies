@@ -24,5 +24,3 @@
 
 [GitHub 全球候选人数据隐私声明](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

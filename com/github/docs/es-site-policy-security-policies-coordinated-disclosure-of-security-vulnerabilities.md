@@ -24,5 +24,3 @@ Queremos mantener GitHub seguro para todos. Si ha descubierto una vulnerabilidad
 Al igual que otras grandes empresas de software, GitHub ofrece una recompensa por errores para interactuar mejor con los investigadores de seguridad. La idea es sencilla: los piratas informáticos y los investigadores de seguridad (como usted) encuentran vulnerabilidades y las notifican a través de nuestro proceso de revelación coordinado. Luego, para reconocer el esfuerzo significativo que estos investigadores a menudo realizan al buscar errores, los recompensamos con algo de dinero en efectivo.
 
 Consulte el sitio [Programa de recompensa por errores de GitHub](https://bounty.github.com) para obtener más información sobre las recompensas y también los términos del completo [Directiva legal Safe Harbor](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor).
-
-{"resolvedServerColorMode":"day"}

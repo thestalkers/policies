@@ -45,5 +45,3 @@
 [Политика удаления частной информации GitHub](/ru/site-policy/content-removal-policies/github-private-information-removal-policy) может использоваться для сообщения о данных, которые являются частными (конфиденциальными и представляют угрозу безопасности), но которые не обязательно защищены авторским правом или торговой маркой.
 
 Пользователи в Индии могут [связаться со специалистом GitHub по принятию жалоб](https://support.github.com/contact/india-grievance-officer).
-
-{"resolvedServerColorMode":"day"}

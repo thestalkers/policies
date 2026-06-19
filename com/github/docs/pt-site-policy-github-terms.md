@@ -66,5 +66,3 @@ Termos do GitHub
 
 [Contrato do Programa de Parceiros de Verificação de Segredos do GitHub](/pt/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

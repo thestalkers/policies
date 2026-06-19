@@ -133,5 +133,3 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 22. **Intégralité des accords**
 
    Le présent accord, les conditions d'utilisation et les conditions du programme contiennent l'intégralité de l'accord des parties concernant son objet et remplacent toutes les communications, représentations, ententes et accords antérieurs, qu'ils soient écrits ou oraux. Les termes ou conditions de l'un de vos bons de commande, accusés de réception ou autres documents que vous nous envoyez en relation avec le présent accord seront nuls et non avenus et sans effet.
-
-{"resolvedServerColorMode":"day"}

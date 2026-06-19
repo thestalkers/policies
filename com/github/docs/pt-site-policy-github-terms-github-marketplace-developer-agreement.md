@@ -310,5 +310,3 @@ O Desenvolvedor disponibilizará sua Declaração de Privacidade, Política de P
 **A1-8. Responsabilidade pelo Processamento de Dados**
 
 * Responsabilidade Direta. O desenvolvedor será responsável perante o GitHub por danos reais causados por qualquer violação deste Adendo sujeito aos termos da Seção 8, Limitação de Responsabilidade.
-
-{"resolvedServerColorMode":"day"}

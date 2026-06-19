@@ -66,5 +66,3 @@ GitHub 약관
 
 [GitHub 비밀 검사 파트너 프로그램 계약](/ko/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

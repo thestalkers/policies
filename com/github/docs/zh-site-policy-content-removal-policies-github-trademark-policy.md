@@ -84,5 +84,3 @@ GitHub 商标政策
   * 地址
   * 电话
   * 电子邮件（必须来自公司域名）
-
-{"resolvedServerColorMode":"day"}

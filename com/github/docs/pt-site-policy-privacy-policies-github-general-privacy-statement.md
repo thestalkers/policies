@@ -353,5 +353,3 @@ Se você mora no Colorado, Connecticut ou Virgínia, você tem alguns direitos a
 ### [Nevada](#nevada) ###
 
 Não vendemos suas informações cobertas, conforme definido no Capítulo 603A dos Estatutos Revisados de Nevada. Se você ainda tiver dúvidas sobre suas informações cobertas ou qualquer outra coisa em nossa Declaração de Privacidade, envie um e-mail para privacy[at]github[dot]com.
-
-{"resolvedServerColorMode":"day"}

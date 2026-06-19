@@ -24,5 +24,3 @@
 
 [候補者向け GitHub グローバル データ プライバシー通知](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

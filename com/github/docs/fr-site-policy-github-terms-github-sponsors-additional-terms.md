@@ -453,5 +453,3 @@ Intégralité du Contrat. Le présent accord constitue l’intégralité de l’
 ----------
 
 Modifications des Conditions. Nous nous réservons le droit, à notre seule discrétion, de modifier les présentes Conditions Supplémentaires à tout moment. Nous vous informerons des modifications importantes apportées aux présentes Conditions Supplémentaires, notamment les modifications apportées aux prix, au moins 30 jours avant leur entrée en vigueur, en publiant un avis sur notre Site Web. Votre participation continue au programme constitue un accord avec nos révisions de ces conditions supplémentaires.
-
-{"resolvedServerColorMode":"day"}

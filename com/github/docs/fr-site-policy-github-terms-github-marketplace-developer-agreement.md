@@ -310,5 +310,3 @@ Le Développeur mettra sa Déclaration de confidentialité, sa Politique de conf
 **A1-8. Responsabilité en matière de traitement des données**
 
 * Responsabilité directe. Le Développeur sera responsable envers GitHub des dommages réels causés par toute violation de cet addendum sous réserve des conditions de la section 8, Limitation de responsabilité.
-
-{"resolvedServerColorMode":"day"}

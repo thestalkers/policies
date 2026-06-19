@@ -66,5 +66,3 @@ GitHub 条款
 
 [GitHub 机密扫描合作伙伴计划协议](/zh/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

@@ -310,5 +310,3 @@ GitHub 通知可通过电子邮件发送至 [legal-support@github.com](mailto:le
 **A1-8.数据处理责任**
 
 * 直接赔偿责任。 开发人员应根据第 8 节“责任限制”中的条款，赔偿因其任何违反本附录的行为对 GitHub 造成的实际损害。
-
-{"resolvedServerColorMode":"day"}

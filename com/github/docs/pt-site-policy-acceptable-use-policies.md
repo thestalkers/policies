@@ -57,5 +57,3 @@ Políticas de Uso Aceitável
 
 [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
-
-{"resolvedServerColorMode":"day"}

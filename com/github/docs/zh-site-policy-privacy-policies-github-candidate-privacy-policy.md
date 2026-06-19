@@ -343,5 +343,3 @@ GitHub, Inc. 88 Colin P. Kelly Jr. St. San Francisco, CA 94107 United States
 * 常规业务运营
 
 我们基于合法权益处理您个人数据时，您在特定情形下可以对此类处理提出反对。 在此类情况下，我们将停止处理您的个人数据，除非我们拥有令人信服的合法理由需要继续处理，或该处理基于法律原因而必须进行。
-
-{"resolvedServerColorMode":"day"}

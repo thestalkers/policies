@@ -33,5 +33,3 @@
 
 [GitHub アカウント回復ポリシー](/ja/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

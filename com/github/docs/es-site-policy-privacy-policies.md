@@ -24,5 +24,3 @@ Directivas de Privacidad
 
 [Aviso de privacidad de datos de GitHub global para candidatos](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

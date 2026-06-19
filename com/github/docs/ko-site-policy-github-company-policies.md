@@ -24,5 +24,3 @@ GitHub 회사 정책
 
 [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

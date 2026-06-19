@@ -343,5 +343,3 @@ Para os nossos interesses legítimos:
 * Operações Comerciais Gerais
 
 Nos casos em que processamos os seus Dados Pessoais com base em interesses legítimos, você pode opor-se a esse processamento em determinadas circunstâncias. Nesses casos, cessaremos o processamento dos seus dados pessoais, a menos que tenhamos motivos legítimos e imperiosos para continuar o processamento ou quando for necessário por razões legais.
-
-{"resolvedServerColorMode":"day"}

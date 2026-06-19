@@ -57,5 +57,3 @@ Règles de Bon Usage
 
 [Appel et rétablissement de GitHub](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
-
-{"resolvedServerColorMode":"day"}

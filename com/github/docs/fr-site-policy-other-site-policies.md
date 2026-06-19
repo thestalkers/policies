@@ -33,5 +33,3 @@ Autres politiques du site
 
 [Stratégie de récupération de compte GitHub](/fr/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

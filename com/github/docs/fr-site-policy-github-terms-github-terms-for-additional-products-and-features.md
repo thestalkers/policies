@@ -193,5 +193,3 @@ Vous pouvez télécharger l'image de conteneur Microsoft SQL Server Standard Edi
 GitHub Models est une fonctionnalité qui vous permet d’apprendre, d’essayer et de tester des modèles d’intelligence artificielle sur GitHub.com. Vous pouvez accéder à GitHub Models via la [Place de marché GitHub](https://github.com/marketplace). Pour en savoir plus sur GitHub Models, consultez la page [Prototypage avec des modèles IA](/fr/github-models/prototyping-with-ai-models).
 
 Votre utilisation de cette fonctionnalité est soumise aux conditions de l’entreprise qui héberge le modèle et à la licence du modèle.
-
-{"resolvedServerColorMode":"day"}

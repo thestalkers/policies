@@ -57,5 +57,3 @@
 
 [Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
-
-{"resolvedServerColorMode":"day"}

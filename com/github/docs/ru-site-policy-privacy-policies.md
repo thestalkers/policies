@@ -24,5 +24,3 @@
 
 [Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

@@ -69,5 +69,3 @@ Les employés de GitHub se feront un plaisir d’aider les Participants à l’�
 ----------
 
 Certaines parties de ce Code de Conduite sont basées sur l’exemple de politique anti-harcèlement du wiki Geek Feminism, créé par l’Ada Initiative et d’autres volontaires, sous licence Creative Commons Zero.
-
-{"resolvedServerColorMode":"day"}

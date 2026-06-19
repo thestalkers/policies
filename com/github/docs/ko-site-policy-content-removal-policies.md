@@ -30,5 +30,3 @@
 
 [DMCA 게시 중단 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
-
-{"resolvedServerColorMode":"day"}

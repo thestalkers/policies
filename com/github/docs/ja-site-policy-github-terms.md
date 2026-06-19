@@ -66,5 +66,3 @@ GitHub 条件
 
 [GitHub シークレット スキャン パートナー プログラム契約](/ja/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}
