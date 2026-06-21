@@ -20,5 +20,3 @@ Other Site Policies
 * [GitHub Username Policy](/en/site-policy/other-site-policies/github-username-policy)
 * [Guidelines for Legal Requests of User Data](/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 * [GitHub Account Recovery Policy](/en/site-policy/other-site-policies/github-account-recovery-policy)
-
-{"resolvedServerColorMode":"day"}

@@ -17,5 +17,3 @@ Privacy Policies
 * [GitHub Subprocessors](/en/site-policy/privacy-policies/github-subprocessors)
 * [GitHub Cookies](/en/site-policy/privacy-policies/github-cookies)
 * [GitHub Global Data Privacy Notice for Candidates](/en/site-policy/privacy-policies/github-candidate-privacy-policy)
-
-{"resolvedServerColorMode":"day"}

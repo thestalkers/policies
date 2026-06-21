@@ -343,5 +343,3 @@ For our Legitimate Interest:
 * General Business Operations
 
 Where we process your Personal Data based on legitimate interests, you can object to this processing in certain circumstances. In such cases, we will cease processing your personal data unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
-
-{"resolvedServerColorMode":"day"}

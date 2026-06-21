@@ -343,5 +343,3 @@ Unser berechtigtes Interesse:
 * Allgemeine Geschäftsvorgänge
 
 Wenn wir Ihre personenbezogenen Daten auf der Grundlage berechtigter Interessen verarbeiten, können Sie dieser Verarbeitung unter bestimmten Umständen widersprechen. In solchen Fällen werden wir die Verarbeitung Ihrer personenbezogenen Daten beenden, es sei denn, wir haben zwingende rechtliche Gründe zur Fortsetzung der Verarbeitung oder sie ist aus rechtlichen Gründen erforderlich.
-
-{"resolvedServerColorMode":"day"}

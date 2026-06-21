@@ -17,5 +17,3 @@ GitHub Company Policies
 * [GitHub Anti-Bribery Statement](/en/site-policy/github-company-policies/github-anti-bribery-statement)
 * [GitHub GPL Cooperation Commitment](/en/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 * [GitHub Gifts and Entertainment Policy](/en/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
-
-{"resolvedServerColorMode":"day"}

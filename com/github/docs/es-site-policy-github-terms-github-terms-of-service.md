@@ -487,5 +487,3 @@ El presente Contrato únicamente podrá modificarse mediante una enmienda por es
 ### [6. Preguntas](#6-questions) ###
 
 ¿Preguntas sobre los Términos de servicio? Contacte con nosotros mediante el [Portal de soporte técnico de GitHub](https://support.github.com/).
-
-{"resolvedServerColorMode":"day"}

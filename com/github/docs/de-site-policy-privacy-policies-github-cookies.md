@@ -122,5 +122,3 @@ Da sich Anzahl und Namen der Cookies ändern können, wird die folgende Tabelle 
 | [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no)  |                    `b`                    |Dieses Cookie sammelt anonyme Daten im Zusammenhang mit den Websitebesuchen der Besuchenden, z. B. die Anzahl der Besuche, die durchschnittliche Zeit, die auf der Website verbracht wurde, und welche Seiten geladen wurden. Die registrierten Daten werden verwendet, um die Interessen und demografischen Profile der Benutzenden zu kategorisieren und die Websiteinhalte je nach Besuchenden anzupassen.|                                             1 Jahr                                             |
 
 (\*) Die Ablaufdaten für die oben aufgeführten Cookies gelten grundsätzlich auf rollierender Basis.
-
-{"resolvedServerColorMode":"day"}

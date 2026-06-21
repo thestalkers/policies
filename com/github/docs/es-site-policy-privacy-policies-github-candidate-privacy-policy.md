@@ -343,5 +343,3 @@ Para nuestro interés legítimo:
 * Operaciones generales de la empresa
 
 Cuando tratamos sus datos personales sobre la base de intereses legítimos, puede objetar a dicho tratamiento en ciertas circunstancias. En tales casos, dejaremos de tratar sus datos personales a menos que tengamos motivos legítimos convincentes para continuar tratando los datos o cuando sea necesario por motivos legales.
-
-{"resolvedServerColorMode":"day"}

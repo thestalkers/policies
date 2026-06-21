@@ -84,5 +84,3 @@ Um Verstöße gegen Markenrichtlinien zu untersuchen, geben Sie bitte alle folge
   * Anschrift
   * Telefon
   * E-Mail (muss von der Unternehmensdomäne stammen)
-
-{"resolvedServerColorMode":"day"}

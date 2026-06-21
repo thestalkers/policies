@@ -86,5 +86,3 @@ Attn: DMCA Agent
 San Francisco, CA. 94107
 
 ```
-
-{"resolvedServerColorMode":"day"}

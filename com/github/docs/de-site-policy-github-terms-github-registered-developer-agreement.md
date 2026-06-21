@@ -133,5 +133,3 @@ Diese Vereinbarung ist eine rechtsgültige Vereinbarung zwischen Ihnen („Sie�
 22. **Gesamter Vertrag**
 
    Diese Vereinbarung, die TOS und die Programmbedingungen enthalten die gesamte Vereinbarung der Parteien in Bezug auf ihren Gegenstand und ersetzen alle vorherigen schriftlichen oder mündlichen Mitteilungen, Zusicherungen, Vereinbarungen und Vereinbarungen. Die Bedingungen Ihrer Bestellungen, Bestätigungen oder anderen Dokumente, die Sie uns im Zusammenhang mit dieser Vereinbarung zusenden, sind null und nichtig und haben keine Wirkung.
-
-{"resolvedServerColorMode":"day"}

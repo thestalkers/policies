@@ -66,5 +66,3 @@ GitHub-Bedingungen
 
 [Vereinbarung über das GitHub-Partnerprogramm zur Geheimnisüberprüfung](/de/site-policy/github-terms/github-secret-scanning-partner-program-agreement)
 ----------
-
-{"resolvedServerColorMode":"day"}

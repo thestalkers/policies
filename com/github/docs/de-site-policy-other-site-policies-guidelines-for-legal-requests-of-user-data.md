@@ -277,5 +277,3 @@ GitHub wird unverzüglich auf Ersuchen reagieren, die über ein US-Gericht im We
 ----------
 
 Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Wenden Sie sich an uns über das [GitHub-Support-Portal](https://support.github.com).
-
-{"resolvedServerColorMode":"day"}

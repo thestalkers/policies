@@ -24,5 +24,3 @@ Datenschutzrichtlinien
 
 [GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

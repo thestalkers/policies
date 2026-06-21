@@ -310,5 +310,3 @@ Der Entwickler stellt GitHub und dem Endnutzer seine Datenschutzerklärung, Date
 **A1-8. Haftung für die Datenverarbeitung**
 
 * Direkte Haftung. Der Entwickler haftet gegenüber GitHub für tatsächliche Schäden, die durch einen Verstoß gegen diesen Nachtrag verursacht werden, vorbehaltlich der Bestimmungen in Abschnitt 8, Haftungsbeschränkung.
-
-{"resolvedServerColorMode":"day"}

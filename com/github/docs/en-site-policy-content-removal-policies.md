@@ -19,5 +19,3 @@ Content Removal Policies
 * [GitHub Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy)
 * [Guide to Submitting a DMCA Counter Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 * [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
-
-{"resolvedServerColorMode":"day"}

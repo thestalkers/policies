@@ -193,5 +193,3 @@ Sie können Microsoft SQL Server Standard Edition-Container-Image für Linux-Dat
 GitHub-Modelle ist ein Feature, mit dem Sie Modelle der künstlichen Intelligenz auf GitHub.com lernen, ausprobieren und testen können. Sie können auf GitHub-Modelle über den [GitHub Marketplace](https://github.com/marketplace) zugreifen. Erfahren Sie mehr über GitHub-Modelle, indem Sie [Prototypen mit KI-Modellen](/de/github-models/prototyping-with-ai-models) besuchen.
 
 Ihre Verwendung dieses Features unterliegt den Bedingungen des Unternehmens, das das Modell und die Modelllizenz hosten.
-
-{"resolvedServerColorMode":"day"}

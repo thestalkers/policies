@@ -29,5 +29,3 @@ Todas las categorías
 Mostrar 1-9 de 57
 
 [Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)
-
-{"resolvedServerColorMode":"day"}

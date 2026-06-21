@@ -453,5 +453,3 @@ Acuerdo completo. El presente Contrato constituye el contrato completo entre las
 ----------
 
 Modificación de los Términos. Nos reservamos el derecho, a nuestra exclusiva discreción, de modificar estos Términos Adicionales en cualquier momento. Le notificaremos los cambios importantes en estos Términos Adicionales (por ejemplo, cambios de precios) al menos 30 días antes de que se aplique dicho cambio mediante la publicación de un aviso en nuestra página web. Su participación continua en el Programa constituye la aceptación de nuestras revisiones de estos Términos Adicionales.
-
-{"resolvedServerColorMode":"day"}

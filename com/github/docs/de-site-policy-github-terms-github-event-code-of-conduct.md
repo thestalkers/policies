@@ -69,5 +69,3 @@ GitHub-Mitarbeiter helfen den Veranstaltungsteilnehmern gerne dabei, den Sicherh
 ----------
 
 Teile dieses Verhaltenskodex basieren auf der Vorlage example anti-harassment policy aus dem Geek Feminism Wiki, erstellt von der Ada Initiative und anderen Ehrenamtlichen unter einer Creative Commons Zero Lizenz.
-
-{"resolvedServerColorMode":"day"}

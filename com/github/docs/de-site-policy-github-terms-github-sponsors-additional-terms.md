@@ -453,5 +453,3 @@ Gesamter Vertrag. Dieser Vertrag stellt die gesamte Vereinbarung zwischen den Pa
 ----------
 
 Änderungen dieser Bedingungen. Wir behalten uns das Recht vor, diese zusätzlichen Bestimmungen jederzeit nach eigenem Ermessen zu ändern. Wir werden Sie über wesentliche Änderungen dieser zusätzlichen Bestimmungen (z. B. Preisänderungen) mindestens 30 Tage vor dem Inkrafttreten der Änderung durch Veröffentlichung einer Mitteilung auf unserer Website informieren. Ihre fortgesetzte Teilnahme am Programm stellt eine Zustimmung zu unseren Überarbeitungen dieser zusätzlichen Bedingungen dar.
-
-{"resolvedServerColorMode":"day"}

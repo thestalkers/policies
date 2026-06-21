@@ -30,5 +30,3 @@ Richtlinien zum Entfernen von Inhalten
 
 [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 ----------
-
-{"resolvedServerColorMode":"day"}

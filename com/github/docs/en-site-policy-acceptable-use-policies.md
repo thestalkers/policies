@@ -28,5 +28,3 @@ Acceptable Use Policies
 * [GitHub Non-Consensual Intimate Imagery](/en/site-policy/acceptable-use-policies/github-non-consensual-intimate-imagery)
 * [GitHub Synthetic Media and AI Tools](/en/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 * [GitHub Appeal and Reinstatement](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
-
-{"resolvedServerColorMode":"day"}

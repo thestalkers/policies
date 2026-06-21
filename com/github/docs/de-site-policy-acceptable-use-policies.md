@@ -57,5 +57,3 @@ Richtlinien zur akzeptablen Nutzung
 
 [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------
-
-{"resolvedServerColorMode":"day"}

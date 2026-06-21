@@ -33,5 +33,3 @@ Andere Website-Richtlinien
 
 [Wiederherstellungsrichtlinie für GitHub-Konten](/de/site-policy/other-site-policies/github-account-recovery-policy)
 ----------
-
-{"resolvedServerColorMode":"day"}

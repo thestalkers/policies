@@ -21,5 +21,3 @@ Políticas de seguridad
 
 [Descripción de SIRT de GitHub RFC 2350](/es/site-policy/security-policies/github-sirt-description-rfc-2350)
 ----------
-
-{"resolvedServerColorMode":"day"}
