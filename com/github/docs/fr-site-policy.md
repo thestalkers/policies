@@ -22,7 +22,7 @@ Recommandé
 Articles
 ----------
 
-Category: Toutes les catégories
+Catégorie: Toutes les catégories
 
 [Review product and program terms ### Accord d'utilisation pédagogique de GitHub ###](/fr/site-policy/github-terms/github-educational-use-agreement)[Follow acceptable use policies ### Appel et rétablissement de GitHub ###](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)[Review product and program terms ### Code de Conduite de la Communauté GitHub ###](/fr/site-policy/github-terms/github-community-code-of-conduct)[Review product and program terms ### Code de conduite des événements GitHub ###](/fr/site-policy/github-terms/github-event-code-of-conduct)[Review product and program terms ### Conditions d'utilisation de GitHub Corporate ###](/fr/site-policy/github-terms/github-corporate-terms-of-service)[Review product and program terms ### Conditions d'utilisation de la place de marché GitHub ###](/fr/site-policy/github-terms/github-marketplace-terms-of-service)[Review product and program terms ### Conditions de l'événement GitHub ###](/fr/site-policy/github-terms/github-event-terms)[Review product and program terms ### Conditions du programme de recherche GitHub ###](/fr/site-policy/github-terms/github-research-program-terms)[Review product and program terms ### Conditions Générales d’Utilisation de GitHub ###](/fr/site-policy/github-terms/github-terms-of-service)
 

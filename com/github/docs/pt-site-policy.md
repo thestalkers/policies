@@ -22,7 +22,7 @@ Recomendada
 Artigos
 ----------
 
-Category: Todas as categorias
+Categoria: Todas as categorias
 
 [Follow acceptable use policies ### Abuso ou exploração sexual infantil – GitHub ###](/pt/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)[Follow acceptable use policies ### Ameaças do GitHub de violência e conteúdo violento gratuito ###](/pt/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)[Review privacy and security policies ### Aviso de Privacidade de Dados Global do GitHub para Candidatos ###](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)[Follow acceptable use policies ### Bullying e Assédio no GitHub ###](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)[Review product and program terms ### Código de conduta da comunidade do GitHub ###](/pt/site-policy/github-terms/github-community-code-of-conduct)[Review product and program terms ### Código de conduta do evento GitHub ###](/pt/site-policy/github-terms/github-event-code-of-conduct)[Request content removal ### Como enviar solicitações de remoção de conteúdo ###](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)[Review company and general policies ### Compromisso de Cooperação GitHub GPL ###](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)[Follow acceptable use policies ### Contestação e reintegração do GitHub ###](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 

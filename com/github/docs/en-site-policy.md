@@ -22,7 +22,7 @@ Recommended
 Articles
 ----------
 
-All categories
+Category: All categories
 
 [Review privacy and security policies ### Coordinated Disclosure of Security Vulnerabilities ###](/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)[Request content removal ### DMCA Takedown Policy ###](/en/site-policy/content-removal-policies/dmca-takedown-policy)[Follow acceptable use policies ### GitHub Acceptable Use Policies ###](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)[Review company and general policies ### GitHub Account Recovery Policy ###](/en/site-policy/other-site-policies/github-account-recovery-policy)[Follow acceptable use policies ### GitHub Active Malware or Exploits ###](/en/site-policy/acceptable-use-policies/github-active-malware-or-exploits)[Review company and general policies ### GitHub and Trade Controls ###](/en/site-policy/other-site-policies/github-and-trade-controls)[Review company and general policies ### GitHub Anti-Bribery Statement ###](/en/site-policy/github-company-policies/github-anti-bribery-statement)[Follow acceptable use policies ### GitHub Appeal and Reinstatement ###](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)[Review privacy and security policies ### GitHub Bug Bounty Program Legal Safe Harbor ###](/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
