@@ -1,4 +1,22 @@
-Déclaration de confidentialité générale GitHub - Documentation GitHub
+Déclaration de confidentialité générale GitHub - Documentation GitHub(function(){
+var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
+var css=D;
+try{
+var m=document.cookie.match(new RegExp('(?:^|; )'+"color\_mode"+'=([^;]\*)'));
+if(m){
+var p=JSON.parse(decodeURIComponent(m[1]));
+var fMode=function(x){return MODES.indexOf(x)\>-1?x:null;};
+var fTheme=function(t){if(!t)return null;if(THEMES.indexOf(t.name)\>-1)return t.name;if(THEMES.indexOf(t.color\_mode)\>-1)return t.color\_mode;return null;};
+css={colorMode:fMode(p.color\_mode)||D.colorMode,lightTheme:fTheme(p.light\_theme)||D.lightTheme,darkTheme:fTheme(p.dark\_theme)||D.darkTheme};
+}
+}catch(e){}
+try{
+var h=document.documentElement;
+h.setAttribute('data-color-mode',css.colorMode);
+h.setAttribute('data-light-theme',css.lightTheme);
+h.setAttribute('data-dark-theme',css.darkTheme);
+}catch(e){}
+})();
 
 [Skip to main content](#main-content)
 
@@ -262,7 +280,7 @@ Nous et/ou nos partenaires partageons également les informations que nous colle
 Le tableau ci-dessous fournit des informations supplémentaires sur la manière dont nous utilisons différents types de cookies :
 
 |   Objectif   |                                                                                                                                                                                                                                                                                                                                          Description                                                                                                                                                                                                                                                                                                                                           |
-|:-------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Cookies requis|                                                              GitHub utilise les cookies requis pour exécuter les fonctions essentielles du site Web et pour fournir les services. Par exemple, les cookies sont utilisés pour vous connecter, enregistrer vos préférences linguistiques, fournir une expérience de panier d’achat, améliorer les performances, acheminer le trafic entre les serveurs Web, détecter la taille de votre écran, déterminer les temps de chargement des pages, améliorer l’expérience utilisateur et pour la mesure de l’audience. Ces cookies sont nécessaires au fonctionnement de nos sites Web.                                                               |
 |   Analyses   |                                                                                                                               Nous autorisons des tiers à utiliser des cookies d’analyse pour comprendre comment vous utilisez nos sites Web afin que nous puissions les améliorer. Par exemple, les cookies sont utilisés pour recueillir des informations sur les pages que vous visitez et sur le nombre de clics dont vous avez besoin pour accomplir une tâche. Nous utilisons également des cookies d’analyse pour fournir des publicités personnalisées.                                                                                                                                |
 |Médias sociaux|                                                                                   GitHub et des tiers utilisent des cookies médias sociaux pour vous montrer des publicités et du contenu en fonction de vos profils de réseaux sociaux et de votre activité sur les sites Web de GitHub. Cela garantit que les publicités et le contenu que vous voyez sur nos sites Web et sur les réseaux sociaux reflètent mieux vos intérêts. Cela permet également à des tiers de développer et d’améliorer leurs produits, qu’ils peuvent utiliser sur des sites Web qui ne sont pas détenus ou exploités par GitHub.                                                                                   |
