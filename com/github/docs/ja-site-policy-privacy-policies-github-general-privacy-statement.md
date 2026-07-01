@@ -1,4 +1,22 @@
-GitHub の一般プライバシー ステートメント - GitHubドキュメント
+GitHub の一般プライバシー ステートメント - GitHubドキュメント(function(){
+var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
+var css=D;
+try{
+var m=document.cookie.match(new RegExp('(?:^|; )'+"color\_mode"+'=([^;]\*)'));
+if(m){
+var p=JSON.parse(decodeURIComponent(m[1]));
+var fMode=function(x){return MODES.indexOf(x)\>-1?x:null;};
+var fTheme=function(t){if(!t)return null;if(THEMES.indexOf(t.name)\>-1)return t.name;if(THEMES.indexOf(t.color\_mode)\>-1)return t.color\_mode;return null;};
+css={colorMode:fMode(p.color\_mode)||D.colorMode,lightTheme:fTheme(p.light\_theme)||D.lightTheme,darkTheme:fTheme(p.dark\_theme)||D.darkTheme};
+}
+}catch(e){}
+try{
+var h=document.documentElement;
+h.setAttribute('data-color-mode',css.colorMode);
+h.setAttribute('data-light-theme',css.lightTheme);
+h.setAttribute('data-dark-theme',css.darkTheme);
+}catch(e){}
+})();
 
 [Skip to main content](#main-content)
 
@@ -262,7 +280,7 @@ GitHub のサービスは、Cookie および類似のテクノロジをさまざ
 弊社が各種の Cookie をどのように使用するかについて、以下の表に詳細を示します。
 
 |    目的    |                                                                                                                                  説明                                                                                                                                   |
-|:---------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |必須 Cookie |   GitHub は、Web サイトの基本的な機能を実行するため、およびサービスを提供するために、Cookie を使用します。 たとえば、Cookie はお客様がログインできるようにするほか、言語の優先順位の保存、ショッピング カート環境の提供、パフォーマンスの向上、Web サーバー間でのトラフィックのルーティング、画面サイズの検出、ページ読み込み回数の決定、ユーザー エクスペリエンスの向上、オーディエンス測定を行うために使用されます。 これらの Cookie は、弊社の Web サイトが機能するために必要です。   |
 |    分析    |                                弊社は第三者に対して、お客様が弊社の Web サイトをどのように使用しているかを把握して Web サイトを改善するために、分析 Cookie を使用することを許可します。 たとえば、Cookie はお客様がアクセスしたページや、タスクを完了するために必要なクリックの回数についての情報を集めるために使用されます。 弊社は、パーソナライズされた広告を提供するためにも分析 Cookie を使用します。                                |
 |ソーシャル メディア|GitHub および第三者は、お客様のソーシャル メディア プロファイルと GitHub の Web サイト上でのお客様の活動に基づいて広告とコンテンツを表示するために、ソーシャル メディア Cookie を使用します。 これにより、お客様が弊社の Web サイトおよびソーシャル メディアで目にする広告とコンテンツが、お客様の関心事項をより反映したものになります。 また、第三者が自らの製品を開発および改善できるようになり、それを GitHub によって所有または運営されていない Web サイト上で使用することもできます。|
