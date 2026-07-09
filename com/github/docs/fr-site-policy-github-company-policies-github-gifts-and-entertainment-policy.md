@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)/
-* [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+1. [Politique du site](/fr/site-policy)
+2. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
+3. [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 Politique relative aux cadeaux et aux divertissements de GitHub
 ==========

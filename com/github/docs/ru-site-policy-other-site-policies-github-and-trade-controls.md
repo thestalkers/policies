@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Другие правила сайта](/ru/site-policy/other-site-policies)/
-* [GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls)
+1. [Политика сайта](/ru/site-policy)
+2. [Другие правила сайта](/ru/site-policy/other-site-policies)
+3. [GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub и управление торговлей
 ==========

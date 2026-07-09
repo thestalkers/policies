@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 회사 정책](/ko/site-policy/github-company-policies)/
-* [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
+3. [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub 선물 및 접대 정책
 ==========

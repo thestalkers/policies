@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de seguridad](/es/site-policy/security-policies)/
-* [Divulgación coordinada de vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+1. [Política del sitio](/es/site-policy)
+2. [Políticas de seguridad](/es/site-policy/security-policies)
+3. [Divulgación coordinada de vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Divulgación coordinada de vulnerabilidades de seguridad
 ==========

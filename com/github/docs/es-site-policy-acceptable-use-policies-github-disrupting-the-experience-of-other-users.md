@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Alteración de la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+1. [Política del sitio](/es/site-policy)
+2. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
+3. [Alteración de la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 GitHub interrumpiendo la experiencia de otros usuarios
 ==========

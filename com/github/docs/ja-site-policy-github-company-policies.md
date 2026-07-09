@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
+1. [サイト ポリシー](/ja/site-policy)
+2. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
 
 GitHub の会社ポリシー
 ==========

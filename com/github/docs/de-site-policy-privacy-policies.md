@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
 
 Datenschutzrichtlinien
 ==========

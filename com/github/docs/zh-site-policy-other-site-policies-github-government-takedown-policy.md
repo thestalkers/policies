@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [其他站点政策](/zh/site-policy/other-site-policies)/
-* [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
+1. [站点政策](/zh/site-policy)
+2. [其他站点政策](/zh/site-policy/other-site-policies)
+3. [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
 
 GitHub 政府下架政策
 ==========

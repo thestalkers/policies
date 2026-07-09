@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub Marketplace 서비스 약관](/ko/site-policy/github-terms/github-marketplace-terms-of-service)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 약관](/ko/site-policy/github-terms)
+3. [GitHub Marketplace 서비스 약관](/ko/site-policy/github-terms/github-marketplace-terms-of-service)
 
 GitHub Marketplace 서비스 약관
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [性淫秽内容](/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+1. [站点政策](/zh/site-policy)
+2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+3. [性淫秽内容](/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub 上的性淫秽内容
 ==========

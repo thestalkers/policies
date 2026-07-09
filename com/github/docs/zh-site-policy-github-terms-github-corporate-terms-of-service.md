@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 条款](/zh/site-policy/github-terms)/
-* [GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)
+1. [站点政策](/zh/site-policy)
+2. [GitHub 条款](/zh/site-policy/github-terms)
+3. [GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)
 
 GitHub 公司服务条款
 ==========

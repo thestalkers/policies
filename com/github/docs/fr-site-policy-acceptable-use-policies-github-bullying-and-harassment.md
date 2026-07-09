@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Intimidation et harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+1. [Politique du site](/fr/site-policy)
+2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+3. [Intimidation et harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub Intimidation et Harcèlement
 ==========

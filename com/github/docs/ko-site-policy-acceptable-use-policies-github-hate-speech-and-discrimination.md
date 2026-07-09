@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [혐오 발언 및 차별 금지 방침](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [혐오 발언 및 차별 금지 방침](/ko/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub 혐오 발언 및 차별 금지 방침
 ==========

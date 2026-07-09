@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
-* [Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
+1. [Política del sitio](/es/site-policy)
+2. [Otras políticas del sitio](/es/site-policy/other-site-policies)
+3. [Política de nombre de usuario de GitHub](/es/site-policy/other-site-policies/github-username-policy)
 
 Política de nombre de usuario de GitHub
 ==========

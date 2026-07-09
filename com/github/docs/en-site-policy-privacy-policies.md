@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [Privacy Policies](/en/site-policy/privacy-policies)
+1. [Site policy](/en/site-policy)
+2. [Privacy Policies](/en/site-policy/privacy-policies)
 
 Privacy Policies
 ==========

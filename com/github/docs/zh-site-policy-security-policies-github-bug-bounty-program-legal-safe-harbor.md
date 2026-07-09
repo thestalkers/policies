@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [安全政策](/zh/site-policy/security-policies)/
-* [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+1. [站点政策](/zh/site-policy)
+2. [安全政策](/zh/site-policy/security-policies)
+3. [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub Bug 赏金计划法律安全港
 ==========

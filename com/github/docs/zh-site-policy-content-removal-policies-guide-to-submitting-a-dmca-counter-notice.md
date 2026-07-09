@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [内容删除政策](/zh/site-policy/content-removal-policies)/
-* [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+1. [站点政策](/zh/site-policy)
+2. [内容删除政策](/zh/site-policy/content-removal-policies)
+3. [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 DMCA 抗辩通知提交指南
 ==========

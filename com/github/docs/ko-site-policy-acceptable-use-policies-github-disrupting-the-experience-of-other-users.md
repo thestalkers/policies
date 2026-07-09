@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 다른 사용자의 경험을 방해하는 GitHub
 ==========

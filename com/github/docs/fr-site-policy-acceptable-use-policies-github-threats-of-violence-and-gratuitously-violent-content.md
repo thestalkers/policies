@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Menaces de Violence et Contenu de Violence gratuite](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+1. [Politique du site](/fr/site-policy)
+2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+3. [Menaces de Violence et Contenu de Violence gratuite](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub Menaces de violence et contenu gratuitement violent
 ==========

@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)
+1. [サイト ポリシー](/ja/site-policy)
+2. [利用規約](/ja/site-policy/acceptable-use-policies)
 
 利用規約
 ==========

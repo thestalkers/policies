@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub Mobbing und Belästigung
 ==========

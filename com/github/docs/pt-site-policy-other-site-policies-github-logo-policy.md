@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Outras políticas do site](/pt/site-policy/other-site-policies)/
-* [Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
+1. [Política do site](/pt/site-policy)
+2. [Outras políticas do site](/pt/site-policy/other-site-policies)
+3. [Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
 
 Política de logotipo do GitHub
 ==========

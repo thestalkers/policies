@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [신상 털기 및 프라이버시 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [신상 털기 및 프라이버시 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub 신상 털기 및 프라이버시 침해
 ==========

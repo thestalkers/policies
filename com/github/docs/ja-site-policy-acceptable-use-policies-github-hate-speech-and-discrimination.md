@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [憎悪の言葉と差別](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+1. [サイト ポリシー](/ja/site-policy)
+2. [利用規約](/ja/site-policy/acceptable-use-policies)
+3. [憎悪の言葉と差別](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub での憎悪の言葉と差別
 ==========

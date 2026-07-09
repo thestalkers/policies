@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
 
 Verhaltenskodex für die GitHub-Community
 ==========

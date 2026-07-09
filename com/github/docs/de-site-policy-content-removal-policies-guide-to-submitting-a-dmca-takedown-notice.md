@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)/
-* [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+3. [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung
 ==========

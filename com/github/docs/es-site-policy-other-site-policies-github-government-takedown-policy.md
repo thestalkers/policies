@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Otras políticas del sitio](/es/site-policy/other-site-policies)/
-* [Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
+1. [Política del sitio](/es/site-policy)
+2. [Otras políticas del sitio](/es/site-policy/other-site-policies)
+3. [Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
 
 Política de eliminación del gobierno de GitHub
 ==========

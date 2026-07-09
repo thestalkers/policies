@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика компании #REF!](/ru/site-policy/github-company-policies)/
-* [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика компании #REF!](/ru/site-policy/github-company-policies)
+3. [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 
 Заявление GitHub о борьбе со взяточничеством
 ==========

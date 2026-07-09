@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [Other Site Policies](/en/site-policy/other-site-policies)/
-* [Guidelines for Legal Requests of User Data](/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+1. [Site policy](/en/site-policy)
+2. [Other Site Policies](/en/site-policy/other-site-policies)
+3. [Guidelines for Legal Requests of User Data](/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 Guidelines for Legal Requests of User Data
 ==========

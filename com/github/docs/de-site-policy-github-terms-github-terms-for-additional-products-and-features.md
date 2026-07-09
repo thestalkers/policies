@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 
 GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen
 ==========

@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+1. [Política do site](/pt/site-policy)
+2. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
 
 Políticas de Uso Aceitável
 ==========

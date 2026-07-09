@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+1. [Política do site](/pt/site-policy)
+2. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+3. [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 Contestação e reintegração do GitHub
 ==========

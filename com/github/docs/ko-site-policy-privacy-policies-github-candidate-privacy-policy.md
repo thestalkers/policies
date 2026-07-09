@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [개인정보보호정책](/ko/site-policy/privacy-policies)/
-* [지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [개인정보보호정책](/ko/site-policy/privacy-policies)
+3. [지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지
 ==========

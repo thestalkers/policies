@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика компании #REF!](/ru/site-policy/github-company-policies)/
-* [Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика компании #REF!](/ru/site-policy/github-company-policies)
+3. [Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 Обязательство сотрудничества с GitHub GPL
 ==========

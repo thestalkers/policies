@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики безопасности](/ru/site-policy/security-policies)/
-* [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+1. [Политика сайта](/ru/site-policy)
+2. [Политики безопасности](/ru/site-policy/security-policies)
+3. [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 Программа GitHub Bug Bounty Legal Safe Harbour
 ==========

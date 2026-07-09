@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [进行人肉搜索和侵犯隐私](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+1. [站点政策](/zh/site-policy)
+2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+3. [进行人肉搜索和侵犯隐私](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 在 GitHub 上进行人肉搜索和侵犯隐私
 ==========

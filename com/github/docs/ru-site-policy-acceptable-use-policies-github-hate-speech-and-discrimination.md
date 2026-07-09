@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Разжигание ненависти и дискриминация](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+3. [Разжигание ненависти и дискриминация](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 Разжигание ненависти и дискриминация на GitHub
 ==========

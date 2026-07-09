@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)/
-* [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+3. [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
 
 GitHub-Markenrichtlinie
 ==========

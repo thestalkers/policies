@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [가장 행위](/ko/site-policy/acceptable-use-policies/github-impersonation)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [가장 행위](/ko/site-policy/acceptable-use-policies/github-impersonation)
 
 GitHub 가장 행위 금지 방침
 ==========

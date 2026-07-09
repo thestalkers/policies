@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Intimidación y Acoso](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+1. [Política del sitio](/es/site-policy)
+2. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
+3. [Intimidación y Acoso](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 Intimidación y acoso de GitHub
 ==========

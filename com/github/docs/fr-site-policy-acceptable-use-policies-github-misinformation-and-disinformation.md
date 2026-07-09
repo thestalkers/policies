@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Stratégie de désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+1. [Politique du site](/fr/site-policy)
+2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+3. [Stratégie de désinformation](/fr/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 Désinformation et désinformation GitHub
 ==========

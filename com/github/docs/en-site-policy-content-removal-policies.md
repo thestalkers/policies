@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [Content Removal Policies](/en/site-policy/content-removal-policies)
+1. [Site policy](/en/site-policy)
+2. [Content Removal Policies](/en/site-policy/content-removal-policies)
 
 Content Removal Policies
 ==========

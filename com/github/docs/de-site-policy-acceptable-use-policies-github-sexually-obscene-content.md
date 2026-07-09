@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [Sexuell obszöne Inhalte](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. [Sexuell obszöne Inhalte](/de/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub Sexuell obszöner Inhalt
 ==========

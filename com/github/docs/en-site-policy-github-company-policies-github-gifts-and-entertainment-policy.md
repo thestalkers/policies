@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [GitHub Company Policies](/en/site-policy/github-company-policies)/
-* [GitHub Gifts and Entertainment Policy](/en/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+1. [Site policy](/en/site-policy)
+2. [GitHub Company Policies](/en/site-policy/github-company-policies)
+3. [GitHub Gifts and Entertainment Policy](/en/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub Gifts and Entertainment Policy
 ==========

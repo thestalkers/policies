@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Sicherheitsrichtlinien](/de/site-policy/security-policies)/
-* [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
+3. [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Koordinierte Offenlegung von Sicherheitslücken
 ==========

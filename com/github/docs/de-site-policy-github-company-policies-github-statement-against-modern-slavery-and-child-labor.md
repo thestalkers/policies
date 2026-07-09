@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
-* [GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+3. [GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
 GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [보안 정책](/ko/site-policy/security-policies)/
-* [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+1. [사이트 정책](/ko/site-policy)
+2. [보안 정책](/ko/site-policy/security-policies)
+3. [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 조정된 보안 취약점 공개
 ==========

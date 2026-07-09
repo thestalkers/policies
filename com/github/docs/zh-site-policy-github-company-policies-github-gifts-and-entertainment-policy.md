@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 公司政策](/zh/site-policy/github-company-policies)/
-* [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+1. [站点政策](/zh/site-policy)
+2. [GitHub 公司政策](/zh/site-policy/github-company-policies)
+3. [GitHub 礼品和招待政策](/zh/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub 礼品和招待政策
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
 
 Vereinbarung für registrierte GitHub-Entwickler
 ==========

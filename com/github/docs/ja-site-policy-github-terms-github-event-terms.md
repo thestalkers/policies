@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
+1. [サイト ポリシー](/ja/site-policy)
+2. [GitHub 条件](/ja/site-policy/github-terms)
+3. [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
 
 GitHub イベント条件
 ==========

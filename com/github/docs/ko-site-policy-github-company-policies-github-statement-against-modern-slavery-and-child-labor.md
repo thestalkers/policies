@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 회사 정책](/ko/site-policy/github-company-policies)/
-* [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
+3. [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
 현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서
 ==========

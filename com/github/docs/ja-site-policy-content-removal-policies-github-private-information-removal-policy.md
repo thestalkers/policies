@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+1. [サイト ポリシー](/ja/site-policy)
+2. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+3. [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 GitHub の個人情報削除ポリシー
 ==========

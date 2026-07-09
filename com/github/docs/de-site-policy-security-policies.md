@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Sicherheitsrichtlinien](/de/site-policy/security-policies)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
 
 Sicherheitsrichtlinien
 ==========

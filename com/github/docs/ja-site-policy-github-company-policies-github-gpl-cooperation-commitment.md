@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)/
-* [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+1. [サイト ポリシー](/ja/site-policy)
+2. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
+3. [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 GitHub の GPL Cooperation Commitment
 ==========

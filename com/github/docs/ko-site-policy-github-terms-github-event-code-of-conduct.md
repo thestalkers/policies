@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 약관](/ko/site-policy/github-terms)
+3. [GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
 
 GitHub 이벤트 준수 사항
 ==========

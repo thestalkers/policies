@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)/
-* [Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy)
+1. [Politique du site](/fr/site-policy)
+2. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
+3. [Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy)
 
 Politique de retrait DMCA
 ==========

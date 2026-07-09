@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [隐私政策](/zh/site-policy/privacy-policies)
+1. [站点政策](/zh/site-policy)
+2. [隐私政策](/zh/site-policy/privacy-policies)
 
 隐私政策
 ==========

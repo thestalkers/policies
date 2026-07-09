@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)/
-* [Vazamento e invasão de privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+1. [Política do site](/pt/site-policy)
+2. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+3. [Vazamento e invasão de privacidade](/pt/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub Doxxing e invasão de privacidade
 ==========

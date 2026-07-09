@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de seguridad](/es/site-policy/security-policies)/
-* [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+1. [Política del sitio](/es/site-policy)
+2. [Políticas de seguridad](/es/site-policy/security-policies)
+3. [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 Programa de recompensas por errores de GitHub Puerto seguro legal
 ==========

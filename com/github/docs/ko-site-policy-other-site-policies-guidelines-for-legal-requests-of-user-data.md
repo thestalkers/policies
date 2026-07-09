@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
-* [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+1. [사이트 정책](/ko/site-policy)
+2. [다른 사이트 정책](/ko/site-policy/other-site-policies)
+3. [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 법적 사용자 데이터 요청을 위한 가이드라인
 ==========

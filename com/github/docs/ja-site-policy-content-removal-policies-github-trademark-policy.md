@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
+1. [サイト ポリシー](/ja/site-policy)
+2. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+3. [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
 
 GitHub の商標ポリシー
 ==========

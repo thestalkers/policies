@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [内容删除政策](/zh/site-policy/content-removal-policies)/
-* [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
+1. [站点政策](/zh/site-policy)
+2. [内容删除政策](/zh/site-policy/content-removal-policies)
+3. [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 提交内容删除请求
 ==========

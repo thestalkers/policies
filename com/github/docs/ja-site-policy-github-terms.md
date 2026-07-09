@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)
+1. [サイト ポリシー](/ja/site-policy)
+2. [GitHub 条件](/ja/site-policy/github-terms)
 
 GitHub 条件
 ==========

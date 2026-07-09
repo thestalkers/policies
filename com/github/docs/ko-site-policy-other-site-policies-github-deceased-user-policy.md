@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
-* [GitHub 사망 사용자 정책](/ko/site-policy/other-site-policies/github-deceased-user-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [다른 사이트 정책](/ko/site-policy/other-site-policies)
+3. [GitHub 사망 사용자 정책](/ko/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub 사망 사용자 정책
 ==========

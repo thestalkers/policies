@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)/
-* [Discours de haine et discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+1. [Politique du site](/fr/site-policy)
+2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+3. [Discours de haine et discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
 GitHub Discours de haine et discrimination
 ==========

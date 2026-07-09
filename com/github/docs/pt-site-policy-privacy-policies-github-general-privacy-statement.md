@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de Privacidade](/pt/site-policy/privacy-policies)/
-* [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement)
+1. [Política do site](/pt/site-policy)
+2. [Políticas de Privacidade](/pt/site-policy/privacy-policies)
+3. [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement)
 
 Declaração Geral de Privacidade do GitHub
 ==========

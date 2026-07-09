@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Политика в отношении дезинформации](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+3. [Политика в отношении дезинформации](/ru/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 Неправильная информация и дезинформация на GitHub
 ==========

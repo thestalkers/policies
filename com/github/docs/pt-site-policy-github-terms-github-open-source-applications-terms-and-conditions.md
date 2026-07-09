@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+1. [Política do site](/pt/site-policy)
+2. [Termos do GitHub](/pt/site-policy/github-terms)
+3. [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 Termos e condições de aplicativos de código aberto do GitHub
 ==========

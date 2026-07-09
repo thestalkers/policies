@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub 오픈 소스 애플리케이션 계약조건](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 약관](/ko/site-policy/github-terms)
+3. [GitHub 오픈 소스 애플리케이션 계약조건](/ko/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub 오픈 소스 애플리케이션 계약조건
 ==========

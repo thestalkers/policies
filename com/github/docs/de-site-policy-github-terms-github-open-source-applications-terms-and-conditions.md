@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen](/de/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen
 ==========

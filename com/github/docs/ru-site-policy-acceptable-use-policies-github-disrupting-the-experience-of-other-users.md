@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Помехи работе других пользователей](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+3. [Помехи работе других пользователей](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 GitHub мешает работе других пользователей
 ==========

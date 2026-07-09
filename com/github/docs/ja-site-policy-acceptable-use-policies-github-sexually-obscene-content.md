@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [わいせつなコンテンツ](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+1. [サイト ポリシー](/ja/site-policy)
+2. [利用規約](/ja/site-policy/acceptable-use-policies)
+3. [わいせつなコンテンツ](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub のわいせつなコンテンツ
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [Bedingungen des GitHub-Forschungsprogramms](/de/site-policy/github-terms/github-research-program-terms)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [Bedingungen des GitHub-Forschungsprogramms](/de/site-policy/github-terms/github-research-program-terms)
 
 Bedingungen des GitHub-Forschungsprogramms
 ==========

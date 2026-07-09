@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)/
-* [Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
+1. [Política del sitio](/es/site-policy)
+2. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
+3. [Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
 
 Declaración contra el soborno de GitHub
 ==========

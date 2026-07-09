@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
-* [GitHub 정부 게시 중단 정책](/ko/site-policy/other-site-policies/github-government-takedown-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [다른 사이트 정책](/ko/site-policy/other-site-policies)
+3. [GitHub 정부 게시 중단 정책](/ko/site-policy/other-site-policies/github-government-takedown-policy)
 
 GitHub 정부 게시 중단 정책
 ==========

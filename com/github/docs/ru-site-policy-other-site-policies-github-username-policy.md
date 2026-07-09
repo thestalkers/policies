@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Другие правила сайта](/ru/site-policy/other-site-policies)/
-* [Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
+1. [Политика сайта](/ru/site-policy)
+2. [Другие правила сайта](/ru/site-policy/other-site-policies)
+3. [Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
 
 Политика имени пользователя GitHub
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+1. [サイト ポリシー](/ja/site-policy)
+2. [利用規約](/ja/site-policy/acceptable-use-policies)
+3. [いじめまたは嫌がらせ](/ja/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub のいじめまたは嫌がらせ
 ==========

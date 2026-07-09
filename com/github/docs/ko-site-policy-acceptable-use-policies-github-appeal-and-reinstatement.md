@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [GitHub 이의 제기 및 복원](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [GitHub 이의 제기 및 복원](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 GitHub 이의 제기 및 복원
 ==========

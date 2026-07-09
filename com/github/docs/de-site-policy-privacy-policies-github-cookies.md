@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Datenschutzrichtlinien](/de/site-policy/privacy-policies)/
-* [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+3. [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
 
 GitHub-Cookies
 ==========

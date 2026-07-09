@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [其他站点政策](/zh/site-policy/other-site-policies)/
-* [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+1. [站点政策](/zh/site-policy)
+2. [其他站点政策](/zh/site-policy/other-site-policies)
+3. [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 用户数据法律请求准则
 ==========

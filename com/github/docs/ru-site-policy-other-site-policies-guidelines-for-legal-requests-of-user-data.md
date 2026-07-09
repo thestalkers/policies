@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Другие правила сайта](/ru/site-policy/other-site-policies)/
-* [Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+1. [Политика сайта](/ru/site-policy)
+2. [Другие правила сайта](/ru/site-policy/other-site-policies)
+3. [Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 Руководство по юридическим запросам пользовательских данных
 ==========

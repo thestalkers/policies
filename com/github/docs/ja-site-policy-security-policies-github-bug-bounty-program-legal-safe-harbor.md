@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [セキュリティ ポリシー](/ja/site-policy/security-policies)/
-* [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+1. [サイト ポリシー](/ja/site-policy)
+2. [セキュリティ ポリシー](/ja/site-policy/security-policies)
+3. [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub バグ報奨金プログラムの法的免責事項
 ==========

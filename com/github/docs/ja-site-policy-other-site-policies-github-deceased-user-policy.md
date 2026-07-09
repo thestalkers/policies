@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
-* [GitHub の死亡ユーザー ポリシー](/ja/site-policy/other-site-policies/github-deceased-user-policy)
+1. [サイト ポリシー](/ja/site-policy)
+2. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+3. [GitHub の死亡ユーザー ポリシー](/ja/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub の死亡ユーザー ポリシー
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+1. [站点政策](/zh/site-policy)
+2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+3. [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 GitHub 申诉和恢复
 ==========

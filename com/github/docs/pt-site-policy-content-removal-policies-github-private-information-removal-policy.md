@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)/
-* [Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
+1. [Política do site](/pt/site-policy)
+2. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
+3. [Política de remoção de informações privadas do GitHub](/pt/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 Política de remoção de informações privadas do GitHub
 ==========

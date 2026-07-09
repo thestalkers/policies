@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
-* [GitHub と貿易管理](/ja/site-policy/other-site-policies/github-and-trade-controls)
+1. [サイト ポリシー](/ja/site-policy)
+2. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+3. [GitHub と貿易管理](/ja/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub と貿易管理
 ==========

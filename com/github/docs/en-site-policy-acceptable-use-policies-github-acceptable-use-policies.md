@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)/
-* [GitHub Acceptable Use Policies](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+1. [Site policy](/en/site-policy)
+2. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
+3. [GitHub Acceptable Use Policies](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 GitHub Acceptable Use Policies
 ==========

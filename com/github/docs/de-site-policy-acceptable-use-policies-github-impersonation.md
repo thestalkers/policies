@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. [Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
 
 GitHub-Identitätswechsel
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [허위 정보 정책](/ko/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [허위 정보 정책](/ko/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 GitHub 잘못된 정보 및 허위 정보 방침
 ==========

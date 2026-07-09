@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/
-* [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
+3. [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)
 
 DMCA 게시 중단 정책
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Условия GitHub](/ru/site-policy/github-terms)/
-* [Корпоративные условия обслуживания GitHub](/ru/site-policy/github-terms/github-corporate-terms-of-service)
+1. [Политика сайта](/ru/site-policy)
+2. [Условия GitHub](/ru/site-policy/github-terms)
+3. [Корпоративные условия обслуживания GitHub](/ru/site-policy/github-terms/github-corporate-terms-of-service)
 
 Корпоративные условия обслуживания GitHub
 ==========

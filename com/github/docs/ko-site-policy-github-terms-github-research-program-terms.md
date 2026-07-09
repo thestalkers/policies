@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub Research 프로그램 약관](/ko/site-policy/github-terms/github-research-program-terms)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 약관](/ko/site-policy/github-terms)
+3. [GitHub Research 프로그램 약관](/ko/site-policy/github-terms/github-research-program-terms)
 
 GitHub Research 프로그램 약관
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Termos do GitHub](/pt/site-policy/github-terms)/
-* [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
+1. [Política do site](/pt/site-policy)
+2. [Termos do GitHub](/pt/site-policy/github-terms)
+3. [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
 
 Código de conduta do evento GitHub
 ==========

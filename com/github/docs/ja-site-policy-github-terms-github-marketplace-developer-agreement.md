@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [GitHub 条件](/ja/site-policy/github-terms)/
-* [GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
+1. [サイト ポリシー](/ja/site-policy)
+2. [GitHub 条件](/ja/site-policy/github-terms)
+3. [GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement)
 
 GitHub Marketplace 開発者契約
 ==========

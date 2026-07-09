@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [模拟](/zh/site-policy/acceptable-use-policies/github-impersonation)
+1. [站点政策](/zh/site-policy)
+2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+3. [模拟](/zh/site-policy/acceptable-use-policies/github-impersonation)
 
 在 GitHub 上冒充他人
 ==========

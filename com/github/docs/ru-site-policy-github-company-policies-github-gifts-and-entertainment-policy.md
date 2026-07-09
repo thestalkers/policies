@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика компании #REF!](/ru/site-policy/github-company-policies)/
-* [Политика GitHub в отношении подарков и развлечений](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика компании #REF!](/ru/site-policy/github-company-policies)
+3. [Политика GitHub в отношении подарков и развлечений](/ru/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 Политика GitHub в отношении подарков и развлечений
 ==========

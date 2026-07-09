@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [其他站点政策](/zh/site-policy/other-site-policies)/
-* [GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
+1. [站点政策](/zh/site-policy)
+2. [其他站点政策](/zh/site-policy/other-site-policies)
+3. [GitHub 已故用户政策](/zh/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub 已故用户政策
 ==========

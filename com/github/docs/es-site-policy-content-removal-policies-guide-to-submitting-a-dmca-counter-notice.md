@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)/
-* [Guía para enviar una contranotificación de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+1. [Política del sitio](/es/site-policy)
+2. [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
+3. [Guía para enviar una contranotificación de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
 Guía para enviar una contranotificación de DMCA
 ==========

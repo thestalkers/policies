@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+1. [サイト ポリシー](/ja/site-policy)
+2. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+3. [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 コンテンツ削除要求の提出
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)/
-* [GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)
+1. [사이트 정책](/ko/site-policy)
+2. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
+3. [GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)
 
 GitHub 상표 정책
 ==========

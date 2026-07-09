@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [可接受使用政策](/zh/site-policy/acceptable-use-policies)/
-* [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+1. [站点政策](/zh/site-policy)
+2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+3. [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 在 GitHub 上扰乱其他用户的体验
 ==========

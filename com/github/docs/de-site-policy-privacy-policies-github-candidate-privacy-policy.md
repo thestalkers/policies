@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Datenschutzrichtlinien](/de/site-policy/privacy-policies)/
-* [GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+3. [GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 GitHub: Globaler Datenschutzhinweis für Kandidaten
 ==========

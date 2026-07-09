@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Autres politiques du site](/fr/site-policy/other-site-policies)
+1. [Politique du site](/fr/site-policy)
+2. [Autres politiques du site](/fr/site-policy/other-site-policies)
 
 Autres politiques du site
 ==========

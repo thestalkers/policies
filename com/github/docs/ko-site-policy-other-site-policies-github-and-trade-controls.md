@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [다른 사이트 정책](/ko/site-policy/other-site-policies)/
-* [GitHub와 무역 통제](/ko/site-policy/other-site-policies/github-and-trade-controls)
+1. [사이트 정책](/ko/site-policy)
+2. [다른 사이트 정책](/ko/site-policy/other-site-policies)
+3. [GitHub와 무역 통제](/ko/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub와 무역 통제
 ==========

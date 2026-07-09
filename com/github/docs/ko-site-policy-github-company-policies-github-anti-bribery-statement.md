@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 회사 정책](/ko/site-policy/github-company-policies)/
-* [GitHub 뇌물 방지 방침](/ko/site-policy/github-company-policies/github-anti-bribery-statement)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
+3. [GitHub 뇌물 방지 방침](/ko/site-policy/github-company-policies/github-anti-bribery-statement)
 
 GitHub 뇌물 방지 방침
 ==========

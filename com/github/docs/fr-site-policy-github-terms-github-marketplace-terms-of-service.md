@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
+1. [Politique du site](/fr/site-policy)
+2. [Termes GitHub](/fr/site-policy/github-terms)
+3. [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
 
 Conditions d'utilisation de la place de marché GitHub
 ==========

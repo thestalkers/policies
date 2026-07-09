@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)/
-* [GitHub-Erklärung zur Bestechungsbekämpfung](/de/site-policy/github-company-policies/github-anti-bribery-statement)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+3. [GitHub-Erklärung zur Bestechungsbekämpfung](/de/site-policy/github-company-policies/github-anti-bribery-statement)
 
 GitHub-Erklärung zur Bestechungsbekämpfung
 ==========

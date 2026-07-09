@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [GitHub-Bedingungen](/de/site-policy/github-terms)/
-* [GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
+1. [Websiterichtlinie](/de/site-policy)
+2. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. [GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
 
 GitHub-Vertragsbedingungen für Unternehmen
 ==========

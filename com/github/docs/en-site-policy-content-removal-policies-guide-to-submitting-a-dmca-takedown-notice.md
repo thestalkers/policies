@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [Content Removal Policies](/en/site-policy/content-removal-policies)/
-* [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+1. [Site policy](/en/site-policy)
+2. [Content Removal Policies](/en/site-policy/content-removal-policies)
+3. [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Guide to Submitting a DMCA Takedown Notice
 ==========

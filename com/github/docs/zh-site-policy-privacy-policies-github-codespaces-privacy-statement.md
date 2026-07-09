@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [隐私政策](/zh/site-policy/privacy-policies)/
-* [GitHub 一般隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)
+1. [站点政策](/zh/site-policy)
+2. [隐私政策](/zh/site-policy/privacy-policies)
+3. [GitHub 一般隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)
 
 GitHub 一般隐私声明
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [GitHub Terms](/en/site-policy/github-terms)/
-* [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
+1. [Site policy](/en/site-policy)
+2. [GitHub Terms](/en/site-policy/github-terms)
+3. [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
 
 GitHub Community Code of Conduct
 ==========

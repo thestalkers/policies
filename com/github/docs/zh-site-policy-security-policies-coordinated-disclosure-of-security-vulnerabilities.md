@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [安全政策](/zh/site-policy/security-policies)/
-* [协调披露安全漏洞](/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+1. [站点政策](/zh/site-policy)
+2. [安全政策](/zh/site-policy/security-policies)
+3. [协调披露安全漏洞](/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 协调披露安全漏洞
 ==========

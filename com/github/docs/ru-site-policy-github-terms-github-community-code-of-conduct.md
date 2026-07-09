@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Условия GitHub](/ru/site-policy/github-terms)/
-* [Правила поведения в сообществе GitHub](/ru/site-policy/github-terms/github-community-code-of-conduct)
+1. [Политика сайта](/ru/site-policy)
+2. [Условия GitHub](/ru/site-policy/github-terms)
+3. [Правила поведения в сообществе GitHub](/ru/site-policy/github-terms/github-community-code-of-conduct)
 
 Правила поведения в сообществе GitHub
 ==========

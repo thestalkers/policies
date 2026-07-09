@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
-* [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+1. [Политика сайта](/ru/site-policy)
+2. [Политики удаления контента](/ru/site-policy/content-removal-policies)
+3. [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Руководство по подаче уведомления об удалении DMCA
 ==========

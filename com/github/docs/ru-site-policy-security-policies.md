@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики безопасности](/ru/site-policy/security-policies)
+1. [Политика сайта](/ru/site-policy)
+2. [Политики безопасности](/ru/site-policy/security-policies)
 
 Политики безопасности
 ==========

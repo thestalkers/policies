@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Términos de GitHub](/es/site-policy/github-terms)/
-* [Acuerdo para desarrolladores del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-developer-agreement)
+1. [Política del sitio](/es/site-policy)
+2. [Términos de GitHub](/es/site-policy/github-terms)
+3. [Acuerdo para desarrolladores del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-developer-agreement)
 
 Acuerdo para desarrolladores del Mercado GitHub
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 GitHub-Einspruch und Wiedereinsetzung
 ==========

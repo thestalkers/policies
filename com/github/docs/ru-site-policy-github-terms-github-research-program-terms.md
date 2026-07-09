@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Условия GitHub](/ru/site-policy/github-terms)/
-* [Условия исследовательской программы GitHub](/ru/site-policy/github-terms/github-research-program-terms)
+1. [Политика сайта](/ru/site-policy)
+2. [Условия GitHub](/ru/site-policy/github-terms)
+3. [Условия исследовательской программы GitHub](/ru/site-policy/github-terms/github-research-program-terms)
 
 Условия исследовательской программы GitHub
 ==========

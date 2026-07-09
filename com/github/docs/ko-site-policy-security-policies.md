@@ -25,8 +25,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [보안 정책](/ko/site-policy/security-policies)
+1. [사이트 정책](/ko/site-policy)
+2. [보안 정책](/ko/site-policy/security-policies)
 
 보안 정책
 ==========

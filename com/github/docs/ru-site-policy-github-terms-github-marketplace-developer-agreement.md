@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Условия GitHub](/ru/site-policy/github-terms)/
-* [Соглашение с разработчиком GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-developer-agreement)
+1. [Политика сайта](/ru/site-policy)
+2. [Условия GitHub](/ru/site-policy/github-terms)
+3. [Соглашение с разработчиком GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-developer-agreement)
 
 Соглашение с разработчиком GitHub Marketplace
 ==========

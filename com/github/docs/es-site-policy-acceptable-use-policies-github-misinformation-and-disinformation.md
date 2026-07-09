@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/es/site-policy)
 ----------
 
-* [Política del sitio](/es/site-policy)/
-* [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)/
-* [Directiva de desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+1. [Política del sitio](/es/site-policy)
+2. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
+3. [Directiva de desinformación](/es/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
 
 Información errónea y desinformación de GitHub
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)/
-* [Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+1. [Политика сайта](/ru/site-policy)
+2. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
+3. [Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub Doxxing и вторжение в частную жизнь
 ==========

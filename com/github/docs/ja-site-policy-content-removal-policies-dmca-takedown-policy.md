@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)/
-* [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+1. [サイト ポリシー](/ja/site-policy)
+2. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+3. [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
 
 DMCA 削除ポリシー
 ==========

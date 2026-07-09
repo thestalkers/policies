@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [GitHub 약관](/ko/site-policy/github-terms)/
-* [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
+1. [사이트 정책](/ko/site-policy)
+2. [GitHub 약관](/ko/site-policy/github-terms)
+3. [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
 
 GitHub Sponsors 추가 약관
 ==========

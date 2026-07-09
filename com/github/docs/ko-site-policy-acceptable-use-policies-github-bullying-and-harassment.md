@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [따돌림 및 괴롭힘 방지 정책](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [따돌림 및 괴롭힘 방지 정책](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
 GitHub 따돌림 및 괴롭힘 방지 정책
 ==========

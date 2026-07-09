@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)/
-* [Androhung von Gewalt und gewalttätige Inhalte](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. [Androhung von Gewalt und gewalttätige Inhalte](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub Androhungen von Gewalt und unentgeltlich gewalttätigen Inhalten
 ==========

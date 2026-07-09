@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/fr/site-policy)
 ----------
 
-* [Politique du site](/fr/site-policy)/
-* [Termes GitHub](/fr/site-policy/github-terms)/
-* [Conditions supplémentaires des sponsors GitHub](/fr/site-policy/github-terms/github-sponsors-additional-terms)
+1. [Politique du site](/fr/site-policy)
+2. [Termes GitHub](/fr/site-policy/github-terms)
+3. [Conditions supplémentaires des sponsors GitHub](/fr/site-policy/github-terms/github-sponsors-additional-terms)
 
 Conditions supplémentaires des sponsors GitHub
 ==========
