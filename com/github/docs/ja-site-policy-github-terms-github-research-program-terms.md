@@ -41,7 +41,7 @@ Markdown としてコピー
 * [B. 秘密保持](#b-confidentiality)
 * [C: 権利の留保](#c-reservation-of-rights)
 * [D. プライバシー](#d-privacy)
-* [E. GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
+* [E。 GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
 * [F. 保証の免責事項](#f-disclaimer-of-warranties)
 * [G. 責任制限](#g-limitation-of-liability)
 * [H. 雑則](#h-miscellaneous)
@@ -76,9 +76,9 @@ GitHub は、本プログラムを通じてフィードバックを得る目的 
 
 本プログラムに参加することにより、お客様は、当社がリサーチ目的にのみお客様の個人情報を使用し、それ以外の目的には使用しないことに同意するものとします。 本プログラムの一環として、当社はお客様への連絡のためにお客様の個人情報を使用し、後日の連絡のためのお客様の情報を保管することができます。 個人情報には、個人を特定できない集計情報は含まれません。 GitHub は、当社の製品およびサービスを運用、分析、改善するためにプログラムを通じて収集された、個人を特定できない集計情報または他の個人を特定できな情報を使用することができます。
 
-お客様は、いつでも同意を撤回したり、当社がお客様に関して保持している個人情報へのアクセスまたは削除を要求したりすることができます。 GitHub が本プログラムを通じて収集する個人情報へのアクセス、更新、変更、削除方法については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)をご覧いただくか、[プライバシーに関する連絡フォーム](https://github.com/contact/privacy)から当社までご連絡ください。
+お客様は、いつでも同意を撤回したり、当社がお客様に関して保持している個人情報へのアクセスまたは削除を要求したりすることができます。 GitHub が本プログラムを通じて収集する個人情報へのアクセス、更新、変更、削除方法については、[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-general-privacy-statement)をご覧いただくか、[プライバシーに関する連絡フォーム](https://github.com/contact/privacy)から当社までご連絡ください。
 
-[E. GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
+[E。 GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
 ----------
 
 プログラムの特定の調査や活動への参加のために GitHub のサービスまたはソフトウェアへのアクセスが必要となった場合、それらの製品の使用には該当するサービスまたはソフトウェア契約が適用されます (以下「一般適用条項」といいます)。 本契約と一般適用条項との間に直接的な矛盾がある場合、一般適用条項が優先されます。ただし、(以下に定義する) 機密情報の使用に関しては、本契約が優先されます。
