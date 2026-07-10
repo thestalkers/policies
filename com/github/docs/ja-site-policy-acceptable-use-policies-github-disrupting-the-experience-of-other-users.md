@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [利用規約](/ja/site-policy/acceptable-use-policies)/
-* [他のユーザー エクスペリエンスの妨害](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+1. [サイト ポリシー](/ja/site-policy)
+2. [利用規約](/ja/site-policy/acceptable-use-policies)
+3. [他のユーザー エクスペリエンスの妨害](/ja/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 GitHub での他のユーザー エクスペリエンスの妨害
 ==========

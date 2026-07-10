@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [その他のサイト ポリシー](/ja/site-policy/other-site-policies)/
-* [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+1. [サイト ポリシー](/ja/site-policy)
+2. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+3. [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========

@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [GitHub Terms](/en/site-policy/github-terms)/
-* [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
+1. [Site policy](/en/site-policy)
+2. [GitHub Terms](/en/site-policy/github-terms)
+3. [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
 
 GitHub Terms of Service
 ==========
@@ -399,7 +399,7 @@ You are responsible for all fees, including taxes, associated with your use of t
 
 ### [1. Account Cancellation](#1-account-cancellation) ###
 
-It is your responsibility to properly cancel your Account with GitHub. You can [cancel your Account at any time](/en/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
+It is your responsibility to properly cancel your Account with GitHub. You can [cancel your Account at any time](/en/billing/how-tos/manage-plan-and-licenses/downgrade-plan) by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel Accounts in response to an email or phone request.
 
 ### [2. Upon Cancellation](#2-upon-cancellation) ###
 

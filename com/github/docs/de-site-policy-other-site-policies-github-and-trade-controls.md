@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/de/site-policy)
 ----------
 
-* [Websiterichtlinie](/de/site-policy)/
-* [Andere Website-Richtlinien](/de/site-policy/other-site-policies)/
-* [GitHub und Handelskontrollen](/de/site-policy/other-site-policies/github-and-trade-controls)
+1. [Websiterichtlinie](/de/site-policy)
+2. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
+3. [GitHub und Handelskontrollen](/de/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub und Handelskontrollen
 ==========

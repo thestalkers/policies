@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ja/site-policy)
 ----------
 
-* [サイト ポリシー](/ja/site-policy)/
-* [セキュリティ ポリシー](/ja/site-policy/security-policies)/
-* [セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+1. [サイト ポリシー](/ja/site-policy)
+2. [セキュリティ ポリシー](/ja/site-policy/security-policies)
+3. [セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 セキュリティ脆弱性の協調的開示
 ==========

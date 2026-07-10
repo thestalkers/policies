@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики удаления контента](/ru/site-policy/content-removal-policies)/
-* [Отправка запросов на удаление содержимого](/ru/site-policy/content-removal-policies/submitting-content-removal-requests)
+1. [Политика сайта](/ru/site-policy)
+2. [Политики удаления контента](/ru/site-policy/content-removal-policies)
+3. [Отправка запросов на удаление содержимого](/ru/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 Отправка запросов на удаление содержимого
 ==========

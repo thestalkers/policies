@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/en/site-policy)
 ----------
 
-* [Site policy](/en/site-policy)/
-* [GitHub Terms](/en/site-policy/github-terms)/
-* [GitHub Registered Developer Agreement](/en/site-policy/github-terms/github-registered-developer-agreement)
+1. [Site policy](/en/site-policy)
+2. [GitHub Terms](/en/site-policy/github-terms)
+3. [GitHub Registered Developer Agreement](/en/site-policy/github-terms/github-registered-developer-agreement)
 
 GitHub Registered Developer Agreement
 ==========
@@ -44,7 +44,7 @@ This Agreement is a legal agreement between you (“you”) and GitHub, Inc. (�
 
 2. **Program Terms**
 
-   We post the [Program’s benefits and guidelines](/en/get-started/exploring-integrations/github-developer-program) (the “Program Overview”). As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 9.
+   We post the [Program’s benefits and guidelines](/en/integrations/concepts/github-developer-program) (the “Program Overview”). As you might expect, the Program Overview will change from time to time. These changes will apply to you as a participant in the Program, so we encourage you to periodically review the Program Overview to keep apprised of any changes. For a variety of reasons, we might need to change, suspend, or discontinue the Program, or some of the benefits we offer. You agree that we can do those things without liability to you, except as specified in Section 9.
 
 3. **API License**
 

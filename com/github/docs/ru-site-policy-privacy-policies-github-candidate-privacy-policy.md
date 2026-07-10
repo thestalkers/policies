@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ru/site-policy)
 ----------
 
-* [Политика сайта](/ru/site-policy)/
-* [Политики конфиденциальности](/ru/site-policy/privacy-policies)/
-* [Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
+1. [Политика сайта](/ru/site-policy)
+2. [Политики конфиденциальности](/ru/site-policy/privacy-policies)
+3. [Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub
 ==========

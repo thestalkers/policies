@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/ko/site-policy)
 ----------
 
-* [사이트 정책](/ko/site-policy)/
-* [사용 제한 정책](/ko/site-policy/acceptable-use-policies)/
-* [폭력의 위협 및 불필요하게 폭력적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+1. [사이트 정책](/ko/site-policy)
+2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+3. [폭력의 위협 및 불필요하게 폭력적인 콘텐츠](/ko/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠
 ==========

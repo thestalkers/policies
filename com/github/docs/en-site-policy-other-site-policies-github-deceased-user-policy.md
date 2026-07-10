@@ -36,7 +36,7 @@ Copy as Markdown
 
 In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 
-If you are next of kin, a [pre-designated successor](/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:
+If you are next of kin, a [pre-designated successor](/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/maintaining-ownership-continuity-of-your-personal-accounts-repositories), or other authorized individual (which could include a collaborator or business partner) of a deceased user and would like to make a request regarding their account, you can reach out to us through the [GitHub Support portal](https://support.github.com/). In the portal, click **Contact us**, and provide the following information in your message:
 
 * Name
 * Contact Information
@@ -48,4 +48,4 @@ If you are next of kin, a [pre-designated successor](/en/account-and-profile/set
 
 Once we have received your request, we may follow up with a request for additional information, such as a copy of your photo identification, copy of the death certificate, and documentation confirming you are authorized to act in relation to the deceased user’s account, to verify that we are properly authorized to process your request.
 
-Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/en/site-policy/privacy-policies/github-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.
+Please note, the information you provide in your request is collected in accordance with our [Privacy Statement](/en/site-policy/privacy-policies/github-general-privacy-statement), and we will retain the information only as necessary to comply with our legal obligations and resolve disputes.

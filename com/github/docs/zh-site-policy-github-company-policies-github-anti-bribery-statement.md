@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/zh/site-policy)
 ----------
 
-* [站点政策](/zh/site-policy)/
-* [GitHub 公司政策](/zh/site-policy/github-company-policies)/
-* [GitHub 反贿赂声明](/zh/site-policy/github-company-policies/github-anti-bribery-statement)
+1. [站点政策](/zh/site-policy)
+2. [GitHub 公司政策](/zh/site-policy/github-company-policies)
+3. [GitHub 反贿赂声明](/zh/site-policy/github-company-policies/github-anti-bribery-statement)
 
 GitHub 反贿赂声明
 ==========

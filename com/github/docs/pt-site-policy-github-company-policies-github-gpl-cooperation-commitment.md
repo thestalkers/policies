@@ -25,9 +25,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 [Site policy](/pt/site-policy)
 ----------
 
-* [Política do site](/pt/site-policy)/
-* [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)/
-* [Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+1. [Política do site](/pt/site-policy)
+2. [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
+3. [Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 Compromisso de Cooperação GitHub GPL
 ==========
