@@ -72,7 +72,7 @@ GitHub、GitHub Desktop、GitHub for Mac、GitHub for Windows、Octocat、およ
 [プライバシー](#privacy)
 ----------
 
-本ソフトウェアは、個人情報を収集する場合があります。 お客様は、本ソフトウェアが収集する情報を設定パネルで管理できます。 本ソフトウェアが GitHub に代わって個人情報を収集する場合、GitHub はその情報を[「GitHub のプライバシーに関する声明」](/ja/site-policy/privacy-policies/github-privacy-statement)に従って処理します。
+本ソフトウェアは、個人情報を収集する場合があります。 お客様は、本ソフトウェアが収集する情報を設定パネルで管理できます。 本ソフトウェアが GitHub に代わって個人情報を収集する場合、GitHub はその情報を[「GitHub のプライバシーに関する声明」](/ja/site-policy/privacy-policies/github-general-privacy-statement)に従って処理します。
 
 [追加サービス](#additional-services)
 ----------
