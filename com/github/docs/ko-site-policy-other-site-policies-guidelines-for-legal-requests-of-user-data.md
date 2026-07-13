@@ -95,7 +95,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
   리포지토리에는 문서를 포함한 모든 프로젝트 파일이 포함되며, 각 파일의 수정 기록이 저장됩니다.
   리포지토리에는 여러 협업이 있을 수 있으며, 관리자의 재량에 따라 공개적으로 볼 수 있거나 없을 수 있습니다.
 
-* [**페이지**](/ko/pages/getting-started-with-github-pages/about-github-pages): GitHub 페이지는 리포지토리에 저장된 코드를 통해 사용자가 쉽게 게시할 수 있는 GitHub가 무료로 호스트하는 공용 웹 페이지입니다.
+* [**페이지**](/ko/pages/getting-started-with-github-pages/what-is-github-pages): GitHub 페이지는 리포지토리에 저장된 코드를 통해 사용자가 쉽게 게시할 수 있는 GitHub가 무료로 호스트하는 공용 웹 페이지입니다.
   사용자 또는 조직에 GitHub 페이지가 있는 경우, 일반적으로 `https://username.github.io` 같은 URL에서 찾을 수도 있고, 자체 사용자 지정 도메인 이름에 웹 페이지를 매핑할 수도 있습니다.
 
 * [**Gist**](/ko/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gist는 사용자가 아이디어를 저장하는 데 사용하거나 친구와 공유할 수 있는 소스 코드 또는 기타 텍스트의 조각입니다.
@@ -137,7 +137,7 @@ GitHub는 [Git 버전 제어 시스템](https://git-scm.com/video/what-is-versio
 
   * 사용자가 구성원인 조직(*조직 또는 사용자의 기본 설정에 따라 다름*)
 
-* <a name="private-account-data"></a>**개인 계정 데이터**: GitHub는 GitHub [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 명시된 것처럼 사용자에 대한 일부 개인 정보도 수집 및 유지합니다.
+* <a name="private-account-data"></a>**개인 계정 데이터**: GitHub는 GitHub [개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)에 명시된 것처럼 사용자에 대한 일부 개인 정보도 수집 및 유지합니다.
   여기에는 다음이 포함됩니다.
 
   * 개인 이메일 주소

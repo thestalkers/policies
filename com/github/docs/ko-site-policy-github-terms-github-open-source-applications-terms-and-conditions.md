@@ -72,7 +72,7 @@ GitHub, GitHub Desktop, Mac용 GitHub, Windows용 GitHub, Octocat 및 관련 Git
 [개인 정보 보호](#privacy)
 ----------
 
-소프트웨어는 개인 정보를 수집할 수 있습니다. 귀하는 설정 패널에서 소프트웨어가 수집하는 정보를 통제할 수 있습니다. 소프트웨어가 GitHub를 대신하여 개인 정보를 수집하는 경우, GitHub는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)에 따라 해당 정보를 처리합니다.
+소프트웨어는 개인 정보를 수집할 수 있습니다. 귀하는 설정 패널에서 소프트웨어가 수집하는 정보를 통제할 수 있습니다. 소프트웨어가 GitHub를 대신하여 개인 정보를 수집하는 경우, GitHub는 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)에 따라 해당 정보를 처리합니다.
 
 [추가 서비스](#additional-services)
 ----------

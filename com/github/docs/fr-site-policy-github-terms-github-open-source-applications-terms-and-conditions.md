@@ -72,7 +72,7 @@ Les noms GitHub, GitHub Desktop, GitHub pour Mac, GitHub pour Windows, l'Octocat
 [Confidentialité](#privacy)
 ----------
 
-Le Logiciel peut collecter des informations personnelles. Vous pouvez contrôler les informations que le logiciel collecte dans le panneau des paramètres. Si le Logiciel collecte des informations personnelles au nom de GitHub, GitHub traitera ces informations conformément à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
+Le Logiciel peut collecter des informations personnelles. Vous pouvez contrôler les informations que le logiciel collecte dans le panneau des paramètres. Si le Logiciel collecte des informations personnelles au nom de GitHub, GitHub traitera ces informations conformément à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement).
 
 [Services Supplémentaires](#additional-services)
 ----------

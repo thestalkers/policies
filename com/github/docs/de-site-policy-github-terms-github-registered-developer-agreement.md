@@ -44,7 +44,7 @@ Diese Vereinbarung ist eine rechtsgültige Vereinbarung zwischen Ihnen („Sie�
 
 2. **Programmbestimmungen**
 
-   Wir posten die [Vorteile und Richtlinien des Programms](/de/get-started/exploring-integrations/github-developer-program) (die „Programmübersicht”). Wie zu erwarten, ändert sich die Programmübersicht von Zeit zu Zeit. Diese Änderungen gelten für Sie als Teilnehmer des Programms, daher empfehlen wir Ihnen, die Programmübersicht regelmäßig zu überprüfen, um sich über Änderungen auf dem Laufenden zu halten. Aus verschiedenen Gründen müssen wir möglicherweise das Programm oder einige der von uns angebotenen Vorteile ändern, aussetzen oder einstellen. Sie stimmen zu, dass wir diese Dinge ohne Haftung Ihnen gegenüber tun können, außer wie in Abschnitt 9 angegeben.
+   Wir posten die [Vorteile und Richtlinien des Programms](/de/integrations/concepts/github-developer-program) (die „Programmübersicht”). Wie zu erwarten, ändert sich die Programmübersicht von Zeit zu Zeit. Diese Änderungen gelten für Sie als Teilnehmer des Programms, daher empfehlen wir Ihnen, die Programmübersicht regelmäßig zu überprüfen, um sich über Änderungen auf dem Laufenden zu halten. Aus verschiedenen Gründen müssen wir möglicherweise das Programm oder einige der von uns angebotenen Vorteile ändern, aussetzen oder einstellen. Sie stimmen zu, dass wir diese Dinge ohne Haftung Ihnen gegenüber tun können, außer wie in Abschnitt 9 angegeben.
 
 3. **API-Lizenz**
 

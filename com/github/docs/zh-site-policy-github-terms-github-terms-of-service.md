@@ -276,7 +276,7 @@ GitHub 和我们的许可人、供应商、代理和/或我们的内容提供者
 
 ### [2.GitHub 商标和徽标](#2-github-trademarks-and-logos) ###
 
-如果您要使用 GitHub 的商标，则必须遵守我们的所有商标准则，包括我们的徽标页面<https://github.com/logos> 上的商标准则。
+如果您要使用 GitHub 的商标，则必须遵守我们的所有商标准则，包括我们的徽标页面 <https://github.com/logos> 上的商标准则。
 
 ### [3.GitHub 政策的许可](#3-license-to-github-policies) ###
 
@@ -399,7 +399,7 @@ GitHub 不对您的输入或输出内容主张所有权。
 
 ### [1.帐户取消](#1-account-cancellation) ###
 
-您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
+您有责任以恰当的方式取消您的 GitHub 帐户。 您可以转至屏幕顶部全局导航栏的“设置”[随时取消您的帐户](/zh/billing/how-tos/manage-plan-and-licenses/downgrade-plan)。 “帐户”屏幕提供了一个简单、不会询问问题的取消链接。 我们无法通过回复电子邮件或电话申请来取消帐户。
 
 ### [2.取消后](#2-upon-cancellation) ###
 

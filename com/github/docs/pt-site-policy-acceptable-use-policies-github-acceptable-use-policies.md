@@ -137,14 +137,14 @@ Raspagem refere-se à extração de informações do nosso Serviço por meio de 
 
 Você não pode usar informações do Serviço (extraídas, coletadas por meio de nossa API ou obtidas de outra forma) para fins de spam, inclusive para envio de emails não solicitados a usuários ou para venda de informações pessoais, como para recrutadores, headhunters e quadros de empregos.
 
-O uso que você faz das informações do Serviço deve estar em conformidade com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
+O uso que você faz das informações do Serviço deve estar em conformidade com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement).
 
 [8. Privacidade](#8-privacy)
 ----------
 
 O uso indevido de informações pessoais é proibido.
 
-Qualquer pessoa, entidade ou serviço que coleta dados do Serviço deve cumprir a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement), especialmente no que diz respeito à coleta de informações pessoais. Se você coletar quaisquer informações pessoais do Serviço, você concorda que só usará essas informações pessoais para a finalidade para a qual o Usuário as autorizou. Você concorda que protegerá razoavelmente quaisquer informações pessoais que tenha coletado do Serviço e responderá prontamente a reclamações, solicitações de remoção e solicitações para "não entrar em contato" feitas por nós ou por outros usuários.
+Qualquer pessoa, entidade ou serviço que coleta dados do Serviço deve cumprir a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement), especialmente no que diz respeito à coleta de informações pessoais. Se você coletar quaisquer informações pessoais do Serviço, você concorda que só usará essas informações pessoais para a finalidade para a qual o Usuário as autorizou. Você concorda que protegerá razoavelmente quaisquer informações pessoais que tenha coletado do Serviço e responderá prontamente a reclamações, solicitações de remoção e solicitações para "não entrar em contato" feitas por nós ou por outros usuários.
 
 [9. Uso excessivo de largura de banda](#9-excessive-bandwidth-use)
 ----------

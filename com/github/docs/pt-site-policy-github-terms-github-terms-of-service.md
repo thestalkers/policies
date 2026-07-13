@@ -229,7 +229,7 @@ Esta Seção D.9 não se aplica apenas ao Acesso para fins de pesquisa acadêmic
 [E. Repositórios Privados](#e-private-repositories)
 ----------
 
-**Versão curta:** *tratamos o conteúdo de repositórios privados como confidencial e só o acessamos conforme descrito na Seção E.3 abaixo – para fins de segurança, a fim de ajudar o proprietário do repositório com uma questão de suporte, manter a integridade do Serviço, cumprir nossas obrigações legais, se tivermos motivos para acreditar que o conteúdo viola a lei ou com o seu consentimento.*
+**Versão curta:***tratamos o conteúdo de repositórios privados como confidencial e só o acessamos conforme descrito na Seção E.3 abaixo – para fins de segurança, a fim de ajudar o proprietário do repositório com uma questão de suporte, manter a integridade do Serviço, cumprir nossas obrigações legais, se tivermos motivos para acreditar que o conteúdo viola a lei ou com o seu consentimento.*
 
 ### [1. Controle de Repositórios Privados](#1-control-of-private-repositories) ###
 
@@ -399,7 +399,7 @@ Você é responsável por todas as taxas, incluindo impostos, associadas ao uso 
 
 ### [1. Cancelamento da Conta](#1-account-cancellation) ###
 
-É sua responsabilidade cancelar adequadamente sua conta no GitHub. Você pode [cancelar sua Conta a qualquer momento](/pt/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) acessando suas Configurações na barra de navegação global na parte superior da tela. A tela Conta fornece um link de cancelamento simples e sem perguntas. Não podemos cancelar Contas em resposta a uma solicitação por e-mail ou telefone.
+É sua responsabilidade cancelar adequadamente sua conta no GitHub. Você pode [cancelar sua Conta a qualquer momento](/pt/billing/how-tos/manage-plan-and-licenses/downgrade-plan) acessando suas Configurações na barra de navegação global na parte superior da tela. A tela Conta fornece um link de cancelamento simples e sem perguntas. Não podemos cancelar Contas em resposta a uma solicitação por e-mail ou telefone.
 
 ### [2. Após o Cancelamento](#2-upon-cancellation) ###
 

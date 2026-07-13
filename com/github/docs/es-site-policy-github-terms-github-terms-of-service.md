@@ -229,7 +229,7 @@ El apartado D.9 no resultará de aplicación al Acceso efectuado exclusivamente 
 [E. Repositorios privados](#e-private-repositories)
 ----------
 
-**Versión abreviada:** *el contenido de los repositorios privados se trata como confidencial y solo se accede al mismo conforme a lo dispuesto en el siguiente apartado E.3, con fines de seguridad, para asistir al propietario del repositorio en cuestiones de soporte, para preservar la integridad del Servicio, para el cumplimiento de obligaciones legales, cuando existan indicios de posible infracción legal o con su consentimiento.*
+**Versión abreviada:***el contenido de los repositorios privados se trata como confidencial y solo se accede al mismo conforme a lo dispuesto en el siguiente apartado E.3, con fines de seguridad, para asistir al propietario del repositorio en cuestiones de soporte, para preservar la integridad del Servicio, para el cumplimiento de obligaciones legales, cuando existan indicios de posible infracción legal o con su consentimiento.*
 
 ### [1. Control de Repositorios Privados](#1-control-of-private-repositories) ###
 
@@ -285,7 +285,7 @@ La licencia de este Acuerdo se concede en virtud de esta [licencia de Creative C
 [H. Términos de la API](#h-api-terms)
 ----------
 
-**Versión abreviada:** \_ usted acepta estos Términos de servicio, así como el presente apartado H, al utilizar cualquier API de GitHub (interfaz de programación de aplicaciones), incluido su uso mediante productos de terceros que accedan a GitHub.\_
+**Versión abreviada:**\_ usted acepta estos Términos de servicio, así como el presente apartado H, al utilizar cualquier API de GitHub (interfaz de programación de aplicaciones), incluido su uso mediante productos de terceros que accedan a GitHub.\_
 
 El abuso o las solicitudes excesivamente frecuentes a GitHub a través de la API pueden resultar en la suspensión temporal o permanente del acceso de su Cuenta a la API. GitHub, a nuestro exclusivo criterio, determinará el abuso o el uso excesivo de la API. Haremos un intento razonable de advertirle por correo electrónico antes de la suspensión.
 
@@ -399,7 +399,7 @@ Usted es responsable de todos los cargos, incluidos los impuestos, asociados con
 
 ### [1. Cancelación de la Cuenta](#1-account-cancellation) ###
 
-Es su responsabilidad cancelar correctamente su Cuenta con GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta proporciona un enlace de cancelación simple y sin preguntas. No podemos cancelar Cuentas en respuesta a un correo electrónico o solicitud telefónica.
+Es su responsabilidad cancelar correctamente su Cuenta con GitHub. Puede [cancelar su Cuenta en cualquier momento](/es/billing/how-tos/manage-plan-and-licenses/downgrade-plan) yendo a la sección Configuración de la barra de navegación global de la parte superior de la pantalla. La pantalla Cuenta proporciona un enlace de cancelación simple y sin preguntas. No podemos cancelar Cuentas en respuesta a un correo electrónico o solicitud telefónica.
 
 ### [2. Tras la Cancelación](#2-upon-cancellation) ###
 

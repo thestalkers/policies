@@ -137,14 +137,14 @@ GitHub 可接受使用政策
 
 不得将服务中的信息（无论是爬取、通过我们的 API 收集还是以其他方式获取）用于垃圾邮件目的，包括向用户发送未经请求的电子邮件或出售个人信息，例如向招聘人员、猎头或职介所出售此类信息。
 
-对服务信息的使用必须遵守 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
+对服务信息的使用必须遵守 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)。
 
 [8.隐私](#8-privacy)
 ----------
 
 禁止滥用个人信息。
 
-任何个人、实体或服务从服务收集数据都必须遵守 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)，特别是收集个人信息时。 如果从服务收集任何个人信息，则您同意只将该个人信息用于该用户授权的目的。 您同意将合理保护从服务收集的任何个人信息，并且及时响应投诉、删除要求和“请勿联系”要求。
+任何个人、实体或服务从服务收集数据都必须遵守 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)，特别是收集个人信息时。 如果从服务收集任何个人信息，则您同意只将该个人信息用于该用户授权的目的。 您同意将合理保护从服务收集的任何个人信息，并且及时响应投诉、删除要求和“请勿联系”要求。
 
 [9.过度带宽使用](#9-excessive-bandwidth-use)
 ----------

@@ -44,7 +44,7 @@ Le présent Accord est un accord légal entre vous ("vous ») et GitHub, Inc. (
 
 2. **Conditions du Programme**
 
-   Nous affichons les [avantages et directives du programme](/fr/get-started/exploring-integrations/github-developer-program) (la « Présentation du Programme »). Comme vous vous en doutez, l'aperçu du programme changera de temps à autre. Ces changements s'appliqueront à vous en tant que participant au programme, nous vous encourageons donc à consulter périodiquement l'aperçu du programme pour vous tenir au courant de tout changement. Pour diverses raisons, nous pourrions être amenés à modifier, suspendre ou interrompre le programme ou certains des avantages que nous offrons. Vous acceptez que nous puissions faire ces choses sans responsabilité envers vous, sauf comme spécifié dans la section 9.
+   Nous affichons les [avantages et directives du programme](/fr/integrations/concepts/github-developer-program) (la « Présentation du Programme »). Comme vous vous en doutez, l'aperçu du programme changera de temps à autre. Ces changements s'appliqueront à vous en tant que participant au programme, nous vous encourageons donc à consulter périodiquement l'aperçu du programme pour vous tenir au courant de tout changement. Pour diverses raisons, nous pourrions être amenés à modifier, suspendre ou interrompre le programme ou certains des avantages que nous offrons. Vous acceptez que nous puissions faire ces choses sans responsabilité envers vous, sauf comme spécifié dans la section 9.
 
 3. **Licence API**
 

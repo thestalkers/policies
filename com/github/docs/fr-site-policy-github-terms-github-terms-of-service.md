@@ -399,7 +399,7 @@ Vous êtes responsable de tous les frais, y compris les taxes, associés à votr
 
 ### [1. Annulation du Compte](#1-account-cancellation) ###
 
-Il est de votre responsabilité d'annuler correctement votre compte avec GitHub. Vous pouvez [annuler votre Compte à tout moment](/fr/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan) en accédant à vos Paramètres dans la barre de navigation globale située en haut de l’écran. L'écran Compte fournit un lien d'annulation simple et sans poser de questions. Nous ne sommes pas en mesure d'annuler des comptes en réponse à une demande par e-mail ou par téléphone.
+Il est de votre responsabilité d'annuler correctement votre compte avec GitHub. Vous pouvez [annuler votre Compte à tout moment](/fr/billing/how-tos/manage-plan-and-licenses/downgrade-plan) en accédant à vos Paramètres dans la barre de navigation globale située en haut de l’écran. L'écran Compte fournit un lien d'annulation simple et sans poser de questions. Nous ne sommes pas en mesure d'annuler des comptes en réponse à une demande par e-mail ou par téléphone.
 
 ### [2. En cas d’annulation](#2-upon-cancellation) ###
 

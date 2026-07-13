@@ -44,7 +44,7 @@ Este Contrato é um contrato legal entre você ("você") e o GitHub, Inc. ("GitH
 
 2. **Termos do Programa**
 
-   Nós postamos os [Benefícios e diretrizes do programa](/pt/get-started/exploring-integrations/github-developer-program) (a “Visão Geral do Programa”). Como você pode esperar, a Visão geral do programa mudará de tempos em tempos. Essas alterações se aplicarão a você como participante do Programa, portanto, recomendamos que você revise periodicamente a Visão geral do programa para se manter informado sobre quaisquer alterações. Por vários motivos, podemos precisar alterar, suspender ou descontinuar o Programa ou alguns dos benefícios que oferecemos. Você concorda que podemos fazer essas coisas sem responsabilização para você, exceto conforme especificado na Seção 9.
+   Nós postamos os [Benefícios e diretrizes do programa](/pt/integrations/concepts/github-developer-program) (a “Visão Geral do Programa”). Como você pode esperar, a Visão geral do programa mudará de tempos em tempos. Essas alterações se aplicarão a você como participante do Programa, portanto, recomendamos que você revise periodicamente a Visão geral do programa para se manter informado sobre quaisquer alterações. Por vários motivos, podemos precisar alterar, suspender ou descontinuar o Programa ou alguns dos benefícios que oferecemos. Você concorda que podemos fazer essas coisas sem responsabilização para você, exceto conforme especificado na Seção 9.
 
 3. **Licença da API**
 

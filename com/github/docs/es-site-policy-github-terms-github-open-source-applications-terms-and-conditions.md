@@ -72,7 +72,7 @@ Los nombres GitHub, Escritorio de GitHub, GitHub para Mac, GitHub para Windows, 
 [Privacidad](#privacy)
 ----------
 
-El Software puede recopilar información personal. Puede controlar qué información recopila el Software en el panel de configuración. Si el Software recopila información personal en nombre de GitHub, GitHub tratará dicha información de acuerdo con la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
+El Software puede recopilar información personal. Puede controlar qué información recopila el Software en el panel de configuración. Si el Software recopila información personal en nombre de GitHub, GitHub tratará dicha información de acuerdo con la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-general-privacy-statement).
 
 [Servicios adicionales](#additional-services)
 ----------

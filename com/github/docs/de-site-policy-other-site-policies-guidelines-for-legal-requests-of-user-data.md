@@ -95,7 +95,7 @@ Repositories auf GitHub – die öffentlich oder privat sein können – werden 
   Ein Repository enthält alle Projektdateien (einschließlich Dokumentation) und speichert den Revisionsverlauf jeder Datei.
   Repositories können mehrere Mitarbeiter haben und können nach Ermessen ihrer Administratoren öffentlich einsehbar sein oder nicht.
 
-* [**Pages**](/de/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages sind öffentliche Webseiten, die kostenlos von GitHub gehostet werden und die die Benutzer einfach über Code veröffentlichen können, welcher in ihren Repositorys gespeichert ist.
+* [**Pages**](/de/pages/getting-started-with-github-pages/what-is-github-pages): GitHub Pages sind öffentliche Webseiten, die kostenlos von GitHub gehostet werden und die die Benutzer einfach über Code veröffentlichen können, welcher in ihren Repositorys gespeichert ist.
   Wenn ein Benutzer oder eine Organisation eine GitHub Page hat, kann sie normalerweise unter einer URL wie z. B. `https://username.github.io` gefunden werden, oder die Webseite wurde dem eigenen benutzerdefinierten Domänennamen des Benutzers bzw. der Organisation zugeordnet.
 
 * [**Gists**](/de/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): Gists sind Ausschnitte aus Quellcode oder anderem Text, die Benutzer verwenden können, um Ideen zu speichern oder mit Freunden zu teilen.
@@ -137,7 +137,7 @@ Hier ist eine nicht erschöpfende Liste der Arten von Daten, die wir über Benut
 
   * Organisationen, bei denen der Benutzer Mitglied ist (*abhängig von den Einstellungen der Organisation oder des Benutzers*)
 
-* <a name="private-account-data"></a>**Private Kontodaten**: GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) beschrieben.
+* <a name="private-account-data"></a>**Private Kontodaten**: GitHub erhebt und verwaltet auch bestimmte private Informationen über Benutzer, wie in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-general-privacy-statement) beschrieben.
   Dies kann beinhalten:
 
   * Private E-Mail-Adressen
@@ -288,10 +288,10 @@ Indem Sie ein rechtliches Verfahren gegen GitHub einleiten, bestätigen Sie, das
 ----------
 
 Als US-amerikanisches Unternehmen mit Sitz in Kalifornien ist GitHub nicht verpflichtet, Daten an ausländische Regierungen als Reaktion auf von ausländischen Behörden erlassene Rechtsverfahren bereitzustellen.
-Ausländische Strafverfolgungsbeamte, die Informationen von GitHub anfordern möchten, sollten sich an das Office of International Affairs des United States Department of Justice Criminal Division wenden.
+Ausländische Strafverfolgungsbeamte, die Informationen von GitHub anfordern möchten, sollten sich an das Office of International Affairs des USA Department of Justice Criminal Division wenden.
 GitHub wird unverzüglich auf Ersuchen reagieren, die über ein US-Gericht im Wege eines Rechtshilfeabkommens („MLAT“) oder eines Rechtshilfeersuchens gestellt werden.
 
 [Fragen](#questions)
 ----------
 
-Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Wenden Sie sich an uns über das [GitHub-Support-Portal](https://support.github.com).
+Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Bitte wenden Sie sich an uns über das [GitHub-Support-Portal](https://support.github.com).

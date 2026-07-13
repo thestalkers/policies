@@ -72,7 +72,7 @@ Die Namen GitHub, GitHub Desktop, GitHub für Mac, GitHub für Windows, Octocat 
 [Datenschutz](#privacy)
 ----------
 
-Die Software kann persönliche Daten erheben. Sie können steuern, welche Informationen die Software im Einstellungsfeld sammelt. Wenn die Software personenbezogene Daten im Namen von GitHub erhebt, verarbeitet GitHub diese Daten gemäß der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement).
+Die Software kann persönliche Daten erheben. Sie können steuern, welche Informationen die Software im Einstellungsfeld sammelt. Wenn die Software personenbezogene Daten im Namen von GitHub erhebt, verarbeitet GitHub diese Daten gemäß der [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-general-privacy-statement).
 
 [Weitere Dienste](#additional-services)
 ----------

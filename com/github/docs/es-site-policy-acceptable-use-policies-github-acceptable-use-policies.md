@@ -137,14 +137,14 @@ El raspado se refiere a la extracción de información de nuestro Servicio a tra
 
 No puede usar información del servicio (ya sea extraída, recopilada a través de nuestra API u obtenida de otra manera) con fines de envío de correo no deseado, ni tampoco para enviar correos electrónicos no solicitados a los usuarios ni para vender información personal a, por ejemplo, seleccionadores de personal, cazatalentos y bolsas de trabajo.
 
-Su uso de la información del Servicio debe cumplir la [Declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement).
+Su uso de la información del Servicio debe cumplir la [Declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-general-privacy-statement).
 
 [8. Privacidad](#8-privacy)
 ----------
 
 Está prohibido el uso indebido de información personal.
 
-Cualquier persona, entidad o servicio que recopile datos del servicio debe cumplir la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-privacy-statement), especialmente en lo que respecta a la recopilación de información personal. Si recopila cualquier información personal del servicio, acepta que solo utilizará dicha información para el propósito para el cual el usuario la autorizó. Usted se compromete a proteger de forma razonable toda información personal que haya recopilado en el servicio y a responder con prontitud a las reclamaciones, solicitudes de retirada y solicitudes de "no contactar" procedentes de nosotros o de otros usuarios.
+Cualquier persona, entidad o servicio que recopile datos del servicio debe cumplir la [declaración de privacidad de GitHub](/es/site-policy/privacy-policies/github-general-privacy-statement), especialmente en lo que respecta a la recopilación de información personal. Si recopila cualquier información personal del servicio, acepta que solo utilizará dicha información para el propósito para el cual el usuario la autorizó. Usted se compromete a proteger de forma razonable toda información personal que haya recopilado en el servicio y a responder con prontitud a las reclamaciones, solicitudes de retirada y solicitudes de "no contactar" procedentes de nosotros o de otros usuarios.
 
 [9. Uso excesivo del ancho de banda](#9-excessive-bandwidth-use)
 ----------

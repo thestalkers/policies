@@ -70,7 +70,7 @@ Ao usar os Produtos e Recursos Adicionais, você também concorda com os Termos 
 
 O GitHub Actions permite que você crie fluxos de trabalho de ciclo de vida de desenvolvimento de software personalizados diretamente em seu repositório do GitHub. As ações são cobradas com base no uso. A [documentação das Ações](/pt/actions) inclui detalhes, entre eles, quantidades de computação e armazenamento (dependendo de seu plano de conta) e como monitorar o uso de minutos das Ações, além de definir limites de uso.
 
-As Ações e quaisquer elementos do produto ou serviço das Ações não podem ser usados em violação do Contrato, das [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem dos limites do serviço GitHub Actions estabelecidos na [documentação das Ações](/pt/actions/learn-github-actions/usage-limits-billing-and-administration). Além disso, independentemente de uma ação estar usando corredores auto-hospedados, as ações não devem ser usadas para:
+As Ações e quaisquer elementos do produto ou serviço das Ações não podem ser usados em violação do Contrato, das [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) nem dos limites do serviço GitHub Actions estabelecidos na [documentação das Ações](/pt/actions/concepts/billing-and-usage). Além disso, independentemente de uma ação estar usando corredores auto-hospedados, as ações não devem ser usadas para:
 
 * Mineração de criptomoedas;
 * Interromper, tentar obter ou obter acesso não autorizado a qualquer serviço, dispositivo, dados, conta ou rede (exceto os autorizados pelo [Programa de Recompensas por Bugs do GitHub](https://bounty.github.com));
@@ -103,7 +103,7 @@ O GitHub disponibiliza recursos extras de segurança para clientes com licenças
 
 Os recursos do Advanced Security são licenciados em regime de “Committer Exclusivo”. “Committer Exclusivo” é um usuário licenciado do GitHub Team, GitHub Enterprise, GitHub Enterprise Cloud ou GitHub Enterprise Server que fez commit nos últimos 90 dias em qualquer repositório com qualquer funcionalidade do GitHub Advanced Security ativada. Você precisa adquirir uma licença de usuário do GitHub Advanced Security para cada um dos seus Commiters Exclusivos. Só é possível usar o GitHub Advanced Security em bases de código que você desenvolveu ou que foram desenvolvidas para você. Para usuários do GitHub Team e GitHub Enterprise Cloud, alguns recursos do Advanced Security também exigem o uso do GitHub Actions.
 
-Para verificação de segredos com o GitHub Advanced Security ou GitHub Secret Protection, quando você aceita a execução de verificações automáticas de validade para padrões de parceiros, tokens de terceiros expostos podem ser compartilhados com o parceiro relevante a fim de fornecer mais informações sobre a validade do token. Nem todos os parceiros estão sediados nos Estados Unidos. A [documentação sobre padrões de varredura de segredos](/pt/enterprise-cloud@latest/code-security/secret-scanning/introduction/supported-secret-scanning-patterns) fornece mais detalhes sobre quais parceiros oferecem suporte à verificação de validade.
+Para verificação de segredos com o GitHub Advanced Security ou GitHub Secret Protection, quando você aceita a execução de verificações automáticas de validade para padrões de parceiros, tokens de terceiros expostos podem ser compartilhados com o parceiro relevante a fim de fornecer mais informações sobre a validade do token. Nem todos os parceiros estão sediados nos Estados Unidos. A [documentação sobre padrões de varredura de segredos](/pt/enterprise-cloud@latest/code-security/reference/secret-security/supported-secret-scanning-patterns) fornece mais detalhes sobre quais parceiros oferecem suporte à verificação de validade.
 
 [Banco de dados consultivo](#advisory-database)
 ----------
@@ -145,7 +145,7 @@ Caso ofereça um produto ou serviço concorrente a qualquer produto ou serviço 
 [Conectar](#connect)
 ----------
 
-Com o GitHub Connect, você pode compartilhar determinados recursos e dados entre sua implantação do GitHub Enterprise Server e sua organização ou conta empresarial do GitHub Enterprise Cloud no GitHub.com. Para habilitar o GitHub Connect, você precisa ter pelo menos 1 (uma) conta do GitHub Enterprise Cloud ou do GitHub.com e 1 (uma) implantação do GitHub Enterprise Server. Seu uso do GitHub Enterprise Cloud ou GitHub.com por meio do Connect é regido pelos termos sob os quais você licencia o GitHub Enterprise Cloud ou GitHub.com. O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
+Com o GitHub Connect, você pode compartilhar determinados recursos e dados entre sua implantação do GitHub Enterprise Server e sua organização ou conta empresarial do GitHub Enterprise Cloud no GitHub.com. Para habilitar o GitHub Connect, você precisa ter pelo menos 1 (uma) conta do GitHub Enterprise Cloud ou do GitHub.com e 1 (uma) implantação do GitHub Enterprise Server. Seu uso do GitHub Enterprise Cloud ou GitHub.com por meio do Connect é regido pelos termos sob os quais você licencia o GitHub Enterprise Cloud ou GitHub.com. O uso de Dados Pessoais é regido pela [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement).
 
 [GitHub Copilot](#github-copilot)
 ----------
@@ -172,17 +172,17 @@ O GitHub Packages é um serviço de hospedagem de pacotes de software que permit
 [Páginas](#pages)
 ----------
 
-Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas principalmente como uma vitrine para projetos pessoais e organizacionais.
+Cada Conta vem com acesso ao [Serviço de hospedagem estática GitHub Pages](/pt/pages/getting-started-with-github-pages/what-is-github-pages). O GitHub Pages destina-se a hospedar páginas da Web estáticas, mas principalmente como uma vitrine para projetos pessoais e organizacionais.
 
 O GitHub Pages não se destina nem tem permissão para ser usado como um serviço gratuito de hospedagem na web para administrar seus negócios on-line, site de comércio eletrônico ou qualquer outro site que seja direcionado principalmente para facilitar transações comerciais ou fornecer software comercial como serviço (SaaS ). Alguns esforços de monetização são permitidos nas Páginas, como botões de doação e links de financiamento coletivo.
 
 *Limites de Uso e Largura de Banda*
 
-O GitHub Pages está sujeito a alguns limites de uso e largura de banda específicos e pode não ser apropriado para alguns usos de largura de banda alta. Consulte nossos [Limites do GitHub Pages](/pt/pages/getting-started-with-github-pages/about-github-pages) para obter mais informações.
+O GitHub Pages está sujeito a alguns limites de uso e largura de banda específicos e pode não ser apropriado para alguns usos de largura de banda alta. Consulte nossos [Limites do GitHub Pages](/pt/pages/getting-started-with-github-pages/github-pages-limits) para obter mais informações.
 
 *Usos Proibidos*
 
-O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/about-github-pages#guidelines-for-using-github-pages).
+O GitHub Pages não pode ser usado em violação do Contrato, das [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) do GitHub nem das limitações de serviço do GitHub Pages estabelecidas na [documentação do Pages](/pt/pages/getting-started-with-github-pages/github-pages-limits#usage-limits).
 
 Se você tiver dúvidas sobre se o uso que você faz ou o uso pretendido se enquadra nessas categorias, entre em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). O GitHub reserva-se o direito de sempre reivindicar qualquer subdomínio do GitHub sem responsabilidade.
 
@@ -208,6 +208,6 @@ Você pode baixar a imagem de contêiner do Microsoft SQL Server Standard Editio
 [GitHub Models](#github-models)
 ----------
 
-O GitHub Models é um recurso que permite que você aprenda, experimente e teste modelos de inteligência artificial no GitHub.com. Você pode acessar o GitHub Models por meio do [GitHub Marketplace](https://github.com/marketplace). Saiba mais sobre o GitHub Models visitando [Prototipagem com modelos de IA](/pt/github-models/prototyping-with-ai-models).
+O GitHub Models é um recurso que permite que você aprenda, experimente e teste modelos de inteligência artificial no GitHub.com. Você pode acessar o GitHub Models por meio do [GitHub Marketplace](https://github.com/marketplace). Saiba mais sobre o GitHub Models visitando [Prototipagem com modelos de IA](/pt/github-models/use-github-models/prototyping-with-ai-models).
 
 Seu uso desse recurso está sujeito aos termos da empresa que hospeda o modelo e à licença do modelo.

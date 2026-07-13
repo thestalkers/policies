@@ -72,7 +72,7 @@ GitHub 开源应用程序条款和条件
 [隐私](#privacy)
 ----------
 
-软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)处理这些信息。
+软件可能会收集个人信息。 您可以在设置面板中控制软件收集哪些信息。 如果软件代表 GitHub 收集个人信息，GitHub 将根据 [GitHub 隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)处理这些信息。
 
 [其他服务](#additional-services)
 ----------

@@ -95,7 +95,7 @@ Les référentiels sur GitHub, qui peuvent être publics ou privés, sont le plu
   Un référentiel contient tous les fichiers du projet (y compris la documentation) et stocke l'historique des révisions de chaque fichier.
   Les référentiels peuvent avoir plusieurs collaborateurs et, à la discrétion de ses administrateurs, peuvent être accessibles au public ou non.
 
-* [**Pages**](/fr/pages/getting-started-with-github-pages/about-github-pages) : les GitHub Pages sont des pages Web publiques hébergées gratuitement par GitHub que les utilisateurs peuvent facilement publier grâce au code stocké dans leurs référentiels.
+* [**Pages**](/fr/pages/getting-started-with-github-pages/what-is-github-pages) : les GitHub Pages sont des pages Web publiques hébergées gratuitement par GitHub que les utilisateurs peuvent facilement publier grâce au code stocké dans leurs référentiels.
   Si un utilisateur ou une organisation a une Page GitHub, elle se trouve généralement à une URL telle que `https://username.github.io` ou la page Web peut être mappée à son propre nom de domaine personnalisé.
 
 * [**Gists**](/fr/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) : les gists sont des extraits de code source ou d'autres textes que les utilisateurs peuvent utiliser pour stocker des idées ou partager avec des amis.
@@ -137,7 +137,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
   * Les organisations auxquelles l'utilisateur est membre (*selon les préférences de l'organisation ou de l'utilisateur*)
 
-* <a name="private-account-data"></a>**Données de compte privé** : GitHub collecte et conserve également certaines informations privées sur les utilisateurs, comme indiqué dans notre [Politique de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement).
+* <a name="private-account-data"></a>**Données de compte privé** : GitHub collecte et conserve également certaines informations privées sur les utilisateurs, comme indiqué dans notre [Politique de Confidentialité](/fr/site-policy/privacy-policies/github-general-privacy-statement).
   Cela peut inclure :
 
   * Adresses e-mail privées
@@ -148,7 +148,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
   * Données sur les interactions avec les référentiels privés
 
-    Pour avoir une idée du type d'informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
+    Pour avoir une idée du type d’informations privées sur le compte que GitHub collecte, vous pouvez visiter votre [tableau de bord personnel](https://github.com/dashboard) et parcourir les sections de la barre de menus de gauche.
 
 * <a name="organization-account-data"></a>**Données de compte d'organisation** : les informations sur les organisations, leurs utilisateurs administratifs et leurs référentiels sont accessibles au public sur GitHub.
   Les profils d'organisation sont disponibles en utilisant une URL, par exemple `https://github.com/organization`.

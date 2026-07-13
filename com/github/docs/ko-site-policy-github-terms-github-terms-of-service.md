@@ -285,7 +285,7 @@ GitHub의 상표를 사용하려는 경우, GitHub의 로고 페이지([https://
 [H. API 약관](#h-api-terms)
 ----------
 
-**짧은 버전:** *사용자는 GitHub의 API(Application Programming Interface)를 사용할 때, GitHub에 접근하는 제3자 제품을 통한 API 사용을 포함하여 본 서비스 약관 및 이 섹션 H에 동의합니다.*
+**짧은 버전:***사용자는 GitHub의 API(Application Programming Interface)를 사용할 때, GitHub에 접근하는 제3자 제품을 통한 API 사용을 포함하여 본 서비스 약관 및 이 섹션 H에 동의합니다.*
 
 API를 악용하거나 API를 통해 GitHub에 지나치게 빈번한 요청을 할 경우 API에 대한 계정의 액세스가 일시적 또는 영구적으로 정지될 수 있습니다. GitHub는 재량에 따라 API의 악용 또는 지나친 사용을 판단합니다. GitHub는 정지 전에 이메일을 통해 경고하려 합리적으로 시도합니다.
 
@@ -399,7 +399,7 @@ GitHub의 가격 책정 및 지급 조건은 [github.com/pricing](https://github
 
 ### [1. 계정 취소](#1-account-cancellation) ###
 
-귀하의 GitHub 계정을 적절히 취소하는 것은 귀하의 책임입니다. 화면 위쪽의 글로벌 탐색 모음으로 이동하여 [언제든지 계정을 취소](/ko/billing/managing-the-plan-for-your-github-account/downgrading-your-accounts-plan)할 수 있습니다. 계정 화면은 간단하고 질문이 없는 취소 링크를 제공합니다. GitHub는 이메일 또는 전화 요청에 응하여 계정을 취소할 수 없습니다.
+귀하의 GitHub 계정을 적절히 취소하는 것은 귀하의 책임입니다. 화면 위쪽의 글로벌 탐색 모음으로 이동하여 [언제든지 계정을 취소](/ko/billing/how-tos/manage-plan-and-licenses/downgrade-plan)할 수 있습니다. 계정 화면은 간단하고 질문이 없는 취소 링크를 제공합니다. GitHub는 이메일 또는 전화 요청에 응하여 계정을 취소할 수 없습니다.
 
 ### [2. 취소 시](#2-upon-cancellation) ###
 

@@ -72,7 +72,7 @@ Os nomes GitHub, GitHub Desktop, GitHub for Mac, GitHub for Windows, o Octocat e
 [Privacidade](#privacy)
 ----------
 
-O Software pode coletar minhas informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement).
+O Software pode coletar minhas informações pessoais. Você pode controlar quais informações o Software coleta no painel de configurações. Se o Software coletar informações pessoais em nome do GitHub, o GitHub processará essas informações de acordo com a [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement).
 
 [Serviços Adicionais](#additional-services)
 ----------

@@ -44,7 +44,7 @@ Este Acuerdo es un acuerdo legal entre usted ("usted") y GitHub, Inc. ("GitHub",
 
 2. **Términos del Programa**
 
-   Publicamos las [Ventajas y directrices del Programa](/es/get-started/exploring-integrations/github-developer-program) («Información General del Programa»). Como es de esperar, la descripción general del programa cambiará de vez en cuando. Estos cambios se aplicarán a usted como participante del Programa, por lo que le recomendamos que revise periódicamente la Descripción general del programa para mantenerse informado de cualquier cambio. Por una variedad de razones, es posible que debamos cambiar, suspender o descontinuar el Programa o algunos de los beneficios que ofrecemos. Usted acepta que podemos hacer esas cosas sin responsabilidad hacia usted, excepto como se especifica en la Sección 9.
+   Publicamos las [Ventajas y directrices del Programa](/es/integrations/concepts/github-developer-program) («Información General del Programa»). Como es de esperar, la descripción general del programa cambiará de vez en cuando. Estos cambios se aplicarán a usted como participante del Programa, por lo que le recomendamos que revise periódicamente la Descripción general del programa para mantenerse informado de cualquier cambio. Por una variedad de razones, es posible que debamos cambiar, suspender o descontinuar el Programa o algunos de los beneficios que ofrecemos. Usted acepta que podemos hacer esas cosas sin responsabilidad hacia usted, excepto como se especifica en la Sección 9.
 
 3. **Licencia de API**
 

@@ -167,10 +167,10 @@ GitHub 社区版主如果不真诚地遵守或执行行为准则，可能面临 
 [法律声明](#legal-notices)
 ----------
 
-确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)（包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
+确实，法律条文枯燥乏味，但是我们必须保护自己，并进一步保护您和您的数据，免受不友好人士的侵害。 我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)（包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）和[隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)阐述了您（和我们）在内容、隐私和法律方面的行为和权利。 要使用此服务，您必须同意遵守我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service)、[GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)和[隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)。
 
 本行为准则不修改我们的[服务条款](/zh/site-policy/github-terms/github-terms-of-service) - 包括我们的[可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)），也不预期成为一个完整的列表。 针对非法、冒犯、威胁、诽谤、诬蔑、色情、淫秽或其他令人反感行为或者违反任何一方知识产权或我们服务条款的活动，GitHub 保留根据[服务条款](/zh/site-policy/github-terms/github-terms-of-service)删除或限制任何内容或帐户的完全酌处权。 本行为准则说明了我们将在哪些情况下行使该酌处权。
 
 ### [数据保留和数据删除](#data-retention-and-deletion-of-data) ###
 
-如果您是 GitHub 用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或是通过 [GitHub 支持门户](https://support.github.com/)联系我们，来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)。
+如果您是 GitHub 用户，您可以通过[编辑您的用户个人资料](https://github.com/settings/profile)或是通过 [GitHub 支持门户](https://support.github.com/)联系我们，来访问、更新、更改或删除您的基本用户个人资料信息。 我们将根据需要保留并使用您的信息，以履行我们的法律义务、解决争议和执行我们的协议，但是除非法律要求，否则我们将在您请求后 90 天内（在合理时间内）删除您的完整个人资料。 有关详细信息，请参阅 [GitHub隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)。

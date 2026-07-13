@@ -95,7 +95,7 @@ Os repositórios no GitHub — que podem ser públicos ou privados — são mais
   Um repositório contém todos os arquivos do projeto (incluindo documentação) e armazena o histórico de revisão de cada arquivo.
   Os repositórios podem ter vários colaboradores e, a critério de seus administradores, podem ser visualizados publicamente ou não.
 
-* [**Pages**](/pt/pages/getting-started-with-github-pages/about-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
+* [**Pages**](/pt/pages/getting-started-with-github-pages/what-is-github-pages): GitHub Pages são páginas da Web públicas hospedadas gratuitamente pelo GitHub que os usuários podem publicar facilmente por meio de código armazenado em seus repositórios.
   Se um usuário ou uma organização tiver uma GitHub Page, ela geralmente poderá ser encontrada em um URL, como `https://username.github.io` ou eles podem ter a página da Web mapeada para seu próprio nome de domínio personalizado.
 
 * [**Gists**](/pt/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists): gists são trechos de código-fonte ou outro texto que os usuários podem usar para armazenar ideias ou compartilhar com amigos.
@@ -137,7 +137,7 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
 
   * Organizações das quais o usuário é membro (*dependendo das preferências das organizações ou dos usuários*)
 
-* <a name="private-account-data"></a>**Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement).
+* <a name="private-account-data"></a>**Dados de contas privadas**: o GitHub também coleta e mantém determinadas informações privadas sobre usuários, conforme descrito em nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-general-privacy-statement).
   Isso pode incluir:
 
   * Endereços de e-mail privados
@@ -148,7 +148,7 @@ Aqui está uma lista não exaustiva dos tipos de dados que mantemos sobre usuár
 
   * Dados sobre interações com repositórios privados
 
-    Para ter uma ideia do tipo de informações de contas privadas coletadas pelo GitHub, você pode visitar seu [painel pessoal](https://github.com/dashboard) e navegar pelas seções na barra de menus à esquerda.
+    Para ter uma ideia do tipo de informação de conta privada que o GitHub coleta, você pode visitar seu [painel pessoal](https://github.com/dashboard) e navegue pelas seções na barra de menu à esquerda.
 
 * <a name="organization-account-data"></a>**Dados de contas de organizações**: informações sobre organizações, seus usuários administrativos e repositórios estão disponíveis ao público no GitHub.
   Os perfis de organizações podem ser encontrados em um URL como `https://github.com/organization`.
@@ -294,4 +294,4 @@ O GitHub responderá prontamente às solicitações emitidas por meio de um trib
 [Dúvidas](#questions)
 ----------
 
-Você tem outras perguntas, comentários ou sugestões? Entre em contato pelo conosco por meio do [Portal de suporte do GitHub](https://support.github.com).
+Você tem outras perguntas, comentários ou sugestões? Entre em contato com conosco por meio do [Portal de suporte do GitHub](https://support.github.com).

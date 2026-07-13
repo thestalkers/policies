@@ -137,14 +137,14 @@ Le scraping fait référence à l'extraction d'informations de notre Service via
 
 Vous n’êtes pas autorisé à utiliser les informations du Service (qu’elles soient extraites, recueillies par l’intermédiaire de notre API ou obtenues d’une autre manière) pour des activités de spam, notamment pour envoyer des courriers électroniques non sollicités aux utilisateurs ou vendre des informations personnelles, par exemple à des recruteurs, des chasseurs de têtes et des sites de recrutement.
 
-Votre utilisation des informations provenant du Service doit être conforme à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement).
+Votre utilisation des informations provenant du Service doit être conforme à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement).
 
 [8. Confidentialité](#8-privacy)
 ----------
 
 L’utilisation abusive des informations personnelles est interdite.
 
-Toute personne, toute entité ou tout service recueillant des données à partir du Service doit se conformer à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement), notamment en ce qui concerne la collecte de Données personnelles. Si vous recueillez des informations personnelles à partir du Service, vous acceptez de n’utiliser ces informations que dans le but pour lequel l’Utilisateur les a autorisées. Vous acceptez de sécuriser dans une limite raisonnable toutes les informations personnelles que vous avez recueillies sur le Service, et vous répondrez rapidement aux plaintes, aux demandes de suppression et aux demandes d’interdiction de contact de notre part ou de celle d’autres utilisateurs.
+Toute personne, toute entité ou tout service recueillant des données à partir du Service doit se conformer à la [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement), notamment en ce qui concerne la collecte de Données personnelles. Si vous recueillez des informations personnelles à partir du Service, vous acceptez de n’utiliser ces informations que dans le but pour lequel l’Utilisateur les a autorisées. Vous acceptez de sécuriser dans une limite raisonnable toutes les informations personnelles que vous avez recueillies sur le Service, et vous répondrez rapidement aux plaintes, aux demandes de suppression et aux demandes d’interdiction de contact de notre part ou de celle d’autres utilisateurs.
 
 [9. Utilisation excessive de Bandwidth](#9-excessive-bandwidth-use)
 ----------

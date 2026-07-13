@@ -76,7 +76,7 @@ GitHub는 프로그램을 통해 GitHub에 피드백을 제공할 목적("목적
 
 귀하는 이 프로그램에 참가함으로써 GitHub가 다른 어떤 목적도 아닌 연구 목적으로만 귀하의 개인 정보를 사용하는 데 동의하는 것입니다. 프로그램의 일환으로 GitHub는 귀하에게 연락하기 위해 귀하의 개인 정보를 사용하거나 이후 날짜에 연락하기 위해 귀하의 정보를 보유할 수 있습니다. 개인 정보에는 집계된 개인 식별 불가능한 정보는 포함되지 않습니다. GitHub는 프로그램을 통해 수집된 집계되거나 기타 개인 식별 불가능한 정보를 GitHub 제품 및 서비스 운영, 분석, 개선에 사용할 수 있습니다.
 
-귀하는 언제든지 동의를 철회하고, GitHub가 귀하에 대해 보유한 개인 정보에 대한 액세스 또는 정보의 삭제를 요청할 수 있습니다. GitHub가 프로그램을 통해 수집하는 개인 정보 액세스, 변경 또는 삭제 방법에 대한 자세한 내용은 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-privacy-statement)을 참조하거나 GitHub [개인 정보 연락처 양식](https://github.com/contact/privacy)을(를) 통해 문의하세요.
+귀하는 언제든지 동의를 철회하고, GitHub가 귀하에 대해 보유한 개인 정보에 대한 액세스 또는 정보의 삭제를 요청할 수 있습니다. GitHub가 프로그램을 통해 수집하는 개인 정보 액세스, 변경 또는 삭제 방법에 대한 자세한 내용은 [GitHub 개인정보취급방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)을 참조하거나 [개인 정보 연락처 양식](https://github.com/contact/privacy)에 문의하세요.
 
 [E. GitHub 서비스 및 소프트웨어 약관](#e-github-services-and-software-terms)
 ----------
