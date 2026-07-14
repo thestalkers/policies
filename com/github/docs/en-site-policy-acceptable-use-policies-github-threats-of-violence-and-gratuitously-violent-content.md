@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Home](/en)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Home](/en)
+2. [Site policy](/en/site-policy)
+3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
+4. [Threats of Violence and Gratuitously Violent Content](/en/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
-
-1. [Site policy](/en/site-policy)
-2. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-3. [Threats of Violence and Gratuitously Violent Content](/en/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub Threats of Violence and Gratuitously Violent Content
 ==========

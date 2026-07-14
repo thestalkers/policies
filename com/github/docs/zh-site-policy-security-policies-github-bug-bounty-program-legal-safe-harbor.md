@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [安全政策](/zh/site-policy/security-policies)
+4. [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [安全政策](/zh/site-policy/security-policies)
-3. [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub Bug 赏金计划法律安全港
 ==========

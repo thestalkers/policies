@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+3. [Другие правила сайта](/ru/site-policy/other-site-policies)
+4. [Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------
-
-1. [Политика сайта](/ru/site-policy)
-2. [Другие правила сайта](/ru/site-policy/other-site-policies)
-3. [Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
 
 Политика умерших пользователей GitHub
 ==========

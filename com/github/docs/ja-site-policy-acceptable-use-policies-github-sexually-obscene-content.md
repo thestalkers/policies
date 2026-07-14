@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [利用規約](/ja/site-policy/acceptable-use-policies)
+4. [わいせつなコンテンツ](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [利用規約](/ja/site-policy/acceptable-use-policies)
-3. [わいせつなコンテンツ](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 GitHub のわいせつなコンテンツ
 ==========

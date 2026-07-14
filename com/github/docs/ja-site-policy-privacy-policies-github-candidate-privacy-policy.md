@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
+4. [候補者向け GitHub グローバル データ プライバシー通知](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
-3. [候補者向け GitHub グローバル データ プライバシー通知](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 候補者向け GitHub グローバル データ プライバシー通知
 ==========

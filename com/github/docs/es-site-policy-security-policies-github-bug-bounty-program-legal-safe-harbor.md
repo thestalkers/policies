@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Políticas de seguridad](/es/site-policy/security-policies)
+4. [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Políticas de seguridad](/es/site-policy/security-policies)
-3. [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 Programa de recompensas por errores de GitHub Puerto seguro legal
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Autres politiques du site](/fr/site-policy/other-site-policies)
+4. [Lignes directrices pour les demandes légales de données utilisateur](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Autres politiques du site](/fr/site-policy/other-site-policies)
-3. [Lignes directrices pour les demandes légales de données utilisateur](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 Lignes directrices pour les demandes légales de données utilisateur
 ==========

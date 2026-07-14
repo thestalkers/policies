@@ -20,13 +20,18 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [GitHub 条件](/ja/site-policy/github-terms)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [GitHub 条件](/ja/site-policy/github-terms)
 
 GitHub 条件
 ==========

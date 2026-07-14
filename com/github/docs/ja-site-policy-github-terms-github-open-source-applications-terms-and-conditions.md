@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [GitHub 条件](/ja/site-policy/github-terms)
+4. [GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [GitHub 条件](/ja/site-policy/github-terms)
-3. [GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub オープン ソース アプリケーションの契約条件
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
+4. [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------
-
-1. [Политика сайта](/ru/site-policy)
-2. [Политика компании #REF!](/ru/site-policy/github-company-policies)
-3. [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 
 Заявление GitHub о борьбе со взяточничеством
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Termes GitHub](/fr/site-policy/github-terms)
+4. [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Termes GitHub](/fr/site-policy/github-terms)
-3. [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
 
 Conditions Générales d’Utilisation de GitHub
 ==========

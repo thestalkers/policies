@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+4. [Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-3. [Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 Politiques d’utilisation acceptable de GitHub
 ==========

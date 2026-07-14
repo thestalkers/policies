@@ -20,7 +20,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------

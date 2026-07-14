@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Autres politiques du site](/fr/site-policy/other-site-policies)
+4. [GitHub et contrôles commerciaux](/fr/site-policy/other-site-policies/github-and-trade-controls)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Autres politiques du site](/fr/site-policy/other-site-policies)
-3. [GitHub et contrôles commerciaux](/fr/site-policy/other-site-policies/github-and-trade-controls)
 
 GitHub et contrôles commerciaux
 ==========

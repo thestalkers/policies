@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Página Inicial](/pt)
+2. [Política do site](/pt/site-policy)
+3. [Políticas de Privacidade](/pt/site-policy/privacy-policies)
+4. [Aviso de Privacidade de Dados Global do GitHub para Candidatos](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/pt/site-policy)
 ----------
-
-1. [Política do site](/pt/site-policy)
-2. [Políticas de Privacidade](/pt/site-policy/privacy-policies)
-3. [Aviso de Privacidade de Dados Global do GitHub para Candidatos](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
 
 Aviso de Privacidade de Dados Global do GitHub para Candidatos
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Startseite](/de)
+2. [Websiterichtlinie](/de/site-policy)
+3. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
+4. [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement)
+
+Scroll breadcrumbs right
 
 [Site policy](/de/site-policy)
 ----------
-
-1. [Websiterichtlinie](/de/site-policy)
-2. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
-3. [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement)
 
 Allgemeine Datenschutzerklärung für GitHub
 ==========

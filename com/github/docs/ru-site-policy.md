@@ -20,7 +20,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------

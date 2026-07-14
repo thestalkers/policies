@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Home](/en)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Home](/en)
+2. [Site policy](/en/site-policy)
+3. [Security Policies](/en/site-policy/security-policies)
+4. [GitHub Bug Bounty Program Legal Safe Harbor](/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
-
-1. [Site policy](/en/site-policy)
-2. [Security Policies](/en/site-policy/security-policies)
-3. [GitHub Bug Bounty Program Legal Safe Harbor](/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub Bug Bounty Program Legal Safe Harbor
 ==========

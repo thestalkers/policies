@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+4. [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-3. [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========

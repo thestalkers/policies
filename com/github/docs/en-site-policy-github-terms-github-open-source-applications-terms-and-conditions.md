@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Home](/en)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Home](/en)
+2. [Site policy](/en/site-policy)
+3. [GitHub Terms](/en/site-policy/github-terms)
+4. [GitHub Open Source Applications Terms and Conditions](/en/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
-
-1. [Site policy](/en/site-policy)
-2. [GitHub Terms](/en/site-policy/github-terms)
-3. [GitHub Open Source Applications Terms and Conditions](/en/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 GitHub Open Source Applications Terms and Conditions
 ==========

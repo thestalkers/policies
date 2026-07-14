@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+4. [暴力威胁和无端暴力内容](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
-3. [暴力威胁和无端暴力内容](/zh/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
 
 GitHub 上的暴力威胁和无端暴力内容
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Startseite](/de)
+2. [Websiterichtlinie](/de/site-policy)
+3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+4. [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/de/site-policy)
 ----------
-
-1. [Websiterichtlinie](/de/site-policy)
-2. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-3. [Richtlinie zum Entfernen privater Informationen von GitHub](/de/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 Richtlinie zum Entfernen privater Informationen von GitHub
 ==========

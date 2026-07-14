@@ -20,13 +20,18 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [개인정보보호정책](/ko/site-policy/privacy-policies)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [개인정보보호정책](/ko/site-policy/privacy-policies)
 
 개인정보보호정책
 ==========

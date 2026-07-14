@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
+4. [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-3. [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 Politique relative aux cadeaux et aux divertissements de GitHub
 ==========

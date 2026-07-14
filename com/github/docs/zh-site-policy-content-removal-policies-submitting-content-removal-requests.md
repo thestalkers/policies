@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [内容删除政策](/zh/site-policy/content-removal-policies)
+4. [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [内容删除政策](/zh/site-policy/content-removal-policies)
-3. [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 提交内容删除请求
 ==========

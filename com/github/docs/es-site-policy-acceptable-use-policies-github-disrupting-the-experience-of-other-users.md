@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
+4. [Alteración de la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
-3. [Alteración de la experiencia de otros usuarios](/es/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 GitHub interrumpiendo la experiencia de otros usuarios
 ==========

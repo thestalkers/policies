@@ -20,7 +20,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------

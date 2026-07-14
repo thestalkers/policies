@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Startseite](/de)
+2. [Websiterichtlinie](/de/site-policy)
+3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+4. [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+
+Scroll breadcrumbs right
 
 [Site policy](/de/site-policy)
 ----------
-
-1. [Websiterichtlinie](/de/site-policy)
-2. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-3. [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 GitHub GPL Kooperationsverpflichtung
 ==========

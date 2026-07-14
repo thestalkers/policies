@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Página Inicial](/pt)
+2. [Política do site](/pt/site-policy)
+3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
+4. [Política de marca registrada do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/pt/site-policy)
 ----------
-
-1. [Política do site](/pt/site-policy)
-2. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-3. [Política de marca registrada do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)
 
 Política de marca registrada do GitHub
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
+4. [Declaración de GitHub contra la esclavitud moderna y el trabajo infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-3. [Declaración de GitHub contra la esclavitud moderna y el trabajo infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
 Declaración de GitHub contra la esclavitud moderna y el trabajo infantil
 ==========

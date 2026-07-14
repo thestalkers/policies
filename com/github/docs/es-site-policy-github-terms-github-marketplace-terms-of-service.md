@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Términos de GitHub](/es/site-policy/github-terms)
+4. [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Términos de GitHub](/es/site-policy/github-terms)
-3. [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
 
 Condiciones de servicio del Mercado GitHub
 ==========

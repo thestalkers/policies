@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Página Inicial](/pt)
+2. [Política do site](/pt/site-policy)
+3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
+4. [Conteúdo sexualmente obsceno](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+
+Scroll breadcrumbs right
 
 [Site policy](/pt/site-policy)
 ----------
-
-1. [Política do site](/pt/site-policy)
-2. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-3. [Conteúdo sexualmente obsceno](/pt/site-policy/acceptable-use-policies/github-sexually-obscene-content)
 
 Conteúdo sexualmente obsceno do GitHub
 ==========

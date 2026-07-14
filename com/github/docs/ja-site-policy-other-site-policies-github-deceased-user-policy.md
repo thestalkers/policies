@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
+4. [GitHub の死亡ユーザー ポリシー](/ja/site-policy/other-site-policies/github-deceased-user-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-3. [GitHub の死亡ユーザー ポリシー](/ja/site-policy/other-site-policies/github-deceased-user-policy)
 
 GitHub の死亡ユーザー ポリシー
 ==========

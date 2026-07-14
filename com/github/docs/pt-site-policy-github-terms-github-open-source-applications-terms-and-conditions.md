@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Página Inicial](/pt)
+2. [Política do site](/pt/site-policy)
+3. [Termos do GitHub](/pt/site-policy/github-terms)
+4. [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+
+Scroll breadcrumbs right
 
 [Site policy](/pt/site-policy)
 ----------
-
-1. [Política do site](/pt/site-policy)
-2. [Termos do GitHub](/pt/site-policy/github-terms)
-3. [Termos e condições de aplicativos de código aberto do GitHub](/pt/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
 
 Termos e condições de aplicativos de código aberto do GitHub
 ==========

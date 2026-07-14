@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+4. [신상 털기 및 프라이버시 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-3. [신상 털기 및 프라이버시 침해](/ko/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub 신상 털기 및 프라이버시 침해
 ==========

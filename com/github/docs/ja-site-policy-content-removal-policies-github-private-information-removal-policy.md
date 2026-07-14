@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+4. [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-3. [GitHub の個人情報削除ポリシー](/ja/site-policy/content-removal-policies/github-private-information-removal-policy)
 
 GitHub の個人情報削除ポリシー
 ==========

@@ -20,13 +20,18 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------
-
-1. [Политика сайта](/ru/site-policy)
-2. [Политики удаления контента](/ru/site-policy/content-removal-policies)
 
 Политики удаления контента
 ==========

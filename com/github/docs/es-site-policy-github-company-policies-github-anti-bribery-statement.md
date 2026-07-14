@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
+4. [Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-3. [Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
 
 Declaración contra el soborno de GitHub
 ==========

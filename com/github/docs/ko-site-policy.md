@@ -20,7 +20,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------

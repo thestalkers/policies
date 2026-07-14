@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
+4. [Guide de soumission d'un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-3. [Guide de soumission d'un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Guide de soumission d'un avis de retrait DMCA
 ==========

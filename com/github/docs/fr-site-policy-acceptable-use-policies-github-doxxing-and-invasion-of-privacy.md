@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+4. [Doxxing et atteinte à la vie privée](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-3. [Doxxing et atteinte à la vie privée](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
 
 GitHub Doxxing et invasion de la vie privée
 ==========

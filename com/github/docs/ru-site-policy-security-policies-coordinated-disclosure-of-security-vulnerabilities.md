@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+3. [Политики безопасности](/ru/site-policy/security-policies)
+4. [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------
-
-1. [Политика сайта](/ru/site-policy)
-2. [Политики безопасности](/ru/site-policy/security-policies)
-3. [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Скоординированное раскрытие уязвимостей безопасности
 ==========

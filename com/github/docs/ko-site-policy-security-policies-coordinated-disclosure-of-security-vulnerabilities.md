@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [보안 정책](/ko/site-policy/security-policies)
+4. [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [보안 정책](/ko/site-policy/security-policies)
-3. [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 조정된 보안 취약점 공개
 ==========

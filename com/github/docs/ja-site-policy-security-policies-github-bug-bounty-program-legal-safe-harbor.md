@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [セキュリティ ポリシー](/ja/site-policy/security-policies)
+4. [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [セキュリティ ポリシー](/ja/site-policy/security-policies)
-3. [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
 GitHub バグ報奨金プログラムの法的免責事項
 ==========

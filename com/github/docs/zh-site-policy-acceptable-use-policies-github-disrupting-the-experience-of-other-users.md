@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
+4. [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
-3. [扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
 在 GitHub 上扰乱其他用户的体验
 ==========

@@ -20,13 +20,18 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Startseite](/de)
+2. [Websiterichtlinie](/de/site-policy)
+3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
+
+Scroll breadcrumbs right
 
 [Site policy](/de/site-policy)
 ----------
-
-1. [Websiterichtlinie](/de/site-policy)
-2. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
 
 Andere Website-Richtlinien
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Home](/en)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Home](/en)
+2. [Site policy](/en/site-policy)
+3. [Security Policies](/en/site-policy/security-policies)
+4. [Coordinated Disclosure of Security Vulnerabilities](/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
-
-1. [Site policy](/en/site-policy)
-2. [Security Policies](/en/site-policy/security-policies)
-3. [Coordinated Disclosure of Security Vulnerabilities](/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Coordinated Disclosure of Security Vulnerabilities
 ==========

@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [GitHub 약관](/ko/site-policy/github-terms)
+4. [GitHub Marketplace 개발자 계약](/ko/site-policy/github-terms/github-marketplace-developer-agreement)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [GitHub 약관](/ko/site-policy/github-terms)
-3. [GitHub Marketplace 개발자 계약](/ko/site-policy/github-terms/github-marketplace-developer-agreement)
 
 GitHub Marketplace 개발자 계약
 ==========

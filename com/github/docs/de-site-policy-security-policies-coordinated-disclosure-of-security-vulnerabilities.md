@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Startseite](/de)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Startseite](/de)
+2. [Websiterichtlinie](/de/site-policy)
+3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
+4. [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+
+Scroll breadcrumbs right
 
 [Site policy](/de/site-policy)
 ----------
-
-1. [Websiterichtlinie](/de/site-policy)
-2. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
-3. [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
 Koordinierte Offenlegung von Sicherheitslücken
 ==========

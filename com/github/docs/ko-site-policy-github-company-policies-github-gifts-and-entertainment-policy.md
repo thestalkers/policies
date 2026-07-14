@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
+4. [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
-3. [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub 선물 및 접대 정책
 ==========

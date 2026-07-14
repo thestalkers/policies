@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [其他站点政策](/zh/site-policy/other-site-policies)
+4. [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [其他站点政策](/zh/site-policy/other-site-policies)
-3. [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
 
 GitHub 政府下架政策
 ==========

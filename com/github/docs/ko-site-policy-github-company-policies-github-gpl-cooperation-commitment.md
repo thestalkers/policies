@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
+4. [GitHub GPL 협력 약정](/ko/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
-3. [GitHub GPL 협력 약정](/ko/site-policy/github-company-policies/github-gpl-cooperation-commitment)
 
 GitHub GPL 협력 약정
 ==========

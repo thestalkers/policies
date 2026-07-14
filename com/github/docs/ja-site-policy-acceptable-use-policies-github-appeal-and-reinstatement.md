@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [利用規約](/ja/site-policy/acceptable-use-policies)
+4. [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [利用規約](/ja/site-policy/acceptable-use-policies)
-3. [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 GitHub の異議申し立ておよび復活
 ==========

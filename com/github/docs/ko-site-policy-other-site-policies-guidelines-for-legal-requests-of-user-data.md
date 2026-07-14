@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [다른 사이트 정책](/ko/site-policy/other-site-policies)
+4. [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [다른 사이트 정책](/ko/site-policy/other-site-policies)
-3. [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
 
 법적 사용자 데이터 요청을 위한 가이드라인
 ==========

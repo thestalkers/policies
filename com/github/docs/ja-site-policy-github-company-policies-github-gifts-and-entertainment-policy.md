@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[ホーム](/ja)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [ホーム](/ja)
+2. [サイト ポリシー](/ja/site-policy)
+3. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
+4. [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/ja/site-policy)
 ----------
-
-1. [サイト ポリシー](/ja/site-policy)
-2. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
-3. [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
 
 GitHub の贈答品および接待に関するポリシー
 ==========

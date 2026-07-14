@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[홈](/ko)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [홈](/ko)
+2. [사이트 정책](/ko/site-policy)
+3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
+4. [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+
+Scroll breadcrumbs right
 
 [Site policy](/ko/site-policy)
 ----------
-
-1. [사이트 정책](/ko/site-policy)
-2. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-3. [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 GitHub 사용 제한 정책
 ==========

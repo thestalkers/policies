@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Página Inicial](/pt)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Página Inicial](/pt)
+2. [Política do site](/pt/site-policy)
+3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
+4. [Guia para enviar um aviso de remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+
+Scroll breadcrumbs right
 
 [Site policy](/pt/site-policy)
 ----------
-
-1. [Política do site](/pt/site-policy)
-2. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-3. [Guia para enviar um aviso de remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
 Guia para enviar um aviso de remoção da DMCA
 ==========

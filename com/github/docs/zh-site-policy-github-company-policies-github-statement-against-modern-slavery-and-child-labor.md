@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [GitHub 公司政策](/zh/site-policy/github-company-policies)
+4. [GitHub 反对现代奴役制和童工制的声明](/zh/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [GitHub 公司政策](/zh/site-policy/github-company-policies)
-3. [GitHub 反对现代奴役制和童工制的声明](/zh/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
 GitHub 反对现代奴役制和童工制的声明
 ==========

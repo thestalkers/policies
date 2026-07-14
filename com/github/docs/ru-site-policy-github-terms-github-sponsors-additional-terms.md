@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Домашняя страница](/ru)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Домашняя страница](/ru)
+2. [Политика сайта](/ru/site-policy)
+3. [Условия GitHub](/ru/site-policy/github-terms)
+4. [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
+
+Scroll breadcrumbs right
 
 [Site policy](/ru/site-policy)
 ----------
-
-1. [Политика сайта](/ru/site-policy)
-2. [Условия GitHub](/ru/site-policy/github-terms)
-3. [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms)
 
 Дополнительные условия GitHub Sponsors
 ==========

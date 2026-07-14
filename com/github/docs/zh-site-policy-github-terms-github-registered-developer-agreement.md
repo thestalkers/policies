@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[主](/zh)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [主](/zh)
+2. [站点政策](/zh/site-policy)
+3. [GitHub 条款](/zh/site-policy/github-terms)
+4. [GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
+
+Scroll breadcrumbs right
 
 [Site policy](/zh/site-policy)
 ----------
-
-1. [站点政策](/zh/site-policy)
-2. [GitHub 条款](/zh/site-policy/github-terms)
-3. [GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
 
 GitHub 注册开发人员协议
 ==========

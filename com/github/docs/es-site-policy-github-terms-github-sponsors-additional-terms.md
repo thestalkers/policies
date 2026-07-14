@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Inicio](/es)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Inicio](/es)
+2. [Política del sitio](/es/site-policy)
+3. [Términos de GitHub](/es/site-policy/github-terms)
+4. [Patrocinadores de GitHub Términos adicionales](/es/site-policy/github-terms/github-sponsors-additional-terms)
+
+Scroll breadcrumbs right
 
 [Site policy](/es/site-policy)
 ----------
-
-1. [Política del sitio](/es/site-policy)
-2. [Términos de GitHub](/es/site-policy/github-terms)
-3. [Patrocinadores de GitHub Términos adicionales](/es/site-policy/github-terms/github-sponsors-additional-terms)
 
 Patrocinadores de GitHub Términos adicionales
 ==========

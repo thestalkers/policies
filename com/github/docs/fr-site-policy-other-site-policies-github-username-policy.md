@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Accueil](/fr)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Accueil](/fr)
+2. [Politique du site](/fr/site-policy)
+3. [Autres politiques du site](/fr/site-policy/other-site-policies)
+4. [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
+
+Scroll breadcrumbs right
 
 [Site policy](/fr/site-policy)
 ----------
-
-1. [Politique du site](/fr/site-policy)
-2. [Autres politiques du site](/fr/site-policy/other-site-policies)
-3. [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
 
 Politique de nom d'utilisateur GitHub
 ==========
