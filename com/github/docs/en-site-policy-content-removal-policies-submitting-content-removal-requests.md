@@ -20,14 +20,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-[Home](/en)
+Collapse sidebarExpand sidebar
+
+Scroll breadcrumbs left
+
+1. [Home](/en)
+2. [Site policy](/en/site-policy)
+3. [Content Removal Policies](/en/site-policy/content-removal-policies)
+4. [Submitting content removal requests](/en/site-policy/content-removal-policies/submitting-content-removal-requests)
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
-
-1. [Site policy](/en/site-policy)
-2. [Content Removal Policies](/en/site-policy/content-removal-policies)
-3. [Submitting content removal requests](/en/site-policy/content-removal-policies/submitting-content-removal-requests)
 
 Submitting content removal requests
 ==========
