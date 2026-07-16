@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+サイドバーを折りたたむサイドバーを展開する
 
-Scroll breadcrumbs left
+階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
 4. [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Scroll breadcrumbs right
+階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

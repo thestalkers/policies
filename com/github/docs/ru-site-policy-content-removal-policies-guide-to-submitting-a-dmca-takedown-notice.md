@@ -1,4 +1,4 @@
-Руководство по подаче уведомления об удалении DMCA - GitHub Docs(function(){
+Руководство по подаче уведомления об удалении DMCA - Документация GitHub(function(){
 var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
 var css=D;
 try{
@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Свернуть боковую панельРазвернуть боковую панель
 
-Scroll breadcrumbs left
+Прокрутите панели навигации слева
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
 4. [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
 
-Scroll breadcrumbs right
+Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------

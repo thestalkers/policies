@@ -1,4 +1,4 @@
-Документация по политике сайта - GitHub Docs(function(){
+Документация по политике сайта - Документация GitHub(function(){
 var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
 var css=D;
 try{
@@ -20,14 +20,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Свернуть боковую панельРазвернуть боковую панель
 
-Scroll breadcrumbs left
+Прокрутите панели навигации слева
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 
-Scroll breadcrumbs right
+Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------

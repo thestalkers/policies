@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+折叠边栏展开侧边栏
 
-Scroll breadcrumbs left
+向左滚动痕迹导航
 
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [安全政策](/zh/site-policy/security-policies)
 4. [协调披露安全漏洞](/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-Scroll breadcrumbs right
+向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------

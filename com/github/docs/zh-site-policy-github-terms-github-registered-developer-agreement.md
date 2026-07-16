@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+折叠边栏展开侧边栏
 
-Scroll breadcrumbs left
+向左滚动痕迹导航
 
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
 4. [GitHub 注册开发人员协议](/zh/site-policy/github-terms/github-registered-developer-agreement)
 
-Scroll breadcrumbs right
+向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------

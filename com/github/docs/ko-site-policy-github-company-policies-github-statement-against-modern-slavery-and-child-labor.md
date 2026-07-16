@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+사이드바 축소사이드바 확장
 
-Scroll breadcrumbs left
+경로를 왼쪽으로 스크롤
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
 4. [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-Scroll breadcrumbs right
+이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------

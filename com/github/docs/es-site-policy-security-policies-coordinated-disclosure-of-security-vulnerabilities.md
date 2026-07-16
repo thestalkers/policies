@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Contraer barra lateralExpandir barra lateral
 
-Scroll breadcrumbs left
+Desplazar las migas de pan a la izquierda
 
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de seguridad](/es/site-policy/security-policies)
 4. [Divulgación coordinada de vulnerabilidades de seguridad](/es/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
 
-Scroll breadcrumbs right
+Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------

@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Randleiste reduzierenRandleiste erweitern
 
-Scroll breadcrumbs left
+Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
 4. [GitHub Bug Bounty-Programm Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Scroll breadcrumbs right
+Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

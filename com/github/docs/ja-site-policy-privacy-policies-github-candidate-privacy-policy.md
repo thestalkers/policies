@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+サイドバーを折りたたむサイドバーを展開する
 
-Scroll breadcrumbs left
+階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
 4. [候補者向け GitHub グローバル データ プライバシー通知](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
 
-Scroll breadcrumbs right
+階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

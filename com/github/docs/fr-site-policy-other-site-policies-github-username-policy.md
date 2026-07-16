@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Réduire la barre latéraleDévelopper la barre latérale
 
-Scroll breadcrumbs left
+Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
 4. [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
 
-Scroll breadcrumbs right
+Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------

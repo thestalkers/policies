@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Randleiste reduzierenRandleiste erweitern
 
-Scroll breadcrumbs left
+Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
 4. [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
 
-Scroll breadcrumbs right
+Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

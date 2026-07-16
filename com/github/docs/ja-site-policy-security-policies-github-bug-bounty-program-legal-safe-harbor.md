@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+サイドバーを折りたたむサイドバーを展開する
 
-Scroll breadcrumbs left
+階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [セキュリティ ポリシー](/ja/site-policy/security-policies)
 4. [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Scroll breadcrumbs right
+階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

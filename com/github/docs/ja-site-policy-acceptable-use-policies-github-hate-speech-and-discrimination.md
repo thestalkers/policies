@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+サイドバーを折りたたむサイドバーを展開する
 
-Scroll breadcrumbs left
+階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [利用規約](/ja/site-policy/acceptable-use-policies)
 4. [憎悪の言葉と差別](/ja/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-Scroll breadcrumbs right
+階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+사이드바 축소사이드바 확장
 
-Scroll breadcrumbs left
+경로를 왼쪽으로 스크롤
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
 4. [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
 
-Scroll breadcrumbs right
+이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------

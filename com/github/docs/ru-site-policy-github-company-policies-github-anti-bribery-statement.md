@@ -1,4 +1,4 @@
-Заявление GitHub о борьбе со взяточничеством - GitHub Docs(function(){
+Заявление GitHub о борьбе со взяточничеством - Документация GitHub(function(){
 var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
 var css=D;
 try{
@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Свернуть боковую панельРазвернуть боковую панель
 
-Scroll breadcrumbs left
+Прокрутите панели навигации слева
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
 4. [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
 
-Scroll breadcrumbs right
+Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------

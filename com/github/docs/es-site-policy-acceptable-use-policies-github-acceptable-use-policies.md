@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Contraer barra lateralExpandir barra lateral
 
-Scroll breadcrumbs left
+Desplazar las migas de pan a la izquierda
 
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
 4. [Políticas de uso aceptable de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
-Scroll breadcrumbs right
+Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------

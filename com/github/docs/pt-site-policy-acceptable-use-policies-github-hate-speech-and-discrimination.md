@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Barra lateral do recolhimentoExpandir barra lateral
 
-Scroll breadcrumbs left
+Deslocar a trilha de navegação para a esquerda
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
 4. [Discriminação e discurso de ódio](/pt/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
 
-Scroll breadcrumbs right
+Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------

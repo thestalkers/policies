@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Barra lateral do recolhimentoExpandir barra lateral
 
-Scroll breadcrumbs left
+Deslocar a trilha de navegação para a esquerda
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Segurança](/pt/site-policy/security-policies)
 4. [GitHub Bug Bounty Program Legal Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
 
-Scroll breadcrumbs right
+Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------

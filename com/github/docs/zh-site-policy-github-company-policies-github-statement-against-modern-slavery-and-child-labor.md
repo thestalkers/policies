@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+折叠边栏展开侧边栏
 
-Scroll breadcrumbs left
+向左滚动痕迹导航
 
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 公司政策](/zh/site-policy/github-company-policies)
 4. [GitHub 反对现代奴役制和童工制的声明](/zh/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
 
-Scroll breadcrumbs right
+向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------

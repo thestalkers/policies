@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+Barra lateral do recolhimentoExpandir barra lateral
 
-Scroll breadcrumbs left
+Deslocar a trilha de navegação para a esquerda
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
 4. [Termos de serviço corporativos do GitHub](/pt/site-policy/github-terms/github-corporate-terms-of-service)
 
-Scroll breadcrumbs right
+Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------

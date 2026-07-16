@@ -20,16 +20,16 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
-Collapse sidebarExpand sidebar
+사이드바 축소사이드바 확장
 
-Scroll breadcrumbs left
+경로를 왼쪽으로 스크롤
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
 4. [DMCA 반론 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
 
-Scroll breadcrumbs right
+이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
