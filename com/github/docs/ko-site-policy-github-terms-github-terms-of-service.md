@@ -259,9 +259,9 @@ GitHub는 개인 리포지토리의 콘텐츠가 귀하에게 기밀이라고 �
 * 귀하는 개인 리포지토리에 있는 귀하의 콘텐츠에 대한 추가 권리가 필요한 다양한 GitHub 서비스 또는 기능을 활성화할 수 있습니다. 이러한 권리는 서비스 또는 기능에 따라 다를 수 있지만 GitHub는 개인 리포지토리 콘텐츠를 계속 기밀로 간주합니다. 이러한 서비스 또는 기능에 GitHub서비스를 제공하는 데 필요한 권리 외의 권리가 필요한 경우, GitHub는 그러한 권리에 대한 설명을 제공합니다.
 * 사용자가 비공개 저장소의 콘텐츠를 AI 기능의 입력으로 제공하는 경우, 당사는 해당 입력을 서비스 제공, 개발, 학습 및 개선(인공지능 기능 포함)을 위해 사용할 수 있습니다. 사용자가 [섹션 J.3](#3-development-and-improvement-using-your-input-and-output)에 따라 선택적으로 거부할 수 있는 권리는 비공개 저장소 콘텐츠의 이러한 사용에도 적용됩니다. 당사는 그 외의 목적으로 사용자의 비공개 저장소 콘텐츠를 서비스 개발 또는 개선에 사용하지 않습니다.
 
-또한 GitHub는 [법률의 강제적 구속력에 의해](/ko/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure) 프라이빗 리포지토리의 콘텐츠를 공개해야 할 수도 있습니다.
+또한 GitHub는 [법률의 강제적 구속력에 의해](/ko/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) 프라이빗 리포지토리의 콘텐츠를 공개해야 할 수도 있습니다.
 
-GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
+GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-general-privacy-statement), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
 
 [F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
 ----------

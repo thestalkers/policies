@@ -259,9 +259,9 @@ Você pode optar por habilitar acesso adicional aos seus repositórios privados.
 * Você pode habilitar vários serviços ou recursos do GitHub que exigem direitos adicionais ao Seu Conteúdo em repositórios privados. Esses direitos podem variar dependendo do serviço ou recurso, mas o GitHub continuará a tratar o conteúdo do seu repositório privado como confidencial. Se esses serviços ou recursos exigirem direitos além daqueles necessários para fornecer o Serviço GitHub, forneceremos uma explicação desses direitos.
 * Se você fornecer seu conteúdo do repositório privado como Entrada para Recursos de IA, podemos usar essa Entrada para fornecer, desenvolver, treinar e aprimorar o Serviço, incluindo Recursos de IA. Sua possibilidade de optar por não participar sob a [Seção J.3](#3-development-and-improvement-using-your-input-and-output) se aplica a esse uso de conteúdo de repositório privado. Não usaremos o conteúdo do seu repositório privado para desenvolver ou aprimorar o Serviço.
 
-Além disso, podemos ser [compelidos por lei](/pt/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure) a divulgar o conteúdo de seus repositórios privados.
+Além disso, podemos ser [compelidos por lei](/pt/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) a divulgar o conteúdo de seus repositórios privados.
 
-O GitHub fornecerá uma notificação sobre nosso acesso ao conteúdo do repositório privado, exceto [para divulgação legal](/pt/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure), para cumprir nossas obrigações legais ou se vinculado por requisitos legais, para verificação automatizada ou em resposta a uma ameaça à segurança ou outro risco à segurança.
+O GitHub fornecerá uma notificação sobre nosso acesso ao conteúdo do repositório privado, exceto [para divulgação legal](/pt/site-policy/privacy-policies/github-general-privacy-statement), para cumprir nossas obrigações legais ou se vinculado por requisitos legais, para verificação automatizada ou em resposta a uma ameaça à segurança ou outro risco à segurança.
 
 [F. Política de violação de direitos autorais e DMCA](#f-copyright-infringement-and-dmca-policy)
 ----------

@@ -259,9 +259,9 @@ GitHub 将私有存储库的内容视为您的机密。 GitHub 将保护私有�
 * 您可以启用需要对私有存储库中的内容拥有额外权限的各种 GitHub 服务或功能。 根据服务或功能的不同，这些权利可能有所不同，但 GitHub 仍会将您的私有存储库内容视为机密信息。 如果这些服务或功能除了我们提供 GitHub 服务所需的权利之外，还需要其他权利，我们将对这些权利进行解释。
 * 如果您将私有存储库的内容作为 AI 功能的输入提供，我们可能会使用该输入来提供、开发、训练和改进服务，包括 AI 功能。 您依据[第 J.3 节](#3-development-and-improvement-using-your-input-and-output)享有的退出权利，适用于该等对私有存储库内容的使用。 否则，我们不会使用您私有存储库的内容来开发和改进服务。
 
-此外，我们可能会[按法律要求](/zh/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
+此外，我们可能会[按法律要求](/zh/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)披露您的私有存储库的内容。
 
-除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
+除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-general-privacy-statement)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
 
 [F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
 ----------

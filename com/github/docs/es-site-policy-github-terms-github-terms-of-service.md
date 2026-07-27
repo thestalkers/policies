@@ -259,9 +259,9 @@ Puede optar por habilitar el acceso adicional a sus repositorios privados. Por e
 * Puede habilitar varios servicios o funciones de GitHub que requieren derechos adicionales sobre Su Contenido en repositorios privados. Estos derechos pueden variar según el servicio o la función, pero GitHub continuará tratando el Contenido de su repositorio privado como confidencial. Si esos servicios o funciones requieren derechos además de los que necesitamos para proporcionar el Servicio GitHub, proporcionaremos una explicación de esos derechos.
 * Si facilita el contenido de su repositorio privado como Entrada a las Funciones de IA, podremos utilizar dicha Entrada para la prestación, desarrollo, entrenamiento y mejora del Servicio, incluidas las Funciones de IA. Su derecho de exclusión conforme al [apartado J.3](#3-development-and-improvement-using-your-input-and-output) resulta aplicable al uso del contenido de repositorios privados. No utilizaremos, en ningún otro supuesto, el contenido de sus repositorios privados para el desarrollo o la mejora del Servicio.
 
-Además, puede suceder que estemos [obligados por ley](/es/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure) a revelar el contenido de los repositorios privados.
+Además, puede suceder que estemos [obligados por ley](/es/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) a revelar el contenido de los repositorios privados.
 
-GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
+GitHub proporcionará un aviso acerca de nuestro acceso al contenido del repositorio privado, a menos que sea [para divulgación legal](/es/site-policy/privacy-policies/github-general-privacy-statement), para cumplir nuestras obligaciones legales o cuando así lo requiera la ley, para el escaneo automatizado o en respuesta a una amenaza a la seguridad u otro riesgo para la seguridad.
 
 [F. Infracción de derechos de autor y política de DMCA](#f-copyright-infringement-and-dmca-policy)
 ----------
