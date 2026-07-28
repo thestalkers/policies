@@ -259,9 +259,9 @@ GitHub は、プライベート リポジトリにあるコンテンツをお客
 * お客様は、プライベート リポジトリのお客様のコンテンツに対する追加の権利を必要とするさまざまな GitHub サービスまたは機能を有効にすることができます。 これらの権利はサービスまたは機能によって異なる場合がありますが、GitHub は引き続きお客様のプライベート リポジトリ内のコンテンツを機密情報として取り扱います。 これらのサービスまたは機能が当社が GitHub サービスを提供するために必要な権利に加えてさらなる権利を必要とする場合、当社はそれらの権利の説明を提供します。
 * プライベート リポジトリコンテンツを AI 機能への入力として提供する場合、その入力を使用して、AI 機能を含むサービスの提供、開発、トレーニング、改善を行う場合があります。 [セクション J.3](#3-development-and-improvement-using-your-input-and-output) でオプトアウトする機能は、このプライベート リポジトリ コンテンツの使用に適用されます。 それ以外の場合、お客様のプライベート リポジトリコンテンツを使用してサービスを開発または改善することはできません。
 
-さらに、当社は[法律により](/ja/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
+さらに、当社は[法律により](/ja/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
 
-GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-general-privacy-statement#for-legal-disclosure)、当社の法的責務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
+GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-general-privacy-statement)、当社の法的責務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
 
 [F. 著作権侵害と DMCA ポリシー](#f-copyright-infringement-and-dmca-policy)
 ----------
