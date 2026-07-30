@@ -56,7 +56,7 @@ Markdown としてコピー
 * [プレビュー](#previews)
 * [Sponsors プログラム](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
-* [GitHub モデル](#github-models)
+* [GitHub モデル](#github-モデル)
 
 このバージョンの発効日: 2026 年 4 月 27 日
 
@@ -210,7 +210,7 @@ GitHub Sponsors により、開発者コミュニティは、日々活用して�
 
 お客様は、Linux ファイル用の Microsoft SQL Server Standard Edition コンテナー イメージ (以下「SQL Server Images」といいます) をダウンロードできます。 お客様の本ソフトウェアの使用権が終了した場合は、SQL Server Images をアンインストールしなければなりません。 また、Microsoft Corporation は、随時 SQL Server Images を無効にすることができます。
 
-[GitHub モデル](#github-models)
+[GitHub モデル](#github-モデル)
 ----------
 
 GitHub モデルは、GitHub.com で人工知能モデルを学習、試用、テストできる機能です。 GitHub モデルには、[GitHub Marketplace](https://github.com/marketplace) 経由でアクセスできます。 GitHub モデルの詳細については、「[AI モデルを使用したプロトタイプ作成](/ja/github-models/use-github-models/prototyping-with-ai-models)」に関するページを参照してください。

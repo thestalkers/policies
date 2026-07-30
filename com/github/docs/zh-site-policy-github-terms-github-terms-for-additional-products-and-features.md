@@ -56,7 +56,7 @@ GitHub 附加产品和功能条款
 * [预览版](#previews)
 * [赞助商计划](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
-* [GitHub 模型](#github-models)
+* [GitHub 模型](#github-模型)
 
 版本生效日期：2026 年 4 月 27 日
 
@@ -210,7 +210,7 @@ GitHub 赞助商计划允许开发人员社区直接在 GitHub 上为设计、�
 
 您可以下载适用于 Linux 文件的 Microsoft SQL Server 标准版容器映像（“SQL Server Images”）。 当您对该软件的使用权利终止时，您必须卸载 SQL Server Images。 Microsoft Corporation 可随时禁用 SQL Server Images。
 
-[GitHub 模型](#github-models)
+[GitHub 模型](#github-模型)
 ----------
 
 GitHub 模型是一项功能，可用于在 GitHub.com 上学习、试用和测试人工智能模型。 可以通过 [GitHub Marketplace](https://github.com/marketplace) 访问 GitHub 模型。 通过访问 [AI 模型的原型制作](/zh/github-models/use-github-models/prototyping-with-ai-models)，详细了解 GitHub 模型。
