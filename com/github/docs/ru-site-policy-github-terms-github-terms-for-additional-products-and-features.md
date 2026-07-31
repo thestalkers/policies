@@ -56,7 +56,6 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 * [Preview](#previews)
 * [Спонсорская программа](#sponsors-program)
 * [SQL Server Images](#sql-server-images)
-* [Модели GitHub](#модели-github)
 
 Дата вступления версии в силу: 27 апреля 2026 года
 
@@ -209,10 +208,3 @@ GitHub Sponsors позволяет сообществу разработчико
 ----------
 
 Вы можете загрузить образ контейнера Microsoft SQL Server Standard Edition для файлов Linux ("SQL Server Images"). Вы должны удалить SQL Server Images после прекращения права на использование Программного обеспечения. Корпорация Microsoft может отключить SQL Server Images в любой момент.
-
-[Модели GitHub](#модели-github)
-----------
-
-Модели GitHub — это функция, которая позволяет изучать, пробовать и тестировать модели искусственного интеллекта на GitHub.com. Вы можете получить доступ к моделям GitHub в [GitHub Marketplace](https://github.com/marketplace). Дополнительные сведения о моделях GitHub см. в статье [Прототипирование с помощью моделей ИИ](/ru/github-models/use-github-models/prototyping-with-ai-models).
-
-Использование этой функции зависит от условий компании, размещающей модель, и от лицензии модели.

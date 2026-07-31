@@ -56,7 +56,6 @@ In diesem Artikel
 * [Vorschauen](#previews)
 * [Sponsors Programm](#sponsors-program)
 * [SQL Server-Images](#sql-server-images)
-* [GitHub-Modelle](#github-modelle)
 
 Datum des Inkrafttretens dieser Fassung: 27. April 2026
 
@@ -209,10 +208,3 @@ GitHub-Sponsoren ermöglichen es der Entwickler-Community, direkt auf GitHub die
 ----------
 
 Sie können Microsoft SQL Server Standard Edition-Container-Image für Linux-Dateien („SQL Server-Images“) herunterladen. Sie müssen die SQL Server-Images deinstallieren, wenn Ihre Berechtigung zur Nutzung der Software endet. Die Microsoft Corporation kann SQL Server-Images jederzeit deaktivieren.
-
-[GitHub-Modelle](#github-modelle)
-----------
-
-GitHub-Modelle ist ein Feature, mit dem Sie Modelle der künstlichen Intelligenz auf GitHub.com lernen, ausprobieren und testen können. Sie können auf GitHub-Modelle über den [GitHub Marketplace](https://github.com/marketplace) zugreifen. Erfahren Sie mehr über GitHub-Modelle, indem Sie [Prototypen mit KI-Modellen](/de/github-models/use-github-models/prototyping-with-ai-models) besuchen.
-
-Ihre Verwendung dieses Features unterliegt den Bedingungen des Unternehmens, das das Modell und die Modelllizenz hosten.
