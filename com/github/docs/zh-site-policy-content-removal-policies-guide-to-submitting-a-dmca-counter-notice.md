@@ -95,7 +95,7 @@ DMCA 抗辩通知提交指南
 [如何提交抗辩通知](#how-to-submit-your-counter-notice)
 ----------
 
-获得回复的最快方式是在我们的 [版权声明表](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
+获得回复的最快方式是在我们的[版权声明表单](https://github.com/contact/dmca) 中输入您的信息并回答所有问题。
 
 你也可以发送电子邮件通知到 [copyright@github.com](mailto:copyright@github.com)。 您可以包含附件（如果您愿意），但在邮件正文中也应包含邮件的纯文本版本。
 

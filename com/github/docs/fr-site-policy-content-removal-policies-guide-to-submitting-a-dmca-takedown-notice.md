@@ -112,7 +112,7 @@ Cette liste n'est pas exhaustive, c'est pourquoi parler à un professionnel du d
 [Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
 ----------
 
-La Loi sur le droit d'auteur interdit également le contournement des mesures techniques qui contrôlent effectivement l'accès aux œuvres protégées par le droit d'auteur. Si vous pensez qu’un contenu hébergé sur GitHub viole cette interdiction, veuillez nous envoyer un rapport en utilisant notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca). Une allégation de contournement doit inclure les détails suivants sur les mesures techniques en place et la manière dont le projet accusé les contourne. Plus précisément, l'avis à GitHub doit inclure des déclarations détaillées décrivant :
+La Loi sur le droit d'auteur interdit également le contournement des mesures techniques qui contrôlent effectivement l'accès aux œuvres protégées par le droit d'auteur. Si vous pensez qu’un contenu hébergé sur GitHub viole cette interdiction, veuillez nous envoyer un rapport en utilisant notre[Formulaire de revendications de droits d’auteur](https://github.com/contact/dmca). Une allégation de contournement doit inclure les détails suivants sur les mesures techniques en place et la manière dont le projet accusé les contourne. Plus précisément, l'avis à GitHub doit inclure des déclarations détaillées décrivant :
 
 1. Quelles sont les mesures techniques ;
 2. Comment ils contrôlent efficacement l'accès au matériel protégé par le droit d'auteur ;
@@ -121,7 +121,7 @@ La Loi sur le droit d'auteur interdit également le contournement des mesures te
 [Comment soumettre votre plainte](#how-to-submit-your-complaint)
 ----------
 
-Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca).
+Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre[Formulaire de revendications de droits d’auteur](https://github.com/contact/dmca).
 
 Vous pouvez également envoyer une notification par courrier à [copyright@github.com](mailto:copyright@github.com). Vous pouvez inclure une pièce jointe si vous le souhaitez, mais veuillez également inclure une version en texte brut de votre lettre dans le corps de votre message.
 

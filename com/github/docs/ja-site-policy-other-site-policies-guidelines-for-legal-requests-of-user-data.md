@@ -299,4 +299,4 @@ GitHub は、刑事共助条約 (「MLAT」) または嘱託書を通じて米�
 [質問](#questions)
 ----------
 
-その他の質問、意見、提案がありますか? [GitHub サポート ポータル](https://support.github.com)にご連絡ください。
+その他の質問、意見、提案がありますか?[GitHub サポート ポータル](https://support.github.com)にご連絡ください。

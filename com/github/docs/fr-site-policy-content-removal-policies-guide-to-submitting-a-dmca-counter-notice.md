@@ -95,7 +95,7 @@ Ce ne sont là que quelques exemples de la complexité de la législation sur le
 [Comment soumettre votre contre-avis](#how-to-submit-your-counter-notice)
 ----------
 
-Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre [Formulaire de revendication de droits d’auteur](https://github.com/contact/dmca).
+Le moyen le plus rapide d’obtenir une réponse est de saisir vos informations et de répondre à toutes les questions de notre[Formulaire de revendications de droits d’auteur](https://github.com/contact/dmca).
 
 Vous pouvez également envoyer une notification par courrier à [copyright@github.com](mailto:copyright@github.com). Vous pouvez inclure une pièce jointe si vous le souhaitez, mais veuillez également inclure une version en texte brut de votre lettre dans le corps de votre message.
 

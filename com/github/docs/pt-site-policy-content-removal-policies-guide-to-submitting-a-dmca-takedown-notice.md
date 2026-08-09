@@ -112,7 +112,7 @@ Esta lista não é exaustiva, e é por isso que falar com um profissional juríd
 [Reclamações sobre a tecnologia anti-evasão](#complaints-about-anti-circumvention-technology)
 ----------
 
-A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso [Formulário de declarações de direitos autorais](https://github.com/contact/dmca). Uma reivindicação de evasão deve incluir os seguintes detalhes sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as contorna. Especificamente, o aviso ao GitHub deve incluir declarações detalhadas que descrevam:
+A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas que efetivamente controlam o acesso a obras protegidas por direitos autorais. Se você acredita que o conteúdo hospedado no GitHub viola essa proibição, envie-nos um relatório por meio de nosso[Formulário de declarações de direitos autorais](https://github.com/contact/dmca). Uma reivindicação de evasão deve incluir os seguintes detalhes sobre as medidas técnicas em vigor e a maneira pela qual o projeto acusado as contorna. Especificamente, o aviso ao GitHub deve incluir declarações detalhadas que descrevam:
 
 1. Quais são as medidas técnicas;
 2. Como eles efetivamente controlam o acesso ao material protegido por direitos autorais; e
@@ -121,7 +121,7 @@ A Lei de Direitos Autorais também proíbe a evasão de medidas tecnológicas qu
 [Como enviar sua reclamação](#how-to-submit-your-complaint)
 ----------
 
-A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso [Formulário de declarações de direitos autorais](https://github.com/contact/dmca).
+A maneira mais rápida de obter uma resposta é inserir suas informações e responder a todas as perguntas em nosso[Formulário de declarações de direitos autorais](https://github.com/contact/dmca).
 
 Você também pode enviar uma notificação por email para [copyright@github.com](mailto:copyright@github.com). Você pode incluir um anexo, se desejar, mas inclua também uma versão em texto simples de sua carta no corpo de sua mensagem.
 

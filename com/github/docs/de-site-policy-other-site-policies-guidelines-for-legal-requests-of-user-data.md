@@ -299,4 +299,4 @@ GitHub wird unverzüglich auf Ersuchen reagieren, die über ein US-Gericht im We
 [Fragen](#questions)
 ----------
 
-Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Bitte wenden Sie sich an uns über das [GitHub-Support-Portal](https://support.github.com).
+Haben Sie weitere Fragen, Anmerkungen oder Anregungen? Bitte wenden Sie sich an uns über das [GitHub Supportportal](https://support.github.com).

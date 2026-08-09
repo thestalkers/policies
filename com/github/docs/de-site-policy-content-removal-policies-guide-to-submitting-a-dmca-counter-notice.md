@@ -96,7 +96,7 @@ Dies sind nur einige Beispiele für die Komplexität des Urheberrechts. Da es in
 [So reichen Sie Ihre Gegendarstellung ein](#how-to-submit-your-counter-notice)
 ----------
 
-Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.
+Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem[Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.
 
 Sie können auch eine E-Mail-Benachrichtigung an [copyright@github.com](mailto:copyright@github.com) senden. Sie können einen Anhang hinzufügen, wenn Sie möchten, aber bitte fügen Sie auch eine Nur-Text-Version Ihres Briefes in den Text Ihrer Nachricht ein.
 

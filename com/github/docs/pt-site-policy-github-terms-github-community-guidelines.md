@@ -82,7 +82,7 @@ Embora algumas divergências possam ser resolvidas com comunicação direta e re
 
 * **Limite as interações** – Se o seu projeto público estiver recebendo atenção indesejada, sendo trollado, sendo enviado como spam ou de outra forma, você terá a opção de configurar [limites de interação temporária](/pt/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository) para impedir que determinados usuários interajam com o repositório. Você pode até definir [limites de revisão de código](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes) para garantir contribuições de qualidade em seus projetos.
 
-Embora sejamos entusiastas da ideia de capacitar os mantenedores a moderar seus próprios projetos, entre em contato com conosco por meio do [Portal de suporte do GitHub](https://support.github.com) se precisar de suporte adicional para lidar com uma situação.
+Embora sejamos entusiastas da ideia de capacitar os mantenedores a moderar seus próprios projetos, entre em contato com nos por meio do portal se precisar de suporte adicional para lidar com uma situação.
 
 [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
 ----------

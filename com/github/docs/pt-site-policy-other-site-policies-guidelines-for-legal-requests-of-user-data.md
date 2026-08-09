@@ -299,4 +299,4 @@ O GitHub responderá prontamente às solicitações emitidas por meio de um trib
 [Dúvidas](#questions)
 ----------
 
-Você tem outras perguntas, comentários ou sugestões? Entre em contato com conosco por meio do [Portal de suporte do GitHub](https://support.github.com).
+Você tem outras perguntas, comentários ou sugestões? Entre em contato com nos por meio do portal .

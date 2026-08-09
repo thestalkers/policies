@@ -112,7 +112,7 @@ Diese Liste ist nicht vollständig, weshalb es beim Umgang mit Code doppelt wich
 [Beschwerden über Antiumgehungstechnologie](#complaints-about-anti-circumvention-technology)
 ----------
 
-Das Urheberrechtsgesetz verbietet auch die Umgehung technischer Maßnahmen, die den Zugang zu urheberrechtlich geschützten Werken wirksam kontrollieren. Wenn Sie glauben, dass auf GitHub gehostete Inhalte gegen dieses Verbot verstoßen, senden Sie uns bitte einen Bericht über unseren [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca). Eine Umgehungsklage muss die folgenden Angaben zu den eingesetzten technischen Maßnahmen und der Art und Weise, wie sie durch das beschuldigte Projekt umgangen werden, enthalten. Insbesondere muss die Mitteilung an GitHub detaillierte Erklärungen enthalten, die Folgendes beschreiben:
+Das Urheberrechtsgesetz verbietet auch die Umgehung technischer Maßnahmen, die den Zugang zu urheberrechtlich geschützten Werken wirksam kontrollieren. Wenn Sie glauben, dass auf GitHub gehostete Inhalte gegen dieses Verbot verstoßen, senden Sie uns bitte einen Bericht über unseren[Formular für Urheberrechtsansprüche](https://github.com/contact/dmca). Eine Umgehungsklage muss die folgenden Angaben zu den eingesetzten technischen Maßnahmen und der Art und Weise, wie sie durch das beschuldigte Projekt umgangen werden, enthalten. Insbesondere muss die Mitteilung an GitHub detaillierte Erklärungen enthalten, die Folgendes beschreiben:
 
 1. Was sind die technischen Maßnahmen?
 2. Wie sie den Zugriff auf das urheberrechtlich geschützte Material effektiv kontrollieren; und
@@ -121,7 +121,7 @@ Das Urheberrechtsgesetz verbietet auch die Umgehung technischer Maßnahmen, die 
 [So reichen Sie Ihre Beschwerde ein](#how-to-submit-your-complaint)
 ----------
 
-Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem [Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.
+Sie erhalten am schnellsten eine Antwort, wenn Sie Ihre Informationen auf unserem[Formular für Urheberrechtsansprüche](https://github.com/contact/dmca) eingeben und dort alle Fragen beantworten.
 
 Sie können auch eine E-Mail-Benachrichtigung an [copyright@github.com](mailto:copyright@github.com) senden. Sie können einen Anhang hinzufügen, wenn Sie möchten, aber bitte fügen Sie auch eine Nur-Text-Version Ihres Briefes in den Text Ihrer Nachricht ein.
 

@@ -95,7 +95,7 @@ GitHub에 있는 귀하의 콘텐츠가 DMCA 게시 중단 요청에 의해 실�
 [반론 통지 제출 방법](#how-to-submit-your-counter-notice)
 ----------
 
-가장 빠르게 응답을 받는 방법은 정보를 입력하고 [저작권 청구 양식](https://github.com/contact/dmca)의 모든 질문에 답하는 것입니다.
+가장 빠르게 응답을 받는 방법은 정보를 입력하고[저작권 청구 양식](https://github.com/contact/dmca)의 모든 질문에 답하는 것입니다.
 
 이메일 알림을 [copyright@github.com](mailto:copyright@github.com)에 보낼 수도 있습니다. 원하는 경우 첨부 파일을 포함할 수도 있지만 메시지 본문에 요청의 일반 텍스트 버전도 포함하십시오.
 
