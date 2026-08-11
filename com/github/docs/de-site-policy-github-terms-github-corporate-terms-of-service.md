@@ -195,7 +195,7 @@ Die Nutzung des Dienstes durch den Kunden muss den [Richtlinien zur akzeptablen 
 
 ### [3. Datenschutz](#3-privacy) ###
 
-Die [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement) und die [GitHub Datenschutzvereinbarung](https://github.com/customer-terms) enthalten ausführliche Hinweise zu den Datenschutz- und Datennutzungspraktiken von GitHub sowie zu den Verarbeitungs- und Sicherheitsverpflichtungen von GitHub in Bezug auf personenbezogene Kundendaten. Jede natürliche oder juristische Person oder jeder Dienst, die bzw. der Daten aus dem Dienst erfasst, muss die GitHub-Datenschutzerklärung einhalten, insbesondere in Bezug auf die Erfassung personenbezogener Daten (wie in der GitHub-Datenschutzerklärung definiert). Wenn der Kunde personenbezogene Daten aus GitHub erfasst, verwendet der Kunde diese nur für den Zweck, für den der externe Benutzer sie freigegeben hat. Der Kunde sichert solche personenbezogenen Daten angemessen und reagiert unverzüglich auf Beschwerden, Entfernungsanfragen und „Nicht-Kontaktieren“-Anfragen von GitHub oder externen Benutzern.
+Die [GitHub Datenschutzerklärung](/de/site-policy/privacy-policies/github-general-privacy-statement) und die [GitHub Datenschutzvereinbarung](https://github.com/customer-terms) enthalten ausführliche Hinweise zu den Datenschutz- und Datennutzungspraktiken von GitHub sowie zu den Verarbeitungs- und Sicherheitsverpflichtungen von GitHub in Bezug auf personenbezogene Kundendaten. Jede natürliche oder juristische Person oder jeder Dienst, die bzw. der Daten aus dem Dienst erfasst, muss die GitHub-Datenschutzerklärung einhalten, insbesondere in Bezug auf die Erfassung personenbezogener Daten (wie in der GitHub-Datenschutzerklärung definiert). Wenn der Kunde personenbezogene Daten aus GitHub erfasst, verwendet der Kunde diese nur für den Zweck, für den der externe Benutzer sie freigegeben hat. Der Kunde sichert solche personenbezogenen Daten angemessen und reagiert unverzüglich auf Beschwerden, Entfernungsanfragen und „Nicht-Kontaktieren“-Anfragen von GitHub oder externen Benutzern.
 
 [D. Inhaltliche Verantwortung; Eigentum; Lizenzrechte](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ GitHub betrachtet Kundeninhalte in den privaten Repositories des Kunden als vert
 
 ### [3. Zugriff](#3-access) ###
 
-GitHub Mitarbeiter dürfen nur in den in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-privacy-statement#repository-contents) beschriebenen Situationen auf Private Repositories des Kunden zugreifen.
+GitHub Mitarbeiter dürfen nur in den in unserer [Datenschutzerklärung](/de/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access) beschriebenen Situationen auf Private Repositories des Kunden zugreifen.
 
 Der Kunde kann entscheiden, zusätzlichen Zugriff auf seine privaten Repositories zu ermöglichen. Beispielsweise kann der Kunde verschiedene GitHub-Dienste oder -Funktionen aktivieren, die zusätzliche Rechte an Kundeninhalten in privaten Repositories erfordern. Diese Rechte können je nach Dienst oder Funktion variieren, aber GitHub wird Kundeninhalte in den privaten Repositories des Kunden weiterhin als vertrauliche Informationen des Kunden behandeln. Wenn diese Dienste oder Funktionen zusätzlich zu den für die Bereitstellung des Dienstes erforderlichen Rechten erforderlich sind, wird GitHub eine Erläuterung dieser Rechte bereitstellen.
 
-Darüber hinaus können wir [gesetzlich verpflichtet](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) sein, Inhalte in Ihren privaten Repositorys offenzulegen.
+Darüber hinaus können wir [gesetzlich verpflichtet](/de/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) sein, Inhalte in Ihren privaten Repositorys offenzulegen.
 
-GitHub informiert über unseren Zugriff auf private Repository-Inhalte, es sei denn es geht um [rechtliche Offenlegung](/de/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), um unseren gesetzlichen Verpflichtungen nachzukommen, oder wenn anderweitig gesetzlich vorgeschrieben, für automatisiertes Scannen oder als Reaktion auf eine Sicherheitsbedrohung oder ein anderes Sicherheitsrisiko.
+GitHub informiert über unseren Zugriff auf private Repository-Inhalte, es sei denn es geht um [rechtliche Offenlegung](/de/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data), um unseren gesetzlichen Verpflichtungen nachzukommen, oder wenn anderweitig gesetzlich vorgeschrieben, für automatisiertes Scannen oder als Reaktion auf eine Sicherheitsbedrohung oder ein anderes Sicherheitsrisiko.
 
 [F. Hinweis zu Rechten an geistigem Eigentum](#f-intellectual-property-notice)
 ----------

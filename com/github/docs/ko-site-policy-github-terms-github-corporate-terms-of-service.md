@@ -195,7 +195,7 @@ GitHub Enterprise Cloud에 대한 GitHub의 분기별 작동 시간 약정은 [E
 
 ### [3. 개인 정보 보호](#3-privacy) ###
 
-[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement) 및 [GitHub 데이터 보호 계약](https://github.com/customer-terms)은 GitHub의 개인 정보 보호 및 데이터 사용 관행은 물론, 고객 개인 데이터에 대한 GitHub의 처리 및 보안 의무를 자세히 공지합니다. 서비스를 출처로 한 데이터를 수집하는 모든 개인, 단체 또는 서비스는 특히 (GitHub 개인정보처리방침에 정의된 바와 같이) 개인 정보의 수집과 관련하여 GitHub 개인정보처리방침을 준수해야 합니다. GitHub에서 개인 정보를 수집하는 경우, 고객은 외부 사용자가 승인한 목적으로만 동 정보를 사용합니다. 고객은 그러한 모든 개인 정보를 합당하게 보호하며 GitHub 또는 외부 사용자의 불만 사항, 제거 요청, "연락 금지" 요청 등에 즉시 응답합니다.
+[GitHub 개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement) 및 [GitHub 데이터 보호 계약](https://github.com/customer-terms)은 GitHub의 개인 정보 보호 및 데이터 사용 관행은 물론, 고객 개인 데이터에 대한 GitHub의 처리 및 보안 의무를 자세히 공지합니다. 서비스를 출처로 한 데이터를 수집하는 모든 개인, 단체 또는 서비스는 특히 (GitHub 개인정보처리방침에 정의된 바와 같이) 개인 정보의 수집과 관련하여 GitHub 개인정보처리방침을 준수해야 합니다. GitHub에서 개인 정보를 수집하는 경우, 고객은 외부 사용자가 승인한 목적으로만 동 정보를 사용합니다. 고객은 그러한 모든 개인 정보를 합당하게 보호하며 GitHub 또는 외부 사용자의 불만 사항, 제거 요청, "연락 금지" 요청 등에 즉시 응답합니다.
 
 [D. 콘텐츠 책임, 소유권, 라이선스 권리](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ GitHub는 고객의 개인 리포지토리에 있는 고객 콘텐츠를 고객�
 
 ### [3. 액세스](#3-access) ###
 
-GitHub 직원은 당사의 [개인정보처리방침](/ko/site-policy/privacy-policies/github-privacy-statement#repository-contents)에 설명된 상황에서만 고객의 프라이빗 리포지토리에 액세스할 수 있습니다.
+GitHub 직원은 당사의 [개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access)에 설명된 상황에서만 고객의 프라이빗 리포지토리에 액세스할 수 있습니다.
 
 고객은 개인 리포지토리에 대한 추가 액세스를 사용하도록 선택할 수 있습니다. 예를 들어, 고객은 개인 리포지토리의 고객 콘텐츠에 대한 추가 권한이 필요한 다양한 GitHub 서비스 또는 기능을 사용할 수 있습니다. 이러한 권한은 해당 서비스 또는 기능에 따라 다를 수 있으며 다만 GitHub는 고객의 개인 리포지토리에 있는 고객 콘텐츠를 고객의 비밀 정보로 계속 간주합니다. 이러한 서비스 또는 기능에서 서비스를 제공하는 데 필요한 권한 외에 추가적인 권한이 필요한 경우, GitHub는 그러한 권한에 대한 설명을 제공합니다.
 
-또한 GitHub는 [법률의 강제적 구속력에 의해](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) 프라이빗 리포지토리의 콘텐츠를 공개해야 할 수도 있습니다.
+또한 GitHub는 [법률의 강제적 구속력에 의해](/ko/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) 프라이빗 리포지토리의 콘텐츠를 공개해야 할 수도 있습니다.
 
-GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
+GitHub는 [합법적 공개](/ko/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data), GitHub의 법적 의무 준수를 위해 또는 법률에 따른 요구 사항에 의해 그 밖의 방법으로 구속되는 경우, 자동화된 스캔 또는 보안 위협이나 기타 보안상 위험에 대응하는 경우가 아닌 한 프라이빗 리포지토리 콘텐츠에 대한 GitHub의 액세스에 관해 통지합니다.
 
 [F. 지적 재산권 고지](#f-intellectual-property-notice)
 ----------

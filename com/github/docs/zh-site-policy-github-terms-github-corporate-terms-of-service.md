@@ -152,9 +152,9 @@ GitHub 公司服务条款已于 2021 年 11 月 30 日弃用，不再适用于�
 
 ### [1.帐户控制。](#1-account-controls) ###
 
-* 用户。 客户确认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub 的标准服务条款](/zh/site-policy/github-terms/github-terms-of-service)管辖用户对服务的使用，但第 B 节下所述的用户活动除外。
+* *用户。* 客户确认，用户对其个人帐户及其中的内容保留最终的管理控制权。 [GitHub 的标准服务条款](/zh/site-policy/github-terms/github-terms-of-service)管辖用户对服务的使用，但第 B 节下所述的用户活动除外。
 
-* 组织。 根据第 B 节，客户对代表客户创建的任何组织以及发布到其组织内存储库的用户生成内容具有最终管理控制权。第 B 节管辖客户组织的使用。
+* *组织。* 根据第 B 节，客户对代表客户创建的任何组织以及发布到其组织内存储库的用户生成内容具有最终管理控制权。第 B 节管辖客户组织的使用。
 
 ### [2.帐户要求](#2-account-requirements) ###
 
@@ -195,7 +195,7 @@ GitHub 在[企业服务级别协议](/zh/site-policy/site-policy-deprecated/gith
 
 ### [3.隐私](#3-privacy) ###
 
-[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement)和 [GitHub 数据保护协议](https://github.com/customer-terms)详细说明了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 从服务收集数据的任何个人、实体或服务都必须遵守 GitHub 隐私声明，尤其是在收集个人数据方面（如 GitHub 隐私声明中所定义）。 如果客户从 GitHub 收集任何个人信息，则客户只会将其用于外部用户授权的目的。 客户将合理地保护任何此类个人信息，并且客户会及时回应 GitHub 或外部用户的投诉、删除请求和“请勿联系”请求。
+[GitHub 隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)和 [GitHub 数据保护协议](https://github.com/customer-terms)详细说明了 GitHub 的隐私保护和数据使用实践，以及 GitHub 在处理和保护客户个人数据方面的义务。 从服务收集数据的任何个人、实体或服务都必须遵守 GitHub 隐私声明，尤其是在收集个人数据方面（如 GitHub 隐私声明中所定义）。 如果客户从 GitHub 收集任何个人信息，则客户只会将其用于外部用户授权的目的。 客户将合理地保护任何此类个人信息，并且客户会及时回应 GitHub 或外部用户的投诉、删除请求和“请勿联系”请求。
 
 [D. 内容责任；所有权；许可权利](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ GitHub 将客户私有存储库中的客户内容视为客户的机密信息。 
 
 ### [3.访问](#3-access) ###
 
-GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-policies/github-privacy-statement#repository-contents)所述的情况下访问客户的私有存储库。
+GitHub 工作人员只能在我们的[隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access)所述的情况下访问客户的私有存储库。
 
 客户可选择对其私有存储库启用额外访问权限。 例如，客户可以启用需要对私有存储库中的客户内容拥有额外权限的各种 GitHub 服务或功能。 根据服务或功能的不同，这些权利可能有所不同，但 GitHub 仍会将客户私有存储库中的客户内容视为客户的机密信息。 如果这些服务或功能除了提供服务所需的权利之外，还需要其他权利，GitHub 将对这些权利进行解释。
 
-此外，我们可能会[按法律要求](/zh/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)披露您的私有存储库的内容。
+此外，我们可能会[按法律要求](/zh/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)披露您的私有存储库的内容。
 
-除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
+除非[出于法律披露目的](/zh/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)、为了履行我们的法律义务或遵循法律要求的其他约束、出于自动审查目的，或者为了应对安全威胁或其他安全风险，否则 GitHub 将提供有关我们访问私有存储库内容的通知。
 
 [F. 知识产权声明](#f-intellectual-property-notice)
 ----------

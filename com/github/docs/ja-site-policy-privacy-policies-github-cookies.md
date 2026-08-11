@@ -44,9 +44,9 @@ Markdown としてコピー
 
 GitHub は、お客様のデータを当社がどのように利用するか、お客様のデータを当社がどのように収集するか、およびお客様のデータを誰と共有するかについて、高い透明性を提供します。 その目的のため、このページでは当社が Cookie をどのように使用するかについて説明します。
 
-GitHub は、Web サイトを提供および保護し、Web サイトの利用状況を分析して優れたユーザー エクスペリエンスを提供するために Cookie を使用します。 Cookie に関して、および Cookie や Cookie に関連する個人データを当社がどのように、なぜ使用するかについて詳しくお知りになりたい場合は、当社の[プライバシーに関する声明](/ja/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies)をご覧ください。 必須ではない Cookie に関する個人設定は、[こちらの手順](/ja/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages)に従っていつでも変更できます。
+GitHub は、Web サイトを提供および保護し、Web サイトの利用状況を分析して優れたユーザー エクスペリエンスを提供するために Cookie を使用します。 Cookie に関して、および Cookie や Cookie に関連する個人データを当社がどのように、なぜ使用するかについて詳しくお知りになりたい場合は、当社の[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-general-privacy-statement#our-use-of-cookies-and-tracking-technologies)をご覧ください。 必須ではない Cookie に関する個人設定は、[こちらの手順](/ja/account-and-profile/how-tos/account-settings/manage-cookie-preferences)に従っていつでも変更できます。
 
-Cookie の数や名前は変わることがあるため、以下の表も適時更新されることがあります。 この一覧が更新されたときに通知を受け取るには、「[通知について](/ja/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)」に記載されている手順のようにしてください。
+Cookie の数や名前は変わることがあるため、以下の表も適時更新されることがあります。 この一覧が更新されたときに通知を受け取るには、「[通知について](/ja/subscriptions-and-notifications/concepts/about-notifications)」に記載されている手順のようにしてください。
 
 |                                 Cookie のプロバイダー                                 |                 Cookie 名                  |                                                                           説明                                                                            |                                有効期間\*                                 |
 |--------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|

@@ -195,7 +195,7 @@ GitHub Enterprise クラウドに対する GitHub の四半期ごとの稼働時
 
 ### [3.プライバシー](#3-privacy) ###
 
-[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement)および [GitHub データ保護契約](https://github.com/customer-terms)は、GitHub のプライバシーおよびデータ使用慣行、ならびにお客様の個人データに関する GitHub の処理およびセキュリティ義務について、詳細な通知を提供します。 本サービスからデータを収集するあらゆる個人、法人、またはサービスは、特に個人データ (GitHub のプライバシーに関する声明にて定義) の収集に関して、GitHub のプライバシーに関する声明に従わなければなりません。 お客様が GitHub から個人情報を収集する場合、お客様は、外部ユーザーが許可した目的にのみその情報を使用するものとします。 お客様は、かかる個人情報を合理的に保護するものとし、GitHub または外部ユーザーからの苦情、削除要求、および「連絡拒否」の要求に速やかに対応するものとします。
+[GitHub のプライバシーに関する声明](/ja/site-policy/privacy-policies/github-general-privacy-statement)および [GitHub データ保護契約](https://github.com/customer-terms)は、GitHub のプライバシーおよびデータ使用慣行、ならびにお客様の個人データに関する GitHub の処理およびセキュリティ義務について、詳細な通知を提供します。 本サービスからデータを収集するあらゆる個人、法人、またはサービスは、特に個人データ (GitHub のプライバシーに関する声明にて定義) の収集に関して、GitHub のプライバシーに関する声明に従わなければなりません。 お客様が GitHub から個人情報を収集する場合、お客様は、外部ユーザーが許可した目的にのみその情報を使用するものとします。 お客様は、かかる個人情報を合理的に保護するものとし、GitHub または外部ユーザーからの苦情、削除要求、および「連絡拒否」の要求に速やかに対応するものとします。
 
 [D. コンテンツの責任、所有権、ライセンスの権利](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ GitHub は、お客様のプライベート リポジトリにあるカスタマ
 
 ### [3.アクセス](#3-access) ###
 
-GitHub の担当者は、[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-privacy-statement#repository-contents)に記載されている状況でのみ、お客様のプライベート リポジトリにアクセスできます。
+GitHub の担当者は、[プライバシーに関する声明](/ja/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access)に記載されている状況でのみ、お客様のプライベート リポジトリにアクセスできます。
 
 お客様は、プライベート リポジトリへの追加アクセスを有効にすることを選択できます。 たとえば、お客様は、プライベート リポジトリのお客様のコンテンツに対する追加の権利を必要とするさまざまな GitHub サービスまたは機能を有効にすることができます。 これらの権利はサービスまたは機能によって異なる場合がありますが、GitHub は引き続きお客様のプライベート リポジトリ内のカスタマー コンテンツをお客様の秘密情報として取り扱います。 これらのサービスまたは機能がサービスの提供に必要な権利に加えてさらなる権利を必要とする場合、GitHub はそれらの権利の説明を提供します。
 
-さらに、当社は[法律により](/ja/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
+さらに、当社は[法律により](/ja/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)、お客様のプライベート リポジトリのコンテンツを開示することを余儀なくされる場合があります。
 
-GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure)、当社の法的責務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
+GitHub は、[法的開示のため](/ja/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data)、当社の法的責務を遵守するため、または法律に基づく要件に拘束される場合、自動スキャンのため、またはセキュリティ上の脅威またはその他のセキュリティに対するリスクに対応する場合を除き、プライベート リポジトリ コンテンツへのアクセスに関する通知を行います。
 
 [F. 知的財産権に関する通知](#f-intellectual-property-notice)
 ----------

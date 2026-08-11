@@ -195,7 +195,7 @@ L’utilisation du Service par le Client doit être conforme aux [Règles de Bon
 
 ### [3. Confidentialité](#3-privacy) ###
 
-La [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-privacy-statement) et l’[Accord de Protection des Données de GitHub](https://github.com/customer-terms) fournissent un avis détaillé sur les pratiques de GitHub en matière de confidentialité et d’utilisation des données, ainsi que sur les obligations de traitement et de sécurité de GitHub en ce qui concerne les Données à Caractère Personnel des Clients. Toute personne, entité ou service collectant des données à partir du Service doit se conformer à la Déclaration de confidentialité GitHub, notamment en ce qui concerne la collecte des données personnelles (tel que défini dans la Déclaration de confidentialité GitHub). Si le Client recueille des informations personnelles auprès de GitHub, il ne les utilisera que dans le but pour lequel l’Utilisateur Externe les a autorisées. Le client sécurisera raisonnablement ces informations personnelles, et le client répondra rapidement aux plaintes, demandes de suppression et demandes de « ne pas contacter » de GitHub ou des utilisateurs externes.
+La [Déclaration de Confidentialité GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement) et l’[Accord de Protection des Données de GitHub](https://github.com/customer-terms) fournissent un avis détaillé sur les pratiques de GitHub en matière de confidentialité et d’utilisation des données, ainsi que sur les obligations de traitement et de sécurité de GitHub en ce qui concerne les Données à Caractère Personnel des Clients. Toute personne, entité ou service collectant des données à partir du Service doit se conformer à la Déclaration de confidentialité GitHub, notamment en ce qui concerne la collecte des données personnelles (tel que défini dans la Déclaration de confidentialité GitHub). Si le Client recueille des informations personnelles auprès de GitHub, il ne les utilisera que dans le but pour lequel l’Utilisateur Externe les a autorisées. Le client sécurisera raisonnablement ces informations personnelles, et le client répondra rapidement aux plaintes, demandes de suppression et demandes de « ne pas contacter » de GitHub ou des utilisateurs externes.
 
 [D. Responsabilité du contenu ; la possession ; droits de licence](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ GitHub considère le Contenu Client dans les Référentiels Privés du Client co
 
 ### [3. Accès](#3-access) ###
 
-Le personnel de GitHub ne peut accéder aux Dépôts Privés du Client que dans les situations décrites dans notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement#repository-contents).
+Le personnel de GitHub ne peut accéder aux Dépôts Privés du Client que dans les situations décrites dans notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access).
 
 Le Client peut choisir d'activer un accès supplémentaire à ses Référentiels privés. Par exemple, le Client peut activer divers services ou fonctionnalités GitHub qui nécessitent des droits supplémentaires sur le Contenu du Client dans les Référentiels privés. Ces droits peuvent varier en fonction du service ou de la fonctionnalité, mais GitHub continuera à traiter le Contenu du Client dans les Référentiels privés du Client comme des Informations confidentielles du Client. Si ces services ou fonctionnalités nécessitent des droits en plus de ceux dont ils ont besoin pour fournir le Service, GitHub fournira une explication de ces droits.
 
-En outre, nous pouvons être [contraints par la loi](/fr/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) de divulguer le contenu de vos dépôts privés.
+En outre, nous pouvons être [contraints par la loi](/fr/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) de divulguer le contenu de vos dépôts privés.
 
-GitHub fournira un avis concernant notre accès au contenu des dépôts privés, sauf [en cas de divulgation légale](/fr/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), pour se conformer à nos obligations légales, ou lorsqu’elle est autrement liée par des exigences légales, pour une analyse automatisée, ou en réponse à une menace de sécurité ou à un autre risque pour la sécurité.
+GitHub fournira un avis concernant notre accès au contenu des dépôts privés, sauf [en cas de divulgation légale](/fr/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data), pour se conformer à nos obligations légales, ou lorsqu’elle est autrement liée par des exigences légales, pour une analyse automatisée, ou en réponse à une menace de sécurité ou à un autre risque pour la sécurité.
 
 [F. Avis sur la Propriété Intellectuelle](#f-intellectual-property-notice)
 ----------

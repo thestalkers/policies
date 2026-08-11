@@ -50,7 +50,7 @@ Markdown으로 복사
 
 전 세계 수백만 명의 개발자들은 GitHub에서 공개 소스와 비공개 소스를 모두 포함하는 수백만 개의 프로젝트를 호스팅합니다. 다행하게도 GitHub 커뮤니티는 개발자 커뮤니티에서 매일 협업을 할 수 있게 권한을 주는 역할을 할 수 있습니다. 이 역할은 우리가 가볍게 생각할 수 없는 책임이 있습니다. 우리 모두에게는 이 공간을 자랑스러운 커뮤니티로 만들어 갈 흥미로운 기회가 있습니다.
 
-GitHub의 다양한 사용자 기반은 지난 주 첫 번째 Hello World 프로젝트를 만든 사람들부터 전 세계에서 가장 유명한 소프트웨어 개발자에 이르기까지 다양한 관점, 아이디어와 경험을 제공합니다. GitHub는 GitHub 커뮤니티가 제공하는 다양한 목소리와 모든 관점을 수용하는 GitHub 환경을 조성하는 한편 개발자가 최선의 역량을 펼칠 수 있는 안전한 공간으로 유지하기 위해 최선을 다하고 있습니다.
+GitHub의 다양한 사용자 기반은 지난 주 첫 번째 헬로 월드 프로젝트를 만든 사람들부터 전 세계에서 가장 유명한 소프트웨어 개발자에 이르기까지 다양한 관점, 아이디어와 경험을 제공합니다. GitHub는 GitHub 커뮤니티가 제공하는 다양한 목소리와 모든 관점을 수용하는 GitHub 환경을 조성하는 한편 개발자가 최선의 역량을 펼칠 수 있는 안전한 공간으로 유지하기 위해 최선을 다하고 있습니다.
 
 [안전하고 우호적이며 생산적인 GitHub 커뮤니티](https://opensource.guide/building-community/)의 모습을 간략하게 설명하고 있으니 [서비스 약관](/ko/site-policy/github-terms/github-terms-of-service) 및 [사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies)을 준수하여 플랫폼에서 가장 효과적으로 상호 작용하고 협업하는 방법을 이해하시는 데 도움이 되기를 바랍니다.
 
@@ -74,7 +74,7 @@ GitHub 커뮤니티의 주요 목적은 소프트웨어 프로젝트의 협업�
 
 * **기대치 전달하기** - 관리자는 이용자가 프로젝트를 통해 상호 작용하는 방법을 이해하는 데 도움을 주는 커뮤니티별 가이드라인을 저장소의 추가 정보, [CONTRIBUTING 파일](/ko/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)이나 [전용 준수 사항](/ko/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project) 에 설정할 수 있습니다. 커뮤니티 구축에 관한 추가 정보는 [커뮤니티](/ko/communities) 페이지에서 찾을 수 있습니다.
 
-* **댓글 관리** - 저장소에 관한 [쓰기 접근 권한](/ko/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization)이 있는 사용자는 위임, 끌어오기 요청 및 이슈에 대한 [모든 사람의 댓글을 편집, 삭제하거나 숨길](/ko/communities/moderating-comments-and-conversations/managing-disruptive-comments) 수 있습니다. 리포지토리에 대한 읽기 권한이 있는 자는 누구나 댓글의 수정 기록을 볼 수 있습니다. 댓글 작성자와 리포지토리에 대한 쓰기 권한이 있는 사용자는 [댓글의 편집 기록](/ko/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)에서 중요한 정보를 삭제할 수도 있습니다. 활동이 많은 경우 프로젝트 관리가 큰 일처럼 느껴질 수 있지만, 커뮤니티 관리를 도와줄 [협력자를 추가](/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)할 수 있습니다.
+* **댓글 관리** - 저장소에 관한 [쓰기 접근 권한](/ko/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization)이 있는 사용자는 위임, 끌어오기 요청 및 이슈에 대한 [모든 사람의 댓글을 편집, 삭제하거나 숨길](/ko/communities/moderating-comments-and-conversations/managing-disruptive-comments) 수 있습니다. 리포지토리에 대한 읽기 권한이 있는 자는 누구나 댓글의 수정 기록을 볼 수 있습니다. 댓글 작성자와 리포지토리에 대한 쓰기 권한이 있는 사용자는 [댓글의 편집 기록](/ko/communities/moderating-comments-and-conversations/tracking-changes-in-a-comment)에서 중요한 정보를 삭제할 수도 있습니다. 활동이 많은 경우 프로젝트 관리가 큰 일처럼 느껴질 수 있지만, 커뮤니티 관리를 도와줄 [협력자를 추가](/ko/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account)할 수 있습니다.
 
 * **대화 잠금** - 이슈, 끌어오기 요청 또는 커밋에 대한 토론이 다루기 어려운 내용이거나 주제에서 벗어나거나 프로젝트의 준수 사항 또는 GitHub의 정책을 위반하는 경우 소유자, 협력자 및 쓰기 액세스 권한이 있는 모든 사람은 대화에 관한 일시적 또는 영구적 잠금을 설정할 수 있습니다. 자세한 내용은 [대화 잠금](/ko/communities/moderating-comments-and-conversations/locking-conversations)을(를) 참조하세요.
 
@@ -82,7 +82,7 @@ GitHub 커뮤니티의 주요 목적은 소프트웨어 프로젝트의 협업�
 
 * **상호 작용 제한** - 귀하의 공개 프로젝트가 원치 않는 관심을 받고 있거나 트롤링을 당하거나 스팸 메일을 받는 경우, 특정 사용자가 귀하의 리포지토리와 상호 작용하지 못하도록 귀하의 선택에 따라 [임시 상호 작용 제한](/ko/communities/moderating-comments-and-conversations/limiting-interactions-in-your-repository)을 설정할 수 있습니다. [코드 검토 한도](https://github.blog/2021-11-01-github-keeps-getting-better-for-open-source-maintainers/#preventing-drive-by-pull-request-approvals-and-requested-changes)를 설정하여 프로젝트의 품질 기여도를 보장할 수도 있습니다.
 
-당사는 관리자가 각자 프로젝트를 관리하도록 최선을 다하고 있지만, 상황을 처리하면서 추가 지원이 필요하면 사이트 관리자가 [GitHub 지원 포털](https://support.github.com)로 연락하기 바랍니다.
+당사는 관리자가 각자 프로젝트를 관리하도록 최선을 다하고 있지만, 상황을 처리하면서 추가 지원이 필요하면 사이트 관리자가 [GitHub 지원 포털](https://support.github.com)(으)로 연락하기 바랍니다.
 
 [누군가 GitHub의 정책을 위반하면 어떻게 되나요?](#what-happens-if-someone-violates-githubs-policies)
 ----------

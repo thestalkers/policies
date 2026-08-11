@@ -41,7 +41,7 @@ Copier en tant que Markdown
 
 En cas de décès d'un utilisateur GitHub, nous pouvons travailler avec une personne autorisée pour déterminer ce qu'il advient du contenu du compte.
 
-Si vous êtes un parent proche, un [successeur prédésigné](/fr/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) ou une toute autre personne autorisée (notamment un collaborateur ou un partenaire commercial) d'un utilisateur décédé et que vous souhaitez faire une demande concernant son compte, vous pouvez nous contacter via le [portail de support GitHub](https://support.github.com/). Dans le portail, cliquez sur **Nous contacter** et fournissez les informations suivantes dans votre message :
+Si vous êtes un parent proche, un [successeur prédésigné](/fr/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/maintaining-ownership-continuity-of-your-personal-accounts-repositories) ou une toute autre personne autorisée (notamment un collaborateur ou un partenaire commercial) d'un utilisateur décédé et que vous souhaitez faire une demande concernant son compte, vous pouvez nous contacter via le [portail de support GitHub](https://support.github.com/). Dans le portail, cliquez sur **Nous contacter** et fournissez les informations suivantes dans votre message :
 
 * Nom
 * Coordonnées des interlocuteurs
@@ -53,4 +53,4 @@ Si vous êtes un parent proche, un [successeur prédésigné](/fr/account-and-pr
 
 Une fois que nous avons reçu votre demande, nous pouvons effectuer un suivi avec une demande d'informations supplémentaires, telles qu'une copie de votre pièce d'identité avec photo, une copie du certificat de décès et des documents confirmant que vous êtes autorisé à agir en relation avec le compte de l'utilisateur décédé, afin de vérifier que nous sommes dûment habilités à traiter votre demande.
 
-Veuillez noter que les informations que vous fournissez dans votre demande sont collectées conformément à notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-privacy-statement), et que nous ne conserverons ces informations que dans la mesure nécessaire pour nous conformer à nos obligations légales et résoudre les litiges.
+Veuillez noter que les informations que vous fournissez dans votre demande sont collectées conformément à notre [Déclaration de Confidentialité](/fr/site-policy/privacy-policies/github-general-privacy-statement), et que nous ne conserverons ces informations que dans la mesure nécessaire pour nous conformer à nos obligations légales et résoudre les litiges.

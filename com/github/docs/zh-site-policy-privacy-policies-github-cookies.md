@@ -44,9 +44,9 @@ GitHub Cookie
 
 GitHub 高度透明地公开我们将如何使用数据、如何收集数据以及与谁共享数据。 为此，我们提供了此页面，其中详细介绍了我们如何使用 Cookie。
 
-GitHub 使用 Cookie 提供和保护我们的网站，以及分析我们网站的使用情况，以便为您提供良好的用户体验。 如需了解有关 Cookie 的详细信息，以及我们如何以及为何使用 Cookie 和与 Cookie 相关的个人数据，请查看我们的[隐私声明](/zh/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies)。 可以按照[这些说明](/zh/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages)随时更改对非基本 Cookie 的首选项。
+GitHub 使用 Cookie 提供和保护我们的网站，以及分析我们网站的使用情况，以便为您提供良好的用户体验。 如需了解有关 Cookie 的详细信息，以及我们如何以及为何使用 Cookie 和与 Cookie 相关的个人数据，请查看我们的[隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement#our-use-of-cookies-and-tracking-technologies)。 可以按照[这些说明](/zh/account-and-profile/how-tos/account-settings/manage-cookie-preferences)随时更改对非基本 Cookie 的首选项。
 
-由于 Cookie 的数量和名称可能会发生变化，下表可能会不时更新。 若要接收对此列表的更新通知，请按照[关于通知](/zh/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications)中提供的说明进行操作。
+由于 Cookie 的数量和名称可能会发生变化，下表可能会不时更新。 若要接收对此列表的更新通知，请按照[关于通知](/zh/subscriptions-and-notifications/concepts/about-notifications)中提供的说明进行操作。
 
 |                                   Cookie 提供商                                   |                 Cookie 名称                 |                                              说明                                               |                                 到期\*                                  |
 |--------------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
