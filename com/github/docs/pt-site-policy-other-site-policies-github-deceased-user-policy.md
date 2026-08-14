@@ -41,7 +41,7 @@ Copiar como Markdown
 
 No caso de falecimento de um usuário do GitHub, podemos trabalhar com um indivíduo autorizado para determinar o que acontece com o conteúdo da conta.
 
-Se você for o parente mais próximo, um [sucessor pré-designado](/pt/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/maintaining-ownership-continuity-of-your-personal-accounts-repositories) ou outro indivíduo autorizado (que pode incluir um colaborador ou parceiro de negócios) de um usuário falecido e gostaria de fazer uma solicitação sobre sua conta, poderá entrar em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). No portal, clique em **Fale conosco** e forneça as seguintes informações em sua mensagem:
+Se você for o parente mais próximo, um [sucessor pré-designado](/pt/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/maintaining-ownership-continuity-of-your-personal-accounts-repositories) ou outro indivíduo autorizado (que pode incluir um colaborador ou parceiro de negócios) de um usuário falecido e gostaria de fazer uma solicitação sobre sua conta, poderá entrar em contato conosco por meio do [Portal de suporte do GitHub](https://support.github.com/). No portal, clique em **Fale conosco** e forneça as seguintes informações em sua mensagem:
 
 * Nome
 * Informações do Contato
@@ -53,4 +53,4 @@ Se você for o parente mais próximo, um [sucessor pré-designado](/pt/account-a
 
 Assim que recebermos sua solicitação, poderemos acompanhar uma solicitação de informações adicionais, como uma cópia de sua identificação com foto, cópia da certidão de óbito e documentação confirmando que você está autorizado a agir em relação à conta do usuário falecido, para verificar se estamos devidamente autorizados a processar sua solicitação.
 
-Observe que as informações fornecidas em sua solicitação são coletadas de acordo com nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement) e reteremos as informações apenas conforme necessário para cumprir nossas obrigações legais e resolver controvérsias.
+Observe que as informações fornecidas em sua solicitação são coletadas de acordo com nossa [Política de Privacidade](/pt/site-policy/privacy-policies/github-general-privacy-statement) e reteremos as informações apenas conforme necessário para cumprir nossas obrigações legais e resolver controvérsias.

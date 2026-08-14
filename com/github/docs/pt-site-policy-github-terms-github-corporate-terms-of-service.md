@@ -195,7 +195,7 @@ O uso que o Cliente faz do Serviço deve estar em conformidade com as [Política
 
 ### [3. Privacidade](#3-privacy) ###
 
-A [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-privacy-statement) e o [Contrato de Proteção de Dados do GitHub](https://github.com/customer-terms) fornecem uma notificação detalhada sobre as práticas de privacidade e uso de dados do GitHub, bem como as obrigações de processamento e segurança do GitHub em relação aos Dados Pessoais do Cliente. Qualquer pessoa, entidade ou serviço que coleta dados do Serviço deve cumprir a Política de Privacidade do GitHub, especialmente no que diz respeito à coleta de dados pessoais (conforme definido na Política de Privacidade do GitHub). Se o Cliente coletar quaisquer informações pessoais do GitHub, ele as usará apenas para a finalidade para a qual o Usuário Externo as autorizou. O Cliente protegerá razoavelmente tais Informações Pessoais e responderá prontamente a reclamações, solicitações de remoção e solicitações de "não entre em contato" do GitHub ou de Usuários Externos.
+A [Política de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement) e o [Contrato de Proteção de Dados do GitHub](https://github.com/customer-terms) fornecem uma notificação detalhada sobre as práticas de privacidade e uso de dados do GitHub, bem como as obrigações de processamento e segurança do GitHub em relação aos Dados Pessoais do Cliente. Qualquer pessoa, entidade ou serviço que coleta dados do Serviço deve cumprir a Política de Privacidade do GitHub, especialmente no que diz respeito à coleta de dados pessoais (conforme definido na Política de Privacidade do GitHub). Se o Cliente coletar quaisquer informações pessoais do GitHub, ele as usará apenas para a finalidade para a qual o Usuário Externo as autorizou. O Cliente protegerá razoavelmente tais Informações Pessoais e responderá prontamente a reclamações, solicitações de remoção e solicitações de "não entre em contato" do GitHub ou de Usuários Externos.
 
 [D. Responsabilidade de Conteúdo; Propriedade; Direitos de licença](#d-content-responsibility-ownership-license-rights)
 ----------
@@ -239,13 +239,13 @@ O GitHub considera o Conteúdo do Cliente nos Repositórios Privados do Cliente 
 
 ### [3. Acesso](#3-access) ###
 
-A equipe do GitHub só pode acessar os Repositórios Privados do Cliente nas situações descritas na [Política de Privacidade](/pt/site-policy/privacy-policies/github-privacy-statement#repository-contents).
+A equipe do GitHub só pode acessar os Repositórios Privados do Cliente nas situações descritas na [Política de Privacidade](/pt/site-policy/privacy-policies/github-general-privacy-statement#private-repositories-github-access).
 
 O Cliente pode optar por habilitar acesso adicional aos seus Repositórios Privados. Por exemplo, o Cliente pode habilitar vários serviços ou recursos do GitHub que exigem direitos adicionais ao Conteúdo do Cliente em Repositórios Privados. Esses direitos podem variar dependendo do serviço ou recurso, mas o GitHub continuará a tratar o Conteúdo do Cliente nos Repositórios Privados do Cliente como Informações Confidenciais do Cliente. Se esses serviços ou recursos exigirem direitos além daqueles necessários para fornecer o Serviço, o GitHub fornecerá uma explicação desses direitos.
 
-Além disso, podemos ser [compelidos por lei](/pt/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure) a divulgar o conteúdo de seus repositórios privados.
+Além disso, podemos ser [compelidos por lei](/pt/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data) a divulgar o conteúdo de seus repositórios privados.
 
-O GitHub fornecerá uma notificação sobre nosso acesso ao conteúdo do repositório privado, exceto [para divulgação legal](/pt/site-policy/privacy-policies/github-privacy-statement#for-legal-disclosure), para cumprir nossas obrigações legais ou se vinculado por requisitos legais, para verificação automatizada ou em resposta a uma ameaça à segurança ou outro risco à segurança.
+O GitHub fornecerá uma notificação sobre nosso acesso ao conteúdo do repositório privado, exceto [para divulgação legal](/pt/site-policy/privacy-policies/github-general-privacy-statement#sharing-of-personal-data), para cumprir nossas obrigações legais ou se vinculado por requisitos legais, para verificação automatizada ou em resposta a uma ameaça à segurança ou outro risco à segurança.
 
 [F. Notificação de Propriedade Intelectual](#f-intellectual-property-notice)
 ----------
