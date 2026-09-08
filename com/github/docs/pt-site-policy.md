@@ -87,7 +87,7 @@ Review company and general policies
 
 Follow acceptable use policies
 
-### [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) ###
+### [Contestação e Reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement) ###
 
 Mostrando 1-9 de 57
 

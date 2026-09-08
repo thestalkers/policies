@@ -1,4 +1,4 @@
-Contestação e reintegração do GitHub - Documentos do GitHub(function(){
+Contestação e Reintegração do GitHub - Documentos do GitHub(function(){
 var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
 var css=D;
 try{
@@ -27,14 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-4. [Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. [Contestação e Reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
 
-Contestação e reintegração do GitHub
+Contestação e Reintegração do GitHub
 ==========
 
 Copiar como Markdown
@@ -42,57 +42,63 @@ Copiar como Markdown
 Neste artigo
 ----------
 
-* [Contestação e reintegração](#appeal-and-reinstatement)
-* [O que são contestações e reintegrações?](#what-are-appeals-and-reinstatements)
+* [Contestação e Reintegração](#appeal-and-reinstatement)
+* [O que são Contestações e Reintegrações?](#what-are-appeals-and-reinstatements)
 * [Como isso funciona](#how-this-works)
 * [Transparência](#transparency)
 
-[Contestação e reintegração](#appeal-and-reinstatement)
+[Contestação e Reintegração](#appeal-and-reinstatement)
 ----------
 
-Embora a maioria das interações entre indivíduos na comunidade do GitHub esteja dentro de nossas Políticas de Uso Aceitável e Diretrizes da Comunidade, às vezes ocorrem violações dessas políticas. Quando isso acontece, a equipe do GitHub pode precisar tomar medidas de fiscalização para resolver as violações. No entanto, entendemos que, às vezes, podemos cometer erros. Em alguns casos, pode haver uma base para reverter uma ação de moderação tomada (ou não tomada) pela equipe do GitHub. Para garantir que nossas políticas e resultados sejam aplicados uniformemente, o GitHub oferece um processo interno de processamento de reclamações onde os usuários podem enviar solicitações de reintegração ou fornecer informações adicionais para contestar de uma decisão de moderação.
+Embora a maioria das interações entre os membros das comunidades do GitHub e do npm esteja dentro das nossas Políticas de Uso Aceitável, Diretrizes da Comunidade e Termos de Código Aberto, às vezes ocorrem violações dessas políticas. Quando isso acontece, a equipe do GitHub pode precisar tomar medidas de fiscalização para resolver as violações. No entanto, entendemos que, às vezes, podemos cometer erros. Em alguns casos, pode haver uma base para reverter uma ação de moderação tomada (ou não tomada) pela equipe do GitHub. Para garantir que nossas políticas e resultados sejam aplicados uniformemente, o GitHub oferece um processo interno de processamento de reclamações onde os usuários podem enviar solicitações de reintegração ou fornecer informações adicionais para contestar de uma decisão de moderação.
 
-[O que são contestações e reintegrações?](#what-are-appeals-and-reinstatements)
+[O que são Contestações e Reintegrações?](#what-are-appeals-and-reinstatements)
 ----------
 
-Tanto as Contestações quanto as Reintegrações podem surgir em relação a decisões de desabilitar ou limitar o acesso ao conteúdo ou a uma conta, incluindo decisões sobre se devem:
+Tanto as Contestações quanto as Reintegrações podem surgir em relação a decisões de impedir a publicação de conteúdo ou de desativar ou limitar o acesso a conteúdo ou a uma conta, incluindo decisões sobre se deve ou não:
 
 * Remover, desabilitar o acesso ou restringir a visibilidade do conteúdo
 * Suspender ou terminar o acesso a uma conta
 * Suspender ou terminar o acesso ao serviço, no todo ou em parte
 * Suspender, terminar ou restringir a capacidade de monetizar conteúdo
+* Bloquear a publicação de conteúdo no npm
 
-A “reintegração” é quando o usuário deseja recuperar o acesso à sua conta ou conteúdo, está disposto a fazer as alterações necessárias para solucionar a violação e deve concordar em não violar nossos termos daqui por diante.
+A “Reintegração” é quando o usuário deseja recuperar o acesso à sua conta ou conteúdo, está disposto a fazer as alterações necessárias para solucionar a violação e deve concordar em não violar nossos termos daqui por diante.
 
-Uma “contestação” é quando o usuário contesta que ocorreu uma violação e pode fornecer informações adicionais para mostrar que uma decisão diferente deveria ter sido tomada.
+Uma “Contestação” é quando o usuário contesta que ocorreu uma violação e pode fornecer informações adicionais para mostrar que uma decisão diferente deveria ter sido tomada.
 
 [Como isso funciona](#how-this-works)
 ----------
 
-Se você optar pela reintegração ou contestação de uma medida de imposição, preencha o [Formulário de Contestação e Reintegração](https://support.github.com/contact/reinstatement). É possível contestar uma decisão de moderação em até seis meses após a decisão. O GitHub poderá, a seu critério, recusar-se a considerar quaisquer Contestações apresentadas mais de seis meses após a decisão.
+Se você deseja obter a Reintegração ou fazer uma Contestação de uma medida coercitiva no GitHub ou no npm, preencha o formulário aplicável:
 
-A equipe do GitHub revisará as informações fornecidas no formulário para determinar se há informações suficientes para garantir a reintegração ou a concessão de uma contestação.
+* [Formulário de Contestação e Reintegração do GitHub](https://support.github.com/contact/reinstatement)
+* [Formulário de Contestação e Reintegração do npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
+
+No GitHub, é possível solicitar a Reintegração ou Contestação de uma decisão de moderação em até seis meses após a decisão. O GitHub pode, a seu critério, recusar-se a considerar quaisquer solicitações enviadas mais de seis meses após a decisão.
+
+A equipe do GitHub revisará as informações fornecidas no formulário para determinar se há informações suficientes para garantir a Reintegração ou a concessão de uma Contestação.
 
 ### [Reintegrações](#reinstatements) ###
 
 Quando um usuário concordar em cumprir nossas Políticas de Uso Aceitável no futuro e tiver feito as alterações necessárias para resolver as violações, poderemos optar por reintegrar sua conta ou conteúdo dependendo das circunstâncias e da gravidade da violação inicial.
 
-Todas as solicitações legítimas de reintegração serão analisadas inicialmente pela equipe do GitHub e serão respondidas com uma decisão.
+Todas as solicitações legítimas de Reintegração serão analisadas inicialmente pela equipe do GitHub e serão respondidas com uma decisão.
 
 ### [Contestações](#appeals) ###
 
 Quando um usuário busca contestar uma decisão, ele pode usar o formulário para explicar sua base para contestar a decisão e fornecer qualquer informação adicional sobre a suposta violação que ele acredita que deveria ter levado a uma decisão diferente.
 
-Se as informações fornecidas demonstrarem que uma conclusão diferente deveria ter sido alcançada, poderemos conceder uma contestação. O GitHub reverterá ou modificará sua decisão quando a Contestação contiver motivos suficientes para determinarmos que (i) nossa decisão de agir ou não agir foi equivocada; (ii) que o conteúdo ou conduta não foi ilegal e não estava incompatível com os nossos Termos; ou (iii) que o conteúdo ou a conduta justifique uma ação de menor gravidade do que a medida tomada.
+Se as informações fornecidas demonstrarem que uma conclusão diferente deveria ter sido alcançada, poderemos conceder uma Contestação. O GitHub reverterá ou modificará sua decisão quando a Contestação contiver motivos suficientes para determinarmos que (i) nossa decisão de agir ou não agir foi equivocada; (ii) que o conteúdo ou conduta não foi ilegal e não estava incompatível com os nossos Termos; ou (iii) que o conteúdo ou a conduta justifique uma ação de menor gravidade do que a medida tomada.
 
-Todas as decisões da Contestação serão tomadas por seres humanos e não por qualquer meio automatizado. Se o revisor da contestação for a mesma pessoa que fez a determinação inicial e esse membro da equipe acreditar que sua conclusão inicial estava correta (e, portanto, estaria inclinado a negar a contestação), um membro diferente da equipe do GitHub revisará a contestação de forma independente.
+Todas as decisões da Contestação serão tomadas por seres humanos e não por qualquer meio automatizado. Se o revisor da Contestação for a mesma pessoa que fez a determinação inicial e esse membro da equipe acreditar que sua conclusão inicial estava correta (e, portanto, estaria inclinado a negar a Contestação), um membro diferente da equipe do GitHub revisará a Contestação de forma independente.
 
-Todas as contestações legítimas serão respondidas com uma decisão final.
+Todas as Contestações legítimas serão respondidas com uma decisão final.
 
 [Transparência](#transparency)
 ----------
 
-Acompanhamos as contestações e as reintegração por meio da [Central de transparência](https://transparencycenter.github.com/appeals/).
+Acompanhamos as Contestações e as Reintegrações por meio da [Central de transparência](https://transparencycenter.github.com/appeals/).
 
 ### [Direitos legais](#legal-rights) ###
 

@@ -78,5 +78,5 @@ Políticas de Uso Aceitável
 [Ferramentas de IA e mídia sintética – GitHub](/pt/site-policy/acceptable-use-policies/github-synthetic-media-and-ai-tools)
 ----------
 
-[Contestação e reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+[Contestação e Reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 ----------

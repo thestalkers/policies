@@ -50,17 +50,18 @@ In diesem Artikel
 [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
 ----------
 
-Während die meisten Interaktionen zwischen Einzelpersonen in der GitHub-Community unter unsere Richtlinien zur akzeptablen Nutzung und die Community-Richtlinien fallen, kommt es gelegentlich zu Verstößen gegen diese Richtlinien. Wenn dies der Fall ist, müssen GitHub-Mitarbeiter möglicherweise Durchsetzungsmaßnahmen ergreifen, um die Verstöße zu beheben. Wir verstehen jedoch, dass manchmal Fehler gemacht werden. In einigen Fällen kann es eine Grundlage geben, eine von GitHub-Mitarbeitern ergriffene Moderationsmaßnahme rückgängig zu machen (oder auch nicht). Um sicherzustellen, dass unsere Richtlinien und Ergebnisse gleichmäßig angewendet werden, stellt GitHub einen internen Beschwerdeprozess bereit, bei dem Benutzer Anträge auf Wiedereinsetzung einreichen oder zusätzliche Informationen bereitstellen können, um eine Moderationsentscheidung anzufechten.
+Während die meisten Interaktionen zwischen Einzelpersonen in den GitHub- und npm-Communitys unter unsere Richtlinien zur akzeptablen Nutzung, die Community-Richtlinien und Open-Source-Bedingungen fallen, kommt es gelegentlich zu Verstößen gegen diese Richtlinien. Wenn dies der Fall ist, müssen GitHub-Mitarbeiter möglicherweise Durchsetzungsmaßnahmen ergreifen, um die Verstöße zu beheben. Wir verstehen jedoch, dass manchmal Fehler gemacht werden. In einigen Fällen kann es eine Grundlage geben, eine von GitHub-Mitarbeitern ergriffene Moderationsmaßnahme rückgängig zu machen (oder auch nicht). Um sicherzustellen, dass unsere Richtlinien und Ergebnisse gleichmäßig angewendet werden, stellt GitHub einen internen Beschwerdeprozess bereit, bei dem Benutzer Anträge auf Wiedereinsetzung einreichen oder zusätzliche Informationen bereitstellen können, um eine Moderationsentscheidung anzufechten.
 
 [Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
 ----------
 
-Sowohl Einsprüche als auch Wiedereinsetzungen können in Bezug auf Entscheidungen auftreten, die den Zugriff auf Inhalte oder ein Konto deaktivieren oder einschränken, einschließlich Entscheidungen für Folgendes:
+Sowohl Einsprüche als auch Wiedereinsetzungen können in Bezug auf Entscheidungen auftreten, die die Veröffentlichung von Inhalten blockieren oder den Zugriff auf Inhalte bzw. ein Konto deaktivieren oder einschränken, einschließlich Entscheidungen für Folgendes:
 
 * Entfernen und Deaktivieren des Zugriffs oder Einschränken der Sichtbarkeit von Inhalten
 * Anhalten oder Beenden des Zugriffs auf ein Konto
 * Ganz oder teilweise Anhalten oder Beenden des Zugriffs auf den Dienst
 * Anhalten, Beenden oder anderweitigs Einschränken der Möglichkeit zum Monetarisieren von Inhalten
+* Veröffentlichung von Inhalten auf der npm blockieren
 
 Eine „Wiedereinsetzung“ ist, wenn ein Benutzer den Zugriff auf sein Konto oder seine Inhalte wiedererlangen möchte und bereit ist, alle erforderlichen Änderungen vorzunehmen, um den Verstoß zu beheben. Er verpflichtet sich, in Zukunft nicht mehr gegen unsere Bedingungen zu verstoßen.
 
@@ -69,7 +70,12 @@ Ein Einspruch liegt vor, wenn ein Benutzer bestreitet, dass ein Verstoß stattge
 [So funktioniert's](#so-funktionierts)
 ----------
 
-Wenn Sie eine Wiedereinsetzung beantragen oder gegen eine Durchsetzungsmaßnahme Einspruch einlegen möchten, füllen Sie bitte unser [Einspruchs- und Wiedereinsetzungsformular](https://support.github.com/contact/reinstatement) aus. Sie können eine Moderationsentscheidung für bis zu sechs Monate nach der Entscheidung einlegen. GitHub kann nach eigenem Ermessen alle Rechtsmittel ablehnen, die mehr als sechs Monate nach der Entscheidung eingereicht wurden.
+Wenn Sie eine Wiedereinsetzung beantragen oder gegen einen Einspruch gegen eine Durchsetzungsmaßnahme auf GitHub oder npm einlegen möchten, füllen Sie bitte das entsprechende Formular aus:
+
+* [Formular für einen Einspruch und eine Wiedereinsetzung bei GitHub](https://support.github.com/contact/reinstatement)
+* [Formular für einen Einspruch und eine Wiedereinsetzung bei npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
+
+Auf GitHub können Sie bis zu sechs Monate nach der Entscheidung eine Wiedereinsetzung beantragen oder einen Einspruch gegen eine Moderationsentscheidung einlegen. GitHub kann nach eigenem Ermessen alle Anfragen ablehnen, die mehr als sechs Monate nach der Entscheidung eingereicht wurden.
 
 Die Mitarbeiter von GitHub prüfen die im Formular bereitgestellten Informationen, um festzustellen, ob ausreichende Informationen vorliegen, um eine Wiedereinsetzung oder die Gewährung eines Einspruchs zu rechtfertigen.
 
