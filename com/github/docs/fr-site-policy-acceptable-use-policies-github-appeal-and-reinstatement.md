@@ -50,17 +50,18 @@ Dans cet article
 [Appel et rétablissement](#appeal-and-reinstatement)
 ----------
 
-Bien que la majorité des interactions entre les individus de la communauté GitHub relèvent de nos politiques d'utilisation acceptable et de nos directives communautaires, des violations de ces politiques se produisent parfois. Lorsqu'ils le font, le personnel de GitHub peut avoir besoin de prendre des mesures d'application pour remédier aux violations. Toutefois, nous comprenons que parfois nous pourrions faire des erreurs. Dans certains cas, il peut y avoir une base pour annuler une action de modération prise (ou pas prise) par le personnel de GitHub. Pour garantir que nos stratégies et résultats sont appliqués uniformément, GitHub fournit un processus interne de traitement des plaintes où les utilisateurs peuvent soumettre des demandes de rétablissement ou fournir des informations supplémentaires pour appeler une décision de modération.
+Bien que la majorité des interactions entre les membres des communautés GitHub et npm soient conformes à nos Règles de Bon Usage, à notre Charte de la Communauté et aux conditions Open-Source, des violations de ces politiques se produisent parfois. Lorsqu'ils le font, le personnel de GitHub peut avoir besoin de prendre des mesures d'application pour remédier aux violations. Toutefois, nous comprenons que parfois nous pourrions faire des erreurs. Dans certains cas, il peut y avoir une base pour annuler une action de modération prise (ou pas prise) par le personnel de GitHub. Pour garantir que nos stratégies et résultats sont appliqués uniformément, GitHub fournit un processus interne de traitement des plaintes où les utilisateurs peuvent soumettre des demandes de rétablissement ou fournir des informations supplémentaires pour appeler une décision de modération.
 
 [Que sont les appels et les réintégrations ?](#what-are-appeals-and-reinstatements)
 ----------
 
-Les appels et les rétablissements peuvent se produire par rapport aux décisions de désactiver ou de limiter l’accès au contenu ou à un compte, y compris les décisions qui s’y rapportent ou non :
+Les appels et les rétablissements peuvent se produire par rapport aux décisions de bloquer le contenu pour empêcher sa publication ou de désactiver ou de limiter l’accès au contenu ou à un compte, y compris les décisions qui s’y rapportent ou non :
 
 * Supprimer, désactiver l’accès ou restreindre la visibilité du contenu
 * Suspendre ou arrêter l’accès à un compte
 * Suspendre ou arrêter l’accès au service, dans son intégralité ou en partie
 * Suspendre, arrêter ou restreindre la possibilité de monétiser le contenu
+* Bloquer la publication du contenu sur npm
 
 Une « Réintégration » est lorsqu’un utilisateur souhaite retrouver l'accès à son compte ou à son contenu et est prêt à effectuer toutes les modifications nécessaires pour remédier à la violation et accepte de ne pas violer nos conditions à l'avenir.
 
@@ -69,7 +70,12 @@ Un « Appel » est lorsqu’un utilisateur conteste qu'une violation a eu lieu
 [Fonctionnement du processus](#how-this-works)
 ----------
 
-Si vous souhaitez être réintégré ou faire appel d'une mesure visant la mise en œuvre des principes de protection des informations personnelles, veuillez remplir notre [formulaire d'appel et de réintégration](https://support.github.com/contact/reinstatement). Vous pouvez appeler une décision de modération pendant jusqu’à six mois après la décision. GitHub peut, à sa discrétion, refuser de considérer les appels soumis plus de six mois après la décision.
+Si vous souhaitez être réintégré ou faire appel d’une mesure coercitive sur GitHub ou npm, veuillez remplir le formulaire en vigueur :
+
+* [Formulaire d’appel et de réintégration sur GitHub](https://support.github.com/contact/reinstatement)
+* [Formulaire d’appel et de réintégration sur npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
+
+Sur GitHub, vous pouvez souhaiter une réintégration ou appeler une décision de modération pendant jusqu’à six mois après la décision. GitHub peut, à sa discrétion, refuser de tenir compte des requêtes soumises plus de six mois après la décision.
 
 Le personnel de GitHub examinera les informations fournies dans le formulaire pour déterminer s'il y a suffisamment d'informations pour justifier la réintégration ou l'octroi d'un appel.
 
