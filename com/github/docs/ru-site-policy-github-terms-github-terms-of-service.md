@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Условия обслуживания GitHub](/ru/site-policy/github-terms/github-terms-of-service)
+4. Условия обслуживания GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Условия обслуживания GitHub
 ==========
@@ -43,25 +45,45 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Сводная информация](#summary)
+
 * [Условия использования GitHub](#the-github-terms-of-service)
+
 * [А. Определения](#a-definitions)
+
 * [B. Условия учетной записи](#b-account-terms)
+
 * [C. Допустимое использование](#c-acceptable-use)
+
 * [D. Пользовательский контент](#d-user-generated-content)
+
 * [Е. Частные репозитории](#e-private-repositories)
+
 * [F. Нарушение авторских прав и политика DMCA](#f-copyright-infringement-and-dmca-policy)
+
 * [G. Уведомление об интеллектуальной собственности](#g-intellectual-property-notice)
+
 * [H. Условия API](#h-api-terms)
+
 * [I. Дополнительные условия для продуктов GitHub](#i-github-additional-product-terms)
+
 * [J. Функции ИИ, обучение и ваши данные](#j-ai-features-training-and-your-data)
+
 * [K. Бета-превью](#k-beta-previews)
+
 * [L. Оплата](#l-payment)
+
 * [M. Отмена и прекращение](#m-cancellation-and-termination)
+
 * [N. Взаимодействие с GitHub](#n-communications-with-github)
+
 * [O. Отказ от предоставления гарантий](#o-disclaimer-of-warranties)
+
 * [P. Ограничение ответственности](#p-limitation-of-liability)
+
 * [Вопрос. Освобождение и компенсация](#q-release-and-indemnification)
+
 * [R. Изменение этих условий](#r-changes-to-these-terms)
+
 * [S. Прочие условия](#s-miscellaneous)
 
 Спасибо за использование GitHub! Мы рады, что вы здесь. Пожалуйста, внимательно прочитайте это соглашение об условиях обслуживания, прежде чем получить доступ к GitHub или использовать его. Поскольку это такой важный договор между нами и нашими пользователями, мы постарались сделать его максимально ясным. Для вашего удобства мы представили эти условия в виде краткого необязательного резюме, за которым следуют полные юридические термины.

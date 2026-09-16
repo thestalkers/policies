@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Impersonation](/en/site-policy/acceptable-use-policies/github-impersonation)
+4. Impersonation
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Impersonation
 ==========
 
-Copy as Markdown
+Copy markdown
 
 You may not misrepresent your identity or your association with another person or organization. This includes doing any of the following in a way that misleads or deceives others:
 

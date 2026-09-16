@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Identitätswechsel](/de/site-policy/acceptable-use-policies/github-impersonation)
+4. Identitätswechsel
 
 Breadcrumbs nach rechts scrollen
 

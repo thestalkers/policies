@@ -26,7 +26,7 @@ Deslocar a trilha de navegação para a esquerda
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
-3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
+3. Políticas de remoção de conteúdo
 
 Deslizar o caminho de navegação para a direita
 

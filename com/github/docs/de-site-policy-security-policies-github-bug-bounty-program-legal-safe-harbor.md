@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
-4. [GitHub Bug Bounty-Programm Legal Safe Harbor](/de/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub Bug Bounty-Programm Legal Safe Harbor
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub Bug Bounty-Programm Legal Safe Harbor
 ==========
@@ -43,8 +45,11 @@ In diesem Artikel
 ----------
 
 * [Zusammenfassung](#summary)
+
 * [1. Safe-Harbor-Bedingungen](#1-safe-harbor-terms)
+
 * [2. Safe-Harbor-Verfahren in Bezug auf Dritte](#2-third-party-safe-harbor)
+
 * [3. Eingeschränkte Verzichtserklärung in Bezug auf andere Standortrichtlinien](#3-limited-waiver-of-other-site-policies)
 
 [Zusammenfassung](#summary)

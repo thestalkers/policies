@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Appel et rétablissement de GitHub](/fr/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. Appel et rétablissement de GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Appel et rétablissement de GitHub
 ==========
@@ -43,8 +45,11 @@ Dans cet article
 ----------
 
 * [Appel et rétablissement](#appeal-and-reinstatement)
+
 * [Que sont les appels et les réintégrations ?](#what-are-appeals-and-reinstatements)
+
 * [Fonctionnement du processus](#how-this-works)
+
 * [Transparence](#transparency)
 
 [Appel et rétablissement](#appeal-and-reinstatement)

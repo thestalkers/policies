@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Otras políticas del sitio](/es/site-policy/other-site-policies)
-4. [Directrices para solicitudes legales de datos de usuario](/es/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. Directrices para solicitudes legales de datos de usuario
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Directrices para solicitudes legales de datos de usuario
 ==========
@@ -43,14 +45,23 @@ En este artículo
 ----------
 
 * [Acerca de estas pautas](#about-these-guidelines)
+
 * [Terminología de GitHub](#github-terminology)
+
 * [Datos de usuario en GitHub.com](#user-data-on-githubcom)
+
 * [Notificaremos a los propietarios de cuentas afectados.](#we-will-notify-any-affected-account-owners)
+
 * [Divulgación de información no pública](#disclosure-of-non-public-information)
+
 * [Reembolso de los gastos](#cost-reimbursement)
+
 * [Conservación de datos](#data-preservation)
+
 * [Envío de solicitudes](#submitting-requests)
+
 * [Solicitudes de fuerzas del orden extranjeras](#requests-from-foreign-law-enforcement)
+
 * [Preguntas](#questions)
 
 ¿Eres un agente de la ley que realiza una investigación que puede involucrar contenido de usuario alojado en GitHub?

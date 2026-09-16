@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Stören der Erfahrung anderer Benutzer](/de/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+4. Stören der Erfahrung anderer Benutzer
 
 Breadcrumbs nach rechts scrollen
 

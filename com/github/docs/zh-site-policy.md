@@ -25,7 +25,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 向左滚动痕迹导航
 
 1. [主](/zh)
-2. [站点政策](/zh/site-policy)
+2. 站点政策
 
 向右滚动痕迹导航
 

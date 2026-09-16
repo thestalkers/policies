@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [安全政策](/zh/site-policy/security-policies)
-4. [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub Bug 赏金计划法律安全港
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub Bug 赏金计划法律安全港
 ==========
@@ -43,8 +45,11 @@ GitHub Bug 赏金计划法律安全港
 ----------
 
 * [概述](#summary)
+
 * [1.安全港条款](#1-safe-harbor-terms)
+
 * [2.第三方安全港](#2-third-party-safe-harbor)
+
 * [3.其他网站政策的有限豁免](#3-limited-waiver-of-other-site-policies)
 
 [概述](#summary)

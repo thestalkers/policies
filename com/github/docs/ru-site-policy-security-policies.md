@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
-3. [Политики безопасности](/ru/site-policy/security-policies)
+3. Политики безопасности
 
 Прокрутите страницы вправо
 

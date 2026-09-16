@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Other Site Policies](/en/site-policy/other-site-policies)
-4. [GitHub Deceased User Policy](/en/site-policy/other-site-policies/github-deceased-user-policy)
+4. GitHub Deceased User Policy
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Deceased User Policy
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In the event that a GitHub user passes away, we can work with an authorized individual to determine what happens to the account's content.
 

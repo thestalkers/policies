@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
-4. [Apelación y restablecimiento de GitHub](/es/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. Apelación y restablecimiento de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Apelación y restablecimiento de GitHub
 ==========
@@ -43,8 +45,11 @@ En este artículo
 ----------
 
 * [Apelación y Restablecimiento](#appeal-and-reinstatement)
+
 * [¿Qué son las apelaciones y los restablecimientos?](#what-are-appeals-and-reinstatements)
+
 * [Como funciona esto](#how-this-works)
+
 * [Transparencia](#transparency)
 
 [Apelación y Restablecimiento](#appeal-and-reinstatement)

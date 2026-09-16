@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de seguridad](/es/site-policy/security-policies)
-4. [Programa de recompensas por errores de GitHub Puerto seguro legal](/es/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. Programa de recompensas por errores de GitHub Puerto seguro legal
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Programa de recompensas por errores de GitHub Puerto seguro legal
 ==========
@@ -43,8 +45,11 @@ En este artículo
 ----------
 
 * [Resumen](#summary)
+
 * [1. Términos de Safe Harbor](#1-safe-harbor-terms)
+
 * [2. Safe Harbor de terceros](#2-third-party-safe-harbor)
+
 * [3. Renuncia limitada a otras directivas del sitio](#3-limited-waiver-of-other-site-policies)
 
 [Resumen](#summary)

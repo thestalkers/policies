@@ -27,34 +27,49 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Terms for Additional Products and Features](/en/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. GitHub Terms for Additional Products and Features
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Terms for Additional Products and Features
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Actions](#actions)
+
 * [Advanced Security](#advanced-security)
+
 * [Advisory Database](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [Competitive Benchmarking](#competitive-benchmarking)
+
 * [Connect](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [Packages](#packages)
+
 * [Pages](#pages)
+
 * [Previews](#previews)
+
 * [Sponsors Program](#sponsors-program)
+
 * [SQL Server Images](#sql-server-images)
 
 Version Effective Date: April 27, 2026

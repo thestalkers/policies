@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-4. [DMCA 反論通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. DMCA 反論通知提出ガイド
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 DMCA 反論通知提出ガイド
 ==========
@@ -43,7 +45,9 @@ Markdown としてコピー
 ----------
 
 * [開始前の準備](#before-you-start)
+
 * [反論通知の要件](#your-counter-notice-must)
+
 * [反論通知の提出方法](#how-to-submit-your-counter-notice)
 
 このガイドでは、DMCA 削除要求に対する反論通知を処理するために GitHub が必要とする情報について説明します。 DMCA の内容や、GitHub による DMCA 削除要求の処理方法など、一般的な事項については [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy) をご覧ください。

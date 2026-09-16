@@ -27,41 +27,63 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Corporate Terms of Service](/en/site-policy/github-terms/github-corporate-terms-of-service)
+4. GitHub Corporate Terms of Service
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Corporate Terms of Service
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [GitHub Corporate Terms of Service](#github-corporate-terms-of-service)
+
 * [A. Definitions](#a-definitions)
+
 * [B. Account Terms](#b-account-terms)
+
 * [C. Compliance with Laws; Acceptable Use; Privacy](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. Content Responsibility; Ownership; License Rights](#d-content-responsibility-ownership-license-rights)
+
 * [E. Private Repositories](#e-private-repositories)
+
 * [F. Intellectual Property Notice](#f-intellectual-property-notice)
+
 * [G. GitHub Additional Product Terms](#g-github-additional-product-terms)
+
 * [H. Subscription Licenses](#h-subscription-licenses)
+
 * [I. Affiliates](#i-affiliates)
+
 * [J. Payment](#j-payment)
+
 * [K. Term; Termination; Suspension](#k-term-termination-suspension)
+
 * [L. Communications with GitHub](#l-communications-with-github)
+
 * [M. Limited Warranty; Disclaimer](#m-limited-warranty-disclaimer)
+
 * [N. Limitations of Liability](#n-limitations-of-liability)
+
 * [O. Defense of Claims; Release](#o-defense-of-claims-release)
+
 * [P. Confidentiality](#p-confidentiality)
+
 * [Q. Professional Services](#q-professional-services)
+
 * [R. Changes to the Service or Terms](#r-changes-to-the-service-or-terms)
+
 * [S. Support](#s-support)
+
 * [T. Miscellaneous](#t-miscellaneous)
 
 Note

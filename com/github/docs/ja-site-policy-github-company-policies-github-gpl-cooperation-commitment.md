@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
-4. [GitHub の GPL Cooperation Commitment](/ja/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. GitHub の GPL Cooperation Commitment
 
 階層リンクを右にスクロールする
 

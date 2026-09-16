@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
-4. [Declaração antissuborno do GitHub](/pt/site-policy/github-company-policies/github-anti-bribery-statement)
+4. Declaração antissuborno do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Declaração antissuborno do GitHub
 ==========
@@ -43,7 +45,9 @@ Neste artigo
 ----------
 
 * [Políticas do GitHub que proíbem suborno](#github-policies-prohibiting-bribery)
+
 * [Treinamento para nossos colaboradores](#training-for-our-employees)
+
 * [Engajando nossos parceiros](#engaging-our-partners)
 
 O GitHub mantém nosso compromisso com práticas comerciais éticas, inclusive proibindo suborno e corrupção. Como a [Transparência Internacional](https://www.transparency.org/what-is-corruption) explica, os custos da corrupção são

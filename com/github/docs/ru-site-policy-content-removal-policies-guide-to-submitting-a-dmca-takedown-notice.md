@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
-4. [Руководство по подаче уведомления об удалении DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Руководство по подаче уведомления об удалении DMCA
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Руководство по подаче уведомления об удалении DMCA
 ==========
@@ -43,8 +45,11 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Прежде чем начать](#before-you-start)
+
 * [Ваша жалоба должна...](#your-complaint-must-)
+
 * [Жалобы на технологию защиты от обхода](#complaints-about-anti-circumvention-technology)
+
 * [Как подать жалобу](#how-to-submit-your-complaint)
 
 В этом руководстве описывается информация, необходимая GitHub для обработки запроса на удаление DMCA. Если у вас имеются более общие вопросы о том, что такое DMCA или как GitHub обрабатывает запросы о снятии DMCA, ознакомьтесь с нашей [политикой снятия DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy).

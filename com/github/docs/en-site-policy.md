@@ -25,7 +25,7 @@ Collapse sidebarExpand sidebar
 Scroll breadcrumbs left
 
 1. [Home](/en)
-2. [Site policy](/en/site-policy)
+2. Site policy
 
 Scroll breadcrumbs right
 

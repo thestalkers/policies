@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [隐私政策](/zh/site-policy/privacy-policies)
-4. [GitHub 一般隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement)
+4. GitHub 一般隐私声明
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 一般隐私声明
 ==========
@@ -43,21 +45,37 @@ GitHub 一般隐私声明
 ----------
 
 * [GitHub 隐私声明](#github-privacy-statement)
+
 * [我们收集的个人数据](#personal-data-we-collect)
+
 * [处理目的：我们如何使用您的个人数据](#processing-purposes-how-we-use-your-personal-data)
+
 * [个人数据的共享](#sharing-of-personal-data)
+
 * [专用存储库：GitHub 访问权限](#private-repositories-github-access)
+
 * [处理个人数据的法律依据（适用于欧洲经济区和英国最终用户）](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [您的隐私权](#your-privacy-rights)
+
 * [国际数据传输](#international-data-transfers)
+
 * [数据隐私框架 (DPF)](#data-privacy-framework-dpf)
+
 * [安全性和保留](#security-and-retention)
+
 * [安全性](#security)
+
 * [联系我们](#contact-us)
+
 * [未成年人的信息](#information-for-minors)
+
 * [隐私声明更改](#changes-to-our-privacy-statement)
+
 * [翻译版本](#translations)
+
 * [我们对 Cookie 和跟踪技术的使用](#our-use-of-cookies-and-tracking-technologies)
+
 * [美国各州特定信息](#us-state-specific-information)
 
 [GitHub 隐私声明](#github-privacy-statement)

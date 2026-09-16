@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
-3. [GitHub 条件](/ja/site-policy/github-terms)
+3. GitHub 条件
 
 階層リンクを右にスクロールする
 

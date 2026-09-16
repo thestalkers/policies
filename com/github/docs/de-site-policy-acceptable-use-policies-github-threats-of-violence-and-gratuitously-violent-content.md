@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Androhung von Gewalt und gewalttätige Inhalte](/de/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+4. Androhung von Gewalt und gewalttätige Inhalte
 
 Breadcrumbs nach rechts scrollen
 

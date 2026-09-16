@@ -26,7 +26,7 @@ Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
+3. Politiques de l'entreprise GitHub
 
 Faire défiler les barres de navigation vers la droite
 

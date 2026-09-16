@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [隐私政策](/zh/site-policy/privacy-policies)
-4. [GitHub 全球候选人数据隐私声明](/zh/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. GitHub 全球候选人数据隐私声明
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 全球候选人数据隐私声明
 ==========
@@ -43,6 +45,7 @@ GitHub 全球候选人数据隐私声明
 ----------
 
 * [概述](#overview)
+
 * [补充协议](#addenda)
 
 **GitHub 全球候选人数据隐私声明**

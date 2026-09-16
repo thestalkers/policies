@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-4. [Déclaration de GitHub contre l'esclavage moderne et le travail des enfants](/fr/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+4. Déclaration de GitHub contre l'esclavage moderne et le travail des enfants
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Déclaration de GitHub contre l'esclavage moderne et le travail des enfants
 ==========
@@ -43,11 +45,17 @@ Dans cet article
 ----------
 
 * [La structure, les activités et les chaînes d'approvisionnement de GitHub](#la-structure-les-activités-et-les-chaînes-dapprovisionnement-de-github)
+
 * [Politiques relatives à l'esclavage moderne et au travail des enfants](#politiques-relatives-à-lesclavage-moderne-et-au-travail-des-enfants)
+
 * [Législation et pratiques du travail](#labor-laws-and-practices)
+
 * [Processus de diligence raisonnable concernant l'esclavage moderne et le travail des enfants dans ses activités et ses chaînes d'approvisionnement](#processus-de-diligence-raisonnable-concernant-lesclavage-moderne-et-le-travail-des-enfants-dans-ses-activités-et-ses-chaînes-dapprovisionnement)
+
 * [Endroits dans les activités et les chaînes d'approvisionnement de GitHub où il existe un risque d'esclavage moderne et de travail des enfants, et mesures prises par GitHub pour évaluer et gérer ce risque](#endroits-dans-les-activités-et-les-chaînes-dapprovisionnement-de-github-où-il-existe-un-risque-desclavage-moderne-et-de-travail-des-enfants-et-mesures-prises-par-github-pour-évaluer-et-gérer-ce-risque)
+
 * [Efficacité à garantir que ni l'esclavage moderne ni le travail des enfants ne se produisent dans les activités ou les chaînes d'approvisionnement de GitHub](#efficacité-à-garantir-que-ni-lesclavage-moderne-ni-le-travail-des-enfants-ne-se-produisent-dans-les-activités-ou-les-chaînes-dapprovisionnement-de-github)
+
 * [Formation du personnel de GitHub sur l'esclavage moderne et la traite des êtres humains](#formation-du-personnel-de-github-sur-lesclavage-moderne-et-la-traite-des-êtres-humains)
 
 *Déclaration 2018*

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
-4. [GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub и управление торговлей
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 GitHub и управление торговлей
 ==========
@@ -43,6 +45,7 @@ GitHub и управление торговлей
 ----------
 
 * [Обзор экспорта](#export-overview)
+
 * [Вопросы и ответы](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server и информация, которую вы загружаете в любой продукт, могут подпадать под действие правил торгового контроля, в том числе в соответствии с Правилами экспортного контроля США (EAR).

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub の企業向けサービス使用条件](/ja/site-policy/github-terms/github-corporate-terms-of-service)
+4. GitHub の企業向けサービス使用条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の企業向けサービス使用条件
 ==========
@@ -43,25 +45,45 @@ Markdown としてコピー
 ----------
 
 * [GitHub の企業向けサービス使用条件](#github-corporate-terms-of-service)
+
 * [A. 定義](#a-definitions)
+
 * [B. アカウント利用条件](#b-account-terms)
+
 * [C. 法規制の遵守、許容される使用、プライバシー](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. コンテンツの責任、所有権、ライセンスの権利](#d-content-responsibility-ownership-license-rights)
+
 * [E. プライベート リポジトリ](#e-private-repositories)
+
 * [F. 知的財産権に関する通知](#f-intellectual-property-notice)
+
 * [G. GitHub の追加の本製品使用条件](#g-github-additional-product-terms)
+
 * [H. サブスクリプション ライセンス](#h-subscription-licenses)
+
 * [I. アフィリエイト](#i-affiliates)
+
 * [J. 支払い](#j-payment)
+
 * [K. 期間、終了、および停止](#k-term-termination-suspension)
+
 * [L. GitHub との連絡](#l-communications-with-github)
+
 * [M. 限定的保証、免責事項](#m-limited-warranty-disclaimer)
+
 * [N. 責任の制限](#n-limitations-of-liability)
+
 * [O. 請求に対する防御、免責](#o-defense-of-claims-release)
+
 * [P. 秘密保持](#p-confidentiality)
+
 * [Q. Professional Services](#q-professional-services)
+
 * [R. 本サービスまたは本条件の変更](#r-changes-to-the-service-or-terms)
+
 * [S. サポート](#s-support)
+
 * [T. 雑則](#t-miscellaneous)
 
 メモ

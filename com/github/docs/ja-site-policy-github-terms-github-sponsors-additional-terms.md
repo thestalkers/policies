@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub スポンサーの追加条件](/ja/site-policy/github-terms/github-sponsors-additional-terms)
+4. GitHub スポンサーの追加条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub スポンサーの追加条件
 ==========
@@ -43,23 +45,41 @@ Markdown としてコピー
 ----------
 
 * [1. 定義。](#1-definitions)
+
 * [1A. Stripe による支払処理。](#1a-payment-processing-by-stripe)
+
 * [1.許可される使用。](#1-acceptable-use)
+
 * [2.支援対象開発者の義務。](#2-sponsored-developer-obligations)
+
 * [3. 財務条件。](#3-financial-terms)
+
 * [4.表明と保証、責任の制限、補償](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. 契約期間と契約解除。](#5-term-and-termination)
+
 * [1.Sponsors プログラム](#1-sponsors-program)
+
 * [2. 支払い。](#2-payment)
+
 * [3. 契約の期間および終了。](#3-term-and-termination)
+
 * [4. 免責事項責任の制限。](#4-disclaimer-limitation-of-liability)
+
 * [A. 秘密保持。](#a-confidentiality)
+
 * [B. パブリシティ。](#b-publicity)
+
 * [C: 注意/特記事項。](#c-notices)
+
 * [D. 準拠法。](#d-governing-law)
+
 * [E. 割り当て。](#e-assignment)
+
 * [F. 可分性](#f-severability)
+
 * [G. 完全合意。](#g-entire-agreement)
+
 * [H. 条件の変更。](#h-changes-to-the-terms)
 
 GitHub スポンサー プログラム ("Program") への参加には、[GitHub サービス利用規約](/ja/site-policy/github-terms/github-terms-of-service) ("契約") または GitHub とのその他の契約 (GitHub 顧客一般条件、GitHub 企業サービス利用規約、その他の契約など) と、次の追加条項 ("追加条項") が適用されます。 本契約に違反する GitHub スポンサー プログラムの使用は、本追加条件の違反にもなります。 使用されている用語のうち以下に定義のないものについては、本契約における定義が適用されます。 GitHub スポンサー プログラムの本追加条件は、GitHub とプログラムの「支援対象開発者」であるお客様との間の関係について説明します。 本追加条件は、お客様が同意した日付において発効します (以下「発効日」といいます)。

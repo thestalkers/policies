@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [セキュリティ ポリシー](/ja/site-policy/security-policies)
-4. [セキュリティ脆弱性の協調的開示](/ja/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. セキュリティ脆弱性の協調的開示
 
 階層リンクを右にスクロールする
 

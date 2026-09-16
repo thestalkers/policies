@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Соглашение с разработчиком GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-developer-agreement)
+4. Соглашение с разработчиком GitHub Marketplace
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Соглашение с разработчиком GitHub Marketplace
 ==========
@@ -43,23 +45,41 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [1. ОПРЕДЕЛЕНИЯ](#1definitions)
+
 * [2. ЦЕЛЬ И ПРЕДОСТАВЛЕНИЕ ЛИЦЕНЗИИ](#2purpose-and-license-grant)
+
 * [3. ОГРАНИЧЕНИЯ И ОБЯЗАННОСТИ](#3restrictions-and-responsibilities)
+
 * [4. УДАЛЕНИЯ](#4takedowns)
+
 * [5. ЗАЯВЛЕНИЯ, ГАРАНТИИ И ОБЯЗАТЕЛЬСТВА](#5representations-warranties-and-covenants)
+
 * [6. ПЛАТНЫЕ ПРИЛОЖЕНИЯ ИЛИ ПРОДУКТЫ](#6paid-applications-or-products)
+
 * [7. СОБСТВЕННОСТЬ](#7ownership)
+
 * [8. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ](#8limitation-of-liability)
+
 * [9. ВОЗМЕЩЕНИЕ УБЫТКОВ И УЩЕРБА](#9indemnification)
+
 * [10. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ](#10termination)
+
 * [11. ИЗМЕНЕНИЯ](#11modification)
+
 * [12. НАЗНАЧЕНИЕ; ПОЛНОЕ СОГЛАШЕНИЕ; ПЕРЕСМОТР](#12assignment-entire-agreement-revisions)
+
 * [13. ОГРАНИЧЕНИЕ НЕДЕЙСТВИТЕЛЬНОСТИ](#13severability)
+
 * [14. ОТНОШЕНИЯ СТОРОН](#14-relationship-of-the-parties)
+
 * [15. УВЕДОМЛЕНИЕ](#15-notice)
+
 * [16. РЕГУЛИРУЮЩЕЕ ЗАКОНОДАТЕЛЬСТВО](#16-governing-law)
+
 * [17. ЭКСПОРТНЫЕ ОГРАНИЧЕНИЯ](#17-export-restrictions)
+
 * [18. ДАННЫЕ ОБ ИСПОЛЬЗОВАНИИ](#18-usage-data)
+
 * [19. ДОСТУП К ПРЕДВАРИТЕЛЬНОМУ ВЫПУСКУ](#19-pre-release-access)
 
 **Настоящие условия («Соглашение») регулируют ваше участие в программе GitHub Marketplace. Зарегистрировав участие в программе Marketplace или нажав кнопку «Я принимаю» ниже, вы подтверждаете, что вы понимаете это соглашение и принимаете все его условия. Если вы подписываете это соглашение от имени компании или другого юридического лица, вы подтверждаете, что у вас есть законное право связывать юридическое лицо обязательствами в рамках настоящего соглашения, и в этом случае «вы» будет означать лицо, которое вы представляете.**

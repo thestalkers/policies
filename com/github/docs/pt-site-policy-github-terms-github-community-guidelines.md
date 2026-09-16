@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
+4. Diretrizes da comunidade do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Diretrizes da comunidade do GitHub
 ==========
@@ -43,9 +45,13 @@ Neste artigo
 ----------
 
 * [Mantendo uma comunidade forte](#maintaining-a-strong-community)
+
 * [E se algo ou alguém te ofender?](#what-if-something-or-someone-offends-you)
+
 * [O que acontece se alguém violar as políticas do GitHub?](#what-happens-if-someone-violates-githubs-policies)
+
 * [Contestação e reintegração](#appeal-and-reinstatement)
+
 * [Noticias legais](#legal-notices)
 
 Milhões de desenvolvedores em todo o mundo hospedam milhões de projetos – tanto de código aberto quanto fechado – no GitHub. Temos a sorte de poder desempenhar um papel em permitir a colaboração em toda a comunidade de desenvolvedores todos os dias, o que é uma responsabilidade que não tomamos de ânimo leve. Juntos, todos nós temos a empolgante oportunidade de fazer desta uma comunidade da qual podemos nos orgulhar.

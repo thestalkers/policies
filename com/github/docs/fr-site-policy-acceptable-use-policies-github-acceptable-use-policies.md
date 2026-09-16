@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+4. Politiques d’utilisation acceptable de GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politiques d’utilisation acceptable de GitHub
 ==========
@@ -43,15 +45,25 @@ Dans cet article
 ----------
 
 * [1. Conformité au lois et réglementations](#1-compliance-with-laws-and-regulations)
+
 * [2. Sécurité des utilisateurs](#2-user-safety)
+
 * [3. Propriété intellectuelle, authenticité et informations privées](#3-intellectual-property-authenticity-and-private-information)
+
 * [4. Courrier indésirable et activité non authentique sur GitHub](#4-spam-and-inauthentic-activity-on-github)
+
 * [5. Accès au site et sécurité](#5-site-access-and-safety)
+
 * [6. Limites d’utilisation de service](#6-services-usage-limits)
+
 * [7. Restrictions relatives à l’utilisation des informations](#7-information-usage-restrictions)
+
 * [8. Confidentialité](#8-privacy)
+
 * [9. Utilisation excessive de Bandwidth](#9-excessive-bandwidth-use)
+
 * [10. Publicité sur GitHub](#10-advertising-on-github)
+
 * [11. Protection des utilisateurs](#11-user-protection)
 
 **Version courte :***nous hébergeons une grande variété de projets de collaboration provenant du monde entier, et cette collaboration ne fonctionne que si nos utilisateurs sont capables de travailler ensemble en toute bonne foi. Lors de l’utilisation du Service, vous devez vous conformer à nos Règles de Bon Usage, qui comprennent certaines restrictions sur le contenu et la conduite sur GitHub liées à la sécurité des utilisateurs, à la propriété intellectuelle, à la confidentialité, à l’authenticité et à d’autres limitations. En bref, soyez courtois les uns envers les autres.*

@@ -26,7 +26,7 @@ Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
-3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
+3. Sicherheitsrichtlinien
 
 Breadcrumbs nach rechts scrollen
 

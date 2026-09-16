@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
-4. [Руководство по подаче встречного уведомления DMCA](/ru/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. Руководство по подаче встречного уведомления DMCA
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Руководство по подаче встречного уведомления DMCA
 ==========
@@ -43,7 +45,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Прежде чем начать](#before-you-start)
+
 * [Ваше встречное уведомление должно...](#your-counter-notice-must)
+
 * [Как отправить встречное уведомление](#how-to-submit-your-counter-notice)
 
 В этом руководстве описывается информация, необходимая GitHub для обработки встречного уведомления на запрос об удалении DMCA. Если у вас имеются более общие вопросы о том, что такое DMCA или как GitHub обрабатывает запросы о снятии DMCA, ознакомьтесь с нашей [политикой снятия DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy).

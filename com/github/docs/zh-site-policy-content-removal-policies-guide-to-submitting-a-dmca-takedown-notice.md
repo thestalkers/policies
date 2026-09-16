@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [内容删除政策](/zh/site-policy/content-removal-policies)
-4. [DMCA 下架通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. DMCA 下架通知提交指南
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 DMCA 下架通知提交指南
 ==========
@@ -43,8 +45,11 @@ DMCA 下架通知提交指南
 ----------
 
 * [开始前](#before-you-start)
+
 * [您的投诉必须...](#your-complaint-must-)
+
 * [有关反规避技术的投诉](#complaints-about-anti-circumvention-technology)
+
 * [如何提交投诉](#how-to-submit-your-complaint)
 
 本指南说明了 GitHub 处理 DMCA 下架请求所需的信息。 如果您对 DMCA 是什么或 GitHub 如何处理 DMCA 下架请求有更多常规问题，请参阅我们的 [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy)。

@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
-4. [Политика умерших пользователей GitHub](/ru/site-policy/other-site-policies/github-deceased-user-policy)
+4. Политика умерших пользователей GitHub
 
 Прокрутите страницы вправо
 

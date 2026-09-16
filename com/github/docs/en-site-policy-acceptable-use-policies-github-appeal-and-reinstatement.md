@@ -27,24 +27,29 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [GitHub Appeal and Reinstatement](/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. GitHub Appeal and Reinstatement
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Appeal and Reinstatement
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Appeal and Reinstatement](#appeal-and-reinstatement)
+
 * [What are Appeals and Reinstatements?](#what-are-appeals-and-reinstatements)
+
 * [How this works](#how-this-works)
+
 * [Transparency](#transparency)
 
 [Appeal and Reinstatement](#appeal-and-reinstatement)

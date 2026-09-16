@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Privacidad](/es/site-policy/privacy-policies)
-4. [Declaración de privacidad general de GitHub](/es/site-policy/privacy-policies/github-general-privacy-statement)
+4. Declaración de privacidad general de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Declaración de privacidad general de GitHub
 ==========
@@ -43,21 +45,37 @@ En este artículo
 ----------
 
 * [Declaración de privacidad de GitHub](#github-privacy-statement)
+
 * [Qué información personal recopilamos](#personal-data-we-collect)
+
 * [Propósitos de procesamiento: cómo usamos sus Datos personales](#processing-purposes-how-we-use-your-personal-data)
+
 * [Uso compartido de Datos personales](#sharing-of-personal-data)
+
 * [Repositorios privados: acceso a GitHub](#private-repositories-github-access)
+
 * [Bases legales para procesar Datos personales (aplicables al EEE y a los usuarios finales del Reino Unido)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [Sus derechos de privacidad](#your-privacy-rights)
+
 * [Transferencias de datos internacionales](#international-data-transfers)
+
 * [Marco de privacidad de datos (DPF)](#data-privacy-framework-dpf)
+
 * [Seguridad y retención](#security-and-retention)
+
 * [Seguridad](#security)
+
 * [Contáctenos](#contact-us)
+
 * [Información para menores](#information-for-minors)
+
 * [Cambios en nuestra Declaración de privacidad](#changes-to-our-privacy-statement)
+
 * [Traducciones](#translations)
+
 * [Nuestro uso de cookies y tecnologías de seguimiento](#our-use-of-cookies-and-tracking-technologies)
+
 * [Información específica de estados de EE. UU.](#us-state-specific-information)
 
 [Declaración de privacidad de GitHub](#github-privacy-statement)

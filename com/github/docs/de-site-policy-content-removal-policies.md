@@ -26,7 +26,7 @@ Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
-3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
+3. Richtlinien zum Entfernen von Inhalten
 
 Breadcrumbs nach rechts scrollen
 

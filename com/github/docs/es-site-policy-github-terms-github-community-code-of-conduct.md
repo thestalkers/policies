@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Código de conducta de la comunidad de GitHub](/es/site-policy/github-terms/github-community-code-of-conduct)
+4. Código de conducta de la comunidad de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Código de conducta de la comunidad de GitHub
 ==========
@@ -43,10 +45,15 @@ En este artículo
 ----------
 
 * [Descripción general y propósito](#overview-and-purpose)
+
 * [Prometer](#pledge)
+
 * [Estándares](#standards)
+
 * [Aplicación](#enforcement)
+
 * [Ponerse en contacto con el personal de GitHub](#contacting-github-staff)
+
 * [Avisos legales](#legal-notices)
 
 [Descripción general y propósito](#overview-and-purpose)

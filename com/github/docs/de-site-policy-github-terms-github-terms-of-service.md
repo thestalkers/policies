@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service)
+4. GitHub-Nutzungsbedingungen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Nutzungsbedingungen
 ==========
@@ -43,25 +45,45 @@ In diesem Artikel
 ----------
 
 * [Zusammenfassung](#summary)
+
 * [Die GitHub-Nutzungsbedingungen](#the-github-terms-of-service)
+
 * [A. Definitionen](#a-definitions)
+
 * [B. Kontobedingungen](#b-account-terms)
+
 * [C. Akzeptable Nutzung](#c-acceptable-use)
+
 * [D. Benutzergenerierte Inhalte](#d-user-generated-content)
+
 * [E. Private Repositorys](#e-private-repositories)
+
 * [F. Urheberrechtsverletzung und DMCA-Richtlinie](#f-copyright-infringement-and-dmca-policy)
+
 * [G. Hinweis zu Rechten an geistigem Eigentum](#g-intellectual-property-notice)
+
 * [H. API-Bestimmungen](#h-api-terms)
+
 * [I. Zusätzliche Produktbestimmungen von GitHub](#i-github-additional-product-terms)
+
 * [J. KI-Funktionen, Training und Ihre Daten](#j-ai-features-training-and-your-data)
+
 * [K. Beta-Vorschau](#k-beta-previews)
+
 * [L. Zahlung](#l-payment)
+
 * [M. Auflösung und Kündigung](#m-cancellation-and-termination)
+
 * [N. Kommunikation mit GitHub](#n-communications-with-github)
+
 * [O. Ausschluss von Gewährleistungen](#o-disclaimer-of-warranties)
+
 * [P. Haftungsbeschränkung](#p-limitation-of-liability)
+
 * [Q. Freistellung und Entschädigung](#q-release-and-indemnification)
+
 * [R. Änderungen an diesen Nutzungsbedingungen](#r-changes-to-these-terms)
+
 * [S. Sonstiges](#s-miscellaneous)
 
 Vielen Dank, dass Sie GitHub verwenden! Wir freuen uns, dass Sie hier sind. Bitte lesen Sie diese Nutzungsbedingungen sorgfältig durch, bevor Sie auf GitHub zugreifen oder es verwenden. Da es sich um einen so wichtigen Vertrag zwischen uns und unseren Benutzern handelt, haben wir versucht, ihn so klar wie möglich zu machen. Der Einfachheit halber haben wir diese Bedingungen in einer kurzen unverbindlichen Zusammenfassung dargestellt, gefolgt von den vollständigen rechtlichen Bedingungen.

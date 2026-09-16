@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-4. [GitHub と貿易管理](/ja/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub と貿易管理
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub と貿易管理
 ==========
@@ -43,6 +45,7 @@ Markdown としてコピー
 ----------
 
 * [輸出の概要](#export-overview)
+
 * [よく寄せられる質問](#frequently-asked-questions)
 
 GitHub.com、GitHub Enterprise Server、およびいずれかの製品にアップロードする情報には、米国輸出管理規則 (EAR) を含む貿易管理規制が適用されます。

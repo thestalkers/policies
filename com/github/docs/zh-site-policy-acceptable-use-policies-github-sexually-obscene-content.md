@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
-4. [性淫秽内容](/zh/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. 性淫秽内容
 
 向右滚动痕迹导航
 

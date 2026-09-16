@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Hassreden und Diskriminierung](/de/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+4. Hassreden und Diskriminierung
 
 Breadcrumbs nach rechts scrollen
 

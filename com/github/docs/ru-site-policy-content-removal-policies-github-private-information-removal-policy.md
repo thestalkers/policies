@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
-4. [Политика удаления личной информации GitHub](/ru/site-policy/content-removal-policies/github-private-information-removal-policy)
+4. Политика удаления личной информации GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Политика удаления личной информации GitHub
 ==========
@@ -43,10 +45,15 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Что такое личная информация?](#what-is-private-information)
+
 * [Что нужно знать](#things-to-know)
+
 * [Как это на самом деле работает?](#how-does-this-actually-work)
+
 * [Отправка запроса на удаление личной информации](#sending-a-private-information-removal-request)
+
 * [Как отправить запрос](#how-to-submit-your-request)
+
 * [Споры](#disputes)
 
 Мы предлагаем этот процесс удаления личных сведений в качестве исключительной услуги только для содержимого с высоким риском, нарушающего [условия предоставления услуг GitHub](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies), например, когда безопасность подвергается риску в связи с раскрытием учетных данных для доступа. В этом руководстве описана информация, которая нужна GitHub от вас для обработки запроса на удаление личной информации из репозитория.

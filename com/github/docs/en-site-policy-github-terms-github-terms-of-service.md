@@ -27,41 +27,63 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service)
+4. GitHub Terms of Service
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Terms of Service
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Summary](#summary)
+
 * [The GitHub Terms of Service](#the-github-terms-of-service)
+
 * [A. Definitions](#a-definitions)
+
 * [B. Account Terms](#b-account-terms)
+
 * [C. Acceptable Use](#c-acceptable-use)
+
 * [D. User-Generated Content](#d-user-generated-content)
+
 * [E. Private Repositories](#e-private-repositories)
+
 * [F. Copyright Infringement and DMCA Policy](#f-copyright-infringement-and-dmca-policy)
+
 * [G. Intellectual Property Notice](#g-intellectual-property-notice)
+
 * [H. API Terms](#h-api-terms)
+
 * [I. GitHub Additional Product Terms](#i-github-additional-product-terms)
+
 * [J. AI Features, Training, and Your Data](#j-ai-features-training-and-your-data)
+
 * [K. Beta Previews](#k-beta-previews)
+
 * [L. Payment](#l-payment)
+
 * [M. Cancellation and Termination](#m-cancellation-and-termination)
+
 * [N. Communications with GitHub](#n-communications-with-github)
+
 * [O. Disclaimer of Warranties](#o-disclaimer-of-warranties)
+
 * [P. Limitation of Liability](#p-limitation-of-liability)
+
 * [Q. Release and Indemnification](#q-release-and-indemnification)
+
 * [R. Changes to These Terms](#r-changes-to-these-terms)
+
 * [S. Miscellaneous](#s-miscellaneous)
 
 Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented these terms in a short non-binding summary followed by the full legal terms.

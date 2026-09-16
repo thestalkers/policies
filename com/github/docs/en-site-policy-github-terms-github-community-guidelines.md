@@ -27,25 +27,31 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Community Guidelines](/en/site-policy/github-terms/github-community-guidelines)
+4. GitHub Community Guidelines
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Community Guidelines
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Maintaining a strong community](#maintaining-a-strong-community)
+
 * [What if something or someone offends you?](#what-if-something-or-someone-offends-you)
+
 * [What happens if someone violates GitHub's policies?](#what-happens-if-someone-violates-githubs-policies)
+
 * [Appeal and Reinstatement](#appeal-and-reinstatement)
+
 * [Legal Notices](#legal-notices)
 
 Millions of developers across the world host millions of projects—both open and closed source—on GitHub. We're fortunate to be able to play a part in enabling collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.

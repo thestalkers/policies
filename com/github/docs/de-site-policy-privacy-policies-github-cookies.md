@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
-4. [GitHub-Cookies](/de/site-policy/privacy-policies/github-cookies)
+4. GitHub-Cookies
 
 Breadcrumbs nach rechts scrollen
 

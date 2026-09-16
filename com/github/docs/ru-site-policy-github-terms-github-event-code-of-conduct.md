@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Правила поведения на мероприятиях GitHub](/ru/site-policy/github-terms/github-event-code-of-conduct)
+4. Правила поведения на мероприятиях GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Правила поведения на мероприятиях GitHub
 ==========
@@ -43,7 +45,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Правила поведения](#code-of-conduct)
+
 * [Сообщение об инциденте](#reporting-an-incident)
+
 * [Кредит](#credit)
 
 [Правила поведения](#code-of-conduct)

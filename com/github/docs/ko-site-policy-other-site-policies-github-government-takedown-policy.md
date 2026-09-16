@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [다른 사이트 정책](/ko/site-policy/other-site-policies)
-4. [GitHub 정부 게시 중단 정책](/ko/site-policy/other-site-policies/github-government-takedown-policy)
+4. GitHub 정부 게시 중단 정책
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 정부 게시 중단 정책
 ==========
@@ -43,11 +45,17 @@ Markdown으로 복사
 ----------
 
 * [이것은 무엇인가요?](#what-is-this)
+
 * [정부 게시 중단 요청 제출 방법](#how-to-submit-a-government-takedown-request)
+
 * [정부의 완전 게시 중단 요청을 받게 되면 어떻게 되나요?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [게시 중단 알림을 공개적으로 게시하는 이유는 무엇입니까?](#why-do-we-publicly-post-takedown-notices)
+
 * [당사가 정부 게시 중단 리포지토리에 알림을 게시한다면 이는 무엇을 의미하나요?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [GitHub 서비스 약관 위반에 따른 정부 게시 중단](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [투명성 보고](#transparency-reporting)
 
 [이것은 무엇인가요?](#what-is-this)

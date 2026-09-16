@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-4. [GitHub und Handelskontrollen](/de/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub und Handelskontrollen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub und Handelskontrollen
 ==========
@@ -43,6 +45,7 @@ In diesem Artikel
 ----------
 
 * [Übersicht exportieren](#export-overview)
+
 * [Häufig gestellte Fragen](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server und die Informationen, die Sie auf eines der beiden Produkte hochladen, können Handelskontrollbestimmungen unterliegen, einschließlich der US Export Administration Regulations (EAR).

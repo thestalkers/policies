@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
-3. [Другие правила сайта](/ru/site-policy/other-site-policies)
+3. Другие правила сайта
 
 Прокрутите страницы вправо
 

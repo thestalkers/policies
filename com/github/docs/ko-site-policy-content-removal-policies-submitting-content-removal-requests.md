@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
-4. [콘텐츠 제거 요청 제출](/ko/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. 콘텐츠 제거 요청 제출
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 콘텐츠 제거 요청 제출
 ==========
@@ -43,7 +45,9 @@ Markdown으로 복사
 ----------
 
 * [DMCA 게시 중단 정책](#dmca-takedown-policy)
+
 * [GitHub 상표 정책](#github-trademark-policy)
+
 * [GitHub 개인 정보 제거 정책](#github-private-information-removal-policy)
 
 GitHub는 저작권으로 보호되거나 상표 등록된 콘텐츠 또는 비공개 콘텐츠가 때때로 귀하가 소유하지 않은 GitHub의 리포지토리에서 우발적으로 또는 고의로 공개될 수 있음을 이해합니다. 이 콘텐츠의 성격이 다양하고 관련 법률이 다양하기 때문에 범주마다 고유한 자체 신고 요구 사항이 GitHub 정책에 명시되어 있습니다.

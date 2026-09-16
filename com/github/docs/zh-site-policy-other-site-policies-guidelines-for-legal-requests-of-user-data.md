@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [其他站点政策](/zh/site-policy/other-site-policies)
-4. [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. 用户数据法律请求准则
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 用户数据法律请求准则
 ==========
@@ -43,14 +45,23 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [关于这些准则](#about-these-guidelines)
+
 * [GitHub 术语](#github-terminology)
+
 * [GitHub.com 上的用户数据](#user-data-on-githubcom)
+
 * [我们将通知任何受影响的帐户所有者](#we-will-notify-any-affected-account-owners)
+
 * [非公开信息的披露](#disclosure-of-non-public-information)
+
 * [费用补偿](#cost-reimbursement)
+
 * [数据保留](#data-preservation)
+
 * [提交请求](#submitting-requests)
+
 * [外国执法部门的请求](#requests-from-foreign-law-enforcement)
+
 * [问题](#questions)
 
 您是否是一名执法官员，所开展的调查可能涉及到 GitHub 上托管的用户内容？

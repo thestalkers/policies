@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
-4. [Política de eliminación de DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy)
+4. Política de eliminación de DMCA
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Política de eliminación de DMCA
 ==========
@@ -43,14 +45,23 @@ En este artículo
 ----------
 
 * [¿Qué son los Derechos de Uso de los Productos (DMCA)?](#what-is-the-dmca)
+
 * [Avisos de DMCA en pocas palabras](#dmca-notices-in-a-nutshell)
+
 * [A. ¿Cómo funciona esto realmente?](#a-how-does-this-actually-work)
+
 * [B. ¿Qué pasa con las horquillas? (o ¿Qué es un tenedor?)](#b-what-about-forks-or-whats-a-fork)
+
 * [C. ¿Qué pasa con las reclamaciones por elusión?](#c-what-about-circumvention-claims)
+
 * [D. ¿Qué pasa si sin darme cuenta perdí la ventana para hacer cambios?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+
 * [E. Transparencia](#e-transparency)
+
 * [F. Infracción Repetida](#f-repeated-infringement)
+
 * [G. Envío de avisos](#g-submitting-notices)
+
 * [Obtenga más información y hable](#learn-more-and-speak-up)
 
 Bienvenido a la Guía de GitHub para la Ley de derechos de autor del milenio digital, comúnmente conocida como "DMCA". Esta página no pretende ser un manual completo del estatuto. Sin embargo, si recibió un aviso de eliminación de DMCA dirigido al contenido que publicó en GitHub o si es un titular de derechos que busca emitir dicho aviso, esperamos que esta página ayude a desmitificar un poco la ley, así como nuestra políticas para su cumplimiento.

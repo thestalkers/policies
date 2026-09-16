@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
-4. [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement)
+4. Заявление GitHub о борьбе со взяточничеством
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Заявление GitHub о борьбе со взяточничеством
 ==========
@@ -43,7 +45,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Политика GitHub, запрещающая взяточничество](#github-policies-prohibiting-bribery)
+
 * [Обучение для наших сотрудников](#training-for-our-employees)
+
 * [Привлечение наших партнеров](#engaging-our-partners)
 
 GitHub поддерживает нашу приверженность этическим методам ведения бизнеса, в том числе запрещая взяточничество и коррупцию. Как объясняет [Transparency International](https://www.transparency.org/what-is-corruption), есть следующие аспекты негативного влияния коррупции на общество:

@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Privacidad](/es/site-policy/privacy-policies)
-4. [Aviso de privacidad de datos de GitHub global para candidatos](/es/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. Aviso de privacidad de datos de GitHub global para candidatos
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Aviso de privacidad de datos de GitHub global para candidatos
 ==========
@@ -43,6 +45,7 @@ En este artículo
 ----------
 
 * [Introducción](#overview)
+
 * [Anexos](#addenda)
 
 **Aviso de privacidad de datos de GitHub global para candidatos**

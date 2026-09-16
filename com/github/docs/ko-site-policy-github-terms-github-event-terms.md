@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 이벤트 계약](/ko/site-policy/github-terms/github-event-terms)
+4. GitHub 이벤트 계약
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 이벤트 계약
 ==========
@@ -43,11 +45,17 @@ Markdown으로 복사
 ----------
 
 * [1. 참석을 위한 기본 요구 사항 - 이벤트 준수 사항을 포함](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. 사진 및 동영상](#2-pictures-and-videos)
+
 * [3. 정보 공유](#3-information-sharing)
+
 * [4. 위험, 책임 및 면책](#4-risk-liability-and-indemnity)
+
 * [5. 해지](#5-termination)
+
 * [6. 준거법 및 재판 장소](#6-choice-of-law-and-venue)
+
 * [7. 기타 조항](#7-miscellaneous-terms)
 
 GitHub 이벤트(총칭하여 "이벤트")와 관련하여 GitHub에서 주최한 모든 이벤트 또는 활동을 포함하여 GitHub 이벤트에 참석 여부를 알리거나 참석함으로써 귀하는 다음과 같은 GitHub 이벤트 계약(이후 "이벤트 계약")을 읽고 이해했으며 이에 동의한다는 의사를 표시합니다.

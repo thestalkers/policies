@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
-4. [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement)
+4. Allgemeine Datenschutzerklärung für GitHub
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Allgemeine Datenschutzerklärung für GitHub
 ==========
@@ -43,21 +45,37 @@ In diesem Artikel
 ----------
 
 * [GitHub-Datenschutzerklärung](#github-privacy-statement)
+
 * [Personenbezogene Daten, die wir erfassen](#personal-data-we-collect)
+
 * [Verarbeitungszwecke: Wie wir Ihre personenbezogenen Daten verwenden](#processing-purposes-how-we-use-your-personal-data)
+
 * [Weitergabe personenbezogener Daten](#sharing-of-personal-data)
+
 * [Privates Repository: GitHub-Zugriff](#private-repositories-github-access)
+
 * [Rechtmäßige Grundlagen für die Verarbeitung personenbezogener Daten (anwendbar auf EWR- und UK-Endnutzer)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [Ihre Datenschutzrechte](#your-privacy-rights)
+
 * [Internationale Datenübertragungen](#international-data-transfers)
+
 * [Datenschutzgrundsätze (Data Privacy Framework, DPF)](#data-privacy-framework-dpf)
+
 * [Sicherheit und Aufbewahrung](#security-and-retention)
+
 * [Sicherheit](#security)
+
 * [Kontakt](#contact-us)
+
 * [Informationen zu Minderjährigen](#information-for-minors)
+
 * [Änderungen an unserer Datenschutzerklärung](#changes-to-our-privacy-statement)
+
 * [Übersetzungen](#translations)
+
 * [Unsere Verwendung von Cookies und Trackingtechnologien](#our-use-of-cookies-and-tracking-technologies)
+
 * [US-Bundesstaat-spezifische Informationen](#us-state-specific-information)
 
 [GitHub-Datenschutzerklärung](#github-privacy-statement)

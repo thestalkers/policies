@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-4. [GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit](/de/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+4. GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
 ==========
@@ -43,11 +45,17 @@ In diesem Artikel
 ----------
 
 * [Struktur, Geschäft und Lieferketten von GitHub](#githubs-structure-business-and-supply-chains)
+
 * [Richtlinien in Bezug auf moderne Sklaverei und Kinderarbeit](#policies-in-relation-to-modern-slavery-and-child-labor)
+
 * [Arbeitsgesetze und -praktiken](#labor-laws-and-practices)
+
 * [Due-Diligence-Prozesse in Bezug auf moderne Sklaverei und Kinderarbeit in seinen Geschäfts- und Lieferketten](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+
 * [Stellen in den Geschäfts- und Lieferketten von GitHub, an denen ein Risiko moderner Sklaverei und Kinderarbeit besteht, und Maßnahmen, die GitHub ergriffen hat, um dieses Risiko zu bewerten und zu bewältigen](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+
 * [Wirksamkeit, um sicherzustellen, dass weder moderne Sklaverei noch Kinderarbeit in den Geschäften oder Lieferketten von GitHub vorkommen](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+
 * [Training für GitHub-Mitarbeiter zu moderner Sklaverei und Menschenhandel](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018 Erklärung*

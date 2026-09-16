@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub Marketplace-Entwicklervereinbarung](/de/site-policy/github-terms/github-marketplace-developer-agreement)
+4. GitHub Marketplace-Entwicklervereinbarung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub Marketplace-Entwicklervereinbarung
 ==========
@@ -43,23 +45,41 @@ In diesem Artikel
 ----------
 
 * [1. DEFINITIONEN](#1definitions)
+
 * [2. ZWECK UND LIZENZGEWÄHRUNG](#2purpose-and-license-grant)
+
 * [3. EINSCHRÄNKUNGEN UND VERANTWORTLICHKEITEN](#3restrictions-and-responsibilities)
+
 * [4. TAKEDOWNS](#4takedowns)
+
 * [5. ZUSICHERUNGEN, GEWÄHRLEISTUNGEN UND VERPFLICHTUNGEN](#5representations-warranties-and-covenants)
+
 * [6. BEZAHLTE ANWENDUNGEN ODER PRODUKTE](#6paid-applications-or-products)
+
 * [7. EIGENTUM](#7ownership)
+
 * [8. HAFTUNGSBESCHRÄNKUNG](#8limitation-of-liability)
+
 * [9. FREISTELLUNG](#9indemnification)
+
 * [10. KÜNDIGUNG](#10termination)
+
 * [11. ÄNDERUNGEN](#11modification)
+
 * [12. ABTRETUNG; GESAMTER VERTRAG; REVISIONEN](#12assignment-entire-agreement-revisions)
+
 * [13. SALVATORISCHE KLAUSEL](#13severability)
+
 * [14. BEZIEHUNG DER PARTEIEN](#14-relationship-of-the-parties)
+
 * [15. MITTEILUNGEN](#15-notice)
+
 * [16. ANWENDBARES RECHT](#16-governing-law)
+
 * [17. AUSFUHRBESCHRÄNKUNGEN](#17-export-restrictions)
+
 * [18. NUTZUNGSDATEN](#18-usage-data)
+
 * [19. VORABVERSIONSZUGRIFF](#19-pre-release-access)
 
 **Diese Geschäftsbedingungen (die „Vereinbarung“) regeln Ihre Teilnahme am Marketplace-Programm von GitHub. Indem Sie sich für die Teilnahme am Marketplace anmelden oder unten auf „Ich akzeptiere“ klicken, bestätigen Sie, dass Sie diese Vereinbarung verstanden haben und alle darin enthaltenen Bestimmungen und Bedingungen akzeptieren. Wenn Sie diese Vereinbarung im Namen eines Unternehmens oder einer anderen juristischen Person abschließen, versichern Sie, dass Sie rechtlich befugt sind, die juristische Person an diese Vereinbarung zu binden; in diesem Fall bedeutet „Sie“ die juristische Person, die Sie vertreten.**

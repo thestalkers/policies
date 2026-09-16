@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de Confidentialité](/fr/site-policy/privacy-policies)
-4. [Notification de confidentialité des données globales GitHub pour les candidats](/fr/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. Notification de confidentialité des données globales GitHub pour les candidats
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Notification de confidentialité des données globales GitHub pour les candidats
 ==========
@@ -43,6 +45,7 @@ Dans cet article
 ----------
 
 * [Présentation](#overview)
+
 * [Addenda](#addenda)
 
 **Notification de confidentialité des données globales GitHub pour les candidats**

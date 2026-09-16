@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Корпоративные условия обслуживания GitHub](/ru/site-policy/github-terms/github-corporate-terms-of-service)
+4. Корпоративные условия обслуживания GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Корпоративные условия обслуживания GitHub
 ==========
@@ -43,25 +45,45 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Корпоративные условия обслуживания GitHub](#github-corporate-terms-of-service)
+
 * [А. Определения](#a-definitions)
+
 * [B. Условия учетной записи](#b-account-terms)
+
 * [C. Соблюдение законов; приемлемое использование; Конфиденциальность](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. Ответственность за содержание; Право собственности; Лицензионные права](#d-content-responsibility-ownership-license-rights)
+
 * [Е. Частные репозитории](#e-private-repositories)
+
 * [F. Уведомление об интеллектуальной собственности](#f-intellectual-property-notice)
+
 * [G. Дополнительные условия для продуктов GitHub](#g-github-additional-product-terms)
+
 * [H. Лицензии по подписке](#h-subscription-licenses)
+
 * [I. Аффилированные лица](#i-affiliates)
+
 * [J. Оплата](#j-payment)
+
 * [K. Срок действия; Прекращение; Приостановка](#k-term-termination-suspension)
+
 * [L. Взаимодействие с GitHub](#l-communications-with-github)
+
 * [M. Ограниченная гарантия; Отказ от ответственности.](#m-limited-warranty-disclaimer)
+
 * [N. Ограничение ответственности](#n-limitations-of-liability)
+
 * [O. Организация защиты в связи с исками; Отказ от требований](#o-defense-of-claims-release)
+
 * [P. Конфиденциальность](#p-confidentiality)
+
 * [Вопрос. Профессиональные услуги](#q-professional-services)
+
 * [R. Изменения в Сервисе или Условиях](#r-changes-to-the-service-or-terms)
+
 * [S. Поддержка](#s-support)
+
 * [T. Прочие условия](#t-miscellaneous)
 
 Примечание.

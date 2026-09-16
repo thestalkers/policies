@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Términos del programa de investigación de GitHub](/es/site-policy/github-terms/github-research-program-terms)
+4. Términos del programa de investigación de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Términos del programa de investigación de GitHub
 ==========
@@ -43,12 +45,19 @@ En este artículo
 ----------
 
 * [A. Sus Comentarios](#a-your-feedback)
+
 * [B. Confidencialidad](#b-confidentiality)
+
 * [C. Reserva de Derechos](#c-reservation-of-rights)
+
 * [D. Privacidad](#d-privacy)
+
 * [E. Términos de Servicios y de Software de GitHub](#e-github-services-and-software-terms)
+
 * [F. Renuncia de Garantías](#f-disclaimer-of-warranties)
+
 * [G. Limitación de responsabilidad](#g-limitation-of-liability)
+
 * [H. Disposiciones adicionales](#h-miscellaneous)
 
 ¡Bienvenido al Programa de investigación de GitHub (el "Programa")! Para participar, necesitaremos que acepte un conjunto especial de términos, el Acuerdo del programa de investigación de GitHub ("Acuerdo").

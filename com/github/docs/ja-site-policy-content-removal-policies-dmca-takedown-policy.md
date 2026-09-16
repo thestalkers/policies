@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-4. [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy)
+4. DMCA 削除ポリシー
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 DMCA 削除ポリシー
 ==========
@@ -43,14 +45,23 @@ Markdown としてコピー
 ----------
 
 * [DMCA とは何ですか?](#what-is-the-dmca)
+
 * [DMCA 通知の要約](#dmca-notices-in-a-nutshell)
+
 * [A. どのように機能するのですか?](#a-how-does-this-actually-work)
+
 * [B. フォークについて教えてください (またはフォークとは何ですか?)](#b-what-about-forks-or-whats-a-fork)
+
 * [C: 回避申し立てとは何ですか?](#c-what-about-circumvention-claims)
+
 * [D. 変更を行う期間をうっかり逃してしまった場合はどうなりますか?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+
 * [E. 透明性](#e-transparency)
+
 * [F. 繰り返される権利侵害](#f-repeated-infringement)
+
 * [G. 通知の送信](#g-submitting-notices)
+
 * [詳細と発言](#learn-more-and-speak-up)
 
 一般に「DMCA」と呼ばれる、デジタル ミレニアム著作権法に対する GitHub のガイドへようこそ。 このページは法律の包括的な概要となるものではありません。 ただし、お客様が GitHub に投稿したコンテンツを対象にした DMCA の削除通知を受け取っている場合、またはお客様がかかる通知を発行しようとしている権利者である場合、このページが法律およびその遵守に関する当社のポリシーを理解していただく一助になればと願っています。

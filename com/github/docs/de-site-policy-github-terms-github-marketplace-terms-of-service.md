@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub Marketplace-Nutzungsbedingungen](/de/site-policy/github-terms/github-marketplace-terms-of-service)
+4. GitHub Marketplace-Nutzungsbedingungen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub Marketplace-Nutzungsbedingungen
 ==========
@@ -43,14 +45,23 @@ In diesem Artikel
 ----------
 
 * [A. Nutzungsbedingungen von GitHub.com](#a-githubcoms-terms-of-service)
+
 * [B. Nutzungsvoraussetzungen](#b-use-requirements)
+
 * [C. Entwicklerprodukte und Produktanbieter](#c-developer-products-and-product-providers)
+
 * [D. Zahlung, Abrechnungszeitplan und Stornierung](#d-payment-billing-schedule-and-cancellation)
+
 * [E. Ihre Daten und die Datenschutzrichtlinie von GitHub](#e-your-data-and-githubs-privacy-policy)
+
 * [F. Rechte an Entwicklerprodukten](#f-rights-to-developer-products)
+
 * [G. Updates für Entwicklerprodukte](#g-updates-to-developer-products)
+
 * [H. Blockierung von Entwicklerprodukten](#h-developer-product-blocking)
+
 * [I. Haftungsausschluss; Haftungsbeschränkung; Freistellung und Entschädigung](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+
 * [J. Verschiedenes](#j-miscellanea)
 
 Willkommen auf dem GitHub Marketplace ("Marktplatz")! Wir freuen uns, dass Sie hier sind. Bitte lesen Sie diese Nutzungsbedingungen („Marketplace-Bedingungen“) sorgfältig durch, bevor Sie auf GitHub Marketplace zugreifen oder ihn verwenden. GitHub Marketplace ist eine Plattform, auf der Sie Entwickler-Apps oder -Aktionen (kostenlos oder kostenpflichtig) auswählen können, die mit Ihrem GitHub.com-Konto verwendet werden können („Entwicklerprodukte“). Obwohl sie von GitHub, Inc. („GitHub“, „wir“, „uns“) angeboten werden, können Entwicklerprodukte entweder von GitHub oder von Drittanbietern von Software entwickelt und gewartet werden. Ihre Auswahl oder Nutzung von Entwicklerprodukten unterliegt diesen Marketplace-Bedingungen und allen anwendbaren Gebühren und erfordert möglicherweise, dass Sie zusätzlichen Bedingungen zustimmen, die vom Drittlizenzgeber dieses Entwicklerprodukts (der „Produktanbieter“) bereitgestellt werden. Ihre Verwendung von GitHub-Modellen unterliegt den [GitHub-Bedingungen für zusätzliche Produkte und Features](/de/site-policy/github-terms/github-terms-for-additional-products-and-features).

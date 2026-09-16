@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub sponsert zusätzliche Bedingungen](/de/site-policy/github-terms/github-sponsors-additional-terms)
+4. GitHub sponsert zusätzliche Bedingungen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub sponsert zusätzliche Bedingungen
 ==========
@@ -43,23 +45,41 @@ In diesem Artikel
 ----------
 
 * [1. Definitionen.](#1-definitions)
+
 * [1A. Zahlungsabwicklung durch Stripe.](#1a-payment-processing-by-stripe)
+
 * [1. Akzeptable Nutzung.](#1-acceptable-use)
+
 * [2. Verpflichtungen des gesponserten Entwicklers.](#2-sponsored-developer-obligations)
+
 * [3. Bestimmungen im Zusammenhang mit Finanzen.](#3-financial-terms)
+
 * [4. Zusicherungen und Gewährleistungen; Haftungsbeschränkung; Schadenersatz.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. Laufzeit und Kündigung.](#5-term-and-termination)
+
 * [1. Sponsors Programm.](#1-sponsors-program)
+
 * [2. Zahlung.](#2-payment)
+
 * [3. Laufzeit und Kündigung.](#3-term-and-termination)
+
 * [4. Haftungsausschluss; Haftungsbeschränkung.](#4-disclaimer-limitation-of-liability)
+
 * [A. Vertraulichkeit.](#a-confidentiality)
+
 * [B. Werbung.](#b-publicity)
+
 * [C. Mitteilungen.](#c-notices)
+
 * [D. Anwendbares Recht.](#d-governing-law)
+
 * [E. Zuweisung.](#e-assignment)
+
 * [F. Salvatorische Klausel.](#f-severability)
+
 * [G. Gesamter Vertrag.](#g-entire-agreement)
+
 * [H. Änderungen dieser Bedingungen.](#h-changes-to-the-terms)
 
 Ihre Teilnahme am GitHub-Sponsorenprogramm (das „Programm“) unterliegt den [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) (der „Vertrag“) oder einer anderen Vereinbarung, die Sie mit GitHub haben (z. B. die Allgemeinen Geschäftsbedingungen des GitHub-Kunden, die GitHub Corporate Terms of Service oder andere Vereinbarung), sowie die folgenden zusätzlichen Bedingungen („Zusätzliche Bedingungen“). Jede Nutzung des GitHub-Sponsorenprogramms, die gegen die Vereinbarung verstößt, stellt auch eine Verletzung dieser zusätzlichen Bedingungen dar. Die verwendeten Begriffe, die unten nicht definiert sind, haben dieselbe Bedeutung wie in der Vereinbarung. Diese zusätzlichen Bedingungen für das GitHub-Sponsorenprogramm beschreiben die Beziehung zwischen GitHub und Ihnen, dem „gesponserten Entwickler“, für das Programm. Die zusätzlichen Bedingungen gelten ab dem Datum, an dem Sie sie akzeptieren („Datum des Inkrafttretens“).

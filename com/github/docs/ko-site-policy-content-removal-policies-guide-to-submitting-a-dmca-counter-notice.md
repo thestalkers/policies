@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
-4. [DMCA 반론 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. DMCA 반론 통지 제출 가이드
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 DMCA 반론 통지 제출 가이드
 ==========
@@ -43,7 +45,9 @@ Markdown으로 복사
 ----------
 
 * [시작하기 전에](#before-you-start)
+
 * [반론 통지는 다음과 같아야 합니다.](#your-counter-notice-must)
+
 * [반론 통지 제출 방법](#how-to-submit-your-counter-notice)
 
 이 가이드에서는 DMCA 게시 중단 요청에 대한 반론 통지 처리를 위해 GitHub가 필요로 하는 정보를 설명합니다. DMCA가 무엇인지 또는 GitHub가 DMCA 게시 중단 요청을 어떻게 처리하는지에 대한 일반적인 추가 질문이 있는 경우 [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy)을 참조하세요.

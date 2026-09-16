@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
-4. [Politique de nom d'utilisateur GitHub](/fr/site-policy/other-site-policies/github-username-policy)
+4. Politique de nom d'utilisateur GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique de nom d'utilisateur GitHub
 ==========
@@ -43,7 +45,9 @@ Dans cet article
 ----------
 
 * [Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
+
 * [Politique relative aux marques](#trademark-policy)
+
 * [Politique de squattage de nom](#name-squatting-policy)
 
 Les noms de compte GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.

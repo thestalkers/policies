@@ -26,7 +26,7 @@ Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
-3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
+3. GitHub-Unternehmensrichtlinien
 
 Breadcrumbs nach rechts scrollen
 

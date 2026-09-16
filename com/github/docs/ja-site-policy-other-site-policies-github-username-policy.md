@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-4. [GitHub のユーザー名ポリシー](/ja/site-policy/other-site-policies/github-username-policy)
+4. GitHub のユーザー名ポリシー
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub のユーザー名ポリシー
 ==========
@@ -43,7 +45,9 @@ Markdown としてコピー
 ----------
 
 * [使用したいユーザー名が既に他者に取得されている場合は?](#what-if-the-username-i-want-is-already-taken)
+
 * [商標ポリシー](#trademark-policy)
+
 * [アカウント名の不法占拠に関するポリシー](#name-squatting-policy)
 
 GitHub アカウント名は、即時かつ実際に使用されることを目的として先着順で提供されています。

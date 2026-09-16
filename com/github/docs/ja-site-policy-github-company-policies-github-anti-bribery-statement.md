@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
-4. [GitHub の腐敗防止に関する声明](/ja/site-policy/github-company-policies/github-anti-bribery-statement)
+4. GitHub の腐敗防止に関する声明
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の腐敗防止に関する声明
 ==========
@@ -43,7 +45,9 @@ Markdown としてコピー
 ----------
 
 * [GitHub ポリシーは贈収賄を禁止](#github-policies-prohibiting-bribery)
+
 * [従業員のトレーニング](#training-for-our-employees)
+
 * [パートナーへの関与](#engaging-our-partners)
 
 GitHub は、贈収賄と汚職の禁止を含む、倫理的ビジネス慣行への取り組みを掲げています。 [Transparency International](https://www.transparency.org/what-is-corruption) の説明によると、汚職のコストは

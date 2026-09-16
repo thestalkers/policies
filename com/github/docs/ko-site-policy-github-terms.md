@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
-3. [GitHub 약관](/ko/site-policy/github-terms)
+3. GitHub 약관
 
 이동 경로를 오른쪽으로 스크롤
 

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [보안 정책](/ko/site-policy/security-policies)
-4. [GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버](/ko/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 보안 취약점 보상금 프로그램 법률 세이프 하버
 ==========
@@ -43,8 +45,11 @@ Markdown으로 복사
 ----------
 
 * [요약](#summary)
+
 * [1. 세이프 하버 조건](#1-safe-harbor-terms)
+
 * [2. 제3자에 의한 세이프 하버](#2-third-party-safe-harbor)
+
 * [3. 다른 사이트 정책의 제한 포기](#3-limited-waiver-of-other-site-policies)
 
 [요약](#summary)

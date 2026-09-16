@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-4. [Einreichen von Anträgen auf Entfernung von Inhalten](/de/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. Einreichen von Anträgen auf Entfernung von Inhalten
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Einreichen von Anträgen auf Entfernung von Inhalten
 ==========
@@ -43,7 +45,9 @@ In diesem Artikel
 ----------
 
 * [DMCA Takedown-Richtlinie](#dmca-takedown-policy)
+
 * [GitHub-Markenrichtlinie](#github-trademark-policy)
+
 * [Richtlinie zum Entfernen privater Informationen von GitHub](#github-private-information-removal-policy)
 
 Wir verstehen, dass urheberrechtlich geschützte, markenrechtlich geschützte oder private Inhalte auf GitHub veröffentlicht werden können – entweder versehentlich oder absichtlich – manchmal in Repositories, die Ihnen nicht gehören. Da die Art dieser Inhalte unterschiedlich ist und aufgrund unterschiedlicher geltender Gesetze, hat jede Kategorie ihre eigenen, unterschiedlichen Meldepflichten, die in unseren Richtlinien beschrieben sind.

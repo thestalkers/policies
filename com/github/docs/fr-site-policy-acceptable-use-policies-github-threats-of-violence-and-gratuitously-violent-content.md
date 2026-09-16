@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Menaces de Violence et Contenu de Violence gratuite](/fr/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+4. Menaces de Violence et Contenu de Violence gratuite
 
 Faire défiler les barres de navigation vers la droite
 

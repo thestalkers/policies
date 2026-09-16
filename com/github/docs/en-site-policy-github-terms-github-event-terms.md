@@ -27,27 +27,35 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Event Terms](/en/site-policy/github-terms/github-event-terms)
+4. GitHub Event Terms
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Event Terms
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [1. Basic requirements to attend - including the Event Code of Conduct](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. Pictures and videos](#2-pictures-and-videos)
+
 * [3. Information sharing](#3-information-sharing)
+
 * [4. Risk, liability, and indemnity](#4-risk-liability-and-indemnity)
+
 * [5. Termination](#5-termination)
+
 * [6. Choice of law and venue](#6-choice-of-law-and-venue)
+
 * [7. Miscellaneous terms](#7-miscellaneous-terms)
 
 By RSVP'ing to or attending a GitHub event, including any of the events or activities organized by GitHub in association with the GitHub event (collectively the "Event"), you represent that you have read, understand, and agree to the following GitHub Event Terms (hereinafter “Event Terms”).

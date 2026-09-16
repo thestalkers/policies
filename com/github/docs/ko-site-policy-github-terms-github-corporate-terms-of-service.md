@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 기업 서비스 약관](/ko/site-policy/github-terms/github-corporate-terms-of-service)
+4. GitHub 기업 서비스 약관
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 기업 서비스 약관
 ==========
@@ -43,25 +45,45 @@ Markdown으로 복사
 ----------
 
 * [GitHub 기업 서비스 약관](#github-corporate-terms-of-service)
+
 * [A. 용어 정의](#a-definitions)
+
 * [B. 계정 약관](#b-account-terms)
+
 * [C. 법률 준수, 사용 제한, 개인 정보 보호](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. 콘텐츠 책임, 소유권, 라이선스 권리](#d-content-responsibility-ownership-license-rights)
+
 * [E. 개인 리포지토리](#e-private-repositories)
+
 * [F. 지적 재산권 고지](#f-intellectual-property-notice)
+
 * [G. GitHub 추가 제품 약관](#g-github-additional-product-terms)
+
 * [H. 정기가입 라이선스](#h-subscription-licenses)
+
 * [I. 계열사](#i-affiliates)
+
 * [J. 지급](#j-payment)
+
 * [k. 약정 기간, 해지, 일시 중지](#k-term-termination-suspension)
+
 * [L. GitHub와의 통신](#l-communications-with-github)
+
 * [M. 보증 제한, 고지 사항](#m-limited-warranty-disclaimer)
+
 * [N. 책임의 제한](#n-limitations-of-liability)
+
 * [O. 청구에 대한 방어, 면책](#o-defense-of-claims-release)
+
 * [P. 기밀성](#p-confidentiality)
+
 * [Q. 전문 서비스](#q-professional-services)
+
 * [R. 서비스 또는 약관의 변경](#r-changes-to-the-service-or-terms)
+
 * [S. 지원](#s-support)
+
 * [T. 기타](#t-miscellaneous)
 
 참고

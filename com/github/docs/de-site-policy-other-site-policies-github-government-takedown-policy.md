@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-4. [GitHub Government Takedown-Richtlinie](/de/site-policy/other-site-policies/github-government-takedown-policy)
+4. GitHub Government Takedown-Richtlinie
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub Government Takedown-Richtlinie
 ==========
@@ -43,11 +45,17 @@ In diesem Artikel
 ----------
 
 * [Was ist das?](#what-is-this)
+
 * [So übermitteln Sie eine Regierungsanfrage zur Entfernung von Inhalten](#how-to-submit-a-government-takedown-request)
+
 * [Was passiert, wenn wir von einer Regierung einen vollständigen Deaktivierungsantrag erhalten?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [Warum veröffentlichen wir Deaktivierungsmitteilungen öffentlich?](#why-do-we-publicly-post-takedown-notices)
+
 * [Was bedeutet es, wenn wir eine Mitteilung in unserem Gov-Takedowns-Repository veröffentlichen?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [Deaktivierungen durch Regierungen aufgrund von Verstößen gegen die Nutzungsbedingungen von GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [Transparenzberichterstattung](#transparency-reporting)
 
 [Was ist das?](#what-is-this)

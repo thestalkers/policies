@@ -26,7 +26,7 @@ Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
-3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
+3. Acceptable Use Policies
 
 Scroll breadcrumbs right
 

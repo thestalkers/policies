@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-4. [Guia para enviar uma contranotificação da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. Guia para enviar uma contranotificação da DMCA
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Guia para enviar uma contranotificação da DMCA
 ==========
@@ -43,7 +45,9 @@ Neste artigo
 ----------
 
 * [Antes que você comece](#before-you-start)
+
 * [Sua Contra Notificação Deve...](#your-counter-notice-must)
+
 * [Como enviar sua contranotificação](#how-to-submit-your-counter-notice)
 
 Este guia descreve as informações que o GitHub precisa para processar uma contranotificação para uma solicitação de remoção de DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy).

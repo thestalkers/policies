@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
-4. [Guía para enviar un aviso de eliminación de DMCA](/es/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Guía para enviar un aviso de eliminación de DMCA
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Guía para enviar un aviso de eliminación de DMCA
 ==========
@@ -43,8 +45,11 @@ En este artículo
 ----------
 
 * [Antes de que empieces](#before-you-start)
+
 * [Su queja debe...](#your-complaint-must-)
+
 * [Quejas sobre la tecnología antielusión](#complaints-about-anti-circumvention-technology)
+
 * [Cómo presentar su queja](#how-to-submit-your-complaint)
 
 Esta guía describe la información que GitHub necesita para procesar una solicitud de eliminación de DMCA. Si tiene preguntas más generales sobre qué es la DMCA o cómo procesa GitHub las solicitudes de eliminación de la DMCA, consulte nuestra [Directiva de eliminación de la DMCA](/es/site-policy/content-removal-policies/dmca-takedown-policy).

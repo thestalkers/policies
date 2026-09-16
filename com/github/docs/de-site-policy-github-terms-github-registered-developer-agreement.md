@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [Vereinbarung für registrierte GitHub-Entwickler](/de/site-policy/github-terms/github-registered-developer-agreement)
+4. Vereinbarung für registrierte GitHub-Entwickler
 
 Breadcrumbs nach rechts scrollen
 

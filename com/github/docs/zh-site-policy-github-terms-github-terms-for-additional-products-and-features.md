@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. GitHub 附加产品和功能条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 附加产品和功能条款
 ==========
@@ -43,18 +45,31 @@ GitHub 附加产品和功能条款
 ----------
 
 * [操作](#actions)
+
 * [Advanced Security](#advanced-security)
+
 * [Advisory Database](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [竞争基准分析](#competitive-benchmarking)
+
 * [连接](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [服务包](#packages)
+
 * [Pages](#pages)
+
 * [预览版](#previews)
+
 * [赞助商计划](#sponsors-program)
+
 * [SQL Server Images](#sql-server-images)
 
 版本生效日期：2026 年 4 月 27 日

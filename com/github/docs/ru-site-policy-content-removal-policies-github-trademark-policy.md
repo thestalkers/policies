@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
-4. [Политика GitHub в отношении товарных знаков](/ru/site-policy/content-removal-policies/github-trademark-policy)
+4. Политика GitHub в отношении товарных знаков
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Политика GitHub в отношении товарных знаков
 ==========
@@ -43,9 +45,13 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)
+
 * [Что не является нарушением политики GitHub в отношении товарных знаков?](#what-is-not-a-github-trademark-policy-violation)
+
 * [Как GitHub реагирует на сообщения о нарушениях политики в отношении товарных знаков?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [Как сообщить о нарушении политики в отношении товарных знаков?](#how-do-i-report-a-trademark-policy-violation)
+
 * [Какая информация требуется при сообщении о нарушениях политики в отношении товарных знаков?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [Что такое нарушение политики GitHub в отношении товарных знаков?](#what-is-a-github-trademark-policy-violation)

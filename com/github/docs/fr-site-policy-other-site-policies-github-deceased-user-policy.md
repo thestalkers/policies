@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
-4. [Politique des utilisateurs décédés de GitHub](/fr/site-policy/other-site-policies/github-deceased-user-policy)
+4. Politique des utilisateurs décédés de GitHub
 
 Faire défiler les barres de navigation vers la droite
 

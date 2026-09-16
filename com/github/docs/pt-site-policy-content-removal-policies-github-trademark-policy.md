@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-4. [Política de marca registrada do GitHub](/pt/site-policy/content-removal-policies/github-trademark-policy)
+4. Política de marca registrada do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Política de marca registrada do GitHub
 ==========
@@ -43,9 +45,13 @@ Neste artigo
 ----------
 
 * [O que é uma violação da política de marca registrada do GitHub?](#what-is-a-github-trademark-policy-violation)
+
 * [O que não é uma violação da política de marca registrada do GitHub?](#what-is-not-a-github-trademark-policy-violation)
+
 * [Como o GitHub responde a violações de política de marca registrada relatadas?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [Como faço para denunciar uma violação da política de marca registrada?](#how-do-i-report-a-trademark-policy-violation)
+
 * [Quais informações são necessárias ao relatar violações da política de marcas registradas?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [O que é uma violação da política de marca registrada do GitHub?](#what-is-a-github-trademark-policy-violation)

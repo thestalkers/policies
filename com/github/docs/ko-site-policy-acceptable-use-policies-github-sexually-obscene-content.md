@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-4. [외설적 콘텐츠](/ko/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. 외설적 콘텐츠
 
 이동 경로를 오른쪽으로 스크롤
 

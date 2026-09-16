@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-4. [GitHub ロゴのポリシー](/ja/site-policy/other-site-policies/github-logo-policy)
+4. GitHub ロゴのポリシー
 
 階層リンクを右にスクロールする
 

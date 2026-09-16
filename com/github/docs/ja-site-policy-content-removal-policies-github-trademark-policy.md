@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-4. [GitHub の商標ポリシー](/ja/site-policy/content-removal-policies/github-trademark-policy)
+4. GitHub の商標ポリシー
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の商標ポリシー
 ==========
@@ -43,9 +45,13 @@ Markdown としてコピー
 ----------
 
 * [GitHub の商標ポリシー違反とはどのようなことですか?](#what-is-a-github-trademark-policy-violation)
+
 * [GitHub の商標ポリシー違反に当たらないのは、どのようなことですか?](#what-is-not-a-github-trademark-policy-violation)
+
 * [GitHub は、報告された商標ポリシー違反にどのように対応しますか?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [商標ポリシー違反を報告するにはどうすればよいですか?](#how-do-i-report-a-trademark-policy-violation)
+
 * [商標ポリシー違反を報告する際に、どのような情報が必要ですか?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [GitHub の商標ポリシー違反とはどのようなことですか?](#what-is-a-github-trademark-policy-violation)

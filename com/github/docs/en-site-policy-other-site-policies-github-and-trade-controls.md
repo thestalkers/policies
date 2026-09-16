@@ -27,22 +27,25 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Other Site Policies](/en/site-policy/other-site-policies)
-4. [GitHub and Trade Controls](/en/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub and Trade Controls
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub and Trade Controls
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Export overview](#export-overview)
+
 * [Frequently asked questions](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server, and the information you upload to either product may be subject to trade control regulations, including under the U.S. Export Administration Regulations (the EAR).

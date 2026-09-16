@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 이벤트 준수 사항](/ko/site-policy/github-terms/github-event-code-of-conduct)
+4. GitHub 이벤트 준수 사항
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 이벤트 준수 사항
 ==========
@@ -43,7 +45,9 @@ Markdown으로 복사
 ----------
 
 * [준수 사항](#code-of-conduct)
+
 * [사고 보고](#reporting-an-incident)
+
 * [크레딧](#credit)
 
 [준수 사항](#code-of-conduct)

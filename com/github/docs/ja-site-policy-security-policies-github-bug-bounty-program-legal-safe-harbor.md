@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [セキュリティ ポリシー](/ja/site-policy/security-policies)
-4. [GitHub バグ報奨金プログラムの法的免責事項](/ja/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub バグ報奨金プログラムの法的免責事項
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub バグ報奨金プログラムの法的免責事項
 ==========
@@ -43,8 +45,11 @@ Markdown としてコピー
 ----------
 
 * [概要](#summary)
+
 * [1. 免責条項](#1-safe-harbor-terms)
+
 * [2. 第三者の免責条項](#2-third-party-safe-harbor)
+
 * [3. 他のサイト方針の選択的撤回](#3-limited-waiver-of-other-site-policies)
 
 [概要](#summary)

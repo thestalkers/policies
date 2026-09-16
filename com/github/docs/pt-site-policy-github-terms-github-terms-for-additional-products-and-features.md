@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. Termos do GitHub para produtos e recursos adicionais
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Termos do GitHub para produtos e recursos adicionais
 ==========
@@ -43,18 +45,31 @@ Neste artigo
 ----------
 
 * [Ações](#actions)
+
 * [Segurança avançada](#advanced-security)
+
 * [Banco de dados consultivo](#advisory-database)
+
 * [Espaços de código](#codespaces)
+
 * [Parâmetro de comparação competitiva](#competitive-benchmarking)
+
 * [Conectar](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [Importador do GitHub Enterprise](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [Pacotes](#packages)
+
 * [Páginas](#pages)
+
 * [Visualizações](#previews)
+
 * [Programa Sponsors](#sponsors-program)
+
 * [Imagens do SQL Server](#sql-server-images)
 
 Data de início de vigência desta versão: 27 de abril de 2026

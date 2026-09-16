@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Doxxing and Invasion of Privacy](/en/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+4. Doxxing and Invasion of Privacy
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Doxxing and Invasion of Privacy
 ==========
 
-Copy as Markdown
+Copy markdown
 
 Don't post other people's personal information. This includes:
 

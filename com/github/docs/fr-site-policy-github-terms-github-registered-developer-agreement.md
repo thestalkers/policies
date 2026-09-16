@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Contrat de développeur enregistré GitHub](/fr/site-policy/github-terms/github-registered-developer-agreement)
+4. Contrat de développeur enregistré GitHub
 
 Faire défiler les barres de navigation vers la droite
 

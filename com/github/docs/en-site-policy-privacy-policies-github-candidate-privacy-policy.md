@@ -27,22 +27,25 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Privacy Policies](/en/site-policy/privacy-policies)
-4. [GitHub Global Data Privacy Notice for Candidates](/en/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. GitHub Global Data Privacy Notice for Candidates
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Global Data Privacy Notice for Candidates
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Overview](#overview)
+
 * [Addenda](#addenda)
 
 **GitHub Global Data Privacy Notice for Candidates**

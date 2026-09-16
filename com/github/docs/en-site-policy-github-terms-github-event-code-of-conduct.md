@@ -27,23 +27,27 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Event Code of Conduct](/en/site-policy/github-terms/github-event-code-of-conduct)
+4. GitHub Event Code of Conduct
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Event Code of Conduct
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Code of Conduct](#code-of-conduct)
+
 * [Reporting an incident](#reporting-an-incident)
+
 * [Credit](#credit)
 
 [Code of Conduct](#code-of-conduct)

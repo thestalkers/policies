@@ -27,7 +27,7 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Segurança](/pt/site-policy/security-policies)
-4. [Divulgação coordenada de vulnerabilidades de segurança](/pt/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. Divulgação coordenada de vulnerabilidades de segurança
 
 Deslizar o caminho de navegação para a direita
 

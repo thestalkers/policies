@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-4. [Anleitung zum Einreichen einer DMCA-Gegendarstellung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. Anleitung zum Einreichen einer DMCA-Gegendarstellung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Anleitung zum Einreichen einer DMCA-Gegendarstellung
 ==========
@@ -43,7 +45,9 @@ In diesem Artikel
 ----------
 
 * [Bevor du anfängst](#before-you-start)
+
 * [Ihre Gegendarstellung muss...](#your-counter-notice-must)
+
 * [So reichen Sie Ihre Gegendarstellung ein](#how-to-submit-your-counter-notice)
 
 Dieser Leitfaden beschreibt die Informationen, die GitHub benötigt, um eine Gegendarstellung zu einem DMCA-Deaktivierungsantrag zu bearbeiten. Wenn Sie allgemeinere Fragen dazu haben, was der DMCA ist oder wie GitHub DMCA-Takedown-Anträge bearbeitet, lesen Sie bitte unsere [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy).

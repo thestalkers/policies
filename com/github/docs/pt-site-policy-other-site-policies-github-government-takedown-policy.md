@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Outras políticas do site](/pt/site-policy/other-site-policies)
-4. [Política de remoção governamental do GitHub](/pt/site-policy/other-site-policies/github-government-takedown-policy)
+4. Política de remoção governamental do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Política de remoção governamental do GitHub
 ==========
@@ -43,11 +45,17 @@ Neste artigo
 ----------
 
 * [O que é isto?](#what-is-this)
+
 * [Como enviar uma solicitação de remoção governamental](#how-to-submit-a-government-takedown-request)
+
 * [O que acontece quando recebemos uma solicitação de remoção completa de um governo?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [Por que publicamos avisos de remoção publicamente?](#why-do-we-publicly-post-takedown-notices)
+
 * [O que significa se postarmos um aviso em nosso repositório gov-takedowns?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [Remoções governamentais com base em violações dos Termos de Serviço do GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [Relatórios de transparência](#transparency-reporting)
 
 [O que é isto?](#what-is-this)

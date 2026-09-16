@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Содержимое сексуального непристойного содержания](/ru/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. Содержимое сексуального непристойного содержания
 
 Прокрутите страницы вправо
 

@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service)
+4. Termos de Serviço do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Termos de Serviço do GitHub
 ==========
@@ -43,25 +45,45 @@ Neste artigo
 ----------
 
 * [Resumo](#summary)
+
 * [Os Termos de Serviço do GitHub](#the-github-terms-of-service)
+
 * [A. Definições](#a-definitions)
+
 * [B. Termos da conta](#b-account-terms)
+
 * [C. Uso aceitável](#c-acceptable-use)
+
 * [D. Conteúdo Gerado pelo Usuário](#d-user-generated-content)
+
 * [E. Repositórios Privados](#e-private-repositories)
+
 * [F. Política de violação de direitos autorais e DMCA](#f-copyright-infringement-and-dmca-policy)
+
 * [G. Notificação de Propriedade Intelectual](#g-intellectual-property-notice)
+
 * [H. Termos do API](#h-api-terms)
+
 * [I. Termos Adicionais do Produto GitHub](#i-github-additional-product-terms)
+
 * [J. Recursos de IA, Treinamento e Seus Dados](#j-ai-features-training-and-your-data)
+
 * [K. Pré-visualizações Beta](#k-beta-previews)
+
 * [L. Pagamento](#l-payment)
+
 * [M. Cancelamento e Rescisão.](#m-cancellation-and-termination)
+
 * [N. Comunicações com o GitHub](#n-communications-with-github)
+
 * [O. Isenção de garantias](#o-disclaimer-of-warranties)
+
 * [P. Limitação de responsabilidade.](#p-limitation-of-liability)
+
 * [P. Liberação e Indenização](#q-release-and-indemnification)
+
 * [R. Alterações nestes Termos](#r-changes-to-these-terms)
+
 * [S. Disposições Gerais](#s-miscellaneous)
 
 Obrigado por usar o GitHub! Estamos felizes por você estar aqui. Leia este contrato de Termos de Serviço com atenção antes de acessar ou usar o GitHub. Por ser um contrato tão importante entre nós e nossos usuários, tentamos deixar o mais claro possível. Para sua conveniência, apresentamos estes termos em um breve resumo não vinculativo, seguido dos termos legais completos.

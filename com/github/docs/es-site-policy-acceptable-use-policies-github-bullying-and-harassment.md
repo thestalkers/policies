@@ -27,7 +27,7 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
-4. [Intimidación y Acoso](/es/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Intimidación y Acoso
 
 Desplazar las migas de pan hacia la derecha
 

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [其他站点政策](/zh/site-policy/other-site-policies)
-4. [GitHub 政府下架政策](/zh/site-policy/other-site-policies/github-government-takedown-policy)
+4. GitHub 政府下架政策
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 政府下架政策
 ==========
@@ -43,11 +45,17 @@ GitHub 政府下架政策
 ----------
 
 * [这是什么？](#what-is-this)
+
 * [如何提交政府内容移除请求](#how-to-submit-a-government-takedown-request)
+
 * [当我们收到政府提出的完整下架要求时，会发生什么？](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [我们为什么公开发布下架通知？](#why-do-we-publicly-post-takedown-notices)
+
 * [如果我们在 gov-takedown 存储库中发布通知，它意味着什么？](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [基于对 GitHub 服务条款的违反的政府下架](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [透明度报告](#transparency-reporting)
 
 [这是什么？](#what-is-this)

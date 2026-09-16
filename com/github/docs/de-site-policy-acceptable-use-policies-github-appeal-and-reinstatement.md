@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [GitHub-Einspruch und Wiedereinsetzung](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. GitHub-Einspruch und Wiedereinsetzung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Einspruch und Wiedereinsetzung
 ==========
@@ -43,8 +45,11 @@ In diesem Artikel
 ----------
 
 * [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
+
 * [Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
+
 * [So funktioniert's](#so-funktionierts)
+
 * [Transparenz](#transparency)
 
 [Berufung und Wiedereinstellung](#appeal-and-reinstatement)

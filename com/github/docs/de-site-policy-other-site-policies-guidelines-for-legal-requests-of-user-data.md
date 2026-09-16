@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-4. [Richtlinien für rechtliche Anfragen von Benutzerdaten](/de/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. Richtlinien für rechtliche Anfragen von Benutzerdaten
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Richtlinien für rechtliche Anfragen von Benutzerdaten
 ==========
@@ -43,14 +45,23 @@ In diesem Artikel
 ----------
 
 * [Über diese Richtlinien](#about-these-guidelines)
+
 * [GitHub-Terminologie](#github-terminology)
+
 * [Benutzerdaten auf GitHub.com](#user-data-on-githubcom)
+
 * [Wir werden alle betroffenen Kontoinhaber benachrichtigen](#we-will-notify-any-affected-account-owners)
+
 * [Offenlegung von nicht-öffentlichen Informationen](#disclosure-of-non-public-information)
+
 * [Kostenerstattung](#cost-reimbursement)
+
 * [Datenaufbewahrung](#data-preservation)
+
 * [Anträge stellen](#submitting-requests)
+
 * [Anfragen ausländischer Strafverfolgungsbehörden](#requests-from-foreign-law-enforcement)
+
 * [Fragen](#questions)
 
 Sind Sie ein Strafverfolgungsbeamter, der eine Untersuchung durchführt, die möglicherweise auf GitHub gehostete Benutzerinhalte betrifft?

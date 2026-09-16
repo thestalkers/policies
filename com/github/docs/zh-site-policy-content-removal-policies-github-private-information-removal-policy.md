@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [内容删除政策](/zh/site-policy/content-removal-policies)
-4. [GitHub 私人信息删除政策](/zh/site-policy/content-removal-policies/github-private-information-removal-policy)
+4. GitHub 私人信息删除政策
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 私人信息删除政策
 ==========
@@ -43,10 +45,15 @@ GitHub 私人信息删除政策
 ----------
 
 * [什么是私人信息？](#what-is-private-information)
+
 * [须知](#things-to-know)
+
 * [此流程实际上是如何运作的？](#how-does-this-actually-work)
+
 * [发送私人信息删除请求](#sending-a-private-information-removal-request)
+
 * [如何提交请求](#how-to-submit-your-request)
+
 * [争议](#disputes)
 
 我们提供的这个私人信息删除流程是一项特殊服务，仅针对违反 [GitHub 服务条款](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)的高风险内容，例如当您的安全面临暴露访问凭据的风险时。 本指南说明了 GitHub 需要您提供哪些信息，才能处理从存储库中删除私人信息的请求。

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
-4. [GitHub の一般プライバシー ステートメント](/ja/site-policy/privacy-policies/github-general-privacy-statement)
+4. GitHub の一般プライバシー ステートメント
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の一般プライバシー ステートメント
 ==========
@@ -43,21 +45,37 @@ Markdown としてコピー
 ----------
 
 * [GitHub のプライバシー ステートメント|プライバシーに関する声明](#github-privacy-statement)
+
 * [収集する個人データ](#personal-data-we-collect)
+
 * [処理の目的: お客様の個人データの使用方法](#processing-purposes-how-we-use-your-personal-data)
+
 * [個人データの共有](#sharing-of-personal-data)
+
 * [プライベート リポジトリ: GitHub のアクセス](#private-repositories-github-access)
+
 * [個人データ処理の法的根拠 (EEA および英国のエンドユーザーに適用)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [プライバシーに関する権利](#your-privacy-rights)
+
 * [国際データ転送](#international-data-transfers)
+
 * [データ プライバシー フレームワーク (DPF)](#data-privacy-framework-dpf)
+
 * [セキュリティと保持期間](#security-and-retention)
+
 * [セキュリティ](#security)
+
 * [お問い合わせ](#contact-us)
+
 * [未成年者に関する情報](#information-for-minors)
+
 * [プライバシーに関する声明の変更](#changes-to-our-privacy-statement)
+
 * [翻訳](#translations)
+
 * [弊社による Cookie の使用とトラッキング技術](#our-use-of-cookies-and-tracking-technologies)
+
 * [米国の州固有の情報](#us-state-specific-information)
 
 [GitHub のプライバシー ステートメント|プライバシーに関する声明](#github-privacy-statement)

@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Acuerdo para desarrolladores del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-developer-agreement)
+4. Acuerdo para desarrolladores del Mercado GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Acuerdo para desarrolladores del Mercado GitHub
 ==========
@@ -43,23 +45,41 @@ En este artículo
 ----------
 
 * [1. DEFINICIONES](#1definitions)
+
 * [2. FINALIDAD Y CONCESIÓN DE LICENCIAS](#2purpose-and-license-grant)
+
 * [3. RESTRICCIONES Y RESPONSABILIDADES](#3restrictions-and-responsibilities)
+
 * [4. ELIMINACIONES](#4takedowns)
+
 * [5. MANIFESTACIONES, GARANTÍAS Y CLÁUSULAS](#5representations-warranties-and-covenants)
+
 * [6. APLICACIONES O PRODUCTOS DE PAGO](#6paid-applications-or-products)
+
 * [7. PROPIEDAD](#7ownership)
+
 * [8. LIMITACIÓN DE RESPONSABILIDAD](#8limitation-of-liability)
+
 * [9. INDEMNIZACIÓN](#9indemnification)
+
 * [10. RESCISIÓN](#10termination)
+
 * [11. MODIFICACIÓN](#11modification)
+
 * [12. CESIÓN; ACUERDO COMPLETO; REVISIONES](#12assignment-entire-agreement-revisions)
+
 * [13. CONSERVACIÓN](#13severability)
+
 * [14. RELACIÓN ENTRE LAS PARTES](#14-relationship-of-the-parties)
+
 * [15. NOTIFICACIONES](#15-notice)
+
 * [16. LEGISLACIÓN APLICABLE](#16-governing-law)
+
 * [17. RESTRICCIONES EN MATERIA DE EXPORTACIÓN](#17-export-restrictions)
+
 * [18. DATOS DE USO](#18-usage-data)
+
 * [19. ACCESO PREVIO AL LANZAMIENTO](#19-pre-release-access)
 
 **Estos términos y condiciones (el "Acuerdo") rigen su participación en el Marketplace de GitHub. Al inscribirse para participar en el Marketplace o al hacer clic en "Acepto" a continuación, está confirmando que entiende este acuerdo y que acepta todos sus términos y condiciones. Si acepta este acuerdo en nombre de una empresa u otra entidad jurídica, usted declara que tiene la autoridad legal para vincular a la entidad a este acuerdo, en cuyo caso "Usted" significará la entidad que representa.**

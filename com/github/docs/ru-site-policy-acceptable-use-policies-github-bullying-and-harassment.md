@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Издевательства и домогательства](/ru/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Издевательства и домогательства
 
 Прокрутите страницы вправо
 

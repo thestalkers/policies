@@ -25,7 +25,7 @@ Réduire la barre latéraleDévelopper la barre latérale
 Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
-2. [Politique du site](/fr/site-policy)
+2. Politique du site
 
 Faire défiler les barres de navigation vers la droite
 

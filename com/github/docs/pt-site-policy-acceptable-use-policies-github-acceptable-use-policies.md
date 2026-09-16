@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-4. [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+4. Políticas de uso aceitável do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Políticas de uso aceitável do GitHub
 ==========
@@ -43,15 +45,25 @@ Neste artigo
 ----------
 
 * [1. Conformidade com Leis e Regulamentos](#1-compliance-with-laws-and-regulations)
+
 * [2. Segurança do usuário](#2-user-safety)
+
 * [3. Propriedade intelectual, autenticidade e informações privadas](#3-intellectual-property-authenticity-and-private-information)
+
 * [4. Spam e atividade inautêntica no GitHub](#4-spam-and-inauthentic-activity-on-github)
+
 * [5. Acesso e segurança do site](#5-site-access-and-safety)
+
 * [6. Limites de uso de serviços](#6-services-usage-limits)
+
 * [7. Restrições de uso de informações](#7-information-usage-restrictions)
+
 * [8. Privacidade](#8-privacy)
+
 * [9. Uso excessivo de largura de banda](#9-excessive-bandwidth-use)
+
 * [10. Publicidade no GitHub](#10-advertising-on-github)
+
 * [11. Proteção do usuário](#11-user-protection)
 
 **Versão curta:***Hospedamos uma ampla variedade de projetos colaborativos do mundo todo, e essa colaboração só funciona quando nossos usuários são capazes de trabalhar juntos de boa-fé. Ao usar o Serviço, você deve cumprir nossas Políticas de Uso Aceitável, que incluem algumas restrições de conteúdo e conduta no GitHub relacionadas à segurança do usuário, propriedade intelectual, privacidade, autenticidade e outras limitações. Resumindo, sejam excelentes uns com os outros.*

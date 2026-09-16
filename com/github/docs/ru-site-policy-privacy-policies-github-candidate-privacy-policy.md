@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики конфиденциальности](/ru/site-policy/privacy-policies)
-4. [Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub](/ru/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub
 ==========
@@ -43,6 +45,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Обзор](#overview)
+
 * [Дополнения](#addenda)
 
 **Глобальное уведомление о конфиденциальности данных для кандидатов на GitHub**

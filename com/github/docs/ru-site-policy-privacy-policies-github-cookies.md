@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики конфиденциальности](/ru/site-policy/privacy-policies)
-4. [Cookie-файлы GitHub](/ru/site-policy/privacy-policies/github-cookies)
+4. Cookie-файлы GitHub
 
 Прокрутите страницы вправо
 

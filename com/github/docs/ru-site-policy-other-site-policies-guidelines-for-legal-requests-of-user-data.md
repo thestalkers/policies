@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
-4. [Руководство по юридическим запросам пользовательских данных](/ru/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. Руководство по юридическим запросам пользовательских данных
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Руководство по юридическим запросам пользовательских данных
 ==========
@@ -43,14 +45,23 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Об этих рекомендациях](#about-these-guidelines)
+
 * [Терминология GitHub](#github-terminology)
+
 * [Пользовательские данные GitHub.com](#user-data-on-githubcom)
+
 * [Мы уведомим всех затронутых владельцев учетных записей.](#we-will-notify-any-affected-account-owners)
+
 * [Раскрытие непубличной информации](#disclosure-of-non-public-information)
+
 * [Возмещение затрат](#cost-reimbursement)
+
 * [Сохранение данных](#data-preservation)
+
 * [Отправка запросов](#submitting-requests)
+
 * [Запросы от иностранных правоохранительных органов](#requests-from-foreign-law-enforcement)
+
 * [Ответы на вопросы](#questions)
 
 Вы сотрудник правоохранительных органов, проводящий расследование, которое может касаться пользовательского контента, размещенного на GitHub?

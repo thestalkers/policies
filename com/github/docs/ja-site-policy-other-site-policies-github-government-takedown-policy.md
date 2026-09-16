@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-4. [GitHub の行政機関による削除のポリシー](/ja/site-policy/other-site-policies/github-government-takedown-policy)
+4. GitHub の行政機関による削除のポリシー
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の行政機関による削除のポリシー
 ==========
@@ -43,11 +45,17 @@ Markdown としてコピー
 ----------
 
 * [この内容は?](#what-is-this)
+
 * [行政機関による削除要求を送信する方法](#how-to-submit-a-government-takedown-request)
+
 * [行政機関から要件を満たす削除要求を受け取った際の対応は?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [削除の通知を投稿して公開する理由は?](#why-do-we-publicly-post-takedown-notices)
+
 * [gov-takedowns リポジトリに通知を投稿することの意味は?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [GitHub のサービス条件の侵害に基づいた行政機関からの削除要求](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [透明性の報告](#transparency-reporting)
 
 [この内容は?](#what-is-this)

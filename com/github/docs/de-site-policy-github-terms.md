@@ -26,7 +26,7 @@ Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
-3. [GitHub-Bedingungen](/de/site-policy/github-terms)
+3. GitHub-Bedingungen
 
 Breadcrumbs nach rechts scrollen
 

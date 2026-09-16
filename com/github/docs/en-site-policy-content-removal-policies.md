@@ -26,7 +26,7 @@ Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
-3. [Content Removal Policies](/en/site-policy/content-removal-policies)
+3. Content Removal Policies
 
 Scroll breadcrumbs right
 

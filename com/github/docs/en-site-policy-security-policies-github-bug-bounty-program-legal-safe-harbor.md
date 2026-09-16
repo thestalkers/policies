@@ -27,24 +27,29 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Security Policies](/en/site-policy/security-policies)
-4. [GitHub Bug Bounty Program Legal Safe Harbor](/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub Bug Bounty Program Legal Safe Harbor
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Bug Bounty Program Legal Safe Harbor
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Summary](#summary)
+
 * [1. Safe Harbor Terms](#1-safe-harbor-terms)
+
 * [2. Third Party Safe Harbor](#2-third-party-safe-harbor)
+
 * [3. Limited Waiver of Other Site Policies](#3-limited-waiver-of-other-site-policies)
 
 [Summary](#summary)

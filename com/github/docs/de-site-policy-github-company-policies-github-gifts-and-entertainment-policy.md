@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-4. [GitHub-Richtlinie zu Geschenken und Unterhaltung](/de/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+4. GitHub-Richtlinie zu Geschenken und Unterhaltung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Richtlinie zu Geschenken und Unterhaltung
 ==========
@@ -43,9 +45,13 @@ In diesem Artikel
 ----------
 
 * [Unternehmensrichtlinien](#company-policies)
+
 * [Beispiele für akzeptable und inakzeptable Geschenke](#examples-of-acceptable-and-unacceptable-gifts)
+
 * [Prozess](#process)
+
 * [Konsequenzen](#consequences)
+
 * [Weitere Informationen](#more-information)
 
 GitHub erkennt an, dass unser Geschäft auf positiven und transparenten Beziehungen aufbaut. Auch wenn informelle Interaktionen und der Austausch von Geschenken Teil der Entwicklung dieser Beziehungen sein können und in manchen Ländern sogar als üblich gelten, müssen wir sicherstellen, dass wir die Antikorruptionsgesetze einhalten. Wir sind gesetzlich verpflichtet, uns ethisch korrekt zu verhalten, einschließlich der Nutzung solcher Interaktionen, um einen besonderen Vorteil zu schaffen oder ein Geschäft zu beeinflussen.

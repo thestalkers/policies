@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
-4. [GitHub 선물 및 접대 정책](/ko/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+4. GitHub 선물 및 접대 정책
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 선물 및 접대 정책
 ==========
@@ -43,9 +45,13 @@ Markdown으로 복사
 ----------
 
 * [회사 정책](#company-policies)
+
 * [허용되는 선물과 허용되지 않는 선물의 예](#examples-of-acceptable-and-unacceptable-gifts)
+
 * [절차](#process)
+
 * [결과](#consequences)
+
 * [추가 정보](#more-information)
 
 GitHub는 당사의 비즈니스가 긍정적이고 투명한 관계를 기반으로 한다는 것을 잘 알고 있습니다. 비공식적인 상호 작용과 선물 교환이 이러한 비즈니스 관계를 발전시키는 과정의 일부가 될 수 있으며 어떤 국가에서는 관례로 간주될 수도 있지만 당사는 뇌물방지법을 준수해야 합니다. 우리는 특별한 이익을 창출하거나 거래에 영향을 미치기 위해 그러한 상호 작용을 사용하지 않는 것을 포함하여 윤리적으로 행동해야 할 법적 의무가 있습니다.

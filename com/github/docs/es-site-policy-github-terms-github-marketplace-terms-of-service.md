@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Condiciones de servicio del Mercado GitHub](/es/site-policy/github-terms/github-marketplace-terms-of-service)
+4. Condiciones de servicio del Mercado GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Condiciones de servicio del Mercado GitHub
 ==========
@@ -43,14 +45,23 @@ En este artículo
 ----------
 
 * [A. Condiciones de servicio de GitHub.com](#a-githubcoms-terms-of-service)
+
 * [B. Requisitos de uso](#b-use-requirements)
+
 * [C. Productos para desarrolladores y proveedores de productos](#c-developer-products-and-product-providers)
+
 * [D. Pago, cronograma de facturación y cancelación](#d-payment-billing-schedule-and-cancellation)
+
 * [E. Sus datos y la política de privacidad de GitHub](#e-your-data-and-githubs-privacy-policy)
+
 * [F. Derechos de los productos del desarrollador](#f-rights-to-developer-products)
+
 * [G. Actualizaciones de productos para desarrolladores](#g-updates-to-developer-products)
+
 * [H. Bloqueo de productos de desarrollador](#h-developer-product-blocking)
+
 * [I. Descargo de responsabilidad; Limitación de responsabilidad; Liberación e Indemnización](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+
 * [J. Otras disposiciones](#j-miscellanea)
 
 ¡Bienvenido a GitHub Marketplace ("Marketplace")! Estamos felices de que estés aquí. Lea estos Términos de servicio ("Términos de Marketplace") detenidamente antes de acceder o usar GitHub Marketplace. GitHub Marketplace es una plataforma que le permite seleccionar aplicaciones o acciones de desarrollador (gratis o con cargo) que se pueden usar con su cuenta GitHub.com ("Productos de desarrollador"). Aunque los ofrece GitHub, Inc. ("GitHub", "nosotros"), los Productos de desarrollador pueden ser desarrollados y mantenidos por GitHub o por proveedores de software de terceros. Su selección o uso de los Productos de desarrollador está sujeto a estos Términos de Marketplace y a cualquier tarifa aplicable, y puede requerir que acepte términos adicionales proporcionados por el tercero que otorga la licencia de ese Producto de desarrollador (el "Proveedor de productos"). El uso de modelos de GitHub está sujeto a los [términos de GitHub para productos y características adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features).

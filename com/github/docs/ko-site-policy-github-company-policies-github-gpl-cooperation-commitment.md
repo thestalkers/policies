@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
-4. [GitHub GPL 협력 약정](/ko/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. GitHub GPL 협력 약정
 
 이동 경로를 오른쪽으로 스크롤
 

@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
-4. [Lignes directrices pour les demandes légales de données utilisateur](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. Lignes directrices pour les demandes légales de données utilisateur
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Lignes directrices pour les demandes légales de données utilisateur
 ==========
@@ -43,14 +45,23 @@ Dans cet article
 ----------
 
 * [À propos de ces lignes directrices](#about-these-guidelines)
+
 * [Terminologie GitHub](#github-terminology)
+
 * [Données utilisateur sur GitHub.com](#user-data-on-githubcom)
+
 * [Nous aviserons tous les titulaires de compte concernés](#we-will-notify-any-affected-account-owners)
+
 * [Divulgation d'informations non publiques](#divulgation-dinformations-non-publiques)
+
 * [Remboursement des frais](#cost-reimbursement)
+
 * [Conservation des données](#data-preservation)
+
 * [Soumettre des demandes](#submitting-requests)
+
 * [Demandes des forces de l'ordre étrangères](#demandes-des-forces-de-lordre-étrangères)
+
 * [Questions](#questions)
 
 Êtes-vous un agent des forces de l'ordre menant une enquête pouvant impliquer du contenu utilisateur hébergé sur GitHub ?

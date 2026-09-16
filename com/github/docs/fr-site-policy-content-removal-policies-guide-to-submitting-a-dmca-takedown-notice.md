@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Guide de soumission d'un avis de retrait DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Guide de soumission d'un avis de retrait DMCA
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Guide de soumission d'un avis de retrait DMCA
 ==========
@@ -43,8 +45,11 @@ Dans cet article
 ----------
 
 * [Avant de commencer](#before-you-start)
+
 * [Votre plainte doit...](#your-complaint-must-)
+
 * [Plaintes concernant la technologie anti-contournement](#complaints-about-anti-circumvention-technology)
+
 * [Comment soumettre votre plainte](#how-to-submit-your-complaint)
 
 Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de retrait DMCA. Si vous avez des questions plus générales sur ce qu'est la DMCA ou sur la manière dont GitHub traite les demandes de retrait dans le cadre de la DMCA, veuillez consulter notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy).

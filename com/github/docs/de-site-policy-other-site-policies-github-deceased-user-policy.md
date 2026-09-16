@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-4. [GitHub-Richtlinie für verstorbene Benutzer](/de/site-policy/other-site-policies/github-deceased-user-policy)
+4. GitHub-Richtlinie für verstorbene Benutzer
 
 Breadcrumbs nach rechts scrollen
 

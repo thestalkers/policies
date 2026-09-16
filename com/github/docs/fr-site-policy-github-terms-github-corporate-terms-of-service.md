@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions d'utilisation de GitHub Corporate](/fr/site-policy/github-terms/github-corporate-terms-of-service)
+4. Conditions d'utilisation de GitHub Corporate
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions d'utilisation de GitHub Corporate
 ==========
@@ -43,25 +45,45 @@ Dans cet article
 ----------
 
 * [Conditions d'utilisation de GitHub Corporate](#conditions-dutilisation-de-github-corporate)
+
 * [A. Définitions](#a-definitions)
+
 * [B. Termes du compte](#b-account-terms)
+
 * [C. En accord avec les lois ; utilisation acceptable ; confidentialité](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. Responsabilité du contenu ; la possession ; droits de licence](#d-content-responsibility-ownership-license-rights)
+
 * [E. Dépôts privés](#e-private-repositories)
+
 * [F. Avis sur la Propriété Intellectuelle](#f-intellectual-property-notice)
+
 * [G. Conditions des Produits Supplémentaires de GitHub](#g-github-additional-product-terms)
+
 * [H. Licences d’Abonnement](#h-subscription-licenses)
+
 * [I. Affiliés](#i-affiliates)
+
 * [J. Paiement](#j-payment)
+
 * [K. Durée ; Résiliation ; Suspension](#k-term-termination-suspension)
+
 * [L. Communication avec GitHub](#l-communications-with-github)
+
 * [m. Garantie limitée ; Clause de non-responsabilité](#m-limited-warranty-disclaimer)
+
 * [N. Limitations de responsabilité](#n-limitations-of-liability)
+
 * [O. Défense contre les réclamations ; Décharge](#o-defense-of-claims-release)
+
 * [P. Confidentialité](#p-confidentiality)
+
 * [Q. Services Professionnels](#q-professional-services)
+
 * [R. Modifications du service ou des conditions](#r-changes-to-the-service-or-terms)
+
 * [S. Assistance technique](#s-support)
+
 * [T. Dispositions diverses](#t-miscellaneous)
 
 Remarque

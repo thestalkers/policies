@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
-4. [仇恨言论和歧视](/zh/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+4. 仇恨言论和歧视
 
 向右滚动痕迹导航
 

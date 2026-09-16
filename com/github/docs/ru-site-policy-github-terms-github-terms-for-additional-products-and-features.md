@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Условия GitHub для дополнительных продуктов и функций](/ru/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. Условия GitHub для дополнительных продуктов и функций
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Условия GitHub для дополнительных продуктов и функций
 ==========
@@ -43,18 +45,31 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Действия](#actions)
+
 * [Advanced Security](#advanced-security)
+
 * [Advisory Database](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [Сравнительный анализ конкурентов](#competitive-benchmarking)
+
 * [Connect](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [Packages](#packages)
+
 * [Pages](#pages)
+
 * [Preview](#previews)
+
 * [Спонсорская программа](#sponsors-program)
+
 * [SQL Server Images](#sql-server-images)
 
 Дата вступления версии в силу: 27 апреля 2026 года

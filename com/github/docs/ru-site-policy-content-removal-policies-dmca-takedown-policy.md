@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики удаления контента](/ru/site-policy/content-removal-policies)
-4. [Политика удаления DMCA](/ru/site-policy/content-removal-policies/dmca-takedown-policy)
+4. Политика удаления DMCA
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Политика удаления DMCA
 ==========
@@ -43,14 +45,23 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Что такое DMCA?](#what-is-the-dmca)
+
 * [Уведомления DMCA в двух словах](#dmca-notices-in-a-nutshell)
+
 * [А. Как это на самом деле работает?](#a-how-does-this-actually-work)
+
 * [B. Что насчет вилок? (или Что такое вилка?)](#b-what-about-forks-or-whats-a-fork)
+
 * [C. Как насчет требований об обходе?](#c-what-about-circumvention-claims)
+
 * [D. Что делать, если я случайно пропустил окно для внесения изменений?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+
 * [Е. Прозрачность](#e-transparency)
+
 * [F. Повторное нарушение](#f-repeated-infringement)
+
 * [G. Отправка уведомлений](#g-submitting-notices)
+
 * [Узнайте больше и выскажитесь](#learn-more-and-speak-up)
 
 Добро пожаловать в руководство GitHub по Закону об авторском праве в цифровую эпоху, широко известному как «DMCA». Эта страница не предназначена для использования в качестве всеобъемлющего учебника по уставу. Однако, если вы получили уведомление об удалении DMCA, касающееся содержимого, которое вы разместили на GitHub, или если вы являетесь правообладателем, желающим опубликовать такое уведомление, мы надеемся, что эта страница поможет немного демистифицировать закон, а также наши политики его соблюдения.

@@ -27,39 +27,59 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Marketplace Developer Agreement](/en/site-policy/github-terms/github-marketplace-developer-agreement)
+4. GitHub Marketplace Developer Agreement
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Marketplace Developer Agreement
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [1. DEFINITIONS](#1definitions)
+
 * [2. PURPOSE AND LICENSE GRANT](#2purpose-and-license-grant)
+
 * [3. RESTRICTIONS AND RESPONSIBILITIES](#3restrictions-and-responsibilities)
+
 * [4. TAKEDOWNS](#4takedowns)
+
 * [5. REPRESENTATIONS, WARRANTIES AND COVENANTS](#5representations-warranties-and-covenants)
+
 * [6. PAID APPLICATIONS OR PRODUCTS](#6paid-applications-or-products)
+
 * [7. OWNERSHIP](#7ownership)
+
 * [8. LIMITATION OF LIABILITY](#8limitation-of-liability)
+
 * [9. INDEMNIFICATION](#9indemnification)
+
 * [10. TERMINATION](#10termination)
+
 * [11. MODIFICATION](#11modification)
+
 * [12. ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS](#12assignment-entire-agreement-revisions)
+
 * [13. SEVERABILITY](#13severability)
+
 * [14. RELATIONSHIP OF THE PARTIES](#14-relationship-of-the-parties)
+
 * [15. NOTICE](#15-notice)
+
 * [16. GOVERNING LAW](#16-governing-law)
+
 * [17. EXPORT RESTRICTIONS](#17-export-restrictions)
+
 * [18. USAGE DATA](#18-usage-data)
+
 * [19. PRE-RELEASE ACCESS](#19-pre-release-access)
 
 **These terms and conditions (the "Agreement") govern your participation in GitHub’s Marketplace. By enrolling to participate in the Marketplace or by clicking “I Accept” below, you are confirming that you understand this agreement, and that you accept all of its terms and conditions. If you are entering into this Agreement on behalf of a company or other legal entity, you represent that you have the legal authority to bind the entity to this agreement, in which case “You” will mean the entity you represent.**

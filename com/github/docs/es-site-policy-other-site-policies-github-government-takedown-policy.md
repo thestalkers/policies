@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Otras políticas del sitio](/es/site-policy/other-site-policies)
-4. [Política de eliminación del gobierno de GitHub](/es/site-policy/other-site-policies/github-government-takedown-policy)
+4. Política de eliminación del gobierno de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Política de eliminación del gobierno de GitHub
 ==========
@@ -43,11 +45,17 @@ En este artículo
 ----------
 
 * [¿Qué es esto?](#what-is-this)
+
 * [Cómo presentar una solicitud gubernamental de eliminación de contenido](#how-to-submit-a-government-takedown-request)
+
 * [¿Qué sucede cuando recibimos una solicitud de eliminación completa de un gobierno?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [¿Por qué publicamos avisos de eliminación?](#why-do-we-publicly-post-takedown-notices)
+
 * [¿Qué significa si publicamos un aviso en nuestro repositorio de eliminaciones gubernamentales?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [Eliminaciones del gobierno basadas en violaciones de los Términos de servicio de GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [Informes de transparencia](#transparency-reporting)
 
 [¿Qué es esto?](#what-is-this)

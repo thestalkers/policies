@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [其他站点政策](/zh/site-policy/other-site-policies)
-4. [GitHub 和贸易管制](/zh/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub 和贸易管制
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 和贸易管制
 ==========
@@ -43,6 +45,7 @@ GitHub 和贸易管制
 ----------
 
 * [出口概述](#export-overview)
+
 * [常见问题解答](#frequently-asked-questions)
 
 GitHub.com、GitHub Enterprise Server 以及您上传至其中任一产品的信息都需遵守贸易管制法规，包括美国出口管理条例（Export Administration Regulations，EAR）。

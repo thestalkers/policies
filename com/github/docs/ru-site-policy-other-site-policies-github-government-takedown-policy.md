@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
-4. [Политика GitHub в отношении правительственных запретов](/ru/site-policy/other-site-policies/github-government-takedown-policy)
+4. Политика GitHub в отношении правительственных запретов
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Политика GitHub в отношении правительственных запретов
 ==========
@@ -43,11 +45,17 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Что это?](#what-is-this)
+
 * [Как отправить запрос на правительства на удаление контента](#how-to-submit-a-government-takedown-request)
+
 * [Что происходит, когда мы получаем полный запрос на удаление от правительства?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
+
 * [Почему мы открыто публикуем уведомления об удалении?](#why-do-we-publicly-post-takedown-notices)
+
 * [Что означает, если мы опубликуем уведомление в нашем репозиторий gov-takedowns?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
+
 * [Правительственные блокировки на основании нарушений Условий использования GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
+
 * [Отчетность о прозрачности](#transparency-reporting)
 
 [Что это?](#what-is-this)

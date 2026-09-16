@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Threats of Violence and Gratuitously Violent Content](/en/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+4. Threats of Violence and Gratuitously Violent Content
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Threats of Violence and Gratuitously Violent Content
 ==========
 
-Copy as Markdown
+Copy markdown
 
 You may not use GitHub to organize, promote, encourage, threaten, or incite acts of violence. You may not post content that depicts or glorifies violence or physical harm against human beings or animals. This includes:
 

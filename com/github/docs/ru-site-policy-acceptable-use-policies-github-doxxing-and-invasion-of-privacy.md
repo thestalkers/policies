@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy)
+4. Doxxing и вторжение в частную жизнь
 
 Прокрутите страницы вправо
 

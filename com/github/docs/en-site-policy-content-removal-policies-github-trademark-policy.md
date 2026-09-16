@@ -27,25 +27,31 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Content Removal Policies](/en/site-policy/content-removal-policies)
-4. [GitHub Trademark Policy](/en/site-policy/content-removal-policies/github-trademark-policy)
+4. GitHub Trademark Policy
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Trademark Policy
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)
+
 * [What is not a GitHub Trademark Policy Violation?](#what-is-not-a-github-trademark-policy-violation)
+
 * [How Does GitHub Respond To Reported Trademark Policy Violations?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [How Do I Report a Trademark Policy Violation?](#how-do-i-report-a-trademark-policy-violation)
+
 * [What Information is Required When Reporting Trademark Policy Violations?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [What is a GitHub Trademark Policy Violation?](#what-is-a-github-trademark-policy-violation)

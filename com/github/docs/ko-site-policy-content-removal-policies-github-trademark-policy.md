@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
-4. [GitHub 상표 정책](/ko/site-policy/content-removal-policies/github-trademark-policy)
+4. GitHub 상표 정책
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 상표 정책
 ==========
@@ -43,9 +45,13 @@ Markdown으로 복사
 ----------
 
 * [GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)
+
 * [GitHub 상표 정책 위반이 아닌 것은 무엇입니까?](#what-is-not-a-github-trademark-policy-violation)
+
 * [GitHub는 상표 정책 위반 신고에 어떻게 대응합니까?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [상표 정책 위반을 신고하려면 어떻게 해야 합니까?](#how-do-i-report-a-trademark-policy-violation)
+
 * [상표 정책 위반을 신고할 때 어떤 정보가 필요합니까?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [GitHub 상표 정책 위반인 것은 무엇입니까?](#what-is-a-github-trademark-policy-violation)

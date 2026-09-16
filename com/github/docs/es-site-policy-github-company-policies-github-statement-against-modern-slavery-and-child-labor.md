@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-4. [Declaración de GitHub contra la esclavitud moderna y el trabajo infantil](/es/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+4. Declaración de GitHub contra la esclavitud moderna y el trabajo infantil
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Declaración de GitHub contra la esclavitud moderna y el trabajo infantil
 ==========
@@ -43,11 +45,17 @@ En este artículo
 ----------
 
 * [Estructura, negocio y cadenas de suministro de GitHub](#githubs-structure-business-and-supply-chains)
+
 * [Políticas en relación con la esclavitud moderna y el trabajo infantil](#policies-in-relation-to-modern-slavery-and-child-labor)
+
 * [Leyes y prácticas laborales](#labor-laws-and-practices)
+
 * [Procesos de debida diligencia en relación con la esclavitud moderna y el trabajo infantil en sus negocios y cadenas de suministro](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+
 * [Lugares en las cadenas de suministro y negocios de GitHub donde existe el riesgo de esclavitud moderna y trabajo infantil, y los pasos que GitHub ha tomado para evaluar y administrar ese riesgo](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+
 * [Eficacia para garantizar que ni la esclavitud moderna ni el trabajo infantil ocurran en las cadenas de suministro o comerciales de GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+
 * [Capacitación para el personal de GitHub sobre la esclavitud moderna y la trata de personas](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *Declaración de 2018*

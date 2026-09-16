@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Sexually Obscene Content](/en/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. Sexually Obscene Content
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Sexually Obscene Content
 ==========
 
-Copy as Markdown
+Copy markdown
 
 We do not tolerate content associated with sexual exploitation or abuse of another individual, including where [minors are concerned](/en/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse). We do not allow sexually themed or suggestive content that serves little or no purpose other than to solicit an erotic or shocking response, particularly where that content is amplified by its placement in profiles or other social contexts. This includes:
 

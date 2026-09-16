@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Términos de Servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service)
+4. Términos de Servicio de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Términos de Servicio de GitHub
 ==========
@@ -43,25 +45,45 @@ En este artículo
 ----------
 
 * [Resumen](#summary)
+
 * [Los Términos de servicio de GitHub](#the-github-terms-of-service)
+
 * [A. Definiciones](#a-definitions)
+
 * [B. Términos de la cuenta](#b-account-terms)
+
 * [C. Uso aceptable](#c-acceptable-use)
+
 * [D. Contenido Generado por el Usuario](#d-user-generated-content)
+
 * [E. Repositorios privados](#e-private-repositories)
+
 * [F. Infracción de derechos de autor y política de DMCA](#f-copyright-infringement-and-dmca-policy)
+
 * [G. Aviso de Propiedad Intelectual](#g-intellectual-property-notice)
+
 * [H. Términos de la API](#h-api-terms)
+
 * [I. Términos Adicionales para los Productos de GitHub](#i-github-additional-product-terms)
+
 * [J. Funciones de inteligencia artificial, entrenamiento y datos del usuario](#j-ai-features-training-and-your-data)
+
 * [K. Vistas previas beta](#k-beta-previews)
+
 * [L. Pago](#l-payment)
+
 * [M. Cancelación y Resolución](#m-cancellation-and-termination)
+
 * [N. Comunicaciones con GitHub](#n-communications-with-github)
+
 * [O. Renuncia de Garantías](#o-disclaimer-of-warranties)
+
 * [P. Limitación de responsabilidad](#p-limitation-of-liability)
+
 * [Q. Liberación e Indemnización](#q-release-and-indemnification)
+
 * [R. Modificaciones de estos Términos](#r-changes-to-these-terms)
+
 * [S. Disposiciones adicionales](#s-miscellaneous)
 
 ¡Gracias por usar GitHub! Estamos felices de que estés aquí. Lea detenidamente este acuerdo de Términos de servicio antes de acceder o utilizar GitHub. Debido a que es un contrato tan importante entre nosotros y nuestros usuarios, hemos tratado de dejarlo lo más claro posible. Para su comodidad, hemos presentado estos términos en un breve resumen no vinculante seguido de los términos legales completos.

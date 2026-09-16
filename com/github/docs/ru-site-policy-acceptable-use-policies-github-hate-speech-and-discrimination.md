@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Разжигание ненависти и дискриминация](/ru/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+4. Разжигание ненависти и дискриминация
 
 Прокрутите страницы вправо
 

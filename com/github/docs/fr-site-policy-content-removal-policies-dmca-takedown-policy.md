@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Politique de retrait DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy)
+4. Politique de retrait DMCA
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique de retrait DMCA
 ==========
@@ -43,14 +45,23 @@ Dans cet article
 ----------
 
 * [Qu’est ce que le DMCA ?](#what-is-the-dmca)
+
 * [Avis DMCA en bref](#dmca-notices-in-a-nutshell)
+
 * [A. Comment cela fonctionne-t-il réellement ?](#a-how-does-this-actually-work)
+
 * [B. Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#b-quen-est-il-des-fourches-ou-quest-ce-quune-fourchette)
+
 * [C. Qu'en est-il des allégations de contournement ?](#c-quen-est-il-des-allégations-de-contournement)
+
 * [D. Que se passe-t-il si j'ai manqué par inadvertance la fenêtre pour apporter des modifications ?](#d-que-se-passe-t-il-si-jai-manqué-par-inadvertance-la-fenêtre-pour-apporter-des-modifications)
+
 * [E. Transparence](#e-transparency)
+
 * [F. Infraction répétée](#f-repeated-infringement)
+
 * [G. Soumettre des avis](#g-submitting-notices)
+
 * [En savoir plus et parler](#learn-more-and-speak-up)
 
 Bienvenue dans le guide de GitHub sur le Digital Millennium Copyright Act, communément appelé « DMCA ». Cette page ne se veut pas une introduction complète à la loi. Cependant, si vous avez reçu un avis de retrait DMCA ciblant le contenu que vous avez publié sur GitHub ou si vous êtes un titulaire de droits cherchant à émettre un tel avis, cette page aidera, espérons-le, à démystifier un peu la loi ainsi que notre politiques pour s'y conformer.

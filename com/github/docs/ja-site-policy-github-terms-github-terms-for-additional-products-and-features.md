@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [追加の製品および機能に適用される GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. 追加の製品および機能に適用される GitHub 条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 追加の製品および機能に適用される GitHub 条件
 ==========
@@ -43,18 +45,31 @@ Markdown としてコピー
 ----------
 
 * [Actions](#actions)
+
 * [Advanced Security](#advanced-security)
+
 * [Advisory Database](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [競合する製品またはサービスのベンチマーク](#competitive-benchmarking)
+
 * [Connect](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [パッケージ](#packages)
+
 * [ページ](#pages)
+
 * [プレビュー](#previews)
+
 * [Sponsors プログラム](#sponsors-program)
+
 * [SQL Server Images](#sql-server-images)
 
 このバージョンの発効日: 2026 年 4 月 27 日

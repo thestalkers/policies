@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-4. [Política de remoção de DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy)
+4. Política de remoção de DMCA
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Política de remoção de DMCA
 ==========
@@ -43,14 +45,23 @@ Neste artigo
 ----------
 
 * [O que é o DMCA?](#what-is-the-dmca)
+
 * [Avisos DMCA em poucas palavras](#dmca-notices-in-a-nutshell)
+
 * [R. Como Isso Realmente Funciona?](#a-how-does-this-actually-work)
+
 * [B. E os garfos? (ou o que é um garfo?)](#b-what-about-forks-or-whats-a-fork)
+
 * [C. E quanto às alegações de evasão?](#c-what-about-circumvention-claims)
+
 * [D. E se eu acidentalmente perder a janela para fazer alterações?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+
 * [E. Transparência](#e-transparency)
+
 * [F. Violação Repetida](#f-repeated-infringement)
+
 * [G. Envio de avisos](#g-submitting-notices)
+
 * [Saiba mais e fale](#learn-more-and-speak-up)
 
 Bem-vindo ao Guia do GitHub para o Digital Millennium Copyright Act, comumente conhecido como "DMCA". Esta página não pretende ser uma cartilha abrangente para o estatuto. No entanto, se você recebeu um aviso de remoção da DMCA visando o conteúdo que publicou no GitHub ou se você é um detentor de direitos que deseja emitir tal aviso, esperamos que esta página ajude a desmistificar um pouco a lei, bem como nosso políticas para cumpri-la.

@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Politique de marque GitHub](/fr/site-policy/content-removal-policies/github-trademark-policy)
+4. Politique de marque GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique de marque GitHub
 ==========
@@ -43,9 +45,13 @@ Dans cet article
 ----------
 
 * [Qu'est-ce qu'une violation de la politique de marque GitHub ?](#quest-ce-quune-violation-de-la-politique-de-marque-github)
+
 * [Qu'est-ce qui n'est pas une violation de la politique de marque GitHub ?](#quest-ce-qui-nest-pas-une-violation-de-la-politique-de-marque-github)
+
 * [Comment GitHub répond-il aux violations signalées de la politique en matière de marques ?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [Comment puis-je signaler une violation de la politique relative aux marques ?](#how-do-i-report-a-trademark-policy-violation)
+
 * [Quelles informations sont requises lors du signalement de violations de la politique en matière de marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [Qu'est-ce qu'une violation de la politique de marque GitHub ?](#quest-ce-quune-violation-de-la-politique-de-marque-github)

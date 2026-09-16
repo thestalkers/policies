@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Code de conduite des événements GitHub](/fr/site-policy/github-terms/github-event-code-of-conduct)
+4. Code de conduite des événements GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Code de conduite des événements GitHub
 ==========
@@ -43,7 +45,9 @@ Dans cet article
 ----------
 
 * [Code de Conduite](#code-of-conduct)
+
 * [Signaler un incident](#reporting-an-incident)
+
 * [Avoir](#credit)
 
 [Code de Conduite](#code-of-conduct)

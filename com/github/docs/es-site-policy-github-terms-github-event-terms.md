@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Términos del evento de GitHub](/es/site-policy/github-terms/github-event-terms)
+4. Términos del evento de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Términos del evento de GitHub
 ==========
@@ -43,11 +45,17 @@ En este artículo
 ----------
 
 * [1. Requisitos básicos para asistir, incluido el Código de conducta del Evento](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. Imágenes y videos](#2-pictures-and-videos)
+
 * [3. Uso compartido de la información](#3-information-sharing)
+
 * [4. Riesgo, responsabilidad e indemnización](#4-risk-liability-and-indemnity)
+
 * [5. Rescisión](#5-termination)
+
 * [6. Elección de legislación y fuero](#6-choice-of-law-and-venue)
+
 * [7. Disposiciones varias](#7-miscellaneous-terms)
 
 Al confirmar la asistencia o asistir a un evento de GitHub, incluidos todos los eventos o actividades organizados por GitHub en asociación con el evento de GitHub (colectivamente, el "Evento"), indica que ha leído, comprendido y aceptado los siguientes Términos del Evento de GitHub (en adelante los "Términos del Evento").

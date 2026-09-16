@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de Confidentialité](/fr/site-policy/privacy-policies)
-4. [Cookies sur GitHub](/fr/site-policy/privacy-policies/github-cookies)
+4. Cookies sur GitHub
 
 Faire défiler les barres de navigation vers la droite
 

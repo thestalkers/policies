@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions supplémentaires des sponsors GitHub](/fr/site-policy/github-terms/github-sponsors-additional-terms)
+4. Conditions supplémentaires des sponsors GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions supplémentaires des sponsors GitHub
 ==========
@@ -43,23 +45,41 @@ Dans cet article
 ----------
 
 * [1. Définitions](#1-definitions)
+
 * [1A. Traitement des paiements par Stripe.](#1a-payment-processing-by-stripe)
+
 * [1. Bon usage.](#1-acceptable-use)
+
 * [2 .Obligations du Développeur Sponsorisé.](#2-sponsored-developer-obligations)
+
 * [3 Conditions Financières.](#3-financial-terms)
+
 * [4. Déclarations et Garanties ; Limitation de Responsabilité ; Indemnisation.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. Durée et résiliation.](#5-term-and-termination)
+
 * [1. Programme Sponsors.](#1-sponsors-program)
+
 * [2. Paiement.](#2-payment)
+
 * [3. Durée et résiliation.](#3-term-and-termination)
+
 * [4. Clause d’exclusion de responsabilité ; limitation de responsabilité.](#4-disclaimer-limitation-of-liability)
+
 * [A. Confidentialité.](#a-confidentiality)
+
 * [B. Publicité.](#b-publicity)
+
 * [C. Avis.](#c-notices)
+
 * [D. Droit applicable.](#d-governing-law)
+
 * [E. Affectation.](#e-assignment)
+
 * [F. Divisibilité des Clauses.](#f-severability)
+
 * [G. Intégralité du Contrat.](#g-entire-agreement)
+
 * [H. Modifications des Conditions.](#h-changes-to-the-terms)
 
 Votre participation au programme de sponsoring de GitHub (le « programme ») est soumise aux [Conditions d’utilisation du service GitHub](/fr/site-policy/github-terms/github-terms-of-service) (« l’accord ») ou à tout autre accord que vous avez conclu avec GitHub (par exemple les conditions générales du client de GitHub, les conditions d’utilisation de l’entreprise de GitHub ou tout autre accord), ainsi qu’aux conditions supplémentaires suivantes (les « conditions supplémentaires »). Toute utilisation du programme de parrainage GitHub qui enfreint l'accord constituera également une violation des présentes conditions supplémentaires. Tous les termes commençant par une majuscule, utilisés mais non définis ci-dessous ont la signification qui leur est donnée dans le Contrat. Ces conditions supplémentaires pour le programme de parrainage GitHub décrivent la relation entre GitHub et vous, le « développeur parrainé », pour le programme. Les Conditions supplémentaires entrent en vigueur à la date à laquelle vous les acceptez ("Date d'entrée en vigueur »).

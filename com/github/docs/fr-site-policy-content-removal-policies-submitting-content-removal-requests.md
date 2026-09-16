@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Envoi de demandes de suppression de contenu](/fr/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. Envoi de demandes de suppression de contenu
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Envoi de demandes de suppression de contenu
 ==========
@@ -43,7 +45,9 @@ Dans cet article
 ----------
 
 * [Politique de retrait DMCA](#dmca-takedown-policy)
+
 * [Politique de marque GitHub](#github-trademark-policy)
+
 * [Politique de suppression des informations privées de GitHub](#github-private-information-removal-policy)
 
 Nous comprenons que du contenu protégé par le droit d'auteur, une marque de commerce ou privé peut être publié sur GitHub - accidentellement ou exprès - parfois dans des référentiels qui ne vous appartiennent pas. Étant donné que la nature de ce contenu varie et en raison des différentes lois applicables, chaque catégorie a ses propres exigences de déclaration distinctes décrites dans nos politiques.

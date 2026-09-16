@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [개인정보보호정책](/ko/site-policy/privacy-policies)
-4. [GitHub 쿠키](/ko/site-policy/privacy-policies/github-cookies)
+4. GitHub 쿠키
 
 이동 경로를 오른쪽으로 스크롤
 

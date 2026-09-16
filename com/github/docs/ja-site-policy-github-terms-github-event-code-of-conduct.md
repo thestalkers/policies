@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub イベントの行動規範](/ja/site-policy/github-terms/github-event-code-of-conduct)
+4. GitHub イベントの行動規範
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub イベントの行動規範
 ==========
@@ -43,7 +45,9 @@ Markdown としてコピー
 ----------
 
 * [倫理規定](#code-of-conduct)
+
 * [インシデントの報告](#reporting-an-incident)
+
 * [貸方](#credit)
 
 [倫理規定](#code-of-conduct)

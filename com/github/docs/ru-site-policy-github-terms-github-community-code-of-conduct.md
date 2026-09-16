@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Правила поведения в сообществе GitHub](/ru/site-policy/github-terms/github-community-code-of-conduct)
+4. Правила поведения в сообществе GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Правила поведения в сообществе GitHub
 ==========
@@ -43,10 +45,15 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Обзор и цель](#overview-and-purpose)
+
 * [Приносить присягу](#pledge)
+
 * [Стандарты](#standards)
+
 * [Обеспечение исполнения](#enforcement)
+
 * [Обращение к персоналу GitHub](#contacting-github-staff)
+
 * [Юридические уведомления](#legal-notices)
 
 [Обзор и цель](#overview-and-purpose)

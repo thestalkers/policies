@@ -27,7 +27,7 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Outras políticas do site](/pt/site-policy/other-site-policies)
-4. [Política de logotipo do GitHub](/pt/site-policy/other-site-policies/github-logo-policy)
+4. Política de logotipo do GitHub
 
 Deslizar o caminho de navegação para a direita
 

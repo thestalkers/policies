@@ -25,7 +25,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
-2. [サイト ポリシー](/ja/site-policy)
+2. サイト ポリシー
 
 階層リンクを右にスクロールする
 

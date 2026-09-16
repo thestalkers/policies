@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-4. [Politique relative aux cadeaux et aux divertissements de GitHub](/fr/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+4. Politique relative aux cadeaux et aux divertissements de GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique relative aux cadeaux et aux divertissements de GitHub
 ==========
@@ -43,9 +45,13 @@ Dans cet article
 ----------
 
 * [Politiques de l'entreprise](#politiques-de-lentreprise)
+
 * [Exemples de cadeaux acceptables et inacceptables](#examples-of-acceptable-and-unacceptable-gifts)
+
 * [Procédure](#process)
+
 * [Conséquences](#consequences)
+
 * [Informations complémentaires](#more-information)
 
 GitHub reconnaît que notre entreprise repose sur des relations positives et transparentes. Alors que les interactions informelles et les échanges de cadeaux peuvent faire partie du développement de ces relations et peuvent même être considérés comme coutumiers dans certains pays, nous devons nous assurer que nous respectons les lois anti-corruption. Nous avons l'obligation légale de nous comporter de manière éthique, notamment en n'utilisant pas ces interactions pour créer un avantage particulier ou influencer une transaction.

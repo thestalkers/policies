@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 研究计划条款](/zh/site-policy/github-terms/github-research-program-terms)
+4. GitHub 研究计划条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 研究计划条款
 ==========
@@ -43,12 +45,19 @@ GitHub 研究计划条款
 ----------
 
 * [A. 您的反馈](#a-your-feedback)
+
 * [B. 保密性](#b-confidentiality)
+
 * [C. 权利的保留](#c-reservation-of-rights)
+
 * [D. 隐私](#d-privacy)
+
 * [E. GitHub 服务和软件条款](#e-github-services-and-software-terms)
+
 * [F. 免责声明](#f-disclaimer-of-warranties)
+
 * [G. 责任限制](#g-limitation-of-liability)
+
 * [H. 其他](#h-miscellaneous)
 
 欢迎参与 GitHub 研究计划（以下简称“计划”）！ 要参与计划，我们需要您同意一组特殊的条款，即 GitHub 研究计划协议（以下简称“协议”）。

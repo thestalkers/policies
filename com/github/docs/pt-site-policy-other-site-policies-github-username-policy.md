@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Outras políticas do site](/pt/site-policy/other-site-policies)
-4. [Política de nome de usuário do GitHub](/pt/site-policy/other-site-policies/github-username-policy)
+4. Política de nome de usuário do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Política de nome de usuário do GitHub
 ==========
@@ -43,7 +45,9 @@ Neste artigo
 ----------
 
 * [E se o nome de usuário que eu quero já estiver em uso?](#what-if-the-username-i-want-is-already-taken)
+
 * [Política de marca registrada](#trademark-policy)
+
 * [Política de apropriação de nomes](#name-squatting-policy)
 
 Os nomes de conta do GitHub estão disponíveis por ordem de chegada e destinam-se ao uso imediato e ativo.

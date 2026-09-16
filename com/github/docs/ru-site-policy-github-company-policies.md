@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
-3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
+3. Политика компании #REF!
 
 Прокрутите страницы вправо
 

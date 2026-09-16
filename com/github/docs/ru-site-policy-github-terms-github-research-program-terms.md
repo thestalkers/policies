@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Условия исследовательской программы GitHub](/ru/site-policy/github-terms/github-research-program-terms)
+4. Условия исследовательской программы GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Условия исследовательской программы GitHub
 ==========
@@ -43,12 +45,19 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [А. Ваша обратная связь](#a-your-feedback)
+
 * [B. Конфиденциальность](#b-confidentiality)
+
 * [C. Сохранение прав](#c-reservation-of-rights)
+
 * [D. Конфиденциальность](#d-privacy)
+
 * [Е. Условия предоставления услуг и программного обеспечения GitHub](#e-github-services-and-software-terms)
+
 * [F. Отказ от предоставления гарантий](#f-disclaimer-of-warranties)
+
 * [G. Ограничение ответственности](#g-limitation-of-liability)
+
 * [H. Прочие условия](#h-miscellaneous)
 
 Добро пожаловать в исследовательскую программу GitHub («Программу»)! Чтобы принять участие, нам нужно, чтобы вы согласились со специальным набором условий — Соглашением о программе исследований GitHub («Соглашение»).

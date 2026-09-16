@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Правила сообщества GitHub](/ru/site-policy/github-terms/github-community-guidelines)
+4. Правила сообщества GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Правила сообщества GitHub
 ==========
@@ -43,9 +45,13 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Поддержание сильного сообщества](#maintaining-a-strong-community)
+
 * [Что делать, если что-то или кто-то обидел вас?](#what-if-something-or-someone-offends-you)
+
 * [Что произойдет, если кто-то нарушит правила GitHub?](#what-happens-if-someone-violates-githubs-policies)
+
 * [Апелляция и восстановление](#appeal-and-reinstatement)
+
 * [Юридические уведомления](#legal-notices)
 
 Миллионы разработчиков по всему миру размещают миллионы проектов с открытым и закрытым исходным кодом на GitHub. Нам повезло, что мы можем каждый день участвовать в обеспечении совместной работы в сообществе разработчиков, и это ответственность, которую мы не воспринимаем легкомысленно. Вместе у всех нас есть замечательная возможность сделать это сообщество, которым мы можем гордиться.

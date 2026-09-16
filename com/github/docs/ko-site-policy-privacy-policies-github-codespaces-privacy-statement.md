@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [개인정보보호정책](/ko/site-policy/privacy-policies)
-4. [GitHub 일반 개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement)
+4. GitHub 일반 개인정보처리방침
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 일반 개인정보처리방침
 ==========
@@ -43,21 +45,37 @@ Markdown으로 복사
 ----------
 
 * [GitHub 개인정보취급방침](#github-privacy-statement)
+
 * [당사에서 수집하는 개인 데이터](#personal-data-we-collect)
+
 * [처리 목적: 개인 데이터를 사용하는 방법](#processing-purposes-how-we-use-your-personal-data)
+
 * [개인 데이터 공유](#sharing-of-personal-data)
+
 * [프라이빗 리포지토리: GitHub 액세스](#private-repositories-github-access)
+
 * [개인 데이터 처리에 대한 법적 근거(EEA 및 영국 최종 사용자에게 적용 가능)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [개인 정보 보호 권한](#privacy-rights)
+
 * [국제 데이터 전송](#international-data-transfers)
+
 * [DPF(데이터 개인 정보 보호 프레임워크)](#data-privacy-framework-dpf)
+
 * [보안 및 보존](#security-and-retention)
+
 * [보안](#security)
+
 * [문의하기](#contact-us)
+
 * [미성년자에 대한 정보](#information-for-minors)
+
 * [GitHub 개인정보처리방침 변경 사항](#changes-to-our-privacy-statement)
+
 * [번역](#translations)
+
 * [당사의 쿠키 사용 및 추적 기술](#our-use-of-cookies-and-tracking-technologies)
+
 * [미국 주별 정보](#us-state-specific-information)
 
 [GitHub 개인정보취급방침](#github-privacy-statement)

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 活动条款](/zh/site-policy/github-terms/github-event-terms)
+4. GitHub 活动条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 活动条款
 ==========
@@ -43,11 +45,17 @@ GitHub 活动条款
 ----------
 
 * [1. 参与活动的基本要求 - 包括活动行为准则](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. 照片和视频](#2-pictures-and-videos)
+
 * [3. 信息共享](#3-information-sharing)
+
 * [4 .风险、责任和赔偿](#4-risk-liability-and-indemnity)
+
 * [5. 终止](#5-termination)
+
 * [6. 法律和审判地选择](#6-choice-of-law-and-venue)
+
 * [7. 其他条款](#7-miscellaneous-terms)
 
 响应邀请或参与 GitHub 活动，包括由 GitHub 组织的与 GitHub 活动相关的任何比赛或活动（统称为“活动”），即表示您已阅读、理解并同意以下 GitHub 活动条款（以下简称“活动条款”）。

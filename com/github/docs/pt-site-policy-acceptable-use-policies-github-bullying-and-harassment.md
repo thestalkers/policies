@@ -27,7 +27,7 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-4. [Bullying e assédio](/pt/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Bullying e assédio
 
 Deslizar o caminho de navegação para a direita
 

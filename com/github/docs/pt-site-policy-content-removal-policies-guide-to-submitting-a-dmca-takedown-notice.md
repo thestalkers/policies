@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-4. [Guia para enviar um aviso de remoção da DMCA](/pt/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Guia para enviar um aviso de remoção da DMCA
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Guia para enviar um aviso de remoção da DMCA
 ==========
@@ -43,8 +45,11 @@ Neste artigo
 ----------
 
 * [Antes que você comece](#before-you-start)
+
 * [Sua reclamação deve...](#your-complaint-must-)
+
 * [Reclamações sobre a tecnologia anti-evasão](#complaints-about-anti-circumvention-technology)
+
 * [Como enviar sua reclamação](#how-to-submit-your-complaint)
 
 Este guia descreve as informações que o GitHub precisa para processar uma solicitação de remoção de DMCA. Se você tiver dúvidas mais gerais sobre o que é a DMCA ou como o GitHub processa solicitações de remoção da DMCA, consulte nossa [Política de Remoção da DMCA](/pt/site-policy/content-removal-policies/dmca-takedown-policy).

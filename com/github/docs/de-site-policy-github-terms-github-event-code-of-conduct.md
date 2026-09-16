@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub-Verhaltenskodex für Veranstaltungen](/de/site-policy/github-terms/github-event-code-of-conduct)
+4. GitHub-Verhaltenskodex für Veranstaltungen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Verhaltenskodex für Veranstaltungen
 ==========
@@ -43,7 +45,9 @@ In diesem Artikel
 ----------
 
 * [Verhaltenskodex](#code-of-conduct)
+
 * [Einen Vorfall melden](#reporting-an-incident)
+
 * [Kredit](#credit)
 
 [Verhaltenskodex](#code-of-conduct)

@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
-4. [GitHub et contrôles commerciaux](/fr/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub et contrôles commerciaux
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 GitHub et contrôles commerciaux
 ==========
@@ -43,6 +45,7 @@ Dans cet article
 ----------
 
 * [Aperçu de l'exportation](#aperçu-de-lexportation)
+
 * [Questions fréquemment posées](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server et les informations que vous téléchargez sur l'un ou l'autre produit peuvent être soumis à des réglementations de contrôle commercial, y compris en vertu des réglementations américaines sur l'administration des exportations (EAR).

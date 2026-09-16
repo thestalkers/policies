@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)
+4. GitHub 服务条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 服务条款
 ==========
@@ -43,25 +45,45 @@ GitHub 服务条款
 ----------
 
 * [概述](#summary)
+
 * [GitHub 服务条款](#the-github-terms-of-service)
+
 * [A. 定义](#a-definitions)
+
 * [B. 帐户条款](#b-account-terms)
+
 * [C. 可接受的使用方式](#c-acceptable-use)
+
 * [D. 用户生成内容](#d-user-generated-content)
+
 * [E. 私有存储库](#e-private-repositories)
+
 * [F. 版权侵犯和 DMCA 政策](#f-copyright-infringement-and-dmca-policy)
+
 * [G. 知识产权声明](#g-intellectual-property-notice)
+
 * [H. API 条款](#h-api-terms)
+
 * [I. GitHub 附加产品条款](#i-github-additional-product-terms)
+
 * [J. AI 功能、训练和数据](#j-ai-features-training-and-your-data)
+
 * [K. Beta 预览版](#k-beta-previews)
+
 * [L. 付款](#l-payment)
+
 * [M. 取消和终止](#m-cancellation-and-termination)
+
 * [N. 与 GitHub 的通信](#n-communications-with-github)
+
 * [O. 免责声明](#o-disclaimer-of-warranties)
+
 * [P. 责任限制](#p-limitation-of-liability)
+
 * [Q. 免除和赔偿](#q-release-and-indemnification)
+
 * [R. 条款的变更](#r-changes-to-these-terms)
+
 * [S. 其他](#s-miscellaneous)
 
 感谢使用 GitHub！ 我们很高兴在这里遇到你。 在访问或使用 GitHub 之前，请仔细阅读本服务协议条款。 由于它是我们与用户之间的重要合同，因此我们尽可能明确阐述。 为方便起见，我们在列出完整的法律条款之前，用简短的非约束性摘要介绍了这些条款。

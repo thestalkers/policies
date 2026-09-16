@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub-Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines)
+4. GitHub-Community-Richtlinien
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Community-Richtlinien
 ==========
@@ -43,9 +45,13 @@ In diesem Artikel
 ----------
 
 * [Pflege einer starken Gemeinschaft](#maintaining-a-strong-community)
+
 * [Was ist, wenn dich etwas oder jemand beleidigt?](#what-if-something-or-someone-offends-you)
+
 * [Was passiert, wenn jemand gegen die Richtlinien von GitHub verstößt?](#what-happens-if-someone-violates-githubs-policies)
+
 * [Berufung und Wiedereinstellung](#appeal-and-reinstatement)
+
 * [Rechtliche Hinweise](#legal-notices)
 
 Millionen von Entwicklern auf der ganzen Welt hosten Millionen von Projekten – sowohl Open als auch Closed Source – auf GitHub. Wir haben das Glück, jeden Tag eine Rolle bei der Ermöglichung der Zusammenarbeit in der Entwickler-Community spielen zu können, eine Verantwortung, die wir nicht auf die leichte Schulter nehmen. Gemeinsam haben wir alle die aufregende Gelegenheit, dies zu einer Community zu machen, auf die wir stolz sein können.

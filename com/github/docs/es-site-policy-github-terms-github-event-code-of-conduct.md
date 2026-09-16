@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Código de conducta de eventos de GitHub](/es/site-policy/github-terms/github-event-code-of-conduct)
+4. Código de conducta de eventos de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Código de conducta de eventos de GitHub
 ==========
@@ -43,7 +45,9 @@ En este artículo
 ----------
 
 * [Código de Conducta](#code-of-conduct)
+
 * [Informar de un incidente](#reporting-an-incident)
+
 * [Crédito](#credit)
 
 [Código de Conducta](#code-of-conduct)

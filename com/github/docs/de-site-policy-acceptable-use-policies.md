@@ -26,7 +26,7 @@ Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
-3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
+3. Richtlinien zur akzeptablen Nutzung
 
 Breadcrumbs nach rechts scrollen
 

@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
-4. [GitHub: Globaler Datenschutzhinweis für Kandidaten](/de/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. GitHub: Globaler Datenschutzhinweis für Kandidaten
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub: Globaler Datenschutzhinweis für Kandidaten
 ==========
@@ -43,6 +45,7 @@ In diesem Artikel
 ----------
 
 * [Überblick](#overview)
+
 * [Ergänzungen](#addenda)
 
 **GitHub: Globaler Datenschutzhinweis für Kandidaten**

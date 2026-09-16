@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Contrat de développement de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-developer-agreement)
+4. Contrat de développement de la place de marché GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Contrat de développement de la place de marché GitHub
 ==========
@@ -43,23 +45,41 @@ Dans cet article
 ----------
 
 * [1. DÉFINITIONS](#1definitions)
+
 * [2. OBJET ET CONCESSION DE LICENCE](#2purpose-and-license-grant)
+
 * [3. RESTRICTIONS ET RESPONSABILITÉS](#3restrictions-and-responsibilities)
+
 * [4. RETRAITS](#4takedowns)
+
 * [5. DÉCLARATIONS, GARANTIES ET ENGAGEMENTS](#5representations-warranties-and-covenants)
+
 * [6. APPLICATIONS OU PRODUITS PAYANTS](#6paid-applications-or-products)
+
 * [7. PROPRIÉTÉ](#7ownership)
+
 * [8. LIMITATION DE RESPONSABILITÉ](#8limitation-of-liability)
+
 * [9. INDEMNISATION](#9indemnification)
+
 * [10. RÉSILIATION](#10termination)
+
 * [11. MODIFICATION](#11modification)
+
 * [12. CESSION ; INTÉGRALITÉ DES ACCORDS ; RÉVISIONS](#12assignment-entire-agreement-revisions)
+
 * [13. DIVISIBILITÉ DES CLAUSES](#13severability)
+
 * [14. RELATIONS ENTRE LES PARTIES](#14-relationship-of-the-parties)
+
 * [15. INFORMATION PRÉALABLE](#15-notice)
+
 * [16. DROIT APPLICABLE](#16-governing-law)
+
 * [17. RESTRICTIONS À L'EXPORTATION](#17-restrictions-à-lexportation)
+
 * [18. DONNÉES D'UTILISATION](#18-données-dutilisation)
+
 * [19. ACCÈS À LA PRÉVERSION](#19-pre-release-access)
 
 **Les présentes conditions générales (« l’accord ») régissent votre participation à la place de marché de GitHub. En vous inscrivant pour participer à la Place de marché ou en cliquant sur « J’accepte » ci-dessous, vous confirmez que vous comprenez cet accord et que vous en acceptez tous les termes et conditions. Si vous concluez le présent accord au nom d’une société ou d’une autre entité juridique, vous déclarez que vous avez l’autorité légale pour lier l’entité à cet accord, auquel cas « Vous » désignera l’entité que vous représentez.**

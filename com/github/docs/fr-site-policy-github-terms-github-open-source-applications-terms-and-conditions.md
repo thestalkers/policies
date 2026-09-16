@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Termes et conditions des applications open source GitHub](/fr/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+4. Termes et conditions des applications open source GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Termes et conditions des applications open source GitHub
 ==========
@@ -43,10 +45,15 @@ Dans cet article
 ----------
 
 * [Connexion à GitHub](#connecting-to-github)
+
 * [Licences open source et avis](#open-source-licenses-and-notices)
+
 * [Logos de GitHub](#githubs-logos)
+
 * [Confidentialité](#privacy)
+
 * [Services Supplémentaires](#additional-services)
+
 * [Divers](#miscellanea)
 
 Les présentes conditions générales des applications open source GitHub (« conditions d'application ») constituent un accord juridique entre vous (en tant qu'individu ou au nom d'une entité) et GitHub, Inc. concernant votre utilisation des applications de GitHub, telles que GitHub Desktop™ et documentation associée ("Logiciel »). Ces conditions d'application s'appliquent à la version de code exécutable du logiciel. Le code source du Logiciel est disponible séparément et gratuitement dans le cadre d'accords de licence de logiciel open source. Si vous n'acceptez pas tous les termes des présentes conditions d'application, ne téléchargez, n'installez, n'utilisez ou ne copiez pas le logiciel.

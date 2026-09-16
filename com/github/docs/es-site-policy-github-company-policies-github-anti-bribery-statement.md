@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-4. [Declaración contra el soborno de GitHub](/es/site-policy/github-company-policies/github-anti-bribery-statement)
+4. Declaración contra el soborno de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Declaración contra el soborno de GitHub
 ==========
@@ -43,7 +45,9 @@ En este artículo
 ----------
 
 * [Políticas de GitHub que prohíben el soborno](#github-policies-prohibiting-bribery)
+
 * [Formación para nuestros empleados](#training-for-our-employees)
+
 * [Involucrar a nuestros socios](#engaging-our-partners)
 
 GitHub mantiene nuestro compromiso con las prácticas comerciales éticas, incluida la prohibición del soborno y la corrupción. Como explica [Transparencia Internacional](https://www.transparency.org/what-is-corruption), el coste de la corrupción es

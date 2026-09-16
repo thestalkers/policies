@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Código de conduta do evento GitHub](/pt/site-policy/github-terms/github-event-code-of-conduct)
+4. Código de conduta do evento GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Código de conduta do evento GitHub
 ==========
@@ -43,7 +45,9 @@ Neste artigo
 ----------
 
 * [Código de Conduta](#code-of-conduct)
+
 * [Como relatar um incidente](#reporting-an-incident)
+
 * [Crédito](#credit)
 
 [Código de Conduta](#code-of-conduct)

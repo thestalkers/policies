@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Patrocinadores de GitHub Términos adicionales](/es/site-policy/github-terms/github-sponsors-additional-terms)
+4. Patrocinadores de GitHub Términos adicionales
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Patrocinadores de GitHub Términos adicionales
 ==========
@@ -43,23 +45,41 @@ En este artículo
 ----------
 
 * [1. Definiciones.](#1-definitions)
+
 * [1A. Procesamiento de pagos mediante Stripe.](#1a-payment-processing-by-stripe)
+
 * [1. Uso Aceptable](#1-acceptable-use)
+
 * [2. Obligaciones del Desarrollador Patrocinado.](#2-sponsored-developer-obligations)
+
 * [3. Términos Financieros.](#3-financial-terms)
+
 * [4. Declaraciones y Garantías; Limitación de Responsabilidad; Indemnización.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. Periodo y rescisión.](#5-term-and-termination)
+
 * [1. Programa de patrocinadores](#1-sponsors-program)
+
 * [2. Pago.](#2-payment)
+
 * [3. Término y rescisión.](#3-term-and-termination)
+
 * [4. Declinación de responsabilidades; Limitación de responsabilidad.](#4-disclaimer-limitation-of-liability)
+
 * [A. Confidencialidad.](#a-confidentiality)
+
 * [B. Publicidad.](#b-publicity)
+
 * [C. Avisos.](#c-notices)
+
 * [D. Legislación Aplicable.](#d-governing-law)
+
 * [E. Asignación.](#e-assignment)
+
 * [F. Conservación.](#f-severability)
+
 * [G. Acuerdo completo.](#g-entire-agreement)
+
 * [H. Modificación de los Términos.](#h-changes-to-the-terms)
 
 Su participación en el Programa de patrocinadores de GitHub (el "Programa") está sujeta a los [Términos del servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service) (el "Acuerdo") u otro acuerdo que tenga con GitHub (por ejemplo, los Términos generales del cliente de GitHub, los Términos del servicio corporativos de GitHub u otro acuerdo), así como a los siguientes términos adicionales ("Términos adicionales"). Cualquier uso del Programa de Patrocinadores de GitHub que infrinja el Acuerdo también constituirá una infracción de estos Términos Adicionales. Cualquier término en mayúscula usado pero no definido a continuación tiene los significados en el Acuerdo. Estos Términos adicionales para el Programa de patrocinadores de GitHub describen la relación entre GitHub y usted, el "Desarrollador patrocinado", para el Programa. Los Términos adicionales entran en vigencia a partir de la fecha en que los acepta ("Fecha de vigencia").

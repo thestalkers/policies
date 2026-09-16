@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-4. [다른 사용자의 경험 방해](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+4. 다른 사용자의 경험 방해
 
 이동 경로를 오른쪽으로 스크롤
 

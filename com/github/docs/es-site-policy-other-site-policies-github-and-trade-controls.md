@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Otras políticas del sitio](/es/site-policy/other-site-policies)
-4. [GitHub y controles comerciales](/es/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub y controles comerciales
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 GitHub y controles comerciales
 ==========
@@ -43,6 +45,7 @@ En este artículo
 ----------
 
 * [Descripción general de la exportación](#export-overview)
+
 * [Preguntas más frecuentes](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server y la información que cargue en cualquiera de los productos pueden estar sujetos a regulaciones de control comercial, incluidas las Regulaciones de la Administración de Exportaciones de EE. UU. (EAR).

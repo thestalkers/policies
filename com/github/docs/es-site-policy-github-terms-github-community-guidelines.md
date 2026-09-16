@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Directrices de la comunidad de GitHub](/es/site-policy/github-terms/github-community-guidelines)
+4. Directrices de la comunidad de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Directrices de la comunidad de GitHub
 ==========
@@ -43,9 +45,13 @@ En este artículo
 ----------
 
 * [Mantener una comunidad fuerte](#maintaining-a-strong-community)
+
 * [¿Qué pasa si algo o alguien te ofende?](#what-if-something-or-someone-offends-you)
+
 * [¿Qué sucede si alguien viola las políticas de GitHub?](#what-happens-if-someone-violates-githubs-policies)
+
 * [Apelación y Restablecimiento](#appeal-and-reinstatement)
+
 * [Avisos legales](#legal-notices)
 
 Millones de desarrolladores de todo el mundo alojan millones de proyectos, tanto de código abierto como cerrado, en GitHub. Somos afortunados de poder desempeñar un papel en permitir la colaboración entre la comunidad de desarrolladores todos los días, lo cual es una responsabilidad que no tomamos a la ligera. Juntos, todos tenemos la emocionante oportunidad de hacer de esta una comunidad de la que podamos estar orgullosos.

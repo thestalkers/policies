@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 公司政策](/zh/site-policy/github-company-policies)
-4. [GitHub 反贿赂声明](/zh/site-policy/github-company-policies/github-anti-bribery-statement)
+4. GitHub 反贿赂声明
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 反贿赂声明
 ==========
@@ -43,7 +45,9 @@ GitHub 反贿赂声明
 ----------
 
 * [GitHub 禁止贿赂政策](#github-policies-prohibiting-bribery)
+
 * [员工培训](#training-for-our-employees)
+
 * [与合作伙伴合作](#engaging-our-partners)
 
 GitHub 恪守我们对道德商业实践的承诺，包括禁止贿赂和腐败。 正如[透明国际](https://www.transparency.org/what-is-corruption)所述，腐败的危害极大：

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
+4. GitHub 社区指导方针
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 社区指导方针
 ==========
@@ -43,9 +45,13 @@ GitHub 社区指导方针
 ----------
 
 * [维护强大的社区](#maintaining-a-strong-community)
+
 * [如果某件事或某人冒犯了您，该怎么办？](#what-if-something-or-someone-offends-you)
+
 * [如果有人违反了 GitHub 的政策，会发生什么情况？](#what-happens-if-someone-violates-githubs-policies)
+
 * [申诉和恢复](#appeal-and-reinstatement)
+
 * [法律声明](#legal-notices)
 
 全球数以百万计的开发人员在 GitHub 上托管了数百万个项目，包括开源和闭源项目。 我们很幸运能够每天促进开发人员社区的协作，这是我们很重视的责任。 我们很高兴有机会一起让这个社区成为我们值得骄傲的地方。

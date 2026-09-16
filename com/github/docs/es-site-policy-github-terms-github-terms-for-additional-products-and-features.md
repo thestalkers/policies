@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Términos de GitHub para productos y funciones adicionales](/es/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. Términos de GitHub para productos y funciones adicionales
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Términos de GitHub para productos y funciones adicionales
 ==========
@@ -43,18 +45,31 @@ En este artículo
 ----------
 
 * [Comportamiento](#actions)
+
 * [Seguridad avanzada](#advanced-security)
+
 * [Base de datos de asesoramiento](#advisory-database)
+
 * [Espacios de código](#codespaces)
+
 * [Puntos de referencia competitivos](#competitive-benchmarking)
+
 * [Conectar](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [Paquetes](#packages)
+
 * [Páginas](#pages)
+
 * [Versiones Preliminares](#previews)
+
 * [Programa de Patrocinadores](#sponsors-program)
+
 * [Imágenes de servidor SQL](#sql-server-images)
 
 Fecha de entrada en vigor de la versión: 27 de abril de 2026

@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Security Policies](/en/site-policy/security-policies)
-4. [Coordinated Disclosure of Security Vulnerabilities](/en/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. Coordinated Disclosure of Security Vulnerabilities
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 Coordinated Disclosure of Security Vulnerabilities
 ==========
 
-Copy as Markdown
+Copy markdown
 
 We want to keep GitHub safe for everyone. If you've discovered a security vulnerability in GitHub, we appreciate your help in disclosing it to us in a coordinated manner.
 

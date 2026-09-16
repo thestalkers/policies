@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub Sponsors 추가 약관](/ko/site-policy/github-terms/github-sponsors-additional-terms)
+4. GitHub Sponsors 추가 약관
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub Sponsors 추가 약관
 ==========
@@ -43,23 +45,41 @@ Markdown으로 복사
 ----------
 
 * [1. 정의.](#1-definitions)
+
 * [1A. Stripe에 의한 결제 처리.](#1a-payment-processing-by-stripe)
+
 * [1. 사용 제한.](#1-acceptable-use)
+
 * [2. 후원 대상 개발자 의무.](#2-sponsored-developer-obligations)
+
 * [3. 재정적 약관.](#3-financial-terms)
+
 * [4. 진술 및 보증, 책임의 제한, 면책.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. 기간 및 해지](#5-term-and-termination)
+
 * [1. 스폰서 프로그램.](#1-sponsors-program)
+
 * [2. 지급.](#2-payment)
+
 * [3. 기간 및 해지.](#3-term-and-termination)
+
 * [4. 고지 사항; 책임의 제한.](#4-disclaimer-limitation-of-liability)
+
 * [A. 기밀성.](#a-confidentiality)
+
 * [B. 공개..](#b-publicity)
+
 * [C. 통지.](#c-notices)
+
 * [D. 준거법.](#d-governing-law)
+
 * [E. 할당.](#e-assignment)
+
 * [F. 분리 가능성.](#f-severability)
+
 * [G. 전면 합의.](#g-entire-agreement)
+
 * [H. 약관의 변경.](#h-changes-to-the-terms)
 
 GitHub 스폰서 프로그램("프로그램")에 참여하는 경우 [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)("계약") 또는 GitHub와 체결한 기타 계약(예: GitHub 고객 일반 약관, GitHub 회사 서비스 약관 또는 기타 계약)과 다음 추가 조건("추가 약관")이 적용됩니다. 계약을 위반하는 GitHub Sponsors 프로그램 사용도 본 추가 약관 위반입니다. 별도로 정의되지 않은 용어는 계약에 정의된 의미를 따릅니다. 이 GitHub Sponsors 프로그램 추가 약관은 GitHub와 프로그램의 "후원 대상 개발자(Sponsored Developer)"인 귀하 사이의 관계를 기술합니다. 추가 약관은 귀하가 약관을 수락하는 날짜에 효력이 발생합니다("발효일").

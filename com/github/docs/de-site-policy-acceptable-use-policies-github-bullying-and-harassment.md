@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Mobbing und Belästigung](/de/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Mobbing und Belästigung
 
 Breadcrumbs nach rechts scrollen
 

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Апелляция GitHub и восстановление](/ru/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. Апелляция GitHub и восстановление
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Апелляция GitHub и восстановление
 ==========
@@ -43,8 +45,11 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Апелляция и восстановление](#appeal-and-reinstatement)
+
 * [Что такое апелляция и восстановление?](#what-are-appeals-and-reinstatements)
+
 * [Как это работает](#how-this-works)
+
 * [Прозрачность](#transparency)
 
 [Апелляция и восстановление](#appeal-and-reinstatement)

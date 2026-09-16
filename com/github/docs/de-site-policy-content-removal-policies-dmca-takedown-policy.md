@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-4. [DMCA Takedown-Richtlinie](/de/site-policy/content-removal-policies/dmca-takedown-policy)
+4. DMCA Takedown-Richtlinie
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 DMCA Takedown-Richtlinie
 ==========
@@ -43,14 +45,23 @@ In diesem Artikel
 ----------
 
 * [Was sind die Produktbenutzungsrechte (DMCA)?](#what-is-the-dmca)
+
 * [DMCA-Hinweise in Kürze](#dmca-notices-in-a-nutshell)
+
 * [A. Wie funktioniert das eigentlich?](#a-how-does-this-actually-work)
+
 * [B. Was ist mit Gabeln? (oder Was ist eine Gabel?)](#b-what-about-forks-or-whats-a-fork)
+
 * [C. Was ist mit Umgehungsansprüchen?](#c-what-about-circumvention-claims)
+
 * [D. Was passiert, wenn ich versehentlich das Fenster zum Vornehmen von Änderungen verpasst habe?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+
 * [E. Transparenz](#e-transparency)
+
 * [F. Wiederholte Verletzung](#f-repeated-infringement)
+
 * [G. Übermittlung von Mitteilungen](#g-submitting-notices)
+
 * [Erfahren Sie mehr und sprechen Sie es an](#learn-more-and-speak-up)
 
 Willkommen beim GitHub-Leitfaden zum Digital Millennium Copyright Act, allgemein bekannt als „DMCA“. Diese Seite ist nicht als umfassende Einführung in das Gesetz gedacht. Wenn Sie jedoch eine DMCA-Entfernungsmitteilung erhalten haben, die auf Inhalte abzielt, die Sie auf GitHub gepostet haben, oder wenn Sie ein Rechteinhaber sind, der eine solche Mitteilung herausgeben möchte, wird diese Seite hoffentlich dazu beitragen, das Gesetz ein wenig zu entmystifizieren, ebenso wie unsere Richtlinien für deren Einhaltung.

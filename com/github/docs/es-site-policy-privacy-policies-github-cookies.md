@@ -27,7 +27,7 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Privacidad](/es/site-policy/privacy-policies)
-4. [Cookies de GitHub](/es/site-policy/privacy-policies/github-cookies)
+4. Cookies de GitHub
 
 Desplazar las migas de pan hacia la derecha
 

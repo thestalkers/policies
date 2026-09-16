@@ -26,7 +26,7 @@ Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
+3. Règles de Bon Usage
 
 Faire défiler les barres de navigation vers la droite
 

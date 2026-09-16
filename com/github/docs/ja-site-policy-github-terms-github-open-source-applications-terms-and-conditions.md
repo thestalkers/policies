@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub オープン ソース アプリケーションの契約条件](/ja/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+4. GitHub オープン ソース アプリケーションの契約条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub オープン ソース アプリケーションの契約条件
 ==========
@@ -43,10 +45,15 @@ Markdown としてコピー
 ----------
 
 * [GitHub への接続](#connecting-to-github)
+
 * [オープン ソース ライセンスおよび通知](#open-source-licenses-and-notices)
+
 * [GitHub のロゴ](#githubs-logos)
+
 * [プライバシー](#privacy)
+
 * [追加サービス](#additional-services)
+
 * [雑則](#miscellanea)
 
 本「GitHub オープン ソース アプリケーションの契約条件」(以下「アプリケーション条件」といいます) は、お客様と GitHub, Inc. との間で締結される、「GitHub Desktop™」および関連するドキュメントなどの GitHub のアプリケーション (以下「ソフトウェア」といいます) に関する法的拘束力を持つ契約です。 本アプリケーション条件は、本ソフトウェアの実行可能なコード バージョンに適用されます。 本ソフトウェアのソース コードは、オープン ソース ソフトウェアのライセンス契約に基づき、個別に無料で入手できます。 本アプリケーション条件のすべての条件に同意しない場合は、本ソフトウェアをダウンロード、インストール、使用、または複製しないでください。

@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика допустимого использования](/ru/site-policy/acceptable-use-policies)
-4. [Угрозы насилия и неоправданно жестокое содержимое](/ru/site-policy/acceptable-use-policies/github-threats-of-violence-and-gratuitously-violent-content)
+4. Угрозы насилия и неоправданно жестокое содержимое
 
 Прокрутите страницы вправо
 

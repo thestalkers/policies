@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Discours de haine et discrimination](/fr/site-policy/acceptable-use-policies/github-hate-speech-and-discrimination)
+4. Discours de haine et discrimination
 
 Faire défiler les barres de navigation vers la droite
 

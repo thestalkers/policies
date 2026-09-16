@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Autres politiques du site](/fr/site-policy/other-site-policies)
-4. [Politique de retrait du gouvernement GitHub](/fr/site-policy/other-site-policies/github-government-takedown-policy)
+4. Politique de retrait du gouvernement GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique de retrait du gouvernement GitHub
 ==========
@@ -43,11 +45,17 @@ Dans cet article
 ----------
 
 * [De quoi s’agit-il ?](#what-is-this)
+
 * [Comment soumettre une demande de prise en charge gouvernementale](#how-to-submit-a-government-takedown-request)
+
 * [Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#que-se-passe-t-il-lorsque-nous-recevons-une-demande-de-retrait-complète-dun-gouvernement)
+
 * [Pourquoi publions-nous publiquement des avis de retrait ?](#why-do-we-publicly-post-takedown-notices)
+
 * [Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#quest-ce-que-cela-signifie-si-nous-publions-un-avis-dans-notre-référentiel-gov-takedowns)
+
 * [Retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub](#retraits-gouvernementaux-basés-sur-des-violations-des-conditions-dutilisation-de-github)
+
 * [Rapports de transparence](#transparency-reporting)
 
 [De quoi s’agit-il ?](#what-is-this)

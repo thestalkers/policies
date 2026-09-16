@@ -25,7 +25,7 @@ Randleiste reduzierenRandleiste erweitern
 Breadcrumbs nach links scrollen
 
 1. [Startseite](/de)
-2. [Websiterichtlinie](/de/site-policy)
+2. Websiterichtlinie
 
 Breadcrumbs nach rechts scrollen
 

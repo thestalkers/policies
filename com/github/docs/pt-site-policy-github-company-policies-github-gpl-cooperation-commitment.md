@@ -27,7 +27,7 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas da empresa do GitHub](/pt/site-policy/github-company-policies)
-4. [Compromisso de Cooperação GitHub GPL](/pt/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. Compromisso de Cooperação GitHub GPL
 
 Deslizar o caminho de navegação para a direita
 

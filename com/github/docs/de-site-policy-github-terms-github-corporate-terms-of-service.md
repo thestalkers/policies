@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub-Vertragsbedingungen für Unternehmen](/de/site-policy/github-terms/github-corporate-terms-of-service)
+4. GitHub-Vertragsbedingungen für Unternehmen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Vertragsbedingungen für Unternehmen
 ==========
@@ -43,25 +45,45 @@ In diesem Artikel
 ----------
 
 * [GitHub-Vertragsbedingungen für Unternehmen](#github-corporate-terms-of-service)
+
 * [A. Definitionen](#a-definitions)
+
 * [B. Kontobedingungen](#b-account-terms)
+
 * [C. Einhaltung von Gesetzen; Akzeptable Nutzung; Privatsphäre](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. Inhaltliche Verantwortung; Eigentum; Lizenzrechte](#d-content-responsibility-ownership-license-rights)
+
 * [E. Private Repositories](#e-private-repositories)
+
 * [F. Hinweis zu Rechten an geistigem Eigentum](#f-intellectual-property-notice)
+
 * [G. Zusätzliche Produktbestimmungen von GitHub](#g-github-additional-product-terms)
+
 * [H. Übertragung von Abonnementlizenzen](#h-subscription-licenses)
+
 * [I. Verbundene Unternehmen](#i-affiliates)
+
 * [J. Zahlung](#j-payment)
+
 * [K. Laufzeit, Kündigung; Aussetzung](#k-term-termination-suspension)
+
 * [L. Kommunikation mit GitHub](#l-communications-with-github)
+
 * [M. Beschränkte Garantie; Gewährleistungsausschluss](#m-limited-warranty-disclaimer)
+
 * [N. Haftungsbeschränkungen](#n-limitations-of-liability)
+
 * [O. Verteidigung gegen Ansprüche; Freistellung](#o-defense-of-claims-release)
+
 * [P. Vertraulichkeit](#p-confidentiality)
+
 * [Q. Professional Services](#q-professional-services)
+
 * [R. Änderungen des Dienstes oder der Bedingungen](#r-changes-to-the-service-or-terms)
+
 * [S. Support](#s-support)
+
 * [T. Sonstiges](#t-miscellaneous)
 
 Hinweis

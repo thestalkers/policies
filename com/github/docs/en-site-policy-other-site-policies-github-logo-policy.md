@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Other Site Policies](/en/site-policy/other-site-policies)
-4. [GitHub Logo Policy](/en/site-policy/other-site-policies/github-logo-policy)
+4. GitHub Logo Policy
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Logo Policy
 ==========
 
-Copy as Markdown
+Copy markdown
 
 You can add GitHub logos to your website or third-party application in some scenarios. For more information and specific guidelines on logo usage, see the [GitHub Logos and Usage page](https://github.com/logos).
 

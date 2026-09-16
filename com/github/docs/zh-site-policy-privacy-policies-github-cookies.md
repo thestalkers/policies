@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [隐私政策](/zh/site-policy/privacy-policies)
-4. [GitHub Cookie](/zh/site-policy/privacy-policies/github-cookies)
+4. GitHub Cookie
 
 向右滚动痕迹导航
 

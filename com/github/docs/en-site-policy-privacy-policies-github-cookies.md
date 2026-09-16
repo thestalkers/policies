@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Privacy Policies](/en/site-policy/privacy-policies)
-4. [GitHub Cookies](/en/site-policy/privacy-policies/github-cookies)
+4. GitHub Cookies
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Cookies
 ==========
 
-Copy as Markdown
+Copy markdown
 
 [Cookies](#cookies)
 ==========

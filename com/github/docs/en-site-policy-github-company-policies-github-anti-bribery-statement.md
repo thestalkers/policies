@@ -27,23 +27,27 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Company Policies](/en/site-policy/github-company-policies)
-4. [GitHub Anti-Bribery Statement](/en/site-policy/github-company-policies/github-anti-bribery-statement)
+4. GitHub Anti-Bribery Statement
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Anti-Bribery Statement
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [GitHub policies prohibiting bribery](#github-policies-prohibiting-bribery)
+
 * [Training for our employees](#training-for-our-employees)
+
 * [Engaging our Partners](#engaging-our-partners)
 
 GitHub upholds our commitment to ethical business practices, including by prohibiting bribery and corruption. As [Transparency International](https://www.transparency.org/what-is-corruption) explains, the costs of corruption are

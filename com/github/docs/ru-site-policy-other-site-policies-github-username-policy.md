@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
-4. [Политика имени пользователя GitHub](/ru/site-policy/other-site-policies/github-username-policy)
+4. Политика имени пользователя GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Политика имени пользователя GitHub
 ==========
@@ -43,7 +45,9 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Что делать, если нужное мне имя пользователя уже занято?](#what-if-the-username-i-want-is-already-taken)
+
 * [Политика в отношении товарных знаков](#trademark-policy)
+
 * [Политика сквоттинга имен](#name-squatting-policy)
 
 Имена учетных записей GitHub доступны в порядке очереди и предназначены для немедленного и активного использования.

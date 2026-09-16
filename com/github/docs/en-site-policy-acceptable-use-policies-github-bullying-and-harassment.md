@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Bullying and Harassment](/en/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Bullying and Harassment
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Bullying and Harassment
 ==========
 
-Copy as Markdown
+Copy markdown
 
 We do not tolerate harassment, bullying, or abuse of any kind, whether directly or by encouraging others to take part in the prohibited conduct. This includes:
 

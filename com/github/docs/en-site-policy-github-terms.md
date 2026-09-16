@@ -26,7 +26,7 @@ Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
-3. [GitHub Terms](/en/site-policy/github-terms)
+3. GitHub Terms
 
 Scroll breadcrumbs right
 

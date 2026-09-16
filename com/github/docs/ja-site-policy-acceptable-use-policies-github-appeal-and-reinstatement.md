@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [利用規約](/ja/site-policy/acceptable-use-policies)
-4. [GitHub の異議申し立ておよび復活](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. GitHub の異議申し立ておよび復活
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の異議申し立ておよび復活
 ==========
@@ -43,8 +45,11 @@ Markdown としてコピー
 ----------
 
 * [異議申し立ておよび復活](#appeal-and-reinstatement)
+
 * [異議申し立ておよび復活とはどのようなものですか?](#what-are-appeals-and-reinstatements)
+
 * [処理のしくみ](#how-this-works)
+
 * [透明性](#transparency)
 
 [異議申し立ておよび復活](#appeal-and-reinstatement)

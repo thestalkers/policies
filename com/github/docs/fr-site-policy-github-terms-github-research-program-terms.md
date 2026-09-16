@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions du programme de recherche GitHub](/fr/site-policy/github-terms/github-research-program-terms)
+4. Conditions du programme de recherche GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions du programme de recherche GitHub
 ==========
@@ -43,12 +45,19 @@ Dans cet article
 ----------
 
 * [A. Vos Commentaires](#a-your-feedback)
+
 * [B. Confidentialité](#b-confidentiality)
+
 * [C. Droits réservés](#c-reservation-of-rights)
+
 * [D. Confidentialité](#d-privacy)
+
 * [E. Conditions relatives aux Services et Logiciels GitHub](#e-github-services-and-software-terms)
+
 * [F. Exclusion de garantie](#f-disclaimer-of-warranties)
+
 * [G. Limitation de responsabilité.](#g-limitation-of-liability)
+
 * [H. Dispositions diverses](#h-miscellaneous)
 
 Bienvenue dans le programme de recherche GitHub (le « Programme ») ! Pour participer, nous aurons besoin que vous acceptiez un ensemble spécial de conditions, l'accord du programme de recherche GitHub ("Accord »).

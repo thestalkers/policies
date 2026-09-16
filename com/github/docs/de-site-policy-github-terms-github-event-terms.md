@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [Bedingungen für GitHub-Events](/de/site-policy/github-terms/github-event-terms)
+4. Bedingungen für GitHub-Events
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Bedingungen für GitHub-Events
 ==========
@@ -43,11 +45,17 @@ In diesem Artikel
 ----------
 
 * [1. Grundvoraussetzungen für die Teilnahme – umfasst den Verhaltenskodex für Veranstaltungen](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. Bilder und Videos](#2-pictures-and-videos)
+
 * [3. Informationsaustausch](#3-information-sharing)
+
 * [4. Risiko, Haftung und Schadenersatz](#4-risk-liability-and-indemnity)
+
 * [5. Kündigung](#5-termination)
+
 * [6. Rechtswahl und Gerichtsstand](#6-choice-of-law-and-venue)
+
 * [7. Verschiedenes](#7-miscellaneous-terms)
 
 Durch RSVP'ing an oder die Teilnahme an einer GitHub-Veranstaltung, einschließlich der von GitHub in Verbindung mit der Veranstaltung organisierten Veranstaltungen oder Aktivitäten (zusammenfassend als „Veranstaltung“ bezeichnet), erklären Sie, dass Sie die folgenden Bedingungen für GitHub-Veranstaltungen (im Folgenden „Veranstaltungsbedingugnen“) gelesen und verstanden haben und ihnen zustimmen.

@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. Conditions GitHub pour les produits et fonctionnalités supplémentaires
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions GitHub pour les produits et fonctionnalités supplémentaires
 ==========
@@ -43,18 +45,31 @@ Dans cet article
 ----------
 
 * [Actions](#actions)
+
 * [Sécurité avancée](#advanced-security)
+
 * [Base de données consultative](#advisory-database)
+
 * [Espaces de code](#codespaces)
+
 * [Point de référence concurrentiel](#competitive-benchmarking)
+
 * [Connect](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [Importateur d'entreprise GitHub](#importateur-dentreprise-github)
+
 * [npm](#npm)
+
 * [Packages](#packages)
+
 * [Pages](#pages)
+
 * [Previews](#previews)
+
 * [Programme Sponsors](#sponsors-program)
+
 * [Images de serveur SQL](#sql-server-images)
 
 Date d’entrée en vigueur de la version : 27 avril 2026

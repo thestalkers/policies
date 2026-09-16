@@ -27,30 +27,41 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Other Site Policies](/en/site-policy/other-site-policies)
-4. [Guidelines for Legal Requests of User Data](/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. Guidelines for Legal Requests of User Data
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 Guidelines for Legal Requests of User Data
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [About these guidelines](#about-these-guidelines)
+
 * [GitHub terminology](#github-terminology)
+
 * [User data on GitHub.com](#user-data-on-githubcom)
+
 * [We will notify any affected account owners](#we-will-notify-any-affected-account-owners)
+
 * [Disclosure of non-public information](#disclosure-of-non-public-information)
+
 * [Cost reimbursement](#cost-reimbursement)
+
 * [Data preservation](#data-preservation)
+
 * [Submitting requests](#submitting-requests)
+
 * [Requests from foreign law enforcement](#requests-from-foreign-law-enforcement)
+
 * [Questions](#questions)
 
 Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?

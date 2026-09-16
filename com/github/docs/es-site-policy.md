@@ -25,7 +25,7 @@ Contraer barra lateralExpandir barra lateral
 Desplazar las migas de pan a la izquierda
 
 1. [Inicio](/es)
-2. [Política del sitio](/es/site-policy)
+2. Política del sitio
 
 Desplazar las migas de pan hacia la derecha
 

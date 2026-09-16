@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-4. [GitHub GPL Kooperationsverpflichtung](/de/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. GitHub GPL Kooperationsverpflichtung
 
 Breadcrumbs nach rechts scrollen
 

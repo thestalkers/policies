@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
+4. Conditions Générales d’Utilisation de GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions Générales d’Utilisation de GitHub
 ==========
@@ -43,25 +45,45 @@ Dans cet article
 ----------
 
 * [Résumé](#summary)
+
 * [Les conditions d'utilisation de GitHub](#les-conditions-dutilisation-de-github)
+
 * [A. Définitions](#a-definitions)
+
 * [B. Termes du compte](#b-account-terms)
+
 * [C. Bon usage](#c-acceptable-use)
+
 * [D. Contenu Généré par l’Utilisateur](#d-user-generated-content)
+
 * [E. Dépôts privés](#e-private-repositories)
+
 * [F. Violation des droits d'auteur et politique DMCA](#f-violation-des-droits-dauteur-et-politique-dmca)
+
 * [G. Avis sur la Propriété Intellectuelle](#g-intellectual-property-notice)
+
 * [H. Conditions du API](#h-api-terms)
+
 * [I. Conditions des Produits Supplémentaires de GitHub](#i-github-additional-product-terms)
+
 * [J. Fonctionnalités IA, entraînement et vos données](#j-ai-features-training-and-your-data)
+
 * [K. Aperçus bêta](#k-beta-previews)
+
 * [L. Paiement](#l-payment)
+
 * [M. Annulation et résiliation](#m-cancellation-and-termination)
+
 * [N. Communication avec GitHub](#n-communications-with-github)
+
 * [O. Exclusion de garantie](#o-disclaimer-of-warranties)
+
 * [P. Limitation de responsabilité.](#p-limitation-of-liability)
+
 * [Q. Libération et indemnisation](#q-release-and-indemnification)
+
 * [R. Modifications des présentes Conditions](#r-changes-to-these-terms)
+
 * [S. Dispositions diverses](#s-miscellaneous)
 
 Merci d'utiliser GitHub ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement cet accord de conditions d'utilisation avant d'accéder ou d'utiliser GitHub. Parce qu'il s'agit d'un contrat si important entre nous et nos utilisateurs, nous avons essayé de le rendre aussi clair que possible. Pour votre commodité, nous avons présenté ces termes dans un court résumé non contraignant suivi des termes juridiques complets.

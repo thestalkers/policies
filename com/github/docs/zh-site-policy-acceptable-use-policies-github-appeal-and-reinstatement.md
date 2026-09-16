@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
-4. [GitHub 申诉和恢复](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. GitHub 申诉和恢复
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 申诉和恢复
 ==========
@@ -43,8 +45,11 @@ GitHub 申诉和恢复
 ----------
 
 * [申诉和恢复](#appeal-and-reinstatement)
+
 * [什么是申诉和恢复？](#what-are-appeals-and-reinstatements)
+
 * [运作方式](#how-this-works)
+
 * [透明度](#transparency)
 
 [申诉和恢复](#appeal-and-reinstatement)

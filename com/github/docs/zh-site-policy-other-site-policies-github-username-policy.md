@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [其他站点政策](/zh/site-policy/other-site-policies)
-4. [GitHub 用户名政策](/zh/site-policy/other-site-policies/github-username-policy)
+4. GitHub 用户名政策
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 用户名政策
 ==========
@@ -43,7 +45,9 @@ GitHub 用户名政策
 ----------
 
 * [如果我想要的用户名已被占用怎么办？](#what-if-the-username-i-want-is-already-taken)
+
 * [商标政策](#trademark-policy)
+
 * [帐户名抢注政策](#name-squatting-policy)
 
 GitHub 帐户名按先到先得的原则提供，旨在供用户立即并积极使用。

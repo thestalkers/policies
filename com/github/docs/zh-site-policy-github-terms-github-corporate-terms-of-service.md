@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 公司服务条款](/zh/site-policy/github-terms/github-corporate-terms-of-service)
+4. GitHub 公司服务条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 公司服务条款
 ==========
@@ -43,25 +45,45 @@ GitHub 公司服务条款
 ----------
 
 * [GitHub 公司服务条款](#github-corporate-terms-of-service)
+
 * [A. 定义](#a-definitions)
+
 * [B. 帐户条款](#b-account-terms)
+
 * [C. 遵守法律；可接受的使用；隐私](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. 内容责任；所有权；许可权利](#d-content-responsibility-ownership-license-rights)
+
 * [E. 私有存储库](#e-private-repositories)
+
 * [F. 知识产权声明](#f-intellectual-property-notice)
+
 * [G. GitHub 附加产品条款](#g-github-additional-product-terms)
+
 * [H. 订购许可](#h-subscription-licenses)
+
 * [I. 关联公司](#i-affiliates)
+
 * [J. 付款](#j-payment)
+
 * [K. 期限；终止；暂停](#k-term-termination-suspension)
+
 * [L. 与 GitHub 的通信](#l-communications-with-github)
+
 * [M. 有限保证；免责声明](#m-limited-warranty-disclaimer)
+
 * [N. 责任限制](#n-limitations-of-liability)
+
 * [O. 索赔辩护；免除责任](#o-defense-of-claims-release)
+
 * [P. 保密性](#p-confidentiality)
+
 * [Q. 专业服务](#q-professional-services)
+
 * [R. 服务或条款的更改](#r-changes-to-the-service-or-terms)
+
 * [S. 支持](#s-support)
+
 * [T. 其他](#t-miscellaneous)
 
 注意

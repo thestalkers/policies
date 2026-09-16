@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)
+4. GitHub 커뮤니티 지침
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 커뮤니티 지침
 ==========
@@ -43,9 +45,13 @@ Markdown으로 복사
 ----------
 
 * [강력한 커뮤니티 유지](#maintaining-a-strong-community)
+
 * [무언가 불편하거나 불쾌감을 주는 사람이 있을 때는 어떻게 할까요?](#what-if-something-or-someone-offends-you)
+
 * [누군가 GitHub의 정책을 위반하면 어떻게 되나요?](#what-happens-if-someone-violates-githubs-policies)
+
 * [이의 제기 및 복원](#appeal-and-reinstatement)
+
 * [법적 고지 사항](#legal-notices)
 
 전 세계 수백만 명의 개발자들은 GitHub에서 공개 소스와 비공개 소스를 모두 포함하는 수백만 개의 프로젝트를 호스팅합니다. 다행하게도 GitHub 커뮤니티는 개발자 커뮤니티에서 매일 협업을 할 수 있게 권한을 주는 역할을 할 수 있습니다. 이 역할은 우리가 가볍게 생각할 수 없는 책임이 있습니다. 우리 모두에게는 이 공간을 자랑스러운 커뮤니티로 만들어 갈 흥미로운 기회가 있습니다.

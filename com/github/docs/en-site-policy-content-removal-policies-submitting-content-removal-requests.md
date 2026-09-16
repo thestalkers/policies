@@ -27,23 +27,27 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Content Removal Policies](/en/site-policy/content-removal-policies)
-4. [Submitting content removal requests](/en/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. Submitting content removal requests
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 Submitting content removal requests
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [DMCA Takedown Policy](#dmca-takedown-policy)
+
 * [GitHub Trademark Policy](#github-trademark-policy)
+
 * [GitHub Private Information Removal Policy](#github-private-information-removal-policy)
 
 We understand that copyrighted, trademarked, or private content may get published on GitHub – either accidentally or on purpose – sometimes in repositories that you do not own. Because the nature of this content varies, and because of different applicable laws, each category has its own, distinct reporting requirements outlined in our policies.

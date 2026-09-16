@@ -26,7 +26,7 @@ Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
+3. Politiques de suppression de contenu
 
 Faire défiler les barres de navigation vers la droite
 

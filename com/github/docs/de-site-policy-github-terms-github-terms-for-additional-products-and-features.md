@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen
 ==========
@@ -43,18 +45,31 @@ In diesem Artikel
 ----------
 
 * [Aktionen](#actions)
+
 * [Erweiterte Sicherheit](#advanced-security)
+
 * [Beratungsdatenbank](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [Wettbewerbsbenchmarking](#competitive-benchmarking)
+
 * [Verbinden](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [Packages](#packages)
+
 * [Pages](#pages)
+
 * [Vorschauen](#previews)
+
 * [Sponsors Programm](#sponsors-program)
+
 * [SQL Server-Images](#sql-server-images)
 
 Datum des Inkrafttretens dieser Fassung: 27. April 2026

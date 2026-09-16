@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 커뮤니티 준수 사항](/ko/site-policy/github-terms/github-community-code-of-conduct)
+4. GitHub 커뮤니티 준수 사항
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 커뮤니티 준수 사항
 ==========
@@ -43,10 +45,15 @@ Markdown으로 복사
 ----------
 
 * [개요와 목적](#overview-and-purpose)
+
 * [서약](#pledge)
+
 * [표준](#standards)
+
 * [계약 이행](#enforcement)
+
 * [GitHub 직원에게 연락](#contacting-github-staff)
+
 * [법적 고지 사항](#legal-notices)
 
 [개요와 목적](#overview-and-purpose)

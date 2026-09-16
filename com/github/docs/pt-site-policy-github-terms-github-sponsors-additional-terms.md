@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Termos adicionais dos patrocinadores do GitHub](/pt/site-policy/github-terms/github-sponsors-additional-terms)
+4. Termos adicionais dos patrocinadores do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Termos adicionais dos patrocinadores do GitHub
 ==========
@@ -43,23 +45,41 @@ Neste artigo
 ----------
 
 * [1. Definições.](#1-definitions)
+
 * [1A. Processamento de pagamentos pela Stripe.](#1a-payment-processing-by-stripe)
+
 * [1. Uso Aceitável.](#1-acceptable-use)
+
 * [2. Obrigações do Desenvolvedor Patrocinado.](#2-sponsored-developer-obligations)
+
 * [3. Termos Financeiros.](#3-financial-terms)
+
 * [4. Declarações e Garantias; Limitação de Responsabilidade; Indenização.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. Vigência e rescisão do contrato.](#5-term-and-termination)
+
 * [1. Programa Sponsors.](#1-sponsors-program)
+
 * [2. Pagamento.](#2-payment)
+
 * [3. Vigência e Rescisão.](#3-term-and-termination)
+
 * [4. Isenção de Responsabilidade; Limitação de Responsabilidade.](#4-disclaimer-limitation-of-liability)
+
 * [A. Confidencialidade.](#a-confidentiality)
+
 * [B. Publicidade.](#b-publicity)
+
 * [C. Notificações.](#c-notices)
+
 * [D. Lei Aplicável.](#d-governing-law)
+
 * [E. Atribuição.](#e-assignment)
+
 * [F. Autonomia das Cláusulas.](#f-severability)
+
 * [G. Acordo integral.](#g-entire-agreement)
+
 * [H. Alterações nestes Termos.](#h-changes-to-the-terms)
 
 Sua participação no Programa de Patrocinadores do GitHub (o "Programa") está sujeita aos [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service) (o "Contrato") ou outro contrato que você tenha com o GitHub (por exemplo, os Termos Gerais do Cliente do GitHub, os Termos de Serviço Corporativos do GitHub ou outro contrato), bem como os seguintes termos adicionais ("Termos Adicionais"). Qualquer uso do Programa de Patrocinadores do GitHub que viole o Contrato também será uma violação destes Termos Adicionais. Os termos em letras maiúsculas usados, mas não definidos abaixo, possuem os mesmos significados que constam no Contrato. Estes Termos Adicionais para o Programa de Patrocinadores do GitHub descrevem a relação entre o GitHub e você, o "Desenvolvedor Patrocinado", para o Programa. Os Termos Adicionais entram em vigor na data em que você os aceita ("Data de Vigência").

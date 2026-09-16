@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [其他站点政策](/zh/site-policy/other-site-policies)
-4. [GitHub 徽标政策](/zh/site-policy/other-site-policies/github-logo-policy)
+4. GitHub 徽标政策
 
 向右滚动痕迹导航
 

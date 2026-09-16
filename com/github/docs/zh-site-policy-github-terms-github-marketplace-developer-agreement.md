@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement)
+4. GitHub Marketplace 开发人员协议
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub Marketplace 开发人员协议
 ==========
@@ -43,23 +45,41 @@ GitHub Marketplace 开发人员协议
 ----------
 
 * [1.定义](#1definitions)
+
 * [2.用途和许可授予](#2purpose-and-license-grant)
+
 * [3.限制和责任](#3restrictions-and-responsibilities)
+
 * [4.下架](#4takedowns)
+
 * [5.声明、保证和承诺](#5representations-warranties-and-covenants)
+
 * [6. 付费应用程序或产品](#6paid-applications-or-products)
+
 * [7.所有权](#7ownership)
+
 * [8. 责任限制](#8limitation-of-liability)
+
 * [9.赔偿](#9indemnification)
+
 * [10.终止](#10termination)
+
 * [11.修改](#11modification)
+
 * [12.转让；完整协议；修订](#12assignment-entire-agreement-revisions)
+
 * [13.可分割性](#13severability)
+
 * [14.缔约方关系](#14-relationship-of-the-parties)
+
 * [15.通知](#15-notice)
+
 * [16.管辖法律](#16-governing-law)
+
 * [17.出口限制](#17-export-restrictions)
+
 * [18.使用数据](#18-usage-data)
+
 * [19. 预发布访问](#19-pre-release-access)
 
 **参与 GitHub 的 Marketplace 计划必须遵守这些条款和条件（以下简称“协议”）。注册参与 Marketplace 计划或单击下面的“I Accept”（我接受），即表示你确认自己理解本协议，并接受其所有条款和条件。如果你代表公司或其他法律实体签订本协议，则表示你拥有让该实体受本协议约束的法律权限，在这种情况下，“你”即表示你所代表的实体。**

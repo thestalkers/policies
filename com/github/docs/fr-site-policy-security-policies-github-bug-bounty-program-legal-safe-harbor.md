@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de Sécurité](/fr/site-policy/security-policies)
-4. [Programme GitHub Bug Bounty Legal Safe Harbor](/fr/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. Programme GitHub Bug Bounty Legal Safe Harbor
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Programme GitHub Bug Bounty Legal Safe Harbor
 ==========
@@ -43,8 +45,11 @@ Dans cet article
 ----------
 
 * [Résumé](#summary)
+
 * [1. Conditions des Principes de la Sphère de sécurité (Safe Harbor)](#1-safe-harbor-terms)
+
 * [2. Principes de protection des données (Safe Harbor) applicables aux tiers](#2-third-party-safe-harbor)
+
 * [3. Dérogation limitée aux règlements d'autres sites](#3-dérogation-limitée-aux-règlements-dautres-sites)
 
 [Résumé](#summary)

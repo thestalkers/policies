@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
-4. [Contestação e Reintegração do GitHub](/pt/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. Contestação e Reintegração do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Contestação e Reintegração do GitHub
 ==========
@@ -43,8 +45,11 @@ Neste artigo
 ----------
 
 * [Contestação e Reintegração](#appeal-and-reinstatement)
+
 * [O que são Contestações e Reintegrações?](#what-are-appeals-and-reinstatements)
+
 * [Como isso funciona](#how-this-works)
+
 * [Transparência](#transparency)
 
 [Contestação e Reintegração](#appeal-and-reinstatement)

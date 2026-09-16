@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
-4. [Заявление GitHub против современного рабства и детского труда](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+4. Заявление GitHub против современного рабства и детского труда
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Заявление GitHub против современного рабства и детского труда
 ==========
@@ -43,11 +45,17 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Структура, бизнес и цепочки поставок GitHub](#githubs-structure-business-and-supply-chains)
+
 * [Политика в отношении современного рабства и детского труда](#policies-in-relation-to-modern-slavery-and-child-labor)
+
 * [Трудовое законодательство и практика](#labor-laws-and-practices)
+
 * [Процессы должной осмотрительности в отношении современного рабства и детского труда в его бизнесе и цепочках поставок](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+
 * [Места в бизнесе и цепочках поставок GitHub, где существует риск современного рабства и детского труда, и шаги, предпринятые GitHub для оценки и управления этим риском.](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+
 * [В бизнесе или цепочках поставок GitHub не наблюдается эффективности в предотвращении современного рабства или детского труда.](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+
 * [Тренинг для сотрудников GitHub о современном рабстве и торговле людьми](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *Заявление 2018 года*

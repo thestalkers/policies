@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [다른 사이트 정책](/ko/site-policy/other-site-policies)
-4. [GitHub와 무역 통제](/ko/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub와 무역 통제
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub와 무역 통제
 ==========
@@ -43,6 +45,7 @@ Markdown으로 복사
 ----------
 
 * [수출 개요](#export-overview)
+
 * [질문과 대답](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server 그리고 두 제품 중 하나에 업로드하는 정보는 미국 수출 관리 규정(EAR)을 포함한 무역 통제 규정의 적용 대상이 될 수 있습니다.

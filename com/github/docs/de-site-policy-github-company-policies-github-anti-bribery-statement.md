@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Unternehmensrichtlinien](/de/site-policy/github-company-policies)
-4. [GitHub-Erklärung zur Bestechungsbekämpfung](/de/site-policy/github-company-policies/github-anti-bribery-statement)
+4. GitHub-Erklärung zur Bestechungsbekämpfung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Erklärung zur Bestechungsbekämpfung
 ==========
@@ -43,7 +45,9 @@ In diesem Artikel
 ----------
 
 * [GitHub-Richtlinien, die Bestechung verbieten](#github-policies-prohibiting-bribery)
+
 * [Schulungen für unsere Mitarbeiter](#training-for-our-employees)
+
 * [Einbindung unserer Partner](#engaging-our-partners)
 
 GitHub hält an unserer Verpflichtung zu ethischen Geschäftspraktiken fest, unter anderem durch das Verbot von Bestechung und Korruption. Wie [Transparency International](https://www.transparency.org/what-is-corruption) erklärt, verursacht Korruption folgende Arten von Kosten:

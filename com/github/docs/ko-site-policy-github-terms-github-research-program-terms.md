@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub Research 프로그램 약관](/ko/site-policy/github-terms/github-research-program-terms)
+4. GitHub Research 프로그램 약관
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub Research 프로그램 약관
 ==========
@@ -43,12 +45,19 @@ Markdown으로 복사
 ----------
 
 * [A. 피드백](#a-your-feedback)
+
 * [B. 기밀성](#b-confidentiality)
+
 * [C. 권리 보유](#c-reservation-of-rights)
+
 * [D. 개인 정보 보호](#d-privacy)
+
 * [E. GitHub 서비스 및 소프트웨어 약관](#e-github-services-and-software-terms)
+
 * [F. 보증의 부인](#f-disclaimer-of-warranties)
+
 * [G. 책임의 제한](#g-limitation-of-liability)
+
 * [H. 기타](#h-miscellaneous)
 
 GitHub Research 프로그램("프로그램")에 오신 것을 환영합니다! 참가하려면 특별한 약관 집합인 GitHub Research 프로그램 계약("계약")에 동의해야 합니다.

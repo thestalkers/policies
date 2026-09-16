@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub Marketplace サービス使用条件](/ja/site-policy/github-terms/github-marketplace-terms-of-service)
+4. GitHub Marketplace サービス使用条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub Marketplace サービス使用条件
 ==========
@@ -43,14 +45,23 @@ Markdown としてコピー
 ----------
 
 * [A. GitHub.com のサービス使用条件](#a-githubcoms-terms-of-service)
+
 * [B。 使用要件](#b-use-requirements)
+
 * [C。 開発者製品および製品プロバイダー](#c-developer-products-and-product-providers)
+
 * [D。 支払い、請求スケジュール、および解約](#d-payment-billing-schedule-and-cancellation)
+
 * [E。 お客様のデータと GitHub のプライバシー ポリシー](#e-your-data-and-githubs-privacy-policy)
+
 * [F。 開発者製品に対する権利](#f-rights-to-developer-products)
+
 * [G。 開発者製品の更新](#g-updates-to-developer-products)
+
 * [H。 開発者製品のブロック](#h-developer-product-blocking)
+
 * [I。 免責事項、責任制限、免責および補償](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+
 * [J。 雑則](#j-miscellanea)
 
 GitHub Marketplace (以下「Marketplace」といいます) へようこそ! ご利用いただきありがとうございます。 GitHub Marketplace にアクセスまたは使用する前に、本サービス条件 (以下「Marketplace 条件」といいます) をよくお読みください。 GitHub Marketplace は、お客様の GitHub.com アカウントで使用できる開発者向けアプリまたはアクション (以下「開発者製品」といいます) を (無料または有料で) 選択できるプラットフォームです。 GitHub, Inc. (以下「GitHub」、「当社」といいます) によって提供されますが、開発者製品は、GitHub または第三者のソフトウェア プロバイダーによって開発および保守される場合があります。 開発者製品の選択または使用は、本 Marketplace 条件および適用される料金の対象となり、その開発者製品の第三者ライセンサー(以下「製品プロバイダー」といいます)が提供する追加条件に同意することが必要になる場合があります。 GitHub モデルの使用には、[追加の本製品と機能に関する GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)が適用されます。

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [다른 사이트 정책](/ko/site-policy/other-site-policies)
-4. [GitHub 사용자 이름 정책](/ko/site-policy/other-site-policies/github-username-policy)
+4. GitHub 사용자 이름 정책
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 사용자 이름 정책
 ==========
@@ -43,7 +45,9 @@ Markdown으로 복사
 ----------
 
 * [원하는 사용자 이름이 이미 사용 중인 이름이라면 어떻게 해야 합니까?](#what-if-the-username-i-want-is-already-taken)
+
 * [상표 정책](#trademark-policy)
+
 * [이름 무단 점유 정책](#name-squatting-policy)
 
 GitHub 계정 이름은 선착순으로 사용할 수 있으며, 즉각적인 활성 사용을 위한 것입니다.

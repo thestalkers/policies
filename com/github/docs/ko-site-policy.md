@@ -25,7 +25,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 경로를 왼쪽으로 스크롤
 
 1. [홈](/ko)
-2. [사이트 정책](/ko/site-policy)
+2. 사이트 정책
 
 이동 경로를 오른쪽으로 스크롤
 

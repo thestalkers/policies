@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Privacidade](/pt/site-policy/privacy-policies)
-4. [Aviso de Privacidade de Dados Global do GitHub para Candidatos](/pt/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. Aviso de Privacidade de Dados Global do GitHub para Candidatos
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Aviso de Privacidade de Dados Global do GitHub para Candidatos
 ==========
@@ -43,6 +45,7 @@ Neste artigo
 ----------
 
 * [Visão geral](#overview)
+
 * [Adendos](#addenda)
 
 **Aviso de Privacidade de Dados Global do GitHub para Candidatos**

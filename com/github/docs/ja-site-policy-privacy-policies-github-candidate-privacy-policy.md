@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
-4. [候補者向け GitHub グローバル データ プライバシー通知](/ja/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. 候補者向け GitHub グローバル データ プライバシー通知
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 候補者向け GitHub グローバル データ プライバシー通知
 ==========
@@ -43,6 +45,7 @@ Markdown としてコピー
 ----------
 
 * [概要](#overview)
+
 * [補遺](#addenda)
 
 **候補者向け GitHub グローバル データ プライバシー通知**

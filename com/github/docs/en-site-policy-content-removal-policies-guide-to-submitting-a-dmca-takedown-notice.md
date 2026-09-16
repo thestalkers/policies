@@ -27,24 +27,29 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Content Removal Policies](/en/site-policy/content-removal-policies)
-4. [Guide to Submitting a DMCA Takedown Notice](/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Guide to Submitting a DMCA Takedown Notice
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 Guide to Submitting a DMCA Takedown Notice
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Before You Start](#before-you-start)
+
 * [Your Complaint Must ...](#your-complaint-must-)
+
 * [Complaints about Anti-Circumvention Technology](#complaints-about-anti-circumvention-technology)
+
 * [How to Submit Your Complaint](#how-to-submit-your-complaint)
 
 This guide describes the information that GitHub needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how GitHub processes DMCA takedown requests, please review our [DMCA Takedown Policy](/en/site-policy/content-removal-policies/dmca-takedown-policy).

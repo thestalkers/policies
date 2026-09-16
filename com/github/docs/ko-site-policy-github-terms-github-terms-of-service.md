@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service)
+4. GitHub 서비스 약관
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 서비스 약관
 ==========
@@ -43,25 +45,45 @@ Markdown으로 복사
 ----------
 
 * [요약](#summary)
+
 * [GitHub 서비스 약관](#the-github-terms-of-service)
+
 * [A. 용어 정의](#a-definitions)
+
 * [B. 계정 약관](#b-account-terms)
+
 * [C. 사용 제한](#c-acceptable-use)
+
 * [D. 사용자 생성 콘텐츠](#d-user-generated-content)
+
 * [E. 개인 리포지토리](#e-private-repositories)
+
 * [F. 저작권 침해와 DMCA 정책](#f-copyright-infringement-and-dmca-policy)
+
 * [G. 지적 재산권 고지](#g-intellectual-property-notice)
+
 * [H. API 약관](#h-api-terms)
+
 * [I. GitHub 추가 제품 약관](#i-github-additional-product-terms)
+
 * [J. AI 기능, 학습 및 사용자의 데이터](#j-ai-features-training-and-your-data)
+
 * [k. 베타 미리 보기](#k-beta-previews)
+
 * [L. 지급](#l-payment)
+
 * [M. 취소 및 해지](#m-cancellation-and-termination)
+
 * [N. GitHub와의 통신](#n-communications-with-github)
+
 * [O. 보증의 부인](#o-disclaimer-of-warranties)
+
 * [P. 책임의 제한](#p-limitation-of-liability)
+
 * [Q. 면제 및 면책](#q-release-and-indemnification)
+
 * [R. 본 약관의 변경](#r-changes-to-these-terms)
+
 * [S. 기타](#s-miscellaneous)
 
 GitHub를 이용해 주셔서 감사합니다. 여러분을 뵙게 되어 매우 기쁩니다. GitHub에 액세스하거나 GitHub를 이용하기 전에 본 서비스 계약 약관을 꼼꼼하게 읽으시기 바랍니다. GitHub와 GitHub 사용자 간의 매우 중요한 계약이므로 최대한 명확히 하기 위해 노력했습니다. 편의상 구속력이 없는 짧은 요약 형태로 약관을 소개한 다음 전체 법적 약관이 나옵니다.

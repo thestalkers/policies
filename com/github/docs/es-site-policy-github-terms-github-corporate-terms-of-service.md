@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Condiciones de servicio corporativas de GitHub](/es/site-policy/github-terms/github-corporate-terms-of-service)
+4. Condiciones de servicio corporativas de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Condiciones de servicio corporativas de GitHub
 ==========
@@ -43,25 +45,45 @@ En este artículo
 ----------
 
 * [Condiciones de servicio corporativas de GitHub](#github-corporate-terms-of-service)
+
 * [A. Definiciones](#a-definitions)
+
 * [B. Términos de la cuenta](#b-account-terms)
+
 * [C. De acuerdo con las leyes; uso aceptable; Privacidad](#c-compliance-with-laws-acceptable-use-privacy)
+
 * [D. Responsabilidad de contenido; Propiedad; Derechos de licencia](#d-content-responsibility-ownership-license-rights)
+
 * [E. Repositorios privados](#e-private-repositories)
+
 * [F. Aviso de Propiedad Intelectual](#f-intellectual-property-notice)
+
 * [G. Términos Adicionales para los Productos de GitHub](#g-github-additional-product-terms)
+
 * [H. Licencias de Suscripción](#h-subscription-licenses)
+
 * [I. Entidades Afiliadas](#i-affiliates)
+
 * [J. Pago](#j-payment)
+
 * [K. Vigencia; Rescisión; Suspensión](#k-term-termination-suspension)
+
 * [L. Comunicaciones con GitHub](#l-communications-with-github)
+
 * [M. Garantía limitada; Descargo de responsabilidad](#m-limited-warranty-disclaimer)
+
 * [N. Limitación de Responsabilidad](#n-limitations-of-liability)
+
 * [O. Defensa frente a Reclamaciones; Exoneración](#o-defense-of-claims-release)
+
 * [P. Confidencialidad](#p-confidentiality)
+
 * [Q. Servicios Profesionales](#q-professional-services)
+
 * [R. Cambios en el Servicio o los Términos](#r-changes-to-the-service-or-terms)
+
 * [S. Soporte Técnico.](#s-support)
+
 * [T. Disposiciones adicionales](#t-miscellaneous)
 
 Nota:

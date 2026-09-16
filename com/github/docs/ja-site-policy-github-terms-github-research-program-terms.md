@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub のリサーチ プログラム条項](/ja/site-policy/github-terms/github-research-program-terms)
+4. GitHub のリサーチ プログラム条項
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub のリサーチ プログラム条項
 ==========
@@ -43,12 +45,19 @@ Markdown としてコピー
 ----------
 
 * [A. お客様からのフィードバック](#a-your-feedback)
+
 * [B. 秘密保持](#b-confidentiality)
+
 * [C: 権利の留保](#c-reservation-of-rights)
+
 * [D. プライバシー](#d-privacy)
+
 * [E。 GitHub サービスおよびソフトウェア条項](#e-github-services-and-software-terms)
+
 * [F. 保証の免責事項](#f-disclaimer-of-warranties)
+
 * [G. 責任制限](#g-limitation-of-liability)
+
 * [H. 雑則](#h-miscellaneous)
 
 GitHub のリサーチ プログラム (以下「プログラム」といいます) へようこそ。 本プログラムに参加するには、GitHub のリサーチ プログラム契約 (以下「契約」といいます) の特別条項に同意する必要があります。

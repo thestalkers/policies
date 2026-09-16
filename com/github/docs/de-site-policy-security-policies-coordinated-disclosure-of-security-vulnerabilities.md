@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
-4. [Koordinierte Offenlegung von Sicherheitslücken](/de/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. Koordinierte Offenlegung von Sicherheitslücken
 
 Breadcrumbs nach rechts scrollen
 

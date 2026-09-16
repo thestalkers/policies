@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политика компании #REF!](/ru/site-policy/github-company-policies)
-4. [Обязательство сотрудничества с GitHub GPL](/ru/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. Обязательство сотрудничества с GitHub GPL
 
 Прокрутите страницы вправо
 

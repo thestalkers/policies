@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Intimidation et harcèlement](/fr/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. Intimidation et harcèlement
 
 Faire défiler les barres de navigation vers la droite
 

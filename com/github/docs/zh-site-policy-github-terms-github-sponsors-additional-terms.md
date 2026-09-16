@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 赞助商附加条款](/zh/site-policy/github-terms/github-sponsors-additional-terms)
+4. GitHub 赞助商附加条款
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 赞助商附加条款
 ==========
@@ -43,23 +45,41 @@ GitHub 赞助商附加条款
 ----------
 
 * [1. 定义。](#1-definitions)
+
 * [1A. 由 Stripe 提供的支付处理。](#1a-payment-processing-by-stripe)
+
 * [1. 可接受的使用方式。](#1-acceptable-use)
+
 * [2. 受赞助开发人员的义务。](#2-sponsored-developer-obligations)
+
 * [3. 财务条款。](#3-financial-terms)
+
 * [4. 声明与保证；责任限制；赔偿。](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. 期限与终止。](#5-term-and-termination)
+
 * [1. 赞助商计划。](#1-sponsors-program)
+
 * [2. 付款。](#2-payment)
+
 * [3. 期限与终止。](#3-term-and-termination)
+
 * [4. 免责声明；责任限制。](#4-disclaimer-limitation-of-liability)
+
 * [A. 保密性。](#a-confidentiality)
+
 * [B. 公开性。](#b-publicity)
+
 * [C. 通知。](#c-notices)
+
 * [D. 管辖法律。](#d-governing-law)
+
 * [E. 分配。](#e-assignment)
+
 * [F. 可分割性。](#f-severability)
+
 * [G. 完整协议。](#g-entire-agreement)
+
 * [H. 条款的变更。](#h-changes-to-the-terms)
 
 你参与 GitHub 赞助商计划（简称“计划”）须遵守 [GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service)（简称“协议”）或与 GitHub 签订的其他协议（例如 GitHub 客户一般条款、GitHub 公司服务条款或其他协议），以及以下附加条款（简称“附加条款”）。 任何使用 GitHub 赞助商计划但违反协议的行为也将构成对本附加条款的违反。 下文中使用但未定义的任何术语与协议中的含义相同。 针对 GitHub 赞助商计划的本附加条款描述 GitHub 与您（即“受赞助开发人员”）之间就计划而言的关系。 附加条款自您接受这些条款之日起生效（以下简称“生效日期”）。

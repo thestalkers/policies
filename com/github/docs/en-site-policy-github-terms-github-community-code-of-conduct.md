@@ -27,26 +27,33 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Community Code of Conduct](/en/site-policy/github-terms/github-community-code-of-conduct)
+4. GitHub Community Code of Conduct
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Community Code of Conduct
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [Overview and Purpose](#overview-and-purpose)
+
 * [Pledge](#pledge)
+
 * [Standards](#standards)
+
 * [Enforcement](#enforcement)
+
 * [Contacting GitHub Staff](#contacting-github-staff)
+
 * [Legal Notices](#legal-notices)
 
 [Overview and Purpose](#overview-and-purpose)

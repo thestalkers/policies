@@ -27,7 +27,7 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Otras políticas del sitio](/es/site-policy/other-site-policies)
-4. [Política del logotipo de GitHub](/es/site-policy/other-site-policies/github-logo-policy)
+4. Política del logotipo de GitHub
 
 Desplazar las migas de pan hacia la derecha
 

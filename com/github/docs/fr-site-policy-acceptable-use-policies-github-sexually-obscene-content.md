@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Contenu sexuellement obscène](/fr/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. Contenu sexuellement obscène
 
 Faire défiler les barres de navigation vers la droite
 

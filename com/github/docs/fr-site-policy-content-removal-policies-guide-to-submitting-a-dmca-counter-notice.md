@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Guide de soumission d'un avis de contestation DMCA](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice)
+4. Guide de soumission d'un avis de contestation DMCA
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Guide de soumission d'un avis de contestation DMCA
 ==========
@@ -43,7 +45,9 @@ Dans cet article
 ----------
 
 * [Avant de commencer](#before-you-start)
+
 * [Votre contre-avis doit...](#your-counter-notice-must)
+
 * [Comment soumettre votre contre-avis](#how-to-submit-your-counter-notice)
 
 Ce guide décrit les informations dont GitHub a besoin pour traiter un avis de contestation à une demande de retrait DMCA. Si vous avez des questions plus générales sur ce qu'est la DMCA ou sur la manière dont GitHub traite les demandes de retrait dans le cadre de la DMCA, veuillez consulter notre [Politique de retrait dans le cadre de la DMCA](/fr/site-policy/content-removal-policies/dmca-takedown-policy).

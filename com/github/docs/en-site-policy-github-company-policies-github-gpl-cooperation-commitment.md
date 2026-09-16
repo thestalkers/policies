@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Company Policies](/en/site-policy/github-company-policies)
-4. [GitHub GPL Cooperation Commitment](/en/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. GitHub GPL Cooperation Commitment
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub GPL Cooperation Commitment
 ==========
 
-Copy as Markdown
+Copy markdown
 
 This commitment pertains to GitHub contributions to Git, the Linux kernel, and other programs under covered licenses (scroll to the end for definitions).
 

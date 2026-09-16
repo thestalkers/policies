@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Code de Conduite de la Communauté GitHub](/fr/site-policy/github-terms/github-community-code-of-conduct)
+4. Code de Conduite de la Communauté GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Code de Conduite de la Communauté GitHub
 ==========
@@ -43,10 +45,15 @@ Dans cet article
 ----------
 
 * [Présentation et objectif](#overview-and-purpose)
+
 * [Gage](#pledge)
+
 * [Règles](#standards)
+
 * [Application](#enforcement)
+
 * [Contacter le personnel de GitHub](#contacting-github-staff)
+
 * [Mentions légales](#legal-notices)
 
 [Présentation et objectif](#overview-and-purpose)

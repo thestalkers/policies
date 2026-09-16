@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [개인정보보호정책](/ko/site-policy/privacy-policies)
-4. [지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지](/ko/site-policy/privacy-policies/github-candidate-privacy-policy)
+4. 지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지
 ==========
@@ -43,6 +45,7 @@ Markdown으로 복사
 ----------
 
 * [개요](#overview)
+
 * [부록](#addenda)
 
 **지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지**

@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
-3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
+3. コンテンツ削除ポリシー
 
 階層リンクを右にスクロールする
 

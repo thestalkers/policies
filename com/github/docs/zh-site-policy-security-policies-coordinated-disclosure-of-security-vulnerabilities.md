@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [安全政策](/zh/site-policy/security-policies)
-4. [协调披露安全漏洞](/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. 协调披露安全漏洞
 
 向右滚动痕迹导航
 

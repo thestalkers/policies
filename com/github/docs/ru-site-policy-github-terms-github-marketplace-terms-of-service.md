@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Условия GitHub](/ru/site-policy/github-terms)
-4. [Условия предоставления услуг GitHub Marketplace](/ru/site-policy/github-terms/github-marketplace-terms-of-service)
+4. Условия предоставления услуг GitHub Marketplace
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Условия предоставления услуг GitHub Marketplace
 ==========
@@ -43,14 +45,23 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [А. Условия предоставления услуг GitHub.com](#a-githubcoms-terms-of-service)
+
 * [B. Требования к использованию](#b-use-requirements)
+
 * [C. Продукты для разработчиков и Поставщики продуктов](#c-developer-products-and-product-providers)
+
 * [D. Оплата, график выставления счетов и отмена](#d-payment-billing-schedule-and-cancellation)
+
 * [Е. Ваши данные и политика конфиденциальности GitHub](#e-your-data-and-githubs-privacy-policy)
+
 * [F. Права на Продукты для разработчиков](#f-rights-to-developer-products)
+
 * [G. Обновления Продуктов для разработчиков](#g-updates-to-developer-products)
+
 * [H. Блокировка Продукта для разработчиков](#h-developer-product-blocking)
+
 * [I. Отказ от ответственности; Ограничение ответственности; Освобождение от ответственности и компенсация](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+
 * [J. Разное](#j-miscellanea)
 
 Добро пожаловать в GitHub Marketplace («Marketplace»)! Мы рады, что вы здесь. Пожалуйста, внимательно прочитайте настоящие Условия предоставления услуг («Условия Marketplace») перед доступом или использованием GitHub Marketplace. GitHub Marketplace — это платформа, которая позволяет вам выбирать приложения или действия разработчиков (бесплатно или за плату), которые можно использовать с вашей учетной записью GitHub.com («Продукты для разработчиков»). Хотя Продукты для разработчиков предлагаются GitHub, Inc. («GitHub», «мы», «нас»), они могут разрабатываться и поддерживаться либо GitHub, либо сторонними поставщиками программного обеспечения. Ваш выбор или использование Продуктов для разработчиков регулируется настоящими Условиями Marketplace и любыми применимыми сборами, а также может потребовать от вас согласия с дополнительными условиями, предоставленными сторонним лицензиаром этого Продукта разработчика («Поставщик продукта»). Использование моделей GitHub подчиняется [Условиям GitHub в отношении дополнительных продуктов и функций](/ru/site-policy/github-terms/github-terms-for-additional-products-and-features).

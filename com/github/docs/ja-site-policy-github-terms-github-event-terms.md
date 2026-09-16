@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub イベント条件](/ja/site-policy/github-terms/github-event-terms)
+4. GitHub イベント条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub イベント条件
 ==========
@@ -43,11 +45,17 @@ Markdown としてコピー
 ----------
 
 * [1.基本的な出席要件 - イベントの行動規範を含む](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. 画像とビデオ](#2-pictures-and-videos)
+
 * [3. 情報の共有](#3-information-sharing)
+
 * [4 .リスク、責任、免責](#4-risk-liability-and-indemnity)
+
 * [5. 契約終了](#5-termination)
+
 * [6. 法および裁判地の選択](#6-choice-of-law-and-venue)
+
 * [7. その他の条件](#7-miscellaneous-terms)
 
 GitHub イベントに関連して GitHub が開催するすべてのイベントまたはアクティビティ(総称して「イベント」という)を含む GitHub イベントに返事または参加することにより、お客様は次の GitHub イベントの条件(以下、「イベント条件」)を読み、理解し、同意を示したものとします。

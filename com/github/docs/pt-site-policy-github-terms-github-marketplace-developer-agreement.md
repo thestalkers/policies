@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Contrato de desenvolvedor do GitHub Marketplace](/pt/site-policy/github-terms/github-marketplace-developer-agreement)
+4. Contrato de desenvolvedor do GitHub Marketplace
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Contrato de desenvolvedor do GitHub Marketplace
 ==========
@@ -43,23 +45,41 @@ Neste artigo
 ----------
 
 * [1. DEFINIÇÕES](#1definitions)
+
 * [2. PROPÓSITO E OUTORGA DE LICENÇA](#2purpose-and-license-grant)
+
 * [3. RESTRIÇÕES E RESPONSABILIDADES](#3restrictions-and-responsibilities)
+
 * [4. REMOÇÕES](#4takedowns)
+
 * [5. DECLARAÇÕES, GARANTIAS E ACORDOS](#5representations-warranties-and-covenants)
+
 * [6. APLICATIVOS OU PRODUTOS PAGOS](#6paid-applications-or-products)
+
 * [7. PROPRIEDADE](#7ownership)
+
 * [8. LIMITAÇÃO DE RESPONSABILIDADE](#8limitation-of-liability)
+
 * [9. INDENIZAÇÃO](#9indemnification)
+
 * [10. RESCISÃO](#10termination)
+
 * [11. MODIFICAÇÃO](#11modification)
+
 * [12. CESSÃO; ACORDO INTEGRAL; REVISÕES](#12assignment-entire-agreement-revisions)
+
 * [13. INDEPENDÊNCIA DAS CLÁUSULAS](#13severability)
+
 * [14. RELACIONAMENTO ENTRE AS PARTES](#14-relationship-of-the-parties)
+
 * [15. NOTIFICAÇÃO](#15-notice)
+
 * [16. LEI APLICÁVEL](#16-governing-law)
+
 * [17. RESTRIÇÕES DE EXPORTAÇÃO](#17-export-restrictions)
+
 * [18. DADOS DE USO](#18-usage-data)
+
 * [19. ACESSO DE PRÉ-LANÇAMENTO](#19-pre-release-access)
 
 **Estes termos e condições (o “Contrato”) regem sua participação no programa do GitHub Marketplace. ao se inscrever para participar do programa do marketplace ou clicar em “Aceito” abaixo, você confirma que compreende este contrato e aceita todos os termos e condições. se você está celebrando este contrato em nome de uma empresa ou outra pessoa jurídica, você declara que tem autoridade legal para vincular a entidade a este contrato; nesse caso, “Você” significará a entidade que você representa.**

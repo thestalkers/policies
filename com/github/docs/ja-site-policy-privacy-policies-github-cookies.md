@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [プライバシー ポリシー](/ja/site-policy/privacy-policies)
-4. [GitHub の Cookie](/ja/site-policy/privacy-policies/github-cookies)
+4. GitHub の Cookie
 
 階層リンクを右にスクロールする
 

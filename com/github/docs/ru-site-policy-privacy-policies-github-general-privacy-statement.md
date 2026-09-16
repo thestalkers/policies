@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики конфиденциальности](/ru/site-policy/privacy-policies)
-4. [Общие заявления о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-general-privacy-statement)
+4. Общие заявления о конфиденциальности GitHub
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Общие заявления о конфиденциальности GitHub
 ==========
@@ -43,21 +45,37 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Заявление о конфиденциальности GitHub](#github-privacy-statement)
+
 * [Персональные данные, которые мы собираем](#personal-data-we-collect)
+
 * [Цели обработки: как мы используем персональные данные](#processing-purposes-how-we-use-your-personal-data)
+
 * [Предоставление доступа к персональным данным](#sharing-of-personal-data)
+
 * [Частные репозитории: доступ к GitHub](#private-repositories-github-access)
+
 * [Законные базы для обработки персональных данных (применимы к конечным пользователям в EEA и Великобритании)](#lawful-bases-for-processing-personal-data-applicable-to-eea-and-uk-end-users)
+
 * [Ваши права на защиту конфиденциальности |](#your-privacy-rights)
+
 * [Международная передача данных](#international-data-transfers)
+
 * [Положение о конфиденциальности данных (DPF)](#data-privacy-framework-dpf)
+
 * [Безопасность и хранение](#security-and-retention)
+
 * [Безопасность](#security)
+
 * [Связаться с нами](#contact-us)
+
 * [Информация для несовершеннолетних](#information-for-minors)
+
 * [Изменения в нашем заявлении о конфиденциальности](#changes-to-our-privacy-statement)
+
 * [Версии на других языках](#translations)
+
 * [Использование нами файлов cookie и технологий отслеживания](#our-use-of-cookies-and-tracking-technologies)
+
 * [Информация для некоторых штатов США](#us-state-specific-information)
 
 [Заявление о конфиденциальности GitHub](#github-privacy-statement)

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
-4. [GitHub 추가 제품 및 기능 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)
+4. GitHub 추가 제품 및 기능 약관
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 추가 제품 및 기능 약관
 ==========
@@ -43,18 +45,31 @@ Markdown으로 복사
 ----------
 
 * [Actions](#actions)
+
 * [Advanced Security](#advanced-security)
+
 * [Advisory Database](#advisory-database)
+
 * [Codespaces](#codespaces)
+
 * [경쟁 제품 벤치마킹](#competitive-benchmarking)
+
 * [Connect](#connect)
+
 * [GitHub Copilot](#github-copilot)
+
 * [GitHub Enterprise Importer](#github-enterprise-importer)
+
 * [npm](#npm)
+
 * [패키지](#packages)
+
 * [페이지](#pages)
+
 * [미리 보기](#previews)
+
 * [Sponsors 프로그램](#sponsors-program)
+
 * [SQL Server Images](#sql-server-images)
 
 버전 적용 날짜: 2026년 4월 27일

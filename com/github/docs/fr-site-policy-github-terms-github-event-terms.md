@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions de l'événement GitHub](/fr/site-policy/github-terms/github-event-terms)
+4. Conditions de l'événement GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions de l'événement GitHub
 ==========
@@ -43,11 +45,17 @@ Dans cet article
 ----------
 
 * [1. Conditions de base pour participer, y compris le Code de Conduite des Événements](#1-basic-requirements-to-attend---including-the-event-code-of-conduct)
+
 * [2. Images et vidéos](#2-pictures-and-videos)
+
 * [3. Partage d’informations](#3-information-sharing)
+
 * [4. Risque, responsabilité et indemnisation](#4-risk-liability-and-indemnity)
+
 * [5. Résiliation](#5-termination)
+
 * [6. Droit applicable et juridiction](#6-choice-of-law-and-venue)
+
 * [7. Dispositions diverses](#7-miscellaneous-terms)
 
 En répondant ou en assistant à un événement GitHub, y compris tout événement ou activité organisés par GitHub en association avec l’événement GitHub (collectivement l’« Événement »), vous déclarez que vous avez lu, compris et accepté les modalités de l’événement GitHub suivantes (ci-après « Conditions de l’événement »).

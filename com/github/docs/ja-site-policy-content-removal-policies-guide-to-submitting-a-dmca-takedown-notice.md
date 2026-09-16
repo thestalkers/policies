@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-4. [DMCA 削除通知提出ガイド](/ja/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. DMCA 削除通知提出ガイド
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 DMCA 削除通知提出ガイド
 ==========
@@ -43,8 +45,11 @@ Markdown としてコピー
 ----------
 
 * [開始前の準備](#before-you-start)
+
 * [苦情の要件](#your-complaint-must-)
+
 * [技術的な保護措置の回避禁止に関する苦情](#complaints-about-anti-circumvention-technology)
+
 * [苦情の提出方法](#how-to-submit-your-complaint)
 
 このガイドでは、DMCA 削除要求を処理するために GitHub が必要とする情報について説明します。 DMCA の内容や、GitHub による DMCA 削除要求の処理方法など、一般的な事項については [DMCA 削除ポリシー](/ja/site-policy/content-removal-policies/dmca-takedown-policy) をご覧ください。

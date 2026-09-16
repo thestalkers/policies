@@ -27,39 +27,59 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Sponsors Additional Terms](/en/site-policy/github-terms/github-sponsors-additional-terms)
+4. GitHub Sponsors Additional Terms
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Sponsors Additional Terms
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [1. Definitions.](#1-definitions)
+
 * [1A. Payment Processing by Stripe.](#1a-payment-processing-by-stripe)
+
 * [1. Acceptable Use.](#1-acceptable-use)
+
 * [2. Sponsored Developer Obligations.](#2-sponsored-developer-obligations)
+
 * [3. Financial Terms.](#3-financial-terms)
+
 * [4. Representations and Warranties; Limitation of Liability; Indemnification.](#4-representations-and-warranties-limitation-of-liability-indemnification)
+
 * [5. Term and Termination.](#5-term-and-termination)
+
 * [1. Sponsors Program.](#1-sponsors-program)
+
 * [2. Payment.](#2-payment)
+
 * [3. Term and Termination.](#3-term-and-termination)
+
 * [4. Disclaimer; Limitation of Liability.](#4-disclaimer-limitation-of-liability)
+
 * [A. Confidentiality.](#a-confidentiality)
+
 * [B. Publicity.](#b-publicity)
+
 * [C. Notices.](#c-notices)
+
 * [D. Governing Law.](#d-governing-law)
+
 * [E. Assignment.](#e-assignment)
+
 * [F. Severability.](#f-severability)
+
 * [G. Entire Agreement.](#g-entire-agreement)
+
 * [H. Changes to the Terms.](#h-changes-to-the-terms)
 
 Your participation in the GitHub Sponsors Program (the "Program") is subject to the [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service) (the "Agreement") or other agreement you have with GitHub (for example the GitHub Customer General Terms, the GitHub Corporate Terms of Service or other agreement), as well as the following additional terms ("Additional Terms"). Any use of the GitHub Sponsors Program that violates the Agreement will also be a violation of these Additional Terms. Any capitalized terms used but not defined below have the meanings in the Agreement. These Additional Terms for the GitHub Sponsors Program describe the relationship between GitHub and you, the "Sponsored Developer", for the Program. The Additional Terms are effective as of the date you accept them ("Effective Date").

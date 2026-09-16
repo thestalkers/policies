@@ -26,7 +26,7 @@ Desplazar las migas de pan a la izquierda
 
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
-3. [Directivas de Privacidad](/es/site-policy/privacy-policies)
+3. Directivas de Privacidad
 
 Desplazar las migas de pan hacia la derecha
 

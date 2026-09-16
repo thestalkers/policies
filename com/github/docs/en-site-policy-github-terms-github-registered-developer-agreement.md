@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
-4. [GitHub Registered Developer Agreement](/en/site-policy/github-terms/github-registered-developer-agreement)
+4. GitHub Registered Developer Agreement
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Registered Developer Agreement
 ==========
 
-Copy as Markdown
+Copy markdown
 
 GitHub is fortunate to have many developers integrating with our platform. We think that’s awesome, and we want to make that experience even better. GitHub’s Developer Program (the “Program”) helps us to connect with you, share information with you, and support your creative efforts better than ever before. The special relationship between GitHub and the developer community that the Program creates requires a special set of terms. Welcome to the Registered Developer Agreement (“Agreement”).
 

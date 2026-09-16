@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Outras políticas do site](/pt/site-policy/other-site-policies)
-4. [GitHub e controles de comércio](/pt/site-policy/other-site-policies/github-and-trade-controls)
+4. GitHub e controles de comércio
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 GitHub e controles de comércio
 ==========
@@ -43,6 +45,7 @@ Neste artigo
 ----------
 
 * [Visão geral da exportação](#export-overview)
+
 * [Perguntas frequentes](#frequently-asked-questions)
 
 GitHub.com, GitHub Enterprise Server e as informações que você carrega em qualquer um dos produtos podem estar sujeitas a regulamentos de controle comercial, inclusive sob os Regulamentos de Administração de Exportação dos EUA (o EAR).

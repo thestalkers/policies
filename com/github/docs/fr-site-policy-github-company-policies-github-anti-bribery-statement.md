@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-4. [Déclaration anti-corruption GitHub](/fr/site-policy/github-company-policies/github-anti-bribery-statement)
+4. Déclaration anti-corruption GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Déclaration anti-corruption GitHub
 ==========
@@ -43,7 +45,9 @@ Dans cet article
 ----------
 
 * [Politiques GitHub interdisant la corruption](#github-policies-prohibiting-bribery)
+
 * [Formation pour nos employés](#training-for-our-employees)
+
 * [Engager nos partenaires](#engaging-our-partners)
 
 GitHub respecte notre engagement envers des pratiques commerciales éthiques, notamment en interdisant les pots-de-vin et la corruption. Comme l'explique [Transparency International](https://www.transparency.org/what-is-corruption), les coûts de la corruption sont :

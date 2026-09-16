@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики безопасности](/ru/site-policy/security-policies)
-4. [Скоординированное раскрытие уязвимостей безопасности](/ru/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. Скоординированное раскрытие уязвимостей безопасности
 
 Прокрутите страницы вправо
 

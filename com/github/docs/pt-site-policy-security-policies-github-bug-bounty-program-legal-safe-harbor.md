@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Segurança](/pt/site-policy/security-policies)
-4. [GitHub Bug Bounty Program Legal Safe Harbor](/pt/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. GitHub Bug Bounty Program Legal Safe Harbor
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 GitHub Bug Bounty Program Legal Safe Harbor
 ==========
@@ -43,8 +45,11 @@ Neste artigo
 ----------
 
 * [Resumo](#summary)
+
 * [1. Termos do Safe Harbor (Porto Seguro)](#1-safe-harbor-terms)
+
 * [2. Safe Harbor (Porto Seguro) de Terceiros](#2-third-party-safe-harbor)
+
 * [3. Renúncia Limitada de Outras Políticas Locais](#3-limited-waiver-of-other-site-policies)
 
 [Resumo](#summary)

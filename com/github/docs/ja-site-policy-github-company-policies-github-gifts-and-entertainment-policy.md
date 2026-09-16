@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
-4. [GitHub の贈答品および接待に関するポリシー](/ja/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+4. GitHub の贈答品および接待に関するポリシー
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub の贈答品および接待に関するポリシー
 ==========
@@ -43,9 +45,13 @@ Markdown としてコピー
 ----------
 
 * [会社のポリシー](#company-policies)
+
 * [贈答品を容認できる場合と容認できない場合の例](#examples-of-acceptable-and-unacceptable-gifts)
+
 * [プロセス](#process)
+
 * [結果](#consequences)
+
 * [詳細情報](#more-information)
 
 GitHub は、当社のビジネスは建設的で透明性のある関係の上に築かれていると認識しています。 贈答品の非公式なやり取りや交換は、このような関係を発展させるうえで役立ち、一部の国では慣行とさえ見なされていますが、当社は贈収賄禁止法の遵守に努める必要があります。 特別な利益を創出したり取引に影響を与えるためにこのようなやり取りを使用しないことを含め、当社は倫理的に行動する法的責任を負います。

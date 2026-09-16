@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
-4. [Engagement de coopération GitHub GPL](/fr/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. Engagement de coopération GitHub GPL
 
 Faire défiler les barres de navigation vers la droite
 

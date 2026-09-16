@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
-4. [Envío de solicitudes de eliminación de contenido](/es/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. Envío de solicitudes de eliminación de contenido
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Envío de solicitudes de eliminación de contenido
 ==========
@@ -43,7 +45,9 @@ En este artículo
 ----------
 
 * [Política de eliminación de DMCA](#dmca-takedown-policy)
+
 * [Política de marcas registradas de GitHub](#github-trademark-policy)
+
 * [Política de eliminación de información privada de GitHub](#github-private-information-removal-policy)
 
 Entendemos que el contenido con derechos de autor, marca registrada o privado puede publicarse en GitHub, ya sea accidentalmente o a propósito, a veces en repositorios que no son de su propiedad. Debido a que la naturaleza de este contenido varía y debido a las diferentes leyes aplicables, cada categoría tiene sus propios requisitos de informes distintos descritos en nuestras políticas.

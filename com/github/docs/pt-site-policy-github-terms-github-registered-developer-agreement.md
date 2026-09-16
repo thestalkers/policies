@@ -27,7 +27,7 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Contrato de desenvolvedor registrado do GitHub](/pt/site-policy/github-terms/github-registered-developer-agreement)
+4. Contrato de desenvolvedor registrado do GitHub
 
 Deslizar o caminho de navegação para a direita
 

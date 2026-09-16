@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-4. [GitHub 이의 제기 및 복원](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+4. GitHub 이의 제기 및 복원
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 이의 제기 및 복원
 ==========
@@ -43,8 +45,11 @@ Markdown으로 복사
 ----------
 
 * [이의 제기 및 복원](#appeal-and-reinstatement)
+
 * [이의 제기 및 복구란 무엇인가요?](#what-are-appeals-and-reinstatements)
+
 * [운영 방식](#how-this-works)
+
 * [투명성](#transparency)
 
 [이의 제기 및 복원](#appeal-and-reinstatement)

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [その他のサイト ポリシー](/ja/site-policy/other-site-policies)
-4. [ユーザー データの司法手続き上の要求に関するガイドライン](/ja/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data)
+4. ユーザー データの司法手続き上の要求に関するガイドライン
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 ユーザー データの司法手続き上の要求に関するガイドライン
 ==========
@@ -43,14 +45,23 @@ Markdown としてコピー
 ----------
 
 * [本ガイドラインの概要](#about-these-guidelines)
+
 * [GitHub の用語](#github-terminology)
+
 * [GitHub.com 上のユーザー データ](#user-data-on-githubcom)
+
 * [当社は、影響を受けるアカウント所有者に通知します](#we-will-notify-any-affected-account-owners)
+
 * [非公開情報の開示](#disclosure-of-non-public-information)
+
 * [費用の払い戻し](#cost-reimbursement)
+
 * [データの保持](#data-preservation)
+
 * [要求の提出](#submitting-requests)
+
 * [外国の法執行機関からの要求](#requests-from-foreign-law-enforcement)
+
 * [質問](#questions)
 
 あなたは、GitHub でホストされているユーザー コンテンツに関連する可能性がある調査を実施する法執行機関の担当者ですか?

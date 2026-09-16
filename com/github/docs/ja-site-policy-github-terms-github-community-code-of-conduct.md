@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub コミュニティの行動規範](/ja/site-policy/github-terms/github-community-code-of-conduct)
+4. GitHub コミュニティの行動規範
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub コミュニティの行動規範
 ==========
@@ -43,10 +45,15 @@ Markdown としてコピー
 ----------
 
 * [概要および目的](#overview-and-purpose)
+
 * [誓約](#pledge)
+
 * [標準](#standards)
+
 * [実施](#enforcement)
+
 * [GitHub スタッフへの連絡](#contacting-github-staff)
+
 * [法定通知](#legal-notices)
 
 [概要および目的](#overview-and-purpose)

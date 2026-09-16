@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-4. [GitHub-Markenrichtlinie](/de/site-policy/content-removal-policies/github-trademark-policy)
+4. GitHub-Markenrichtlinie
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Markenrichtlinie
 ==========
@@ -43,9 +45,13 @@ In diesem Artikel
 ----------
 
 * [Was ist ein Verstoß gegen die GitHub-Markenrichtlinie?](#what-is-a-github-trademark-policy-violation)
+
 * [Was ist kein Verstoß gegen die GitHub-Markenrichtlinie?](#what-is-not-a-github-trademark-policy-violation)
+
 * [Wie reagiert GitHub auf gemeldete Verstöße gegen Markenrichtlinien?](#how-does-github-respond-to-reported-trademark-policy-violations)
+
 * [Wie melde ich einen Verstoß gegen die Markenrichtlinie?](#how-do-i-report-a-trademark-policy-violation)
+
 * [Welche Informationen sind erforderlich, wenn Verstöße gegen die Markenrichtlinie gemeldet werden?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
 [Was ist ein Verstoß gegen die GitHub-Markenrichtlinie?](#what-is-a-github-trademark-policy-violation)

@@ -27,7 +27,7 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [Disrupting the Experience of Other Users](/en/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users)
+4. Disrupting the Experience of Other Users
 
 Scroll breadcrumbs right
 
@@ -37,7 +37,7 @@ Scroll breadcrumbs right
 GitHub Disrupting the Experience of Other Users
 ==========
 
-Copy as Markdown
+Copy markdown
 
 Being part of a community includes recognizing how your behavior affects others and engaging in meaningful and productive interactions with people and the platform they rely on.
 

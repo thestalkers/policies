@@ -26,7 +26,7 @@ Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
-3. [Privacy Policies](/en/site-policy/privacy-policies)
+3. Privacy Policies
 
 Scroll breadcrumbs right
 

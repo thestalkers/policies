@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
-4. [Verhaltenskodex für die GitHub-Community](/de/site-policy/github-terms/github-community-code-of-conduct)
+4. Verhaltenskodex für die GitHub-Community
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Verhaltenskodex für die GitHub-Community
 ==========
@@ -43,10 +45,15 @@ In diesem Artikel
 ----------
 
 * [Überblick und Zweck](#overview-and-purpose)
+
 * [Versprechen](#pledge)
+
 * [Standards](#standards)
+
 * [Durchsetzung](#enforcement)
+
 * [Kontaktaufnahme mit GitHub-Mitarbeitern](#contacting-github-staff)
+
 * [Rechtliche Hinweise](#legal-notices)
 
 [Überblick und Zweck](#overview-and-purpose)

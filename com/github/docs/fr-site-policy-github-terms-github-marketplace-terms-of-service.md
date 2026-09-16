@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Conditions d'utilisation de la place de marché GitHub](/fr/site-policy/github-terms/github-marketplace-terms-of-service)
+4. Conditions d'utilisation de la place de marché GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Conditions d'utilisation de la place de marché GitHub
 ==========
@@ -43,14 +45,23 @@ Dans cet article
 ----------
 
 * [A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
+
 * [B. Conditions d'utilisation](#b-conditions-dutilisation)
+
 * [C. Produits pour développeurs et fournisseurs de produits](#c-developer-products-and-product-providers)
+
 * [D. Paiement, calendrier de facturation et annulation](#d-payment-billing-schedule-and-cancellation)
+
 * [E. Vos données et la politique de confidentialité de GitHub](#e-your-data-and-githubs-privacy-policy)
+
 * [F. Droits sur les produits développés](#f-rights-to-developer-products)
+
 * [G. Mises à jour des produits pour développeurs](#g-updates-to-developer-products)
+
 * [H. Blocage du produit du développeur](#h-developer-product-blocking)
+
 * [I. Avertissement ; limitation de responsabilité ; libération et indemnisation](#i-disclaimer-limitation-of-liability-release-and-indemnification)
+
 * [J. Divers](#j-miscellanea)
 
 Bienvenue sur GitHub Marketplace ("Marketplace ») ! Nous sommes heureux que vous soyez ici. Veuillez lire attentivement ces conditions d'utilisation ("Conditions du marché ») avant d'accéder ou d'utiliser GitHub Marketplace. GitHub Marketplace est une plate-forme qui vous permet de sélectionner des applications ou des actions de développeur (gratuites ou payantes) pouvant être utilisées avec votre compte GitHub.com ("Produits de développement »). Bien qu'offerts par GitHub, Inc. ("GitHub », « nous », « nous »), les Produits développés peuvent être développés et maintenus par GitHub ou par des fournisseurs de logiciels tiers. Votre sélection ou votre utilisation des produits développés est soumise aux présentes conditions du marché et à tous les frais applicables, et peut nécessiter que vous acceptiez des conditions supplémentaires fournies par le concédant de licence tiers de ce produit développé (le « fournisseur de produit »). Votre utilisation de GitHub Models est soumise aux [conditions de GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features).

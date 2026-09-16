@@ -26,7 +26,7 @@ Deslocar a trilha de navegação para a esquerda
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
-3. [Políticas de Segurança](/pt/site-policy/security-policies)
+3. Políticas de Segurança
 
 Deslizar o caminho de navegação para a direita
 

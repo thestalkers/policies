@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de suppression de contenu](/fr/site-policy/content-removal-policies)
-4. [Politique de suppression des informations privées de GitHub](/fr/site-policy/content-removal-policies/github-private-information-removal-policy)
+4. Politique de suppression des informations privées de GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Politique de suppression des informations privées de GitHub
 ==========
@@ -43,10 +45,15 @@ Dans cet article
 ----------
 
 * [Qu'est-ce que les informations privées ?](#quest-ce-que-les-informations-privées)
+
 * [Choses à savoir](#things-to-know)
+
 * [Comment cela fonctionne-t-il réellement ?](#how-does-this-actually-work)
+
 * [Envoi d'une demande de suppression d'informations privées](#envoi-dune-demande-de-suppression-dinformations-privées)
+
 * [Comment soumettre votre demande](#how-to-submit-your-request)
+
 * [Litiges](#disputes)
 
 Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions d'utilisation du service de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies), par exemple lorsque votre sécurité est menacée par des informations d'identification d'accès exposées. Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de suppression d'informations privées d'un référentiel.

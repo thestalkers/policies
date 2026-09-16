@@ -27,7 +27,7 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Términos de GitHub](/es/site-policy/github-terms)
-4. [Acuerdo de desarrollador registrado de GitHub](/es/site-policy/github-terms/github-registered-developer-agreement)
+4. Acuerdo de desarrollador registrado de GitHub
 
 Desplazar las migas de pan hacia la derecha
 

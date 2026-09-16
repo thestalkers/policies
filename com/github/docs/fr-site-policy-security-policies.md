@@ -26,7 +26,7 @@ Faire défiler les barres de navigation vers la gauche
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. [Politiques de Sécurité](/fr/site-policy/security-policies)
+3. Politiques de Sécurité
 
 Faire défiler les barres de navigation vers la droite
 

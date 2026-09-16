@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de Sécurité](/fr/site-policy/security-policies)
-4. [Divulgation coordonnée des vulnérabilités de sécurité](/fr/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities)
+4. Divulgation coordonnée des vulnérabilités de sécurité
 
 Faire défiler les barres de navigation vers la droite
 

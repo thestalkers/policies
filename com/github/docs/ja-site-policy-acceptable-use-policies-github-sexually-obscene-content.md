@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [利用規約](/ja/site-policy/acceptable-use-policies)
-4. [わいせつなコンテンツ](/ja/site-policy/acceptable-use-policies/github-sexually-obscene-content)
+4. わいせつなコンテンツ
 
 階層リンクを右にスクロールする
 

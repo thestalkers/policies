@@ -27,31 +27,43 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
-4. [GitHub Acceptable Use Policies](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)
+4. GitHub Acceptable Use Policies
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Acceptable Use Policies
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [1. Compliance with Laws and Regulations](#1-compliance-with-laws-and-regulations)
+
 * [2. User Safety](#2-user-safety)
+
 * [3. Intellectual Property, Authenticity, and Private Information](#3-intellectual-property-authenticity-and-private-information)
+
 * [4. Spam and Inauthentic Activity on GitHub](#4-spam-and-inauthentic-activity-on-github)
+
 * [5. Site Access and Safety](#5-site-access-and-safety)
+
 * [6. Services Usage Limits](#6-services-usage-limits)
+
 * [7. Information Usage Restrictions](#7-information-usage-restrictions)
+
 * [8. Privacy](#8-privacy)
+
 * [9. Excessive Bandwidth Use](#9-excessive-bandwidth-use)
+
 * [10. Advertising on GitHub](#10-advertising-on-github)
+
 * [11. User Protection](#11-user-protection)
 
 **Short version:** *We host a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the Service, you must comply with our Acceptable Use Policies, which include some restrictions on content and conduct on GitHub related to user safety, intellectual property, privacy, authenticity, and other limitations. In short, be excellent to each other.*

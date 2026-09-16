@@ -27,7 +27,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [사용 제한 정책](/ko/site-policy/acceptable-use-policies)
-4. [따돌림 및 괴롭힘 방지 정책](/ko/site-policy/acceptable-use-policies/github-bullying-and-harassment)
+4. 따돌림 및 괴롭힘 방지 정책
 
 이동 경로를 오른쪽으로 스크롤
 

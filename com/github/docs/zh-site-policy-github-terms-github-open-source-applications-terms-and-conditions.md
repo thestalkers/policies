@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 开源应用程序条款和条件](/zh/site-policy/github-terms/github-open-source-applications-terms-and-conditions)
+4. GitHub 开源应用程序条款和条件
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 开源应用程序条款和条件
 ==========
@@ -43,10 +45,15 @@ GitHub 开源应用程序条款和条件
 ----------
 
 * [连接到 GitHub](#connecting-to-github)
+
 * [开源许可和声明](#open-source-licenses-and-notices)
+
 * [GitHub 徽标](#githubs-logos)
+
 * [隐私](#privacy)
+
 * [其他服务](#additional-services)
+
 * [其他](#miscellanea)
 
 这些 GitHub 开源应用程序条款和条件（“应用程序条款”）是您（作为个人或代表实体）与 GitHub, Inc. 之间关于您使用诸如 GitHub Desktop™ 等 GitHub 应用程序及相关文档（“软件”）的法律协议。 这些应用程序条款适用于软件的可执行代码版本。 软件源代码根据开源软件许可协议单独免费提供。 如果您不同意这些应用程序条款中的所有条款，请不要下载、安装、使用或复制软件。

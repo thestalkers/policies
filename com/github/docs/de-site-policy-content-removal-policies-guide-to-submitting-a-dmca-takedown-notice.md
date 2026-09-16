@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zum Entfernen von Inhalten](/de/site-policy/content-removal-policies)
-4. [Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung](/de/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice)
+4. Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung
 ==========
@@ -43,8 +45,11 @@ In diesem Artikel
 ----------
 
 * [Bevor du anfängst](#before-you-start)
+
 * [Ihre Beschwerde muss...](#your-complaint-must-)
+
 * [Beschwerden über Antiumgehungstechnologie](#complaints-about-anti-circumvention-technology)
+
 * [So reichen Sie Ihre Beschwerde ein](#how-to-submit-your-complaint)
 
 Dieser Leitfaden beschreibt die Informationen, die GitHub benötigt, um eine DMCA-Takedown-Anfrage zu bearbeiten. Wenn Sie allgemeinere Fragen dazu haben, was der DMCA ist oder wie GitHub DMCA-Takedown-Anträge bearbeitet, lesen Sie bitte unsere [Richtlinie zu DMCA-Takedowns](/de/site-policy/content-removal-policies/dmca-takedown-policy).

@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub のサービス使用条件](/ja/site-policy/github-terms/github-terms-of-service)
+4. GitHub のサービス使用条件
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub のサービス使用条件
 ==========
@@ -43,25 +45,45 @@ Markdown としてコピー
 ----------
 
 * [概要](#summary)
+
 * [GitHub のサービス使用条件](#the-github-terms-of-service)
+
 * [A. 定義](#a-definitions)
+
 * [B. アカウント利用条件](#b-account-terms)
+
 * [C. 許可される使用](#c-acceptable-use)
+
 * [D. ユーザー生成コンテンツ](#d-user-generated-content)
+
 * [E. プライベート リポジトリ](#e-private-repositories)
+
 * [F. 著作権侵害と DMCA ポリシー](#f-copyright-infringement-and-dmca-policy)
+
 * [G. 知的財産権に関する通知](#g-intellectual-property-notice)
+
 * [H. API 規約](#h-api-terms)
+
 * [I. GitHub の追加の本製品使用条件](#i-github-additional-product-terms)
+
 * [J. AI の機能、トレーニング、データ](#j-ai-features-training-and-your-data)
+
 * [K. ベータ プレビュー](#k-beta-previews)
+
 * [L. 支払い](#l-payment)
+
 * [M. 解約および終了](#m-cancellation-and-termination)
+
 * [N. GitHub との連絡](#n-communications-with-github)
+
 * [O. 保証の免責事項](#o-disclaimer-of-warranties)
+
 * [P. 責任制限](#p-limitation-of-liability)
+
 * [Q. 免責および補償](#q-release-and-indemnification)
+
 * [R. 本条件の変更](#r-changes-to-these-terms)
+
 * [S. 雑則](#s-miscellaneous)
 
 GitHub をご利用いただきありがとうございます。 ご利用いただきありがとうございます。 GitHub にアクセスまたは使用する前に、本サービス契約の条件をよくお読みください。 これは当社とユーザーの間の非常に重要な契約であるため、当社は努めて可能な限り明確にしました。 お客様の便宜のため、最初に本条件の拘束力のない要約を、次に法的条件の全文を示しています。

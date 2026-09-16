@@ -27,27 +27,35 @@ Scroll breadcrumbs left
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Company Policies](/en/site-policy/github-company-policies)
-4. [GitHub Statement Against Modern Slavery and Child Labor](/en/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+4. GitHub Statement Against Modern Slavery and Child Labor
 
 Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
 
+In this article
+
 GitHub Statement Against Modern Slavery and Child Labor
 ==========
 
-Copy as Markdown
+Copy markdown
 
 In this article
 ----------
 
 * [GitHub's structure, business, and supply chains](#githubs-structure-business-and-supply-chains)
+
 * [Policies in relation to modern slavery and child labor](#policies-in-relation-to-modern-slavery-and-child-labor)
+
 * [Labor laws and practices](#labor-laws-and-practices)
+
 * [Due diligence processes in relation to modern slavery and child labor in its business and supply chains](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
+
 * [Places in GitHub's business and supply chains where there is a risk of modern slavery and child labor, and steps GitHub has taken to assess and manage that risk](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
+
 * [Effectiveness in ensuring neither modern slavery nor child labor is occurring in GitHub's business or supply chains](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
+
 * [Training for GitHub staff about modern slavery and human trafficking](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *2018 statement*

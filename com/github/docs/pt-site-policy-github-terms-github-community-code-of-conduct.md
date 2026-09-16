@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Código de conduta da comunidade do GitHub](/pt/site-policy/github-terms/github-community-code-of-conduct)
+4. Código de conduta da comunidade do GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Código de conduta da comunidade do GitHub
 ==========
@@ -43,10 +45,15 @@ Neste artigo
 ----------
 
 * [Visão geral e propósito](#overview-and-purpose)
+
 * [Juramento](#pledge)
+
 * [Padrões](#standards)
+
 * [Imposição](#enforcement)
+
 * [Entrando em contato com a equipe do GitHub](#contacting-github-staff)
+
 * [Noticias legais](#legal-notices)
 
 [Visão geral e propósito](#overview-and-purpose)

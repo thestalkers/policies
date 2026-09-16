@@ -27,7 +27,7 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
-4. [Compromiso de cooperación de GitHub GPL](/es/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+4. Compromiso de cooperación de GitHub GPL
 
 Desplazar las migas de pan hacia la derecha
 

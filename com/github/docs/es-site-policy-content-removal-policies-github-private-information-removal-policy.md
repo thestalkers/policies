@@ -27,12 +27,14 @@ Desplazar las migas de pan a la izquierda
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de eliminación de contenido](/es/site-policy/content-removal-policies)
-4. [Política de eliminación de información privada de GitHub](/es/site-policy/content-removal-policies/github-private-information-removal-policy)
+4. Política de eliminación de información privada de GitHub
 
 Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------
+
+En este artículo
 
 Política de eliminación de información privada de GitHub
 ==========
@@ -43,10 +45,15 @@ En este artículo
 ----------
 
 * [¿Qué es la información privada?](#what-is-private-information)
+
 * [Cosas que saber](#things-to-know)
+
 * [¿Cómo funciona esto realmente?](#how-does-this-actually-work)
+
 * [Envío de una solicitud de eliminación de información privada](#sending-a-private-information-removal-request)
+
 * [Cómo enviar su solicitud](#how-to-submit-your-request)
+
 * [Disputas](#disputes)
 
 Ofrecemos este proceso de eliminación de información privada como un servicio excepcional sólo para contenido de alto riesgo que infrinja los [Términos de Servicio de GitHub](/es/site-policy/acceptable-use-policies/github-acceptable-use-policies), como cuando su seguridad está en riesgo por la exposición de las credenciales de acceso. Esta guía describe la información que GitHub necesita de usted para procesar una solicitud para eliminar información privada de un repositorio.

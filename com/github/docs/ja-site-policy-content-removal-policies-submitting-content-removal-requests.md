@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [コンテンツ削除ポリシー](/ja/site-policy/content-removal-policies)
-4. [コンテンツ削除要求の提出](/ja/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. コンテンツ削除要求の提出
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 コンテンツ削除要求の提出
 ==========
@@ -43,7 +45,9 @@ Markdown としてコピー
 ----------
 
 * [DMCA 削除ポリシー](#dmca-takedown-policy)
+
 * [GitHub の商標ポリシー](#github-trademark-policy)
+
 * [GitHub の個人情報削除ポリシー](#github-private-information-removal-policy)
 
 当社は、著作権のあるコンテンツ、商標登録されたコンテンツ、または個人的なコンテンツが、偶然または故意に GitHub で (場合によってはお客様が所有していないリポジトリに) 公開される場合があることを理解しています。 こうしたコンテンツの性質はさまざまであり、適用法も異なるため、各カテゴリには独自の明確な報告要件があり、これは当社のポリシーに記載されています。

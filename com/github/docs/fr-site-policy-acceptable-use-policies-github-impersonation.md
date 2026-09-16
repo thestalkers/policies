@@ -27,7 +27,7 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Règles de Bon Usage](/fr/site-policy/acceptable-use-policies)
-4. [Usurpation d'identité](/fr/site-policy/acceptable-use-policies/github-impersonation)
+4. Usurpation d'identité
 
 Faire défiler les barres de navigation vers la droite
 

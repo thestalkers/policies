@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Termos do GitHub](/pt/site-policy/github-terms)
-4. [Termos do Programa de Pesquisa GitHub](/pt/site-policy/github-terms/github-research-program-terms)
+4. Termos do Programa de Pesquisa GitHub
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Termos do Programa de Pesquisa GitHub
 ==========
@@ -43,12 +45,19 @@ Neste artigo
 ----------
 
 * [R. Seu feedback](#a-your-feedback)
+
 * [B. Confidencialidade](#b-confidentiality)
+
 * [C. Reserva de direitos](#c-reservation-of-rights)
+
 * [D. Privacidade](#d-privacy)
+
 * [E. Termos de Serviços e Software do GitHub](#e-github-services-and-software-terms)
+
 * [F. Isenção de garantias](#f-disclaimer-of-warranties)
+
 * [G. Limitação de responsabilidade.](#g-limitation-of-liability)
+
 * [H. Disposições Gerais](#h-miscellaneous)
 
 Bem-vindo ao Programa de Pesquisa do GitHub (o "Programa")! Para participar, precisamos que você concorde com um conjunto especial de termos, o Contrato do Programa de Pesquisa do GitHub ("Contrato").

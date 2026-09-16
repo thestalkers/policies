@@ -27,12 +27,14 @@ Faire défiler les barres de navigation vers la gauche
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Termes GitHub](/fr/site-policy/github-terms)
-4. [Directives de la communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)
+4. Directives de la communauté GitHub
 
 Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
+
+Dans cet article
 
 Directives de la communauté GitHub
 ==========
@@ -43,9 +45,13 @@ Dans cet article
 ----------
 
 * [Maintenir une communauté forte](#maintaining-a-strong-community)
+
 * [Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
+
 * [Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
+
 * [Appel et rétablissement](#appeal-and-reinstatement)
+
 * [Mentions légales](#legal-notices)
 
 Des millions de développeurs à travers le monde hébergent des millions de projets, à la fois open source et fermés, sur GitHub. Nous avons la chance de pouvoir jouer un rôle dans la collaboration quotidienne au sein de la communauté des développeurs, une responsabilité que nous ne prenons pas à la légère. Ensemble, nous avons tous la formidable opportunité d'en faire une communauté dont nous pouvons être fiers.

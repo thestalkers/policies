@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Политики безопасности](/ru/site-policy/security-policies)
-4. [Программа GitHub Bug Bounty Legal Safe Harbour](/ru/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+4. Программа GitHub Bug Bounty Legal Safe Harbour
 
 Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------
+
+В этой статье
 
 Программа GitHub Bug Bounty Legal Safe Harbour
 ==========
@@ -43,8 +45,11 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 ----------
 
 * [Сводная информация](#summary)
+
 * [1. Условия «безопасной гавани»](#1-safe-harbor-terms)
+
 * [2. «Безопасная гавань» третьей стороны](#2-third-party-safe-harbor)
+
 * [3. Ограниченный отказ от других политик сайта](#3-limited-waiver-of-other-site-policies)
 
 [Сводная информация](#summary)

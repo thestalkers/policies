@@ -27,12 +27,14 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Andere Website-Richtlinien](/de/site-policy/other-site-policies)
-4. [GitHub-Richtlinie für Benutzernamen](/de/site-policy/other-site-policies/github-username-policy)
+4. GitHub-Richtlinie für Benutzernamen
 
 Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------
+
+In diesem Artikel
 
 GitHub-Richtlinie für Benutzernamen
 ==========
@@ -43,7 +45,9 @@ In diesem Artikel
 ----------
 
 * [Was ist, wenn der gewünschte Benutzername bereits vergeben ist?](#what-if-the-username-i-want-is-already-taken)
+
 * [Markenrichtlinie](#trademark-policy)
+
 * [Namensbesetzungsrichtlinie](#name-squatting-policy)
 
 GitHub-Kontonamen sind nach dem Prinzip „Wer zuerst kommt, mahlt zuerst“ verfügbar und sind für die sofortige und aktive Nutzung vorgesehen.

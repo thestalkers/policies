@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [GitHub 条款](/zh/site-policy/github-terms)
-4. [GitHub 社区行为准则](/zh/site-policy/github-terms/github-community-code-of-conduct)
+4. GitHub 社区行为准则
 
 向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
+
+在本文中
 
 GitHub 社区行为准则
 ==========
@@ -43,10 +45,15 @@ GitHub 社区行为准则
 ----------
 
 * [概述和宗旨](#overview-and-purpose)
+
 * [承诺](#pledge)
+
 * [标准](#standards)
+
 * [执行](#enforcement)
+
 * [联系 GitHub 工作人员](#contacting-github-staff)
+
 * [法律声明](#legal-notices)
 
 [概述和宗旨](#overview-and-purpose)

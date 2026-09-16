@@ -27,12 +27,14 @@ Deslocar a trilha de navegação para a esquerda
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de remoção de conteúdo](/pt/site-policy/content-removal-policies)
-4. [Como enviar solicitações de remoção de conteúdo](/pt/site-policy/content-removal-policies/submitting-content-removal-requests)
+4. Como enviar solicitações de remoção de conteúdo
 
 Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------
+
+Neste artigo
 
 Como enviar solicitações de remoção de conteúdo
 ==========
@@ -43,7 +45,9 @@ Neste artigo
 ----------
 
 * [Política de remoção de DMCA](#dmca-takedown-policy)
+
 * [Política de marca registrada do GitHub](#github-trademark-policy)
+
 * [Política de remoção de informações privadas do GitHub](#github-private-information-removal-policy)
 
 Entendemos que conteúdo protegido por direitos autorais, marca registrada ou privado pode ser publicado no GitHub – acidentalmente ou de propósito – às vezes em repositórios que você não possui. Como a natureza desse conteúdo varia e devido às diferentes leis aplicáveis, cada categoria tem seus próprios requisitos de relatórios distintos descritos em nossas políticas.

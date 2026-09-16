@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
-4. [GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
+4. GitHub コミュニティ ガイドライン
 
 階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
+
+この記事で
 
 GitHub コミュニティ ガイドライン
 ==========
@@ -43,9 +45,13 @@ Markdown としてコピー
 ----------
 
 * [強力なコミュニティの維持](#maintaining-a-strong-community)
+
 * [何かまたは何ものかがお客様の感情を害した場合](#what-if-something-or-someone-offends-you)
+
 * [何ものかが GitHub のポリシーに違反した場合](#what-happens-if-someone-violates-githubs-policies)
+
 * [異議申し立ておよび復活](#appeal-and-reinstatement)
+
 * [法定通知](#legal-notices)
 
 世界中の何百万人もの開発者が、GitHub で何百万ものプロジェクト (オープン ソースとクローズド ソースの両方) をホストしています。 当社は、開発者コミュニティの日々のコラボレーションに貢献できて幸いに思います。これは軽々しく考えてはならない当社の責任です。 同時に、当社には誇りに思うことができるこのコミュニティを実現するための絶好の機会があります。

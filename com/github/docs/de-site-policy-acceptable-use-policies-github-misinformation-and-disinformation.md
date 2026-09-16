@@ -27,7 +27,7 @@ Breadcrumbs nach links scrollen
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
-4. [Richtlinie zu Desinformation](/de/site-policy/acceptable-use-policies/github-misinformation-and-disinformation)
+4. Richtlinie zu Desinformation
 
 Breadcrumbs nach rechts scrollen
 

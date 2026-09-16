@@ -26,7 +26,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
-3. [콘텐츠 제거 정책](/ko/site-policy/content-removal-policies)
+3. 콘텐츠 제거 정책
 
 이동 경로를 오른쪽으로 스크롤
 

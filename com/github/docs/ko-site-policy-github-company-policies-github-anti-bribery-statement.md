@@ -27,12 +27,14 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 회사 정책](/ko/site-policy/github-company-policies)
-4. [GitHub 뇌물 방지 방침](/ko/site-policy/github-company-policies/github-anti-bribery-statement)
+4. GitHub 뇌물 방지 방침
 
 이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
+
+이 기사에서
 
 GitHub 뇌물 방지 방침
 ==========
@@ -43,7 +45,9 @@ Markdown으로 복사
 ----------
 
 * [GitHub 뇌물 방지 정책](#github-policies-prohibiting-bribery)
+
 * [당사 직원에 대한 교육](#training-for-our-employees)
+
 * [당사 파트너의 참여](#engaging-our-partners)
 
 GitHub는 뇌물 및 부패 금지를 포함한 제반 조치를 통해 윤리적인 업무 관행을 준수하려는 당사의 약속을 지지합니다. [국제투명성기구](https://www.transparency.org/what-is-corruption)에서 설명하는 것처럼 부패 비용은 다음과 같은 범주로 구분됩니다.
