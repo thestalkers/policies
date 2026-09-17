@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub GPL 合作承诺
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 本承诺适用于 GitHub 对 Git、Linux 内核以及涵盖许可（具体定义请滚动到最后的定义部分）下其他程序的贡献。
 

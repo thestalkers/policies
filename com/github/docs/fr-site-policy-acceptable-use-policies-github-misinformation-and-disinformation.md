@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Désinformation et désinformation GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Vous ne pouvez pas publier de contenu qui présente une vision déformée de la réalité, qu'il soit inexact ou faux (désinformation) ou intentionnellement trompeur (désinformation), lorsque ce contenu est susceptible de porter préjudice au public ou d'interférer avec des opportunités justes et égales. pour tous de participer à une société libre et ouverte. Cela peut inclure :
 

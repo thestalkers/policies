@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 조정된 보안 취약점 공개
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 당사는 모두에게 안전한 GitHub를 유지하고자 합니다. GitHub에서 보안 취약점을 발견한 경우, 이를 조정된 방식으로 공개해주시면 고맙겠습니다.
 

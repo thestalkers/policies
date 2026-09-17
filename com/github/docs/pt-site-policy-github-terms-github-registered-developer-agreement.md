@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Contrato de desenvolvedor registrado do GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 O GitHub tem a sorte de ter muitos desenvolvedores se integrando à nossa plataforma. Achamos isso incrível e queremos tornar essa experiência ainda melhor. O Programa de Desenvolvedor do GitHub (o "Programa") nos ajuda a nos conectar com você, compartilhar informações com você e apoiar seus esforços criativos melhor do que nunca. O relacionamento especial entre o GitHub e a comunidade de desenvolvedores que o Programa cria requer um conjunto especial de termos. Bem-vindo ao Contrato de Desenvolvedor Registrado ("Contrato").
 

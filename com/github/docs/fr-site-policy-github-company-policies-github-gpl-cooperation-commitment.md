@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Engagement de coopération GitHub GPL
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Cet engagement concerne les contributions de GitHub à Git, au noyau Linux et à d'autres programmes sous licences couvertes (faites défiler jusqu'à la fin pour les définitions).
 

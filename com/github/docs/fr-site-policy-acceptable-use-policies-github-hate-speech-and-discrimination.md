@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 GitHub Discours de haine et discrimination
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 GitHub ne tolère pas les discours qui attaquent ou encouragent la haine envers un individu ou un groupe de personnes sur la base de qui ils sont, y compris l'âge, la taille, la capacité, l'origine ethnique, l'identité et l'expression de genre, le niveau d'expérience, la nationalité, l'apparence personnelle, la race, la religion, l'identité sexuelle ou l'orientation sexuelle. Cela inclut :
 

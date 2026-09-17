@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 다른 사용자의 경험을 방해하는 GitHub
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 커뮤니티의 일원이 된다는 것은 귀하의 행동이 다른 사람들에게 어떻게 영향을 미치는지 인식하고 사람들은 물론, 그들이 의존하는 플랫폼과 의미 있고 생산적인 상호 작용에 참여하는 것을 포함합니다.
 

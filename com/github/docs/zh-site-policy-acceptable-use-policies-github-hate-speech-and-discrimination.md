@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 仇恨言论和歧视
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 GitHub 不容忍基于个人或群体的特征（包括年龄、体型、能力、民族、性别认同和表达、经验水平、国籍、个人外表、种族、宗教、性身份或性取向）攻击或宣扬对个人或群体的仇恨言论。 其中包括：
 

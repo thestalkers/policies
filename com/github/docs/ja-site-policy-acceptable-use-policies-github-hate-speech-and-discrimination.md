@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub での憎悪の言葉と差別
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 GitHub は、年齢、体格、能力、民族、性同一性、性表現、経験の程度、国籍、容姿、人種、宗教、性アイデンティティ、性的指向などに基づいて、個人またはグループに対して攻撃したり憎悪を助長したりする言葉を容認しません。 これには、次のものが含まれます。
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub のわいせつなコンテンツ
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 当社は、[未成年者が関与する](/ja/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)場合を含め、他者の性的な搾取または虐待に関連するコンテンツを許容しません。 特に、当該コンテンツがプロファイルまたは他のソーシャル コンテンツに配置されたことにより増幅される場合、性的または衝撃的反応を誘う以外にほとんどまたは全く目的を持たない、性をテーマとしたり連想させたりするコンテンツを許容しません。 これには、次のものが含まれます。
 

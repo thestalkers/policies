@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Divulgación coordinada de vulnerabilidades de seguridad
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Queremos mantener GitHub seguro para todos. Si ha descubierto una vulnerabilidad de seguridad en GitHub, apreciamos su ayuda para comunicárnosla de manera coordinada.
 

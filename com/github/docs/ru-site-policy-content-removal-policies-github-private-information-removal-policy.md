@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Свернуть боковую панельРазвернуть боковую панель
 
 Прокрутите панели навигации слева
@@ -39,7 +41,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 Политика удаления личной информации GitHub
 ==========
 
-Копировать как Markdown
+Копирование markdown
 
 В этой статье
 ----------

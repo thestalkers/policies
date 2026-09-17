@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Свернуть боковую панельРазвернуть боковую панель
 
 Прокрутите панели навигации слева
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub Doxxing и вторжение в частную жизнь
 ==========
 
-Копировать как Markdown
+Копирование markdown
 
 Не публикуйте личную информацию других людей. Сюда входит следующее:
 

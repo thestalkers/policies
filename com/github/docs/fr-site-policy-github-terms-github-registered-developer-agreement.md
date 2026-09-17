@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Contrat de développeur enregistré GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 GitHub a la chance d'avoir de nombreux développeurs qui s'intègrent à notre plateforme. Nous pensons que c’est génial, et nous voulons rendre cette expérience encore meilleure. Le programme pour développeurs de GitHub (le « programme ») nous aide à nous connecter avec vous, à partager des informations avec vous et à soutenir vos efforts créatifs mieux que jamais. La relation spéciale entre GitHub et la communauté des développeurs que le Programme crée nécessite un ensemble de conditions particulières. Bienvenue dans le Contrat de développeur enregistré ("Contrat »).
 

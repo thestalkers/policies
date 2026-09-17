@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -39,7 +41,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 사용 제한 정책
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 이 기사에서
 ----------

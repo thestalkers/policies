@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub の死亡ユーザー ポリシー
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 GitHub ユーザーが死亡した場合、当社は、権限を与えられた人と協力してそのアカウントのコンテンツをどうするかを判断します。
 

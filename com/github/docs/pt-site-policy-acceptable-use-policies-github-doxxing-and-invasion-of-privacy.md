@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 GitHub Doxxing e invasão de privacidade
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Não publique informações pessoais de outras pessoas. Isso inclui:
 

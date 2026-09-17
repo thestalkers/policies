@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Свернуть боковую панельРазвернуть боковую панель
 
 Прокрутите панели навигации слева
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 Политика логотипа GitHub
 ==========
 
-Копировать как Markdown
+Копирование markdown
 
 Вы можете добавить GitHub логотипы на ваш веб-сайт или стороннее приложение в некоторых сценариях. Для получения дополнительной информации и конкретных рекомендаций по использованию логотипа см. Страницу логотипов и использования [GitHub](https://github.com/logos).
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 혐오 발언 및 차별 금지 방침
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 GitHub는 연령, 체구, 능력, 민족성, 젠더 정체성 및 표현, 경력(경험 수준), 국적, 외모, 인종, 종교, 성 정체성 또는 성적 지향 등 정체성을 근거로 하여 개인 또는 집단을 공격하거나 그들을 대상으로 증오심을 조장하는 발언을 용납하지 않습니다. 여기에는
 

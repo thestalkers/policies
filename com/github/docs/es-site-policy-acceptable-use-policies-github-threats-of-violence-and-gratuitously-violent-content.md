@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 GitHub Amenazas de violencia y contenido violento gratuito
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No puede usar GitHub para organizar, promover, alentar, amenazar o incitar a actos de violencia. No puede publicar contenido que represente o glorifique la violencia o el daño físico contra seres humanos o animales. Esto incluye:
 

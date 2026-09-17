@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Politique relative aux logos GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Vous pouvez, dans certains cas, ajouter des logos GitHub à votre site Web ou à une application tierce. Pour en savoir plus et recevoir des directives spécifiques sur l'utilisation des logos, consultez la [page Utilisation des logos de GitHub](https://github.com/logos).
 

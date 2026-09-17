@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -39,7 +41,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub の腐敗防止に関する声明
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 この記事で
 ----------

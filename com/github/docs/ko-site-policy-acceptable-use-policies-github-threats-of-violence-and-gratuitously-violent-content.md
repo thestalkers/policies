@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 폭력의 위협 및 불필요하게 폭력적인 콘텐츠
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 폭력 행위를 조직, 조장, 장려, 위협 또는 선동하는 데 GitHub를 사용해서는 안 됩니다. 인간 또는 동물을 상대로 한 폭력 또는 신체적 위해를 묘사하거나 미화하는 콘텐츠를 게시해서는 안 됩니다. 여기에는
 

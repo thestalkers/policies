@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 セキュリティ脆弱性の協調的開示
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 私たちは、GitHub をすべての人にとって安全であるよう保ちたいと願っています。 GitHub でセキュリティ上の脆弱性を発見した場合は、協調的な方法で当社に開示するためのご協力をいただければ幸いです。
 

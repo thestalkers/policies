@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 徽标政策
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 在某些情况下，您可以将 GitHub 徽标添加到您的网站或第三方应用程序中。 有关徽标使用的更多信息和具体指南，请参阅 [GitHub 徽标和使用页面](https://github.com/logos)。
 

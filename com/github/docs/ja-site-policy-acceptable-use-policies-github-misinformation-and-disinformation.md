@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub の誤報と偽情報
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 不正確であるか虚偽 (誤報) であるか、故意に欺瞞的 (偽情報) であるかにかかわらず、現実の歪曲された見方を提示するコンテンツを投稿してはなりません。そのようなコンテンツは、一般に害を及ぼすか、自由で開かれた社会に参加するすべての人の公平で平等な機会を妨げる可能性があります。 これには以下が含まれます。
 

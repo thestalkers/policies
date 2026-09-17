@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 사망 사용자 정책
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 GitHub 사용자가 사망한 경우, 허가를 받은 개인과 협력하여 해당 계정의 콘텐츠에 어떤 일이 발생하는지 판정할 수 있습니다.
 

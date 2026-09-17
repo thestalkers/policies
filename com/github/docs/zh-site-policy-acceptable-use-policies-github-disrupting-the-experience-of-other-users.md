@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 在 GitHub 上扰乱其他用户的体验
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 成为社区的一部分包括认识到您的行为如何影响他人，并与他人及其依赖的平台进行有意义和富有成效的互动。
 

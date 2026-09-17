@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Collapse sidebarExpand sidebar
 
 Scroll breadcrumbs left
@@ -72,7 +74,7 @@ In this article
 
 * [SQL Server Images](#sql-server-images)
 
-Version Effective Date: April 27, 2026
+Version Effective Date: August 27, 2026
 
 When you use GitHub, you may be given access to lots of additional products and features ("Additional Products and Features"). Because many of the Additional Products and Features offer different functionality, your Agreement with us (the "Agreement") includes the specific terms for that product or feature combined with your main agreement — the GitHub Terms of Service or GitHub Customer Agreement, or the GitHub Corporate Terms of Service or other legacy GitHub contract, or a Microsoft volume licensing agreement. Below, we've listed those products and features, along with the corresponding additional terms that apply to your use of them.
 
@@ -169,7 +171,9 @@ With GitHub Connect, you can share certain features and data between your GitHub
 [GitHub Copilot](#github-copilot)
 ----------
 
-For GitHub Copilot Business and Copilot Enterprise license holders, your use of GitHub Copilot is governed by the [GitHub Copilot Product Specific Terms](https://github.com/customer-terms/github-copilot-product-specific-terms).
+For GitHub Copilot Business and Copilot Enterprise license holders who purchase directly from GitHub, your use of GitHub Copilot is governed by the [GitHub Generative AI Services Terms](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+If you purchase through Microsoft, your use of GitHub Copilot is governed by [Microsoft's Product Terms](https://www.microsoft.com/licensing/terms).
 
 For all other GitHub Copilot users, your use of GitHub Copilot is governed by [Section J (AI Features) of the GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub での他のユーザー エクスペリエンスの妨害
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 コミュニティの一員であることには、お客様の行為が他者に与える影響を認識し、他者やその依存するプラットフォームで有意義で生産的なやり取りを行うことが含まれます。
 

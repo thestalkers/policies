@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 上的欺凌和骚扰
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 我们不容忍任何形式的骚扰、欺凌或虐待，无论是直接还是鼓励他人参与违禁行为。 其中包括：
 

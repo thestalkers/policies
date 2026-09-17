@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Divulgação coordenada de vulnerabilidades de segurança
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Queremos manter o GitHub seguro para todos. Se você descobriu uma vulnerabilidade de segurança no GitHub, agradecemos sua ajuda em divulgá-la para nós de maneira coordenada.
 

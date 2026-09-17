@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 协调披露安全漏洞
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 我们希望每个人都能安全地使用 GitHub。 当您发现 GitHub 中的安全漏洞时，如果您能以协调一致的方式向我们披露，我们将深表感谢。
 

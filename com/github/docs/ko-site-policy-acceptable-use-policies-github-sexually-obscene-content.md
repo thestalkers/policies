@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 외설적 콘텐츠
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 GitHub는 [미성년자가 관련된 경우](/ko/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse)를 포함하여 다른 개인에 대한 성 착취 또는 학대와 관련된 콘텐츠를 용인하지 않습니다. GitHub는 성욕을 자극하거나 충격적인 반응을 부추기는 것 외에는 목적이 없거나 거의 없는 성적 주제를 다루거나 성적으로 도발적인 콘텐츠를 허용하지 않으며, 특히 이 콘텐츠가 프로필 또는 기타 소셜 컨텍스트에 배치되어 증폭되는 경우를 허용하지 않습니다. 여기에는
 

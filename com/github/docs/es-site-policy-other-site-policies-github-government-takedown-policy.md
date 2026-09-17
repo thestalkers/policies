@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -39,7 +41,7 @@ En este artículo
 Política de eliminación del gobierno de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 En este artículo
 ----------

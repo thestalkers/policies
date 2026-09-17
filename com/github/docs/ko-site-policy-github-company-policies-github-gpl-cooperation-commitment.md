@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub GPL 협력 약정
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 이 약정은 Git, Linux 커널 및 그 외 적용 라이선스에 따른 프로그램에 대한 GitHub 기여와 관련이 있습니다(정의를 보려면 끝까지 스크롤할 것).
 

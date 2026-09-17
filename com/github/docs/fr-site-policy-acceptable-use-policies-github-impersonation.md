@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Usurpation d'identité GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Vous ne pouvez pas déformer votre identité ou votre association avec une autre personne ou organisation. Cela comprend faire l'une des choses suivantes d'une manière qui induit en erreur ou trompe les autres :
 

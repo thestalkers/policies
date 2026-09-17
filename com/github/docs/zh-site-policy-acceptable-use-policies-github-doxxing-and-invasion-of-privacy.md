@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 在 GitHub 上进行人肉搜索和侵犯隐私
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 不要发布他人的个人信息。 其中包括：
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Informação falsa e desinformação no GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Você não pode postar conteúdo que apresente uma visão distorcida da realidade, seja imprecisa ou falsa ou intencionalmente enganosa (desinformação), onde tal conteúdo possa resultar em danos ao público ou interferir em oportunidades justas e iguais para que todos participem de uma sociedade livre e aberta. Isso pode incluir:
 

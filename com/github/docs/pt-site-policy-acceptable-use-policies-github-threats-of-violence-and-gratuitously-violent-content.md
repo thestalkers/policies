@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Ameaças do GitHub de violência e conteúdo violento gratuito
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Você não pode usar o GitHub para organizar, promover, encorajar, ameaçar ou incitar atos de violência. Você não pode postar conteúdo que descreva ou glorifique violência ou dano físico contra seres humanos ou animais. Isso inclui:
 

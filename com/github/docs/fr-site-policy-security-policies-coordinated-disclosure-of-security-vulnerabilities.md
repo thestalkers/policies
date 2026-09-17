@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Divulgation coordonnée des vulnérabilités de sécurité
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Nous voulons garder GitHub sûr pour tout le monde. Si vous avez découvert une faille de sécurité dans GitHub, nous apprécions votre aide pour nous la divulguer de manière coordonnée.
 

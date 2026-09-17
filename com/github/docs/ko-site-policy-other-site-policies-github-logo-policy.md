@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 로고 정책
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 일부 시나리오에서는 귀사의 웹 사이트 또는 제3자 애플리케이션에 GitHub 로고를 추가할 수 있습니다. 로고 사용에 대한 자세한 내용 및 구체적인 지침은 [GitHub 로고 및 사용 페이지](https://github.com/logos)를 참조하세요.
 

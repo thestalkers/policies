@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Свернуть боковую панельРазвернуть боковую панель
 
 Прокрутите панели навигации слева
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 Скоординированное раскрытие уязвимостей безопасности
 ==========
 
-Копировать как Markdown
+Копирование markdown
 
 Мы хотим, чтобы GitHub был безопасным для всех. Если вы обнаружили уязвимость безопасности в GitHub, мы будем признательны за вашу помощь в скоординированном раскрытии ее нам.
 

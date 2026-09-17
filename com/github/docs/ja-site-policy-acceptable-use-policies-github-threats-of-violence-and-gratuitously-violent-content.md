@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub の暴力の脅威と根拠のない暴力的コンテンツ
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 GitHub を使用して、暴力行為の組織化、推進、奨励、脅迫、または扇動を行うことはできません。 人や動物に対する暴力または身体的危害を表現または美化するコンテンツを投稿することはできません。 これには、次のものが含まれます。
 

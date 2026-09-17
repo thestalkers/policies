@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 GitHub interrumpiendo la experiencia de otros usuarios
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Ser parte de una comunidad incluye reconocer cómo su comportamiento afecta a los demás y participar en interacciones significativas y productivas con las personas y la plataforma en la que confían.
 

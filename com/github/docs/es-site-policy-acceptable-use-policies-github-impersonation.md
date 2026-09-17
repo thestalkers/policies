@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Suplantación de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No puede tergiversar su identidad o su asociación con otra persona u organización. Esto incluye hacer cualquiera de las siguientes cosas de una manera que induzca a error o engañe a otros:
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Acuerdo de desarrollador registrado de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 GitHub tiene la suerte de tener muchos desarrolladores que se integran con nuestra plataforma. Creemos que es increíble y queremos que esa experiencia sea aún mejor. El Programa para desarrolladores de GitHub (el "Programa") nos ayuda a conectarnos con usted, compartir información con usted y respaldar sus esfuerzos creativos mejor que nunca. La relación especial entre GitHub y la comunidad de desarrolladores que crea el Programa requiere un conjunto especial de términos. Bienvenido al Acuerdo de desarrollador registrado ("Acuerdo").
 

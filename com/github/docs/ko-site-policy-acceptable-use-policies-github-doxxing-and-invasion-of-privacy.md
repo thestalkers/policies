@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 신상 털기 및 프라이버시 침해
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 타인의 개인 정보를 게시하지 마십시오. 여기에는
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 上的错误信息和虚假信息
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 您不得发布歪曲事实的内容，包括不准确或不实内容（错误信息）或故意造成假象的内容（虚假信息），导致可能危害公共利益或妨碍所有人获得享受自由和开放社会的公平和平等机会。 这可能包括：
 

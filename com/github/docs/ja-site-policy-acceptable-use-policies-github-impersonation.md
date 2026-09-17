@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub でのなりすまし
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 お客様は、自身の身元、または他の人や組織と自身の関係について虚偽の表示をすることはできません。 これには、他の人を誤解させたりだましたりするような以下の行為が含まれます。
 

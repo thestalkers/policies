@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 따돌림 및 괴롭힘 방지 정책
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 GitHub는 직접적이든 아니면 금지된 행위에 타인이 가담하도록 독려하든 간에 어떠한 유형의 괴롭힘, 따돌림 또는 학대도 용납하지 않습니다. 여기에는
 

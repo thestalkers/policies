@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Política de logotipo do GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Você pode adicionar logotipos GitHub em seu site ou aplicativo de terceiros em alguns cenários. Para obter mais informações e diretrizes específicas sobre o uso do logotipo, consulte [GitHub página Logotipos e Uso](https://github.com/logos).
 

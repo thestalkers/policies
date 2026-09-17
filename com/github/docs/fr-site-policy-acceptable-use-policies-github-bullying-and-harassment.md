@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 GitHub Intimidation et Harcèlement
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Nous ne tolérons pas le harcèlement, l'intimidation ou l'abus de quelque nature que ce soit, que ce soit directement ou en encourageant les autres à prendre part à la conduite interdite. Cela inclut :
 

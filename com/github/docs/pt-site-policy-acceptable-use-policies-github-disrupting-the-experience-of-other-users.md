@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 GitHub interrompendo a experiência de outros usuários
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Fazer parte de uma comunidade inclui reconhecer como seu comportamento afeta os outros e se envolver em interações significativas e produtivas com as pessoas e a plataforma em que elas confiam.
 

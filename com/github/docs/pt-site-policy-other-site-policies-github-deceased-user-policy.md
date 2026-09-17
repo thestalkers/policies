@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Política de usuário falecido do GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No caso de falecimento de um usuário do GitHub, podemos trabalhar com um indivíduo autorizado para determinar o que acontece com o conteúdo da conta.
 

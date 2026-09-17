@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Contenu sexuellement obscène de GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Nous ne tolérons aucun contenu associé à l'exploitation ou à l'abus sexuel d'une autre personne, y compris lorsqu'il s'agit de [mineurs](/fr/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse). Nous n'autorisons pas le contenu à thème sexuel ou suggestif qui n'a que peu ou pas d'autre but que de solliciter une réponse érotique ou choquante, en particulier lorsque ce contenu est amplifié par son placement dans des profils ou d'autres contextes sociaux. Cela inclut :
 

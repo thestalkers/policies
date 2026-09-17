@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub のいじめまたは嫌がらせ
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 当社は、禁止されている行為を自ら行うか、または加担することを他者に促すかにかかわらず、いかなる嫌がらせ、いじめ、または虐待も容認しません。 これには、次のものが含まれます。
 

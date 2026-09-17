@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Información errónea y desinformación de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No puede publicar contenido que presente una visión distorsionada de la realidad, ya sea inexacto o falso (información errónea) o intencionalmente engañoso (desinformación), cuando dicho contenido pueda causar daño al público o interferir con oportunidades justas e equitativas. para que todos participen en una sociedad libre y abierta. Esto puede incluir:
 

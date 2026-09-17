@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 已故用户政策
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 如果 GitHub 用户亡故，我们可以与授权的个人合作确定如何处理相关帐户的内容。
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Contenido sexualmente obsceno de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No toleramos el contenido asociado con la explotación o el abuso sexual de otra persona, incluso cuando [se trata de menores](/es/site-policy/acceptable-use-policies/github-child-sexual-exploitation-or-abuse). No permitimos contenido sugerente o de temática sexual que tenga poco o ningún propósito que no sea el de solicitar una respuesta erótica o impactante, particularmente cuando ese contenido se amplifica por su ubicación en perfiles u otros contextos sociales. Esto incluye:
 

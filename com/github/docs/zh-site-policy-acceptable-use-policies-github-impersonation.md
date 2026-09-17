@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 在 GitHub 上冒充他人
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 您不得歪曲您的身份或者您与他人或组织的关系。 这包括以误导或欺骗他人的方式执行以下任何操作：
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 注册开发人员协议
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 GitHub 十分幸运，有很多开发人员与我们的平台集成。 我们非常高兴，并希望在此基础上打造更好的体验。 GitHub 的开发人员计划（以下简称“计划”）有助于我们与您建立联系、共享信息，并有助于我们更好地为您的创造性工作提供支持。 该计划将打造 GitHub 与开发人员社区之间的特殊关系，而这种关系需要一组特殊的条款来约束。 欢迎签订注册开发人员协议（以下简称“协议”）。
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Barra lateral do recolhimentoExpandir barra lateral
 
 Deslocar a trilha de navegação para a esquerda
@@ -37,7 +39,7 @@ Deslizar o caminho de navegação para a direita
 Representação do GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Você não pode deturpar sua identidade ou sua associação com outra pessoa ou organização. Isso inclui fazer qualquer uma das ações a seguir de forma a enganar ou enganar os outros:
 

@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Intimidación y acoso de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 No toleramos el acoso, la intimidación o el abuso de ningún tipo, ya sea directamente o animando a otros a participar en la conducta prohibida. Esto incluye:
 

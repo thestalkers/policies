@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 サイドバーを折りたたむサイドバーを展開する
 
 階層リンクを左にスクロールする
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub の GPL Cooperation Commitment
 ==========
 
-Markdown としてコピー
+Markdownをコピー
 
 このコミットメントは、対象ライセンス (定義については、下までスクロールしてください) に従って Git、Linux カーネル、およびその他のプログラムへの GitHub のコントリビューションに関するものです。
 

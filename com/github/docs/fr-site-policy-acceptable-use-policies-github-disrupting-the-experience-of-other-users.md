@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 GitHub perturbe l'expérience des autres utilisateurs
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 Faire partie d'une communauté implique de reconnaître comment votre comportement affecte les autres et de s'engager dans des interactions significatives et productives avec les gens et la plate-forme sur laquelle ils s'appuient.
 

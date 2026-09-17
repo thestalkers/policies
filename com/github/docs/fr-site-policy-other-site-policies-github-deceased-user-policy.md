@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Réduire la barre latéraleDévelopper la barre latérale
 
 Faire défiler les barres de navigation vers la gauche
@@ -37,7 +39,7 @@ Faire défiler les barres de navigation vers la droite
 Politique des utilisateurs décédés de GitHub
 ==========
 
-Copier en tant que Markdown
+Copier Markdown
 
 En cas de décès d'un utilisateur GitHub, nous pouvons travailler avec une personne autorisée pour déterminer ce qu'il advient du contenu du compte.
 

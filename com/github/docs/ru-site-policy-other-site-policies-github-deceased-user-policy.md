@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Свернуть боковую панельРазвернуть боковую панель
 
 Прокрутите панели навигации слева
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 Политика умерших пользователей GitHub
 ==========
 
-Копировать как Markdown
+Копирование markdown
 
 В случае смерти пользователя GitHub мы можем работать с уполномоченным лицом, чтобы определить, что произойдет с содержимым учетной записи.
 

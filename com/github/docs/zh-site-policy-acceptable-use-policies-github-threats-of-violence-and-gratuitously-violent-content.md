@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 折叠边栏展开侧边栏
 
 向左滚动痕迹导航
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 上的暴力威胁和无端暴力内容
 ==========
 
-复制为 Markdown 格式
+复制 markdown
 
 您不得使用 GitHub 组织、宣传、鼓励、威胁使用或煽动暴力行为。 您不得发布描绘或美化针对人类或动物的暴力或身体伤害的内容。 其中包括：
 

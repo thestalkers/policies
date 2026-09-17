@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 사이드바 축소사이드바 확장
 
 경로를 왼쪽으로 스크롤
@@ -37,7 +39,7 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 GitHub 가장 행위 금지 방침
 ==========
 
-Markdown으로 복사
+마크다운 복사
 
 귀하는 귀하의 신원이나 다른 사람 또는 조직과의 관계를 허위로 진술해서는 안 됩니다. 여기에는 타인을 오도하거나 기만하는 방식으로 다음 중 한 가지를 수행하는 행위가 포함됩니다.
 

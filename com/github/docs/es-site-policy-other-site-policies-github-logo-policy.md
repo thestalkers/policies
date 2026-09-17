@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Política del logotipo de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Puede añadir logotipos de GitHub a su sitio web o aplicación de terceros en algunas situaciones. Para obtener más información y directrices específicas sobre el uso de logotipos, consulte la [GitHub página de logotipos y uso](https://github.com/logos).
 

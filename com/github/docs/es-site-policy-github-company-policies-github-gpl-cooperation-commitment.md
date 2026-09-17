@@ -20,6 +20,8 @@ h.setAttribute('data-dark-theme',css.darkTheme);
 
 [Skip to main content](#main-content)
 
+[Skip to content](#main-content)
+
 Contraer barra lateralExpandir barra lateral
 
 Desplazar las migas de pan a la izquierda
@@ -37,7 +39,7 @@ Desplazar las migas de pan hacia la derecha
 Compromiso de cooperación de GitHub GPL
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 Este compromiso se refiere a las contribuciones de GitHub a Git, el kernel de Linux y otros programas bajo licencias cubiertas (desplácese hasta el final para ver las definiciones).
 
