@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

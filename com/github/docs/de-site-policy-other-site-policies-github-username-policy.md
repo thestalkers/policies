@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Richtlinie für Benutzernamen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Verhaltenskodex für Veranstaltungen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

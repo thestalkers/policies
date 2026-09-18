@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub-Identitätswechsel
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Sie dürfen Ihre Identität oder Ihre Verbindung zu einer anderen Person oder Organisation nicht falsch darstellen. Dies schließt Folgendes ein, um andere irrezuführen oder zu täuschen:
 

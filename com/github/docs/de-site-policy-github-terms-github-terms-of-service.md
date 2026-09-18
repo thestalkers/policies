@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Nutzungsbedingungen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

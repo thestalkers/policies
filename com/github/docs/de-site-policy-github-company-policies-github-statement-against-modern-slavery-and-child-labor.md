@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Erklärung gegen moderne Sklaverei und Kinderarbeit
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

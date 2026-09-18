@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub sponsert zusätzliche Bedingungen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

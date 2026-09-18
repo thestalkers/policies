@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 Koordinierte Offenlegung von Sicherheitslücken
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Wir möchten GitHub für alle sicher halten. Wenn Sie eine Sicherheitslücke in GitHub entdeckt haben, schätzen wir Ihre Hilfe, indem Sie uns diese auf koordinierte Weise mitteilen.
 

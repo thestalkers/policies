@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub Fehlinformationen und Desinformationen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Sie dürfen keine Inhalte veröffentlichen, die ein verzerrtes Bild der Realität vermitteln, unabhängig davon, ob sie ungenau oder falsch (Fehlinformation) oder absichtlich irreführend (Desinformation) sind, wenn diese Inhalte geeignet sind, der Öffentlichkeit Schaden zuzufügen oder faire und gleiche Chancen zu beeinträchtigen dass alle an einer freien und offenen Gesellschaft teilhaben können. Dies kann beinhalten:
 

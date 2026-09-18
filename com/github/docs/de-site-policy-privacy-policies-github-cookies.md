@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub-Cookies
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 [Cookies](#cookies)
 ==========

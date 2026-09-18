@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub-Richtlinie für verstorbene Benutzer
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Falls ein GitHub-Benutzer stirbt, können wir mit einer autorisierten Person zusammenarbeiten, um festzustellen, was mit dem Inhalt des Kontos passiert.
 

@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub: Globaler Datenschutzhinweis für Kandidaten
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

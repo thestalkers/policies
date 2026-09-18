@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub und Handelskontrollen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -41,7 +41,7 @@ In diesem Artikel
 Bedingungen für GitHub-Events
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

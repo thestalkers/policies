@@ -41,7 +41,7 @@ In diesem Artikel
 Allgemeine Geschäftsbedingungen für GitHub-Open-Source-Anwendungen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub Mobbing und Belästigung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Wir tolerieren keinerlei Belästigung, Mobbing oder Missbrauch, sei es direkt oder durch Ermutigung anderer, sich an den verbotenen Verhaltensweisen zu beteiligen. Dies umfasst:
 

@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub Doxxing und Verletzung der Privatsphäre
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 Veröffentlichen Sie keine persönlichen Daten anderer Personen. Dies schließt Folgendes ein:
 

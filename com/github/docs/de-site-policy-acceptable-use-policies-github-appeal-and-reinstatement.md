@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Einspruch und Wiedereinsetzung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

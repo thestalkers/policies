@@ -41,7 +41,7 @@ In diesem Artikel
 Verhaltenskodex für die GitHub-Community
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

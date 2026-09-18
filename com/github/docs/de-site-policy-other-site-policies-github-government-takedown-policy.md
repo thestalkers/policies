@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub Government Takedown-Richtlinie
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

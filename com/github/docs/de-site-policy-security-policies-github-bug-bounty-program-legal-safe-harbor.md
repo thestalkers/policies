@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub Bug Bounty-Programm Legal Safe Harbor
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

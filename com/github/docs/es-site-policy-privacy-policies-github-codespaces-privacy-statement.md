@@ -41,7 +41,7 @@ En este artículo
 Declaración de privacidad general de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 En este artículo
 ----------

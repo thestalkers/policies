@@ -41,7 +41,7 @@ In diesem Artikel
 Richtlinien für rechtliche Anfragen von Benutzerdaten
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

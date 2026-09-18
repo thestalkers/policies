@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub Marketplace-Entwicklervereinbarung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

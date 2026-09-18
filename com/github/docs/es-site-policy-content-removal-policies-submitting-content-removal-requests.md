@@ -41,7 +41,7 @@ En este artículo
 Envío de solicitudes de eliminación de contenido
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 En este artículo
 ----------

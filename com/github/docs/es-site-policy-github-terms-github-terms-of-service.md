@@ -41,7 +41,7 @@ En este artículo
 Términos de Servicio de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 En este artículo
 ----------

@@ -41,7 +41,7 @@ In diesem Artikel
 Einreichen von Anträgen auf Entfernung von Inhalten
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

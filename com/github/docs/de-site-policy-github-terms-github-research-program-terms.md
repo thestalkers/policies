@@ -41,7 +41,7 @@ In diesem Artikel
 Bedingungen des GitHub-Forschungsprogramms
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

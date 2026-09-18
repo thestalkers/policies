@@ -41,7 +41,7 @@ En este artículo
 Apelación y restablecimiento de GitHub
 ==========
 
-Copiar como Markdown
+Copiar Markdown
 
 En este artículo
 ----------

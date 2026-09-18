@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 GitHub Hassreden und Diskriminierung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 GitHub toleriert keine Äußerungen, die Hass gegen eine Einzelperson oder eine Gruppe von Menschen aufgrund ihrer Person angreifen oder fördern, einschließlich Alter, Körpergröße, Fähigkeiten, ethnische Zugehörigkeit, Geschlechtsidentität und -ausdruck, Erfahrungsniveau, Nationalität, persönliches Aussehen, Rasse, Religion, sexuelle Identität oder sexuelle Orientierung. Dies schließt Folgendes ein:
 

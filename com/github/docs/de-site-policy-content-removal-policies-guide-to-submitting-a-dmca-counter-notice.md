@@ -41,7 +41,7 @@ In diesem Artikel
 Anleitung zum Einreichen einer DMCA-Gegendarstellung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

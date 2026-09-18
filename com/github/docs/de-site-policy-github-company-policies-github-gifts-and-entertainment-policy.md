@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Richtlinie zu Geschenken und Unterhaltung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

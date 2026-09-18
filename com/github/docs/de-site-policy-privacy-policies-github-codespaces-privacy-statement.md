@@ -41,7 +41,7 @@ In diesem Artikel
 Allgemeine Datenschutzerklärung für GitHub
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

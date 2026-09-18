@@ -41,7 +41,7 @@ In diesem Artikel
 Leitfaden zum Einreichen einer DMCA-Takedown-Mitteilung
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

@@ -41,7 +41,7 @@ In diesem Artikel
 GitHub-Vertragsbedingungen für Unternehmen
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 In diesem Artikel
 ----------

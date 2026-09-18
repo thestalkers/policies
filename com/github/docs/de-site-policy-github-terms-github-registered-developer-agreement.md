@@ -39,7 +39,7 @@ Breadcrumbs nach rechts scrollen
 Vereinbarung für registrierte GitHub-Entwickler
 ==========
 
-Als Markdown kopieren
+Markdown kopieren
 
 GitHub hat das Glück, dass sich viele Entwickler in unsere Plattform integrieren. Wir finden das großartig und möchten diese Erfahrung noch besser machen. Das Entwicklerprogramm von GitHub (das „Programm“) hilft uns, mit Ihnen in Kontakt zu treten, Informationen mit Ihnen zu teilen und Ihre kreativen Bemühungen besser als je zuvor zu unterstützen. Die besondere Beziehung zwischen GitHub und der Entwickler-Community, die das Programm schafft, erfordert einen speziellen Satz von Bedingungen. Willkommen bei der Vereinbarung für registrierte Entwickler ("Vereinbarung").
 
