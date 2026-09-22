@@ -87,7 +87,7 @@ GitHub 추가 제품 및 기능 약관
 
 * [SQL Server Images](#sql-server-images)
 
-버전 적용 날짜: 2026년 4월 27일
+버전 적용 날짜: 2026년 8월 27일
 
 GitHub를 사용하는 경우 수많은 추가 제품 및 기능("추가 제품 및 기능")에 대한 액세스가 제공될 수 있습니다. 여러 추가 제품 및 기능이 다양한 기능을 제공하기 때문에 당사와의 계약("계약")에는 기본 계약(GitHub 서비스 약관, GitHub 고객 계약, GitHub 기업 서비스 약관, 기타 레거시 GitHub 계약 또는 Microsoft 볼륨 라이선싱 계약)과 결합된 해당 제품 또는 기능에 대한 특정 약관이 포함됩니다. 아래에는 이러한 제품 및 기능과 그 사용에 적용되는 해당 추가 약관이 나열되어 있습니다.
 
@@ -184,7 +184,9 @@ GitHub Connect를 사용하면 GitHub Enterprise Server 배포와 GitHub Enterpr
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot Business 및 Copilot Enterprise 라이선스 소유자의 경우 GitHub Copilot의 사용에 [GitHub Copilot 제품 관련 약관](https://github.com/customer-terms/github-copilot-product-specific-terms)이 적용됩니다.
+GitHub에서 바로 구입한 GitHub Copilot Business 및 Copilot Enterprise 라이선스 소유자의 경우, GitHub Copilot의 사용에 [GitHub 생성형 AI 서비스 약관](https://github.com/customer-terms/github-generative-ai-services-terms)이 적용됩니다.
+
+Microsoft를 통해 구입할 경우, GitHub Copilot 사용은 [Microsoft 제품 약관](https://www.microsoft.com/licensing/terms)이 적용됩니다.
 
 다른 모든 GitHub Copilot 사용자의 경우, GitHub Copilot 사용은 [GitHub 서비스 약관의 J절(AI 기능)](/ko/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data)에 의해 규율됩니다.
 

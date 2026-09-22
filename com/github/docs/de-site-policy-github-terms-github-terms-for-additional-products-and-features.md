@@ -87,7 +87,7 @@ In diesem Artikel
 
 * [SQL Server-Images](#sql-server-images)
 
-Datum des Inkrafttretens dieser Fassung: 27. April 2026
+Gültigkeitsdatum der Version: 27. August 2026
 
 Wenn Sie GitHub verwenden, erhalten Sie möglicherweise Zugriff auf viele zusätzliche Produkte und Funktionen („Zusätzliche Produkte und Funktionen“). Da viele der zusätzlichen Produkte und Funktionen unterschiedliche Funktionen bieten, können zusätzlich zu Ihrer Vereinbarung mit uns (die „Vereinbarung) spezifische Bedingungen für dieses Produkt oder diese Funktion in Kombination mit Ihrer Hauptvereinbarung gelten – die GitHub-Nutzungsbedingungen, die GitHub-Kundenvereinbarung, die GitHub-Vertragsbedingungen für Unternehmen oder ein anderer älterer GitHub-Vertrag bzw. eine Microsoft-Volumenlizenzierung. Nachfolgend haben wir diese Produkte und Funktionen zusammen mit den entsprechenden zusätzlichen Bedingungen aufgelistet, die für Ihre Verwendung gelten.
 
@@ -184,7 +184,9 @@ Mit GitHub Connect können Sie bestimmte Features und Daten zwischen Ihrer GitH
 [GitHub Copilot](#github-copilot)
 ----------
 
-Für Lizenzinhaber von GitHub Copilot Business und Copilot Enterprise unterliegt die Nutzung von GitHub Copilot den [produktspezifischen Bedingungen für GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Für Inhaber von GitHub Copilot Business- und Copilot Enterprise-Lizenzen, die diese direkt bei GitHub erwerben, unterliegt die Nutzung von GitHub Copilot den [Bedingungen für generative KI-Services von GitHub](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+Beim Erwerb über Microsoft unterliegt Ihre Nutzung von GitHub Copilot den [Produktbedingungen von Microsoft](https://www.microsoft.com/licensing/terms).
 
 Für alle anderen GitHub Copilot-Benutzer unterliegt die Nutzung von GitHub Copilot [Abschnitt J (KI-Funktionen) der GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 

@@ -87,7 +87,7 @@ Neste artigo
 
 * [Imagens do SQL Server](#sql-server-images)
 
-Data de início de vigência desta versão: 27 de abril de 2026
+Data de Vigência da Versão: 27 de agosto de 2026
 
 Ao usar o GitHub, você pode ter acesso a muitos produtos e recursos adicionais ("Produtos e recursos adicionais"). Como muitos dos Produtos e Recursos Adicionais oferecem funcionalidades diferentes, seu Contrato conosco (o "Contrato") inclui os termos específicos para esse produto ou recurso combinados com seu contrato principal - os Termos de Serviço do GitHub ou o Contrato de Cliente do GitHub, ou o Contrato de Cliente do GitHub. os Termos de Serviço Corporativos ou outro contrato herdado do GitHub ou um contrato de licenciamento por volume da Microsoft. Abaixo, listamos esses produtos e recursos, juntamente com os termos adicionais correspondentes que se aplicam ao seu uso deles.
 
@@ -184,7 +184,9 @@ Com o GitHub Connect, você pode compartilhar determinados recursos e dados entr
 [GitHub Copilot](#github-copilot)
 ----------
 
-Para os usuários de licenças do GitHub Copilot Business e Copilot Enterprise, o uso do GitHub Copilot está sujeito aos [Termos específicos do produto do GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Para titulares de licença do GitHub Copilot Business e Copilot Enterprise que compram diretamente do GitHub, o uso do GitHub Copilot é regido pelos [Termos de Serviços de IA Generativa do GitHub](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+Se você comprar através da Microsoft, o uso do GitHub Copilot é regido pelos [Termos de Produto da Microsoft](https://www.microsoft.com/licensing/terms).
 
 Para todos os outros usuários do GitHub Copilot, seu uso do GitHub Copilot é regido pela [Seção J (Recursos de IA) dos Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 

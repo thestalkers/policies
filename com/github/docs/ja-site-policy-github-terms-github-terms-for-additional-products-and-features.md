@@ -87,7 +87,7 @@ Markdownをコピー
 
 * [SQL Server Images](#sql-server-images)
 
-このバージョンの発効日: 2026 年 4 月 27 日
+バージョン発効日: 2026 年 8 月 27 日
 
 GitHub を利用する際、数多くの追加製品や機能 (以下「追加の製品および機能」といいます) にもアクセス権を与えられる場合があります。 「追加の製品および機能」の多くはさまざまな機能を提供するため、当社との主な契約、すなわち「GitHub サービス使用条件」、GitHub 顧客契約、「GitHub の企業向けサービス使用条件」、その他「GitHub 一般契約」、または Microsoft ボリューム ライセンス契約 (以下、それぞれを「契約」といいます) に加えて、製品や機能に特定の条件が適用される場合があります。 以下に、これらの製品および機能と、その利用に対して適用される追加の条件を示します。
 
@@ -184,7 +184,9 @@ GitHub Connect を使用すると、GitHub Enterprise Server デプロイと、G
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot Business および Copilot エンタープライズライセンスのライセンス所有者の場合、GitHub Copilot の使用には、[GitHub Copilot 製品固有の条件](https://github.com/customer-terms/github-copilot-product-specific-terms)が適用されます。
+GitHub から直接購入した GitHub Copilot Business および Copilot エンタープライズ ライセンス所有者の場合、GitHub Copilot の使用には [GitHub 生成 AI サービスの条件](https://github.com/customer-terms/github-generative-ai-services-terms)が適用されます。
+
+Microsoft を通じて購入した場合、GitHub Copilot の使用には [Microsoft 製品使用条件](https://www.microsoft.com/licensing/terms)が適用されます。
 
 他のすべての GitHub Copilot ユーザーの場合、GitHub Copilot の使用は、GitHub サービス使用条件の [Section J (AI Features) によって管理されます](/ja/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data)。
 

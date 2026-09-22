@@ -87,7 +87,7 @@ else if(q.addListener)q.addListener(apply);
 
 * [SQL Server Images](#sql-server-images)
 
-Дата вступления версии в силу: 27 апреля 2026 года
+Дата вступления версии в силу: 27 августа 2026 года
 
 Когда вы используете GitHub, вам может быть предоставлен доступ к множеству дополнительных продуктов и функций («Дополнительные продукты и функции»). Поскольку многие из Дополнительных продуктов и функций предлагают различные функции, в дополнение к вашему Соглашению с нами («Соглашение») могут применяться особые условия для этого продукта или функции — Условия предоставления услуг GitHub, Корпоративные условия обслуживания GitHub, Общие условия GitHub или соглашение с Microsoft о корпоративном лицензировании. Ниже мы перечислили эти продукты и функции вместе с соответствующими дополнительными условиями, применимыми к их использованию вами.
 
@@ -184,7 +184,9 @@ Codespaces позволяет вам загружать расширения и�
 [GitHub Copilot](#github-copilot)
 ----------
 
-Для владельцев лицензий GitHub Copilot Business и Copilot Enterprise использование GitHub Copilot регулируется [Условиями использования продуктов GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Для владельцев лицензий GitHub Copilot Business и Copilot Enterprise, покупающих напрямую у GitHub, использование GitHub Copilot регулируется [Условиями использования служб генеративного ИИ GitHub Copilot](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+Если вы покупаете через Microsoft, ваше использование GitHub Copilot регулируется [условиями использования продуктов Microsoft](https://www.microsoft.com/licensing/terms).
 
 Для всех других пользователей GitHub Copilot использование GitHub Copilot регулируется [разделом J (Функции ИИ) Условий предоставления услуг GitHub](/ru/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 

@@ -71,7 +71,7 @@ En este artículo
 
 * [Conectar](#connect)
 
-* [GitHub Copilot](#github-copilot)
+* [Copiloto de GitHub](#github-copilot)
 
 * [Importador de GitHub Enterprise](#github-enterprise-importer)
 
@@ -87,7 +87,7 @@ En este artículo
 
 * [Imágenes de servidor SQL](#sql-server-images)
 
-Fecha de entrada en vigor de la versión: 27 de abril de 2026
+Fecha de entrada en vigor de la versión: 27 de agosto de 2026
 
 Cuando usa GitHub, es posible que tenga acceso a muchos productos y funciones adicionales ("Productos y funciones adicionales"). Dado que muchos de los Productos y Funciones Adicionales ofrecen diferentes funcionalidades, su Contrato con nosotros (el «Acuerdo») incluye los términos específicos de ese producto o función combinados con su acuerdo principal: los Términos de servicio de GitHub o el Acuerdo de cliente de GitHub, o los Términos de servicio corporativos de GitHub u otro acuerdo heredado de GitHub, o un contrato de licencias por volumen de Microsoft. A continuación, enumeramos esos productos y características, junto con los términos adicionales correspondientes que se aplican a su uso de ellos.
 
@@ -181,10 +181,12 @@ Si ofrece un producto o servicio que haga competencia a cualquier producto o ser
 
 Con GitHub Connect, puede compartir determinadas características y datos entre su implementación de GitHub Enterprise Server y su organización de GitHub Enterprise Cloud o su cuenta empresarial de GitHub.com. Para habilitar GitHub Connect, debe tener al menos una (1) cuenta en GitHub Enterprise Cloud o GitHub.com y una (1) implementación con licencia de GitHub Enterprise Server. Su uso de GitHub Enterprise Cloud o GitHub.com a través de Connect se rige por los términos bajo los cuales obtiene la licencia de GitHub Enterprise Cloud o GitHub.com. El uso de los Datos Personales se rige por la [Declaración de Privacidad de GitHub](/es/site-policy/privacy-policies/github-general-privacy-statement).
 
-[GitHub Copilot](#github-copilot)
+[Copiloto de GitHub](#github-copilot)
 ----------
 
-Para las empresas GitHub Copilot y los titulares de licencia de empresa Copilot, el uso de GitHub Copilot se rige por los [Términos específicos del producto de GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Para los titulares de licencias de GitHub Copilot Business y Copilot Enterprise que las adquieran directamente de GitHub, el uso de GitHub Copilot se regirá por los [Términos específicos de los servicios de IA generativa de GitHub](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+Si realiza la compra a través de Microsoft, el uso de GitHub Copilot se regirá por los [Términos de producto de Microsoft](https://www.microsoft.com/licensing/terms).
 
 Para el resto de usuarios de GitHub Copilot, el uso de dicho servicio se regirá por lo dispuesto en el [apartado J (Funciones de IA) de los Términos de servicio de GitHub](/es/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 

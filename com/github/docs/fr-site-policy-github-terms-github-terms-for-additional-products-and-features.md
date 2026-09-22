@@ -87,7 +87,7 @@ Dans cet article
 
 * [Images de serveur SQL](#sql-server-images)
 
-Date d’entrée en vigueur de la version : 27 avril 2026
+Date d’entrée en vigueur : 27 août 2026
 
 Lorsque vous utilisez GitHub, vous pouvez avoir accès à de nombreux produits et fonctionnalités supplémentaires ("Produits et fonctionnalités supplémentaires »). Étant donné que de nombreux produits et fonctionnalités supplémentaires offrent des fonctionnalités différentes, votre accord avec nous (l'"accord") comprend les conditions spécifiques de ce produit ou de cette fonctionnalité combinées à votre accord principal : conditions d’utilisation du service de GitHub ou le contrat client de GitHub, ou les conditions de service d'entreprise de GitHub ou un autre contrat de GitHub, ou un contrat de licence en volume Microsoft. Ci-dessous, nous avons répertorié ces produits et fonctionnalités, ainsi que les conditions supplémentaires correspondantes qui s'appliquent à votre utilisation de ceux-ci.
 
@@ -184,7 +184,9 @@ Avec GitHub Connect, vous pouvez partager certaines caractéristiques et donnée
 [GitHub Copilot](#github-copilot)
 ----------
 
-Pour les titulaires de licence de GitHub Copilot Business et Copilot Enterprise, votre utilisation de GitHub Copilot est régie par les [Conditions spécifiques du produit GitHub Copilot](https://github.com/customer-terms/github-copilot-product-specific-terms).
+Pour les titulaires de licence de GitHub Copilot Business et Copilot Enterprise qui achètent directement depuis GitHub, votre utilisation de GitHub Copilot est régie par les [Conditions des services de l’IA générative GitHub](https://github.com/customer-terms/github-generative-ai-services-terms).
+
+Si vous achetez via Microsoft, votre utilisation de GitHub Copilot est régie par les [conditions du produit Microsoft](https://www.microsoft.com/licensing/terms).
 
 Pour tous les autres utilisateurs de GitHub Copilot, votre utilisation de GitHub Copilot est régie par la [Section J (fonctionnalités IA) des conditions d’utilisation du service GitHub](/fr/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 
