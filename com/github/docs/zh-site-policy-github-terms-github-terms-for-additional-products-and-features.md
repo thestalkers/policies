@@ -87,7 +87,7 @@ GitHub 附加产品和功能条款
 
 * [SQL Server Images](#sql-server-images)
 
-版本生效日期：2026 年 4 月 27 日
+版本生效日期：2026 年 8 月 27 日
 
 当您使用 GitHub 时，您可以访问大量附加产品和功能（“附加产品和功能”）。 由于许多附加产品和功能具有不同的作用，您与我们之间的协议包含针对该产品或功能的具体条款以及您与我们的主要协议（GitHub 服务条款、GitHub 客户协议、GitHub 企业服务条款、其他旧版 GitHub 合同或微软批量许可协议）。 下面列出了这些产品和功能，以及适用于您对它们的使用的相应附加条款。
 
@@ -184,7 +184,9 @@ Codespaces 的通用版本当前不适用于美国政府客户。 美国政府�
 [GitHub Copilot](#github-copilot)
 ----------
 
-GitHub Copilot Business 和 Copilot Enterprise 许可证持有者对 GitHub Copilot 的使用受 [GitHub Copilot 产品特定条款](https://github.com/customer-terms/github-copilot-product-specific-terms)约束。
+对于直接从 GitHub 购买许可证的 GitHub Copilot Business 和 Copilot Enterprise 许可证持有者，其对 GitHub Copilot 的使用受 [GitHub 生成式 AI 服务条款](https://github.com/customer-terms/github-generative-ai-services-terms)约束。
+
+如果是通过 Microsoft 购买的，则其对 GitHub Copilot 的使用受 [Microsoft 产品条款](https://www.microsoft.com/licensing/terms)约束。
 
 对于所有其他 GitHub Copilot 用户，您对 GitHub Copilot 的使用受 [GitHub 服务条款第 J 节（AI 功能）](/zh/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data)的约束。
 
