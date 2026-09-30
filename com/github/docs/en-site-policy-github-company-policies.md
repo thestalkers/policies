@@ -51,7 +51,14 @@ Scroll breadcrumbs right
 GitHub Company Policies
 ==========
 
-* [GitHub Statement Against Modern Slavery and Child Labor, 1 of 4](/en/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
-* [GitHub Anti-Bribery Statement, 2 of 4](/en/site-policy/github-company-policies/github-anti-bribery-statement)
-* [GitHub GPL Cooperation Commitment, 3 of 4](/en/site-policy/github-company-policies/github-gpl-cooperation-commitment)
-* [GitHub Gifts and Entertainment Policy, 4 of 4](/en/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+[GitHub Statement Against Modern Slavery and Child Labor](/en/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor)
+----------
+
+[GitHub Anti-Bribery Statement](/en/site-policy/github-company-policies/github-anti-bribery-statement)
+----------
+
+[GitHub GPL Cooperation Commitment](/en/site-policy/github-company-policies/github-gpl-cooperation-commitment)
+----------
+
+[GitHub Gifts and Entertainment Policy](/en/site-policy/github-company-policies/github-gifts-and-entertainment-policy)
+----------
