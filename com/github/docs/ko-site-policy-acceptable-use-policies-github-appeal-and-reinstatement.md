@@ -95,6 +95,8 @@ GitHub나 npm에서 집행 조치에 대해 복구를 신청하거나 이의를 
 * [GitHub 이의 제기 및 복구 양식](https://support.github.com/contact/reinstatement)
 * [npm 이의 제기 및 복구 양식](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+GitHub 계정에 로그인할 수 없는 경우, [로그인할 수 없음](https://support.github.com/contact/cannot_sign_in)을 참조하여 GitHub 지원팀에 문의하십시오. 이메일 인증을 완료하면 이의 제기 및 재가입 신청서를 이용할 수 있습니다.
+
 GitHub에서 결정 후 최대 6개월 동안 복구를 요청하거나 조정 결정에 이의를 제기할 수 있습니다. GitHub는 재량에 따라, 결정 후 6개월이 지나서 제출된 요청에 대한 검토를 거부할 수 있습니다.
 
 GitHub 직원은 동 요청서 양식에 기재된 정보를 검토하여 복구 또는 이의 승인을 보증하기에 충분한 정보가 있는지 판정합니다.

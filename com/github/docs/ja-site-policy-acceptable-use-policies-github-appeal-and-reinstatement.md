@@ -95,6 +95,8 @@ GitHub および npm のコミュニティの個人間のやり取りの大部�
 * [GitHub の異議申し立ておよび復活フォーム](https://support.github.com/contact/reinstatement)
 * [npm の異議申し立ておよび復活フォーム](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+GitHub アカウントにサインインできない場合は、[サインインできません](https://support.github.com/contact/cannot_sign_in)を参照して GitHub サポートに連絡してください。 メール アドレスを確認したら、異議申し立ておよび復活フォームにアクセスできます。
+
 GitHub では、モデレーションの決定に対しては、その決定後最大 6 か月間、復活を求めるか異議申し立てを行うことができます。 GitHub は、その裁量により、決定から 6 か月を超えて提出された要求の検討を拒否する場合があります。
 
 GitHub のスタッフは、フォームに記載された情報を審査し、復活または異議申し立ての承諾を許可するための十分な情報があるかどうかを判断します。

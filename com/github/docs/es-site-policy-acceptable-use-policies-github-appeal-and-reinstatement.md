@@ -95,6 +95,8 @@ Si desea solicitar la Reincorporación o presentar una Apelación contra una med
 * [Formulario de Apelación y Reincorporación de GitHub](https://support.github.com/contact/reinstatement)
 * [Formulario de Apelación y Reincorporación de npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+Si no puede iniciar sesión en su cuenta de GitHub, consulte [No puede iniciarse la sesión](https://support.github.com/contact/cannot_sign_in) para ponerse en contacto con el soporte de GitHub. Una vez que verifique su dirección de correo electrónico, podrá acceder a los formularios de recurso y restablecimiento.
+
 En GitHub, puede solicitar la Reincorporación o presentar una Apelación respecto de una decisión de moderación hasta seis meses después de su adopción. GitHub podrá, a su discreción, rechazar cualquier solicitud presentada una vez transcurridos más de seis meses desde su adopción.
 
 El personal de GitHub revisará la información indicada en el formulario para determinar si es suficiente para justificar el restablecimiento o la concesión de una apelación.

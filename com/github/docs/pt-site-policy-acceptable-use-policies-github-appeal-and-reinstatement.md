@@ -95,6 +95,8 @@ Se você deseja obter a Reintegração ou fazer uma Contestação de uma medida 
 * [Formulário de Contestação e Reintegração do GitHub](https://support.github.com/contact/reinstatement)
 * [Formulário de Contestação e Reintegração do npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+Se você não conseguir entrar na sua conta do GitHub, veja [Não é possível entrar](https://support.github.com/contact/cannot_sign_in) para entrar em contato com o Suporte do GitHub. Depois de verificar seu email, você poderá acessar os formulários de contestação e de reintegração.
+
 No GitHub, é possível solicitar a Reintegração ou Contestação de uma decisão de moderação em até seis meses após a decisão. O GitHub pode, a seu critério, recusar-se a considerar quaisquer solicitações enviadas mais de seis meses após a decisão.
 
 A equipe do GitHub revisará as informações fornecidas no formulário para determinar se há informações suficientes para garantir a Reintegração ou a concessão de uma Contestação.

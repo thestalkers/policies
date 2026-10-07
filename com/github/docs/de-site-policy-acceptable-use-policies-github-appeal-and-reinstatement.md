@@ -95,6 +95,8 @@ Wenn Sie eine Wiedereinsetzung beantragen oder gegen einen Einspruch gegen eine 
 * [Formular für einen Einspruch und eine Wiedereinsetzung bei GitHub](https://support.github.com/contact/reinstatement)
 * [Formular für einen Einspruch und eine Wiedereinsetzung bei npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+Sollten Sie sich nicht bei Ihrem GitHub-Konto anmelden können, lesen Sie bitte den Abschnitt [Anmeldung nicht möglich](https://support.github.com/contact/cannot_sign_in), um den GitHub-Support zu kontaktieren. Nachdem Sie Ihre E-Mail-Adresse bestätigt haben, können Sie auf die Formulare für Einsprüche und die Wiederherstellung zugreifen.
+
 Auf GitHub können Sie bis zu sechs Monate nach der Entscheidung eine Wiedereinsetzung beantragen oder einen Einspruch gegen eine Moderationsentscheidung einlegen. GitHub kann nach eigenem Ermessen alle Anfragen ablehnen, die mehr als sechs Monate nach der Entscheidung eingereicht wurden.
 
 Die Mitarbeiter von GitHub prüfen die im Formular bereitgestellten Informationen, um festzustellen, ob ausreichende Informationen vorliegen, um eine Wiedereinsetzung oder die Gewährung eines Einspruchs zu rechtfertigen.

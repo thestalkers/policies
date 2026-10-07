@@ -95,6 +95,8 @@ Si vous souhaitez être réintégré ou faire appel d’une mesure coercitive su
 * [Formulaire d’appel et de réintégration sur GitHub](https://support.github.com/contact/reinstatement)
 * [Formulaire d’appel et de réintégration sur npm](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
 
+Si vous ne pouvez pas vous connecter à votre compte GitHub, reportez-vous à la rubrique [Impossible de se connecter](https://support.github.com/contact/cannot_sign_in) pour contacter le support GitHub. Après avoir vérifié votre courrier électronique, vous pouvez accéder aux formulaires d’appel et de réintégration.
+
 Sur GitHub, vous pouvez souhaiter une réintégration ou appeler une décision de modération pendant jusqu’à six mois après la décision. GitHub peut, à sa discrétion, refuser de tenir compte des requêtes soumises plus de six mois après la décision.
 
 Le personnel de GitHub examinera les informations fournies dans le formulaire pour déterminer s'il y a suffisamment d'informations pour justifier la réintégration ou l'octroi d'un appel.
