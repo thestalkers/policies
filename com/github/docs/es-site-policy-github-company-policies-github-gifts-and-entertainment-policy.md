@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Contraer barra lateralExpandir barra lateral
+Contraer barra lateral
 
-Desplazar las migas de pan a la izquierda
+Expandir barra lateral
 
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Políticas de empresa de GitHub](/es/site-policy/github-company-policies)
 4. Política de obsequios y entretenimiento de GitHub
-
-Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------

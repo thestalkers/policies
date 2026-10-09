@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-사이드바 축소사이드바 확장
+사이드바 축소
 
-경로를 왼쪽으로 스크롤
+사이드바 확장
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [GitHub 약관](/ko/site-policy/github-terms)
 4. GitHub Marketplace 개발자 계약
-
-이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------
@@ -152,7 +150,7 @@ GitHub Marketplace 개발자 계약
 
 **3.2** GitHub API를 사용하고 액세스하려면 개발자는 구독자가 되어 토큰을 획득해야 합니다. 개발자는 본인의 토큰을 제3자와 공유할 수 없으며 본인의 토큰과 모든 로그인 정보를 안전하게 보관하며 이 토큰을 GitHub API에 액세스하기 위한 개발자의 유일한 수단으로 사용합니다.
 
-**3.3** 개발자는 [사용 제한 정책](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies) 등 GitHub의 서비스 약관을 위반하는 개발자 제품을 배포하는 것을 포함하여 Marketplace와 어떠한 활동도 하지 않습니다. 또한 개발자는 다음과 같은 개발자 제품을 배포하려고 시도하지 않습니다.
+**3.3** 개발자는 [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) 등 GitHub의 서비스 약관을 위반하는 개발자 제품을 배포하는 것을 포함하여 Marketplace와 어떠한 활동도 하지 않습니다. 또한 개발자는 다음과 같은 개발자 제품을 배포하려고 시도하지 않습니다.
 
 * (i) 활성 맬웨어 또는 익스플로잇을 포함하거나 설치한다든지 또는 익스플로잇 전달(예: 명령 및 제어 시스템의 일부)을 위해 당사 플랫폼을 사용하는 경우
 * (ii) 스트리밍 콘텐츠 또는 미디어의 무단 다운로드를 활성화하는 경우 또는
@@ -194,7 +192,7 @@ GitHub가 하나의 목록 또는 그 일부분 또는 귀하의 브랜드 특�
 * (iii) GitHub의 소견으로 볼 때 Marketplace 최종 사용자의 데이터에 과도한 위험을 가중시키거나 Marketplace 또는 GitHub의 사용자 경험을 저해하는 것으로 판단되는 경우 또는
 * (iv) 귀하의 EULA 위반과 관련하여 최종 사용자 불만 사항의 대상이 되는 경우
 
-GitHub는 개발자 제품으로 개인 데이터 전송을 일시 중단할 수 있습니다. 개발자 제품을 통해 개인 데이터의 수집 및 처리를 금지합니다. Marketplace에서 목록을 제거합니다. 관련 자료(설명, 스크린샷 또는 메타데이터를 포함하며 이에 국한하지 않음)를 플래그 지정, 필터링 또는 수정합니다. 또는 단독 재량에 따라 목록을 재분류합니다. GitHub가 목록에 대해 이러한 작업을 수행하는 경우 [GitHub 이의 제기 및 복구 프로세스](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)를 통해 GitHub의 조치에 이의를 제기할 수 있습니다.
+GitHub는 개발자 제품으로 개인 데이터 전송을 일시 중단할 수 있습니다. 개발자 제품을 통해 개인 데이터의 수집 및 처리를 금지합니다. Marketplace에서 목록을 제거합니다. 관련 자료(설명, 스크린샷 또는 메타데이터를 포함하며 이에 국한하지 않음)를 플래그 지정, 필터링 또는 수정합니다. 또는 단독 재량에 따라 목록을 재분류합니다. GitHub가 목록에 대해 이러한 작업을 수행하는 경우 [GitHub 이의 제기 및 복구 프로세스](/ko/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)를 통해 GitHub의 조치에 이의를 제기할 수 있습니다.
 
 **4.3** 개발자 제품 업데이트. 때때로 GitHub는 버그 수정 또는 향상된 기능을 포함하되 이에 국한하지 않고 모든 목록에 사용 가능한 업데이트를 점검할 수 있습니다. 목록을 Marketplace로 업데이트하면 귀하에 대한 별도의 통지 없이 해당 업데이트가 자동으로 요청되어 다운로드되고 설치된다는 데 동의하는 것입니다. GitHub는 그러한 업데이트의 시기에 대해 어떠한 보증도 하지 않습니다. 목록에 대한 업데이트 목록과 동일한 계약 조건이 적용됩니다.
 
@@ -303,7 +301,7 @@ Marketplace를 운영하고 개선하기 위해 GitHub는 Marketplace 또는 Git
 [19. 사전 출시판 액세스](#19-pre-release-access)
 ----------
 
-베타 또는 유사한 사전 출시판 상태에 있는 Marketplace 부분에 목록이 있는 경우 해당 부분의 사용은 GitHub의 [사전 출시판 사용 조건](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)에 따라 달라집니다.
+베타 또는 유사한 사전 출시판 상태에 있는 Marketplace 부분에 목록이 있는 경우 해당 부분의 사용은 GitHub의 [사전 출시판 사용 조건](/ko/site-policy/github-terms/github-pre-release-license-terms)에 따라 달라집니다.
 
 [부칙 1: 데이터 보호 부칙](#부칙-1-데이터-보호-부칙)
 ==========

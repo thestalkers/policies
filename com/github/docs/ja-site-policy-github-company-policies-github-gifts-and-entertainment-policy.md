@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-サイドバーを折りたたむサイドバーを展開する
+サイドバーを折りたたむ
 
-階層リンクを左にスクロールする
+サイドバーを展開する
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub の会社ポリシー](/ja/site-policy/github-company-policies)
 4. GitHub の贈答品および接待に関するポリシー
-
-階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

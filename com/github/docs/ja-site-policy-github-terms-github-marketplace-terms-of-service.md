@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-サイドバーを折りたたむサイドバーを展開する
+サイドバーを折りたたむ
 
-階層リンクを左にスクロールする
+サイドバーを展開する
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
 4. GitHub Marketplace サービス使用条件
-
-階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

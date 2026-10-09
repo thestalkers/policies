@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Randleiste reduzierenRandleiste erweitern
+Randleiste reduzieren
 
-Breadcrumbs nach links scrollen
+Randleiste erweitern
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Sicherheitsrichtlinien](/de/site-policy/security-policies)
 4. Koordinierte Offenlegung von Sicherheitslücken
-
-Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

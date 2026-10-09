@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-사이드바 축소사이드바 확장
+사이드바 축소
 
-경로를 왼쪽으로 스크롤
+사이드바 확장
 
 1. [홈](/ko)
 2. [사이트 정책](/ko/site-policy)
 3. [보안 정책](/ko/site-policy/security-policies)
 4. 조정된 보안 취약점 공개
-
-이동 경로를 오른쪽으로 스크롤
 
 [Site policy](/ko/site-policy)
 ----------

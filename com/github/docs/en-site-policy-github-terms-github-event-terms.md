@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Collapse sidebarExpand sidebar
+Collapse sidebar
 
-Scroll breadcrumbs left
+Expand sidebar
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [GitHub Terms](/en/site-policy/github-terms)
 4. GitHub Event Terms
-
-Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------

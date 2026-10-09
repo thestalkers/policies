@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-折叠边栏展开侧边栏
+折叠边栏
 
-向左滚动痕迹导航
+展开侧边栏
 
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [隐私政策](/zh/site-policy/privacy-policies)
 4. GitHub Cookie
-
-向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------

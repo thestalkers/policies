@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Réduire la barre latéraleDévelopper la barre latérale
+Réduire la barre latérale
 
-Faire défiler les barres de navigation vers la gauche
+Développer la barre latérale
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de l'entreprise GitHub](/fr/site-policy/github-company-policies)
 4. Engagement de coopération GitHub GPL
-
-Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------

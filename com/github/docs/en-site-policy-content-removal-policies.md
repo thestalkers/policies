@@ -35,15 +35,13 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Collapse sidebarExpand sidebar
+Collapse sidebar
 
-Scroll breadcrumbs left
+Expand sidebar
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. Content Removal Policies
-
-Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------

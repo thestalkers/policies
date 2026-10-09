@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Randleiste reduzierenRandleiste erweitern
+Randleiste reduzieren
 
-Breadcrumbs nach links scrollen
+Randleiste erweitern
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Datenschutzrichtlinien](/de/site-policy/privacy-policies)
 4. GitHub: Globaler Datenschutzhinweis für Kandidaten
-
-Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

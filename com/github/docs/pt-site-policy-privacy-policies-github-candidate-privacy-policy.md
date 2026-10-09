@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Barra lateral do recolhimentoExpandir barra lateral
+Barra lateral do recolhimento
 
-Deslocar a trilha de navegação para a esquerda
+Expandir barra lateral
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Privacidade](/pt/site-policy/privacy-policies)
 4. Aviso de Privacidade de Dados Global do GitHub para Candidatos
-
-Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------

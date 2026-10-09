@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Randleiste reduzierenRandleiste erweitern
+Randleiste reduzieren
 
-Breadcrumbs nach links scrollen
+Randleiste erweitern
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [GitHub-Bedingungen](/de/site-policy/github-terms)
 4. GitHub-Community-Richtlinien
-
-Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

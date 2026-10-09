@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Contraer barra lateralExpandir barra lateral
+Contraer barra lateral
 
-Desplazar las migas de pan a la izquierda
+Expandir barra lateral
 
 1. [Inicio](/es)
 2. [Política del sitio](/es/site-policy)
 3. [Directivas de Uso Aceptable](/es/site-policy/acceptable-use-policies)
 4. Amenazas de violencia y contenido violento gratuito
-
-Desplazar las migas de pan hacia la derecha
 
 [Site policy](/es/site-policy)
 ----------

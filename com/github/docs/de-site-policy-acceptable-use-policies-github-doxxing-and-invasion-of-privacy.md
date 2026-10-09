@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Randleiste reduzierenRandleiste erweitern
+Randleiste reduzieren
 
-Breadcrumbs nach links scrollen
+Randleiste erweitern
 
 1. [Startseite](/de)
 2. [Websiterichtlinie](/de/site-policy)
 3. [Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies)
 4. Doxxing und Verletzung der Privatsphäre
-
-Breadcrumbs nach rechts scrollen
 
 [Site policy](/de/site-policy)
 ----------

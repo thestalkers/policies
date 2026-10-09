@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Barra lateral do recolhimentoExpandir barra lateral
+Barra lateral do recolhimento
 
-Deslocar a trilha de navegação para a esquerda
+Expandir barra lateral
 
 1. [Página Inicial](/pt)
 2. [Política do site](/pt/site-policy)
 3. [Políticas de Uso Aceitável](/pt/site-policy/acceptable-use-policies)
 4. Vazamento e invasão de privacidade
-
-Deslizar o caminho de navegação para a direita
 
 [Site policy](/pt/site-policy)
 ----------

@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Свернуть боковую панельРазвернуть боковую панель
+Свернуть боковую панель
 
-Прокрутите панели навигации слева
+Развернуть боковую панель
 
 1. [Домашняя страница](/ru)
 2. [Политика сайта](/ru/site-policy)
 3. [Другие правила сайта](/ru/site-policy/other-site-policies)
 4. Политика умерших пользователей GitHub
-
-Прокрутите страницы вправо
 
 [Site policy](/ru/site-policy)
 ----------

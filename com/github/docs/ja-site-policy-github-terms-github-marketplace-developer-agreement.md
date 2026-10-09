@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-サイドバーを折りたたむサイドバーを展開する
+サイドバーを折りたたむ
 
-階層リンクを左にスクロールする
+サイドバーを展開する
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [GitHub 条件](/ja/site-policy/github-terms)
 4. GitHub Marketplace 開発者契約
-
-階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------
@@ -152,7 +150,7 @@ Markdownをコピー
 
 **3.2** 開発者が GitHub APIを使用しアクセスするためには、サブスクライバーになることでトークンを取得する必要があります。 開発者は、そのトークンを第三者と共有してはならず、トークンとすべてのログイン情報を安全に保管しなければなりません。また、開発者は、GitHub APIにアクセスする唯一の手段としてトークンを使用しなければなりません。
 
-**3.3** 開発者は、[許容可能な使用ポリシー](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)を含む GitHub のサービス利用規約に違反する開発者製品の配布など、Marketplace とのいかなる活動にも関与しません。 さらに、開発者は以下のあらゆる開発者製品の配布を試みることはありません。
+**3.3** 開発者は、[GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies) を含む GitHub のサービス使用条件に違反する開発者製品の配布など、Marketplace とのいかなる活動にも関与しません。 さらに、開発者は以下のあらゆる開発者製品の配布を試みることはありません。
 
 * (i) アクティブなマルウェアまたはエクスプロイトを含むまたはインストールするもの、あるいは当社のプラットフォームを (コマンドや管理システムの一部としてなど) エクスプロイトを配信する目的で使用すること。
 * (ii) ストリーミング コンテンツやメディアの無許可ダウンロードを可能にすること。または
@@ -194,7 +192,7 @@ Markdownをコピー
 * (iii) Marketplace のエンド ユーザーが所有するデータに過度のリスクをもたらす、または Marketplace や GitHub のユーザー エクスペリエンスを損なうと GitHub によって見なされます。または
 * (iv) お客様の EULA 違反についてエンドユーザーからの苦情の対象となります。
 
-GitHubは、自己の裁量により、開発者向け製品への個人データの転送を一時停止すること、開発者向け製品を通じた個人データの収集および処理を禁止すること、マーケットプレイスからリスティングを削除すること、関連資料（説明、スクリーンショット、メタデータを含みますが、これらに限定されません）にフラグを付けること、フィルタリングすること、またはリスティングを再分類することができます。 GitHub が登録情報に対してこれらのアクションのいずれかを実行する場合は、[GitHub の訴えと復帰プロセス](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を通じて GitHub のアクションを申し立てることができます
+GitHubは、自己の裁量により、開発者向け製品への個人データの転送を一時停止すること、開発者向け製品を通じた個人データの収集および処理を禁止すること、マーケットプレイスからリスティングを削除すること、関連資料（説明、スクリーンショット、メタデータを含みますが、これらに限定されません）にフラグを付けること、フィルタリングすること、またはリスティングを再分類することができます。 GitHub が登録情報に対してこれらのアクションのいずれかを実行する場合は、[GitHub の訴えと復帰プロセス](/ja/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)を通じて GitHub のアクションを申し立てることができます
 
 **4.3** 開発者向け製品更新。 GitHub は、リスティングに適用可能なバグ修正や機能強化を含むがこれらに限定されない更新を、随時確認することができます。 お客様が Marketplace へのリスティングを更新した場合、お客様はかかる更新が、お客様にさらなる通知を行うことなく、自動的に要求、ダウンロード、およびインストールされることに同意するものとします。 GitHub は、かかる更新のタイミングに関して一切保証しません。 リスティングの更新には、リスティングと同じ条件が適用されます。
 
@@ -303,7 +301,7 @@ GitHub は、Marketplace の運営および改善のため、Marketplace また�
 [19. プレリリースアクセス](#19-pre-release-access)
 ----------
 
-ベータ版または同様のプレリリース状態にある Marketplace の一部に登録情報がある場合、その部分の使用は GitHub の [プレリリース ライセンス条項](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)に準拠します。
+ベータ版または同様のプレリリース状態にある Marketplace の一部に登録情報がある場合、その部分の使用は GitHub の [プレリリース ライセンス条項](/ja/site-policy/github-terms/github-pre-release-license-terms)に準拠します。
 
 [追加契約 1: データ保護追加契約](#追加契約-1-データ保護追加契約)
 ==========

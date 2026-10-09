@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-折叠边栏展开侧边栏
+折叠边栏
 
-向左滚动痕迹导航
+展开侧边栏
 
 1. [主](/zh)
 2. [站点政策](/zh/site-policy)
 3. [可接受使用政策](/zh/site-policy/acceptable-use-policies)
 4. GitHub 申诉和恢复
-
-向右滚动痕迹导航
 
 [Site policy](/zh/site-policy)
 ----------
@@ -94,6 +92,8 @@ GitHub 申诉和恢复
 
 * [GitHub 申诉和恢复表](https://support.github.com/contact/reinstatement)
 * [npm 申诉和恢复表](https://support.github.com/support/contact/product-selection/reinstatement-requests/npm-reinstatement-request)
+
+如果无法登录 GitHub 帐户，请参见[无法登录](https://support.github.com/contact/cannot_sign_in)以联系 GitHub 支持。 验证邮箱后，可以访问申诉和恢复申请表。
 
 在 GitHub 上，你可以在决定作出后的最多六个月内寻求恢复授权或对审核决定提出申诉。 GitHub 可以自行决定是否拒绝考虑在做出决定后超出六个月时间范围所提出的任何申请。
 

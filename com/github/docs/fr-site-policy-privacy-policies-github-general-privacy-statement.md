@@ -35,16 +35,14 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Réduire la barre latéraleDévelopper la barre latérale
+Réduire la barre latérale
 
-Faire défiler les barres de navigation vers la gauche
+Développer la barre latérale
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
 3. [Politiques de Confidentialité](/fr/site-policy/privacy-policies)
 4. Déclaration de confidentialité générale GitHub
-
-Faire défiler les barres de navigation vers la droite
 
 [Site policy](/fr/site-policy)
 ----------
@@ -176,10 +174,10 @@ Il se peut que nous partagions des données personnelles avec les destinataires 
 * Entités de prévention des abus et des fraudes : Nous pouvons divulguer des données personnelles si nous pensons de bonne foi que cela est nécessaire pour prévenir la fraude, les abus ou les attaques sur nos Services, ou pour protéger la sécurité de GitHub et de nos utilisateurs.
 * Affiliés : Les données personnelles peuvent être partagées avec des affiliés GitHub, notamment Microsoft, pour simplifier le service client, le marketing et la publicité, l’exécution des commandes, la facturation, le support technique, les obligations légales et de conformité, le développement et l’amélioration des produits (dont la formation et l’amélioration des technologies d’intelligence artificielle et d’apprentissage automatique) et à d’autres fins décrites dans leurs déclarations de confidentialité respectives. En cas de partage de données avec des affiliés, celles-ci sont traitées conformément à la réglementation applicable et à leurs engagements en matière de confidentialité.
 * Comptes d’organisations GitHub : Si une organisation vous ajoute à son compte GitHub, nous pouvons partager des données personnelles avec cette organisation afin de satisfaire la relation commerciale. Dans ce cas, votre utilisation des Services est protégée par un accord de protection des données et des conditions entre votre organisation et GitHub
-* Autorités compétentes : Nous pouvons divulguer des données personnelles aux autorités chargées de l’application de la loi, aux régulateurs, aux tribunaux ou à d’autres autorités publiques en réponse à des demandes légales ou pour protéger nos droits et notre sécurité. Pour plus d’informations, reportez-vous à nos [Recommandations en matière de demandes légales de données utilisateur](https://docs.github.com/en/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data).
+* Autorités compétentes : Nous pouvons divulguer des données personnelles aux autorités chargées de l’application de la loi, aux régulateurs, aux tribunaux ou à d’autres autorités publiques en réponse à des demandes légales ou pour protéger nos droits et notre sécurité. Pour plus d’informations, reportez-vous à notre [Lignes directrices pour les demandes légales de données utilisateur](/fr/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data).
 * Entités chargées des transactions d’entreprise : Nous pouvons divulguer des données personnelles dans les limites de la loi et conformément à la présente déclaration de confidentialité dans le cadre de transactions d’entreprise stratégiques telles que des ventes ou des fusions.
 * Partenaires et revendeurs : Nous coopérons avec des tiers qui offrent des services de vente, de conseil, de support et des services techniques pour nos Services. Nous pouvons partager vos données avec ces partenaires et revendeurs lorsque cela est autorisé, et avec votre consentement le cas échéant.
-* Sous-traitants et prestataires de services : Nous pouvons faire appel à des vendeurs pour fournir des services en notre nom, notamment des services d’hébergement, de marketing, de publicité, sociaux, d’analyse, de billetterie d’assistance, de traitement des cartes de crédit ou de sécurité. Ils sont liés par des obligations contractuelles pour assurer la sécurité, la protection de la vie privée et la confidentialité de vos informations. Veuillez consulter <https://docs.github.com/en/site-policy/privacy-policies/github-subprocessors> pour afficher notre liste de sous-traitants.
+* Sous-traitants et prestataires de services : Nous pouvons faire appel à des vendeurs pour fournir des services en notre nom, notamment des services d’hébergement, de marketing, de publicité, sociaux, d’analyse, de billetterie d’assistance, de traitement des cartes de crédit ou de sécurité. Ils sont liés par des obligations contractuelles pour assurer la sécurité, la protection de la vie privée et la confidentialité de vos informations. Veuillez consulter [Sous-processeurs GitHub](/fr/site-policy/privacy-policies/github-subprocessors) pour afficher notre liste de sous-traitants ultérieurs.
 * Visual Studio Code (GitHub Codespaces) : GitHub Codespaces et github.dev offrent Visual Studio Code dans un navigateur Web, où certaines données de télémétrie sont collectées par défaut. Les détails de la collecte de données de télémétrie se trouvent sur le [site Web VS Code](https://code.visualstudio.com/docs/configure/telemetry). Pour refuser, accédez à Fichier \> Préférences \> Paramètres dans le menu supérieur gauche de VS Code. Si vous désactivez cette option, cette préférence sera synchronisée avec toutes les futures sessions Web dans GitHub Codespaces et github.dev.
 * Autres applications tierces : Sur votre demande, nous pouvons partager des données personnelles avec des applications tierces disponibles sur notre Place de marché. Vous êtes responsable des données que vous nous demandez de partager avec ces applications.
 * Autres utilisateurs et public : En fonction des paramètres de votre compte, nous pouvons partager des données personnelles avec d’autres utilisateurs des Services et avec le public. Vous contrôlez les informations qui sont rendues publiques. Pour ajuster vos paramètres, visitez la section Paramètres de l’utilisateur dans votre profil. Sachez que toutes les informations que vous partagez dans un contexte collaboratif peuvent devenir accessibles publiquement.
