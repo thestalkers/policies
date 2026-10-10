@@ -150,7 +150,7 @@ Ungeachtet der in Abschnitt 2 (Zweck und Lizenzgewährung) dargelegten Anforderu
 
 **3.2** Um eine GitHub-API nutzen und darauf zugreifen zu können, müssen Entwickler ein Token erhalten, indem er Abonnent wird. Der Entwickler darf seinen Token nicht an Dritte weitergeben, muss diesen Token und alle Anmeldeinformationen sicher aufbewahren und den Token als einziges Mittel des Entwicklers für den Zugriff auf die GitHub-API verwenden.
 
-**3.3** Entwickler engagieren sich nicht mit Marketplace, einschließlich des Versuchs, ein Entwicklerprodukt zu verteilen, das gegen die Nutzungsbedingungen von GitHub einschließlich [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies) verstößt. Darüber hinaus versucht Entwickler nicht, ein Entwicklerprodukt zu verteilen, das:
+**3.3** Entwickler engagieren sich nicht mit Marketplace, einschließlich des Versuchs, ein Entwicklerprodukt zu verteilen, das gegen die Vertragsbedingungen von GitHub einschließlich [GitHub-Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) verstößt. Darüber hinaus versucht Entwickler nicht, ein Entwicklerprodukt zu verteilen, das:
 
 * (i) aktive Schadsoftware oder Exploits enthält oder installiert oder unsere Plattform für die Bereitstellung von Exploits nutzt (z. B. als Teil eines Befehls und Steuerungssystems);
 * (ii) den unautorisierten Download von Streaminginhalten oder Medien aktiviert;
@@ -192,7 +192,7 @@ Wenn GitHub von Ihnen benachrichtigt wird oder anderweitig davon Kenntnis erlang
 * (iii) von GitHub als ein unangemessenes Risiko für die Daten von Marketplace-Endbenutzenden angesehen oder die Benutzererfahrung von Marketplace oder GitHub beeinträchtigt wird;
 * (iv) Gegenstand von Endbenutzerbeschwerden in Bezug auf Ihren Verstoß gegen Ihre EULA ist.
 
-GitHub kann: die Übertragung personenbezogener Daten an Ihr Entwicklerprodukt aussetzen; die Erfassung und Verarbeitung personenbezogener Daten über Ihr Entwicklerprodukt zu verbieten; entfernen Sie das Listing aus Marketplace; Kennzeichnen, Filtern oder Ändern verwandter Materialien (einschließlich, aber nicht beschränkt auf Beschreibungen, Screenshots oder Metadaten); oder klassifizieren Sie das Listing nach eigenem Ermessen neu. Wenn GitHub eine dieser Aktionen in Ihrem Eintrag ausführt, können Sie die Aktion von GitHub über den [GitHub-Aufruf und den Reaktivierungsprozess anfordern](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
+GitHub kann: die Übertragung personenbezogener Daten an Ihr Entwicklerprodukt aussetzen; die Erfassung und Verarbeitung personenbezogener Daten über Ihr Entwicklerprodukt zu verbieten; entfernen Sie das Listing aus Marketplace; Kennzeichnen, Filtern oder Ändern verwandter Materialien (einschließlich, aber nicht beschränkt auf Beschreibungen, Screenshots oder Metadaten); oder klassifizieren Sie das Listing nach eigenem Ermessen neu. Wenn GitHub eine dieser Aktionen in Ihrem Eintrag ausführt, können Sie die Aktion von GitHub über den [GitHub-Aufruf und den Reaktivierungsprozess anfordern](/de/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)
 
 **4.3** Entwicklerproduktupdates. Von Zeit zu Zeit kann GitHub nach verfügbaren Updates für ein Listing suchen, einschließlich, aber nicht beschränkt auf Fehlerbehebungen oder erweiterte Funktionen. Wenn Sie Ihren Eintrag auf dem Marktplatz aktualisieren, stimmen Sie zu, dass diese Aktualisierung automatisch angefordert, heruntergeladen und ohne weitere Benachrichtigung an Sie installiert wird. GitHub gibt keine Garantien bezüglich des Zeitpunkts solcher Aktualisierungen. Für Aktualisierungen eines Listings gelten dieselben Bestimmungen und Bedingungen wie für das Listing.
 
@@ -301,7 +301,7 @@ Um den Marktplatz zu betreiben und zu verbessern, kann GitHub Nutzungsdaten vom 
 [19. VORABVERSIONSZUGRIFF](#19-pre-release-access)
 ----------
 
-Wenn Sie ein Listing auf einem Teil des Marketplace haben, der sich in einem Beta- oder ähnlichen Vorveröffentlichungsstatus befindet, unterliegt Ihre Nutzung dieses Teils den [Vorveröffentlichungs-Lizenzbedingungen](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms) von GitHub.
+Wenn Sie ein Listing auf einem Teil des Marketplace haben, der sich in einem Beta- oder ähnlichen Vorveröffentlichungsstatus befindet, unterliegt Ihre Nutzung dieses Teils den [Vorveröffentlichungs-Lizenzbedingungen](/de/site-policy/github-terms/github-pre-release-license-terms) von GitHub.
 
 [Nachtrag 1: Nachtrag zum Datenschutz](#nachtrag-1-nachtrag-zum-datenschutz)
 ==========
