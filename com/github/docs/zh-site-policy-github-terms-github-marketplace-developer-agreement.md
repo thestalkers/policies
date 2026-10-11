@@ -150,7 +150,7 @@ GitHub Marketplace 开发人员协议
 
 **3.2** 要使用和访问 GitHub API，开发人员必须通过成为订阅者来获得令牌。 开发人员不得与任何第三方分享其令牌，须保证其令牌和所有登录信息的安全，并且须使用此令牌作为开发人员访问 GitHub API 的唯一手段。
 
-**3.3** 开发人员不会参与 Marketplace 的任何活动，包括尝试分发任何违反 GitHub 服务条款（包括[可接受使用政策](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)）的开发人员产品。 此外，开发人员不会尝试分发任何以下开发人员产品：
+**3.3** 开发人员不会参与 Marketplace 的任何活动，包括尝试分发任何违反 GitHub 服务条款（包括 [GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies)）的开发人员产品。 此外，开发人员不会尝试分发任何以下开发人员产品：
 
 * (i) 包含或安装任何主动恶意软件或漏洞利用程序，或者使用我们的平台传递漏洞利用程序（例如将其嵌入在命令和控制系统中）；
 * (ii) 允许未经授权下载流内容或媒体；或
@@ -192,7 +192,7 @@ GitHub Marketplace 开发人员协议
 * (iii) 被 GitHub 认为会给 Marketplace 最终用户的数据增加不应有的风险或损害用户使用 Marketplace 或 GitHub 的体验；或
 * (iv) 因你违反 EULA 而遭到最终用户投诉，
 
-GitHub 可能：暂停将个人数据传输至开发人员产品；禁止通过开发人员产品收集和处理个人数据；从 Marketplace 中删除该上架产品；标记、筛选或修改相关材料（包括但不限于说明、屏幕截图或元数据）；或自行重新分类该上架产品。 如果 GitHub 对上架产品采取上述任何操作，可以通过 [GitHub 上诉和恢复程序](https://docs.github.com/en/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)对 GitHub 的操作提出上诉
+GitHub 可能：暂停将个人数据传输至开发人员产品；禁止通过开发人员产品收集和处理个人数据；从 Marketplace 中删除该上架产品；标记、筛选或修改相关材料（包括但不限于说明、屏幕截图或元数据）；或自行重新分类该上架产品。 如果 GitHub 对上架产品采取上述任何操作，可以通过 [GitHub 上诉和恢复程序](/zh/site-policy/acceptable-use-policies/github-appeal-and-reinstatement)对 GitHub 的操作提出上诉
 
 **4.3** 开发人员产品更新。 GitHub 可能会不时检查所有上架产品的可用更新，包括但不限于 Bug 修复或功能增强。 如果您在 Marketplace 上更新您的上架产品，则表示您同意此更新将被自动请求、下载和安装，而无需另行通知您。 GitHub 不保证此类更新的时间。 更新上架产品须遵守与上架产品相同条款和条件的约束。
 
@@ -301,7 +301,7 @@ GitHub 通知可通过电子邮件发送至 [legal-support@github.com](mailto:le
 [19. 预发布访问](#19-pre-release-access)
 ----------
 
-如果你在处于 beta 版本或类似预发布状态的 Marketplace 中有一个上架产品，则使用该部分受 GitHub [预发布许可条款](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)的约束。
+如果你在处于 beta 版本或类似预发布状态的 Marketplace 中有一个上架产品，则使用该部分受 GitHub [预发布许可条款](/zh/site-policy/github-terms/github-pre-release-license-terms)的约束。
 
 [附录 1：数据保护附录](#附录-1数据保护附录)
 ==========
