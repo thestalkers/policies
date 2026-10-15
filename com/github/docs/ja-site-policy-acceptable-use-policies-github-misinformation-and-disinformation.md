@@ -35,14 +35,16 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-サイドバーを折りたたむ
+サイドバーを折りたたむサイドバーを展開する
 
-サイドバーを展開する
+階層リンクを左にスクロールする
 
 1. [ホーム](/ja)
 2. [サイト ポリシー](/ja/site-policy)
 3. [利用規約](/ja/site-policy/acceptable-use-policies)
 4. 偽情報ポリシー
+
+階層リンクを右にスクロールする
 
 [Site policy](/ja/site-policy)
 ----------

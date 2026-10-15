@@ -35,14 +35,16 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Collapse sidebar
+Collapse sidebarExpand sidebar
 
-Expand sidebar
+Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Other Site Policies](/en/site-policy/other-site-policies)
 4. Guidelines for Legal Requests of User Data
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------

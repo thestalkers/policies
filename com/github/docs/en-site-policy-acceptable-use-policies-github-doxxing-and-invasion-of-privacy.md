@@ -35,14 +35,16 @@ else if(q.addListener)q.addListener(apply);
 
 [Skip to content](#main-content)
 
-Collapse sidebar
+Collapse sidebarExpand sidebar
 
-Expand sidebar
+Scroll breadcrumbs left
 
 1. [Home](/en)
 2. [Site policy](/en/site-policy)
 3. [Acceptable Use Policies](/en/site-policy/acceptable-use-policies)
 4. Doxxing and Invasion of Privacy
+
+Scroll breadcrumbs right
 
 [Site policy](/en/site-policy)
 ----------
