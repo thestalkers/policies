@@ -57,9 +57,9 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
+* [A. Conditions d'utilisation de GitHub.com](#a-githubcoms-terms-of-service)
 
-* [B. Conditions d'utilisation](#b-conditions-dutilisation)
+* [B. Conditions d'utilisation](#b-use-requirements)
 
 * [C. Produits pour développeurs et fournisseurs de produits](#c-developer-products-and-product-providers)
 
@@ -83,14 +83,14 @@ En utilisant Marketplace, vous acceptez d'être lié par les présentes Conditio
 
 Date d’entrée en vigueur : 27 avril 2026
 
-[A. Conditions d'utilisation de GitHub.com](#a-conditions-dutilisation-de-githubcom)
+[A. Conditions d'utilisation de GitHub.com](#a-githubcoms-terms-of-service)
 ----------
 
 Marketplace est fournie par GitHub et est régie par ces conditions de Marketplace combinées avec votre contrat principal avec nous : les [conditions d’utilisation gitHub](/fr/site-policy/github-terms/github-terms-of-service) ou le contrat client GitHub, ou les [conditions d’utilisation du service](/fr/site-policy/github-terms/github-corporate-terms-of-service) d’entreprise GitHub ou d’autres contrats GitHub hérités, ou un contrat de licence en volume Microsoft. Si vous configurez les produits développés pour fonctionner avec un ou plusieurs comptes sur le site Web GitHub.com, votre utilisation des produits développés sera également régie par vos conditions GitHub applicables. Tous les termes en majuscules non définis dans ce document seront définis dans vos Conditions GitHub applicables.
 
 Vous ne pouvez pas utiliser un produit développé pour enfreindre vos conditions GitHub applicables. Bon nombre de ces produits développés sont utilisés exclusivement pour effectuer des tâches automatisées. En outre, plusieurs Utilisateurs peuvent diriger les actions d'un Produit Développé. Toutefois, si vous achetez et/ou configurez un produit développé sur votre compte, ou si vous êtes propriétaire d'un compte avec un produit développé intégré, vous serez alors responsable des actions du produit développé effectuées sur ou via votre compte.
 
-[B. Conditions d'utilisation](#b-conditions-dutilisation)
+[B. Conditions d'utilisation](#b-use-requirements)
 ----------
 
 Pour utiliser Marketplace, vous devez avoir 13 ans ou plus (si vous vivez aux États-Unis ; si vous vivez dans un autre pays, vous devez vous conformer aux lois sur l'âge minimum de votre pays), avoir un compte GitHub valide et avoir accepté vos conditions GitHub applicables et les présentes conditions du marché.

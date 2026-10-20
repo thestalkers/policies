@@ -57,13 +57,13 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [Qu'est-ce que les informations privées ?](#quest-ce-que-les-informations-privées)
+* [Qu'est-ce que les informations privées ?](#what-is-private-information)
 
 * [Choses à savoir](#things-to-know)
 
 * [Comment cela fonctionne-t-il réellement ?](#how-does-this-actually-work)
 
-* [Envoi d'une demande de suppression d'informations privées](#envoi-dune-demande-de-suppression-dinformations-privées)
+* [Envoi d'une demande de suppression d'informations privées](#sending-a-private-information-removal-request)
 
 * [Comment soumettre votre demande](#how-to-submit-your-request)
 
@@ -71,21 +71,21 @@ Dans cet article
 
 Nous proposons ce processus de retrait des informations privées en tant que service exceptionnel, uniquement pour les contenus à haut risque qui violent les [Conditions d'utilisation du service de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies), par exemple lorsque votre sécurité est menacée par des informations d'identification d'accès exposées. Ce guide décrit les informations dont GitHub a besoin pour traiter une demande de suppression d'informations privées d'un référentiel.
 
-[Qu'est-ce que les informations privées ?](#quest-ce-que-les-informations-privées)
+[Qu'est-ce que les informations privées ?](#what-is-private-information)
 ----------
 
 Aux fins du présent document, les « informations privées » désignent le contenu qui (i) aurait dû rester confidentiel, *et* (ii) dont la disponibilité publique présente un risque de sécurité spécifique ou ciblé pour vous ou votre organisation.
 
 Le « risque de sécurité » fait référence à une situation impliquant une exposition à un danger physique, un vol d'identité ou une probabilité accrue d'accès non autorisé à des installations physiques ou réseau.
 
-### [Les demandes de suppression d'informations privées sont appropriées pour :](#les-demandes-de-suppression-dinformations-privées-sont-appropriées-pour) ###
+### [Les demandes de suppression d'informations privées sont appropriées pour :](#private-information-removal-requests-are-appropriate-for) ###
 
 * Accéder aux informations d'identification, telles que les noms d'utilisateur combinés à des mots de passe, des jetons d'accès ou d'autres secrets sensibles qui peuvent accorder l'accès au serveur, au réseau ou au domaine de votre organisation.
 * Jetons AWS et autres informations d'identification d'accès similaires qui accordent l'accès à un tiers en votre nom. Vous devez être en mesure de prouver que le jeton vous appartient.
 * Documentation (telle que des diagrammes ou une architecture de réseau) qui pose un risque de sécurité spécifique pour une organisation.
 * Des [informations](/fr/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) relatives à vous-même en tant que personne et présentant un risque de sécurité pour vous (par exemple des numéros de sécurité sociale ou d'autres numéros d'identification administratifs).
 
-### [Les demandes de suppression d'informations privées ne sont *pas* appropriées pour :](#les-demandes-de-suppression-dinformations-privées-ne-sont-pas-appropriées-pour) ###
+### [Les demandes de suppression d'informations privées ne sont *pas* appropriées pour :](#private-information-removal-requests-are-not-appropriate-for) ###
 
 * Noms de serveurs internes, adresses IP et URL, seuls. Vous devez être en mesure de prouver que leur utilisation dans un fichier ou un morceau de code particulier constitue une menace pour la sécurité.
 * De simples mentions de l'identité, du nom, de la marque, du nom de domaine de votre entreprise ou d'autres références à votre entreprise dans des fichiers sur GitHub. Vous devez être en mesure d'expliquer pourquoi l'utilisation de l'identité de votre entreprise constitue une menace pour la sécurité de votre entreprise.
@@ -125,7 +125,7 @@ Le « risque de sécurité » fait référence à une situation impliquant une
 
 7. **L'utilisateur peut demander une fenêtre supplémentaire pour apporter des modifications.** Si l'utilisateur a raté l'occasion de supprimer les informations privées spécifiées dans l'avis, nous pouvons lui accorder une fenêtre supplémentaire d'environ 1 jour ouvrable, sur demande, pour effectuer ces modifications. Dans ce cas, GitHub informera le plaignant.
 
-### [Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#quen-est-il-des-fourches-ou-quest-ce-quune-fourchette) ###
+### [Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#what-about-forks-or-whats-a-fork) ###
 
 L'une des meilleures fonctionnalités de GitHub est la possibilité pour les utilisateurs de « fourcher » les référentiels les uns des autres. Qu'est-ce que cela signifie ? Essentiellement, cela signifie que les utilisateurs peuvent faire une copie d'un projet sur GitHub dans leurs propres référentiels. Comme la licence ou la loi le permet, les utilisateurs peuvent ensuite apporter des modifications à ce fork pour soit revenir au projet principal, soit simplement conserver leur propre variante d'un projet. Chacun de ces exemplaires est un « [glossaire GitHub](/fr/get-started/learning-about-github/github-glossary#fork) » du référentiel d'origine, qui à son tour peut également être appelé le « parent » du fork.
 
@@ -133,7 +133,7 @@ GitHub ne désactive pas automatiquement les forks lors de la désactivation d'u
 
 Si, au moment où vous avez soumis votre notification, vous avez identifié toutes les fourches existantes de ce référentiel, nous traiterons une réclamation valide contre toutes les fourches de ce réseau au moment où nous traiterons la notification. Nous le ferions étant donné la probabilité que toutes les fourches nouvellement créées contiendraient le même contenu. De plus, si le réseau signalé qui contient le contenu signalé est plus grand que cent (100) référentiels et serait donc difficile à examiner dans son intégralité, nous pouvons envisager de désactiver l'ensemble du réseau si vous indiquez dans votre avis que, sur la base du nombre représentatif de fourches que vous avez examinées, vous pensez que la totalité ou la plupart des fourches contiennent le contenu signalé dans le référentiel parent.
 
-[Envoi d'une demande de suppression d'informations privées](#envoi-dune-demande-de-suppression-dinformations-privées)
+[Envoi d'une demande de suppression d'informations privées](#sending-a-private-information-removal-request)
 ----------
 
 En raison du type de contenu hébergé par GitHub (principalement du code logiciel) et de la manière dont ce contenu est géré (avec Git), nous avons besoin que les réclamations soient aussi précises que possible. Afin que nous puissions vérifier qu'un utilisateur a complètement supprimé les informations privées signalées, nous devons savoir exactement où chercher.

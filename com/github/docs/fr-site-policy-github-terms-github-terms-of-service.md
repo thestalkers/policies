@@ -59,7 +59,7 @@ Dans cet article
 
 * [Résumé](#summary)
 
-* [Les conditions d'utilisation de GitHub](#les-conditions-dutilisation-de-github)
+* [Les conditions d'utilisation de GitHub](#the-github-terms-of-service)
 
 * [A. Définitions](#a-definitions)
 
@@ -71,7 +71,7 @@ Dans cet article
 
 * [E. Dépôts privés](#e-private-repositories)
 
-* [F. Violation des droits d'auteur et politique DMCA](#f-violation-des-droits-dauteur-et-politique-dmca)
+* [F. Violation des droits d'auteur et politique DMCA](#f-copyright-infringement-and-dmca-policy)
 
 * [G. Avis sur la Propriété Intellectuelle](#g-intellectual-property-notice)
 
@@ -126,7 +126,7 @@ Merci d'utiliser GitHub ! Nous sommes heureux que vous soyez ici. Veuillez lire
 |      [R. Modifications apportées aux présentes Conditions d’utilisation du service](#r-changes-to-these-terms)       |                                                                                                Nous pouvons modifier cet accord, mais nous vous donnerons un préavis de 30 jours en cas de changements importants.                                                                                                 |
 |                                     [S. Dispositions diverses](#s-miscellaneous)                                     |                                                                                                            Veuillez consulter cette section pour les détails juridiques, y compris notre choix de loi.                                                                                                             |
 
-[Les conditions d'utilisation de GitHub](#les-conditions-dutilisation-de-github)
+[Les conditions d'utilisation de GitHub](#the-github-terms-of-service)
 ----------
 
 Date d’entrée en vigueur : 27 avril 2026
@@ -298,7 +298,7 @@ En outre, nous pouvons être [contraints par la loi](/fr/site-policy/privacy-pol
 
 GitHub fournira un avis concernant notre accès au contenu des dépôts privés, sauf [en cas de divulgation légale](/fr/site-policy/privacy-policies/github-general-privacy-statement), pour se conformer à nos obligations légales, ou lorsqu’elle est autrement liée par des exigences légales, pour une analyse automatisée, ou en réponse à une menace de sécurité ou à un autre risque pour la sécurité.
 
-[F. Violation des droits d'auteur et politique DMCA](#f-violation-des-droits-dauteur-et-politique-dmca)
+[F. Violation des droits d'auteur et politique DMCA](#f-copyright-infringement-and-dmca-policy)
 ----------
 
 Si vous pensez que le contenu de notre site Web viole vos droits d’auteur, veuillez nous contacter conformément à notre [Stratégie relative au Digital Millennium Copyright Act](/fr/site-policy/content-removal-policies/dmca-takedown-policy). Si vous êtes titulaire d’un droit d’auteur et que vous estimez que le contenu de GitHub viole vos droits, veuillez nous contacter via [notre formulaire DMCA](https://github.com/contact/dmca) ou envoyez un e-mail à [copyright@github.com](mailto:copyright@github.com). L'envoi d'un avis de retrait faux ou frivole peut entraîner des conséquences juridiques. Avant d'envoyer une demande de retrait, vous devez tenir compte des utilisations légales telles que l'utilisation équitable et les utilisations sous licence.

@@ -61,13 +61,13 @@ Dans cet article
 
 * [Comment soumettre une demande de prise en charge gouvernementale](#how-to-submit-a-government-takedown-request)
 
-* [Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#que-se-passe-t-il-lorsque-nous-recevons-une-demande-de-retrait-complète-dun-gouvernement)
+* [Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 
 * [Pourquoi publions-nous publiquement des avis de retrait ?](#why-do-we-publicly-post-takedown-notices)
 
-* [Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#quest-ce-que-cela-signifie-si-nous-publions-un-avis-dans-notre-référentiel-gov-takedowns)
+* [Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 
-* [Retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub](#retraits-gouvernementaux-basés-sur-des-violations-des-conditions-dutilisation-de-github)
+* [Retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 
 * [Rapports de transparence](#transparency-reporting)
 
@@ -87,7 +87,7 @@ Pour être considérée comme complète, une demande doit
 * Identifier le contenu illégal
 * Préciser la source de l'illégalité dans cette juridiction (loi ou décision de justice).
 
-[Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#que-se-passe-t-il-lorsque-nous-recevons-une-demande-de-retrait-complète-dun-gouvernement)
+[Que se passe-t-il lorsque nous recevons une demande de retrait complète d'un gouvernement ?](#what-happens-when-we-receive-a-complete-takedown-request-from-a-government)
 ----------
 
 Lorsque nous recevons un avis d'un organisme gouvernemental officiel pertinent qui identifie un contenu illégal et précise la source de l'illégalité, nous
@@ -102,12 +102,12 @@ Lorsque nous recevons un avis d'un organisme gouvernemental officiel pertinent q
 
 Nous sommes préoccupés par la censure d'Internet et pensons que la transparence à un niveau spécifique et continu est essentielle à une bonne gouvernance. En publiant publiquement les avis, nous pouvons mieux informer le public sur le contenu qui est retenu sur GitHub et pourquoi. Nous publions des avis de retrait pour documenter leur potentiel à refroidir la parole.
 
-[Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#quest-ce-que-cela-signifie-si-nous-publions-un-avis-dans-notre-référentiel-gov-takedowns)
+[Qu'est-ce que cela signifie si nous publions un avis dans notre référentiel gov-takedowns ?](#what-does-it-mean-if-we-post-a-notice-in-our-gov-takedowns-repository)
 ----------
 
 Cela signifie que nous avons reçu l'avis à la date indiquée. Cela ne signifie *pas* que le contenu était illégal ou erroné. Cela ne signifie *pas* que l'utilisateur identifié dans l'avis a fait quelque chose de mal. Nous ne portons ni n'impliquons aucun jugement sur le bien-fondé des affirmations qu'ils font. Nous publions ces avis et demandes uniquement à des fins d'information.
 
-[Retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub](#retraits-gouvernementaux-basés-sur-des-violations-des-conditions-dutilisation-de-github)
+[Retraits gouvernementaux basés sur des violations des conditions d'utilisation de GitHub](#government-takedowns-based-on-violations-of-githubs-terms-of-service)
 ----------
 
 Dans certains cas, GitHub reçoit des rapports de responsables gouvernementaux faisant état de violations des conditions d'utilisation de GitHub. Nous traitons ces violations comme nous traiterions une violation des conditions d'utilisation signalée par quelqu'un d'autre. Cependant, nous informons les utilisateurs concernés que le rapport provient d'un gouvernement et, comme pour tout autre cas, nous leur donnons la possibilité de faire appel.

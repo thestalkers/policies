@@ -57,19 +57,19 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [La structure, les activités et les chaînes d'approvisionnement de GitHub](#la-structure-les-activités-et-les-chaînes-dapprovisionnement-de-github)
+* [La structure, les activités et les chaînes d'approvisionnement de GitHub](#githubs-structure-business-and-supply-chains)
 
-* [Politiques relatives à l'esclavage moderne et au travail des enfants](#politiques-relatives-à-lesclavage-moderne-et-au-travail-des-enfants)
+* [Politiques relatives à l'esclavage moderne et au travail des enfants](#policies-in-relation-to-modern-slavery-and-child-labor)
 
 * [Législation et pratiques du travail](#labor-laws-and-practices)
 
-* [Processus de diligence raisonnable concernant l'esclavage moderne et le travail des enfants dans ses activités et ses chaînes d'approvisionnement](#processus-de-diligence-raisonnable-concernant-lesclavage-moderne-et-le-travail-des-enfants-dans-ses-activités-et-ses-chaînes-dapprovisionnement)
+* [Processus de diligence raisonnable concernant l'esclavage moderne et le travail des enfants dans ses activités et ses chaînes d'approvisionnement](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 
-* [Endroits dans les activités et les chaînes d'approvisionnement de GitHub où il existe un risque d'esclavage moderne et de travail des enfants, et mesures prises par GitHub pour évaluer et gérer ce risque](#endroits-dans-les-activités-et-les-chaînes-dapprovisionnement-de-github-où-il-existe-un-risque-desclavage-moderne-et-de-travail-des-enfants-et-mesures-prises-par-github-pour-évaluer-et-gérer-ce-risque)
+* [Endroits dans les activités et les chaînes d'approvisionnement de GitHub où il existe un risque d'esclavage moderne et de travail des enfants, et mesures prises par GitHub pour évaluer et gérer ce risque](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 
-* [Efficacité à garantir que ni l'esclavage moderne ni le travail des enfants ne se produisent dans les activités ou les chaînes d'approvisionnement de GitHub](#efficacité-à-garantir-que-ni-lesclavage-moderne-ni-le-travail-des-enfants-ne-se-produisent-dans-les-activités-ou-les-chaînes-dapprovisionnement-de-github)
+* [Efficacité à garantir que ni l'esclavage moderne ni le travail des enfants ne se produisent dans les activités ou les chaînes d'approvisionnement de GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 
-* [Formation du personnel de GitHub sur l'esclavage moderne et la traite des êtres humains](#formation-du-personnel-de-github-sur-lesclavage-moderne-et-la-traite-des-êtres-humains)
+* [Formation du personnel de GitHub sur l'esclavage moderne et la traite des êtres humains](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 
 *Déclaration 2018*
 
@@ -83,7 +83,7 @@ GitHub déplore la présence et la persistance de l'esclavage moderne et du trav
 
 Conformément à la [loi britannique sur l'esclavage moderne](https://www.legislation.gov.uk/ukpga/2015/30/section/54/enacted) (UK Modern Slavery Act) et au [Protocole de 2014 de l'OIT ajouté à sa Convention sur le travail forcé](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:P029), la [Déclaration de l'OIT relative aux principes et droits fondamentaux au travail](https://www.ilo.org/ilo-declaration-fundamental-principles-and-rights-work)) et la [cible 8.7 des Objectifs de développement durable des Nations unies](https://sdgs.un.org/goals/goal8), la présente Déclaration 2018 contre l'Esclavage moderne et le Travail des Enfants (la « Déclaration ») décrit les mesures prises par GitHub pour empêcher l'esclavage moderne et le travail des enfants dans son activité ou sa chaîne d'approvisionnement.
 
-[La structure, les activités et les chaînes d'approvisionnement de GitHub](#la-structure-les-activités-et-les-chaînes-dapprovisionnement-de-github)
+[La structure, les activités et les chaînes d'approvisionnement de GitHub](#githubs-structure-business-and-supply-chains)
 ----------
 
 GitHub est une plate-forme de développement de logiciels dont le siège est à San Francisco, et des employés et sous-traitants travaillant dans de nombreux pays.
@@ -101,7 +101,7 @@ GitHub propose des logiciels gratuits et payants et des logiciels Web en tant qu
 
 La chaîne d'approvisionnement de GitHub se compose de biens et services pour nos produits et opérations, y compris les services informatiques, la planification d'événements, l'achat d'articles de vente au détail et promotionnels, les fournitures de bureau et la location d'installations telles que des bureaux et des centres de données.
 
-[Politiques relatives à l'esclavage moderne et au travail des enfants](#politiques-relatives-à-lesclavage-moderne-et-au-travail-des-enfants)
+[Politiques relatives à l'esclavage moderne et au travail des enfants](#policies-in-relation-to-modern-slavery-and-child-labor)
 ----------
 
 ### [Esclavage moderne et travail des enfants](#modern-slavery-and-child-labor) ###
@@ -143,19 +143,19 @@ Les pratiques de travail de GitHub sont
 * GitHub offre des avantages aux employés égaux ou supérieurs aux niveaux attendus dans l'industrie
 * GitHub encourage les employés à signaler toute plainte sur le lieu de travail et ne tolère pas les représailles pour avoir signalé
 
-[Processus de diligence raisonnable concernant l'esclavage moderne et le travail des enfants dans ses activités et ses chaînes d'approvisionnement](#processus-de-diligence-raisonnable-concernant-lesclavage-moderne-et-le-travail-des-enfants-dans-ses-activités-et-ses-chaînes-dapprovisionnement)
+[Processus de diligence raisonnable concernant l'esclavage moderne et le travail des enfants dans ses activités et ses chaînes d'approvisionnement](#due-diligence-processes-in-relation-to-modern-slavery-and-child-labor-in-its-business-and-supply-chains)
 ----------
 
 GitHub évalue ses activités et sa chaîne d'approvisionnement pour détecter les risques liés à l'esclavage moderne et au travail des enfants. S'appuyant sur l'expertise interne et externe en matière de droits de l'homme, GitHub s'est engagé dans une analyse interfonctionnelle (y compris la politique, le juridique, l'approvisionnement, les finances et les opérations, en particulier les ressources humaines) pour déterminer où les services de main-d'œuvre existent dans son entreprise et sa chaîne d'approvisionnement et pour identifier les potentiels risques liés à l'esclavage moderne et au travail des enfants. GitHub donne la priorité aux domaines où ces risques pourraient être plus importants en termes de gravité, d'échelle ou de probabilité pour une diligence raisonnable, une surveillance et une vérification accrues. GitHub continue d'examiner où les risques peuvent survenir et comment les traiter. De plus, GitHub obtient désormais l'assurance de ses fournisseurs qu'ils ont des pratiques conformes à la présente Déclaration, notamment en se conformant aux lois relatives à l'esclavage moderne ou au travail des enfants.
 
-[Endroits dans les activités et les chaînes d'approvisionnement de GitHub où il existe un risque d'esclavage moderne et de travail des enfants, et mesures prises par GitHub pour évaluer et gérer ce risque](#endroits-dans-les-activités-et-les-chaînes-dapprovisionnement-de-github-où-il-existe-un-risque-desclavage-moderne-et-de-travail-des-enfants-et-mesures-prises-par-github-pour-évaluer-et-gérer-ce-risque)
+[Endroits dans les activités et les chaînes d'approvisionnement de GitHub où il existe un risque d'esclavage moderne et de travail des enfants, et mesures prises par GitHub pour évaluer et gérer ce risque](#places-in-githubs-business-and-supply-chains-where-there-is-a-risk-of-modern-slavery-and-child-labor-and-steps-github-has-taken-to-assess-and-manage-that-risk)
 ----------
 
 GitHub n'a identifié aucun fournisseur à haut risque ; cependant, l'esclavage moderne ou le travail des enfants seraient plus susceptibles de se produire avec des fournisseurs de services impliquant du travail manuel, tels que le soutien aux événements, la construction, les services d'installations et les services de restauration. GitHub auditera ses fournisseurs existants et demandera à ceux qui se trouvent dans ces zones à haut risque de confirmer qu'ils fournissent des services conformes à la présente déclaration.
 
 Bien que GitHub n'ait connaissance d'aucun cas réel ou présumé d'esclavage moderne ou de travail des enfants dans son entreprise ou sa chaîne d'approvisionnement, et n'ait aucune base crédible pour croire que cela se produit, GitHub s'engage à fournir des recours si GitHub lui-même devait directement causer l'esclavage moderne ou le travail des enfants et à la résolution de schémas plus larges de non-conformité à la présente Déclaration causés par des lacunes dans les systèmes ou processus de GitHub. La réparation de GitHub aux victimes individuelles comprendrait des protocoles pour une action immédiate appropriée pour éliminer l'esclavage moderne et les pratiques de travail des enfants, ainsi que des ressources pour des services aux victimes raisonnables et appropriés conçus pour compenser le préjudice subi.
 
-[Efficacité à garantir que ni l'esclavage moderne ni le travail des enfants ne se produisent dans les activités ou les chaînes d'approvisionnement de GitHub](#efficacité-à-garantir-que-ni-lesclavage-moderne-ni-le-travail-des-enfants-ne-se-produisent-dans-les-activités-ou-les-chaînes-dapprovisionnement-de-github)
+[Efficacité à garantir que ni l'esclavage moderne ni le travail des enfants ne se produisent dans les activités ou les chaînes d'approvisionnement de GitHub](#effectiveness-in-ensuring-neither-modern-slavery-nor-child-labor-is-occurring-in-githubs-business-or-supply-chains)
 ----------
 
 GitHub respecte et continuera de respecter les lois relatives à l'esclavage moderne et au travail des enfants.
@@ -177,7 +177,7 @@ De plus, GitHub encourage fortement ses fournisseurs à :
 
 Les instructions d'approvisionnement de GitHub aux employés effectuant des achats de l'entreprise incluent désormais une référence à l'obligation pour les fournisseurs de se conformer au Code de conduite des fournisseurs de Microsoft ou à la présente Déclaration.
 
-[Formation du personnel de GitHub sur l'esclavage moderne et la traite des êtres humains](#formation-du-personnel-de-github-sur-lesclavage-moderne-et-la-traite-des-êtres-humains)
+[Formation du personnel de GitHub sur l'esclavage moderne et la traite des êtres humains](#training-for-github-staff-about-modern-slavery-and-human-trafficking)
 ----------
 
 GitHub développe une formation moderne sur l'esclavage et le travail des enfants qui sera obligatoire pour tous les employés, en vue des activités et de la chaîne d'approvisionnement de GitHub. GitHub mettra l'accent sur les fournisseurs fournissant des services impliquant du travail manuel, tels que l'assistance aux événements, la construction, les services d'installations et les services de restauration, en tant que domaines de risque potentiel plus élevé.

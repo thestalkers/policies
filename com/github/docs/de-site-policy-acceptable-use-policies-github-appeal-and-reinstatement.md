@@ -61,7 +61,7 @@ In diesem Artikel
 
 * [Was sind Einsprüche und Wiedereinsetzungen?](#what-are-appeals-and-reinstatements)
 
-* [So funktioniert's](#so-funktionierts)
+* [So funktioniert's](#how-this-works)
 
 * [Transparenz](#transparency)
 
@@ -85,7 +85,7 @@ Eine „Wiedereinsetzung“ ist, wenn ein Benutzer den Zugriff auf sein Konto od
 
 Ein Einspruch liegt vor, wenn ein Benutzer bestreitet, dass ein Verstoß stattgefunden hat, und zusätzliche Informationen bereitstellen kann, um zu zeigen, dass eine andere Entscheidung hätte getroffen werden müssen.
 
-[So funktioniert's](#so-funktionierts)
+[So funktioniert's](#how-this-works)
 ----------
 
 Wenn Sie eine Wiedereinsetzung beantragen oder gegen einen Einspruch gegen eine Durchsetzungsmaßnahme auf GitHub oder npm einlegen möchten, füllen Sie bitte das entsprechende Formular aus:

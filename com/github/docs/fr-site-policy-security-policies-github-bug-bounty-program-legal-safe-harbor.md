@@ -63,7 +63,7 @@ Dans cet article
 
 * [2. Principes de protection des données (Safe Harbor) applicables aux tiers](#2-third-party-safe-harbor)
 
-* [3. Dérogation limitée aux règlements d'autres sites](#3-dérogation-limitée-aux-règlements-dautres-sites)
+* [3. Dérogation limitée aux règlements d'autres sites](#3-limited-waiver-of-other-site-policies)
 
 [Résumé](#summary)
 ----------
@@ -92,7 +92,7 @@ Veuillez noter que nous ne pouvons pas autoriser les tests hors champ d’applic
 
 Cela dit, en cas d’action légale intentée par un tiers, y compris par les forces de l’ordre, à votre encontre en raison de votre participation au présent programme Bug Bounty, si vous vous êtes suffisamment conformé au Règlement du programme Bug Bounty (autrement dit, si vous n’avez pas commis d’infractions intentionnelles ou de mauvaise foi), nous prendrons les mesures requises pour faire savoir que vos actions ont été menées conformément au présent Règlement. Bien que nous considérions les signalements soumis comme des documents confidentiels et potentiellement privilégiés devant être protégés contre toute divulgation contrainte dans la plupart des circonstances, sachez qu’un tribunal peut, malgré nos objections, nous enjoindre à partager ces informations avec un tiers.
 
-[3. Dérogation limitée aux règlements d'autres sites](#3-dérogation-limitée-aux-règlements-dautres-sites)
+[3. Dérogation limitée aux règlements d'autres sites](#3-limited-waiver-of-other-site-policies)
 ----------
 
 Dans la mesure où vos activités de recherche en lien avec la sécurité sont en contradiction avec certaines limitations imposées par les [règlements de nos sites concernés](/fr/site-policy), mais sont cohérentes avec les conditions de notre Bounty Program, nous dérogeons à ces limitations dans le seul et unique but d'autoriser vos recherches en lien avec la sécurité dans le cadre du présent Bounty Program. Encore une fois, en cas de doute, contactez-nous au préalable !

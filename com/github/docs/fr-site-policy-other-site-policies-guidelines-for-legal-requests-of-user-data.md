@@ -65,7 +65,7 @@ Dans cet article
 
 * [Nous aviserons tous les titulaires de compte concernés](#we-will-notify-any-affected-account-owners)
 
-* [Divulgation d'informations non publiques](#divulgation-dinformations-non-publiques)
+* [Divulgation d'informations non publiques](#disclosure-of-non-public-information)
 
 * [Remboursement des frais](#cost-reimbursement)
 
@@ -73,7 +73,7 @@ Dans cet article
 
 * [Soumettre des demandes](#submitting-requests)
 
-* [Demandes des forces de l'ordre étrangères](#demandes-des-forces-de-lordre-étrangères)
+* [Demandes des forces de l'ordre étrangères](#requests-from-foreign-law-enforcement)
 
 * [Questions](#questions)
 
@@ -224,7 +224,7 @@ Voici une liste non exhaustive des types de données que nous conservons sur les
 
 Notre politique est d'informer les utilisateurs de toute demande en attente concernant leurs comptes ou référentiels, à moins que la loi ou une ordonnance du tribunal ne nous interdise de le faire. Avant de divulguer des informations sur l'utilisateur, nous ferons un effort raisonnable pour informer les propriétaires de compte concernés en envoyant un message à leur adresse e-mail vérifiée en leur fournissant une copie de l'assignation à comparaître, de l'ordonnance du tribunal ou du mandat afin qu'ils puissent avoir la possibilité de contester le procédure judiciaire s'ils le souhaitent. Dans des circonstances d'urgence (rares), nous pouvons retarder la notification si nous déterminons qu'un délai est nécessaire pour éviter la mort ou un préjudice grave ou en raison d'une enquête en cours.
 
-[Divulgation d'informations non publiques](#divulgation-dinformations-non-publiques)
+[Divulgation d'informations non publiques](#disclosure-of-non-public-information)
 ----------
 
 Notre politique est de divulguer les informations non publiques des utilisateurs dans le cadre d'une enquête civile ou pénale uniquement avec le consentement de l'utilisateur ou à la réception d'une citation à comparaître valide, d'une demande d'enquête civile, d'une ordonnance du tribunal, d'un mandat de perquisition ou de toute autre procédure judiciaire valide similaire. Dans certaines circonstances urgentes (voir ci-dessous), nous pouvons également partager des informations limitées mais correspondant uniquement à la nature des circonstances, et nécessiterions une procédure judiciaire pour tout ce qui va au-delà.
@@ -309,11 +309,11 @@ Veuillez formuler vos demandes aussi spécifiques et précises que possible, en 
 
 Veuillez prévoir au moins deux semaines pour que nous puissions étudier votre demande.
 
-### [Avis relatif au projet de loi 1242 de l'Assemblée de l'État de Californie](#avis-relatif-au-projet-de-loi1242-de-lassemblée-de-létat-de-californie) ###
+### [Avis relatif au projet de loi 1242 de l'Assemblée de l'État de Californie](#california-assembly-bill-1242-notice) ###
 
 En soumettant une procédure légale à GitHub, vous attestez que la procédure légale n'est pas liée à la violation d'une loi qui crée une responsabilité pour les comportements liés à l'avortement qui sont légaux en Californie.
 
-[Demandes des forces de l'ordre étrangères](#demandes-des-forces-de-lordre-étrangères)
+[Demandes des forces de l'ordre étrangères](#requests-from-foreign-law-enforcement)
 ----------
 
 En tant que société américaine basée en Californie, GitHub n'est pas tenue de fournir des données aux gouvernements étrangers en réponse à une procédure judiciaire émise par des autorités étrangères.

@@ -57,7 +57,7 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
+* [Que faire si le nom d'utilisateur que je veux est déjà pris ?](#what-if-the-username-i-want-is-already-taken)
 
 * [Politique relative aux marques](#trademark-policy)
 
@@ -65,7 +65,7 @@ Dans cet article
 
 Les noms de compte GitHub sont disponibles selon le principe du premier arrivé, premier servi, et sont destinés à une utilisation immédiate et active.
 
-[Que faire si le nom d'utilisateur que je veux est déjà pris ?](#que-faire-si-le-nom-dutilisateur-que-je-veux-est-déjà-pris)
+[Que faire si le nom d'utilisateur que je veux est déjà pris ?](#what-if-the-username-i-want-is-already-taken)
 ----------
 
 Gardez à l'esprit que toutes les activités sur GitHub ne sont pas visibles publiquement ; les comptes sans activité visible peuvent être en cours d'utilisation active.

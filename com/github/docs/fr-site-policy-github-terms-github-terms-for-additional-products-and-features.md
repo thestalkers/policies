@@ -71,7 +71,7 @@ Dans cet article
 
 * [GitHub Copilot](#github-copilot)
 
-* [Importateur d'entreprise GitHub](#importateur-dentreprise-github)
+* [Importateur d'entreprise GitHub](#github-enterprise-importer)
 
 * [npm](#npm)
 
@@ -188,7 +188,7 @@ Si vous achetez via Microsoft, votre utilisation de GitHub Copilot est régie pa
 
 Pour tous les autres utilisateurs de GitHub Copilot, votre utilisation de GitHub Copilot est régie par la [Section J (fonctionnalités IA) des conditions d’utilisation du service GitHub](/fr/site-policy/github-terms/github-terms-of-service#j-ai-features-training-and-your-data).
 
-[Importateur d'entreprise GitHub](#importateur-dentreprise-github)
+[Importateur d'entreprise GitHub](#github-enterprise-importer)
 ----------
 
 Importer est un framework permettant d'exporter des données d'autres sources à importer sur la plateforme GitHub. Importer est fourni « TEL QUEL ».

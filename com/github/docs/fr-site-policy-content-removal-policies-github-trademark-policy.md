@@ -57,9 +57,9 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [Qu'est-ce qu'une violation de la politique de marque GitHub ?](#quest-ce-quune-violation-de-la-politique-de-marque-github)
+* [Qu'est-ce qu'une violation de la politique de marque GitHub ?](#what-is-a-github-trademark-policy-violation)
 
-* [Qu'est-ce qui n'est pas une violation de la politique de marque GitHub ?](#quest-ce-qui-nest-pas-une-violation-de-la-politique-de-marque-github)
+* [Qu'est-ce qui n'est pas une violation de la politique de marque GitHub ?](#what-is-not-a-github-trademark-policy-violation)
 
 * [Comment GitHub répond-il aux violations signalées de la politique en matière de marques ?](#how-does-github-respond-to-reported-trademark-policy-violations)
 
@@ -67,12 +67,12 @@ Dans cet article
 
 * [Quelles informations sont requises lors du signalement de violations de la politique en matière de marques ?](#what-information-is-required-when-reporting-trademark-policy-violations)
 
-[Qu'est-ce qu'une violation de la politique de marque GitHub ?](#quest-ce-quune-violation-de-la-politique-de-marque-github)
+[Qu'est-ce qu'une violation de la politique de marque GitHub ?](#what-is-a-github-trademark-policy-violation)
 ----------
 
 L'utilisation d'une société ou d'un nom commercial, d'un logo ou d'autres éléments protégés par une marque d'une manière susceptible d'induire en erreur ou de confondre les autres en ce qui concerne sa marque ou son affiliation commerciale peut être considérée comme une violation de la politique en matière de marques.
 
-[Qu'est-ce qui n'est pas une violation de la politique de marque GitHub ?](#quest-ce-qui-nest-pas-une-violation-de-la-politique-de-marque-github)
+[Qu'est-ce qui n'est pas une violation de la politique de marque GitHub ?](#what-is-not-a-github-trademark-policy-violation)
 ----------
 
 L'utilisation de la marque d'un tiers d'une manière qui n'a rien à voir avec le produit ou le service pour lequel la marque a été accordée n'est pas une violation de la politique relative aux marques. Les noms d'utilisateur GitHub sont disponibles selon le principe du premier arrivé, premier servi et ne peuvent pas être réservés. Un compte GitHub avec un nom d'utilisateur qui se trouve être le même qu'une marque déposée n'est pas, en soi, nécessairement une violation de notre politique en matière de marques.

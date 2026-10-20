@@ -137,6 +137,6 @@ GitHub peut céder ou déléguer le présent Accord, en tout ou en partie, à to
 
 Si une partie de cet accord est jugée invalide ou inapplicable, cette partie de l'accord sera interprétée pour refléter l'intention initiale des parties. Les parties restantes resteront en vigueur et de plein effet. Tout manquement de la part de GitHub à appliquer une disposition du présent Accord ne sera pas considéré comme une renonciation à notre droit d'appliquer cette disposition. Nos droits en vertu du présent Accord survivront à toute résiliation du présent Accord.
 
-### [4. Avenants ; Intégralité de l'Accord](#4-avenants-intégralité-de-laccord) ###
+### [4. Avenants ; Intégralité de l'Accord](#4-amendments-complete-agreement) ###
 
 Le présent Accord ne peut être modifié que par un document écrit signé par un représentant autorisé de GitHub. Le présent accord, ainsi que les conditions généralement applicables et la déclaration de confidentialité de GitHub, représentent la déclaration complète et exclusive de l'accord entre vous et nous. Le présent Accord remplace toute proposition ou accord préalable oral ou écrit, et toute autre communication entre vous et GitHub concernant l'objet de ces conditions, y compris tout accord de confidentialité ou de non-divulgation.

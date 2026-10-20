@@ -63,11 +63,11 @@ Dans cet article
 
 * [A. Comment cela fonctionne-t-il réellement ?](#a-how-does-this-actually-work)
 
-* [B. Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#b-quen-est-il-des-fourches-ou-quest-ce-quune-fourchette)
+* [B. Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#b-what-about-forks-or-whats-a-fork)
 
-* [C. Qu'en est-il des allégations de contournement ?](#c-quen-est-il-des-allégations-de-contournement)
+* [C. Qu'en est-il des allégations de contournement ?](#c-what-about-circumvention-claims)
 
-* [D. Que se passe-t-il si j'ai manqué par inadvertance la fenêtre pour apporter des modifications ?](#d-que-se-passe-t-il-si-jai-manqué-par-inadvertance-la-fenêtre-pour-apporter-des-modifications)
+* [D. Que se passe-t-il si j'ai manqué par inadvertance la fenêtre pour apporter des modifications ?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 
 * [E. Transparence](#e-transparency)
 
@@ -134,7 +134,7 @@ Voici les étapes de base du processus.
 
 8. **Le titulaire du droit d'auteur peut intenter une action en justice.** Si un titulaire de droits d'auteur souhaite garder le contenu désactivé après avoir reçu un avis de contestation, il devra engager une action en justice demandant une ordonnance du tribunal pour empêcher l'utilisateur de s'engager dans une activité de contrefaçon liée au contenu sur GitHub. En d'autres termes, vous pourriez être poursuivi. Si le titulaire des droits d'auteur ne prévient pas GitHub dans les 10 à 14 jours, en envoyant une copie d'une plainte légale valide déposée auprès d'un tribunal compétent, GitHub réactivera le contenu désactivé.
 
-[B. Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#b-quen-est-il-des-fourches-ou-quest-ce-quune-fourchette)
+[B. Qu'en est-il des fourches ? (ou Qu'est-ce qu'une fourchette ?)](#b-what-about-forks-or-whats-a-fork)
 ----------
 
 L'une des meilleures fonctionnalités de GitHub est la possibilité pour les utilisateurs de « fourcher » les référentiels les uns des autres. Qu'est-ce que cela signifie ? Essentiellement, cela signifie que les utilisateurs peuvent faire une copie d'un projet sur GitHub dans leurs propres référentiels. Comme la licence ou la loi le permet, les utilisateurs peuvent ensuite apporter des modifications à ce fork pour soit revenir au projet principal, soit simplement conserver leur propre variante d'un projet. Chacun de ces exemplaires est un « [glossaire GitHub](/fr/get-started/learning-about-github/github-glossary#fork) » du référentiel d'origine, qui à son tour peut également être appelé le « parent » du fork.
@@ -143,7 +143,7 @@ GitHub *ne désactive pas* automatiquement les forks lors de la désactivation d
 
 Dans de rares cas, vous pouvez alléguer une violation du droit d'auteur dans un référentiel complet qui est activement bifurqué. Si, au moment où vous avez soumis votre notification, vous avez identifié toutes les fourches existantes de ce référentiel comme étant prétendument en infraction, nous traiterons une réclamation valide contre toutes les fourches de ce réseau au moment où nous traiterons la notification. Nous le ferions étant donné la probabilité que toutes les fourches nouvellement créées contiendraient le même contenu. De plus, si le réseau signalé qui contient le contenu prétendument contrefaisant est plus grand que cent (100) référentiels et serait donc difficile à examiner dans son intégralité, nous pouvons envisager de désactiver l'ensemble du réseau si vous indiquez dans votre avis que, « Basé sur le nombre représentatif de fourches que j'ai examinées, je pense que toutes ou la plupart des fourches enfreignent dans la même mesure que le référentiel parent. » Votre déclaration sous serment s'appliquerait à cette déclaration.
 
-[C. Qu'en est-il des allégations de contournement ?](#c-quen-est-il-des-allégations-de-contournement)
+[C. Qu'en est-il des allégations de contournement ?](#c-what-about-circumvention-claims)
 ----------
 
 La DMCA interdit le [contournement des mesures techniques](https://www.copyright.gov/title17/92chap12.html) qui contrôlent efficacement l'accès aux œuvres protégées par le droit d'auteur. Étant donné que ces types de réclamations sont souvent de nature très technique, GitHub demande aux demandeurs de fournir [des informations détaillées sur ces réclamations](/fr/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), et nous entreprendrons alors un examen plus approfondi.
@@ -162,7 +162,7 @@ Veuillez noter que notre processus d'examen de la technologie de contournement n
 
 Lorsque GitHub traite une demande de retrait dans le cadre de la DMCA dans le cadre de notre processus d'examen des réclamations relatives aux technologies de contournement, nous proposons au propriétaire du référentiel de bénéficier gratuitement d'une consultation juridique indépendante par l'intermédiaire du [Fonds de Défense des Développeurs de GitHub](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/).
 
-[D. Que se passe-t-il si j'ai manqué par inadvertance la fenêtre pour apporter des modifications ?](#d-que-se-passe-t-il-si-jai-manqué-par-inadvertance-la-fenêtre-pour-apporter-des-modifications)
+[D. Que se passe-t-il si j'ai manqué par inadvertance la fenêtre pour apporter des modifications ?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
 ----------
 
 Nous reconnaissons qu'il existe de nombreuses raisons valables pour lesquelles vous ne pourrez peut-être pas apporter de modifications dans la fenêtre d'environ 1 jour ouvrable que nous fournissons avant que votre référentiel ne soit désactivé. Peut-être que notre message a été signalé comme spam, peut-être que vous étiez en vacances, peut-être que vous ne consultez pas ce compte de messagerie régulièrement, ou peut-être que vous étiez juste occupé. Nous avons compris. Si vous répondez pour nous faire savoir que vous auriez aimé apporter les modifications, mais que vous avez manqué la première occasion, nous réactiverons le référentiel une fois de plus pendant environ 1 jour ouvrable pour vous permettre d'apporter les modifications. Encore une fois, vous devez nous notifier que vous avez apporté les modifications pour pouvoir conserver le référentiel après ce délai d'environ 1 jour ouvrable, comme indiqué ci-dessus à [l'étape A.4](#a-how-does-this-actually-work). Veuillez noter que nous n'offrirons qu'une seule chance supplémentaire.

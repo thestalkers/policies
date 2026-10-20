@@ -59,9 +59,9 @@ Dans cet article
 
 * [Maintenir une communauté forte](#maintaining-a-strong-community)
 
-* [Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
+* [Que faire si quelque chose ou quelqu'un vous offense ?](#what-if-something-or-someone-offends-you)
 
-* [Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
+* [Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#what-happens-if-someone-violates-githubs-policies)
 
 * [Appel et rétablissement](#appeal-and-reinstatement)
 
@@ -86,7 +86,7 @@ L'objectif principal de la communauté GitHub est de collaborer sur des projets 
 
 * **Faites preuve d'empathie** : GitHub est une communauté mondiale composée de personnes issues d'horizons et de points de vue très divers, dont beaucoup peuvent ne pas être les vôtres. Essayez de vous mettre à la place des autres et de comprendre leurs sentiments avant de vous adresser à eux. Faites de votre mieux pour aider à faire de GitHub une communauté où les autres se sentent en sécurité pour apporter des contributions, participer à des discussions et partager différentes idées.
 
-[Que faire si quelque chose ou quelqu'un vous offense ?](#que-faire-si-quelque-chose-ou-quelquun-vous-offense)
+[Que faire si quelque chose ou quelqu'un vous offense ?](#what-if-something-or-someone-offends-you)
 ----------
 
 Bien que certains désaccords puissent être résolus par une communication directe et respectueuse entre les membres de la communauté, nous comprenons que ce n'est pas toujours le cas. Nous encourageons notre communauté à contacter le support GitHub via le [portail de support GitHub](https://support.github.com/) lorsqu'elle croit que le contenu ou l'activité qu'elle a rencontré enfreint nos stratégies. Cependant, si vous rencontrez quelque chose ou quelqu'un sur le site que vous trouvez répréhensible, voici quelques façons dont GitHub vous permet d'agir :
@@ -103,7 +103,7 @@ Bien que certains désaccords puissent être résolus par une communication dire
 
 Bien que nous ayons à cœur de permettre aux responsables de modérer leurs propres projets, veuillez contacter nous par le biais du portail si vous avez besoin d’une aide supplémentaire pour faire face à une situation.
 
-[Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#que-se-passe-t-il-si-quelquun-enfreint-les-politiques-de-github)
+[Que se passe-t-il si quelqu'un enfreint les politiques de GitHub ?](#what-happens-if-someone-violates-githubs-policies)
 ----------
 
 Nous nous appuyons sur les rapports de la communauté, ainsi que sur une détection proactive, pour nous assurer que GitHub est une plate-forme sûre, accueillante et productive pour les développeurs de logiciels. Il existe une variété de facteurs que nous prenons en compte lorsque nous sommes informés d'un comportement ou d'un contenu non conforme aux politiques de GitHub. Cependant, notre approche d'application des politiques et de modération du contenu donne la priorité à notre vision d'être la maison de tous les développeurs. Ça signifie :

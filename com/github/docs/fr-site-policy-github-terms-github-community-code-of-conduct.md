@@ -92,7 +92,7 @@ Traitez la Communauté GitHub avec respect. Nous sommes une ressource partagée 
 
 Les points suivants ne constituent pas des règles strictes, mais simplement des aides au jugement humain de notre communauté. Utilisez ces directives pour garder cet endroit propre et bien éclairé pour un discours public civilisé.
 
-### [*Meilleures pratiques pour le maintien d'une communauté forte*](#meilleures-pratiques-pour-le-maintien-dune-communauté-forte) ###
+### [*Meilleures pratiques pour le maintien d'une communauté forte*](#best-practices-for-maintaining-a-strong-community) ###
 
 L'objectif principal de la communauté GitHub est de collaborer sur des projets logiciels. Nous nous engageons à maintenir une communauté où les utilisateurs sont libres de s'exprimer et de contester les idées des autres, à la fois techniques et autres. En même temps, il est important que les utilisateurs restent respectueux et permettent aux autres de contribuer ouvertement. Afin de favoriser à la fois un environnement sûr et productif, nous encourageons les membres de notre communauté à consulter ces directives pour savoir comment ils interagissent sur notre plateforme. Ci-dessous, vous trouverez quelques suggestions sur la façon d'avoir des interactions réussies en tant que membre apprécié de la communauté GitHub.
 

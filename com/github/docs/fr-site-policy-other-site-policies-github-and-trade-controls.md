@@ -57,7 +57,7 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [Aperçu de l'exportation](#aperçu-de-lexportation)
+* [Aperçu de l'exportation](#export-overview)
 
 * [Questions fréquemment posées](#frequently-asked-questions)
 
@@ -69,7 +69,7 @@ En raison de notre plaidoyer et de notre travail acharné avec les organismes de
 
 Bien que nous ayons fourni les informations suivantes ci-dessous pour votre commodité, il est de votre responsabilité de vous assurer que votre utilisation des produits et services de GitHub est conforme à toutes les lois et réglementations applicables, y compris les lois américaines sur le contrôle des exportations.
 
-[Aperçu de l'exportation](#aperçu-de-lexportation)
+[Aperçu de l'exportation](#export-overview)
 ----------
 
 ### [GitHub.com](#githubcom) ###
@@ -105,7 +105,7 @@ GitHub Copilot ne peut être vendu, exporté ou réexporté vers une destination
 
 La Crimée, les régions séparatistes de Donetsk et Luhansk, Cuba, l’Iran et la Corée du Nord. En ce qui concerne l'Iran, cependant, GitHub dispose désormais d'une licence de l'Office of Foreign Assets Control (OFAC) du département du Trésor américain pour fournir des services cloud aux développeurs situés ou autrement résidents dans ce pays. Les services cloud GitHub, gratuits et payants, sont également généralement disponibles pour les développeurs situés à Cuba.
 
-### [Comment GitHub s'assure-t-il que les personnes qui ne vivent pas et/ou n'ont pas de liens professionnels avec les pays et territoires sanctionnés ont toujours accès ou peuvent faire appel ?](#comment-github-sassure-t-il-que-les-personnes-qui-ne-vivent-pas-etou-nont-pas-de-liens-professionnels-avec-les-pays-et-territoires-sanctionnés-ont-toujours-accès-ou-peuvent-faire-appel) ###
+### [Comment GitHub s'assure-t-il que les personnes qui ne vivent pas et/ou n'ont pas de liens professionnels avec les pays et territoires sanctionnés ont toujours accès ou peuvent faire appel ?](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
 
 Dans les rares cas où un compte est affecté involontairement ou par erreur, nous avons un processus d'appel pour traiter de tels cas.
 
@@ -115,7 +115,7 @@ Si un utilisateur individuel ou le propriétaire d’une organisation pense qu�
 
 Les déplacements dans ces régions peuvent avoir un impact sur l’état de votre compte, mais la disponibilité peut être rétablie une fois que vous êtes en dehors de la région autorisée.
 
-### [Qu'est-ce qui est disponible et non disponible ?](#quest-ce-qui-est-disponible-et-non-disponible) ###
+### [Qu'est-ce qui est disponible et non disponible ?](#what-is-available-and-not-available) ###
 
 GitHub dispose désormais d'une licence de l'OFAC pour fournir des services cloud aux développeurs situés ou résidant autrement dans le pays d'Iran sanctionné par les États-Unis. La licence comprend tous les services publics et privés pour les particuliers et les organisations, gratuits et payants. Les services cloud GitHub, gratuits et payants, sont également généralement disponibles pour les développeurs situés à Cuba.
 
@@ -133,7 +133,7 @@ Les services GitHub ne sont pas disponibles pour les développeurs situés ou au
 
 Si GitHub détermine qu'un utilisateur ou un client se trouve dans une région soumise à des restrictions de contrôle commercial américaines pour lesquelles GitHub n'a pas encore de licence du gouvernement américain, ou si un utilisateur est autrement restreint par des sanctions économiques américaines, alors le compte affilié seront limités pour se conformer à ces exigences légales. La détermination de l'emplacement de l'utilisateur et du client pour mettre en œuvre ces restrictions légales est dérivée d'un certain nombre de sources, y compris les adresses IP et l'historique des paiements. La nationalité et l'origine ethnique ne sont pas utilisées pour signaler les utilisateurs aux restrictions de sanctions.
 
-### [Comment les comptes de l'organisation sont-ils affectés ?](#comment-les-comptes-de-lorganisation-sont-ils-affectés) ###
+### [Comment les comptes de l'organisation sont-ils affectés ?](#how-are-organization-accounts-impacted) ###
 
 Si une organisation est basée sur, ou si les personnes clés ou les membres d'une organisation montrent des liens suffisants avec, un territoire ou un pays sanctionné pour lequel GitHub n'a pas encore de licence du gouvernement américain, ou si l'organisation semble autrement être soumise aux sanctions économiques américaines, le compte de l'organisation et le compte du propriétaire affilié seront restreints.
 
@@ -147,7 +147,7 @@ Les utilisateurs de comptes individuels gratuits peuvent rendre publics des réf
 
 Malheureusement, notre compréhension de la loi ne nous donne pas la possibilité d’autoriser les téléchargements ou la suppression du contenu d’un référentiel privé, sauf autorisation contraire du gouvernement américain pour des catégories spécifiques de restrictions commerciales. Nous plaiderons fortement, auprès des régulateurs américains, pour le droit des utilisateurs soumis à des restrictions commerciales de sécuriser le contenu de leurs référentiels privés. Nous plaiderons également pour une plus grande disponibilité des services GitHub pour les développeurs sur les marchés sanctionnés, et soulignerons davantage l'importance de la collaboration de code dans la prise en charge des communications personnelles pour les développeurs du monde entier.
 
-### [Sous la licence que GitHub a reçue de l'OFAC, quels types de comptes seront disponibles en Iran ?](#sous-la-licence-que-github-a-reçue-de-lofac-quels-types-de-comptes-seront-disponibles-en-iran) ###
+### [Sous la licence que GitHub a reçue de l'OFAC, quels types de comptes seront disponibles en Iran ?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
 
 La licence que nous avons obtenue comprend tous les services publics et privés, pour les particuliers et les organisations, gratuits et payants.
 

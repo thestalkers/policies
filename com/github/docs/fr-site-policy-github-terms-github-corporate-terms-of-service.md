@@ -57,7 +57,7 @@ Copier Markdown
 Dans cet article
 ----------
 
-* [Conditions d'utilisation de GitHub Corporate](#conditions-dutilisation-de-github-corporate)
+* [Conditions d'utilisation de GitHub Corporate](#github-corporate-terms-of-service)
 
 * [A. Définitions](#a-definitions)
 
@@ -103,7 +103,7 @@ Remarque
 
 Les conditions d’utilisation du service GitHub Corporate ont été déconseillées le 30 novembre 2021 et ne sont plus utilisées pour les nouveaux clients. Les termes ci-dessous s’appliquent *uniquement* aux clients GitHub avec des contrats exécutés qui référencent explicitement les conditions d’utilisation du service. Tous les autres clients professionnels ou institutionnels sont dirigés vers les conditions du Contrat client GitHub disponibles à [github.com/customer-terms](https://github.com/customer-terms).
 
-[Conditions d'utilisation de GitHub Corporate](#conditions-dutilisation-de-github-corporate)
+[Conditions d'utilisation de GitHub Corporate](#github-corporate-terms-of-service)
 ----------
 
 Date d'entrée en vigueur de la version : 16 novembre 2020
