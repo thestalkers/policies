@@ -66,22 +66,6 @@ else if(q.addListener)q.addListener(apply);
 
 Категория: Все категории
 
-Review privacy and security policies
-
-### [Cookie-файлы GitHub](/ru/site-policy/privacy-policies/github-cookies) ###
-
-Follow acceptable use policies
-
-### [GitHub Doxxing и вторжение в частную жизнь](/ru/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) ###
-
-Review company and general policies
-
-### [GitHub и управление торговлей](/ru/site-policy/other-site-policies/github-and-trade-controls) ###
-
-Follow acceptable use policies
-
-### [GitHub мешает работе других пользователей](/ru/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) ###
-
 Follow acceptable use policies
 
 ### [Активное вредоносное ПО или эксплойты GitHub](/ru/site-policy/acceptable-use-policies/github-active-malware-or-exploits) ###
@@ -101,6 +85,22 @@ Review product and program terms
 Review product and program terms
 
 ### [Договор с зарегистрированным разработчиком GitHub](/ru/site-policy/github-terms/github-registered-developer-agreement) ###
+
+Review privacy and security policies
+
+### [Дополнительные обработчики данных GitHub](/ru/site-policy/privacy-policies/github-subprocessors) ###
+
+Review product and program terms
+
+### [Дополнительные условия GitHub Sponsors](/ru/site-policy/github-terms/github-sponsors-additional-terms) ###
+
+Review company and general policies
+
+### [Заявление GitHub о борьбе со взяточничеством](/ru/site-policy/github-company-policies/github-anti-bribery-statement) ###
+
+Review company and general policies
+
+### [Заявление GitHub против современного рабства и детского труда](/ru/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor) ###
 
 Отображение {начало}-{конец} {всего}
 

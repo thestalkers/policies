@@ -68,7 +68,31 @@ else if(q.addListener)q.addListener(apply);
 
 Request content removal
 
-### [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy) ###
+### [提交内容删除请求](/zh/site-policy/content-removal-policies/submitting-content-removal-requests) ###
+
+Review privacy and security policies
+
+### [协调披露安全漏洞](/zh/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities) ###
+
+Review company and general policies
+
+### [用户数据法律请求准则](/zh/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data) ###
+
+Follow acceptable use policies
+
+### [在 GitHub 上进行人肉搜索和侵犯隐私](/zh/site-policy/acceptable-use-policies/github-doxxing-and-invasion-of-privacy) ###
+
+Follow acceptable use policies
+
+### [在 GitHub 上冒充他人](/zh/site-policy/acceptable-use-policies/github-impersonation) ###
+
+Follow acceptable use policies
+
+### [在 GitHub 上扰乱其他用户的体验](/zh/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) ###
+
+Request content removal
+
+### [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) ###
 
 Request content removal
 
@@ -76,31 +100,7 @@ Request content removal
 
 Request content removal
 
-### [DMCA 抗辩通知提交指南](/zh/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) ###
-
-Review privacy and security policies
-
-### [GitHub Bug 赏金计划法律安全港](/zh/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor) ###
-
-Review privacy and security policies
-
-### [GitHub Cookie](/zh/site-policy/privacy-policies/github-cookies) ###
-
-Review product and program terms
-
-### [GitHub Copilot 扩展开发人员策略](/zh/site-policy/github-terms/github-copilot-extension-developer-policy) ###
-
-Review product and program terms
-
-### [GitHub DPA 约束的预览版](/zh/site-policy/github-terms/github-dpa-previews) ###
-
-Review company and general policies
-
-### [GitHub GPL 合作承诺](/zh/site-policy/github-company-policies/github-gpl-cooperation-commitment) ###
-
-Review product and program terms
-
-### [GitHub Marketplace 开发人员协议](/zh/site-policy/github-terms/github-marketplace-developer-agreement) ###
+### [DMCA 下架政策](/zh/site-policy/content-removal-policies/dmca-takedown-policy) ###
 
 显示 57 的 1-9
 

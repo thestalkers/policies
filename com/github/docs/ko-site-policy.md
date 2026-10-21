@@ -66,6 +66,30 @@ GitHub의 서비스 이용약관, 허용 가능한 사용 정책, 개인정보�
 
 범주: 모든 범주
 
+Follow acceptable use policies
+
+### [다른 사용자의 경험을 방해하는 GitHub](/ko/site-policy/acceptable-use-policies/github-disrupting-the-experience-of-other-users) ###
+
+Review company and general policies
+
+### [법적 사용자 데이터 요청을 위한 가이드라인](/ko/site-policy/other-site-policies/guidelines-for-legal-requests-of-user-data) ###
+
+Review privacy and security policies
+
+### [조정된 보안 취약점 공개](/ko/site-policy/security-policies/coordinated-disclosure-of-security-vulnerabilities) ###
+
+Review privacy and security policies
+
+### [지원자를 위한 GitHub 글로벌 데이터 개인 정보 보호 고지](/ko/site-policy/privacy-policies/github-candidate-privacy-policy) ###
+
+Request content removal
+
+### [콘텐츠 제거 요청 제출](/ko/site-policy/content-removal-policies/submitting-content-removal-requests) ###
+
+Review company and general policies
+
+### [현대 노예제 및 미성년 노동에 반대하는 GitHub 성명서](/ko/site-policy/github-company-policies/github-statement-against-modern-slavery-and-child-labor) ###
+
 Request content removal
 
 ### [DMCA 게시 중단 정책](/ko/site-policy/content-removal-policies/dmca-takedown-policy) ###
@@ -77,30 +101,6 @@ Request content removal
 Request content removal
 
 ### [DMCA 반론 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) ###
-
-Review product and program terms
-
-### [GitHub Copilot 확장 개발자 정책](/ko/site-policy/github-terms/github-copilot-extension-developer-policy) ###
-
-Review product and program terms
-
-### [GitHub DPA 포함 미리 보기](/ko/site-policy/github-terms/github-dpa-previews) ###
-
-Review company and general policies
-
-### [GitHub GPL 협력 약정](/ko/site-policy/github-company-policies/github-gpl-cooperation-commitment) ###
-
-Review product and program terms
-
-### [GitHub Marketplace 개발자 계약](/ko/site-policy/github-terms/github-marketplace-developer-agreement) ###
-
-Review product and program terms
-
-### [GitHub Marketplace 서비스 약관](/ko/site-policy/github-terms/github-marketplace-terms-of-service) ###
-
-Review product and program terms
-
-### [GitHub Research 프로그램 약관](/ko/site-policy/github-terms/github-research-program-terms) ###
 
 57의 1-9 표시
 
