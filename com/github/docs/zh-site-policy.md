@@ -50,7 +50,7 @@ else if(q.addListener)q.addListener(apply);
 
 查看 GitHub 的服务条款、可接受使用政策、隐私做法、内容删除流程及其他站点政策。
 
-[概述](/site-policy/github-terms/github-terms-of-service)
+[概述](/zh/site-policy/github-terms/github-terms-of-service)
 
 建议
 ----------

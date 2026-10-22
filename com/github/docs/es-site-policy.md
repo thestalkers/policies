@@ -50,7 +50,7 @@ Documentación de la directiva del sitio
 
 Consulte los términos del servicio, las directivas de uso aceptable, las prácticas de privacidad, los procedimientos de eliminación de contenido y otras directivas del sitio de GitHub.
 
-[Información general](/site-policy/github-terms/github-terms-of-service)
+[Información general](/es/site-policy/github-terms/github-terms-of-service)
 
 Recomendado
 ----------

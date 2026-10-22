@@ -50,7 +50,7 @@ else if(q.addListener)q.addListener(apply);
 
 Просмотрите условия предоставления услуг GitHub, политику допустимого использования, практики конфиденциальности, процедуры удаления контента и другие политики сайта.
 
-[Обзор](/site-policy/github-terms/github-terms-of-service)
+[Обзор](/ru/site-policy/github-terms/github-terms-of-service)
 
 Рекомендуемая конфигурация
 ----------

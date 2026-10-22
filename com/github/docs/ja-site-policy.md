@@ -50,7 +50,7 @@ else if(q.addListener)q.addListener(apply);
 
 GitHub のサービス使用条件、許容できる使用ポリシー、プライバシー プラクティス、コンテンツの削除手順、およびその他のサイト ポリシーを確認します。
 
-[概要](/site-policy/github-terms/github-terms-of-service)
+[概要](/ja/site-policy/github-terms/github-terms-of-service)
 
 推奨
 ----------

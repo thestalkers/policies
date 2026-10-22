@@ -50,7 +50,7 @@ Site policy documentation
 
 Review GitHub's terms of service, acceptable use policies, privacy practices, content removal procedures, and other site policies.
 
-[Overview](/site-policy/github-terms/github-terms-of-service)
+[Overview](/en/site-policy/github-terms/github-terms-of-service)
 
 Recommended
 ----------
