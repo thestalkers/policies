@@ -55,11 +55,11 @@ Consultez les conditions d’utilisation du service, les stratégies d’utilisa
 Recommandé
 ----------
 
-### [Conditions Générales d’Utilisation de GitHub](/fr/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service) ###
 
-### [Déclaration de confidentialité générale GitHub](/fr/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [Déclaration de confidentialité générale GitHub](/fr/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [Politiques d’utilisation acceptable de GitHub](/fr/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [Politiques d’utilisation acceptable de GitHub](/fr/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 Articles
 ----------

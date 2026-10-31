@@ -55,11 +55,11 @@ Dokumentation zur Websiterichtlinie
 Empfohlen
 ----------
 
-### [GitHub-Nutzungsbedingungen](/de/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [GitHub-Nutzungsbedingungen](/de/site-policy/github-terms/github-terms-of-service) ###
 
-### [Allgemeine Datenschutzerklärung für GitHub](/de/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [Allgemeine Datenschutzerklärung für GitHub](/de/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [GitHub-Richtlinien zur akzeptablen Nutzung](/de/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [GitHub-Richtlinien zur akzeptablen Nutzung](/de/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 Artikel
 ----------

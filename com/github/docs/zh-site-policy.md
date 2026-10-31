@@ -55,11 +55,11 @@ else if(q.addListener)q.addListener(apply);
 建议
 ----------
 
-### [GitHub 服务条款](/zh/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [GitHub 服务条款](/zh/site-policy/github-terms/github-terms-of-service) ###
 
-### [GitHub 一般隐私声明](/zh/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [GitHub 一般隐私声明](/zh/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [GitHub 可接受使用政策](/zh/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [GitHub 可接受使用政策](/zh/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 文章
 ----------

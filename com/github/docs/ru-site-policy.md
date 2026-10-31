@@ -55,11 +55,11 @@ else if(q.addListener)q.addListener(apply);
 Рекомендуемая конфигурация
 ----------
 
-### [Условия обслуживания GitHub](/ru/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [Условия обслуживания GitHub](/ru/site-policy/github-terms/github-terms-of-service) ###
 
-### [Общие заявления о конфиденциальности GitHub](/ru/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [Общие заявления о конфиденциальности GitHub](/ru/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [Политики допустимого использования GitHub](/ru/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [Политики допустимого использования GitHub](/ru/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 Статьи
 ----------

@@ -55,11 +55,11 @@ GitHub의 서비스 이용약관, 허용 가능한 사용 정책, 개인정보�
 추천됨
 ----------
 
-### [GitHub 서비스 약관](/ko/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [GitHub 서비스 약관](/ko/site-policy/github-terms/github-terms-of-service) ###
 
-### [GitHub 일반 개인정보처리방침](/ko/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [GitHub 일반 개인정보처리방침](/ko/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [GitHub 사용 제한 정책](/ko/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [GitHub 사용 제한 정책](/ko/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 기사
 ----------

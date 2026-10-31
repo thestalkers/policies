@@ -55,11 +55,11 @@ Consulte os termos de serviço, as políticas de uso aceitável, as práticas de
 Recomendada
 ----------
 
-### [Termos de Serviço do GitHub](/pt/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [Termos de Serviço do GitHub](/pt/site-policy/github-terms/github-terms-of-service) ###
 
-### [Declaração Geral de Privacidade do GitHub](/pt/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [Declaração Geral de Privacidade do GitHub](/pt/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [Políticas de uso aceitável do GitHub](/pt/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [Políticas de uso aceitável do GitHub](/pt/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 Artigos
 ----------

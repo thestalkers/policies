@@ -55,11 +55,11 @@ Review GitHub's terms of service, acceptable use policies, privacy practices, co
 Recommended
 ----------
 
-### [GitHub Terms of Service](/en/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [GitHub Terms of Service](/en/site-policy/github-terms/github-terms-of-service) ###
 
-### [GitHub General Privacy Statement](/en/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [GitHub General Privacy Statement](/en/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [GitHub Acceptable Use Policies](/en/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [GitHub Acceptable Use Policies](/en/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 Articles
 ----------

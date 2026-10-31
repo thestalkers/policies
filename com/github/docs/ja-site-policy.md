@@ -55,11 +55,11 @@ GitHub のサービス使用条件、許容できる使用ポリシー、プラ�
 推奨
 ----------
 
-### [GitHub のサービス使用条件](/ja/free-pro-team@latest/site-policy/github-terms/github-terms-of-service) ###
+### [GitHub のサービス使用条件](/ja/site-policy/github-terms/github-terms-of-service) ###
 
-### [GitHub の一般プライバシー ステートメント](/ja/free-pro-team@latest/site-policy/privacy-policies/github-general-privacy-statement) ###
+### [GitHub の一般プライバシー ステートメント](/ja/site-policy/privacy-policies/github-general-privacy-statement) ###
 
-### [GitHub 利用規約](/ja/free-pro-team@latest/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
+### [GitHub 利用規約](/ja/site-policy/acceptable-use-policies/github-acceptable-use-policies) ###
 
 記事
 ----------
