@@ -58,6 +58,9 @@ GitHub-Bedingungen
 [GitHub-Nutzungsbedingungen für zusätzliche Produkte und Funktionen](/de/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
+[GitHub Partner Success Offering Terms](/de/site-policy/github-terms/github-partner-success-offering-terms)
+----------
+
 [GitHub-Community-Richtlinien](/de/site-policy/github-terms/github-community-guidelines)
 ----------
 

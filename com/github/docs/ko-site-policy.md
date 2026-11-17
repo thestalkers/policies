@@ -102,6 +102,6 @@ Request content removal
 
 ### [DMCA 반론 통지 제출 가이드](/ko/site-policy/content-removal-policies/guide-to-submitting-a-dmca-counter-notice) ###
 
-57의 1-9 표시
+58의 1-9 표시
 
 [Previous]()[1](#1)[2](#2)[3](#3)[4](#4)[5](#5)[6](#6)[7](#7)[Next](#2)

@@ -58,6 +58,9 @@ GitHub 条款
 [GitHub 附加产品和功能条款](/zh/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
+[GitHub Partner Success Offering Terms](/zh/site-policy/github-terms/github-partner-success-offering-terms)
+----------
+
 [GitHub 社区指导方针](/zh/site-policy/github-terms/github-community-guidelines)
 ----------
 

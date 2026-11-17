@@ -58,6 +58,9 @@ Termos do GitHub
 [Termos do GitHub para produtos e recursos adicionais](/pt/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
+[GitHub Partner Success Offering Terms](/pt/site-policy/github-terms/github-partner-success-offering-terms)
+----------
+
 [Diretrizes da comunidade do GitHub](/pt/site-policy/github-terms/github-community-guidelines)
 ----------
 

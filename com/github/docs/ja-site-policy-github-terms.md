@@ -58,6 +58,9 @@ GitHub 条件
 [追加の製品および機能に適用される GitHub 条件](/ja/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
+[GitHub Partner Success Offering Terms](/ja/site-policy/github-terms/github-partner-success-offering-terms)
+----------
+
 [GitHub コミュニティ ガイドライン](/ja/site-policy/github-terms/github-community-guidelines)
 ----------
 
