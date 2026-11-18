@@ -323,4 +323,4 @@ GitHub 将迅速答复美国法院通过司法互助条约（“MLAT）或委托
 [问题](#questions)
 ----------
 
-您是否有其他问题、评论或建议？ 请联系 通过网站管理员[GitHub支持门户](https://support.github.com)。
+您是否有其他问题、评论或建议？ 请联系 通过[GitHub 支持门户](https://support.github.com)或联系您的站点管理员。

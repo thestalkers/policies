@@ -323,4 +323,4 @@ GitHub responderá de inmediato a las solicitudes que se emitan a través de un 
 [Preguntas](#questions)
 ----------
 
-¿Tiene otras preguntas, comentarios o sugerencias? Póngase en contacto connosotros a través del portal .
+¿Tiene otras preguntas, comentarios o sugerencias? Póngase en contacto concon nosotros a través del [portal de Soporte de GitHub](https://support.github.com).

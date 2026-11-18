@@ -323,4 +323,4 @@ GitHub répondra rapidement aux demandes émises par l'intermédiaire d'un tribu
 [Questions](#questions)
 ----------
 
-Avez-vous d'autres questions, commentaires ou suggestions ? Veuillez contacter nous par le biais du portail .
+Avez-vous d'autres questions, commentaires ou suggestions ? Veuillez contacter contactez-nous via le [portail GitHub Support](https://support.github.com).

@@ -323,4 +323,4 @@ O GitHub responderá prontamente às solicitações emitidas por meio de um trib
 [Dúvidas](#questions)
 ----------
 
-Você tem outras perguntas, comentários ou sugestões? Entre em contato com nos por meio do portal .
+Você tem outras perguntas, comentários ou sugestões? Entre em contato com Contate-nos por meio do portal [GitHub Support](https://support.github.com).
