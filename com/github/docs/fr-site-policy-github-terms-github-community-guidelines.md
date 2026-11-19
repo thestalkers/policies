@@ -41,7 +41,7 @@ Développer la barre latérale
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. [Termes GitHub](/fr/site-policy/github-terms)
+3. [Conditions GitHub](/fr/site-policy/github-terms)
 4. Directives de la communauté GitHub
 
 [Site policy](/fr/site-policy)

@@ -58,7 +58,7 @@ GitHub 약관
 [GitHub 추가 제품 및 기능 약관](/ko/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub Partner Success Offering Terms](/ko/site-policy/github-terms/github-partner-success-offering-terms)
+[GitHub 파트너 성공 상품 약관](/ko/site-policy/github-terms/github-partner-success-offering-terms)
 ----------
 
 [GitHub 커뮤니티 지침](/ko/site-policy/github-terms/github-community-guidelines)

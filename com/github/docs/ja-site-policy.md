@@ -94,13 +94,13 @@ Review product and program terms
 
 ### [GitHub Marketplace 開発者契約](/ja/site-policy/github-terms/github-marketplace-developer-agreement) ###
 
-Review product and program terms
-
-### [GitHub Partner Success Offering Terms](/ja/site-policy/github-terms/github-partner-success-offering-terms) ###
-
 Review privacy and security policies
 
 ### [GitHub SIRT の説明 RFC 2350](/ja/site-policy/security-policies/github-sirt-description-rfc-2350) ###
+
+Review company and general policies
+
+### [GitHub アカウント回復ポリシー](/ja/site-policy/other-site-policies/github-account-recovery-policy) ###
 
 58 の 1-9 の表示
 

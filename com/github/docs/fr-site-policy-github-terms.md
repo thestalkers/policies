@@ -1,4 +1,4 @@
-Termes GitHub - Documentation GitHub(function(){
+Conditions GitHub - Documentation GitHub(function(){
 var MODES=["auto","light","dark"],THEMES=["light","dark","dark\_dimmed","dark\_high\_contrast"],D={"colorMode":"auto","lightTheme":"light","darkTheme":"dark"};
 var css=D;
 try{
@@ -41,12 +41,12 @@ Développer la barre latérale
 
 1. [Accueil](/fr)
 2. [Politique du site](/fr/site-policy)
-3. Termes GitHub
+3. Conditions GitHub
 
 [Site policy](/fr/site-policy)
 ----------
 
-Termes GitHub
+Conditions GitHub
 ==========
 
 [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service)
@@ -58,7 +58,7 @@ Termes GitHub
 [Conditions GitHub pour les produits et fonctionnalités supplémentaires](/fr/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub Partner Success Offering Terms](/fr/site-policy/github-terms/github-partner-success-offering-terms)
+[Conditions du Service Partner Success de GitHub](/fr/site-policy/github-terms/github-partner-success-offering-terms)
 ----------
 
 [Directives de la communauté GitHub](/fr/site-policy/github-terms/github-community-guidelines)

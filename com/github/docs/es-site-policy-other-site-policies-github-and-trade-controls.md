@@ -105,17 +105,17 @@ GitHub Copilot no puede venderse, exportarse ni reexportarse sin autorización a
 
 Crimea, las zonas separatistas de Donetsk y Luhansk, Cuba, Irán y Corea del Norte. Sin embargo, con respecto a Irán, GitHub ahora tiene una licencia de la Oficina de Control de Activos Extranjeros (OFAC) del Departamento del Tesoro de EE. UU. para proporcionar servicios en la nube a desarrolladores ubicados o residentes en ese país. Los servicios en la nube de GitHub, tanto gratuitos como de pago, también están generalmente disponibles para los desarrolladores ubicados en Cuba.
 
-### [¿Cómo garantiza GitHub que las personas que no viven ni tienen vínculos profesionales con los países y territorios sancionados aún tienen acceso o capacidad para apelar?](#how-is-github-ensuring-that-folks-not-living-in-andor-having-professional-links-to-the-sanctioned-countries-and-territories-still-have-access-or-ability-to-appeal) ###
+### [¿Cómo garantiza GitHub que las personas que no viven ni tienen vínculos profesionales con los países y territorios sancionados aún tienen acceso o capacidad para apelar?](#will-traveling-in-these-regions-be-impacted) ###
 
 En el raro caso de que una cuenta se vea afectada sin querer o por error, contamos con un proceso de apelación para abordar tales casos.
 
 Si un usuario individual o el propietario de una organización cree que se lo ha designado por error, ese usuario tiene la oportunidad de apelar la designación aportando información de verificación a GitHub. Si GitHub recibe información suficiente para verificar que el usuario o la organización no está afiliado a una jurisdicción sancionada por los EE. UU. para la cual no tenemos una licencia o está restringida por las sanciones económicas de los EE. UU., se eliminará la bandera. Póngase en contacto con el [soporte técnico](https://support.github.com/request) para obtener ayuda.
 
-### [¿Se verán afectados los viajes en estas regiones?](#will-traveling-in-these-regions-be-impacted) ###
+### [¿Se verán afectados los viajes en estas regiones?](#what-is-available-and-not-available) ###
 
 Viajar en estas regiones puede afectar al estado de la cuenta, pero la disponibilidad se puede restablecer una vez que esté fuera de la región autorizada.
 
-### [¿Qué está disponible y no disponible?](#what-is-available-and-not-available) ###
+### [¿Qué está disponible y no disponible?](#how-do-you-define-these-specific-users) ###
 
 GitHub ahora tiene una licencia de OFAC para proporcionar servicios en la nube a desarrolladores ubicados o residentes en el país sancionado por EE. UU. de Irán. La licencia incluye todos los servicios públicos y privados para personas y organizaciones, tanto gratuitos como de pago. Los servicios en la nube de GitHub, tanto gratuitos como de pago, también están generalmente disponibles para los desarrolladores ubicados en Cuba.
 
@@ -129,25 +129,25 @@ Los ciudadanos especialmente designados (SDN), otras partes denegadas o bloquead
 
 Los servicios de GitHub no están disponibles para desarrolladores ubicados o residentes en Corea del Norte.
 
-### [¿Cómo define a estos usuarios específicos?](#how-do-you-define-these-specific-users) ###
+### [¿Cómo define a estos usuarios específicos?](#how-are-organization-accounts-impacted) ###
 
 Si GitHub determina que un usuario o cliente se encuentra en una región que está sujeta a restricciones de control comercial de EE. UU. para la cual GitHub aún no tiene una licencia del gobierno de EE. UU., o que un usuario está restringido por sanciones económicas de EE. UU., entonces la cuenta afiliada estará restringida para cumplir con esos requisitos legales. La determinación de la ubicación del usuario y del cliente para implementar estas restricciones legales se deriva de varias fuentes, incluidas las direcciones IP y el historial de pagos. La nacionalidad y el origen étnico no se utilizan para marcar a los usuarios para las restricciones de sanciones.
 
-### [¿Cómo se ven afectadas las cuentas de la organización?](#how-are-organization-accounts-impacted) ###
+### [¿Cómo se ven afectadas las cuentas de la organización?](#can-trade-restricted-users-private-repositories-be-made-public) ###
 
 Si una organización tiene su sede, o las personas clave o la membresía de una organización muestran vínculos suficientes con un territorio o país sancionado para el cual GitHub aún no tiene una licencia del gobierno de EE. UU., o si la organización parece estar sujeta a a las sanciones económicas de EE. UU., la cuenta de la organización y la cuenta del propietario afiliado serán restringidas.
 
 La restricción suspende el acceso a los servicios de repositorios privados y servicios pagos, como la disponibilidad de repositorios privados gratuitos o pagos, esencias secretas, minutos de acción pagados, patrocinadores y servicios de GitHub Marketplace. Para cuentas organizacionales pagas asociadas con dichas regiones sancionadas, los usuarios pueden tener acceso limitado a sus repositorios públicos, que han sido degradados a repositorios archivados de solo lectura. Para las cuentas de organizaciones gratuitas asociadas con dichas regiones sancionadas, los usuarios seguirán teniendo acceso total a repositorios públicos gratuitos para proyectos de código abierto (y páginas públicas asociadas), esencias públicas y minutos de acción gratuitos asignados.
 
-### [¿Pueden hacerse públicos los repositorios privados de usuarios con comercio restringido?](#can-trade-restricted-users-private-repositories-be-made-public) ###
+### [¿Pueden hacerse públicos los repositorios privados de usuarios con comercio restringido?](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
 
 Los usuarios de cuentas individuales gratuitas pueden hacer públicos los repositorios privados restringidos, solo para comunicaciones personales y no con fines comerciales. Los usuarios pueden hacer esto navegando a la pestaña de configuración del repositorio y haciendo clic en el botón "hacer público". Una vez que el repositorio es público, los usuarios tienen acceso a los servicios de repositorios públicos. Esta acción no se puede deshacer.
 
-### [¿Pueden los usuarios con restricciones comerciales acceder a los datos del repositorio privado (p. ej., descarga o eliminación de datos del repositorio)?](#can-trade-restricted-users-access-private-repository-data-eg-downloading-or-deletion-of-repository-data) ###
+### [¿Pueden los usuarios con restricciones comerciales acceder a los datos del repositorio privado (p. ej., descarga o eliminación de datos del repositorio)?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
 
 Lamentablemente, según nuestra interpretación de la ley, no tenemos la opción de permitir la descarga o eliminación de contenido de repositorios privados hasta que el gobierno de EE. UU. lo autorice, para categorías específicas de restricciones comerciales. Defenderemos firmemente, con los reguladores de EE. UU., el derecho de los usuarios con restricciones comerciales a proteger los contenidos de sus repositorios privados. También abogaremos por una mayor disponibilidad de los servicios de GitHub para los desarrolladores en los mercados sancionados y subrayaremos aún más la importancia de la colaboración de código para respaldar las comunicaciones personales de los desarrolladores a nivel mundial.
 
-### [Según la licencia que GitHub recibió de la OFAC, ¿qué tipos de cuentas estarán disponibles en Irán?](#under-the-license-github-has-received-from-ofac-which-types-of-accounts-will-be-available-in-iran) ###
+### [Según la licencia que GitHub recibió de la OFAC, ¿qué tipos de cuentas estarán disponibles en Irán?](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
 
 La licencia que hemos obtenido incluye todos los servicios públicos y privados, para particulares y organizaciones, tanto gratuitos como de pago.
 
@@ -157,11 +157,11 @@ Los ciudadanos especialmente designados (SDN), otras partes denegadas o bloquead
 
 Si GitHub determina que una persona u organización se encuentra en una categoría restringida (SDN, otras partes bloqueadas o ciertos funcionarios gubernamentales), se marcará su cuenta y no podrá usar ninguna función de GitHub. Si creen que han sido marcados por error, tienen la oportunidad de apelar la marca proporcionando información de verificación a GitHub. Si es necesario, póngase en contacto con el [soporte técnico](https://support.github.com/request). Si GitHub recibe información suficiente para verificar que la persona no se encuentra en una categoría restringida por las sanciones económicas de EE. UU., se eliminará la bandera.
 
-### [¿Los usuarios iraníes de GitHub podrán usar servicios pagos bajo la licencia?](#will-iranian-github-users-be-able-to-use-paid-services-under-the-license) ###
+### [¿Los usuarios iraníes de GitHub podrán usar servicios pagos bajo la licencia?](#can-you-clarify-availability-of-github-to-cuban-developers) ###
 
 De acuerdo con la licencia que recibimos de la OFAC, estamos restaurando todos los servicios en la nube para los usuarios iraníes, incluidos los servicios pagos. Aceptamos las principales tarjetas de crédito, pero terceros procesan los pagos por nosotros, por lo que los pagos están sujetos a los términos y condiciones de nuestros procesadores de pagos. Esos terceros pueden incluir restricciones que bloqueen los pagos de Irán.
 
-### [¿Puede aclarar la disponibilidad de GitHub para los desarrolladores cubanos?](#can-you-clarify-availability-of-github-to-cuban-developers) ###
+### [¿Puede aclarar la disponibilidad de GitHub para los desarrolladores cubanos?](#puede-aclarar-la-disponibilidad-de-github-para-los-desarrolladores-cubanos) ###
 
 Los servicios en la nube de GitHub, tanto gratuitos como de pago, están generalmente disponibles para los desarrolladores ubicados en Cuba.
 Los ciudadanos especialmente designados (SDN), otras partes denegadas o bloqueadas según las leyes de EE. UU. y otras leyes aplicables, y ciertos funcionarios gubernamentales pueden tener restricciones para acceder o usar GitHub, donde sea que se encuentren. Además, los usuarios no pueden usar GitHub.com para o en nombre de dichas partes, generalmente incluidos los gobiernos de los países sancionados.

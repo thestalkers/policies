@@ -58,7 +58,7 @@ else if(q.addListener)q.addListener(apply);
 [Условия GitHub для дополнительных продуктов и функций](/ru/site-policy/github-terms/github-terms-for-additional-products-and-features)
 ----------
 
-[GitHub Partner Success Offering Terms](/ru/site-policy/github-terms/github-partner-success-offering-terms)
+[Условия предоставления услуги Partner Success партнерам GitHub](/ru/site-policy/github-terms/github-partner-success-offering-terms)
 ----------
 
 [Правила сообщества GitHub](/ru/site-policy/github-terms/github-community-guidelines)

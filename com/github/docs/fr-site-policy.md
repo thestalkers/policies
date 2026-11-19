@@ -100,7 +100,7 @@ Review product and program terms
 
 Review product and program terms
 
-### [Conditions Générales d’Utilisation de GitHub](/fr/site-policy/github-terms/github-terms-of-service) ###
+### [Conditions du Service Partner Success de GitHub](/fr/site-policy/github-terms/github-partner-success-offering-terms) ###
 
 Affichage de 1-9 de 58
 
